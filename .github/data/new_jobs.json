@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Solution Engineer Manager",
+    "job_title": "Azure GBB Solution Engineer – Cloud & AI Infrastructure (VMware)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849190",
-    "job_posted_at_datetime_utc": "2025-08-12T13:03:22.680Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860226",
+    "job_posted_at_datetime_utc": "2025-08-12T13:47:04.414Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-manager-redmond"
+    "id": "microsoft-azure-gbb-solution-engineer-cloud-ai-infrastructure-vmware-redmond"
   },
   {
-    "job_title": "Solution Engineer - Cloud & AI Data Platform",
+    "job_title": "Solution Engineer - AI Business Solutions",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828692",
-    "job_posted_at_datetime_utc": "2025-08-12T13:03:22.680Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855344",
+    "job_posted_at_datetime_utc": "2025-08-12T13:47:04.414Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-data-platform-redmond"
+    "id": "microsoft-solution-engineer-ai-business-solutions-redmond"
   },
   {
-    "job_title": "Solution Engineer - Cloud & AI Azure Platform",
+    "job_title": "AI Business Process Sales and Service Solution Engineer (SE) - German Speaker",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1828448",
-    "job_posted_at_datetime_utc": "2025-08-12T13:03:22.680Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847326",
+    "job_posted_at_datetime_utc": "2025-08-12T13:47:04.414Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-azure-platform-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineer - Security & Compliance - Cloud Protection",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852774",
-    "job_posted_at_datetime_utc": "2025-08-12T13:03:22.680Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-security-compliance-cloud-protection-redmond"
+    "id": "microsoft-ai-business-process-sales-and-service-solution-engineer-se-german-speaker-redmond"
   }
 ]
