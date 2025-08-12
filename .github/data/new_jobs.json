@@ -1,45 +1,68 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Engineering Analyst",
+    "job_title": "Software Development Engineer, Nitro SSD",
+    "employer_name": "Amazon",
     "job_city": "Seattle",
     "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057096/software-development-engineer-nitro-ssd",
+    "job_posted_at": "2025-08-12T15:35:25.461Z",
+    "job_posted_at_datetime_utc": "2025-08-12T15:35:25.461Z",
+    "id": "amazon-software-development-engineer-nitro-ssd-seattle"
+  },
+  {
+    "job_title": "Software Development Engineer, Nitro SSD",
+    "employer_name": "Amazon",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3057181/software-development-engineer-nitro-ssd",
+    "job_posted_at": "2025-08-12T00:00:00.000Z",
+    "job_posted_at_datetime_utc": "2025-08-12T00:00:00.000Z",
+    "id": "amazon-software-development-engineer-nitro-ssd-cupertino"
+  },
+  {
+    "job_title": "Software Engineering Manager, Product",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +10 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1901003240752810",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior Engineering Analyst, AI Safety, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/135842810837246662-senior-engineering-analyst-ai-safety-trust-and-safety?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
-    "id": "google-senior-engineering-analyst-seattle"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-product-sunnyvale"
   },
   {
-    "job_title": "Sr. Technical Support Engineer (SCIM Compliance)",
+    "job_title": "Senior Fleet Engineering Debugger",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852766",
-    "job_posted_at_datetime_utc": "2025-08-12T15:37:29.305Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847732",
+    "job_posted_at_datetime_utc": "2025-08-12T16:42:20.110Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-technical-support-engineer-scim-compliance-redmond"
+    "id": "microsoft-senior-fleet-engineering-debugger-redmond"
   },
   {
-    "job_title": "Sr. Technical Support Engineer (SCIM - Endpoint)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852769",
-    "job_posted_at_datetime_utc": "2025-08-12T15:37:29.305Z",
+    "job_title": "Staff Software Engineer - AI Systems ",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6915455?gh_jid=6915455",
+    "job_posted_at_datetime_utc": "2025-08-12T15:59:34.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-sr-technical-support-engineer-scim-endpoint-redmond"
+    "id": "airbnb-staff-software-engineer-ai-systems-united-states"
   },
   {
-    "job_title": "Integration Reliability Engineer, Technical Operations, Link",
-    "employer_name": "Stripe",
-    "job_city": "Seattle",
-    "job_state": "San Francisco",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7138269",
-    "job_posted_at_datetime_utc": "2025-08-12T15:22:30.000Z",
+    "job_title": "Senior Software Engineer, Data Security",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7140643?gh_jid=7140643",
+    "job_posted_at_datetime_utc": "2025-08-12T15:40:54.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-integration-reliability-engineer-technical-operations-link-seattle"
+    "id": "airbnb-senior-software-engineer-data-security-united-states"
   }
 ]
