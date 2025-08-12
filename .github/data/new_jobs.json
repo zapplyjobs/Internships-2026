@@ -1,78 +1,68 @@
 [
   {
-    "job_title": "Software Development Engineer, Workforce Solutions - Hiring Software Delivery",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3022868/software-development-engineer-workforce-solutions-hiring-software-delivery",
-    "job_posted_at": "2025-08-12T19:30:48.611Z",
-    "job_posted_at_datetime_utc": "2025-08-12T19:30:48.611Z",
-    "id": "amazon-software-development-engineer-workforce-solutions-hiring-software-delivery-bellevue"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Lease Administrator",
-    "job_city": "Sunnyvale",
+    "job_title": "AI Research Engineer, Media Generation (Audio / Video) - Generative AI",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
+    "job_description": "AI Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/699021046468099",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Lease Administrator, Data Center Real Estate",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/97344424802951878-lease-administrator-data-center-real-estate?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-lease-administrator-sunnyvale"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ai-research-engineer-media-generation-audio-video-generative-ai-menlo-park"
   },
   {
-    "job_title": "Senior Software Engineer - MAIA - AI Accelerator Observability and Infrastructure",
+    "job_title": "Senior Data Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843027",
-    "job_posted_at_datetime_utc": "2025-08-12T20:37:40.990Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857377",
+    "job_posted_at_datetime_utc": "2025-08-12T21:32:48.790Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-maia-ai-accelerator-observability-and-infrastructure-redmond"
+    "id": "microsoft-senior-data-engineer-redmond"
   },
   {
-    "job_title": "Principal Software Engineering - Microsoft Health & Life Sciences ILDC",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Entry level Mainframe Software Development Engineer",
+    "employer_name": "Broadcom Limited",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_description": "Join Broadcom Limited in this exciting opportunity.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
+    "job_posted_at_datetime_utc": "2025-08-12T21:19:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "broadcom-limited-entry-level-mainframe-software-development-engineer-plano"
+  },
+  {
+    "job_title": "Early Career Software Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856911",
-    "job_posted_at_datetime_utc": "2025-08-12T20:37:40.990Z",
+    "job_description": "Join Anduril in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+    "job_posted_at_datetime_utc": "2025-08-12T21:14:16.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-microsoft-health-life-sciences-ildc-redmond"
+    "id": "anduril-early-career-software-engineer-seattle"
   },
   {
-    "job_title": "Machine Learning Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858486",
-    "job_posted_at_datetime_utc": "2025-08-12T20:37:40.990Z",
+    "job_title": "Early Career Software Engineer",
+    "employer_name": "Anduril",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Join Anduril in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
+    "job_posted_at_datetime_utc": "2025-08-12T21:14:14.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-machine-learning-engineer-ii-redmond"
+    "id": "anduril-early-career-software-engineer-atlanta"
   },
   {
-    "job_title": "GenAI Engineers (L4-L7) ",
-    "employer_name": "Databricks",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002",
-    "job_posted_at_datetime_utc": "2025-08-12T20:36:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-genai-engineers-l4-l7-san-francisco"
-  },
-  {
-    "job_title": "Director, AI Engineering (FDE) – Enterprise",
-    "employer_name": "Databricks",
-    "job_city": "United States",
+    "job_title": "Software Engineering AMTS – New Grad",
+    "employer_name": "Salesforce",
+    "job_city": "Palo Alto",
     "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7989657002",
-    "job_posted_at_datetime_utc": "2025-08-12T19:43:50.000Z",
+    "job_description": "Join Salesforce in this exciting opportunity.",
+    "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+    "job_posted_at_datetime_utc": "2025-08-12T20:35:02.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-director-ai-engineering-fde-enterprise-united-states"
+    "id": "salesforce-software-engineering-amts-new-grad-palo-alto"
   }
 ]
