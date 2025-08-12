@@ -1,13 +1,89 @@
 [
   {
-    "job_title": "Senior Machine Learning Engineer - CoreAI",
+    "job_title": "Staff Engineer, Connect Risk & Compliance",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "Seattle",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7161356",
+    "job_posted_at_datetime_utc": "2025-08-12T17:41:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-engineer-connect-risk-compliance-san-francisco"
+  },
+  {
+    "job_title": "Amazon Robotics - Software Development Engineer",
+    "employer_name": "Amazon",
+    "job_city": "North Reading",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2837590/amazon-robotics-software-development-engineer",
+    "job_posted_at": "2025-08-12T16:40:21.194Z",
+    "job_posted_at_datetime_utc": "2025-08-12T16:40:21.194Z",
+    "id": "amazon-amazon-robotics-software-development-engineer-north-reading"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Software Engineer: Microsoft AI Development Acceleration Program",
+    "job_city": "Redmond",
+    "job_state": "Washington",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Microsoft AI Development Acceleration Program",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
+    "id": "microsoft-software-engineer-microsoft-ai-development-acceleration-program-redmond"
+  },
+  {
+    "job_title": "GPU Physical Design Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "San Diego",
+    "job_state": "California",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707332545",
+    "job_posted_at_datetime_utc": "2025-08-12T18:47:13.019Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-gpu-physical-design-engineer-san-diego"
+  },
+  {
+    "job_title": "Software Engineer: Microsoft AI Development Acceleration Program, Redmond",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846010",
-    "job_posted_at_datetime_utc": "2025-08-12T17:33:01.726Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860403",
+    "job_posted_at_datetime_utc": "2025-08-12T18:47:07.540Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-machine-learning-engineer-coreai-redmond"
+    "id": "microsoft-software-engineer-microsoft-ai-development-acceleration-program-redmond-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - MAI Data, Privacy, and Security, Microsoft AI   - Copilot",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845436",
+    "job_posted_at_datetime_utc": "2025-08-12T18:47:07.540Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-mai-data-privacy-and-security-microsoft-ai-copilot-redmond"
+  },
+  {
+    "job_title": "Digital Cloud & AI Solution Engineer – Innovative AI Applications",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855466",
+    "job_posted_at_datetime_utc": "2025-08-12T18:47:07.540Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-cloud-ai-solution-engineer-innovative-ai-applications-redmond"
+  },
+  {
+    "job_title": "Senior Privacy Engineer",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area",
+    "job_state": "CA",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8105734002",
+    "job_posted_at_datetime_utc": "2025-08-12T17:46:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "discord-senior-privacy-engineer-san-francisco-bay-area"
   }
 ]
