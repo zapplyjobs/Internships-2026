@@ -1,34 +1,68 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Display Module Technical Program Manager",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Product Manager, Business AI",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Product Management",
+    "job_apply_link": "https://www.metacareers.com/jobs/915142950787728",
     "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Display Module Technical Program Manager",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/83083922199454406-display-module-technical-program-manager?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=2",
-    "id": "google-display-module-technical-program-manager-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-manager-business-ai-multiple"
   },
   {
-    "job_title": "Technical Support Engineer – Virtualization / Web Technologies",
+    "job_title": "Solution Engineer - Cloud & AI Azure Platform (SAP)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846877",
-    "job_posted_at_datetime_utc": "2025-08-13T08:44:00.001Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860667",
+    "job_posted_at_datetime_utc": "2025-08-13T09:37:30.783Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-virtualization-web-technologies-redmond"
+    "id": "microsoft-solution-engineer-cloud-ai-azure-platform-sap-redmond"
   },
   {
-    "job_title": "Technical Support Engineering - Networking",
+    "job_title": "Sr Technical Support Engineering Management (SCIM)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859853",
-    "job_posted_at_datetime_utc": "2025-08-13T08:44:00.001Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852622",
+    "job_posted_at_datetime_utc": "2025-08-13T09:37:30.783Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-networking-redmond"
+    "id": "microsoft-sr-technical-support-engineering-management-scim-redmond"
+  },
+  {
+    "job_title": "Power Platform Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849821",
+    "job_posted_at_datetime_utc": "2025-08-13T09:37:30.783Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-power-platform-solution-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer (MAI Copilot)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858621",
+    "job_posted_at_datetime_utc": "2025-08-13T09:37:30.783Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-mai-copilot-redmond"
+  },
+  {
+    "job_title": "Senior Solution Engineer - Cloud & AI Azure Platform (SAP)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859843",
+    "job_posted_at_datetime_utc": "2025-08-13T09:37:30.783Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-solution-engineer-cloud-ai-azure-platform-sap-redmond"
   }
 ]
