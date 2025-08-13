@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "job_title": "Director Production Engineering, Monetization",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/2489519308099076",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-director-production-engineering-monetization-bellevue"
+  },
+  {
+    "job_title": "Electrical Engineer - Research",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Engineering +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1096902739279597",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-electrical-engineer-research-redmond"
+  },
+  {
+    "job_title": "Principal Customer Experience Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835785",
+    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-customer-experience-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Finance Manager – Engineering R&D",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857975",
+    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-finance-manager-engineering-r-d-redmond"
+  },
+  {
+    "job_title": "Software Engineer II - OneDrive and SharePoint",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859448",
+    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-onedrive-and-sharepoint-redmond"
+  },
+  {
+    "job_title": "Full Stack Engineer (L4), Computer Graphics Platform & Pipelines",
+    "employer_name": "Netflix",
+    "job_city": "USA - Remote",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304744845",
+    "job_posted_at_datetime_utc": "2025-08-13T00:00:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "netflix-full-stack-engineer-l4-computer-graphics-platform-pipelines-usa-remote"
+  }
+]
