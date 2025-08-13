@@ -1,68 +1,78 @@
 [
   {
-    "job_title": "Director Production Engineering, Monetization",
+    "job_title": "Software Development Engineer, Prime Air",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2948004/software-development-engineer-prime-air",
+    "job_posted_at": "2025-08-13T20:21:44.664Z",
+    "job_posted_at_datetime_utc": "2025-08-13T20:21:44.664Z",
+    "id": "amazon-software-development-engineer-prime-air-seattle"
+  },
+  {
+    "job_title": "UX Research Scientist, Metaverse Avatars Generative AI Experiences",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2489519308099076",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-production-engineering-monetization-bellevue"
-  },
-  {
-    "job_title": "Electrical Engineer - Research",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1096902739279597",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-research-redmond"
-  },
-  {
-    "job_title": "Principal Customer Experience Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835785",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-customer-experience-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Finance Manager – Engineering R&D",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857975",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-finance-manager-engineering-r-d-redmond"
-  },
-  {
-    "job_title": "Software Engineer II - OneDrive and SharePoint",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859448",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-onedrive-and-sharepoint-redmond"
-  },
-  {
-    "job_title": "Full Stack Engineer (L4), Computer Graphics Platform & Pipelines",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_city": "Burlingame",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304744845",
-    "job_posted_at_datetime_utc": "2025-08-13T00:00:00.000Z",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/769205668899976",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-ux-research-scientist-metaverse-avatars-generative-ai-experiences-burlingame"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Content Manager and Copywriter",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Content Manager and Copywriter, Google Ink",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/76585413342307014-content-manager-and-copywriter-google-ink?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
+    "id": "google-content-manager-and-copywriter-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer - OneSoc",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860746",
+    "job_posted_at_datetime_utc": "2025-08-13T21:28:29.002Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-full-stack-engineer-l4-computer-graphics-platform-pipelines-usa-remote"
+    "id": "microsoft-software-engineer-onesoc-redmond"
+  },
+  {
+    "job_title": "Principal Analog Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859892",
+    "job_posted_at_datetime_utc": "2025-08-13T21:28:29.002Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-analog-engineer-redmond"
+  },
+  {
+    "job_title": "Staff Product Designer, Developer AI",
+    "employer_name": "Stripe",
+    "job_city": "US / Canada",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7164051",
+    "job_posted_at_datetime_utc": "2025-08-13T20:48:23.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-staff-product-designer-developer-ai-us-canada"
+  },
+  {
+    "job_title": "Senior Software Engineer - DBSQL AI",
+    "employer_name": "Databricks",
+    "job_city": "Mountain View",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8117882002",
+    "job_posted_at_datetime_utc": "2025-08-13T20:39:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-senior-software-engineer-dbsql-ai-mountain-view"
   }
 ]
