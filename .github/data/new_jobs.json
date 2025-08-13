@@ -1,132 +1,101 @@
 [
   {
-    "job_title": "Enterprise Infrastructure Engineer - Enterprise Storage",
-    "employer_name": "Meta",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_description": "Enterprise Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/523991587462322",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-enterprise-infrastructure-engineer-enterprise-storage-fremont"
-  },
-  {
-    "job_title": "Research Engineer - Fundamental AI Research (FAIR), AI Security and Safety",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2240032829784634",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-fundamental-ai-research-fair-ai-security-and-safety-multiple"
-  },
-  {
-    "job_title": "Research Scientist Intern, Computational Optics & Optimization (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1771169327119860",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-computational-optics-optimization-phd-sunnyvale"
-  },
-  {
-    "job_title": "AI Research Engineer, Media Generation (Audio / Video) - Generative AI",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/699021046468099",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-research-engineer-media-generation-audio-video-generative-ai-multiple"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Central Operations Associate",
+    "job_title": "Software Dev Engineer II - AMZ9709954",
+    "employer_name": "Amazon",
     "job_city": "New York",
     "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Central Operations Associate",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/140382359340884678-central-operations-associate?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=6",
-    "id": "google-central-operations-associate-new-york"
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3040989/software-dev-engineer-ii-amz9709954",
+    "job_posted_at": "2025-08-12T02:09:20.746Z",
+    "job_posted_at_datetime_utc": "2025-08-12T02:09:20.746Z",
+    "id": "amazon-software-dev-engineer-ii-amz9709954-new-york"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Strategic Partner Development Manager",
-    "job_city": "Mountain View",
+    "job_title": "Software Development Engineer, Aurora DSQL",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3015481/software-development-engineer-aurora-dsql",
+    "job_posted_at": "2025-08-12T02:09:20.746Z",
+    "job_posted_at_datetime_utc": "2025-08-12T02:09:20.746Z",
+    "id": "amazon-software-development-engineer-aurora-dsql-seattle"
+  },
+  {
+    "job_title": "Software Development Engineer, AWS Vetting",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2932250/software-development-engineer-aws-vetting",
+    "job_posted_at": "2025-08-10T02:09:20.746Z",
+    "job_posted_at_datetime_utc": "2025-08-10T02:09:20.746Z",
+    "id": "amazon-software-development-engineer-aws-vetting-seattle"
+  },
+  {
+    "job_title": "Software Development Engineer, AGI Customization",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3011099/software-development-engineer-agi-customization",
+    "job_posted_at": "2025-08-07T02:09:20.746Z",
+    "job_posted_at_datetime_utc": "2025-08-07T02:09:20.746Z",
+    "id": "amazon-software-development-engineer-agi-customization-boston"
+  },
+  {
+    "job_title": "Software Engineering Manager, AI Networking",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
     "job_state": "CA",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1619132442378167",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategic Partner Development Manager, Labs, Tech and Society",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/123764340598678214-strategic-partner-development-manager-labs-tech-and-society?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
-    "id": "google-strategic-partner-development-manager-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-ai-networking-menlo-park"
   },
   {
-    "job_title": "Principal Cloud Network Engineering Manager",
+    "job_title": "Senior Global CryoLab Support Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857563",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858573",
+    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-cloud-network-engineering-manager-redmond"
+    "id": "microsoft-senior-global-cryolab-support-engineer-redmond"
   },
   {
-    "job_title": "Azure Advanced Cloud Engineer 2",
+    "job_title": "Software Engineer II-PowerPoint Copilot",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857372",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846885",
+    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-advanced-cloud-engineer-2-redmond"
+    "id": "microsoft-software-engineer-ii-powerpoint-copilot-redmond"
   },
   {
-    "job_title": "Senior Azure Cloud Customer Experience Engineer",
+    "job_title": "Senior Security Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857376",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849286",
+    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-azure-cloud-customer-experience-engineer-redmond"
+    "id": "microsoft-senior-security-solution-engineer-redmond"
   },
   {
-    "job_title": "Azure Cloud Customer Experience Engineer- Japanese Speaking",
+    "job_title": "Software Engineer",
     "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857373",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
+    "job_city": "Atlanta",
+    "job_state": "GA",
+    "job_description": "Join Microsoft in this exciting opportunity.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+    "job_posted_at_datetime_utc": "2025-08-13T00:33:49.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-cloud-customer-experience-engineer-japanese-speaking-redmond"
-  },
-  {
-    "job_title": "Customer Experience Engineering M4",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858264",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-customer-experience-engineering-m4-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineer - SharePoint OneDrive, AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857944",
-    "job_posted_at_datetime_utc": "2025-08-12T23:32:39.611Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-sharepoint-onedrive-ai-redmond"
+    "id": "microsoft-software-engineer-atlanta"
   }
 ]
