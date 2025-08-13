@@ -1,101 +1,68 @@
 [
   {
-    "job_title": "Software Dev Engineer II - AMZ9709954",
-    "employer_name": "Amazon",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3040989/software-dev-engineer-ii-amz9709954",
-    "job_posted_at": "2025-08-12T02:09:20.746Z",
-    "job_posted_at_datetime_utc": "2025-08-12T02:09:20.746Z",
-    "id": "amazon-software-dev-engineer-ii-amz9709954-new-york"
-  },
-  {
-    "job_title": "Software Development Engineer, Aurora DSQL",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3015481/software-development-engineer-aurora-dsql",
-    "job_posted_at": "2025-08-12T02:09:20.746Z",
-    "job_posted_at_datetime_utc": "2025-08-12T02:09:20.746Z",
-    "id": "amazon-software-development-engineer-aurora-dsql-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer, AWS Vetting",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2932250/software-development-engineer-aws-vetting",
-    "job_posted_at": "2025-08-10T02:09:20.746Z",
-    "job_posted_at_datetime_utc": "2025-08-10T02:09:20.746Z",
-    "id": "amazon-software-development-engineer-aws-vetting-seattle"
-  },
-  {
-    "job_title": "Software Development Engineer, AGI Customization",
-    "employer_name": "Amazon",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3011099/software-development-engineer-agi-customization",
-    "job_posted_at": "2025-08-07T02:09:20.746Z",
-    "job_posted_at_datetime_utc": "2025-08-07T02:09:20.746Z",
-    "id": "amazon-software-development-engineer-agi-customization-boston"
-  },
-  {
-    "job_title": "Software Engineering Manager, AI Networking",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1619132442378167",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineering-manager-ai-networking-menlo-park"
-  },
-  {
-    "job_title": "Senior Global CryoLab Support Engineer",
+    "job_title": "Technical Support Engineering- UEX",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858573",
-    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860413",
+    "job_posted_at_datetime_utc": "2025-08-13T04:01:24.046Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-global-cryolab-support-engineer-redmond"
+    "id": "microsoft-technical-support-engineering-uex-redmond"
   },
   {
-    "job_title": "Software Engineer II-PowerPoint Copilot",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846885",
-    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
+    "job_title": "Engineering Program Manager, Connect",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco",
+    "job_state": "Seattle",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7054200",
+    "job_posted_at_datetime_utc": "2025-08-13T03:50:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-powerpoint-copilot-redmond"
-  },
-  {
-    "job_title": "Senior Security Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849286",
-    "job_posted_at_datetime_utc": "2025-08-13T02:16:13.987Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-security-solution-engineer-redmond"
+    "id": "stripe-engineering-program-manager-connect-san-francisco"
   },
   {
     "job_title": "Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "Join Microsoft in this exciting opportunity.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
-    "job_posted_at_datetime_utc": "2025-08-13T00:33:49.000Z",
+    "employer_name": "Applied Intuition",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join Applied Intuition in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
+    "job_posted_at_datetime_utc": "2025-08-13T02:43:37.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-atlanta"
+    "id": "applied-intuition-software-engineer-mountain-view"
+  },
+  {
+    "job_title": "Embedded Software Engineer",
+    "employer_name": "Applied Intuition",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join Applied Intuition in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+    "job_posted_at_datetime_utc": "2025-08-13T02:41:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "applied-intuition-embedded-software-engineer-mountain-view"
+  },
+  {
+    "job_title": "Entry Level Software Developer",
+    "employer_name": "Gannett Fleming",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Join Gannett Fleming in this exciting opportunity.",
+    "job_apply_link": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+    "job_posted_at_datetime_utc": "2025-08-13T02:40:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "gannett-fleming-entry-level-software-developer-san-diego"
+  },
+  {
+    "job_title": "Software and Electrical Systems Simulation Integration Engineer",
+    "employer_name": "Boeing",
+    "job_city": "Long Beach",
+    "job_state": "CA",
+    "job_description": "Join Boeing in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
+    "job_posted_at_datetime_utc": "2025-08-13T02:23:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "boeing-software-and-electrical-systems-simulation-integration-engineer-long-beach"
   }
 ]
