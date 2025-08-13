@@ -27,9 +27,9 @@ function parseLocation(locationText) {
   return { city: locationText, state: 'US' };
 }
 
-async function armScraper(searchQuery, maxPages = 10) {
+async function armScraper(searchQuery, maxPages = 7) {
   const browser = await puppeteer.launch({
-    headless: true, // Set to true for production
+    headless: false, // Set to true for production
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
@@ -68,10 +68,14 @@ async function armScraper(searchQuery, maxPages = 10) {
         break;
       }
       
-      console.log(`Found ${jobCards.length} jobs on page ${pageNum}`);
+      
       
       // Extract job data from each card
-      for (const jobCard of jobCards) {
+    const jobsToProcess = jobCards.slice(0, -10);
+    console.log(`Found ${jobsToProcess.length} jobs on page ${pageNum}`); // Take only the first 15 jobs
+      
+      // Extract job data from each card
+      for (const jobCard of jobsToProcess) {
         try {
           const jobData = await jobCard.evaluate((card) => {
             // Extract title and link
@@ -119,8 +123,12 @@ async function armScraper(searchQuery, maxPages = 10) {
             job_description: `Category: ${jobData.category}. Posted: Recently. Full Title: ${jobData.title}. ${jobData.description}`,
             job_apply_link: applyLink
           };
-          
-          allJobs.push(formattedJob);
+         if (!formattedJob.job_description.toLowerCase().includes('india') && 
+              !formattedJob.job_description.toLowerCase().includes('hungary')) {
+            allJobs.push(formattedJob);
+          } else {
+            console.log(`Excluded job "${formattedJob.job_title}" due to India or Hungary in description`);
+          }
           
         } catch (error) {
           console.error('Error extracting job data from card:', error);
@@ -165,7 +173,7 @@ async function main() {
     // Show first few jobs as example
     if (jobs.length > 0) {
       console.log('\nFirst 3 jobs:');
-      console.log(JSON.stringify(jobs.slice(0, 3), null, 2));
+      console.log(jobs);
     }
     
   } catch (error) {

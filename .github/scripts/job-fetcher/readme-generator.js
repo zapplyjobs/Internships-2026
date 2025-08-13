@@ -315,8 +315,7 @@ ${Object.entries(stats.byLocation)
 
 // Generate comprehensive README
 async function generateReadme(
-    dataScienceJobs,
-    hardwareJobs,
+   
   currentJobs,
   archivedJobs = [],
   internshipData = null,
@@ -350,15 +349,6 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
-
- ## 🖥️ **Hardware Engineering Roles**
-
- ${generateJobTable(hardwareJobs)}
-
- 
- ## 📊 **Data Science & Analytics Roles**
-
-${generateJobTable(dataScienceJobs)}
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
@@ -542,113 +532,7 @@ Spotted an issue or want to suggest improvements?
 async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
   try {
     console.log("📝 Generating README content...");
-    allHardwarejobs = [];
-    allDataScienceJobs = [];
-    const [
-      amazon_Hardware,
-      meta_Hardware,
-      microsoft_Hardware,
-      google_Hardware,
-      arm_Hardware,
-      micron_Hardware,
-      ibm_Hardware,
-      abb_Hardware,
-      infineon_Hardware,
-      texas_Hardware,
-      cisco_Hardware,
-      siemens_Hardware,
-      analog_Hardware,
-      Marvel_Hardware,
-      aijobs_Hardware,
-    ] = await Promise.all([
-      scrapeAmazonJobs("hardware engineering"),
-      scrapeMetaJobs("hardware engineering"),
-      microsoftScraper("hardware engineering"),
-      googleScraper("Hardware Engineering"),
-      armScraper("Hardware Engineering"),
-      micronScraper("hardware engineering"),
-      ibmScraper("Hardware Engineering"),
-      abbScraper("hardware engineering"),
-      infineonScraper("hardware engineering"),
-      texasScraper("hardware engineering"),
-      ciscoScraper("hardware engineering"),
-      siemensScraper("hardware engineering"),
-      analogScraper("hardware engineering"),
-      MarvelScraper("hardware engineering"),
-
-      aijobsScraper("hardware engineering"),
-    ]);
-    allHardwarejobs.push(
-      ...amazon_Hardware,
-      ...meta_Hardware,
-      ...microsoft_Hardware,
-      ...google_Hardware,
-      ...arm_Hardware,
-      ...micron_Hardware,
-      ...ibm_Hardware,
-      ...abb_Hardware,
-      ...infineon_Hardware,
-      ...texas_Hardware,
-      ...cisco_Hardware,
-      ...siemens_Hardware,
-      ...analog_Hardware,
-      ...Marvel_Hardware,
-      ...aijobs_Hardware
-
-    );
-    const [
-      amazon_DataScience,
-      meta_DataScience,
-      microsoft_DataScience,
-      google_DataScience,
-      arm_DataScience,
-      micron_DataScience,
-      ibm_DataScience,
-      abb_DataScience,
-      infineon_DataScience,
-      texas_DataScience,
-      cisco_DataScience,
-      siemens_DataScience,
-      analog_DataScience,
-      Marvel_DataScience,
-      aijobs_DataScience,
-    ] = await Promise.all([
-      scrapeAmazonJobs("Data Science"),
-      scrapeMetaJobs("Data Science"),
-      microsoftScraper("data science"),
-      googleScraper("Data Science"),
-      armScraper("Data Science"),
-      micronScraper("Data Science"),
-      ibmScraper("Data Science"),
-      abbScraper("Data Science"),
-      infineonScraper("Data Science"),
-      texasScraper("Data Science"), 
-      ciscoScraper("Data Science"),
-      siemensScraper("Data Science"),
-      analogScraper("Data Science"),
-      MarvelScraper("Data Science"),
-      aijobsScraper("data science")
-    ]);
-    allDataScienceJobs.push(
-      ...amazon_DataScience,
-      ...meta_DataScience,
-      ...microsoft_DataScience,
-      ...google_DataScience,
-      ...arm_DataScience,
-      ...micron_DataScience,
-      ...ibm_DataScience,
-      ...abb_DataScience,
-      ...infineon_DataScience,
-      ...texas_DataScience,
-      ...cisco_DataScience,
-      ...siemens_DataScience,
-      ...analog_DataScience,
-      ...Marvel_DataScience,
-      ...aijobs_DataScience
-    );
     const readmeContent = await generateReadme(
-      allDataScienceJobs,
-      allHardwarejobs,
       currentJobs,
       archivedJobs,
       internshipData,
