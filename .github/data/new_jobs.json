@@ -1,35 +1,156 @@
 [
   {
-    "job_title": "Site Reliability Engineer II - CTJ - Top Secret",
+    "job_title": "ASIC Engineer, Infra Silicon Pre/Post Silicon Validation Lead",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1655464005071340",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-engineer-infra-silicon-pre-post-silicon-validation-lead-sunnyvale"
+  },
+  {
+    "job_title": "Fundamental AI Research Scientist, Physical World Models, FAIR",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA +1 locations",
+    "job_description": "AI Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/937691068278655",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-fundamental-ai-research-scientist-physical-world-models-fair-seattle"
+  },
+  {
+    "job_title": "Software Engineering Manager, AI Infrastructure",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3093144484184279",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-ai-infrastructure-menlo-park"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure CXP",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845761",
-    "job_posted_at_datetime_utc": "2025-08-14T20:37:20.977Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861232",
+    "job_posted_at_datetime_utc": "2025-08-14T21:32:21.906Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-site-reliability-engineer-ii-ctj-top-secret-redmond"
+    "id": "microsoft-senior-software-engineer-azure-cxp-redmond"
   },
   {
-    "job_title": "Staff Software Engineer, Backend (Platform - Product Foundations)",
+    "job_title": "Mechanical Engineer: Internship Opportunities - Redmond",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861280",
+    "job_posted_at_datetime_utc": "2025-08-14T21:32:21.906Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-mechanical-engineer-internship-opportunities-redmond-redmond"
+  },
+  {
+    "job_title": "Electrical Engineer: Internship Opportunities - Redmond",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861265",
+    "job_posted_at_datetime_utc": "2025-08-14T21:32:21.906Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-electrical-engineer-internship-opportunities-redmond-redmond"
+  },
+  {
+    "job_title": "Solution Engineer- Cloud & AI Infrastructure",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860518",
+    "job_posted_at_datetime_utc": "2025-08-14T21:32:21.906Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-cloud-ai-infrastructure-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - ES365 AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842165",
+    "job_posted_at_datetime_utc": "2025-08-14T21:32:21.906Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-es365-ai-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer, Payments",
+    "employer_name": "Airbnb",
+    "job_city": "Remote",
+    "job_state": "USA ",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7168933?gh_jid=7168933",
+    "job_posted_at_datetime_utc": "2025-08-14T21:31:34.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-software-engineer-payments-remote"
+  },
+  {
+    "job_title": "Software Engineer, Marketplace",
+    "employer_name": "Lyft",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/7976971002?gh_jid=7976971002",
+    "job_posted_at_datetime_utc": "2025-08-14T21:11:05.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-marketplace-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer, Marketplace",
+    "employer_name": "Lyft",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/7977002002?gh_jid=7977002002",
+    "job_posted_at_datetime_utc": "2025-08-14T21:11:05.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-marketplace-seattle"
+  },
+  {
+    "job_title": "Associate Software Engineer I",
+    "employer_name": "BlueCross BlueShield of Tennessee",
+    "job_city": "Chattanooga",
+    "job_state": "TN",
+    "job_description": "Join BlueCross BlueShield of Tennessee in this exciting opportunity.",
+    "job_apply_link": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
+    "job_posted_at_datetime_utc": "2025-08-14T20:58:40.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bluecross-blueshield-of-tennessee-associate-software-engineer-i-chattanooga"
+  },
+  {
+    "job_title": "Staff Software Engineer, Backend (Platform - Core Automation)",
     "employer_name": "Coinbase",
     "job_city": "Remote - Canada",
     "job_state": "CA",
     "job_description": "Join Coinbase to build the future of cryptocurrency.",
     "job_apply_link": "https://www.coinbase.com/careers/positions/5963430?gh_jid=5963430",
-    "job_posted_at_datetime_utc": "2025-08-14T19:55:24.000Z",
+    "job_posted_at_datetime_utc": "2025-08-14T20:48:06.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-platform-product-foundations-remote-canada"
+    "id": "coinbase-staff-software-engineer-backend-platform-core-automation-remote-canada"
   },
   {
-    "job_title": "Staff Software Engineer, Backend (Platform - Product Foundations)",
+    "job_title": "Staff Software Engineer, Backend (Platform - Core Automation)",
     "employer_name": "Coinbase",
     "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Coinbase to build the future of cryptocurrency.",
     "job_apply_link": "https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877",
-    "job_posted_at_datetime_utc": "2025-08-14T19:54:24.000Z",
+    "job_posted_at_datetime_utc": "2025-08-14T20:47:50.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-platform-product-foundations-remote-usa"
+    "id": "coinbase-staff-software-engineer-backend-platform-core-automation-remote-usa"
   }
 ]
