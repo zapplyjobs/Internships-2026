@@ -1,56 +1,12 @@
 [
   {
-    "job_title": "Software Development Engineer, Aurora DSQL",
-    "employer_name": "Amazon",
-    "job_city": "East Palo Alto",
-    "job_state": "CA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3015481/software-development-engineer-aurora-dsql",
-    "job_posted_at": "2025-08-14T20:26:30.712Z",
-    "job_posted_at_datetime_utc": "2025-08-14T20:26:30.712Z",
-    "id": "amazon-software-development-engineer-aurora-dsql-east-palo-alto"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Microsoft AI Development Acceleration Program",
-    "job_city": "Cambridge",
-    "job_state": "Massachusetts",
+    "employer_name": "Google",
+    "job_title": "UX Researcher",
+    "job_city": "New York",
+    "job_state": "NY",
     "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Microsoft AI Development Acceleration Program",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860491/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Cambridge",
-    "id": "microsoft-software-engineer-microsoft-ai-development-acceleration-program-cambridge"
-  },
-  {
-    "job_title": "Systems Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859962",
-    "job_posted_at_datetime_utc": "2025-08-14T22:33:15.619Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-systems-engineer-ii-redmond"
-  },
-  {
-    "job_title": "Software Engineer: Microsoft AI Development Acceleration Program, Cambridge",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860491",
-    "job_posted_at_datetime_utc": "2025-08-14T22:33:15.619Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-microsoft-ai-development-acceleration-program-cambridge-redmond"
-  },
-  {
-    "job_title": "Senior Technical Solutions Engineer, Lakebase",
-    "employer_name": "Databricks",
-    "job_city": "Dallas",
-    "job_state": "Texas; Mountain View",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8117624002",
-    "job_posted_at_datetime_utc": "2025-08-14T22:05:05.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-senior-technical-solutions-engineer-lakebase-dallas"
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: UX Researcher, Trustworthy Personalization, Google Core",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/85114668636349126-ux-researcher-trustworthy-personalization-google-core?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
+    "id": "google-ux-researcher-new-york"
   }
 ]
