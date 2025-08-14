@@ -1,24 +1,46 @@
 [
   {
-    "job_title": "Software Engineer - Product (Technical Leadership)",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Enterprise Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1447906016527665",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-product-technical-leadership-multiple"
-  },
-  {
-    "job_title": "Principal AI Software Engineer",
+    "job_title": " Service Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860383",
-    "job_posted_at_datetime_utc": "2025-08-14T13:48:51.674Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855848",
+    "job_posted_at_datetime_utc": "2025-08-14T14:34:12.024Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-ai-software-engineer-redmond"
+    "id": "microsoft-service-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer - Security - Endpoint Protection",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854757",
+    "job_posted_at_datetime_utc": "2025-08-14T14:34:12.024Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-security-endpoint-protection-redmond"
+  },
+  {
+    "job_title": "Lead Software Engineer in Test",
+    "employer_name": "Lyft",
+    "job_city": "Kyiv",
+    "job_state": "Ukraine",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002",
+    "job_posted_at_datetime_utc": "2025-08-14T13:54:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-lead-software-engineer-in-test-kyiv"
+  },
+  {
+    "job_title": "Software Engineer in Test",
+    "employer_name": "Lyft",
+    "job_city": "Kyiv",
+    "job_state": "Ukraine",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/7973173002?gh_jid=7973173002",
+    "job_posted_at_datetime_utc": "2025-08-14T13:54:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-software-engineer-in-test-kyiv"
   }
 ]
