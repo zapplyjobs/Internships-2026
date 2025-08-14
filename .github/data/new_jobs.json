@@ -1,65 +1,46 @@
 [
   {
-    "job_title": "Program Manager, Product Testing",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1784177492317284",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-program-manager-product-testing-multiple"
-  },
-  {
+    "job_title": "Fabrication and Packaging Engineer",
     "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Microsoft Leap",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Microsoft Leap",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860490/Software-Engineer%3A-Microsoft-Leap",
-    "id": "microsoft-software-engineer-microsoft-leap-multiple-locations"
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858437",
+    "job_posted_at_datetime_utc": "2025-08-14T17:31:59.456Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-fabrication-and-packaging-engineer-redmond"
   },
   {
+    "job_title": "Principal Software Engineering Manager - CTJ - Poly",
     "employer_name": "Microsoft",
-    "job_title": "Software Engineer: Microsoft Leap – Neurodiversity Hiring Program",
-    "job_city": "Multiple Locations",
-    "job_state": "United States",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Software Engineering. Level: Students and graduates. Posted: Recently. Full Title: Software Engineering - Software Engineer: Microsoft Leap – Neurodiversity Hiring Program",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860868/Software-Engineer%3A-Microsoft-Leap-%E2%80%93-Neurodiversity-Hiring-Program",
-    "id": "microsoft-software-engineer-microsoft-leap-neurodiversity-hiring-program-multiple-locations"
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847333",
+    "job_posted_at_datetime_utc": "2025-08-14T17:31:59.456Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineering-manager-ctj-poly-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Strategy and Operations Manager",
+    "job_title": "C++ Software Engineer I - Maps Sdks",
+    "employer_name": "Esri",
+    "job_city": "Portland",
+    "job_state": "OR",
+    "job_description": "Join Esri in this exciting opportunity.",
+    "job_apply_link": "https://www.esri.com/careers/4826980007?gh_jid=4826980007",
+    "job_posted_at_datetime_utc": "2025-08-14T17:18:58.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "esri-c-software-engineer-i-maps-sdks-portland"
+  },
+  {
+    "job_title": "Graduate 2025 Software Engineer I",
+    "employer_name": "Uber",
     "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Strategy and Operations Manager, Cloud Marketing",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100735464691901126-strategy-and-operations-manager-cloud-marketing?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
-    "id": "google-strategy-and-operations-manager-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer: Microsoft Leap – Neurodiversity Hiring Program",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860868",
-    "job_posted_at_datetime_utc": "2025-08-14T16:42:22.198Z",
+    "job_state": "Locations",
+    "job_description": "Join Uber in this exciting opportunity.",
+    "job_apply_link": "https://www.uber.com/global/en/careers/list/147250/",
+    "job_posted_at_datetime_utc": "2025-08-12T22:10:09.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-microsoft-leap-neurodiversity-hiring-program-redmond"
-  },
-  {
-    "job_title": "Software Engineer: Microsoft Leap",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860490",
-    "job_posted_at_datetime_utc": "2025-08-14T16:42:22.198Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-microsoft-leap-redmond"
+    "id": "uber-graduate-2025-software-engineer-i-san-francisco"
   }
 ]
