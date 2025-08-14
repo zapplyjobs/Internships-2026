@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Linguistic Engineer",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +1 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1265084388598988",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-linguistic-engineer-redmond"
-  },
-  {
-    "job_title": "Lead CPU Server Physical Design Engineer",
-    "employer_name": "Qualcomm",
-    "job_city": "Santa Clara",
-    "job_state": "California",
-    "job_description": "Join Qualcomm to invent breakthrough technologies.",
-    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707360325",
-    "job_posted_at_datetime_utc": "2025-08-14T04:43:56.475Z",
-    "job_employment_type": "FULLTIME",
-    "id": "qualcomm-lead-cpu-server-physical-design-engineer-santa-clara"
-  },
-  {
-    "job_title": "Digital Solution Engineer - AI Business Process",
+    "job_title": "Digital Cloud & AI Solution Engineer – Innovative Data Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861065",
-    "job_posted_at_datetime_utc": "2025-08-14T04:43:51.732Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834268",
+    "job_posted_at_datetime_utc": "2025-08-14T05:35:18.391Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-ai-business-process-redmond"
+    "id": "microsoft-digital-cloud-ai-solution-engineer-innovative-data-platform-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer - Azure Identity (English Language Support)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845944",
+    "job_posted_at_datetime_utc": "2025-08-14T05:35:18.391Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-azure-identity-english-language-support-redmond"
+  },
+  {
+    "job_title": "Software Engineer I - Aldp",
+    "employer_name": "Apex Fintech Solutions",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Apex Fintech Solutions in this exciting opportunity.",
+    "job_apply_link": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+    "job_posted_at_datetime_utc": "2025-08-14T04:58:35.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "apex-fintech-solutions-software-engineer-i-aldp-austin"
   }
 ]
