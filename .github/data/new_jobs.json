@@ -1,133 +1,23 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Engineering Analyst",
-    "job_city": "Mountain View",
+    "job_title": "Partner Marketing Manager",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Engineering Analyst, Search, Anti-scraper",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/138853986638668486-engineering-analyst-search-antiscraper?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-engineering-analyst-mountain-view"
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Partner Marketing Manager, Cloud Marketing",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/99117052295291590-partner-marketing-manager-cloud-marketing?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=8",
+    "id": "google-partner-marketing-manager-sunnyvale"
   },
   {
-    "job_title": "Software Engineer I (ALDP)",
-    "employer_name": "Apex",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Join Apex in this exciting opportunity.",
-    "job_apply_link": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
-    "job_posted_at_datetime_utc": "2025-08-14T11:31:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "apex-software-engineer-i-aldp-austin"
-  },
-  {
-    "job_title": "Software Engineer IC4",
+    "job_title": "Software Engineering Student Worker opportunity",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860789",
-    "job_posted_at_datetime_utc": "2025-08-14T11:31:12.048Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861111",
+    "job_posted_at_datetime_utc": "2025-08-14T13:05:01.117Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ic4-redmond"
-  },
-  {
-    "job_title": "Junior Software Engineer",
-    "employer_name": "Folia Health",
-    "job_city": "Boston",
-    "job_state": "MA",
-    "job_description": "Join Folia Health in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009",
-    "job_posted_at_datetime_utc": "2025-08-14T11:29:23.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "folia-health-junior-software-engineer-boston"
-  },
-  {
-    "job_title": "Software Developer - Entry Level",
-    "employer_name": "Sev1Tech",
-    "job_city": "Fort Sill",
-    "job_state": "OK",
-    "job_description": "Join Sev1Tech in this exciting opportunity.",
-    "job_apply_link": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
-    "job_posted_at_datetime_utc": "2025-08-14T11:28:41.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "sev1tech-software-developer-entry-level-fort-sill"
-  },
-  {
-    "job_title": "Associate Software Engineer",
-    "employer_name": "Veterans United Home Loans",
-    "job_city": "Remote",
-    "job_state": "MO",
-    "job_description": "Join Veterans United Home Loans in this exciting opportunity.",
-    "job_apply_link": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
-    "job_posted_at_datetime_utc": "2025-08-14T11:25:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "veterans-united-home-loans-associate-software-engineer-remote"
-  },
-  {
-    "job_title": "Junior Software Developer",
-    "employer_name": "TekSynap",
-    "job_city": "VA",
-    "job_state": "Locations",
-    "job_description": "Join TekSynap in this exciting opportunity.",
-    "job_apply_link": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
-    "job_posted_at_datetime_utc": "2025-08-14T11:21:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "teksynap-junior-software-developer-va"
-  },
-  {
-    "job_title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
-    "employer_name": "Amazon",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_description": "Join Amazon in this exciting opportunity.",
-    "job_apply_link": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
-    "job_posted_at_datetime_utc": "2025-08-14T11:16:43.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "amazon-systems-development-engineer-i-ops-tech-solution-ots-austin"
-  },
-  {
-    "job_title": "C++ Software Engineer",
-    "employer_name": "Citadel Securities",
-    "job_city": "Miami",
-    "job_state": "FL",
-    "job_description": "Join Citadel Securities in this exciting opportunity.",
-    "job_apply_link": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
-    "job_posted_at_datetime_utc": "2025-08-14T11:12:26.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "citadel-securities-c-software-engineer-miami"
-  },
-  {
-    "job_title": "Campus ML Engineer (Full-Time)",
-    "employer_name": "Jump Trading",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join Jump Trading in this exciting opportunity.",
-    "job_apply_link": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
-    "job_posted_at_datetime_utc": "2025-08-14T11:00:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "jump-trading-campus-ml-engineer-full-time-chicago"
-  },
-  {
-    "job_title": "Software Engineer - Spend Growth",
-    "employer_name": "Rippling",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Rippling in this exciting opportunity.",
-    "job_apply_link": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
-    "job_posted_at_datetime_utc": "2025-08-14T10:53:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "rippling-software-engineer-spend-growth-new-york"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Suno",
-    "job_city": "Boston",
-    "job_state": "NY",
-    "job_description": "Join Suno in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
-    "job_posted_at_datetime_utc": "2025-08-14T10:47:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "suno-software-engineer-boston"
+    "id": "microsoft-software-engineering-student-worker-opportunity-redmond"
   }
 ]
