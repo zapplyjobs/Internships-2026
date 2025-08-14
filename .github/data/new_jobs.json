@@ -1,46 +1,55 @@
 [
   {
-    "job_title": " Service Engineering Manager",
+    "job_title": "Staff Software Engineer, Payments",
+    "employer_name": "Airbnb",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6842059?gh_jid=6842059",
+    "job_posted_at_datetime_utc": "2025-08-14T15:14:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-software-engineer-payments-remote-usa"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Partnerships Strategy and Operations Manager",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Partnerships Strategy and Operations Manager, YouTube Business",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/115095052190917318-partnerships-strategy-and-operations-manager-youtube-business?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-partnerships-strategy-and-operations-manager-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Business Intelligence Developer",
+    "job_city": "Kirkland",
+    "job_state": "WA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Business Intelligence Developer, Cloud Finance",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/130335657741427398-business-intelligence-developer-cloud-finance?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
+    "id": "google-business-intelligence-developer-kirkland"
+  },
+  {
+    "job_title": "AI-Driven Solution Engineer - End-to-End Intelligent Solutions",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1855848",
-    "job_posted_at_datetime_utc": "2025-08-14T14:34:12.024Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861142",
+    "job_posted_at_datetime_utc": "2025-08-14T15:37:06.489Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-service-engineering-manager-redmond"
+    "id": "microsoft-ai-driven-solution-engineer-end-to-end-intelligent-solutions-redmond"
   },
   {
-    "job_title": "Technical Support Engineer - Security - Endpoint Protection",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854757",
-    "job_posted_at_datetime_utc": "2025-08-14T14:34:12.024Z",
+    "job_title": "Director of Engineering",
+    "employer_name": "Databricks",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7896551002",
+    "job_posted_at_datetime_utc": "2025-08-14T15:06:35.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-security-endpoint-protection-redmond"
-  },
-  {
-    "job_title": "Lead Software Engineer in Test",
-    "employer_name": "Lyft",
-    "job_city": "Kyiv",
-    "job_state": "Ukraine",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002",
-    "job_posted_at_datetime_utc": "2025-08-14T13:54:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-lead-software-engineer-in-test-kyiv"
-  },
-  {
-    "job_title": "Software Engineer in Test",
-    "employer_name": "Lyft",
-    "job_city": "Kyiv",
-    "job_state": "Ukraine",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/7973173002?gh_jid=7973173002",
-    "job_posted_at_datetime_utc": "2025-08-14T13:54:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-in-test-kyiv"
+    "id": "databricks-director-of-engineering-bengaluru"
   }
 ]
