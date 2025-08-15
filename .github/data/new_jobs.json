@@ -1,79 +1,24 @@
 [
   {
-    "job_title": "Optical Scientist, Display Systems",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/3688534411438839",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-optical-scientist-display-systems-redmond"
-  },
-  {
-    "job_title": "Research Scientist, Agents - Meta",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/940193990831237",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-agents-meta-multiple"
-  },
-  {
-    "job_title": "Front-End Software Engineer II",
+    "job_title": "Critical Environment Technician/Engineer - Mechanical HVAC",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861258",
-    "job_posted_at_datetime_utc": "2025-08-15T02:17:19.720Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1848785",
+    "job_posted_at_datetime_utc": "2025-08-15T04:02:51.617Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-front-end-software-engineer-ii-redmond"
+    "id": "microsoft-critical-environment-technician-engineer-mechanical-hvac-redmond"
   },
   {
-    "job_title": "Senior Front-End Software Engineer",
+    "job_title": "Digital Solution Engineer - Security",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861240",
-    "job_posted_at_datetime_utc": "2025-08-15T02:17:19.720Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861121",
+    "job_posted_at_datetime_utc": "2025-08-15T04:02:51.617Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-front-end-software-engineer-redmond"
-  },
-  {
-    "job_title": "AI Business Process Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846771",
-    "job_posted_at_datetime_utc": "2025-08-15T02:17:19.720Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-process-solution-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer, Backend - (Platform - Core Automation)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7171141?gh_jid=7171141",
-    "job_posted_at_datetime_utc": "2025-08-15T01:26:55.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-backend-platform-core-automation-remote-usa"
-  },
-  {
-    "job_title": "Entry Level Software Engineer - Developer",
-    "employer_name": "The Boeing Company",
-    "job_city": "Oklahoma City",
-    "job_state": "OK",
-    "job_description": "Join The Boeing Company in this exciting opportunity.",
-    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
-    "job_posted_at_datetime_utc": "2025-08-15T01:23:01.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-boeing-company-entry-level-software-engineer-developer-oklahoma-city"
+    "id": "microsoft-digital-solution-engineer-security-redmond"
   }
 ]
