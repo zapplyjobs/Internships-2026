@@ -1,13 +1,90 @@
 [
   {
-    "job_title": "Senior Cloud & AI Solution Engineer - AI Applications (HK)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860176",
-    "job_posted_at_datetime_utc": "2025-08-15T06:47:22.666Z",
+    "job_title": "Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join TikTok in this exciting opportunity.",
+    "job_apply_link": "https://lifeattiktok.com/search/7536356589390301458",
+    "job_posted_at_datetime_utc": "2025-08-15T07:31:08.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-cloud-ai-solution-engineer-ai-applications-hk-redmond"
+    "id": "tiktok-software-engineer-graduate-recommendation-platform-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS)",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join TikTok in this exciting opportunity.",
+    "job_apply_link": "https://lifeattiktok.com/search/7535606471191824647",
+    "job_posted_at_datetime_utc": "2025-08-15T07:29:01.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tiktok-machine-learning-engineer-graduate-monetization-technology-tiktok-ads-creative-ecosystem-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Algorithm Developer (Quant Researcher) – 2026 Grads",
+    "employer_name": "Hudson River Trading",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Hudson River Trading in this exciting opportunity.",
+    "job_apply_link": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
+    "job_posted_at_datetime_utc": "2025-08-15T07:25:27.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "hudson-river-trading-algorithm-developer-quant-researcher-2026-grads-new-york"
+  },
+  {
+    "job_title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7537121677185534216",
+    "job_posted_at_datetime_utc": "2025-08-15T07:21:52.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-network-engineer-graduate-edge-network-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7536272435440716040",
+    "job_posted_at_datetime_utc": "2025-08-15T07:20:03.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-software-engineer-graduate-dev-infra-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7532538236133902599",
+    "job_posted_at_datetime_utc": "2025-08-15T07:19:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-software-engineer-graduate-applied-machine-learning-enterprise-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7535233571066349842",
+    "job_posted_at_datetime_utc": "2025-08-15T07:17:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-software-engineer-graduate-applied-machine-learning-mldev-2026-start-bs-ms-san-jose"
+  },
+  {
+    "job_title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
+    "employer_name": "Amazon",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_description": "Join Amazon in this exciting opportunity.",
+    "job_apply_link": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
+    "job_posted_at_datetime_utc": "2025-08-15T07:12:26.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "amazon-robotics-systems-engineer-amazon-robotics-deployment-engineering-austin"
   }
 ]
