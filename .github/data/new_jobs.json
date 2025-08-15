@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Software Engineer - Technical Leadership",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Enterprise Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/3216809368477192",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-technical-leadership-multiple"
-  },
-  {
-    "job_title": "Senior Customer Experience Engineer - Compute (Linux)",
+    "job_title": "Critical Infrastructure Network Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857529",
-    "job_posted_at_datetime_utc": "2025-08-15T14:33:51.762Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854385",
+    "job_posted_at_datetime_utc": "2025-08-15T15:34:54.506Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-compute-linux-redmond"
+    "id": "microsoft-critical-infrastructure-network-engineering-manager-redmond"
   },
   {
-    "job_title": "Principal Customer Experience Engineering Manager",
+    "job_title": "Senior Hardware Engineer, Sustaining",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858085",
-    "job_posted_at_datetime_utc": "2025-08-15T14:33:51.761Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860420",
+    "job_posted_at_datetime_utc": "2025-08-15T15:34:54.506Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-customer-experience-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Software Engineer 5 - Streaming Algorithms",
-    "employer_name": "Netflix",
-    "job_city": "Los Gatos",
-    "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304709246",
-    "job_posted_at_datetime_utc": "2025-08-12T00:00:00.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-5-streaming-algorithms-los-gatos"
+    "id": "microsoft-senior-hardware-engineer-sustaining-redmond"
   }
 ]
