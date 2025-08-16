@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Technical Support Engineer- SCCM",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1840038",
+    "job_posted_at_datetime_utc": "2025-08-16T17:28:40.933Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-sccm-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer- Intune",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1839557",
+    "job_posted_at_datetime_utc": "2025-08-16T17:28:40.933Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-intune-redmond"
+  }
+]
