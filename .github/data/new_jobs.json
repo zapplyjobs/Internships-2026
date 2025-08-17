@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "job_title": "Junior Software Engineer",
+    "employer_name": "BAE Systems",
+    "job_city": "Hill AFB",
+    "job_state": "UT",
+    "job_description": "Join BAE Systems in this exciting opportunity.",
+    "job_apply_link": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
+    "job_posted_at_datetime_utc": "2025-08-17T08:20:05.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bae-systems-junior-software-engineer-hill-afb"
+  },
+  {
+    "job_title": "Manufacturing Software Engineer, Test Program Applications & Automation",
+    "employer_name": "GlobalFoundries",
+    "job_city": "Essex Junction",
+    "job_state": "VT",
+    "job_description": "Join GlobalFoundries in this exciting opportunity.",
+    "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
+    "job_posted_at_datetime_utc": "2025-08-17T08:18:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "globalfoundries-manufacturing-software-engineer-test-program-applications-automation-essex-junction"
+  },
+  {
+    "job_title": "Junior Software Developer",
+    "employer_name": "qode.world",
+    "job_city": "NJ",
+    "job_state": "Locations",
+    "job_description": "Join qode.world in this exciting opportunity.",
+    "job_apply_link": "https://apply.workable.com/qodeworld/j/5718A36818/",
+    "job_posted_at_datetime_utc": "2025-08-17T08:17:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qode-world-junior-software-developer-nj"
+  }
+]
