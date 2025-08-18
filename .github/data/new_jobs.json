@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Senior Software Engineer - AKS",
+    "job_title": "Software Engineering Internship Opportunities",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861551",
-    "job_posted_at_datetime_utc": "2025-08-18T05:38:07.073Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851283",
+    "job_posted_at_datetime_utc": "2025-08-18T06:50:36.460Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-aks-redmond"
+    "id": "microsoft-software-engineering-internship-opportunities-redmond"
+  },
+  {
+    "job_title": "Cyber Security Engineer, Automation",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854382",
+    "job_posted_at_datetime_utc": "2025-08-18T06:50:36.460Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cyber-security-engineer-automation-redmond"
+  },
+  {
+    "job_title": "Evergreen - Sr. Software Engineer, Observability",
+    "employer_name": "Databricks",
+    "job_city": "Bengaluru",
+    "job_state": "India",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7925562002",
+    "job_posted_at_datetime_utc": "2025-08-18T05:50:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-evergreen-sr-software-engineer-observability-bengaluru"
   }
 ]
