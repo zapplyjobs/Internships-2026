@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Software Engineer - Rust low level development - Red Sea (Multiple Roles)",
+    "job_title": "Software Engineer II(Fullstack Developer)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861730",
-    "job_posted_at_datetime_utc": "2025-08-18T13:49:25.458Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850526",
+    "job_posted_at_datetime_utc": "2025-08-18T14:35:53.104Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-rust-low-level-development-red-sea-multiple-roles-redmond"
+    "id": "microsoft-software-engineer-ii-fullstack-developer-redmond"
   },
   {
-    "job_title": "Staff Software Engineer - Search Platform",
-    "employer_name": "Databricks",
-    "job_city": "Bengaluru",
-    "job_state": "India",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002",
-    "job_posted_at_datetime_utc": "2025-08-18T13:24:14.000Z",
+    "job_title": "Senior Security Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857379",
+    "job_posted_at_datetime_utc": "2025-08-18T14:35:53.104Z",
     "job_employment_type": "FULLTIME",
-    "id": "databricks-staff-software-engineer-search-platform-bengaluru"
+    "id": "microsoft-senior-security-software-engineer-redmond"
+  },
+  {
+    "job_title": "Solution Engineer - AI Business Process Finance & Supply Chain (Spanish speaker)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861137",
+    "job_posted_at_datetime_utc": "2025-08-18T14:35:53.104Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-ai-business-process-finance-supply-chain-spanish-speaker-redmond"
   }
 ]
