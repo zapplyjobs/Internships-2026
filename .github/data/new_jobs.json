@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Senior Engineering Analyst",
-    "job_city": "San Bruno",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Senior Engineering Analyst, YouTube Scaled Abuse",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124219278567056070-senior-engineering-analyst-youtube-scaled-abuse?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-senior-engineering-analyst-san-bruno"
+    "job_title": "Technical Consultant - Data Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860251",
+    "job_posted_at_datetime_utc": "2025-08-18T08:45:05.465Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-consultant-data-engineer-redmond"
   }
 ]
