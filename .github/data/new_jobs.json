@@ -1,156 +1,35 @@
 [
   {
-    "job_title": "UI/UX Game Designer, BigBox VR",
+    "job_title": "Software Engineering Manager - ML Generalist",
     "employer_name": "Meta",
-    "job_city": "Seattle",
-    "job_state": "WA +1 locations",
+    "job_city": "Remote",
+    "job_state": "US",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/738412095573644",
+    "job_apply_link": "https://www.metacareers.com/jobs/876790077212007",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ui-ux-game-designer-bigbox-vr-seattle"
+    "id": "meta-software-engineering-manager-ml-generalist-remote"
   },
   {
-    "job_title": "Product Designer, Meta",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +3 locations",
-    "job_description": "Design",
-    "job_apply_link": "https://www.metacareers.com/jobs/2471900343171573",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-designer-meta-menlo-park"
-  },
-  {
-    "job_title": "Fundamental AI Research Scientist, Physical World Models, FAIR | Chercheur scientifique en IA fondamentale, Modèles du monde physique, FAIR",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "AI Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1040718981609515",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-fundamental-ai-research-scientist-physical-world-models-fair-chercheur-scientifique-en-ia-fondamentale-mod-les-du-monde-physique-fair-multiple"
-  },
-  {
-    "job_title": "Embedded Software Engineer, Connectivity/Wireless - Reality Labs",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1922784271825525",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-embedded-software-engineer-connectivity-wireless-reality-labs-sunnyvale"
-  },
-  {
-    "job_title": "Research Scientist - Central Applied Science",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/582471071359141",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-central-applied-science-menlo-park"
-  },
-  {
-    "job_title": "Network Production Engineer - Core Networking, Backbone",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Network Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1831801720966902",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-network-production-engineer-core-networking-backbone-multiple"
-  },
-  {
-    "job_title": "Software Engineer (Technical Leadership) - Machine Learning Specialist",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +3 locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1717543928874559",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-technical-leadership-machine-learning-specialist-menlo-park"
-  },
-  {
-    "job_title": "Operations Engineer",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1154576863091595",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-operations-engineer-multiple"
-  },
-  {
-    "job_title": "Enterprise Network Engineer, University Grad",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Enterprise Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1207469580704244",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-enterprise-network-engineer-university-grad-multiple"
-  },
-  {
-    "job_title": "Senior AI/ML Software Engineer – Xbox Games Technology Group – The Coalition",
+    "job_title": "Software Engineer II- Windows Servicing and Delivery",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860131",
-    "job_posted_at_datetime_utc": "2025-08-18T21:30:27.891Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859714",
+    "job_posted_at_datetime_utc": "2025-08-18T22:30:32.319Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-ml-software-engineer-xbox-games-technology-group-the-coalition-redmond"
+    "id": "microsoft-software-engineer-ii-windows-servicing-and-delivery-redmond"
   },
   {
-    "job_title": "Senior Platform Engineer – Xbox Games Technology Group – The Coalition",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860130",
-    "job_posted_at_datetime_utc": "2025-08-18T21:30:27.891Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-platform-engineer-xbox-games-technology-group-the-coalition-redmond"
-  },
-  {
-    "job_title": "Lead Project Engineer – Xbox Games Technology Group – The Coalition",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860121",
-    "job_posted_at_datetime_utc": "2025-08-18T21:30:27.891Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-lead-project-engineer-xbox-games-technology-group-the-coalition-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer, Backend (Platform - Finhub)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - Canada",
+    "job_title": "Machine Learning Engineer, Supportability",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco or Seattle",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6599521?gh_jid=6599521",
-    "job_posted_at_datetime_utc": "2025-08-18T20:57:52.000Z",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7176812",
+    "job_posted_at_datetime_utc": "2025-08-18T22:18:43.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-platform-finhub-remote-canada"
-  },
-  {
-    "job_title": "Staff Software Engineer, Backend (Platform - Finhub)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6599511?gh_jid=6599511",
-    "job_posted_at_datetime_utc": "2025-08-18T20:57:51.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-software-engineer-backend-platform-finhub-remote-usa"
+    "id": "stripe-machine-learning-engineer-supportability-san-francisco-or-seattle"
   }
 ]
