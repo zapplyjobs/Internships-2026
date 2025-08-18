@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Data Scientist",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1440946287176762",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-data-scientist-bellevue"
+  },
+  {
+    "job_title": "Dynamics Solution F&SC Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861650",
+    "job_posted_at_datetime_utc": "2025-08-18T02:29:28.042Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-dynamics-solution-f-sc-engineering-redmond"
+  }
+]
