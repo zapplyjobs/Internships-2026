@@ -1,79 +1,13 @@
 [
   {
-    "job_title": "ASIC Verification Engineer, PCIe",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/767644209194195",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-verification-engineer-pcie-multiple"
-  },
-  {
-    "job_title": "ASIC Verification Engineer, Formal",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1107509974060906",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-verification-engineer-formal-multiple"
-  },
-  {
-    "job_title": "ASIC Verification Engineer, Simulation Acceleration and Hybrid Verification",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1417918519264026",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-verification-engineer-simulation-acceleration-and-hybrid-verification-multiple"
-  },
-  {
-    "job_title": "ASIC Verification Engineer, Networking",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1255175756090753",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-asic-verification-engineer-networking-multiple"
-  },
-  {
-    "job_title": "Cyber Security Engineer",
+    "job_title": "Senior Software Engineer - AKS",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854408",
-    "job_posted_at_datetime_utc": "2025-08-18T04:11:26.496Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861551",
+    "job_posted_at_datetime_utc": "2025-08-18T05:38:07.073Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cyber-security-engineer-redmond"
-  },
-  {
-    "job_title": "Cyber Security Engineer, Network and Automation",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854382",
-    "job_posted_at_datetime_utc": "2025-08-18T04:11:26.496Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cyber-security-engineer-network-and-automation-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineering - Security ＆ Compliance (Endpoint Protection)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859927",
-    "job_posted_at_datetime_utc": "2025-08-18T04:11:26.496Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-security-compliance-endpoint-protection-redmond"
+    "id": "microsoft-senior-software-engineer-aks-redmond"
   }
 ]
