@@ -303,23 +303,23 @@ ${generateJobTable(currentJobs)}
 
 ---
 
-# Current Job Insights
+## Current Job Insights
 
-## 🏢 Top Companies
+### 🏢 Top Companies
 
-### 🌟 FAANG+ (${companies.faang_plus.length} companies)
+#### 🌟 FAANG+ (${companies.faang_plus.length} companies)
 ${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
+#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
 ${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 💰 Fintech Leaders (${companies.fintech.length} companies)
+#### 💰 Fintech Leaders (${companies.fintech.length} companies)
 ${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
+#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
 ${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
+#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
 ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
 ---
@@ -424,25 +424,25 @@ ${topCompanies
 ## 🤝 **Become a Contributor**
 Add new jobs! See the [contributing guide](#contributing-guide).
 
-## Contributing Guide
-### 🎯 Roles We Accept
+### Contributing Guide
+#### 🎯 Roles We Accept
 - Located in the US, Canada, or Remote.
 - Not already in our database.
 - Currently accepting applications.
 
-### 🚀 How to Add Jobs
+#### 🚀 How to Add Jobs
 1. Create a new issue.
 2. Select the "New Job" template.
 3. Fill out and submit the form.
    > Submit separate issues for each position, even from the same company.
 
-### ✏️ How to Update Jobs
+#### ✏️ How to Update Jobs
 1. Copy the job URL to edit.
 2. Create a new issue.
 3. Select the "Edit Job" template.
 4. Paste the URL and describe changes.
 
-### ⚡ What Happens Next
+#### ⚡ What Happens Next
 - Our team reviews within 24-48 hours.
 - Approved jobs are added to the main list.
 - The README updates automatically via script.
