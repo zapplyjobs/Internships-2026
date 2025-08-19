@@ -1,4 +1,3 @@
-
 {
   "faang_plus": {
     "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple", "ByteDance", "Netflix", "Tencent"],
@@ -11,17 +10,17 @@
     "title": "Top Tech"
   },
   "enterprise": {
-    "companies": ["IBM", "CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "Oracle", "VMware", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry", "Leidos", "General Dynamics", "Peraton", "Amentum", "CACI"],
+    "companies": ["CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry"],
     "emoji": "💻",
     "title": "Enterprise Software"
   },
   "startups": {
-    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Stripe", "Databricks", "Snowflake", "Palantir", "Figma", "Notion", "Discord", "Coinbase", "Robinhood", "Square", "Plaid", "Affirm", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Ramp", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "Candid Health", "Capital Rx", "7shifts", "Remitly", "Parity", "Wonderschool", "Acorns", "Kikoff", "Supernova Technology", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Remodel Health", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Anduril Industries", "Shield AI", "Silvus Technologies", "Ranger", "OpenEye", "MetroStar", "SimIS", "Radiance Technologies", "Sev1Tech", "i3", "Maxar"],
+    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Figma", "Notion", "Discord", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "7shifts", "Remitly", "Parity", "Wonderschool", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Ranger", "OpenEye", "MetroStar", "SimIS", "i3"],
     "emoji": "🚀",
     "title": "Startups & Growth"
   },
   "consumer": {
-    "companies": ["Rivian", "Uber", "Lyft", "Airbnb", "DoorDash", "Spotify", "TikTok", "Snap", "Pinterest", "Reddit", "Twitch", "Epic Games", "Riot Games", "Roblox", "Chewy", "Royal Carribean Group", "Expedia", "IXL Learning"],
+    "companies": ["Rivian", "Uber", "Lyft", "Airbnb", "DoorDash", "Spotify", "TikTok", "Snap", "Pinterest", "Reddit", "Twitch", "Epic Games", "Riot Games", "Roblox", "Chewy", "Royal Carribean Group", "IXL Learning"],
     "emoji": "🛒",
     "title": "Consumer & E-Commerce"
   },
@@ -36,18 +35,18 @@
     "title": "Defense & Aerospace"
   },
   "healthcare": {
-    "companies": ["ILLUMINA", "10x Genomics", "Boston Scientific", "Remodel Health", "Candid Health", "Capital Rx"],
+    "companies": ["ILLUMINA", "10x Genomics", "Boston Scientific", "Remodel Health", "Candid Health"],
     "emoji": "🏥",
     "title": "Healthcare & Life Sciences"
   },
   "manufacturing": {
-    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA", "Solar Turbines", "Emerson", "Moog", "General Dynamics"],
+    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA", "Solar Turbines"],
     "emoji": "🏭",
     "title": "Manufacturing & Industrial"
   },
   "analytics": {
-    "companies": ["Iowa State University", "Sigma Computing", "Celonis", "Esri", "Qualtrics", "IXL Learning"],
+    "companies": ["Iowa State University"],
     "emoji": "📊",
     "title": "Analytics & EdTech"
   }
-}
+} 
