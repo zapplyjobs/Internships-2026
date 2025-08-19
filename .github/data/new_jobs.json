@@ -1,78 +1,35 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Business and Marketing Data Scientist",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareYouTube. Posted: Recently. Full Title: Business and Marketing Data Scientist, YouTube, Creative Research",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/124900129667719878-business-and-marketing-data-scientist-youtube-creative-research?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=3",
-    "id": "google-business-and-marketing-data-scientist-new-york"
-  },
-  {
-    "job_title": "Software Engineer - Windows Servicing and Delivery",
+    "job_title": "Solution Engineer - Cloud and AI Azure Platform - Canberra",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862163",
-    "job_posted_at_datetime_utc": "2025-08-19T12:59:03.129Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860202",
+    "job_posted_at_datetime_utc": "2025-08-19T13:42:35.363Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-windows-servicing-and-delivery-redmond"
+    "id": "microsoft-solution-engineer-cloud-and-ai-azure-platform-canberra-redmond"
   },
   {
-    "job_title": "Senior Customer Experience Engineer",
+    "job_title": "Cloud & AI Solution Engineer – AI Applications - Canberra",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850549",
-    "job_posted_at_datetime_utc": "2025-08-19T12:59:03.129Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860168",
+    "job_posted_at_datetime_utc": "2025-08-19T13:42:35.363Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-canberra-redmond"
   },
   {
-    "job_title": "Technical Support Engineering - SCCM",
+    "job_title": "Cloud & AI Solution Engineer, AI Applications - Perth",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1840053",
-    "job_posted_at_datetime_utc": "2025-08-19T12:59:03.129Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860167",
+    "job_posted_at_datetime_utc": "2025-08-19T13:42:35.363Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-sccm-redmond"
-  },
-  {
-    "job_title": "AI Business Solutions – Solution Engineer (Finance & Supply Chain)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858653",
-    "job_posted_at_datetime_utc": "2025-08-19T12:59:03.129Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-solutions-solution-engineer-finance-supply-chain-redmond"
-  },
-  {
-    "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "employer_name": "Databricks",
-    "job_city": "Paris",
-    "job_state": "France",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8124368002",
-    "job_posted_at_datetime_utc": "2025-08-19T12:44:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-ai-engineer-fde-forward-deployed-engineer-paris"
-  },
-  {
-    "job_title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "employer_name": "Databricks",
-    "job_city": "Madrid",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8123721002",
-    "job_posted_at_datetime_utc": "2025-08-19T12:44:11.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-ai-engineer-fde-forward-deployed-engineer-madrid"
+    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-perth-redmond"
   }
 ]
