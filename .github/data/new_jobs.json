@@ -1,79 +1,46 @@
 [
   {
-    "job_title": "Product Marketing Manager - EMEA",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/745280431479549",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-marketing-manager-emea-multiple"
+    "job_title": "CPU Physical Electrical Analysis Engineer",
+    "employer_name": "Qualcomm",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_description": "Join Qualcomm to invent breakthrough technologies.",
+    "job_apply_link": "https://careers.qualcomm.com/careers/job/446707442786",
+    "job_posted_at_datetime_utc": "2025-08-19T03:52:01.721Z",
+    "job_employment_type": "FULLTIME",
+    "id": "qualcomm-cpu-physical-electrical-analysis-engineer-austin"
   },
   {
-    "job_title": "Materials Research Scientist",
-    "employer_name": "Meta",
+    "job_title": "Solution Engineer - Cloud and AI Azure Platform | Infrastructure",
+    "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1373982697482073",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-materials-research-scientist-redmond"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861370",
+    "job_posted_at_datetime_utc": "2025-08-19T03:51:56.484Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-cloud-and-ai-azure-platform-infrastructure-redmond"
   },
   {
-    "job_title": "Junior Data Engineer Azure",
-    "employer_name": "Chord Energy",
-    "job_city": "Houston",
-    "job_state": "TX",
-    "job_description": "Join Chord Energy in this exciting opportunity.",
-    "job_apply_link": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
-    "job_posted_at_datetime_utc": "2025-08-19T01:22:07.000Z",
+    "job_title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
+    "job_posted_at_datetime_utc": "2025-08-19T02:22:56.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "chord-energy-junior-data-engineer-azure-houston"
+    "id": "the-travelers-companies-software-engineer-i-enterprise-ai-for-operations-aws-python-hartford"
   },
   {
-    "job_title": "Machine Learning Engineer I - Monetization Engineering",
-    "employer_name": "Pinterest",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Pinterest in this exciting opportunity.",
-    "job_apply_link": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
-    "job_posted_at_datetime_utc": "2025-08-19T01:15:45.000Z",
+    "job_title": "Software Engineer I - Applications",
+    "employer_name": "ZOLL Medical Corporation",
+    "job_city": "Lowell",
+    "job_state": "MA",
+    "job_description": "Join ZOLL Medical Corporation in this exciting opportunity.",
+    "job_apply_link": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
+    "job_posted_at_datetime_utc": "2025-08-18T15:48:24.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "pinterest-machine-learning-engineer-i-monetization-engineering-palo-alto"
-  },
-  {
-    "job_title": "Senior Software Engineer, Guest & Host - Notifications",
-    "employer_name": "Airbnb",
-    "job_city": "China",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7174313?gh_jid=7174313",
-    "job_posted_at_datetime_utc": "2025-08-19T01:07:37.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-software-engineer-guest-host-notifications-china"
-  },
-  {
-    "job_title": "Corporate Engineering Manager, Automations & Integrations",
-    "employer_name": "Stripe",
-    "job_city": "Remote in the US",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7155895",
-    "job_posted_at_datetime_utc": "2025-08-19T00:08:02.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-corporate-engineering-manager-automations-integrations-remote-in-the-us"
-  },
-  {
-    "job_title": "Software Engineer – Early Career - Infrastructure",
-    "employer_name": "Notion",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Notion in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
-    "job_posted_at_datetime_utc": "2025-08-18T20:27:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "notion-software-engineer-early-career-infrastructure-sf"
+    "id": "zoll-medical-corporation-software-engineer-i-applications-lowell"
   }
 ]
