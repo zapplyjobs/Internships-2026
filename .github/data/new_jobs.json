@@ -1,112 +1,24 @@
 [
   {
-    "job_title": "Software Engineer",
-    "employer_name": "Amazon",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061877/software-engineer",
-    "job_posted_at": "2025-08-19T14:28:43.103Z",
-    "job_posted_at_datetime_utc": "2025-08-19T14:28:43.103Z",
-    "id": "amazon-software-engineer-cambridge"
-  },
-  {
-    "job_title": "Software Development Engineer, Kuiper",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2949421/software-development-engineer-kuiper",
-    "job_posted_at": "2025-08-19T13:28:43.103Z",
-    "job_posted_at_datetime_utc": "2025-08-19T13:28:43.103Z",
-    "id": "amazon-software-development-engineer-kuiper-bellevue"
-  },
-  {
-    "job_title": "Senior Fabric IP Verification Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860882",
-    "job_posted_at_datetime_utc": "2025-08-19T15:35:41.849Z",
+    "job_title": "Data Engineer Intern (2026)",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5623087004?gh_jid=5623087004",
+    "job_posted_at_datetime_utc": "2025-08-19T15:48:33.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-fabric-ip-verification-engineer-redmond"
+    "id": "figma-data-engineer-intern-2026-san-francisco"
   },
   {
-    "job_title": "Senior Software Engineer - Windows AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861030",
-    "job_posted_at_datetime_utc": "2025-08-19T15:35:41.849Z",
+    "job_title": "Software Engineer Intern (2026)",
+    "employer_name": "Figma",
+    "job_city": "San Francisco",
+    "job_state": "CA • New York",
+    "job_description": "Join Figma to make design accessible to all.",
+    "job_apply_link": "https://boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
+    "job_posted_at_datetime_utc": "2025-08-19T15:48:17.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-windows-ai-redmond"
-  },
-  {
-    "job_title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7538114876280817927",
-    "job_posted_at_datetime_utc": "2025-08-19T14:54:10.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-cloud-network-engineer-graduate-physical-network-infra-san-jose"
-  },
-  {
-    "job_title": "Network Engineer Graduate (Physical Network Infra)",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7538109046751463688",
-    "job_posted_at_datetime_utc": "2025-08-19T14:53:38.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-network-engineer-graduate-physical-network-infra-seattle"
-  },
-  {
-    "job_title": "Network Engineer Graduate (Physical Network Infra)",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7538106304578963730",
-    "job_posted_at_datetime_utc": "2025-08-19T14:53:14.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-network-engineer-graduate-physical-network-infra-san-jose"
-  },
-  {
-    "job_title": "Cloud Network Engineer Graduate(Physical Network Infra)",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7538433821165259015",
-    "job_posted_at_datetime_utc": "2025-08-19T14:52:45.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-cloud-network-engineer-graduate-physical-network-infra-seattle"
-  },
-  {
-    "job_title": "Software Engineer Graduate (Edge Platform)",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7538120693880834322",
-    "job_posted_at_datetime_utc": "2025-08-19T14:52:15.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-software-engineer-graduate-edge-platform-san-jose"
-  },
-  {
-    "job_title": "Site Reliability Engineer Graduate (Data Infrastructure)",
-    "employer_name": "ByteDance",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7535903852755814674",
-    "job_posted_at_datetime_utc": "2025-08-19T14:51:14.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "bytedance-site-reliability-engineer-graduate-data-infrastructure-seattle"
+    "id": "figma-software-engineer-intern-2026-san-francisco"
   }
 ]
