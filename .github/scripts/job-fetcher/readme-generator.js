@@ -190,7 +190,7 @@ function generateInternshipSection(internshipData) {
   return `
 ---
 
-## 🎓 **Data Internships 2025-2026** 
+## 🎓 **SWE Internships 2025-2026** 
 
 > **Top internships for students in data science, statistics, analytics, and related majors.**
 
