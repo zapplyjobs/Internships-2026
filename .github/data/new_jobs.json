@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "employer_name": "Google",
+    "job_title": "Technical Program Manager",
+    "job_city": "Portland",
+    "job_state": "OR",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Technical Program Manager, Construction Prefabrication",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/100658509615375046-technical-program-manager-construction-prefabrication?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States",
+    "id": "google-technical-program-manager-portland"
+  },
+  {
+    "job_title": "Principal AI Engineering manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861092",
+    "job_posted_at_datetime_utc": "2025-08-19T08:41:38.334Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-ai-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineering - Security ＆ Compliance (Compliance)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861196",
+    "job_posted_at_datetime_utc": "2025-08-19T08:41:38.334Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-security-compliance-compliance-redmond"
+  },
+  {
+    "job_title": "Applied AI Engineer II - Generalized Agents and Incubations",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861089",
+    "job_posted_at_datetime_utc": "2025-08-19T08:41:38.334Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-applied-ai-engineer-ii-generalized-agents-and-incubations-redmond"
+  },
+  {
+    "job_title": "Solution Engineer - Security",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862106",
+    "job_posted_at_datetime_utc": "2025-08-19T08:41:38.334Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-security-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Security Cloud Expansion",
+    "employer_name": "Stripe",
+    "job_city": "IN-Bengaluru",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7174299",
+    "job_posted_at_datetime_utc": "2025-08-19T08:24:35.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-software-engineer-security-cloud-expansion-in-bengaluru"
+  }
+]
