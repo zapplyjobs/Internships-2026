@@ -1,34 +1,79 @@
 [
   {
-    "job_title": "Software Development Engineer II (ADBL181)",
-    "employer_name": "Amazon",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061422/software-development-engineer-ii-adbl181",
-    "job_posted_at": "2025-08-18T22:24:37.320Z",
-    "job_posted_at_datetime_utc": "2025-08-18T22:24:37.320Z",
-    "id": "amazon-software-development-engineer-ii-adbl181-cambridge"
-  },
-  {
-    "job_title": "Director of Engineering",
+    "job_title": "Product Marketing Manager - EMEA",
     "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +3 locations",
-    "job_description": "Enterprise Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/4138335003053363",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/745280431479549",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-of-engineering-bellevue"
+    "id": "meta-product-marketing-manager-emea-multiple"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Android Finance Analyst",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Materials Research Scientist",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/1373982697482073",
     "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Android Finance Analyst",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/77668533227397830-android-finance-analyst?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
-    "id": "google-android-finance-analyst-mountain-view"
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-materials-research-scientist-redmond"
+  },
+  {
+    "job_title": "Junior Data Engineer Azure",
+    "employer_name": "Chord Energy",
+    "job_city": "Houston",
+    "job_state": "TX",
+    "job_description": "Join Chord Energy in this exciting opportunity.",
+    "job_apply_link": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
+    "job_posted_at_datetime_utc": "2025-08-19T01:22:07.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "chord-energy-junior-data-engineer-azure-houston"
+  },
+  {
+    "job_title": "Machine Learning Engineer I - Monetization Engineering",
+    "employer_name": "Pinterest",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_description": "Join Pinterest in this exciting opportunity.",
+    "job_apply_link": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
+    "job_posted_at_datetime_utc": "2025-08-19T01:15:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "pinterest-machine-learning-engineer-i-monetization-engineering-palo-alto"
+  },
+  {
+    "job_title": "Senior Software Engineer, Guest & Host - Notifications",
+    "employer_name": "Airbnb",
+    "job_city": "China",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7174313?gh_jid=7174313",
+    "job_posted_at_datetime_utc": "2025-08-19T01:07:37.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-senior-software-engineer-guest-host-notifications-china"
+  },
+  {
+    "job_title": "Corporate Engineering Manager, Automations & Integrations",
+    "employer_name": "Stripe",
+    "job_city": "Remote in the US",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7155895",
+    "job_posted_at_datetime_utc": "2025-08-19T00:08:02.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-corporate-engineering-manager-automations-integrations-remote-in-the-us"
+  },
+  {
+    "job_title": "Software Engineer – Early Career - Infrastructure",
+    "employer_name": "Notion",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Notion in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
+    "job_posted_at_datetime_utc": "2025-08-18T20:27:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "notion-software-engineer-early-career-infrastructure-sf"
   }
 ]
