@@ -231,30 +231,35 @@ async function fetchInternshipData() {
     const internshipSources = [
         {
             name: 'AngelList Internships',
+            emogi: '👼',
             url: 'https://angel.co/jobs#internships',
             type: 'Job Board',
             description: 'Startup internships and entry-level positions'
         },
         {
             name: 'LinkedIn Student Jobs',
+            emogi: '🔗',
             url: 'https://linkedin.com/jobs/student-jobs',
             type: 'Platform',
             description: 'Professional network for student opportunities'
         },
         {
             name: 'Indeed Internships',
+            emogi: '🔵',
             url: 'https://indeed.com/q-software-engineering-intern-jobs.html',
             type: 'Job Board',
             description: 'Comprehensive internship search engine'
         },
         {
             name: 'Glassdoor Internships',
+            emogi: '🏢',
             url: 'https://glassdoor.com/Job/software-engineer-intern-jobs-SRCH_KO0,23.htm',
             type: 'Job Board',
             description: 'Internships with company reviews and salary data'
         },
         {
             name: 'University Career Centers',
+            emogi: '🏫',
             url: 'https://nace.org',
             type: 'Resource',
             description: 'National Association of Colleges and Employers'

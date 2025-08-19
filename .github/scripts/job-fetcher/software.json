@@ -1,0 +1,52 @@
+{
+  "faang_plus": {
+    "companies": ["Amazon", "Microsoft", "Meta", "Google", "Apple"],
+    "emoji": "🏢",
+    "title": "FAANG+"
+  },
+  "top_tech": {
+    "companies": ["MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE", "Oracle", "IBM", "Qualcomm", "VMware", "Databricks", "Snowflake", "Palo Alto Networks", "Tesla"],
+    "emoji": "🏢",
+    "title": "Top Tech"
+  },
+  "enterprise": {
+    "companies": ["IBM", "CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "Oracle", "VMware", "ServiceNow"],
+    "emoji": "💻",
+    "title": "Enterprise Software"
+  },
+  "startups": {
+    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Stripe", "Databricks", "Snowflake", "Palantir", "Figma", "Notion", "Discord", "Coinbase", "Robinhood", "Square", "Plaid", "Affirm", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity"],
+    "emoji": "🚀",
+    "title": "Startups & Growth"
+  },
+  "consumer": {
+    "companies": ["Rivian", "Uber", "Lyft", "Airbnb", "DoorDash", "Spotify", "TikTok", "Snap", "Pinterest", "Reddit", "Twitch", "Epic Games", "Riot Games", "Roblox"],
+    "emoji": "🛒",
+    "title": "Consumer & E-Commerce"
+  },
+  "fintech": {
+    "companies": ["JP Morgan Chase", "Stripe", "Coinbase", "Robinhood", "Square", "Plaid", "Affirm"],
+    "emoji": "💰",
+    "title": "Financial & Fintech"
+  },
+  "defense": {
+    "companies": ["WAYMO", "SpaceX", "Palantir"],
+    "emoji": "🛡️",
+    "title": "Defense & Aerospace"
+  },
+  "healthcare": {
+    "companies": ["ILLUMINA", "10x Genomics"],
+    "emoji": "🏥",
+    "title": "Healthcare & Life Sciences"
+  },
+  "manufacturing": {
+    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA"],
+    "emoji": "🏭",
+    "title": "Manufacturing & Industrial"
+  },
+  "analytics": {
+    "companies": [],
+    "emoji": "📊",
+    "title": "Analytics & EdTech"
+  }
+}
