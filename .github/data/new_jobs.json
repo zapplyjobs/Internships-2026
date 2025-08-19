@@ -1,55 +1,35 @@
 [
   {
-    "job_title": "Software Development Engineer, Amazon Connect",
-    "employer_name": "Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3041883/software-development-engineer-amazon-connect",
-    "job_posted_at": "2025-08-18T18:31:23.578Z",
-    "job_posted_at_datetime_utc": "2025-08-18T18:31:23.578Z",
-    "id": "amazon-software-development-engineer-amazon-connect-seattle"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Product Policy Specialist",
-    "job_city": "Washington D.C.",
-    "job_state": "DC",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Product Policy Specialist, Generative AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/103415109820261062-product-policy-specialist-generative-ai?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=5",
-    "id": "google-product-policy-specialist-washington-d-c"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Revenue Operations Accountant",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Revenue Operations Accountant, Cloud Controllership",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/122566540791816902-revenue-operations-accountant-cloud-controllership?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=5",
-    "id": "google-revenue-operations-accountant-sunnyvale"
-  },
-  {
-    "job_title": "Technical Support Engineering IC4",
+    "job_title": "Support Escalation Engineer - Azure Networking (Global Client Delivery)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856375",
-    "job_posted_at_datetime_utc": "2025-08-19T04:38:08.996Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862089",
+    "job_posted_at_datetime_utc": "2025-08-19T05:33:21.300Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-ic4-redmond"
+    "id": "microsoft-support-escalation-engineer-azure-networking-global-client-delivery-redmond"
   },
   {
-    "job_title": "2025 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Burlington",
-    "job_state": "MA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01786891",
-    "job_posted_at_datetime_utc": "2025-08-18T16:13:08.000Z",
+    "job_title": "Support Escalation Engineer - Azure Networking (Japanese Client Delivery)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862090",
+    "job_posted_at_datetime_utc": "2025-08-19T05:33:21.300Z",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-2025-fulltime-raytheon-missile-defense-sensors-software-engineer-i-burlington"
+    "id": "microsoft-support-escalation-engineer-azure-networking-japanese-client-delivery-redmond"
+  },
+  {
+    "job_title": "Software Engineer I - Workday Programmer - Report Writer - Eib",
+    "employer_name": "The Travelers Companies",
+    "job_city": "Hartford",
+    "job_state": "CT",
+    "job_description": "Join The Travelers Companies in this exciting opportunity.",
+    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062",
+    "job_posted_at_datetime_utc": "2025-08-18T15:51:30.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "the-travelers-companies-software-engineer-i-workday-programmer-report-writer-eib-hartford"
   }
 ]
