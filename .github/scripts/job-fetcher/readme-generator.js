@@ -94,7 +94,7 @@ function generateJobTable(jobs) {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
       
-      output += `## ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
@@ -107,9 +107,9 @@ function generateJobTable(jobs) {
         
         if (companyJobs.length > 50) {
           output += `<details>\n`;
-          output += `<summary><h3>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h3></summary>\n\n`;
+          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
         } else {
-          output += `### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
         }
         
         output += `| Role | Location | Posted | Level | Category | Apply |\n`;
@@ -213,7 +213,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi}${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
   )
   .join("\n")}
 
@@ -291,14 +291,13 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 - **🤖 Next Update**: Tomorrow at 9 AM UTC
 - **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
 
----
+
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
 ## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
-
 
 ${generateJobTable(currentJobs)}
 
