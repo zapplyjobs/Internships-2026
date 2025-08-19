@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "job_title": "3D Artist | Wearables Product Creative",
+    "employer_name": "Meta",
+    "job_city": "Seattle",
+    "job_state": "WA +2 locations",
+    "job_description": "3D Product Design +4 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1110323413760611",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-3d-artist-wearables-product-creative-seattle"
+  },
+  {
+    "job_title": "Solution Engineering- Security",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861607",
+    "job_posted_at_datetime_utc": "2025-08-19T23:31:07.817Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-security-redmond"
+  },
+  {
+    "job_title": "Solution Engineering- Data Security & Compliance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861609",
+    "job_posted_at_datetime_utc": "2025-08-19T23:31:07.817Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineering-data-security-compliance-redmond"
+  },
+  {
+    "job_title": "Vaga de Estágio Afirmativa em Engenharia de Software para Pessoas com Deficiência | Software Engineering: PwD Internship Opportunities – Brazil",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861379",
+    "job_posted_at_datetime_utc": "2025-08-19T23:31:07.817Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-vaga-de-est-gio-afirmativa-em-engenharia-de-software-para-pessoas-com-defici-ncia-software-engineering-pwd-internship-opportunities-brazil-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer, Exploration (CoreAI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1824688",
+    "job_posted_at_datetime_utc": "2025-08-19T23:31:07.817Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-exploration-coreai-redmond"
+  }
+]
