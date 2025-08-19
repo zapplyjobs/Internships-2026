@@ -449,11 +449,11 @@ Add new jobs! See the [contributing guide](#contributing-guide).
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
----
+
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : "No archived jobs available."}
 
----
+
 
 <div align="center">
 
