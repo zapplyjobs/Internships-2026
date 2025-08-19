@@ -1,35 +1,35 @@
 [
   {
-    "job_title": "Support Escalation Engineer - Azure Networking (Global Client Delivery)",
+    "job_title": "Security Technical Program Manager, Enterprise Engineering",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Enterprise Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/793116740102835",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-security-technical-program-manager-enterprise-engineering-multiple"
+  },
+  {
+    "job_title": "Integration And Manufacturing Process Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1460919941742437",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-integration-and-manufacturing-process-engineer-multiple"
+  },
+  {
+    "job_title": "Service Engineering II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862089",
-    "job_posted_at_datetime_utc": "2025-08-19T05:33:21.300Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856235",
+    "job_posted_at_datetime_utc": "2025-08-19T06:45:32.835Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-support-escalation-engineer-azure-networking-global-client-delivery-redmond"
-  },
-  {
-    "job_title": "Support Escalation Engineer - Azure Networking (Japanese Client Delivery)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862090",
-    "job_posted_at_datetime_utc": "2025-08-19T05:33:21.300Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-support-escalation-engineer-azure-networking-japanese-client-delivery-redmond"
-  },
-  {
-    "job_title": "Software Engineer I - Workday Programmer - Report Writer - Eib",
-    "employer_name": "The Travelers Companies",
-    "job_city": "Hartford",
-    "job_state": "CT",
-    "job_description": "Join The Travelers Companies in this exciting opportunity.",
-    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062",
-    "job_posted_at_datetime_utc": "2025-08-18T15:51:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "the-travelers-companies-software-engineer-i-workday-programmer-report-writer-eib-hartford"
+    "id": "microsoft-service-engineering-ii-redmond"
   }
 ]
