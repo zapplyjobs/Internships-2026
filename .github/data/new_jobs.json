@@ -1,68 +1,112 @@
 [
   {
-    "job_title": "Director Production Engineering, Monetization",
-    "employer_name": "Meta",
+    "job_title": "Software Engineer",
+    "employer_name": "Amazon",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3061877/software-engineer",
+    "job_posted_at": "2025-08-19T14:28:43.103Z",
+    "job_posted_at_datetime_utc": "2025-08-19T14:28:43.103Z",
+    "id": "amazon-software-engineer-cambridge"
+  },
+  {
+    "job_title": "Software Development Engineer, Kuiper",
+    "employer_name": "Amazon",
     "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/2489519308099076",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-production-engineering-monetization-bellevue"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2949421/software-development-engineer-kuiper",
+    "job_posted_at": "2025-08-19T13:28:43.103Z",
+    "job_posted_at_datetime_utc": "2025-08-19T13:28:43.103Z",
+    "id": "amazon-software-development-engineer-kuiper-bellevue"
   },
   {
-    "job_title": "Electrical Engineer - Research",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Engineering +2 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1096902739279597",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-research-redmond"
-  },
-  {
-    "job_title": "Principal Customer Experience Engineer",
+    "job_title": "Senior Fabric IP Verification Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1835785",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860882",
+    "job_posted_at_datetime_utc": "2025-08-19T15:35:41.849Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-customer-experience-engineer-redmond"
+    "id": "microsoft-senior-fabric-ip-verification-engineer-redmond"
   },
   {
-    "job_title": "Senior Finance Manager – Engineering R&D",
+    "job_title": "Senior Software Engineer - Windows AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857975",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861030",
+    "job_posted_at_datetime_utc": "2025-08-19T15:35:41.849Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-finance-manager-engineering-r-d-redmond"
+    "id": "microsoft-senior-software-engineer-windows-ai-redmond"
   },
   {
-    "job_title": "Software Engineer II - OneDrive and SharePoint",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859448",
-    "job_posted_at_datetime_utc": "2025-08-13T20:37:16.293Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-onedrive-and-sharepoint-redmond"
-  },
-  {
-    "job_title": "Full Stack Engineer (L4), Computer Graphics Platform & Pipelines",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304744845",
-    "job_posted_at_datetime_utc": "2025-08-13T00:00:00.000Z",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7538114876280817927",
+    "job_posted_at_datetime_utc": "2025-08-19T14:54:10.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-full-stack-engineer-l4-computer-graphics-platform-pipelines-usa-remote"
+    "id": "bytedance-cloud-network-engineer-graduate-physical-network-infra-san-jose"
+  },
+  {
+    "job_title": "Network Engineer Graduate (Physical Network Infra)",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7538109046751463688",
+    "job_posted_at_datetime_utc": "2025-08-19T14:53:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-network-engineer-graduate-physical-network-infra-seattle"
+  },
+  {
+    "job_title": "Network Engineer Graduate (Physical Network Infra)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7538106304578963730",
+    "job_posted_at_datetime_utc": "2025-08-19T14:53:14.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-network-engineer-graduate-physical-network-infra-san-jose"
+  },
+  {
+    "job_title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7538433821165259015",
+    "job_posted_at_datetime_utc": "2025-08-19T14:52:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-cloud-network-engineer-graduate-physical-network-infra-seattle"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Edge Platform)",
+    "employer_name": "ByteDance",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7538120693880834322",
+    "job_posted_at_datetime_utc": "2025-08-19T14:52:15.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-software-engineer-graduate-edge-platform-san-jose"
+  },
+  {
+    "job_title": "Site Reliability Engineer Graduate (Data Infrastructure)",
+    "employer_name": "ByteDance",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Join ByteDance in this exciting opportunity.",
+    "job_apply_link": "https://joinbytedance.com/search/7535903852755814674",
+    "job_posted_at_datetime_utc": "2025-08-19T14:51:14.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "bytedance-site-reliability-engineer-graduate-data-infrastructure-seattle"
   }
 ]
