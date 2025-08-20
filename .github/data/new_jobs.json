@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Engineering Manager, Performance & Capacity Engineering - Capacity Planning Optimization",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1908375580016792",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-engineering-manager-performance-capacity-engineering-capacity-planning-optimization-bellevue"
-  },
-  {
-    "job_title": "Senior Software Engineer - OneDrive Photos Platform Services",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861172",
-    "job_posted_at_datetime_utc": "2025-08-20T14:34:32.205Z",
+    "job_title": "Staff Software Engineer, Guest & Host",
+    "employer_name": "Airbnb",
+    "job_city": "Remote USA",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6718415?gh_jid=6718415",
+    "job_posted_at_datetime_utc": "2025-08-20T15:14:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-onedrive-photos-platform-services-redmond"
-  },
-  {
-    "job_title": "Data Center Operations Engineer - Rio de Janeiro - Onsite",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859544",
-    "job_posted_at_datetime_utc": "2025-08-20T14:34:32.205Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-center-operations-engineer-rio-de-janeiro-onsite-redmond"
+    "id": "airbnb-staff-software-engineer-guest-host-remote-usa"
   }
 ]
