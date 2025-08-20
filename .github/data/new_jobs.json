@@ -1,24 +1,200 @@
 [
   {
-    "job_title": "Electrical Engineer - Robotics Research",
+    "job_title": "Network Systems Engineer",
     "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +1 locations",
-    "job_description": "Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/728845829972547",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Network Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1482061466146824",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-electrical-engineer-robotics-research-redmond"
+    "id": "meta-network-systems-engineer-menlo-park"
   },
   {
-    "job_title": "Principal Azure Customer Engineering (ACE) Manager",
+    "job_title": "Production Engineer, Network",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1160911431881939",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-production-engineer-network-menlo-park"
+  },
+  {
+    "job_title": "Civil Engineer - Data Center Design, Engineering and Construction (DEC)",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/1441893813607373",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-civil-engineer-data-center-design-engineering-and-construction-dec-multiple"
+  },
+  {
+    "job_title": "Lead Contracts Manager - Data Center Design, Engineering & Construction",
+    "employer_name": "Meta",
+    "job_city": "Remote",
+    "job_state": "US",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/1064954519071644",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-lead-contracts-manager-data-center-design-engineering-construction-remote"
+  },
+  {
+    "job_title": "Head of Consumer Product Marketing - Instagram Sharing, Messaging, and AI",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2187268538438376",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-head-of-consumer-product-marketing-instagram-sharing-messaging-and-ai-menlo-park"
+  },
+  {
+    "job_title": "Product Marketing Director, Business AI",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1304893267533008",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-marketing-director-business-ai-menlo-park"
+  },
+  {
+    "job_title": "ASIC Implementation Engineer - Synthesis",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +1 locations",
+    "job_description": "Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/731468353140237",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-asic-implementation-engineer-synthesis-sunnyvale"
+  },
+  {
+    "job_title": "Mechanical Engineer",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3194997777321980",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-mechanical-engineer-menlo-park"
+  },
+  {
+    "job_title": "Software Engineering Manager, AI Infrastructure",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/3093144484184279",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-manager-ai-infrastructure-bellevue"
+  },
+  {
+    "job_title": "Software Engineer - Android (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/699608119727078",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-android-technical-leadership-menlo-park"
+  },
+  {
+    "job_title": "Software Engineer (Technical Leadership) - Machine Learning Specialist",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +4 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1214960463705626",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-technical-leadership-machine-learning-specialist-bellevue"
+  },
+  {
+    "job_title": "Engineering Manager, Computer Vision",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/129978940197464",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-engineering-manager-computer-vision-multiple"
+  },
+  {
+    "job_title": "Algorithm Engineer, Machine Learning for Cameras (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "AI Research +2 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1025531116342769",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-algorithm-engineer-machine-learning-for-cameras-phd-sunnyvale"
+  },
+  {
+    "job_title": "Software Engineering, Machine Learning",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/1780259309366631",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineering-machine-learning-multiple"
+  },
+  {
+    "job_title": "Product Manager, Enterprise AI",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Product Strategy",
+    "job_apply_link": "https://www.metacareers.com/jobs/2508796622812445",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-manager-enterprise-ai-multiple"
+  },
+  {
+    "job_title": "Principal Security Customer Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858267",
-    "job_posted_at_datetime_utc": "2025-08-20T20:35:59.863Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845763",
+    "job_posted_at_datetime_utc": "2025-08-20T21:31:02.044Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-azure-customer-engineering-ace-manager-redmond"
+    "id": "microsoft-principal-security-customer-engineering-manager-redmond"
+  },
+  {
+    "job_title": "Software Engineer II - XStore on Pilotfish",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862293",
+    "job_posted_at_datetime_utc": "2025-08-20T21:31:02.044Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-xstore-on-pilotfish-redmond"
+  },
+  {
+    "job_title": "Junior Software Engineer",
+    "employer_name": "Peraton",
+    "job_city": "King George County",
+    "job_state": "VA",
+    "job_description": "Join Peraton in this exciting opportunity.",
+    "job_apply_link": "https://careers-peraton.icims.com/jobs/159132/job",
+    "job_posted_at_datetime_utc": "2025-08-20T15:48:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "peraton-junior-software-engineer-king-george-county"
   }
 ]
