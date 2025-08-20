@@ -1,13 +1,78 @@
 [
   {
-    "job_title": "Staff Software Engineer, Guest & Host",
-    "employer_name": "Airbnb",
-    "job_city": "Remote USA",
+    "job_title": "Operations Engineer",
+    "employer_name": "Meta",
+    "job_city": "Fremont",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6718415?gh_jid=6718415",
-    "job_posted_at_datetime_utc": "2025-08-20T15:14:57.000Z",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1336689968110846",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-operations-engineer-fremont"
+  },
+  {
+    "job_title": "Software Engineer, OS Frameworks (Android) - Reality Labs",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2155701414836588",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-os-frameworks-android-reality-labs-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Infrastructure Sustainability Policy and Market Development Lead",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Infrastructure Sustainability Policy and Market Development Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/73512478058652358-infrastructure-sustainability-policy-and-market-development-lead?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=8",
+    "id": "google-infrastructure-sustainability-policy-and-market-development-lead-chicago"
+  },
+  {
+    "job_title": "Innovation Hub Solution Engineer- Cloud & AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860748",
+    "job_posted_at_datetime_utc": "2025-08-20T16:38:55.383Z",
     "job_employment_type": "FULLTIME",
-    "id": "airbnb-staff-software-engineer-guest-host-remote-usa"
+    "id": "microsoft-innovation-hub-solution-engineer-cloud-ai-redmond"
+  },
+  {
+    "job_title": "Principal Security Assurance Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845307",
+    "job_posted_at_datetime_utc": "2025-08-20T16:38:55.383Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-security-assurance-engineer-redmond"
+  },
+  {
+    "job_title": "Senior Signal Integrity - Power Integrity Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860506",
+    "job_posted_at_datetime_utc": "2025-08-20T16:38:55.383Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-signal-integrity-power-integrity-engineer-redmond"
+  },
+  {
+    "job_title": "Integration Reliability Engineer, Technical Operations, Local Payment Methods",
+    "employer_name": "Stripe",
+    "job_city": "Mexico City",
+    "job_state": "Toronto",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7154004",
+    "job_posted_at_datetime_utc": "2025-08-20T15:42:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-integration-reliability-engineer-technical-operations-local-payment-methods-mexico-city"
   }
 ]
