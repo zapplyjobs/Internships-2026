@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "job_title": "Optical Test Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1072766948343835",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-optical-test-engineer-multiple"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer",
+    "job_city": "Goleta",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Software Engineer, Data Engineering, LabOS, Quantum AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/141492275526935238-software-engineer-data-engineering-labos-quantum-ai?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=4",
+    "id": "google-software-engineer-goleta"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Income Tax Data Operations and Reporting Lead",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Income Tax Data Operations and Reporting Lead",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/118273940022796998-income-tax-data-operations-and-reporting-lead?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States",
+    "id": "google-income-tax-data-operations-and-reporting-lead-chicago"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Performance Strategy Lead",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Performance Strategy Lead, Media and Entertainment",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/74933665557029574-performance-strategy-lead-media-and-entertainment?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=4",
+    "id": "google-performance-strategy-lead-los-angeles"
+  },
+  {
+    "job_title": "Technical Support Engineering - Intune",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852789",
+    "job_posted_at_datetime_utc": "2025-08-20T07:32:13.213Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-intune-redmond"
+  },
+  {
+    "job_title": "ROP-Software Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862542",
+    "job_posted_at_datetime_utc": "2025-08-20T07:32:13.213Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-rop-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Data Analytics Manager (AI Engineer – Generative & Agentic AI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851088",
+    "job_posted_at_datetime_utc": "2025-08-20T07:32:13.213Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-data-analytics-manager-ai-engineer-generative-agentic-ai-redmond"
+  }
+]
