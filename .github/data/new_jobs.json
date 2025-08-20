@@ -1,46 +1,13 @@
 [
   {
-    "job_title": "AI/HPC Systems Performance Engineer",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Network Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2321145701637264",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-ai-hpc-systems-performance-engineer-menlo-park"
-  },
-  {
-    "job_title": "Data Solution Engineer Global Black Belt",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861236",
-    "job_posted_at_datetime_utc": "2025-08-20T17:30:14.081Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-solution-engineer-global-black-belt-redmond"
-  },
-  {
-    "job_title": "Staff Security Engineer, Network Security",
+    "job_title": "Senior Staff Software Engineer (Platform - DevX)",
     "employer_name": "Coinbase",
     "job_city": "Remote - USA",
     "job_state": "CA",
     "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630",
-    "job_posted_at_datetime_utc": "2025-08-20T16:46:31.000Z",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7181058?gh_jid=7181058",
+    "job_posted_at_datetime_utc": "2025-08-20T18:20:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-staff-security-engineer-network-security-remote-usa"
-  },
-  {
-    "job_title": "AI Growth Lead (Staff Software Engineer)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7178394?gh_jid=7178394",
-    "job_posted_at_datetime_utc": "2025-08-20T16:41:13.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-ai-growth-lead-staff-software-engineer-remote-usa"
+    "id": "coinbase-senior-staff-software-engineer-platform-devx-remote-usa"
   }
 ]
