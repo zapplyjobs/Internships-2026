@@ -6,6 +6,7 @@ const scrapeMetaJobs = require('../../jobboard/src/backend/platforms/meta/metaSc
 const microsoftScraper = require('../../jobboard/src/backend/platforms/microsoft/microsoftScraper');
 const scrapeUberJobs = require('../../jobboard/src/backend/platforms/uber/uberScraper');
 const scrapeSlackJobs = require('../../jobboard/src/backend/platforms/slack/slackScraper');
+const {isUSOnlyJob} = require('./job-fetcher/utils');
 // Load company database
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 const ALL_COMPANIES = Object.values(companies).flat();
@@ -406,30 +407,47 @@ async function fetchSimplifyJobsData() {
 async function fetchAllRealJobs() {
     console.log('🚀 Starting REAL career page scraping...');
 
-    const allJobs = [];
-    const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
-        scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
-        scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
-        microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
-        googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
-        scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
-        scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
-    ]);
-    allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
+    let allJobs = [];
+    // const [amazonJobs, metaJobs, microsoftJobs, googleJobs, uberJobs, slackJobs] = await Promise.all([
+    //     scrapeAmazonJobs().catch(err => { console.error('❌ Amazon scraper failed:', err.message); return []; }),
+    //     scrapeMetaJobs().catch(err => { console.error('❌ Meta scraper failed:', err.message); return []; }),
+    //     microsoftScraper().catch(err => { console.error('❌ Microsoft scraper failed:', err.message); return []; }),
+    //     googleScraper().catch(err => { console.error('❌ Google scraper failed:', err.message); return []; }),
+    //     scrapeUberJobs().catch(err => { console.error('❌ Uber scraper failed:', err.message); return []; }),
+    //     scrapeSlackJobs().catch(err => { console.error('❌ Slack scraper failed:', err.message); return []; }),
+    // ]);
+    // allJobs.push(...amazonJobs, ...metaJobs, ...microsoftJobs, ...googleJobs, ...uberJobs, ...slackJobs);
     const companiesWithAPIs = Object.keys(CAREER_APIS);
 
     // Fetch real jobs from companies with APIs
-    for (const company of companiesWithAPIs) {
-        const jobs = await fetchCompanyJobs(company);
-        allJobs.push(...jobs);
+ 
+for (const company of companiesWithAPIs) {
+    const jobs = await fetchCompanyJobs(company);
+    allJobs.push(...jobs);
+    
+    // Be respectful with rate limiting
+    await delay(2000);
+}
 
-        // Be respectful with rate limiting
-        await delay(2000);
+// Fetch jobs from external sources
+const externalJobs = await fetchSimplifyJobsData();
+allJobs.push(...externalJobs);
+
+// Filter to keep only US jobs
+const removedJobs = [];
+allJobs = allJobs.filter(job => {
+    const isUSJob = isUSOnlyJob(job);
+    
+    if (!isUSJob) {
+        removedJobs.push(job);
+        return false; // Remove non-US job
     }
+    
+    return true; // Keep US job
+});
 
-    // Fetch jobs from external sources
-    const externalJobs = await fetchSimplifyJobsData();
-    allJobs.push(...externalJobs);
+// Console log the removed jobs
+console.log(`Removed ${removedJobs.length} non-US jobs:`, removedJobs);
 
     // Remove duplicates using standardized job ID generation
     const uniqueJobs = allJobs.filter((job, index, self) => {
