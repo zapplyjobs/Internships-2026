@@ -1,13 +1,79 @@
 [
   {
-    "job_title": "Software Engineer in ML Systems Graduate",
-    "employer_name": "ByteDance",
+    "job_title": "Senior Software Engineer – Word",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850991",
+    "job_posted_at_datetime_utc": "2025-08-20T09:35:52.436Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-word-redmond"
+  },
+  {
+    "job_title": "Graphics Engineering Intern",
+    "employer_name": "Blizzard",
+    "job_city": "Irvine",
+    "job_state": "CA",
+    "job_description": "Join Blizzard in this exciting opportunity.",
+    "job_apply_link": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern",
+    "job_posted_at_datetime_utc": "2025-08-20T09:01:16.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "blizzard-graphics-engineering-intern-irvine"
+  },
+  {
+    "job_title": "Software Engineer, Notifications Platform",
+    "employer_name": "Whatnot",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Whatnot in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/8ca77652-1248-41f4-9af1-07fc84d7f9f8",
+    "job_posted_at_datetime_utc": "2025-08-20T08:56:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "whatnot-software-engineer-notifications-platform-san-francisco"
+  },
+  {
+    "job_title": "Deep Learning Software Engineer, FlashInfer",
+    "employer_name": "NVIDIA",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Join NVIDIA in this exciting opportunity.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086",
+    "job_posted_at_datetime_utc": "2025-08-20T08:54:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nvidia-deep-learning-software-engineer-flashinfer-santa-clara"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Video-on-Demand Algorithm)",
+    "employer_name": "TikTok",
     "job_city": "San Jose",
     "job_state": "CA",
-    "job_description": "Join ByteDance in this exciting opportunity.",
-    "job_apply_link": "https://joinbytedance.com/search/7265752342699837757",
-    "job_posted_at_datetime_utc": "2025-08-20T08:23:24.000Z",
+    "job_description": "Join TikTok in this exciting opportunity.",
+    "job_apply_link": "https://lifeattiktok.com/search/7538319953965287698",
+    "job_posted_at_datetime_utc": "2025-08-20T08:49:01.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "bytedance-software-engineer-in-ml-systems-graduate-san-jose"
+    "id": "tiktok-software-engineer-graduate-video-on-demand-algorithm-san-jose"
+  },
+  {
+    "job_title": "Software Engineer Graduate (Data Arch - E-commerce)",
+    "employer_name": "TikTok",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join TikTok in this exciting opportunity.",
+    "job_apply_link": "https://lifeattiktok.com/search/7535871317771634952",
+    "job_posted_at_datetime_utc": "2025-08-20T08:46:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "tiktok-software-engineer-graduate-data-arch-e-commerce-san-jose"
+  },
+  {
+    "job_title": "Software Engineer – New Grad - Production Infrastructure",
+    "employer_name": "Palantir",
+    "job_city": "Washington",
+    "job_state": "DC",
+    "job_description": "Join Palantir in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
+    "job_posted_at_datetime_utc": "2025-08-19T16:18:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "palantir-software-engineer-new-grad-production-infrastructure-washington"
   }
 ]
