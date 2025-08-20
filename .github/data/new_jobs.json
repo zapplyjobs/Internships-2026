@@ -1,13 +1,57 @@
 [
   {
-    "job_title": "Senior Staff Software Engineer (Platform - DevX)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7181058?gh_jid=7181058",
-    "job_posted_at_datetime_utc": "2025-08-20T18:20:12.000Z",
+    "job_title": "Cloud Services Engineer - CxRE",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850508",
+    "job_posted_at_datetime_utc": "2025-08-20T19:28:05.014Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-platform-devx-remote-usa"
+    "id": "microsoft-cloud-services-engineer-cxre-redmond"
+  },
+  {
+    "job_title": "Manager, Engineering - Community Support Engineering",
+    "employer_name": "Airbnb",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7176142?gh_jid=7176142",
+    "job_posted_at_datetime_utc": "2025-08-20T19:26:29.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-manager-engineering-community-support-engineering-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "Cisco",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join Cisco in this exciting opportunity.",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
+    "job_posted_at_datetime_utc": "2025-08-20T18:51:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "cisco-software-engineer-i-san-jose"
+  },
+  {
+    "job_title": "Software Engineer, Language - Wearables",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Join Meta in this exciting opportunity.",
+    "job_apply_link": "https://www.metacareers.com/jobs/812938290909042/",
+    "job_posted_at_datetime_utc": "2025-08-20T18:48:17.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "meta-software-engineer-language-wearables-menlo-park"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Nominal",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Nominal in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
+    "job_posted_at_datetime_utc": "2025-08-20T18:45:50.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nominal-software-engineer-new-york"
   }
 ]
