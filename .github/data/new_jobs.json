@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Prototyping Engineer - CNC Machinist",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Engineering +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1481594336204560",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-prototyping-engineer-cnc-machinist-sunnyvale"
-  },
-  {
-    "job_title": "Senior Leadership Recruiter, Engineering",
-    "employer_name": "Stripe",
-    "job_city": "SEA",
-    "job_state": "SF",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7021605",
-    "job_posted_at_datetime_utc": "2025-08-19T21:22:30.000Z",
+    "job_title": "Software Engineer II - Security for AI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854002",
+    "job_posted_at_datetime_utc": "2025-08-20T10:35:58.957Z",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-senior-leadership-recruiter-engineering-sea"
+    "id": "microsoft-software-engineer-ii-security-for-ai-redmond"
   }
 ]
