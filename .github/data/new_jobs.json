@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Product Manager, Supply Chain Optimization",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Product Management",
-    "job_apply_link": "https://www.metacareers.com/jobs/1399340147806238",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-supply-chain-optimization-multiple"
-  },
-  {
-    "job_title": "Technical Support Engineer - PostgreSQL - MySQL",
+    "job_title": "Cloud & AI Solution Engineer (Infrastructure) - Canberra",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862419",
-    "job_posted_at_datetime_utc": "2025-08-21T11:29:06.845Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862911",
+    "job_posted_at_datetime_utc": "2025-08-21T13:00:34.112Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-postgresql-mysql-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-infrastructure-canberra-redmond"
   }
 ]
