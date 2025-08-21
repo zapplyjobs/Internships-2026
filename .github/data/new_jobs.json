@@ -1,46 +1,13 @@
 [
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "IXL Learning",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_description": "Join IXL Learning in this exciting opportunity.",
-    "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8128544002",
-    "job_posted_at_datetime_utc": "2025-08-21T03:01:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "ixl-learning-software-engineer-new-grad-raleigh"
-  },
-  {
-    "job_title": "Cybersecurity Engineer I",
-    "employer_name": "Sierra Nevada Coporation",
-    "job_city": "Sparks",
-    "job_state": "NV",
-    "job_description": "Join Sierra Nevada Coporation in this exciting opportunity.",
-    "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Engineer-I_R0027494",
-    "job_posted_at_datetime_utc": "2025-08-21T03:00:21.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "sierra-nevada-coporation-cybersecurity-engineer-i-sparks"
-  },
-  {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "IXL Learning",
-    "job_city": "San Mateo",
+    "job_title": "Software Dev Engineer II - AMZ9083221",
+    "employer_name": "Amazon",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join IXL Learning in this exciting opportunity.",
-    "job_apply_link": "https://www.ixl.com/company/jobs?gh_jid=8128533002",
-    "job_posted_at_datetime_utc": "2025-08-21T02:45:52.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "ixl-learning-software-engineer-new-grad-san-mateo"
-  },
-  {
-    "job_title": "Data Engineer I",
-    "employer_name": "Worldpay",
-    "job_city": "Cincinnati",
-    "job_state": "OH",
-    "job_description": "Join Worldpay in this exciting opportunity.",
-    "job_apply_link": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Data-Engineer-I_JR0607009-1",
-    "job_posted_at_datetime_utc": "2025-08-21T02:03:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "worldpay-data-engineer-i-cincinnati"
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design.#0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3047570/software-dev-engineer-ii-amz9083221",
+    "job_posted_at": "2025-08-21T02:31:26.643Z",
+    "job_posted_at_datetime_utc": "2025-08-21T02:31:26.643Z",
+    "id": "amazon-software-dev-engineer-ii-amz9083221-san-francisco"
   }
 ]
