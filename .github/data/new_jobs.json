@@ -1,34 +1,13 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Customer Engineer II",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Customer Engineer II, Startups, Google Cloud",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/98168055648920262-customer-engineer-ii-startups-google-cloud?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=7",
-    "id": "google-customer-engineer-ii-seattle"
-  },
-  {
-    "job_title": "Software Engineer, Backend (Institutional - Markets, Derivatives)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491",
-    "job_posted_at_datetime_utc": "2025-08-21T16:36:40.000Z",
+    "job_title": "Developer Advocate - Neon",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002",
+    "job_posted_at_datetime_utc": "2025-08-21T17:13:05.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-backend-institutional-markets-derivatives-remote-usa"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer, Infrastructure",
-    "employer_name": "Airbnb",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6358994?gh_jid=6358994",
-    "job_posted_at_datetime_utc": "2025-08-21T16:30:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-staff-software-engineer-infrastructure-remote-usa"
+    "id": "databricks-developer-advocate-neon-san-francisco"
   }
 ]
