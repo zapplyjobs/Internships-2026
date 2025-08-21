@@ -1,23 +1,46 @@
 [
   {
-    "job_title": "Technical Program Manager, Software Engineering Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Bellevue",
-    "job_state": "WA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/736587905921964",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-technical-program-manager-software-engineering-infrastructure-bellevue"
+    "job_title": "Fullstack Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847740",
+    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-fullstack-software-engineer-redmond"
   },
   {
-    "employer_name": "Google",
-    "job_title": "Senior UX Mixed Methods Researcher",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Engineering and Technology. Level: corporate_fareGoogle. Posted: Recently. Full Title: Senior UX Mixed Methods Researcher, Workspace Monetization",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/131514499562644166-senior-ux-mixed-methods-researcher-workspace-monetization?category=DEVELOPER_RELATIONS&category=INFORMATION_TECHNOLOGY&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&target_level=MID&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=ASSOCIATE&degree=MASTERS&location=United+States&page=10",
-    "id": "google-senior-ux-mixed-methods-researcher-new-york"
+    "job_title": "Senior AI Developer Tools Advocate",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863170",
+    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-ai-developer-tools-advocate-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer - Microsoft Teams VDI Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1827983",
+    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-microsoft-teams-vdi-engineering-redmond"
+  },
+  {
+    "job_title": "Senior Technical Support Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854783",
+    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-technical-support-engineering-redmond"
   }
 ]
