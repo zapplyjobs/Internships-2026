@@ -1,46 +1,34 @@
 [
   {
-    "job_title": "Fullstack Software Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847740",
-    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-fullstack-software-engineer-redmond"
+    "job_title": "Product Quality Engineer - PCBA Development",
+    "employer_name": "Meta",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/765092659865661",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-product-quality-engineer-pcba-development-fremont"
   },
   {
-    "job_title": "Senior AI Developer Tools Advocate",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863170",
-    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-developer-tools-advocate-redmond"
+    "employer_name": "Google",
+    "job_title": "Performance Enablement Lead",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "Recently",
+    "job_description": "Category: Business Internship. Level: corporate_fareGoogle. Posted: Recently. Full Title: Performance Enablement Lead, Seller Success",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/89247305495913158-performance-enablement-lead-seller-success?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=INTERN_AND_APPRENTICE&target_level=EARLY&target_level=MID&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=5",
+    "id": "google-performance-enablement-lead-new-york"
   },
   {
-    "job_title": "Principal Software Engineer - Microsoft Teams VDI Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1827983",
-    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
+    "job_title": "Distributed System Engineer 5 - Membership Engineering",
+    "employer_name": "Netflix",
+    "job_city": "Los Gatos",
+    "job_state": "CA",
+    "job_description": "Join Netflix to entertain the world.",
+    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790304178603",
+    "job_posted_at_datetime_utc": "2025-08-20T00:00:00.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-microsoft-teams-vdi-engineering-redmond"
-  },
-  {
-    "job_title": "Senior Technical Support Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854783",
-    "job_posted_at_datetime_utc": "2025-08-21T20:34:52.510Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-technical-support-engineering-redmond"
+    "id": "netflix-distributed-system-engineer-5-membership-engineering-los-gatos"
   }
 ]
