@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Cloud & AI Solution Engineer (Infrastructure) - Canberra",
+    "job_title": "Cloud & AI Solution Engineer - Multiple Locations",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862911",
-    "job_posted_at_datetime_utc": "2025-08-21T13:00:34.112Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862910",
+    "job_posted_at_datetime_utc": "2025-08-21T13:43:05.760Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-infrastructure-canberra-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-multiple-locations-redmond"
+  },
+  {
+    "job_title": "Software Engineer, Test & Infrastructure I",
+    "employer_name": "Vail",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "Join Vail in this exciting opportunity.",
+    "job_apply_link": "https://jobs.lever.co/vailsys/aac4a828-c88d-4bc1-bf94-324e7ba4ddc9",
+    "job_posted_at_datetime_utc": "2025-08-21T13:42:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "vail-software-engineer-test-infrastructure-i-chicago"
   }
 ]
