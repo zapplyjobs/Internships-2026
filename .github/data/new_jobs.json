@@ -1,46 +1,46 @@
 [
   {
-    "job_title": "Cloud Engineer Graduate",
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_city": "Spring",
-    "job_state": "TX",
-    "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1",
-    "job_posted_at_datetime_utc": "2025-08-22T13:07:24.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "hewlett-packard-enterprise-cloud-engineer-graduate-spring"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "IXL Learning",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_description": "Join IXL Learning in this exciting opportunity.",
-    "job_apply_link": "https://www.ixl.com/company/careers?gh_jid=8128533002",
-    "job_posted_at_datetime_utc": "2025-08-22T13:06:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "ixl-learning-software-engineer-san-mateo"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "interface.ai",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "Join interface.ai in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/interfaceai/jobs/4571115006",
-    "job_posted_at_datetime_utc": "2025-08-22T13:04:44.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "interface-ai-software-engineer-i-san-jose"
-  },
-  {
-    "job_title": "Autonomy Systems Engineer I",
-    "employer_name": "Blue Origin",
-    "job_city": "Seattle",
+    "job_title": "Tomoh Program: Solution Engineering Internship Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Blue Origin in this exciting opportunity.",
-    "job_apply_link": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1",
-    "job_posted_at_datetime_utc": "2025-08-22T13:02:50.000Z",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863414",
+    "job_posted_at_datetime_utc": "2025-08-22T14:32:37.402Z",
     "job_employment_type": "FULLTIME",
-    "id": "blue-origin-autonomy-systems-engineer-i-seattle"
+    "id": "microsoft-tomoh-program-solution-engineering-internship-opportunities-redmond"
+  },
+  {
+    "job_title": "Ru'aa Program: Solution Engineering Internship Opportunity",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863411",
+    "job_posted_at_datetime_utc": "2025-08-22T14:32:37.402Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-ru-aa-program-solution-engineering-internship-opportunity-redmond"
+  },
+  {
+    "job_title": "Erada Program: Solution Engineering Internship Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863409",
+    "job_posted_at_datetime_utc": "2025-08-22T14:32:37.402Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-erada-program-solution-engineering-internship-opportunities-redmond"
+  },
+  {
+    "job_title": "Full Stack Engineer, Revenue and Finance Automation",
+    "employer_name": "Stripe",
+    "job_city": "Ireland",
+    "job_state": "CA",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=5995109",
+    "job_posted_at_datetime_utc": "2025-08-22T14:30:29.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "stripe-full-stack-engineer-revenue-and-finance-automation-ireland"
   }
 ]
