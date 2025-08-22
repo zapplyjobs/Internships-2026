@@ -1,57 +1,13 @@
 [
   {
-    "job_title": "Principal Experimentation Data Platform Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861953",
-    "job_posted_at_datetime_utc": "2025-08-22T22:31:18.897Z",
+    "job_title": "Machine Learning Engineer – Entry Level",
+    "employer_name": "Toyota Connected",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_description": "Join Toyota Connected in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
+    "job_posted_at_datetime_utc": "2025-08-22T22:50:55.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-experimentation-data-platform-engineer-redmond"
-  },
-  {
-    "job_title": "Site Reliability Engineer II, SRE",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861971",
-    "job_posted_at_datetime_utc": "2025-08-22T22:31:18.897Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-site-reliability-engineer-ii-sre-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Azure Storage Diagnostics Services",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862422",
-    "job_posted_at_datetime_utc": "2025-08-22T22:31:18.897Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-azure-storage-diagnostics-services-redmond"
-  },
-  {
-    "job_title": "Senior Security Engineer, Cloud Security",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7187867?gh_jid=7187867",
-    "job_posted_at_datetime_utc": "2025-08-22T22:08:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-security-engineer-cloud-security-remote-usa"
-  },
-  {
-    "job_title": "Full Stack Engineer, Money as a Service",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6771174",
-    "job_posted_at_datetime_utc": "2025-08-22T21:45:25.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-full-stack-engineer-money-as-a-service-n-a"
+    "id": "toyota-connected-machine-learning-engineer-entry-level-plano"
   }
 ]
