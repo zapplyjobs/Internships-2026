@@ -1,57 +1,35 @@
 [
   {
-    "job_title": "Research Scientist Intern, Computational Chemist (PhD)",
+    "job_title": "Software Engineer",
+    "employer_name": "Nodal",
+    "job_city": "Tysons Corner",
+    "job_state": "VA",
+    "job_description": "Join Nodal in this exciting opportunity.",
+    "job_apply_link": "https://nodalexchange.pinpointhq.com/postings/7dfa5f35-8585-4681-bad7-5f26b87bdc47",
+    "job_posted_at_datetime_utc": "2025-08-22T19:16:18.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "nodal-software-engineer-tysons-corner"
+  },
+  {
+    "job_title": "Product Operations Manager, Foundation",
     "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Research",
-    "job_apply_link": "https://www.metacareers.com/jobs/1312570617147546",
+    "job_city": "Bellevue",
+    "job_state": "WA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/24238090249151595",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-intern-computational-chemist-phd-redmond"
+    "id": "meta-product-operations-manager-foundation-bellevue"
   },
   {
-    "job_title": "Machine Learning Engineer - Recent Grad",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908762790",
-    "job_posted_at_datetime_utc": "2025-08-22T18:43:10.017Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-machine-learning-engineer-recent-grad-san-jose"
-  },
-  {
-    "job_title": "Software Engineer Intern",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908747694",
-    "job_posted_at_datetime_utc": "2025-08-22T18:43:10.017Z",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-software-engineer-intern-san-jose"
-  },
-  {
-    "job_title": "GRC Senior Security Engineer",
+    "job_title": "Senior Strategic Sourcing Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861359",
-    "job_posted_at_datetime_utc": "2025-08-22T18:43:02.057Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846311",
+    "job_posted_at_datetime_utc": "2025-08-22T19:28:00.914Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-grc-senior-security-engineer-redmond"
-  },
-  {
-    "job_title": "Engineering Manager, Security",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717",
-    "job_posted_at_datetime_utc": "2025-08-22T18:36:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-security-remote-usa"
+    "id": "microsoft-senior-strategic-sourcing-engineer-redmond"
   }
 ]
