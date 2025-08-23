@@ -1,13 +1,79 @@
 [
   {
-    "job_title": "Machine Learning Engineer – Entry Level",
-    "employer_name": "Toyota Connected",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_description": "Join Toyota Connected in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
-    "job_posted_at_datetime_utc": "2025-08-22T22:50:55.000Z",
+    "job_title": "Accessibility Engineer, IS&T",
+    "employer_name": "Apple",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Join Apple in this exciting opportunity.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
+    "job_posted_at_datetime_utc": "2025-08-23T01:21:57.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "toyota-connected-machine-learning-engineer-entry-level-plano"
+    "id": "apple-accessibility-engineer-is-t-sunnyvale"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer, Data Platform - Perth",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863348",
+    "job_posted_at_datetime_utc": "2025-08-23T02:03:15.051Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-data-platform-perth-redmond"
+  },
+  {
+    "job_title": "Software Engineer",
+    "employer_name": "Zip",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Zip in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
+    "job_posted_at_datetime_utc": "2025-08-23T01:21:36.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "zip-software-engineer-san-francisco"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "SMX",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_description": "Join SMX in this exciting opportunity.",
+    "job_apply_link": "https://www.smxtech.com/careers/?gh_jid=6689584003",
+    "job_posted_at_datetime_utc": "2025-08-23T00:35:53.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "smx-software-engineer-i-huntsville"
+  },
+  {
+    "job_title": "Engineering Manager (Infrastructure)",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7071592?gh_jid=7071592",
+    "job_posted_at_datetime_utc": "2025-08-23T00:11:09.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-engineering-manager-infrastructure-remote-usa"
+  },
+  {
+    "job_title": "2026 University Graduate - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
+    "job_posted_at_datetime_utc": "2025-08-22T23:53:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "adobe-2026-university-graduate-machine-learning-engineer-sf"
+  },
+  {
+    "job_title": "Software Engineer – New Grad",
+    "employer_name": "Harvey",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Harvey in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
+    "job_posted_at_datetime_utc": "2025-08-22T23:49:51.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "harvey-software-engineer-new-grad-sf"
   }
 ]
