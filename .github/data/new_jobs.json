@@ -1,101 +1,13 @@
 [
   {
-    "job_title": "Project Manager, Product Data Operations",
+    "job_title": "Machine Learning Software Engineering Manager",
     "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +5 locations",
+    "job_city": "Bellevue",
+    "job_state": "WA +2 locations",
     "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/10002380123170866",
+    "job_apply_link": "https://www.metacareers.com/jobs/1698326244376455",
     "job_posted_at": "Recently",
     "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-project-manager-product-data-operations-sunnyvale"
-  },
-  {
-    "job_title": "Network Production Engineer, Infrastructure",
-    "employer_name": "Meta",
-    "job_city": "Multiple",
-    "job_state": "Locations",
-    "job_description": "Network Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/10031084473585283",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-network-production-engineer-infrastructure-multiple"
-  },
-  {
-    "job_title": "Research Engineer FAIR (Robotics)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +4 locations",
-    "job_description": "AI Research +1 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1296146574950956",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-engineer-fair-robotics-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer, Systems ML - Compilers",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +5 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/627190180131226",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-systems-ml-compilers-sunnyvale"
-  },
-  {
-    "job_title": "Software Engineer, Computer Vision",
-    "employer_name": "Meta",
-    "job_city": "Redmond",
-    "job_state": "WA +4 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/1158506245887458",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-software-engineer-computer-vision-redmond"
-  },
-  {
-    "job_title": "Manufacturing Quality Engineer",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA",
-    "job_description": "Data Center Design, Engineering, & Construction",
-    "job_apply_link": "https://www.metacareers.com/jobs/714866850916768",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-manufacturing-quality-engineer-menlo-park"
-  },
-  {
-    "job_title": "Research Scientist, AI & Systems Co-design (PhD)",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +1 locations",
-    "job_description": "AI Research +4 more",
-    "job_apply_link": "https://www.metacareers.com/jobs/1815415389242149",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-research-scientist-ai-systems-co-design-phd-sunnyvale"
-  },
-  {
-    "job_title": "Director, Product Management - Wearables Devices",
-    "employer_name": "Meta",
-    "job_city": "Sunnyvale",
-    "job_state": "CA +3 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/2197228910706811",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-director-product-management-wearables-devices-sunnyvale"
-  },
-  {
-    "job_title": "Product Manager, Generative AI",
-    "employer_name": "Meta",
-    "job_city": "Menlo Park",
-    "job_state": "CA +2 locations",
-    "job_description": "Software Engineering",
-    "job_apply_link": "https://www.metacareers.com/jobs/734356822865300",
-    "job_posted_at": "Recently",
-    "job_posted_at_datetime_utc": "Recently",
-    "id": "meta-product-manager-generative-ai-menlo-park"
+    "id": "meta-machine-learning-software-engineering-manager-bellevue"
   }
 ]
