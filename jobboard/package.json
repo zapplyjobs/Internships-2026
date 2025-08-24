@@ -13,6 +13,7 @@
     "cors": "^2.8.5",
     "discord.js": "^14.0.0",
     "express": "^5.1.0",
+    "framer-motion": "^12.23.12",
     "node-fetch": "^3.3.2",
     "puppeteer": "^24.17.0",
     "react": "^19.1.0",

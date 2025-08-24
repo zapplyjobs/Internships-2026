@@ -20,6 +20,10 @@
   white-space: nowrap; /* Prevent wrapping for numbers */
 }
 
+.stat-number.animated-stat {
+  font-variant-numeric: tabular-nums;
+}
+
 /* Special styling for date stat */
 .stat-number.date-stat {
   font-size: 24px; /* Smaller font for multi-line date */

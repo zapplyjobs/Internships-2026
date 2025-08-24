@@ -178,8 +178,23 @@ const JobTable = ({ jobs }) => {
   };
 
   const getSortIcon = (column) => {
-    if (sortBy !== column) return '↕️';
-    return sortOrder === 'asc' ? '↑' : '↓';
+    if (sortBy !== column) {
+      return (
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon">
+          <path d="M6 3L8 5H4L6 3Z" fill="currentColor" opacity="0.3"/>
+          <path d="M6 9L8 7H4L6 9Z" fill="currentColor" opacity="0.3"/>
+        </svg>
+      );
+    }
+    return sortOrder === 'asc' ? (
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon active">
+        <path d="M6 3L8 5H4L6 3Z" fill="currentColor"/>
+      </svg>
+    ) : (
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon active">
+        <path d="M6 9L8 7H4L6 9Z" fill="currentColor"/>
+      </svg>
+    );
   };
 
   // Pagination logic
@@ -236,16 +251,16 @@ const JobTable = ({ jobs }) => {
     <div className="job-table-container">
       {/* Search Bar */}
       <div className="search-section">
-        <input
-          type="text"
-          name="search"
-          value={filters.search}
-          onChange={handleFilterChange}
-          placeholder="Search roles, companies, locations..."
-          className="search-input"
-          style={{ color: 'white' }}
-        />
-
+        <div className="search-wrapper">
+          <input
+            type="text"
+            name="search"
+            value={filters.search}
+            onChange={handleFilterChange}
+            placeholder="Search roles, companies, locations..."
+            className="search-input"
+          />
+        </div>
       </div>
 
       {/* Filters */}
@@ -348,19 +363,34 @@ const JobTable = ({ jobs }) => {
           <thead>
             <tr>
               <th onClick={() => handleSort('company')} className="sortable">
-                Company {getSortIcon('company')}
+                <div className="th-content">
+                  <span>Company</span>
+                  {getSortIcon('company')}
+                </div>
               </th>
               <th onClick={() => handleSort('role')} className="sortable">
-                Role {getSortIcon('role')}
+                <div className="th-content">
+                  <span>Role</span>
+                  {getSortIcon('role')}
+                </div>
               </th>
               <th onClick={() => handleSort('location')} className="sortable">
-                Location {getSortIcon('location')}
+                <div className="th-content">
+                  <span>Location</span>
+                  {getSortIcon('location')}
+                </div>
               </th>
               <th onClick={() => handleSort('posted')} className="sortable">
-                Posted {getSortIcon('posted')}
+                <div className="th-content">
+                  <span>Posted</span>
+                  {getSortIcon('posted')}
+                </div>
               </th>
               <th onClick={() => handleSort('level')} className="sortable">
-                Level {getSortIcon('level')}
+                <div className="th-content">
+                  <span>Level</span>
+                  {getSortIcon('level')}
+                </div>
               </th>
               <th>Category</th>
               <th>Apply</th>
