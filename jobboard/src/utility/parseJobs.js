@@ -46,8 +46,9 @@ export const parseJobsFromReadme = (readmeContent) => {
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim();
       
-      // Check for company headers (e.g., "### 🟢 **Google** (5 positions) ⭐ FAANG+")
-      const companyHeaderMatch = line.match(/###\s*([^\s]+)\s*\*\*([^*]+)\*\*/);
+      // Check for company headers (e.g., "#### 🟢 **Google** (5 positions) ⭐ FAANG+")
+      // Support both ### and #### headers
+      const companyHeaderMatch = line.match(/#{3,4}\s*([^\s]+)\s*\*\*([^*]+)\*\*/);
       if (companyHeaderMatch) {
         currentEmoji = companyHeaderMatch[1];
         currentCompany = companyHeaderMatch[2].trim();
@@ -171,11 +172,17 @@ export const parseJobsFromReadme = (readmeContent) => {
         }
       }
       
-      // Reset when we hit a new section or end of company section
-      if (line.startsWith('---') || (line.startsWith('##') && !line.startsWith('###'))) {
+      // Reset when we hit a new section
+      // Reset on horizontal rules or major section headers (## but not ### or ####)
+      if (line.startsWith('---') || (line.match(/^##\s/) && !line.match(/^#{3,4}\s/))) {
         inJobTable = false;
         currentCompany = '';
         currentEmoji = '';
+      }
+      
+      // Also reset if we see a closing </details> tag
+      if (line.includes('</details>')) {
+        inJobTable = false;
       }
     }
     
@@ -448,6 +455,21 @@ export const validateAndCleanJobs = (jobs) => {
     if (job.company.toLowerCase().includes('summary')) return false; // Filter HTML tag names
     if (job.company.toLowerCase().includes('details')) return false; // Filter HTML tag names
     if (/^[<>&"'\s]*$/.test(job.company)) return false; // Filter companies that are just HTML artifacts
+    
+    // Detect misaligned columns - if location contains typical job title keywords
+    const locationLower = (job.location || '').toLowerCase();
+    const suspiciousLocationKeywords = ['engineer', 'developer', 'manager', 'intern', 'analyst', 'scientist', 'designer', 'architect', 'specialist'];
+    const isMisaligned = suspiciousLocationKeywords.some(keyword => locationLower.includes(keyword));
+    
+    // Also check if posted field contains location patterns (city, state)
+    const postedField = (job.posted || '').trim();
+    const locationPattern = /^[A-Z][a-z]+(?:[\s-][A-Z][a-z]+)*,?\s*[A-Z]{2}$/; // City, ST pattern
+    const postedLooksLikeLocation = locationPattern.test(postedField);
+    
+    if (isMisaligned || postedLooksLikeLocation) {
+      console.log(`⚠️ Skipping misaligned job: ${job.company} - ${job.role} - Location: ${job.location}`);
+      return false;
+    }
     
     return true;
   }).map(job => ({
