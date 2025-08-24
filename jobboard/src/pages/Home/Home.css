@@ -1408,6 +1408,8 @@
     border: 1px solid rgba(0, 0, 0, 0.05);
     overflow: hidden;
     position: relative;
+    -webkit-overflow-scrolling: touch;
+    contain: layout style paint;
   }
   
   .companies-header {
@@ -1448,8 +1450,15 @@
     width: fit-content;
     animation: scrollCompanies 45s linear infinite;
     -webkit-animation: scrollCompanies 45s linear infinite;
+    animation-play-state: running !important;
+    -webkit-animation-play-state: running !important;
     padding: 10px 0;
     will-change: transform;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    perspective: 1000px;
   }
   
   .companies-image {

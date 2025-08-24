@@ -10,9 +10,11 @@ import CommunitySection from '../../components/CommunitySection/CommunitySection
 import './Home.css';
 import JobTable from '../../components/JobTables/jobtable';
 import { parseJobsFromReadme, validateAndCleanJobs } from '../../utility/parseJobs';
+import useTickerAnimation from '../../hooks/useTickerAnimation';
 
 const Home = () => {
   const { isDarkMode } = useTheme();
+  useTickerAnimation(); // Use the ticker animation hook for mobile
   const [stats, setStats] = useState([
     { number: '0+', label: 'New Jobs', animated: false },
     { number: 0, label: 'Companies', animated: true },
