@@ -4,21 +4,6 @@ import { useTheme } from '../../context/ThemeContext';
 import useInView from '../../hooks/useInView';
 import './CommunitySection.css';
 
-const DigitRoller = ({ digits, delay = 0 }) => {
-  return (
-    <div className="digit-roller">
-      <div className="digit-roller-inner" style={{ 
-        animationDelay: `${delay}ms`,
-        animationDuration: `${1.5 + delay/1000}s`
-      }}>
-        {digits.map((digit, idx) => (
-          <div key={idx} className="digit-value">{digit}</div>
-        ))}
-      </div>
-    </div>
-  );
-};
-
 const CommunitySection = () => {
   const [ref, isInView] = useInView({ threshold: 0.1 });
   const { isDarkMode } = useTheme();

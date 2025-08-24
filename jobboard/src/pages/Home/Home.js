@@ -3,13 +3,11 @@ import { motion } from 'framer-motion';
 import { useTheme } from '../../context/ThemeContext';
 import Navbar from '../../components/Navbar/Navbar';
 import Button from '../../components/Button/Button';
-import CompanyCard from '../../components/CompanyCard/CompanyCard';
 import StatCard from '../../components/StatCard/StatCard';
 import TypingEffect from '../../components/TypingEffect/TypingEffect';
 import FAQSection from '../../components/FAQSection/FAQSection';
 import CommunitySection from '../../components/CommunitySection/CommunitySection';
 import './Home.css';
-import { fetchGitHubStats } from '../../utility/githubStats';
 import JobTable from '../../components/JobTables/jobtable';
 import { parseJobsFromReadme, validateAndCleanJobs } from '../../utility/parseJobs';
 
@@ -253,8 +251,6 @@ const Home = () => {
     </svg>
   );
 
-  // Get the first stat (active jobs) for the hero badge
-  const activeJobsCount = stats[0]?.number || '825';
 
   // Helper function to scroll to section
   const scrollToSection = (sectionId) => {

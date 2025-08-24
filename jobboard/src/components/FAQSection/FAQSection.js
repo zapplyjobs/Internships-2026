@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { faqData } from '../../data/faqData';
-import useInView from '../../hooks/useInView';
 import { useTheme } from '../../context/ThemeContext';
 import './FAQSection.css';
 
