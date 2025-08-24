@@ -1028,6 +1028,12 @@
 }
 
 @media (max-width: 768px) {
+  .container {
+    max-width: 100%;
+    padding: 0 20px;
+    overflow-x: hidden;
+  }
+  
   .hero {
     padding: 120px 0 60px;
   }
@@ -1035,11 +1041,21 @@
   .hero-actions {
     flex-direction: column;
     align-items: center;
+    width: 100%;
+    padding: 0 20px;
+  }
+  
+  .hero-actions .button {
+    width: 100%;
+    max-width: 280px;
   }
   
   .stats {
     grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
+    gap: 16px;
+    width: 100%;
+    max-width: 100%;
+    padding: 0 20px;
   }
   
   .companies-grid {
@@ -1396,97 +1412,41 @@
 }
 
 @media (max-width: 768px) {
+  /* Prevent horizontal scrolling */
+  body {
+    overflow-x: hidden !important;
+    width: 100% !important;
+  }
+  
+  .home {
+    overflow-x: hidden !important;
+    width: 100% !important;
+  }
+  
+  /* Hide companies banner completely on mobile */
   .companies-banner {
-    padding: 30px 15px;
+    display: none;
   }
   
-  .companies-ticker {
+  /* Fix hero section to prevent overflow */
+  .hero {
+    overflow-x: hidden;
+    width: 100%;
+  }
+  
+  .hero-content {
     max-width: 100%;
-    padding: 20px 15px;
-    border-radius: 12px;
-    background: rgba(255, 255, 255, 0.95);
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 0 20px;
+  }
+  
+  .hero-bg-elements {
     overflow: hidden;
-    position: relative;
-    -webkit-overflow-scrolling: touch;
-    contain: layout style paint;
+    width: 100%;
   }
   
-  .companies-header {
-    flex-direction: column;
-    text-align: center;
-    gap: 10px;
-    padding: 0 10px;
-    margin-bottom: 20px;
-  }
-  
-  .companies-title {
-    font-size: 18px;
-    font-weight: 700;
-    margin: 0;
-    color: #2D2D2D;
-  }
-  
-  .companies-separator {
-    display: none;
-  }
-  
-  .companies-subtitle {
-    font-size: 13px;
-    line-height: 1.4;
-    color: #666;
-    margin: 0;
-    padding: 0 10px;
-  }
-  
-  .companies-divider {
-    margin: 15px 0;
-    height: 1px;
-    background: rgba(0, 0, 0, 0.08);
-  }
-  
-  .companies-track {
-    display: flex;
-    width: fit-content;
-    animation: scrollCompanies 45s linear infinite;
-    -webkit-animation: scrollCompanies 45s linear infinite;
-    animation-play-state: running !important;
-    -webkit-animation-play-state: running !important;
-    padding: 10px 0;
-    will-change: transform;
-    transform: translateZ(0);
-    -webkit-transform: translateZ(0);
-    backface-visibility: hidden;
-    -webkit-backface-visibility: hidden;
-    perspective: 1000px;
-  }
-  
-  .companies-image {
-    height: 30px;
-    width: auto;
-    flex-shrink: 0;
-    padding: 0 15px;
-    opacity: 0.8;
-  }
-  
-  .companies-ticker::before,
-  .companies-ticker::after {
-    display: none;
-  }
-  
-  .dark .companies-ticker {
-    background: rgba(42, 42, 42, 0.95);
-  }
-  
-  .dark .companies-title {
-    color: #FFFFFF;
-  }
-  
-  .dark .companies-subtitle {
-    color: rgba(255, 255, 255, 0.7);
-  }
-  
-  .dark .companies-divider {
-    background: rgba(255, 255, 255, 0.1);
+  /* Ensure floating shapes don't cause overflow */
+  .floating-shape,
+  .floating-dots {
+    max-width: 100%;
   }
 }
