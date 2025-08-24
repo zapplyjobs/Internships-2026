@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "PUBLIC_URL=/ npm run build",
   "outputDirectory": "build",
   "framework": "create-react-app",
   "rewrites": [
@@ -7,5 +7,8 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "env": {
+    "PUBLIC_URL": "/"
+  }
 }
