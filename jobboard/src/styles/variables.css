@@ -1,5 +1,29 @@
 :root {
-  /* Color Variables */
+  /* Primary Colors - Matching zapply-jobs */
+  --bg-light: #FFFFFF;
+  --bg-dark: #1f1f1f;
+  --bg-card-light: #f8f8f8;
+  --bg-card-dark: #2a2a2a;
+  
+  /* Text Colors */
+  --text-primary: #231F20;
+  --text-secondary: #6B6B6B;
+  --text-on-dark: #d1cfc0;
+  --text-on-light: #1f1f1f;
+  --text-secondary-dark: #b8b8b8;
+  --text-secondary-light: #5a5a5a;
+  
+  /* Accent Colors - Matching zapply-jobs */
+  --accent: #FF6B4A;
+  --accent-primary: #FF8A6B;
+  --accent-hover: #FF9F85;
+  --accent-light: rgba(255, 138, 107, 0.15);
+  
+  /* Border Colors */
+  --border-dark: #3a3a3a;
+  --border-light: #b8b6a7;
+  
+  /* Legacy Gray Scale (for compatibility) */
   --black: #000000;
   --white: #ffffff;
   --gray-50: #fafafa;
@@ -12,10 +36,6 @@
   --gray-700: #404040;
   --gray-800: #262626;
   --gray-900: #171717;
-  
-  /* Accent Colors */
-  --accent: #ff6b35;
-  --accent-light: #ff8c42;
   
   /* Additional Colors */
   --blue: #3b82f6;

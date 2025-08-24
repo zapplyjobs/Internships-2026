@@ -1,4 +1,37 @@
 // src/utility/parseJobs.js
+
+// Helper function to map time values to experience levels
+const mapToExperienceLevel = (value) => {
+  if (!value) return 'Entry-Level';
+  
+  const lowerValue = value.toLowerCase();
+  
+  // Check if it's already a proper level
+  if (lowerValue.includes('entry') || lowerValue.includes('junior') || lowerValue.includes('new grad')) {
+    return 'Entry-Level';
+  }
+  if (lowerValue.includes('mid') || lowerValue.includes('intermediate')) {
+    return 'Mid-Level';
+  }
+  if (lowerValue.includes('senior') || lowerValue.includes('lead') || lowerValue.includes('principal')) {
+    return 'Senior';
+  }
+  if (lowerValue.includes('intern')) {
+    return 'Internship';
+  }
+  
+  // If it's a time value (0h ago, 10mo ago, etc.), default to Entry-Level for new grad board
+  if (lowerValue.includes('h ago') || lowerValue.includes('d ago') || 
+      lowerValue.includes('mo ago') || lowerValue.includes('y ago') ||
+      lowerValue.includes('hour') || lowerValue.includes('day') || 
+      lowerValue.includes('month') || lowerValue.includes('year')) {
+    return 'Entry-Level';
+  }
+  
+  // Default to Entry-Level for new grad positions
+  return 'Entry-Level';
+};
+
 export const parseJobsFromReadme = (readmeContent) => {
   const jobs = [];
   
@@ -441,7 +474,7 @@ export const validateAndCleanJobs = (jobs) => {
       : '🏢', // Default emoji if invalid
     location: job.location || 'Not specified',
     posted: job.posted || 'Recently',
-    level: job.level || 'Not specified',
+    level: mapToExperienceLevel(job.level),
     category: job.category || 'Software Engineering',
     applyLink: job.applyLink || '#'
   }));
