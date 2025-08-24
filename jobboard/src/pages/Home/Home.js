@@ -569,21 +569,23 @@ const Home = () => {
             </div>
           </div>
           
-          <div className="footer-column">
-            <h3>Quick Links</h3>
-            <div className="footer-links">
-              <a href="https://github.com/zapplyjobs/New-Grad-Jobs-by-Zapply">GitHub Repository</a>
-              <a href="https://github.com/zapplyjobs/New-Grad-Jobs-by-Zapply/issues">Report Issues</a>
-              <a href="#jobs" onClick={(e) => { e.preventDefault(); scrollToSection('jobs'); }}>Browse Jobs</a>
+          <div className="footer-links-mobile-wrapper">
+            <div className="footer-column">
+              <h3>Quick Links</h3>
+              <div className="footer-links">
+                <a href="https://github.com/zapplyjobs/New-Grad-Jobs-by-Zapply">GitHub Repository</a>
+                <a href="https://github.com/zapplyjobs/New-Grad-Jobs-by-Zapply/issues">Report Issues</a>
+                <a href="#jobs" onClick={(e) => { e.preventDefault(); scrollToSection('jobs'); }}>Browse Jobs</a>
+              </div>
             </div>
-          </div>
-          
-          <div className="footer-column">
-            <h3>Community</h3>
-            <div className="footer-links">
-              <a href="https://discord.gg/yKWw28q7Yq" target="_blank" rel="noopener noreferrer">Join Discord</a>
-              <a href="#community" onClick={(e) => { e.preventDefault(); scrollToSection('community'); }}>Community</a>
-              <a href="#faq" onClick={(e) => { e.preventDefault(); scrollToSection('faq'); }}>FAQ</a>
+            
+            <div className="footer-column">
+              <h3>Community</h3>
+              <div className="footer-links">
+                <a href="https://discord.gg/yKWw28q7Yq" target="_blank" rel="noopener noreferrer">Join Discord</a>
+                <a href="#community" onClick={(e) => { e.preventDefault(); scrollToSection('community'); }}>Community</a>
+                <a href="#faq" onClick={(e) => { e.preventDefault(); scrollToSection('faq'); }}>FAQ</a>
+              </div>
             </div>
           </div>
         </div>

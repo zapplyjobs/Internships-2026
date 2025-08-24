@@ -496,9 +496,16 @@
   margin: 0 auto;
   padding: 0 80px;
   display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
+  grid-template-columns: 1.5fr 2fr;
   gap: 80px;
   margin-bottom: 60px;
+}
+
+/* Desktop footer links wrapper */
+.footer-links-mobile-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
 }
 
 .footer-brand {
@@ -1049,32 +1056,90 @@
     align-items: center;
   }
   
+  /* Make job listings full width on mobile */
+  .job-listings {
+    padding: 40px 0;
+  }
+  
+  .job-listings .container {
+    max-width: 100%;
+    padding: 0;
+  }
+  
+  .job-listings .section-title {
+    padding: 0 20px;
+    font-size: 32px;
+  }
+  
+  .job-listings .section-subtitle {
+    padding: 0 20px;
+    margin-bottom: 20px;
+  }
+  
   /* Footer Mobile */
   .footer-container {
     grid-template-columns: 1fr;
-    gap: 40px;
+    gap: 30px;
     padding: 0 20px;
   }
   
   .footer-brand {
     text-align: center;
     align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .dark .footer-brand {
+    border-bottom: 1px solid rgba(31, 31, 31, 0.1);
   }
   
   .footer-socials {
     justify-content: center;
+    gap: 24px;
   }
   
   .footer-stats-info {
     text-align: center;
   }
   
+  /* Create a two-column layout for footer links on mobile */
+  .footer-links-mobile-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+  
   .footer-column {
-    text-align: center;
+    text-align: left;
+  }
+  
+  .footer-column h3 {
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .footer-links {
+    gap: 12px;
+  }
+  
+  .footer-links a {
+    font-size: 14px;
   }
   
   .footer-bottom {
-    padding: 40px 20px;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .footer-copyright {
+    font-size: 13px;
+  }
+  
+  .footer-disclaimer {
+    font-size: 12px;
   }
   
   .section-title {
@@ -1118,6 +1183,20 @@
   .debug-info {
     font-size: 11px;
     padding: 8px 10px;
+  }
+  
+  /* Stack footer columns on very small screens */
+  .footer-links-mobile-wrapper {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .footer-column {
+    text-align: center;
+  }
+  
+  .footer-links {
+    align-items: center;
   }
 }
 
@@ -1274,6 +1353,24 @@
   }
 }
 
+@keyframes scrollCompanies {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@-webkit-keyframes scrollCompanies {
+  0% {
+    -webkit-transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-50%);
+  }
+}
+
 @media (max-width: 1024px) {
   .companies-banner {
     padding: 40px 40px;
@@ -1300,34 +1397,87 @@
 
 @media (max-width: 768px) {
   .companies-banner {
-    padding: 30px 25px;
+    padding: 30px 15px;
   }
   
   .companies-ticker {
-    max-width: 95%;
-    padding: 15px 0;
-    border-radius: 15px;
+    max-width: 100%;
+    padding: 20px 15px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    position: relative;
   }
   
-  .companies-image {
-    height: 40px;
-    padding: 0 20px;
+  .companies-header {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    padding: 0 10px;
+    margin-bottom: 20px;
+  }
+  
+  .companies-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    color: #2D2D2D;
+  }
+  
+  .companies-separator {
+    display: none;
+  }
+  
+  .companies-subtitle {
+    font-size: 13px;
+    line-height: 1.4;
+    color: #666;
+    margin: 0;
+    padding: 0 10px;
+  }
+  
+  .companies-divider {
+    margin: 15px 0;
+    height: 1px;
+    background: rgba(0, 0, 0, 0.08);
   }
   
   .companies-track {
-    padding: 0 20px;
+    display: flex;
+    width: fit-content;
+    animation: scrollCompanies 45s linear infinite;
+    -webkit-animation: scrollCompanies 45s linear infinite;
+    padding: 10px 0;
+    will-change: transform;
+  }
+  
+  .companies-image {
+    height: 30px;
+    width: auto;
+    flex-shrink: 0;
+    padding: 0 15px;
+    opacity: 0.8;
   }
   
   .companies-ticker::before,
   .companies-ticker::after {
-    width: 60px;
+    display: none;
   }
   
-  .companies-ticker::before {
-    border-radius: 15px 0 0 15px;
+  .dark .companies-ticker {
+    background: rgba(42, 42, 42, 0.95);
   }
   
-  .companies-ticker::after {
-    border-radius: 0 15px 15px 0;
+  .dark .companies-title {
+    color: #FFFFFF;
+  }
+  
+  .dark .companies-subtitle {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  .dark .companies-divider {
+    background: rgba(255, 255, 255, 0.1);
   }
 }
