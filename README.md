@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 168+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 49+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 167+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -26,11 +26,11 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 168 hot software engineering jobs
+🔥 **Current Positions:** 167 hot software engineering jobs
 
 🏢 **Top Companies:** 49 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 15 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 14 premium opportunities
 
 📅 **Last Updated:** August 25, 2025
 
@@ -76,19 +76,18 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### 🏢 **FAANG+** (21 positions)
+### 🏢 **FAANG+** (20 positions)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
-| 🟦 **Microsoft** | Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1862369) | 0h ago |
+| 🟦 **Microsoft** | Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1839939) | 0h ago |
 | 🟦 **Microsoft** | Software Engineer II - Embedded Firmware | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832314) | 0h ago |
 | 🟦 **Microsoft** | Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1862352) | 0h ago |
 | 🟦 **Microsoft** | Sr. Technical Support Engineer- SCCM | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1845805) | 0h ago |
 | 🟦 **Microsoft** | Principal Software Engineer - AI Frameworks | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1854749) | 0h ago |
 | 🟦 **Microsoft** | Senior Software Engineer - AI Frameworks | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1854750) | 0h ago |
 | 🟦 **Microsoft** | Software Engineer II - Backend | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858490) | 0h ago |
-| 🟦 **Microsoft** | Principal Cloud Network Engineer - CTJ - Top Secret | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1863569) | 0h ago |
-| 🔵 **Meta** | Software Engineer, Language - Wearables | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/812938290909042/) | 4d ago |
+| 🔵 **Meta** | Software Engineer, Language - Wearables | Menlo Park, CA | [Apply](https://www.metacareers.com/jobs/812938290909042/) | 5d ago |
 | 🍎 **Apple** | Accessibility Engineer, IS&T | Sunnyvale, CA | [Apply](https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career) | 2d ago |
 | 🎬 **ByteDance** | Software Engineer in ML Systems Graduate | San Jose, CA | [Apply](https://joinbytedance.com/search/7265752342699837757) | 5d ago |
 | 🎬 **ByteDance** | Cloud Network Engineer Graduate(Physical Network Infra) | San Jose, CA | [Apply](https://joinbytedance.com/search/7538114876280817927) | 6d ago |
@@ -102,7 +101,7 @@
 | 🎬 **Netflix** | Distributed System Engineer 5 - Membership Engineering | Los Gatos, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790304178603) | 5d ago |
 | 🎬 **Netflix** | Software Engineer (L4)- Open Connect Control Plane | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790304848323) | 5d ago |
 
-### 🏢 **Top Tech** (19 positions)
+### 🏢 **Top Tech** (18 positions)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
@@ -114,7 +113,6 @@
 | 📱 **Qualcomm** | Sr. Staff Engineer, Backend Infrastructure | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707439226) | 0h ago |
 | 📱 **Qualcomm** | Staff Engineer, Backend Infrastructure | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707439227) | 0h ago |
 | 📱 **Qualcomm** | Senior Engineer, Backend Gen Al | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707439228) | 0h ago |
-| 📱 **Qualcomm** | Biometrics AI Solutions Engineer | San Diego, California | [Apply](https://careers.qualcomm.com/careers/job/446705757481) | 0h ago |
 | 📱 **Qualcomm** | XR Systems Engineer | San Diego, California | [Apply](https://careers.qualcomm.com/careers/job/446703776637) | 0h ago |
 | 📊 **Databricks** | AI Engineer - FDE (Forward Deployed Engineer) | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | 3d ago |
 | 📊 **Databricks** | Software Engineering Intern (2026) | Bellevue, Washington; Mountain View | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) | 3d ago |
@@ -130,7 +128,7 @@
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
-| 🏢 **CISCO** | Software Engineer I | San Jose, CA | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850) | 4d ago |
+| 🏢 **CISCO** | Software Engineer I | San Jose, CA | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850) | 5d ago |
 | 🏢 **Hewlett Packard Enterprise** | Cloud Engineer Graduate | Spring, TX | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1) | 3d ago |
 | 🏢 **Hewlett Packard Enterprise** | Mechanical/Hardware Engineer I Graduate | Eau Claire, WI | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1) | 3d ago |
 | 🏢 **Hewlett Packard Enterprise** | Systems/Software Engineer I | Fort Collins, CO | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer-I_1192923-1) | 4d ago |
@@ -185,6 +183,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Full Stack Engineer, Developer Experience & Product Platform | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567104) | 0h ago |
 | Engineering Manager, Service Abstractions and Experience | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6685813) | 10h ago |
 | Full Stack Engineer, Revenue and Finance Automation | Ireland, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5995109) | 1d ago |
 | Full Stack Engineer, Money as a Service | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771174) | 2d ago |
@@ -206,7 +205,6 @@
 | Engineering Manager, Product and Business | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) | 4d ago |
 | Engineering Program Manager, Connect | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=7054200) | 4d ago |
 | Frontend Engineer, Merchant Experiences | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6892708) | 4d ago |
-| Full Stack Engineer, Developer Experience & Product Platform | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567104) | 4d ago |
 | Full Stack Engineer, Growth & Seo | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7091160) | 4d ago |
 | Full Stack Engineer, Payments and Risk | n/a, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771172) | 4d ago |
 | Full Stack Engineer, Revenue and Finance Automation | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771183) | 4d ago |
@@ -291,7 +289,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 77 | 46% | No or minimal experience |
 | 🟡 Beginner & Early Career | 49 | 29% | 1-2 years of experience |
-| 🔴 Manager         | 42 | 25% | 2+ years of experience |
+| 🔴 Manager         | 41 | 25% | 2+ years of experience |
 
 ---
 
@@ -300,8 +298,8 @@
 - **San Jose, CA**: 11 positions
 - **United States, CA**: 10 positions
 - **San Francisco, CA**: 10 positions
-- **Redmond, WA**: 8 positions
 - **N/A, CA**: 8 positions
+- **Redmond, WA**: 7 positions
 - **Canada, CA**: 7 positions
 - **Seattle, WA**: 5 positions
 
@@ -310,16 +308,16 @@
 ### 👨‍💻 **Top Tech Fields**
 
 #### 🎨 Frontend Development (63 positions)
-₿ Coinbase • 💳 Stripe
+💳 Stripe • ₿ Coinbase
 
-#### 💻 Software Engineering (47 positions)
+#### 💻 Software Engineering (48 positions)
 🏢 PayPal
 
-#### ☁️ DevOps & Infrastructure (20 positions)
-🟦 Microsoft • 🏠 Airbnb • 🏢 Hewlett Packard Enterprise
+#### ☁️ DevOps & Infrastructure (19 positions)
+🏠 Airbnb • 🏢 Hewlett Packard Enterprise • 🎬 Netflix
 
-#### 🧠 Machine Learning & AI (15 positions)
-🏢 PayPal • 📱 Qualcomm • 🟦 Microsoft
+#### 🧠 Machine Learning & AI (14 positions)
+🏢 PayPal • 🟦 Microsoft
 
 #### 📊 Data Science & Analytics (12 positions)
 🏠 Airbnb • 📊 Databricks
@@ -340,7 +338,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 168+ verified CS internships and entry-level software roles from 49 elite tech companies.
+✅ **100% Real Jobs:** 167+ verified CS internships and entry-level software roles from 49 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -472,7 +470,7 @@
 | Senior Software Engineer - DBSQL AI | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8117882002) | 1w ago |
 | GenAI Engineers (L4-L7)  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002) | 1w ago |
 | Director, AI Engineering (FDE) – Enterprise | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7989657002) | 1w ago |
-| Manager, Field Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8093481002) | 1w ago |
+| Manager, Field Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8093481002) | 2w ago |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) | 2w ago |
 | Software Engineer – New Grad - Distributed Data Systems - 2025 Start | Bellevue, WA | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865704002) | 2w ago |
 | Software Engineer – New Grad - 2026 Start | Mountain View, CA | [Apply](https://boards.greenhouse.io/embed/job_app?token=6865698002) | 2w ago |
@@ -912,7 +910,7 @@
 | Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636) | 1w ago |
 | Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) | 1w ago |
 | Senior Software Engineer, Frontend - Developer Experience, Mobile | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7165070?gh_jid=7165070) | 1w ago |
-| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 1w ago |
+| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 2w ago |
 |  Software Engineer, Backend - Blockchain Platform (Staking Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7094719?gh_jid=7094719) | 2w ago |
 | Software Engineer, Blockchain Platform (Staking Validators) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7114605?gh_jid=7114605) | 2w ago |
 | Senior Software Engineer, Frontend - Developer Experience | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071563?gh_jid=7071563) | 2w ago |
@@ -1098,7 +1096,7 @@
 
 <div align="center">
 
-**🎯 168 current opportunities from 49 elite companies.**
+**🎯 167 current opportunities from 49 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
