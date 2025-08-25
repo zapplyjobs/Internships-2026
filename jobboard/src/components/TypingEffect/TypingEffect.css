@@ -1,15 +1,20 @@
 .typed-highlight {
-  background: var(--black);
-  color: var(--white);
-  padding: 4px 16px;
-  border-radius: 8px;
+  font-family: 'Caveat', cursive;
+  color: #FF6B4A;
+  font-size: 1.1em;
+  font-weight: 700;
+  font-style: italic;
   display: inline-block;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
 }
 
 .cursor {
-  color: var(--accent);
+  color: #FF6B4A;
   animation: blink 1s infinite;
-  font-weight: 300;
+  font-weight: 700;
+  font-family: 'Caveat', cursive;
 }
 
 @keyframes blink {
@@ -20,7 +25,6 @@
 /* Responsive */
 @media (max-width: 768px) {
   .typed-highlight {
-    padding: 2px 12px;
-    font-size: 0.9em;
+    font-size: 1em;
   }
 }

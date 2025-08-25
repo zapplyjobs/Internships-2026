@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "job_title": "Software Engineer – New Grad - 2026 Start",
+    "employer_name": "Zip",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Zip in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3/application",
+    "job_posted_at_datetime_utc": "2025-08-25T17:12:44.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "zip-software-engineer-new-grad-2026-start-sf"
+  },
+  {
+    "job_title": "Software Systems Engineer",
+    "employer_name": "Meta",
+    "job_city": "Fremont",
+    "job_state": "CA",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1177502767353611",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-systems-engineer-fremont"
+  },
+  {
+    "job_title": "Research Engineer, Language - Content and User Understanding Team",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +2 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1898512204327220",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-engineer-language-content-and-user-understanding-team-bellevue"
+  },
+  {
+    "job_title": "Software Engineer - Product (Technical Leadership)",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +5 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/4043567932553615",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-software-engineer-product-technical-leadership-bellevue"
+  },
+  {
+    "job_title": "Software Engineer II - Embedded Firmware",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832314",
+    "job_posted_at_datetime_utc": "2025-08-25T18:18:50.817Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-embedded-firmware-redmond"
+  }
+]
