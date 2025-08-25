@@ -18,9 +18,9 @@ function generateJobTable(jobs) {
   console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
   
   if (jobs.length === 0) {
-    return `| Company | Role | Location | Posted | Level | Category | Apply |
-|---------|------|----------|--------|-------|----------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* | *-* |`;
+    return `| Company | Role | Location | Apply Now | Age |
+|---------|------|----------|-----------|-----|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |`;
   }
 
   // Create a map of lowercase company names to actual names for case-insensitive matching
@@ -94,7 +94,9 @@ function generateJobTable(jobs) {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
       
-      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} positions)\n\n`;
+      // Use singular/plural based on job count
+      const positionText = totalJobs === 1 ? "position" : "positions";
+      output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} ${positionText})\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
@@ -104,23 +106,22 @@ function generateJobTable(jobs) {
       bigCompanies.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
+        const positionText = companyJobs.length === 1 ? "position" : "positions";
         
         if (companyJobs.length > 50) {
           output += `<details>\n`;
-          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} positions)</h4></summary>\n\n`;
+          output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${positionText})</h4></summary>\n\n`;
         } else {
-          output += `#### ${emoji} **${companyName}** (${companyJobs.length} positions)\n\n`;
+          output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
         }
         
-        output += `| Role | Location | Posted | Level | Category | Apply |\n`;
-        output += `|------|----------|--------|-------|----------|-------|\n`;
+        output += `| Role | Location | Apply Now | Age |\n`;
+        output += `|------|----------|-----------|-----|\n`;
         
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
           const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const level = getExperienceLevel(job.job_title, job.job_description);
-          const category = getJobCategory(job.job_title, job.job_description);
           const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           let statusIndicator = "";
@@ -132,7 +133,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
         });
         
         if (companyJobs.length > 50) {
@@ -148,8 +149,8 @@ function generateJobTable(jobs) {
       );
 
       if (smallCompanies.length > 0) {
-        output += `| Company | Role | Location | Posted | Level | Category | Apply |\n`;
-        output += `|---------|------|----------|--------|-------|----------|-------|\n`;
+        output += `| Company | Role | Location | Apply Now | Age |\n`;
+        output += `|---------|------|----------|-----------|-----|\n`;
 
         smallCompanies.forEach((companyName) => {
           const companyJobs = jobsByCompany[companyName];
@@ -159,8 +160,6 @@ function generateJobTable(jobs) {
             const role = job.job_title;
             const location = formatLocation(job.job_city, job.job_state);
             const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-            const level = getExperienceLevel(job.job_title, job.job_description);
-            const category = getJobCategory(job.job_title, job.job_description);
             const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
             let statusIndicator = "";
@@ -172,7 +171,7 @@ function generateJobTable(jobs) {
               statusIndicator += " 🏠";
             }
 
-            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | ${posted} | ${level} | ${category} | [Apply](${applyLink}) |\n`;
+            output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
           });
         });
         
@@ -184,36 +183,37 @@ function generateJobTable(jobs) {
   console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed`);
   return output;
 }
+
 function generateInternshipSection(internshipData) {
   if (!internshipData) return "";
 
   return `
 ---
 
-## 🎓 **SWE Internships 2025-2026** 
+## 🎓 **SWE Internships 2025-2026**
 
-> **Top internships for students in data science, statistics, analytics, and related majors.**
+> **Top internships for software engineers, programmers, and computer science majors.**
 
 ### 🏢 **FAANG+ Internship Programs**
 
-| Company | Program | Application Link | Status |
-|---------|---------|------------------|--------|
+| Company | Program | Apply Now |
+|---------|---------|-----------|
 ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} | [Apply](${program.url}) | ${program.deadline} |`;
+    return `| ${emoji} **${program.company}** | ${program.program} | <a href="${program.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply Now</a> |`;
   })
   .join("\n")}
 
 ### 📚 **Top Software Internship Resources**
 
-| Platform | Type | Description | Link |
-|----------|------|-------------|------|
+| Platform | Description | Visit Now |
+|----------|-------------|-----------|
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.type} | ${source.description} | [Visit](${source.url}) |`
+      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}" style="display: inline-block; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 6px; font-weight: 600; font-size: 14px; transition: all 0.3s ease; box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);">Apply Now</a> |`
   )
   .join("\n")}
 
@@ -231,14 +231,16 @@ function generateArchivedSection(archivedJobs, stats) {
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - ${
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - ${
     archivedJobs.length
-  } Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+  } (7+ days old) - Click to Expand</h2></summary>
 
-### 📊 **Archived Job Stats**
+> Either still hiring or useful for research.
+
+### **Archived Job Stats**
 - **📁 Total Jobs**: ${archivedJobs.length} positions
-- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies
-- **⭐ FAANG+ Jobs & Internships**: ${archivedFaangJobs} positions
+- **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies  
+- **⭐ FAANG+ Jobs & Internships**: ${archivedFaangJobs} roles
 
 ${generateJobTable(archivedJobs)}
 
@@ -264,67 +266,76 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   return `# 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for data analysts, scientists, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
-**🛠  Help us grow! Add new jobs by submitting an issue! View contributing steps here.**
+**🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](#contributing-guide).**
 
 ---
 
-## Join Our Community
-**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with job seekers, get career advice, share experiences, and stay updated on opportunities. Join 1000+ analytics students and data enthusiasts on their career journey!
+## **Join Community**
+
+**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join 1000+ (our community of) developers and CS students navigating their career journey together!
 
 ---
 
-## Apply Faster with Zapply
-⚡ Apply to 50 jobs in the time it takes to do 5. Use Zapply’s extension to instantly submit applications across Tesla, Amazon, NVIDIA, and 500+ other data-focused employers.  
-[Download Zapply Extension](#)
+## **Zapply Extension**
+
+⚡ **Apply to 50 jobs in the time it takes to do 5.**
+
+*Use Zapply's extension to instantly submit applications across Tesla, Amazon, NVIDIA, and 500+ other tech job sites.*
+
+**[Download Zapply Extension](#)**
 
 ---
 
-## 📊 Live Stats
-- **🔥 Current Positions**: ${currentJobs.length}
-- **🏢 Companies**: ${totalCompanies} elite tech companies
-- **⭐ FAANG+ Jobs**: ${faangJobs} premium opportunities
-- **📅 Last Updated**: ${currentDate}
-- **🤖 Next Update**: Tomorrow at 9 AM UTC
-- **📁 Archived Jobs**: ${archivedJobs.length} (older than 1 week)
+## 📊 **Live Stats**
 
+🔥 **Current Positions:** ${currentJobs.length} hot software engineering jobs
 
+🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon
+
+⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities
+
+📅 **Last Updated:** ${currentDate}
+
+🤖 **Next Update:** Tomorrow at 9 AM UTC
+
+📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## 🎯 Fresh Software Job Listings 2025-2026 (Under 1 Week)
+## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
 ${generateJobTable(currentJobs)}
 
 ---
 
-## Current Job Insights
+## **✨ Insights on the Repo**
 
-### 🏢 Top Companies
+### 🏢 **Top Companies**
 
-#### 🌟 FAANG+ (${companies.faang_plus.length} companies)
+#### ⭐ **FAANG+** (${companies.faang_plus.length} companies)
 ${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 🦄 Unicorn Startups (${companies.unicorn_startups.length} companies)
+#### 🦄 **Unicorn Startups** (${companies.unicorn_startups.length} companies)
 ${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 💰 Fintech Leaders (${companies.fintech.length} companies)
+#### 💰 **Fintech Leaders** (${companies.fintech.length} companies)
 ${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### 🎮 Gaming & Entertainment (${[...companies.gaming, ...companies.media_entertainment].length} companies)
+#### 🎮 **Gaming & Entertainment** (${[...companies.gaming, ...companies.media_entertainment].length} companies)
 ${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
-#### ☁️ Enterprise & Cloud (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
+#### ☁️ **Enterprise & Cloud** (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
 ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
 
 ---
 
-## 📈 Experience Breakdown
+### 📈 **Experience Breakdown**
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
@@ -334,7 +345,7 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 
 ---
 
-## 🌍 Top Locations
+### 🌍 **Top Locations**
 ${stats ? Object.entries(stats.byLocation)
   .sort((a, b) => b[1] - a[1])
   .slice(0, 8)
@@ -343,7 +354,8 @@ ${stats ? Object.entries(stats.byLocation)
 
 ---
 
-## 🔍 Filter by Role Category
+### 👨‍💻 **Top Tech Fields**
+
 ${stats ? Object.entries(stats.byCategory)
   .sort((a, b) => b[1] - a[1])
   .map(([category, count]) => {
@@ -379,93 +391,110 @@ ${topCompanies
 
 ---
 
-## 🔮 Why Software Engineers Choose Our Job Board
+## 🔮 **Why Software Engineers Choose Our Job Board**
 
-- ✅ **100% Real Jobs**: ${currentJobs.length}+ verified roles for Software Engineering roles from ${totalCompanies} elite tech companies.
-- ✅ **Fresh Daily Updates**: Live data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
-- ✅ **Entry-Level Focused**: Smart filtering for internships and entry-level analytics roles.
-- ✅ **Intern-to-FTE Pipeline**: Track internships converting to full-time roles.
-- ✅ **Direct Applications**: Bypass recruiters—apply directly to career pages for Tesla, Amazon, and NVIDIA.
-- ✅ **Mobile-Optimized**: Ideal mobile experience for students job hunting between classes.
+✅ **100% Real Jobs:** ${currentJobs.length}+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
+
+✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+
+✅ **Entry-Level Focused:** Smart filtering for CS majors, new grads, and early-career engineers.
+
+✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time SWE roles.
+
+✅ **Direct Applications:** Skip recruiters -- apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
+
+✅ **Mobile-Optimized:** Perfect mobile experience for CS students job hunting between classes.
 
 ---
 
 ## 🚀 **Job Hunt Tips That Actually Work**
 
 ### 🔍 **Research Before Applying**
-- Find the hiring manager: Search "[Company] [Team] engineering manager" on LinkedIn.
-- Check recent tech decisions: Review their engineering blog for stack changes or new initiatives.
-- Verify visa requirements: Look for 🇺🇸 indicators or "US persons only" in the job description.
-- Use this [100% ATS-compliant resume template](#).
+
+- **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
+- **Check recent tech decisions:** Read their engineering blog for stack changes or new initiatives.
+- **Verify visa requirements:** Look for 🇺🇸 indicator or "US persons only" in job description.
+- Use this [100% ATS-compliant and job-targeted resume template](#).
 
 ### 📄 **Resume Best Practices**
-- Mirror their tech stack:  Copy exact keywords from job post (React, Django, Node.js, etc.)..
-- Lead with business impact: “Improved app speed by 30%” > “Used JavaScript.”
-- Show product familiarity: Example: "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- Read this [guide on resume tweaks](#).
+
+- **Mirror their tech stack:** Copy exact keywords from job post (React, Django, Node.js, etc.).
+- **Lead with business impact:** "Improved app speed by 30%" > "Used JavaScript."
+- **Show product familiarity:** "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
+- [Read this informative guide on tweaking your resume](#).
 
 ### 🎯 **Interview Best Practices**
-- Ask domain questions: "How do you handle CI/CD at scale?" shows real research.
-- Prepare case stories: "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
-- Reference their products:  "As a daily Slack user, I've noticed..." proves genuine interest.
-- Review this [interview guide](#) for behavioral, technical, and curveball questions.
+
+- **Ask tech-specific questions:** "How do you handle CI/CD at scale?" shows real research.
+- **Prepare failure stories:** "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
+- **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](#).
 
 ---
 
 ## 📬 **Stay Updated**
 
-- **⭐ Star this repo** to bookmark for daily checks.
-- **👀 Watch to get notified of new SWE jobs.
-- **🔔 Subscribe to our newsletter** for instant updates.
-- **📱 Bookmark on mobile** for quick job hunting.
+- ⭐ **Star this repo** to bookmark and check daily.
+- 👀 **Watch** to get notified of new SWE jobs.
+- 🔔 **Subscribe to our newsletter** for instant updates.
+- 📱 **Bookmark on your phone** for quick job hunting.
+- 🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](#contributing-guide).
 
 ---
 
-## 🤝 **Become a Contributor**
-Add new jobs! See the [contributing guide](#contributing-guide).
+## **Contributing Guide**
 
-### Contributing Guide
-#### 🎯 Roles We Accept
+### 🎯 **Roles We Accept**
+
 - Located in the US, Canada, or Remote.
 - Not already in our database.
 - Currently accepting applications.
 
-#### 🚀 How to Add Jobs
-1. Create a new issue.
-2. Select the "New Job" template.
-3. Fill out and submit the form.
-   > Submit separate issues for each position, even from the same company.
+### 🚀 **How to Add Jobs**
 
-#### ✏️ How to Update Jobs
-1. Copy the job URL to edit.
-2. Create a new issue.
-3. Select the "Edit Job" template.
-4. Paste the URL and describe changes.
+**Step 1:** Create a new [issue](#).
 
-#### ⚡ What Happens Next
+**Step 2:** Select "New Job" template.
+
+**Step 3:** Fill out the form and submit.
+
+> Make separate issues for each position, even from the same company.
+
+### ✏️ **How to Update Jobs**
+
+**Step 1:** Copy the job URL you want to edit.
+
+**Step 2:** Create a new [issue](#).
+
+**Step 3:** Select "Edit Job" template.
+
+**Step 4:** Paste the URL and describe changes needed.
+
+### ⚡ **What Happens Next**
+
 - Our team reviews within 24-48 hours.
-- Approved jobs are added to the main list.
+- Approved jobs get automatically added to the main list.
 - The README updates automatically via script.
-- Contributions go live at the next daily refresh (9 AM UTC).
-- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
+- You'll see your contribution live at next daily refresh (9 AM UTC).
+
+**Questions?** Create a [miscellaneous issue](#) and we'll help out! 🙏
 
 
-
-${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : "No archived jobs available."}
+${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
 
 
 <div align="center">
 
-**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} elite companies**
+**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} elite companies.**
 
-**Found this helpful? Give it a ⭐ to support Zapply!**
+**Found this helpful? Give it a ⭐ to support us!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
 ---
 
-**Last Updated**: ${currentDate} • **Next Update**: Daily at 9 AM UTC
+**Last Updated:** ${currentDate} • **Next Update:** Daily at 9 AM UTC
 
 </div>`;
 }

@@ -355,14 +355,14 @@ async function fetchInternshipData() {
             emogi: '👼',
             url: 'https://angel.co/jobs#internships',
             type: 'Job Board',
-            description: 'Startup internships and entry-level positions'
+            description: 'Trending startup internships and entry-level roles'
         },
         {
             name: 'LinkedIn Student Jobs',
             emogi: '🔗',
             url: 'https://linkedin.com/jobs/student-jobs',
             type: 'Platform',
-            description: 'Professional network for student opportunities'
+            description: 'New Jobs and professional networking for students'
         },
         {
             name: 'Indeed Internships',
