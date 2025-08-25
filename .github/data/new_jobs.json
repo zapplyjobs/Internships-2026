@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "job_title": "Software Development Engineer II, AppStream",
+    "employer_name": "Amazon",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3065514/software-development-engineer-ii-appstream",
+    "job_posted_at": "2025-08-25T17:37:17.627Z",
+    "job_posted_at_datetime_utc": "2025-08-25T17:37:17.627Z",
+    "id": "amazon-software-development-engineer-ii-appstream-santa-clara"
+  },
+  {
+    "job_title": "Research Scientist Intern, Systems ML - Frameworks / Compilers / Kernels (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Research +1 more",
+    "job_apply_link": "https://www.metacareers.com/jobs/4006742656322186",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-intern-systems-ml-frameworks-compilers-kernels-phd-menlo-park"
+  },
+  {
+    "job_title": "Network Engineer, Optical Deployment",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/2066601110453108",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-network-engineer-optical-deployment-multiple"
+  },
+  {
+    "job_title": "User Experience Research Manager, Monetization",
+    "employer_name": "Meta",
+    "job_city": "Bellevue",
+    "job_state": "WA +1 locations",
+    "job_description": "Design & User Experience",
+    "job_apply_link": "https://www.metacareers.com/jobs/1063021278756532",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-user-experience-research-manager-monetization-bellevue"
+  },
+  {
+    "job_title": "Computer Vision Engineer, Reality Labs",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA +1 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1130112225813783",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-computer-vision-engineer-reality-labs-redmond"
+  },
+  {
+    "job_title": "Mega-Site Connectivity Engineer",
+    "employer_name": "Meta",
+    "job_city": "Multiple",
+    "job_state": "Locations",
+    "job_description": "Data Center Design, Engineering, & Construction",
+    "job_apply_link": "https://www.metacareers.com/jobs/1489233328709361",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-mega-site-connectivity-engineer-multiple"
+  },
+  {
+    "job_title": "Research Engineer: Meta Robotics Studio",
+    "employer_name": "Meta",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Research",
+    "job_apply_link": "https://www.metacareers.com/jobs/719424817218888",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-engineer-meta-robotics-studio-redmond"
+  },
+  {
+    "job_title": "Research Scientist, Circuit Design (PhD)",
+    "employer_name": "Meta",
+    "job_city": "Sunnyvale",
+    "job_state": "CA +3 locations",
+    "job_description": "Software Engineering",
+    "job_apply_link": "https://www.metacareers.com/jobs/1959910781516461",
+    "job_posted_at": "Recently",
+    "job_posted_at_datetime_utc": "Recently",
+    "id": "meta-research-scientist-circuit-design-phd-sunnyvale"
+  },
+  {
+    "job_title": "Principal Software Engineer – 3D Data Production - Xbox Games Studio",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862817",
+    "job_posted_at_datetime_utc": "2025-08-25T19:43:59.876Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-3d-data-production-xbox-games-studio-redmond"
+  },
+  {
+    "job_title": "Application Security Engineer",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7178910?gh_jid=7178910",
+    "job_posted_at_datetime_utc": "2025-08-25T19:10:32.000Z",
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-application-security-engineer-united-states"
+  }
+]
