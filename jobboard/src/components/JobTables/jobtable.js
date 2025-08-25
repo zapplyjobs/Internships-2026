@@ -178,8 +178,23 @@ const JobTable = ({ jobs }) => {
   };
 
   const getSortIcon = (column) => {
-    if (sortBy !== column) return '↕️';
-    return sortOrder === 'asc' ? '↑' : '↓';
+    if (sortBy !== column) {
+      return (
+        <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon">
+          <path d="M6 3L8 5H4L6 3Z" fill="currentColor" opacity="0.3"/>
+          <path d="M6 9L8 7H4L6 9Z" fill="currentColor" opacity="0.3"/>
+        </svg>
+      );
+    }
+    return sortOrder === 'asc' ? (
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon active">
+        <path d="M6 3L8 5H4L6 3Z" fill="currentColor"/>
+      </svg>
+    ) : (
+      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="sort-icon active">
+        <path d="M6 9L8 7H4L6 9Z" fill="currentColor"/>
+      </svg>
+    );
   };
 
   // Pagination logic
@@ -232,20 +247,27 @@ const JobTable = ({ jobs }) => {
     return pages;
   };
 
+  // SVG Icons for cards
+  const locationIcon = (
+    <svg className="job-card-detail-icon" viewBox="0 0 14 14" fill="currentColor">
+      <path d="M7 0C4.23858 0 2 2.23858 2 5C2 8.5 7 14 7 14C7 14 12 8.5 12 5C12 2.23858 9.76142 0 7 0ZM7 7C5.89543 7 5 6.10457 5 5C5 3.89543 5.89543 3 7 3C8.10457 3 9 3.89543 9 5C9 6.10457 8.10457 7 7 7Z"/>
+    </svg>
+  );
+
   return (
     <div className="job-table-container">
       {/* Search Bar */}
       <div className="search-section">
-        <input
-          type="text"
-          name="search"
-          value={filters.search}
-          onChange={handleFilterChange}
-          placeholder="Search roles, companies, locations..."
-          className="search-input"
-          style={{ color: 'white' }}
-        />
-
+        <div className="search-wrapper">
+          <input
+            type="text"
+            name="search"
+            value={filters.search}
+            onChange={handleFilterChange}
+            placeholder="Search roles, companies, locations..."
+            className="search-input"
+          />
+        </div>
       </div>
 
       {/* Filters */}
@@ -348,19 +370,34 @@ const JobTable = ({ jobs }) => {
           <thead>
             <tr>
               <th onClick={() => handleSort('company')} className="sortable">
-                Company {getSortIcon('company')}
+                <div className="th-content">
+                  <span>Company</span>
+                  {getSortIcon('company')}
+                </div>
               </th>
               <th onClick={() => handleSort('role')} className="sortable">
-                Role {getSortIcon('role')}
+                <div className="th-content">
+                  <span>Role</span>
+                  {getSortIcon('role')}
+                </div>
               </th>
               <th onClick={() => handleSort('location')} className="sortable">
-                Location {getSortIcon('location')}
+                <div className="th-content">
+                  <span>Location</span>
+                  {getSortIcon('location')}
+                </div>
               </th>
               <th onClick={() => handleSort('posted')} className="sortable">
-                Posted {getSortIcon('posted')}
+                <div className="th-content">
+                  <span>Posted</span>
+                  {getSortIcon('posted')}
+                </div>
               </th>
               <th onClick={() => handleSort('level')} className="sortable">
-                Level {getSortIcon('level')}
+                <div className="th-content">
+                  <span>Level</span>
+                  {getSortIcon('level')}
+                </div>
               </th>
               <th>Category</th>
               <th>Apply</th>
@@ -420,6 +457,58 @@ const JobTable = ({ jobs }) => {
             )}
           </tbody>
         </table>
+      </div>
+      
+      {/* Mobile Card View */}
+      <div className="job-cards">
+        {currentJobs.length > 0 ? (
+          currentJobs.map((job, index) => (
+            <div key={index} className="job-card">
+              <div className="job-card-header">
+                <div className="job-card-company">
+                  <span className="job-card-emoji">{job.emoji}</span>
+                  <span className="job-card-company-name">{job.company}</span>
+                </div>
+                <span className="job-card-posted">{job.posted}</span>
+              </div>
+              
+              <h3 className="job-card-role">{job.role}</h3>
+              
+              <div className="job-card-details">
+                <div className="job-card-detail">
+                  {locationIcon}
+                  <span>{job.location}</span>
+                </div>
+              </div>
+              
+              <div className="job-card-badges">
+                <span className={`job-card-badge level-${job.level.toLowerCase().replace(/[^a-z]/g, '')}`}>
+                  {job.level}
+                </span>
+                <span className="job-card-badge category">{job.category}</span>
+                {job.isRemote && <span className="job-card-badge remote">🏠 Remote</span>}
+                {job.isUSOnly && <span className="job-card-badge us-only">🇺🇸 US Only</span>}
+              </div>
+              
+              <a 
+                href={job.applyLink} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="job-card-apply"
+              >
+                Apply Now →
+              </a>
+            </div>
+          ))
+        ) : (
+          <div className="no-jobs-card">
+            <h3>No jobs match your filters</h3>
+            <p>Try adjusting your search criteria or clearing some filters.</p>
+            <button onClick={resetFilters} className="reset-filters">
+              Clear All Filters
+            </button>
+          </div>
+        )}
       </div>
       
       {/* Pagination */}

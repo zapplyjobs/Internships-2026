@@ -1,4 +1,37 @@
 // src/utility/parseJobs.js
+
+// Helper function to map time values to experience levels
+const mapToExperienceLevel = (value) => {
+  if (!value) return 'Entry-Level';
+  
+  const lowerValue = value.toLowerCase();
+  
+  // Check if it's already a proper level
+  if (lowerValue.includes('entry') || lowerValue.includes('junior') || lowerValue.includes('new grad')) {
+    return 'Entry-Level';
+  }
+  if (lowerValue.includes('mid') || lowerValue.includes('intermediate')) {
+    return 'Mid-Level';
+  }
+  if (lowerValue.includes('senior') || lowerValue.includes('lead') || lowerValue.includes('principal')) {
+    return 'Senior';
+  }
+  if (lowerValue.includes('intern')) {
+    return 'Internship';
+  }
+  
+  // If it's a time value (0h ago, 10mo ago, etc.), default to Entry-Level for new grad board
+  if (lowerValue.includes('h ago') || lowerValue.includes('d ago') || 
+      lowerValue.includes('mo ago') || lowerValue.includes('y ago') ||
+      lowerValue.includes('hour') || lowerValue.includes('day') || 
+      lowerValue.includes('month') || lowerValue.includes('year')) {
+    return 'Entry-Level';
+  }
+  
+  // Default to Entry-Level for new grad positions
+  return 'Entry-Level';
+};
+
 export const parseJobsFromReadme = (readmeContent) => {
   const jobs = [];
   
@@ -13,8 +46,9 @@ export const parseJobsFromReadme = (readmeContent) => {
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim();
       
-      // Check for company headers (e.g., "### 🟢 **Google** (5 positions) ⭐ FAANG+")
-      const companyHeaderMatch = line.match(/###\s*([^\s]+)\s*\*\*([^*]+)\*\*/);
+      // Check for company headers (e.g., "#### 🟢 **Google** (5 positions) ⭐ FAANG+")
+      // Support both ### and #### headers
+      const companyHeaderMatch = line.match(/#{3,4}\s*([^\s]+)\s*\*\*([^*]+)\*\*/);
       if (companyHeaderMatch) {
         currentEmoji = companyHeaderMatch[1];
         currentCompany = companyHeaderMatch[2].trim();
@@ -138,11 +172,17 @@ export const parseJobsFromReadme = (readmeContent) => {
         }
       }
       
-      // Reset when we hit a new section or end of company section
-      if (line.startsWith('---') || (line.startsWith('##') && !line.startsWith('###'))) {
+      // Reset when we hit a new section
+      // Reset on horizontal rules or major section headers (## but not ### or ####)
+      if (line.startsWith('---') || (line.match(/^##\s/) && !line.match(/^#{3,4}\s/))) {
         inJobTable = false;
         currentCompany = '';
         currentEmoji = '';
+      }
+      
+      // Also reset if we see a closing </details> tag
+      if (line.includes('</details>')) {
+        inJobTable = false;
       }
     }
     
@@ -416,6 +456,21 @@ export const validateAndCleanJobs = (jobs) => {
     if (job.company.toLowerCase().includes('details')) return false; // Filter HTML tag names
     if (/^[<>&"'\s]*$/.test(job.company)) return false; // Filter companies that are just HTML artifacts
     
+    // Detect misaligned columns - if location contains typical job title keywords
+    const locationLower = (job.location || '').toLowerCase();
+    const suspiciousLocationKeywords = ['engineer', 'developer', 'manager', 'intern', 'analyst', 'scientist', 'designer', 'architect', 'specialist'];
+    const isMisaligned = suspiciousLocationKeywords.some(keyword => locationLower.includes(keyword));
+    
+    // Also check if posted field contains location patterns (city, state)
+    const postedField = (job.posted || '').trim();
+    const locationPattern = /^[A-Z][a-z]+(?:[\s-][A-Z][a-z]+)*,?\s*[A-Z]{2}$/; // City, ST pattern
+    const postedLooksLikeLocation = locationPattern.test(postedField);
+    
+    if (isMisaligned || postedLooksLikeLocation) {
+      console.log(`⚠️ Skipping misaligned job: ${job.company} - ${job.role} - Location: ${job.location}`);
+      return false;
+    }
+    
     return true;
   }).map(job => ({
     ...job,
@@ -441,7 +496,7 @@ export const validateAndCleanJobs = (jobs) => {
       : '🏢', // Default emoji if invalid
     location: job.location || 'Not specified',
     posted: job.posted || 'Recently',
-    level: job.level || 'Not specified',
+    level: mapToExperienceLevel(job.level),
     category: job.category || 'Software Engineering',
     applyLink: job.applyLink || '#'
   }));
