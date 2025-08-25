@@ -1,67 +1,24 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Associate Principal Analyst",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "Recently",
-    "job_description": "Category: Business. Level: corporate_fareGoogle. Posted: Recently. Full Title: Associate Principal Analyst, Responsible AI, Trust and Safety",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/127254982926705350-associate-principal-analyst-responsible-ai-trust-and-safety?category=ADMINISTRATIVE&category=BUSINESS_STRATEGY&category=FINANCE&category=LEGAL&category=MARKETING&category=PARTNERSHIPS&category=PEOPLEOPS&category=PRODUCT_SUPPORT&category=PROGRAM_MANAGEMENT&category=REAL_ESTATE&category=SALES&category=SALES_OPERATIONS&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&degree=BACHELORS&degree=MASTERS&degree=ASSOCIATE&location=United+States&page=10",
-    "id": "google-associate-principal-analyst-seattle"
-  },
-  {
-    "job_title": "Senior Device Analysis Engineer",
+    "job_title": "Principal Software Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863006",
-    "job_posted_at_datetime_utc": "2025-08-25T11:14:44.439Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826561",
+    "job_posted_at_datetime_utc": "2025-08-25T12:21:23.206Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-device-analysis-engineer-redmond"
+    "id": "microsoft-principal-software-engineer-manager-redmond"
   },
   {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Harvey",
+    "job_title": "2026 University Graduate - Machine Learning Engineer",
+    "employer_name": "Adobe",
     "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join Harvey in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
-    "job_posted_at_datetime_utc": "2025-08-22T23:49:51.000Z",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
+    "job_posted_at_datetime_utc": "2025-08-22T23:53:32.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "harvey-software-engineer-new-grad-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Together AI",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Together AI in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
-    "job_posted_at_datetime_utc": "2025-08-22T06:56:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "together-ai-software-engineer-new-grad-san-francisco"
-  },
-  {
-    "job_title": "Software Engineer – New Grad",
-    "employer_name": "Nominal",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Nominal in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply",
-    "job_posted_at_datetime_utc": "2025-08-20T22:37:58.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "nominal-software-engineer-new-grad-new-york"
-  },
-  {
-    "job_title": "Software Engineer – Early Career - Infrastructure",
-    "employer_name": "Notion",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Notion in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
-    "job_posted_at_datetime_utc": "2025-08-18T20:27:18.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "notion-software-engineer-early-career-infrastructure-san-francisco"
+    "id": "adobe-2026-university-graduate-machine-learning-engineer-san-francisco"
   }
 ]
