@@ -1,46 +1,24 @@
 [
   {
-    "job_title": "Software Development Engineer, SCOT - OSS",
-    "employer_name": "Amazon",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_description": "Basic qualifications:",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007872/software-development-engineer-scot-oss",
-    "job_posted_at": "2025-08-23T00:34:23.963Z",
-    "job_posted_at_datetime_utc": "2025-08-23T00:34:23.963Z",
-    "id": "amazon-software-development-engineer-scot-oss-bellevue"
-  },
-  {
-    "job_title": "2026 University Graduate - Software Engineer",
-    "employer_name": "Adobe",
+    "job_title": "Senior Machine Learning Engineer",
+    "employer_name": "PayPal",
     "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274908801817",
+    "job_posted_at_datetime_utc": "2025-08-26T01:43:56.206Z",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-senior-machine-learning-engineer-san-jose"
+  },
+  {
+    "job_title": "Staff Software Engineer, Guest & Host - Global Markets",
+    "employer_name": "Airbnb",
+    "job_city": "China",
     "job_state": "CA",
-    "job_description": "Join Adobe in this exciting opportunity.",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2026-University-Graduate---Software-Engineer_R158871",
-    "job_posted_at_datetime_utc": "2025-08-25T23:54:12.000Z",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/7058464?gh_jid=7058464",
+    "job_posted_at_datetime_utc": "2025-08-26T00:49:51.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "adobe-2026-university-graduate-software-engineer-san-jose"
-  },
-  {
-    "job_title": "2026 University Graduate - Software Engineer",
-    "employer_name": "Adobe",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Adobe in this exciting opportunity.",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
-    "job_posted_at_datetime_utc": "2025-08-25T23:47:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "adobe-2026-university-graduate-software-engineer-seattle"
-  },
-  {
-    "job_title": "2026 University Graduate - Machine Learning Engineer",
-    "employer_name": "Adobe",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_description": "Join Adobe in this exciting opportunity.",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157576",
-    "job_posted_at_datetime_utc": "2025-08-25T23:47:16.000Z",
-    "job_employment_type": "FULLTIME",
-    "id": "adobe-2026-university-graduate-machine-learning-engineer-seattle"
+    "id": "airbnb-staff-software-engineer-guest-host-global-markets-china"
   }
 ]
