@@ -1,24 +1,57 @@
 [
   {
-    "job_title": "Senior Software Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Software Development Engineer, Amazon Stores",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864083",
-    "job_posted_at_datetime_utc": "2025-08-26T05:16:14.513Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineering-redmond"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/2879654/software-development-engineer-amazon-stores",
+    "job_posted_at": "2025-08-25T17:12:51.849Z",
+    "job_posted_at_datetime_utc": "2025-08-25T17:12:51.849Z",
+    "id": "amazon-software-development-engineer-amazon-stores-bellevue"
   },
   {
-    "job_title": "Software Engineer II and Senior Software Engineer (Multiple Positions)- Office Files and Identity Team",
+    "job_title": "Software Dev Engineer II - AMZ9082623",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Position Requirements: Bachelor's degree or foreign equivalent in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: C#, C++, Java, Perl, Rust, or Python; and Object Oriented Design. #0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3060949/software-dev-engineer-ii-amz9082623",
+    "job_posted_at": "2025-08-22T06:12:51.849Z",
+    "job_posted_at_datetime_utc": "2025-08-22T06:12:51.849Z",
+    "id": "amazon-software-dev-engineer-ii-amz9082623-seattle"
+  },
+  {
+    "job_title": "Manager II, Software Dev - AMZ9081278",
+    "employer_name": "Amazon",
+    "job_city": "Boston",
+    "job_state": "MA",
+    "job_description": "Position Requirements: Bachelor’s degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered, or as a Software Engineer, Software Developer, or a related occupation. Must have one year of experience in the following skills: (1) providing mentorship to software engineering peers, participating in roadmap/planning reviews; and (2) developing reliable, efficient full-stack services using an OOO language (Java, Python, or C++) and modern web framework (Javascript, Typescript, or React). #0000",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3058180/manager-ii-software-dev-amz9081278",
+    "job_posted_at": "2025-08-22T06:12:51.849Z",
+    "job_posted_at_datetime_utc": "2025-08-22T06:12:51.849Z",
+    "id": "amazon-manager-ii-software-dev-amz9081278-boston"
+  },
+  {
+    "job_title": "Software Dev Engineer II - AMZ26498.1",
+    "employer_name": "Amazon",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_description": "Bachelor's degree or foreign equivalent degree in Computer Science, Engineering, Mathematics, or a related field and one year of experience in the job offered or a related occupation. Must have one year of experience in the following skill(s): (1) designing and developing large-scale, multi-tiered, multi-threaded, embedded or distributed software applications, tools, systems, and services using: (i.) C#, C++, Java, or Perl; and (ii.) Object Oriented Design. The pay range for this position in Hawthorne, CA is $143700- $194400 (yr); however, base pay offered may vary depending on job-related knowledge, skills, and experience A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided by Hawthorne, CA Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3038256/software-dev-engineer-ii-amz26498-1",
+    "job_posted_at": "2025-08-21T06:12:51.849Z",
+    "job_posted_at_datetime_utc": "2025-08-21T06:12:51.849Z",
+    "id": "amazon-software-dev-engineer-ii-amz26498-1-hawthorne"
+  },
+  {
+    "job_title": "Senior Software Engineer - C/C++",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863162",
-    "job_posted_at_datetime_utc": "2025-08-26T05:16:14.513Z",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861128",
+    "job_posted_at_datetime_utc": "2025-08-26T06:19:03.199Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-and-senior-software-engineer-multiple-positions-office-files-and-identity-team-redmond"
+    "id": "microsoft-senior-software-engineer-c-c-redmond"
   }
 ]
