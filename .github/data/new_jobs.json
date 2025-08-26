@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Senior Software Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864083",
+    "job_posted_at_datetime_utc": "2025-08-26T05:16:14.513Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineering-redmond"
+  },
+  {
+    "job_title": "Software Engineer II and Senior Software Engineer (Multiple Positions)- Office Files and Identity Team",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863162",
+    "job_posted_at_datetime_utc": "2025-08-26T05:16:14.513Z",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-and-senior-software-engineer-multiple-positions-office-files-and-identity-team-redmond"
+  }
+]
