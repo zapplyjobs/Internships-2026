@@ -1,57 +1,46 @@
 [
   {
-    "job_title": "Azure Advanced Cloud Engineer 2- Japanese Speaking",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "Software Development Engineer, SCOT - OSS",
+    "employer_name": "Amazon",
+    "job_city": "Bellevue",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857373",
-    "job_posted_at_datetime_utc": "2025-08-25T23:15:25.065Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-advanced-cloud-engineer-2-japanese-speaking-redmond"
+    "job_description": "Basic qualifications:",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3007872/software-development-engineer-scot-oss",
+    "job_posted_at": "2025-08-23T00:34:23.963Z",
+    "job_posted_at_datetime_utc": "2025-08-23T00:34:23.963Z",
+    "id": "amazon-software-development-engineer-scot-oss-bellevue"
   },
   {
-    "job_title": "Software Engineer II - Azure File Storage",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863515",
-    "job_posted_at_datetime_utc": "2025-08-25T23:15:25.065Z",
+    "job_title": "2026 University Graduate - Software Engineer",
+    "employer_name": "Adobe",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2026-University-Graduate---Software-Engineer_R158871",
+    "job_posted_at_datetime_utc": "2025-08-25T23:54:12.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-azure-file-storage-redmond"
+    "id": "adobe-2026-university-graduate-software-engineer-san-jose"
   },
   {
-    "job_title": "Principal Firmware Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "2026 University Graduate - Software Engineer",
+    "employer_name": "Adobe",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858449",
-    "job_posted_at_datetime_utc": "2025-08-25T23:15:25.065Z",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684",
+    "job_posted_at_datetime_utc": "2025-08-25T23:47:19.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-firmware-engineering-manager-redmond"
+    "id": "adobe-2026-university-graduate-software-engineer-seattle"
   },
   {
-    "job_title": "Senior Director - Hardware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "job_title": "2026 University Graduate - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "Seattle",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861534",
-    "job_posted_at_datetime_utc": "2025-08-25T23:15:25.065Z",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157576",
+    "job_posted_at_datetime_utc": "2025-08-25T23:47:16.000Z",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-director-hardware-engineer-redmond"
-  },
-  {
-    "job_title": "Software Test Engineer II - Azure Storage",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863326",
-    "job_posted_at_datetime_utc": "2025-08-25T23:15:25.065Z",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-test-engineer-ii-azure-storage-redmond"
+    "id": "adobe-2026-university-graduate-machine-learning-engineer-seattle"
   }
 ]
