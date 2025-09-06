@@ -1,0 +1,94 @@
+name: 🚀 New Job
+description: Add a new job posting to the list
+title: "[NEW JOB] Company Name - Position Title"
+labels: ["new-job", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing a new job! Please fill out the information below.
+        
+  - type: input
+    id: company-name
+    attributes:
+      label: Company Name
+      description: Name of the hiring company
+      placeholder: e.g., Google, Microsoft, Apple
+    validations:
+      required: true
+      
+  - type: input
+    id: position-title
+    attributes:
+      label: Position Title
+      description: Job title/role name
+      placeholder: e.g., Software Engineer, Data Scientist
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: location
+    attributes:
+      label: Location
+      description: Where is this job located?
+      options:
+        - Remote
+        - United States
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: job-type
+    attributes:
+      label: Job Type
+      description: What type of position is this?
+      options:
+        - Full-time
+        - Part-time
+        - Internship
+        - Contract
+        - New Grad Program
+    validations:
+      required: true
+      
+  - type: input
+    id: job-url
+    attributes:
+      label: Job URL
+      description: Direct link to the job posting
+      placeholder: https://company.com/careers/job-id
+    validations:
+      required: true
+      
+  - type: input
+    id: application-deadline
+    attributes:
+      label: Application Deadline
+      description: When does this job close? (if known)
+      placeholder: e.g., March 15, 2025 or Rolling basis
+    validations:
+      required: false
+      
+  - type: textarea
+    id: job-description
+    attributes:
+      label: Job Description
+      description: Brief summary of the role and requirements
+      placeholder: Describe what this job entails and key qualifications
+    validations:
+      required: false
+      
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Verification Checklist
+      description: Please confirm the following
+      options:
+        - label: I confirm this job is currently accepting applications
+          required: true
+        - label: I confirm this position is located in US, Canada, or Remote
+          required: true
+        - label: I confirm this job is not already in our database
+          required: true
+        - label: I have tested that the job URL works and goes to the correct posting
+          required: true

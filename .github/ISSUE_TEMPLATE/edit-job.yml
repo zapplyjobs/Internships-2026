@@ -1,0 +1,95 @@
+name: ✏️ Edit Job
+description: Update or correct an existing job posting
+title: "[EDIT] Company Name - Position Title"
+labels: ["edit-job", "pending-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us keep our job list accurate! Please provide details about what needs to be updated.
+        
+  - type: input
+    id: existing-job-url
+    attributes:
+      label: Link to Job in Our Database
+      description: Copy the job URL from our README/database that needs editing
+      placeholder: https://github.com/zapplyjobs/New-Grad-Positions#company-name---position-title
+    validations:
+      required: true
+      
+  - type: input
+    id: company-name
+    attributes:
+      label: Company Name
+      description: Current or corrected company name
+      placeholder: e.g., Google, Microsoft, Apple
+    validations:
+      required: true
+      
+  - type: input
+    id: position-title
+    attributes:
+      label: Position Title
+      description: Current or corrected position title
+      placeholder: e.g., Software Engineer, Data Scientist
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: what-to-update
+    attributes:
+      label: What needs to be updated?
+      description: Select all that apply
+      options:
+        - label: Job title/position name
+        - label: Company name
+        - label: Location
+        - label: Job URL (broken/changed link)
+        - label: Application deadline
+        - label: Job is no longer accepting applications (should be removed)
+        - label: Duplicate entry (should be removed)
+        - label: Other (specify in details below)
+        
+  - type: textarea
+    id: correction-details
+    attributes:
+      label: Correction Details
+      description: Provide the corrected information or explain what's wrong
+      placeholder: |
+        Example:
+        - Job URL has changed from X to Y
+        - Position is no longer accepting applications as of [date]
+        - Company name should be "ABC Corp" not "ABC Company"
+    validations:
+      required: true
+      
+  - type: input
+    id: new-job-url
+    attributes:
+      label: New/Corrected Job URL
+      description: If the job URL has changed, provide the new link
+      placeholder: https://company.com/careers/new-job-id
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Priority Level
+      description: How urgent is this correction?
+      options:
+        - Low - Minor correction needed
+        - Medium - Important but not urgent
+        - High - Job is broken/misleading users
+        - Critical - Duplicate or harmful content
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any other information that would help us make this correction
+      placeholder: How did you discover this issue? Any other details?
+    validations:
+      required: false
