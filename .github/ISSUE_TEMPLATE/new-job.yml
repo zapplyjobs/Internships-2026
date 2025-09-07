@@ -1,80 +1,119 @@
-name: 🚀 New Job
-description: Add a new job posting to the list
+name: 🚀 New Job Posting Contribution Form
+description: Add a new job posting to our database
 title: "[NEW JOB] Company Name - Position Title"
 labels: ["new-job", "pending-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for contributing a new job! Please fill out the information below.
+        Thanks for taking the time to contribute!
         
+        Make sure you've read [CONTRIBUTING.md](Contributing-new.md) before submitting your job posting.
+        
+  - type: input
+    id: job-url
+    attributes:
+      label: Link to Job Posting
+      description: Direct URL to the job application page
+      placeholder: "ex: example.com/link/to/posting"
+    validations:
+      required: true
+      
   - type: input
     id: company-name
     attributes:
       label: Company Name
       description: Name of the hiring company
-      placeholder: e.g., Google, Microsoft, Apple
+      placeholder: "ex: Google"
     validations:
       required: true
       
   - type: input
-    id: position-title
+    id: job-title
     attributes:
-      label: Position Title
-      description: Job title/role name
-      placeholder: e.g., Software Engineer, Data Scientist
+      label: Job Title
+      description: Official position title
+      placeholder: "ex: ML Software Engineer"
     validations:
       required: true
       
-  - type: dropdown
+  - type: textarea
     id: location
     attributes:
       label: Location
-      description: Where is this job located?
-      options:
-        - Remote
-        - United States
+      description: "Where is the job located? Please separate locations with a pipe '|' if there are multiple options. Include Remote if remote option available."
+      placeholder: "San Francisco, CA | Austin, TX | Remote"
     validations:
       required: true
       
   - type: dropdown
-    id: job-type
+    id: job-category
     attributes:
-      label: Job Type
-      description: What type of position is this?
+      label: What category does this job belong to?
+      description: Select the category that best fits this job posting
       options:
-        - Full-time
-        - Part-time
-        - Internship
-        - Contract
-        - New Grad Program
+        - Software Engineering
+        - Data Science/Analytics
+        - Product Management
+        - Design (UI/UX)
+        - DevOps/Infrastructure
+        - Security/Cybersecurity
+        - Quality Assurance
+        - Research/AI/ML
+        - Hardware Engineering
+        - Other
     validations:
       required: true
       
-  - type: input
-    id: job-url
+  - type: dropdown
+    id: sponsorship
     attributes:
-      label: Job URL
-      description: Direct link to the job posting
-      placeholder: https://company.com/careers/job-id
+      label: Does this job offer sponsorship?
+      description: "If this posting does not fall into one of these categories, select 'Other' then specify in parentheses at the end of the internship Title what the sponsorship status is"
+      options:
+        - "Offers Sponsorship"
+        - "Does Not Offer Sponsorship"
+        - "Sponsorship Not Specified"
+        - "Other (specify in notes)"
     validations:
       required: true
       
-  - type: input
-    id: application-deadline
+  - type: dropdown
+    id: accepting-applications
     attributes:
-      label: Application Deadline
-      description: When does this job close? (if known)
-      placeholder: e.g., March 15, 2025 or Rolling basis
+      label: Is this job posting currently accepting applications?
+      description: Confirm the application status
+      options:
+        - "Yes"
+        - "No"
+        - "Unknown"
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: degree-requirements
+    attributes:
+      label: Advanced Degree Requirements
+      description: "Check this box only if this position specifically requires a Master's degree, Ph.D. or other advanced degree (and does NOT accept bachelor's degrees)"
+      options:
+        - label: This position requires a Master's degree or higher
+          required: false
+          
+  - type: input
+    id: email
+    attributes:
+      label: Email associated with your GitHub account (Optional)
+      description: "If you would like to be listed as the contributor to the repository when our GitHub action commits your contribution to the repo, please provide your email. This is the only time your email will be used, if left blank, your contribution will still be added, but it will be made by the bot actions@github.com."
+      placeholder: "ex: firstname@gmail.com"
     validations:
       required: false
       
   - type: textarea
-    id: job-description
+    id: extra-notes
     attributes:
-      label: Job Description
-      description: Brief summary of the role and requirements
-      placeholder: Describe what this job entails and key qualifications
+      label: Extra Notes (Optional)
+      description: "Optionally, you may provide extra context/insight to our team about the job. This will not be shown anywhere on the repo, but might ensure your contribution is accepted."
+      placeholder: "This is an exciting new company in the ai space..."
     validations:
       required: false
       
@@ -82,13 +121,13 @@ body:
     id: verification
     attributes:
       label: Verification Checklist
-      description: Please confirm the following
+      description: Please confirm the following before submitting
       options:
-        - label: I confirm this job is currently accepting applications
+        - label: I have verified this job posting is legitimate and currently accepting applications
           required: true
-        - label: I confirm this position is located in US, Canada, or Remote
+        - label: I have checked that this job is not already in our database
           required: true
-        - label: I confirm this job is not already in our database
+        - label: I confirm this position is located in US, Canada, or offers Remote work
           required: true
-        - label: I have tested that the job URL works and goes to the correct posting
+        - label: I have provided accurate information to the best of my knowledge
           required: true

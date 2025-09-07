@@ -2,7 +2,7 @@
 
 ### 🎯 **Roles We Accept**
 
-- Located in the US, Canada, or Remote.
+- Located in the US or Remote.
 - Not already in our database.
 - Currently accepting applications.
 
@@ -33,4 +33,4 @@
 - The README updates automatically via script.
 - You'll see your contribution live at next daily refresh (9 AM UTC).
 
-**Questions?** Create a [miscellaneous issue](https://github.com/zapplyjobs/New-Grad-Positions/issues/new) and we'll help out! 🙏
+**Questions?** Create a [miscellaneous issue](https://github.com/zapplyjobs/New-Grad-Positions/issues/new/choose) and we'll help out! 🙏
