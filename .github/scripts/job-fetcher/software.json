@@ -5,17 +5,17 @@
     "title": "FAANG+"
   },
   "top_tech": {
-    "companies": ["MARVELL", "SYNOPSYS", "NVIDIA", "INTEL", "AMD", "Salesforce", "ADOBE", "Oracle", "IBM", "Qualcomm", "VMware", "Databricks", "Snowflake", "Palo Alto Networks", "Tesla", "Cadence Design Systems", "Qualtrics", "Expedia", "Bloomberg", "SingleStore", "Celonis", "Esri", "Perforce", "Sprout Social"],
+    "companies": ["Marvel Technology", "Synopsys", "NVIDIA", "Intel", "AMD", "Salesforce", "Adobe", "Oracle", "IBM", "Qualcomm", "VMware", "Databricks", "Snowflake", "Palo Alto Networks", "Tesla", "Cadence Design Systems", "Qualtrics", "Expedia", "Bloomberg", "SingleStore", "Celonis", "Esri", "Perforce", "Sprout Social", "PayPal"],
     "emoji": "🏢",
     "title": "Top Tech"
   },
   "enterprise": {
-    "companies": ["CISCO", "Hewlett Packard Enterprise", "DELL", "Broadcom", "Verizon", "Workday", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry"],
+    "companies": ["Cisco", "Hewlett Packard Enterprise", "Dell", "Broadcom", "Verizon", "Workday", "ServiceNow", "SS&C", "Emerson", "Ping Identity", "Sentry"],
     "emoji": "💻",
     "title": "Enterprise Software"
   },
   "startups": {
-    "companies": ["Booz Allen", "Guide house", "GDIT", "OpenAI", "Anthropic", "Figma", "Notion", "Discord", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "7shifts", "Remitly", "Parity", "Wonderschool", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Ranger", "OpenEye", "MetroStar", "SimIS", "i3"],
+    "companies": ["BAE Systems", "Guidehouse", "General Dynamics", "OpenAI", "Anthropic", "Figma", "Notion", "Discord", "Canva", "Miro", "Gitlab", "GitHub", "Vercel", "Supabase", "CrowdStrike", "Okta", "Unity", "Nuro", "Aurora Innovation", "Flexport", "Sigma Computing", "7shifts", "Remitly", "Parity", "Wonderschool", "HeyGen", "NewsBreak", "Pylon", "Prosidian Consulting", "Lumafield", "Cook Systems", "Unify", "Northslope Technologies", "Coalition", "mthree", "EvenUp", "Collective Hub", "Numeric", "N1", "Mandolin", "ClearEdge", "Ranger", "OpenEye", "MetroStar", "SimIS", "i3"],
     "emoji": "🚀",
     "title": "Startups & Growth"
   },
@@ -30,17 +30,17 @@
     "title": "Financial & Fintech"
   },
   "defense": {
-    "companies": ["WAYMO", "SpaceX", "Palantir", "Blue Origin", "The Boeing Company", "Anduril Industries", "Shield AI", "Silvus Technologies", "General Dynamics", "Leidos", "Peraton", "Radiance Technologies", "Maxar", "Moog", "HNTB", "Amentum", "CACI", "Sev1Tech"],
+    "companies": ["Waymo", "SpaceX", "Palantir", "Blue Origin", "The Boeing Company", "Anduril Industries", "Shield AI", "Silvus Technologies", "General Dynamics", "Leidos", "Peraton", "Radiance Technologies", "Maxar", "Moog", "HNTB", "Amentum", "CACI", "Sev1Tech"],
     "emoji": "🛡️",
     "title": "Defense & Aerospace"
   },
   "healthcare": {
-    "companies": ["ILLUMINA", "10x Genomics", "Boston Scientific", "Remodel Health", "Candid Health"],
+    "companies": ["Illumina", "10x Genomics", "Boston Scientific", "Remodel Health", "Candid Health"],
     "emoji": "🏥",
     "title": "Healthcare & Life Sciences"
   },
   "manufacturing": {
-    "companies": ["APPLIED MATERIALS", "ARM", "Micron", "ABB", "INFINEON", "TEXAS INSTRUMENTS", "SIEMENS", "ANALOG DEVICES", "HONEYWELL", "MAGNA", "Solar Turbines"],
+    "companies": ["Applied Materials", "Arm", "Micron Technology", "ABB", "Infineon Technologies", "Texas Instruments", "Siemens", "Analog Devices", "Honeywell", "Magna", "Solar Turbines"],
     "emoji": "🏭",
     "title": "Manufacturing & Industrial"
   },
@@ -49,4 +49,4 @@
     "emoji": "📊",
     "title": "Analytics & EdTech"
   }
-} 
+}
