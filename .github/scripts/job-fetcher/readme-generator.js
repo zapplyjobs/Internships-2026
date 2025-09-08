@@ -15,8 +15,10 @@ const {
 // Import or load the JSON configuration
 
 function generateJobTable(jobs) {
-  console.log(`🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`);
-  
+  console.log(
+    `🔍 DEBUG: Starting generateJobTable with ${jobs.length} total jobs`
+  );
+
   if (jobs.length === 0) {
     return `| Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
@@ -26,33 +28,38 @@ function generateJobTable(jobs) {
   // Create a map of lowercase company names to actual names for case-insensitive matching
   const companyNameMap = new Map();
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    category.companies.forEach(company => {
-      companyNameMap.set(company.toLowerCase(), { 
-        name: company, 
+    category.companies.forEach((company) => {
+      companyNameMap.set(company.toLowerCase(), {
+        name: company,
         category: categoryKey,
-        categoryTitle: category.title 
+        categoryTitle: category.title,
       });
     });
   });
 
   console.log(`🏢 DEBUG: Configured companies by category:`);
   Object.entries(companyCategory).forEach(([categoryKey, category]) => {
-    console.log(`  ${category.emoji} ${category.title}: ${category.companies.join(', ')}`);
+    console.log(
+      `  ${category.emoji} ${category.title}: ${category.companies.join(", ")}`
+    );
   });
 
   // Get unique companies from job data
-  const uniqueJobCompanies = [...new Set(jobs.map(job => job.employer_name))];
-  console.log(`\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`, uniqueJobCompanies);
+  const uniqueJobCompanies = [...new Set(jobs.map((job) => job.employer_name))];
+  console.log(
+    `\n📊 DEBUG: Unique companies found in job data (${uniqueJobCompanies.length}):`,
+    uniqueJobCompanies
+  );
 
   // Group jobs by company - only include jobs from valid companies
   const jobsByCompany = {};
   const processedCompanies = new Set();
   const skippedCompanies = new Set();
-  
+
   jobs.forEach((job) => {
     const employerNameLower = job.employer_name.toLowerCase();
     const matchedCompany = companyNameMap.get(employerNameLower);
-    
+
     // Only process jobs from companies in our category list
     if (matchedCompany) {
       processedCompanies.add(job.employer_name);
@@ -65,14 +72,22 @@ function generateJobTable(jobs) {
     }
   });
 
-  console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [...processedCompanies]);
-  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [...skippedCompanies]);
-  
+  console.log(`\n✅ DEBUG: Companies INCLUDED (${processedCompanies.size}):`, [
+    ...processedCompanies,
+  ]);
+  console.log(`\n❌ DEBUG: Companies SKIPPED (${skippedCompanies.size}):`, [
+    ...skippedCompanies,
+  ]);
+
   // Log job counts by company
   console.log(`\n📈 DEBUG: Job counts by company:`);
   Object.entries(jobsByCompany).forEach(([company, jobs]) => {
     const companyInfo = companyNameMap.get(company.toLowerCase());
-    console.log(`  ${company}: ${jobs.length} jobs (Category: ${companyInfo?.categoryTitle || 'Unknown'})`);
+    console.log(
+      `  ${company}: ${jobs.length} jobs (Category: ${
+        companyInfo?.categoryTitle || "Unknown"
+      })`
+    );
   });
 
   let output = "";
@@ -80,53 +95,61 @@ function generateJobTable(jobs) {
   // Handle each category
   Object.entries(companyCategory).forEach(([categoryKey, categoryData]) => {
     // Filter companies that actually have jobs
-    const companiesWithJobs = categoryData.companies.filter(company => 
-      jobsByCompany[company] && jobsByCompany[company].length > 0
+    const companiesWithJobs = categoryData.companies.filter(
+      (company) => jobsByCompany[company] && jobsByCompany[company].length > 0
     );
-    
+
     if (companiesWithJobs.length > 0) {
-      const totalJobs = companiesWithJobs.reduce((sum, company) => 
-        sum + jobsByCompany[company].length, 0
+      const totalJobs = companiesWithJobs.reduce(
+        (sum, company) => sum + jobsByCompany[company].length,
+        0
       );
-      
-      console.log(`\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`);
-      companiesWithJobs.forEach(company => {
+
+      console.log(
+        `\n📝 DEBUG: Processing category "${categoryData.title}" with ${companiesWithJobs.length} companies and ${totalJobs} total jobs:`
+      );
+      companiesWithJobs.forEach((company) => {
         console.log(`  - ${company}: ${jobsByCompany[company].length} jobs`);
       });
-      
+
       // Use singular/plural based on job count
       const positionText = totalJobs === 1 ? "position" : "positions";
       output += `### ${categoryData.emoji} **${categoryData.title}** (${totalJobs} ${positionText})\n\n`;
 
       // First handle companies with more than 10 jobs - each gets its own table/section
       const bigCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length > 10
+        (companyName) => jobsByCompany[companyName].length > 10
       );
 
       bigCompanies.forEach((companyName) => {
         const companyJobs = jobsByCompany[companyName];
         const emoji = getCompanyEmoji(companyName);
-        const positionText = companyJobs.length === 1 ? "position" : "positions";
-        
+        const positionText =
+          companyJobs.length === 1 ? "position" : "positions";
+
         if (companyJobs.length > 15) {
           output += `<details>\n`;
           output += `<summary><h4>${emoji} <strong>${companyName}</strong> (${companyJobs.length} ${positionText})</h4></summary>\n\n`;
         } else {
           output += `#### ${emoji} **${companyName}** (${companyJobs.length} ${positionText})\n\n`;
         }
-        
+
         output += `| Role | Location | Apply Now | Age |\n`;
         output += `|------|----------|-----------|-----|\n`;
-        
+
         companyJobs.forEach((job) => {
           const role = job.job_title;
           const location = formatLocation(job.job_city, job.job_state);
-          const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-          const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+          const posted = job.job_posted_at;
+          const applyLink =
+            job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
           let statusIndicator = "";
           const description = (job.job_description || "").toLowerCase();
-          if (description.includes("no sponsorship") || description.includes("us citizen")) {
+          if (
+            description.includes("no sponsorship") ||
+            description.includes("us citizen")
+          ) {
             statusIndicator = " 🇺🇸";
           }
           if (description.includes("remote")) {
@@ -135,7 +158,7 @@ function generateJobTable(jobs) {
 
           output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
         });
-        
+
         if (companyJobs.length > 50) {
           output += `\n</details>\n\n`;
         } else {
@@ -145,7 +168,7 @@ function generateJobTable(jobs) {
 
       // Then combine all companies with 10 or fewer jobs into one table
       const smallCompanies = companiesWithJobs.filter(
-        companyName => jobsByCompany[companyName].length <= 10
+        (companyName) => jobsByCompany[companyName].length <= 10
       );
 
       if (smallCompanies.length > 0) {
@@ -155,16 +178,20 @@ function generateJobTable(jobs) {
         smallCompanies.forEach((companyName) => {
           const companyJobs = jobsByCompany[companyName];
           const emoji = getCompanyEmoji(companyName);
-          
+
           companyJobs.forEach((job) => {
             const role = job.job_title;
             const location = formatLocation(job.job_city, job.job_state);
             const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
-            const applyLink = job.job_apply_link || getCompanyCareerUrl(job.employer_name);
+            const applyLink =
+              job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
             let statusIndicator = "";
             const description = (job.job_description || "").toLowerCase();
-            if (description.includes("no sponsorship") || description.includes("us citizen")) {
+            if (
+              description.includes("no sponsorship") ||
+              description.includes("us citizen")
+            ) {
               statusIndicator = " 🇺🇸";
             }
             if (description.includes("remote")) {
@@ -174,13 +201,17 @@ function generateJobTable(jobs) {
             output += `| ${emoji} **${companyName}** | ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
           });
         });
-        
+
         output += "\n";
       }
     }
   });
 
-  console.log(`\n🎉 DEBUG: Finished generating job table with ${Object.keys(jobsByCompany).length} companies processed`);
+  console.log(
+    `\n🎉 DEBUG: Finished generating job table with ${
+      Object.keys(jobsByCompany).length
+    } companies processed`
+  );
   return output;
 }
 
@@ -252,7 +283,12 @@ ${generateJobTable(archivedJobs)}
 }
 
 // Generate comprehensive README
-async function generateReadme(currentJobs, archivedJobs = [], internshipData = null, stats = null) {
+async function generateReadme(
+  currentJobs,
+  archivedJobs = [],
+  internshipData = null,
+  stats = null
+) {
   const currentDate = new Date().toLocaleDateString("en-US", {
     year: "numeric",
     month: "long",
@@ -266,7 +302,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
   return `# 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${
+    currentJobs.length
+  }+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -310,19 +348,33 @@ ${generateJobTable(currentJobs)}
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (${companies.faang_plus.length} companies)
-${companies.faang_plus.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+${companies.faang_plus
+  .map((c) => `${c.emoji} [${c.name}](${c.career_url})`)
+  .join(" • ")}
 
 #### 🦄 **Unicorn Startups** (${companies.unicorn_startups.length} companies)
-${companies.unicorn_startups.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+${companies.unicorn_startups
+  .map((c) => `${c.emoji} [${c.name}](${c.career_url})`)
+  .join(" • ")}
 
 #### 💰 **Fintech Leaders** (${companies.fintech.length} companies)
-${companies.fintech.map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+${companies.fintech
+  .map((c) => `${c.emoji} [${c.name}](${c.career_url})`)
+  .join(" • ")}
 
-#### 🎮 **Gaming & Entertainment** (${[...companies.gaming, ...companies.media_entertainment].length} companies)
-${[...companies.gaming, ...companies.media_entertainment].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### 🎮 **Gaming & Entertainment** (${
+    [...companies.gaming, ...companies.media_entertainment].length
+  } companies)
+${[...companies.gaming, ...companies.media_entertainment]
+  .map((c) => `${c.emoji} [${c.name}](${c.career_url})`)
+  .join(" • ")}
 
-#### ☁️ **Enterprise & Cloud** (${[...companies.top_tech, ...companies.enterprise_saas].length} companies)
-${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [${c.name}](${c.career_url})`).join(" • ")}
+#### ☁️ **Enterprise & Cloud** (${
+    [...companies.top_tech, ...companies.enterprise_saas].length
+  } companies)
+${[...companies.top_tech, ...companies.enterprise_saas]
+  .map((c) => `${c.emoji} [${c.name}](${c.career_url})`)
+  .join(" • ")}
 
 ---
 
@@ -330,46 +382,66 @@ ${[...companies.top_tech, ...companies.enterprise_saas].map((c) => `${c.emoji} [
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${stats ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100) : 0}% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${stats ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100) : 0}% | 1-2 years of experience |
-| 🔴 Manager         | ${stats?.byLevel["Senior"] || 0} | ${stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0}% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${
+    stats
+      ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100)
+      : 0
+  }% | No or minimal experience |
+| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${
+    stats
+      ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100)
+      : 0
+  }% | 1-2 years of experience |
+| 🔴 Manager         | ${stats?.byLevel["Senior"] || 0} | ${
+    stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0
+  }% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-${stats ? Object.entries(stats.byLocation)
-  .sort((a, b) => b[1] - a[1])
-  .slice(0, 8)
-  .map(([location, count]) => `- **${location}**: ${count} positions`)
-  .join("\n") : ""}
+${
+  stats
+    ? Object.entries(stats.byLocation)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 8)
+        .map(([location, count]) => `- **${location}**: ${count} positions`)
+        .join("\n")
+    : ""
+}
 
 ---
 
 ### 👨‍💻 **Top Tech Fields**
 
-${stats ? Object.entries(stats.byCategory)
-  .sort((a, b) => b[1] - a[1])
-  .map(([category, count]) => {
-    const icon = {
-      "Mobile Development": "📱",
-      "Frontend Development": "🎨",
-      "Backend Development": "⚙️",
-      "Full Stack Development": "🌐",
-      "Machine Learning & AI": "🧠",
-      "Data Science & Analytics": "📊",
-      "DevOps & Infrastructure": "☁️",
-      "Security Engineering": "🛡️",
-      "Product Management": "📋",
-      "Design": "🎨",
-      "Software Engineering": "💻",
-    }[category] || "💻";
+${
+  stats
+    ? Object.entries(stats.byCategory)
+        .sort((a, b) => b[1] - a[1])
+        .map(([category, count]) => {
+          const icon =
+            {
+              "Mobile Development": "📱",
+              "Frontend Development": "🎨",
+              "Backend Development": "⚙️",
+              "Full Stack Development": "🌐",
+              "Machine Learning & AI": "🧠",
+              "Data Science & Analytics": "📊",
+              "DevOps & Infrastructure": "☁️",
+              "Security Engineering": "🛡️",
+              "Product Management": "📋",
+              Design: "🎨",
+              "Software Engineering": "💻",
+            }[category] || "💻";
 
-    const categoryJobs = currentJobs.filter(
-      (job) => getJobCategory(job.job_title, job.job_description) === category
-    );
-    const topCompanies = [...new Set(categoryJobs.slice(0, 3).map((j) => j.employer_name))];
+          const categoryJobs = currentJobs.filter(
+            (job) =>
+              getJobCategory(job.job_title, job.job_description) === category
+          );
+          const topCompanies = [
+            ...new Set(categoryJobs.slice(0, 3).map((j) => j.employer_name)),
+          ];
 
-    return `#### ${icon} ${category} (${count} positions)
+          return `#### ${icon} ${category} (${count} positions)
 ${topCompanies
   .map((company) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === company);
@@ -377,14 +449,18 @@ ${topCompanies
     return `${emoji} ${company}`;
   })
   .join(" • ")}`;
-  })
-  .join("\n\n") : ""}
+        })
+        .join("\n\n")
+    : ""
+}
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** ${currentJobs.length}+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
+✅ **100% Real Jobs:** ${
+    currentJobs.length
+  }+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -437,7 +513,9 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
 <div align="center">
 
-**🎯 ${currentJobs.length} current opportunities from ${totalCompanies} elite companies.**
+**🎯 ${
+    currentJobs.length
+  } current opportunities from ${totalCompanies} elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
