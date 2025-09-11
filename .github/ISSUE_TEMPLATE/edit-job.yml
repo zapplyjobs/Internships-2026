@@ -53,7 +53,7 @@ body:
       label: What category does this job belong to?
       description: Select the category that best fits this job posting
       options:
-        - "None"
+        - "Not Selected"
         - "Software Engineering"
         - "Data Science/Analytics"
         - "Product Management"
@@ -73,7 +73,7 @@ body:
       label: Does this job offer sponsorship?
       description: "If this posting does not fall into one of these categories, select 'Other' then specify in parentheses at the end of the job Title what the sponsorship status is"
       options:
-        - "None"
+        - "Not Selected"
         - "Offers Sponsorship"
         - "Does Not Offer Sponsorship"
         - "Sponsorship Not Specified"
@@ -87,7 +87,7 @@ body:
       label: Is this job posting currently accepting applications?
       description: "Mark this as 'false' if the job is no longer active"
       options:
-        - "None"
+        - "Not Selected"
         - "Yes"
         - "No"
         - "Unknown"
