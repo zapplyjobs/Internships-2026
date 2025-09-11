@@ -8,7 +8,6 @@ body:
       value: |
         Thanks for taking the time to contribute!
         
-        Make sure you've read [CONTRIBUTING.md](Contributing-new.md) before submitting your job posting.
         
   - type: input
     id: job-url
