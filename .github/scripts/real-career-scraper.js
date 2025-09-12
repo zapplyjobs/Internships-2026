@@ -4,7 +4,7 @@ const {isUSOnlyJob} = require("./job-fetcher/utils");
 const {filterJobsByLevel} =require("./job-fetcher/utils")
 const { scrapeCompanyData } = require('../../jobboard/src/backend/core/scraper.js');
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
-const { transformJobs } = require('../../jobboard/src/backend/output/jobTransformer.js');
+const { transformJobs ,convertDateToRelative } = require('../../jobboard/src/backend/output/jobTransformer.js');
 // Load company database
 const companies = JSON.parse(
   fs.readFileSync("./.github/scripts/job-fetcher/companies.json", "utf8")
@@ -50,7 +50,7 @@ const CAREER_APIS = {
             job.content ||
             "Join Stripe to help build the economic infrastructure for the internet.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -76,7 +76,7 @@ const CAREER_APIS = {
             job.content ||
             "Join Coinbase to build the future of cryptocurrency.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -102,7 +102,7 @@ const CAREER_APIS = {
             job.content ||
             "Join Airbnb to create a world where anyone can belong anywhere.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -127,7 +127,7 @@ const CAREER_APIS = {
           job_description:
             job.content || "Join Databricks to unify analytics and AI.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -152,7 +152,7 @@ const CAREER_APIS = {
           job_description:
             job.content || "Join Figma to make design accessible to all.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -188,7 +188,7 @@ const CAREER_APIS = {
         job_description:
           job.jobSummary || "Join Apple to create products that change lives.",
         job_apply_link: `https://jobs.apple.com/en-us/details/${job.positionId}`,
-        job_posted_at_datetime_utc: safeISOString(job.postDateInGMT),
+        job_posted_at: convertDateToRelative(job.postDateInGMT),
         job_employment_type: "FULLTIME",
       }));
     },
@@ -214,7 +214,7 @@ const CAREER_APIS = {
             job.description ||
             "Join Microsoft to empower every person and organization on the planet.",
           job_apply_link: `https://jobs.careers.microsoft.com/global/en/job/${job.jobId}`,
-          job_posted_at_datetime_utc: safeISOString(job.postedDate),
+          job_posted_at: convertDateToRelative(job.postedDate),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -249,7 +249,7 @@ const CAREER_APIS = {
           job_description:
             job.job_description || "Join Netflix to entertain the world.",
           job_apply_link: job.canonicalPositionUrl,
-          job_posted_at_datetime_utc: safeISOString(job.t_create * 1000),
+          job_posted_at: convertDateToRelative(job.t_create * 1000),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -275,7 +275,7 @@ const CAREER_APIS = {
             job.description ||
             "Join Qualcomm to invent breakthrough technologies.",
           job_apply_link: job.canonicalPositionUrl,
-          job_posted_at_datetime_utc: safeISOString(job.publishedDate),
+          job_posted_at: convertDateToRelative(job.publishedDate),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -300,7 +300,7 @@ const CAREER_APIS = {
           job_description:
             job.description || "Join PayPal to democratize financial services.",
           job_apply_link: job.canonicalPositionUrl,
-          job_posted_at_datetime_utc: safeISOString(job.publishedDate),
+          job_posted_at: convertDateToRelative(job.publishedDate),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -327,7 +327,7 @@ const CAREER_APIS = {
           job_state: job.location?.name?.split(", ")?.[1] || "CA",
           job_description: job.content || "Join Discord to build connections.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -353,7 +353,7 @@ const CAREER_APIS = {
             job.content ||
             "Join Lyft to improve people's lives with the world's best transportation.",
           job_apply_link: job.absolute_url,
-          job_posted_at_datetime_utc: safeISOString(job.updated_at),
+          job_posted_at: convertDateToRelative(job.updated_at),
           job_employment_type: "FULLTIME",
         }));
     },
@@ -367,7 +367,7 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function safeISOString(dateValue) {
+function convertDateToRelative(dateValue) {
   if (!dateValue) return new Date().toISOString();
 
   try {
@@ -457,7 +457,7 @@ async function fetchSimplifyJobsData() {
         job_state: job.locations?.[0]?.split(", ")?.[1] || "Locations",
         job_description: `Join ${job.company_name} in this exciting opportunity.`,
         job_apply_link: job.url,
-        job_posted_at_datetime_utc: safeISOString(job.date_posted * 1000),
+        job_posted_at: convertDateToRelative(job.date_posted * 1000),
         job_employment_type: "FULLTIME",
       }));
 
@@ -868,8 +868,8 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
 
   // Sort by posting date (descending - latest first)
   uniqueJobs.sort((a, b) => {
-    const dateA = new Date(a.job_posted_at_datetime_utc);
-    const dateB = new Date(b.job_posted_at_datetime_utc);
+    const dateA = new Date(a.job_posted_at);
+    const dateB = new Date(b.job_posted_at);
     return dateB - dateA;
   });
 
