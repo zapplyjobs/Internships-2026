@@ -5,7 +5,6 @@ const {
   ALL_COMPANIES,
   getCompanyEmoji,
   getCompanyCareerUrl,
-  formatTimeAgo,
   getExperienceLevel,
   getJobCategory,
   formatLocation,
@@ -182,7 +181,7 @@ function generateJobTable(jobs) {
           companyJobs.forEach((job) => {
             const role = job.job_title;
             const location = formatLocation(job.job_city, job.job_state);
-            const posted = formatTimeAgo(job.job_posted_at_datetime_utc);
+            const posted = job.job_posted_at;
             const applyLink =
               job.job_apply_link || getCompanyCareerUrl(job.employer_name);
 
