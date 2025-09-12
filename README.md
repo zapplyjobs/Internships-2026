@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 241+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1189+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 241+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1187+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,11 +17,11 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1189 hot software engineering jobs
+🔥 **Current Positions:** 1187 hot software engineering jobs
 
 🏢 **Top Companies:** 241 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 92 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 93 premium opportunities
 
 📅 **Last Updated:** September 12, 2025
 
@@ -67,7 +67,7 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (103 positions)
+### ⭐ **FAANG+** (104 positions)
 
 #### 📦 **Amazon** (11 positions)
 
@@ -86,15 +86,15 @@
 | Security Engineer | Dallas, TX | [Apply](http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security) | 3d |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (28 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (29 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer - Systems, Multiple Locations | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
 | Software Engineer - AI/ML, Multiple Locations | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
 | Software Engineer: Frontend Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
-| Software Engineer: Fullstack Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
 | Software Engineer: Fullstack Intern Opportunities for University Students, Mountain View | Mountain View, California | [Apply](https://jobs.careers.microsoft.com) | 1d |
+| Software Engineer: Fullstack Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1d |
 | Software Engineer - Fullstack, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View | Mountain View, California | [Apply](https://jobs.careers.microsoft.com) | 1d |
@@ -102,17 +102,18 @@
 | Software Engineer - Security, Multiple Locations | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 4w |
-| Software Engineer: Systems Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 4w |
 | Software Engineer: Security Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 4w |
 | Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Atlanta, Georgia | [Apply](https://jobs.careers.microsoft.com) | 4w |
+| Software Engineer: Systems Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 4w |
 | PhD Cloud Network Engineer Intern | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 2d |
-| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1863604) | 1h |
+| Senior Quantum Hardware Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1872753) | 1h |
+| Serviceability Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873805) | 1h |
+| Quantum Hardware Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1872744) | 1h |
+| Principal Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1870515) | 1h |
+| Principal Software Engineering Manager | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846848) | 1h |
+| Principal Hardware Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875822) | 1h |
+| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1874727) | 1h |
 | Software Quality Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1874937) | 1h |
-| Principal Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1845856) | 1h |
-| Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1874705) | 1h |
-| Senior Software Engineer, Minecraft | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1874175) | 1h |
-| Senior Software Engineer – OS / Drivers | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1836194) | 1h |
-| Senior Data Engineer - Xbox | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875894) | 1h |
 | Software Engineer - Frontend | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond) | 11mo |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 4w |
@@ -120,14 +121,13 @@
 | Software Engineer - Fullstack | United States, Locations | [Apply](https://jobs.careers.microsoft.com/us/en/job/1869391) | 1w |
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (20 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (19 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineering Intern, BS, Summer | Mountain View, CA | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineering Intern, MS, Summer | Mountain View, CA | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineering Intern, PhD, Summer | Mountain View, CA | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/118106937735684806-software-engineering-intern-phd-summer-2026?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
-| Software Engineer, Photos, Android | New York City, NY | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/86924145874346694-software-engineer-photos-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Performance Modeling | Raleigh, NC | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/76216178225095366-software-engineer-performance-modeling?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Associate Software Engineer, Global Positioning System Cloud Infrastructure | Reston, VA | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/84471802763322054-associate-software-engineer-global-positioning-system-cloud-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Embedded Security, Silicon | San Diego, CA | [Apply](https://www.google.com/about/careers/applications/jobs/results//jobs/results/102842466125652678-software-engineer-embedded-security-silicon?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
@@ -192,7 +192,8 @@
 | 🔵 **Meta** | Research Scientist Intern, Tracking & Sensor Fusion (PhD) | Redmond, WA | [Apply](https://www.metacareers.com) | 1h |
 | 🔵 **Meta** | Research Scientist Intern, Hand Pose Estimation & Tracking (PhD) | Redmond, WA | [Apply](https://www.metacareers.com) | 1h |
 | 🔵 **Meta** | Product Security Engineer (University Grad) | Bellevue, WA | [Apply](https://www.metacareers.com/jobs/609052015548260) | 1mo |
-| 🎬 **Netflix** | Software Engineer 7, Content Promotion & Distribution | Los Gatos, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311932723) | 21h |
+| 🎬 **Netflix** | Software Engineer 7, Content Promotion & Distribution | Los Gatos, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311932723) | 22h |
+| 🎬 **Netflix** | Security Software Engineer (L5), Workforce Security | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311936654) | 22h |
 | 🎬 **Netflix** | Security Software Engineer (L5), Authentication Engineering | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311903913) | 2d |
 | 🎬 **Netflix** | Systems Development Engineer 4 - Creative Compute and Storage | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311906390) | 2d |
 | 🎬 **Netflix** | Ads Privacy Engineer (L6) | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311907898) | 2d |
@@ -202,7 +203,7 @@
 | 🎬 **Netflix** | Network Security Engineer L5 | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311849784) | 4d |
 | 🏢 **Tencent** | Security Software Engineer I | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856) | 2w |
 
-### 🏢 **Top Tech** (242 positions)
+### 🏢 **Top Tech** (243 positions)
 
 #### 🎮 **NVIDIA** (11 positions)
 
@@ -220,7 +221,7 @@
 | GPU Architecture Engineer | Santa Clara, CA | [Apply](http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) | 2w |
 | Developer Technology Engineer, AI | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) | 2d |
 
-#### 🔷 **Intel** (12 positions)
+#### 🔷 **Intel** (13 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -230,6 +231,7 @@
 | Software Application Development Engineer | 4 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0277289?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 1d |
 | Physical Verification Application Engineer | 3 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Physical-Verification-Application-Engineer_JR0272754-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 1w |
 | Triton Compiler Engineer | 3 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Triton-Compiler-Engineer_JR0277157?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 2d |
+| Electrical Lab Engineer | US, Arizona | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Electrical-Lab-Engineer_JR0277063?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 1d |
 | Data Scientist - Economics | 3 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Data-Scientist---Economics_JR0277007?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 2w |
 | Silicon Hardware Engineering - Intern, Graduate | 5 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0276774?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 3w |
 | Identity Engineer | 3 Locations, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Identity-Engineer_JR0276330?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf) | 1mo |
@@ -379,7 +381,7 @@
 | Sr. Staff Software Engineer, CoreX | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987676002) | 2d |
 | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002) | 1mo |
 | Sr. Staff Software Engineer, Vector Search | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002) | 2d |
-| Sr. Technical Marketing Engineer, Unity Catalog | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002) | 2h |
+| Sr. Technical Marketing Engineer, Unity Catalog | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002) | 3h |
 | Staff Designated Support Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) | 1mo |
 | Staff Fullstack Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) | 1mo |
 | Staff Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) | 2d |
@@ -446,7 +448,7 @@
 | 📱 **Qualcomm** | Senior Multimedia Systems Engineer | San Diego, California | [Apply](https://careers.qualcomm.com/careers/job/446707555364) | 2w |
 | 📱 **Qualcomm** | Lead SOC Physical Design Engineer | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707568765) | 2w |
 | 📱 **Qualcomm** | Senior Staff Engineer, Dev Ops Engineer | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707455258) | 4w |
-| 📱 **Qualcomm** | Staff Engineer, Backend Infrastructure | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707439227) | 4w |
+| 📱 **Qualcomm** | Senior Engineer, Backend Gen Al | Santa Clara, California | [Apply](https://careers.qualcomm.com/careers/job/446707439228) | 4w |
 | ⚡ **Tesla** | Machine Learning Engineer, Model Optimization & Deployment, Optimus | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/247659) | 1mo |
 | ⚡ **Tesla** | Software Engineer, Communications Platform | Fremont, CA | [Apply](https://www.tesla.com/careers/search/job/247062) | 3w |
 | ⚡ **Tesla** | Kernel Software Engineer | Palo Alto, CA | [Apply](https://www.tesla.com/careers/search/job/248966) | 2w |
@@ -469,9 +471,9 @@
 | 🏢 **PayPal** | Software Engineer 3 | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915831885) | 2d |
 | 🏢 **PayPal** | Senior Software Engineer, Fullstack | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915818270) | 3d |
 | 🏢 **PayPal** | Staff Software Engineer, iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915818274) | 3d |
-| 🏢 **PayPal** | Senior Software Engineer ,iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827883) | 3d |
 | 🏢 **PayPal** | Cybersecurity Engineer Intern | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915814125) | 3d |
 | 🏢 **PayPal** | Staff Software Engineer, Backend Python | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827867) | 3d |
+| 🏢 **PayPal** | Senior Software Engineer, Backend Java | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827875) | 3d |
 
 ### 💻 **Enterprise Software** (42 positions)
 
@@ -563,7 +565,7 @@
 | Engineering Manager, Ads | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101770002) | 1mo |
 | Engineering Manager, Desktop Platform | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8153871002) | 1w |
 | Engineering Manager, Experiences | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/7991189002) | 2w |
-| Engineering Manager - Internal Developer Experience | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8150540002) | 6d |
+| Engineering Manager - Internal Developer Experience | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8150540002) | 1w |
 | Senior Engineering Manager, Ads | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8049679002) | 1mo |
 | Senior Engineering Manager, Client Platforms | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8045535002) | 1mo |
 | Senior Privacy Engineer | San Francisco Bay Area (U.S), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8105734002) | 1d |
@@ -650,7 +652,7 @@
 |------|----------|-----------|-----|
 | Android Engineer, Driver Loyalty & Rewards | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8124230002?gh_jid=8124230002) | 3d |
 | Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) | 1w |
-| Data Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002) | 3h |
+| Data Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002) | 4h |
 | Director of Engineering, Mapping | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8091079002?gh_jid=8091079002) | 2w |
 | Engineering Manager, Fleets | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141332002?gh_jid=8141332002) | 2w |
 | Lead Software Engineer in Test | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002) | 6d |
@@ -659,114 +661,114 @@
 | Senior Frontend Infra Engineer | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083771002?gh_jid=8083771002) | 1w |
 | Senior Software Engineer - Detection & Placement | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7832339002?gh_jid=7832339002) | 6d |
 | Senior Software Engineer, Lyft Business | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141328002?gh_jid=8141328002) | 1w |
-| Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002) | 1w |
 | Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7806017002?gh_jid=7806017002) | 1w |
+| Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002) | 1w |
 | Software Engineer - Ad Infra, Lyft Media | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) | 2d |
-| Software Engineer, Detection Engineering | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002) | 1w |
 | Software Engineer, Detection Engineering | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141414002?gh_jid=8141414002) | 1w |
+| Software Engineer, Detection Engineering | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002) | 1w |
 | Software Engineer Intern, Backend (Summer 2026) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002) | 1w |
 | Software Engineer in Test | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8144883002?gh_jid=8144883002) | 6d |
 | Software Engineer, Routing | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002) | 1w |
 | Software Engineer, Security Foundations | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083636002?gh_jid=8083636002) | 1mo |
 | Software Engineer, Security Foundations | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083487002?gh_jid=8083487002) | 1mo |
 | Staff Machine Learning Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7773350002?gh_jid=7773350002) | 1w |
-| Staff Software Engineer, Growth Products | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8118008002?gh_jid=8118008002) | 1w |
 | Staff Software Engineer, Growth Products | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8118353002?gh_jid=8118353002) | 1w |
 | Staff Software Engineer, Growth Products | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8118351002?gh_jid=8118351002) | 1w |
+| Staff Software Engineer, Growth Products | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8118008002?gh_jid=8118008002) | 1w |
 
 <details>
 <summary><h4>🏠 <strong>Airbnb</strong> (88 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Android Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113677?gh_jid=7113677) | 3d |
-| Application Security Engineer | United States, CA | [Apply](https://careers.airbnb.com/positions/7178910?gh_jid=7178910) | 3d |
-|  Engineering Manager, Control Plane – Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7026858?gh_jid=7026858) | 3d |
-| Engineering Manager, Media Foundation: Ingestion & Serving Team | CA - Remote, CA | [Apply](https://careers.airbnb.com/positions/7217178?gh_jid=7217178) | 3d |
+| Android Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113677?gh_jid=7113677) | 4d |
+| Application Security Engineer | United States, CA | [Apply](https://careers.airbnb.com/positions/7178910?gh_jid=7178910) | 4d |
+|  Engineering Manager, Control Plane – Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7026858?gh_jid=7026858) | 4d |
+| Engineering Manager, Media Foundation: Ingestion & Serving Team | CA - Remote, CA | [Apply](https://careers.airbnb.com/positions/7217178?gh_jid=7217178) | 4d |
 | Full-Stack Software Engineer, Guest Displays & Platforms | United States, CA | [Apply](https://careers.airbnb.com/positions/6786628?gh_jid=6786628) | 2d |
-| Manager, Engineering - Community Support Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7176142?gh_jid=7176142) | 3d |
-| Manager, Engineering - Guest & Host | Remote - US, CA | [Apply](https://careers.airbnb.com/positions/6782572?gh_jid=6782572) | 3d |
-| Manager, Machine Learning Engineering - Community Support Engineering | United Stated, CA | [Apply](https://careers.airbnb.com/positions/6760488?gh_jid=6760488) | 3d |
-| Senior Android Engineer, Quality Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/6602436?gh_jid=6602436) | 3d |
-| Senior Frontend Engineer, Client Media Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/6756599?gh_jid=6756599) | 3d |
-| Senior Frontend Engineer, Core Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7185264?gh_jid=7185264) | 3d |
-| Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) | 3d |
-| Senior iOS Engineer, Core Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7185229?gh_jid=7185229) | 3d |
-| Senior iOS Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113668?gh_jid=7113668) | 3d |
-| Senior iOS Engineer, Global Markets  | China, CA | [Apply](https://careers.airbnb.com/positions/7043031?gh_jid=7043031) | 3d |
-| Senior iOS Engineer, Search Feed | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6602371?gh_jid=6602371) | 3d |
-| Senior Manager, Software Engineering - Security | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6752751?gh_jid=6752751) | 3d |
-| Senior Security Engineer, Infrastructure Security | United States, CA | [Apply](https://careers.airbnb.com/positions/6817221?gh_jid=6817221) | 3d |
-| Senior Security Engineer, Threat Detection & Response | United States, CA | [Apply](https://careers.airbnb.com/positions/7134785?gh_jid=7134785) | 3d |
-| Senior Software Engineer, Analytics Infrastructure | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7107439?gh_jid=7107439) | 3d |
-| Senior Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7233106?gh_jid=7233106) | 3d |
-| Senior Software Engineer, API Infra | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7009340?gh_jid=7009340) | 3d |
-| Senior Software Engineer, Booking Orchestration | United States, CA | [Apply](https://careers.airbnb.com/positions/7125301?gh_jid=7125301) | 3d |
-| Senior Software Engineer, Community Support Engineering(Multiple roles) | China, CA | [Apply](https://careers.airbnb.com/positions/6567660?gh_jid=6567660) | 3d |
-| Senior Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095216?gh_jid=7095216) | 3d |
-| Senior Software Engineer, Data Security | United States, CA | [Apply](https://careers.airbnb.com/positions/7140643?gh_jid=7140643) | 3d |
-| Senior Software Engineer, Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7070179?gh_jid=7070179) | 3d |
-| Senior Software Engineer, Guest Displays & Platform | United States, CA | [Apply](https://careers.airbnb.com/positions/7125258?gh_jid=7125258) | 3d |
-| Senior Software Engineer, Guest & Host | United States, CA | [Apply](https://careers.airbnb.com/positions/6292190?gh_jid=6292190) | 3d |
-| Senior Software Engineer, Guest & Host - Notifications | China, CA | [Apply](https://careers.airbnb.com/positions/7174313?gh_jid=7174313) | 3d |
-| Senior Software Engineer, Secure Development Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7179262?gh_jid=7179262) | 3d |
-| Senior Software Engineer, Tax Platform, BizTech | United States, CA | [Apply](https://careers.airbnb.com/positions/7093527?gh_jid=7093527) | 3d |
-| Senior Software Engineer, Trust | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7116556?gh_jid=7116556) | 3d |
-| Senior Software Engineer, Workflow Orchestration | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7173405?gh_jid=7173405) | 3d |
-| Senior Staff Backend Engineer, Merchandising Platform | Remote - US, CA | [Apply](https://careers.airbnb.com/positions/7129253?gh_jid=7129253) | 3d |
-| Senior Staff Machine Learning Engineer - AI Safety and Guardrail  | United States, CA | [Apply](https://careers.airbnb.com/positions/7159569?gh_jid=7159569) | 3d |
-| Senior Staff Machine Learning Engineer, Communication & Connectivity | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7005605?gh_jid=7005605) | 3d |
-| Senior Staff Machine Learning Engineer, Community Support Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/6757302?gh_jid=6757302) | 3d |
-| Senior Staff Machine Learning Engineer – GenAI | United States, CA | [Apply](https://careers.airbnb.com/positions/7028263?gh_jid=7028263) | 3d |
-| Senior Staff Machine Learning Engineer - Guest & Host | United States, CA | [Apply](https://careers.airbnb.com/positions/6817373?gh_jid=6817373) | 3d |
-| Senior Staff Machine Learning Engineer, Relevance and Personalization | United States, CA | [Apply](https://careers.airbnb.com/positions/6237467?gh_jid=6237467) | 3d |
-| Senior Staff Software Engineer, Community Support Engineering | China, CA | [Apply](https://careers.airbnb.com/positions/6480711?gh_jid=6480711) | 3d |
-| Senior Staff Software Engineer, Hotels | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6781895?gh_jid=6781895) | 3d |
-| Senior Systems Engineer, Slack | United States, CA | [Apply](https://careers.airbnb.com/positions/6956809?gh_jid=6956809) | 3d |
-| Software Engineer, Android, Global Markets  | China, CA | [Apply](https://careers.airbnb.com/positions/7142292?gh_jid=7142292) | 3d |
-| Software Engineer, Guest & Host | China, CA | [Apply](https://careers.airbnb.com/positions/7028667?gh_jid=7028667) | 3d |
-| Staff Analytics Engineer - Users & Contextualization Data & AI | United States, CA | [Apply](https://careers.airbnb.com/positions/7116761?gh_jid=7116761) | 3d |
-| Staff Android Engineer, Reservation Management | United States, CA | [Apply](https://careers.airbnb.com/positions/6571055?gh_jid=6571055) | 3d |
-| Staff Automation Engineer, Quality Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7011257?gh_jid=7011257) | 3d |
-| Staff Backend Engineer, Merchandising Platform | United States , CA | [Apply](https://careers.airbnb.com/positions/6964572?gh_jid=6964572) | 3d |
-| Staff Data Engineer - Data AI-Listings & Structured Data  | United States, CA | [Apply](https://careers.airbnb.com/positions/7012829?gh_jid=7012829) | 3d |
-| Staff Data Platform Engineer, Community Support Platform | REMOTE - US, CA | [Apply](https://careers.airbnb.com/positions/7183500?gh_jid=7183500) | 3d |
-| Staff Fullstack Engineer, Reservation Management | United States, CA | [Apply](https://careers.airbnb.com/positions/5011395?gh_jid=5011395) | 3d |
-| Staff Fullstack Software Engineer, Guest Displays & Platforms | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6456303?gh_jid=6456303) | 3d |
-| Staff Fullstack Software Engineer, Marketing Technology | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7194851?gh_jid=7194851) | 3d |
-| Staff iOS Engineer, Guest & Host | Remote United States, CA | [Apply](https://careers.airbnb.com/positions/6854729?gh_jid=6854729) | 3d |
-| Staff Machine Learning Engineer, AI Translation | United States, CA | [Apply](https://careers.airbnb.com/positions/6838683?gh_jid=6838683) | 3d |
-| Staff Machine Learning Engineer - Community Support Engineering | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7116975?gh_jid=7116975) | 3d |
-| Staff Machine Learning Engineer, Payments | United States, CA | [Apply](https://careers.airbnb.com/positions/7121624?gh_jid=7121624) | 3d |
-| Staff Machine Learning Engineer, Trust | United States, CA | [Apply](https://careers.airbnb.com/positions/7103016?gh_jid=7103016) | 3d |
-| Staff Security Engineer, Data Security | United States, CA | [Apply](https://careers.airbnb.com/positions/7158734?gh_jid=7158734) | 3d |
-| Staff Software Engineer, AI Enablement  | United States, CA | [Apply](https://careers.airbnb.com/positions/7081653?gh_jid=7081653) | 3d |
-| Staff Software Engineer - AI Systems  | United States, CA | [Apply](https://careers.airbnb.com/positions/6915455?gh_jid=6915455) | 3d |
-| Staff Software Engineer, Analytics Infrastructure | United States, CA | [Apply](https://careers.airbnb.com/positions/7064917?gh_jid=7064917) | 3d |
-| Staff Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7235415?gh_jid=7235415) | 3d |
-| Staff Software Engineer, Checkout | United States, CA | [Apply](https://careers.airbnb.com/positions/6580579?gh_jid=6580579) | 3d |
-| Staff Software Engineer, Community Support Engineering | China, CA | [Apply](https://careers.airbnb.com/positions/6448191?gh_jid=6448191) | 3d |
-| Staff Software Engineer, Community Support Engineering(Product) | China, CA | [Apply](https://careers.airbnb.com/positions/7127885?gh_jid=7127885) | 3d |
-| Staff Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095225?gh_jid=7095225) | 3d |
-| Staff Software Engineer, Data Warehouse Compute | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7094964?gh_jid=7094964) | 3d |
-| Staff Software Engineer, Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7090672?gh_jid=7090672) | 3d |
-| Staff Software Engineer, GenAI Systems | United Stated , CA | [Apply](https://careers.airbnb.com/positions/7070086?gh_jid=7070086) | 3d |
-| Staff Software Engineer, Growth Platform | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/6886222?gh_jid=6886222) | 3d |
-| Staff Software Engineer, Guest Displays & Platforms  | United States, CA | [Apply](https://careers.airbnb.com/positions/7128674?gh_jid=7128674) | 3d |
-| Staff Software Engineer, Guest & Host - Global Markets | China, CA | [Apply](https://careers.airbnb.com/positions/7058464?gh_jid=7058464) | 3d |
-| Staff Software Engineer, Guest & Host - Pricing Guidance Team | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6741839?gh_jid=6741839) | 3d |
-| Staff Software Engineer, HotelTonight | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/6580069?gh_jid=6580069) | 3d |
-| Staff Software Engineer, Integrated Knowledge Management (RAG) | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6871719?gh_jid=6871719) | 3d |
-| Staff Software Engineer, Knowledge Graph | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7097696?gh_jid=7097696) | 3d |
-|  Staff Software Engineer, Online Database Infrastructure - Ingestion  | United States, CA | [Apply](https://careers.airbnb.com/positions/7009541?gh_jid=7009541) | 3d |
-| Staff Software Engineer, Performance  | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6996864?gh_jid=6996864) | 3d |
-| Staff Software Engineer, Reliability Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/5667237?gh_jid=5667237) | 3d |
-| Staff Software Engineer, Search Infrastructure | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7095020?gh_jid=7095020) | 3d |
-| Staff Software Engineer, Secure Development Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7031897?gh_jid=7031897) | 3d |
-| Staff Software Engineer, Tax Platform | United States, CA | [Apply](https://careers.airbnb.com/positions/6979138?gh_jid=6979138) | 3d |
-| Staff Software Engineer, Trust | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7116604?gh_jid=7116604) | 3d |
-| Staff Systems Engineer, Infrastructure, BizTech | United States, CA | [Apply](https://careers.airbnb.com/positions/7093737?gh_jid=7093737) | 3d |
-| Tech Lead Manager, Engineering - Guest & Host | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 3d |
+| Manager, Engineering - Community Support Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7176142?gh_jid=7176142) | 4d |
+| Manager, Engineering - Guest & Host | Remote - US, CA | [Apply](https://careers.airbnb.com/positions/6782572?gh_jid=6782572) | 4d |
+| Manager, Machine Learning Engineering - Community Support Engineering | United Stated, CA | [Apply](https://careers.airbnb.com/positions/6760488?gh_jid=6760488) | 4d |
+| Senior Android Engineer, Quality Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/6602436?gh_jid=6602436) | 4d |
+| Senior Frontend Engineer, Client Media Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/6756599?gh_jid=6756599) | 4d |
+| Senior Frontend Engineer, Core Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7185264?gh_jid=7185264) | 4d |
+| Senior Fullstack Engineer Community Support Engineering | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6856155?gh_jid=6856155) | 4d |
+| Senior iOS Engineer, Core Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7185229?gh_jid=7185229) | 4d |
+| Senior iOS Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113668?gh_jid=7113668) | 4d |
+| Senior iOS Engineer, Global Markets  | China, CA | [Apply](https://careers.airbnb.com/positions/7043031?gh_jid=7043031) | 4d |
+| Senior iOS Engineer, Search Feed | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6602371?gh_jid=6602371) | 4d |
+| Senior Manager, Software Engineering - Security | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6752751?gh_jid=6752751) | 4d |
+| Senior Security Engineer, Infrastructure Security | United States, CA | [Apply](https://careers.airbnb.com/positions/6817221?gh_jid=6817221) | 4d |
+| Senior Security Engineer, Threat Detection & Response | United States, CA | [Apply](https://careers.airbnb.com/positions/7134785?gh_jid=7134785) | 4d |
+| Senior Software Engineer, Analytics Infrastructure | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7107439?gh_jid=7107439) | 4d |
+| Senior Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7233106?gh_jid=7233106) | 4d |
+| Senior Software Engineer, API Infra | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7009340?gh_jid=7009340) | 4d |
+| Senior Software Engineer, Booking Orchestration | United States, CA | [Apply](https://careers.airbnb.com/positions/7125301?gh_jid=7125301) | 4d |
+| Senior Software Engineer, Community Support Engineering(Multiple roles) | China, CA | [Apply](https://careers.airbnb.com/positions/6567660?gh_jid=6567660) | 4d |
+| Senior Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095216?gh_jid=7095216) | 4d |
+| Senior Software Engineer, Data Security | United States, CA | [Apply](https://careers.airbnb.com/positions/7140643?gh_jid=7140643) | 4d |
+| Senior Software Engineer, Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7070179?gh_jid=7070179) | 4d |
+| Senior Software Engineer, Guest Displays & Platform | United States, CA | [Apply](https://careers.airbnb.com/positions/7125258?gh_jid=7125258) | 4d |
+| Senior Software Engineer, Guest & Host | United States, CA | [Apply](https://careers.airbnb.com/positions/6292190?gh_jid=6292190) | 4d |
+| Senior Software Engineer, Guest & Host - Notifications | China, CA | [Apply](https://careers.airbnb.com/positions/7174313?gh_jid=7174313) | 4d |
+| Senior Software Engineer, Secure Development Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7179262?gh_jid=7179262) | 4d |
+| Senior Software Engineer, Tax Platform, BizTech | United States, CA | [Apply](https://careers.airbnb.com/positions/7093527?gh_jid=7093527) | 4d |
+| Senior Software Engineer, Trust | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7116556?gh_jid=7116556) | 4d |
+| Senior Software Engineer, Workflow Orchestration | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7173405?gh_jid=7173405) | 4d |
+| Senior Staff Backend Engineer, Merchandising Platform | Remote - US, CA | [Apply](https://careers.airbnb.com/positions/7129253?gh_jid=7129253) | 4d |
+| Senior Staff Machine Learning Engineer - AI Safety and Guardrail  | United States, CA | [Apply](https://careers.airbnb.com/positions/7159569?gh_jid=7159569) | 4d |
+| Senior Staff Machine Learning Engineer, Communication & Connectivity | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7005605?gh_jid=7005605) | 4d |
+| Senior Staff Machine Learning Engineer, Community Support Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/6757302?gh_jid=6757302) | 4d |
+| Senior Staff Machine Learning Engineer – GenAI | United States, CA | [Apply](https://careers.airbnb.com/positions/7028263?gh_jid=7028263) | 4d |
+| Senior Staff Machine Learning Engineer - Guest & Host | United States, CA | [Apply](https://careers.airbnb.com/positions/6817373?gh_jid=6817373) | 4d |
+| Senior Staff Machine Learning Engineer, Relevance and Personalization | United States, CA | [Apply](https://careers.airbnb.com/positions/6237467?gh_jid=6237467) | 4d |
+| Senior Staff Software Engineer, Community Support Engineering | China, CA | [Apply](https://careers.airbnb.com/positions/6480711?gh_jid=6480711) | 4d |
+| Senior Staff Software Engineer, Hotels | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6781895?gh_jid=6781895) | 4d |
+| Senior Systems Engineer, Slack | United States, CA | [Apply](https://careers.airbnb.com/positions/6956809?gh_jid=6956809) | 4d |
+| Software Engineer, Android, Global Markets  | China, CA | [Apply](https://careers.airbnb.com/positions/7142292?gh_jid=7142292) | 4d |
+| Software Engineer, Guest & Host | China, CA | [Apply](https://careers.airbnb.com/positions/7028667?gh_jid=7028667) | 4d |
+| Staff Analytics Engineer - Users & Contextualization Data & AI | United States, CA | [Apply](https://careers.airbnb.com/positions/7116761?gh_jid=7116761) | 4d |
+| Staff Android Engineer, Reservation Management | United States, CA | [Apply](https://careers.airbnb.com/positions/6571055?gh_jid=6571055) | 4d |
+| Staff Automation Engineer, Quality Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7011257?gh_jid=7011257) | 4d |
+| Staff Backend Engineer, Merchandising Platform | United States , CA | [Apply](https://careers.airbnb.com/positions/6964572?gh_jid=6964572) | 4d |
+| Staff Data Engineer - Data AI-Listings & Structured Data  | United States, CA | [Apply](https://careers.airbnb.com/positions/7012829?gh_jid=7012829) | 4d |
+| Staff Data Platform Engineer, Community Support Platform | REMOTE - US, CA | [Apply](https://careers.airbnb.com/positions/7183500?gh_jid=7183500) | 4d |
+| Staff Fullstack Engineer, Reservation Management | United States, CA | [Apply](https://careers.airbnb.com/positions/5011395?gh_jid=5011395) | 4d |
+| Staff Fullstack Software Engineer, Guest Displays & Platforms | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6456303?gh_jid=6456303) | 4d |
+| Staff Fullstack Software Engineer, Marketing Technology | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7194851?gh_jid=7194851) | 4d |
+| Staff iOS Engineer, Guest & Host | Remote United States, CA | [Apply](https://careers.airbnb.com/positions/6854729?gh_jid=6854729) | 4d |
+| Staff Machine Learning Engineer, AI Translation | United States, CA | [Apply](https://careers.airbnb.com/positions/6838683?gh_jid=6838683) | 4d |
+| Staff Machine Learning Engineer - Community Support Engineering | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7116975?gh_jid=7116975) | 4d |
+| Staff Machine Learning Engineer, Payments | United States, CA | [Apply](https://careers.airbnb.com/positions/7121624?gh_jid=7121624) | 4d |
+| Staff Machine Learning Engineer, Trust | United States, CA | [Apply](https://careers.airbnb.com/positions/7103016?gh_jid=7103016) | 4d |
+| Staff Security Engineer, Data Security | United States, CA | [Apply](https://careers.airbnb.com/positions/7158734?gh_jid=7158734) | 4d |
+| Staff Software Engineer, AI Enablement  | United States, CA | [Apply](https://careers.airbnb.com/positions/7081653?gh_jid=7081653) | 4d |
+| Staff Software Engineer - AI Systems  | United States, CA | [Apply](https://careers.airbnb.com/positions/6915455?gh_jid=6915455) | 4d |
+| Staff Software Engineer, Analytics Infrastructure | United States, CA | [Apply](https://careers.airbnb.com/positions/7064917?gh_jid=7064917) | 4d |
+| Staff Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7235415?gh_jid=7235415) | 4d |
+| Staff Software Engineer, Checkout | United States, CA | [Apply](https://careers.airbnb.com/positions/6580579?gh_jid=6580579) | 4d |
+| Staff Software Engineer, Community Support Engineering | China, CA | [Apply](https://careers.airbnb.com/positions/6448191?gh_jid=6448191) | 4d |
+| Staff Software Engineer, Community Support Engineering(Product) | China, CA | [Apply](https://careers.airbnb.com/positions/7127885?gh_jid=7127885) | 4d |
+| Staff Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095225?gh_jid=7095225) | 4d |
+| Staff Software Engineer, Data Warehouse Compute | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7094964?gh_jid=7094964) | 4d |
+| Staff Software Engineer, Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7090672?gh_jid=7090672) | 4d |
+| Staff Software Engineer, GenAI Systems | United Stated , CA | [Apply](https://careers.airbnb.com/positions/7070086?gh_jid=7070086) | 4d |
+| Staff Software Engineer, Growth Platform | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/6886222?gh_jid=6886222) | 4d |
+| Staff Software Engineer, Guest Displays & Platforms  | United States, CA | [Apply](https://careers.airbnb.com/positions/7128674?gh_jid=7128674) | 4d |
+| Staff Software Engineer, Guest & Host - Global Markets | China, CA | [Apply](https://careers.airbnb.com/positions/7058464?gh_jid=7058464) | 4d |
+| Staff Software Engineer, Guest & Host - Pricing Guidance Team | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6741839?gh_jid=6741839) | 4d |
+| Staff Software Engineer, HotelTonight | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/6580069?gh_jid=6580069) | 4d |
+| Staff Software Engineer, Integrated Knowledge Management (RAG) | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6871719?gh_jid=6871719) | 4d |
+| Staff Software Engineer, Knowledge Graph | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7097696?gh_jid=7097696) | 4d |
+|  Staff Software Engineer, Online Database Infrastructure - Ingestion  | United States, CA | [Apply](https://careers.airbnb.com/positions/7009541?gh_jid=7009541) | 4d |
+| Staff Software Engineer, Performance  | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/6996864?gh_jid=6996864) | 4d |
+| Staff Software Engineer, Reliability Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/5667237?gh_jid=5667237) | 4d |
+| Staff Software Engineer, Search Infrastructure | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7095020?gh_jid=7095020) | 4d |
+| Staff Software Engineer, Secure Development Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7031897?gh_jid=7031897) | 4d |
+| Staff Software Engineer, Tax Platform | United States, CA | [Apply](https://careers.airbnb.com/positions/6979138?gh_jid=6979138) | 4d |
+| Staff Software Engineer, Trust | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/7116604?gh_jid=7116604) | 4d |
+| Staff Systems Engineer, Infrastructure, BizTech | United States, CA | [Apply](https://careers.airbnb.com/positions/7093737?gh_jid=7093737) | 4d |
+| Tech Lead Manager, Engineering - Guest & Host | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 4d |
 
 </details>
 
@@ -820,9 +822,9 @@
 | 🏢 **IXL Learning** | Software Engineer – New Grad | Raleigh, NC | [Apply](https://www.ixl.com/company/jobs?gh_jid=8128544002) | 3w |
 | 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | [Apply](https://www.ixl.com/company/careers?gh_jid=8128533002) | 3w |
 
-### 💰 **Financial & Fintech** (211 positions)
+### 💰 **Financial & Fintech** (212 positions)
 
-#### 🏢 **JPMorgan Chase** (14 positions)
+#### 🏢 **JPMorgan Chase** (15 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -840,6 +842,7 @@
 | AWS/Scala/Java Software Engineer | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210662427/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Software Developer -Automation (Operations) | Cebu, Central Visayas | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210665168/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | 2026 Software Engineer Program - Summer Internship – United States | Austin, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210650080/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Software Engineer III Java / Python/ AWS / Data | Jersey City, NJ | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664894/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 
 <details>
 <summary><h4>💳 <strong>Stripe</strong> (56 positions)</h4></summary>
@@ -1039,8 +1042,8 @@
 | 🏢 **BMO** | Software Engineer | Chicago, IL | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) | 1mo |
 | 🏢 **The Travelers Companies** | Software Engineer I - .Net / MERN / AWS | Sparks, MD | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980) | 1mo |
 | 🏢 **The Travelers Companies** | Software Engineer I - Java - Aws - Jsf | St Paul, MN | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189) | 1mo |
-| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) | 3w |
-| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) | 3w |
+| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) | 4w |
+| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) | 4w |
 | 🏢 **The Travelers Companies** | Software Engineer I - Workday Programmer - Report Writer - Eib | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062) | 3w |
 | 🏢 **The Travelers Companies** | Software Engineer I - Aws | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180) | 2d |
 | 🏢 **Five Rings** | Software Developer | New York, NY | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008) | 1mo |
@@ -1142,7 +1145,7 @@
 | 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | 2mo |
 | 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (100 positions)
+### 🏭 **Manufacturing & Industrial** (97 positions)
 
 #### 🏢 **Arm** (12 positions)
 
@@ -1186,7 +1189,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007126/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 21h |
+| Software Engineering Intern | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007126/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 22h |
 | Career Accelerator Program - Software Engineer | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007078/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 3d |
 | Software Development Engineer Development Program | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007052/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 4d |
 | AI/ML Engineer - Smart Manufacturing & Automation | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007187/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 3d |
@@ -1238,32 +1241,29 @@
 | Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113405/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Graphic Driver Developer - RTOS, C++, Multi-core | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115524/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113400/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| DevOps Engineer | Raleigh, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 21h |
+| DevOps Engineer | Raleigh, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 22h |
 | PLC Controls Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116978/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
 | Software Engr | Pittsford, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111738/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Engineering Tech | Huntsville, AL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116380/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
 | Application Support & Deployment Engineer II - Windows | Pittsford, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113205/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1mo |
-| Field Service Engineer - Building Automation | Miami, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116399/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 21h |
+| Field Service Engineer - Building Automation | Miami, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116399/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 22h |
 | Distributed Energy Systems Engineer | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105173/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Research Technician | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116030/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4d |
 | Systems Engineering - Recent Grad/Full Time | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113413/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Systems Engineering - Recent Grad/Full Time (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113416/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Mechanical Design Engineer | Tempe, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117147/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-| AI Engr | Urbana, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117603/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 21h |
+| AI Engr | Urbana, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117603/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 22h |
 | Test Engineer II - Defense Hardware Qualification | Clearwater, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/114752/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
 | 🏢 **Micron Technology** | Computer Engineer - Central Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31036566) | 2w |
 | 🏢 **Micron Technology** | CAD Design Automation Engineer, Central Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30948222) | 2w |
+| 🏢 **Micron Technology** | MTS, IO Design Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/28358469) | 1d |
 | 🏢 **Micron Technology** | Software Engineer, SECS/GEM | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30764716) | 1w |
 | 🏢 **Micron Technology** | Software Development Engineer | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30043686) | 2mo |
 | 🏢 **Micron Technology** | Software Development Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31029158) | 2w |
-| 🏢 **ABB** | R&D Engineer | Location Richmond, Virginia | [Apply](https://careers.abb/global/en/job/JR00005169/R-D-Engineer) | 1h |
-| 🏢 **ABB** | Power Electronics Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00006748/Power-Electronics-Engineer) | 1h |
-| 🏢 **ABB** | R&D Electrical Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | 1h |
-| 🏢 **ABB** | Associate Project Engineer | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00007348/Associate-Project-Engineer) | 1h |
-| 🏢 **ABB** | Manufacturing Quality Tester-2 | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) | 1h |
+| 🏢 **ABB** | Market Development- Co-op | Available in one of 7 locations, US | [Apply](https://careers.abb/global/en/job/JR00008689/Market-Development-Co-op) | 1h |
 | 🏢 **Analog Devices** | Embedded Software | 2 Locations, US | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software_R255245?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Analog Devices** | Machine Learning Engineer | US, MA | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineer_R255201?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Magna International** | Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
@@ -1309,9 +1309,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 350 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 359 | 30% | 1-2 years of experience |
-| 🔴 Manager         | 480 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 345 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 361 | 30% | 1-2 years of experience |
+| 🔴 Manager         | 481 | 41% | 2+ years of experience |
 
 ---
 
@@ -1329,7 +1329,7 @@
 
 ### 👨‍💻 **Top Tech Fields**
 
-#### 💻 Software Engineering (393 positions)
+#### 💻 Software Engineering (395 positions)
 🔵 IBM
 
 #### 🎨 Frontend Development (324 positions)
@@ -1338,20 +1338,20 @@
 #### 📊 Data Science & Analytics (150 positions)
 🏢 Micron Technology • 🔷 Intel
 
-#### 🧠 Machine Learning & AI (100 positions)
+#### 🧠 Machine Learning & AI (99 positions)
 ☁️ Salesforce
 
 #### ☁️ DevOps & Infrastructure (67 positions)
 🔵 IBM • 🏢 Siemens • 🏢 BAE Systems
 
-#### 📱 Mobile Development (39 positions)
-🏢 Dell
-
-#### 🛡️ Security Engineering (39 positions)
+#### 🛡️ Security Engineering (40 positions)
 🏢 Broadcom
 
-#### ⚙️ Backend Development (38 positions)
+#### ⚙️ Backend Development (39 positions)
 🔵 IBM • 🏢 Analog Devices
+
+#### 📱 Mobile Development (34 positions)
+🏢 Dell
 
 #### 🎨 Design (20 positions)
 🔵 IBM
@@ -1363,7 +1363,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1189+ verified CS internships and entry-level software roles from 241 elite tech companies.
+✅ **100% Real Jobs:** 1187+ verified CS internships and entry-level software roles from 241 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1416,7 +1416,7 @@
 
 <div align="center">
 
-**🎯 1189 current opportunities from 241 elite companies.**
+**🎯 1187 current opportunities from 241 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
