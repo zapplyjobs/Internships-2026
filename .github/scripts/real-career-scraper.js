@@ -367,21 +367,7 @@ function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-function convertDateToRelative(dateValue) {
-  if (!dateValue) return new Date().toISOString();
-
-  try {
-    const date = new Date(dateValue);
-    if (isNaN(date.getTime())) {
-      return new Date().toISOString();
-    }
-    return date.toISOString();
-  } catch (error) {
-    return new Date().toISOString();
-  }
-}
-
-// Fetch jobs from a specific company's career API
+// convertDateToRelative is imported from jobTransformer.js// Fetch jobs from a specific company's career API
 async function fetchCompanyJobs(companyName) {
   const config = CAREER_APIS[companyName];
   if (!config) {
