@@ -102,22 +102,25 @@ function parseLocation(locationText) {
 function convertDateToRelative(postedDate) {
   if (!postedDate) return "1d";
   
+  // Ensure postedDate is a string
+  const dateStr = String(postedDate);
+  
   // Check if it's already in the desired format (like "1h", "2d", "1w", "1mo")
   const desiredFormatRegex = /^\d+[hdwmo]+$/i;
-  if (desiredFormatRegex.test(postedDate.trim())) {
-    return postedDate.trim(); // Return as-is if already in correct format
+  if (desiredFormatRegex.test(dateStr.trim())) {
+    return dateStr.trim(); // Return as-is if already in correct format
   }
   
   // Handle special cases first
-  const lowerCaseDate = postedDate.toLowerCase().trim();
+  const lowerCaseDate = dateStr.toLowerCase().trim();
   if (lowerCaseDate === 'today' || lowerCaseDate === 'yesterday') {
     return "1d";
   }
   
   // If it contains "ago", clean it up by removing "posted" and "ago"
-  let cleanedDate = postedDate;
-  if (postedDate.toLowerCase().includes('ago')) {
-    cleanedDate = postedDate
+  let cleanedDate = dateStr;
+  if (dateStr.toLowerCase().includes('ago')) {
+    cleanedDate = dateStr
       .replace(/^posted\s+/i, '') // Remove "posted" from beginning
       .replace(/\s+ago$/i, '')    // Remove "ago" from end
       .trim();
@@ -155,12 +158,12 @@ function convertDateToRelative(postedDate) {
   }
   
   // Try to parse absolute dates
-  parsedDate = new Date(postedDate);
+  parsedDate = new Date(dateStr);
   
   // If we couldn't parse the date, return default
-  if (isNaN(parsedDate.getTime())) {
-    return "1d";
-  }
+  // if (isNaN(parsedDate.getTime())) {
+  //   return "1d";
+  // }
   
   // Calculate difference
   const now = new Date();
