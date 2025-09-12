@@ -479,10 +479,7 @@ async function fetchSimplifyJobsData() {
     );
     
     // Additional logging for the first few jobs
-    console.log("🔍 Sample of processed jobs:");
-    activeJobs.forEach((job, index) => {
-      console.log(`${index + 1}. ${job.job_title} - Posted: ${job.job_posted_at}`);
-    });
+  
     
     return activeJobs;
   } catch (error) {
@@ -876,7 +873,9 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
     levelFilteredJobs.push(...externalJobs);
    
     console.log(`✅ Added ${externalJobs.length}  external jobs)`);
-  
+levelFilteredJobs.forEach((job, index) => {
+  console.log(`${index + 1}. Name: ${job.name || job.title || 'N/A'} | Date Posted: ${job.datePosted || job.posted || job.date || 'N/A'}`);
+});  
 
   // Final deduplication using standardized job ID generation
   const uniqueJobs = levelFilteredJobs.filter((job, index, self) => {
