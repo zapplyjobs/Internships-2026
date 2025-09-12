@@ -1,16 +1,19 @@
 // utils/jobTransformers.js
 
 // Helper function to clean job title
+// Updated cleanJobTitle function to handle pipes and existing logic
 function cleanJobTitle(title) {
   if (!title) return title;
   
-  // Remove common prefixes and suffixes
+  // Remove common prefixes and suffixes AND handle pipe characters
   return title
+    .replace(/\|/g, ' - ')  // Replace pipes with dashes to prevent table breaking
+    .replace(/\n/g, ' ')    // Replace newlines with spaces
     .replace(/\s+(I|II|III|IV|V|\d+)$/, '')
     .replace(/\s*-\s*(Remote|Hybrid|On-site).*$/i, '')
+    .replace(/\s+/g, ' ')   // Replace multiple spaces with single space
     .trim();
 }
-
 // Helper function to parse location
 function parseLocation(locationText) {
   if (!locationText) {
