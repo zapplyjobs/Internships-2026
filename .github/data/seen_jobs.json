@@ -21,6 +21,7 @@
   "ag-technologies-hiring-entry-level-software-engineer-san-diego",
   "ag-technologies-hiring-entry-level-software-engineer-san-francisco",
   "ag-technologies-hiring-entry-level-software-engineer-san-jose",
+<<<<<<< HEAD
   "airbnb-android-engineer-dls-foundation-united-states",
   "airbnb-application-security-engineer-united-states",
   "airbnb-engineering-manager-control-plane-distributed-transactional-database-united-states",
@@ -110,6 +111,8 @@
   "airbnb-staff-software-engineer-trust-remote",
   "airbnb-staff-systems-engineer-infrastructure-biztech-united-states",
   "airbnb-tech-lead-manager-engineering-guest-host-remote",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "akuna-capital-junior-quantitative-developer-strategist-chicago",
   "amazon-robotics-systems-engineer-amazon-robotics-deployment-engineering-austin",
   "amazon-security-engineer-dallas",
@@ -195,6 +198,7 @@
   "citizen-health-early-career-software-engineer-sf",
   "clearedge-software-engineer-i-san-fransisco",
   "coalition-software-engineer-i-remote-in-usa",
+<<<<<<< HEAD
   "coinbase-ai-growth-lead-staff-software-engineer-remote-usa",
   "coinbase-director-engineering-remote-usa",
   "coinbase-engineering-manager-compliance-technology-platform-remote-usa",
@@ -316,6 +320,8 @@
   "coinbase-staff-software-engineer-infrastructure-datastores-remote-usa",
   "coinbase-threat-intelligence-engineer-remote-usa",
   "coinbase-vertex-synapse-engineer-threat-intelligence-remote-usa",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "commure-software-engineer-ambient-ai-summer-2026-new-grad-mountain-view",
   "commure-software-engineer-summer-2026-new-grad-mountain-view",
   "cook-systems-software-developer-nashville",
@@ -323,6 +329,7 @@
   "cox-software-engineer-i-atlanta",
   "credence-entry-level-software-engineer-mclean",
   "cvs-health-associate-software-development-engineer-hartford",
+<<<<<<< HEAD
   "databricks-ai-engineer-fde-forward-deployed-engineer-united-states",
   "databricks-database-engine-internals-staff-software-engineer-bellevue",
   "databricks-database-engine-internals-staff-software-engineer-seattle",
@@ -483,6 +490,13 @@
   "discord-staff-software-engineer-machine-learning-san-francisco-bay-area-or-remote-u-s",
   "discord-staff-software-engineer-ui-and-interactions-full-stack-san-francisco-bay-area-or-remote-u-s",
   "discord-staff-software-engineer-ui-ux-specialist-san-francisco-bay-area-or-remote-u-s",
+=======
+  "databricks-software-engineer-bellevue",
+  "databricks-software-engineer-new-grad-2026-start-mountain-view",
+  "databricks-software-engineer-new-grad-distributed-data-systems-2025-start-bellevue",
+  "dayton-freight-lines-entry-level-software-developer-dayton",
+  "decagon-software-engineer-new-grad-san-francisco",
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "disney-software-engineer-i-glendale",
   "disney-software-engineer-i-seattle",
   "diverge-health-associate-software-developer-remote-in-usa",
@@ -502,6 +516,7 @@
   "expedia-security-engineer-i-seattle",
   "extra-space-storage-associate-software-engineer-salt-lake-city",
   "fidelity-software-engineer-westlake",
+<<<<<<< HEAD
   "figma-data-engineer-intern-2026-san-francisco",
   "figma-data-engineer-san-francisco",
   "figma-director-product-developer-tools-new-york",
@@ -529,6 +544,8 @@
   "figma-software-engineer-production-engineering-san-francisco",
   "figma-software-engineer-rendering-animation-san-francisco",
   "figma-web-developer-san-francisco",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "five-rings-software-developer-new-york",
   "folia-health-junior-software-engineer-boston",
   "freeform-software-engineer-los-angeles",
@@ -579,6 +596,7 @@
   "leidos-software-developer-entry-level-lawton",
   "lexisnexis-risk-solutions-aspire-tech-graduate-security-engineer-i-raleigh",
   "lumafield-embedded-systems-engineer-boston",
+<<<<<<< HEAD
   "lyft-android-engineer-driver-loyalty-rewards-san-francisco",
   "lyft-autonomous-vehicle-safety-compliance-engineer-san-francisco",
   "lyft-director-of-engineering-mapping-san-francisco",
@@ -603,6 +621,8 @@
   "lyft-staff-software-engineer-growth-products-new-york",
   "lyft-staff-software-engineer-growth-products-san-francisco",
   "lyft-staff-software-engineer-growth-products-seattle",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "m-t-bank-technology-development-program-software-engineering-buffalo",
   "mandolin-forward-deployed-engineer-san-fransisco",
   "mandolin-software-engineer-i-san-fransisco",
@@ -610,6 +630,7 @@
   "medpace-inc-junior-data-engineer-cincinnati",
   "meta-product-security-engineer-university-grad-bellevue",
   "metrostar-associate-software-developer-reston",
+<<<<<<< HEAD
   "microsoft-ai-business-process-finance-and-scm-solution-engineer-se-german-speaker-redmond",
   "microsoft-principal-software-engineering-manager-redmond",
   "microsoft-principal-supercomputing-software-engineer-redmond",
@@ -617,11 +638,16 @@
   "microsoft-senior-learning-manager-developer-skilling-redmond",
   "microsoft-senior-software-engineer-redmond",
   "microsoft-software-engineer-applied-ai-ml-intern-opportunities-for-university-students-redmond-redmond",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "microsoft-software-engineer-frontend-redmond",
   "microsoft-software-engineer-fullstack-redmond",
   "microsoft-software-engineer-fullstack-united-states",
   "microsoft-software-engineer-microsoft-ai-development-acceleration-program-redmond",
+<<<<<<< HEAD
   "microsoft-software-engineer-redmond",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "microsoft-software-engineer-remote",
   "moog-associate-software-engineer-torrance",
   "mthree-junior-software-engineer-salt-lake",
@@ -631,6 +657,7 @@
   "n1-new-grad-software-engineer-backend-rust-oakland",
   "n1-new-grad-software-engineer-full-stack-new-york",
   "n1-software-engineer-backend-rust-new-york",
+<<<<<<< HEAD
   "netflix-ads-privacy-engineer-l6-usa-remote",
   "netflix-distributed-systems-engineer-l4-traffic-managed-fleet-los-gatos",
   "netflix-frontend-engineer-l4-revenue-growth-tools-team-usa-remote",
@@ -638,6 +665,8 @@
   "netflix-security-software-engineer-l5-authentication-engineering-usa-remote",
   "netflix-senior-software-engineer-developer-automation-platform-los-gatos",
   "netflix-systems-development-engineer-4-creative-compute-and-storage-usa-remote",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "newsbreak-machine-learning-engineer-junior-new-grad-bellevue",
   "nodal-software-engineer-tysons-corner",
   "nominal-software-engineer-new-grad-new-york",
@@ -678,6 +707,7 @@
   "palantir-software-engineer-new-grad-production-infrastructure-washington",
   "palantir-software-engineer-new-grad-seattle",
   "parity-founding-engineer-applied-ai-sf",
+<<<<<<< HEAD
   "paypal-cybersecurity-engineer-intern-scottsdale",
   "paypal-mts-1-software-engineer-san-jose",
   "paypal-senior-software-engineer-backend-java-san-jose",
@@ -685,6 +715,8 @@
   "paypal-software-engineer-3-san-jose",
   "paypal-software-engineer-3-scottsdale",
   "paypal-staff-software-engineer-ios-san-jose",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "pdi-technologies-junior-machine-learning-engineer-alpharetta",
   "peraton-software-engineering-associate-herndon",
   "peraton-software-engineering-ignite-innovator-pgm-herndon",
@@ -696,12 +728,15 @@
   "prosidian-consulting-itsm-it-security-engineer-i-washington",
   "pylon-new-grad-software-engineer-sf",
   "qode-world-junior-software-developer-new-jersey",
+<<<<<<< HEAD
   "qualcomm-lead-cpu-performance-analysis-engineer-san-diego",
   "qualcomm-lead-soc-physical-design-engineer-santa-clara",
   "qualcomm-senior-engineer-backend-gen-al-santa-clara",
   "qualcomm-senior-multimedia-systems-engineer-san-diego",
   "qualcomm-senior-staff-engineer-dev-ops-engineer-santa-clara",
   "qualcomm-staff-engineer-backend-infrastructure-santa-clara",
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "qualtrics-machine-learning-engineer-seattle",
   "qualtrics-software-engineer-i-paas-seattle",
   "radiance-technologies-junior-full-stack-software-engineer-beavercreek",
@@ -736,6 +771,7 @@
   "spotify-associate-machine-learning-engineer-new-york",
   "sprout-social-associate-software-engineer-remote",
   "ss-c-junior-ai-assisted-software-engineer-union",
+<<<<<<< HEAD
   "stripe-android-engineer-os-platform-san-francisco",
   "stripe-backend-api-engineer-money-as-a-service-canada-canada",
   "stripe-backend-api-engineer-money-as-a-service-us-us",
@@ -792,6 +828,10 @@
   "stripe-staff-product-designer-developer-ai-us-canada",
   "stripe-staff-security-engineer-privy-nyc-privy",
   "stripe-staff-software-engineer-data-movement-seattle",
+=======
+  "stripe-software-engineer-new-grad-seattle",
+  "stripe-software-engineer-san-francisco",
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
   "suno-software-engineer-boston",
   "suno-software-engineer-early-career-boston",
   "supernova-technology-junior-software-engineer-chicago",

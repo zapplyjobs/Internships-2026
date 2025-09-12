@@ -1,6 +1,10 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
+<<<<<<< HEAD
 **🚀 Real-time software engineering, programming, and IT jobs from 215+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 876+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+=======
+**🚀 Real-time software engineering, programming, and IT jobs from 207+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 379+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,11 +21,19 @@
 
 ## 📊 **Live Stats**
 
+<<<<<<< HEAD
 🔥 **Current Positions:** 876 hot software engineering jobs
+=======
+🔥 **Current Positions:** 379 hot software engineering jobs
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 🏢 **Top Companies:** 215 elite tech including Tesla, NVIDIA, Raytheon
 
+<<<<<<< HEAD
 ⭐ **FAANG+ Jobs & Internships:** 35 premium opportunities
+=======
+⭐ **FAANG+ Jobs & Internships:** 20 premium opportunities
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 📅 **Last Updated:** September 12, 2025
 
@@ -67,6 +79,7 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
+<<<<<<< HEAD
 ### ⭐ **FAANG+** (46 positions)
 
 #### 🟦 **Microsoft** (13 positions)
@@ -86,6 +99,9 @@
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 4w |
 | Software Engineer | Remote 🏠 | [Apply](https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer) | 2w |
 | Software Engineer - Fullstack | United States, Locations | [Apply](https://jobs.careers.microsoft.com/us/en/job/1869391) | 1w |
+=======
+### ⭐ **FAANG+** (31 positions)
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 #### 🎬 **ByteDance** (14 positions)
 
@@ -135,6 +151,7 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+<<<<<<< HEAD
 | AI Engineer - FDE (Forward Deployed Engineer) | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | 2d |
 | Database Engine Internals - Staff Software Engineer | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806691002) | 1mo |
 | Database Engine Internals - Staff Software Engineer | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806692002) | 1mo |
@@ -572,6 +589,8 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+=======
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 | New Grad 2026: Software Engineer (Ads ML Infrastructure) | San Jose, CA | [Apply](https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ) | 1mo |
 | New Grad 2026: Machine Learning/Research Engineer (Ads Core Global) | San Jose, CA | [Apply](https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ) | 1mo |
 | New Grad 2026: Machine Learning Engineer (Commerce Ads) | San Jose, CA | [Apply](https://lifeattiktok.com/search/7531158608336242962) | 1mo |
@@ -605,6 +624,7 @@
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
+<<<<<<< HEAD
 | 🚗 **Uber** | Graduate 2025 Software Engineer I, US | San Francisco, CA | [Apply](https://university-uber.icims.com/jobs/147250/job) | 1mo |
 | 🎵 **Spotify** | Associate Machine Learning Engineer | New York, NY | [Apply](https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813) | 1mo |
 | 📌 **Pinterest** | Machine Learning Engineer I - Monetization Engineering | Palo Alto, CA | [Apply](https://www.pinterestcareers.com/job-form?gh_jid=7172308) | 3w |
@@ -834,6 +854,46 @@
 | 🏢 **Ramp** | University Grad - Software Engineer - Frontend | NYC, Locations | [Apply](https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application) | 1mo |
 | 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) | 1mo |
 | 🏢 **Old Mission** | College Graduates - Full-Time - Junior Software Engineer | Chicago, IL | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6602927003) | 1mo |
+=======
+| 🚗 **Uber** | Graduate 2025 Software Engineer I, US | San Francisco, CA | [Apply](https://university-uber.icims.com/jobs/147250/job) | Recently |
+| 🎵 **Spotify** | Associate Machine Learning Engineer | New York, NY | [Apply](https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813) | Recently |
+| 📌 **Pinterest** | Machine Learning Engineer I - Monetization Engineering | Palo Alto, CA | [Apply](https://www.pinterestcareers.com/job-form?gh_jid=7172308) | Recently |
+| 🤖 **Reddit** | Software Engineer - New Grad | Chicago, IL | [Apply](https://app.ripplematch.com/v2/public/job/340fb9c1) | Recently |
+| 🎮 **Twitch** | Software Development Engineer I - Frontend & Mobile | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8093301002) | Recently |
+| 🟩 **Roblox** | Software Engineer – Early Career | San Mateo, CA | [Apply](https://careers.roblox.com/jobs/7114754?gh_jid=7114754) | Recently |
+| 🏢 **Royal Carribean Group** | Associate Engineer, Software | Miramar, FL | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500) | Recently |
+| 🏢 **IXL Learning** | Software Engineer – New Grad | San Mateo, CA | [Apply](https://www.ixl.com/company/jobs?gh_jid=8128533002) | Recently |
+| 🏢 **IXL Learning** | Software Engineer – New Grad | Raleigh, NC | [Apply](https://www.ixl.com/company/jobs?gh_jid=8128544002) | Recently |
+| 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | [Apply](https://www.ixl.com/company/careers?gh_jid=8128533002) | Recently |
+
+### 💰 **Financial & Fintech** (23 positions)
+
+| Company | Role | Location | Apply Now | Age |
+|---------|------|----------|-----------|-----|
+| 💳 **Stripe** | Software Engineer – New Grad | Seattle, WA | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) | Recently |
+| 💳 **Stripe** | Software Engineer | San Francisco, CA | [Apply](https://stripe.com/jobs/listing/software-engineer-new-grad/7210112) | Recently |
+| 🏢 **BMO** | Software Engineer | Chicago, IL | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - .Net / MERN / AWS | Sparks, MD | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Net---MERN---AWS-_R-43980) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - Java - Aws - Jsf | St Paul, MN | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS-Node-React-AI-_R-46121) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - AWS/Node/React/AI | Atlanta, GA | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AWS-Node-React-AI-_R-46114) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - Workday Programmer - Report Writer - Eib | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - Legal & Compliance | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918) | Recently |
+| 🏢 **The Travelers Companies** | Software Engineer I - Aws | Hartford, CT | [Apply](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180) | Recently |
+| 🏢 **Five Rings** | Software Developer | New York, NY | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008) | Recently |
+| 🏢 **M&T Bank** | Technology Development Program - Software Engineering | Buffalo, NY | [Apply](https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033) | Recently |
+| 🏢 **Citadel Securities** | Software Engineer – University Graduate | Miami, FL | [Apply](https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/) | Recently |
+| 🏢 **Citadel Securities** | C++ Software Engineer | Miami, FL | [Apply](https://www.citadelsecurities.com/careers/details/c-software-engineer-4/) | Recently |
+| 🏢 **Citadel** | Quantitative Research Engineer – University Graduate | Miami, FL | [Apply](https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/) | Recently |
+| 🏢 **Akuna Capital** | Junior Quantitative Developer & Strategist | Chicago, IL | [Apply](https://www.akunacapital.com/job-details?gh_jid=7063563) | Recently |
+| 🏢 **Acorns** | Software Engineer I, Recent Graduate | Remote 🏠 | [Apply](https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d) | Recently |
+| 🏢 **Kikoff** | Software Engineer - Recent College Graduate | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/kikoff/ad87f613-2906-4497-886d-742d9104fc50) | Recently |
+| 🏢 **Supernova Technology** | Junior Software Engineer | Chicago, IL | [Apply](https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply) | Recently |
+| 🏢 **Ramp** | Software Engineer - Frontend | New York, NY | [Apply](https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89) | Recently |
+| 🏢 **Ramp** | University Grad - Software Engineer - Frontend | NYC, Locations | [Apply](https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application) | Recently |
+| 🏢 **BRM** | Entry Level Software Engineer | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application) | Recently |
+| 🏢 **Old Mission** | College Graduates - Full-Time - Junior Software Engineer | Chicago, IL | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6602927003) | Recently |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ### 🛡️ **Defense & Aerospace** (43 positions)
 
@@ -857,6 +917,7 @@
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
+<<<<<<< HEAD
 | 🚀 **SpaceX** | Software Engineer | Hawthorne, CA | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002) | 1w |
 | 🚀 **SpaceX** | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002) | 1w |
 | 🚀 **SpaceX** | New Graduate Engineer, Software (Starship) | Starbase, TX | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002) | 1w |
@@ -887,27 +948,74 @@
 | 🏢 **CACI** | Entry Level DSP Software Engineer | Rochester, NY | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1) | 1mo |
 | 🏢 **Sev1Tech** | Software Developer - Entry Level | Fort Sill, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job) | 4w |
 | 🏢 **Sev1Tech** | Software Developer – Entry Level | Lawton, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) | 1d |
+=======
+| 🚀 **SpaceX** | Software Engineer | Hawthorne, CA | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002) | Recently |
+| 🚀 **SpaceX** | New Graduate Engineer, Software (Starlink) | Redmond, WA | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002) | Recently |
+| 🚀 **SpaceX** | New Graduate Engineer, Software (Starship) | Starbase, TX | [Apply](https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002) | Recently |
+| 🏢 **Blue Origin** | Intern Conversion: – Early Career - Avionics Software Engineer I | Seattle, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003) | Recently |
+| 🏢 **Blue Origin** | Avionics Software Engineer 1 – Early Career 2025 University Grad | Kent, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Avionics-Software-Engineer-1---Early-Career-2025-University-Grad_R54112) | Recently |
+| 🏢 **Blue Origin** | Machine Learning Engineer/Scientist I – Early Career 2025 University Grad | Seattle, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Machine-Learning-Engineer-Scientist-I---Early-Career-2025-University-Grad_R54164) | Recently |
+| 🏢 **Blue Origin** | Autonomy Systems Engineer I | Seattle, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1) | Recently |
+| 🏢 **Blue Origin** | Software Development Engineer I – Early Career & New Graduate Rotation | Seattle, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894) | Recently |
+| 🏢 **Anduril Industries** | Early Career Software Engineer | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=) | Recently |
+| 🏢 **Anduril Industries** | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=) | Recently |
+| 🏢 **Anduril Industries** | Software Engineer, Connected Warfare | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=) | Recently |
+| 🏢 **Anduril Industries** | Early Career Software Engineer | Seattle, WA | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824364007) | Recently |
+| 🏢 **Anduril Industries** | Early Career Software Engineer | Atlanta, GA | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824378007) | Recently |
+| 🏢 **Anduril Industries** | Early Career Software Engineer | Boston, MA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007) | Recently |
+| 🏢 **Anduril Industries** | Early Career Software Engineer | Washington, DC | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007) | Recently |
+| 🏢 **Shield AI** | Software Engineer I - Hardware Test | Dallas, TX | [Apply](https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply) | Recently |
+| 🏢 **General Dynamics** | Junior Front End Developer | Annapolis Junction, MD | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703) | Recently |
+| 🏢 **General Dynamics** | Entry Level Software Engineer | Pittsburgh, PA | [Apply](https://careers-gdms.icims.com/jobs/67867/entry-level-software-engineer/job) | Recently |
+| 🏢 **Leidos** | Software Developer – Entry level | Lawton, OK | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213) | Recently |
+| 🏢 **Peraton** | Software Engineering, Associate | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) | Recently |
+| 🏢 **Peraton** | Software Engineering (Ignite Innovator Pgm) | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job) | Recently |
+| 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733) | Recently |
+| 🏢 **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1) | Recently |
+| 🏢 **Moog** | Associate Software Engineer | Torrance, CA | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250) | Recently |
+| 🏢 **HNTB** | Returning New Grad Software Engineer I | Chicago, IL | [Apply](https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1) | Recently |
+| 🏢 **Amentum** | Entry Level Software Engineer/Software Tester | Fredericksburg, VA | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0142800) | Recently |
+| 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145732-1) | Recently |
+| 🏢 **CACI** | Entry Level DSP Software Engineer | Rochester, NY | [Apply](https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1) | Recently |
+| 🏢 **Sev1Tech** | Software Developer - Entry Level | Fort Sill, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job) | Recently |
+| 🏢 **Sev1Tech** | Software Developer – Entry Level | Lawton, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) | Recently |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ### 🏥 **Healthcare & Life Sciences** (4 positions)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
+<<<<<<< HEAD
 | 🏢 **Boston Scientific** | Software Engineer I - Engineering - Development | Houston, TX | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602803142943) | 3w |
 | 🏢 **Remodel Health** | Junior Software Engineer | Indianapolis, IN | [Apply](https://remodelhealth.com/resources/job/?gh_jid=4880033008) | 1mo |
 | 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | 2mo |
 | 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | 2mo |
+=======
+| 🏢 **Boston Scientific** | Software Engineer I - Engineering - Development | Houston, TX | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602803142943) | Recently |
+| 🏢 **Remodel Health** | Junior Software Engineer | Indianapolis, IN | [Apply](https://remodelhealth.com/resources/job/?gh_jid=4880033008) | Recently |
+| 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | Recently |
+| 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | Recently |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
+<<<<<<< HEAD
 | 🏢 **Solar Turbines** | Entry Level Controls & Software Test Engineer | San Diego, CA | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546) | 1mo |
+=======
+| 🏢 **Solar Turbines** | Entry Level Controls & Software Test Engineer | San Diego, CA | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546) | Recently |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ### 📊 **Analytics & EdTech** (1 position)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
+<<<<<<< HEAD
 | 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) | 1mo |
+=======
+| 🏢 **Iowa State University** | Software Developer I - AI Developer | Remote 🏠 | [Apply](http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481) | Recently |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 
 
@@ -938,13 +1046,20 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
+<<<<<<< HEAD
 | 🟢 Entry Level & New Grad | 277 | 32% | No or minimal experience |
 | 🟡 Beginner & Early Career | 284 | 32% | 1-2 years of experience |
 | 🔴 Manager         | 315 | 36% | 2+ years of experience |
+=======
+| 🟢 Entry Level & New Grad | 225 | 59% | No or minimal experience |
+| 🟡 Beginner & Early Career | 152 | 40% | 1-2 years of experience |
+| 🔴 Manager         | 2 | 1% | 2+ years of experience |
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ---
 
 ### 🌍 **Top Locations**
+<<<<<<< HEAD
 - **Remote - USA, CA**: 129 positions
 - **United States, CA**: 60 positions
 - **San Francisco, CA**: 45 positions
@@ -953,17 +1068,33 @@
 - **San Francisco, California**: 32 positions
 - **Mountain View, California**: 32 positions
 - **New York, NY**: 29 positions
+=======
+- **San Jose, CA**: 39 positions
+- **Seattle, WA**: 33 positions
+- **San Francisco, CA**: 26 positions
+- **New York, NY**: 25 positions
+- **Chicago, IL**: 12 positions
+- **Mountain View, CA**: 12 positions
+- **Palo Alto, CA**: 9 positions
+- **SF, Locations**: 8 positions
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ---
 
 ### 👨‍💻 **Top Tech Fields**
 
+<<<<<<< HEAD
 #### 💻 Software Engineering (304 positions)
 🏠 Airbnb
+=======
+#### 💻 Software Engineering (244 positions)
+🏢 SingleStore • 🏢 Bloomberg • 🔵 IBM
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 #### 🎨 Frontend Development (219 positions)
 💳 Stripe
 
+<<<<<<< HEAD
 #### 📊 Data Science & Analytics (129 positions)
 🏠 Airbnb
 
@@ -972,12 +1103,21 @@
 
 #### ☁️ DevOps & Infrastructure (45 positions)
 🏠 Airbnb
+=======
+#### ☁️ DevOps & Infrastructure (25 positions)
+👁️ Palantir
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 #### 🛡️ Security Engineering (29 positions)
 🏠 Airbnb
 
+<<<<<<< HEAD
 #### ⚙️ Backend Development (24 positions)
 🏠 Airbnb
+=======
+#### 🎨 Frontend Development (11 positions)
+🟦 Microsoft • 🏢 Ramp • 🏢 Applied Intuition
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 #### 📱 Mobile Development (21 positions)
 💳 Stripe • ₿ Coinbase • 🏠 Airbnb
@@ -985,14 +1125,29 @@
 #### 🎨 Design (14 positions)
 🎨 Figma
 
+<<<<<<< HEAD
 #### 🌐 Full Stack Development (11 positions)
 🏠 Airbnb
+=======
+#### 🌐 Full Stack Development (8 positions)
+🏢 N1 • 🟦 Microsoft • 🏢 IMEG
+
+#### 📱 Mobile Development (3 positions)
+🎮 Twitch • 🎬 TikTok • 🏢 T-Mobile
+
+#### 🎨 Design (1 positions)
+🏢 RTX
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
+<<<<<<< HEAD
 ✅ **100% Real Jobs:** 876+ verified CS internships and entry-level software roles from 215 elite tech companies.
+=======
+✅ **100% Real Jobs:** 379+ verified CS internships and entry-level software roles from 207 elite tech companies.
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1045,7 +1200,11 @@
 
 <div align="center">
 
+<<<<<<< HEAD
 **🎯 876 current opportunities from 215 elite companies.**
+=======
+**🎯 379 current opportunities from 207 elite companies.**
+>>>>>>> 7e28877bedfc11c25a356a88fb8e7e0bfc495231
 
 **Found this helpful? Give it a ⭐ to support us!**
 
