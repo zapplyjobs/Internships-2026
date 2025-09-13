@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 242+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1185+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 242+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1186+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,7 +17,7 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1185 hot software engineering jobs
+🔥 **Current Positions:** 1186 hot software engineering jobs
 
 🏢 **Top Companies:** 242 elite tech including Tesla, NVIDIA, Raytheon
 
@@ -106,12 +106,12 @@
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | PhD Cloud Network Engineer Intern | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 3d |
-| Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858687) | 11h |
-| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873806) | 17h |
-| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832262) | 17h |
-| Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022) | 19h |
-| Finance Manager - Engineering R&D | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857995) | 20h |
-| Principal Design Engineer Manager - AI Network Silicon | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846701) | 20h |
+| Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858687) | 12h |
+| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873806) | 18h |
+| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832262) | 18h |
+| Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022) | 20h |
+| Finance Manager - Engineering R&D | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857995) | 21h |
+| Principal Design Engineer Manager - AI Network Silicon | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846701) | 21h |
 | Software Engineer - Frontend | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond) | 11mo |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 4w |
@@ -255,8 +255,8 @@
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
 | Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
-| Innovation Designer Intern– Entry Level Sales Program | shipWASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) | 1d |
 | Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
+| Innovation Designer Intern– Entry Level Sales Program | shipWASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) | 1d |
 | Software Development Engineer | BELLEVUE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51962&source=WEB_Search_NA) | 1d |
 | Cryogenic Assembly Engineer | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40918&source=WEB_Search_NA) | 1d |
 | Platform Engineer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) | 1d |
@@ -545,7 +545,7 @@
 | Software Engineer, AI Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551669004?gh_jid=5551669004) | 1mo |
 | Software Engineer, AI Product | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551730004?gh_jid=5551730004) | 1mo |
 | Software Engineer, C++ | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5552530004?gh_jid=5552530004) | 1mo |
-| Software Engineer, Data Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) | 2d |
+| Software Engineer, Data Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551686004?gh_jid=5551686004) | 3d |
 | Software Engineer, Desktop | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5536280004?gh_jid=5536280004) | 1mo |
 | Software Engineer, Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004) | 2w |
 | Software Engineer Intern (2026) | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004) | 3w |
@@ -667,7 +667,7 @@
 | Senior Software Engineer, Lyft Business | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141328002?gh_jid=8141328002) | 1w |
 | Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7806017002?gh_jid=7806017002) | 1w |
 | Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002) | 1w |
-| Software Engineer - Ad Infra, Lyft Media | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) | 2d |
+| Software Engineer - Ad Infra, Lyft Media | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) | 3d |
 | Software Engineer, Detection Engineering | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141414002?gh_jid=8141414002) | 1w |
 | Software Engineer, Detection Engineering | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002) | 1w |
 | Software Engineer Intern, Backend (Summer 2026) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002) | 1w |
@@ -690,7 +690,7 @@
 | Android Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113677?gh_jid=7113677) | 4d |
 | Application Security Engineer | United States, CA | [Apply](https://careers.airbnb.com/positions/7178910?gh_jid=7178910) | 4d |
 |  Engineering Manager, Control Plane – Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7026858?gh_jid=7026858) | 4d |
-| Engineering Manager, Host Pricing & Settings - Guidance Serving | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 20h |
+| Engineering Manager, Host Pricing & Settings - Guidance Serving | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 21h |
 | Engineering Manager, Media Foundation: Ingestion & Serving Team | CA - Remote, CA | [Apply](https://careers.airbnb.com/positions/7217178?gh_jid=7217178) | 4d |
 | Full-Stack Software Engineer, Guest Displays & Platforms | United States, CA | [Apply](https://careers.airbnb.com/positions/6786628?gh_jid=6786628) | 3d |
 | Manager, Engineering - Community Support Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7176142?gh_jid=7176142) | 4d |
@@ -869,7 +869,7 @@
 | Backend Engineer, Billing | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5932585) | 4d |
 | Backend Engineer, Core Technology | Seattle, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) | 4d |
 | Backend Engineer, Data | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6268625) | 1d |
-| Backend Engineer, Internal Systems | Seattle, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7009186) | 18h |
+| Backend Engineer, Internal Systems | Seattle, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7009186) | 19h |
 | Broadcast Engineer | San Francisco, CA  | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) | 4d |
 | Community Communications, Product/Developer | SF, NYC | [Apply](https://stripe.com/jobs/search?gh_jid=6831875) | 4d |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) | 4d |
@@ -1141,7 +1141,7 @@
 | 🏢 **Leidos** | Software Developer – Entry level | Lawton, OK | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213) | 1mo |
 | 🏢 **Peraton** | Software Engineering, Associate | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) | 1mo |
 | 🏢 **Peraton** | Software Engineering (Ignite Innovator Pgm) | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job) | 4d |
-| 🏢 **Peraton** | Junior Software Engineer | King George County, VA | [Apply](https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false) | 17h |
+| 🏢 **Peraton** | Junior Software Engineer | King George County, VA | [Apply](https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false) | 18h |
 | 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733) | 1mo |
 | 🏢 **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1) | 1mo |
 | 🏢 **Moog** | Associate Software Engineer | Torrance, CA | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250) | 1mo |
@@ -1164,7 +1164,7 @@
 | 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | 2mo |
 | 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (96 positions)
+### 🏭 **Manufacturing & Industrial** (97 positions)
 
 #### 🏢 **Arm** (12 positions)
 
@@ -1249,7 +1249,7 @@
 | Operations Internship- Rolling Stock (Summer 2026) | Sacramento, California | [Apply](https://jobs.siemens.com/careers) | 1d |
 
 <details>
-<summary><h4>🏢 <strong>Honeywell</strong> (21 positions)</h4></summary>
+<summary><h4>🏢 <strong>Honeywell</strong> (22 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -1270,9 +1270,10 @@
 | Field Service Engineer - Building Automation | Miami, FL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116399/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Distributed Energy Systems Engineer | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105173/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
 | Research Technician | Buffalo, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116030/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 5d |
+| AI Engr | Urbana, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117603/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
 | Systems Engineering - Recent Grad/Full Time | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113413/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Systems Engineering - Recent Grad/Full Time (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113416/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| AI Engr | Urbana, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/117603/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1d |
+| Mechanical Design Engineer | Urbana, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/118019/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
 | Production Worker | Colonial Heights, VA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/103490/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3mo |
 
 </details>
@@ -1333,7 +1334,7 @@
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 347 | 29% | No or minimal experience |
 | 🟡 Beginner & Early Career | 362 | 31% | 1-2 years of experience |
-| 🔴 Manager         | 476 | 40% | 2+ years of experience |
+| 🔴 Manager         | 477 | 40% | 2+ years of experience |
 
 ---
 
@@ -1355,12 +1356,12 @@
 🔵 IBM
 
 #### 🎨 Frontend Development (322 positions)
-☁️ Salesforce • 🏢 Micron Technology
+🏢 Micron Technology
 
 #### 📊 Data Science & Analytics (149 positions)
 🏢 Micron Technology • 🔷 Intel
 
-#### 🧠 Machine Learning & AI (100 positions)
+#### 🧠 Machine Learning & AI (101 positions)
 ☁️ Salesforce
 
 #### ☁️ DevOps & Infrastructure (68 positions)
@@ -1385,7 +1386,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1185+ verified CS internships and entry-level software roles from 242 elite tech companies.
+✅ **100% Real Jobs:** 1186+ verified CS internships and entry-level software roles from 242 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1438,7 +1439,7 @@
 
 <div align="center">
 
-**🎯 1185 current opportunities from 242 elite companies.**
+**🎯 1186 current opportunities from 242 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
