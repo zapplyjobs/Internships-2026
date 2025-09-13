@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 243+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1186+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 242+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1185+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,9 +17,9 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1186 hot software engineering jobs
+🔥 **Current Positions:** 1185 hot software engineering jobs
 
-🏢 **Top Companies:** 243 elite tech including Tesla, NVIDIA, Raytheon
+🏢 **Top Companies:** 242 elite tech including Tesla, NVIDIA, Raytheon
 
 ⭐ **FAANG+ Jobs & Internships:** 90 premium opportunities
 
@@ -106,12 +106,12 @@
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | PhD Cloud Network Engineer Intern | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 3d |
-| Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858687) | 6h |
-| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873806) | 12h |
-| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832262) | 12h |
-| Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022) | 14h |
-| Finance Manager - Engineering R&D | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857995) | 15h |
-| Principal Design Engineer Manager - AI Network Silicon | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846701) | 15h |
+| Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858687) | 7h |
+| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873806) | 13h |
+| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1832262) | 13h |
+| Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022) | 15h |
+| Finance Manager - Engineering R&D | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857995) | 16h |
+| Principal Design Engineer Manager - AI Network Silicon | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1846701) | 16h |
 | Software Engineer - Frontend | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond) | 11mo |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 4w |
@@ -204,7 +204,7 @@
 | 🎬 **Netflix** | Network Security Engineer L5 | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311849784) | 5d |
 | 🏢 **Tencent** | Security Software Engineer I | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856) | 3w |
 
-### 🏢 **Top Tech** (239 positions)
+### 🏢 **Top Tech** (240 positions)
 
 #### 🎮 **NVIDIA** (11 positions)
 
@@ -253,10 +253,10 @@
 | Entry Level Software Engineer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | 1d |
 | Entry Level Software Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) | 1d |
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
-| Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
-| Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
+| Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
 | Innovation Designer Intern– Entry Level Sales Program | shipWASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) | 1d |
+| Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
 | Software Development Engineer | BELLEVUE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51962&source=WEB_Search_NA) | 1d |
 | Cryogenic Assembly Engineer | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40918&source=WEB_Search_NA) | 1d |
 | Platform Engineer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) | 1d |
@@ -265,8 +265,8 @@
 | Sales Development Representative | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA) | 1d |
 | 2026 Client Engineering and CSM Co-Op Conversion | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50942&source=WEB_Search_NA) | 1d |
 | System Service Representative - Oxmoor | HUNTSVILLE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51481&source=WEB_Search_NA) | 1d |
-| System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | 1d |
 | System Service Representative Poughkeepsie, New York | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53888&source=WEB_Search_NA) | 1d |
+| System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | 1d |
 | Designer Intern | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56063&source=WEB_Search_NA) | 1d |
 | Technical Support Professional Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56286&source=WEB_Search_NA) | 1d |
 | Entry Level Firmware Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA) | 1d |
@@ -295,10 +295,10 @@
 | GenAI Staff Machine Learning Engineer, Performance Optimization | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954415002) | 1mo |
 | IT Solutions Lead (Staff IT Fullstack Software Engineer | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8150189002) | 1w |
 | Manager, Field Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8093481002) | 2d |
-| Manager, Field Engineering - HLS | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909228002) | 2d |
+| Manager, Field Engineering - HLS | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909228002) | 3d |
 | Physical Security Engineer | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993207002) | 2d |
-| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 2d |
-| Product Designer, Workspace Developer Experience | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930554002) | 2d |
+| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 3d |
+| Product Designer, Workspace Developer Experience | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930554002) | 3d |
 | Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002) | 2d |
 | Scale Solutions Engineer  | Heredia, Costa Rica | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8144045002) | 2d |
 | Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) | 1d |
@@ -306,7 +306,7 @@
 | Senior Engineering Manager - Enzyme | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002) | 1mo |
 | Senior Engineering Manager for User Activation | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002) | 2d |
 | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002) | 1mo |
-| Senior Security Engineer, Red Team  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909795002) | 2d |
+| Senior Security Engineer, Red Team  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909795002) | 3d |
 | Senior Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) | 1mo |
 | Senior Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | 2w |
 | Senior Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) | 1mo |
@@ -328,11 +328,11 @@
 | Senior Software Engineer - Privacy | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029211002) | 1mo |
 | Senior Software Engineer - Security | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274451002) | 1mo |
 | Senior Software Engineer - Security  | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002) | 1mo |
-| Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) | 2d |
+| Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) | 3d |
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) | 1mo |
 | Senior Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) | 1mo |
 | Senior Staff Software Engineer - IAM | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) | 1mo |
-| Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) | 2d |
+| Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) | 3d |
 | Senior Staff Software Engineer - Privacy | New York City, New York | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) | 1mo |
 | Senior Staff Software Engineer - Privacy | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) | 1mo |
 | Senior Staff Software Engineer - Privacy | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) | 1mo |
@@ -351,10 +351,10 @@
 | Software Engineer - Performance PhD Candidates | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7466498002) | 1mo |
 | Software Engineer -  Systems PhD Candidates | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6875433002) | 1mo |
 | Software Engineer - Systems PhD Candidates  | Bellevue, Washington; Seattle | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7649293002) | 1mo |
-| Sr. Developer Advocate, Machine Learning | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002) | 2d |
-| Sr. Developer Advocate, Machine Learning | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934669002) | 2d |
-| Sr. Developer Advocate, Open Lakehouse | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7871400002) | 2d |
-| Sr. Developer Advocate, Open Lakehouse | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930163002) | 2d |
+| Sr. Developer Advocate, Machine Learning | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002) | 3d |
+| Sr. Developer Advocate, Machine Learning | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934669002) | 3d |
+| Sr. Developer Advocate, Open Lakehouse | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7871400002) | 3d |
+| Sr. Developer Advocate, Open Lakehouse | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930163002) | 3d |
 |  Sr. Engineering Manager | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002) | 1mo |
 | Sr. Engineering Manager - AI Observability Platform | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8040906002) | 2d |
 | Sr. Engineering Manager - Lakeflow Pipeline | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8109905002) | 1mo |
@@ -362,14 +362,14 @@
 | Sr. Engineering Manager - Release and Deployment Infrastructure | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7693874002) | 1mo |
 | Sr. IT Fullstack Software Engineer | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8150154002) | 1w |
 | Sr. Manager, Engineering - Performance | Bellevue, Washington; Mountain View | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8004121002) | 1mo |
-| Sr. Manager, Engineering - Vector Search | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) | 2d |
+| Sr. Manager, Engineering - Vector Search | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) | 3d |
 | Sr. Manager, Field Engineering - Financial Services (Hunter) | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8089667002) | 2d |
 | Sr. Manager, Field Engineering - HLS Hunter  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8114584002) | 2d |
 | Sr. Manager, Security Software Engineering | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8081337002) | 2d |
 | Sr NOC Engineer | Heredia, Costa Rica; Sao Paulo | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) | 1mo |
 | Sr. Product Manager, Data Engineering | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002) | 1mo |
-| Sr. Product Manager, Developer Experience  | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7764044002) | 2d |
-| Sr. Product Manager, Developer Experience  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7763940002) | 2d |
+| Sr. Product Manager, Developer Experience  | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7764044002) | 3d |
+| Sr. Product Manager, Developer Experience  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7763940002) | 3d |
 | Sr Security Engineer, Incident Response | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002) | 2d |
 | Sr. Software Engineer - Performance | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6569774002) | 1mo |
 | Sr. Software Engineer - Performance  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6569772002) | 1mo |
@@ -383,11 +383,11 @@
 | Sr. Staff Software Engineer, CoreX | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987676002) | 2d |
 | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002) | 1mo |
 | Sr. Staff Software Engineer, Vector Search | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7987301002) | 2d |
-| Sr. Technical Marketing Engineer, Unity Catalog | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002) | 19h |
+| Sr. Technical Marketing Engineer, Unity Catalog | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8027299002) | 20h |
 | Staff Designated Support Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002) | 1mo |
 | Staff Fullstack Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) | 1mo |
-| Staff Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) | 2d |
-| Staff Security Software Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) | 2d |
+| Staff Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) | 3d |
+| Staff Security Software Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) | 3d |
 | Staff Software Engineer - Backend | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) | 1mo |
 | Staff Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) | 1mo |
 | Staff Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) | 1mo |
@@ -403,7 +403,7 @@
 | Staff Software Engineer - IAM | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) | 1mo |
 | Staff Software Engineer - Money Team | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) | 1mo |
 | Staff Software Engineer - Observability (Databases) | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7431175002) | 1mo |
-|  Staff Software Engineer - Observability Platform | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7831176002) | 2d |
+|  Staff Software Engineer - Observability Platform | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7831176002) | 3d |
 | Staff Software Engineer - Security Infrastructure | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) | 1mo |
 | Staff Software Engineer - Security Infrastructure | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) | 1mo |
 | Staff Software Engineer - Unity Catalog | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7933498002) | 1mo |
@@ -434,6 +434,7 @@
 | ☁️ **Salesforce** | Software Engineering AI/LLM Connectivity | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr310325/software-engineering-aillm-connectivity/) | 1h |
 | ☁️ **Salesforce** | Software Engineering - DevOps/SRE/Cloud Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr309881/software-engineering-devopssrecloud-engineer/) | 1h |
 | ☁️ **Salesforce** | Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr289050/software-engineering-lmts/) | 1h |
+| ☁️ **Salesforce** | Software Engineering SMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300917/software-engineering-smts/) | 1h |
 | 🎨 **Adobe** | 2026 University Graduate - Software Engineer | Seattle, WA | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684) | 2w |
 | 🎨 **Adobe** | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682) | 2w |
 | 🎨 **Adobe** | 2026 University Graduate - Machine Learning Engineer | San Jose, CA | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573) | 4d |
@@ -465,14 +466,14 @@
 | 🏢 **Esri** | C++ Software Development Engineer I - Arcgis Enterprise | West Redlands, Redlands | [Apply](https://www.esri.com/careers/4671729007?gh_jid=4671729007) | 5mo |
 | 🏢 **Esri** | Software Development Engineer I | St. Louis, MO | [Apply](https://www.esri.com/careers/4829377007?gh_jid=4829377007) | 4w |
 | 🏢 **Sprout Social** | Associate Software Engineer | Remote 🏠 | [Apply](https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382) | 10mo |
-| 🏢 **PayPal** | Software Engineer 3 | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915831876) | 3d |
 | 🏢 **PayPal** | Software Engineer 3 | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915831885) | 3d |
+| 🏢 **PayPal** | Software Engineer 3 | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915831876) | 3d |
 | 🏢 **PayPal** | MTS 1, Software Engineer | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915831883) | 3d |
-| 🏢 **PayPal** | Staff Software Engineer, Backend Java | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827894) | 4d |
-| 🏢 **PayPal** | Cybersecurity Engineer Intern | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915814125) | 4d |
-| 🏢 **PayPal** | Staff Software Engineer, iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915818274) | 4d |
 | 🏢 **PayPal** | Senior Software Engineer, Backend Java | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827875) | 4d |
 | 🏢 **PayPal** | Software Engineer, iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827876) | 4d |
+| 🏢 **PayPal** | Senior Software Engineer ,iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827883) | 4d |
+| 🏢 **PayPal** | Cybersecurity Engineer Intern | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915814125) | 4d |
+| 🏢 **PayPal** | Senior Software Engineer, Fullstack | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915818270) | 4d |
 
 ### 💻 **Enterprise Software** (41 positions)
 
@@ -536,8 +537,8 @@
 | Manager, Software Engineering - Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004) | 1mo |
 | Manager, Software Engineering - Text and Vector | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5585865004?gh_jid=5585865004) | 1mo |
 | Manager, Software Engineering - UI Platform & Design Systems | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5593119004?gh_jid=5593119004) | 1mo |
-| PhD Intern, Security Engineer (2026) | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5611154004?gh_jid=5611154004) | 4d |
-| PhD Intern, Software Engineer - Graphics (2026) | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5609067004?gh_jid=5609067004) | 4d |
+| PhD Intern, Security Engineer (2026) | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5611154004?gh_jid=5611154004) | 5d |
+| PhD Intern, Software Engineer - Graphics (2026) | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5609067004?gh_jid=5609067004) | 5d |
 | Product Marketing Manager, Developer Audience | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5580664004?gh_jid=5580664004) | 3w |
 | Security Engineer | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551463004?gh_jid=5551463004) | 1mo |
 | Software Engineer, AI Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5551669004?gh_jid=5551669004) | 1mo |
@@ -654,7 +655,7 @@
 |------|----------|-----------|-----|
 | Android Engineer, Driver Loyalty & Rewards | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8124230002?gh_jid=8124230002) | 3d |
 | Autonomous Vehicle Safety & Compliance Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8155036002?gh_jid=8155036002) | 1w |
-| Data Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002) | 20h |
+| Data Engineer | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8164698002?gh_jid=8164698002) | 21h |
 | Director of Engineering, Mapping | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8091079002?gh_jid=8091079002) | 2w |
 | Engineering Manager, Fleets | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141332002?gh_jid=8141332002) | 2w |
 | Lead Software Engineer in Test | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002) | 1w |
@@ -688,7 +689,7 @@
 | Android Engineer, DLS Foundation | United States, CA | [Apply](https://careers.airbnb.com/positions/7113677?gh_jid=7113677) | 4d |
 | Application Security Engineer | United States, CA | [Apply](https://careers.airbnb.com/positions/7178910?gh_jid=7178910) | 4d |
 |  Engineering Manager, Control Plane – Distributed Transactional Database | United States, CA | [Apply](https://careers.airbnb.com/positions/7026858?gh_jid=7026858) | 4d |
-| Engineering Manager, Host Pricing & Settings - Guidance Serving | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 15h |
+| Engineering Manager, Host Pricing & Settings - Guidance Serving | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6595267?gh_jid=6595267) | 16h |
 | Engineering Manager, Media Foundation: Ingestion & Serving Team | CA - Remote, CA | [Apply](https://careers.airbnb.com/positions/7217178?gh_jid=7217178) | 4d |
 | Full-Stack Software Engineer, Guest Displays & Platforms | United States, CA | [Apply](https://careers.airbnb.com/positions/6786628?gh_jid=6786628) | 3d |
 | Manager, Engineering - Community Support Engineering | San Francisco, CA | [Apply](https://careers.airbnb.com/positions/7176142?gh_jid=7176142) | 4d |
@@ -867,7 +868,7 @@
 | Backend Engineer, Billing | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5932585) | 3d |
 | Backend Engineer, Core Technology | Seattle, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) | 3d |
 | Backend Engineer, Data | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6865161) | 1d |
-| Backend Engineer, Internal Systems | Seattle, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7009186) | 13h |
+| Backend Engineer, Internal Systems | Seattle, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7009186) | 14h |
 | Broadcast Engineer | San Francisco, CA  | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) | 3d |
 | Community Communications, Product/Developer | SF, NYC | [Apply](https://stripe.com/jobs/search?gh_jid=6831875) | 3d |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) | 3d |
@@ -1026,7 +1027,7 @@
 | Software Engineer, Infrastructure - Platform (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6305997?gh_jid=6305997) | 1mo |
 | Software Engineer, Infrastructure (Platform Developer Experience - Release) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6423028?gh_jid=6423028) | 1mo |
 | Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636) | 4w |
-| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 2d |
+| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 3d |
 | Staff Analytics Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7066494?gh_jid=7066494) | 1mo |
 | Staff Data Engineer, Blockchain Data | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6883872?gh_jid=6883872) | 1mo |
 | Staff Machine Learning Engineer - AI/ML Risk Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642) | 2d |
@@ -1139,7 +1140,7 @@
 | 🏢 **Leidos** | Software Developer – Entry level | Lawton, OK | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213) | 1mo |
 | 🏢 **Peraton** | Software Engineering, Associate | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job) | 1mo |
 | 🏢 **Peraton** | Software Engineering (Ignite Innovator Pgm) | Herndon, VA | [Apply](https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job) | 4d |
-| 🏢 **Peraton** | Junior Software Engineer | King George County, VA | [Apply](https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false) | 12h |
+| 🏢 **Peraton** | Junior Software Engineer | King George County, VA | [Apply](https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false) | 13h |
 | 🏢 **Radiance Technologies** | Junior Full Stack Software Engineer | Beavercreek, OH | [Apply](https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733) | 1mo |
 | 🏢 **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1) | 1mo |
 | 🏢 **Moog** | Associate Software Engineer | Torrance, CA | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250) | 1mo |
@@ -1162,7 +1163,7 @@
 | 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | 2mo |
 | 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (98 positions)
+### 🏭 **Manufacturing & Industrial** (97 positions)
 
 #### 🏢 **Arm** (12 positions)
 
@@ -1283,9 +1284,8 @@
 | 🏢 **Micron Technology** | Software Engineer, SECS/GEM | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30764716) | 1w |
 | 🏢 **Micron Technology** | Software Development Engineer | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30043686) | 2mo |
 | 🏢 **Micron Technology** | Software Development Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31029158) | 2w |
-| 🏢 **ABB** | R&D Electrical Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | 1h |
-| 🏢 **ABB** | Associate Project Engineer | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00007348/Associate-Project-Engineer) | 1h |
-| 🏢 **ABB** | Manufacturing Quality Tester-2 | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) | 1h |
+| 🏢 **ABB** | Market Development- Co-op | Available in one of 7 locations, US | [Apply](https://careers.abb/global/en/job/JR00008689/Market-Development-Co-op) | 1h |
+| 🏢 **ABB** | R&D HW Engineer | Location Bartlesville, Oklahoma | [Apply](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
 | 🏢 **Analog Devices** | Embedded Software | 2 Locations, US | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software_R255245?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Analog Devices** | Machine Learning Engineer | US, MA | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineer_R255201?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Magna International** | Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
@@ -1331,9 +1331,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 350 | 30% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 348 | 29% | No or minimal experience |
 | 🟡 Beginner & Early Career | 364 | 31% | 1-2 years of experience |
-| 🔴 Manager         | 472 | 40% | 2+ years of experience |
+| 🔴 Manager         | 473 | 40% | 2+ years of experience |
 
 ---
 
@@ -1354,38 +1354,38 @@
 #### 💻 Software Engineering (392 positions)
 🔵 IBM
 
-#### 🎨 Frontend Development (320 positions)
-☁️ Salesforce • 🏢 Micron Technology
+#### 🎨 Frontend Development (317 positions)
+🏢 Micron Technology
 
 #### 📊 Data Science & Analytics (149 positions)
 🏢 Micron Technology • 🔷 Intel
 
-#### 🧠 Machine Learning & AI (99 positions)
-☁️ Salesforce • 🏢 Broadcom
+#### 🧠 Machine Learning & AI (101 positions)
+☁️ Salesforce
 
 #### ☁️ DevOps & Infrastructure (68 positions)
 🔵 IBM • 🏢 Siemens • 🏢 BAE Systems
 
-#### 📱 Mobile Development (40 positions)
+#### 📱 Mobile Development (41 positions)
 🏢 Dell
-
-#### ⚙️ Backend Development (39 positions)
-🔵 IBM • 🏢 Analog Devices
 
 #### 🛡️ Security Engineering (38 positions)
 🏢 Broadcom
 
+#### ⚙️ Backend Development (37 positions)
+🔵 IBM • 🏢 Analog Devices
+
 #### 🎨 Design (21 positions)
 🔵 IBM
 
-#### 🌐 Full Stack Development (20 positions)
+#### 🌐 Full Stack Development (21 positions)
 🟢 Google • 🟦 Microsoft
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1186+ verified CS internships and entry-level software roles from 243 elite tech companies.
+✅ **100% Real Jobs:** 1185+ verified CS internships and entry-level software roles from 242 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1438,7 +1438,7 @@
 
 <div align="center">
 
-**🎯 1186 current opportunities from 243 elite companies.**
+**🎯 1185 current opportunities from 242 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
