@@ -1,12 +1,12 @@
 [
   {
     "employer_name": "AI Jobs",
-    "job_title": "Systems Software Engineer, AV Infrastructure - Tooling, Coverage, and Analysis",
-    "job_city": "US",
+    "job_title": "Firmware Engineering Intern [Winter]",
+    "job_city": "San Jose",
     "job_state": "CA",
-    "job_posted_at": "3d",
-    "job_description": "• Communicate proactively with stakeholders, ensuring no issues are left unattended and infra evolves alongside developer needs.\n• BS/MS in Computer Science, Computer Engineering, or relevant field (or equivalent experience).\n• 5+ years of professional experience in infrastructure, distributed systems, or platform engineering.\n• Strong background in Linux systems, distributed systems, and infrastructure engineering.\n• Hands-on experience with Bazel build system and its integration into CI/CD pipelines.\n• Experience with PostgreSQL and data handling at scale.\n• Prior experience with coverage frameworks (lcov, gcov, VectorCAST) and delivering quality metrics in compliance-heavy environments.\n• Hands-on experience with static analysis tooling like Coverity, and embedding it into developer workflows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162220527-systems-software-engineer-av-infrastructure-tooling-coverage-and-analysis",
-    "id": "ai-jobs-systems-software-engineer-av-infrastructure-tooling-coverage-and-analysis-us"
+    "job_posted_at": "9h",
+    "job_description": "• Optimize performance of firmware to meet product requirements.\n• Minimum 10 weeks internship, 1 to 2 terms preferred.\n• Experience with low level communication protocol driver development, Ethernet and CAN preferred.\n• Experience with motor control systems.\n• Experience with the Bazel build system.\n• Experience with Docker containers.\n• Deliver high quality C/C++ code in a real-time embedded environment.\n• Bring up, debug, and validate firmware on the Humanoid hardware platform, such as actuators, sensors, power distribution system.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162634635-firmware-engineering-intern-winter",
+    "id": "ai-jobs-firmware-engineering-intern-winter-san-jose"
   }
 ]
