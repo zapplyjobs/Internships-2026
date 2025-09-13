@@ -158,7 +158,7 @@ function generateJobTable(jobs) {
           output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
         });
 
-        if (companyJobs.length > 50) {
+        if (companyJobs.length > 15) {
           output += `\n</details>\n\n`;
         } else {
           output += "\n";
