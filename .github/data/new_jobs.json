@@ -1,12 +1,13 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Firmware Engineering Intern [Winter]",
+    "job_title": "Staff Software Engineer, Android",
+    "employer_name": "PayPal",
     "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "9h",
-    "job_description": "• Optimize performance of firmware to meet product requirements.\n• Minimum 10 weeks internship, 1 to 2 terms preferred.\n• Experience with low level communication protocol driver development, Ethernet and CAN preferred.\n• Experience with motor control systems.\n• Experience with the Bazel build system.\n• Experience with Docker containers.\n• Deliver high quality C/C++ code in a real-time embedded environment.\n• Bring up, debug, and validate firmware on the Humanoid hardware platform, such as actuators, sensors, power distribution system.",
-    "job_apply_link": "https://www.aijobs.com/jobs/162634635-firmware-engineering-intern-winter",
-    "id": "ai-jobs-firmware-engineering-intern-winter-san-jose"
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915827886",
+    "job_posted_at": "4d",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-staff-software-engineer-android-san-jose"
   }
 ]
