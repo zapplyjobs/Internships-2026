@@ -874,7 +874,7 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
    
     console.log(`✅ Added ${externalJobs.length}  external jobs)`);
 levelFilteredJobs.forEach((job, index) => {
-  console.log(`${index + 1}. Name: ${job.name || job.title || 'N/A'} | Date Posted: ${job.datePosted || job.posted || job.date || 'N/A'}`);
+  console.log(`${index + 1}. Name: ${job.job_title|| job.title || 'N/A'} | Date Posted: ${job.job_posted_at || job.posted || job.date || 'N/A'}`);
 });  
 
   // Final deduplication using standardized job ID generation
