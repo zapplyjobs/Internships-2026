@@ -21,7 +21,7 @@
 
 🏢 **Top Companies:** 242 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 92 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 91 premium opportunities
 
 📅 **Last Updated:** September 14, 2025
 
@@ -67,7 +67,7 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (103 positions)
+### ⭐ **FAANG+** (102 positions)
 
 #### 📦 **Amazon** (11 positions)
 
@@ -86,7 +86,7 @@
 | Security Engineer | Dallas, TX | [Apply](http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security) | 5d |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (29 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (28 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -106,14 +106,13 @@
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | PhD Cloud Network Engineer Intern | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 4d |
-| Hardware Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875578) | 1h |
-| Software Engineer II \ Senior Software Engineer- Microsoft Security (Multiple Roles) | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861388) | 1h |
-| Principal Software Engineer - Azure Storage | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873862) | 1h |
-| Senior Software Engineer - Azure Storage | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873854) | 1h |
-| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873860) | 1h |
+| Hardware Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1875578) | 2h |
+| Software Engineer II \ Senior Software Engineer- Microsoft Security (Multiple Roles) | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861388) | 2h |
+| Principal Software Engineer - Azure Storage | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873862) | 2h |
+| Senior Software Engineer - Azure Storage | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873854) | 2h |
+| Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873860) | 2h |
 | Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858687) | 1d |
 | Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1873806) | 1d |
-| Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1861022) | 1d |
 | Software Engineer - Frontend | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1771661/Software-Engineer---Frontend%2C-Redmond) | 11mo |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 1mo |
@@ -222,7 +221,7 @@
 | Software Engineer, TensorRT Specialized Platforms | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870) | 2w |
 | OEM Account Applications Engineer | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780) | 2w |
 | GPU Architecture Engineer | Santa Clara, CA | [Apply](http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) | 2w |
-| Developer Technology Engineer, AI | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) | 3d |
+| Developer Technology Engineer, AI | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) | 4d |
 
 #### 🔷 **Intel** (13 positions)
 
@@ -256,8 +255,8 @@
 | Entry Level Software Developer | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&source=WEB_Search_NA) | 1d |
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
 | Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
-| Innovation Designer Intern– Entry Level Sales Program | shipWASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) | 1d |
 | Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
+| Innovation Designer Intern– Entry Level Sales Program | shipWASHINGTON, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53114&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
 | Software Development Engineer | BELLEVUE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51962&source=WEB_Search_NA) | 1d |
 | Cryogenic Assembly Engineer | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=40918&source=WEB_Search_NA) | 1d |
@@ -475,7 +474,7 @@
 | 🏢 **PayPal** | Staff Software Engineer, Backend Python | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827867) | 5d |
 | 🏢 **PayPal** | Senior Software Engineer, Backend Java | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827875) | 5d |
 | 🏢 **PayPal** | Software Engineer, iOS | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827876) | 5d |
-| 🏢 **PayPal** | Senior Software Engineer, Backend Python | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827879) | 5d |
+| 🏢 **PayPal** | Staff Software Engineer, Android | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915827886) | 5d |
 
 ### 💻 **Enterprise Software** (42 positions)
 
@@ -1048,7 +1047,7 @@
 | Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457) | 1mo |
 | Staff Software Engineer (EAA) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6652022?gh_jid=6652022) | 1mo |
 | Staff Software Engineer, Infrastructure (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6931583?gh_jid=6931583) | 1mo |
-| Staff Software Engineer, Infrastructure - Datastores  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7242171?gh_jid=7242171) | 3d |
+| Staff Software Engineer, Infrastructure - Datastores  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7242171?gh_jid=7242171) | 4d |
 | Threat Intelligence Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6937732?gh_jid=6937732) | 1w |
 | Vertex Synapse Engineer, Threat Intelligence | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6864001?gh_jid=6864001) | 1w |
 
@@ -1159,14 +1158,14 @@
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
 | 🏢 **Illumina** | Systems Integration Engineer | US - California - San Diego, US | [Apply](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41358-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| 🏢 **10x Genomics** | Software Engineer III, Instrument Software 🏠 | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
+| 🏢 **10x Genomics** | Software Engineer III, Instrument Software | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
 | 🏢 **10x Genomics** | Electrical Engineering Technician 🏠 | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171836598750) | 5d |
 | 🏢 **Boston Scientific** | Software Engineer I - Engineering - Development | Houston, TX | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602803142943) | 4w |
 | 🏢 **Remodel Health** | Junior Software Engineer | Indianapolis, IN | [Apply](https://remodelhealth.com/resources/job/?gh_jid=4880033008) | 1mo |
 | 🏢 **Candid Health** | Forward Deployed Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application) | 2mo |
 | 🏢 **Candid Health** | Software Engineer New Grad | San Francisco, CA | [Apply](https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (98 positions)
+### 🏭 **Manufacturing & Industrial** (99 positions)
 
 #### 🏢 **Arm** (12 positions)
 
@@ -1283,13 +1282,14 @@
 |---------|------|----------|-----------|-----|
 | 🏢 **Micron Technology** | Computer Engineer - Central Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31036566) | 2w |
 | 🏢 **Micron Technology** | CAD Design Automation Engineer, Central Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30948222) | 2w |
-| 🏢 **Micron Technology** | MTS, IO Design Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/28358469) | 2d |
+| 🏢 **Micron Technology** | MTS, IO Design Engineering | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/28358469) | 3d |
 | 🏢 **Micron Technology** | Software Engineer, SECS/GEM | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30764716) | 1w |
 | 🏢 **Micron Technology** | Software Development Engineer | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30043686) | 2mo |
 | 🏢 **Micron Technology** | Software Development Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31029158) | 2w |
-| 🏢 **ABB** | R&D Electrical Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | 1h |
-| 🏢 **ABB** | Associate Project Engineer | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00007348/Associate-Project-Engineer) | 1h |
-| 🏢 **ABB** | Manufacturing Quality Tester-2 | Location Mebane, North Carolina | [Apply](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) | 1h |
+| 🏢 **ABB** | Force Measurement Territory Sales | Available in one of 3 locations, US | [Apply](https://careers.abb/global/en/job/96884692/Force-Measurement-Territory-Sales) | 1h |
+| 🏢 **ABB** | Application Engineering Intern Lombard- Summer | Location Lombard, Illinois | [Apply](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
+| 🏢 **ABB** | Application Engineering Intern Milwaukee-Summer | Location Milwaukee, Wisconsin | [Apply](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
+| 🏢 **ABB** | QCS Systems Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | 1h |
 | 🏢 **Analog Devices** | Embedded Software | 2 Locations, US | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software_R255245?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Analog Devices** | Machine Learning Engineer | US, MA | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineer_R255201?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | 🏢 **Magna International** | Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
@@ -1335,9 +1335,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 348 | 29% | No or minimal experience |
-| 🟡 Beginner & Early Career | 362 | 30% | 1-2 years of experience |
-| 🔴 Manager         | 478 | 40% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 347 | 29% | No or minimal experience |
+| 🟡 Beginner & Early Career | 364 | 31% | 1-2 years of experience |
+| 🔴 Manager         | 477 | 40% | 2+ years of experience |
 
 ---
 
@@ -1348,7 +1348,7 @@
 - **San Jose, CA**: 41 positions
 - **Seattle, WA**: 37 positions
 - **Mountain View, California**: 34 positions
-- **San Francisco, California**: 33 positions
+- **San Francisco, California**: 32 positions
 - **New York, NY**: 31 positions
 
 ---
@@ -1358,7 +1358,7 @@
 #### 💻 Software Engineering (394 positions)
 🔵 IBM
 
-#### 🎨 Frontend Development (324 positions)
+#### 🎨 Frontend Development (323 positions)
 ☁️ Salesforce • 🏢 Micron Technology
 
 #### 📊 Data Science & Analytics (149 positions)
@@ -1370,19 +1370,19 @@
 #### ☁️ DevOps & Infrastructure (71 positions)
 🔵 IBM • 🏢 Siemens • 🏢 BAE Systems
 
+#### ⚙️ Backend Development (39 positions)
+🔵 IBM • 🏢 Analog Devices
+
 #### 🛡️ Security Engineering (39 positions)
 🏢 Broadcom
 
-#### ⚙️ Backend Development (38 positions)
-🔵 IBM • 🏢 Analog Devices
-
-#### 📱 Mobile Development (36 positions)
+#### 📱 Mobile Development (37 positions)
 🏢 Dell
 
 #### 🎨 Design (21 positions)
 🔵 IBM
 
-#### 🌐 Full Stack Development (20 positions)
+#### 🌐 Full Stack Development (19 positions)
 🟢 Google • 🟦 Microsoft
 
 ---
