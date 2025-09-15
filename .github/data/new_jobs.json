@@ -1,118 +1,24 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering - DevOps / Cloud Operations Engineer",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
+    "job_title": "Staff Machine Learning Engineer, AI Experience ",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309881/software-engineering-devops-cloud-operations-engineer/",
-    "id": "salesforce-software-engineering-devops-cloud-operations-engineer-california-san-francisco"
+    "job_employment_type": "FULLTIME",
+    "id": "airbnb-staff-machine-learning-engineer-ai-experience-united-states"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "AI Technology & Studio AI/Cloud/DevOps Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1mo",
-    "job_description": "• Software EngineerlocationsUS - VA, Springfieldposted onPosted 30+ Days Ago30414Software Engineerlocations2 Locationsposted onPosted 4 Days Ago31684SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago31299AWS Data EngineerlocationsUS - Remote (Any location)posted onPosted 17 Days Ago31815Senior QA– Integration Test Engineerlocations8 Locationsposted onPosted 3 Days Ago31659Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted Today32053AI/ML Engineer - Supply Chain & LogisticslocationsUS - AL, Huntsvilleposted onPosted 19 Days Ago31825Data EngineerlocationsUS - VA, Arlingtonposted onPosted 5 Days Ago31267Senior Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted 30+ Days Ago30471Senior Full Stack Developerlocations2 Locationsposted onPosted 11 Days Ago31629Senior Full Stack Developerlocations2 Locationsposted onPosted 25 Days Ago31261Data Engineer ArchitectlocationsUS - AL, Huntsvilleposted onPosted 26 Days Ago31270Senior Cloud Infrastructure EngineerlocationsIN - Trivandrumposted onPosted 30+ Days Ago29665Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 7 Days Ago32174Senior Systems Engineerlocations4 Locationsposted onPosted 30+ Days Ago31394Wi-Fi Cellular EngineerlocationsUS - AL, Huntsvilleposted onPosted 11 Days Ago29529Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 6 Days Ago31777Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31233Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 20 Days Ago31179AI Technology & Studio AI/Cloud/DevOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago31330.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/AI-Technology---Studio-AI-Cloud-DevOps-Engineer_31330?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-ai-technology-studio-ai-cloud-devops-engineer-2-locations"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Software Engineer",
-    "job_city": "Pittsford",
-    "job_state": "NY",
-    "job_posted_at": "1mo",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/113205/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-engineer-pittsford"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engr",
-    "job_city": "West Monroe",
-    "job_state": "LA",
-    "job_posted_at": "16h",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/117752/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engr-west-monroe"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Electrical Engineer",
-    "job_city": "Mason",
-    "job_state": "OH",
-    "job_posted_at": "16h",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118390/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-electrical-engineer-mason"
-  },
-  {
-    "job_title": "Software Engineer II (Outlook Copilot Service)",
+    "job_title": "Site Reliability Engineer II - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862379",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877194",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-outlook-copilot-service-redmond"
-  },
-  {
-    "job_title": "AI Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875034",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-engineer-ii-redmond"
-  },
-  {
-    "job_title": "Junior Solution Engineer - Cloud & AI Infrastructure",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850546",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-cloud-ai-infrastructure-redmond"
-  },
-  {
-    "job_title": "Junior Solution Engineer Cloud & AI Apps",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846412",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-cloud-ai-apps-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873579",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-manager-redmond"
-  },
-  {
-    "job_title": "Software Engineer - Azure Storage",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862916",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-storage-redmond"
+    "id": "microsoft-site-reliability-engineer-ii-ctj-poly-redmond"
   }
 ]
