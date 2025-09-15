@@ -1,35 +1,33 @@
 [
   {
-    "job_title": "Principal Firmware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877198",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-firmware-engineer-redmond"
+    "employer_name": "AI Jobs",
+    "job_title": "Software Engineer, Anti Fraud & Abuse",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "4d",
+    "job_description": "• Have at least 5 years of software engineering experience in backend and data systems.\n• Have at least 2 years experience in fraud or abuse analysis, investigation, and/or operationsCan dive into our codebase, intuit how it works, and be able to have a strong intuition for suggestions that will lead us to a stronger engineering position.\n• A voracious and intrinsic desire to learn and fill in missing skills.\n• You view changes as an opportunity to add structure and order when necessaryExperience in Machine Learning techniques is a plus, but not required Design and build systems for fraud detection and remediation while balancing fraud loss, cost of implementation, and customer experienceWork closely with finance, security, product, research, and trust & safety operations to holistically combat fraudulent and abusive actors on our systemStay abreast of the latest techniques and tools to stay several steps ahead of determined and well resourced adversariesUtilize GPT-4 and future models to more effectively combat fraud and abuse.\n• An equally strong talent for sharing that information clearly and concisely with othersAre comfortable with ambiguity and rapidly changing conditions.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162231168-software-engineer-anti-fraud-abuse",
+    "id": "ai-jobs-software-engineer-anti-fraud-abuse-san-francisco"
   },
   {
-    "job_title": "Data Solution Engineer - Digital Native",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877628",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-solution-engineer-digital-native-redmond"
+    "employer_name": "AI Jobs",
+    "job_title": "Quantitative Researcher - New York / London",
+    "job_city": "New York",
+    "job_state": "United States",
+    "job_posted_at": "5d",
+    "job_description": "• Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up Jobs Companies Recruiting Blog Pricing Login Post Jobs Sign Up.",
+    "job_apply_link": "https://www.aijobs.com/jobs/162017249-quantitative-researcher-new-york-london",
+    "id": "ai-jobs-quantitative-researcher-new-york-london-new-york"
   },
   {
-    "job_title": "Technical Support Engineering IC3",
+    "job_title": "Cloud & AI Solution Engineer – Data Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871629",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877054",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-ic3-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-data-platform-redmond"
   }
 ]
