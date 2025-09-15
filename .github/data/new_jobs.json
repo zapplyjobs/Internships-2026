@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer II - iOS",
+    "job_title": "Technical Support Engineering",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876501",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1834469",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-ios-redmond"
-  },
-  {
-    "job_title": "Director of Technical Support Engineering",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854587",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-director-of-technical-support-engineering-redmond"
+    "id": "microsoft-technical-support-engineering-redmond"
   }
 ]
