@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Associate Software Software Engineer",
-    "employer_name": "Red Hat",
-    "job_city": "Durham",
-    "job_state": "NC",
-    "job_description": "Join Red Hat in this exciting opportunity.",
-    "job_apply_link": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Durham/Associate-Software-Software-Engineer_R-050446-1",
+    "job_title": "Principal Firmware Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877198",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "red-hat-associate-software-software-engineer-durham"
+    "id": "microsoft-principal-firmware-engineer-redmond"
+  },
+  {
+    "job_title": "Data Solution Engineer - Digital Native",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877628",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-data-solution-engineer-digital-native-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineering IC3",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871629",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineering-ic3-redmond"
   }
 ]
