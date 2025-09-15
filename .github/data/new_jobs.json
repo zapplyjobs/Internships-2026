@@ -1,55 +1,85 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Performance Engineer",
-    "job_city": "California - San Francisco",
+    "employer_name": "IBM",
+    "job_title": "Sales Development Representative - Apptio",
+    "job_city": "RESEARCH TRIANGLE PARK",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310289/software-performance-engineer/",
-    "id": "salesforce-software-performance-engineer-california-san-francisco"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Sales Development Representative - Apptio",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA",
+    "id": "ibm-sales-development-representative-apptio-research-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineer Intern:",
+    "job_city": "shipWASHINGTON",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Federal Data Engineer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineer-intern-shipwashington"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Protection & Automation Mechanical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Protection & Automation Mechanical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-protection-automation-mechanical-engineering-summer-fall-2026-internship-north-carolina-state-university-wendell"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Protection & Automation Electrical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Protection & Automation Electrical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-protection-automation-electrical-engineering-summer-fall-2026-internship-north-carolina-state-university-wendell"
   },
   {
     "employer_name": "Amazon",
     "job_title": "Software Engineer",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Software Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3061877/software-engineer",
-    "id": "amazon-software-engineer-cambridge"
-  },
-  {
-    "job_title": "Principal Security Operations Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871893",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-security-operations-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Display Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876726",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-display-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer 7 - Enterprise Solutions",
-    "employer_name": "Netflix",
-    "job_city": "USA - Remote",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join Netflix to entertain the world.",
-    "job_apply_link": "https://explore.jobs.netflix.net/careers/job/790311994058",
-    "job_posted_at": "22h",
+    "job_posted_at": "5mo",
+    "job_description": "software engineering job for the role Software Engineer",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2943365/software-engineer",
+    "id": "amazon-software-engineer-san-francisco"
+  },
+  {
+    "job_title": "Senior Software Engineering",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877915",
+    "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "netflix-software-engineer-7-enterprise-solutions-usa-remote"
+    "id": "microsoft-senior-software-engineering-redmond"
+  },
+  {
+    "job_title": "Software Engineer – Junior & New Grad",
+    "employer_name": "NewsBreak",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_description": "Join NewsBreak in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
+    "job_posted_at": "6mo",
+    "job_employment_type": "FULLTIME",
+    "id": "newsbreak-software-engineer-junior-new-grad-mountain-view"
+  },
+  {
+    "job_title": "Software Dev Engineer I",
+    "employer_name": "Altice USA",
+    "job_city": "Plainview",
+    "job_state": "NY",
+    "job_description": "Join Altice USA in this exciting opportunity.",
+    "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326245900/?ats=successfactors",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "altice-usa-software-dev-engineer-i-plainview"
   }
 ]
