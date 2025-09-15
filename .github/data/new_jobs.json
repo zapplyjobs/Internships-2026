@@ -1,44 +1,33 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Security Product and Platform",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1w",
-    "job_description": "• The focus will be on improving developer and research tooling and productivity, while also delivering the robust functionality and controls required by IT and Security.\n• Design and implement new features for existing security tools to enhance functionality and user experience.\n• Experience designing and developing secure software solutions and infrastructure components.\n• Experience with security practices such as threat models, risk assessment, and security protocols.\n• Detection Infrastructure: You will work on protecting the company’s data and infrastructure from emerging threats that are critical to OpenAI.\n• In addition to preventative measures, you’ll also be responsible for enhancing our detective and corrective controls and partner with teams within Security and broader OpenAI.\n• Identity Systems: You’ll be eager to work on identity and access management solutions that will significantly impact our engineering and research stack.\n• Infrastructure Security: You will focus on building products and practices that scale to a global footprint.",
-    "job_apply_link": "https://www.aijobs.com/jobs/161552905-software-engineer-security-product-and-platform",
-    "id": "ai-jobs-software-engineer-security-product-and-platform-san-francisco"
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - DC/DC Power Supply Application",
+    "job_city": "El Segundo",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Internship - DC/DC Power Supply Application",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-dc-dc-power-supply-application-el-segundo"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist, New Grad",
-    "job_city": "Denver",
-    "job_state": "CO",
-    "job_posted_at": "1w",
-    "job_description": "• Data analysis or software skills: Python, MATLAB, JavaScript/Typescript Strong background in numerical computing or statisticsFamiliarity with high density data storage formats such as parquet, HDF5 and netCDFBackground in data classification or clusteringYou see complex systems as puzzles waiting to be solved and thrive in environments where innovation meets precisionPrior internship or hands-on project experience in aerospace, defense, or related high-tech industriesDemonstrates a strong work ethic and ambition, complemented by effective collaboration skills in a team settingExcels in a high-energy, independent, and challenging work environment Experience with systems programming languages, particularly Rust or GoPast experience working with data extracted from REST endpoints, or other web based data access technologiesCollaborative track record in a diverse technical domains – from aerospace, biological science, engineering, or medicine, you've teamed up with experts to get the answers to deep technical questions Bachelor's degree in Computer Science or a related field (graduating in Spring 2026).",
-    "job_apply_link": "https://www.aijobs.com/jobs/161607089-data-scientist-new-grad",
-    "id": "ai-jobs-data-scientist-new-grad-denver"
+    "employer_name": "AMD",
+    "job_title": "Linux Kernel Software Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Collaborate with ASIC design team/SoC architecture to understand the OS and Linux kernel requirement for each program and propose the correct OS and kernel versions.\n• Hands-on issue debugging skills, issue isolation with Linux kernel, driver module level Proficient in C/C++ programming and one or more scripting languagesFamiliarity with compiler toolchains, build environments.\n• Familiar with the boot up flow of BIOS + Linux operating systemExperience with emulation and ASIC Bring UP is strongly preferredExperience with VMs like VBOX, QEMU, WSL etc.\n• Is preferredMultiple operating system experience(Ubuntu, RedHat, CentOS etc.\n• ) is a plusFamiliar with source control systems like Git, GitHubGood attitude, strong analysis, problem-solving & interpersonal skills.\n• Good English required – verbal and written AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Develop and maintain Linux kernel driver used by CPU and GPU diagnostic software to validate the SOC IPs.\n• Build Linux kernel image and create Ubuntu OS for both pre-silicon and post-silicon environment.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/58023/login",
+    "id": "amd-linux-kernel-software-engineer-us"
   },
   {
-    "job_title": "Cloud Solution Architect – Software, Developer Tools & AI",
+    "job_title": "Senior Software Engineer (Outlook Copilot Service)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872848",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862379",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-solution-architect-software-developer-tools-ai-redmond"
-  },
-  {
-    "job_title": "Staff Software Engineer",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915830827",
-    "job_posted_at": "5d",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-software-engineer-san-jose"
+    "id": "microsoft-senior-software-engineer-outlook-copilot-service-redmond"
   }
 ]
