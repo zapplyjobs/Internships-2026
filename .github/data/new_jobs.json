@@ -1,23 +1,87 @@
 [
   {
-    "employer_name": "AMD",
-    "job_title": "Graphics Software Development Engineer",
-    "job_city": "US",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "• Excellent C/C++ programming skillsExperience programming and optimizing gamesKnowledge of computer hardware architecture and organization3D Graphics API knowledge and experience (D3D, OpenGL, or Vulkan)3D graphics driver knowledge and experienceWindows development experienceOS and performance knowledge and experienceExperience with multi-threading and concurrent programmingFamiliarity with performance analysis tools The development, debugging, and performance tuning of graphics software running on Microsoft WindowsThe ability to debug low level hardware and operating system functionality is desiredDesign and develop new groundbreaking AMD technologies Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/68553/login",
-    "id": "amd-graphics-software-development-engineer-us"
+    "employer_name": "Intel",
+    "job_title": "GPU Logic Design Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "1mo",
+    "job_description": "• GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157Software Application Development Engineerlocations4 Locationsposted onPosted YesterdayJR0277289GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Government Information Security Engineerlocations4 Locationsposted onPosted 6 Days AgoJR0276257Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Emulation Solutions Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276726Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/GPU-Logic-Design-Engineer_JR0275905?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-gpu-logic-design-engineer-4-locations"
   },
   {
-    "job_title": "Cloud & AI Solution Engineer - SAP",
+    "employer_name": "Intel",
+    "job_title": "Government Information Security Engineer",
+    "job_city": "4 Locations",
+    "job_state": "US",
+    "job_posted_at": "6d",
+    "job_description": "• GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157Software Application Development Engineerlocations4 Locationsposted onPosted YesterdayJR0277289GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Government Information Security Engineerlocations4 Locationsposted onPosted 6 Days AgoJR0276257Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Emulation Solutions Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276726Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Government-Information-Security-Engineer_JR0276257?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-government-information-security-engineer-4-locations"
+  },
+  {
+    "employer_name": "Intel",
+    "job_title": "Emulation Solutions Engineer",
+    "job_city": "3 Locations",
+    "job_state": "US",
+    "job_posted_at": "1mo",
+    "job_description": "• GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157Software Application Development Engineerlocations4 Locationsposted onPosted YesterdayJR0277289GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099FVCTO - Formal Verification Senior Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276239Government Information Security Engineerlocations4 Locationsposted onPosted 6 Days AgoJR0276257Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Emulation Solutions Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0276726Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Emulation-Solutions-Engineer_JR0276726-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-emulation-solutions-engineer-3-locations"
+  },
+  {
+    "job_title": "Network Engineer - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863384",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876785",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-sap-redmond"
+    "id": "microsoft-network-engineer-ctj-poly-redmond"
+  },
+  {
+    "job_title": "Software Engineer II and Senior Software Engineer (Multiple Positions)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1836047",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-and-senior-software-engineer-multiple-positions-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer - AI Business Solutions",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877230",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-ai-business-solutions-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer - D365 Finance & Supply Chain",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877059",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-d365-finance-supply-chain-redmond"
+  },
+  {
+    "job_title": "Technical Support Engineer- Compliance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875653",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-compliance-redmond"
   }
 ]
