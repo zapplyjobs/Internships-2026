@@ -1,90 +1,56 @@
 [
   {
-    "job_title": "Senior Customer Experience Engineer - AI",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857528",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-ai-redmond"
+    "employer_name": "Intel",
+    "job_title": "Middleware Engineer",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Software Application Development Engineerlocations4 Locationsposted onPosted YesterdayJR0277289Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0277063Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 25 Days AgoJR0276881Data Scientist - Economicslocations3 Locationsposted onPosted 20 Days AgoJR0277007Middleware Engineerlocations2 Locationsposted onPosted TodayJR0277311Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652.",
+    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Middleware-Engineer_JR0277311-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
+    "id": "intel-middleware-engineer-2-locations"
   },
   {
-    "job_title": "Senior Customer Experience Engineer - Compute (Linux)",
+    "job_title": "Cloud Network Engineer II",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857529",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876537",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-compute-linux-redmond"
+    "id": "microsoft-cloud-network-engineer-ii-redmond"
   },
   {
-    "job_title": "Senior Customer Experience Engineer - App Services",
+    "job_title": "Technical Support Engineer - Skype for Business & Microsoft Teams",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857523",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878103",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-app-services-redmond"
+    "id": "microsoft-technical-support-engineer-skype-for-business-microsoft-teams-redmond"
   },
   {
-    "job_title": "Senior Customer Experience Engineer - HPC",
+    "job_title": "Senior Development Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857525",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857051",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-hpc-redmond"
+    "id": "microsoft-senior-development-engineer-redmond"
   },
   {
-    "job_title": "Senior Customer Experience Engineer - Networking",
+    "job_title": "Senior Software Engineer - CTJ - Poly",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857522",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875959",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-customer-experience-engineer-networking-redmond"
-  },
-  {
-    "job_title": "Site Reliability Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1865084",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-site-reliability-engineer-redmond"
-  },
-  {
-    "job_title": "AI Business Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877038",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-solution-engineer-redmond"
-  },
-  {
-    "job_title": "Senior AI Business Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877795",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-business-solution-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-ctj-poly-redmond"
   }
 ]
