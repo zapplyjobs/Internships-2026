@@ -1,57 +1,23 @@
 [
   {
-    "job_title": "Software Engineer (Front-End)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
+    "employer_name": "AMD",
+    "job_title": "Graphics Software Development Engineer",
+    "job_city": "US",
     "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874300",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-front-end-redmond"
+    "job_posted_at": "1d",
+    "job_description": "• Excellent C/C++ programming skillsExperience programming and optimizing gamesKnowledge of computer hardware architecture and organization3D Graphics API knowledge and experience (D3D, OpenGL, or Vulkan)3D graphics driver knowledge and experienceWindows development experienceOS and performance knowledge and experienceExperience with multi-threading and concurrent programmingFamiliarity with performance analysis tools The development, debugging, and performance tuning of graphics software running on Microsoft WindowsThe ability to debug low level hardware and operating system functionality is desiredDesign and develop new groundbreaking AMD technologies Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68553/login",
+    "id": "amd-graphics-software-development-engineer-us"
   },
   {
-    "job_title": "Group Engineering Manager",
+    "job_title": "Cloud & AI Solution Engineer - SAP",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877938",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863384",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-group-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Junior Solution Engineer Developer Productivity",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1850578",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-junior-solution-engineer-developer-productivity-redmond"
-  },
-  {
-    "job_title": "Principal Engineering Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877879",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-engineering-manager-redmond"
-  },
-  {
-    "job_title": "Data Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872602",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-data-engineer-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-sap-redmond"
   }
 ]
