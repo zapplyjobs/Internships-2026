@@ -1,66 +1,75 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Entry Level Hardware Developer",
-    "job_city": "",
-    "job_state": "United States",
+    "job_title": "Hardware Developer Intern",
+    "job_city": "ship",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Entry Level Hardware Developer 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA",
-    "id": "ibm-entry-level-hardware-developer-"
+    "job_description": "software engineering job for the role Hardware Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-ship"
   },
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Application Engineer",
-    "job_city": "Santa Clara",
+    "employer_name": "Siemens",
+    "job_title": "Protection & Automation Electrical Engineering Summer - Fall 2026 Internship",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Protection & Automation Electrical Engineering Summer - Fall 2026 Internship",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-protection-automation-electrical-engineering-summer-fall-2026-internship-wendell"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Power Protection & Automation Engineering Development Program (January 2026 Cohort)",
+    "job_city": "Wendell",
+    "job_state": "North Carolina",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Power Protection & Automation Engineering Development Program (January 2026 Cohort)",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-power-protection-automation-engineering-development-program-january-2026-cohort-wendell"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Remote Software Developer",
+    "job_city": "Any Location /",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Remote-Software-Developer-Advisor_RQ205214-1?q=software+engineering",
+    "id": "general-dynamics-remote-software-developer-any-location"
+  },
+  {
+    "job_title": "Software Engineer, Backend - DevX Server Foundations",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 13 Days Ago2501691Application EngineerlocationsSanta Clara, CAposted onPosted Today2501314Principal Analog Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2301134Senior Staff Verification EngineerlocationsWestborough, MAposted onPosted Today2501495Director, SOC Designlocations2 Locationsposted onPosted Today2500430Senior Product EngineerlocationsSanta Clara, CAposted onPosted Today2502182Senior Staff Physical Design EngineerlocationsWestborough, MAposted onPosted Today2502585Senior Distinguished Custom Memory Architect EngineerlocationsSanta Clara, CAposted onPosted Today2402690Design Verification Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted Today2502742Design Verification Intern - Bachelors DegreelocationsAustin, TXposted onPosted Today2502728Analog Design Engineer, Sr.\n• PrincipallocationsSanta Clara, CAposted onPosted Today2500824Analog IC Design Engineer, PrincipallocationsIrvine, CAposted onPosted Today2402472Analog IC Design Engineer, Senior StafflocationsIrvine, CAposted onPosted Today2500821Senior Staff Engineer, Analog LayoutlocationsSanta Clara, CAposted onPosted Today2500881Analog Mixed Signal IC Design Engineer, Senior StafflocationsSanta Clara, CAposted onPosted Today2501388Principal Engineer, Analog IC DesignlocationsSanta Clara, CAposted onPosted Today2502026Analog IC Design Engineer, Senior StafflocationsIrvine, CAposted onPosted Today2502061Senior Engineer, Analog LayoutlocationsSanta Clara, CAposted onPosted Today2500368Principal Analog IC Design EngineerlocationsMinnetonka, MNposted onPosted Today2501446.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Application-Engineer_2501314?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-application-engineer-santa-clara"
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7097428?gh_jid=7097428",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-software-engineer-backend-devx-server-foundations-remote-usa"
   },
   {
-    "job_title": "Principal Innovation Hub Solution Engineer, Cloud and AI",
+    "job_title": "Software Engineer - Outlook Services",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878004",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864537",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-innovation-hub-solution-engineer-cloud-and-ai-redmond"
+    "id": "microsoft-software-engineer-outlook-services-redmond"
   },
   {
-    "job_title": "Digital Cloud & AI Solution Engineer – Azure Platform",
+    "job_title": "Sr. Engineering Group Ops Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1871157",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872893",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-cloud-ai-solution-engineer-azure-platform-redmond"
-  },
-  {
-    "job_title": "Software Engineer I - Salesforce",
-    "employer_name": "The Travelers Companies",
-    "job_city": "Sparks",
-    "job_state": "MD",
-    "job_description": "Join The Travelers Companies in this exciting opportunity.",
-    "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
-    "job_posted_at": "1w",
-    "job_employment_type": "FULLTIME",
-    "id": "the-travelers-companies-software-engineer-i-salesforce-sparks"
-  },
-  {
-    "job_title": "Junior Level Software Engineering - Associate",
-    "employer_name": "Peraton",
-    "job_city": "King George County",
-    "job_state": "VA",
-    "job_description": "Join Peraton in this exciting opportunity.",
-    "job_apply_link": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "peraton-junior-level-software-engineering-associate-king-george-county"
+    "id": "microsoft-sr-engineering-group-ops-manager-redmond"
   }
 ]
