@@ -1,85 +1,165 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Sales Development Representative - Apptio",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Sales Development Representative - Apptio",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46363&source=WEB_Search_NA",
-    "id": "ibm-sales-development-representative-apptio-research-triangle-park"
+    "employer_name": "Synopsys",
+    "job_title": "Multi-Die Application Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "California",
+    "job_posted_at": "2w",
+    "job_description": "• Collaborate to support Advanced Node Place & Route challengesMulti-die design Minimum of 8+ years of physical design experience including RTL to GDSII full flow experience.\n• Excellent verbal and written presentation/communication skills.\n• Hands-on experience in synthesis, physical design, static timing analysis, equivalence checking, parasitic extraction, DRC/LVS, and power analysis.\n• Scripting skills (Perl, Tcl, Python).\n• A continuous learner, always seeking to expand your technical knowledge and skills.\n• Providing technical and engineering insight to support and improve the usability, applicability, and adoption of Synopsys products.\n• Diagnosing, troubleshooting, and resolving complex technical issues on customer installations.\n• Deploying and training customers on new implementations and capabilities.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/sunnyvale/multi-die-application-engineer/44408/84961113120",
+    "id": "synopsys-multi-die-application-engineer-sunnyvale"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Federal Data Engineer Intern:",
-    "job_city": "shipWASHINGTON",
-    "job_state": "US",
+    "employer_name": "Honeywell",
+    "job_title": "Field Service Engineer",
+    "job_city": "Houston",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Federal Data Engineer Intern: 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
-    "id": "ibm-federal-data-engineer-intern-shipwashington"
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118876/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-field-service-engineer-houston"
   },
   {
-    "employer_name": "Siemens",
-    "job_title": "Protection & Automation Mechanical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
-    "job_city": "Wendell",
-    "job_state": "North Carolina",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Protection & Automation Mechanical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-protection-automation-mechanical-engineering-summer-fall-2026-internship-north-carolina-state-university-wendell"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Protection & Automation Electrical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
-    "job_city": "Wendell",
-    "job_state": "North Carolina",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Protection & Automation Electrical Engineering Summer - Fall 2026 Internship (North Carolina State University)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-protection-automation-electrical-engineering-summer-fall-2026-internship-north-carolina-state-university-wendell"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer",
-    "job_city": "San Francisco",
+    "job_title": "Senior Software Engineer, Backend - Institutional Product Group",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
     "job_state": "CA",
-    "job_posted_at": "5mo",
-    "job_description": "software engineering job for the role Software Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2943365/software-engineer",
-    "id": "amazon-software-engineer-san-francisco"
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-software-engineer-backend-institutional-product-group-remote-usa"
   },
   {
-    "job_title": "Senior Software Engineering",
+    "job_title": "Data Solution Engineer Global Black Belt",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877915",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861236",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineering-redmond"
+    "id": "microsoft-data-solution-engineer-global-black-belt-redmond"
   },
   {
-    "job_title": "Software Engineer – Junior & New Grad",
-    "employer_name": "NewsBreak",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_description": "Join NewsBreak in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
-    "job_posted_at": "6mo",
-    "job_employment_type": "FULLTIME",
-    "id": "newsbreak-software-engineer-junior-new-grad-mountain-view"
-  },
-  {
-    "job_title": "Software Dev Engineer I",
-    "employer_name": "Altice USA",
-    "job_city": "Plainview",
-    "job_state": "NY",
-    "job_description": "Join Altice USA in this exciting opportunity.",
-    "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326245900/?ats=successfactors",
+    "job_title": "Azure Advanced Cloud Engineer 2 – Customer Focus",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844313",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "altice-usa-software-dev-engineer-i-plainview"
+    "id": "microsoft-azure-advanced-cloud-engineer-2-customer-focus-redmond"
+  },
+  {
+    "job_title": "Sr Software Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875957",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-sr-software-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "State Street",
+    "job_city": "Burlington",
+    "job_state": "MA",
+    "job_description": "Join State Street in this exciting opportunity.",
+    "job_apply_link": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1",
+    "job_posted_at": "2mo",
+    "job_employment_type": "FULLTIME",
+    "id": "state-street-software-engineer-i-burlington"
+  },
+  {
+    "job_title": "Software Engineer I - Applications",
+    "employer_name": "ZOLL Medical Corporation",
+    "job_city": "Lowell",
+    "job_state": "MA",
+    "job_description": "Join ZOLL Medical Corporation in this exciting opportunity.",
+    "job_apply_link": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
+    "job_posted_at": "4w",
+    "job_employment_type": "FULLTIME",
+    "id": "zoll-medical-corporation-software-engineer-i-applications-lowell"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "SMX",
+    "job_city": "Huntsville",
+    "job_state": "AL",
+    "job_description": "Join SMX in this exciting opportunity.",
+    "job_apply_link": "https://www.smxtech.com/careers/?gh_jid=7141321003",
+    "job_posted_at": "6d",
+    "job_employment_type": "FULLTIME",
+    "id": "smx-software-engineer-i-huntsville"
+  },
+  {
+    "job_title": "Software Engineer – New Grad",
+    "employer_name": "Eventual",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Eventual in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "eventual-software-engineer-new-grad-sf"
+  },
+  {
+    "job_title": "Software Engineer – New Graduate",
+    "employer_name": "Duolingo",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Duolingo in this exciting opportunity.",
+    "job_apply_link": "https://careers.duolingo.com/jobs/8155283002?gh_jid=8155283002",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "duolingo-software-engineer-new-graduate-pittsburgh"
+  },
+  {
+    "job_title": "2026 University Graduate - Machine Learning Engineer",
+    "employer_name": "Adobe",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join Adobe in this exciting opportunity.",
+    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160137",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "adobe-2026-university-graduate-machine-learning-engineer-sf"
+  },
+  {
+    "job_title": "Raytheon Software Engineer I - Test Equipment",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-raytheon-software-engineer-i-test-equipment-tucson"
+  },
+  {
+    "job_title": "Software Engineer I - Raytheon",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-software-engineer-i-raytheon-tucson"
+  },
+  {
+    "job_title": "2025 Raytheon Systems Security Engineer I",
+    "employer_name": "RTX",
+    "job_city": "Tucson",
+    "job_state": "AZ",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01792265",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "rtx-2025-raytheon-systems-security-engineer-i-tucson"
   }
 ]
