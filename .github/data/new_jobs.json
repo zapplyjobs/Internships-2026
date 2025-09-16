@@ -1,56 +1,56 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Middleware Engineer",
-    "job_city": "2 Locations",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering MTS - Commerce Cloud",
+    "job_city": "Massachusetts - Burlington",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 26 Days AgoJR0276773GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205Software Application Development Engineerlocations4 Locationsposted onPosted YesterdayJR0277289Physical Verification Application Engineerlocations3 Locationsposted onPosted 14 Days AgoJR0272754Triton Compiler Engineerlocations3 Locationsposted onPosted 6 Days AgoJR0277157Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 4 Days AgoJR0277063Senior Firmware EngineerlocationsUS, Texas, Austinposted onPosted 22 Days AgoJR0276584Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 25 Days AgoJR0276881Data Scientist - Economicslocations3 Locationsposted onPosted 20 Days AgoJR0277007Middleware Engineerlocations2 Locationsposted onPosted TodayJR0277311Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 26 Days AgoJR0276774Emulation EngineerlocationsUS, Texas, Austinposted onPosted YesterdayJR0276365Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276099Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 26 Days AgoJR0276771Network Security Engineer (DevSecOps)locations2 Locationsposted onPosted 30+ Days AgoJR0275922Network Security Engineer (DevSecOps)locations3 Locationsposted onPosted 30+ Days AgoJR0276652.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Middleware-Engineer_JR0277311-1?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-middleware-engineer-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• Lead feature development throughout the software lifecycle: gather requirements, design, build, test, and deployHelp scale our services which need to support low latency and high throughputHave experience with reliably delivering high-quality, distributed, testable, and scalable softwarePresent your own designs to internal/external groups and review designs of othersDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics as well as CI/CD tools and its usageParticipate in the team’s on-call rotation to address complex problems in real-time and keep services operational and highly availableDesign and develop features on public clouds like AWS, GCP.\n• Build tools for internal use to support software engineering best practices Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows 3+ years of professional experienceSolid object oriented programming experience using JavaExperience using Git / GitHubExperience in automated testing including unit and functional testing using Java, JUnit, JSUnit, SeleniumDeveloping and debugging code to identify and fix performance issuesPrevious experience with SaaS development and enterprise web application developmentUnderstanding of Agile/Scrum methodologiesExperience building and deploying microservices on public clouds such as Amazon Web Services or Google Cloud Platform, using tools like Terraform, Terragrunt and KubernetesExperience building Caching and Search services using Redis/AWS ElastiCache/Memcached and AWS OpenSearch technologies Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309764/software-engineering-mts-commerce-cloud/",
+    "id": "salesforce-software-engineering-mts-commerce-cloud-massachusetts-burlington"
   },
   {
-    "job_title": "Cloud Network Engineer II",
+    "job_title": "Sr. Solutions Engineer",
+    "employer_name": "Databricks",
+    "job_city": "Southeast - United States",
+    "job_state": "CA",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8160889002",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "databricks-sr-solutions-engineer-southeast-united-states"
+  },
+  {
+    "job_title": "Software Engineer II - Windows Authentication",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876537",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860104",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-network-engineer-ii-redmond"
+    "id": "microsoft-software-engineer-ii-windows-authentication-redmond"
   },
   {
-    "job_title": "Technical Support Engineer - Skype for Business & Microsoft Teams",
+    "job_title": "Senior Software Engineer – Windows Silicon and Hardware Enablement",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878103",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860879",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-skype-for-business-microsoft-teams-redmond"
+    "id": "microsoft-senior-software-engineer-windows-silicon-and-hardware-enablement-redmond"
   },
   {
-    "job_title": "Senior Development Engineer",
+    "job_title": "Senior Firmware Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857051",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841165",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-development-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - CTJ - Poly",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1875959",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ctj-poly-redmond"
+    "id": "microsoft-senior-firmware-engineer-redmond"
   }
 ]
