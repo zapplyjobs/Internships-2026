@@ -1,12 +1,67 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer II, Pixel Modem Software",
-    "job_city": "Mountain View",
-    "job_state": "CA",
+    "job_title": "Software Engineer, Google Kubernetes Engine, Cloud Security",
+    "job_city": "Seattle",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer II, Pixel Modem Software",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/134414739043164870-software-engineer-ii-pixel-modem-software?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-ii-pixel-modem-software-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, Google Kubernetes Engine, Cloud Security",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/83757365018403526-software-engineer-google-kubernetes-engine-cloud-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-google-kubernetes-engine-cloud-security-seattle"
+  },
+  {
+    "job_title": "AI Business Process Sales and Service Solution Engineer - German Speaker",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877085",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-ai-business-process-sales-and-service-solution-engineer-german-speaker-redmond"
+  },
+  {
+    "job_title": "ROP - Software Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826466",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-rop-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "employer_name": "CoStar",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Join CoStar in this exciting opportunity.",
+    "job_apply_link": "https://costar.wd1.myworkdayjobs.com/costar_campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "costar-associate-software-engineer-san-diego"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "employer_name": "Light & Wonder",
+    "job_city": "Reno",
+    "job_state": "NV",
+    "job_description": "Join Light & Wonder in this exciting opportunity.",
+    "job_apply_link": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R320511",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "light-wonder-associate-software-engineer-reno"
+  },
+  {
+    "job_title": "Associate Software Engineer",
+    "employer_name": "NAVEX",
+    "job_city": "Hybrid Lake Oswego",
+    "job_state": "OR",
+    "job_description": "Join NAVEX in this exciting opportunity.",
+    "job_apply_link": "https://navexglobal.wd5.myworkdayjobs.com/navex/job/Hybrid-Lake-Oswego-OR/Associate-Software-Engineer_R6157",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "navex-associate-software-engineer-hybrid-lake-oswego"
   }
 ]
