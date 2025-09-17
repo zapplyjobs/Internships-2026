@@ -1,66 +1,88 @@
 [
   {
+    "employer_name": "Illumina",
+    "job_title": "Software Test Engineer",
+    "job_city": "US - California - San Diego",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Sr Software Test EngineerlocationsUS - California - San Diegoposted onPosted Today41253-JOBSoftware Test Engineer 2locationsUS - California - San Diegoposted onPosted Today41225-JOBSr.\n• Software Quality Engineer (Cybersecurity)locationsUS - California - San Diegoposted onPosted 30+ Days Ago41037-JOBSenior Manager Software QualitylocationsUS - California - San Diegoposted onPosted 30+ Days Ago41016-JOBStaff Software Technical Product ManagerlocationsUS - California - San Diegoposted onPosted Today41229-JOBStaff Inbound Content Marketing Strategist - Global Software and InformaticslocationsUS - California - San Diegoposted onPosted Today41103-JOBSystems Integration Engineer 1locationsUS - California - San Diegoposted onPosted 2 Days Ago41358-JOBVice President of Global QualitylocationsUS - California - San Diegoposted onPosted 30+ Days Ago41123-JOBSenior Staff ScientistlocationsUS - California - San Diegoposted onPosted Today40900-JOBAssociate Director Program Management - Sequencing PlatformslocationsUS - California - San Diegoposted onPosted 14 Days Ago41315-JOB.",
+    "job_apply_link": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Test-Engineer-2_41225-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "illumina-software-test-engineer-us-california-san-diego"
+  },
+  {
     "employer_name": "Marvel Technology",
-    "job_title": "Logistics Analyst Intern - Bachelor's Degree",
+    "job_title": "Supply Chain Analyst Intern - Bachelor's Degree",
     "job_city": "Santa Clara",
     "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 14 Days Ago2501691Logistics Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502277Principal Analog Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2301134Senior Staff Verification EngineerlocationsWestborough, MAposted onPosted Today2501495Application EngineerlocationsSanta Clara, CAposted onPosted Today2501314Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted Today2501309Senior Principal IC Design Engineerlocations3 Locationsposted onPosted Today2500354Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501494Senior Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501500Principal Engineer, Design Verificationlocations2 Locationsposted onPosted Today2501673Design Verification Engineer, Senior StafflocationsSanta Clara, CAposted onPosted Today2501199Principal Digital IC Design Engineerlocations2 Locationsposted onPosted Today2501752Design Verification Staff Engineerlocations2 Locationsposted onPosted Today2501795Principal Verification EngineerlocationsUS - ID - Boiseposted onPosted Today2501499Sr.\n• Staff Design Verification EngineerlocationsWestborough, MAposted onPosted Today2501804Principal Engineer, Design VerificationlocationsWestborough, MAposted onPosted Today2501550Director of Design VerificationlocationsWestborough, MAposted onPosted Today2501963Principal Analog/Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2500942Senior Staff Analog/Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2500592.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Logistics-Analyst-Intern---Bachelor-s-Degree_2502277-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-logistics-analyst-intern-bachelor-s-degree-santa-clara"
+    "job_description": "• Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 14 Days Ago2501691Supply Chain Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502278Logistics Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502277Principal Analog Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2301134Senior Staff Verification EngineerlocationsWestborough, MAposted onPosted Today2501495Application EngineerlocationsSanta Clara, CAposted onPosted Today2501314Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted Today2501309Senior Principal IC Design Engineerlocations3 Locationsposted onPosted Today2500354Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501494Senior Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501500Principal Engineer, Design Verificationlocations2 Locationsposted onPosted Today2501673Design Verification Engineer, Senior StafflocationsSanta Clara, CAposted onPosted Today2501199Principal Digital IC Design Engineerlocations2 Locationsposted onPosted Today2501752Design Verification Staff Engineerlocations2 Locationsposted onPosted Today2501795Principal Verification EngineerlocationsUS - ID - Boiseposted onPosted Today2501499Sr.\n• Staff Design Verification EngineerlocationsWestborough, MAposted onPosted Today2501804Principal Engineer, Design VerificationlocationsWestborough, MAposted onPosted Today2501550Director of Design VerificationlocationsWestborough, MAposted onPosted Today2501963Principal Analog/Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2500942.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Supply-Chain-Analyst-Intern---Bachelor-s-Degree_2502278-2?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-supply-chain-analyst-intern-bachelor-s-degree-santa-clara"
   },
   {
-    "employer_name": "AMD",
-    "job_title": "Software Development Engineer - Graphics",
-    "job_city": "US",
-    "job_state": "TX",
-    "job_posted_at": "1d",
-    "job_description": "• Solid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithread programming Excellent design and code development skills, familiarity with Linux and modern software tools and techniques for development Good analytical and problem-solving skills Expert knowledge and hands-on experience in C, C++ Knowledge of a Graphics Programming Language, such as Vulkan, OpenGL or DX12.\n• Solid understanding of object-oriented-design principles Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings Work very closely with dev teams and Project Managers to drive results.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/71393/login",
-    "id": "amd-software-development-engineer-graphics-us"
+    "job_title": "Senior Security Engineer, Insider Threat",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7235570?gh_jid=7235570",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "coinbase-senior-security-engineer-insider-threat-remote-usa"
   },
   {
-    "job_title": "Back End Software Engineer - XBOX",
+    "job_title": "Technical Support Engineer (Messaging Protection-MDO)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851413",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852765",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-back-end-software-engineer-xbox-redmond"
+    "id": "microsoft-technical-support-engineer-messaging-protection-mdo-redmond"
   },
   {
-    "job_title": "Senior Applied AI Engineer",
+    "job_title": "Cloud & AI Solution Engineer - Software, Development Tools and AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879194",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1826910",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-applied-ai-engineer-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-software-development-tools-and-ai-redmond"
   },
   {
-    "job_title": "Telemetry Engineering Operations Manager",
+    "job_title": "Software Engineer Director",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877912",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872315",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-telemetry-engineering-operations-manager-redmond"
+    "id": "microsoft-software-engineer-director-redmond"
   },
   {
-    "job_title": "Customer Experience Engineer",
+    "job_title": "Principal Analog Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857513",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1859892",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-customer-experience-engineer-redmond"
+    "id": "microsoft-principal-analog-engineer-redmond"
+  },
+  {
+    "job_title": "Principal Sourcing Engineer - Devices",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863874",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-sourcing-engineer-devices-redmond"
   }
 ]
