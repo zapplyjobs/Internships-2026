@@ -1,66 +1,24 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "VCF Automation R&D Engineer Software 4 - TF Provider",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• R&D Principal Software Engineer - Security EngineeringlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 4 Days AgoR023746 Country Manager - Singapore and ASEANlocationsSGP-Singapore Afro Asia SOtime typeFull timeposted onPosted 5 Days AgoR023707 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 6 Days AgoR023731 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 6 Days AgoR023724 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted 11 Days AgoR023675.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-A/VCF-Automation-R-D-Engineer-Software-4---TF-Provider_R022742-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-vcf-automation-r-d-engineer-software-4-tf-provider-3-locations"
-  },
-  {
-    "employer_name": "Broadcom",
-    "job_title": "VCF Automation R&D Engineer Software 4 - General",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• R&D Principal Software Engineer - Security EngineeringlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 4 Days AgoR023746 Country Manager - Singapore and ASEANlocationsSGP-Singapore Afro Asia SOtime typeFull timeposted onPosted 5 Days AgoR023707 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 6 Days AgoR023731 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 6 Days AgoR023724 Principal Kubernetes Software Engineerlocations7 Locationstime typeFull timeposted onPosted 11 Days AgoR023675.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-A/VCF-Automation-R-D-Engineer-Software-4---General_R022741?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-vcf-automation-r-d-engineer-software-4-general-2-locations"
-  },
-  {
-    "job_title": "Offensive Security Engineer, Assessments (Web3)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6995309?gh_jid=6995309",
+    "job_title": "Senior Software Engineer (AI)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876159",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-offensive-security-engineer-assessments-web3-remote-usa"
+    "id": "microsoft-senior-software-engineer-ai-redmond"
   },
   {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Salt Lake City",
-    "job_state": "UT",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT205-1128-W-2400-South-Salt-Lake-C-1128-West-2400-South-AST---Salt-Lake-City-Salt-Lake-City-UT-84119-USA/Software-Engineer-I--Onsite-_01794082",
-    "job_posted_at": "2h",
+    "job_title": "Firmware Engineer – Early Career - AI/ML Focus",
+    "employer_name": "Seagate Technology ",
+    "job_city": "Longmont",
+    "job_state": "CO",
+    "job_description": "Join Seagate Technology  in this exciting opportunity.",
+    "job_apply_link": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
+    "job_posted_at": "2w",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-salt-lake-city"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Anaheim",
-    "job_state": "CA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineer-I--Onsite-_01793337",
-    "job_posted_at": "2h",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-anaheim"
-  },
-  {
-    "job_title": "Software Engineer I - Raytheon",
-    "employer_name": "RTX",
-    "job_city": "Indianapolis",
-    "job_state": "IN",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793655",
-    "job_posted_at": "2h",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-raytheon-indianapolis"
+    "id": "seagate-technology-firmware-engineer-early-career-ai-ml-focus-longmont"
   }
 ]
