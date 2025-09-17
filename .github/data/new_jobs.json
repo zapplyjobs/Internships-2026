@@ -1,1 +1,148 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Shortcuts",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "6mo",
+    "job_description": "• Minimum QualificationsB.\n• S in Computer Science or a related field, or equivalent practical experience.\n• Experience building software and applications in Objective-C or SwiftExperience creating complex and performant user interfaces with UIKit, AppKit, or SwiftUISkilled at communicating, whether verbally or in writingMi.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200592620-0836/software-engineer-shortcuts?team=SFTWR",
+    "id": "apple-software-engineer-shortcuts-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Triage Engineer",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsBachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.\n• 5+ years of professional experience in software development, debugging, or triage engineering.\n• Strong hands-on experience with iOS/macOS internals, frameworks, and system-level components.\n• Experience working with log analysis tools, crash reporting frameworks, and debuggers (LLDB, Instruments, Xcode tools, Console, sysdiagnose, etc.\n• Strong analytical, problem-solving, and communication skills, with the ability to work cross-functionally.\n• Proficiency in at least one C-type programming language (C, C++, Objective-C, Swift).\n• Demonstrated ability to analyze complex software issues, crashes, and performance bottlenecks.\n• Solid understanding of software development lifecycle (SDLC), defect management systems, and triage best practices.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617279-3337/software-triage-engineer?team=SFTWR",
+    "id": "apple-software-triage-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsProven track record in designing and developing iOS applications for external customers.\n• 2+ years experience with iOS development.\n• Strong Communication and Collaboration Skills: The ability to articulate sophisticated technical concepts clearly and work optimally with multi-functional teams, including product managers, designers, and other engineers.\n• Comfortable working with globally distributed, multi-functional teams.\n• BS in Computer Science or equivalent field with demonstrated ability.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617741-0836/ios-software-engineer?team=SFTWR",
+    "id": "apple-ios-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsBS in CS/CE/EE and 0-2+ years of software engineer career experienceExpertise in at least one of C++/Objective-C/SwiftExperience developing drivers/applications in Unix, Linux, or macOS.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200617621-3543/systems-software-engineer?team=HRDWR",
+    "id": "apple-systems-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1mo",
+    "job_description": "• Minimum QualificationsBS or MS in Computer Engineering, Computer Science, Electrical Engineering or equivalent.\n• 5+ years of validated experience in a similar role.\n• Proficiency in C/C++, and embedded software experience is preferred.\n• Experience developing low level driversUnderstanding and experience with ARM platform and architecture/instruction set.\n• Experience with one or more of the standard hardware protocols (USB, UART, SPI, I2C, I2S, PCIe, MIPI, LPDP)Experience with debuggers such as gdb, lid, etc.\n• Excellent written and verbal communication skills.\n• Familiarity with scopes and logic analyzers.\n• Able to comprehend hardware specs and schematics.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614144-3543/embedded-software-engineer?team=HRDWR",
+    "id": "apple-embedded-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "CoreOS Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsPython for scripting, automation, and test infrastructure.\n• Experience with automation frameworks, CI/CD, and scalable test systems.\n• C/Swift for debug tooling and application-level development.\n• Strong debugging expertise (LLDB, GDB, Instruments, crash analysis, root cause isolation).\n• Solid grounding in computer systems fundamentals (OS, memory, concurrency)Solid understanding of computer systems fundamentals: OS concepts, memory management, concurrency, networking.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618972-0836/coreos-software-engineer?team=SFTWR",
+    "id": "apple-coreos-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Infrastructure",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "10mo",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science or 5+ years equivalent experienceAbility to demonstrate strong problem solving and logic in backend programmingExperienced with building cloud services and distributed systems at scaleDemonstrated end-to-end ownership of cross-organizational projects.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200577136-0836/software-engineer-infrastructure?team=SFTWR",
+    "id": "apple-software-engineer-infrastructure-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Graduate Hardware Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/graduate-hardware-engineer/33099/85997348720",
+    "id": "arm-graduate-hardware-engineer-austin"
+  },
+  {
+    "job_title": "Technical Support Engineer - Windows Commercial Devices and Deployment",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862417",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-windows-commercial-devices-and-deployment-redmond"
+  },
+  {
+    "job_title": "Software Engineer II, Microsoft Entra",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876153",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-microsoft-entra-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer – Data",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879336",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-data-redmond"
+  },
+  {
+    "job_title": "Senior eCAD Application Engineer - AI & Automation",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1842825",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-ecad-application-engineer-ai-automation-redmond"
+  },
+  {
+    "job_title": "Solution Engineer Copilot",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878822",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-solution-engineer-copilot-redmond"
+  },
+  {
+    "job_title": "Digital Solution Engineer—Cloud & AI Apps",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877875",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-digital-solution-engineer-cloud-ai-apps-redmond"
+  }
+]
