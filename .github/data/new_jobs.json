@@ -1,22 +1,13 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering MTS",
-    "job_city": "Argentina - Buenos Aires",
-    "job_state": "US",
+    "job_title": "Technical Support Engineer - Windows Performance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1846791",
     "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr307767/software-engineering-mts/",
-    "id": "salesforce-software-engineering-mts-argentina-buenos-aires"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Applied Emerging Talent (2026)",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor's or Master’s degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience0-1 years of experience in software engineering or a relevant fieldProficiency with JavaScript, React, and some backend languages (we use Python)Some experience with relational databases like Postgres/MySQLInterest in AI/ML (direct experience not required)Ability to move fast in an environment where things are sometimes loosely defined and may have competing priorities or deadlines Own the development of new customer-facing ChatGPT and OpenAI API features and product experiences end-to-endTalk to users to understand their problems and design solutions to address themCollaborate with a cross-functional team of engineers, researchers, product managers, designers, and operations folks to create cutting-edge productsOptimize applications for speed and scaleCreate a diverse and inclusive culture that makes all feel welcome.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163275216-software-engineer-applied-emerging-talent-2026",
-    "id": "ai-jobs-software-engineer-applied-emerging-talent-2026-san-francisco"
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-technical-support-engineer-windows-performance-redmond"
   }
 ]
