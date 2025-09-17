@@ -1,23 +1,66 @@
 [
   {
-    "employer_name": "Dell",
-    "job_title": "Security Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "Marvel Technology",
+    "job_title": "Logistics Analyst Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Principal Software Engineer - AI-MLlocationsHopkinton, Massachusetts, United Statesposted onPosted 5 Days AgoR277578Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 12 Days AgoR276923Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 8 Days AgoR276921Software Senior Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 8 Days AgoR276913Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR276924Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted 7 Days AgoR276871Software Senior Principal Engineer, Storageremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 15 Days AgoR276880Firmware Engineer (BIOS Embedded Controller)locations2 Locationsposted onPosted 13 Days AgoR276261Dell CSG Hardware Engineering Rotation ProgramlocationsAustin, Texas, United Statesposted onPosted 8 Days AgoR276559Electrical Senior Principal Engineering Technologistremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted YesterdayR268158Security Engineerremote typeOnsitelocations2 Locationsposted onPosted TodayR274791Developer Experience Principal EngineerlocationsHopkinton, Massachusetts, United Statesposted onPosted YesterdayR273654Global Operations Undergrad Internremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 5 Days AgoR275493Hardware Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted 20 Days AgoR268810Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted 12 Days AgoR276365Senior Test and Infrastructure Engineerremote typeOnsitelocations2 Locationsposted onPosted 30+ Days AgoR275102Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted YesterdayR276110Senior Principal Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 7 Days AgoR268809Client Systems Engineer - Northeastremote typeFieldlocations3 Locationsposted onPosted 21 Days AgoR266464Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 12 Days AgoR272350.",
-    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Security-Engineer_R274791?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "dell-security-engineer-2-locations"
+    "job_description": "• Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 14 Days Ago2501691Logistics Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502277Principal Analog Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2301134Senior Staff Verification EngineerlocationsWestborough, MAposted onPosted Today2501495Application EngineerlocationsSanta Clara, CAposted onPosted Today2501314Senior Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted Today2501309Senior Principal IC Design Engineerlocations3 Locationsposted onPosted Today2500354Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501494Senior Principal Verification EngineerlocationsSanta Clara, CAposted onPosted Today2501500Principal Engineer, Design Verificationlocations2 Locationsposted onPosted Today2501673Design Verification Engineer, Senior StafflocationsSanta Clara, CAposted onPosted Today2501199Principal Digital IC Design Engineerlocations2 Locationsposted onPosted Today2501752Design Verification Staff Engineerlocations2 Locationsposted onPosted Today2501795Principal Verification EngineerlocationsUS - ID - Boiseposted onPosted Today2501499Sr.\n• Staff Design Verification EngineerlocationsWestborough, MAposted onPosted Today2501804Principal Engineer, Design VerificationlocationsWestborough, MAposted onPosted Today2501550Director of Design VerificationlocationsWestborough, MAposted onPosted Today2501963Principal Analog/Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2500942Senior Staff Analog/Mixed-Signal Design Engineer - RF/SiPho/TIA/CMOS/SiGelocationsWestlake Village, CAposted onPosted Today2500592.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Logistics-Analyst-Intern---Bachelor-s-Degree_2502277-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-logistics-analyst-intern-bachelor-s-degree-santa-clara"
   },
   {
-    "job_title": "Software Development Engineer I",
-    "employer_name": "GM financial",
-    "job_city": "Arlington",
+    "employer_name": "AMD",
+    "job_title": "Software Development Engineer - Graphics",
+    "job_city": "US",
     "job_state": "TX",
-    "job_description": "Join GM financial in this exciting opportunity.",
-    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/557",
-    "job_posted_at": "3w",
+    "job_posted_at": "1d",
+    "job_description": "• Solid understanding of Software Engineering principles, Data structure, algorithms, Operating Systems concepts and multithread programming Excellent design and code development skills, familiarity with Linux and modern software tools and techniques for development Good analytical and problem-solving skills Expert knowledge and hands-on experience in C, C++ Knowledge of a Graphics Programming Language, such as Vulkan, OpenGL or DX12.\n• Solid understanding of object-oriented-design principles Bachelor’s or Master’s degree in Computer/Software Engineering, Computer Science, or related technical discipline AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings Work very closely with dev teams and Project Managers to drive results.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71393/login",
+    "id": "amd-software-development-engineer-graphics-us"
+  },
+  {
+    "job_title": "Back End Software Engineer - XBOX",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1851413",
+    "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "gm-financial-software-development-engineer-i-arlington"
+    "id": "microsoft-back-end-software-engineer-xbox-redmond"
+  },
+  {
+    "job_title": "Senior Applied AI Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879194",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-applied-ai-engineer-redmond"
+  },
+  {
+    "job_title": "Telemetry Engineering Operations Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877912",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-telemetry-engineering-operations-manager-redmond"
+  },
+  {
+    "job_title": "Customer Experience Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857513",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-customer-experience-engineer-redmond"
   }
 ]
