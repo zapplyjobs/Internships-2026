@@ -1,67 +1,76 @@
 [
   {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Developer Associate",
-    "job_city": "USA MD Annapolis Junction",
+    "employer_name": "Broadcom",
+    "job_title": "Technical Support Engineer III - Storage",
+    "job_city": "2 Locations",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ207444?q=software+engineering",
-    "id": "general-dynamics-software-developer-associate-usa-md-annapolis-junction"
+    "job_description": "• R&D Principal Software Engineer - Security EngineeringlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 5 Days AgoR023746 VCF Senior Technical Support Engineer - StoragelocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted TodayR023727 Country Manager - Singapore and ASEANlocationsSGP-Singapore Afro Asia SOtime typeFull timeposted onPosted 6 Days AgoR023707 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 7 Days AgoR023731 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted TodayR023725 Principal Engineer - Lifecycle ManagementlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted TodayR023737 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 7 Days AgoR023724.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CO-Broomfield/Technical-Support-Engineer-III----Storage_R023730?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-technical-support-engineer-iii-storage-2-locations"
   },
   {
-    "job_title": "Machine Learning Engineer II",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858486",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-machine-learning-engineer-ii-redmond"
+    "employer_name": "Marvel Technology",
+    "job_title": "Physical Design Engineer Intern - Bachelor's Degree",
+    "job_city": "Burlington",
+    "job_state": "VT",
+    "job_posted_at": "1d",
+    "job_description": "• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted Today2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Today2500457Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Physical Design Engineer Intern - Bachelor's DegreelocationsBurlington, VTposted onPosted Today2502382Design for Test Engineering Intern - Bachelors DegreelocationsWestborough, MAposted onPosted Today2502682Director Product MarketinglocationsSanta Clara, CAposted onPosted Today2502189Senior Principal Technical Program Managerlocations4 Locationsposted onPosted Today2502196Product Management DirectorlocationsSanta Clara, CAposted onPosted Today2501573Senior Staff Engineer 3rd Party IP ManagementlocationsSanta Clara, CAposted onPosted Today2501724Director, Product MarketinglocationsSanta Clara, CAposted onPosted Today2500410Silicon Senior Principal Engineering Program Manager (Cloud Data Center)locations3 Locationsposted onPosted Today2501927Cloud Custom Silicon Senior Director of Program Managementlocations3 Locationsposted onPosted Today2501609Senior Director Product Line Management - DCIlocationsSanta Clara, CAposted onPosted Today2500660Product Marketing Directorlocations2 Locationsposted onPosted Today2501738Assistant General Counsel, Global Trade CompliancelocationsUS - CA - Santa Clara - Marvell Parkposted onPosted Today2501771Senior Staff Analog Mixed Signal IC Design EngineerlocationsSanta Clara, CAposted onPosted Today2502030Senior Staff Physical Design Engineer - Static Timing AnalysislocationsSanta Clara, CAposted onPosted Today2500331Principal Analog/Mixed-Signal CAD EngineerlocationsSanta Clara, CAposted onPosted Today2501021Senior Distinguished EngineerlocationsSanta Clara, CAposted onPosted Today2501052Senior Principal Optical Modeling Architectlocations2 Locationsposted onPosted Today2500680.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Burlington-VT/Physical-Design-Engineer-Intern---Bachelor-s-Degree_2502382?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-physical-design-engineer-intern-bachelor-s-degree-burlington"
   },
   {
-    "job_title": "Senior AI Developer Tools Advocate",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863170",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-ai-developer-tools-advocate-redmond"
-  },
-  {
-    "job_title": "Senior Machine Learning Engineer (Multiple Positions)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876528",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-machine-learning-engineer-multiple-positions-redmond"
-  },
-  {
-    "job_title": "Principal Applied AI Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879782",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-applied-ai-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "San Jose",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Cloud Firestore",
+    "job_city": "San Francisco",
     "job_state": "CA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Cloud Firestore",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78580265663767238-software-engineer-cloud-firestore?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-cloud-firestore-san-francisco"
+  },
+  {
+    "job_title": "Senior Machine Learning Engineer, Infrastructure",
+    "employer_name": "Airbnb",
+    "job_city": "United States",
+    "job_state": "CA",
+    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
+    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-san-jose"
+    "id": "airbnb-senior-machine-learning-engineer-infrastructure-united-states"
+  },
+  {
+    "job_title": "Software Engineer 2",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879845",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-2-redmond"
+  },
+  {
+    "job_title": "Senior Customer Experience Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878005",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-customer-experience-engineer-redmond"
+  },
+  {
+    "job_title": "Applied AI Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876010",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-applied-ai-engineer-ii-redmond"
   }
 ]
