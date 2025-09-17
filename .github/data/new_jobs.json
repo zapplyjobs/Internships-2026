@@ -1,44 +1,78 @@
 [
   {
-    "employer_name": "Cisco",
-    "job_title": "Technical Systems Engineer II (Full Time)",
-    "job_city": "RTP",
-    "job_state": "North Carolina",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technical Systems Engineer II (Full Time)",
-    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Technical-Systems-Engineer-II-Full-Time/1449883",
-    "id": "cisco-technical-systems-engineer-ii-full-time-rtp"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "SaaS and Cloud Access Security Platform Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Staff Application EngineerlocationsSanta Clara, CAposted onPosted Today2502136Principal Field Application Engineer - Systems Solutions and ArchitecturelocationsSanta Clara, CAposted onPosted Today2501404Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Today2500479Distinguished Engineer, Switch ArchitectlocationsSanta Clara, CAposted onPosted Today2500949Senior Director, Global Account ManagementlocationsSanta Clara, CAposted onPosted Today2502636Senior Staff Engineer - Applications EngineeringlocationsSanta Clara, CAposted onPosted Today2501475Digital Design Engineer, PrincipallocationsSanta Clara, CAposted onPosted Today2502091Supply Chain Analyst Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Today2502278.\n• Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Today2500457Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Today2501559Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 14 Days Ago2501691Senior Staff Physical Design Engineer - Static Timing AnalysislocationsSanta Clara, CAposted onPosted Today2500331Principal Analog/Mixed-Signal CAD EngineerlocationsSanta Clara, CAposted onPosted Today2501021Senior Distinguished EngineerlocationsSanta Clara, CAposted onPosted Today2501052Senior Principal Optical Modeling Architectlocations2 Locationsposted onPosted Today2500680Distinguished Engineer - Optical System ArchitectlocationsSanta Clara, CAposted onPosted Today2500679SaaS and Cloud Access Security Platform Engineerlocations3 Locationsposted onPosted Today2500068Senior Distinguished Custom Memory Architect EngineerlocationsSanta Clara, CAposted onPosted Today2402690Sr.\n• Principal Custom Memory Architectlocations2 Locationsposted onPosted Today2500813Senior Staff Product EngineerlocationsSanta Clara, CAposted onPosted Today2501202Sr.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/SaaS-and-Cloud-Access-Security-Platform-Engineer_2500068?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-saas-and-cloud-access-security-platform-engineer-3-locations"
-  },
-  {
-    "job_title": "Senior Machine Learning Engineer, AI Experience ",
-    "employer_name": "Airbnb",
-    "job_city": "United States",
+    "employer_name": "Honeywell",
+    "job_title": "Electrical Engr",
+    "job_city": "Torrance",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/6764143?gh_jid=6764143",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-senior-machine-learning-engineer-ai-experience-united-states"
+    "job_posted_at": "19h",
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118874/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-electrical-engr-torrance"
   },
   {
-    "job_title": "Software engineer, new grad",
-    "employer_name": "Watershed",
-    "job_city": "San Francisco",
-    "job_state": "Locations",
-    "job_description": "Join Watershed in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8",
+    "job_title": "Senior Incident Response Engineer-CIRT",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852677",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "watershed-software-engineer-new-grad-san-francisco"
+    "id": "microsoft-senior-incident-response-engineer-cirt-redmond"
+  },
+  {
+    "job_title": "Principal Innovation Hub Solution Engineer, AI Business Solutions",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863772",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-innovation-hub-solution-engineer-ai-business-solutions-redmond"
+  },
+  {
+    "job_title": "Software Engineer II - Finance Data & Experiences",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832381",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-finance-data-experiences-redmond"
+  },
+  {
+    "job_title": "Principal Systems Engineer - Hardware",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858302",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-systems-engineer-hardware-redmond"
+  },
+  {
+    "job_title": "Critical Environment Electrical Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876858",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-critical-environment-electrical-engineer-redmond"
+  },
+  {
+    "job_title": "Autonomous Vehicle Safety & Compliance Engineer",
+    "employer_name": "Lyft",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
+    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8155142002?gh_jid=8155142002",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "lyft-autonomous-vehicle-safety-compliance-engineer-new-york"
   }
 ]
