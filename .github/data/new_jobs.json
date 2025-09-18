@@ -1,13 +1,23 @@
 [
   {
-    "job_title": "Solution Engineer, CS and CX",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Photos, Android",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Photos, Android",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103529040807109318-software-engineer-photos-android?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-photos-android-new-york"
+  },
+  {
+    "job_title": "Solution Engineering IC4",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879863",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879335",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cs-and-cx-redmond"
+    "id": "microsoft-solution-engineering-ic4-redmond"
   }
 ]
