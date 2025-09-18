@@ -1,110 +1,12 @@
 [
   {
     "employer_name": "IBM",
-    "job_title": "Software Engineer Intern- Entry Level Sales Program",
-    "job_city": "ship",
-    "job_state": "US",
+    "job_title": "P-TECH at IBM University Co-op",
+    "job_city": "",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer Intern- Entry Level Sales Program 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58481&source=WEB_Search_NA",
-    "id": "ibm-software-engineer-intern-entry-level-sales-program-ship"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "CAD Flow Development Engineer",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• BS in Computer Science or Electrical or Computer Engineering (or equivalent experience) with 2+ years of CAD or software development experience.\n• MS preferredSoftware engineering experience with software design, algorithms, data structures, testingFamiliarity with Verilog and ASIC implementation flow and toolsExperience developing flows and/or tools for chip designProficiency in at least one of Python, C/C++, Tcl, Perl Knowledge or experience with logic synthesis, physical design, formal equivalence checking.\n• Experience in other ASIC methodologies such as RTL Lint, CDC, DFT or STA.\n• Familiarity with Machine Learning/Deep Learning You will architect highly automated and customizable design software incorporating logic/physical synthesis, design planning, and equivalence checking for industry-leading chip designsApply software engineering practices to streamline development and automate testing and deployment of our software.\n• Be responsible for design, implementation and testing of in-house CAD softwareWork with chip design teams and leading EDA vendors to evaluate the industry's most powerful design implementation and analysis toolsProvide support for ASIC tools and flows.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163423162-cad-flow-development-engineer",
-    "id": "ai-jobs-cad-flow-development-engineer-us"
-  },
-  {
-    "job_title": "Principal Software Engineer(MAI Copilot)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880122",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-mai-copilot-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineer (Exchange)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878101",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-exchange-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer(Data)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878681",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-data-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer (MAI Copilot)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877723",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-mai-copilot-redmond"
-  },
-  {
-    "job_title": "Software engineer – New grad",
-    "employer_name": "Watershed",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Watershed in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "watershed-software-engineer-new-grad-sf"
-  },
-  {
-    "job_title": "Embedded Cybersecurity Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Cedar Rapids",
-    "job_state": "IA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-embedded-cybersecurity-software-engineer-i-cedar-rapids"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "RTX",
-    "job_city": "Cedar Rapids",
-    "job_state": "IA",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792373",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "rtx-software-engineer-i-cedar-rapids"
-  },
-  {
-    "job_title": "Software Engineer – Early Career",
-    "employer_name": "Alumni Ventures",
-    "job_city": "Andover",
-    "job_state": "MA",
-    "job_description": "Join Alumni Ventures in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "alumni-ventures-software-engineer-early-career-andover"
+    "job_description": "software engineering job for the role P-TECH at IBM University Co-op",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=46399&source=WEB_Search_NA",
+    "id": "ibm-p-tech-at-ibm-university-co-op-"
   }
 ]
