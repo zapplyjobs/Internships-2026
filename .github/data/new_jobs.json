@@ -1,24 +1,56 @@
 [
   {
-    "job_title": "Senior Security Engineer",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering SMTS, LMTS, PMTS - Applied AI/ML Team",
+    "job_city": "Texas - Dallas",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences 25 Productivity Tools that Power Salesforce Engineering Teams Unlocking Real-Time Insights: Engineering the Hyperforce Experience for All How is India’s Brilliant Big Data Processing Team Engineering Salesforce Data Cloud.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309961/software-engineering-smts-lmts-pmts-applied-aiml-team/",
+    "id": "salesforce-software-engineering-smts-lmts-pmts-applied-ai-ml-team-texas-dallas"
+  },
+  {
+    "job_title": "Security Assurance Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858054",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1844250",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-security-engineer-redmond"
+    "id": "microsoft-security-assurance-engineering-manager-redmond"
   },
   {
-    "job_title": "Machine Learning Engineer – Entry Level",
-    "employer_name": "Toyota Connected",
-    "job_city": "Plano",
-    "job_state": "TX",
-    "job_description": "Join Toyota Connected in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=8174950002",
+    "job_title": "Software Engineer II – Office on Windows Performance Focus",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877098",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "toyota-connected-machine-learning-engineer-entry-level-plano"
+    "id": "microsoft-software-engineer-ii-office-on-windows-performance-focus-redmond"
+  },
+  {
+    "job_title": "Senior Cloud & AI Solution Engineer - AI Applications",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856273",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-cloud-ai-solution-engineer-ai-applications-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer - Azure Core Storage",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843960",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-azure-core-storage-redmond"
   }
 ]
