@@ -1,67 +1,24 @@
 [
   {
-    "employer_name": "Magna International",
-    "job_title": "DevOps Engineer",
-    "job_city": "Lowell",
-    "job_state": "Massachusetts",
-    "job_posted_at": "1d",
-    "job_description": "• Lead Software EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00183560Senior Software EngineerlocationsLowell, Massachusetts, USposted onPosted 24 Days AgoR00199562Software Engineer, Industrial IOTlocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00190451Software Engineer I - Thermal CameralocationsGoleta, California, USposted onPosted 30+ Days AgoR00193769Principal Software Engineer – Linux/BSPlocationsSouthfield, Michigan, USposted onPosted 22 Days AgoR00205992Solutions Engineer, SoftwarelocationsTroy, Michigan, USposted onPosted 30+ Days AgoR00177592Engineer Sr Staff - SoftwarelocationsGoleta, California, USposted onPosted 30+ Days AgoR00182947Principal Software Engineer - Image Signal ProcessinglocationsSouthfield, Michigan, USposted onPosted 21 Days AgoR00205993DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted TodayR00211068QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201549Sr.\n• Electrical EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164189Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00197256Senior QA EngineerlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00201689Sr.\n• DevOps EngineerlocationsLowell, Massachusetts, USposted onPosted 13 Days AgoR00209295Senior Full Stack Software Developerlocations2 Locationsposted onPosted 30+ Days AgoR00185812Lead, Linux DevOps Support Engineeringlocations2 Locationsposted onPosted 30+ Days AgoR00164198Senior Data ScientistlocationsLowell, Massachusetts, USposted onPosted 30+ Days AgoR00164194Senior Solutions Architect - Industry 4.\n• 0 , IIoTlocations2 Locationsposted onPosted 30+ Days AgoR00192135IOT Architectlocations2 Locationsposted onPosted 30+ Days AgoR00197257Tooling EngineerlocationsEthridge, Tennessee, USposted onPosted 29 Days AgoR00206379.",
-    "job_apply_link": "https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Lowell-Massachusetts-US/DevOps-Engineer_R00211068?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "magna-international-devops-engineer-lowell"
-  },
-  {
-    "job_title": "Software Engineering Manager",
+    "job_title": "Business Applications Developer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879045",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858240",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineering-manager-redmond"
+    "id": "microsoft-business-applications-developer-redmond"
   },
   {
-    "job_title": "Rust Software Engineer",
+    "job_title": "AI Business Process Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880348",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876017",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-rust-software-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer - .NET Core",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877775",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-net-core-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineering: Internship Opportunities - Ignite Program for People with Disabilities",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878837",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-internship-opportunities-ignite-program-for-people-with-disabilities-redmond"
-  },
-  {
-    "job_title": "Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880349",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-internship-opportunities-ignite-program-for-people-with-disabilities-redmond"
+    "id": "microsoft-ai-business-process-solution-engineer-redmond"
   }
 ]
