@@ -1,24 +1,44 @@
 [
   {
-    "job_title": "Business Applications Developer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858240",
+    "employer_name": "ABB",
+    "job_title": "Application Engineering Intern Lombard- Summer",
+    "job_city": "Lombard",
+    "job_state": "Illinois",
     "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-business-applications-developer-redmond"
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026",
+    "id": "abb-application-engineering-intern-lombard-summer-lombard"
   },
   {
-    "job_title": "AI Business Process Solution Engineer",
+    "employer_name": "Honeywell",
+    "job_title": "Chemical Lab Analyst",
+    "job_city": "Metropolis",
+    "job_state": "IL",
+    "job_posted_at": "3d",
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Dates08/11/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118470/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-chemical-lab-analyst-metropolis"
+  },
+  {
+    "job_title": "Senior Physical Design Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876017",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876452",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-ai-business-process-solution-engineer-redmond"
+    "id": "microsoft-senior-physical-design-engineer-redmond"
+  },
+  {
+    "job_title": "Critical Infrastructure Network Engineering Manager",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1854385",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-critical-infrastructure-network-engineering-manager-redmond"
   }
 ]
