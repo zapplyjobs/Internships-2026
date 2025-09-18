@@ -1,98 +1,24 @@
 [
   {
-    "employer_name": "Marvel Technology",
-    "job_title": "Design Verification Engineer",
-    "job_city": "Westborough",
-    "job_state": "MA",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Product Engineerlocations2 Locationsposted onPosted Today2501624Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501514IC Validation Engineer - Masters DegreelocationsWestlake Village, CAposted onPosted Today2502809Director Product Management - Memory SubsystemlocationsSanta Clara, CAposted onPosted Today2502029Senior Principal Engineer - AI/Firmware EngineerlocationsSanta Clara, CAposted onPosted Today2501009Principal Software EngineerlocationsSanta Clara, CAposted onPosted Today2501689.\n• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted Yesterday2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Yesterday2500457Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Yesterday2501559Principal Optical EngineerlocationsSanta Clara, CAposted onPosted Today2501175Design Verification EngineerlocationsWestborough, MAposted onPosted Today2502573Senior Principal Design EngineerlocationsMorrisville, NCposted onPosted Today2502842Principal Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)locationsSanta Clara, CAposted onPosted Today2501700Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501515Test Hardware EngineerlocationsSanta Clara, CAposted onPosted Today2502222Senior Project ManagerlocationsSanta Clara, CAposted onPosted Today2501756Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted Today2501466Sr.\n• Principal Photonics Engineerlocations2 Locationsposted onPosted Today2501627Staff Applications EngineerlocationsSanta Clara, CAposted onPosted Today2501671Sr.\n• Principal Thermal, Automation and Mechanical Engineerlocations2 Locationsposted onPosted Today2501626Sr.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Westborough-MA/Design-Verification-Engineer_2502573?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-design-verification-engineer-westborough"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Test Hardware Engineer",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Principal Product Engineerlocations2 Locationsposted onPosted Today2501624Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501514IC Validation Engineer - Masters DegreelocationsWestlake Village, CAposted onPosted Today2502809Director Product Management - Memory SubsystemlocationsSanta Clara, CAposted onPosted Today2502029Senior Principal Engineer - AI/Firmware EngineerlocationsSanta Clara, CAposted onPosted Today2501009Principal Software EngineerlocationsSanta Clara, CAposted onPosted Today2501689.\n• Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted Yesterday2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted Yesterday2500457Senior Principal Engineer, Architecture ASIC / Systemlocations5 Locationsposted onPosted Yesterday2501559Principal Optical EngineerlocationsSanta Clara, CAposted onPosted Today2501175Design Verification EngineerlocationsWestborough, MAposted onPosted Today2502573Senior Principal Design EngineerlocationsMorrisville, NCposted onPosted Today2502842Principal Professional – Oracle EBS / Oracle Cloud Supply Chain (Technical, AI, and High-Tech Industry Expertise)locationsSanta Clara, CAposted onPosted Today2501700Hardware & Silicon Validation Senior Staff EngineerlocationsSanta Clara, CAposted onPosted Today2501515Test Hardware EngineerlocationsSanta Clara, CAposted onPosted Today2502222Senior Project ManagerlocationsSanta Clara, CAposted onPosted Today2501756Staff Validation EngineerlocationsUS - NY - Hudson Valleyposted onPosted Today2501466Sr.\n• Principal Photonics Engineerlocations2 Locationsposted onPosted Today2501627Staff Applications EngineerlocationsSanta Clara, CAposted onPosted Today2501671Sr.\n• Principal Thermal, Automation and Mechanical Engineerlocations2 Locationsposted onPosted Today2501626Sr.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Hardware-Engineer_2502222?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-test-hardware-engineer-santa-clara"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Hardware Engr",
-    "job_city": "Clearwater",
-    "job_state": "FL",
-    "job_posted_at": "2d",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/117953/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-hardware-engr-clearwater"
-  },
-  {
-    "job_title": "Backend Engineer/API, Payments and Risk (US)",
-    "employer_name": "Stripe",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6163230",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-backend-engineer-api-payments-and-risk-us-us"
-  },
-  {
-    "job_title": "Senior Product Designer - Developer Platform",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-product-designer-developer-platform-remote-usa"
-  },
-  {
-    "job_title": "Senior Staff Software Engineer, Backend - (Platform - Core Automation)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7171141?gh_jid=7171141",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-backend-platform-core-automation-remote-usa"
-  },
-  {
-    "job_title": "Software Engineer, Blockchain Platform (Blockchain Enablement)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-blockchain-platform-blockchain-enablement-remote-usa"
-  },
-  {
-    "job_title": "Manager, Field Engineering",
-    "employer_name": "Databricks",
-    "job_city": "Northeast - United States",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7830778002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-manager-field-engineering-northeast-united-states"
-  },
-  {
-    "job_title": "Software Engineer II – Kernel, Drivers & Optics",
+    "job_title": "Senior Security Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873586",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1858054",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-kernel-drivers-optics-redmond"
+    "id": "microsoft-senior-security-engineer-redmond"
+  },
+  {
+    "job_title": "Machine Learning Engineer – Entry Level",
+    "employer_name": "Toyota Connected",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_description": "Join Toyota Connected in this exciting opportunity.",
+    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=8174950002",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "toyota-connected-machine-learning-engineer-entry-level-plano"
   }
 ]
