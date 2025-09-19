@@ -1,57 +1,33 @@
 [
   {
-    "job_title": "Senior Cloud Network Engineer - Azure Fiber & AI",
+    "employer_name": "General Dynamics",
+    "job_title": "Full-Stack Software Engineer",
+    "job_city": "USA VA Chantilly",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Full-Stack-Software-Engineer--TS-SCI-with-Poly-REQUIRED-_RQ203155?q=software+engineering",
+    "id": "general-dynamics-full-stack-software-engineer-usa-va-chantilly"
+  },
+  {
+    "employer_name": "Workday",
+    "job_title": "Automation Engineer",
+    "job_city": "USA",
+    "job_state": "CO",
+    "job_posted_at": "3d",
+    "job_description": "• Senior CDP Software Engineerremote typeFlexlocationsUSA, CA, Pleasantonposted onPosted 16 Days AgoJR-0099865Principal, Software Engineer (Distributed Systems)remote typeOnsitelocationsUSA, CA, Pleasantonposted onPosted 30+ Days AgoJR-0098309Software Engineer, DBaas - US Federalremote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097446Software Development Engineerremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 11 Days AgoJR-0097283Principal Software Engineer (Full Stack) - Evisort AIremote typeFlexlocations2 Locationsposted onPosted 2 Days AgoJR-0098963Manager, Software Development Engineeringremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 8 Days AgoJR-0100317Sr Software Development Engineer (Full Stack)remote typeFlexlocations6 Locationsposted onPosted 2 Days AgoJR-0099508Principal Software Development Engineer, Full Stackremote typeFlexlocations6 Locationsposted onPosted 2 Days AgoJR-0100545Software Development Engineer, DevOps (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0095837Software Development Engineer, DevOps (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097414Sr Software Development Engineer (Full Stack)remote typeFlexlocationsUSA, WA, Seattleposted onPosted YesterdayJR-0099149Sr Manager, Software Development Engineering - ASORremote typeFlexlocations3 Locationsposted onPosted 30+ Days AgoJR-0099077Software Development Engineer (Full Stack) - Evisort AIremote typeFlexlocations2 Locationsposted onPosted 2 Days AgoJR-0099269Sr.\n• Software Development Engineer - DevOps (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0094127Software Development Engineer, DevOps - Lifecycle Platform (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097425Senior or Intermediate Software Development Engineer - DevOps (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 30+ Days AgoJR-0097884Intermediate MLOps Engineer - US Federalremote typeFlexlocations3 Locationsposted onPosted YesterdayJR-0097659Senior Devops Engineer (US Federal)remote typeFlexlocationsUSA, VA, McLeanposted onPosted 11 Days AgoJR-0094674Senior Delivery Manager - HiredScoreremote typeFlexlocationsUSA, GA, Atlantaposted onPosted 2 Days AgoJR-0100318Automation Engineerremote typeFlexlocationsUSA, CO, Boulderposted onPosted 3 Days AgoJR-0099151.",
+    "job_apply_link": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Automation-Engineer_JR-0099151?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "workday-automation-engineer-usa"
+  },
+  {
+    "job_title": "Software Engineer - Security for AI",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864268",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881105",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-cloud-network-engineer-azure-fiber-ai-redmond"
-  },
-  {
-    "job_title": "Software Engineer (Networking & Telemetry Systems)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877550",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-networking-telemetry-systems-redmond"
-  },
-  {
-    "job_title": "Senior Verification Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879239",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-verification-engineer-redmond"
-  },
-  {
-    "job_title": "Software Engineer",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8177727002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-software-engineer-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Senior Software Engineer, Lyft Ads",
-    "employer_name": "Lyft",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-senior-software-engineer-lyft-ads-new-york"
+    "id": "microsoft-software-engineer-security-for-ai-redmond"
   }
 ]
