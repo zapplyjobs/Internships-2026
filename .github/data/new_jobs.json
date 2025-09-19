@@ -1,35 +1,131 @@
 [
   {
-    "job_title": "Software Engineer, Application Security",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "employer_name": "Honeywell",
+    "job_title": "HVAC Controls Traveling Field Service Tech - Minneapolis/St. Paul - $5K Sign-On Bonus",
+    "job_city": "Minneapolis",
+    "job_state": "MN",
+    "job_posted_at": "3w",
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Honeywell’s ACST team is seeking an experienced Export Classifier-Sr.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116236/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-hvac-controls-traveling-field-service-tech-minneapolis-st-paul-5k-sign-on-bonus-minneapolis"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Hardware Engineer",
+    "job_city": "Fort Washington",
+    "job_state": "PA",
+    "job_posted_at": "2w",
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Honeywell’s ACST team is seeking an experienced Export Classifier-Sr.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/116090/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-hardware-engineer-fort-washington"
+  },
+  {
+    "employer_name": "Honeywell",
+    "job_title": "Experience Inventory Control Assistant",
+    "job_city": "Chandler",
+    "job_state": "AZ",
+    "job_posted_at": "1w",
+    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Dates08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• #Futureshaper Senior Advanced Software Engr Locations Mason, OH, United States (Hybrid) Posting Dates08/29/2025 Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Dates08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Honeywell’s ACST team is seeking an experienced Export Classifier-Sr.",
+    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/117207/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "honeywell-experience-inventory-control-assistant-chandler"
+  },
+  {
+    "job_title": "Backend Engineer, Internal Identity",
+    "employer_name": "Stripe",
+    "job_city": "N/A",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7261266",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-application-security-remote-usa"
+    "id": "stripe-backend-engineer-internal-identity-n-a"
   },
   {
-    "job_title": "Senior Software Engineer - Microsoft Ads",
+    "job_title": "Software Engineer - Azure Real-time Messaging Services",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877448",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878265",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-microsoft-ads-redmond"
+    "id": "microsoft-software-engineer-azure-real-time-messaging-services-redmond"
   },
   {
-    "job_title": "Senior Security Assurance Engineer",
+    "job_title": "Senior Software Engineer, Data Platform (CoreAI)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877968",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878871",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-security-assurance-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-data-platform-coreai-redmond"
+  },
+  {
+    "job_title": "Senior Software Engineer – Microsoft Teams",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879071",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-software-engineer-microsoft-teams-redmond"
+  },
+  {
+    "job_title": "Software Engineer I",
+    "employer_name": "UiPath",
+    "job_city": "Bellevue",
+    "job_state": "WA",
+    "job_description": "Join UiPath in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/uipath/d83070a1-72b3-408f-a0ab-7d88388addd7/application",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "uipath-software-engineer-i-bellevue"
+  },
+  {
+    "job_title": "Entry Level Software Engineer - Flight Simulation",
+    "employer_name": "The Boeing Company",
+    "job_city": "Hazelwood",
+    "job_state": "MO",
+    "job_description": "Join The Boeing Company in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "the-boeing-company-entry-level-software-engineer-flight-simulation-hazelwood"
+  },
+  {
+    "job_title": "Data Engineer I",
+    "employer_name": "Centene",
+    "job_city": "Florida",
+    "job_state": "Locations",
+    "job_description": "Join Centene in this exciting opportunity.",
+    "job_apply_link": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1600164",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "centene-data-engineer-i-florida"
+  },
+  {
+    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
+    "employer_name": "Galileo Financial Technologies",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_description": "Join Galileo Financial Technologies in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/galileofinancialtechnologies/jobs/7174922003",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "galileo-financial-technologies-new-grad-software-engineer-backend-developer-sofi-money-nyc"
+  },
+  {
+    "job_title": "New Grad – Software Engineer - Backend Developer - Sofi Money",
+    "employer_name": "SoFi",
+    "job_city": "NYC",
+    "job_state": "Locations",
+    "job_description": "Join SoFi in this exciting opportunity.",
+    "job_apply_link": "https://www.sofi.com/careers/sofi-university/7174926003?gh_jid=7174926003",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "sofi-new-grad-software-engineer-backend-developer-sofi-money-nyc"
   }
 ]
