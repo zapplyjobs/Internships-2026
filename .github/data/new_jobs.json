@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Azure Infra Solution Engineer—Digital Natives",
+    "job_title": "Cloud & AI Solution Engineer - AI Applications",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862175",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880846",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-azure-infra-solution-engineer-digital-natives-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-redmond"
+  },
+  {
+    "job_title": "Software Engineer - Azure Networking",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861544",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-azure-networking-redmond"
   }
 ]
