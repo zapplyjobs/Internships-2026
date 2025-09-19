@@ -1,24 +1,24 @@
 [
   {
-    "job_title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-staff-software-engineer-backend-consumer-growth-remote-usa"
-  },
-  {
-    "job_title": "Senior Business Applications Developer",
+    "job_title": "Senior HW Quality Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879158",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879801",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-business-applications-developer-redmond"
+    "id": "microsoft-senior-hw-quality-engineer-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineer – Excel Web (IDC)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880534",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineer-excel-web-idc-redmond"
   }
 ]
