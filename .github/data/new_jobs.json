@@ -1,24 +1,45 @@
 [
   {
-    "job_title": "Cloud & AI Solution Engineer - AI Applications",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880846",
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Gen AI Applications, Google Ads Optimization",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-redmond"
+    "job_description": "software engineering job for the role Software Engineer, Gen AI Applications, Google Ads Optimization",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106980313317417670-software-engineer-gen-ai-applications-google-ads-optimization?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-gen-ai-applications-google-ads-optimization-mountain-view"
   },
   {
-    "job_title": "Software Engineer - Azure Networking",
+    "job_title": "Cloud and AI Solution Engineer - Infrastructure - Sydney",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861544",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876132",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-azure-networking-redmond"
+    "id": "microsoft-cloud-and-ai-solution-engineer-infrastructure-sydney-redmond"
+  },
+  {
+    "job_title": "Cloud and AI Solution Engineer - Infrastructure - Melbourne",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878106",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-and-ai-solution-engineer-infrastructure-melbourne-redmond"
+  },
+  {
+    "job_title": "App Developer-Low Code",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1856609",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-app-developer-low-code-redmond"
   }
 ]
