@@ -1,77 +1,35 @@
 [
   {
-    "employer_name": "Intel",
-    "job_title": "Engineering Analytics Developer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 29 Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 29 Days AgoJR0276773Software QA EngineerlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0276920GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 30+ Days AgoJR0276205GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted TodayJR0277307Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 2 Days AgoJR0276922Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0277472Physical Verification Application Engineerlocations3 Locationsposted onPosted 17 Days AgoJR0272754AI SoC CAD Software Development Lead EngineerlocationsUS, California, Santa Claraposted onPosted TodayJR0277470Triton Compiler Engineerlocations3 Locationsposted onPosted 9 Days AgoJR0277157Electrical Lab EngineerlocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277063Engineering Analytics Developerlocations4 Locationsposted onPosted TodayJR0277350Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 28 Days AgoJR0276881Data Scientist - Economicslocations3 Locationsposted onPosted 23 Days AgoJR0277007Middleware Engineerlocations2 Locationsposted onPosted 3 Days AgoJR0277311Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 29 Days AgoJR0276774Middleware Development Engineerlocations2 Locationsposted onPosted YesterdayJR0277312Senior Simulation Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR0276608Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276607Senior Simulation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 30+ Days AgoJR0276605.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Engineering-Analytics-Developer_JR0277350?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-engineering-analytics-developer-4-locations"
-  },
-  {
-    "employer_name": "RIVIAN",
-    "job_title": "Pose Software Engineer",
-    "job_city": "Palo Alto",
-    "job_state": "California US",
-    "job_posted_at": "1d",
-    "job_description": "• Research and development experience in one or more of the following areas:SLAM / Factor GraphsSensor calibrationSensor fusionStochastic estimation / Kalman filteringAutonomous Vehicles / ADAS Good team player with great communication and leadership skills.\n• Strong C/C++ programming skills and experience.\n• Ability to work in a fast-paced development environment.",
-    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26015/login",
-    "id": "rivian-pose-software-engineer-palo-alto"
-  },
-  {
-    "job_title": "Solution Engineer - Cloud & AI Data",
+    "job_title": "Senior Azure Customer Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849669",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1857489",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-data-redmond"
+    "id": "microsoft-senior-azure-customer-engineer-redmond"
   },
   {
-    "job_title": "Principal Design Verification Engineer",
+    "job_title": "Director Solution Engineer Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1863489",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877168",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-design-verification-engineer-redmond"
+    "id": "microsoft-director-solution-engineer-manager-redmond"
   },
   {
-    "job_title": "Software Engineer I - Backend",
-    "employer_name": "AppLovin",
-    "job_city": "Palo Alto",
+    "job_title": "Frontend Software Engineer – University Graduate 2026",
+    "employer_name": "Verkada",
+    "job_city": "San Mateo",
     "job_state": "CA",
-    "job_description": "Join AppLovin in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/applovin/jobs/4451556006",
-    "job_posted_at": "6mo",
+    "job_description": "Join Verkada in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
+    "job_posted_at": "1w",
     "job_employment_type": "FULLTIME",
-    "id": "applovin-software-engineer-i-backend-palo-alto"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Sev1Tech",
-    "job_city": "North Charleston",
-    "job_state": "SC",
-    "job_description": "Join Sev1Tech in this exciting opportunity.",
-    "job_apply_link": "https://careers-sev1tech.icims.com/jobs/9185/job?mobile=true&needsRedirect=false",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "sev1tech-software-engineer-i-north-charleston"
-  },
-  {
-    "job_title": "Product Security Engineer – New Grad",
-    "employer_name": "Chime",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Chime in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/chime/jobs/8101747002",
-    "job_posted_at": "1mo",
-    "job_employment_type": "FULLTIME",
-    "id": "chime-product-security-engineer-new-grad-sf"
+    "id": "verkada-frontend-software-engineer-university-graduate-2026-san-mateo"
   }
 ]
