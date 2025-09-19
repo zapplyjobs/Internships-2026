@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Senior HW Quality Engineer",
+    "job_title": "Software Engineering Intern",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879801",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880847",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-hw-quality-engineer-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineer – Excel Web (IDC)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880534",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-excel-web-idc-redmond"
+    "id": "microsoft-software-engineering-intern-redmond"
   }
 ]
