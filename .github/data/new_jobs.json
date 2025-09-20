@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Forward Deployed Software Engineer (Public Sector)",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "4h",
+    "job_description": "• Hold an active US security clearance or ability to obtain/maintain oneHave 5+ years of software engineering experience, with an emphasis on customer-facing rolesProficient in Python, Javascript, and relevant technologiesFamiliar with deployment models, including to cloud platforms (Azure, AWS) and the underlying infrastructure primitives (Kubernetes, Terraform)Can proactively identify opportunities for maximizing our customers’ business value through leveraging the OpenAI APIOwn outcomes end-to-end, and are willing to pick up whatever knowledge you're missing to get the job done to ensure both your team and our customers succeedSkilled communicator adept at explaining complex technical concepts to both technical and non-technical audiences with clarity and concisionLed complex technical projects and programs with many stakeholdersHave a humble attitude and an eagerness to help others with empathyOperate with high horsepower, are adept at frequent context switching and working on multiple projects at once with expansive ownership, and ruthlessly prioritizeThrive in dynamic environments and can navigate ambiguity with ease Deeply embed with our most strategic public sector customers, serving as their technical thought partner in ideating and directly developing novel full-stack applications on our platformLeverage your software engineering expertise in Python and JavaScript to create initial prototypes and contribute back durable product featuresProactively provide guidance to our customers on how to maximize business impact from their applications, accelerating their time to valueForge and manage relationships with our customers’ leadership and stakeholders to ensure their application’s successful deployment and scaleCollaborate closely with public sector teammates and cross-functional teams across the company to strategically drive our platform towards exceeding customer expectations.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163671752-forward-deployed-software-engineer-public-sector",
+    "id": "ai-jobs-forward-deployed-software-engineer-public-sector-"
+  }
+]
