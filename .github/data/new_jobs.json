@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Software Engineer 1 - International Card Services - Int Card & Risk Services Tech",
+    "employer_name": "American Express",
+    "job_city": "Plantation",
+    "job_state": "FL",
+    "job_description": "Join American Express in this exciting opportunity.",
+    "job_apply_link": "https://aexp.eightfold.ai/careers/job/30763120",
+    "job_posted_at": "4w",
+    "job_employment_type": "FULLTIME",
+    "id": "american-express-software-engineer-1-international-card-services-int-card-risk-services-tech-plantation"
+  },
+  {
+    "job_title": "Software Engineer – 2026 New Grad",
+    "employer_name": "WhatNot",
+    "job_city": "SF",
+    "job_state": "Locations",
+    "job_description": "Join WhatNot in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
+    "job_posted_at": "2w",
+    "job_employment_type": "FULLTIME",
+    "id": "whatnot-software-engineer-2026-new-grad-sf"
+  }
+]
