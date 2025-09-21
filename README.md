@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 264+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1161+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 264+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1152+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,11 +17,11 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1161 hot software engineering jobs
+🔥 **Current Positions:** 1152 hot software engineering jobs
 
 🏢 **Top Companies:** 264 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 88 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 87 premium opportunities
 
 📅 **Last Updated:** September 21, 2025
 
@@ -67,14 +67,14 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (99 positions)
+### ⭐ **FAANG+** (98 positions)
 
 #### 📦 **Amazon** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Development Engineer , WWGST Checkout Engineering | Austin, TX | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3084558/software-development-engineer-wwgst-checkout-engineering) | 5d |
 | Software Development Engineer, AWS Hardware Engineering | Cupertino, CA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering) | 5mo |
+| Software Development Engineer , WWGST Checkout Engineering | Austin, TX | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3084558/software-development-engineer-wwgst-checkout-engineering) | 5d |
 | Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering) | 3w |
 | Software Development Engineer, Kuiper Manufacturing Systems Engineering | Sunnyvale, CA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3071621/software-development-engineer-kuiper-manufacturing-systems-engineering) | 2w |
 | Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) | 4mo |
@@ -94,9 +94,9 @@
 | Software Engineer - Systems, Multiple Locations | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer - AI/ML, Multiple Locations | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Frontend Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
-| Software Engineer: Systems Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
-| Software Engineer: Fullstack Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Security Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
+| Software Engineer: Fullstack Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
+| Software Engineer: Systems Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Fullstack Intern Opportunities for University Students, Atlanta | Atlanta, Georgia | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View | Mountain View, California | [Apply](https://jobs.careers.microsoft.com) | 1w |
@@ -106,14 +106,14 @@
 | Product Management: Internship Opportunities | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 5d |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
-| Solution Engineer - Azure Digital Native | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1877774) | 1h |
-| Technical Support Engineering | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880969) | 4h |
+| Software Engineer - Microsoft Marketplace team | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879412) | 1h |
+| Solution Engineer - Azure Digital Native | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1877774) | 2h |
+| Technical Support Engineering | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880969) | 5h |
 | ​​Principal Software Engineer​ | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879884) | 1d |
 | Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1864981) | 1d |
 | Senior Azure Customer Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1857489) | 1d |
 | Software Engineer II - CTJ - Poly | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1851548) | 1d |
 | Director Solution Engineer Manager | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1877168) | 1d |
-| Solution Engineer - Cloud & AI Data | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1849669) | 1d |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 1mo |
 | Software Engineer | Remote 🏠 | [Apply](https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer) | 3w |
@@ -151,22 +151,21 @@
 
 </details>
 
-#### 🍎 **Apple** (13 positions)
+#### 🍎 **Apple** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200546866-3956/software-engineer?team=SFTWR) | 11mo |
 | Software Engineer | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200612830-3337/software-engineer?team=SFTWR) | 2mo |
 | Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200612828-0836/software-engineer?team=SFTWR) | 2mo |
-| Accessibility Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200604913-0836/accessibility-software-engineer?team=SFTWR) | 4mo |
-| Software Build Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200614011-3543/software-build-engineer?team=SFTWR) | 1mo |
+| Modeling Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200590796-0836/modeling-software-engineer?team=HRDWR) | 7mo |
 | Software Engineer, Shortcuts | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200592620-0836/software-engineer-shortcuts?team=SFTWR) | 6mo |
+| Software Build Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200614011-3543/software-build-engineer?team=SFTWR) | 1mo |
 | Software Triage Engineer | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200617279-3337/software-triage-engineer?team=SFTWR) | 3w |
 | iOS Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200617741-0836/ios-software-engineer?team=SFTWR) | 3w |
-| Software Engineer, Observability | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200600978-3337/software-engineer-observability?team=SFTWR) | 1mo |
-| CoreOS Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200618972-0836/coreos-software-engineer?team=SFTWR) | 2w |
+| Systems Software Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200617621-3543/systems-software-engineer?team=HRDWR) | 3w |
+| Wireless Software Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200610294-3543/wireless-software-engineer?team=SFTWR) | 2mo |
 | Software Engineer, Infrastructure | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200577136-0836/software-engineer-infrastructure?team=SFTWR) | 10mo |
-| Wireless Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200621471-0836/wireless-software-engineer?team=SFTWR) | 1d |
 | Accessibility Engineer, IS&T | Sunnyvale, CA | [Apply](https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career) | 4w |
 
 #### 🎬 **ByteDance** (14 positions)
@@ -202,7 +201,7 @@
 | 🎬 **Netflix** | Software Engineer L7 - Enterprise Solutions | USA - Remote, CA | [Apply](https://explore.jobs.netflix.net/careers/job/790311994058) | 6d |
 | 🏢 **Tencent** | Security Software Engineer I | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856) | 4w |
 
-### 🏢 **Top Tech** (231 positions)
+### 🏢 **Top Tech** (225 positions)
 
 #### 🔷 **Intel** (11 positions)
 
@@ -247,8 +246,8 @@
 | IBM Z Hardware Product Engineering | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52656&source=WEB_Search_NA) | 1d |
 | 2026 Client Engineering and CSM Co-Op Conversion | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50942&source=WEB_Search_NA) | 1d |
 | System Services Representative Austin, Texas | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
-| System Services Representative - San Antonio TX | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA) | 1d |
 | System Service Representative - Oxmoor | HUNTSVILLE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51481&source=WEB_Search_NA) | 1d |
+| System Services Representative - San Antonio TX | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA) | 1d |
 | System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | 1d |
 | System Service Representative Poughkeepsie, New York | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53888&source=WEB_Search_NA) | 1d |
 | Entry Level Back End Developer: 2025 | Tucson, AZ | [Apply](https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/) | 11mo |
@@ -419,12 +418,6 @@
 | 🔶 **AMD** | Software Development Eng. | US, CA | [Apply](https://careers-amd.icims.com/jobs/67822/login) | 1d |
 | 🔶 **AMD** | Software Development Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/70707/login) | 1d |
 | 🔶 **AMD** | Software Development Engineer-Networking/RDMA | US, CA | [Apply](https://careers-amd.icims.com/jobs/65106/login) | 1d |
-| ☁️ **Salesforce** | Software Engineering SMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr300917/software-engineering-smts/) | 1h |
-| ☁️ **Salesforce** | Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303725/software-engineering-lmts/) | 1h |
-| ☁️ **Salesforce** | LMTS Backend Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | 1h |
-| ☁️ **Salesforce** | Security Software Engineering MTS | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308571/security-software-engineering-mts/) | 1h |
-| ☁️ **Salesforce** | Software Engineering MTS - Commerce Cloud | Massachusetts - Burlington, US | [Apply](https://careers.salesforce.com/en/jobs/jr309764/software-engineering-mts-commerce-cloud/) | 1h |
-| ☁️ **Salesforce** | Summer 2026 Intern - Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1h |
 | ☁️ **Salesforce** | Software Engineering AMTS – New Grad | Palo Alto, CA | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1) | 1mo |
 | 🎨 **Adobe** | 2026 University Graduate - Software Engineer | Seattle, WA | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158684) | 3w |
 | 🎨 **Adobe** | 2026 University Graduate - Machine Learning Engineer | Seattle, WA | [Apply](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682) | 3w |
@@ -619,7 +612,7 @@
 | Senior Software Engineer, Machine Learning (Ads) | San Francisco, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8098628002) | 1mo |
 | Senior Staff Software Engineer, Client Platform | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/7803984002) | 2mo |
 | Senior Staff Software Engineer, Machine Learning (Safety) | Remote (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/7985597002) | 2w |
-| Software Engineer, Ads | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101855002) | 1mo |
+| Software Engineer, Ads | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8101845002) | 1mo |
 | Software Engineer, Mobile | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8177727002) | 1d |
 | Software Engineer, Safety Processing | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/7990178002) | 2w |
 | Staff Data Engineer, Ads | San Francisco Bay Area or Remote (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8129458002) | 2w |
@@ -757,10 +750,10 @@
 | Senior Frontend Infra Engineer | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083771002?gh_jid=8083771002) | 2w |
 | Senior Software Engineer - Detection & Placement | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7832339002?gh_jid=7832339002) | 5d |
 | Senior Software Engineer, Lyft Ads | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) | 1d |
-| Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002) | 2w |
 | Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7806017002?gh_jid=7806017002) | 2w |
-| Software Engineer, Detection Engineering | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141414002?gh_jid=8141414002) | 2w |
+| Senior Software Engineer, Security Foundations (Networking Infrastructure Projects) | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7836506002?gh_jid=7836506002) | 2w |
 | Software Engineer, Detection Engineering | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002) | 2w |
+| Software Engineer, Detection Engineering | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141414002?gh_jid=8141414002) | 2w |
 | Software Engineer Intern, Backend (Summer 2026) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002) | 2w |
 | Software Engineer, Routing | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002) | 5d |
 | Software Engineer, Security Foundations | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083487002?gh_jid=8083487002) | 1mo |
@@ -1262,7 +1255,7 @@
 | 🏢 **Commure** | Software Engineer – Summer 2026 New Grad - Ambient AI | Mountain View, CA | [Apply](https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application) | 3w |
 | 🏢 **Valon** | Software Engineer – New Grad | SF, Locations | [Apply](https://job-boards.greenhouse.io/valon/jobs/4409152006) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (104 positions)
+### 🏭 **Manufacturing & Industrial** (106 positions)
 
 <details>
 <summary><h4>🏢 <strong>Infineon Technologies</strong> (19 positions)</h4></summary>
@@ -1359,8 +1352,10 @@
 | 🏢 **Micron Technology** | Software Engineer, SECS/GEM | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30764716) | 3d |
 | 🏢 **Micron Technology** | Software Development Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31029158) | 3w |
 | 🏢 **Micron Technology** | Software Development Engineer | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30043686) | 3mo |
-| 🏢 **ABB** | Market Development- Co-op | Available in one of 7 locations, US | [Apply](https://careers.abb/global/en/job/JR00008689/Market-Development-Co-op) | 1h |
-| 🏢 **ABB** | R&D HW Engineer | Location Bartlesville, Oklahoma | [Apply](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
+| 🏢 **ABB** | Force Measurement Territory Sales | Available in one of 3 locations, US | [Apply](https://careers.abb/global/en/job/96884692/Force-Measurement-Territory-Sales) | 1h |
+| 🏢 **ABB** | Application Engineering Intern Lombard- Summer | Location Lombard, Illinois | [Apply](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
+| 🏢 **ABB** | Application Engineering Intern Milwaukee-Summer | Location Milwaukee, Wisconsin | [Apply](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
+| 🏢 **ABB** | QCS Systems Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | 1h |
 | 🏢 **Texas Instruments** | Process Development Engineer - Dallas | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25006886/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 1mo |
 | 🏢 **Texas Instruments** | Legal Counsel - IP Transactions | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25002291/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2mo |
 | 🏢 **Texas Instruments** | Program Management Engineer Intern | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007119/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2w |
@@ -1427,16 +1422,16 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 366 | 32% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 362 | 31% | No or minimal experience |
 | 🟡 Beginner & Early Career | 370 | 32% | 1-2 years of experience |
-| 🔴 Manager         | 425 | 37% | 2+ years of experience |
+| 🔴 Manager         | 420 | 36% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Remote - USA, CA**: 107 positions
 - **United States, CA**: 49 positions
-- **San Jose, CA**: 40 positions
+- **San Jose, CA**: 39 positions
 - **San Francisco, CA**: 37 positions
 - **Seattle, WA**: 34 positions
 - **San Francisco, California**: 32 positions
@@ -1447,19 +1442,19 @@
 
 ### 👨‍💻 **Top Tech Fields**
 
-#### 💻 Software Engineering (412 positions)
+#### 💻 Software Engineering (413 positions)
 🔵 IBM
 
-#### 🎨 Frontend Development (284 positions)
-☁️ Salesforce
+#### 🎨 Frontend Development (278 positions)
+🏢 Micron Technology
 
 #### 📊 Data Science & Analytics (139 positions)
 🏢 Micron Technology • 🏢 Magna International
 
-#### 🧠 Machine Learning & AI (118 positions)
-🔵 IBM • ☁️ Salesforce
+#### 🧠 Machine Learning & AI (115 positions)
+🔵 IBM • 🏢 Guidehouse
 
-#### ☁️ DevOps & Infrastructure (59 positions)
+#### ☁️ DevOps & Infrastructure (58 positions)
 🔵 IBM • 🏢 Siemens
 
 #### 🛡️ Security Engineering (43 positions)
@@ -1481,7 +1476,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1161+ verified CS internships and entry-level software roles from 264 elite tech companies.
+✅ **100% Real Jobs:** 1152+ verified CS internships and entry-level software roles from 264 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1534,7 +1529,7 @@
 
 <div align="center">
 
-**🎯 1161 current opportunities from 264 elite companies.**
+**🎯 1152 current opportunities from 264 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
