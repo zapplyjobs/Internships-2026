@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 262+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1162+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 262+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1158+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,11 +17,11 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1162 hot software engineering jobs
+🔥 **Current Positions:** 1158 hot software engineering jobs
 
 🏢 **Top Companies:** 262 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 91 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 90 premium opportunities
 
 📅 **Last Updated:** September 21, 2025
 
@@ -67,14 +67,14 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (102 positions)
+### ⭐ **FAANG+** (101 positions)
 
 #### 📦 **Amazon** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Development Engineer , WWGST Checkout Engineering | Austin, TX | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3084555/software-development-engineer-wwgst-checkout-engineering) | 5d |
 | Software Development Engineer, AWS Hardware Engineering | Cupertino, CA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2960941/software-development-engineer-aws-hardware-engineering) | 5mo |
+| Software Development Engineer , WWGST Checkout Engineering | Austin, TX | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3084558/software-development-engineer-wwgst-checkout-engineering) | 5d |
 | Software Development Engineer, Kuiper Manufacturing Systems Engineering | Bellevue, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3069541/software-development-engineer-kuiper-manufacturing-systems-engineering) | 3w |
 | Software Development Engineer, Kuiper Manufacturing Systems Engineering | Sunnyvale, CA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/3071621/software-development-engineer-kuiper-manufacturing-systems-engineering) | 2w |
 | Software Development Engineer, Kuiper Ground Systems Engineering | Redmond, WA | [Apply](https://amazon.jobs/en-gb/search/en-gb/jobs/2972165/software-development-engineer-kuiper-ground-systems-engineering) | 4mo |
@@ -152,24 +152,23 @@
 
 </details>
 
-#### 🍎 **Apple** (15 positions)
+#### 🍎 **Apple** (14 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200546866-3956/software-engineer?team=SFTWR) | 11mo |
 | Software Engineer | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200612830-3337/software-engineer?team=SFTWR) | 2mo |
 | Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200612828-0836/software-engineer?team=SFTWR) | 2mo |
-| Accessibility Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200604913-0836/accessibility-software-engineer?team=SFTWR) | 4mo |
+| Modeling Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200590796-0836/modeling-software-engineer?team=HRDWR) | 7mo |
 | RF Software Engineer | Sunnyvale, US | [Apply](https://jobs.apple.com/en-us/details/200574262-3956/rf-software-engineer?team=HRDWR) | 3mo |
+| Software Engineer, Shortcuts | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200592620-0836/software-engineer-shortcuts?team=SFTWR) | 6mo |
 | Software Updates Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200616070-0836/software-updates-engineer?team=SFTWR) | 1mo |
-| Modeling Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200589898-0836/modeling-software-engineer?team=HRDWR) | 7mo |
+| Software Build Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200614011-3543/software-build-engineer?team=SFTWR) | 1mo |
 | Software Triage Engineer | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200617279-3337/software-triage-engineer?team=SFTWR) | 3w |
 | iOS Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200617741-0836/ios-software-engineer?team=SFTWR) | 3w |
-| Software Engineer, Observability | Seattle, US | [Apply](https://jobs.apple.com/en-us/details/200600978-3337/software-engineer-observability?team=SFTWR) | 1mo |
-| CoreOS Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200618972-0836/coreos-software-engineer?team=SFTWR) | 2w |
-| Software Engineer, Infrastructure | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200577136-0836/software-engineer-infrastructure?team=SFTWR) | 10mo |
-| Wireless Software Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200621595-3543/wireless-software-engineer?team=SFTWR) | 3d |
-| Wireless Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200621471-0836/wireless-software-engineer?team=SFTWR) | 1d |
+| Systems Software Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200617621-3543/systems-software-engineer?team=HRDWR) | 3w |
+| Wireless Software Engineer | San Diego, US | [Apply](https://jobs.apple.com/en-us/details/200610294-3543/wireless-software-engineer?team=SFTWR) | 2mo |
+| Accessibility Software Engineer | Cupertino, US | [Apply](https://jobs.apple.com/en-us/details/200604913-0836/accessibility-software-engineer?team=SFTWR) | 4mo |
 | Accessibility Engineer, IS&T | Sunnyvale, CA | [Apply](https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career) | 4w |
 
 #### 🎬 **ByteDance** (14 positions)
@@ -239,8 +238,8 @@
 | Intern 2026: Software Engineer - Semiconductor | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA) | 1d |
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
-| Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
 | 2026 Intern: Software Engineer – AI-powered Automation | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA) | 1d |
+| Innovation Designer – Entry Level Sales Program | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
 | Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
 | AI Foundations - Software Engineer - Research Internship: | ship, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA) | 1d |
 | Software Development Engineer | BELLEVUE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51962&source=WEB_Search_NA) | 1d |
@@ -252,8 +251,8 @@
 | System Services Representative Austin, Texas | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | System Service Representative - Oxmoor | HUNTSVILLE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51481&source=WEB_Search_NA) | 1d |
 | System Services Representative - San Antonio TX | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA) | 1d |
-| System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | 1d |
 | System Service Representative Poughkeepsie, New York | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53888&source=WEB_Search_NA) | 1d |
+| System Services Representative Chicago, Illinois | Chicago, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52109&source=WEB_Search_NA) | 1d |
 | Entry Level Back End Developer: 2025 | Tucson, AZ | [Apply](https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/) | 11mo |
 | Software Developer | Sandy Springs, GA | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285) | 2w |
 
@@ -463,15 +462,13 @@
 | ⚡ **Atlassian** | Software Engineer | Seattle, WA | [Apply](https://www.atlassian.com/company/careers/details/20901) | 2w |
 | 🏢 **Scale AI** | Software Engineer – New Grad | SF, Locations | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) | 1w |
 
-### 💻 **Enterprise Software** (62 positions)
+### 💻 **Enterprise Software** (60 positions)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
 | 🏢 **Cisco** | Software Consulting Engineer I (Intern) United States | RTP, North Carolina | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Software-Consulting-Engineer-I-Intern-United-States/1448054) | 1d |
 | 🏢 **Cisco** | Technical Systems Engineer II (Full Time) | RTP, North Carolina | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Technical-Systems-Engineer-II-Full-Time/1449883) | 1d |
 | 🏢 **Cisco** | Software Engineer I | San Jose, CA | [Apply](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850) | 1mo |
-| 🏢 **Hewlett Packard Enterprise** | Software Engineer | San Jose, California | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/Software-Engineer_1191949-2?q=software+engineering) | 1mo |
-| 🏢 **Hewlett Packard Enterprise** | Software Engineer | Aguadilla, Puerto Rico | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Engineer_1191024-1?q=software+engineering) | 2w |
 | 🏢 **Hewlett Packard Enterprise** | Cloud Engineer Graduate | Spring, TX | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1) | 4w |
 | 🏢 **Hewlett Packard Enterprise** | Firmware Engineer Graduate | Ft. Collins, CO | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1) | 2w |
 | 🏢 **Hewlett Packard Enterprise** | Software Engineering Graduate | Ft. Collins, CO | [Apply](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1) | 2w |
@@ -1236,14 +1233,13 @@
 | 🏢 **Anduril** | Early Career Software Engineer | Newport Beach, CA | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4802146007) | 1mo |
 | 🏢 **Anduril** | Early Career Software Engineer | Washington, DC | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/4824369007) | 1mo |
 
-### 🏥 **Healthcare & Life Sciences** (22 positions)
+### 🏥 **Healthcare & Life Sciences** (21 positions)
 
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
 | 🏢 **Illumina** | Software Test Engineer 🏠 | US - California - San Diego, US | [Apply](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Software-Test-Engineer-2_41225-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
 | 🏢 **Illumina** | Systems Integration Engineer 🏠 | US - California - San Diego, US | [Apply](https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_41358-JOB-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| 🏢 **10x Genomics** | Software Engineer III, Instrument Software 🏠 | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
-| 🏢 **10x Genomics** | Software Engineer III, Frontend | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171829117569) | 2mo |
+| 🏢 **10x Genomics** | Software Engineer III, Instrument Software | Pleasanton, California | [Apply](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
 | 🏢 **Boston Scientific** | Software Engineer I - Engineering - Development | Houston, TX | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602803142943) | 1mo |
 | 🏢 **Boston Scientific** | Software Development Engineer 1 - Engineering - Development | Cambridge, MA | [Apply](https://bostonscientific.eightfold.ai/careers/job/563602808591541) | 5d |
 | 🏢 **Remodel Health** | Junior Software Engineer | Indianapolis, IN | [Apply](https://remodelhealth.com/resources/job/?gh_jid=4880033008) | 1mo |
@@ -1263,10 +1259,10 @@
 | 🏢 **Commure** | Software Engineer – Summer 2026 New Grad - Ambient AI | Mountain View, CA | [Apply](https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application) | 3w |
 | 🏢 **Valon** | Software Engineer – New Grad | SF, Locations | [Apply](https://job-boards.greenhouse.io/valon/jobs/4409152006) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (105 positions)
+### 🏭 **Manufacturing & Industrial** (108 positions)
 
 <details>
-<summary><h4>🏢 <strong>Infineon Technologies</strong> (20 positions)</h4></summary>
+<summary><h4>🏢 <strong>Infineon Technologies</strong> (19 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -1286,7 +1282,6 @@
 | Graduate - Analog, Mixed Signal Verification Engineer | Andover, US | [Apply](https://jobs.infineon.com/careers) | 1d |
 | Graduate - Product Marketing | Colorado Springs, US | [Apply](https://jobs.infineon.com/careers) | 1d |
 | Internship - DC/DC Power Supply Application | El Segundo, US | [Apply](https://jobs.infineon.com/careers) | 1d |
-| Internship - Device Technology | Andover, US | [Apply](https://jobs.infineon.com/careers) | 1d |
 | Internship - Process Design Kit Engineer - Summer | Lexington, US | [Apply](https://jobs.infineon.com/careers) | 1d |
 | Internship - Process Design Kit Engineer - Spring | Lexington, US | [Apply](https://jobs.infineon.com/careers) | 1d |
 | Internship - C&P IC Test and Validation | El Segundo, US | [Apply](https://jobs.infineon.com/careers) | 1d |
@@ -1361,8 +1356,12 @@
 | 🏢 **Micron Technology** | Software Engineer, SECS/GEM | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/30764716) | 3d |
 | 🏢 **Micron Technology** | Software Development Engineer | Boise, Idaho | [Apply](https://careers.micron.com/careers/job/31029158) | 3w |
 | 🏢 **Micron Technology** | Software Development Engineer | Manassas, Virginia | [Apply](https://careers.micron.com/careers/job/30043686) | 3mo |
-| 🏢 **ABB** | R&D HW Engineer | Location Bartlesville, Oklahoma | [Apply](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
+| 🏢 **ABB** | Power Electronics Engineer | Available in one of 2 locations, US | [Apply](https://careers.abb/global/en/job/JR00006748/Power-Electronics-Engineer) | 1h |
+| 🏢 **ABB** | Application Engineer | Location Westerville, Ohio | [Apply](https://careers.abb/global/en/job/96186465/Application-Engineer) | 1h |
 | 🏢 **ABB** | Market Development- Co-op | Available in one of 7 locations, US | [Apply](https://careers.abb/global/en/job/JR00008689/Market-Development-Co-op) | 1h |
+| 🏢 **ABB** | R&D Associate Engineer | Location Cleveland, Ohio | [Apply](https://careers.abb/global/en/job/94051992/R-D-Associate-Engineer) | 1h |
+| 🏢 **ABB** | Systems Drives Field Service Technician | Location Florence, South Carolina | [Apply](https://careers.abb/global/en/job/95864763/Systems-Drives-Field-Service-Technician) | 1h |
+| 🏢 **ABB** | R&D Engineer - OEM Panelboards | Location Bloomfield, Connecticut | [Apply](https://careers.abb/global/en/job/JR00006522/R-D-Engineer-OEM-Panelboards) | 1h |
 | 🏢 **Texas Instruments** | Process Development Engineer - Dallas | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25006886/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 1mo |
 | 🏢 **Texas Instruments** | Legal Counsel - IP Transactions | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25002291/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2mo |
 | 🏢 **Texas Instruments** | Program Management Engineer Intern | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007119/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2w |
@@ -1429,16 +1428,16 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 363 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 370 | 32% | 1-2 years of experience |
-| 🔴 Manager         | 429 | 37% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 367 | 32% | No or minimal experience |
+| 🟡 Beginner & Early Career | 365 | 32% | 1-2 years of experience |
+| 🔴 Manager         | 426 | 37% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Remote - USA, CA**: 107 positions
 - **United States, CA**: 49 positions
-- **San Jose, CA**: 40 positions
+- **San Jose, CA**: 39 positions
 - **San Francisco, CA**: 37 positions
 - **Seattle, WA**: 34 positions
 - **San Francisco, California**: 32 positions
@@ -1449,10 +1448,10 @@
 
 ### 👨‍💻 **Top Tech Fields**
 
-#### 💻 Software Engineering (409 positions)
+#### 💻 Software Engineering (407 positions)
 🔵 IBM
 
-#### 🎨 Frontend Development (287 positions)
+#### 🎨 Frontend Development (284 positions)
 ☁️ Salesforce
 
 #### 📊 Data Science & Analytics (139 positions)
@@ -1461,19 +1460,19 @@
 #### 🧠 Machine Learning & AI (120 positions)
 🔵 IBM • ☁️ Salesforce
 
-#### ☁️ DevOps & Infrastructure (59 positions)
+#### ☁️ DevOps & Infrastructure (58 positions)
 🔵 IBM • 🏢 Siemens
 
 #### 🛡️ Security Engineering (42 positions)
 🔵 IBM • 🏢 Broadcom
 
-#### 📱 Mobile Development (39 positions)
+#### 📱 Mobile Development (40 positions)
 🏢 Dell
 
 #### ⚙️ Backend Development (29 positions)
 🔵 IBM • 🏢 Analog Devices
 
-#### 🎨 Design (23 positions)
+#### 🎨 Design (24 positions)
 🔵 IBM • 🏢 Infineon Technologies
 
 #### 🌐 Full Stack Development (15 positions)
@@ -1483,7 +1482,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1162+ verified CS internships and entry-level software roles from 262 elite tech companies.
+✅ **100% Real Jobs:** 1158+ verified CS internships and entry-level software roles from 262 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1536,7 +1535,7 @@
 
 <div align="center">
 
-**🎯 1162 current opportunities from 262 elite companies.**
+**🎯 1158 current opportunities from 262 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
