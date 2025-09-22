@@ -1,23 +1,13 @@
 [
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Computer Vision Engineer",
-    "job_city": "Tremont",
-    "job_state": "IL",
-    "job_posted_at": "2d",
-    "job_description": "• Bachelor’s degree in Computer Science/Computer Engineering/Electrical Engineering or other Engineering with equivalent experience.\n• Proficiency in C++, and Python (OpenCV, Numpy, Matplotlib, etc) Proven ability to cross-compile and optimize modern C++ / Python computer-vision code on embedded Linux devices, preferably on the NVIDIA Jetson platform Familiarity or experience with ML packages (Sklearn, TensorFlow, PyTorch, etc) Familiarity or experience with Computer Vision concepts such as camera calibration, lens-distortion correction, feature extraction/matching, optical flow and multi-frame tracking.\n• Ability to work independently and high attention to detail Strong communication skills and experience being a flexible team player Passion and tenacity to solve difficult problems in a highly functioning, fast paced team environment Must be authorized to work in the U.\n• 3+ years developing algorithms and product solutions through software and embedded systems design 3+ years of software development experience in C++, C, or Python Experience developing computer vision and/or machine learning based systems and solutions Hands-on experience configuring BSPs, customizing kernels, and building/maintaining Yocto images, with solid understanding of board-level interfaces (camera, CAN, I²C, SPI, GPIO) and in-field flashing and update processes.\n• Health care and wellness plans Dental and vision plans Flexible and virtual work options (where available) 401(k) Savings Plan with company match Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price Paid holidays and paid time off Health savings and flexible spending accounts Reimbursement for continuing education Life insurance and other supplemental insurance plans.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163675239-computer-vision-engineer",
-    "id": "ai-jobs-computer-vision-engineer-tremont"
-  },
-  {
-    "job_title": "Applied AI Engineer II - Generalized Agents and Incubations",
+    "job_title": "Embedded Software Engineer II - Azure Compute",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861089",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879215",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-applied-ai-engineer-ii-generalized-agents-and-incubations-redmond"
+    "id": "microsoft-embedded-software-engineer-ii-azure-compute-redmond"
   }
 ]
