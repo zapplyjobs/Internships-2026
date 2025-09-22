@@ -1,44 +1,24 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "Logistics Support",
-    "job_city": "USA-Colorado-Fort Collins-4380 Ziegler Road",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• R&D Principal Software Engineer - Security EngineeringlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 10 Days AgoR023746 VCF Senior Technical Support Engineer - StoragelocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 5 Days AgoR023727 Country Manager - Singapore and ASEANlocationsSGP-Singapore Afro Asia SOtime typeFull timeposted onPosted 11 Days AgoR023707 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 12 Days AgoR023731 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 5 Days AgoR023725 Principal Engineer - Lifecycle ManagementlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 5 Days AgoR023737 Senior Technical Support EngineerlocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 12 Days AgoR023724.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Logistics-Support_R022667?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-logistics-support-usa-colorado-fort-collins-4380-ziegler-road"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Manufacturing Software Systems",
-    "job_city": "Bellevue",
-    "job_state": "WA",
-    "job_posted_at": "3w",
-    "job_description": "software engineering job for the role Software Development Engineer, Manufacturing Software Systems",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3069407/software-development-engineer-manufacturing-software-systems",
-    "id": "amazon-software-development-engineer-manufacturing-software-systems-bellevue"
-  },
-  {
-    "job_title": "Sr. Solutions Engineer",
-    "employer_name": "Databricks",
-    "job_city": "Remote - California",
-    "job_state": "CA",
-    "job_description": "Join Databricks to unify analytics and AI.",
-    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8153037002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "databricks-sr-solutions-engineer-remote-california"
-  },
-  {
-    "job_title": "Senior Software Engineer - CTJ - Top Secret",
+    "job_title": "Software Engineer, Data Engineering (CoreAI)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881913",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877936",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ctj-top-secret-redmond"
+    "id": "microsoft-software-engineer-data-engineering-coreai-redmond"
+  },
+  {
+    "job_title": "Future Builders Recent College Grad Program - Software Engineering",
+    "employer_name": "Lennar Corporation",
+    "job_city": "Bentonville",
+    "job_state": "AR",
+    "job_description": "Join Lennar Corporation in this exciting opportunity.",
+    "job_apply_link": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694",
+    "job_posted_at": "2w",
+    "job_employment_type": "FULLTIME",
+    "id": "lennar-corporation-future-builders-recent-college-grad-program-software-engineering-bentonville"
   }
 ]
