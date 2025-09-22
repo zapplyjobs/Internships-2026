@@ -1,95 +1,23 @@
 [
   {
-    "employer_name": "Siemens",
-    "job_title": "Order Management Internship- Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Order Management Internship- Rolling Stock (Summer 2026)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-order-management-internship-rolling-stock-summer-2026-sacramento"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Supply Chain / Inventory Control Internship- Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Supply Chain / Inventory Control Internship- Rolling Stock (Summer 2026)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-supply-chain-inventory-control-internship-rolling-stock-summer-2026-sacramento"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Commercial Bid Management Internship-Rolling Stock (Summer 2026)",
-    "job_city": "Sacramento",
-    "job_state": "California",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Commercial Bid Management Internship-Rolling Stock (Summer 2026)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-commercial-bid-management-internship-rolling-stock-summer-2026-sacramento"
-  },
-  {
     "employer_name": "AI Jobs",
-    "job_title": "Embedded Firmware Developer, Battery Charger",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
+    "job_title": "Computer Vision Engineer",
+    "job_city": "Tremont",
+    "job_state": "IL",
     "job_posted_at": "2d",
-    "job_description": "• RequirementsBachelor’s or Master’s degree in Electrical Engineering, Computer Engineering, Computer Science, or related field2+ years of experience in embedded firmware development, with focus on battery chargers, BMS, or power electronicsProficiency in embedded C/C++ programmingUnderstanding of battery technologies (e.\n• Li‑ion, Li‑Polymer) and battery management principlesExperience with communication protocols such as CAN, LIN, SPI, I2C, and/or Modbus Familiarity with functional safety standards relevant to chargers and batteries in consumer hardwarePrior experience with PCB designExperience designing or working on digital power distribution controllers.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163653075-embedded-firmware-developer-battery-charger",
-    "id": "ai-jobs-embedded-firmware-developer-battery-charger-palo-alto"
+    "job_description": "• Bachelor’s degree in Computer Science/Computer Engineering/Electrical Engineering or other Engineering with equivalent experience.\n• Proficiency in C++, and Python (OpenCV, Numpy, Matplotlib, etc) Proven ability to cross-compile and optimize modern C++ / Python computer-vision code on embedded Linux devices, preferably on the NVIDIA Jetson platform Familiarity or experience with ML packages (Sklearn, TensorFlow, PyTorch, etc) Familiarity or experience with Computer Vision concepts such as camera calibration, lens-distortion correction, feature extraction/matching, optical flow and multi-frame tracking.\n• Ability to work independently and high attention to detail Strong communication skills and experience being a flexible team player Passion and tenacity to solve difficult problems in a highly functioning, fast paced team environment Must be authorized to work in the U.\n• 3+ years developing algorithms and product solutions through software and embedded systems design 3+ years of software development experience in C++, C, or Python Experience developing computer vision and/or machine learning based systems and solutions Hands-on experience configuring BSPs, customizing kernels, and building/maintaining Yocto images, with solid understanding of board-level interfaces (camera, CAN, I²C, SPI, GPIO) and in-field flashing and update processes.\n• Health care and wellness plans Dental and vision plans Flexible and virtual work options (where available) 401(k) Savings Plan with company match Employee Stock Purchase Plan offering eligible employees the ability to purchase AGCO stock at a discounted price Paid holidays and paid time off Health savings and flexible spending accounts Reimbursement for continuing education Life insurance and other supplemental insurance plans.",
+    "job_apply_link": "https://www.aijobs.com/jobs/163675239-computer-vision-engineer",
+    "id": "ai-jobs-computer-vision-engineer-tremont"
   },
   {
-    "employer_name": "AI Jobs",
-    "job_title": "Data Scientist",
-    "job_city": "Dearborn",
-    "job_state": "MI",
-    "job_posted_at": "5d",
-    "job_description": "• PhD degree is preferred in quantitative field, such as Data Science, Engineering, Operations Research, Industrial Engineering, Statistics, Mathematics, Computer Science, or related fieldProven experience with developing data products/solutions to support analytic applications in Ford’s data ecosystemExperience with Product Driven Operating Model or Agile Product Development ProcessProven proficiency in developing and deploying analytic models, working in a team environment, supporting customers and/or end usersComfortable working in an environment where problems are not always well-definedStrong interpersonal and leadership skills, with ability to communicate complex topics to leaders and peers in a simple and clear mannerWell-organized, independent, and ready to work with minimal supervisionInquisitive, proactive, and interested in learning new tools and techniquesDemonstrated hands on experience with deploying data products and/or analytic models in Ford’s on-prem and/or Google Cloud PlatformDemonstrated experience to translate real-world business problems into analytical formulations and interpreting analytics results with non-analytics business partners Accelerate the application of value-added analytics and machine learning into the portfolio of products for Complexity Analytics.\n• Work closely with the Product Manager and Product Owner to translate Business Value needs into analytic deliverables and, where appropriate, software products for delivery by product teams.\n• Work hands-on with the team and other partners to deliver solutions that meet our customer's requirements and needs.\n• Master’s degree in a quantitative field, such as Data Science, Engineering, Operations Research, Industrial Engineering, Statistics, Mathematics OR Computer Science2+ year experience hands-on experience with mathematical programming, machine learning, artificial intelligence, optimization/simulation techniques, or statistical analysisDemonstrated technical skills in data analytics, AI/ML, operations research, and/or optimization1+ year of experience delivering analytics solutions1+ year experience with Agile team methodology.\n• Drive analytic excellence into product teams by collaborating with Data Scientists, Data Engineers and Software Engineers in analytic and machine learning methods.\n• Act as a consultant to the business vs.\n• Balance \"doing it right\" with \"speed to delivery\" by identifying and mitigating risk, generating options, educating business and other decision makers, and taking on justified technical debt.",
-    "job_apply_link": "https://www.aijobs.com/jobs/163307708-data-scientist",
-    "id": "ai-jobs-data-scientist-dearborn"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Linux Distributions Engineer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-linux-distributions-engineer/33099/86419689760",
-    "id": "arm-intern-linux-distributions-engineer-austin"
-  },
-  {
-    "job_title": "Solution Engineer AI Business Solutions Endpoint",
+    "job_title": "Applied AI Engineer II - Generalized Agents and Incubations",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862538",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1861089",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-ai-business-solutions-endpoint-redmond"
-  },
-  {
-    "job_title": "Principal Group Software Engineer Manager",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879529",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-group-software-engineer-manager-redmond"
-  },
-  {
-    "job_title": "Staff Engineer - Google Workspace",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274915955985",
-    "job_posted_at": "4d",
-    "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-engineer-google-workspace-san-jose"
+    "id": "microsoft-applied-ai-engineer-ii-generalized-agents-and-incubations-redmond"
   }
 ]
