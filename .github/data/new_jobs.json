@@ -1,66 +1,35 @@
 [
   {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Search Qualification Platform",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Search Qualification Platform",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/113337189185528518-software-engineer-search-qualification-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-search-qualification-platform-cambridge"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Full Stack, Google Workspace",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Full Stack, Google Workspace",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/87391188671177414-software-engineer-full-stack-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-full-stack-google-workspace-new-york"
-  },
-  {
-    "job_title": "Solution Engineering Manager",
+    "job_title": "Copilot Solution Engineer",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1877810",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874055",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-manager-redmond"
+    "id": "microsoft-copilot-solution-engineer-redmond"
   },
   {
-    "job_title": "Senior Solution Engineer - Innovation Hub",
+    "job_title": "Cloud & AI Solution Engineer, AI Applications - Sydney",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1869203",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881376",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-solution-engineer-innovation-hub-redmond"
+    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-sydney-redmond"
   },
   {
-    "job_title": "Technical Support Engineering - Security & Compliance (Global Customer Delivery)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1830402",
-    "job_posted_at": "1h",
+    "job_title": "Software Engineer 1 - Servicing Engineering",
+    "employer_name": "American Express",
+    "job_city": "Plantation",
+    "job_state": "FL",
+    "job_description": "Join American Express in this exciting opportunity.",
+    "job_apply_link": "https://aexp.eightfold.ai/careers/job/30954270",
+    "job_posted_at": "2w",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-security-compliance-global-customer-delivery-redmond"
-  },
-  {
-    "job_title": "Data Engineer 1",
-    "employer_name": "Bombora",
-    "job_city": "Reno",
-    "job_state": "NV",
-    "job_description": "Join Bombora in this exciting opportunity.",
-    "job_apply_link": "https://bombora.com/about/bombora-careers?gh_jid=8167665002",
-    "job_posted_at": "1w",
-    "job_employment_type": "FULLTIME",
-    "id": "bombora-data-engineer-1-reno"
+    "id": "american-express-software-engineer-1-servicing-engineering-plantation"
   }
 ]
