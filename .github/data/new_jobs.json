@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Copilot Solution Engineer",
+    "job_title": "Principal Mechanical Engineering Manager",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874055",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879079",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-copilot-solution-engineer-redmond"
-  },
-  {
-    "job_title": "Cloud & AI Solution Engineer, AI Applications - Sydney",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881376",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-ai-applications-sydney-redmond"
-  },
-  {
-    "job_title": "Software Engineer 1 - Servicing Engineering",
-    "employer_name": "American Express",
-    "job_city": "Plantation",
-    "job_state": "FL",
-    "job_description": "Join American Express in this exciting opportunity.",
-    "job_apply_link": "https://aexp.eightfold.ai/careers/job/30954270",
-    "job_posted_at": "2w",
-    "job_employment_type": "FULLTIME",
-    "id": "american-express-software-engineer-1-servicing-engineering-plantation"
+    "id": "microsoft-principal-mechanical-engineering-manager-redmond"
   }
 ]
