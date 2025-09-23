@@ -1,66 +1,98 @@
 [
   {
-    "employer_name": "Honeywell",
-    "job_title": "Java Backend Engineer",
-    "job_city": "Richmond",
-    "job_state": "VA",
+    "employer_name": "Dell",
+    "job_title": "Firmware Engineer (BIOS Embedded Controller)",
+    "job_city": "Austin",
+    "job_state": "Texas",
     "job_posted_at": "1d",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date08/11/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/119429/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-java-backend-engineer-richmond"
+    "job_description": "• Principal Software Engineer - AI-MLlocationsHopkinton, Massachusetts, United Statesposted onPosted 4 Days AgoR277578Software Senior Engineerremote typeOnsitelocations2 Locationsposted onPosted 4 Days AgoR276916Software Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted YesterdayR276923Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 14 Days AgoR276921Software Senior Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 14 Days AgoR276913Software Principal Engineerremote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted 13 Days AgoR276924Software Senior Engineer, PowerScaleremote typeOnsitelocationsSeattle, Washington, United Statesposted onPosted 13 Days AgoR276871Software Senior Principal Engineer, Storageremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted TodayR276873Software Senior Principal Engineer, Storageremote typeOnsitelocationsSanta Clara, California, United Statesposted onPosted 21 Days AgoR276880Firmware Engineer (BIOS Embedded Controller)remote typeOnsitelocationsAustin, Texas, United Statesposted onPosted TodayR276261Senior Principal Engineer – Python & Release Management (QA Infrastructure)remote typeOnsitelocationsHopkinton, Massachusetts, United Statesposted onPosted TodayR276914Electrical Senior Principal Engineering Technologistremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 7 Days AgoR268158Architect, DevOps and Emerging Technology Strategyremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoR272423Developer Experience Principal EngineerlocationsHopkinton, Massachusetts, United Statesposted onPosted 7 Days AgoR273654Principal Systems Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted TodayR272304Global Operations Undergrad Internremote typeOnsitelocationsAustin, Texas, United Statesposted onPosted 11 Days AgoR275493Hardware Principal Engineerremote typeOnsitelocations2 Locationsposted onPosted 26 Days AgoR268810Supply Chain Graduate InternlocationsAustin, Texas, United Statesposted onPosted 18 Days AgoR276365Principal Systems Development Engineerremote typeOnsitelocationsRound Rock, Texas, United Statesposted onPosted 7 Days AgoR276110Senior Principal Hardware Engineerremote typeOnsitelocations2 Locationsposted onPosted 6 Days AgoR268809.",
+    "job_apply_link": "https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Job-Posting-Senior-Principal-Software-Engineer----UEFI-BIOS_R276261?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "dell-firmware-engineer-bios-embedded-controller-austin"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "DevOps Platform Engineer",
-    "job_city": "Raleigh",
-    "job_state": "NC",
-    "job_posted_at": "1w",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date08/11/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-devops-platform-engineer-raleigh"
+    "employer_name": "Siemens",
+    "job_title": "Software Developer, Embedded Linux",
+    "job_city": "Peachtree Corners",
+    "job_state": "Georgia",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Developer, Embedded Linux",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-software-developer-embedded-linux-peachtree-corners"
   },
   {
-    "job_title": "Fullstack Engineer, Money as a Service (MaaS)",
-    "employer_name": "Stripe",
-    "job_city": "N/A",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6789983",
+    "employer_name": "ABB",
+    "job_title": "Power Electronics Scientist",
+    "job_city": "Location Raleigh",
+    "job_state": "North Carolina",
+    "job_posted_at": "1h",
+    "job_description": "• Products Products Control Room Solutions Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Mechanical Power Transmission Medium Voltage Products Metallurgy Products Motors and Generators PLC Automation Power Converters and Inverters Robotics See all products and systems Systems Control Systems Operations Management Software Power Electronics Safety Turbocharging UPS and Power Conditioning See all products and systems Industries Industries Aluminium Automotive Buildings and Infrastructure Cement Channel Partners Chemical Data Centers Food and Beverage Process Automation Life Sciences Marine and Ports Metals Mining Oil and Gas Ports Power Generation Printing Pulp and Paper Railway Smart Cities Solar Power Water Wind Power See all industries and utilities Services Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems About Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress News & Media Careers Investors Contact Us Who we are About ABB Our strategy Our purpose Our values Our engagements and partnerships Integrity Diversity & Inclusion Corporate governance Board of Directors Executive Committee Quarterly results and annual reports COVID-19 information About ABB Our businesses Electrification Process Automation Motion Robotics & Discrete Automation Technology & Innovation ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Sustainability Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress Where to buy ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB Social Media ABB Conversations Facebook Instagram LinkedIn Twitter YouTube ABB Formula E ABB FIA Formula E World Championship The partnership The pioneers Drivers of progress Your Needs Rapid response Lifecycle management Performance improvement Operational excellence Service for products and systems Service Offering Advanced Services End of Life Services Engineering and Consulting Extensions, Upgrades and Retrofits Installation and Commissioning Maintenance Replacement Service Agreements Spares and Consumables Technical support and repairs Training Service for products and systems Service for Products and Systems Control Systems Drives Electric Vehicle Charging Infrastructure Low Voltage Products and Systems Measurement and Analytics Medium Voltage Products and Systems Motors and Generators Power Converters and Inverters Power Electronics Robotics Turbocharging UPS and Power Conditioning Service for products and systems Careers Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Explore ABB Life at ABB Diversity, Equity and Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog ABB Ability™ Cyber security Innovations ABB International Nobel Partnership ABB Research Award ABB Technology Ventures ABB Review Corporate research University collaboration Careers Explore ABB Life at ABB Diversity & Inclusion We grow How to apply Professionals Graduates & Entry level Students Job Search Events Blog Customer events News & media Who we are Innovation Careers Sustainability Our values Supplying EEO and Affirmative Action Our approach Sustainability strategy 2030 Enabling a low-carbon society Preserving resources Promoting social progress ABB Ability Marketplace™ Channel Partners Search for an ABB partner Supplying to ABB.",
+    "job_apply_link": "https://careers.abb/global/en/job/95678461/Power-Electronics-Scientist",
+    "id": "abb-power-electronics-scientist-location-raleigh"
+  },
+  {
+    "job_title": "Sr. GTM Analytics Engineer",
+    "employer_name": "Databricks",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_description": "Join Databricks to unify analytics and AI.",
+    "job_apply_link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "stripe-fullstack-engineer-money-as-a-service-maas-n-a"
+    "id": "databricks-sr-gtm-analytics-engineer-san-francisco"
   },
   {
-    "job_title": "Senior Sourcing Engineer",
+    "job_title": "Senior Software Engineer - Backend",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881820",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874232",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-sourcing-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-backend-redmond"
   },
   {
-    "job_title": "Senior Support Engineering Manager",
+    "job_title": "Senior Sourcing Engineer - Devices",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852532",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881240",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-support-engineering-manager-redmond"
+    "id": "microsoft-senior-sourcing-engineer-devices-redmond"
   },
   {
-    "job_title": "Solution Engineering- Cloud & AI Apps",
+    "job_title": "Forward Deployed Engineer (FDE)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880859",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876152",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineering-cloud-ai-apps-redmond"
+    "id": "microsoft-forward-deployed-engineer-fde-redmond"
+  },
+  {
+    "job_title": "Graphics Software Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881220",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-graphics-software-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
+    "employer_name": "The Boeing Company",
+    "job_city": "Oklahoma City",
+    "job_state": "OK",
+    "job_description": "Join The Boeing Company in this exciting opportunity.",
+    "job_apply_link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "the-boeing-company-entry-level-software-engineer-systems-test-verification-test-verification-oklahoma-city"
   }
 ]
