@@ -1,24 +1,13 @@
 [
   {
-    "job_title": "Software Engineer – New Grad 2026",
-    "employer_name": "Nextdoor",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Join Nextdoor in this exciting opportunity.",
-    "job_apply_link": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
+    "job_title": "Technical Support Engineering Manager - Compliance",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852630",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "nextdoor-software-engineer-new-grad-2026-dallas"
-  },
-  {
-    "job_title": "Software Engineer 1 - Multiple Teams",
-    "employer_name": "Jerry",
-    "job_city": "Palo Alto",
-    "job_state": "CA",
-    "job_description": "Join Jerry in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/jerry.ai/a25ea926-a8ed-416c-b426-4bfd73de3e38/application",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "jerry-software-engineer-1-multiple-teams-palo-alto"
+    "id": "microsoft-technical-support-engineering-manager-compliance-redmond"
   }
 ]
