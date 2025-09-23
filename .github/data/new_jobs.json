@@ -1,98 +1,67 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "QA Test Developer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
+    "employer_name": "Cisco",
+    "job_title": "Software Engineer PhD (Intern) United States",
+    "job_city": "San Jose",
+    "job_state": "California",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role QA Test Developer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59332&source=WEB_Search_NA",
-    "id": "ibm-qa-test-developer-poughkeepsie"
+    "job_description": "software engineering job for the role Software Engineer PhD (Intern) United States",
+    "job_apply_link": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-PhD-Intern-United-States/1449981",
+    "id": "cisco-software-engineer-phd-intern-united-states-san-jose"
   },
   {
-    "employer_name": "IBM",
-    "job_title": "Engineer",
-    "job_city": "COSTA MESA",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Engineer 01",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57631&source=WEB_Search_NA",
-    "id": "ibm-engineer-costa-mesa"
-  },
-  {
-    "employer_name": "AMD",
-    "job_title": "PMTS Software Development Engineer",
-    "job_city": "US",
+    "job_title": "Senior AI/ML Software Engineer – Xbox Games Technology Group – The Coalition",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
-    "job_apply_link": "https://careers-amd.icims.com/jobs/70776/login",
-    "id": "amd-pmts-software-development-engineer-us"
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860131",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-ai-ml-software-engineer-xbox-games-technology-group-the-coalition-redmond"
   },
   {
-    "job_title": "Engineering Manager - Machine Learning Platform",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Senior Platform Engineer – Xbox Games Technology Group – The Coalition",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860130",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-platform-engineer-xbox-games-technology-group-the-coalition-redmond"
+  },
+  {
+    "job_title": "Lead Project Engineer – Xbox Games Technology Group – The Coalition",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1860121",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-lead-project-engineer-xbox-games-technology-group-the-coalition-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer, Safety Platform",
+    "employer_name": "Discord",
+    "job_city": "San Francisco Bay Area (U.S.)",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7272354?gh_jid=7272354",
+    "job_description": "Join Discord to build connections.",
+    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8175791002",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-engineering-manager-machine-learning-platform-remote-usa"
+    "id": "discord-staff-software-engineer-safety-platform-san-francisco-bay-area-u-s"
   },
   {
-    "job_title": "Senior SoftwareEngineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882123",
+    "job_title": "Data Software Engineer 1 - Enterprise Information Services",
+    "employer_name": "Providence",
+    "job_city": "Washington",
+    "job_state": "Locations",
+    "job_description": "Join Providence in this exciting opportunity.",
+    "job_apply_link": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-softwareengineer-redmond"
-  },
-  {
-    "job_title": "Senior Sofware Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1823043",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-sofware-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer - Azure Databricks",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876096",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-azure-databricks-redmond"
-  },
-  {
-    "job_title": "Principal Machine Learning (ML) Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1832217",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-machine-learning-ml-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Innovative Data Platform Solution Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880546",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-innovative-data-platform-solution-engineer-redmond"
+    "id": "providence-data-software-engineer-1-enterprise-information-services-washington"
   }
 ]
