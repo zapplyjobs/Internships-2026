@@ -1,13 +1,35 @@
 [
   {
-    "job_title": "Technical Support Engineering Manager - Compliance",
+    "job_title": "Digital Solution Engineer -  AI Business Process (Dutch Speaker)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1852630",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849111",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineering-manager-compliance-redmond"
+    "id": "microsoft-digital-solution-engineer-ai-business-process-dutch-speaker-redmond"
+  },
+  {
+    "job_title": "Software Engineer (MLOps)",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872301",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-mlops-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineering Manager- GPU Inference Optimization",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881372",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineering-manager-gpu-inference-optimization-redmond"
   }
 ]
