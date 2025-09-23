@@ -1,35 +1,13 @@
 [
   {
-    "job_title": "Digital Solution Engineer -  AI Business Process (Dutch Speaker)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1849111",
+    "job_title": "Software Engineer – New College Graduate",
+    "employer_name": "SIFT",
+    "job_city": "El Segundo",
+    "job_state": "CA",
+    "job_description": "Join SIFT in this exciting opportunity.",
+    "job_apply_link": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-ai-business-process-dutch-speaker-redmond"
-  },
-  {
-    "job_title": "Software Engineer (MLOps)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872301",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-mlops-redmond"
-  },
-  {
-    "job_title": "Principal Software Engineering Manager- GPU Inference Optimization",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881372",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineering-manager-gpu-inference-optimization-redmond"
+    "id": "sift-software-engineer-new-college-graduate-el-segundo"
   }
 ]
