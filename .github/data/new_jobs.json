@@ -1,46 +1,35 @@
 [
   {
-    "job_title": "Software Engineer, Frontend (Consumer - Trust and Loyalty)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
+    "job_title": "Machine Learning Engineer, Supportability",
+    "employer_name": "Stripe",
+    "job_city": "San Francisco or Seattle",
     "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/5948954?gh_jid=5948954",
+    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7176812",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-frontend-consumer-trust-and-loyalty-remote-usa"
+    "id": "stripe-machine-learning-engineer-supportability-san-francisco-or-seattle"
   },
   {
-    "job_title": "Engineering Manager, Ads Formats",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8101770002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-ads-formats-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Engineering Manager, Ads Infra",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8175392002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-engineering-manager-ads-infra-san-francisco-bay-area"
-  },
-  {
-    "job_title": "Salesforce Engineer",
-    "employer_name": "Lyft",
-    "job_city": "Seattle",
+    "job_title": "Senior Software Engineer - CTJ - TS/SCI",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
     "job_state": "WA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8178382002?gh_jid=8178382002",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882655",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "lyft-salesforce-engineer-seattle"
+    "id": "microsoft-senior-software-engineer-ctj-ts-sci-redmond"
+  },
+  {
+    "job_title": "Staff Software Engineer – Machine Learning",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916114700",
+    "job_posted_at": "2d",
+    "job_employment_type": "FULLTIME",
+    "id": "paypal-staff-software-engineer-machine-learning-san-jose"
   }
 ]
