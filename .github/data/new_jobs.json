@@ -1,45 +1,33 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Engineer",
-    "job_city": "Albuquerque",
-    "job_state": "NM",
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering SMTS",
+    "job_city": "Washington - Seattle",
+    "job_state": "US",
+    "job_posted_at": "1h",
+    "job_description": "• 6+ years of hands-on experience in designing, building, scaling, and maintaining production servicesProficient in modern software architectural principles and patterns (Domain-driven design, REST, GraphQL etc)Experience delivering distributed systems and high-scale microservices on AWSExperience with serverless architecture (AWS components like Lambda , API Gateway, DynamoDB , AppSync, OpenSearch, ElastiCache etc)Experience developing front-end and back-end software, preferably including JavaScript or TypeScript and runtimes, including Node.\n• Experience working with authentication and authorization protocols/frameworks (OpenID Connect, OAuth, SAML etc.\n• )Experience in working with AI models and integration with LLM gatewaysExperience in test-driven development and testing frameworks (Jest, Playwright, and other related test frameworks a plus).\n• Experience in Service orchestration using tools like Terraform (preferred)Strong verbal and written communication skills Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Design, build, and maintain APIs and services that are consumed by www.\n• Com as well as other website experiences on the Salesforce digital platformDesign, implement, test, and deliver scalable, extensible, maintainable and observable servicesOperate effectively in an Agile and DevOps environment where engineers are expected to be able to design and execute the necessary work to ensure quality in their code as well as other engineers'Work closely with a team of engineers, product managers, and architects to build new features our internal customers will adopt while keeping our trusted platform stable and scalableDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Deep and proven experience within the marketing technologies domain, with focus on areas like content management, classification and taxonomy, Customer Identity experiencesTrack record of delivering transformative solutions across complex platform ecosystems.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300622/software-engineering-smts/",
+    "id": "salesforce-software-engineering-smts-washington-seattle"
+  },
+  {
+    "employer_name": "Siemens",
+    "job_title": "Manufacturing Engineering Co-op - Spring 2026 (Northeastern University)",
+    "job_city": "Hingham",
+    "job_state": "Massachusetts",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0221713 Software Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0223926 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0209591 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0221135 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0223921 Software Engineer, Leadlocations2 Locationsposted onPosted 27 Days AgoR0223191.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer_R0226728?q=software+engineering",
-    "id": "bae-systems-software-engineer-albuquerque"
+    "job_description": "software engineering job for the role Manufacturing Engineering Co-op - Spring 2026 (Northeastern University)",
+    "job_apply_link": "https://jobs.siemens.com/careers",
+    "id": "siemens-manufacturing-engineering-co-op-spring-2026-northeastern-university-hingham"
   },
   {
-    "job_title": "Software Engineer II - Full Stack",
+    "job_title": "Cloud & AI Solution Engineer - Azure Platform",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880968",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882763",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-software-engineer-ii-full-stack-redmond"
-  },
-  {
-    "job_title": "Principal Quality Engineer",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1843250",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-quality-engineer-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer, UI/UX Specialist",
-    "employer_name": "Discord",
-    "job_city": "San Francisco Bay Area or Remote (U.S.)",
-    "job_state": "CA",
-    "job_description": "Join Discord to build connections.",
-    "job_apply_link": "https://job-boards.greenhouse.io/discord/jobs/8181501002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "discord-senior-software-engineer-ui-ux-specialist-san-francisco-bay-area-or-remote-u-s"
+    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-redmond"
   }
 ]
