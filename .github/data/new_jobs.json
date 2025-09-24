@@ -1,24 +1,32 @@
 [
   {
-    "job_title": "Digital Solution Engineer - Cloud & Data",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876172",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-digital-solution-engineer-cloud-data-redmond"
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer",
+    "job_city": "shipPOUGHKEEPSIE",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role QA Test Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-shippoughkeepsie"
   },
   {
-    "job_title": "Software Engineer 1 - Engineering / Product Development",
-    "employer_name": "Cox",
-    "job_city": "Carmel",
-    "job_state": "IN",
-    "job_description": "Join Cox in this exciting opportunity.",
-    "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
+    "employer_name": "Salesforce",
+    "job_title": "Solution Engineer (Pre-Sales) - All Levels",
+    "job_city": "New York - New York",
+    "job_state": "US",
     "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "cox-software-engineer-1-engineering-product-development-carmel"
+    "job_description": "• This person must assume the role of trusted advisor for driving innovative solutions forward while also improving business performance.\n• Connect Experiences: Demonstrate through software demos and rapid prototyping how connected experiences come to life with The Salesforce Solutions.\n• Discover the customer's business needs, and position the best Salesforce solution to achieve those business objectivesBuild and present customized solutions and demonstrations focused on Salesforce products to multiple customer personas showing how Salesforce will accelerate their business strategies and a path to value.\n• Convey a deep understanding of the customer's architecture as it pertains to Salesforce's solutionsOrchestrate and lead cross-functional solutions guides, and align them to the opportunity strategyDevelop and deliver the story of the customer experience aided by Salesforce technologiesParticipate in all appropriate product, sales, and procedural training and certifications to acquire and maintain the knowledge vital to be effective in the positionAbility to travel based on territory alignment and region.\n• This person must assume the role of trusted advisor for driving innovative solutions forward while also improving business performance.\n• Connect Experiences: Demonstrate through software demos and rapid prototyping how connected experiences come to life with The Salesforce Solutions.\n• Discover the customer's business needs, and position the best Salesforce solution to achieve those business objectivesBuild and present customized solutions and demonstrations focused on Salesforce products to multiple customer personas showing how Salesforce will accelerate their business strategies and a path to value.\n• Convey a deep understanding of the customer's architecture as it pertains to Salesforce's solutionsOrchestrate and lead cross-functional solutions guides, and align them to the opportunity strategyDevelop and deliver the story of the customer experience aided by Salesforce technologiesParticipate in all appropriate product, sales, and procedural training and certifications to acquire and maintain the knowledge vital to be effective in the positionAbility to travel based on territory alignment and region.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr282101/solution-engineer-pre-sales-all-levels/",
+    "id": "salesforce-solution-engineer-pre-sales-all-levels-new-york-new-york"
+  },
+  {
+    "employer_name": "AI Jobs",
+    "job_title": "Embedded SWE, Consumer Products",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_posted_at": "1d",
+    "job_description": "• Have deep experience shipping embedded systems (around 10+ years).\n• Have experience with both rapid prototyping and scalable product development.\n• (Nice to have) Have experience with Zephyr RTOS.\n• (Nice to have) Have experience with robotic system bring-up or Linux kernel development.\n• Contribute to defining software requirements, interfaces, and test plans.\n• Are proficient in C and C++.\n• Are familiar with embedded toolchains, operating systems, and debugging tools.\n• (Nice to have) Have worked with networking/wireless stacks (BLE, Wi-Fi).",
+    "job_apply_link": "https://www.aijobs.com/jobs/164578814-embedded-swe-consumer-products",
+    "id": "ai-jobs-embedded-swe-consumer-products-san-francisco"
   }
 ]
