@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Presales Solution Engineer for AI Business Solutions (Sales & Service, CRM))",
+    "job_title": "Digital Solution Engineering Cloud & AI Data",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880430",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881429",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-presales-solution-engineer-for-ai-business-solutions-sales-service-crm-redmond"
+    "id": "microsoft-digital-solution-engineering-cloud-ai-data-redmond"
   },
   {
-    "job_title": "Principal AI Engineer",
+    "job_title": "Senior Software Engineer, Azure Host Networking",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879533",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1878131",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-ai-engineer-redmond"
+    "id": "microsoft-senior-software-engineer-azure-host-networking-redmond"
+  },
+  {
+    "job_title": "Software Engineer Internship Opportunities",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882474",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-internship-opportunities-redmond"
   }
 ]

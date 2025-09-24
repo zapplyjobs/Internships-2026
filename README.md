@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 276+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1152+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 276+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1161+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,11 +17,11 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 1152 hot software engineering jobs
+🔥 **Current Positions:** 1161 hot software engineering jobs
 
 🏢 **Top Companies:** 276 elite tech including Tesla, NVIDIA, Raytheon
 
-⭐ **FAANG+ Jobs & Internships:** 86 premium opportunities
+⭐ **FAANG+ Jobs & Internships:** 89 premium opportunities
 
 📅 **Last Updated:** September 24, 2025
 
@@ -67,7 +67,7 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (98 positions)
+### ⭐ **FAANG+** (101 positions)
 
 #### 📦 **Amazon** (13 positions)
 
@@ -88,7 +88,7 @@
 | Security Engineer | Dallas, TX | [Apply](http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security) | 2w |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (25 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (28 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -107,12 +107,15 @@
 | Software Engineer - Azure Data | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer II – AI Platform Development (Azure PostgreSQL) | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
 | Software Engineer: AI/ML Intern Opportunities for University Students, Redmond | Redmond, Washington | [Apply](https://jobs.careers.microsoft.com) | 1mo |
+| Digital Solution Engineering Cloud & AI Data | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1881429) | 1h |
+| Senior Software Engineer, Azure Host Networking | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1878131) | 1h |
+| Software Engineer Internship Opportunities | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1882474) | 1h |
+| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879379) | 1h |
 | Presales Solution Engineer for AI Business Solutions (Sales & Service, CRM)) | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880430) | 1h |
 | Principal AI Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1879533) | 1h |
 | Software Engineer II | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1881995) | 1h |
 | Senior Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1821906) | 1h |
-| Software Engineer | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1881548) | 1h |
-| Software Engineering | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858366) | 1h |
+| Software Engineering | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1858366) | 2h |
 | Software Engineer - Fullstack | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1835561/) | 2mo |
 | Software Engineer: Microsoft AI Development Acceleration Program | Redmond, WA | [Apply](https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond) | 1mo |
 | Software Engineer | Remote 🏠 | [Apply](https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer) | 3w |
@@ -196,7 +199,7 @@
 | 🏢 **Tencent** | Security Software Engineer I | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856) | 1mo |
 | 🏢 **Tencent** | Cloud PaaS Associate Site Reliability Engineer | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-PaaS-Associate-Site-Reliability-Engineer_R106050-1) | 2d |
 
-### 🏢 **Top Tech** (238 positions)
+### 🏢 **Top Tech** (237 positions)
 
 #### 🔷 **Intel** (11 positions)
 
@@ -241,8 +244,8 @@
 | IBM Z Hardware Product Engineering | POUGHKEEPSIE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52656&source=WEB_Search_NA) | 1d |
 | Engineer | COSTA MESA, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57631&source=WEB_Search_NA) | 1d |
 | 2026 Client Engineering and CSM Co-Op Conversion | United States | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50942&source=WEB_Search_NA) | 1d |
-| System Services Representative Austin, Texas | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | System Services Representative - San Antonio TX | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59669&source=WEB_Search_NA) | 1d |
+| System Services Representative Austin, Texas | Austin, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA) | 1d |
 | System Service Representative - Oxmoor | HUNTSVILLE, US | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=51481&source=WEB_Search_NA) | 1d |
 | Entry Level Back End Developer: 2025 | Tucson, AZ | [Apply](https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/) | 11mo |
 | Software Developer | Sandy Springs, GA | [Apply](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285) | 3w |
@@ -257,7 +260,7 @@
 | AI Engineer - FDE (Forward Deployed Engineer) | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002) | 1w |
 | Database Engine Internals - Staff Software Engineer | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806691002) | 1mo |
 | Database Engine Internals - Staff Software Engineer | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806692002) | 1mo |
-| Developer Advocate - Neon | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124845002) | 1w |
+| Developer Advocate - Neon | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8124849002) | 1w |
 | Director, Field Engineering - Financial Services | Georgia; Illinois; New York; Texas; Washington, D.C. | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8158504002) | 1w |
 | Director, Technical Excellence and Enablement - Field Engineering | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8045586002) | 1w |
 | Engineering Manager, Data Lineage — Unity Catalog Experience | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8015139002) | 1w |
@@ -270,8 +273,8 @@
 | Manager, Field Engineering | Northeast - United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7830778002) | 5d |
 | Manager, Field Engineering - HLS | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909228002) | 1w |
 | Physical Security Engineer | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993207002) | 1w |
-| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 5d |
 | Product Designer, Workspace Developer Experience | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930554002) | 5d |
+| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 5d |
 | Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002) | 1w |
 | Scale Solutions Engineer  | Heredia, Costa Rica | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8144045002) | 1w |
 | Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) | 1w |
@@ -281,21 +284,21 @@
 | Senior Engineering Manager - Trust and Safety | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002) | 1d |
 | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002) | 1mo |
 | Senior Security Engineer, Red Team  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909795002) | 6d |
-| Senior Software Engineer  - Application Traffic team | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002) | 10h |
+| Senior Software Engineer  - Application Traffic team | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002) | 11h |
+| Senior Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) | 1mo |
 | Senior Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) | 1mo |
 | Senior Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | 4w |
-| Senior Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) | 1mo |
 | Senior Software Engineer - Compliance | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029215002) | 1mo |
-| Senior Software Engineer - Database Engine Internals | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002) | 1mo |
 | Senior Software Engineer - Database Engine Internals | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806656002) | 1mo |
 | Senior Software Engineer - Database Engine Internals | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806657002) | 1mo |
+| Senior Software Engineer - Database Engine Internals | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002) | 1mo |
 | Senior Software Engineer - Database Engine Internals | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002) | 1mo |
 | Senior Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002) | 1mo |
-| Senior Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002) | 1mo |
-| Senior Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002) | 1mo |
 | Senior Software Engineer - Distributed Data Systems | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936993002) | 1mo |
-| Senior Software Engineer - Fullstack | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | 1mo |
+| Senior Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002) | 1mo |
+| Senior Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002) | 1mo |
 | Senior Software Engineer - Fullstack | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | 1mo |
+| Senior Software Engineer - Fullstack | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | 1mo |
 | Senior Software Engineer - Fullstack, Assistant | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7849869002) | 1mo |
 | Senior Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029209002) | 1mo |
 | Senior Software Engineer - Infrastructure and Tools | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | 4w |
@@ -306,12 +309,12 @@
 | Senior Solutions Engineer | Finland, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8178735002) | 2d |
 | Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) | 1w |
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) | 1mo |
-| Senior Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) | 1mo |
 | Senior Staff Software Engineer - IAM | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) | 1mo |
+| Senior Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) | 1mo |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) | 1w |
 | Senior Staff Software Engineer - Privacy | New York City, New York | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) | 1mo |
-| Senior Staff Software Engineer - Privacy | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) | 1mo |
 | Senior Staff Software Engineer - Privacy | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) | 1mo |
+| Senior Staff Software Engineer - Privacy | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) | 1mo |
 | Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) | 1mo |
 | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) | 1mo |
 | Senior Technical Solutions Engineer | Costa Rica, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7315348002) | 1mo |
@@ -327,26 +330,26 @@
 | Software Engineer - Performance PhD Candidates | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7466498002) | 1mo |
 | Software Engineer -  Systems PhD Candidates | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6875433002) | 1mo |
 | Software Engineer - Systems PhD Candidates  | Bellevue, Washington; Seattle | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7649293002) | 1mo |
-| Sr. Developer Advocate, Machine Learning | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002) | 1w |
 | Sr. Developer Advocate, Machine Learning | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934669002) | 1w |
-| Sr. Developer Advocate, Open Lakehouse | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930163002) | 1w |
+| Sr. Developer Advocate, Machine Learning | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930603002) | 1w |
 | Sr. Developer Advocate, Open Lakehouse | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7871400002) | 1w |
+| Sr. Developer Advocate, Open Lakehouse | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930163002) | 1w |
 |  Sr. Engineering Manager | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002) | 1mo |
 | Sr. Engineering Manager - AI Observability Platform | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8040906002) | 1w |
 | Sr. Engineering Manager - Lakeflow Pipeline | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8109905002) | 1mo |
 | Sr. Engineering Manager  - Photon Team (San Francisco) | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8108743002) | 1mo |
 | Sr. Engineering Manager - Release and Deployment Infrastructure | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7693874002) | 1mo |
-| Sr. GTM Analytics Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002) | 14h |
+| Sr. GTM Analytics Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8177753002) | 15h |
 | Sr. IT Fullstack Software Engineer | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8150154002) | 1w |
 | Sr. Manager, Engineering - Performance | Bellevue, Washington; Mountain View | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8004121002) | 1mo |
 | Sr. Manager, Engineering - Vector Search | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) | 1w |
 | Sr. Manager, Field Engineering - Financial Services (Hunter) | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8089667002) | 1w |
 | Sr. Manager, Field Engineering - HLS Hunter  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8114584002) | 1w |
-| Sr. Manager, Security Software Engineering | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8081337002) | 11h |
+| Sr. Manager, Security Software Engineering | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8081337002) | 12h |
 | Sr NOC Engineer | Heredia, Costa Rica; Sao Paulo | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8094976002) | 1mo |
 | Sr. Product Manager, Data Engineering | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002) | 1mo |
-| Sr. Product Manager, Developer Experience  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7763940002) | 1w |
 | Sr. Product Manager, Developer Experience  | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7764044002) | 1w |
+| Sr. Product Manager, Developer Experience  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7763940002) | 1w |
 | Sr Security Engineer, Incident Response | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8153870002) | 1w |
 | Sr. Software Engineer - GenAI | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002) | 4d |
 | Sr. Software Engineer - Performance | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6569774002) | 1mo |
@@ -367,23 +370,23 @@
 | Staff Fullstack Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) | 1mo |
 | Staff Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) | 1w |
 | Staff Security Software Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) | 1w |
-| Staff Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) | 1mo |
-| Staff Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) | 1mo |
-| Staff Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) | 1mo |
 | Staff Software Engineer - Backend | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) | 1mo |
+| Staff Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) | 1mo |
+| Staff Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) | 1mo |
+| Staff Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) | 1mo |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) | 1mo |
 |  Staff Software Engineer - Database Engine Internals | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002) | 1mo |
 | Staff Software Engineer - Database Engine Internals | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002) | 1mo |
-| Staff Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002) | 1mo |
-| Staff Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002) | 1mo |
-| Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) | 1mo |
 | Staff Software Engineer - Distributed Data Systems | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937000002) | 1mo |
+| Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) | 1mo |
+| Staff Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002) | 1mo |
+| Staff Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002) | 1mo |
 | Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) | 1mo |
 | Staff Software Engineer - IAM | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) | 1mo |
 | Staff Software Engineer - Money Team | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) | 1mo |
 | Staff Software Engineer - Observability (Databases) | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7431175002) | 1mo |
-| Staff Software Engineer - Security Infrastructure | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) | 1mo |
 | Staff Software Engineer - Security Infrastructure | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) | 1mo |
+| Staff Software Engineer - Security Infrastructure | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) | 1mo |
 | Staff Software Engineer - Unity Catalog | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7933498002) | 1mo |
 | Staff Software Engineer - User Activation | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002) | 1mo |
 | Staff Technical Writer, Data Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8021064002) | 5d |
@@ -416,11 +419,10 @@
 | 🎮 **NVIDIA** | OEM Account Applications Engineer | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780) | 3w |
 | 🎮 **NVIDIA** | GPU Architecture Engineer | Santa Clara, CA | [Apply](http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495) | 3w |
 | 🎮 **NVIDIA** | Developer Technology Engineer, AI | Santa Clara, CA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035) | 1w |
-| 🔶 **AMD** | Software Development Eng. | US, CA | [Apply](https://careers-amd.icims.com/jobs/67822/login) | 1d |
-| 🔶 **AMD** | Software Development Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/70707/login) | 1d |
 | 🔶 **AMD** | Software Development Engineer-Networking/RDMA | US, CA | [Apply](https://careers-amd.icims.com/jobs/65106/login) | 1d |
-| 🔶 **AMD** | Linux Kernel Software Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/58023/login) | 1d |
 | 🔶 **AMD** | PMTS Software Development Engineer | US, WA | [Apply](https://careers-amd.icims.com/jobs/70776/login) | 1d |
+| 🔶 **AMD** | Linux Kernel Software Engineer | US, TX | [Apply](https://careers-amd.icims.com/jobs/58023/login) | 1d |
+| 🔶 **AMD** | Software Development Eng. | US, CA | [Apply](https://careers-amd.icims.com/jobs/67822/login) | 1d |
 | ☁️ **Salesforce** | LMTS Backend Software Engineer | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303884/lmts-backend-software-engineer/) | 1h |
 | ☁️ **Salesforce** | Software Engineering LMTS | California - San Francisco, US | [Apply](https://careers.salesforce.com/en/jobs/jr303725/software-engineering-lmts/) | 1h |
 | ☁️ **Salesforce** | Security Software Engineering MTS | Washington - Bellevue, US | [Apply](https://careers.salesforce.com/en/jobs/jr308571/security-software-engineering-mts/) | 1h |
@@ -609,7 +611,7 @@
 | Staff Software Engineer - Desktop Platform | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8030630002) | 2w |
 | Staff Software Engineer, Machine Learning | San Francisco Bay Area or Remote (U.S), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8090744002) | 2mo |
 | Staff Software Engineer, Platform Security | San Francisco Bay Area, CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8177912002) | 1d |
-| Staff Software Engineer, Safety Platform | San Francisco Bay Area (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8175791002) | 12h |
+| Staff Software Engineer, Safety Platform | San Francisco Bay Area (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8175791002) | 13h |
 | Staff Software Engineer - UI and Interactions (Full-Stack) | San Francisco Bay Area or Remote (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/8058456002) | 2mo |
 | Staff Software Engineer – UI/UX Specialist | San Francisco Bay Area or Remote (U.S.), CA | [Apply](https://job-boards.greenhouse.io/discord/jobs/7854326002) | 2mo |
 
@@ -742,7 +744,7 @@
 | Engineering Manager, Fleets | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141332002?gh_jid=8141332002) | 3w |
 | Lead Software Engineer in Test | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8039920002?gh_jid=8039920002) | 2w |
 | Senior Frontend Engineer, Lyft Business | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8160801002?gh_jid=8160801002) | 2w |
-| Senior Frontend Engineer, Map Tooling | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8159747002?gh_jid=8159747002) | 1d |
+| Senior Frontend Engineer, Map Tooling | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8159747002?gh_jid=8159747002) | 2d |
 | Senior Frontend Infra Engineer | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083771002?gh_jid=8083771002) | 3w |
 | Senior Software Engineer - Detection & Placement | Ukraine Anywhere, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/7832339002?gh_jid=7832339002) | 1w |
 | Senior Software Engineer, Lyft Ads | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8161095002?gh_jid=8161095002) | 4d |
@@ -783,7 +785,7 @@
 | Senior Security Engineer, Infrastructure Security | United States, CA | [Apply](https://careers.airbnb.com/positions/6817221?gh_jid=6817221) | 2w |
 | Senior Security Engineer, Threat Detection & Response | United States, CA | [Apply](https://careers.airbnb.com/positions/7134785?gh_jid=7134785) | 2w |
 | Senior Software Engineer, Analytics Infrastructure | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7107439?gh_jid=7107439) | 2w |
-| Senior Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7233106?gh_jid=7233106) | 14h |
+| Senior Software Engineer, Android Platform | Remote - USA, CA | [Apply](https://careers.airbnb.com/positions/7233106?gh_jid=7233106) | 15h |
 | Senior Software Engineer, Booking Orchestration | United States, CA | [Apply](https://careers.airbnb.com/positions/7125301?gh_jid=7125301) | 2w |
 | Senior Software Engineer, Community Support Engineering(Multiple roles) | China, CA | [Apply](https://careers.airbnb.com/positions/6567660?gh_jid=6567660) | 1w |
 | Senior Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095216?gh_jid=7095216) | 2w |
@@ -824,7 +826,7 @@
 | Staff Software Engineer, Community Support Engineering | China, CA | [Apply](https://careers.airbnb.com/positions/6448191?gh_jid=6448191) | 1w |
 | Staff Software Engineer, Community Support Engineering(Product) | China, CA | [Apply](https://careers.airbnb.com/positions/7127885?gh_jid=7127885) | 1w |
 | Staff Software Engineer, Data Engineering | United States, CA | [Apply](https://careers.airbnb.com/positions/7095225?gh_jid=7095225) | 2w |
-| Staff Software Engineer, Data Warehouse Compute | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7094964?gh_jid=7094964) | 15h |
+| Staff Software Engineer, Data Warehouse Compute | Remote USA, CA | [Apply](https://careers.airbnb.com/positions/7094964?gh_jid=7094964) | 16h |
 | Staff Software Engineer, Growth Platform | Remote 🏠 | [Apply](https://careers.airbnb.com/positions/6886222?gh_jid=6886222) | 4d |
 | Staff Software Engineer, Guest Displays & Platforms  | United States, CA | [Apply](https://careers.airbnb.com/positions/7128674?gh_jid=7128674) | 2w |
 | Staff Software Engineer, Guest & Host - Global Markets | China, CA | [Apply](https://careers.airbnb.com/positions/7058464?gh_jid=7058464) | 2w |
@@ -889,8 +891,8 @@
 | 🏢 **Chewy** | Software Engineer 1 - Discovery Recommendations | Bellevue, WA | [Apply](https://boards.greenhouse.io/embed/job_app?token=7187320) | 1d |
 | 🏢 **Royal Carribean Group** | Associate Engineer, Software | Miramar, FL | [Apply](https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500) | 1mo |
 | 🏢 **IXL Learning** | Software Engineer | San Mateo, CA | [Apply](https://www.ixl.com/company/careers?gh_jid=8128533002) | 1mo |
-| 🏢 **IXL Learning** | Software Engineer – New Grad - Multiple Teams | Raleigh, NC | [Apply](https://www.ixl.com/company/jobs?gh_jid=8182862002) | 2h |
-| 🏢 **IXL Learning** | Software Engineer – New Grad - Multiple Teams | San Mateo, CA | [Apply](https://www.ixl.com/company/jobs?gh_jid=8182830002) | 2h |
+| 🏢 **IXL Learning** | Software Engineer – New Grad - Multiple Teams | Raleigh, NC | [Apply](https://www.ixl.com/company/jobs?gh_jid=8182862002) | 3h |
+| 🏢 **IXL Learning** | Software Engineer – New Grad - Multiple Teams | San Mateo, CA | [Apply](https://www.ixl.com/company/jobs?gh_jid=8182830002) | 3h |
 | 🏢 **2K** | US Engineering Graduate Program | Novato, CA | [Apply](https://job-boards.greenhouse.io/2k/jobs/6688546003) | 2w |
 | 🏢 **Blizzard** | Graphics Engineering Intern | Irvine, CA | [Apply](https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern) | 1mo |
 | 🏢 **Choice Hotels** | Software Engineer 1 | Scottsdale, AZ | [Apply](https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319) | 1mo |
@@ -901,7 +903,7 @@
 | 🏢 **Dayton Freight Lines** | Entry Level Software Developer | Dayton, OH | [Apply](https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false) | 1w |
 | 🏢 **Bumble Engineering** | Jr. Software Engineer | Austin, TX | [Apply](https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110) | 2w |
 | 🏢 **Extra Space Storage** | Associate Software Engineer | Salt Lake City, UT | [Apply](https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-72920) | 2w |
-| 🏢 **Cox** | Software Engineer 1 - Engineering / Product Development | Carmel, IN | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459) | 7h |
+| 🏢 **Cox** | Software Engineer 1 - Engineering / Product Development | Carmel, IN | [Apply](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459) | 8h |
 
 ### 💰 **Financial & Fintech** (214 positions)
 
@@ -945,28 +947,28 @@
 | Backend Engineer, Core Technology | Seattle, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=6042172) | 4d |
 | Backend Engineer, Data | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6268625) | 1w |
 | Backend Engineer, Internal Identity | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7261266) | 5d |
-| Broadcast Engineer | San Francisco, CA  | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) | 2w |
+| Broadcast Engineer | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=7264921) | 1d |
 | Community Communications, Product/Developer | SF, NYC | [Apply](https://stripe.com/jobs/search?gh_jid=6831875) | 2w |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) | 2w |
-| Design Engineer, Expansion | United Kingdom, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6972668) | 1w |
 | Design Engineer, Expansion | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6299301) | 1w |
+| Design Engineer, Expansion | United Kingdom, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6972668) | 1w |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) | 2w |
 | Engineering Manager, Compliance Observability | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7061518) | 1w |
 | Engineering Manager, Money as a Service | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7179817) | 1w |
 | Engineering Manager, Privy  | New York Privy HQ, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7129418) | 5d |
-| Engineering Manager, Product and Business | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) | 1w |
 | Engineering Manager, Product and Business | US-Remote, Chicago | [Apply](https://stripe.com/jobs/search?gh_jid=6909015) | 2w |
+| Engineering Manager, Product and Business | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6615981) | 1w |
 | Forward Deployed Engineer, Privy | New York Privy HQ, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7230452) | 2w |
 | Frontend Engineering Manager, Payments | Seattle, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7063232) | 2w |
 | Frontend Engineer, Merchant Experiences | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6892708) | 1w |
-| Full Stack Engineer, Core Technology | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6786568) | 15h |
-| Full Stack Engineer, Developer Experience & Product Platform | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567104) | 15h |
-| Full Stack Engineer, Growth & Seo | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7091160) | 15h |
-| Full Stack Engineer, Money as a Service | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771174) | 15h |
-| Fullstack Engineer, Money as a Service (MaaS) | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6789983) | 15h |
-| Full Stack Engineer, Payments and Risk | n/a, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771172) | 15h |
+| Full Stack Engineer, Core Technology | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6786568) | 16h |
+| Full Stack Engineer, Developer Experience & Product Platform | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567104) | 16h |
+| Full Stack Engineer, Growth & Seo | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7091160) | 16h |
+| Full Stack Engineer, Money as a Service | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771174) | 16h |
+| Fullstack Engineer, Money as a Service (MaaS) | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6789983) | 16h |
+| Full Stack Engineer, Payments and Risk | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567077) | 2w |
+| Full Stack Engineer, Revenue and Finance Automation | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771183) | 16h |
 | Full Stack Engineer, Revenue and Finance Automation | Ireland, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5995109) | 1w |
-| Full Stack Engineer, Revenue and Finance Automation | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771183) | 15h |
 | Integration Engineer, Stablecoin | United States, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7155907) | 6d |
 | Machine Learning Engineer, Identity Product | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) | 2w |
 | Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) | 2w |
@@ -1003,109 +1005,109 @@
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Growth Lead (Staff Software Engineer) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7178394?gh_jid=7178394) | 6h |
-| Engineering Manager, Compliance Technology (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7232692?gh_jid=7232692) | 6h |
-| Engineering Manager (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261791?gh_jid=7261791) | 6h |
-| Engineering Manager, CorpSec | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717) | 6h |
-| Engineering Manager (Institutional - Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6001833?gh_jid=6001833) | 6h |
-| Engineering Manager (Institutional - Prime, Trade Interfaces) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7122616?gh_jid=7122616) | 6h |
-| Engineering Manager - Machine Learning Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7272354?gh_jid=7272354) | 6h |
-| Engineering Manager (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6669525?gh_jid=6669525) | 6h |
-| Engineering Manager, Platform - Data Layer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376) | 6h |
-| Engineering Manager (Platform - Risk Platform, Payments Risk) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261297?gh_jid=7261297) | 6h |
-| Offensive Security Engineer, Assessments (Web3) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6995309?gh_jid=6995309) | 6h |
-| Principal Software Engineer, Backend - Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6710135?gh_jid=6710135) | 6h |
-| Senior Analytics Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6884044?gh_jid=6884044) | 6h |
-| Senior Engineering Manager, Finance Analytics | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6741679?gh_jid=6741679) | 6h |
-| Senior Machine Learning Engineer - Core Automation | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7120635?gh_jid=7120635) | 6h |
-| Senior Manager, Analytics Engineering | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7026478?gh_jid=7026478) | 6h |
-| Senior Product Designer - Developer Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895) | 6h |
-| Senior Security Engineer, Cloud Security | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7187867?gh_jid=7187867) | 6h |
-| Senior Site Reliability Engineer - (Institutional) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7011662?gh_jid=7011662) | 6h |
-| Senior Software Engineer - AI Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7090083?gh_jid=7090083) | 6h |
-| Senior Software Engineer, Backend - AI DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7075417?gh_jid=7075417) | 6h |
-| Senior Software Engineer, Backend (Blockchain Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059327?gh_jid=7059327) | 6h |
-| Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) | 6h |
-| Senior Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202) | 6h |
-| Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) | 6h |
-| Senior Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7011582?gh_jid=7011582) | 6h |
-| Senior Software Engineer, Backend (Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7184757?gh_jid=7184757) | 6h |
-| Senior Software Engineer, Backend - DevX CI | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071511?gh_jid=7071511) | 6h |
-| Senior Software Engineer, Backend - Financial Hub | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7009448?gh_jid=7009448) | 6h |
-| Senior Software Engineer, Backend - Infra Core Reliability  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7075421?gh_jid=7075421) | 6h |
-| Senior Software Engineer, Backend (Institutional - Exchange, Market Data & Analytics) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7155415?gh_jid=7155415) | 6h |
-| Senior Software Engineer, Backend (Institutional - Markets, Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6539959?gh_jid=6539959) | 6h |
-| Senior Software Engineer, Backend - Institutional Product Group | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819) | 6h |
-| Senior Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987) | 6h |
-| Senior Software Engineer, Backend (Institutional - Trading Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394) | 6h |
-| Senior Software Engineer, Backend (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948179?gh_jid=5948179) | 6h |
-| Senior Software Engineer, Blockchain Platform (Blockchain Data Processing)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059330?gh_jid=7059330) | 6h |
-| Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) | 6h |
-| Senior Software Engineer, Data Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6322902?gh_jid=6322902) | 6h |
-| Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) | 6h |
-| Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) | 6h |
-| Senior Software Engineer, Frontend - Developer Experience | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071563?gh_jid=7071563) | 6h |
-| Senior Software Engineer, Frontend - Developer Experience, Mobile | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7165070?gh_jid=7165070) | 6h |
-| Senior Software Engineer, Frontend (Institutional - Foundations, Prime) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071) | 6h |
-| Senior Software Engineer, Frontend - Institutional Products | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7227046?gh_jid=7227046) | 6h |
-| Senior Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948976?gh_jid=5948976) | 6h |
-| Senior Software Engineer, Fullstack (Developer - CDP API) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5961013?gh_jid=5961013) | 6h |
-| Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949461?gh_jid=5949461) | 6h |
-| Senior Software Engineer, Infrastructure (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6206378?gh_jid=6206378) | 6h |
-| Senior Software Engineer, Infrastructure (Platform - Core Reliability) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6881692?gh_jid=6881692) | 6h |
-| Senior Software Engineer, Infrastructure (Platform - Datastores) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6196407?gh_jid=6196407) | 6h |
-| Senior Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955) | 6h |
-| Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614) | 6h |
-| Senior Staff Software Engineer, Backend (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6947953?gh_jid=6947953) | 6h |
-| Senior Staff Software Engineer, Backend - (Platform - Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7171141?gh_jid=7171141) | 6h |
-| Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) | 6h |
-| Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) | 6h |
-| Senior Staff Software Engineer (Platform - DevX) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7181058?gh_jid=7181058) | 6h |
-| Senior Systems Engineer - Identity Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037) | 6h |
-| Software Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) | 6h |
+| AI Growth Lead (Staff Software Engineer) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7178394?gh_jid=7178394) | 7h |
+| Engineering Manager, Compliance Technology (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7232692?gh_jid=7232692) | 7h |
+| Engineering Manager (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261791?gh_jid=7261791) | 7h |
+| Engineering Manager, CorpSec | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6797717?gh_jid=6797717) | 7h |
+| Engineering Manager (Institutional - Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6001833?gh_jid=6001833) | 7h |
+| Engineering Manager (Institutional - Prime, Trade Interfaces) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7122616?gh_jid=7122616) | 7h |
+| Engineering Manager - Machine Learning Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7272354?gh_jid=7272354) | 7h |
+| Engineering Manager (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6669525?gh_jid=6669525) | 7h |
+| Engineering Manager, Platform - Data Layer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7228376?gh_jid=7228376) | 7h |
+| Engineering Manager (Platform - Risk Platform, Payments Risk) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261297?gh_jid=7261297) | 7h |
+| Offensive Security Engineer, Assessments (Web3) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6995309?gh_jid=6995309) | 7h |
+| Principal Software Engineer, Backend - Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6710135?gh_jid=6710135) | 7h |
+| Senior Analytics Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6884044?gh_jid=6884044) | 7h |
+| Senior Engineering Manager, Finance Analytics | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6741679?gh_jid=6741679) | 7h |
+| Senior Machine Learning Engineer - Core Automation | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7120635?gh_jid=7120635) | 7h |
+| Senior Manager, Analytics Engineering | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7026478?gh_jid=7026478) | 7h |
+| Senior Product Designer - Developer Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7260895?gh_jid=7260895) | 7h |
+| Senior Security Engineer, Cloud Security | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7187867?gh_jid=7187867) | 7h |
+| Senior Site Reliability Engineer - (Institutional) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7011662?gh_jid=7011662) | 7h |
+| Senior Software Engineer - AI Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7090083?gh_jid=7090083) | 7h |
+| Senior Software Engineer, Backend - AI DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7075417?gh_jid=7075417) | 7h |
+| Senior Software Engineer, Backend (Blockchain Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059327?gh_jid=7059327) | 7h |
+| Senior Software Engineer, Backend (Consumer - Coinbase Card) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6535338?gh_jid=6535338) | 7h |
+| Senior Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202) | 7h |
+| Senior Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932) | 7h |
+| Senior Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7011582?gh_jid=7011582) | 7h |
+| Senior Software Engineer, Backend (Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7184757?gh_jid=7184757) | 7h |
+| Senior Software Engineer, Backend - DevX CI | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071511?gh_jid=7071511) | 7h |
+| Senior Software Engineer, Backend - Financial Hub | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7009448?gh_jid=7009448) | 7h |
+| Senior Software Engineer, Backend - Infra Core Reliability  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7075421?gh_jid=7075421) | 7h |
+| Senior Software Engineer, Backend (Institutional - Exchange, Market Data & Analytics) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7155415?gh_jid=7155415) | 7h |
+| Senior Software Engineer, Backend (Institutional - Markets, Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6539959?gh_jid=6539959) | 7h |
+| Senior Software Engineer, Backend - Institutional Product Group | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948819?gh_jid=5948819) | 7h |
+| Senior Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7236987?gh_jid=7236987) | 7h |
+| Senior Software Engineer, Backend (Institutional - Trading Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6249394?gh_jid=6249394) | 7h |
+| Senior Software Engineer, Backend (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948179?gh_jid=5948179) | 7h |
+| Senior Software Engineer, Blockchain Platform (Blockchain Data Processing)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059330?gh_jid=7059330) | 7h |
+| Senior Software Engineer (Consumer - Growth & App Infra, Growth Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6276169?gh_jid=6276169) | 7h |
+| Senior Software Engineer, Data Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6322902?gh_jid=6322902) | 7h |
+| Senior Software Engineer, Frontend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961) | 7h |
+| Senior Software Engineer, Frontend (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526) | 7h |
+| Senior Software Engineer, Frontend - Developer Experience | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071563?gh_jid=7071563) | 7h |
+| Senior Software Engineer, Frontend - Developer Experience, Mobile | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7165070?gh_jid=7165070) | 7h |
+| Senior Software Engineer, Frontend (Institutional - Foundations, Prime) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6659071?gh_jid=6659071) | 7h |
+| Senior Software Engineer, Frontend - Institutional Products | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7227046?gh_jid=7227046) | 7h |
+| Senior Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948976?gh_jid=5948976) | 7h |
+| Senior Software Engineer, Fullstack (Developer - CDP API) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5961013?gh_jid=5961013) | 7h |
+| Senior Software Engineer, Fullstack (Institutional - Markets, Onchain Products) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949461?gh_jid=5949461) | 7h |
+| Senior Software Engineer, Infrastructure (Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6206378?gh_jid=6206378) | 7h |
+| Senior Software Engineer, Infrastructure (Platform - Core Reliability) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6881692?gh_jid=6881692) | 7h |
+| Senior Software Engineer, Infrastructure (Platform - Datastores) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6196407?gh_jid=6196407) | 7h |
+| Senior Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955) | 7h |
+| Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614) | 7h |
+| Senior Staff Software Engineer, Backend (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6947953?gh_jid=6947953) | 7h |
+| Senior Staff Software Engineer, Backend - (Platform - Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7171141?gh_jid=7171141) | 7h |
+| Senior Staff Software Engineer, Backend (Platform - FinHub) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6485609?gh_jid=6485609) | 7h |
+| Senior Staff Software Engineer, Backend (Platform - Risk) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6698654?gh_jid=6698654) | 7h |
+| Senior Staff Software Engineer (Platform - DevX) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7181058?gh_jid=7181058) | 7h |
+| Senior Systems Engineer - Identity Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6727037?gh_jid=6727037) | 7h |
+| Software Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6233713?gh_jid=6233713) | 7h |
 | Software Engineer, Application Security | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6863924?gh_jid=6863924) | 1h |
-| Software Engineer, Backend - Blockchain Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059317?gh_jid=7059317) | 6h |
-| Software Engineer, Backend - Blockchain Platform (Blockchain Data Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7088264?gh_jid=7088264) | 6h |
-|  Software Engineer, Backend - Blockchain Platform (Staking Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7094719?gh_jid=7094719) | 6h |
-| Software Engineer, Backend  (Consumer - Coinbase Card) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287) | 6h |
-| Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7135188?gh_jid=7135188) | 6h |
-| Software Engineer, Backend  (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914) | 6h |
-| Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948501?gh_jid=5948501) | 6h |
-| Software Engineer, Backend  (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261) | 6h |
-| Software Engineer, Backend - DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6981984?gh_jid=6981984) | 6h |
-| Software Engineer, Backend - DevX Server Foundations | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7097428?gh_jid=7097428) | 6h |
-| Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6886015?gh_jid=6886015) | 6h |
-| Software Engineer, Backend (Institutional - Markets, Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491) | 6h |
-| Software Engineer, Backend - Institutional Product Group | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7226106?gh_jid=7226106) | 6h |
-| Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213) | 6h |
-| Software Engineer, Backend - Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429) | 6h |
-| Software Engineer, Blockchain Platform (Blockchain Enablement) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872) | 6h |
-| Software Engineer, Blockchain Platform (Staking Validators) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7114605?gh_jid=7114605) | 6h |
-| Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6946930?gh_jid=6946930) | 6h |
-| Software Engineer, Full Stack (EAA) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6652031?gh_jid=6652031) | 6h |
-| Software Engineer, Infrastructure - Platform (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6305997?gh_jid=6305997) | 6h |
-| Software Engineer, Infrastructure (Platform Developer Experience - Release) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6423028?gh_jid=6423028) | 6h |
-| Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636) | 6h |
-| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 6h |
-| Staff Analytics Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7066494?gh_jid=7066494) | 6h |
-| Staff Data Engineer, Blockchain Data | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6883872?gh_jid=6883872) | 6h |
-| Staff Machine Learning Engineer - AI/ML Risk Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642) | 6h |
-| Staff Machine Learning Engineer - (Platform)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6410953?gh_jid=6410953) | 6h |
-| Staff Security Engineer, Network Security | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) | 6h |
-| Staff Software Engineer, Backend (Blockchain Platform - Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071526?gh_jid=7071526) | 6h |
-| Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) | 6h |
-| Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942) | 6h |
-| Staff Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6217958?gh_jid=6217958) | 6h |
-| Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) | 6h |
-| Staff Software Engineer, Backend (Institutional - Settlements & Transfers) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7232387?gh_jid=7232387) | 6h |
-| Staff Software Engineer, Backend - Onchain DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7081419?gh_jid=7081419) | 6h |
-| Staff Software Engineer, Backend (Platform - Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877) | 6h |
-| Staff Software Engineer, Backend (Platform - Finhub) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6599511?gh_jid=6599511) | 6h |
-| Staff Software Engineer, Backend (Platform - Payments) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602) | 6h |
-| Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457) | 6h |
-| Staff Software Engineer (EAA) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6652022?gh_jid=6652022) | 6h |
-| Staff Software Engineer, Infrastructure (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6931583?gh_jid=6931583) | 6h |
-| Staff Software Engineer, Infrastructure - Datastores  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7242171?gh_jid=7242171) | 6h |
+| Software Engineer, Backend - Blockchain Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7059317?gh_jid=7059317) | 7h |
+| Software Engineer, Backend - Blockchain Platform (Blockchain Data Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7088264?gh_jid=7088264) | 7h |
+|  Software Engineer, Backend - Blockchain Platform (Staking Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7094719?gh_jid=7094719) | 7h |
+| Software Engineer, Backend  (Consumer - Coinbase Card) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6535287?gh_jid=6535287) | 7h |
+| Software Engineer, Backend (Consumer - Coinbase One) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7135188?gh_jid=7135188) | 7h |
+| Software Engineer, Backend  (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650914?gh_jid=6650914) | 7h |
+| Software Engineer, Backend (Consumer - Stablecoin) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948501?gh_jid=5948501) | 7h |
+| Software Engineer, Backend  (Consumer - Trading) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261) | 7h |
+| Software Engineer, Backend - DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6981984?gh_jid=6981984) | 7h |
+| Software Engineer, Backend - DevX Server Foundations | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7097428?gh_jid=7097428) | 7h |
+| Software Engineer, Backend (Institutional - Financing) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6886015?gh_jid=6886015) | 7h |
+| Software Engineer, Backend (Institutional - Markets, Derivatives) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491) | 7h |
+| Software Engineer, Backend - Institutional Product Group | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7226106?gh_jid=7226106) | 7h |
+| Software Engineer, Backend (Institutional - Staking) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6739213?gh_jid=6739213) | 7h |
+| Software Engineer, Backend - Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429) | 7h |
+| Software Engineer, Blockchain Platform (Blockchain Enablement) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7233872?gh_jid=7233872) | 7h |
+| Software Engineer, Blockchain Platform (Staking Validators) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7114605?gh_jid=7114605) | 7h |
+| Software Engineer, Frontend - Risk Platform  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6946930?gh_jid=6946930) | 7h |
+| Software Engineer, Full Stack (EAA) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6652031?gh_jid=6652031) | 7h |
+| Software Engineer, Infrastructure - Platform (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6305997?gh_jid=6305997) | 7h |
+| Software Engineer, Infrastructure (Platform Developer Experience - Release) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6423028?gh_jid=6423028) | 7h |
+| Software Engineer, Infrastructure ( Platform DevX - Cloud Provisioning) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5949636?gh_jid=5949636) | 7h |
+| Software Engineer, Machine Learning Platform Engineer  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7137833?gh_jid=7137833) | 7h |
+| Staff Analytics Engineer | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7066494?gh_jid=7066494) | 7h |
+| Staff Data Engineer, Blockchain Data | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6883872?gh_jid=6883872) | 7h |
+| Staff Machine Learning Engineer - AI/ML Risk Platform | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7089642?gh_jid=7089642) | 7h |
+| Staff Machine Learning Engineer - (Platform)  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6410953?gh_jid=6410953) | 7h |
+| Staff Security Engineer, Network Security | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7179630?gh_jid=7179630) | 7h |
+| Staff Software Engineer, Backend (Blockchain Platform - Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7071526?gh_jid=7071526) | 7h |
+| Staff Software Engineer, Backend (Consumer) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948906?gh_jid=5948906) | 7h |
+| Staff Software Engineer, Backend (Consumer - Growth) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942) | 7h |
+| Staff Software Engineer, Backend (Institutional - Exchange) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6217958?gh_jid=6217958) | 7h |
+| Staff Software Engineer, Backend (Institutional - Foundations) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033) | 7h |
+| Staff Software Engineer, Backend (Institutional - Settlements & Transfers) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7232387?gh_jid=7232387) | 7h |
+| Staff Software Engineer, Backend - Onchain DevX | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7081419?gh_jid=7081419) | 7h |
+| Staff Software Engineer, Backend (Platform - Core Automation) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/5948877?gh_jid=5948877) | 7h |
+| Staff Software Engineer, Backend (Platform - Finhub) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6599511?gh_jid=6599511) | 7h |
+| Staff Software Engineer, Backend (Platform - Payments) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6894602?gh_jid=6894602) | 7h |
+| Staff Software Engineer, Backend (Platform - Risk Platform) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6872457?gh_jid=6872457) | 7h |
+| Staff Software Engineer (EAA) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6652022?gh_jid=6652022) | 7h |
+| Staff Software Engineer, Infrastructure (Compute) | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/6931583?gh_jid=6931583) | 7h |
+| Staff Software Engineer, Infrastructure - Datastores  | Remote - USA, CA | [Apply](https://www.coinbase.com/careers/positions/7242171?gh_jid=7242171) | 7h |
 
 </details>
 
@@ -1172,7 +1174,7 @@
 | 🏢 **Blue Origin** | Autonomy Systems Engineer I | Seattle, WA | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1) | 1mo |
 | 🏢 **The Boeing Company** | Entry Level Software Engineer - Flight Simulation | Hazelwood, MO | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011) | 5d |
 | 🏢 **The Boeing Company** | Entry Level Software Engineer - Test and Verification - Test and Verification | Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2) | 1d |
-| 🏢 **The Boeing Company** | Entry Level Software Engineer - Systems Test & Verification - Test & Verification | Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683) | 14h |
+| 🏢 **The Boeing Company** | Entry Level Software Engineer - Systems Test & Verification - Test & Verification | Oklahoma City, OK | [Apply](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683) | 15h |
 | 🏢 **Anduril Industries** | Early Career Software Engineer | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=) | 1mo |
 | 🏢 **Anduril Industries** | Air Dominance & Strike - Flight Software Engineer, Embedded C/C++ | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=) | 1mo |
 | 🏢 **Anduril Industries** | Software Engineer, Connected Warfare | Costa Mesa, CA | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=) | 1mo |
@@ -1199,7 +1201,7 @@
 | 🏢 **Maxar** | Forward Deployed Software Engineer I | Herndon, VA | [Apply](https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1) | 1mo |
 | 🏢 **Moog** | Associate Software Engineer | Torrance, CA | [Apply](https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250) | 1mo |
 | 🏢 **Amentum** | Entry Level Software Engineer | Fredericksburg, VA | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740) | 1w |
-| 🏢 **CACI** | Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team | Rochester, NY | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777) | 3h |
+| 🏢 **CACI** | Entry Level Digital Signal Processing Software Engineer - Mastodon Design Team | Rochester, NY | [Apply](https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_317777) | 4h |
 | 🏢 **Sev1Tech** | Software Developer - Entry Level | Fort Sill, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job) | 1mo |
 | 🏢 **Sev1Tech** | Software Developer – Entry Level | Lawton, OK | [Apply](https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false) | 1w |
 | 🏢 **Sev1Tech** | Software Engineer I | North Charleston, SC | [Apply](https://careers-sev1tech.icims.com/jobs/9185/job?mobile=true&needsRedirect=false) | 4d |
@@ -1248,7 +1250,7 @@
 | 🏢 **Commure** | Software Engineer – Summer 2026 New Grad - Ambient AI | Mountain View, CA | [Apply](https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application) | 3w |
 | 🏢 **Valon** | Software Engineer – New Grad | SF, Locations | [Apply](https://job-boards.greenhouse.io/valon/jobs/4409152006) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (82 positions)
+### 🏭 **Manufacturing & Industrial** (90 positions)
 
 <details>
 <summary><h4>🏢 <strong>Infineon Technologies</strong> (19 positions)</h4></summary>
@@ -1295,6 +1297,24 @@
 | Protection & Automation Electrical Engineering Summer - Fall 2026 Co-Op (North Carolina State University) | Wendell, North Carolina | [Apply](https://jobs.siemens.com/careers) | 1d |
 | Software Developer, Embedded Linux | Peachtree Corners, Georgia | [Apply](https://jobs.siemens.com/careers) | 1d |
 
+#### 🏢 **Honeywell** (13 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Software Engineer | Fort Mill, SC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116510/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Software Engineer II - DDAS Systems | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+| Software Engineer II - Angular/.Net | Costa Mesa, CA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116687/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+| Java Backend Engineer | Richmond, VA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/119429/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
+| Software Engineer | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105028/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3mo |
+| Software Engineer & Computer Science - Recent Grad/Full Time | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113397/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Graphic Driver Developer - RTOS, C++, Multi-core | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115524/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1mo |
+| Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113405/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) | United States | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/113400/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Software Engr | Pittsford, NY | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111738/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1mo |
+| Engineering Tech | Huntsville, AL | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116380/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| DevOps Platform Engineer | Raleigh, NC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| PLC Controls Engineer | Mason, OH | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116978/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+
 | Company | Role | Location | Apply Now | Age |
 |---------|------|----------|-----------|-----|
 | 🏢 **Arm** | Intern Software Engineer | United States | [Apply](https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384) | 1d |
@@ -1320,11 +1340,6 @@
 | 🏢 **Texas Instruments** | Program Management Engineer Intern | Dallas, TX | [Apply](https://careers.ti.com/en/sites/CX/job/25007119/?keyword=software+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2w |
 | 🏢 **Analog Devices** | Embedded Software | 2 Locations, US | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Software_R255245?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 | 🏢 **Analog Devices** | Machine Learning Engineer | US, MA | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Engineer_R255201?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
-| 🏢 **Honeywell** | Software Engineer | Fort Mill, SC | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116510/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
-| 🏢 **Honeywell** | Software Engineer II - DDAS Systems | Phoenix, AZ | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/111406/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| 🏢 **Honeywell** | Software Engineer II - Angular/.Net | Costa Mesa, CA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/116687/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-| 🏢 **Honeywell** | Java Backend Engineer | Richmond, VA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/119429/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2d |
-| 🏢 **Honeywell** | Software Engineer | Atlanta, GA | [Apply](https://careers.honeywell.com/en/sites/Honeywell/job/105028/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3mo |
 | 🏢 **Magna International** | Software Engineer, Industrial IOT | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Customer-Engineer--Software_R00190451?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | 🏢 **Magna International** | Software Engineer I - Thermal Camera | Goleta, California | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Goleta-California-US/Software-Engineer-I---Thermal-Cameras_R00193769?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | 🏢 **Magna International** | Solutions Engineer, Software | Troy, Michigan | [Apply](https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna/job/Troy-Michigan-US/Solutions-Engineer--Software_R00177592?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
@@ -1383,9 +1398,9 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 364 | 32% | No or minimal experience |
-| 🟡 Beginner & Early Career | 371 | 32% | 1-2 years of experience |
-| 🔴 Manager         | 417 | 36% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 364 | 31% | No or minimal experience |
+| 🟡 Beginner & Early Career | 373 | 32% | 1-2 years of experience |
+| 🔴 Manager         | 424 | 37% | 2+ years of experience |
 
 ---
 
@@ -1403,22 +1418,22 @@
 
 ### 👨‍💻 **Top Tech Fields**
 
-#### 💻 Software Engineering (427 positions)
+#### 💻 Software Engineering (428 positions)
 🔵 IBM
 
-#### 🎨 Frontend Development (265 positions)
+#### 🎨 Frontend Development (272 positions)
 ☁️ Salesforce
 
 #### 📊 Data Science & Analytics (142 positions)
 🏢 Micron Technology • 🏢 Magna International
 
 #### 🧠 Machine Learning & AI (121 positions)
-🔵 IBM • ☁️ Salesforce
+🔵 IBM • ☁️ Salesforce • 🏢 Guidehouse
 
 #### ☁️ DevOps & Infrastructure (57 positions)
 🔵 IBM • 🏢 Siemens
 
-#### 📱 Mobile Development (39 positions)
+#### 📱 Mobile Development (40 positions)
 🏢 Dell
 
 #### 🛡️ Security Engineering (34 positions)
@@ -1437,7 +1452,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 1152+ verified CS internships and entry-level software roles from 276 elite tech companies.
+✅ **100% Real Jobs:** 1161+ verified CS internships and entry-level software roles from 276 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -1490,7 +1505,7 @@
 
 <div align="center">
 
-**🎯 1152 current opportunities from 276 elite companies.**
+**🎯 1161 current opportunities from 276 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
