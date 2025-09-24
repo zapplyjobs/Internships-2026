@@ -1,33 +1,22 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering SMTS",
-    "job_city": "Washington - Seattle",
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern:",
+    "job_city": "shipTUCSON",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• 6+ years of hands-on experience in designing, building, scaling, and maintaining production servicesProficient in modern software architectural principles and patterns (Domain-driven design, REST, GraphQL etc)Experience delivering distributed systems and high-scale microservices on AWSExperience with serverless architecture (AWS components like Lambda , API Gateway, DynamoDB , AppSync, OpenSearch, ElastiCache etc)Experience developing front-end and back-end software, preferably including JavaScript or TypeScript and runtimes, including Node.\n• Experience working with authentication and authorization protocols/frameworks (OpenID Connect, OAuth, SAML etc.\n• )Experience in working with AI models and integration with LLM gatewaysExperience in test-driven development and testing frameworks (Jest, Playwright, and other related test frameworks a plus).\n• Experience in Service orchestration using tools like Terraform (preferred)Strong verbal and written communication skills Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Design, build, and maintain APIs and services that are consumed by www.\n• Com as well as other website experiences on the Salesforce digital platformDesign, implement, test, and deliver scalable, extensible, maintainable and observable servicesOperate effectively in an Agile and DevOps environment where engineers are expected to be able to design and execute the necessary work to ensure quality in their code as well as other engineers'Work closely with a team of engineers, product managers, and architects to build new features our internal customers will adopt while keeping our trusted platform stable and scalableDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Deep and proven experience within the marketing technologies domain, with focus on areas like content management, classification and taxonomy, Customer Identity experiencesTrack record of delivering transformative solutions across complex platform ecosystems.\n• University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr300622/software-engineering-smts/",
-    "id": "salesforce-software-engineering-smts-washington-seattle"
-  },
-  {
-    "employer_name": "Siemens",
-    "job_title": "Manufacturing Engineering Co-op - Spring 2026 (Northeastern University)",
-    "job_city": "Hingham",
-    "job_state": "Massachusetts",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Manufacturing Engineering Co-op - Spring 2026 (Northeastern University)",
-    "job_apply_link": "https://jobs.siemens.com/careers",
-    "id": "siemens-manufacturing-engineering-co-op-spring-2026-northeastern-university-hingham"
+    "job_description": "software engineering job for the role Hardware Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58729&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-shiptucson"
   },
   {
-    "job_title": "Cloud & AI Solution Engineer - Azure Platform",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882763",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-redmond"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - HBM Software Engineer",
+    "job_city": "Richardson",
+    "job_state": "Texas",
+    "job_posted_at": "1w",
+    "job_description": "• Collaborate with business analysts and product managers to clarify requirements.\n• Experience with Python, JavaScript, Node.\n• Knowledge of web fundamentals (HTML5, CSS3), responsive layouts, accessibility, and performance optimization (e.\n• Familiarity with the software development lifecycle, coding standards, source control, and build pipelines.\n• Ability to solve straightforward problems with guidance and work independently on assigned tasks.\n• Familiarity with Docker, cloud platforms (AWS/Azure/GCP), and observability tools.\n• NET) in team projects.\n• For front-end focused candidates: proficiency in TypeScript and React.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38038147",
+    "id": "micron-technology-intern-hbm-software-engineer-richardson"
   }
 ]
