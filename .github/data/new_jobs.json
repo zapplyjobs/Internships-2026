@@ -1,35 +1,45 @@
 [
   {
-    "job_title": "Machine Learning Engineer, Supportability",
-    "employer_name": "Stripe",
-    "job_city": "San Francisco or Seattle",
-    "job_state": "CA",
-    "job_description": "Join Stripe to help build the economic infrastructure for the internet.",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7176812",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "stripe-machine-learning-engineer-supportability-san-francisco-or-seattle"
+    "employer_name": "Amazon",
+    "job_title": "Software Engineer",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "2mo",
+    "job_description": "software engineering job for the role Software Engineer",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3020911/software-engineer",
+    "id": "amazon-software-engineer-new-york"
   },
   {
-    "job_title": "Senior Software Engineer - CTJ - TS/SCI",
+    "job_title": "Solution Engineer Dynamics 365 Sales & Service",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882655",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1845916",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-ctj-ts-sci-redmond"
+    "id": "microsoft-solution-engineer-dynamics-365-sales-service-redmond"
   },
   {
-    "job_title": "Staff Software Engineer – Machine Learning",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916114700",
-    "job_posted_at": "2d",
+    "job_title": "Principal Silicon Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879524",
+    "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-staff-software-engineer-machine-learning-san-jose"
+    "id": "microsoft-principal-silicon-engineer-redmond"
+  },
+  {
+    "job_title": "Software Engineer University Grad",
+    "employer_name": "Pinterest",
+    "job_city": "San Francisco",
+    "job_state": "Locations",
+    "job_description": "Join Pinterest in this exciting opportunity.",
+    "job_apply_link": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "pinterest-software-engineer-university-grad-san-francisco"
   }
 ]
