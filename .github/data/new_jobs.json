@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "job_title": "Presales Solution Engineer for AI Business Solutions (Sales & Service, CRM))",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880430",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-presales-solution-engineer-for-ai-business-solutions-sales-service-crm-redmond"
+  },
+  {
+    "job_title": "Principal AI Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879533",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-ai-engineer-redmond"
+  }
+]
