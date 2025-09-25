@@ -409,7 +409,7 @@
 |------|----------|-----------|-----|
 | Software Engineer – New Grad | SF, Locations | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4605996005) | 2w |
 
-### 💻 **Enterprise Software** (43 positions)
+### 💻 **Enterprise Software** (44 positions)
 
 #### 🏢 **Cisco** (1 position)
 
@@ -624,7 +624,13 @@
 |------|----------|-----------|-----|
 | Machine Learning Engineer – Entry Level | Plano, TX | [Apply](https://boards.greenhouse.io/embed/job_app?token=8174950002) | 6d |
 
-### 🚀 **Startups & Growth** (173 positions)
+#### 🏢 **NorthMark Strategies** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Graduate Engineering Program | Dallas, TX | [Apply](https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714) | 2d |
+
+### 🚀 **Startups & Growth** (176 positions)
 
 #### 🏢 **BAE Systems** (1 position)
 
@@ -1180,6 +1186,24 @@
 |------|----------|-----------|-----|
 | Data Software Engineer 1 - Enterprise Information Services | Washington, Locations | [Apply](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647) | 1d |
 
+#### 🏢 **Hireology** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Associate Software Engineer | Remote in USA, Locations | [Apply](https://careers.hireology.com/hireology2/2521103/description) | 1w |
+
+#### 🏢 **CoStar Group** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Associate Software Engineer | San Diego, CA | [Apply](https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1) | 3d |
+
+#### 🏢 **NextEra Energy** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Software Development Engineer 1 - New Product Engineering | St Paul, MN | [Apply](https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors) | 2d |
+
 ### 🛒 **Consumer & E-Commerce** (149 positions)
 
 #### 🚗 **Uber** (1 position)
@@ -1475,7 +1499,7 @@
 | Future Builders Recent College Grad Program - Software Engineering | Bentonville, AR | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694) | 2w |
 | Future Builders Recent College Grad Program - Data Engineering | Bentonville, AR | [Apply](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Data-Engineering_R25_0000003696) | 2w |
 
-### 💰 **Financial & Fintech** (214 positions)
+### 💰 **Financial & Fintech** (216 positions)
 
 <details>
 <summary><h4>💳 <strong>Stripe</strong> (60 positions)</h4></summary>
@@ -1819,6 +1843,13 @@
 |------|----------|-----------|-----|
 | Associate AI Developer | Charlotte, NC | [Apply](https://jobs.lever.co/perrknight/b47e39ce-e26f-48aa-b53a-f93c87544101) | 1mo |
 
+#### 🏢 **JPMorganChase** (2 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Software Engineer | Austin, TX | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649912) | 1mo |
+| Software Engineer | Wilmington, DE | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210649942) | 1mo |
+
 #### 🏢 **American Express** (2 positions)
 
 | Role | Location | Apply Now | Age |
@@ -2014,7 +2045,7 @@
 | 2026 Raytheon Systems Security Engineer I | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331) | 1w |
 | Software Engineer 1 | Annapolis, MD | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I--Onsite-_01790428) | 3d |
 | Software Engineer 1 - Air & Missile Defense Software Department | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017) | 14h |
-| Fiori Front End Developer – Entry level | Waterbury, CT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231) | 7h |
+| Fiori Front End Developer – Entry level | Waterbury, CT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231) | 8h |
 | Systems Security Engineer 1 - Systems Security Engineering | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370) | 2h |
 
 #### 🏢 **North Atlantic Industries** (1 position)
