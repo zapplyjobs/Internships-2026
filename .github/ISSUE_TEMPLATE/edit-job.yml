@@ -1,21 +1,22 @@
 name: ✏️ Edit Job Posting Form
-description: Update or correct an existing job posting
+description: Suggest updates or corrections to an existing U.S. job listing
 title: "[EDIT] Company Name - Position Title"
 labels: ["edit-job", "pending-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to contribute!
-        
-        Please only fill in link, reason, and whichever fields you would like to edit.
-        You may leave the others empty.
+        👋 Thanks for helping improve this job board!  
+
+        Please provide the **job link** and a **reason for your edit**.  
+        Only update the fields that need corrections — leave others blank.  
+        This repo focuses on **early-to-mid career jobs in the U.S.**, so keep that in mind.
         
   - type: input
     id: job-link
     attributes:
-      label: Link to Job Posting
-      description: Link to the existing job posting in our database that needs editing
+      label: Job Posting Link
+      description: Link to the job listing in our repo that you want to update
       placeholder: "ex: example.com/link/to/posting"
     validations:
       required: true
@@ -24,7 +25,7 @@ body:
     id: company-name
     attributes:
       label: Company Name
-      description: Current or corrected company name
+      description: Correct or updated company name (if different)
       placeholder: "ex: Google"
     validations:
       required: false
@@ -33,8 +34,8 @@ body:
     id: job-title
     attributes:
       label: Job Title
-      description: Current or corrected job title
-      placeholder: "ex: ML Software Engineer"
+      description: Correct or updated job title
+      placeholder: "ex: Software Engineer (New Grad)"
     validations:
       required: false
       
@@ -42,16 +43,16 @@ body:
     id: location
     attributes:
       label: Location
-      description: "Where is the job located? Please separate locations with a pipe '|' if there are multiple options. Include Remote if remote option available."
-      placeholder: "ex: San Francisco, CA | Austin, TX | Remote"
+      description: "Where is this role based? Separate multiple locations with `|`. Add 'Remote' if applicable."
+      placeholder: "ex: San Francisco, CA | Austin, TX | Remote (U.S. only)"
     validations:
       required: false
       
   - type: dropdown
     id: job-category
     attributes:
-      label: What category does this job belong to?
-      description: Select the category that best fits this job posting
+      label: Job Category
+      description: Select the category that best matches this role
       options:
         - "Not Selected"
         - "Software Engineering"
@@ -60,9 +61,9 @@ body:
         - "Design (UI/UX)"
         - "DevOps/Infrastructure"
         - "Security/Cybersecurity"
-        - "Quality Assurance"
+        - "Quality Assurance/Testing"
         - "Research/AI/ML"
-        - "Hardware Engineering"
+        - "Hardware/Embedded Engineering"
         - "Other"
     validations:
       required: false
@@ -70,26 +71,26 @@ body:
   - type: dropdown
     id: sponsorship
     attributes:
-      label: Does this job offer sponsorship?
-      description: "If this posting does not fall into one of these categories, select 'Other' then specify in parentheses at the end of the job Title what the sponsorship status is"
+      label: Sponsorship Status
+      description: Does this role offer U.S. work visa sponsorship (H1B/OPT/CPT)?
       options:
         - "Not Selected"
         - "Offers Sponsorship"
         - "Does Not Offer Sponsorship"
-        - "Sponsorship Not Specified"
-        - "Other (specify in reason)"
+        - "Not Specified"
+        - "Other (explain in reason)"
     validations:
       required: false
       
   - type: dropdown
     id: accepting-applications
     attributes:
-      label: Is this job posting currently accepting applications?
-      description: "Mark this as 'false' if the job is no longer active"
+      label: Application Status
+      description: Mark "No" if applications are no longer being accepted
       options:
         - "Not Selected"
-        - "Yes"
-        - "No"
+        - "Yes - Open"
+        - "No - Closed"
         - "Unknown"
     validations:
       required: false
@@ -97,26 +98,27 @@ body:
   - type: checkboxes
     id: degree-requirements
     attributes:
-      label: Advanced Degree Requirements
-      description: "Check this box only if this position specifically requires a Master's degree, Ph.D. or other advanced degree (and does NOT accept bachelor's degrees)"
+      label: Degree Requirements
+      description: Check this only if the job **requires** a Master’s, PhD, or higher (not just preferred)
       options:
-        - label: This position requires a Master's degree or higher
+        - label: This job requires a Master's degree or higher
           required: false
           
   - type: checkboxes
     id: remove-job
     attributes:
-      label: Permanently remove this job from the list?
-      description: "Only check this box if this job is fake, does not fit the theme of the repo, or is otherwise. DO NOT check this box for jobs that are no longer active"
+      label: Remove Job Listing
+      description: Select this only if the job is fake, irrelevant, or outside the scope of U.S. early-to-mid career jobs.  
+                   Do **not** select this just because a job expired.
       options:
-        - label: "Yes, remove this job"
+        - label: "Yes, remove this job from the list"
           required: false
           
   - type: input
     id: email
     attributes:
-      label: Email associated with your GitHub account (Optional)
-      description: "If you would like to be listed as the contributor to the repository when our GitHub action commits your contribution to the repo, please provide your email. This is the only time your email will be used, if left blank, your contribution will still be made, but it will be made by the bot actions@github.com."
+      label: Contributor Email (Optional)
+      description: "Provide your GitHub email if you’d like to be credited for the commit. Otherwise, the bot (actions@github.com) will handle it."
       placeholder: "ex: firstname@gmail.com"
     validations:
       required: false
@@ -124,21 +126,21 @@ body:
   - type: textarea
     id: reason-for-edit
     attributes:
-      label: Reason for edit
-      description: "If the reason for your edit is not obvious, please explain here:"
-      placeholder: "This job is no longer accepting applications..."
+      label: Reason for Edit
+      description: Explain why you are suggesting this update
+      placeholder: "ex: This posting is no longer accepting applications..."
     validations:
       required: true
       
   - type: checkboxes
     id: verification
     attributes:
-      label: Verification Checklist
-      description: Please confirm the following before submitting
+      label: Contributor Checklist
+      description: Confirm the following before submitting
       options:
-        - label: I have verified the information I am providing is accurate
+        - label: I confirm the information I provided is accurate
           required: true
-        - label: I have provided a clear reason for this edit
+        - label: I have clearly explained the reason for this edit
           required: true
-        - label: I understand that false or misleading edits may result in my contribution being rejected
+        - label: I understand that false or misleading edits may be rejected
           required: true

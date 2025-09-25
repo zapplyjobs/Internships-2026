@@ -760,7 +760,7 @@ async function fetchInternshipData() {
     {
       company: "Meta",
       program: "Software Engineer Internship",
-      url: "https://www.metacareers.com/students/",
+      url: "https://www.metacareers.com/careerprograms/students",
       deadline: "Various",
     },
     {
@@ -772,7 +772,7 @@ async function fetchInternshipData() {
     {
       company: "Apple",
       program: "Software Engineering Internship",
-      url: "https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN",
+      url: "https://jobs.apple.com/en-us/search?search=software+engineering&sort=relevance&location=united-states-USA&team=internships-STDNT-INTRN",
       deadline: "Various",
     },
     {

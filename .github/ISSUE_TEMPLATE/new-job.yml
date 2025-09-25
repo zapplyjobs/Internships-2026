@@ -1,18 +1,23 @@
 name: 🚀 New Job Posting Contribution Form
-description: Add a new job posting to our database
+description: Add a new early-to-mid career job posting (U.S. focused)
 title: "[NEW JOB] Company Name - Position Title"
 labels: ["new-job", "pending-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to contribute!
-        
+        👋 Thanks for contributing a new job listing!  
+
+        Please make sure the role fits this repo’s focus:  
+        - 📍 **U.S.-based roles** (or remote with U.S. eligibility)  
+        - 🎓 **Early-to-mid career opportunities** (not senior/executive roles)  
+        - ✅ Verified as an active and legitimate posting  
+
   - type: input
     id: job-url
     attributes:
-      label: Link to Job Posting
-      description: Direct URL to the job application page
+      label: Job Posting Link
+      description: Direct link to the company’s official job application page
       placeholder: "ex: example.com/link/to/posting"
     validations:
       required: true
@@ -31,7 +36,7 @@ body:
     attributes:
       label: Job Title
       description: Official position title
-      placeholder: "ex: ML Software Engineer"
+      placeholder: "ex: Software Engineer (New Grad)"
     validations:
       required: true
       
@@ -39,16 +44,16 @@ body:
     id: location
     attributes:
       label: Location
-      description: "Where is the job located? Please separate locations with a pipe '|' if there are multiple options. Include Remote if remote option available."
-      placeholder: "San Francisco, CA | Austin, TX | Remote"
+      description: "Where is the role located? Use `|` to separate multiple offices. Add 'Remote (U.S. only)' if remote."
+      placeholder: "San Francisco, CA | Austin, TX | Remote (U.S. only)"
     validations:
       required: true
       
   - type: dropdown
     id: job-category
     attributes:
-      label: What category does this job belong to?
-      description: Select the category that best fits this job posting
+      label: Job Category
+      description: Choose the category that best describes this role
       options:
         - Software Engineering
         - Data Science/Analytics
@@ -56,9 +61,9 @@ body:
         - Design (UI/UX)
         - DevOps/Infrastructure
         - Security/Cybersecurity
-        - Quality Assurance
+        - Quality Assurance/Testing
         - Research/AI/ML
-        - Hardware Engineering
+        - Hardware/Embedded Engineering
         - Other
     validations:
       required: true
@@ -66,24 +71,24 @@ body:
   - type: dropdown
     id: sponsorship
     attributes:
-      label: Does this job offer sponsorship?
-      description: "If this posting does not fall into one of these categories, select 'Other' then specify in parentheses at the end of the job Title what the sponsorship status is"
+      label: Sponsorship Status
+      description: Does this job provide U.S. work visa sponsorship (H1B/OPT/CPT)?
       options:
         - "Offers Sponsorship"
         - "Does Not Offer Sponsorship"
-        - "Sponsorship Not Specified"
-        - "Other (specify in reason)"
+        - "Not Specified"
+        - "Other (explain in Extra Notes)"
     validations:
       required: true
       
   - type: dropdown
     id: accepting-applications
     attributes:
-      label: Is this job posting currently accepting applications?
-      description: Confirm the application status
+      label: Application Status
+      description: Confirm if the role is actively accepting applications
       options:
-        - "Yes"
-        - "No"
+        - "Yes - Open"
+        - "No - Closed"
         - "Unknown"
     validations:
       required: true
@@ -91,17 +96,17 @@ body:
   - type: checkboxes
     id: degree-requirements
     attributes:
-      label: Advanced Degree Requirements
-      description: "Check this box only if this position specifically requires a Master's degree, Ph.D. or other advanced degree (and does NOT accept bachelor's degrees)"
+      label: Degree Requirements
+      description: Select only if the role **requires** a Master’s, PhD, or higher (not just preferred)
       options:
-        - label: This position requires a Master's degree or higher
+        - label: This job requires a Master's degree or higher
           required: false
           
   - type: input
     id: email
     attributes:
-      label: Email associated with your GitHub account (Optional)
-      description: "If you would like to be listed as the contributor to the repository when our GitHub action commits your contribution to the repo, please provide your email. This is the only time your email will be used, if left blank, your contribution will still be added, but it will be made by the bot actions@github.com."
+      label: Contributor Email (Optional)
+      description: "Provide your GitHub email if you want to be credited in commits. Otherwise, the bot (actions@github.com) will handle it."
       placeholder: "ex: firstname@gmail.com"
     validations:
       required: false
@@ -110,22 +115,24 @@ body:
     id: extra-notes
     attributes:
       label: Extra Notes (Optional)
-      description: "Optionally, you may provide extra context/insight to our team about the job. This will not be shown anywhere on the repo, but might ensure your contribution is accepted."
-      placeholder: "This is an exciting new company in the ai space..."
+      description: "Add any context, details, or clarifications for reviewers. This will not appear in the public repo."
+      placeholder: "ex: This role is part of their Early Careers program..."
     validations:
       required: false
       
   - type: checkboxes
     id: verification
     attributes:
-      label: Verification Checklist
-      description: Please confirm the following before submitting
+      label: Contributor Checklist
+      description: Please confirm the following before submitting:
       options:
-        - label: I have verified this job posting is legitimate and currently accepting applications
+        - label: I have verified this job posting is legitimate and currently open
           required: true
-        - label: I have checked that this job is not already in our database
+        - label: I have checked that this job is not already listed in the repo
           required: true
-        - label: I confirm this position is located in US, Canada, or offers Remote work
+        - label: I confirm this role is U.S.-based or offers U.S.-eligible Remote work
+          required: true
+        - label: I confirm this is an early-to-mid career opportunity (not senior/executive)
           required: true
         - label: I have provided accurate information to the best of my knowledge
           required: true
