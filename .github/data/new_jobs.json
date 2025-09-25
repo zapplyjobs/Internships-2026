@@ -1,24 +1,45 @@
 [
   {
-    "job_title": "Data Engineer 1",
-    "employer_name": "Trend Health Partners",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join Trend Health Partners in this exciting opportunity.",
-    "job_apply_link": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "trend-health-partners-data-engineer-1-remote-in-usa"
+    "employer_name": "IBM",
+    "job_title": "Client Engineering AI Engineer",
+    "job_city": "",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Client Engineering AI Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60660&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-ai-engineer-"
   },
   {
-    "job_title": "Fiori Front End Developer – Entry level",
-    "employer_name": "RTX",
-    "job_city": "Waterbury",
-    "job_state": "CT",
-    "job_description": "Join RTX in this exciting opportunity.",
-    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
+    "job_title": "Senior Technical Support Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1874236",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "rtx-fiori-front-end-developer-entry-level-waterbury"
+    "id": "microsoft-senior-technical-support-engineer-redmond"
+  },
+  {
+    "job_title": "Principal Software Engineering Manager- SxG",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1879172",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-principal-software-engineering-manager-sxg-redmond"
+  },
+  {
+    "job_title": "Cloud & AI Solution Engineer – Azure Platform - Early in Career",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880351",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-cloud-ai-solution-engineer-azure-platform-early-in-career-redmond"
   }
 ]
