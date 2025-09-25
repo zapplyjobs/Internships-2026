@@ -152,7 +152,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | [Apply](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
@@ -190,7 +190,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|`;
+    return `| ${emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a>|`;
   })
   .join("\n")}
 
@@ -201,7 +201,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|`
+      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"><svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="5" width="90" height="40" rx="8" ry="8" fill="#4a5d6b" stroke="none"/><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.3)"/></filter></defs><rect x="5" y="5" width="90" height="40" rx="8" ry="8" fill="#4a5d6b" filter="url(#shadow)"/><text x="50" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" letter-spacing="1px">VISIT NOW</text></svg></a>|`
   )
   .join("\n")}
 
@@ -271,7 +271,7 @@ async function generateReadme(
 
 ## **Join Community**
 
-**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join developers and CS students navigating their career journey together!
+**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join (our community of) developers and CS students navigating their career journey together!
 
 
 ---
@@ -293,207 +293,76 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ${generateJobTable(currentJobs)}
 
+
 ---
 ## **✨ Insights on the Repo**
 
 ### 🏢 **Top Companies**
 
-### 🌟 FAANG+ Companies
-*${companies?.faang_plus?.length || 0} companies • Premium technology leaders*
+#### ⭐ **FAANG+** (${companies?.faang_plus?.length || 0} companies)
+${companies?.faang_plus?.map((c) => {
+  if (stats && stats.byCategory && currentJobs) {
+    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
+    const totalJobs = companyJobs.length;
+    
+    if (totalJobs > 0) {
+      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    }
+  }
+  return `**[${c.name}](${c.career_url})**`;
+}).join(" • ") || "No companies available"}
 
-${
-  companies?.faang_plus
-    ?.map((c) => {
-      if (stats && stats.byCategory && currentJobs) {
-        const companyJobs = currentJobs.filter(
-          (job) => job.employer_name === c.name
-        );
-        const totalJobs = companyJobs.length;
+#### 🦄 **Unicorn Startups** (${companies?.unicorn_startups?.length || 0} companies)
+${companies?.unicorn_startups?.map((c) => {
+  if (stats && stats.byCategory && currentJobs) {
+    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
+    const totalJobs = companyJobs.length;
+    
+    if (totalJobs > 0) {
+      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    }
+  }
+  return `**[${c.name}](${c.career_url})**`;
+}).join(" • ") || "No companies available"}
 
-        if (totalJobs > 0) {
-          const jobCategories = companyJobs.reduce((acc, job) => {
-            const category =
-              getJobCategory(job.job_title, job.job_description) || "Other";
-            acc[category] = (acc[category] || 0) + 1;
-            return acc;
-          }, {});
+#### 💰 **Fintech Leaders** (${companies?.fintech?.length || 0} companies)
+${companies?.fintech?.map((c) => {
+  if (stats && stats.byCategory && currentJobs) {
+    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
+    const totalJobs = companyJobs.length;
+    
+    if (totalJobs > 0) {
+      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    }
+  }
+  return `**[${c.name}](${c.career_url})**`;
+}).join(" • ") || "No companies available"}
 
-          const sortedCategories = Object.entries(jobCategories)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 3);
+#### 🎮 **Gaming & Entertainment** (${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].length} companies)
+${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].map((c) => {
+  if (stats && stats.byCategory && currentJobs) {
+    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
+    const totalJobs = companyJobs.length;
+    
+    if (totalJobs > 0) {
+      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    }
+  }
+  return `**[${c.name}](${c.career_url})**`;
+}).join(" • ") || "No companies available"}
 
-          const jobsText = sortedCategories
-            .map(([cat, count]) => `**${count}** ${cat}`)
-            .join(" • ");
-
-          return `**${c.emoji} [${c.name}](${c.career_url})**\n*Available positions:* ${jobsText}`;
-        }
-      }
-      return `**${c.emoji} [${c.name}](${c.career_url})`;
-    })
-    .join("\n\n") || "*No companies available*"
-}
-
----
-
-### 🦄 Unicorn Startups
-*${companies?.unicorn_startups?.length || 0} companies • High-growth potential*
-
-${
-  companies?.unicorn_startups
-    ?.map((c) => {
-      if (stats && stats.byCategory && currentJobs) {
-        const companyJobs = currentJobs.filter(
-          (job) => job.employer_name === c.name
-        );
-        const totalJobs = companyJobs.length;
-
-        if (totalJobs > 0) {
-          const jobCategories = companyJobs.reduce((acc, job) => {
-            const category =
-              getJobCategory(job.job_title, job.job_description) || "Other";
-            acc[category] = (acc[category] || 0) + 1;
-            return acc;
-          }, {});
-
-          const sortedCategories = Object.entries(jobCategories)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 3);
-
-          const jobsText = sortedCategories
-            .map(([cat, count]) => `**${count}** ${cat}`)
-            .join(" • ");
-
-          return `**${c.emoji} [${c.name}](${c.career_url})**\n*Available positions:* ${jobsText}`;
-        }
-      }
-      return `**${c.emoji} [${c.name}](${c.career_url})**\n`;
-    })
-    .join("\n\n") || "*No companies available*"
-}
-
----
-
-## 🎯 Industry Leaders
-
-### 💰 Fintech & Financial Services
-*${companies?.fintech?.length || 0} companies • Financial innovation*
-
-${
-  companies?.fintech
-    ?.map((c) => {
-      if (stats && stats.byCategory && currentJobs) {
-        const companyJobs = currentJobs.filter(
-          (job) => job.employer_name === c.name
-        );
-        const totalJobs = companyJobs.length;
-
-        if (totalJobs > 0) {
-          const jobCategories = companyJobs.reduce((acc, job) => {
-            const category =
-              getJobCategory(job.job_title, job.job_description) || "Other";
-            acc[category] = (acc[category] || 0) + 1;
-            return acc;
-          }, {});
-
-          const sortedCategories = Object.entries(jobCategories)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 3);
-
-          const jobsText = sortedCategories
-            .map(([cat, count]) => `**${count}** ${cat}`)
-            .join(" • ");
-
-          return `**${c.emoji} [${c.name}](${c.career_url})**\n*Available positions:* ${jobsText}`;
-        }
-      }
-      return `**${c.emoji} [${c.name}](${c.career_url})**\n`;
-    })
-    .join("\n\n") || "*No companies available*"
-}
-
----
-
-### 🎮 Gaming & Entertainment
-*${
-    [...(companies?.gaming || []), ...(companies?.media_entertainment || [])]
-      .length
-  } companies • Creative & interactive media*
-
-${
-  [...(companies?.gaming || []), ...(companies?.media_entertainment || [])]
-    .map((c) => {
-      if (stats && stats.byCategory && currentJobs) {
-        const companyJobs = currentJobs.filter(
-          (job) => job.employer_name === c.name
-        );
-        const totalJobs = companyJobs.length;
-
-        if (totalJobs > 0) {
-          const jobCategories = companyJobs.reduce((acc, job) => {
-            const category =
-              getJobCategory(job.job_title, job.job_description) || "Other";
-            acc[category] = (acc[category] || 0) + 1;
-            return acc;
-          }, {});
-
-          const sortedCategories = Object.entries(jobCategories)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 3);
-
-          const jobsText = sortedCategories
-            .map(([cat, count]) => `**${count}** ${cat}`)
-            .join(" • ");
-
-          return `**${c.emoji} [${c.name}](${c.career_url})**\n*Available positions:* ${jobsText}`;
-        }
-      }
-      return `**${c.emoji} [${c.name}](${c.career_url})**\n`;
-    })
-    .join("\n\n") || "*No companies available*"
-}
-
----
-
-### ☁️ Enterprise & Cloud Solutions
-*${
-    [...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])]
-      .length
-  } companies • Business technology*
-
-${
-  [...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])]
-    .map((c) => {
-      if (stats && stats.byCategory && currentJobs) {
-        const companyJobs = currentJobs.filter(
-          (job) => job.employer_name === c.name
-        );
-        const totalJobs = companyJobs.length;
-
-        if (totalJobs > 0) {
-          const jobCategories = companyJobs.reduce((acc, job) => {
-            const category =
-              getJobCategory(job.job_title, job.job_description) || "Other";
-            acc[category] = (acc[category] || 0) + 1;
-            return acc;
-          }, {});
-
-          const sortedCategories = Object.entries(jobCategories)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 3);
-
-          const jobsText = sortedCategories
-            .map(([cat, count]) => `**${count}** ${cat}`)
-            .join(" • ");
-
-          return `**${c.emoji} [${c.name}](${c.career_url})**\n*Available positions:* ${jobsText}`;
-        }
-      }
-      return `**${c.emoji} [${c.name}](${c.career_url})**\n`;
-    })
-    .join("\n\n") || "*No companies available*"
-}
-
+#### ☁️ **Enterprise & Cloud** (${[...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])].length} companies)
+${[...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])].map((c) => {
+  if (stats && stats.byCategory && currentJobs) {
+    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
+    const totalJobs = companyJobs.length;
+    
+    if (totalJobs > 0) {
+      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    }
+  }
+  return `**[${c.name}](${c.career_url})**`;
+}).join(" • ") || "No companies available"}
 ---
 
 ### 📈 **Experience Breakdown**
