@@ -1,77 +1,33 @@
 [
   {
-    "employer_name": "Broadcom",
-    "job_title": "R&D Software Engineer - Virtual Machine Monitor",
-    "job_city": "3 Locations",
+    "employer_name": "IBM",
+    "job_title": "Entry Level User Experience Designer",
+    "job_city": "Austin",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• VCF Senior Technical Support Engineer - StoragelocationsIRL-Cork-Kavanagh Housetime typeFull timeposted onPosted 7 Days AgoR023727 Senior Technical Support EngineerlocationsIND-Bangalore-Kalyani Vista IItime typeFull timeposted onPosted 7 Days AgoR023725 Principal Engineer - Lifecycle ManagementlocationsUSA-CA - Promontory Btime typeFull timeposted onPosted 7 Days AgoR023737.",
-    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer---Virtual-Machine-Monitor_R023242?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "broadcom-r-d-software-engineer-virtual-machine-monitor-3-locations"
+    "job_description": "software engineering job for the role Entry Level User Experience Designer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59412&source=WEB_Search_NA",
+    "id": "ibm-entry-level-user-experience-designer-austin"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Systems Engineer II - Aerospace Systems",
-    "job_city": "Plymouth",
-    "job_state": "MN",
-    "job_posted_at": "2d",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date08/11/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/118793/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-systems-engineer-ii-aerospace-systems-plymouth"
-  },
-  {
-    "job_title": "Engineering Manager, Data Frameworks",
-    "employer_name": "Airbnb",
-    "job_city": "Remote - US",
+    "employer_name": "AI Jobs",
+    "job_title": "Mechanical Engineering Intern",
+    "job_city": "Hayward",
     "job_state": "CA",
-    "job_description": "Join Airbnb to create a world where anyone can belong anywhere.",
-    "job_apply_link": "https://careers.airbnb.com/positions/7271799?gh_jid=7271799",
-    "job_posted_at": "2h",
-    "job_employment_type": "FULLTIME",
-    "id": "airbnb-engineering-manager-data-frameworks-remote-us"
+    "job_posted_at": "1d",
+    "job_description": "• Currently pursuing a degree in Mechanical Engineering or a related fieldExperience with CAD software (preferably OnShape or SolidWorks)Familiarity with 3D printing processes and equipmentStrong problem-solving skills and attention to detailEffective communication and collaboration skills within a team environmentHands-on experience assembling or testing mechanical prototypesFamiliarity with Design for Manufacturing (DfM) principlesExposure to other CAD platforms or simulation tools.",
+    "job_apply_link": "https://www.aijobs.com/jobs/164703723-mechanical-engineering-intern",
+    "id": "ai-jobs-mechanical-engineering-intern-hayward"
   },
   {
-    "job_title": "Support Engineering Manager - Security, Compliance, Identity, and Management",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1862411",
+    "job_title": "Software Engineer 1 - Air & Missile Defense Software Department",
+    "employer_name": "RTX",
+    "job_city": "Tewksbury",
+    "job_state": "MA",
+    "job_description": "Join RTX in this exciting opportunity.",
+    "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-support-engineering-manager-security-compliance-identity-and-management-redmond"
-  },
-  {
-    "job_title": "Technical Support Engineer – Azure AI (Korean Language Support)",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1872540",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-technical-support-engineer-azure-ai-korean-language-support-redmond"
-  },
-  {
-    "job_title": "Software Engineer I",
-    "employer_name": "Iridium Communications",
-    "job_city": "Chandler",
-    "job_state": "AZ",
-    "job_description": "Join Iridium Communications in this exciting opportunity.",
-    "job_apply_link": "https://careers-iridium.icims.com/jobs/4644/job",
-    "job_posted_at": "3w",
-    "job_employment_type": "FULLTIME",
-    "id": "iridium-communications-software-engineer-i-chandler"
-  },
-  {
-    "job_title": "Software Engineer 1 - Multiple Teams",
-    "employer_name": "Comcast",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Join Comcast in this exciting opportunity.",
-    "job_apply_link": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "comcast-software-engineer-1-multiple-teams-chicago"
+    "id": "rtx-software-engineer-1-air-missile-defense-software-department-tewksbury"
   }
 ]
