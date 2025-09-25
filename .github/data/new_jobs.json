@@ -1,79 +1,13 @@
 [
   {
-    "job_title": "Software Engineer, Backend - Financial Hub",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7009446?gh_jid=7009446",
-    "job_posted_at": "1h",
+    "job_title": "Software Engineer 2",
+    "employer_name": "PayPal",
+    "job_city": "San Jose",
+    "job_state": "California",
+    "job_description": "Join PayPal to democratize financial services.",
+    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916178348",
+    "job_posted_at": "22h",
     "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-backend-financial-hub-remote-usa"
-  },
-  {
-    "job_title": "Software Engineer, Backend (Platform - Indentity)",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/5948429?gh_jid=5948429",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-software-engineer-backend-platform-indentity-remote-usa"
-  },
-  {
-    "job_title": "Solution Engineer - Cloud & AI Applications",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1883551",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-solution-engineer-cloud-ai-applications-redmond"
-  },
-  {
-    "job_title": "Senior Software Engineer-Purview Information Protection",
-    "employer_name": "Microsoft",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1841252",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "microsoft-senior-software-engineer-purview-information-protection-redmond"
-  },
-  {
-    "job_title": "Software Engineer, Test",
-    "employer_name": "Lyft",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_description": "Join Lyft to improve people's lives with the world's best transportation.",
-    "job_apply_link": "https://app.careerpuck.com/job-board/lyft/job/8185940002?gh_jid=8185940002",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "lyft-software-engineer-test-san-francisco"
-  },
-  {
-    "job_title": "University Graduate Software Engineer - Software Engineering",
-    "employer_name": "Adobe",
-    "job_city": "SF",
-    "job_state": "Locations",
-    "job_description": "Join Adobe in this exciting opportunity.",
-    "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "adobe-university-graduate-software-engineer-software-engineering-sf"
-  },
-  {
-    "job_title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
-    "employer_name": "Sierra Nevada Coporation",
-    "job_city": "Southern Pines",
-    "job_state": "NC",
-    "job_description": "Join Sierra Nevada Coporation in this exciting opportunity.",
-    "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "sierra-nevada-coporation-software-engineer-1-agile-software-development-mission-solutions-and-technologies-southern-pines"
+    "id": "paypal-software-engineer-2-san-jose"
   }
 ]
