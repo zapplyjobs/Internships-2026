@@ -1,13 +1,24 @@
 [
   {
-    "job_title": "Software Engineer 2",
-    "employer_name": "PayPal",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_description": "Join PayPal to democratize financial services.",
-    "job_apply_link": "https://paypal.eightfold.ai/careers/job/274916178348",
-    "job_posted_at": "22h",
+    "job_title": "Engineering Manager - EAA",
+    "employer_name": "Coinbase",
+    "job_city": "Remote - USA",
+    "job_state": "CA",
+    "job_description": "Join Coinbase to build the future of cryptocurrency.",
+    "job_apply_link": "https://www.coinbase.com/careers/positions/7277820?gh_jid=7277820",
+    "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "paypal-software-engineer-2-san-jose"
+    "id": "coinbase-engineering-manager-eaa-remote-usa"
+  },
+  {
+    "job_title": "Senior Design Verification Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1873070",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-senior-design-verification-engineer-redmond"
   }
 ]
