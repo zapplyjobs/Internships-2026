@@ -1,52 +1,13 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "User Experience Designer Intern",
-    "job_city": "shipAustin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role User Experience Designer Intern 2026",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59981&source=WEB_Search_NA",
-    "id": "ibm-user-experience-designer-intern-shipaustin"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer",
-    "job_city": "San Jose",
-    "job_state": "CA",
+    "job_title": "Software Engineer II = C++",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1882230",
     "job_posted_at": "1h",
-    "job_description": "• Implement improvements to our existing end of line automation software Use results from full subassembly validation campaigns to write automation tests for new hardware from scratch Spend time on the manufacturing line understanding and responding to key pain points, including troubleshooting failures, improving visibility and debuggability, and increasing test coverage to catch downstream issues Develop user-friendly GUI screens for production technicians to operate 5+ years of industry experience.\n• Strong proficiency in writing Python and C++ for interfacing with real hardware including actuators, sensors, relays, etc Experience with common embedded stacks: Debian Linux, Ethernet, USB, SPI, UART, SCPI Capable of reading and interpreting electronic circuit diagrams and integrating sensors and actuators Strong understanding of best practices in software engineering Bachelor’s or higher degree in Software, Mechanical, Electrical, or Controls Engineering Manufacturing software experience Previous work on mobile robots.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164713465-software-engineer",
-    "id": "ai-jobs-software-engineer-san-jose"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "DL Performance Software Engineer - LLM Inference",
-    "job_city": "US",
-    "job_state": "CA",
-    "job_posted_at": "1d",
-    "job_description": "• Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent experience.\n• Strong coding skills in Python and C/C++.\n• 2+ years of industry experience in software engineering or equivalent research experience.\n• Proven project experiences in building software where performance is one of its core offerings.\n• Research experience in systems or machine learning.\n• Project experience in modern DL software such as PyTorch, CUDA, vLLM, SGLang, and TensorRT-LLM.\n• Experience with performance modelling, profiling, debug, and code optimization or architectural knowledge of CPU and GPU.\n• Knowledgeable and passionate about machine learning and performance engineering.",
-    "job_apply_link": "https://www.aijobs.com/jobs/164712496-dl-performance-software-engineer-llm-inference",
-    "id": "ai-jobs-dl-performance-software-engineer-llm-inference-us"
-  },
-  {
-    "employer_name": "AI Jobs",
-    "job_title": "Software Engineer, Developer Tools and Productivity",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "• Bachelor or Master degree in Computer Science or related field At least 3 years of industry experience Mastery of configuration management (GIT) Expertise with C++ and Python build and software integration tools (Bazel, CMake, make, etc…) Proficient with scripting languages including Python and Bash Experience with any of the major cloud providers Comfortable working with a broad range of continuous integration tools (GitHub, Jenkins, TeamCity…) and deployment tools (Ansible…) Deep understanding of key and certificate management as well as cryptographic signing and verification Experience with infrastructure as code (eg.\n• Terraform…) Mastery of Linux, Docker and microservices architecture Excellent verbal and written communication skills Familiar with Agile and Test driven development principles Familiar with web development languages and tools (HTML, CSS, JavaScripts…).",
-    "job_apply_link": "https://www.aijobs.com/jobs/164713464-software-engineer-developer-tools-and-productivity",
-    "id": "ai-jobs-software-engineer-developer-tools-and-productivity-sunnyvale"
-  },
-  {
-    "employer_name": "Amazon",
-    "job_title": "Software Engineer, Graviton Software, Annapurna Labs",
-    "job_city": "Austin",
-    "job_state": "TX",
-    "job_posted_at": "5mo",
-    "job_description": "software engineering job for the role Software Engineer, Graviton Software, Annapurna Labs",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/2942959/software-engineer-graviton-software-annapurna-labs",
-    "id": "amazon-software-engineer-graviton-software-annapurna-labs-austin"
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-software-engineer-ii-c-redmond"
   }
 ]
