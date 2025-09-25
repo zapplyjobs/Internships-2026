@@ -1,24 +1,35 @@
 [
   {
-    "job_title": "Senior Software Engineer - Identity",
-    "employer_name": "Coinbase",
-    "job_city": "Remote - USA",
-    "job_state": "CA",
-    "job_description": "Join Coinbase to build the future of cryptocurrency.",
-    "job_apply_link": "https://www.coinbase.com/careers/positions/7090083?gh_jid=7090083",
-    "job_posted_at": "1h",
-    "job_employment_type": "FULLTIME",
-    "id": "coinbase-senior-software-engineer-identity-remote-usa"
-  },
-  {
-    "job_title": "Principal Software Engineer - RDMA Azure Data Processing Unit",
+    "job_title": "AI Business Process Solution Engineer - Finance & Supply Chain (ERP)",
     "employer_name": "Microsoft",
     "job_city": "Redmond",
     "job_state": "WA",
     "job_description": "Join Microsoft to empower every person and organization on the planet.",
-    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1847481",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1876002",
     "job_posted_at": "1h",
     "job_employment_type": "FULLTIME",
-    "id": "microsoft-principal-software-engineer-rdma-azure-data-processing-unit-redmond"
+    "id": "microsoft-ai-business-process-solution-engineer-finance-supply-chain-erp-redmond"
+  },
+  {
+    "job_title": "Sourcing Engineer II",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1880527",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-sourcing-engineer-ii-redmond"
+  },
+  {
+    "job_title": "Security Solution Engineer",
+    "employer_name": "Microsoft",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_description": "Join Microsoft to empower every person and organization on the planet.",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1881192",
+    "job_posted_at": "1h",
+    "job_employment_type": "FULLTIME",
+    "id": "microsoft-security-solution-engineer-redmond"
   }
 ]
