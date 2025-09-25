@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 257+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 899+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 257+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 898+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,7 +17,7 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 899 hot software engineering jobs  
+🔥 **Current Positions:** 898 hot software engineering jobs  
 🏢 **Top Companies:** 257 elite tech including Tesla, NVIDIA, Raytheon  
 ⭐ **FAANG+ Jobs & Internships:** 28 premium opportunities  
 📅 **Last Updated:** September 25, 2025  
@@ -35,26 +35,26 @@
 
 | Company | Program | Apply Now |
 |---------|---------|-----------|
-| 🟢 **Google** | STEP Internship |<a href="https://careers.google.com/students/"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 🟦 **Microsoft** | Software Engineering Internship |<a href="https://careers.microsoft.com/students"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 🔵 **Meta** | Software Engineer Internship |<a href="https://www.metacareers.com/careerprograms/students"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 📦 **Amazon** | SDE Internship |<a href="https://www.amazon.jobs/en/teams/internships-for-students"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 🍎 **Apple** | Software Engineering Internship |<a href="https://jobs.apple.com/en-us/search?search=software+engineering&sort=relevance&location=united-states-USA&team=internships-STDNT-INTRN"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 🎬 **Netflix** | Software Engineering Internship |<a href="https://explore.jobs.netflix.net/careers?query=software%20internship&pid=790302560337&domain=netflix.com&sort_by=relevance&triggerGoButton=false"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| ⚡ **Tesla** | Software Engineering Internship |<a href="https://www.tesla.com/careers/search/?query=software%20intern&site=US"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 🎮 **Nvidia** | Software Engineering Internship |<a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=software+intern&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| 💳 **Stripe** | Software Engineering Internship |<a href="https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
-| ₿ **Coinbase** | Software Engineering Internship |<a href="https://www.coinbase.com/careers/positions?search=software%2520internship"><img src="https://img.shields.io/badge/Apply_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Apply Button"></a> |
+| 🟢 **Google** | STEP Internship |<a href="https://careers.google.com/students/"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 🟦 **Microsoft** | Software Engineering Internship |<a href="https://careers.microsoft.com/students"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 🔵 **Meta** | Software Engineer Internship |<a href="https://www.metacareers.com/careerprograms/students"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 📦 **Amazon** | SDE Internship |<a href="https://www.amazon.jobs/en/teams/internships-for-students"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 🍎 **Apple** | Software Engineering Internship |<a href="https://jobs.apple.com/en-us/search?search=software+engineering&sort=relevance&location=united-states-USA&team=internships-STDNT-INTRN"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 🎬 **Netflix** | Software Engineering Internship |<a href="https://explore.jobs.netflix.net/careers?query=software%20internship&pid=790302560337&domain=netflix.com&sort_by=relevance&triggerGoButton=false"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| ⚡ **Tesla** | Software Engineering Internship |<a href="https://www.tesla.com/careers/search/?query=software%20intern&site=US"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 🎮 **Nvidia** | Software Engineering Internship |<a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=software+intern&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| 💳 **Stripe** | Software Engineering Internship |<a href="https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
+| ₿ **Coinbase** | Software Engineering Internship |<a href="https://www.coinbase.com/careers/positions?search=software%2520internship"  target="_blank"><img src="https://img.shields.io/badge/Apply_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Apply Now"></a>|
 
 ### 📚 **Top Software Internship Resources**
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
-| **👼 AngelList Internships** | Trending startup internships and entry-level roles | <a href="https://wellfound.com/jobs#internships"><img src="https://img.shields.io/badge/Visit_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Visit Button"></a>|
-| **🔗 LinkedIn Student Jobs** | New Jobs and professional networking for students | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=software%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"><img src="https://img.shields.io/badge/Visit_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Visit Button"></a>|
-| **🔵 Indeed Internships** | Comprehensive internship search engine | <a href="https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72"><img src="https://img.shields.io/badge/Visit_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Visit Button"></a>|
-| **🏢 Glassdoor Internships** | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/united-states-software-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm"><img src="https://img.shields.io/badge/Visit_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Visit Button"></a>|
-| **🏫 University Career Centers** | National Association of Colleges and Employers | <a href="https://www.naceweb.org/tag/internships"><img src="https://img.shields.io/badge/Visit_Button-2EA44F?style=for-the-badge&borderRadius=15" width="120" height="35" alt="Visit Button"></a>|
+| **👼 AngelList Internships** | Trending startup internships and entry-level roles | <a href="https://wellfound.com/jobs#internships"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|
+| **🔗 LinkedIn Student Jobs** | New Jobs and professional networking for students | <a href="https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=software%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|
+| **🔵 Indeed Internships** | Comprehensive internship search engine | <a href="https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|
+| **🏢 Glassdoor Internships** | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/united-states-software-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|
+| **🏫 University Career Centers** | National Association of Colleges and Employers | <a href="https://www.naceweb.org/tag/internships"><img src="https://img.shields.io/badge/Visit_Button-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Button"></a>|
 
 
 
@@ -144,7 +144,7 @@
 | Security Software Engineer I | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Security-Engineer-I_R103856) | 1mo |
 | Cloud PaaS Associate Site Reliability Engineer | Palo Alto, CA | [Apply](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-PaaS-Associate-Site-Reliability-Engineer_R106050-1) | 3d |
 
-### 🏢 **Top Tech** (181 positions)
+### 🏢 **Top Tech** (180 positions)
 
 #### 🎮 **NVIDIA** (6 positions)
 
@@ -214,12 +214,12 @@
 | GenAI Staff Machine Learning Engineer, AI Runtime | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954414002) | 1mo |
 | GenAI Staff Machine Learning Engineer, Performance Optimization | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954415002) | 1mo |
 | IT Solutions Lead (Staff IT Fullstack Software Engineer | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8150189002) | 2w |
-| Manager, Field Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8093481002) | 2w |
 | Manager, Field Engineering | Northeast - United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7830778002) | 6d |
+| Manager, Field Engineering | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8093481002) | 2w |
 | Manager, Field Engineering - HLS | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909228002) | 2w |
 | Physical Security Engineer | Mountain View, California; San Francisco | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7993207002) | 2w |
-| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 6d |
 | Product Designer, Workspace Developer Experience | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7930554002) | 6d |
+| Product Designer, Workspace Developer Experience | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934462002) | 6d |
 | Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002) | 2w |
 | Scale Solutions Engineer  | Heredia, Costa Rica | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8144045002) | 2w |
 | Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002) | 1w |
@@ -230,20 +230,20 @@
 | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002) | 1mo |
 | Senior Security Engineer, Red Team  | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7909795002) | 1w |
 | Senior Software Engineer  - Application Traffic team | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002) | 1d |
-| Senior Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) | 1mo |
 | Senior Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) | 1mo |
 | Senior Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002) | 4w |
+| Senior Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) | 1mo |
 | Senior Software Engineer - Compliance | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029215002) | 1mo |
-| Senior Software Engineer - Database Engine Internals | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806656002) | 1mo |
 | Senior Software Engineer - Database Engine Internals | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806657002) | 1mo |
-| Senior Software Engineer - Database Engine Internals | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002) | 1mo |
+| Senior Software Engineer - Database Engine Internals | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6806656002) | 1mo |
 | Senior Software Engineer - Database Engine Internals | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002) | 1mo |
+| Senior Software Engineer - Database Engine Internals | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002) | 1mo |
 | Senior Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002) | 1mo |
-| Senior Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002) | 1mo |
-| Senior Software Engineer - Distributed Data Systems | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936993002) | 1mo |
 | Senior Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002) | 1mo |
+| Senior Software Engineer - Distributed Data Systems | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6936993002) | 1mo |
+| Senior Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002) | 1mo |
+| Senior Software Engineer - Fullstack | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002) | 1mo |
 | Senior Software Engineer - Fullstack | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002) | 1mo |
-| Senior Software Engineer - Fullstack | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002) | 1mo |
 | Senior Software Engineer - Fullstack, Assistant | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7849869002) | 1mo |
 | Senior Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8029209002) | 1mo |
 | Senior Software Engineer - Infrastructure and Tools | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002) | 4w |
@@ -254,12 +254,12 @@
 | Senior Solutions Engineer | Finland, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8178735002) | 3d |
 | Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002) | 2w |
 | Senior Staff Software Engineer - Enzyme | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) | 1mo |
-| Senior Staff Software Engineer - IAM | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) | 1mo |
 | Senior Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) | 1mo |
+| Senior Staff Software Engineer - IAM | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002) | 1mo |
 | Senior Staff Software Engineer - Lineage & Tagging | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7886068002) | 2w |
-| Senior Staff Software Engineer - Privacy | New York City, New York | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) | 1mo |
-| Senior Staff Software Engineer - Privacy | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) | 1mo |
 | Senior Staff Software Engineer - Privacy | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002) | 1mo |
+| Senior Staff Software Engineer - Privacy | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002) | 1mo |
+| Senior Staff Software Engineer - Privacy | New York City, New York | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002) | 1mo |
 | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) | 1mo |
 | Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) | 1mo |
 | Senior Technical Solutions Engineer | Costa Rica, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7315348002) | 1mo |
@@ -315,17 +315,17 @@
 | Staff Fullstack Engineer | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002) | 1mo |
 | Staff Product Security Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002) | 2w |
 | Staff Security Software Engineer | United States, CA | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002) | 2w |
-| Staff Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) | 1mo |
 | Staff Software Engineer - Backend | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) | 1mo |
 | Staff Software Engineer - Backend | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002) | 1mo |
+| Staff Software Engineer - Backend | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002) | 1mo |
 | Staff Software Engineer - Backend | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) | 1mo |
 | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002) | 1mo |
 |  Staff Software Engineer - Database Engine Internals | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002) | 1mo |
 | Staff Software Engineer - Database Engine Internals | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002) | 1mo |
+| Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) | 1mo |
 | Staff Software Engineer - Distributed Data Systems | Seattle, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937000002) | 1mo |
 | Staff Software Engineer - Distributed Data Systems | San Francisco, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002) | 1mo |
 | Staff Software Engineer - Distributed Data Systems | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002) | 1mo |
-| Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) | 1mo |
 | Staff Software Engineer - IAM | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) | 1mo |
 | Staff Software Engineer - IAM | Mountain View, California | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) | 1mo |
 | Staff Software Engineer - Money Team | Bellevue, Washington | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) | 1mo |
@@ -387,16 +387,15 @@
 |------|----------|-----------|-----|
 | Associate Software Engineer | Remote 🏠 | [Apply](https://job-boards.greenhouse.io/sproutsocialcollege/jobs/6169382) | 10mo |
 
-#### 🏢 **PayPal** (6 positions)
+#### 🏢 **PayPal** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Staff Software Engineer – Machine Learning | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274916114700) | 3d |
+| Staff Engineer - Google Workspace | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915955985) | 1w |
+| Software Engineer 3 | New York City, New York | [Apply](https://paypal.eightfold.ai/careers/job/274915958983) | 1w |
 | Software Engineer 3 | Austin, Texas | [Apply](https://paypal.eightfold.ai/careers/job/274915958977) | 1w |
 | MTS 1, Software Engineer | Austin, Texas | [Apply](https://paypal.eightfold.ai/careers/job/274915958980) | 1w |
-| Software Engineer 2 | Austin, Texas | [Apply](https://paypal.eightfold.ai/careers/job/274915958981) | 1w |
-| Software Engineer 2 | Scottsdale, Arizona | [Apply](https://paypal.eightfold.ai/careers/job/274915958982) | 1w |
-| Staff Engineer - Google Workspace | San Jose, California | [Apply](https://paypal.eightfold.ai/careers/job/274915955985) | 1w |
 
 #### ⚡ **Atlassian** (1 position)
 
@@ -585,7 +584,7 @@
 | Director, Software Engineering - Platform Services | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5600388004?gh_jid=5600388004) | 1mo |
 | Early Career, Software Engineer (2026)  | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5616603004?gh_jid=5616603004) | 2d |
 | Manager, Recruiting – Engineering | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5625695004?gh_jid=5625695004) | 1mo |
-| Manager, Software Engineering - Collaboration Tools | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5654898004?gh_jid=5654898004) | 16h |
+| Manager, Software Engineering - Collaboration Tools | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5654898004?gh_jid=5654898004) | 17h |
 | Manager, Software Engineering - Community | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5648358004?gh_jid=5648358004) | 1w |
 | Manager, Software Engineering - Infrastructure | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5568374004?gh_jid=5568374004) | 2mo |
 | Manager, Software Engineering - Text and Vector | San Francisco, CA • New York | [Apply](https://boards.greenhouse.io/figma/jobs/5585865004?gh_jid=5585865004) | 2mo |
@@ -1071,12 +1070,12 @@
 | Software Engineer, Detection Engineering | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141512002?gh_jid=8141512002) | 3w |
 | Software Engineer, Detection Engineering | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8141414002?gh_jid=8141414002) | 3w |
 | Software Engineer, Fulfillment | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8173374002?gh_jid=8173374002) | 3d |
-| Software Engineer, Fulfillment | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8173314002?gh_jid=8173314002) | 3d |
 | Software Engineer, Fulfillment | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8173385002?gh_jid=8173385002) | 3d |
+| Software Engineer, Fulfillment | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8173314002?gh_jid=8173314002) | 3d |
 | Software Engineer Intern, Backend (Summer 2026) | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8130804002?gh_jid=8130804002) | 2w |
 | Software Engineer, Routing | New York, NY | [Apply](https://app.careerpuck.com/job-board/lyft/job/8153109002?gh_jid=8153109002) | 1w |
-| Software Engineer, Security Foundations | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083487002?gh_jid=8083487002) | 2mo |
 | Software Engineer, Security Foundations | Seattle, WA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083636002?gh_jid=8083636002) | 2mo |
+| Software Engineer, Security Foundations | San Francisco, CA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8083487002?gh_jid=8083487002) | 2mo |
 
 </details>
 
@@ -1304,8 +1303,8 @@
 | Broadcast Engineer | San Francisco, CA  | [Apply](https://stripe.com/jobs/search?gh_jid=6632309) | 2w |
 | Community Communications, Product/Developer | SF, NYC | [Apply](https://stripe.com/jobs/search?gh_jid=6831875) | 2w |
 | Compensation Partner, Product & Engineering | NYC, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7203552) | 2w |
-| Design Engineer, Expansion | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6299301) | 1w |
 | Design Engineer, Expansion | United Kingdom, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6972668) | 1w |
+| Design Engineer, Expansion | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6299301) | 1w |
 | Developer Experience Engineer, Privy | NYC-Privy, US-Remote | [Apply](https://stripe.com/jobs/search?gh_jid=7104344) | 2w |
 | Engineering Manager, Compliance Observability | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7061518) | 1w |
 | Engineering Manager, Money as a Service | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7179817) | 1w |
@@ -1320,9 +1319,9 @@
 | Full Stack Engineer, Growth & Seo | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7091160) | 1d |
 | Full Stack Engineer, Money as a Service | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771174) | 1d |
 | Fullstack Engineer, Money as a Service (MaaS) | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6789983) | 1d |
-| Full Stack Engineer, Payments and Risk | n/a, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771172) | 1d |
-| Full Stack Engineer, Revenue and Finance Automation | Ireland, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5995109) | 1w |
+| Full Stack Engineer, Payments and Risk | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6567077) | 2w |
 | Full Stack Engineer, Revenue and Finance Automation | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6771183) | 1d |
+| Full Stack Engineer, Revenue and Finance Automation | Ireland, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5995109) | 1w |
 | Integration Engineer, Stablecoin | United States, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7155907) | 1w |
 | Machine Learning Engineer, Identity Product | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=6363655) | 2w |
 | Machine Learning Engineer, Payments ML Accelerator | Seattle; San Francisco; New York City, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7079044) | 2w |
@@ -1336,8 +1335,8 @@
 | Senior Staff Engineer- Service Infrastructure  | Seattle, San Francisco | [Apply](https://stripe.com/jobs/search?gh_jid=7066778) | 2w |
 | Software Engineer, Intern | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7206496) | 1w |
 | Software Engineer, Intern (Summer and Winter) | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=7210115) | 2w |
-| Software Engineer, New Grad | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7206518) | 1w |
 | Software Engineer, New Grad | San Francisco, Seattle | [Apply](https://stripe.com/jobs/search?gh_jid=7210112) | 2w |
+| Software Engineer, New Grad | Bucharest, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7206518) | 1w |
 | Software Engineer, Secrets Infrastructure | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=6979124) | 2w |
 | Software Engineer, Security Analytics Infrastructure  | N/A, CA | [Apply](https://stripe.com/jobs/search?gh_jid=7057494) | 2w |
 | Staff Backend Engineer, Billing Subscriptions | Canada, CA | [Apply](https://stripe.com/jobs/search?gh_jid=5846766) | 1w |
@@ -1755,7 +1754,7 @@
 | Software Engineer I - Raytheon | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126) | 1w |
 | 2026 Raytheon Systems Security Engineer I | Tucson, AZ | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331) | 1w |
 | Software Engineer 1 | Annapolis, MD | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I--Onsite-_01790428) | 3d |
-| Software Engineer 1 - Air & Missile Defense Software Department | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017) | 13h |
+| Software Engineer 1 - Air & Missile Defense Software Department | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017) | 14h |
 | Fiori Front End Developer – Entry level | Waterbury, CT | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231) | 7h |
 | Systems Security Engineer 1 - Systems Security Engineering | Tewksbury, MA | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370) | 2h |
 
@@ -1995,20 +1994,174 @@
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (8 companies)
-🟢 **[Google](https://careers.google.com)** (2 Software Engineering, 1 Frontend Development, 1 Machine Learning & AI, 1 DevOps & Infrastructure) • 🍎 **[Apple](https://jobs.apple.com)** (1 Software Engineering) • 🟦 **[Microsoft](https://careers.microsoft.com)** (7 Software Engineering, 2 Full Stack Development, 1 DevOps & Infrastructure, 1 Machine Learning & AI) • 📦 **[Amazon](https://amazon.jobs)** (2 Software Engineering, 1 Data Science & Analytics, 1 Security Engineering) • 🔵 **[Meta](https://careers.meta.com)** (1 Security Engineering) • 🎬 **[Netflix](https://jobs.netflix.com)** (1 Machine Learning & AI, 1 Software Engineering) • ⚡ **[Tesla](https://careers.tesla.com)** (2 Software Engineering, 1 Machine Learning & AI, 1 DevOps & Infrastructure) • 🎮 **[Nvidia](https://careers.nvidia.com)**
+### 🌟 FAANG+ Companies
+*8 companies • Premium technology leaders*
 
-#### 🦄 **Unicorn Startups** (10 companies)
-🤖 **[OpenAI](https://openai.com/careers)** (1 Machine Learning & AI) • 🧠 **[Anthropic](https://anthropic.com/careers)** • 💳 **[Stripe](https://stripe.com/jobs)** (57 Frontend Development, 2 Software Engineering, 1 Mobile Development) • 📊 **[Databricks](https://databricks.com/careers)** (116 Data Science & Analytics, 9 Machine Learning & AI, 8 Backend Development, 3 Software Engineering, 1 Frontend Development) • ❄️ **[Snowflake](https://careers.snowflake.com)** • 👁️ **[Palantir](https://palantir.com/careers)** (6 Software Engineering, 5 DevOps & Infrastructure) • 🚀 **[SpaceX](https://spacex.com/careers)** (3 Software Engineering) • 🎨 **[Figma](https://figma.com/careers)** (15 Design, 3 DevOps & Infrastructure, 3 Machine Learning & AI, 2 Data Science & Analytics, 2 Frontend Development, 2 Security Engineering, 1 Mobile Development, 1 Software Engineering) • 📝 **[Notion](https://notion.so/careers)** (1 DevOps & Infrastructure, 1 Full Stack Development) • 🎮 **[Discord](https://discord.com/careers)** (29 Frontend Development, 1 Mobile Development)
+**🟢 [Google](https://careers.google.com)**
+*Available positions:* **2** Software Engineering • **1** Frontend Development • **1** Machine Learning & AI
 
-#### 💰 **Fintech Leaders** (5 companies)
-₿ **[Coinbase](https://coinbase.com/careers)** (106 Frontend Development, 1 Mobile Development) • 📈 **[Robinhood](https://careers.robinhood.com)** • 🟫 **[Square](https://careers.block.xyz)** • 🏦 **[Plaid](https://plaid.com/careers)** • 💰 **[Affirm](https://affirm.com/careers)**
+**🍎 [Apple](https://jobs.apple.com)**
+*Available positions:* **1** Software Engineering
 
-#### 🎮 **Gaming & Entertainment** (10 companies)
-🎮 **[Epic Games](https://epicgames.com/careers)** • ⚔️ **[Riot Games](https://riotgames.com/careers)** • 🔷 **[Unity](https://unity.com/careers)** • 🟩 **[Roblox](https://careers.roblox.com)** (1 Software Engineering) • 🎵 **[Spotify](https://careers.spotify.com)** (1 Machine Learning & AI) • 🎬 **[TikTok](https://careers.tiktok.com)** (14 Software Engineering, 10 Machine Learning & AI, 3 DevOps & Infrastructure, 1 Mobile Development, 1 Backend Development, 1 Security Engineering) • 👻 **[Snap](https://snap.com/careers)** • 📌 **[Pinterest](https://careers.pinterest.com)** (1 Machine Learning & AI, 1 Software Engineering) • 🤖 **[Reddit](https://reddit.com/careers)** (1 Software Engineering) • 🎮 **[Twitch](https://twitch.tv/jobs)**
+**🟦 [Microsoft](https://careers.microsoft.com)**
+*Available positions:* **7** Software Engineering • **2** Full Stack Development • **1** DevOps & Infrastructure
 
-#### ☁️ **Enterprise & Cloud** (15 companies)
-☁️ **[Salesforce](https://careers.salesforce.com)** (1 Software Engineering) • 🎨 **[Adobe](https://careers.adobe.com)** (3 Machine Learning & AI, 1 Software Engineering) • 🔴 **[Oracle](https://careers.oracle.com)** (3 DevOps & Infrastructure, 1 Software Engineering) • 🔵 **[IBM](https://careers.ibm.com)** (2 Software Engineering) • 🔷 **[Intel](https://jobs.intel.com)** • 🔶 **[AMD](https://careers.amd.com)** • 📱 **[Qualcomm](https://careers.qualcomm.com)** (2 Software Engineering, 1 Design, 1 Backend Development) • ☁️ **[VMware](https://careers.vmware.com)** • ⚡ **[Atlassian](https://atlassian.com/careers)** (1 Software Engineering) • 🔧 **[ServiceNow](https://careers.servicenow.com)** • 📅 **[Workday](https://workday.com/careers)** • 📹 **[Zoom](https://careers.zoom.us)** • 💬 **[Slack](https://slack.com/careers)** • 📋 **[Asana](https://asana.com/careers)** • 📊 **[Monday.com](https://monday.com/careers)**
+**📦 [Amazon](https://amazon.jobs)**
+*Available positions:* **2** Software Engineering • **1** Data Science & Analytics • **1** Security Engineering
+
+**🔵 [Meta](https://careers.meta.com)**
+*Available positions:* **1** Security Engineering
+
+**🎬 [Netflix](https://jobs.netflix.com)**
+*Available positions:* **1** Machine Learning & AI • **1** Software Engineering
+
+**⚡ [Tesla](https://careers.tesla.com)**
+*Available positions:* **2** Software Engineering • **1** Machine Learning & AI • **1** DevOps & Infrastructure
+
+**🎮 [Nvidia](https://careers.nvidia.com)
+
+---
+
+### 🦄 Unicorn Startups
+*10 companies • High-growth potential*
+
+**🤖 [OpenAI](https://openai.com/careers)**
+*Available positions:* **1** Machine Learning & AI
+
+**🧠 [Anthropic](https://anthropic.com/careers)**
+
+
+**💳 [Stripe](https://stripe.com/jobs)**
+*Available positions:* **57** Frontend Development • **2** Software Engineering • **1** Mobile Development
+
+**📊 [Databricks](https://databricks.com/careers)**
+*Available positions:* **116** Data Science & Analytics • **9** Machine Learning & AI • **8** Backend Development
+
+**❄️ [Snowflake](https://careers.snowflake.com)**
+
+
+**👁️ [Palantir](https://palantir.com/careers)**
+*Available positions:* **6** Software Engineering • **5** DevOps & Infrastructure
+
+**🚀 [SpaceX](https://spacex.com/careers)**
+*Available positions:* **3** Software Engineering
+
+**🎨 [Figma](https://figma.com/careers)**
+*Available positions:* **15** Design • **3** DevOps & Infrastructure • **3** Machine Learning & AI
+
+**📝 [Notion](https://notion.so/careers)**
+*Available positions:* **1** DevOps & Infrastructure • **1** Full Stack Development
+
+**🎮 [Discord](https://discord.com/careers)**
+*Available positions:* **29** Frontend Development • **1** Mobile Development
+
+---
+
+## 🎯 Industry Leaders
+
+### 💰 Fintech & Financial Services
+*5 companies • Financial innovation*
+
+**₿ [Coinbase](https://coinbase.com/careers)**
+*Available positions:* **106** Frontend Development • **1** Mobile Development
+
+**📈 [Robinhood](https://careers.robinhood.com)**
+
+
+**🟫 [Square](https://careers.block.xyz)**
+
+
+**🏦 [Plaid](https://plaid.com/careers)**
+
+
+**💰 [Affirm](https://affirm.com/careers)**
+
+
+---
+
+### 🎮 Gaming & Entertainment
+*10 companies • Creative & interactive media*
+
+**🎮 [Epic Games](https://epicgames.com/careers)**
+
+
+**⚔️ [Riot Games](https://riotgames.com/careers)**
+
+
+**🔷 [Unity](https://unity.com/careers)**
+
+
+**🟩 [Roblox](https://careers.roblox.com)**
+*Available positions:* **1** Software Engineering
+
+**🎵 [Spotify](https://careers.spotify.com)**
+*Available positions:* **1** Machine Learning & AI
+
+**🎬 [TikTok](https://careers.tiktok.com)**
+*Available positions:* **14** Software Engineering • **10** Machine Learning & AI • **3** DevOps & Infrastructure
+
+**👻 [Snap](https://snap.com/careers)**
+
+
+**📌 [Pinterest](https://careers.pinterest.com)**
+*Available positions:* **1** Machine Learning & AI • **1** Software Engineering
+
+**🤖 [Reddit](https://reddit.com/careers)**
+*Available positions:* **1** Software Engineering
+
+**🎮 [Twitch](https://twitch.tv/jobs)**
+
+
+---
+
+### ☁️ Enterprise & Cloud Solutions
+*15 companies • Business technology*
+
+**☁️ [Salesforce](https://careers.salesforce.com)**
+*Available positions:* **1** Software Engineering
+
+**🎨 [Adobe](https://careers.adobe.com)**
+*Available positions:* **3** Machine Learning & AI • **1** Software Engineering
+
+**🔴 [Oracle](https://careers.oracle.com)**
+*Available positions:* **3** DevOps & Infrastructure • **1** Software Engineering
+
+**🔵 [IBM](https://careers.ibm.com)**
+*Available positions:* **2** Software Engineering
+
+**🔷 [Intel](https://jobs.intel.com)**
+
+
+**🔶 [AMD](https://careers.amd.com)**
+
+
+**📱 [Qualcomm](https://careers.qualcomm.com)**
+*Available positions:* **2** Software Engineering • **1** Design • **1** Backend Development
+
+**☁️ [VMware](https://careers.vmware.com)**
+
+
+**⚡ [Atlassian](https://atlassian.com/careers)**
+*Available positions:* **1** Software Engineering
+
+**🔧 [ServiceNow](https://careers.servicenow.com)**
+
+
+**📅 [Workday](https://workday.com/careers)**
+
+
+**📹 [Zoom](https://careers.zoom.us)**
+
+
+**💬 [Slack](https://slack.com/careers)**
+
+
+**📋 [Asana](https://asana.com/careers)**
+
+
+**📊 [Monday.com](https://monday.com/careers)**
+
+
 ---
 
 ### 📈 **Experience Breakdown**
@@ -2016,7 +2169,7 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 302 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 315 | 35% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 314 | 35% | 1-2 years of experience |
 | 🔴 Manager         | 282 | 31% | 2+ years of experience |
 
 ---
@@ -2035,7 +2188,7 @@
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 899+ verified CS internships and entry-level software roles from 257 elite tech companies.
+✅ **100% Real Jobs:** 898+ verified CS internships and entry-level software roles from 257 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -2088,7 +2241,7 @@
 
 <div align="center">
 
-**🎯 899 current opportunities from 257 elite companies.**
+**🎯 898 current opportunities from 257 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
