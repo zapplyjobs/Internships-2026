@@ -201,7 +201,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"><svg width="100" height="50" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="5" width="90" height="40" rx="8" ry="8" fill="#4a5d6b" stroke="none"/><defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.3)"/></filter></defs><rect x="5" y="5" width="90" height="40" rx="8" ry="8" fill="#4a5d6b" filter="url(#shadow)"/><text x="50" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" letter-spacing="1px">VISIT NOW</text></svg></a>|`
+      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="https://img.shields.io/badge/Visit_Now-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Now"></a>|`
   )
   .join("\n")}
 
@@ -265,7 +265,7 @@ async function generateReadme(
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
-**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-new.md).**
+**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-NEW.md).**
 
 ---
 
@@ -448,7 +448,7 @@ ${
 - ⭐ **Star this repo** to bookmark and check daily.
 - 👀 **Watch** to get notified of new SWE jobs.
 - 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-new.md).
+- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-NEW.md).
 
 ---
 
