@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Data Center Engineering",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Data Center Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-data-center-engineering-ship"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Primitives Software Developer",
+    "job_city": "ship",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Primitives Software Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60314&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-primitives-software-developer-ship"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "Software Engineer",
+    "job_city": "Warren",
+    "job_state": "MI",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0221713 Software Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0223926 Software Engineer, LeadlocationsFort Meade, MDposted onPosted 30+ Days AgoR0209591 Software Engineer, Seniorlocations2 Locationsposted onPosted 30+ Days AgoR0221135 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0223921 Software Engineer, Leadlocations2 Locationsposted onPosted 29 Days AgoR0223191 Software Engineer, SeniorlocationsMcLean, VAposted onPosted YesterdayR0221087.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Software-Engineer_R0227133?q=software+engineering",
+    "id": "bae-systems-software-engineer-warren"
+  },
+  {
     "employer_name": "General Dynamics",
     "job_title": "Software Engineer (TS/SCI with Polygraph REQUIRED)",
-    "job_city": "USA VA Chantilly",
+    "job_city": "USA VA McLean",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208024?q=software+engineering",
-    "id": "general-dynamics-software-engineer-ts-sci-with-polygraph-required-usa-va-chantilly"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208025?q=software+engineering",
+    "id": "general-dynamics-software-engineer-ts-sci-with-polygraph-required-usa-va-mclean"
   }
 ]

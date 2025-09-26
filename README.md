@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 34+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 268+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 34+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 271+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,7 +17,7 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 268 hot software engineering jobs  
+🔥 **Current Positions:** 271 hot software engineering jobs  
 🏢 **Top Companies:** 34 elite tech including Tesla, NVIDIA, Raytheon  
 ⭐ **FAANG+ Jobs & Internships:** 61 premium opportunities  
 📅 **Last Updated:** September 26, 2025  
@@ -76,7 +76,7 @@
 | Software Engineer | Cambridge, MA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3061877/software-engineer) | 1mo |
 | Software Engineer | New York, NY | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3020911/software-engineer) | 3mo |
 | Software Engineer, Graviton Software, Annapurna Labs | Austin, TX | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/2942959/software-engineer-graviton-software-annapurna-labs) | 5mo |
-| Software Development Engineer, Manufacturing Software Systems | Bellevue, WA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3054986/software-development-engineer-manufacturing-software-systems) | 1mo |
+| Software Development Engineer, Manufacturing Software Systems | Bellevue, WA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3069407/software-development-engineer-manufacturing-software-systems) | 4w |
 
 <details>
 <summary><h4>🟦 <strong>Microsoft</strong> (17 positions)</h4></summary>
@@ -233,6 +233,7 @@
 | Software Developer Intern | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57319&source=WEB_Search_NA) | 1d |
 | Entry Level Software Developer: | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552&source=WEB_Search_NA) | 1d |
 | Entry Level Software Engineer | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Data Center Engineering | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA) | 1d |
 | Intern 2026: Software Engineer - Semiconductor | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA) | 1d |
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
@@ -244,12 +245,11 @@
 | QA Test Developer | shipPOUGHKEEPSIE, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58490&source=WEB_Search_NA) | 1d |
 | Hardware Developer Intern: | shipTUCSON, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58729&source=WEB_Search_NA) | 1d |
 | Intern 2026: Software Developer - Security | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59668&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Primitives Software Developer | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60314&source=WEB_Search_NA) | 1d |
 | Platform Engineer – Entry Level Sales Program | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53131&source=WEB_Search_NA) | 1d |
 | IBM Z Hardware Product Engineering | POUGHKEEPSIE, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=52656&source=WEB_Search_NA) | 1d |
 | Engineer | COSTA MESA, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57631&source=WEB_Search_NA) | 1d |
 | Entry Level User Experience Designer | Austin, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59412&source=WEB_Search_NA) | 1d |
-| User Experience Designer Intern | shipAustin, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59981&source=WEB_Search_NA) | 1d |
-| 2026 Client Engineering and CSM Co-Op Conversion | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=50942&source=WEB_Search_NA) | 1d |
 
 </details>
 
@@ -314,9 +314,9 @@
 | Associate Software Developer Engineer(Python) 🏠 | USA, GA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Associate-Software-Developer-Engineer_JR-0100413?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Software Development Engineer (Backend), Flowise 🏠 | USA, CA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Software-Development-Engineer--Backend---Flowise_JR-0100577?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
-### 🚀 **Startups & Growth** (29 positions)
+### 🚀 **Startups & Growth** (31 positions)
 
-#### 🏢 **BAE Systems** (10 positions)
+#### 🏢 **BAE Systems** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -326,6 +326,7 @@
 | Software Engineer | Annapolis Junction, MD | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer_R0223635?q=software+engineering) | 1mo |
 | Software Engineer | Fort Meade, MD | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Engineer_R0226678?q=software+engineering) | 4d |
 | Software Engineer | Albuquerque, NM | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Software-Engineer_R0226728?q=software+engineering) | 2d |
+| Software Engineer | Warren, MI | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warren-MI/Software-Engineer_R0227133?q=software+engineering) | 1d |
 | Signals Software Engineer | Australia, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Australia/Signals-Software-Engineer_R0204682?q=software+engineering) | 1mo |
 | Software Engineer, Mid | 2 Locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer--Mid_R0221453-1?q=software+engineering) | 3w |
 | Node.js Software Engineer | Chantilly, VA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Nodejs-Software-Engineer_R0221617?q=software+engineering) | 4d |
@@ -346,7 +347,7 @@
 | Quality Assurance Engineer-Automation 🏠 | 2 Locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Quality-Assurance-Engineer-Automation_30925?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | DoD Business Analytics Engineer 🏠 | US - FL, Tampa | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---FL-Tampa/DoD-Business-Analytics-Engineer_32570?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 
-#### 🏢 **General Dynamics** (9 positions)
+#### 🏢 **General Dynamics** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -358,6 +359,7 @@
 | Software Developer | DEU Wiesbaden - Wiesbaden Army Airfield (APC180), US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/DEU-Wiesbaden---Wiesbaden-Army-Airfield-APC180/Software-Developer_RQ203796-1?q=software+engineering) | 3d |
 | Cloud Software Engineer - TS/SCI w/ Poly | USA VA Herndon, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Herndon/Cloud-Software-Engineer--TS-SCI-with-Polygraph_RQ201219?q=software+engineering) | 3w |
 | Software Engineer (TS/SCI with Polygraph REQUIRED) | USA VA Chantilly, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208024?q=software+engineering) | 1d |
+| Software Engineer (TS/SCI with Polygraph REQUIRED) | USA VA McLean, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Software-Engineer--TS-SCI-with-Polygraph-REQUIRED-_RQ208025?q=software+engineering) | 1d |
 | Software Developer Associate | USA MD Annapolis Junction, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate_RQ207444?q=software+engineering) | 1w |
 
 ### 🛒 **Consumer & E-Commerce** (1 position)
@@ -410,7 +412,7 @@
 | Software Engineer III, Instrument Software 🏠 | Pleasanton, California | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
 | Software Engineer III, Frontend | Pleasanton, California | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171829117569) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (66 positions)
+### 🏭 **Manufacturing & Industrial** (67 positions)
 
 #### 🏢 **Arm** (8 positions)
 
@@ -438,14 +440,15 @@
 | Software Development Engineer | Boise, Idaho | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/31029158) | 1d |
 | Software Development Engineer | Manassas, Virginia | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30043686) | 3mo |
 
-#### 🏢 **ABB** (4 positions)
+#### 🏢 **ABB** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Application Engineering Intern Lombard- Summer | Location Lombard, Illinois | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
-| Force Measurement Territory Sales | Available in one of 3 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96884692/Force-Measurement-Territory-Sales) | 1h |
-| QCS Systems Engineer | Available in one of 2 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | 1h |
-| Application Engineering Intern Milwaukee-Summer | Location Milwaukee, Wisconsin | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
+| Mechanical Engineer | Location Mechanicsville, Virginia | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010809/Mechanical-Engineer) | 1h |
+| R&D Engineer | Location Richmond, Virginia | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00005169/R-D-Engineer) | 1h |
+| Power Electronics Engineer | Available in one of 2 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00006748/Power-Electronics-Engineer) | 1h |
+| R&D Electrical Engineer | Available in one of 2 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008005/R-D-Electrical-Engineer) | 1h |
+| Manufacturing Quality Tester-2 | Location Mebane, North Carolina | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00006063/Manufacturing-Quality-Tester-2) | 1h |
 
 <details>
 <summary><h4>🏢 <strong>Infineon Technologies</strong> (19 positions)</h4></summary>
@@ -554,27 +557,27 @@
 
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 83 | 31% | No or minimal experience |
-| 🟡 Beginner & Early Career | 72 | 27% | 1-2 years of experience |
-| 🔴 Manager         | 113 | 42% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 87 | 32% | No or minimal experience |
+| 🟡 Beginner & Early Career | 69 | 25% | 1-2 years of experience |
+| 🔴 Manager         | 115 | 42% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Redmond, Washington**: 14 positions
+- **ship, US**: 11 positions
 - **2 Locations, US**: 11 positions
-- **ship, US**: 9 positions
-- **United States**: 8 positions
+- **United States**: 7 positions
 - **San Jose, California**: 7 positions
-- **US**: 7 positions
 - **Cupertino, US**: 7 positions
 - **Leominster, US**: 6 positions
+- **Boise, Idaho**: 6 positions
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 268+ verified CS internships and entry-level software roles from 34 elite tech companies.
+✅ **100% Real Jobs:** 271+ verified CS internships and entry-level software roles from 34 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -627,7 +630,7 @@
 
 <div align="center">
 
-**🎯 268 current opportunities from 34 elite companies.**
+**🎯 271 current opportunities from 34 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
