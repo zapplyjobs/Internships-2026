@@ -94,15 +94,6 @@ body:
         - "Unknown"
     validations:
       required: false
-      
-  - type: checkboxes
-    id: degree-requirements
-    attributes:
-      label: Degree Requirements
-      description: Check this only if the job **requires** a Master’s, PhD, or higher (not just preferred)
-      options:
-        - label: This job requires a Master's degree or higher
-          required: false
           
   - type: checkboxes
     id: remove-job
@@ -118,7 +109,7 @@ body:
     id: email
     attributes:
       label: Contributor Email (Optional)
-      description: "Provide your GitHub email if you’d like to be credited for the commit. Otherwise, the bot (actions@github.com) will handle it."
+      description: "Provide your GitHub email if you'd like to be credited for the commit. Otherwise, the bot (actions@github.com) will handle it."
       placeholder: "ex: firstname@gmail.com"
     validations:
       required: false

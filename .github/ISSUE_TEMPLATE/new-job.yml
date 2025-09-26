@@ -8,7 +8,7 @@ body:
       value: |
         👋 Thanks for contributing a new job listing!  
 
-        Please make sure the role fits this repo’s focus:  
+        Please make sure the role fits this repo's focus:  
         - 📍 **U.S.-based roles** (or remote with U.S. eligibility)  
         - 🎓 **Early-to-mid career opportunities** (not senior/executive roles)  
         - ✅ Verified as an active and legitimate posting  
@@ -17,7 +17,7 @@ body:
     id: job-url
     attributes:
       label: Job Posting Link
-      description: Direct link to the company’s official job application page
+      description: Direct link to the company's official job application page
       placeholder: "ex: example.com/link/to/posting"
     validations:
       required: true
@@ -92,15 +92,6 @@ body:
         - "Unknown"
     validations:
       required: true
-      
-  - type: checkboxes
-    id: degree-requirements
-    attributes:
-      label: Degree Requirements
-      description: Select only if the role **requires** a Master’s, PhD, or higher (not just preferred)
-      options:
-        - label: This job requires a Master's degree or higher
-          required: false
           
   - type: input
     id: email

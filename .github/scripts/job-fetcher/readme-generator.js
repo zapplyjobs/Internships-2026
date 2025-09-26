@@ -351,8 +351,8 @@ ${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].map(
   return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
 
-#### ☁️ **Enterprise & Cloud** (${[...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])].length} companies)
-${[...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])].map((c) => {
+#### ☁️ **Enterprise & Cloud** (${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].length} companies)
+${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].map((c) => {
   if (stats && stats.byCategory && currentJobs) {
     const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
     const totalJobs = companyJobs.length;
@@ -363,6 +363,8 @@ ${[...(companies?.top_tech || []), ...(companies?.enterprise_saas || [])].map((c
   }
   return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
+
+
 ---
 
 ### 📈 **Experience Breakdown**
@@ -423,21 +425,21 @@ ${
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
 - **Check recent tech decisions:** Read their engineering blog for stack changes or new initiatives.
 - **Verify visa requirements:** Look for 🇺🇸 indicator or "US persons only" in job description.
-- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1eGqU7E9if-d1VoWWWts79CT-LzbJsfeZ/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
+- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1eGqU7E9if-d1VoWWWts79CT-LzbJsfeZ/export?format=pdf).
 
 ### 📄 **Resume Best Practices**
 
 - **Mirror their tech stack:** Copy exact keywords from job post (React, Django, Node.js, etc.).
 - **Lead with business impact:** "Improved app speed by 30%" > "Used JavaScript."
 - **Show product familiarity:** "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- [Read this informative guide on tweaking your resume](https://docs.google.com/document/d/12ngAUd7fKO4eV39SBgQdA8nHw_lJIngu/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
+- [Read this informative guide on tweaking your resume](https://docs.google.com/document/d/12ngAUd7fKO4eV39SBgQdA8nHw_lJIngu/export?format=pdf).
 
 ### 🎯 **Interview Best Practices**
 
 - **Ask tech-specific questions:** "How do you handle CI/CD at scale?" shows real research.
 - **Prepare failure stories:** "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://docs.google.com/document/d/1LU4kSNRu0JNiWG5CNPRp0kgzAhq27VHy/edit?usp=drive_link&ouid=108189138560979620587&rtpof=true&sd=true).
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://docs.google.com/document/d/1LU4kSNRu0JNiWG5CNPRp0kgzAhq27VHy/export?format=pdf).
 
 ---
 
