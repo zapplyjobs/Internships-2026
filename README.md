@@ -1,6 +1,6 @@
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from 35+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 286+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+**🚀 Real-time software engineering, programming, and IT jobs from 35+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 281+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
@@ -17,9 +17,9 @@
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** 286 hot software engineering jobs  
+🔥 **Current Positions:** 281 hot software engineering jobs  
 🏢 **Top Companies:** 35 elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** 60 premium opportunities  
+⭐ **FAANG+ Jobs & Internships:** 58 premium opportunities  
 📅 **Last Updated:** September 26, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Developer Jobs:** 0 (older than 1 week)
@@ -62,7 +62,7 @@
 
 ## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
 
-### ⭐ **FAANG+** (60 positions)
+### ⭐ **FAANG+** (58 positions)
 
 #### 📦 **Amazon** (9 positions)
 
@@ -130,17 +130,17 @@
 | Software Engineer, Search Qualification Platform | Cambridge, MA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/113337189185528518-software-engineer-search-qualification-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Google Kubernetes Engine, Cloud Security | Seattle, WA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/83757365018403526-software-engineer-google-kubernetes-engine-cloud-security?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Backend, Geo | San Francisco, CA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/94983385180447430-software-engineer-backend-geo?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
+| Software Engineer III, Full Stack, Guided Support Experience | Sunnyvale, CA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/103776759488357062-software-engineer-iii-full-stack-guided-support-experience?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer III, Embedded Systems/Firmware, Platforms Infrastructure Engineering | Sunnyvale, CA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/80032402176385734-software-engineer-iii-embedded-systemsfirmware-platforms-infrastructure-engineering?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Ads Bidding Optimization | New York, NY | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/77088163423494854-software-engineer-ads-bidding-optimization?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Chrome, macOS | New York, NY | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/81074859978695366-software-engineer-chrome-macos?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Applied AI, Public Sector | Reston, VA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/144094545745715910-software-engineer-applied-ai-public-sector?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Google Ads Auction Mechanisms | Mountain View, CA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/91000488060691142-software-engineer-google-ads-auction-mechanisms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 | Software Engineer, Full Stack, Google Workspace | New York, NY | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/87391188671177414-software-engineer-full-stack-google-workspace?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
-| Software Engineer, High Performance Computing | Kirkland, WA | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/92544290969789126-software-engineer-high-performance-computing?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1) | 1h |
 
 </details>
 
-#### 🍎 **Apple** (10 positions)
+#### 🍎 **Apple** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -149,11 +149,9 @@
 | Modeling Software Engineer | Cupertino, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200590796-0836/modeling-software-engineer?team=HRDWR) | 7mo |
 | RF Software Engineer | Sunnyvale, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200574262-3956/rf-software-engineer?team=HRDWR) | 3mo |
 | Software Build Engineer | San Diego, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200614012-3543/software-build-engineer?team=SFTWR) | 2mo |
-| CoreOS Software Engineer | Cupertino, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200618972-0836/coreos-software-engineer?team=SFTWR) | 3w |
+| Wireless Software Engineer | San Diego, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200610294-3543/wireless-software-engineer?team=SFTWR) | 2mo |
 | Accessibility Software Engineer | Cupertino, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200619212-0836/accessibility-software-engineer?team=SFTWR) | 3w |
-| Wireless Software Engineer | San Diego, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621595-3543/wireless-software-engineer?team=SFTWR) | 1w |
-| Software Updates Engineer | Cupertino, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200622591-0836/software-updates-engineer?team=SFTWR) | 3d |
-| Wireless Software Engineer | Cupertino, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621471-0836/wireless-software-engineer?team=SFTWR) | 6d |
+| Software Engineer, Observability | Seattle, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200600978-3337/software-engineer-observability?team=SFTWR) | 1mo |
 
 ### 🏢 **Top Tech** (57 positions)
 
@@ -234,8 +232,8 @@
 | Entry Level Software Engineer | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA) | 1d |
 | Intern 2026: Software Engineer - Semiconductor | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA) | 1d |
 | IBM z/OS Software Developer for System SSL | POUGHKEEPSIE, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55331&source=WEB_Search_NA) | 1d |
-| 2026 Intern: Software Engineer – AI-powered Automation | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA) | 1d |
 | IMS Software Technical Support Professional Intern: | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA) | 1d |
+| 2026 Intern: Software Engineer – AI-powered Automation | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA) | 1d |
 | Innovation Designer – Entry Level Sales Program | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53326&source=WEB_Search_NA) | 1d |
 | Software Engineer Apprentince | RESEARCH TRIANGLE PARK, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA) | 1d |
 | AI Foundations - Software Engineer - Research Internship: | ship, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA) | 1d |
@@ -407,7 +405,7 @@
 | Software Engineer III, Instrument Software 🏠 | Pleasanton, California | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171826465900) | 6mo |
 | Software Engineer III, Frontend | Pleasanton, California | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.10xgenomics.com/careers/job/171829117569) | 2mo |
 
-### 🏭 **Manufacturing & Industrial** (86 positions)
+### 🏭 **Manufacturing & Industrial** (84 positions)
 
 #### 🏢 **Arm** (8 positions)
 
@@ -435,14 +433,12 @@
 | Software Development Engineer | Boise, Idaho | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/31029158) | 1d |
 | Software Development Engineer | Manassas, Virginia | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30043686) | 3mo |
 
-#### 🏢 **ABB** (4 positions)
+#### 🏢 **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Force Measurement Territory Sales | Available in one of 3 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96884692/Force-Measurement-Territory-Sales) | 1h |
-| Application Engineering Intern Lombard- Summer | Location Lombard, Illinois | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
-| Application Engineering Intern Milwaukee-Summer | Location Milwaukee, Wisconsin | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
-| QCS Systems Engineer | Available in one of 2 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96186349/QCS-Systems-Engineer) | 1h |
+| Market Development- Co-op | Available in one of 7 locations, US | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008689/Market-Development-Co-op) | 1h |
+| R&D HW Engineer | Location Bartlesville, Oklahoma | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.abb/global/en/job/97048016/R-D-HW-Engineer) | 1h |
 
 <details>
 <summary><h4>🏢 <strong>Infineon Technologies</strong> (19 positions)</h4></summary>
@@ -520,7 +516,7 @@
 | Software Engineer & Computer Science - Recent Grad/Full Time | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113397/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4w |
 | Graphic Driver Developer - RTOS, C++, Multi-core | Phoenix, AZ | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/115524/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1mo |
 | Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113405/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4w |
-| PLC Controls Engineer | Mason, OH | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116978/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 8h |
+| PLC Controls Engineer | Mason, OH | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/116978/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 9h |
 | Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required) | United States | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113400/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 4w |
 | DevOps Platform Engineer | Raleigh, NC | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/115780/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 | Software Engr | Pittsford, NY | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/111738/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1mo |
@@ -555,7 +551,7 @@
 ### 🏢 **Top Companies**
 
 #### ⭐ **FAANG+** (8 companies)
-**[Google](https://careers.google.com)** (16 positions) • **[Apple](https://jobs.apple.com)** (10 positions) • **[Microsoft](https://careers.microsoft.com)** (17 positions) • **[Amazon](https://amazon.jobs)** (9 positions) • **[Meta](https://careers.meta.com)** (8 positions) • **[Netflix](https://jobs.netflix.com)** • **[Tesla](https://careers.tesla.com)** • **[Nvidia](https://careers.nvidia.com)**
+**[Google](https://careers.google.com)** (16 positions) • **[Apple](https://jobs.apple.com)** (8 positions) • **[Microsoft](https://careers.microsoft.com)** (17 positions) • **[Amazon](https://amazon.jobs)** (9 positions) • **[Meta](https://careers.meta.com)** (8 positions) • **[Netflix](https://jobs.netflix.com)** • **[Tesla](https://careers.tesla.com)** • **[Nvidia](https://careers.nvidia.com)**
 
 #### 🦄 **Unicorn Startups** (10 companies)
 **[OpenAI](https://openai.com/careers)** • **[Anthropic](https://anthropic.com/careers)** • **[Stripe](https://stripe.com/jobs)** • **[Databricks](https://databricks.com/careers)** • **[Snowflake](https://careers.snowflake.com)** • **[Palantir](https://palantir.com/careers)** • **[SpaceX](https://spacex.com/careers)** • **[Figma](https://figma.com/careers)** • **[Notion](https://notion.so/careers)** • **[Discord](https://discord.com/careers)**
@@ -577,8 +573,8 @@
 | Level               | Count | Percentage | Top Companies                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 80 | 28% | No or minimal experience |
-| 🟡 Beginner & Early Career | 70 | 24% | 1-2 years of experience |
-| 🔴 Manager         | 136 | 48% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 66 | 23% | 1-2 years of experience |
+| 🔴 Manager         | 135 | 48% | 2+ years of experience |
 
 ---
 
@@ -587,16 +583,16 @@
 - **United States**: 13 positions
 - **2 Locations, US**: 10 positions
 - **ship, US**: 9 positions
+- **US**: 7 positions
 - **3 Locations, US**: 6 positions
 - **Leominster, US**: 6 positions
 - **Boise, Idaho**: 6 positions
-- **Wendell, North Carolina**: 6 positions
 
 ---
 
 ## 🔮 **Why Software Engineers Choose Our Job Board**
 
-✅ **100% Real Jobs:** 286+ verified CS internships and entry-level software roles from 35 elite tech companies.
+✅ **100% Real Jobs:** 281+ verified CS internships and entry-level software roles from 35 elite tech companies.
 
 ✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
 
@@ -649,7 +645,7 @@
 
 <div align="center">
 
-**🎯 286 current opportunities from 35 elite companies.**
+**🎯 281 current opportunities from 35 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
