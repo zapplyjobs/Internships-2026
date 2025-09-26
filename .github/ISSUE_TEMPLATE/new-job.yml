@@ -115,7 +115,7 @@ body:
     id: verification
     attributes:
       label: Contributor Checklist
-      description: Please confirm the following before submitting:
+      description: Please confirm the following before submitting
       options:
         - label: I have verified this job posting is legitimate and currently open
           required: true
