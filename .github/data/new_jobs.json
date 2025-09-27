@@ -1,32 +1,312 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
-    "job_city": "Virginia - Herndon",
+    "employer_name": "Apple",
+    "job_title": "Wireless/Telephony Software Engineer",
+    "job_city": "San Diego",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Become a Trusted Partner and Collaborate Directly with End-Users in classified and unclassified environments to deeply understand mission needs, operational challenges, and strategic goals and translate them into technical implementations using Salesforce’s multi-cloud portfolio.\n• You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.\n• Prototype and Iterate Rapidly to develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.\n• 3-7 years of experience in software engineering, solutions architecture, or systems integration.\n• Strong background in Computer Science or a related engineering discipline.\n• Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.\n• Experience with data integration, API design, ETL, and AI/ML model deployment.\n• Experience working in or adjacent to secure environments.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr309444/missionforce-associate-forward-deployed-engineer-fde-public-sector/",
-    "id": "salesforce-missionforce-associate-forward-deployed-engineer-fde-public-sector-virginia-herndon"
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsMasters degree in Computer Science, Electrical Engineering, Wireless Communications or equivalent majors.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622456-3543/wireless-telephony-software-engineer?team=SFTWR",
+    "id": "apple-wireless-telephony-software-engineer-san-diego"
   },
   {
-    "employer_name": "Guidehouse",
-    "job_title": "Full Stack Developer",
-    "job_city": "US - (Any location)",
+    "employer_name": "Apple",
+    "job_title": "Localization Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsBS/MS in Computer Science, Computer Engineering, Informatics (or equivalent experience)Proficiency with Apple’s programming languages (Swift, SwiftUI, Objective-C)Strong analytics and problem-solving skillsStrong communication and interpersonal skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622832-0836/localization-software-engineer?team=SFTWR",
+    "id": "apple-localization-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Systems Software Engineer",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsStrong understanding of concurrency, parallelism, and distributed systems conceptsFamiliarity with all aspects of software development from architecture to deployment and maintenance, especially in the context of infrastructure managementFluency in Golang, Python, or similar languages in a systems or distributed systems contextFamiliarity with node management systems like SaltStack, Ansible, Puppet or similar solutionsQuick at learning and contributing to new code basesCustomer-focused thinking and strong problem solving with attention to detailStrong systems programming skills and knowledge of operating system fundamentalsBS with 2+ years of experience in system software development or MS in Computer Science.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200614640-3337/systems-software-engineer?team=SFTWR",
+    "id": "apple-systems-software-engineer-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Wireless/Telephony Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsMasters degree in Computer Science, Electrical Engineering, Wireless Communications or equivalent majors.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621909-0836/wireless-telephony-software-engineer?team=SFTWR",
+    "id": "apple-wireless-telephony-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Embedded Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsBS and a minimum of 3 years of relevant industry experience.\n• Hands-on experience with real-time, embedded software/Firmware.\n• Excellent software design, problem solving and debugging skills.\n• Strong understanding of software engineering principles using C and or C++, Real Time Operating Systems (RTOS) and concurrent programming.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622227-0836/embedded-software-engineer?team=HRDWR",
+    "id": "apple-embedded-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Tools Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum Qualifications5+ years of industry experienceBS/MS in Computer Science or related fieldProven hands-on programming skills in Python.\n• Experience with object-oriented design and building maintainable, large-scale projects.\n• Hands-on experience with observability tools (e.\n• , manipulating files, managing processes)Excellent communication and collaboration skills to work across diverse teams.\n• , Splunk, Grafana, or similar)Understanding of basic operating system concepts (e.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619459-0836/tools-software-engineer?team=SFTWR",
+    "id": "apple-tools-software-engineer-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Fitness+",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsExperience building software featuresCoding experience in Swift or Objective-CYou have a deep commitment to product quality and interest in building consumer applicationsYou collaborate effectively with cross-functional partners.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618772-0836/software-engineer-fitness?team=SFTWR",
+    "id": "apple-software-engineer-fitness-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Quality Engineer, Photos",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum Qualifications3 years of professional experience in consumer software test engineering, utilizing manual and automated methods, with broad exposure to user interface developmentExtensive test plan development experience.\n• Creatively driving projects to successful completionStrong analytical and problem-solving skills for prolific and effective problem/defect discovery.\n• Identification of critical problems and their resolutionExcellent written and verbal communication skills, underscoring effective communication to diverse audiences, are essential.\n• Proficiency in prioritizing and escalating issues to stakeholders.\n• Comfortable sharing considered opinions and seeking the same from othersEffective in balancing multiple tasks and meeting tight deadlines while keeping to a holistic quality vision.\n• Resiliency with fluid and evolving project prioritiesDemonstrated ability to evaluate and articulate image quality characteristics including sharpness, color reproduction, dynamic range, noise levels, and overall visual fidelity.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619715-0836/software-quality-engineer-photos?team=SFTWR",
+    "id": "apple-software-quality-engineer-photos-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer -Systems",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsBachelor’s degree or foreign equivalent in Computer Science and Engineering or related field and 2 years of experience in the job offered or related occupation.\n• 2 years of experience with each of the following skills is required:Utilizing Javascript and Typescript to design and develop frontend applicationsUsing Cascading Stylesheets (CSS) to implement layout styling of frontend applicationsUtilizing Python to build backend APIs to provide data to frontend applicationsDebugging software using an Interactive Development Environment including VS Code to triage and fix issues1 year of experience with each of the following skills is required:Utilizing NoSQL and SQL database technologies including Postgres, MariaDB, MySQL, and Cloud SQLUsing cloud infrastructure to deploy applicationsDesigning and implementing industry standards in REST, gRPC, and GraphQL data APIs.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621894-0836/software-development-engineer-systems?team=SFTWR",
+    "id": "apple-software-development-engineer-systems-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "iOS Software Engineer (MSO)",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBS in Computer Engineering/Computer Science or equivalent experience required4+ years of software development experience, including experience with the iOS SDKExcellent coding skills in one or more object-oriented language such as Swift, Objective-C, C++, Java, or KotlinExperience working on and shipping iOS applicationsSolid understanding and experience with iOS Frameworks and back-end integration.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619728-0836/ios-software-engineer-mso?team=SFTWR",
+    "id": "apple-ios-software-engineer-mso-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Core Networking",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsBS in Computer Science, Electrical Engineering or equivalent networking software development experienceSkill in C/C++, software build toolchain and utilitiesKnowledge and experience with TCP/IP networking.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619762-0836/software-engineer-core-networking?team=SFTWR",
+    "id": "apple-software-engineer-core-networking-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Cloud Network Software Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsExperience in crafting and operationalizing large scale distributed, fault-tolerant, multi-tenant servicesExperience with operating systems and network fundamentalsExperience in API design and interface technologies (JSON, ProtoBuf, REST, RPC, XML, etc).",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620399-3956/cloud-network-software-engineer?team=SFTWR",
+    "id": "apple-cloud-network-software-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Wireless Software Development Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsBachelor's and/or Master's degree in Computer Science or Electrical Engineering.\n• 2+ years of experience in developing network protocol stacks or radio interface layer.\n• Strong programming skills in C/C++, Objective C, Swift.\n• Strong architectural knowledge and experience in framework-level developmentExperience with writing software involving user space, kernel space interaction.\n• Proven experience in writing software for multi-threaded environments and OS layer optimization for framework.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619272-3543/wireless-software-development-engineer?team=SFTWR",
+    "id": "apple-wireless-software-development-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Infrastructure Platform Software Engineer",
+    "job_city": "",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Quality Assurance Engineer-Automationlocations2 Locationsposted onPosted Yesterday30925DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 2 Days Ago32570Senior Systems Engineerlocations4 Locationsposted onPosted 30+ Days Ago31394Wi-Fi Cellular EngineerlocationsUS - AL, Huntsvilleposted onPosted 3 Days Ago29529Senior Service Desk EngineerlocationsIN - Chennaiposted onPosted Yesterday29910Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31233Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31179AI Technology & Studio AI/Cloud/DevOps Engineerlocations2 Locationsposted onPosted 30+ Days Ago31330Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted 18 Days Ago31753Senior Developer – Microsoft Dynamics 365locationsIN - Chennaiposted onPosted 30+ Days Ago31229Full Stack DeveloperlocationsUS - Remote (Any location)posted onPosted Today30814Identity and Access Management Engineer - Managing ConsultantlocationsUS - VA, Arlingtonposted onPosted 30+ Days Ago27589VA Account, Technology Solutions Architectlocations2 Locationsposted onPosted 30+ Days Ago31527Microsoft Dynamics 365 DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday30536Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday32206Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday32590AI & Data Analytics Project ManagerlocationsUS - VA, Ashburnposted onPosted 2 Days Ago31011Automation ManagerlocationsIN - Trivandrumposted onPosted 30+ Days Ago26677Assistant Manager – Automation Supportlocations2 Locationsposted onPosted 4 Days Ago32357Senior Power Platform DeveloperlocationsUS - Remote (Any location)posted onPosted Yesterday32207.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Full-Stack-Developer_30814?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-full-stack-developer-us-any-location"
+    "job_description": "• Minimum QualificationsExperience in infrastructure automation, with a focus on configuration management tools.\n• Experience with configuration management tools (e.\n• Experience with build systems such as Jenkins or Rio.\n• Understanding of software development principles and the software development lifecycle.\n• Familiarity with release engineering principles and practices, including GitFlow branching.\n• Proficiency in at least one object orientated scripting language, such as Python or Go.\n• , Puppet, Ansible, Chef)Understanding of Linux system administration and networking concepts.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622780-3401/infrastructure-platform-software-engineer?team=SFTWR",
+    "id": "apple-infrastructure-platform-software-engineer-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Battery Algorithm Software Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsBS and a minimum of 3 years relevant industry experienceExperience coding with C/C++Experience with SW product development in battery or consumer electronic domain.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200613921-3543/battery-algorithm-software-engineer?team=HRDWR",
+    "id": "apple-battery-algorithm-software-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Apple Services Engineering",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum Qualifications3+ years of industry experience developing software in Java, C, or C++Experience working with distributed NoSQL and relational database technologiesExpertise in synchronous and asynchronous network application I/O frameworksExpertise in programming in concurrent and multi-threaded environmentsIndustry experience building and operating large-scale multi-tiered distributed systemsBachelor's degree in Computer Science, Software Engineering, or an equivalent degree.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621777-3337/software-engineer-apple-services-engineering?team=SFTWR",
+    "id": "apple-software-engineer-apple-services-engineering-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Power Management Software Engineer",
+    "job_city": "",
+    "job_state": "US",
+    "job_posted_at": "2w",
+    "job_description": "• Minimum QualificationsKnowledge of C / C++ / equivalent systems software programming languages and popular scripting languages.\n• Strong system software development skills.\n• Demonstrated innovative, critical & independent thinking, and troubleshooting skills.\n• Strong understanding of operating systems, hardware, and embedded systems.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200618823-3401/power-management-software-engineer?team=SFTWR",
+    "id": "apple-power-management-software-engineer-"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Bluetooth Software Performance Engineer",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsYou have a strong understanding one of Bluetooth, WiFi, Thread, or related protocolsYou have a background or research experience in RF, Digital, and Wireless communicationsYou're experienced working with wireless sniffers and protocol analyzers to debug and root cause issuesYou have experience with Python and Matlab for testing, data analysis and visualizationYou're proficient in Python with hands-on experience using data science libraries for data manipulation & analysisYou have a Bachelors Degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200620192-3543/bluetooth-software-performance-engineer?team=SFTWR",
+    "id": "apple-bluetooth-software-performance-engineer-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Camera Embedded SW Engineer",
+    "job_city": "Sunnyvale",
+    "job_state": "US",
+    "job_posted_at": "4d",
+    "job_description": "• Minimum QualificationsBS and a minimum of 10 years relevant industry experience.\n• Experience developing software for device drivers, including peripherals and controllers such as I2C, SPI, GPIOs, MIPI, and DMA.\n• Experience developing software for sensing and actuator devicesStrong problem-solving and debugging skills with a focus on efficient and reliable solutions.\n• Proficiency in programming, debugging, and designing within multi-threaded RTOS environments.\n• Proficiency in C and C++ programming.\n• Proven ability to develop and deliver high-quality production-level software.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622371-3956/camera-embedded-sw-engineer?team=HRDWR",
+    "id": "apple-camera-embedded-sw-engineer-sunnyvale"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Apple Services Engineering",
+    "job_city": "San Francisco",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum Qualifications3+ years of industry experience developing software in Java, C, or C++Experience working with distributed NoSQL and relational database technologiesExpertise in synchronous and asynchronous network application I/O frameworksExpertise in programming in concurrent and multi-threaded environmentsIndustry experience building and operating large-scale multi-tiered distributed systemsBachelor's degree in Computer Science, Software Engineering, or an equivalent degree.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621777-3577/software-engineer-apple-services-engineering?team=SFTWR",
+    "id": "apple-software-engineer-apple-services-engineering-san-francisco"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Cloud engineering",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum Qualifications3+ years of software automation & validation experience3+ years of experience working on cloud technologies including Kubernetes, Virtualization, and cloud computeHave experience in designing, architecting, and developing cloud services and cloud infrastructure for compute is a plusExperience with testing and using REST APIs and DevOps toolsUnderstanding of large scale distributed systems architecture and applications is a big plusExperience in testing Cloud Platform that is developed on top of either private or public Cloud InfrastructureGood coding experience in C/C++/Go/Swift or a any c type languageStrong development/programming experience in Python/Ansible/KubernetesCreative, collaborative, and product-focusedExcellent communication skillsB.\n• , in Computer Engineering, Electrical Engineering, Computer Science, or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622698-3337/software-engineer-cloud-engineering?team=SFTWR",
+    "id": "apple-software-engineer-cloud-engineering-seattle"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer – FE",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsBachelor's degree or foreign equivalent in Software Engineering or related field and 4 years of experience in the job offered or related occupation.\n• 2 years of experience with each of the following skills is required:Utilizing CMS tooling to design and develop data for an online storeUtilizing versioning technology including GIT to manage and deploy dataUtilizing debug tools including mobile simulators and/or API monitoring tool to visualize features and systemsUtilizing project planning tools including Jira and/or Confluence to track timelines, deliverables, and task assignmentRegression testing, stress testing, smoke testing, and integration testingData visualization, including presenting data to senior engineersTranslating design requirements into functional specifications.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622527-0836/software-development-engineer-fe?team=SFTWR",
+    "id": "apple-software-development-engineer-fe-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Quality Engineer - Safari/WebKit",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Minimum QualificationsBS in Computer Science, Computer Engineering, or equivalent experience.\n• Experience with Python, Swift, or other object-oriented programming languages.\n• Experience in developing comprehensive test plans and test cases, and automating them.\n• Strong debugging and troubleshooting skills with a passion for quality.\n• Good understanding of development lifecycles, testing methodologies, QA processes, and browser security considerations.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200622700-0836/software-quality-engineer-safari-webkit?team=SFTWR",
+    "id": "apple-software-quality-engineer-safari-webkit-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer (Device Management)",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsTrack record of implementing applications or frameworks for an Apple platform using Swift or Objective-CExperience with framework and/or daemon developmentWorking knowledge of key Apple technologies like CoreData, libdispatch, XPCDeep understanding of concurrent programming concepts and design patterns, such as multi-threading, serialization, and lockingExcellent communication and interpersonal skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621098-3543/software-development-engineer-device-management?team=SFTWR",
+    "id": "apple-software-development-engineer-device-management-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer - Security",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum Qualifications10+ years of proven experienceA cross-section of solid understanding of Java, Swift, Rust, Go, and/or C/C++Comprehensive and in-depth knowledge of the security domain, covering areas such as network security, software security, application security, data security, and security attack and defense.\n• Solid background in system and security technologies, including operating systems, distributed systems, cryptographic technology, authentication, and access control, etc.\n• Capable of integrating security requirements into system design based on business context and technical requirements with great maintainability and usability.\n• Be familiar with security solutions in public cloud, private cloud, and hybrid cloud environments with a solid background in distributed architecture, microservice architecture, storage system load balancing, fault-tolerance mechanism, etc.\n• Proven track record of successfully designing and implementing secure software systems in complex and large scale enterprise environments, including security system development, security assessment, and security rectification/remediationExhibiting outstanding cross-team communication skills as iCloud is a complex and large organization.\n• You must be capable of clearly expressing security requirements and solutions (to executive levels), and promoting the implementation of security measures.\n• Expertise with software security primitives and performance concepts, certificates, and IdentityDemonstrated skill and expertise with Unix-type operating systems.\n• Profound infrastructure and security architecture design capabilities.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619043-0836/software-development-engineer-security?team=SFTWR",
+    "id": "apple-software-development-engineer-security-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer - Backend Systems",
+    "job_city": "San Diego",
+    "job_state": "US",
+    "job_posted_at": "3w",
+    "job_description": "• Minimum QualificationsTechnologies: Ruby, Redis, Kafka, etc.\n• Knowledge: problem solving, architecture, debugging, testing, and operations / monitoringUser-focused: passion for quality, attention to details, and delivering outstanding user experiencesCollaboration: excellent communication skills and genuine interest to mentor others and collaborate with teams across a wide range of technology and disciplinesBS, MS in Computer Science or equivalent experience.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200619088-3543/software-engineer-backend-systems?team=SFTWR",
+    "id": "apple-software-engineer-backend-systems-san-diego"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "SW Dev Engineer -ASE -Backend",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "1w",
+    "job_description": "• Minimum QualificationsStrong hands-on experience with C, C++, or JavaStrong hands-on experience with debugging and analyzing crashes or core dumpsStrong knowledge or strong desire to work on cloud infrastructureGood knowledge on SQL and NoSQL databasesExperience building public facing APIs and/or servicesPractical experience with architecture and design of cloud-scale systemsFamiliarity with modern server scaling technologies on Linux (e.\n• , async, non-blocking I/O, multi-threading)Practical experience designing, building and maintaining large-scale, high-performance systems and/or frameworksExperience working on small team as well as cross-functional collaborationAbility to wear multiple hats.\n• Possession of do-whatever-it-takes ability and attitudePractical experience with RESTful APIs.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621734-0836/sw-dev-engineer-ase-backend?team=SFTWR",
+    "id": "apple-sw-dev-engineer-ase-backend-cupertino"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Development Engineer - Test",
+    "job_city": "Cupertino",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Minimum QualificationsMaster’s degree or foreign equivalent in Computer Science, Electrical Engineering, Computer Engineering or related field and 3 years of experience in the job offered or related occupation.\n• 3 years of experience with each of the following skills is required:Using Swift, C or C++ Programming to build software applications and frameworksDeveloping embedded systems for hardware and software code designDesigning software test plans and reporting on test statusConducting automation test development and writing functional testsConducting software API testingBuilding applications using software frameworksUsing frameworks for operating systems and their use in productsData structures for building applications and tools using object-oriented programming languages.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621987-0836/software-development-engineer-test?team=SFTWR",
+    "id": "apple-software-development-engineer-test-cupertino"
+  },
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern AI/ML Engineer",
+    "job_city": "Austin",
+    "job_state": "Texas",
+    "job_posted_at": "1d",
+    "job_description": "• Experienced Professionals.",
+    "job_apply_link": "https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152",
+    "id": "arm-intern-ai-ml-engineer-austin"
   },
   {
     "employer_name": "Amazon",
-    "job_title": "Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "19h",
-    "job_description": "software engineering job for the role Software Engineer - Embedded Flight Software, Kuiper Flight Systems / Software",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3094973/software-engineer-embedded-flight-software-kuiper-flight-systems-software",
-    "id": "amazon-software-engineer-embedded-flight-software-kuiper-flight-systems-software-redmond"
+    "job_title": "Software Development Engineer, AWS PawPrint",
+    "job_city": "Herndon",
+    "job_state": "VA",
+    "job_posted_at": "4d",
+    "job_description": "software engineering job for the role Software Development Engineer, AWS PawPrint",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3091151/software-development-engineer-aws-pawprint",
+    "id": "amazon-software-development-engineer-aws-pawprint-herndon"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "iOS Software Development Engineer, Ring",
+    "job_city": "Hawthorne",
+    "job_state": "CA",
+    "job_posted_at": "3d",
+    "job_description": "software engineering job for the role iOS Software Development Engineer, Ring",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3092585/ios-software-development-engineer-ring",
+    "id": "amazon-ios-software-development-engineer-ring-hawthorne"
   }
 ]
