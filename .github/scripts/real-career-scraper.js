@@ -54,7 +54,7 @@ function delay(ms) {
 
 
 // Fetch jobs from all companies with real career API
-async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 1, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 10, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
@@ -395,9 +395,10 @@ async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages =
       levelFilteredJobs = levelFilteredJobs.filter(job => {
         const isUSJob = isUSOnlyJob(job);
 
-        if (!isUSJob) {
+        if (!isUSJob ) {
           removedJobs.push(job);
-          return false; // Remove non-US job
+          return false; 
+        // Remove non-US job
         }
 
         return true; // Keep US job

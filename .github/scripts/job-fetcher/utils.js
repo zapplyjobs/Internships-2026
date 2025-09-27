@@ -11,9 +11,12 @@ const ALL_COMPANIES = Object.values(companies).flat();
 const COMPANY_BY_NAME = {};
 ALL_COMPANIES.forEach((company) => {
   COMPANY_BY_NAME[company.name.toLowerCase()] = company;
-  company.api_names.forEach((name) => {
-    COMPANY_BY_NAME[name.toLowerCase()] = company;
-  });
+  // Add safety check for api_names
+  if (company.api_names && Array.isArray(company.api_names)) {
+    company.api_names.forEach((name) => {
+      COMPANY_BY_NAME[name.toLowerCase()] = company;
+    });
+  }
 });
 
 /**
@@ -23,6 +26,8 @@ ALL_COMPANIES.forEach((company) => {
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
+
+
 
 /**
  * Generate a standardized job ID for consistent deduplication across systems

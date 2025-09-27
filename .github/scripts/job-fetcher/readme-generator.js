@@ -9,8 +9,6 @@ const {
   getJobCategory,
   formatLocation,
 } = require("./utils");
-
-// Generate enhanced job table with better formatting
 // Import or load the JSON configuration
 
 function generateJobTable(jobs) {
@@ -152,7 +150,7 @@ function generateJobTable(jobs) {
             statusIndicator += " 🏠";
           }
 
-          output += `| ${role}${statusIndicator} | ${location} | [<img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
+          output += `| ${role}${statusIndicator} | ${location} | [<img src="./image.png" width="100" alt="Apply">](${applyLink}) | ${posted} |\n`;
         });
 
         if (companyJobs.length > 15) {
@@ -190,7 +188,7 @@ ${internshipData.companyPrograms
   .map((program) => {
     const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
     const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a>|`;
+    return `| ${emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
   })
   .join("\n")}
 
@@ -201,7 +199,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="https://img.shields.io/badge/Visit_Now-B0BEC5?style=for-the-badge&borderRadius=45" width="120" height="35" alt="Visit Now"></a>|`
+      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
   )
   .join("\n")}
 
@@ -265,13 +263,13 @@ async function generateReadme(
 
 **🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
 
-**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-NEW.md).**
+**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
 
 ## **Join Community**
 
-**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join (our community of) developers and CS students navigating their career journey together!
+**🤗 [Job Finder & Career Hub by Zapply](https://discord.gg/yKWw28q7Yq)** - Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
 
 ---
@@ -299,71 +297,55 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (${companies?.faang_plus?.length || 0} companies)
-${companies?.faang_plus?.map((c) => {
-  if (stats && stats.byCategory && currentJobs) {
-    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
-    const totalJobs = companyJobs.length;
-    
-    if (totalJobs > 0) {
-      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-    }
+#### ⭐ **FAANG+** (${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  if (index === 0) {
+    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+  } else {
+    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-  return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
 
-#### 🦄 **Unicorn Startups** (${companies?.unicorn_startups?.length || 0} companies)
-${companies?.unicorn_startups?.map((c) => {
-  if (stats && stats.byCategory && currentJobs) {
-    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
-    const totalJobs = companyJobs.length;
-    
-    if (totalJobs > 0) {
-      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-    }
+#### 🦄 **Unicorn Startups** (${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  if (index === 0) {
+    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+  } else {
+    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-  return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
 
-#### 💰 **Fintech Leaders** (${companies?.fintech?.length || 0} companies)
-${companies?.fintech?.map((c) => {
-  if (stats && stats.byCategory && currentJobs) {
-    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
-    const totalJobs = companyJobs.length;
-    
-    if (totalJobs > 0) {
-      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-    }
+#### 💰 **Fintech Leaders** (${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  if (index === 0) {
+    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+  } else {
+    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-  return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
 
-#### 🎮 **Gaming & Entertainment** (${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].length} companies)
-${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].map((c) => {
-  if (stats && stats.byCategory && currentJobs) {
-    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
-    const totalJobs = companyJobs.length;
-    
-    if (totalJobs > 0) {
-      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-    }
+#### 🎮 **Gaming & Entertainment** (${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  if (index === 0) {
+    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+  } else {
+    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-  return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
 
-#### ☁️ **Enterprise & Cloud** (${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].length} companies)
-${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].map((c) => {
-  if (stats && stats.byCategory && currentJobs) {
-    const companyJobs = currentJobs.filter(job => job.employer_name === c.name);
-    const totalJobs = companyJobs.length;
-    
-    if (totalJobs > 0) {
-      return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-    }
+#### ☁️ **Enterprise & Cloud** (${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  if (index === 0) {
+    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+  } else {
+    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-  return `**[${c.name}](${c.career_url})**`;
 }).join(" • ") || "No companies available"}
-
 
 ---
 
@@ -425,21 +407,21 @@ ${
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
 - **Check recent tech decisions:** Read their engineering blog for stack changes or new initiatives.
 - **Verify visa requirements:** Look for 🇺🇸 indicator or "US persons only" in job description.
-- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1eGqU7E9if-d1VoWWWts79CT-LzbJsfeZ/export?format=pdf).
+- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 **Resume Best Practices**
 
 - **Mirror their tech stack:** Copy exact keywords from job post (React, Django, Node.js, etc.).
 - **Lead with business impact:** "Improved app speed by 30%" > "Used JavaScript."
 - **Show product familiarity:** "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- [Read this informative guide on tweaking your resume](https://docs.google.com/document/d/12ngAUd7fKO4eV39SBgQdA8nHw_lJIngu/export?format=pdf).
+- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 **Interview Best Practices**
 
 - **Ask tech-specific questions:** "How do you handle CI/CD at scale?" shows real research.
 - **Prepare failure stories:** "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
 - **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://docs.google.com/document/d/1LU4kSNRu0JNiWG5CNPRp0kgzAhq27VHy/export?format=pdf).
+- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 ---
 
@@ -448,7 +430,7 @@ ${
 - ⭐ **Star this repo** to bookmark and check daily.
 - 👀 **Watch** to get notified of new SWE jobs.
 - 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-NEW.md).
+- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
