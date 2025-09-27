@@ -264,16 +264,16 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     // // done
 
 
-    "aijobs": {
-      name: "AI Jobs",
-      baseUrl: "https://www.aijobs.com",
-      url: `https://www.aijobs.com/jobs?q=${encodeURIComponent(searchQuery)}&posted_at=last-7-days&location=United%20States&location_id=168681&order=relevance&page=${pageNum}`,
-      selector: selectors.aijobs
-      //"job_apply_link": "https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer"
-      //https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer
-      // use this selctor #quill-container-with-job-details > div > ul:nth-child(7)
-      // done
-    },
+    // "aijobs": {
+    //   name: "AI Jobs",
+    //   baseUrl: "https://www.aijobs.com",
+    //   url: `https://www.aijobs.com/jobs?q=${encodeURIComponent(searchQuery)}&posted_at=last-7-days&location=United%20States&location_id=168681&order=relevance&page=${pageNum}`,
+    //   selector: selectors.aijobs
+    //   //"job_apply_link": "https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer"
+    //   //https://www.aijobs.com/jobs/156868844-data science-system-design-electrical-engineer
+    //   // use this selctor #quill-container-with-job-details > div > ul:nth-child(7)
+    //   // done
+    // },
 
 
 
