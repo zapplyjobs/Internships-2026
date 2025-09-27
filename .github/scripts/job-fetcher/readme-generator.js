@@ -301,9 +301,9 @@ ${generateJobTable(currentJobs)}
 ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   if (index === 0) {
-    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
   } else {
-    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
@@ -311,9 +311,9 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
 ${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   if (index === 0) {
-    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
   } else {
-    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
@@ -321,9 +321,9 @@ ${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employe
 ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   if (index === 0) {
-    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
   } else {
-    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
@@ -331,9 +331,9 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
 ${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   if (index === 0) {
-    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
   } else {
-    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
@@ -341,9 +341,9 @@ ${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filt
 ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   if (index === 0) {
-    return `**[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
   } else {
-    return `**[${c.name}](${c.career_url})** (${totalJobs})`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
