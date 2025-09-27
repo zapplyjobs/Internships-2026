@@ -227,7 +227,7 @@ async function extractSingleJobData(page, jobElement, selector, company, index, 
  * @returns {string} Job description
  */
 async function extractDescriptionSamePage(page, jobIndex, selector, jobNumber) {
-  let retries = 3;
+  let retries = 1;
   
   while (retries > 0) {
     try {
