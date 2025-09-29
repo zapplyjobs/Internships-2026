@@ -1,82 +1,82 @@
 [
   {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Software Engineer II JAVA/PYTHON/AWS",
-    "job_city": "Noida",
-    "job_state": "Uttar Pradesh",
+    "employer_name": "AMD",
+    "job_title": "SMTS Software Development Engineer",
+    "job_city": "US",
+    "job_state": "TX",
     "job_posted_at": "1d",
-    "job_description": "• Senior Manager of Software Engineering- Java / AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a hands on Java Software Engineer who will manage a team of software engineers Data Platform Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong software engineer with Java, AWS, Data Lake and Python experience Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering AI Software Engineer - Promote AI tool development for pattern detection and boost Lake House platform features.\n• Software Engineer III - ServiceNow Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Software Engineer II - AWS Hyderabad, Telangana, India TechnologySoftware Engineering You will enjoy building upon your existing technical skills while developing new ones.\n• Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Java on Spring Chicago, IL, United States TechnologySoftware Engineering Lead Software Engineer – Java, API and Tech Lead Software Engineer III – Python, Data, Cloud, AIML LONDON, United Kingdom TechnologySoftware Engineering Drive innovation as a hands-on Software Engineer, building scalable Cloud-native and AI/ML solutions for impactful market technology.\n• Software Engineer III - DevOps Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer II-Java/React Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II, PySpark, Databricks Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Big Data Software Engineer - Python Ciudad Autónoma de Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Big Data Software Engineer with skills and experience implementing large-scale, cloud platform processing internal a and third-party da Lead Software Engineer - Infra & AWS Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Lead Software Engineer Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - Java / Springboot Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III- Java, AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Digital Identity seeking talented software engineers to innovate the next generation of identity platform.\n• Software Engineer III, UI React Palo Alto, CA, United States TechnologySoftware Engineering Create and implement React based web applications, ensuring robust and scalable solutions as an experienced member of an agile team Director of Software Engineering - AWS & infra Hyderabad, Telangana, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III - Python, PySpark, AWS Jersey City, NJ, United States TechnologySoftware Engineering Bring your Software Engineering skills to the next level and join the AIML Data Platforms Fusion Data Management Team.\n• Senior Manager of Software Engineering - Payment Platforms Chicago, IL, United States TechnologySoftware Engineering Senior Manager of Software Engineering with distributed technology at scale experience.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210670642/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-software-engineer-ii-java-python-aws-noida"
+    "job_description": "• AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/70752/login",
+    "id": "amd-smts-software-development-engineer-us"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "Platform Emulation Validation Engineer",
+    "job_city": "US",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "• Prior years of experience with low level debug and emulation execution of SoCs and embedded systems, and their related software/firmware debugIn-depth knowledge of system architecture and concepts, including proficiency in x86 and ARM architectures, their functionality, and debug practicesExperience with emulation systems debug, including experience with industry standard emulator systemsKnowledge of Verilog, C, C++, assembly, TCL/TK, Python, and/or other scripting languagesDemonstrated ability to grasp new technical concepts quicklyStrong analytical/problem solving skills and pronounced attention to detailsExcellent written and verbal communication skillsExcel in a dynamic team working environmentSelf-starter, strong collaborator, and able to independently drive tasks to completion, especially those with high ambiguityStrong understanding of BIOS and other firmware components, OS (Linux, Windows, Android), and driver-level interactions at the system level, common failure points within each, and debug methodologiesKnowledge and use of standard debuggers, programmers, and related tools and methodologies (JTAG, Dstream, Lauderbach, etc.\n• )Working debug knowledge of Windows and Linux-based operating systems and technologies, as well as their needs and limitations in a pre-silicon environmentFamiliarity with Git, GitLab/GitHub and other software repository frameworks and methodologiesTechnical understanding of Graphics, Display, PCIe, Power Management, or Security/Crypto architecture & design AMD Partner Hub Authorized Distributors AMD University Program Debug and support of system issues found in firmware, hardware, or software during pre-silicon emulationProviding root cause analysis and guidance for the closure of issues to both internal and customer-facing/external teamsReviewing and planning dependencies, milestones, and deliverables, and coordinating with upstream and downstream teamsDefining and executing pre-silicon coverage on semi-custom systems on emulator systemsDriving collaborative technical discussions and innovations in order to enhance AMD’s capabilities in system emulation and debug, including tool and script development, technical, and methodology enhancementsDrive own priorities to achieve business goals and ensure deliverables are on schedule Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/68141/login",
+    "id": "amd-platform-emulation-validation-engineer-us"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer [Multiple Positions Available]",
+    "job_city": "Tampa",
+    "job_state": "FL",
+    "job_posted_at": "1d",
+    "job_description": "• Senior Manager of Software Engineering- Java / AWS Jersey City, NJ, United States TechnologySoftware Engineering Seeking a hands on Java Software Engineer who will manage a team of software engineers Data Platform Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Seeking a strong software engineer with Java, AWS, Data Lake and Python experience Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering AI Software Engineer - Promote AI tool development for pattern detection and boost Lake House platform features.\n• Software Engineer III - ServiceNow Hyderabad, Telangana, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Software Engineer II - AWS Hyderabad, Telangana, India TechnologySoftware Engineering You will enjoy building upon your existing technical skills while developing new ones.\n• Sr Lead Software Engineer - Site Reliability Engineer Python Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Sr Software Engineering Lead - Site Reliability Engineering Senior Director of Software Engineering - High Performance Compute BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Lead and manage software engineering to enhance the High Performance Compute Platform Lead Software Engineer - Java Houston, TX, United States TechnologySoftware Engineering Carry out critical tech solutions while enhancing your hands-on Java coding skills and lead a team of Software Engineers Lead Software Engineer - Java on Spring Chicago, IL, United States TechnologySoftware Engineering Lead Software Engineer – Java, API and Tech Lead Software Engineer III – Python, Data, Cloud, AIML LONDON, United Kingdom TechnologySoftware Engineering Drive innovation as a hands-on Software Engineer, building scalable Cloud-native and AI/ML solutions for impactful market technology.\n• Software Engineer III - DevOps Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer II-Java/React Mumbai, Maharashtra, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineer II, PySpark, Databricks Hyderabad, Telangana, India TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer - Infra & AWS Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Big Data Software Engineer - Python Ciudad Autónoma de Buenos Aires, Argentina and 1 more TechnologySoftware Engineering Big Data Software Engineer with skills and experience implementing large-scale, cloud platform processing internal a and third-party da Lead Software Engineer Bengaluru, Karnataka, India and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer III - Java / Springboot Jersey City, NJ, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III- Java, AWS GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Digital Identity seeking talented software engineers to innovate the next generation of identity platform.\n• Lead Software Engineer- Java / Springboot / Microservices New York, NY, United States TechnologySoftware Engineering Seeking a strong Lead Java Software Engineer Software Engineer III, UI React Palo Alto, CA, United States TechnologySoftware Engineering Create and implement React based web applications, ensuring robust and scalable solutions as an experienced member of an agile team Software Engineer [Multiple Positions Available] Tampa, FL, United States TechnologySoftware Engineering Plan, coordinate, and oversee projects, ensuring that they align with the organizational strategy.\n• Director of Software Engineering - AWS & infra Hyderabad, Telangana, India TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Software Engineer III - Python, PySpark, AWS Jersey City, NJ, United States TechnologySoftware Engineering Bring your Software Engineering skills to the next level and join the AIML Data Platforms Fusion Data Management Team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210671463/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-multiple-positions-available-tampa"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Search, Box and Suggest iOS",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Search, Box and Suggest iOS",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/92563003605426886-software-engineer-search-box-and-suggest-ios?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-search-box-and-suggest-ios-los-angeles"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google TV",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google TV",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/115652162783978182-software-engineer-iii-infrastructure-google-tv?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-infrastructure-google-tv-san-jose"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Mobile, NotebookLM",
+    "job_title": "Software Engineer III, Infrastructure, Google Ads",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Mobile, NotebookLM",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100428867377734342-software-engineer-iii-mobile-notebooklm?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-mobile-notebooklm-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Ads",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/74169823340176070-software-engineer-iii-infrastructure-google-ads?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-infrastructure-google-ads-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Generative AI, Google Cloud AI",
+    "job_title": "Software Engineer III, Infrastructure, Vertex Agent Platform",
     "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Generative AI, Google Cloud AI",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91903383064978118-software-engineer-iii-generative-ai-google-cloud-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-generative-ai-google-cloud-ai-sunnyvale"
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Vertex Agent Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/95490350235165382-software-engineer-iii-infrastructure-vertex-agent-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=9",
+    "id": "google-software-engineer-iii-infrastructure-vertex-agent-platform-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Infrastructure, Google Cloud Compute",
-    "job_city": "Seattle",
-    "job_state": "WA",
+    "job_title": "Software Engineer, Generative AI, Google Cloud Business Platform",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Compute",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/133684076253979334-software-engineer-iii-infrastructure-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-infrastructure-google-cloud-compute-seattle"
+    "job_description": "software engineering job for the role Software Engineer, Generative AI, Google Cloud Business Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78817206124585670-software-engineer-generative-ai-google-cloud-business-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-generative-ai-google-cloud-business-platform-sunnyvale"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Gen AI and Agentic Experiences",
+    "job_title": "Software Engineer III, YouTube",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Gen AI and Agentic Experiences",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/125415547754947270-software-engineer-iii-gen-ai-and-agentic-experiences?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-gen-ai-and-agentic-experiences-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99399067632575174-software-engineer-iii-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-youtube-mountain-view"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, AI/ML, Google Cloud Compute",
-    "job_city": "Kirkland",
-    "job_state": "WA",
+    "job_title": "Software Engineer III, Full Stack, Platforms and Devices",
+    "job_city": "Mountain View",
+    "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Google Cloud Compute",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/76501661480035014-software-engineer-iii-aiml-google-cloud-compute?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-ai-ml-google-cloud-compute-kirkland"
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Platforms and Devices",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/103016949708923590-software-engineer-iii-full-stack-platforms-and-devices?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-full-stack-platforms-and-devices-mountain-view"
   }
 ]
