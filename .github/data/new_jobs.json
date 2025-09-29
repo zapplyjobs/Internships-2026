@@ -1,12 +1,42 @@
 [
   {
+    "employer_name": "Analog Devices",
+    "job_title": "RF Test Technician",
+    "job_city": "2 Locations",
+    "job_state": "US",
+    "job_posted_at": "3d",
+    "job_description": "• Senior RF Test Development Engineer - ADEFlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252194Device Integration Engineerlocations3 Locationsposted onPosted 30+ Days AgoR254627Senior Applications EngineerlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR252934Senior Engineer, ImplantlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR253909Digital Design Engineerlocations5 Locationsposted onPosted 30+ Days AgoR255049Lead RF Hardware EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 24 Days AgoR252164Energy Management System EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR253247Thermal Management System Engineerlocations2 Locationsposted onPosted 30+ Days AgoR253248Technician 1, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 18 Days AgoR250902Equipment Engineering TechnicianlocationsUS, OR, Beavertonposted onPosted 26 Days AgoR251934Principal Engineer, Digital Designlocations3 Locationsposted onPosted 30+ Days AgoR244688Principal Device Technologistlocations2 Locationsposted onPosted 30+ Days AgoR254004Equipment Engineering Technician 3locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251935Equipment Engineering Tech 4locationsUS, OR, Beavertonposted onPosted 30+ Days AgoR253374Design Verification Engineerlocations3 Locationsposted onPosted 30+ Days AgoR255047Staff Engineer, Product Applicationslocations2 Locationsposted onPosted 30+ Days AgoR244208Staff Product Applications EngineerlocationsUS, TX, Austin, N.\n• Capitalposted onPosted 30+ Days AgoR253819Failure Analysis Engineering Internlocations3 Locationsposted onPosted 5 Days AgoR256321RF Test Technicianlocations2 Locationsposted onPosted 3 Days AgoR254217Senior Applications EngineerlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR252337.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/RF-Test-Technician_R254217?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "analog-devices-rf-test-technician-2-locations"
+  },
+  {
+    "employer_name": "BAE Systems",
+    "job_title": "DevOps Platform Engineer",
+    "job_city": "Lexington",
+    "job_state": "MA",
+    "job_posted_at": "2w",
+    "job_description": "• Android Vulnerability Research Engineer and Developer, SeniorlocationsQuantico, VAposted onPosted 30+ Days AgoR0221762 Vulnerability Researcher, SeniorlocationsFort Meade, MDposted onPosted 30+ Days AgoR0222871 Operational Cyber Researcher and Capabilities Engineer, SeniorlocationsChantilly, VAposted onPosted 12 Days AgoR0225184 Defensive Cyber Operations DirectorlocationsMcLean, VAposted onPosted 11 Days AgoR0219980 DevSecOps Engineer, SeniorlocationsLexington, MAposted onPosted 30+ Days AgoR0221727 Robotics Engineer, SeniorlocationsLorton, VAposted onPosted 30+ Days AgoR0224473 AI DevOps Engineer, SeniorlocationsLaurel, MDposted onPosted 24 Days AgoR0224541 Security Engineer, SeniorlocationsO'Fallon, ILposted onPosted 4 Days AgoR0226987 Splunk Developer, SeniorlocationsMcLean, VAposted onPosted 3 Days AgoR0226351.",
+    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/DevSecOps-Engineer--Senior_R0221846?q=software+engineering",
+    "id": "bae-systems-devops-platform-engineer-lexington"
+  },
+  {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Earth Platforms",
+    "job_title": "Software Engineer, Computational Photography, Video and Generative AI",
     "job_city": "New York",
     "job_state": "NY",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Google Earth Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/100941282209080006-software-engineer-iii-google-earth-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=5",
-    "id": "google-software-engineer-iii-google-earth-platforms-new-york"
+    "job_description": "software engineering job for the role Software Engineer, Computational Photography, Video and Generative AI",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/143124870442427078-software-engineer-computational-photography-video-and-generative-ai?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-computational-photography-video-and-generative-ai-new-york"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, AI/ML GenAI, YouTube",
+    "job_city": "San Bruno",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML GenAI, YouTube",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/106861505932075718-software-engineer-iii-aiml-genai-youtube?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-genai-youtube-san-bruno"
   }
 ]
