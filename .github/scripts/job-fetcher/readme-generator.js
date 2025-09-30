@@ -297,58 +297,51 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 **Top Companies**
 
-#### ⭐ **FAANG+** (${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+#### ⭐ **FAANG+** (${(() => {
+  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
 ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
-#### 🦄 **Unicorn Startups** (${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
-${companies?.unicorn_startups?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
-  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
-  if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-  } else {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
-  }
-}).join(" • ") || "No companies available"}
 
-#### 💰 **Fintech Leaders** (${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+#### 💰 **Fintech Leaders** (${(() => {
+  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
 ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
-#### 🎮 **Gaming & Entertainment** (${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
-${[...(companies?.gaming || []), ...(companies?.media_entertainment || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
-  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
-  if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
-  } else {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
-  }
-}).join(" • ") || "No companies available"}
 
-#### ☁️ **Enterprise & Cloud** (${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length} companies)
+#### ☁️ **Enterprise & Cloud** (${(() => {
+  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
+  return `${count} ${count === 1 ? 'company' : 'companies'}`;
+})()})
 ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+  const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} positions)`;
+    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
 }).join(" • ") || "No companies available"}
 
 ---
-
 ### 📈 **Experience Breakdown**
 
 | Level               | Count | Percentage | Top Companies                     |
