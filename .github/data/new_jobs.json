@@ -1,32 +1,22 @@
 [
   {
-    "employer_name": "Verizon",
-    "job_title": "Secur Cslt III-Ntwk & Info Sec",
-    "job_city": "2 Locations",
+    "employer_name": "Broadcom",
+    "job_title": "Software Engineer",
+    "job_city": "USA-CA - Promontory B",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Secur Cslt III-Ntwk & Info Seclocations2 Locationstime typeFull timeposted onPosted TodayR-1070016Business Intelligence Senior Managerlocations3 Locationstime typeFull timeposted onPosted YesterdayR-1084875Full Stack Software Development Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 2 Days AgoR-1086181Network Performance Summer 2026 InternshiplocationsIrving, Texastime typeFull timeposted onPosted 2 Days AgoR-1086176Security Engineering Summer 2026 InternshiplocationsSouthlake, Texastime typeFull timeposted onPosted 2 Days AgoR-1086113Technical Product Management Summer 2026 InternshiplocationsPlano, Texastime typeFull timeposted onPosted 2 Days AgoR-1086171Irving V Teamer for a Day: Full Stack Software Development Summer Internship 2026locationsIrving, Texastime typeFull timeposted onPosted 2 Days AgoR-1086183Irving V Teamer for a Day: Network Performance Summer Internship 2026locationsIrving, Texastime typeFull timeposted onPosted 2 Days AgoR-1086178Irving V Teamer for a Day: Technical Product Management Summer Internship 2026locationsPlano, Texastime typeFull timeposted onPosted 2 Days AgoR-1086173Irving V Teamer for a Day: Security Engineering Summer Internship 2026locationsSouthlake, Texastime typeFull timeposted onPosted 2 Days AgoR-1086122Irving V-Teamer for a Day 2025 Global Solutions Intern Programlocations6 Locationstime typeFull timeposted onPosted 2 Days AgoR-1086180Security Consultant IV-Network & Information Securitylocations2 Locationstime typeFull timeposted onPosted 2 Days AgoR-1070165Senior Embedded Software EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 7 Days AgoR-1085604Senior Software QA EngineerlocationsFirenze, Italytime typeFull timeposted onPosted 7 Days AgoR-1085603Sr Analyst-Ops SuptlocationsSan Diego, Californiatime typeFull timeposted onPosted 9 Days AgoR-1085073Engineering III Consultant-Software Developmentlocations2 Locationstime typeFull timeposted onPosted 9 Days AgoR-1084475Senior Engineering Consultant-Software Developmentlocations2 Locationstime typeFull timeposted onPosted 9 Days AgoR-1085403Network Performance Summer 2026 InternshiplocationsIndianapolis, Indianatime typeFull timeposted onPosted 12 Days AgoR-1085577Engr II-Software DevelopmentlocationsHyderabad, Indiatime typeFull timeposted onPosted 12 Days AgoR-1085405Purchasing AnalystlocationsLimerick, Irelandtime typeFull timeposted onPosted 13 Days AgoR-1083220.",
-    "job_apply_link": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Hyderabad-India/Secur-Cslt-III-Ntwk---Info-Sec_R-1070016?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "verizon-secur-cslt-iii-ntwk-info-sec-2-locations"
+    "job_description": "• Kubernetes Ecosystem Business Development ManagerlocationsUSA-CA - Promontory Atime typeFull timeposted onPosted 5 Days AgoR023783 Kubernetes Ecosystem Business Development ManagerlocationsUSA-CA - Promontory Atime typeFull timeposted onPosted 5 Days AgoR023782 Kubernetes Ecosystem Business Development ManagerlocationsUSA-CA - Promontory Atime typeFull timeposted onPosted 5 Days AgoR023781 Senior Quality Engineer - Virtual Machine MonitorlocationsCHN-Beijing-InfoTechtime typeFull timeposted onPosted 2 Days AgoR023809 Senior Software Engineer - PerformancelocationsUSA-CA - Promontory Dtime typeFull timeposted onPosted 5 Days AgoR023796 Technology Alliance Program Managerlocations2 Locationstime typeFull timeposted onPosted 5 Days AgoR023784 Industry Analyst Program Leaderlocations7 Locationstime typeFull timeposted onPosted TodayR023800.",
+    "job_apply_link": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R023814?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "broadcom-software-engineer-usa-ca-promontory-b"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Search Platforms",
-    "job_city": "Mountain View",
+    "job_title": "Software Engineer, Cloud Dataproc, Open Source",
+    "job_city": "Sunnyvale",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Search Platforms",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/98566013896794822-software-engineer-iii-search-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-search-platforms-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer III, Google Compute Infrastructure",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Google Compute Infrastructure",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/78647055089574598-software-engineer-iii-google-compute-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=6",
-    "id": "google-software-engineer-iii-google-compute-infrastructure-seattle"
+    "job_description": "software engineering job for the role Software Engineer, Cloud Dataproc, Open Source",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91773024901964486-software-engineer-cloud-dataproc-open-source?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-cloud-dataproc-open-source-sunnyvale"
   }
 ]
