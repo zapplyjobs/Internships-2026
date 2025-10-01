@@ -1,72 +1,42 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "AI Forward Deployed Engineer (New Grad)",
-    "job_city": "Washington - Bellevue",
+    "employer_name": "IBM",
+    "job_title": "Support Engineer - HashiCorp",
+    "job_city": "Austin",
     "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• You'll directly push its capabilities to the limit, developing bespoke intelligent agents, automating intricate business processes, and crafting intuitive user experiences that deliver tangible value.\n• You'll translate these nuanced needs into clear, actionable technical requirements, building strong relationships as their primary technical advisor.\n• Prototype and Iterate Rapidly: Quickly develop proofs-of-concept and minimum viable products, coding alongside client teams to demonstrate capabilities and gather feedback for iterative refinement.\n• Strong background in Computer Science or a related engineering discipline.\n• Academic, professional or internship experience working in a professional coding setting environmentProficiency in one or more programming languages (e.\n• Hands-on experience building solutions with AI/LLM technologies, including integrating LLMs, applying AI orchestration frameworks, and prompt engineering techniques.\n• Strong experience in data modeling, processing, integration, and analytics, with demonstrable proficiency in data platforms (e.\n• Direct experience with the Salesforce platform, including configuration, customization, and development.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr312405/ai-forward-deployed-engineer-new-grad/",
-    "id": "salesforce-ai-forward-deployed-engineer-new-grad-washington-bellevue"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Support Engineer - HashiCorp",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-austin"
   },
   {
-    "employer_name": "BAE Systems",
-    "job_title": "DSP Software Engineer",
+    "employer_name": "General Dynamics",
+    "job_title": "Web Developer - TS/SCI with Polygraph",
+    "job_city": "USA VA Chantilly",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Chantilly/Web-Developer----TS-SCI-with-Polygraph_RQ207804?q=software+engineering",
+    "id": "general-dynamics-web-developer-ts-sci-with-polygraph-usa-va-chantilly"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Front End/Angular 2+/Full Stack Java Developer",
+    "job_city": "USA MD Hanover",
+    "job_state": "US",
+    "job_posted_at": "1d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/Front-End-Angular-2--Full-Stack-Java-Developer_RQ192647-1?q=software+engineering",
+    "id": "general-dynamics-front-end-angular-2-full-stack-java-developer-usa-md-hanover"
+  },
+  {
+    "employer_name": "General Dynamics",
+    "job_title": "Engineer (Tactical Network - CANES) - Active Secret clearance",
     "job_city": "2 Locations",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• DevOps Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 14 Days AgoR0220920 Chief Product Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoR0220298 Product Software Engineer, LeadlocationsMcLean, VAposted onPosted 30+ Days AgoR0220496 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 20 Days AgoR0224794 Software Engineer, SeniorlocationsHuntsville, ALposted onPosted 4 Days AgoR0226694 Software Engineer, Seniorlocations2 Locationsposted onPosted 18 Days AgoR0226171 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 13 Days AgoR0226443 Software Engineer, Seniorlocations2 Locationsposted onPosted 8 Days AgoR0226356 Software Engineer, SeniorlocationsBelcamp, MDposted onPosted TodayR0227209.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DSP-Software-Engineer_R0226258?q=software+engineering",
-    "id": "bae-systems-dsp-software-engineer-2-locations"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Full-Stack Developer",
-    "job_city": "Norfolk",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Advanced Data Analytics Full-Stack Technical Lead DeveloperlocationsArlington, VAposted onPosted TodayR0227195 Application Developer, SeniorlocationsAnnapolis Junction, MDposted onPosted TodayR0227331 Full Stack Developer, SeniorlocationsHuntsville, ALposted onPosted 7 Days AgoR0226696 Full Stack Developer, SeniorlocationsBremerton, WAposted onPosted 5 Days AgoR0226995 Azure Cloud Developer, Seniorlocations2 Locationsposted onPosted 4 Days AgoR0227101 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted YesterdayR0226625 AWS Cloud Developer, Seniorlocations2 Locationsposted onPosted 4 Days AgoR0227102 Back End Developer, Seniorlocations2 Locationsposted onPosted 8 Days AgoR0226362.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Full-Stack-Developer_R0227306?q=software+engineering",
-    "id": "bae-systems-full-stack-developer-norfolk"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Software Test Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer – DatacenterlocationsUS, California, Santa Claraposted onPosted TodayJR0276919Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773Software Test Engineerlocations2 Locationsposted onPosted TodayJR0277574GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 11 Days AgoJR0277307Enterprise Provisioning and Power Efficiency Engineerlocations2 Locationsposted onPosted TodayJR0277465Software Product Managerlocations3 Locationsposted onPosted 5 Days AgoJR0277468Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 6 Days AgoJR0275499Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0276922Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277575Physical Verification Application Engineerlocations3 Locationsposted onPosted 28 Days AgoJR0272754MES EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277565MES EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277570Triton Compiler Engineerlocations3 Locationsposted onPosted 20 Days AgoJR0277157Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277457AI Compiler Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0277310.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Test-Engineer_JR0277574?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-software-test-engineer-2-locations"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "MES Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer – DatacenterlocationsUS, California, Santa Claraposted onPosted TodayJR0276919Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773Software Test Engineerlocations2 Locationsposted onPosted TodayJR0277574GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 11 Days AgoJR0277307Enterprise Provisioning and Power Efficiency Engineerlocations2 Locationsposted onPosted TodayJR0277465Software Product Managerlocations3 Locationsposted onPosted 5 Days AgoJR0277468Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 6 Days AgoJR0275499Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 8 Days AgoJR0276922Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277575Physical Verification Application Engineerlocations3 Locationsposted onPosted 28 Days AgoJR0272754MES EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277565MES EngineerlocationsUS, Arizona, Phoenixposted onPosted TodayJR0277570Triton Compiler Engineerlocations3 Locationsposted onPosted 20 Days AgoJR0277157Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 7 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277457AI Compiler Engineerlocations2 Locationsposted onPosted 8 Days AgoJR0277310.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/MES-Equipment-and-WIP-Modeler_JR0277565?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-mes-engineer-us"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer - Azure Core Compute Platform Team",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer - Azure Core Compute Platform Team",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-software-engineer-azure-core-compute-platform-team-"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Software Engineer - Azure Core One Fleet Platform Team",
-    "job_city": "",
-    "job_state": "United States",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Engineer - Azure Core One Fleet Platform Team",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-software-engineer-azure-core-one-fleet-platform-team-"
+    "job_posted_at": "3d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207961-2?q=software+engineering",
+    "id": "general-dynamics-engineer-tactical-network-canes-active-secret-clearance-2-locations"
   }
 ]
