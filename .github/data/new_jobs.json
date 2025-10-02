@@ -1,22 +1,22 @@
 [
   {
-    "employer_name": "Honeywell",
-    "job_title": "QCS Field Service Engineer I - Cantonment or Pensacola, FL",
-    "job_city": "Cantonment",
-    "job_state": "FL",
-    "job_posted_at": "13h",
-    "job_description": "• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.\n• Collaborate with cross-functional teams to meet software engineering requirements.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/121741/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-qcs-field-service-engineer-i-cantonment-or-pensacola-fl-cantonment"
+    "employer_name": "AMD",
+    "job_title": "Software System Designer",
+    "job_city": "US",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "• Build and deploy software for the most advanced HPC (High Performance Compute), data science, Virtualization, and machine learning platforms in the world Define/develop/execute regression test models and track the results Drive innovation in production software environments Combine advanced software engineering skills with a drive to explore novel approaches to solve important problems in heterogeneous computing at the large scales Evaluate and review of existing processes and continuously strive to optimize the workflow Extensive C++ experience, preferably in production environments Prior experience of scripting with Perl, Python, Shell, TCL/TK, and AutoIT is an added advantage Knowledge of Windows and Linux environments Experience with software development process and tools such as debuggers and source code control systems a plus Knowledge of KVM/XEN/VMWARE is a plus Bachelors or Masters degree in Electrical Engineering, Mathematics, Computer Science, Engineering, or an equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/71435/login",
+    "id": "amd-software-system-designer-us"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer II, Amazon",
-    "job_city": "Seattle",
-    "job_state": "WA",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer II, Amazon",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3099296/software-development-engineer-ii-amazon",
-    "id": "amazon-software-development-engineer-ii-amazon-seattle"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Cloud Big Table",
+    "job_city": "New York",
+    "job_state": "NY",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Cloud Big Table",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/112965621901075142-software-engineer-iii-cloud-big-table?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-iii-cloud-big-table-new-york"
   }
 ]
