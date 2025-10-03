@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "Embedded Model-Based Systems Engineer",
-    "job_city": "7 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• University, 2026 Summer Games Software Developer Internlocations11 Locationsposted onPosted 22 Days AgoR0225356 Configuration Engineer, LeadlocationsAnnapolis Junction, MDposted onPosted 30+ Days AgoR0223086 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted YesterdayR0227509 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted YesterdayR0227508 Cybersecurity Test Engineer, JuniorlocationsRome, NYposted onPosted YesterdayR0227510 Software Architect, Leadlocations3 Locationsposted onPosted 30+ Days AgoR0224420.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Troy-MI/Embedded-Model-Based-Systems-Engineer_R0222286?q=software+engineering",
-    "id": "bae-systems-embedded-model-based-systems-engineer-7-locations"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Application Support Engineer, Retail Engineering",
-    "job_city": "Austin",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Minimum Qualifications3+ years of software engineering experience in a large-scale environment, of which at least 2 years focused on Application Support EngineeringCoding knowledge in Java, Scala and frameworks related to JavaGood understanding of SQLSkills and experience in monitoring, alerting, fault analysis, and automationBS degree and equivalent experience or higher in CS or related field.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624020-0157/software-application-support-engineer-retail-engineering?team=CORSV",
-    "id": "apple-software-application-support-engineer-retail-engineering-austin"
-  },
-  {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Search Box and Suggest",
-    "job_city": "Los Angeles",
-    "job_state": "CA",
+    "job_title": "Software Engineer, BigQuery Platform, Infrastructure",
+    "job_city": "Kirkland",
+    "job_state": "WA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Search Box and Suggest",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132042767118279366-software-engineer-search-box-and-suggest?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
-    "id": "google-software-engineer-search-box-and-suggest-los-angeles"
+    "job_description": "software engineering job for the role Software Engineer, BigQuery Platform, Infrastructure",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/91614102522077894-software-engineer-bigquery-platform-infrastructure?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-bigquery-platform-infrastructure-kirkland"
   }
 ]
