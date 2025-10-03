@@ -186,9 +186,8 @@ function generateInternshipSection(internshipData) {
 |---------|---------|-----------|
 ${internshipData.companyPrograms
   .map((program) => {
-    const companyObj = ALL_COMPANIES.find((c) => c.name === program.company);
-    const emoji = companyObj ? companyObj.emoji : "🏢";
-    return `| ${emoji} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
+   
+    return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
   })
   .join("\n")}
 
