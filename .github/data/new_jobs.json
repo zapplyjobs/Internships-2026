@@ -1,52 +1,22 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Product Applications Engineer",
-    "job_city": "Longmont",
-    "job_state": "Colorado",
-    "job_posted_at": "1d",
-    "job_description": "• Senior Engineer, HIG HBM Media HealthTaichung City, Taichung City, TaiwanPosted 5 months ago Senior/Principal Engineer, Tester Applications, SSDSingapore, SingaporePosted 2 months ago HIG HBM PE Principal Component Validation EngineerSingapore, SingaporePosted 2 months ago Senior Engineer , SSD ValidationBengaluru, Karnataka, IndiaPosted 2 months ago SENIOR TEST SOLUTIONS ENGINEERSingapore, SingaporePosted 3 months ago.",
-    "job_apply_link": "https://careers.micron.com/careers/job/38368859",
-    "id": "micron-technology-product-applications-engineer-longmont"
-  },
-  {
-    "employer_name": "Analog Devices",
-    "job_title": "Production Planning Analyst",
-    "job_city": "2 Locations",
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern - AI Accelerators Research",
+    "job_city": "ship",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Product Applications Internlocations5 Locationsposted onPosted 8 Days AgoR255003Senior Analyst, Supply Chain PlanninglocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR251013System Architect for High Power Applicationslocations3 Locationsposted onPosted 30+ Days AgoR251818Mixed Signal Design InternlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255002Manufacturing InternlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR254975Production Planning Analystlocations2 Locationsposted onPosted TodayR256004Associate Analyst, Supply Chain PlanninglocationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR252323System Architect for High Power Applicationslocations2 Locationsposted onPosted 30+ Days AgoR253408Director, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254131Supply Chain Analystlocations3 Locationsposted onPosted 30+ Days AgoR255210Director of Product - Data Center CoolinglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254631Principal Account Managerlocations6 Locationsposted onPosted 30+ Days AgoR253859Segment Marketing Director within Datacenter Infrastructurelocations3 Locationsposted onPosted 30+ Days AgoR254493Senior Analyst, Information TechnologylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR254044Indirect Procurement AnalystlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR255768PCBA Supplier Management Specialist, Supply Chainlocations2 Locationsposted onPosted 30+ Days AgoR254583Contracts Negotiator - Aerospace and DefenselocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251664Senior Analyst, Supply Chain PlanninglocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254460Analog Designer Internlocations3 Locationsposted onPosted 30+ Days AgoR255040Global Account Manager – US Data Center Hyperscaler CSP AccountlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR252049.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Alpha/Production-Planning-Analyst_R256004?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-production-planning-analyst-2-locations"
+    "job_description": "software engineering job for the role Software Engineer Intern - AI Accelerators Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-ai-accelerators-research-ship"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Associate Analyst, Supply Chain Planning",
-    "job_city": "US",
-    "job_state": "MA",
-    "job_posted_at": "1d",
-    "job_description": "• Product Applications Internlocations5 Locationsposted onPosted 8 Days AgoR255003Senior Analyst, Supply Chain PlanninglocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR251013System Architect for High Power Applicationslocations3 Locationsposted onPosted 30+ Days AgoR251818Mixed Signal Design InternlocationsUS, NC, Durhamposted onPosted 30+ Days AgoR255002Manufacturing InternlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR254975Production Planning Analystlocations2 Locationsposted onPosted TodayR256004Associate Analyst, Supply Chain PlanninglocationsUS, MA, Chelmsford, Elizabethposted onPosted TodayR252323System Architect for High Power Applicationslocations2 Locationsposted onPosted 30+ Days AgoR253408Director, Product ApplicationslocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254131Supply Chain Analystlocations3 Locationsposted onPosted 30+ Days AgoR255210Director of Product - Data Center CoolinglocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR254631Principal Account Managerlocations6 Locationsposted onPosted 30+ Days AgoR253859Segment Marketing Director within Datacenter Infrastructurelocations3 Locationsposted onPosted 30+ Days AgoR254493Senior Analyst, Information TechnologylocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR254044Indirect Procurement AnalystlocationsUS, MA, Wilmingtonposted onPosted 7 Days AgoR255768PCBA Supplier Management Specialist, Supply Chainlocations2 Locationsposted onPosted 30+ Days AgoR254583Contracts Negotiator - Aerospace and DefenselocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR251664Senior Analyst, Supply Chain PlanninglocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR254460Analog Designer Internlocations3 Locationsposted onPosted 30+ Days AgoR255040Global Account Manager – US Data Center Hyperscaler CSP AccountlocationsUS, CA, San Jose, Rio Roblesposted onPosted 30+ Days AgoR252049.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Chelmsford-Elizabeth/Associate-Analyst--Supply-Chain-Planning_R252323?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-associate-analyst-supply-chain-planning-us"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Azure Cloud Developer",
-    "job_city": "Any Location /",
+    "employer_name": "Salesforce",
+    "job_title": "Solution Engineering, Early Career",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Any-Location--Remote/Azure-Cloud-Developer_RQ206687-2?q=software+engineering",
-    "id": "general-dynamics-azure-cloud-developer-any-location"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Applications Developer - TS/SCI with Polygraph",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-McLean/Applications-Developer---TS-SCI-with-Polygraph_RQ208313?q=software+engineering",
-    "id": "general-dynamics-applications-developer-ts-sci-with-polygraph-2-locations"
+    "job_posted_at": "1h",
+    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Assist with hands-on product workshops and education sessionsAssist sales teams with product demo design, build, and deliveryAssist sales teams in responses to customer RFPs and requirements documents.\n• Long-term interest in a client-facing sales careerExemplary problem-solving skills and the resourceful ability to take initiativeYou thrive when solving challenges - no matter how large or small.\n• This is a Salesforce office-based position which also requires flexibility to travel to customer on-sites Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Work closely with other groups within Salesforce (e.\n• Alliances, sales effectiveness, product marketing, etc.\n• ) to develop and execute solutions programs and initiatives.\n• Participate in all appropriate product, sales, and procedural training and certification to acquire and maintain the knowledge necessary to be effective in the position.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr310975/solution-engineering-early-career/",
+    "id": "salesforce-solution-engineering-early-career-illinois-chicago"
   }
 ]
