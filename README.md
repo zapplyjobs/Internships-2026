@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
 
 **🚀 Real-time software engineering, programming, and IT jobs from 32+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 965+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
@@ -1374,3 +1375,7 @@
 **Last Updated:** October 3, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
+=======
+# New-Grad-Software-Engineering-Positions
+Daily-updated collection of Software Engineering jobs from top companies
+>>>>>>> dee4ce6b0386b13eeff15ac1982365d3723723a4
