@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer III, Full Stack, Search",
+    "job_title": "Software Engineer, AI/ML, Computer Vision, Pixel Camera",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Search",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/75947431920837318-software-engineer-iii-full-stack-search?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
-    "id": "google-software-engineer-iii-full-stack-search-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer, AI/ML, Computer Vision, Pixel Camera",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/141537887542747846-software-engineer-aiml-computer-vision-pixel-camera?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-ai-ml-computer-vision-pixel-camera-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Embedded Systems, Firmware, Pixel Audio",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Embedded Systems, Firmware, Pixel Audio",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/84979009409950406-software-engineer-embedded-systems-firmware-pixel-audio?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
+    "id": "google-software-engineer-embedded-systems-firmware-pixel-audio-mountain-view"
   }
 ]
