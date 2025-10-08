@@ -1,92 +1,102 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Technical Support Engineer",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Technical Support Engineer",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63081&source=WEB_Search_NA",
-    "id": "ibm-technical-support-engineer-poughkeepsie"
-  },
-  {
     "employer_name": "Salesforce",
-    "job_title": "LATAM Internship Program - Sales Intern [Brazil]",
-    "job_city": "Brazil - Sao Paulo",
+    "job_title": "Sales Development Representative (Early Career)",
+    "job_city": "Illinois - Chicago",
     "job_state": "US",
     "job_posted_at": "1h",
-    "job_description": "• In this role, you will gain hands-on experience in prospecting, lead generation, and understanding the sales cycle, in addition to positioning yourself for a successful career in Sales Development.\n• The BDA Program at Salesforce is designed to transform your potential and develop high-impact sales skills.\n• You will collaborate with experienced SDRs and managers, learning how to strategically target and engage prospects across all industries.\n• ​Program HighlightsStructured Training: The BDA Program offers comprehensive enablement, including sales methodology, product knowledge, and role-specific skills development.\n• Mentorship and Support: Work side by side with experienced SDRs and sales leaders, gaining invaluable mentorship to help you progress in your career.\n• Hands-on Experience: BDAs are immersed in the real-world challenges of lead qualification, profiling, and nurturing, preparing them to contribute immediately to the sales pipeline.\n• Key QualificationsBachelor’s degree with graduation date between June/2026 and December/2026.\n• Strong communication skills (both verbal and written).",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr249467/latam-internship-program-sales-intern-brazil/",
-    "id": "salesforce-latam-internship-program-sales-intern-brazil-brazil-sao-paulo"
+    "job_description": "• Partnering closely with Account Executives to help move along qualified pipeline through the sales cycleDiscovering business initiatives and acting as their internal advocateBuilding a point of view on how to help qualify customer needs and speaking to value and return on investment vs.\n• Technical functionalityLearning how to anticipate, prepare, and overcome objectionsBuilding credibility and trust with internal and external stakeholdersDemonstrating adaptability and flexibility as part of an ever-growing sales organizationManaging a high volume of inbound leads with a strategy on prioritization of your leadsUnderstanding various lines of business and personas Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Long-term interest in a client-facing sales careerCompetitive spirit and the drive for resultsExemplary problem-solving skills and the resourceful ability to take initiativeCoachable and enjoys learning in a fast-paced sales environmentSuperior organizational skills and attention to detail University Overview Interns New Grads Advanced Degrees Associate Program Manager Previous internship or full-time corporate sales experienceB2B software sales experience is a plus.\n• Strategically managing and calling a high volume of inbound leads, effectively prioritizing and organizing your pipeline to maximize conversion.\n• Leverage the use of Salesforce's AI tools to streamline sales workflows, empower the team with timely insights, and articulate the value proposition of our offerings to drive business growth.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr311268/sales-development-representative-early-career/",
+    "id": "salesforce-sales-development-representative-early-career-illinois-chicago"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Field Sales Engineer",
-    "job_city": "7 Locations",
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship – Package & Process Engineer",
+    "job_city": "Leominster",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "• Process Sustaining Engineer, 2nd ShiftlocationsUS, MA, Chelmsford, Alphaposted onPosted 12 Days AgoR242025Test Development EngineerlocationsUS, NC, Durhamposted onPosted 13 Days AgoR256376Mechanical EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 13 Days AgoR256079Component EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 2 Days AgoR251706Test Engineerlocations4 Locationsposted onPosted 15 Days AgoR255212Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR255459Senior Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 5 Days AgoR252153Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 16 Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165Senior Engineer, Product Verification and ValidationlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR253869Sr.\n• Systems and Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR251086Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449Sr.\n• Manager - Site Reliability Engineering (SRE)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251663Senior Principal Engineer, Research Science EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251832Field Sales Engineerlocations7 Locationsposted onPosted TodayR257218Field Applications Engineerlocations5 Locationsposted onPosted TodayR257217Senior Engineer, Si Photonics IC Integration and Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252114Technician 3, Equipment MaintenancelocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251445Photolithography Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252600Equipment Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR255011.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Field-Sales-Engineer_R257218-1?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-sales-engineer-7-locations"
+    "job_description": "software engineering job for the role Internship – Package & Process Engineer",
+    "job_apply_link": "https://jobs.infineon.com/careers",
+    "id": "infineon-technologies-internship-package-process-engineer-leominster"
   },
   {
-    "employer_name": "Analog Devices",
-    "job_title": "Field Applications Engineer",
-    "job_city": "5 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Process Sustaining Engineer, 2nd ShiftlocationsUS, MA, Chelmsford, Alphaposted onPosted 12 Days AgoR242025Test Development EngineerlocationsUS, NC, Durhamposted onPosted 13 Days AgoR256376Mechanical EngineeringlocationsUS, MA, Chelmsford, Elizabethposted onPosted 13 Days AgoR256079Component EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 2 Days AgoR251706Test Engineerlocations4 Locationsposted onPosted 15 Days AgoR255212Staff Engineer, Mixed Signal Design EngineeringlocationsUS, AZ, Chandler, East Elliotposted onPosted 30+ Days AgoR255459Senior Mechanical Design EngineerlocationsUS, MA, Chelmsford, Elizabethposted onPosted 5 Days AgoR252153Senior Manager, Digital Design Engineer (FPGA)locationsUS, MA, Chelmsford, Elizabethposted onPosted 16 Days AgoR251574Senior Digital Design Engineer _FPGAlocationsUS, MA, Chelmsford, Elizabethposted onPosted 30+ Days AgoR252165Senior Engineer, Product Verification and ValidationlocationsUS, MA, Bostonposted onPosted 30+ Days AgoR253869Sr.\n• Systems and Hardware EngineerlocationsUS, MA, Wilmingtonposted onPosted 16 Days AgoR251086Robotics Domain ExpertlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252449Sr.\n• Manager - Site Reliability Engineering (SRE)locationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251663Senior Principal Engineer, Research Science EngineeringlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR251832Field Sales Engineerlocations7 Locationsposted onPosted TodayR257218Field Applications Engineerlocations5 Locationsposted onPosted TodayR257217Senior Engineer, Si Photonics IC Integration and Design EngineerlocationsUS, MA, Wilmingtonposted onPosted 30+ Days AgoR252114Technician 3, Equipment MaintenancelocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR251445Photolithography Technician 5, Equipment EngineeringlocationsUS, OR, Beavertonposted onPosted 30+ Days AgoR252600Equipment Engineer Internlocations2 Locationsposted onPosted 30+ Days AgoR255011.",
-    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Diego-Avenue-of-Science/Field-Applications-Engineer_R257217?q=software+engineering&locationCountry=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "analog-devices-field-applications-engineer-5-locations"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "CNO Automated Test Engineer (TS/SCI with Poly/NEW HIRE SIGN-ON BONUS UP TO $20,000)",
-    "job_city": "USA MD Hanover",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Hanover/CNO-Automated-Test-Engineer--TS-SCI-with-Poly-NEW-HIRE-SIGN-ON-BONUS-UP-TO--20-000-_RQ208181?q=software+engineering",
-    "id": "general-dynamics-cno-automated-test-engineer-ts-sci-with-poly-new-hire-sign-on-bonus-up-to-20-000-usa-md-hanover"
+    "employer_name": "Micron Technology",
+    "job_title": "Intern - HBM System Engineer",
+    "job_city": "Boise",
+    "job_state": "Idaho",
+    "job_posted_at": "17h",
+    "job_description": "• Engineer, HIG HBM Product & System Engineering (Media Health Reliability Coding)Singapore, SingaporePosted a month ago Enrolled in a Bachelor’s or Master’s program or equivalent experience in Electrical or Computer Engineering.\n• Experience validating products with hardware, firmware, and software components.\n• Experience using lab equipment such as oscilloscopes and logic analyzers.\n• Hands-on experience programming and debugging FPGAs or microcontrollers.\n• Experience with RTL modeling using Verilog or SystemVerilog.\n• Excellent problem-solving and analytical skills.\n• Knowledge of memory interfaces and protocols (e.\n• , LPDDR, DDR, HBM, GDDR, CXL, UCIe, PCIe).",
+    "job_apply_link": "https://careers.micron.com/careers/job/38443840",
+    "id": "micron-technology-intern-hbm-system-engineer-boise"
   },
   {
     "employer_name": "General Dynamics",
-    "job_title": "DevOps/Cloud Ops Engineer",
-    "job_city": "USA MD Home Office (MDHOME)",
+    "job_title": "Systems Engineer",
+    "job_city": "USA CA Livermore",
     "job_state": "US",
     "job_posted_at": "1d",
     "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Home-Office-MDHOME/DevOps-Cloud-Ops-Engineer---REMOTE_RQ208435-1?q=software+engineering",
-    "id": "general-dynamics-devops-cloud-ops-engineer-usa-md-home-office-mdhome"
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-Livermore/Systems-Engineer_RQ208537-1?q=software+engineering",
+    "id": "general-dynamics-systems-engineer-usa-ca-livermore"
+  },
+  {
+    "employer_name": "Marvel Technology",
+    "job_title": "Layout Intern - Bachelor's Degree",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1w",
+    "job_description": "• Principal Emulation EngineerlocationsSanta Clara, CAposted onPosted 2 Days Ago2502865Staff Engineer, Hardware System & Silicon ValidationlocationsIrvine, CAposted onPosted 2 Days Ago2502832Senior Project ManagerlocationsSanta Clara, CAposted onPosted 4 Days Ago2502951Firmware Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502355Firmware Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 5 Days Ago2502463Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502958Staff Applications EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501671Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2501552Memory Circuit Design InternlocationsBurlington, VTposted onPosted 5 Days Ago2502696Principal Physical Design EngineerlocationsSanta Clara, CAposted onPosted 5 Days Ago2502568Senior Staff Engineer, Verificationlocations2 Locationsposted onPosted 5 Days Ago2502898Principal Engineer, Verificationlocations2 Locationsposted onPosted 5 Days Ago2502897Senior Director - Silicon Engineering Program Management (Cloud Data Center)locations3 Locationsposted onPosted 5 Days Ago2502862Staff Post-Silicon Validation Engineer, High Speed SERDESlocationsSanta Clara, CAposted onPosted 6 Days Ago2502213Senior Staff Post-Silicon Validation Engineer, High Speed SERDESlocationsSanta Clara, CAposted onPosted 6 Days Ago2502212AI Platform Engineer Intern (Agentic) - Master's DegreelocationsSanta Clara, CAposted onPosted 6 Days Ago2502270Failure Analysis Engineer Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted 6 Days Ago2502718Design for Test Engineering Intern - Bachelors DegreelocationsMorrisville, NCposted onPosted 6 Days Ago2502683Design for Test Engineering Intern - Bachelors DegreelocationsBoise, IDposted onPosted 7 Days Ago2502681Layout Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 7 Days Ago2502415.",
+    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Layout-Intern---Bachelor-s-Degree_2502415-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
+    "id": "marvel-technology-layout-intern-bachelor-s-degree-santa-clara"
+  },
+  {
+    "employer_name": "AMD",
+    "job_title": "SerDes Firmware Design Engineer",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Interface with hardware teams to define control and monitoring requirements.\n• 3Prior years of experience combined with technical education within the semiconductor industry Expert level experience producing quality firmware Bachelor’s or master’s degree in computer science, Computer Engineering, Electrical Engineering, or equivalent AMD Partner Hub Authorized Distributors AMD University Program Investor Relations Financial Information Board of Directors Governance Documents SEC Filings.\n• Design, develop, and debug embedded firmware for controlling silicon photonic components (e.\n• , modulators, photodetectors, heaters, and tunable filters).\n• Implement algorithms for calibration, feedback control loops (e.\n• , thermal tuning), and signal optimization.\n• Integrate firmware with test and measurement systems for validation and production.\n• Collaborate with software engineers to ensure seamless communication between firmware and higher-level software layers Knowledge of physical layer specification in PCIe and IEEE 802.",
+    "job_apply_link": "https://careers-amd.icims.com/jobs/72289/login",
+    "id": "amd-serdes-firmware-design-engineer-us"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "Mechanical Engineer II, Charging & Energy",
+    "job_city": "Torrance",
+    "job_state": "California US",
+    "job_posted_at": "1d",
+    "job_description": "• Contribute to product architecture, optimizing for things like user experience, product quality, reliability and serviceability, design efficiency, as well as assemblability and cost Professional experience with at least two of injection molding, casting, brake press, sheet metal, and stamping Ability to think around corners and come up with creative solutions, with high levels of engineering rigor 3+ years of experience.\n• Minimum of a bachelor's degree in mechanical engineering or a related field Experience designing mechanical parts that interface with electrical components, or carry current Professional experience designing to thermal and/or structural constraints Professional experience with CAD software, ideally CATIA Experience with static FEA.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/26479/login",
+    "id": "rivian-mechanical-engineer-ii-charging-energy-torrance"
   },
   {
     "employer_name": "JPMorgan Chase",
-    "job_title": "AWS Software Engineer",
-    "job_city": "Columbus",
-    "job_state": "OH",
+    "job_title": "Software Engineer III - Java Backend Developer",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Develop and maintain scalable applications as a Software Engineer skilled in Java, AWS, Spring, Kafka, and REST.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Developer -Automation (Operations) Cebu, Central Visayas, Philippines TechnologyAutomation Operations Analyze business needs, improve processes by developing tools & designing automation workflows using traditional and low-code methods Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II LONDON, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer III- Full Stack GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Advance your software engineering career by building innovative solutions with our Corporate Technology, A/I Technology Team.\n• Lead Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Director of Software Engineering BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Drive innovation and solution delivery while leading a technical area and serving as a primary decision maker for your teams Lead Software Engineer Hyderabad, Telangana, India and 1 more TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Data Analytics & Reporting - Lead Software Engineer Mumbai, Maharashtra, India TechnologySoftware Engineering Join our team as a skilled Qlik and PL/SQL Software Engineer, promoting innovation in payments controls within a dynamic, agile setting.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663826/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-aws-software-engineer-columbus"
+    "job_description": "• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Develop and maintain scalable applications as a Software Engineer skilled in Java, AWS, Spring, Kafka, and REST.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Developer -Automation (Operations) Cebu, Central Visayas, Philippines TechnologyAutomation Operations Analyze business needs, improve processes by developing tools & designing automation workflows using traditional and low-code methods Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Lead Software Engineer - AI Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering GT CDAO AI engineer, building secure, scalable AI products with modern tech and agile methods.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II LONDON, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer III- Full Stack GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Advance your software engineering career by building innovative solutions with our Corporate Technology, A/I Technology Team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210637232/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-java-backend-developer-palo-alto"
+  },
+  {
+    "employer_name": "JPMorgan Chase",
+    "job_title": "Software Engineer III - Full Stack Developer",
+    "job_city": "Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Develop and maintain scalable applications as a Software Engineer skilled in Java, AWS, Spring, Kafka, and REST.\n• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Software Engineer III Jersey City, NJ, United States TechnologySoftware Engineering Software Engineer III skilled in Java Full Stack, React, and Identity Access Management.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Developer -Automation (Operations) Cebu, Central Visayas, Philippines TechnologyAutomation Operations Analyze business needs, improve processes by developing tools & designing automation workflows using traditional and low-code methods Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Manager Software Engineer Hyderabad, Telangana, India TechnologySoftware Engineering Lead multiple teams, manage day-to-day implementation activities, and set overall guidance for team output, practices and collaboration Software Engineer III BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Senior Lead Software Engineer - AI Software Engineer LONDON, LONDON, United Kingdom TechnologySoftware Engineering GT CDAO AI engineer, building secure, scalable AI products with modern tech and agile methods.\n• Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) Software Engineer III Hyderabad, Telangana, India TechnologySoftware Engineering Carry out critical tech solutions across multiple technical areas as an integral part of an agile team Software Engineer II LONDON, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer III- Full Stack GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Advance your software engineering career by building innovative solutions with our Corporate Technology, A/I Technology Team.",
+    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674005/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
+    "id": "jpmorgan-chase-software-engineer-iii-full-stack-developer-palo-alto"
   },
   {
     "employer_name": "Google",
-    "job_title": "Software Engineer, Machine Learning, Jules",
+    "job_title": "Software Engineer III, AI/ML, Learning and Education",
     "job_city": "Mountain View",
     "job_state": "CA",
     "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Machine Learning, Jules",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/132899059043050182-software-engineer-machine-learning-jules?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=3",
-    "id": "google-software-engineer-machine-learning-jules-mountain-view"
-  },
-  {
-    "employer_name": "Google",
-    "job_title": "Software Engineer, Google Store, Catalog, AI/ML",
-    "job_city": "Mountain View",
-    "job_state": "CA",
-    "job_posted_at": "1h",
-    "job_description": "software engineering job for the role Software Engineer, Google Store, Catalog, AI/ML",
-    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/80619849532744390-software-engineer-google-store-catalog-aiml?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=7",
-    "id": "google-software-engineer-google-store-catalog-ai-ml-mountain-view"
+    "job_description": "software engineering job for the role Software Engineer III, AI/ML, Learning and Education",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/96532394126779078-software-engineer-iii-aiml-learning-and-education?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-ai-ml-learning-and-education-mountain-view"
   }
 ]
