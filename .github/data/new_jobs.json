@@ -1,52 +1,12 @@
 [
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Intern - SSD Firmware",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "2w",
-    "job_description": "• Currently pursuing a Bachelor's degree or equivalent experience in Electrical Engineering, Computer Engineering, or a related field.\n• Previous internship or project experience in firmware or software development.\n• Strong problem-solving skills and attention to detail.\n• Experience with SSD technology or storage systems.\n• Ability to meet project timelines and work with precision.\n• Familiarity with development tools such as Git and JIRA.\n• Knowledge of scripting languages like Python.\n• Intern - Data Center SSD FirmwareLongmont, Colorado, United States of AmericaPosted a day ago Intern - Hardware Validation EngineerBoise, Idaho, United States of AmericaPosted 9 days ago Principal Engineer - SSD Firmware ValidationBengaluru, Karnataka, IndiaPosted 22 days ago.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-intern-ssd-firmware-san-jose"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Engineer, Junior",
-    "job_city": "Arlington",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• Software Engineer, SeniorlocationsChantilly, VAposted onPosted 30+ Days AgoR0223926 Software Engineer, SeniorlocationsFort Meade, MDposted onPosted 28 Days AgoR0224794 Software Engineer, SeniorlocationsHuntsville, ALposted onPosted 12 Days AgoR0226694 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 30+ Days AgoR0223921 Software Engineer, SeniorlocationsHerndon, VAposted onPosted 21 Days AgoR0226443 Software Engineer, SeniorlocationsArlington, VAposted onPosted YesterdayR0227759 Software Engineer, JuniorlocationsArlington, VAposted onPosted YesterdayR0227760 Software Engineer, SeniorlocationsBelcamp, MDposted onPosted 8 Days AgoR0227209 Software Engineer, SeniorlocationsRome, NYposted onPosted 6 Days AgoR0227490.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer--Junior_R0227760?q=software+engineering",
-    "id": "bae-systems-software-engineer-junior-arlington"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "CPU CAD Design Automation Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 15 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 16 Days AgoJR0277457Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 5 Days AgoJR0277486AI Compiler Engineerlocations2 Locationsposted onPosted 16 Days AgoJR0277310Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted YesterdayJR0277654Middleware Engineerlocations2 Locationsposted onPosted 22 Days AgoJR0277311Emulation EngineerlocationsUS, Texas, Austinposted onPosted 16 Days AgoJR0276365Middleware Development Engineerlocations2 Locationsposted onPosted 20 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 28 Days AgoJR0276257Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 19 Days AgoJR0277347GPU Logic Design Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0275905GPU Logic Design Engineerlocations2 Locationsposted onPosted YesterdayJR0277497Senior IP Design Verification Engineerlocations3 Locationsposted onPosted 22 Days AgoJR0277349Information Security System Officer (ISSO)locationsUS, Virginia, Fairfaxposted onPosted 28 Days AgoJR0277075.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/CPU-CAD-Design-Automation-Engineer_JR0277654?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-cpu-cad-design-automation-engineer-2-locations"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Intern Technical Writer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/intern-technical-writer/33099/87019647104",
-    "id": "arm-intern-technical-writer-austin"
-  },
-  {
-    "employer_name": "Arm",
-    "job_title": "Graduate Technical Writer",
-    "job_city": "Austin",
-    "job_state": "Texas",
-    "job_posted_at": "1d",
-    "job_description": "• Experienced Professionals.",
-    "job_apply_link": "https://careers.arm.com/job/austin/graduate-technical-writer/33099/87019647088",
-    "id": "arm-graduate-technical-writer-austin"
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Infrastructure, Google Cloud Platforms",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/99733115424907974-software-engineer-iii-infrastructure-google-cloud-platforms?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-infrastructure-google-cloud-platforms-seattle"
   }
 ]
