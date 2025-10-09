@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Creativity Apps",
+    "job_city": "Seattle",
+    "job_state": "US",
+    "job_posted_at": "11h",
+    "job_description": "• Minimum QualificationsSolid grasp of computer science fundamentals and object-oriented design.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.\n• Willingness to ask for help, learn from others, and mentor others in turn.\n• Commitment to fostering an open and inclusive work environment.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-3337/software-engineer-creativity-apps?team=SFTWR",
+    "id": "apple-software-engineer-creativity-apps-seattle"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Embedded Systems, Firmware, Ambient Platform",
+    "job_city": "Mountain View",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Embedded Systems, Firmware, Ambient Platform",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/77408485305656006-software-engineer-embedded-systems-firmware-ambient-platform?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=2",
+    "id": "google-software-engineer-embedded-systems-firmware-ambient-platform-mountain-view"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer III, Full Stack, Chrome",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer III, Full Stack, Chrome",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results//jobs/results/138763433158812358-software-engineer-iii-full-stack-chrome?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=10",
+    "id": "google-software-engineer-iii-full-stack-chrome-seattle"
+  }
+]
