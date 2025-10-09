@@ -1,22 +1,12 @@
 [
   {
-    "employer_name": "IBM",
-    "job_title": "Component Engineer Accelerate ELH",
-    "job_city": "POUGHKEEPSIE",
-    "job_state": "US",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Component Engineer Accelerate ELH",
-    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA",
-    "id": "ibm-component-engineer-accelerate-elh-poughkeepsie"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer, Creativity Apps",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "4h",
-    "job_description": "• Minimum QualificationsSolid grasp of computer science fundamentals and object-oriented design.\n• Strong communication, collaboration, and project management skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.\n• Bachelor’s Degree in Computer Science or equivalent experience.\n• Ability to write performant, scalable, maintainable, and correct multi-threaded code.\n• Ability to work effectively in a fast-paced environment and manage multiple priorities.\n• Willingness to ask for help, learn from others, and mentor others in turn.\n• Commitment to fostering an open and inclusive work environment.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200625233-0836/software-engineer-creativity-apps?team=SFTWR",
-    "id": "apple-software-engineer-creativity-apps-cupertino"
+    "employer_name": "Synopsys",
+    "job_title": "Photonics Software Developer",
+    "job_city": "Ossining",
+    "job_state": "New York",
+    "job_posted_at": "5h",
+    "job_description": "• Research, develop, and integrate advanced modeling algorithms for photonic devices based on evolving customer and product requirements.\n• Strong proficiency in C++ programming, with experience in developing commercial engineering software.\n• Excellent technical communication skills—written, verbal, and presentation.\n• Preferred: Experience with parallel processing/GPU computing, inverse design, machine learning algorithms, cloud platforms, and Agile/Lean development processes.\n• Analytical thinker with strong problem-solving skills.\n• Design and implement high-performance C++ solutions for photonic CAD/CAE software used by industry-leading companies.\n• Apply modern software development practices to deliver robust, scalable, and efficient solutions.\n• Ensure code quality and maintainability through rigorous refactoring, code reviews, and regression testing.",
+    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/ossining/photonics-software-developer/44408/87052845056",
+    "id": "synopsys-photonics-software-developer-ossining"
   }
 ]
