@@ -405,8 +405,7 @@ async function processJobs() {
         
         // Fetch jobs from both API and real career pages
         const allJobs = await fetchAllRealJobs();
-        const usJobs = allJobs.filter(isUSOnlyJob);
-        const currentJobs = usJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+        const currentJobs = allJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at));
         
         // Add unique IDs for deduplication using standardized generation
         currentJobs.forEach(job => {
@@ -429,7 +428,7 @@ async function processJobs() {
         }
         
         // Calculate archived jobs
-        const archivedJobs = usJobs.filter(j => isJobOlderThanWeek(j.job_posted_at_datetime_utc));
+        const archivedJobs = allJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
         
         console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
         
