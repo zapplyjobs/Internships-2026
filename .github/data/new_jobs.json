@@ -1,72 +1,52 @@
 [
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering Developer CI Infrastructure PMTS",
-    "job_city": "California - San Francisco",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Extensive experience (10+ years for Staff) in a DevOps, Infrastructure, or Site Reliability Engineering role, with a proven track record of architecting and managing large-scale, mission-critical systems across diverse operating systems (Linux, macOS, Windows).\n• Experience managing and scaling Source Control Management systems, like GitHub Enterprise, is highly desirable.\n• Hands-on experience with modern CI/CD systems (e.\n• Exceptional leadership and communication skills, with the ability to mentor other engineers, drive consensus across teams, and articulate a clear technical vision to both technical and non-technical audiences.\n• Improve and maintain existing services, balancing forward-looking strategic work with the operational excellence (KTLO) required to keep our developers productive.\n• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences University Overview Interns New Grads Advanced Degrees Associate Program Manager.\n• Deep expertise in cloud infrastructure, particularly AWS, and a strong command of Infrastructure as Code tools like Terraform, Chef, or Ansible.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313273/software-engineering-developer-ci-infrastructure-pmts/",
-    "id": "salesforce-software-engineering-developer-ci-infrastructure-pmts-california-san-francisco"
-  },
-  {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Internship - IC Analog Design",
-    "job_city": "Andover",
+    "employer_name": "IBM",
+    "job_title": "Product Engineer - IBM Z",
+    "job_city": "POUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Internship - IC Analog Design",
-    "job_apply_link": "https://jobs.infineon.com/careers",
-    "id": "infineon-technologies-internship-ic-analog-design-andover"
+    "job_description": "software engineering job for the role Product Engineer - IBM Z",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
+    "id": "ibm-product-engineer-ibm-z-poughkeepsie"
   },
   {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Graduate - Quality Engineer",
-    "job_city": "Leominster",
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Hardware Development",
+    "job_city": "shipPOUGHKEEPSIE",
     "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Graduate - Quality Engineer",
-    "job_apply_link": "https://jobs.infineon.com/careers",
-    "id": "infineon-technologies-graduate-quality-engineer-leominster"
+    "job_description": "software engineering job for the role Data Scientist - Hardware Development",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-hardware-development-shippoughkeepsie"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Fab Equipment Maintenance Technician",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "2w",
-    "job_description": "• Education in industry related associate degree.\n• Working towards a STEM related degree.\n• Equivalent military training and experience.\n• Or equivalent work experience Experience with semiconductor manufacturing processes.\n• Familiarity with statistical process control (SPC) and other quality control methodologies Bachelor’s degree or equivalent experience in Engineering, Materials Science, or related field Strong analytical and problem-solving skills.\n• Excellent communication and teamwork abilities Ability to work 12-hour shifts (3 on/4 off and 4 on/3 off) including night shift Certification in equipment maintenance or relevant technical areas Less than 2 years Intern – Fab Equipment Maintenance TechnicianManassas, Virginia, United States of AmericaPosted a month ago.",
-    "job_apply_link": "https://careers.micron.com",
-    "id": "micron-technology-fab-equipment-maintenance-technician-manassas"
-  },
-  {
-    "employer_name": "Apple",
-    "job_title": "watchOS Software QA Engineer",
-    "job_city": "San Diego",
+    "employer_name": "IBM",
+    "job_title": "Entry Level Back End Developer",
+    "job_city": "DURHAM",
     "job_state": "US",
-    "job_posted_at": "21h",
-    "job_description": "• Minimum QualificationsBS in Computer Science or equivalent recent on-the-job experience in Software QA.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624075-3543/watchos-software-qa-engineer?team=SFTWR",
-    "id": "apple-watchos-software-qa-engineer-san-diego"
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Back End Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60602&source=WEB_Search_NA",
+    "id": "ibm-entry-level-back-end-developer-durham"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "watchOS Software QA Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "21h",
-    "job_description": "• Minimum QualificationsBS in Computer Science or equivalent recent on-the-job experience in Software QA.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624072-0836/watchos-software-qa-engineer?team=SFTWR",
-    "id": "apple-watchos-software-qa-engineer-cupertino"
+    "employer_name": "NVIDIA",
+    "job_title": "Systems Software Engineer - GeForce NOW Low Latency Streaming Technology",
+    "job_city": "US",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "• Senior System Software Engineer - AI Performance and Efficiency ToolslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1996041Systems Software Engineer - GeForce NOW Low Latency Streaming TechnologylocationsUS, CA, Santa Claraposted onPosted TodayJR1996756Senior Deep Learning Software Engineer, Inference and Model Optimizationlocations2 Locationsposted onPosted 30+ Days AgoJR1997596Senior System Software Engineer - Dynamo and Triton Inference Serverlocations3 Locationsposted onPosted 30+ Days AgoJR1998435Senior Software Engineer, L3, Planning and Controls - Autonomous VehicleslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1998582Senior System Software Engineering Lead for Release - Base OSlocations4 Locationsposted onPosted 10 Days AgoJR2000481Senior Software Engineer, Deep Learning Inference - New HW Enablementlocations2 Locationsposted onPosted 7 Days AgoJR2002173Senior Systems Software Engineer - Containers, Kubernetes and Confidential Computinglocations8 Locationsposted onPosted 30+ Days AgoJR2001573Principal AI and ML Infra Software Engineer, GPU Clusterslocations2 Locationsposted onPosted 30+ Days AgoJR2002871Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations2 Locationsposted onPosted 28 Days AgoJR2003580Senior System Software Engineer - Computer Vision Algorithms and SDKlocationsUS, CA, Santa Claraposted onPosted 13 Days AgoJR2003437Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations4 Locationsposted onPosted 21 Days AgoJR2004245Senior Software Engineer - NIM Factory Container and Cloud Infrastructurelocations2 Locationsposted onPosted 20 Days AgoJR2004244Senior System Software Bringup Engineerlocations2 Locationsposted onPosted 10 Days AgoJR1999911Software Applications Engineer, Datacenter ProductslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002203Lead System Software Engineer, CPU and GPU Performance Visualization Toolslocations3 Locationsposted onPosted 30+ Days AgoJR2000994Senior AI and ML Storage Infra Software Engineer, GPU Clusterslocations5 Locationsposted onPosted 30+ Days AgoJR2001288Senior Systems Software Engineer, AV Infrastructure - Validation and Distributed Systemslocations2 Locationsposted onPosted 21 Days AgoJR2003769Software Release Engineer, Embedded Platform TeamlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR1999199Senior System Software Test Engineer, Networkinglocations2 Locationsposted onPosted 3 Days AgoJR2005364.",
+    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---GeForce-NOW-Low-Latency-Streaming-Technology_JR1996756-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
+    "id": "nvidia-systems-software-engineer-geforce-now-low-latency-streaming-technology-us"
   },
   {
-    "employer_name": "Apple",
-    "job_title": "Apple Watch Software Engineer",
-    "job_city": "Cupertino",
-    "job_state": "US",
-    "job_posted_at": "21h",
-    "job_description": "• Minimum QualificationsBS CE/CS or equivalent experience.\n• Experience contributing to at least one shipping application or framework.\n• Operating Systems knowledge, hands-on experience with inter-process communication.\n• Excellent communication and collaborative skills.\n• Excellent Swift and Objective-C coding ability.\n• Ability to jump between and learn a variety of programming languages and technologies (Objective-C, Swift, SwiftUI, Assembly, Python, C, ML technologies).\n• A proven record of completing projects on-time and to-specification.\n• Enthusiasm about working on a cross functional team.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200624083-0836/apple-watch-software-engineer?team=SFTWR",
-    "id": "apple-apple-watch-software-engineer-cupertino"
+    "employer_name": "Amazon",
+    "job_title": "Software Dev Engineer II - AMZ9443289",
+    "job_city": "East Palo Alto",
+    "job_state": "CA",
+    "job_posted_at": "2d",
+    "job_description": "software engineering job for the role Software Dev Engineer II - AMZ9443289",
+    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3102487/software-dev-engineer-ii-amz9443289",
+    "id": "amazon-software-dev-engineer-ii-amz9443289-east-palo-alto"
   }
 ]
