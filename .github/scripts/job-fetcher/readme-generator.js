@@ -176,7 +176,7 @@ function generateInternshipSection(internshipData) {
   return `
 ---
 
-## 🎓 **SWE Internships 2025-2026**
+## 🎓 **SWE Internships 2026**
 
 > **Top internships for software engineers, programmers, and computer science majors.**
 
@@ -254,7 +254,7 @@ async function generateReadme(
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
 
-  return `# 💻 Software Engineering Jobs & Internships 2025-2026 by Zapply
+  return `# 💻 Software Engineering Jobs & Internships 2026 by Zapply
 
 **🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${
     currentJobs.length
@@ -292,7 +292,7 @@ ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## 🎯 **Fresh Software Job Listings 2025-2026 (under 1 week)**
+## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
 
 ${generateJobTable(currentJobs)}
 
