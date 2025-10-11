@@ -20,24 +20,42 @@ function parseLocation(locationText) {
     return { city: '', state: 'US' };
   }
 
-  // Keywords to remove from location text (job level, employment type, etc.)
+  // More comprehensive job-related keywords to remove
   const nonLocationKeywords = [
-    'entry level', 'entry-level', 'senior', 'junior', 'mid-level', 'intern',
+    // Job levels
+    'entry level', 'entry-level', 'senior', 'junior', 'mid-level', 'intern', 'internship',
+    'associate', 'staff', 'principal', 'lead', 'manager', 'director',
+    
+    // Employment types
     'full time', 'full-time', 'part time', 'part-time', 'contract', 'temporary',
+    'permanent', 'seasonal',
+    
+    // Work arrangements
     'remote', 'hybrid', 'on-site', 'onsite', 'work from home', 'wfh',
     'multiple locations', 'multiple cities', 'various locations', 'nationwide',
+    
+    // Common job terms
     'experience', 'years', 'required', 'preferred', 'degree', 'bachelor',
-    'master', 'phd', 'position', 'role', 'job', 'opportunity'
+    'master', 'phd', 'position', 'role', 'job', 'opportunity',
+    'developer', 'engineer', 'scientist', 'analyst', 'specialist',
+    
+    // Action words
+    'apply', 'apply now', 'ship', 'shipping'
   ];
 
   // Clean up the location text
   let cleanLocation = locationText
+    .replace(/<br\s*\/?>/gi, ', ') // Replace <br> with comma
+    .replace(/<[^>]*>/g, '') // Remove all HTML tags
     .replace(/,?\s*United States$/i, '') // Remove "United States" suffix
+    .replace(/,?\s*USA$/i, '') // Remove "USA" suffix
+    .replace(/,?\s*US$/i, '') // Remove standalone "US" suffix
     .trim();
 
-  // Remove non-location keywords (case insensitive)
+  // Remove non-location keywords (case insensitive, whole word match)
   nonLocationKeywords.forEach(keyword => {
-    const regex = new RegExp(keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+    // Match whole words with word boundaries
+    const regex = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'gi');
     cleanLocation = cleanLocation.replace(regex, '').trim();
   });
 
@@ -46,59 +64,99 @@ function parseLocation(locationText) {
     .replace(/\s+/g, ' ') // Multiple spaces to single space
     .replace(/^[,\s]+|[,\s]+$/g, '') // Remove leading/trailing commas and spaces
     .replace(/,+/g, ',') // Multiple commas to single comma
+    .replace(/\s*,\s*/g, ', ') // Normalize comma spacing
     .trim();
 
-  if (!cleanLocation) {
-    return { city: '', state: 'United States' };
+  // If nothing left after cleaning, return default
+  if (!cleanLocation || cleanLocation.length < 2) {
+    return { city: '', state: 'US' };
   }
+
+  // Common US state abbreviations
+  const stateAbbreviations = [
+    'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
+    'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
+    'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
+    'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
+    'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'
+  ];
+
+  // Common US state full names
+  const stateNames = [
+    'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado',
+    'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho',
+    'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana',
+    'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota',
+    'mississippi', 'missouri', 'montana', 'nebraska', 'nevada',
+    'new hampshire', 'new jersey', 'new mexico', 'new york',
+    'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon',
+    'pennsylvania', 'rhode island', 'south carolina', 'south dakota',
+    'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington',
+    'west virginia', 'wisconsin', 'wyoming'
+  ];
+
+  // State abbreviation to full name mapping
+  const stateMap = {
+    'AL': 'Alabama', 'AK': 'Alaska', 'AZ': 'Arizona', 'AR': 'Arkansas',
+    'CA': 'California', 'CO': 'Colorado', 'CT': 'Connecticut', 'DE': 'Delaware',
+    'FL': 'Florida', 'GA': 'Georgia', 'HI': 'Hawaii', 'ID': 'Idaho',
+    'IL': 'Illinois', 'IN': 'Indiana', 'IA': 'Iowa', 'KS': 'Kansas',
+    'KY': 'Kentucky', 'LA': 'Louisiana', 'ME': 'Maine', 'MD': 'Maryland',
+    'MA': 'Massachusetts', 'MI': 'Michigan', 'MN': 'Minnesota', 'MS': 'Mississippi',
+    'MO': 'Missouri', 'MT': 'Montana', 'NE': 'Nebraska', 'NV': 'Nevada',
+    'NH': 'New Hampshire', 'NJ': 'New Jersey', 'NM': 'New Mexico', 'NY': 'New York',
+    'NC': 'North Carolina', 'ND': 'North Dakota', 'OH': 'Ohio', 'OK': 'Oklahoma',
+    'OR': 'Oregon', 'PA': 'Pennsylvania', 'RI': 'Rhode Island', 'SC': 'South Carolina',
+    'SD': 'South Dakota', 'TN': 'Tennessee', 'TX': 'Texas', 'UT': 'Utah',
+    'VT': 'Vermont', 'VA': 'Virginia', 'WA': 'Washington', 'WV': 'West Virginia',
+    'WI': 'Wisconsin', 'WY': 'Wyoming'
+  };
 
   // Split by comma and trim
   const parts = cleanLocation.split(',').map(part => part.trim()).filter(part => part.length > 0);
 
   if (parts.length >= 2) {
-    // Format: "Westborough, MA" or "City, State"
-    return {
-      city: parts[0],
-      state: parts[1]
-    };
-  } else if (parts.length === 1) {
-    // Could be just a state or just a city
-    const singlePart = parts[0];
-
-    // Common US state abbreviations
-    const stateAbbreviations = [
-      'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
-      'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
-      'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
-      'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
-      'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'
-    ];
-
-    // Common US state full names
-    const stateNames = [
-      'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado',
-      'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho',
-      'illinois', 'indiana', 'iowa', 'kansas', 'kentucky', 'louisiana',
-      'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota',
-      'mississippi', 'missouri', 'montana', 'nebraska', 'nevada',
-      'new hampshire', 'new jersey', 'new mexico', 'new york',
-      'north carolina', 'north dakota', 'ohio', 'oklahoma', 'oregon',
-      'pennsylvania', 'rhode island', 'south carolina', 'south dakota',
-      'tennessee', 'texas', 'utah', 'vermont', 'virginia', 'washington',
-      'west virginia', 'wisconsin', 'wyoming'
-    ];
-
-    if (stateAbbreviations.includes(singlePart.toUpperCase())) {
-      return { city: '', state: singlePart.toUpperCase() };
-    } else if (stateNames.includes(singlePart.toLowerCase())) {
-      return { city: '', state: singlePart };
+    // Format: "City, State" or "City, State Code"
+    const city = parts[0];
+    const stateCode = parts[1].toUpperCase();
+    
+    // Normalize state code
+    if (stateAbbreviations.includes(stateCode)) {
+      return {
+        city: city,
+        state: stateMap[stateCode] || stateCode
+      };
     } else {
-      // Assume it's a city if it's not a recognized state
-      return { city: singlePart, state: '' };
+      return {
+        city: city,
+        state: parts[1]
+      };
+    }
+  } else if (parts.length === 1) {
+    const singlePart = parts[0];
+    const upperPart = singlePart.toUpperCase();
+
+    // Check if it's a state abbreviation
+    if (stateAbbreviations.includes(upperPart)) {
+      return { city: '', state: stateMap[upperPart] || upperPart };
+    } 
+    // Check if it's a state name
+    else if (stateNames.includes(singlePart.toLowerCase())) {
+      // Capitalize properly
+      return { 
+        city: '', 
+        state: singlePart.split(' ').map(word => 
+          word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+        ).join(' ')
+      };
+    } 
+    // Otherwise assume it's a city
+    else {
+      return { city: singlePart, state: 'United States' };
     }
   }
 
-  return { city: '', state: '' };
+  return { city: '', state: 'United States' };
 }
 
 // Helper function to convert date string to relative format (without "ago")

@@ -709,11 +709,35 @@ function getJobCategory(title, description = "") {
 }
 
 function formatLocation(city, state) {
-  if (!city && !state) return "Remote";
-  if (!city) return state;
-  if (!state) return city;
-  if (city.toLowerCase() === "remote") return "Remote 🏠";
-  return `${city}, ${state}`;
+  // Normalize inputs
+  const normalizedCity = city ? city.trim() : '';
+  const normalizedState = state ? state.trim() : '';
+
+  // Handle remote
+  if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
+    return 'Remote 🏠';
+  }
+
+  // Handle "United States" as state (means no specific location)
+  if (normalizedState === 'United States' && !normalizedCity) {
+    return 'United States (Multiple Locations)';
+  }
+
+  // Handle cases
+  if (!normalizedCity && !normalizedState) {
+    return 'Location Not Specified';
+  }
+  
+  if (!normalizedCity) {
+    return normalizedState;
+  }
+  
+  if (!normalizedState) {
+    return normalizedCity;
+  }
+
+  // Standard format: City, State
+  return `${normalizedCity}, ${normalizedState}`;
 }
 
 // Fetch internship data from popular sources
