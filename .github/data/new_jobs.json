@@ -1,316 +1,742 @@
-<<<<<<< HEAD
-[]
-=======
 [
   {
     "employer_name": "IBM",
+    "job_title": "Software Engineering Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineering Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA",
+    "id": "ibm-software-engineering-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Client Engineering Designer",
+    "job_city": "Entry LevelChicago",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Client Engineering Designer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=45161&source=WEB_Search_NA",
+    "id": "ibm-client-engineering-designer-entry-levelchicago"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer - Backend",
+    "job_city": "Entry LevelDURHAM",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer - Backend",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-backend-entry-leveldurham"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Developer Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57319&source=WEB_Search_NA",
+    "id": "ibm-software-developer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Developer:",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Software Developer: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Product Engineer - IBM Z",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Product Engineer - IBM Z",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63348&source=WEB_Search_NA",
+    "id": "ibm-product-engineer-ibm-z-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Software Engineer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Software Engineer  2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57952&source=WEB_Search_NA",
+    "id": "ibm-entry-level-software-engineer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Data Center Engineering",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Data Center Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-data-center-engineering-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Engineer - Semiconductor",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Software Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59691&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-engineer-semiconductor-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Apprentince",
+    "job_city": "Entry LevelRESEARCH TRIANGLE PARK",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer Apprentince",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56784&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-apprentince-entry-levelresearch-triangle-park"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Software Engineer – AI-powered Automation",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role 2026 Intern: Software Engineer – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59704&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-software-engineer-ai-powered-automation-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "IMS Software Technical Support Professional Intern:",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role IMS Software Technical Support Professional Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57340&source=WEB_Search_NA",
+    "id": "ibm-ims-software-technical-support-professional-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Software Engineer - Research Internship:",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role AI Foundations - Software Engineer - Research Internship: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58806&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-software-engineer-research-internship-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Cloud Engineering",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Cloud Engineering",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60200&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-cloud-engineering-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - QA Test",
+    "job_city": "InternshipAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist - QA Test",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58476&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-qa-test-internshipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Software Applications",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Software Applications",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59974&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-software-applications-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Software Developer - Security",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Software Developer - Security",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59668&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-software-developer-security-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern:",
+    "job_city": "InternshipTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role QA Test Developer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58724&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-internshiptucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "QA Test Developer Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role QA Test Developer Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62806&source=WEB_Search_NA",
+    "id": "ibm-qa-test-developer-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist - Hardware Development",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist - Hardware Development",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58480&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-hardware-development-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Data Scientist Intern",
+    "job_city": "InternshipAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63317&source=WEB_Search_NA",
+    "id": "ibm-data-scientist-intern-internshipaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Software Engineer Intern - AI Accelerators Research",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Software Engineer Intern - AI Accelerators Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63086&source=WEB_Search_NA",
+    "id": "ibm-software-engineer-intern-ai-accelerators-research-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Primitives Software Developer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Primitives Software Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60314&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-primitives-software-developer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Support Engineer - HashiCorp",
+    "job_city": "Entry LevelAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Support Engineer - HashiCorp",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60266&source=WEB_Search_NA",
+    "id": "ibm-support-engineer-hashicorp-entry-levelaustin"
+  },
+  {
+    "employer_name": "IBM",
     "job_title": "Technical Content Professional Intern",
-    "job_city": "shipPOUGHKEEPSIE",
-    "job_state": "US",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
     "job_posted_at": "1d",
     "job_description": "software engineering job for the role Technical Content Professional Intern 2026",
     "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60900&source=WEB_Search_NA",
-    "id": "ibm-technical-content-professional-intern-shippoughkeepsie"
+    "id": "ibm-technical-content-professional-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "System Services Representative Austin, Texas",
+    "job_city": "Entry LevelAustin",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role System Services Representative Austin, Texas",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59666&source=WEB_Search_NA",
+    "id": "ibm-system-services-representative-austin-texas-entry-levelaustin"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Designer Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Designer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56063&source=WEB_Search_NA",
+    "id": "ibm-designer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Hardware Engineer - Semiconductor",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Hardware Engineer - Semiconductor",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-hardware-engineer-semiconductor-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Site Reliability Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Site Reliability Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59673&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-site-reliability-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Computing Applications Research",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Computing Applications Research",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-computing-applications-research-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Firmware Developer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Firmware Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54837&source=WEB_Search_NA",
+    "id": "ibm-entry-level-firmware-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Component Engineer Accelerate ELH",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Component Engineer Accelerate ELH",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63661&source=WEB_Search_NA",
+    "id": "ibm-component-engineer-accelerate-elh-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Research Scientist – AI-powered Automation",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role 2026 Intern:  Research Scientist – AI-powered Automation",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-research-scientist-ai-powered-automation-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "SWE: Toward Autonomous Data Management with AI Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role SWE: Toward Autonomous Data Management with AI Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA",
+    "id": "ibm-swe-toward-autonomous-data-management-with-ai-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Z Systems Support Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Z Systems Support Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63372&source=WEB_Search_NA",
+    "id": "ibm-z-systems-support-intern-internshippoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platforms Research Developer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026:  AI Hybrid Cloud Platforms Research Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58807&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platforms-research-developer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI and Agentic Security Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI and Agentic Security Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-and-agentic-security-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Platform Research Scientist",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI Platform Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58818&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-platform-research-scientist-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: Quantum Network / Security Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: Quantum Network  / Security Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60905&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-quantum-network-security-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Postdoctoral Researcher",
+    "job_city": "Entry LevelSan Jose",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Postdoctoral Researcher",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55833&source=WEB_Search_NA",
+    "id": "ibm-postdoctoral-researcher-entry-levelsan-jose"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Inference Optimization Engineer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI Inference Optimization Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-inference-optimization-engineer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Federal Data Engineer Intern:",
+    "job_city": "InternshipWASHINGTON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Federal Data Engineer Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57946&source=WEB_Search_NA",
+    "id": "ibm-federal-data-engineer-intern-internshipwashington"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Associate Data Scientist Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Associate Data Scientist Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57348&source=WEB_Search_NA",
+    "id": "ibm-associate-data-scientist-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intellectual Property Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intellectual Property Intern",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA",
+    "id": "ibm-intellectual-property-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "Entry LevelMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Hardware Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=54841&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-entry-levelmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Hardware Developer Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Hardware Developer Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA",
+    "id": "ibm-hardware-developer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Hardware Developer",
+    "job_city": "Entry LevelTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Hardware Developer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58486&source=WEB_Search_NA",
+    "id": "ibm-entry-level-hardware-developer-entry-leveltucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Entry Level Printed Circuit Board Supplier Development Engineer",
+    "job_city": "Entry LevelROCHESTER",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Entry Level Printed Circuit Board Supplier Development Engineer 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63050&source=WEB_Search_NA",
+    "id": "ibm-entry-level-printed-circuit-board-supplier-development-engineer-entry-levelrochester"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Z Systems Support Intern",
+    "job_city": "InternshipTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Z Systems Support Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58627&source=WEB_Search_NA",
+    "id": "ibm-z-systems-support-intern-internshiptucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Research AI Engineer, Intern:",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Research AI Engineer, Intern: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58803&source=WEB_Search_NA",
+    "id": "ibm-research-ai-engineer-intern-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Subscription and Annuity Representative Intern – Entry Level Sales Program",
+    "job_city": "InternshipDallas",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Subscription and Annuity Representative Intern – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53822&source=WEB_Search_NA",
+    "id": "ibm-subscription-and-annuity-representative-intern-entry-level-sales-program-internshipdallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI Hybrid Cloud Platform Research Scientist",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-hybrid-cloud-platform-research-scientist-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Subscription and Annuity Representative – Entry Level Sales Program",
+    "job_city": "Entry LevelDallas",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Subscription and Annuity Representative – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53828&source=WEB_Search_NA",
+    "id": "ibm-subscription-and-annuity-representative-entry-level-sales-program-entry-leveldallas"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer Bellevue, Washington",
+    "job_city": "Entry LevelBELLEVUE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Technical Support Engineer Bellevue, Washington",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=42826&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-bellevue-washington-entry-levelbellevue"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Warehouse Production Operator",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Warehouse Production Operator",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59662&source=WEB_Search_NA",
+    "id": "ibm-warehouse-production-operator-entry-levelpoughkeepsie"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer",
+    "job_city": "Entry LevelTUCSON",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Technical Support Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63043&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-entry-leveltucson"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Technical Support Engineer",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Technical Support Engineer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63081&source=WEB_Search_NA",
+    "id": "ibm-technical-support-engineer-entry-levelpoughkeepsie"
   },
   {
     "employer_name": "IBM",
     "job_title": "Enterprise Sales Development Representative - Apptio",
-    "job_city": "RESEARCH TRIANGLE PARK",
-    "job_state": "US",
+    "job_city": "Entry LevelRESEARCH TRIANGLE PARK",
+    "job_state": "United States",
     "job_posted_at": "1d",
     "job_description": "software engineering job for the role Enterprise Sales Development Representative - Apptio",
     "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63715&source=WEB_Search_NA",
-    "id": "ibm-enterprise-sales-development-representative-apptio-research-triangle-park"
+    "id": "ibm-enterprise-sales-development-representative-apptio-entry-levelresearch-triangle-park"
   },
   {
-    "employer_name": "Salesforce",
-    "job_title": "Software Engineering AMTS",
-    "job_city": "Texas - Dallas",
-    "job_state": "US",
-    "job_posted_at": "1h",
-    "job_description": "• Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback Architect, design, implement, test and deliver highly scalable productsMaster our development process, culture and code base, then improve itWork closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalableDevelop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metricsAnalyze, design and develop test cases and implement automated test suites Sitemap Legal Terms of Service Privacy Information Responsible Disclosure Trust Contact Manage Preferences Strong background in Computer Science or a related engineering discipline.\n• Must be located in North AmericaAcademic, professional or internship experience working in a professional coding setting environmentFluency in object-oriented programming/designAcademic, professional or internship experience in one of Java, Python, Javascript, HTML, SQL or C++ Strong analytical and problem-solving skillsTeam-player with the ability to work effectively and efficiently with othersBe a self-starter and possess strong sense of self-motivationExperience using telemetry and metrics to drive operational excellence University Overview Interns New Grads Advanced Degrees Associate Program Manager.",
-    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr313404/software-engineering-amts/",
-    "id": "salesforce-software-engineering-amts-texas-dallas"
-  },
-  {
-    "employer_name": "Infineon Technologies",
-    "job_title": "Internship - Electrical Engineer",
-    "job_city": "Andover",
-    "job_state": "US",
+    "employer_name": "IBM",
+    "job_title": "RS: Toward Autonomous Data Management with FMs and AI Agents Intern",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Internship - Electrical Engineer",
-    "job_apply_link": "https://jobs.infineon.com/careers",
-    "id": "infineon-technologies-internship-electrical-engineer-andover"
+    "job_description": "software engineering job for the role RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA",
+    "id": "ibm-rs-toward-autonomous-data-management-with-fms-and-ai-agents-intern-internshipmultiple-cities"
   },
   {
-    "employer_name": "Micron Technology",
-    "job_title": "Facilities FMCS Technician",
-    "job_city": "Manassas",
-    "job_state": "Virginia",
-    "job_posted_at": "2d",
-    "job_description": "• General knowledge of PLC and SCADA systems, electrical systems, MCC, AFD, UPS, understanding of other facility systems such as UPW, IWTP, acid exhaust, CDA, scrubbers, etc Proficiency in using electrical testing tools and diagnostic equipment: Experience using Volt/Ohm meter, Fluke 744, 754, and/or Beamex MC6 Documenting Process Calibrators and related components.\n• Proficient computer skills including spreadsheets and PowerPoint Manage and supervise the installation of new equipment, Participate in continuous improvement and reliability initiatives.\n• Suggest and perform upgrade of obsolete equipment 2+ years of industrial equipment experience in facility maintenance or industrial setting, Understanding of semiconductor equipment and processes Perform required calibrations of all site analyzers, and monitoring devices to ISO standards.\n• Pressure, temperature, pH, flow, humidity Flexibility to work occasional weekends, evenings, or on-call shifts as needed Experience in data extraction, analysis, and reporting CCST Certification Less than 2 years.\n• Strong knowledge of electrical codes, standards, and safety protocols with the ability to read and interpret technical documents, blueprints, and schematics.",
-    "job_apply_link": "https://careers.micron.com/careers/job/30449017",
-    "id": "micron-technology-facilities-fmcs-technician-manassas"
-  },
-  {
-    "employer_name": "General Dynamics",
-    "job_title": "Software Engineer (Tactical Networks - CANES) - Active Secret clearance",
-    "job_city": "USA CA San Diego",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Software-Engineer---Active-Secret-clearance_RQ207970-1?q=software+engineering",
-    "id": "general-dynamics-software-engineer-tactical-networks-canes-active-secret-clearance-usa-ca-san-diego"
-  },
-  {
-    "employer_name": "Guidehouse",
-    "job_title": "AI Engineer",
-    "job_city": "2 Locations",
-    "job_state": "US",
+    "employer_name": "IBM",
+    "job_title": "Designer: User Research Intern",
+    "job_city": "InternshipAustin",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted Yesterday31299SailPoint EngineerlocationsUS - Remote (Any location)posted onPosted 9 Days Ago32667Software Quality Assurance Testerslocations8 Locationsposted onPosted 2 Days Ago31389Senior Technical Lead – Data EngineeringlocationsGH Office: Tysons Corner, VA (Headquarters)posted onPosted 26 Days Ago32053Data EngineerlocationsUS - VA, Arlingtonposted onPosted Yesterday31267Senior Full Stack Developerlocations2 Locationsposted onPosted Yesterday31629AI Engineerlocations2 Locationsposted onPosted Yesterday33116Data Engineer ArchitectlocationsUS - AL, Huntsvilleposted onPosted 16 Days Ago31270Senior Aerospace Systems EngineerlocationsUS - OH, Beavercreekposted onPosted 17 Days Ago29948Senior Data Engineerlocations2 Locationsposted onPosted 18 Days Ago29225Cyber Security EngineerlocationsUS - Remote (Any location)posted onPosted 16 Days Ago32174Quality Assurance Engineer-Automationlocations2 Locationsposted onPosted 2 Days Ago30925DoD Business Analytics EngineerlocationsUS - FL, Tampaposted onPosted 5 Days Ago32570Senior Cloud Infrastructure EngineerlocationsIN - Trivandrumposted onPosted 30+ Days Ago29665Wi-Fi Cellular EngineerlocationsUS - AL, Huntsvilleposted onPosted 17 Days Ago29529Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 30+ Days Ago31233Assistant Manager - Data Engineeringlocations2 Locationsposted onPosted 4 Days Ago31179Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31777Automation ManagerlocationsIN - Trivandrumposted onPosted 30+ Days Ago26677Senior Data Engineer – AI & Data Modernizationlocations3 Locationsposted onPosted Yesterday31753.",
-    "job_apply_link": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/AI-Engineer_33116?q=software+engineering&Location_Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "guidehouse-ai-engineer-2-locations"
+    "job_description": "software engineering job for the role Designer: User Research Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60302&source=WEB_Search_NA",
+    "id": "ibm-designer-user-research-intern-internshipaustin"
   },
   {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Private Cloud - Software Engineer",
-    "job_city": "3 Locations",
-    "job_state": "US",
+    "employer_name": "IBM",
+    "job_title": "Designer: User Experience Intern",
+    "job_city": "InternshipPOUGHKEEPSIE",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Ft-Collins-Colorado-United-States-of-America/Private-Cloud---Software-Engineer_1185074-3?q=software+engineering",
-    "id": "hewlett-packard-enterprise-private-cloud-software-engineer-3-locations"
+    "job_description": "software engineering job for the role Designer: User Experience Intern 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60301&source=WEB_Search_NA",
+    "id": "ibm-designer-user-experience-intern-internshippoughkeepsie"
   },
   {
-    "employer_name": "Hewlett Packard Enterprise",
-    "job_title": "Software Engineer - Cloud Developer SASE",
-    "job_city": "San Jose",
-    "job_state": "California",
-    "job_posted_at": "6d",
-    "job_description": "Same-page description extraction failed after retries",
-    "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/San-Jose-California-United-States-of-America/SASE---Full-Stack-Software-Engineer_1189040-1?q=software+engineering",
-    "id": "hewlett-packard-enterprise-software-engineer-cloud-developer-sase-san-jose"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "Process Integration and Yield Development System Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
+    "employer_name": "IBM",
+    "job_title": "AI Foundations - Research Scientist - Research Internship:",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Software Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276778Software Engineering - Intern, Bachelor’slocations5 Locationsposted onPosted 30+ Days AgoJR0276773Software Test Engineerlocations4 Locationsposted onPosted 3 Days AgoJR0277742GPU Software Development EngineerlocationsUS, California, Folsomposted onPosted 22 Days AgoJR0277307System Software Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 8 Days AgoJR0277569Software Product Managerlocations3 Locationsposted onPosted 16 Days AgoJR0277468Software Application Development Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0277567Software Application Development Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277556Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 17 Days AgoJR0275499Software Application Development Engineerlocations3 Locationsposted onPosted 4 Days AgoJR0277572Execution Program Manager for Data Center platformslocations3 Locationsposted onPosted 5 Days AgoJR0277676Software Application Development EngineerlocationsUS, California, Santa Claraposted onPosted 19 Days AgoJR0276922Software Application Development Engineerlocations2 Locationsposted onPosted 10 Days AgoJR0277557Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 9 Days AgoJR0277566Software Application Development EngineerlocationsUS, Arizona, Phoenixposted onPosted 3 Days AgoJR0277571Software Application Development Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277558Triton Compiler Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0277157Physical Verification Application Engineerlocations3 Locationsposted onPosted 30+ Days AgoJR0272754Process Integration and Yield Development System EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277779MES EngineerlocationsUS, Arizona, Phoenixposted onPosted 11 Days AgoJR0277565.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Process-Integration-and-Yield-Development-System-Engineer_JR0277779?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-process-integration-and-yield-development-system-engineer-us"
+    "job_description": "software engineering job for the role AI Foundations - Research Scientist - Research Internship: 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA",
+    "id": "ibm-ai-foundations-research-scientist-research-internship-internshipmultiple-cities"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Substrate Yield Analyst",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "2d",
-    "job_description": "• MES Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 2 Days AgoJR0277614Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0277310Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 8 Days AgoJR0277486Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881Substrate Yield AnalystlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277737SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277667CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277654Emulation EngineerlocationsUS, Texas, Austinposted onPosted 19 Days AgoJR0276365Emulation Engineerlocations4 Locationsposted onPosted 2 Days AgoJR0277771Middleware Development Engineerlocations2 Locationsposted onPosted 23 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Substrate-Yield-Analyst_JR0277737?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-substrate-yield-analyst-us"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SOC Design Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
+    "employer_name": "IBM",
+    "job_title": "Mainframe System Verification Tester Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• MES Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 2 Days AgoJR0277614Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0277310Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 8 Days AgoJR0277486Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881Substrate Yield AnalystlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277737SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277667CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277654Emulation EngineerlocationsUS, Texas, Austinposted onPosted 19 Days AgoJR0276365Emulation Engineerlocations4 Locationsposted onPosted 2 Days AgoJR0277771Middleware Development Engineerlocations2 Locationsposted onPosted 23 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SOC-Design-Engineer_JR0277667?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-engineer-us"
+    "job_description": "software engineering job for the role Mainframe System Verification Tester Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58506&source=WEB_Search_NA",
+    "id": "ibm-mainframe-system-verification-tester-apprentice-entry-levelpoughkeepsie"
   },
   {
-    "employer_name": "Intel",
-    "job_title": "Emulation Engineer",
-    "job_city": "4 Locations",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• MES Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 2 Days AgoJR0277614Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0277310Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 8 Days AgoJR0277486Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881Substrate Yield AnalystlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277737SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277667CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277654Emulation EngineerlocationsUS, Texas, Austinposted onPosted 19 Days AgoJR0276365Emulation Engineerlocations4 Locationsposted onPosted 2 Days AgoJR0277771Middleware Development Engineerlocations2 Locationsposted onPosted 23 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/Emulation-Engineer_JR0277771?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-emulation-engineer-4-locations"
-  },
-  {
-    "employer_name": "Marvel Technology",
-    "job_title": "Software Engineer Intern - Bachelor's Degree",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_city": "Entry LevelROCHESTER",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Director of Design VerificationlocationsSanta Clara, CAposted onPosted 2 Days Ago2502952SoC Design LeadlocationsSanta Clara, CAposted onPosted 8 Days Ago2502987Senior Principal Design Verification EngineerlocationsSanta Clara, CAposted onPosted 8 Days Ago2502955Sr Director, BU Planning – S&OP and S&OElocationsSanta Clara, CAposted onPosted 22 Days Ago2502856Distinguished Engineer: Advanced Optical EngineslocationsSanta Clara, CAposted onPosted 24 Days Ago2501691Senior Principal Switch ArchitectlocationsSanta Clara, CAposted onPosted 24 Days Ago2500457Principal Application EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502096Senior Staff Application EngineerlocationsSanta Clara, CAposted onPosted Yesterday2502591Engineering Project ManagerlocationsChandler, AZposted onPosted Yesterday2503126Software Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted Yesterday2502351Principal Engineer, Test Operations & Customer Strategylocations2 Locationsposted onPosted 2 Days Ago2503119Test Engineer Intern - Bachelor's Degreelocations2 Locationsposted onPosted 2 Days Ago2502291Physical Design Engineer Intern - Bachelor's DegreelocationsSanta Clara, CAposted onPosted 2 Days Ago2502379AMS CAD Intern - Bachelors DegreelocationsSanta Clara, CAposted onPosted 2 Days Ago2502707Software Validation Engineer Intern - Master's DegreelocationsSanta Clara, CAposted onPosted 2 Days Ago2502445NPI PlannerlocationsSanta Clara, CAposted onPosted 2 Days Ago2502170Principal Engineer, Design For TestlocationsWestborough, MAposted onPosted 2 Days Ago2501513Signal and Power Integrity - Principal Engineer / Technical ManagerlocationsUS - MA - Westboroughposted onPosted 2 Days Ago2500955Director – Corporate Program Management Office (PMO)locations3 Locationsposted onPosted 3 Days Ago2503103Principal Digital IC Design EngineerlocationsSanta Clara, CAposted onPosted 3 Days Ago2502963.",
-    "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Software-Engineer-Intern---Bachelor-s-Degree_2502351-1?q=software+engineering&Country=bc33aa3152ec42d4995f4791a106ed09",
-    "id": "marvel-technology-software-engineer-intern-bachelor-s-degree-santa-clara"
+    "job_description": "software engineering job for the role Mixed Signal Circuit Design Engineer - Entry Level",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63082&source=WEB_Search_NA",
+    "id": "ibm-mixed-signal-circuit-design-engineer-entry-level-entry-levelrochester"
   },
   {
-    "employer_name": "NVIDIA",
-    "job_title": "Systems Software Engineer, AI Infrastructure",
-    "job_city": "2 Locations",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Principal Software Engineer - Developer ExperiencelocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002241Senior Software Engineer - Build SystemslocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002366Senior System Software Engineer - TegralocationsUS, CA, Santa Claraposted onPosted 11 Days AgoJR2002556Software Engineering Manager, Enterprise PlatformlocationsUS, CA, Santa Claraposted onPosted 5 Days AgoJR2002327Senior Software Engineer - Employee ProductivitylocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002079Senior Software Engineer - Distributed Inferencelocations6 Locationsposted onPosted 30+ Days AgoJR2002881Systems Software Engineer, AI Infrastructurelocations2 Locationsposted onPosted 2 Days AgoJR2002956Senior Software Engineer, Recipe Pathfindinglocations2 Locationsposted onPosted 30+ Days AgoJR2002879Senior CAE Integration Software Engineerlocations2 Locationsposted onPosted 30+ Days AgoJR2003041Senior Software Engineer - Robotics ApplicationlocationsUS, CA, Santa Claraposted onPosted 30+ Days AgoJR2002801Senior Cloud Platform Software Engineerlocations2 Locationsposted onPosted 10 Days AgoJR2003106Software Engineer, CUDA-Q Librarieslocations4 Locationsposted onPosted 30+ Days AgoJR2003621AI-Accelerated System Software EngineerlocationsUS, CA, Santa Claraposted onPosted 25 Days AgoJR2003902Senior Software Engineer, AI InfrastructurelocationsUS, CA, Santa Claraposted onPosted 23 Days AgoJR2004312Senior Cloud Platform Software Engineerlocations2 Locationsposted onPosted 23 Days AgoJR2003877Senior Cloud Platform Software Engineerlocations2 Locationsposted onPosted 23 Days AgoJR2003876Senior Robotics Software Engineer, ManipulationlocationsUS, CA, Santa Claraposted onPosted 21 Days AgoJR2004311Senior Cloud Platform Software Engineerlocations2 Locationsposted onPosted 16 Days AgoJR2003878Senior System Software Engineer - DevSecOps locationsUS, CO, Remoteposted onPosted 15 Days AgoJR2004967Senior Software Engineer - Digital BiologylocationsUS, CA, Santa Claraposted onPosted 10 Days AgoJR2004523.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer--AI-Infrastructure_JR2002956-1?q=software+engineering&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-    "id": "nvidia-systems-software-engineer-ai-infrastructure-2-locations"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Spring 2026 Co-op, Software Development (Bachelors)",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Principal Project Manager-12679 Sunnyvale, California Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California R&D Engineering, Sr Staff Engineer - Physical Design Boxborough, Massachusetts.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/spring-2026-co-op-software-development-bachelors/44408/87085296624",
-    "id": "synopsys-spring-2026-co-op-software-development-bachelors-united-states-off-site"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Spring 2026 Software Development Co-Op (BS)",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Pursuing a bachelor of science in Computer Engineering, Mechanical Engineering, Computer Science or related technical degree with a GPA of 3.\n• Currently enrolled in a full-time degree program and returning to university after the completion of the internship program.\n• Experience in object-oriented computer programming such as Java, C++, and C#.\n• High-school object-oriented computer programming experience.\n• Work alongside software developers during the design, implementation and verification process.\n• Gain knowledge related to development tools and processes.\n• Investigate defects in production code.\n• Develop unit and regression tests.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/spring-2026-software-development-co-op-bs/44408/87085296784",
-    "id": "synopsys-spring-2026-software-development-co-op-bs-united-states-off-site"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Spring 2026 Intern - Software Development - Mechanical (Bachelor's)",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Principal Project Manager-12679 Sunnyvale, California Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California R&D Engineering, Sr Staff Engineer - Physical Design Boxborough, Massachusetts.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/canonsburg/spring-2026-intern-software-development-mechanical-bachelor-s/44408/87085295552",
-    "id": "synopsys-spring-2026-intern-software-development-mechanical-bachelor-s-united-states-off-site"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Software Developer II - EO/IR (Exton, PA)",
-    "job_city": "Exton",
-    "job_state": "Pennsylvania",
-    "job_posted_at": "2d",
-    "job_description": "• At Synopsys, we want talented people of every background to feel valued and supported to do their best work.\n• The actual compensation offered will be based on a number of job-related factors, including location, skills, experience, and education.\n• Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, age, military veteran status, or disability.\n• In addition to the base salary, this role may be eligible for an annual bonus, equity, and other discretionary bonuses.\n• Synopsys offers comprehensive health, wellness, and financial benefits as part of a competitive total rewards package.\n• Your recruiter can share more specific details on the total rewards package upon request.\n• The base salary range for this role is across the U.\n• Apply Now Save Work as a core contributor of a capability development team, supporting the design, development, test, and documentation of new featuresResearch problems discovered by QA or product support and develop solutionsFollow and promote best practices in commercial software developmentSupport backlog reduction of existing bugs and architecture improvementsContribute to the culture of an amazing company Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Principal Project Manager-12679 Sunnyvale, California Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California R&D Engineering, Sr Staff Engineer - Physical Design Boxborough, Massachusetts Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Operations Principal Project Manager-12679 Sunnyvale, California General Management Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California Engineering.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/exton/software-developer-ii-eo-ir-exton-pa/44408/87085298624",
-    "id": "synopsys-software-developer-ii-eo-ir-exton-pa-exton"
-  },
-  {
-    "employer_name": "Synopsys",
-    "job_title": "Spring & Summer 2026 Intern - Software Development - Mechanical (Bachelors)",
-    "job_city": "United States Off-site",
-    "job_state": "US",
-    "job_posted_at": "2d",
-    "job_description": "• Currently enrolled in a full-time degree program and returning to university after the completion of the internship program.\n• Pursuing a bachelor degree in Mechanical/Civil/Industrial Engineering, Computer Science, or related technical degree Commitment to complete at least two semester intern rotations during your degree program enrollment.\n• Exhibit the use of object-oriented programming skills for solving problems Sharp and tenacious problem-solving skills and a willingness to learn Engineering Services Manager/Document Control Manager - 12434 Sunnyvale, California Principal Project Manager-12679 Sunnyvale, California Principal Applications Engineer, Synopsys IP-12663 Sunnyvale, California R&D Engineering, Sr Staff Engineer - Physical Design Boxborough, Massachusetts.",
-    "job_apply_link": "https://careers.synopsys.com/search-jobs/job/austin/spring-and-summer-2026-intern-software-development-mechanical-bachelors/44408/87085295232",
-    "id": "synopsys-spring-summer-2026-intern-software-development-mechanical-bachelors-united-states-off-site"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Software Engineer I – Embedded C++/Avionics Systems",
-    "job_city": "Phoenix",
-    "job_state": "AZ",
-    "job_posted_at": "2d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/122027/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-engineer-i-embedded-c-avionics-systems-phoenix"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Software Manufacturing Engineer",
-    "job_city": "Acton",
-    "job_state": "MA",
-    "job_posted_at": "2d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/121986/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-software-manufacturing-engineer-acton"
-  },
-  {
-    "employer_name": "Honeywell",
-    "job_title": "Field Service Engineer",
-    "job_city": "Nashville",
-    "job_state": "TN",
+    "employer_name": "IBM",
+    "job_title": "Platform Engineer Intern – Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/122828/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-field-service-engineer-nashville"
+    "job_description": "software engineering job for the role Platform Engineer Intern – Entry Level Sales Program 2026",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA",
+    "id": "ibm-platform-engineer-intern-entry-level-sales-program-internshipmultiple-cities"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Process Engineer",
-    "job_city": "Spokane Valley",
-    "job_state": "WA",
+    "employer_name": "IBM",
+    "job_title": "2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/121945/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-process-engineer-spokane-valley"
+    "job_description": "software engineering job for the role 2026 Platform Engineer Co-Op - Entry Level Sales Program",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA",
+    "id": "ibm-2026-platform-engineer-co-op-entry-level-sales-program-internshipmultiple-cities"
   },
   {
-    "employer_name": "Honeywell",
-    "job_title": "Assembler - Level 2 - D shift - Fri- Sun - (6pm- 6:30am)",
-    "job_city": "Redmond",
-    "job_state": "WA",
-    "job_posted_at": "2d",
-    "job_description": "• Collaborate with cross-functional teams to meet software engineering requirements.\n• The ideal candidate will have experience in Microchip firmware (MPLAB, Harmony), embedded Linux (ARM SoCs, Quartus), C++ GUI development with Qt, and networking (TCP/UDP).\n• You'll translate customer needs into technical solutions and support project development end-to-end.\n• Security clearance eligibility required (DoD preferred).\n• Collaborate with cross-functional teams to meet software engineering requirements.\n• Advanced Software Engr Locations Atlanta, GA, United States (Hybrid) Posting Date09/22/2025 Trending Software Engineer & Computer Science - Recent Grad/Full Time Locations United States Posting Date08/29/2025 Trending As a Recent Graduate here at Honeywell, you will have the opportunity to kickstart your career by working alongside experienced professionals in a dynamic and innovative environment.\n• Software Engineer & Computer Science - Summer 2026 Intern (US Person Required) Locations United States Posting Date08/29/2025 Trending Through hands-on learning experiences, global exposure, networking, and professional development opportunities, Honeywell interns will shape the future.\n• You’ll have the opportunity to work alongside industry experts, lead initiatives that refine technical skills, and have unparalleled mentorship and growth opportunities that will elevate your career.",
-    "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/122839/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "honeywell-assembler-level-2-d-shift-fri-sun-6pm-6-30am-redmond"
-  },
-  {
-    "employer_name": "JPMorgan Chase",
-    "job_title": "Python Test Automation Engineer - Software Engineer",
-    "job_city": "Jersey City",
-    "job_state": "NJ",
+    "employer_name": "IBM",
+    "job_title": "Wells Fargo Data Center Technician",
+    "job_city": "Entry LevelMinneapolis",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "• Experience and certifications preferred.\n• Software Engineer III- Java Mumbai, Maharashtra, India TechnologySoftware Engineering Hire a Java Software Engineer skilled in Java development.\n• AWS and Python experience preferred.\n• Focus is Engineering across various AI/ML fields for MLCoE and AI Research Senior Manager of Software Engineering- Python / AWS Boston, MA, United States TechnologySoftware Engineering Seeking a Software Engineering Manager who has knowledge of Python and AWS Software Engineer III Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III GLASGOW, LANARKSHIRE, United Kingdom and 1 more TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III Bengaluru, Karnataka, India TechnologySoftware Engineering Seek a developer skilled in Java and AWS to build cloud apps with Spring, Oracle, and Kafka.\n• Lead software engineer Jersey City, NJ, United States TechnologySoftware Engineering Require Lead Software Engineer to design, drive and release new communication features on the Zoom platform Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Lead Software Engineer for Data Insights and Analytics (DIA) team within AI/ML and Data Management (AMDP) AWS Software Engineer III-Java/Spring Wilmington, DE, United States TechnologySoftware Engineering We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.\n• Lead Software Engineer Herzliya, Israel TechnologySoftware Engineering As a Software Engineer, your mission is to be part of a team of innovators and technologists creating the next generation Identity Software Engineer II LONDON, United Kingdom TechnologySoftware Engineering Serve as an emerging member of an agile team to design and deliver market-leading technology products in a secure and scalable way Software Engineering III - Cloud - Chase UK Bengaluru, Karnataka, India TechnologySoftware Engineering Join our team as a Software Engineer III, driving innovation in cloud-native microservices and enhancing developer experiences.\n• Lead Software Engineer- Python / Spark Big Data Mumbai, Maharashtra, India TechnologySoftware Engineering Promote the creation and execution of top-tier tech products as an experienced Software Engineer with Python and Big Data expertise.\n• Software Engineer III - Java BOURNEMOUTH, DORSET, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Java India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - Python Mumbai, Maharashtra, India TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team React Software Engineer III Columbus, OH, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III - React LONDON, United Kingdom TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Software Engineer III SRE Bengaluru, Karnataka, India TechnologySoftware Engineering Apply your skillsets to drive innovation and modernize the world's most complex and mission-critical systems Software Engineer III - DevOps Houston, TX, United States TechnologySoftware Engineering Design and deliver market-leading technology products in a secure and scalable way as a seasoned member of an agile team Java Lead Software Engineer GLASGOW, LANARKSHIRE, United Kingdom TechnologySoftware Engineering Combine software engineering expertise with system administration to create highly reliable, scalable, and automated systems.",
-    "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672843/?keyword=software+engineering&location=United+States&locationId=300000000469866&locationLevel=country&mode=location",
-    "id": "jpmorgan-chase-python-test-automation-engineer-software-engineer-jersey-city"
+    "job_description": "software engineering job for the role Wells Fargo Data Center Technician",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64467&source=WEB_Search_NA",
+    "id": "ibm-wells-fargo-data-center-technician-entry-levelminneapolis"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer, Global Services Security Engineering",
-    "job_city": "Arlington",
-    "job_state": "VA",
+    "employer_name": "IBM",
+    "job_title": "Power Card Lab Technician Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer, Global Services Security Engineering",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106424/software-development-engineer-global-services-security-engineering",
-    "id": "amazon-software-development-engineer-global-services-security-engineering-arlington"
+    "job_description": "software engineering job for the role Power Card Lab Technician Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=19116&source=WEB_Search_NA",
+    "id": "ibm-power-card-lab-technician-apprentice-entry-levelpoughkeepsie"
   },
   {
-    "employer_name": "Amazon",
-    "job_title": "Software Development Engineer",
-    "job_city": "San Luis Obispo",
-    "job_state": "CA",
+    "employer_name": "IBM",
+    "job_title": "Hardware Design Technician Apprentice",
+    "job_city": "Entry LevelPOUGHKEEPSIE",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Software Development Engineer",
-    "job_apply_link": "https://amazon.jobs/en-gb/search/en-gb/jobs/3106112/software-development-engineer",
-    "id": "amazon-software-development-engineer-san-luis-obispo"
+    "job_description": "software engineering job for the role Hardware Design Technician Apprentice",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=21075&source=WEB_Search_NA",
+    "id": "ibm-hardware-design-technician-apprentice-entry-levelpoughkeepsie"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Research Intern - Cloud Reliability & Efficiency",
-    "job_city": "Redmond",
-    "job_state": "Washington",
+    "employer_name": "IBM",
+    "job_title": "2026 AI Engineer Co-Op - Entry Level Sales Program",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Research Intern - Cloud Reliability & Efficiency",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-research-intern-cloud-reliability-efficiency-redmond"
+    "job_description": "software engineering job for the role 2026 AI Engineer Co-Op - Entry Level Sales Program",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57383&source=WEB_Search_NA",
+    "id": "ibm-2026-ai-engineer-co-op-entry-level-sales-program-internshipmultiple-cities"
   },
   {
-    "employer_name": "Microsoft",
-    "job_title": "Product Management: Internship Opportunities",
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: AI Platform Developer",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: AI Platform Developer",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60196&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ai-platform-developer-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "2026 Intern: Next Generation Storage Systems",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role 2026 Intern: Next Generation Storage Systems",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60293&source=WEB_Search_NA",
+    "id": "ibm-2026-intern-next-generation-storage-systems-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "IBM",
+    "job_title": "Intern 2026: IBM Research AI Systems",
+    "job_city": "InternshipMultiple Cities",
+    "job_state": "United States",
+    "job_posted_at": "1d",
+    "job_description": "software engineering job for the role Intern 2026: IBM Research AI Systems",
+    "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58828&source=WEB_Search_NA",
+    "id": "ibm-intern-2026-ibm-research-ai-systems-internshipmultiple-cities"
+  },
+  {
+    "employer_name": "RIVIAN",
+    "job_title": "University Relations Recruiter (Contract/CTH)",
     "job_city": "",
-    "job_state": "New York",
+    "job_state": "US",
     "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Product Management: Internship Opportunities",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-product-management-internship-opportunities-"
-  },
-  {
-    "employer_name": "Microsoft",
-    "job_title": "Research Intern - AI Agents & Reasoning",
-    "job_city": "Redmond",
-    "job_state": "Washington",
-    "job_posted_at": "1d",
-    "job_description": "software engineering job for the role Research Intern - AI Agents & Reasoning",
-    "job_apply_link": "https://jobs.careers.microsoft.com",
-    "id": "microsoft-research-intern-ai-agents-reasoning-redmond"
+    "job_description": "• Candidate Evaluation & Experience: Conduct technical screens and behavioral interviews.\n• Ensure a smooth and informative experience for every candidate.\n• Drive conversion strategy aligned to full-time hiring needs.\n• Proficiency in iCIMS or similar ATS required.\n• Experience with Handshake, LinkedIn Recruiter, or other sourcing platforms preferred.\n• 2–4 years of experience in university or technical recruiting, ideally within engineering, software, or R&D environments.\n• Strong interpersonal and public speaking skills.\n• Sourcing & Engagement: Identify high-potential talent through campus partnerships, sourcing platforms, online technical communities, and direct outreach.",
+    "job_apply_link": "https://us-careers-rivian.icims.com/jobs/25538/login",
+    "id": "rivian-university-relations-recruiter-contract-cth-"
   }
 ]
->>>>>>> 2e255011da2b04560dd8c517031ee2ee3071ca74
