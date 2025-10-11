@@ -1,32 +1,12 @@
 [
   {
-    "employer_name": "BAE Systems",
-    "job_title": "University, Software Developer",
-    "job_city": "McLean",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted YesterdayR0228026 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 15 Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 11 Days AgoR0221867 React Software Engineer & Web ExpertlocationsAlexandria, VAposted onPosted 10 Days AgoR0227377 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 12 Days AgoR0226625 Application Developer, SeniorlocationsBethesda, MDposted onPosted 10 Days AgoR0227441 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted YesterdayR0226649 Software Development Team LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0226938 Full-Stack Developer, LeadlocationsArlington, VAposted onPosted YesterdayR0227195 Full Stack Developer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0227913.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Software-Developer_R0228026?q=software+engineering",
-    "id": "bae-systems-university-software-developer-mclean"
-  },
-  {
-    "employer_name": "BAE Systems",
-    "job_title": "Software Test Engineer, Mid",
-    "job_city": "Chantilly",
-    "job_state": "VA",
-    "job_posted_at": "1d",
-    "job_description": "• University, Software DeveloperlocationsMcLean, VAposted onPosted YesterdayR0228026 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 15 Days AgoR0221864 Software Reverse Engineer, SeniorlocationsCharlottesville, VAposted onPosted 11 Days AgoR0221867 React Software Engineer & Web ExpertlocationsAlexandria, VAposted onPosted 10 Days AgoR0227377 Full Stack Developer, SeniorlocationsChantilly, VAposted onPosted 12 Days AgoR0226625 Application Developer, SeniorlocationsBethesda, MDposted onPosted 10 Days AgoR0227441 Full-Stack Developer, JuniorlocationsHuntsville, ALposted onPosted YesterdayR0226649 Software Development Team LeadlocationsMcLean, VAposted onPosted 9 Days AgoR0226938 Full-Stack Developer, LeadlocationsArlington, VAposted onPosted YesterdayR0227195 Full Stack Developer, SeniorlocationsMcLean, VAposted onPosted 2 Days AgoR0227913.",
-    "job_apply_link": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Test-Engineer--Mid_R0228058?q=software+engineering",
-    "id": "bae-systems-software-test-engineer-mid-chantilly"
-  },
-  {
-    "employer_name": "Intel",
-    "job_title": "SOC Design Engineer",
-    "job_city": "US",
-    "job_state": "Arizona",
-    "job_posted_at": "1d",
-    "job_description": "• MES Engineerlocations3 Locationsposted onPosted 3 Days AgoJR0277570Supply Planning Capabilities Leadlocations4 Locationsposted onPosted 2 Days AgoJR0277614Sr.\n• Infrastructure EngineerlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277456Sr.\n• Infrastructure Engineer – StoragelocationsUS, Arizona, Phoenixposted onPosted 18 Days AgoJR0277455Sr.\n• Infrastructure Engineer – Windows OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277459Sr.\n• Infrastructure Engineer – Linux OSlocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277458Sr.\n• Infrastructure Engineer – Virtualization and Cloud PlatformslocationsUS, Arizona, Phoenixposted onPosted 19 Days AgoJR0277457DevOps and Validation EngineerlocationsUS, Oregon, Hillsboroposted onPosted 3 Days AgoJR0277658AI Compiler Engineerlocations2 Locationsposted onPosted 19 Days AgoJR0277310Senior Director IT, Procure to Pay (P2P)locations2 Locationsposted onPosted 8 Days AgoJR0277486Global Technical Leader, Data Center Architecture and Customer Engagementlocations4 Locationsposted onPosted 30+ Days AgoJR0276881Substrate Yield AnalystlocationsUS, Arizona, Phoenixposted onPosted 2 Days AgoJR0277737SOC Design EngineerlocationsUS, Arizona, Phoenixposted onPosted YesterdayJR0277667CPU CAD Design Automation Engineerlocations2 Locationsposted onPosted 4 Days AgoJR0277654Emulation EngineerlocationsUS, Texas, Austinposted onPosted 19 Days AgoJR0276365Emulation Engineerlocations4 Locationsposted onPosted 2 Days AgoJR0277771Middleware Development Engineerlocations2 Locationsposted onPosted 23 Days AgoJR0277312Silicon Hardware Engineering - Intern, Graduatelocations5 Locationsposted onPosted 30+ Days AgoJR0276774Semiconductor Research, Intern Graduatelocations4 Locationsposted onPosted 30+ Days AgoJR0276771Government Information Security Engineerlocations4 Locationsposted onPosted 30+ Days AgoJR0276257.",
-    "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/SOC-Design-Engineer_JR0277667?q=software+engineering&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf",
-    "id": "intel-soc-design-engineer-us"
+    "employer_name": "General Dynamics",
+    "job_title": "Engineer (Tactical Network - CANES) - Active Secret clearance",
+    "job_city": "USA CA San Diego",
+    "job_state": "US",
+    "job_posted_at": "2d",
+    "job_description": "• Join our 30,000 everyday heroes.\n• A global technology and professional services company that delivers consulting, technology and mission services to every major agency across the U.\n• Government, defense and intelligence community.\n• Our 30,000 experts extract the power of technology to create immediate value and deliver solutions at the edge of innovation.\n• We operate across 30 countries worldwide, offering leading capabilities in digital modernization, AI/ML, Cloud, Cyber and application development.\n• Together with our clients, we strive to create a safer, smarter world by harnessing the power of deep expertise and advanced technology.\n• For more information about GDIT's Privacy Policy, click here: https://www.\n• Com/privacy-policy/notices/.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-CA-San-Diego/Engineer--Tactical-Network---CANES----Active-Secret-clearance_RQ207961-2?q=software+engineering",
+    "id": "general-dynamics-engineer-tactical-network-canes-active-secret-clearance-usa-ca-san-diego"
   }
 ]
