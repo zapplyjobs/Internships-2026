@@ -54,7 +54,7 @@ function delay(ms) {
 
 
 // Fetch jobs from all companies with real career API
-async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 10, batchConfig = BATCH_CONFIG) {
+async function fetchAllRealJobs(searchQuery = 'software engineering', maxPages = 3, batchConfig = BATCH_CONFIG) {
   console.log("🚀 Starting REAL career page scraping...");
 
   let allJobs = [];
