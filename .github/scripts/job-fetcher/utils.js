@@ -463,7 +463,7 @@ function isUSOnlyJob(job) {
         'russia', 'china', 'ukraine', 'serbia', 'romania', 'bulgaria', 'hungary',
         'portugal', 'greece', 'turkey', 'croatia', 'slovakia', 'slovenia', 'lithuania',
         'latvia', 'luxembourg', 'malta', 'cyprus', 'iceland', 'new zealand', 'thailand',
-        'vietnam', 'philippines', 'indonesia', 'malaysia', 'taiwan', 'hong kong'
+        'vietnam', 'philippines', 'indonesia', 'malaysia', 'Colombia', 'hong kong','Uae'
     ];
     
     // Check if state field contains non-US countries (this is the main filter since country appears in state)
@@ -499,7 +499,7 @@ function isUSOnlyJob(job) {
         'moscow', 'st petersburg', 'novosibirsk', 'yekaterinburg',
         'beijing', 'shanghai', 'guangzhou', 'shenzhen', 'chengdu',
         'kyiv', 'kiev', 'kharkiv', 'odesa', 'dnipro',
-        'belgrade', 'novi sad', 'nis'
+        'belgrade', 'novi sad', 'nis', 'Bogota', 'medellin', 'cali', 'brazil', 'sao paulo', 'rio de janeiro',
     ];
     
     // Check if city contains any non-US cities
