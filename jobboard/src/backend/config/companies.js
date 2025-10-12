@@ -355,7 +355,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://jpmc.fa.oraclecloud.com",
       url: `https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?keyword=${encodeURIComponent(
         searchQuery
-      )}&location=United+States&locationId=300000000469866&locationLevel=country&mode=location`,
+      )}&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%3B7`,
       selector: selectors.jpmc,
 
       //      "job_apply_link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210629578/?keyword=data science+engineer&location=United+States&locationId=300000000469866&locationLevel=country&mode=location"
