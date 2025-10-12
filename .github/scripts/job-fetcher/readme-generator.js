@@ -272,7 +272,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="300" alt="Join Discord - Internship & New Grad Hub by Zapply">
+    <img src="./discord-button.png" width="400" alt="Join Discord - Internship & New Grad Hub by Zapply">
   </a>
 </div>
 

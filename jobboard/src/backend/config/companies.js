@@ -10,7 +10,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "ibm": {
       name: "IBM",
       baseUrl: "https://www.ibm.com",
-      url: `https://www.ibm.com/careers/search?field_keyword_18[0]=Entry%20Level&field_keyword_18[1]=Internship&field_keyword_05[0]=United%20States&q=${encodeURIComponent(searchQuery)}&p=${pageNum}`,
+      url: `https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States&p=${pageNum}`,
       selector: selectors.ibm
       //"job_city": "Entry LevelNew York",
       //done
@@ -19,7 +19,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     salesforce: {
       name: "Salesforce",
       baseUrl: "https://careers.salesforce.com",
-      url: `https://careers.salesforce.com/en/jobs?page=${pageNum}&search=${encodeURIComponent(searchQuery)}&country=United%20States%20of%20America&jobtype=Apprentice+%28Fixed+Term%29&jobtype=Intern&jobtype=New+Grads&jobtype=Regular&pagesize=20#results`,
+      url: `https://careers.salesforce.com/en/jobs/?search=&jobtype=Intern&pagesize=20#results&page=${pageNum}`,
       selector: selectors.salesforce
     },
     "dell": {
@@ -51,7 +51,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "siemens": {
       name: "Siemens",
       baseUrl: "https://jobs.siemens.com/careers",
-      url: `https://jobs.siemens.com/careers?query=${encodeURIComponent(searchQuery)}&location=USA&pid=563156126459716&level=recent%20college%20graduate&level=student%20%28not%20yet%20graduated%29&level=mid-level%20professional&level=early%20professional&domain=siemens.com&sort_by=relevance&triggerGoButton=false&utm_source=j_c_us`,
+      url: `https://jobs.siemens.com/en_US/externaljobs/SearchJobs/internship?42386=%5B812209%5D&42386_format=17546&42390=%5B102156%2C102155%2C102154%5D&42390_format=17550&listFilterMode=1&folderSort=postedDate&folderSortDirection=ASC&folderRecordsPerPage=6&`,
       selector: selectors.siemens,
       //no links 
       //already applied filters
@@ -62,9 +62,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     analogdevices: {
       name: "Analog Devices",
       baseUrl: "https://analogdevices.wd1.myworkdayjobs.com",
-      url: `https://analogdevices.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(
-        searchQuery
-      )}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://analogdevices.wd1.myworkdayjobs.com/External?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000`,
       selector: selectors.analogdevices,
     },
     //  just have to click on each job and use the below selector
@@ -76,7 +74,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "appliedmaterials": {
       name: "Applied Materials",
       baseUrl: "https://careers.appliedmaterials.com",
-      url: `https://careers.appliedmaterials.com/careers?domain=appliedmaterials.com&triggerGoButton=false&query=${encodeURIComponent(searchQuery)}&start=${(pageNum - 1) * 10}&location=united+states&pid=790304383258&sort_by=solr&filter_include_remote=1&filter_country=United+States+of+America&filter_seniority=Mid-Level%2CEntry%2CIntern%2CManager`,
+      url: `https://careers.appliedmaterials.com/careers?domain=appliedmaterials.com&triggerGoButton=false&location=united+states&start=${(pageNum - 1) * 10}&pid=790304383258&&sort_by=timestamp&&filter_include_remote=1&filter_employee_type=intern+%2F+student`,
       selector: selectors.appliedmaterials
       //it is having its own filter in the url
       //done
@@ -85,7 +83,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "baesystems": {
       name: "BAE Systems",
       baseUrl: "https://bah.wd1.myworkdayjobs.com",
-      url: `https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs?q=${encodeURIComponent(searchQuery)}`,
+      url: `https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d`,
       selector: selectors.baesystems
       //onclicking each job u have to use this #mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-muoh1b > ul:nth-child(5)>li
       //same as analog 
@@ -106,11 +104,11 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "cisco": {
       name: "Cisco",
       baseUrl: `https://jobs.cisco.com/jobs/SearchJobs`,
-      url: `https://jobs.cisco.com/jobs/SearchJobs/${searchQuery}?21178=%5B169482%5D&21178_format=6020&21180=%5B166%2C164%2C165%5D&21180_format=6022&listFilterMode=1&projectOffset=${(pageNum - 1) * 10}`,
+      url: `https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B165%5D&21180_format=6022&listFilterMode=1&projectOffset=${(pageNum - 1) * 10}`,
       selector: selectors.cisco
       // filtered by url for apprentice ,early in career ,intern
       //done
-    },
+    },//no interns
 
     "gdit": {
       name: "General Dynamics",
@@ -121,16 +119,17 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       // document.querySelector('.css-1x6f30n').textContent;
       // and we have to search for Experience : years
       // DONE
-    },
+    },//no interns
 
     "10xgenomics": {
       name: "10x Genomics",
       baseUrl: "https://careers.10xgenomics.com",
-      url: `https://careers.10xgenomics.com/careers?query=${encodeURIComponent(searchQuery.replace(/ /g, '+'))}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=solr&filter_include_remote=1`,
+      url: `https://careers.10xgenomics.com/careers?query=${encodeURIComponent(searchQuery.replace(/ /g, '+'))}&start=${(pageNum - 1) * 10}&location=united+states&sort_by=solr&filter_include_remote=1&filter_seniority=1`,
       selector: selectors['10xgenomics']
       //same click the job and use this selctor 
       // //#job-description-container > div > ul:nth-child(10)
       // done
+      //no interns
     },
 
     "guidehouse": {
@@ -151,6 +150,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       //same as before click on each job and use this selector
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-11ukcqc
       //done
+      //no interns for us 
     },
 
     "illumina": {
@@ -166,7 +166,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "intel": {
       name: "Intel",
       baseUrl: "https://intel.wd1.myworkdayjobs.com",
-      url: `https://intel.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf`,
+      url: `https://intel.wd1.myworkdayjobs.com/External?q=${encodeURIComponent(searchQuery)}&workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf101b8aec18a77bf810dd0&locations=1e4a4eb3adf1018c4bf78f77bf8112d0&locations=1e4a4eb3adf10118b1dfe877bf8162d0&locations=da6b8032b879100204a63a809f6c0000&locations=1e4a4eb3adf10146fd5c5276bf81eece&locations=1e4a4eb3adf1011246675c76bf81f8ce&locations=0741efd9f02e01994a3c9ca2ae078199&locations=1e4a4eb3adf1016541777876bf8111cf&locations=1e4a4eb3adf101fa2a777d76bf8116cf&locations=1e4a4eb3adf10174f0548376bf811bcf`,
       selector: selectors.intel
       // same as above and use the selector
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-1hv0qyi > div:nth-child(17)
@@ -176,7 +176,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "magna": {
       name: "Magna International",
       baseUrl: "https://wd3.myworkdaysite.com",
-      url: `https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://wd3.myworkdaysite.com/en-US/recruiting/magna/Magna?Country=bc33aa3152ec42d4995f4791a106ed09&Worker_Type=5aaaed564f43016878b0b7f1c60258d1`,
       selector: selectors.magna
       //same use this selctor after clicking the job 
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-zokh5w > div:nth-child(11)
@@ -186,7 +186,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "marvel": {
       name: "Marvel Technology",
       baseUrl: "https://marvell.wd1.myworkdayjobs.com",
-      url: `https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=${encodeURIComponent(searchQuery)}&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419`,
       selector: selectors.marvel
       // //same use this selctor after clicking the job 
       //       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-dwylkc > ul:nth-child(17)
@@ -196,7 +196,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "nvidia": {
       name: "NVIDIA",
       baseUrl: "https://nvidia.wd5.myworkdayjobs.com",
-      url: `https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8`,
+      url: `https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=${encodeURIComponent(searchQuery)}&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17`,
       selector: selectors.nvidia
       //same as above
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-4r17ng > ul:nth-child(9)
@@ -207,7 +207,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "verizon": {
       name: "Verizon",
       baseUrl: "https://verizon.wd12.myworkdayjobs.com",
-      url: `https://verizon.wd12.myworkdayjobs.com/verizon-careers/?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09`,
+      url: `https://verizon.wd12.myworkdayjobs.com/verizon-careers/?q=${encodeURIComponent(searchQuery)}&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000`,
       selector: selectors.verizon
       //same as above
       //#mainContent > div > div.css-1142bqn > div > div > section > div > div.css-oa138a > div > div > div > div.css-1i27f3a > div > div.css-4r17ng > ul:nth-child(7)
@@ -246,7 +246,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "abb": {
       name: "ABB",
       baseUrl: "https://careers.abb/global/en/search-results",
-      url: `https://careers.abb/global/en/search-results?keywords=${encodeURIComponent(searchQuery)}&from=${(pageNum - 1) * 10}&s=1`,
+      url: `https://careers.abb/global/en/search-results?keywords=IT%20internship&from=${(pageNum - 1) * 10}&s=1`,
       selector: selectors.abb,
       filters: {
         "applyUSAFilter": {
@@ -293,7 +293,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "rivian": {
       name: "RIVIAN",
       baseUrl: "https://careers.rivian.com/careers-home/jobs",
-      url: `https://careers.rivian.com/careers-home/jobs?keywords=${encodeURIComponent(searchQuery)}&location=united%20states&stretch=10&stretchUnit=MILES&sortBy=relevance&page=${pageNum}`,
+      url: `https://careers.rivian.com/careers-home/jobs?location=united%20states&stretch=10&stretchUnit=MILES&sortBy=relevance&page=1&keywords=internships&page=${pageNum}`,
       selector: selectors.rivian
     },
 
@@ -366,9 +366,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     ti: {
       name: "Texas Instruments",
       baseUrl: "https://careers.ti.com",
-      url: `https://careers.ti.com/en/sites/CX/jobs?keyword=${encodeURIComponent(
-        searchQuery
-      )}&location=United+States&locationId=300000000361862&locationLevel=country&mode=location`,
+      url: `https://careers.ti.com/en/sites/CX/jobs?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets="AttributeChar8%7CInterns`,
       selector: selectors.ti,
       //"job_apply_link": "https://careers.ti.com/en/sites/CX/job/25002271/?keyword=data science+engineer&location=United+States&locationId=300000000361862&locationLevel=country&mode=location"
       //https://careers.ti.com/en/sites/CX/jobs/preview/25002271/?keyword=data science+engineering&location=United+States&locationId=300000000361862&locationLevel=country&mode=location
@@ -386,7 +384,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     "waymo": {
       name: "Waymo",
       baseUrl: "https://careers.withwaymo.com/jobs/search",
-      url: `https://careers.withwaymo.com/jobs/search?page=${pageNum}&country_codes%5B%5D=US&dropdown_field_1_uids%5B%5D=032bf1b3c966086ebe1d0cd037cd2eef&dropdown_field_1_uids%5B%5D=5c171b4c656ebf8d39faf490d07d69d1&dropdown_field_1_uids%5B%5D=c08225843430b8d611354d3bffcc2bea&query=${encodeURIComponent(searchQuery)}`,
+      url: `https://careers.withwaymo.com/jobs/search?page=${pageNum}&country_codes%5B%5D=US&dropdown_field_1_uids%5B%5D=5c171b4c656ebf8d39faf490d07d69d1&query=${encodeURIComponent(searchQuery)}`,
       selector: selectors.waymo
       //done
 
@@ -399,7 +397,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       name: "Google",
       baseUrl:
         "https://www.google.com/about/careers/applications/jobs/results/",
-      url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
+      url: `https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`,
       selector: selectors.google,
@@ -411,7 +409,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       name: "Amazon",
       baseUrl: "https://amazon.jobs/en-gb/search",
       url: `https://www.amazon.jobs/en-gb/search?offset=${(pageNum - 1) * 10
-        }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
+        }&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=38.89036&longitude=-77.03196&loc_group_id=&loc_query=united%20states&base_query=${encodeURIComponent(
           searchQuery
         )}&city=&country=USA&region=&county=&query_options=&`,
       selector: selectors.amazon,
@@ -422,7 +420,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
     meta: {
       name: "Meta",
       baseUrl: "https://www.metacareers.com",
-      url: `https://www.metacareers.com/jobs?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&q=${encodeURIComponent(
+      url: `https://www.metacareers.com/jobs?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&roles[0]=Internship&q=${encodeURIComponent(
         searchQuery
       )}&page=${pageNum}`
       ,
@@ -435,7 +433,7 @@ function getCompanies(searchQuery = "", pageNum = 1) {
       baseUrl: "https://jobs.careers.microsoft.com",
       url: `https://jobs.careers.microsoft.com/global/en/search?&q=${encodeURIComponent(
         searchQuery
-      )}&lc=United%20States&exp=Students%20and%20graduates&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
+      )}&lc=United%20States&et=Internship&l=en_us&pg=${pageNum}&pgSz=20&o=Relevance&flt=true`
       ,
       selector: selectors.microsoft,
       // filter applied
