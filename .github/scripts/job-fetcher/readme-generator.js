@@ -272,7 +272,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="650" alt="Join Discord - Job Finder & Career Hub by Zapply">
+    <img src="./discord-button.png" width="300" alt="Join Discord - Job Finder & Career Hub by Zapply">
   </a>
 </div>
 
