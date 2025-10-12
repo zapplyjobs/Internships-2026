@@ -99,6 +99,13 @@ function parseLocation(locationText) {
     }
   }
 
+  // STEP 2.5: CRITICAL FIX - Remove "ship" prefix that's left from "internship"
+  // This handles cases like "shipAustin", "shipNew York", "shipWASHINGTON"
+  cleanLocation = cleanLocation
+    .replace(/^ship\s*/i, '') // Remove "ship" at the beginning
+    .replace(/\bship\s*/gi, '') // Remove "ship" as a word boundary
+    .trim();
+
   // STEP 3: Remove country suffixes
   cleanLocation = cleanLocation
     .replace(/,?\s*United States\s*$/i, '')
@@ -148,10 +155,19 @@ function parseLocation(locationText) {
     .trim();
 
   // STEP 6: Additional pattern-based cleaning for specific cases
-  // Remove patterns like "InternshipCity" or "Entry LevelCity"
+  // Remove patterns like "InternshipCity", "Entry LevelCity", or leftover "ship"
   cleanLocation = cleanLocation
-    .replace(/^(internship|intern|entrylevel|entry|senior|junior)/i, '')
+    .replace(/^(internship|intern|entrylevel|entry|ship|senior|junior)/i, '')
+    .replace(/(internship|intern|ship)$/i, '') // Also remove from end
     .trim();
+
+  // STEP 6.5: Handle concatenated words like "shipAustin" or "internshipNew"
+  // Split on capital letters that follow lowercase (camelCase detection)
+  if (cleanLocation && /^[a-z]+[A-Z]/.test(cleanLocation)) {
+    cleanLocation = cleanLocation
+      .replace(/^(ship|intern|internship)/i, '') // Remove common prefixes
+      .trim();
+  }
 
   // STEP 7: Filter out empty or too short results
   if (!cleanLocation || cleanLocation.length < 2) {
@@ -165,7 +181,8 @@ function parseLocation(locationText) {
     'multiple', 'various', 'all', 'any',
     'nationwide', 'national',
     'tbd', 'tba', 'n/a', 'na',
-    'location', 'locations'
+    'location', 'locations',
+    'ship' // Add "ship" as a generic term to filter
   ];
   
   if (genericTerms.includes(cleanLocation.toLowerCase())) {
