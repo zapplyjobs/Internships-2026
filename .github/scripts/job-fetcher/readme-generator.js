@@ -176,11 +176,11 @@ function generateInternshipSection(internshipData) {
   return `
 ---
 
-## 🎓 **SWE Internships 2026**
+## 🎓 **Featured Internship Programs 2026**
 
-> **Top internships for software engineers, programmers, and computer science majors.**
+> **Top summer and fall internship programs for CS students and new graduates.**
 
-### 🏢 **FAANG+ Internship Programs**
+### 🏢 **FAANG+ & Elite Tech Internships**
 
 | Company | Program | Apply Now |
 |---------|---------|-----------|
@@ -191,7 +191,7 @@ ${internshipData.companyPrograms
   })
   .join("\n")}
 
-### 📚 **Top Software Internship Resources**
+### 📚 **Additional Internship & New Grad Resources**
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
@@ -216,16 +216,16 @@ function generateArchivedSection(archivedJobs, stats) {
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - ${
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - ${
     archivedJobs.length
   } (7+ days old) - Click to Expand</h2></summary>
 
-> Either still hiring or useful for research.
+> Some positions may still be accepting applications or useful for planning.
 
-### **Archived Job Stats**
-- **📁 Total Jobs**: ${archivedJobs.length} positions
+### **Archived Opportunity Stats**
+- **📁 Total Positions**: ${archivedJobs.length} roles
 - **🏢 Companies**: ${Object.keys(stats.totalByCompany).length} companies  
-- **⭐ FAANG+ Jobs & Internships**: ${archivedFaangJobs} roles
+- **⭐ FAANG+ Opportunities**: ${archivedFaangJobs} positions
 
 ${generateJobTable(archivedJobs)}
 
@@ -254,25 +254,25 @@ async function generateReadme(
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
 
-  return `# 💻 Software Engineering Jobs & Internships 2026 by Zapply
+  return `# 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time software engineering, programming, and IT jobs from ${totalCompanies}+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with ${
+**🚀 Real-time internships and new grad roles from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with ${
     currentJobs.length
-  }+ fresh opportunities for new graduates, CS students, and entry-level software developers.**
+  }+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
-**🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.**
+**🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
-**🛠 Help us grow! Add new jobs by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
+**🛠 Help us grow! Add new opportunities by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
 ## **Join Community**
 
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
+Connect with fellow students and new grads, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
 
 
  <div align="center">
   <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="300" alt="Join Discord - Job Finder & Career Hub by Zapply">
+    <img src="./discord-button.png" width="300" alt="Join Discord - Internship & New Grad Hub by Zapply">
   </a>
 </div>
 
@@ -281,18 +281,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Positions:** ${currentJobs.length} hot software engineering jobs  
-🏢 **Top Companies:** ${totalCompanies} elite tech including Tesla, NVIDIA, Raytheon  
-⭐ **FAANG+ Jobs & Internships:** ${faangJobs} premium opportunities  
+🔥 **Current Opportunities:** ${currentJobs.length} internships & new grad roles  
+🏢 **Top Companies:** ${totalCompanies} elite tech companies hiring  
+⭐ **FAANG+ Positions:** ${faangJobs} premium opportunities  
 📅 **Last Updated:** ${currentDate}  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Developer Jobs:** ${archivedJobs.length} (older than 1 week)
+📁 **Archived Opportunities:** ${archivedJobs.length} (older than 1 week)
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## 🎯 **Fresh Software Job Listings 2026 (under 1 week)**
+## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
 ${generateJobTable(currentJobs)}
 
@@ -300,7 +300,7 @@ ${generateJobTable(currentJobs)}
 ---
 ## **✨ Insights on the Repo**
 
-### 🏢 **Top Companies**
+### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (${(() => {
   const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
@@ -347,23 +347,23 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
 }).join(" • ") || "No companies available"}
 
 ---
-### 📈 **Experience Breakdown**
+### 📈 **Opportunity Type Breakdown**
 
-| Level               | Count | Percentage | Top Companies                     |
+| Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${
+| 🟢 Internships & Co-ops | ${stats?.byLevel["Entry-Level"] || 0} | ${
     stats
       ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100)
       : 0
-  }% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${
+  }% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | ${stats?.byLevel["Mid-Level"] || 0} | ${
     stats
       ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100)
       : 0
-  }% | 1-2 years of experience |
-| 🔴 Manager         | ${stats?.byLevel["Senior"] || 0} | ${
+  }% | 0-1 years of experience |
+| 🔴 Early Career         | ${stats?.byLevel["Senior"] || 0} | ${
     stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0
-  }% | 2+ years of experience |
+  }% | 1-2 years of experience |
 
 ---
 
@@ -373,62 +373,62 @@ ${
     ? Object.entries(stats.byLocation)
         .sort((a, b) => b[1] - a[1])
         .slice(0, 8)
-        .map(([location, count]) => `- **${location}**: ${count} positions`)
+        .map(([location, count]) => `- **${location}**: ${count} opportunities`)
         .join("\n")
     : ""
 }
 
 ---
 
-## 🔮 **Why Software Engineers Choose Our Job Board**
+## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Jobs:** ${
+✅ **100% Real Opportunities:** ${
     currentJobs.length
-  }+ verified CS internships and entry-level software roles from ${totalCompanies} elite tech companies.
+  }+ verified internships and new grad roles from ${totalCompanies} top companies.
 
-✅ **Fresh Daily Updates:** Live company data from Tesla, Raytheon, Chewy, and CACI refreshed every 24 hours automatically.
+✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
-✅ **Entry-Level Focused:** Smart filtering for CS majors, new grads, and early-career engineers.
+✅ **Student-Focused:** Smart filtering for CS students, bootcamp grads, and recent graduates.
 
-✅ **Intern-to-FTE Pipeline:** Track internships that convert to full-time SWE roles.
+✅ **Intern-to-FTE Pipeline:** Track companies with strong conversion rates from internship to full-time.
 
-✅ **Direct Applications:** Skip recruiters -- apply straight to company career pages for Tesla, Amazon, and NVIDIA positions.
+✅ **Direct Applications:** Skip recruiters—apply straight to company career pages for faster response times.
 
-✅ **Mobile-Optimized:** Perfect mobile experience for CS students job hunting between classes.
+✅ **Mobile-Optimized:** Perfect mobile experience for job hunting between classes or on campus.
 
 ---
 
-## 🚀 **Job Hunt Tips That Actually Work**
+## 🚀 **Application Tips for Students & New Grads**
 
 ### 🔍 **Research Before Applying**
 
-- **Find the hiring manager:** Search "[Company] [Team] engineering manager" on LinkedIn.
-- **Check recent tech decisions:** Read their engineering blog for stack changes or new initiatives.
-- **Verify visa requirements:** Look for 🇺🇸 indicator or "US persons only" in job description.
+- **Find the hiring manager:** Search "[Company] [Team] engineering manager" or "[Company] internship recruiter" on LinkedIn.
+- **Check program details:** Look for program length, start dates, return offer rates, and housing stipends.
+- **Verify eligibility:** Check for year requirements (rising junior, graduating senior, etc.) and visa sponsorship.
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
-### 📄 **Resume Best Practices**
+### 📄 **Resume Best Practices for Students**
 
-- **Mirror their tech stack:** Copy exact keywords from job post (React, Django, Node.js, etc.).
-- **Lead with business impact:** "Improved app speed by 30%" > "Used JavaScript."
-- **Show product familiarity:** "Built Netflix-style recommendation engine" or "Created Stripe payment integration."
-- [Read this informative guide on tweaking your resume](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
+- **Lead with education:** GPA (if 3.0+), relevant coursework, CS projects, and hackathons.
+- **Quantify projects:** "Built web app with 500+ users" > "Built a website."
+- **Show technical skills:** List programming languages, frameworks, and tools you've actually used.
+- [Read this informative guide on tweaking your resume for internships](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
-### 🎯 **Interview Best Practices**
+### 🎯 **Interview Prep for New Grads**
 
-- **Ask tech-specific questions:** "How do you handle CI/CD at scale?" shows real research.
-- **Prepare failure stories:** "Migration failed, learned X, rebuilt with Y" demonstrates growth mindset.
-- **Reference their products:** "As a daily Slack user, I've noticed..." proves genuine interest.
-- [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
+- **Practice coding problems:** Use LeetCode, HackerRank, or similar platforms daily.
+- **Prepare project stories:** Be ready to explain your GitHub repos and course projects in detail.
+- **Ask smart questions:** "What does a typical day look like for interns?" or "How do you support new grads?"
+- [Review this comprehensive interview guide on common questions for students](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 ---
 
 ## 📬 **Stay Updated**
 
-- ⭐ **Star this repo** to bookmark and check daily.
-- 👀 **Watch** to get notified of new SWE jobs.
-- 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
+- ⭐ **Star this repo** to bookmark and check daily for new opportunities.
+- 👀 **Watch** to get notified when new internships and roles are posted.
+- 📱 **Bookmark on your phone** for quick access during application season.
+- 🤝 **Become a contributor** and help other students! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
 
 ---
 
@@ -439,9 +439,9 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
 **🎯 ${
     currentJobs.length
-  } current opportunities from ${totalCompanies} elite companies.**
+  } current opportunities from ${totalCompanies} top companies.**
 
-**Found this helpful? Give it a ⭐ to support us!**
+**Found this helpful? Give it a ⭐ to support fellow students!**
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
@@ -463,7 +463,7 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       stats
     );
     fs.writeFileSync("README.md", readmeContent, "utf8");
-    console.log(`✅ README.md updated with ${currentJobs.length} current jobs`);
+    console.log(`✅ README.md updated with ${currentJobs.length} current opportunities`);
 
     console.log("\n📊 Summary:");
     console.log(`- Total current: ${currentJobs.length}`);
