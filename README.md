@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 93+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 97+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,8 +23,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 93 internships & new grad roles  
-🏢 **Top Companies:** 16 elite tech companies hiring  
+🔥 **Current Opportunities:** 97 internships & new grad roles  
+🏢 **Top Companies:** 17 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 43 premium opportunities  
 📅 **Last Updated:** October 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -181,7 +181,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Verizon Consumer Sales Operations Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Sales-Operations-Summer-2026-Internship_R-1086664?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 4d |
 
-### 🚀 **Startups & Growth** (1 position)
+### 🚀 **Startups & Growth** (5 positions)
+
+#### 🛡️ **BAE Systems** (4 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 3d |
+| Systems Engineer Intern | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer-Intern_R0227961?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 3d |
+| University, Digital Transformation Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Digital-Transformation-Analyst-Intern_R0227962?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
+| Systems Administrator Intern | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0227943?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
 
 #### 📊 **Guidehouse** (1 position)
 
@@ -280,18 +289,18 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 70 | 75% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 74 | 76% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 23 | 25% | 1-2 years of experience |
+| 🔴 Early Career         | 23 | 24% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 22 opportunities
 - **Redmond, Washington**: 12 opportunities
+- **Lexington**: 6 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
-- **Lexington**: 5 opportunities
 - **shipAustin**: 4 opportunities
 - **US, CA**: 4 opportunities
 - **shipWASHINGTON**: 3 opportunities
@@ -300,7 +309,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 93+ verified internships and new grad roles from 16 top companies.
+✅ **100% Real Opportunities:** 97+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -358,10 +367,10 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 73 roles
-- **🏢 Companies**: 16 companies  
-- **⭐ FAANG+ Opportunities**: 18 positions
+- **🏢 Companies**: 17 companies  
+- **⭐ FAANG+ Opportunities**: 19 positions
 
-### ⭐ **FAANG+** (18 positions)
+### ⭐ **FAANG+** (19 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -379,8 +388,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - MSR AI Interaction and Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Security Research Group, Microsoft Research Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
-| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
+| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - Robot Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - Systems for Reliable and Scalable AI Agents | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
@@ -391,13 +400,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Software Engineer: PhD Intern Opportunities, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 
-### 🏢 **Top Tech** (19 positions)
-
-#### 💾 **Marvel Technology** (1 position)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Test Equipment Engineer Intern - Bachelors Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern---Bachelors-Degree_2502763-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 3w |
+| Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 3w |
+
+### 🏢 **Top Tech** (18 positions)
 
 <details>
 <summary><h4>🎮 <strong>NVIDIA</strong> (18 positions)</h4></summary>
@@ -516,7 +525,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 93 current opportunities from 16 top companies.**
+**🎯 97 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
