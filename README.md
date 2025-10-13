@@ -28,7 +28,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 42 premium opportunities  
 📅 **Last Updated:** October 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 77 (older than 1 week)
+📁 **Archived Opportunities:** 76 (older than 1 week)
 
 
 ---
@@ -86,8 +86,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
-| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
+| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
 | Research Intern - Precision Health Innovation Market Analyst | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
@@ -352,16 +352,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 77 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 76 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 77 roles
+- **📁 Total Positions**: 76 roles
 - **🏢 Companies**: 16 companies  
-- **⭐ FAANG+ Opportunities**: 20 positions
+- **⭐ FAANG+ Opportunities**: 19 positions
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (19 positions)
 
 #### 📦 **Amazon** (4 positions)
 
@@ -391,12 +391,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Explore Program Internship Opportunities: Second-Year Students, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Software Engineer: PhD Intern Opportunities, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 3w |
 
 ### 🏢 **Top Tech** (19 positions)
 
