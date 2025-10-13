@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 14+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 91+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 14+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 93+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 91 internships & new grad roles  
+🔥 **Current Opportunities:** 93 internships & new grad roles  
 🏢 **Top Companies:** 14 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 43 premium opportunities  
 📅 **Last Updated:** October 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 52 (older than 1 week)
+📁 **Archived Opportunities:** 50 (older than 1 week)
 
 
 ---
@@ -175,6 +175,17 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Verizon Consumer Sales Operations Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Sales-Operations-Summer-2026-Internship_R-1086664?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 4d |
 
+### 🚀 **Startups & Growth** (4 positions)
+
+#### 🛡️ **BAE Systems** (4 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 3d |
+| Systems Engineer Intern | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer-Intern_R0227961?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 3d |
+| University, Digital Transformation Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Digital-Transformation-Analyst-Intern_R0227962?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
+| Systems Administrator Intern | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0227943?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
+
 ### 💰 **Financial & Fintech** (5 positions)
 
 #### 🏦 **JPMorgan Chase** (5 positions)
@@ -187,7 +198,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Newark, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669472/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (23 positions)
+### 🏭 **Manufacturing & Industrial** (21 positions)
 
 #### 💪 **Arm** (7 positions)
 
@@ -227,13 +238,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Technical Documentation Writer Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007461/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 5d |
 
-#### 📡 **Analog Devices** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| RF Product Engineer Intern | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1d |
-| Applications Engineer Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 6d |
-
 #### 🏗️ **Honeywell** (3 positions)
 
 | Role | Location | Apply Now | Age |
@@ -266,7 +270,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 70 | 77% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 72 | 77% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 21 | 23% | 1-2 years of experience |
 
@@ -275,18 +279,18 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 22 opportunities
 - **Redmond, Washington**: 12 opportunities
+- **Lexington**: 6 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
-- **Lexington**: 5 opportunities
 - **shipAustin**: 4 opportunities
-- **US, CA**: 4 opportunities
 - **shipWASHINGTON**: 3 opportunities
+- **US, CA**: 3 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 91+ verified internships and new grad roles from 14 top companies.
+✅ **100% Real Opportunities:** 93+ verified internships and new grad roles from 14 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -338,12 +342,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 52 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 50 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 52 roles
+- **📁 Total Positions**: 50 roles
 - **🏢 Companies**: 14 companies  
 - **⭐ FAANG+ Opportunities**: 19 positions
 
@@ -427,7 +431,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (11 positions)
+### 🏭 **Manufacturing & Industrial** (9 positions)
 
 #### 🔧 **Texas Instruments** (7 positions)
 
@@ -440,13 +444,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Entry Level Facilities Technician | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007322/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Engineering Intern - MS/PhD | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007255/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Marketing Engineering Intern (SEM) - Aerospace and Defense | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007204/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 4w |
-
-#### 📡 **Analog Devices** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Design Evaluation Engineering Intern (PhD) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
-| Mechanical Engineering Co-Op | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineering-Co-Op_R256254?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 2w |
 
 #### 🏗️ **Honeywell** (2 positions)
 
@@ -466,7 +463,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 91 current opportunities from 14 top companies.**
+**🎯 93 current opportunities from 14 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
