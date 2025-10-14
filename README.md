@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 96+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 13+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 89+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 96 internships & new grad roles  
-🏢 **Top Companies:** 17 elite tech companies hiring  
+🔥 **Current Opportunities:** 89 internships & new grad roles  
+🏢 **Top Companies:** 13 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 43 premium opportunities  
 📅 **Last Updated:** October 14, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 58 (older than 1 week)
+📁 **Archived Opportunities:** 32 (older than 1 week)
 
 
 ---
@@ -167,36 +167,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
 | 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (3 positions)
+### 💻 **Enterprise Software** (1 position)
 
 #### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern | nchester, Lancashire | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Manchester-Lancashire-United-Kingdom/Intern_1195853?q=internships) | 1d |
-
-#### 💻 **Dell** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Dell Video and Media Production Undergrad Intern 🏠 | Round Rock, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Dell-Video-and-Media-Production-Undergrad-Intern_R280216-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-
-#### 📱 **Verizon** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Verizon Consumer Sales Operations Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Sales-Operations-Summer-2026-Internship_R-1086664?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 5d |
-
-### 🚀 **Startups & Growth** (4 positions)
-
-#### 🛡️ **BAE Systems** (4 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
-| Systems Engineer Intern | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer-Intern_R0227961?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
-| University, Digital Transformation Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Digital-Transformation-Analyst-Intern_R0227962?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 5d |
-| Systems Administrator Intern | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0227943?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 5d |
 
 ### 💰 **Financial & Fintech** (5 positions)
 
@@ -210,7 +187,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Newark, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669472/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (22 positions)
+### 🏭 **Manufacturing & Industrial** (21 positions)
 
 #### 💪 **Arm** (7 positions)
 
@@ -236,8 +213,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Internship - Modeling Engineer - Summer | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
-| Internship - Modeling Engineer - Spring | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
 | Internship - Process Design Kit Engineer - Summer | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
+| Internship - Modeling Engineer - Spring | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
 | Internship - Process Design Kit Engineer - Spring | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
 | Internship - Applications Engineer | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
 | Internship - ASIC RTL/Digital Design | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers) | 1d |
@@ -249,12 +226,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Technical Documentation Writer Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007461/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 6d |
-
-#### 📡 **Analog Devices** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| RF Product Engineer Intern | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1d |
 
 #### 🏗️ **Honeywell** (3 positions)
 
@@ -280,26 +251,26 @@ Connect with fellow students and new grads, get career advice, share internship 
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (5 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (6 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
+#### ☁️ **Enterprise & Cloud** (4 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 74 | 77% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 68 | 76% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 22 | 23% | 1-2 years of experience |
+| 🔴 Early Career         | 21 | 24% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 22 opportunities
 - **Redmond, Washington**: 11 opportunities
-- **Lexington**: 6 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
+- **Lexington**: 5 opportunities
 - **shipAustin**: 4 opportunities
 - **shipWASHINGTON**: 3 opportunities
 - **US, CA**: 3 opportunities
@@ -308,7 +279,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 96+ verified internships and new grad roles from 17 top companies.
+✅ **100% Real Opportunities:** 89+ verified internships and new grad roles from 13 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -360,16 +331,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 58 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 32 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 58 roles
-- **🏢 Companies**: 17 companies  
-- **⭐ FAANG+ Opportunities**: 19 positions
+- **📁 Total Positions**: 32 roles
+- **🏢 Companies**: 13 companies  
+- **⭐ FAANG+ Opportunities**: 20 positions
 
-### ⭐ **FAANG+** (19 positions)
+### ⭐ **FAANG+** (20 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -403,57 +374,19 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏢 **Top Tech** (1 position)
-
-#### 💾 **Marvel Technology** (1 position)
+#### 🍎 **Apple** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Test Equipment Engineer Intern - Bachelors Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern---Bachelors-Degree_2502763-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 3w |
+| Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 3w |
 
-### 💻 **Enterprise Software** (24 positions)
+### 💻 **Enterprise Software** (1 position)
 
 #### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern | Leixlip, Kildare | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Leixlip-Kildare-Ireland/Intern_1195515-1?q=internships) | 1w |
-
-#### 💻 **Dell** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| MBA Product Management Internship 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/MBA-Product-Management-Internship_R277517-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4w |
-| Global Operations Undergrad Intern 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Global-Operations-Undergrad-Intern_R275493-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Undergraduate Product Management Intern 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Undergraduate-Product-Management-Intern_R277516-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
-
-<details>
-<summary><h4>📱 <strong>Verizon</strong> (20 positions)</h4></summary>
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Responsible Business Strategic Alliances Summer 2026 Internship | Washington, District of Columbia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/Responsible-Business-Strategic-Alliances-Summer-2026-Internship_R-1086220?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 1w |
-| Rutgers University-Verizon Business Market Sales Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University-Verizon-Business-Market-Sales-Summer-2026-Internship_R-1086317?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 1w |
-| Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Morgan-State-University-Consumer-Sales-Ops---Partner-Channel-Summer-2026-Internship_R-1086277?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 1w |
-| Verizon Business Market Sales Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Business-Market-Sales-Summer-2026-Internship_R-1086186?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Full Stack Software Development Summer 2026 Internship | Irving, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Full-Stack-Software-Development-Summer-2026-Internship_R-1086181?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Network Performance Summer 2026 Internship | Irving, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Network-Performance-Summer-2026-Internship_R-1086176?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Security Engineering Summer 2026 Internship | Southlake, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Southlake-Texas/Security-Engineering-Summer-2026-Internship_R-1086113?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Technical Product Management Summer 2026 Internship | Plano, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Plano-Texas/Technical-Product-Management-Summer-2026-Internship_R-1086171?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Cloud Solutions Summer 2026 Internship | Irving, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Cloud-Solutions-Summer-2026-Internship_R-1086077?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Consumer Sales Ops & Partner Channel Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Consumer-Sales-Ops---Partner-Channel-Summer-2026-Internship_R-1086120?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Public Policy Summer 2026 Internship | Washington, District of Columbia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/Public-Policy-Summer-2026-Internship_R-1086014?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Verizon Legal Internship - Summer 2026 - Basking Ridge, NJ | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Legal-Summer-2026-Internship---Basking-Ridge--NJ_R-1085669?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Verizon Legal Internship - Summer 2026 - Irving, TX | Irving, Texas | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Verizon-Legal-Internship---Summer-2026---Irving--TX_R-1085797?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Verizon Legal Summer 2026 Internship - San Francisco, CA | San Francisco, California | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/San-Francisco-California/Verizon-Legal-Summer-2026-Internship---San-Francisco--CA_R-1085799?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Verizon Legal Summer 2026 Internship - Rolling Meadows, IL | Rolling Meadows, Illinois | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Rolling-Meadows-Illinois/Verizon-Legal-Summer-2026-Internship---Rolling-Meadows--IL_R-1085798?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Verizon Legal Summer 2026 Internship - Washington, D.C. | Washington, District of Columbia | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/Verizon-Legal-Summer-2026-Internship---Washington--DC_R-1085796?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 2w |
-| Wireless Network Field Operations Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Wireless-Network-Field-Operations-Summer-2026-Internship_R-1085488?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 3w |
-| Rutgers University Tax Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University--Tax-Internship-Program_R-1085094?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 3w |
-| Rutgers University Human Resources Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Rutgers-University-Human-Resources-Summer-2026-Internship_R-1085249?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 4w |
-| Verizon Human Resources Summer 2026 Internship | sking Ridge, New Jersey | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Human-Resources-Summer-2026-Internship_R-1085018?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=1d175767e01d1000aed59084e5bd0000) | 4w |
-
-</details>
 
 ### 🚀 **Startups & Growth** (2 positions)
 
@@ -464,7 +397,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Intern - Actuarial Consulting, State Health - Campus | US GA, Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Actuarial-Consulting--State-Health---Campus-2026_33030?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Junior AI Specialist | US VA, Springfield | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Junior-AI-Specialist_32388?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (12 positions)
+### 🏭 **Manufacturing & Industrial** (9 positions)
 
 #### 🔧 **Texas Instruments** (7 positions)
 
@@ -477,14 +410,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Entry Level Facilities Technician | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007322/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Engineering Intern - MS/PhD | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007255/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Marketing Engineering Intern (SEM) - Aerospace and Defense | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007204/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 4w |
-
-#### 📡 **Analog Devices** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Applications Engineer Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
-| Design Evaluation Engineering Intern (PhD) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
-| Mechanical Engineering Co-Op | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineering-Co-Op_R256254?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 3w |
 
 #### 🏗️ **Honeywell** (2 positions)
 
@@ -504,7 +429,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 96 current opportunities from 17 top companies.**
+**🎯 89 current opportunities from 13 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
