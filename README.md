@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 96+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 97+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 96 internships & new grad roles  
-🏢 **Top Companies:** 16 elite tech companies hiring  
+🔥 **Current Opportunities:** 97 internships & new grad roles  
+🏢 **Top Companies:** 17 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 14, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 54 (older than 1 week)
+📁 **Archived Opportunities:** 77 (older than 1 week)
 
 
 ---
@@ -211,7 +211,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Newark, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669472/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (21 positions)
+### 🏭 **Manufacturing & Industrial** (22 positions)
 
 #### 💪 **Arm** (7 positions)
 
@@ -251,6 +251,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Technical Documentation Writer Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007461/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 6d |
 
+#### 📡 **Analog Devices** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| RF Product Engineer Intern | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1d |
+
 #### 🏗️ **Honeywell** (3 positions)
 
 | Role | Location | Apply Now | Age |
@@ -283,7 +289,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 73 | 76% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 74 | 76% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 23 | 24% | 1-2 years of experience |
 
@@ -303,7 +309,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 96+ verified internships and new grad roles from 16 top companies.
+✅ **100% Real Opportunities:** 97+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -355,13 +361,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 54 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 77 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 54 roles
-- **🏢 Companies**: 16 companies  
+- **📁 Total Positions**: 77 roles
+- **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Opportunities**: 20 positions
 
 ### ⭐ **FAANG+** (20 positions)
@@ -404,13 +410,39 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 3w |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (19 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Test Equipment Engineer Intern - Bachelors Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern---Bachelors-Degree_2502763-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 3w |
+
+<details>
+<summary><h4>🎮 <strong>NVIDIA</strong> (18 positions)</h4></summary>
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| NVIDIA 2026 Internships: Autonomous Vehicles and Robotics - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Deep Learning - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Mixed Signal Design and Digital Circuit Design - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Software Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Verification - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Generative AI Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Deep Learning Computer Architecture - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware ASIC Design - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Graphics and Simulation Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Computer Vision and Deep Learning Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Computer Architecture - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Physical Design / VLSI - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Systems Software Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Ignite Internships: Business Operations | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Business-Operations_JR2005167?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| NVIDIA 2026 Ignite Internships: Hardware Engineering | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| NVIDIA 2026 Ignite Internships: Software Engineering | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Software-Engineering_JR2005168?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| Graphic Design Intern - Summer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphic-Design-Intern---Summer-2026_JR2004830?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 2w |
+
+</details>
 
 ### 💻 **Enterprise Software** (24 positions)
 
@@ -456,7 +488,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (9 positions)
+### 🚀 **Startups & Growth** (2 positions)
+
+#### 📊 **Guidehouse** (2 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern - Actuarial Consulting, State Health - Campus | US GA, Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Actuarial-Consulting--State-Health---Campus-2026_33030?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Junior AI Specialist | US VA, Springfield | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Junior-AI-Specialist_32388?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+
+### 🏭 **Manufacturing & Industrial** (12 positions)
 
 #### 🔧 **Texas Instruments** (7 positions)
 
@@ -469,6 +510,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Entry Level Facilities Technician | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007322/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Engineering Intern - MS/PhD | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007255/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 | Systems Marketing Engineering Intern (SEM) - Aerospace and Defense | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007204/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 4w |
+
+#### 📡 **Analog Devices** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Applications Engineer Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
+| Design Evaluation Engineering Intern (PhD) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
+| Mechanical Engineering Co-Op | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineering-Co-Op_R256254?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 3w |
 
 #### 🏗️ **Honeywell** (2 positions)
 
@@ -488,7 +537,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 96 current opportunities from 16 top companies.**
+**🎯 97 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
