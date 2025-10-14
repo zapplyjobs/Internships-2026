@@ -82,15 +82,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Intern - Audio and Acoustics | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - Brain-Computer Interfaces | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
+| Research Intern - Audio and Acoustics | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - Gray Systems Lab (GSL) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
-| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
+| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
