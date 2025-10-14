@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 15+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 94+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 96+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 94 internships & new grad roles  
-🏢 **Top Companies:** 15 elite tech companies hiring  
+🔥 **Current Opportunities:** 96 internships & new grad roles  
+🏢 **Top Companies:** 17 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 14, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 53 (older than 1 week)
+📁 **Archived Opportunities:** 75 (older than 1 week)
 
 
 ---
@@ -168,7 +168,19 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 | Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (1 position)
+### 💻 **Enterprise Software** (3 positions)
+
+#### 🖥️ **Hewlett Packard Enterprise** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern | nchester, Lancashire | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Manchester-Lancashire-United-Kingdom/Intern_1195853?q=internships) | 1d |
+
+#### 💻 **Dell** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Dell Video and Media Production Undergrad Intern 🏠 | Round Rock, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Dell-Video-and-Media-Production-Undergrad-Intern_R280216-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 
 #### 📱 **Verizon** (1 position)
 
@@ -268,17 +280,17 @@ Connect with fellow students and new grads, get career advice, share internship 
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (4 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (4 companies)
-📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
+#### ☁️ **Enterprise & Cloud** (6 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 73 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 74 | 77% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 21 | 22% | 1-2 years of experience |
+| 🔴 Early Career         | 22 | 23% | 1-2 years of experience |
 
 ---
 
@@ -296,7 +308,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 94+ verified internships and new grad roles from 15 top companies.
+✅ **100% Real Opportunities:** 96+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -348,13 +360,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 53 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 75 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 53 roles
-- **🏢 Companies**: 15 companies  
+- **📁 Total Positions**: 75 roles
+- **🏢 Companies**: 17 companies  
 - **⭐ FAANG+ Opportunities**: 19 positions
 
 ### ⭐ **FAANG+** (19 positions)
@@ -391,7 +403,49 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 💻 **Enterprise Software** (20 positions)
+### 🏢 **Top Tech** (18 positions)
+
+<details>
+<summary><h4>🎮 <strong>NVIDIA</strong> (18 positions)</h4></summary>
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| NVIDIA 2026 Internships: Autonomous Vehicles and Robotics - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Deep Learning - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Mixed Signal Design and Digital Circuit Design - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Mixed-Signal-Design-and-Digital-Circuit-Design_JR2003199?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Software Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Verification - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Verification-_JR2003197?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Engineering-_JR2003200?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Generative AI Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Deep Learning Computer Architecture - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware ASIC Design - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-ASIC-Design-_JR2003195?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Graphics and Simulation Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: PhD Computer Vision and Deep Learning Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Computer Architecture - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Hardware Physical Design / VLSI - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Internships: Systems Software Engineering - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
+| NVIDIA 2026 Ignite Internships: Business Operations | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Business-Operations_JR2005167?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| NVIDIA 2026 Ignite Internships: Hardware Engineering | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| NVIDIA 2026 Ignite Internships: Software Engineering | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Software-Engineering_JR2005168?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
+| Graphic Design Intern - Summer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphic-Design-Intern---Summer-2026_JR2004830?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 2w |
+
+</details>
+
+### 💻 **Enterprise Software** (24 positions)
+
+#### 🖥️ **Hewlett Packard Enterprise** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern | Leixlip, Kildare | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Leixlip-Kildare-Ireland/Intern_1195515-1?q=internships) | 1w |
+
+#### 💻 **Dell** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| MBA Product Management Internship 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/MBA-Product-Management-Internship_R277517-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 4w |
+| Global Operations Undergrad Intern 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Global-Operations-Undergrad-Intern_R275493-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
+| Undergraduate Product Management Intern 🏠 | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Undergraduate-Product-Management-Intern_R277516-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 
 <details>
 <summary><h4>📱 <strong>Verizon</strong> (20 positions)</h4></summary>
@@ -470,7 +524,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 94 current opportunities from 15 top companies.**
+**🎯 96 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
