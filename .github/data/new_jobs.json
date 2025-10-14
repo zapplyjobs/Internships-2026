@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Intern, Applications Engineering",
+    "job_city": "Hsinchu",
+    "job_state": "Taiwan",
+    "job_posted_at": "1d",
+    "job_description": "• If you need an adjustment or an accommodation during the recruitment process, please email accommodations@arm.\n• Within that framework, we empower groups and teams to determine their own particular hybrid working pattern, depending on the work and the team’s needs.\n• Are currently enrolled and studying towards an Electrical or Computer Engineering Degree (Bachelors, Masters or PhD students welcome).\n• Candidates with alternative degrees will also be considered if they have computer architecture and embedded programming experience.\n• You will develop your software skills further through crafting and debugging example code and utility scripts on real-world issues that Arm partners face when developing and optimizing software for Arm platforms.\n• Arm Internships require you to be enrolled in a higher education degree and be returning to your course after your internship/placement.\n• Solid experience in embedded software development, including hands-on work with hardware/software interfaces.\n• At Arm, we want to build extraordinary teams.",
+    "job_apply_link": "https://careers.arm.com/job/hsinchu/intern-applications-engineering/33099/87241561616",
+    "id": "arm-intern-applications-engineering-hsinchu"
+  }
+]
