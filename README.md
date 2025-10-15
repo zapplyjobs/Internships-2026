@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 87+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 89+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 87 internships & new grad roles  
+🔥 **Current Opportunities:** 89 internships & new grad roles  
 🏢 **Top Companies:** 17 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 15, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 74 (older than 1 week)
+📁 **Archived Opportunities:** 73 (older than 1 week)
 
 
 ---
@@ -132,7 +132,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏢 **Top Tech** (18 positions)
+### 🏢 **Top Tech** (20 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -146,13 +146,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | NVIDIA 2026 Internships: Hardware Physical Design / VLSI - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1d |
 
-#### 🔶 **AMD** (3 positions)
+#### 🔶 **AMD** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Summer 2026 Undergrad Finance Intern 🏠 | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 1d |
 | 2026 Masters Technical Writer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 1d |
 | 2026 Undergraduate Technical Writer Co-op/Intern | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 1d |
+| 2026 PhD Thermal Mechanical Engineer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 1d |
+| Spring/Summer 2026 PhD Agent Task Planning for Resource-Constrained Client Devices Co-op 🏠 | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70208/login) | 1d |
 
 #### ☁️ **Salesforce** (3 positions)
 
@@ -272,16 +274,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 
 #### ☁️ **Enterprise & Cloud** (8 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (3) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 66 | 76% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 67 | 75% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 21 | 24% | 1-2 years of experience |
+| 🔴 Early Career         | 22 | 25% | 1-2 years of experience |
 
 ---
 
@@ -291,15 +293,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
 - **shipAustin**: 4 opportunities
+- **US, CA**: 4 opportunities
 - **Seattle, WA**: 3 opportunities
 - **shipTUCSON**: 2 opportunities
-- **shipNew York**: 2 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 87+ verified internships and new grad roles from 17 top companies.
+✅ **100% Real Opportunities:** 89+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -351,16 +353,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 74 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 73 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 74 roles
+- **📁 Total Positions**: 73 roles
 - **🏢 Companies**: 17 companies  
-- **⭐ FAANG+ Opportunities**: 20 positions
+- **⭐ FAANG+ Opportunities**: 19 positions
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (19 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -393,12 +395,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Engineer: PhD Intern Opportunities, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 
 </details>
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 3w |
 
 ### 🏢 **Top Tech** (18 positions)
 
@@ -524,7 +520,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 87 current opportunities from 17 top companies.**
+**🎯 89 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
