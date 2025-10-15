@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 98+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 99+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 98 internships & new grad roles  
+🔥 **Current Opportunities:** 99 internships & new grad roles  
 🏢 **Top Companies:** 18 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 45 premium opportunities  
 📅 **Last Updated:** October 15, 2025  
@@ -181,12 +181,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
 | 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 
-### 💻 **Enterprise Software** (3 positions)
+### 💻 **Enterprise Software** (4 positions)
 
-#### 🖥️ **Hewlett Packard Enterprise** (1 position)
+#### 🖥️ **Hewlett Packard Enterprise** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| External Intern | ngalore, Karnataka | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Bangalore-Karnataka-India/External-Intern_1195357-3?q=internships) | 1d |
 | Intern | nchester, Lancashire | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Manchester-Lancashire-United-Kingdom/Intern_1195853?q=internships) | 1d |
 
 #### 💻 **Dell** (1 position)
@@ -288,14 +289,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 
 #### ☁️ **Enterprise & Cloud** (8 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (2 positions) • 💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (11)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 76 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 77 | 78% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 22 | 22% | 1-2 years of experience |
 
@@ -315,7 +316,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 98+ verified internships and new grad roles from 18 top companies.
+✅ **100% Real Opportunities:** 99+ verified internships and new grad roles from 18 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -539,7 +540,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 98 current opportunities from 18 top companies.**
+**🎯 99 current opportunities from 18 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
