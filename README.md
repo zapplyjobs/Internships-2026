@@ -241,8 +241,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern - Metrology Process Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 1d |
 | Intern - Process Development | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 1d |
+| Intern - Metrology Process Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 1d |
 
 #### 📡 **Analog Devices** (1 position)
 
