@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 13+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 81+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 13+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 79+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,9 +23,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 81 internships & new grad roles  
+🔥 **Current Opportunities:** 79 internships & new grad roles  
 🏢 **Top Companies:** 13 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 46 premium opportunities  
+⭐ **FAANG+ Positions:** 47 premium opportunities  
 📅 **Last Updated:** October 16, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Opportunities:** 54 (older than 1 week)
@@ -68,17 +68,18 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (46 positions)
+### ⭐ **FAANG+** (47 positions)
 
-#### 📦 **Amazon** (5 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
 | 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 2d |
+| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
+| 2026 MBA Leadership Development Program (MLDP) - Sr. Vendor Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3110756/2026-mba-leadership-development-program-mldp-sr-vendor-manager-intern) | 21h |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 1d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 1d |
-| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 1d |
+| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108700/2026-tax-intern-summer) | 2d |
 
 #### 🟦 **Microsoft** (12 positions)
 
@@ -134,7 +135,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏢 **Top Tech** (17 positions)
+### 🏢 **Top Tech** (15 positions)
+
+#### 💾 **Marvel Technology** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Foundry Procurement Intern - Bachelor's Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Foundry-Procurement-Intern---Bachelor-s-Degree_2502276-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 2d |
 
 #### 🔶 **AMD** (5 positions)
 
@@ -145,14 +152,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Undergraduate Technical Writer Co-op/Intern | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 1d |
 | 2026 PhD Thermal Mechanical Engineer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 1d |
 | Spring/Summer 2026 PhD Agent Task Planning for Resource-Constrained Client Devices Co-op 🏠 | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70208/login) | 1d |
-
-#### ☁️ **Salesforce** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313088/summer-2026-intern-business-value-strategic-selling-consultant-financial-services/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
 
 #### 🔵 **IBM** (9 positions)
 
@@ -168,14 +167,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
 | 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 
-### 🚀 **Startups & Growth** (3 positions)
+### 💻 **Enterprise Software** (1 position)
 
-#### 🛡️ **BAE Systems** (2 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 1d |
-| Systems Engineer Intern | Lexington | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Systems-Engineer-Intern_R0227961?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 6d |
+| Intern | nchester, Lancashire | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Manchester-Lancashire-United-Kingdom/Intern_1195853?q=internships) | 2d |
+
+### 🚀 **Startups & Growth** (1 position)
 
 #### 📊 **Guidehouse** (1 position)
 
@@ -236,24 +236,24 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (12) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (12) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
 
 
 #### 💰 **Fintech Leaders** (1 company)
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (4 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (3 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5 positions) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+#### ☁️ **Enterprise & Cloud** (4 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 60 | 74% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 61 | 77% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 21 | 26% | 1-2 years of experience |
+| 🔴 Early Career         | 18 | 23% | 1-2 years of experience |
 
 ---
 
@@ -262,7 +262,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Redmond, Washington**: 11 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
-- **Seattle, WA**: 5 opportunities
+- **Seattle, WA**: 6 opportunities
 - **shipAustin**: 4 opportunities
 - **US, CA**: 3 opportunities
 - **shipTUCSON**: 2 opportunities
@@ -271,7 +271,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 81+ verified internships and new grad roles from 13 top companies.
+✅ **100% Real Opportunities:** 79+ verified internships and new grad roles from 13 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -372,7 +372,21 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 4w |
 
-### 💻 **Enterprise Software** (18 positions)
+### 🏢 **Top Tech** (1 position)
+
+#### 💾 **Marvel Technology** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Test Equipment Engineer Intern - Bachelors Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Test-Equipment-Engineer-Intern---Bachelors-Degree_2502763-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 4w |
+
+### 💻 **Enterprise Software** (19 positions)
+
+#### 🖥️ **Hewlett Packard Enterprise** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Intern | Leixlip, Kildare | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/WFMathpe/job/Leixlip-Kildare-Ireland/Intern_1195515-1?q=internships) | 2w |
 
 <details>
 <summary><h4>📱 <strong>Verizon</strong> (18 positions)</h4></summary>
@@ -400,14 +414,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🚀 **Startups & Growth** (4 positions)
-
-#### 🛡️ **BAE Systems** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| University, Digital Transformation Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Digital-Transformation-Analyst-Intern_R0227962?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 1w |
-| Systems Administrator Intern | Annapolis Junction, MD | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0227943?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 1w |
+### 🚀 **Startups & Growth** (2 positions)
 
 #### 📊 **Guidehouse** (2 positions)
 
@@ -451,7 +458,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 81 current opportunities from 13 top companies.**
+**🎯 79 current opportunities from 13 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
