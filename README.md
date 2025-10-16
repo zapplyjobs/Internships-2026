@@ -74,8 +74,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
 | 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 2d |
+| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
 | 2026 MBA Leadership Development Program (MLDP) - Sr. Vendor Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3110756/2026-mba-leadership-development-program-mldp-sr-vendor-manager-intern) | 22h |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 1d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 1d |
@@ -91,8 +91,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
-| Research Intern - Biomedical AI for Precision Health | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
+| Research Intern - Biomedical AI for Precision Health | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Precision Health Innovation Market Analyst | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
@@ -380,8 +380,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - MSR AI Interaction and Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - Security Research Group, Microsoft Research Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
-| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
+| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 | Research Intern - Robot Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 | Research Intern - Systems for Reliable and Scalable AI Agents | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
