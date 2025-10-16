@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 85+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 79+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 85 internships & new grad roles  
+🔥 **Current Opportunities:** 79 internships & new grad roles  
 🏢 **Top Companies:** 17 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 46 premium opportunities  
 📅 **Last Updated:** October 16, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 79 (older than 1 week)
+📁 **Archived Opportunities:** 78 (older than 1 week)
 
 
 ---
@@ -74,11 +74,11 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
 | 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 2d |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 1d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 1d |
-| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 1d |
+| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 6d |
+| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108700/2026-tax-intern-summer) | 2d |
 
 #### 🟦 **Microsoft** (12 positions)
 
@@ -134,7 +134,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 🏢 **Top Tech** (19 positions)
+### 🏢 **Top Tech** (13 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -166,19 +166,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
 
-#### 🔵 **IBM** (9 positions)
+#### 🔵 **IBM** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Designer: User Research Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60302&source=WEB_Search_NA) | 1d |
 | Back-End Developer Co-op | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=63092&source=WEB_Search_NA) | 1d |
 | 2026 Intern – Visual Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61730&source=WEB_Search_NA) | 1d |
-| Associate X-Force Cyber Range Consultant Intern | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Search_NA) | 1d |
-| Associate X-Force Incident Response Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57938&source=WEB_Search_NA) | 1d |
-| Federal Developer Intern: | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57318&source=WEB_Search_NA) | 1d |
-| 2026 Senior Data Scientist Intern - Corporate Development (M&A) | shipNew York | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64453&source=WEB_Search_NA) | 1d |
-| Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
-| 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -251,7 +245,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 19h |
+| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 20h |
 
 
 
@@ -270,16 +264,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 
 #### ☁️ **Enterprise & Cloud** (6 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (3)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 63 | 74% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 59 | 75% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 22 | 26% | 1-2 years of experience |
+| 🔴 Early Career         | 20 | 25% | 1-2 years of experience |
 
 ---
 
@@ -289,15 +283,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
 - **Seattle, WA**: 5 opportunities
-- **shipAustin**: 4 opportunities
 - **US, CA**: 4 opportunities
-- **shipTUCSON**: 2 opportunities
+- **shipAustin**: 2 opportunities
+- **New York New York**: 2 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 85+ verified internships and new grad roles from 17 top companies.
+✅ **100% Real Opportunities:** 79+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -349,16 +343,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 79 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 78 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 79 roles
+- **📁 Total Positions**: 78 roles
 - **🏢 Companies**: 17 companies  
-- **⭐ FAANG+ Opportunities**: 20 positions
+- **⭐ FAANG+ Opportunities**: 19 positions
 
-### ⭐ **FAANG+** (20 positions)
+### ⭐ **FAANG+** (19 positions)
 
 #### 📦 **Amazon** (2 positions)
 
@@ -391,12 +385,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Engineer: PhD Intern Opportunities, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 
 </details>
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR) | 4w |
 
 ### 🏢 **Top Tech** (18 positions)
 
@@ -532,7 +520,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 85 current opportunities from 17 top companies.**
+**🎯 79 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
