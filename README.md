@@ -25,7 +25,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 🔥 **Current Opportunities:** 86 internships & new grad roles  
 🏢 **Top Companies:** 15 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 46 premium opportunities  
+⭐ **FAANG+ Positions:** 47 premium opportunities  
 📅 **Last Updated:** October 16, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Opportunities:** 80 (older than 1 week)
@@ -68,7 +68,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (46 positions)
+### ⭐ **FAANG+** (47 positions)
 
 #### 📦 **Amazon** (6 positions)
 
@@ -79,7 +79,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 2d |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 1d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 1d |
-| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108700/2026-tax-intern-summer) | 2d |
+| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 1d |
 
 #### 🟦 **Microsoft** (12 positions)
 
@@ -91,15 +91,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
-| Research Intern - Biomedical AI for Precision Health | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
+| Research Intern - Biomedical AI for Precision Health | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1d |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 6d |
 | Research Intern - Precision Health Innovation Market Analyst | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 5d |
 | Applied Science: Internship Opportunities – Mountain View | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
 
 <details>
-<summary><h4>🟢 <strong>Google</strong> (28 positions)</h4></summary>
+<summary><h4>🟢 <strong>Google</strong> (29 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -116,13 +116,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Sales Development Representative Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/93131127920698054-sales-development-representative-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | Business Intelligence Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/109894625795154630-business-intelligence-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | MBA Intern, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/121416951455982278-mba-intern-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
+| Customer Engineer Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/112121227035714246-customer-engineer-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | User Experience Engineer Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/126044533367415494-user-experience-engineer-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | Hardware Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | People Analytics Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/101116405742478022-people-analytics-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | Hardware Engineering Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/85023749010531014-hardware-engineering-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | User Experience Research Intern, MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/83211820956820166-user-experience-research-intern-ms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | User Experience Engineer Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/138221487206081222-user-experience-engineer-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| User Experience Design Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/80346631093789382-user-experience-design-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
+| User Experience Design Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/80346631093789382-user-experience-design-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
 | User Experience Research Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/93408691792814790-user-experience-research-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
 | Security Consultant Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/120043261464060614-security-consultant-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
 | Security Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
@@ -163,8 +164,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313088/summer-2026-intern-business-value-strategic-selling-consultant-financial-services/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
+| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
 
 #### 🔵 **IBM** (10 positions)
 
@@ -210,9 +211,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (12 positions)
+### 🏭 **Manufacturing & Industrial** (11 positions)
 
-#### 💪 **Arm** (8 positions)
+#### 💪 **Arm** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -223,7 +224,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Intern Systems Architecture Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-systems-architecture-engineer/33099/86632227360) | 1d |
 | Intern, Physical IP Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-physical-ip-engineer/33099/86442548576) | 1d |
 | Intern AI/ML Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152) | 1d |
-| Intern, Systems Engineering - Compute AI Hardware Platforms | San Jose, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160) | 1d |
 
 #### 💾 **Micron Technology** (2 positions)
 
@@ -253,7 +253,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (28 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (12) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (12) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -278,8 +278,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Mountain View, CA**: 22 opportunities
 - **Redmond, Washington**: 11 opportunities
 - **Austin, Texas**: 6 opportunities
+- **Reston, VA**: 6 opportunities
 - **Seattle, WA**: 6 opportunities
-- **Reston, VA**: 5 opportunities
 - **shipAustin**: 4 opportunities
 - **US, CA**: 4 opportunities
 - **shipTUCSON**: 2 opportunities
