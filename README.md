@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 15+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 84+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 92+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,8 +23,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 84 internships & new grad roles  
-🏢 **Top Companies:** 15 elite tech companies hiring  
+🔥 **Current Opportunities:** 92 internships & new grad roles  
+🏢 **Top Companies:** 16 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 46 premium opportunities  
 📅 **Last Updated:** October 16, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -209,7 +209,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (11 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
 #### 💪 **Arm** (7 positions)
 
@@ -229,6 +229,19 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Intern - Process Development | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 1d |
 | Intern - Metrology Process Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 1d |
+
+#### ⚡ **ABB** (8 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| 2026 Engineering Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
+| Supply Chain Management Internship | Location Evergem, East Flanders | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95466013/Supply-Chain-Management-Internship) | 1h |
+| Intern Procurement | Location Schaffhausen, Schaffhausen | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007040/Intern-Procurement) | 1h |
+| Internship Procurement | Location Schaffhausen, Schaffhausen | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00004084/Internship-Procurement) | 1h |
+| Internship Admin | Location Sant Quirze del Valles, Barcelona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012600/Internship-Admin) | 1h |
+| Internship (m/f/d) - 3D scene reconstruction and reverse engineering | Location Mannheim, Baden-Wurttemberg | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008596/Internship-m-f-d-3D-scene-reconstruction-and-reverse-engineering) | 1h |
+| R&D Test Engineer Internship | Location Vittuone, Milano | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96052229/R-D-Test-Engineer-Internship) | 1h |
+| Automation Service Engineer - Internship | Location Genova, Genova | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009568/Automation-Service-Engineer-Internship) | 1h |
 
 #### 🔧 **Texas Instruments** (1 position)
 
@@ -266,9 +279,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 65 | 77% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 73 | 79% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 19 | 23% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 21% | 1-2 years of experience |
 
 ---
 
@@ -286,7 +299,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 84+ verified internships and new grad roles from 15 top companies.
+✅ **100% Real Opportunities:** 92+ verified internships and new grad roles from 16 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -344,7 +357,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 79 roles
-- **🏢 Companies**: 15 companies  
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Opportunities**: 20 positions
 
 ### ⭐ **FAANG+** (20 positions)
@@ -521,7 +534,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 84 current opportunities from 15 top companies.**
+**🎯 92 current opportunities from 16 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
