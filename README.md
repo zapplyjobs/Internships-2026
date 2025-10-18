@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 76+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 82+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 76 internships & new grad roles  
-🏢 **Top Companies:** 17 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 39 premium opportunities  
+🔥 **Current Opportunities:** 82 internships & new grad roles  
+🏢 **Top Companies:** 16 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 38 premium opportunities  
 📅 **Last Updated:** October 18, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 69 (older than 1 week)
+📁 **Archived Opportunities:** 65 (older than 1 week)
 
 
 ---
@@ -68,7 +68,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (39 positions)
+### ⭐ **FAANG+** (38 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -126,25 +126,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 1d |
-
-### 🏢 **Top Tech** (20 positions)
+### 🏢 **Top Tech** (19 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Foundry Procurement Intern - Bachelor's Degree | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Foundry-Procurement-Intern---Bachelor-s-Degree_2502276-1?q=internships&Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=65dea26481d001e09dfbab4927173419) | 4d |
-
-#### 🎮 **NVIDIA** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| NVIDIA 2026 Internships: Hardware Physical Design / VLSI - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Hardware-Physical-Design---VLSI_JR2003198?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 4d |
 
 #### 🔶 **AMD** (5 positions)
 
@@ -205,7 +193,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (12 positions)
+### 🏭 **Manufacturing & Industrial** (20 positions)
 
 #### 💪 **Arm** (7 positions)
 
@@ -225,6 +213,19 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Intern - Process Development | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 1d |
 | Intern - Metrology Process Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 1d |
+
+#### ⚡ **ABB** (8 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| 2026 Engineering Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
+| Supply Chain Management Internship | Location Evergem, East Flanders | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/95466013/Supply-Chain-Management-Internship) | 1h |
+| Intern Procurement | Location Schaffhausen, Schaffhausen | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007040/Intern-Procurement) | 1h |
+| Internship Procurement | Location Schaffhausen, Schaffhausen | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00004084/Internship-Procurement) | 1h |
+| Internship Admin | Location Sant Quirze del Valles, Barcelona | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012600/Internship-Admin) | 1h |
+| Internship (m/f/d) - 3D scene reconstruction and reverse engineering | Location Mannheim, Baden-Wurttemberg | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008596/Internship-m-f-d-3D-scene-reconstruction-and-reverse-engineering) | 1h |
+| R&D Test Engineer Internship | Location Vittuone, Milano | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96052229/R-D-Test-Engineer-Internship) | 1h |
+| Automation Service Engineer - Internship | Location Genova, Genova | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009568/Automation-Service-Engineer-Internship) | 1h |
 
 #### 🔧 **Texas Instruments** (1 position)
 
@@ -252,25 +253,25 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏢 **Top Hiring Companies**
 
-#### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (1 company)
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (3 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (6 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+#### ☁️ **Enterprise & Cloud** (5 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 56 | 74% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 63 | 77% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 20 | 26% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 23% | 1-2 years of experience |
 
 ---
 
@@ -280,7 +281,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Reston, VA**: 6 opportunities
 - **shipAustin**: 5 opportunities
 - **Seattle, WA**: 5 opportunities
-- **US, CA**: 4 opportunities
+- **US, CA**: 3 opportunities
 - **Redmond, Washington**: 3 opportunities
 - **shipWASHINGTON**: 2 opportunities
 
@@ -288,7 +289,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 76+ verified internships and new grad roles from 17 top companies.
+✅ **100% Real Opportunities:** 82+ verified internships and new grad roles from 16 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -340,13 +341,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 69 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 65 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 69 roles
-- **🏢 Companies**: 17 companies  
+- **📁 Total Positions**: 65 roles
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Opportunities**: 28 positions
 
 ### ⭐ **FAANG+** (28 positions)
@@ -365,12 +366,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Research Intern - Gray Systems Lab (GSL) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
-| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
+| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
-| Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
+| Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
@@ -391,17 +392,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Engineer: PhD Intern Opportunities, Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4w |
 
 </details>
-
-### 🏢 **Top Tech** (4 positions)
-
-#### 🎮 **NVIDIA** (4 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| NVIDIA 2026 Internships: PhD Graphics and Simulation Research - US | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
-| NVIDIA 2026 Ignite Internships: Business Operations | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Business-Operations_JR2005167?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
-| NVIDIA 2026 Ignite Internships: Hardware Engineering | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2026-Ignite-Internships--Hardware-Engineering_JR2005170?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 1w |
-| Graphic Design Intern - Summer | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Graphic-Design-Intern---Summer-2026_JR2004830?q=internships&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17) | 3w |
 
 ### 💻 **Enterprise Software** (18 positions)
 
@@ -500,7 +490,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 76 current opportunities from 17 top companies.**
+**🎯 82 current opportunities from 16 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
