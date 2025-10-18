@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 12+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 73+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 12+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 69+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 73 internships & new grad roles  
+🔥 **Current Opportunities:** 69 internships & new grad roles  
 🏢 **Top Companies:** 12 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 41 premium opportunities  
 📅 **Last Updated:** October 18, 2025  
@@ -134,7 +134,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 1d |
 | IS&T Early Career Engineering Program Manager Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | 7h |
 
-### 🏢 **Top Tech** (18 positions)
+### 🏢 **Top Tech** (14 positions)
 
 #### 🔶 **AMD** (5 positions)
 
@@ -154,7 +154,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
 
-#### 🔵 **IBM** (10 positions)
+#### 🔵 **IBM** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -164,10 +164,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Associate X-Force Incident Response Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57938&source=WEB_Search_NA) | 1d |
 | Federal Developer Intern: | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57318&source=WEB_Search_NA) | 1d |
 | Corporate Strategy Summer Consultant – 2026 Internship | shipNew York | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57337&source=WEB_Search_NA) | 1d |
-| Site Reliability Engineering Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66497&source=WEB_Search_NA) | 1d |
-| 2026 Senior Data Scientist Intern - Corporate Development (M&A) | shipNew York | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64453&source=WEB_Search_NA) | 1d |
-| Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
-| 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
 
 ### 💰 **Financial & Fintech** (3 positions)
 
@@ -229,16 +225,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5 positions) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5 positions) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (6)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 53 | 73% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 50 | 72% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 20 | 27% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 28% | 1-2 years of experience |
 
 ---
 
@@ -247,7 +243,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
 - **Seattle, WA**: 6 opportunities
-- **shipAustin**: 5 opportunities
+- **shipAustin**: 3 opportunities
 - **US, CA**: 3 opportunities
 - **Redmond, Washington**: 3 opportunities
 - **shipWASHINGTON**: 2 opportunities
@@ -256,7 +252,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 73+ verified internships and new grad roles from 12 top companies.
+✅ **100% Real Opportunities:** 69+ verified internships and new grad roles from 12 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -394,7 +390,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 73 current opportunities from 12 top companies.**
+**🎯 69 current opportunities from 12 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
