@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 76+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with 78+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,9 +23,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 76 internships & new grad roles  
+🔥 **Current Opportunities:** 78 internships & new grad roles  
 🏢 **Top Companies:** 17 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 39 premium opportunities  
+⭐ **FAANG+ Positions:** 41 premium opportunities  
 📅 **Last Updated:** October 18, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Opportunities:** 54 (older than 1 week)
@@ -68,9 +68,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (39 positions)
+### ⭐ **FAANG+** (41 positions)
 
-#### 📦 **Amazon** (5 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -79,13 +79,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 MBA Leadership Development Program (MLDP) - Sr. Vendor Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3110756/2026-mba-leadership-development-program-mldp-sr-vendor-manager-intern) | 2d |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 3d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 3d |
+| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 3d |
 
 #### 🟦 **Microsoft** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Intern - Audio and Acoustics | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
 | Research Intern - Brain-Computer Interfaces | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
+| Research Intern - Audio and Acoustics | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3d |
 | Research Intern - Biomedical AI for Precision Health | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2d |
 | Applied Science: Internship Opportunities – Mountain View | Mountain View, California | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 4d |
 
@@ -126,11 +127,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-#### 🍎 **Apple** (1 position)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 1d |
+| IS&T Early Career Engineering Program Manager Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | 5h |
 
 ### 🏢 **Top Tech** (20 positions)
 
@@ -161,8 +163,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313088/summer-2026-intern-business-value-strategic-selling-consultant-financial-services/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
+| Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
 
 #### 🔵 **IBM** (10 positions)
 
@@ -253,7 +255,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
 
 
 #### 💰 **Fintech Leaders** (1 company)
@@ -268,9 +270,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 56 | 74% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 57 | 73% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 20 | 26% | 1-2 years of experience |
+| 🔴 Early Career         | 21 | 27% | 1-2 years of experience |
 
 ---
 
@@ -278,8 +280,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 - **Mountain View, CA**: 22 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
+- **Seattle, WA**: 6 opportunities
 - **shipAustin**: 5 opportunities
-- **Seattle, WA**: 5 opportunities
 - **US, CA**: 4 opportunities
 - **Redmond, Washington**: 3 opportunities
 - **shipWASHINGTON**: 2 opportunities
@@ -288,7 +290,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 76+ verified internships and new grad roles from 17 top companies.
+✅ **100% Real Opportunities:** 78+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
 
@@ -356,8 +358,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Annapurna Labs at AWS Internships (US) - Silicon & AI Systems Innovation | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3094824/2026-annapurna-labs-at-aws-internships-us-silicon-ai-systems-innovation) | 3w |
-| Industrial Design Engineer Summer Internship – 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3083039/industrial-design-engineer-summer-internship-2026-us) | 2w |
 | 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1w |
+| Industrial Design Engineer Summer Internship – 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3083039/industrial-design-engineer-summer-internship-2026-us) | 2w |
 
 <details>
 <summary><h4>🟦 <strong>Microsoft</strong> (25 positions)</h4></summary>
@@ -369,8 +371,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
-| Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
+| Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
@@ -379,8 +381,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - MSR AI Interaction and Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - Security Research Group, Microsoft Research Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
-| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
+| Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
 | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 | Research Intern - Robot Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
 | Research Intern - Systems for Reliable and Scalable AI Agents | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 3w |
@@ -477,7 +479,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 76 current opportunities from 17 top companies.**
+**🎯 78 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
