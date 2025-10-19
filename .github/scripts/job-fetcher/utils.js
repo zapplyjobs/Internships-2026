@@ -836,6 +836,7 @@ function formatLocation(city, state) {
   return null; // Return null instead of a string so it can be filtered
 }
 
+
 // Fetch internship data from popular sources
 async function fetchInternshipData() {
   console.log("🎓 Fetching 2025/2026 internship opportunities...");
