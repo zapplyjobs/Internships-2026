@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 69+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 68+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 69 internships & new grad roles  
+🔥 **Current Opportunities:** 68 internships & new grad roles  
 🏢 **Top Companies:** 16 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 40 premium opportunities  
+⭐ **FAANG+ Positions:** 38 premium opportunities  
 📅 **Last Updated:** October 19, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 68 (older than 1 week)
+📁 **Archived Opportunities:** 74 (older than 1 week)
 
 
 ---
@@ -68,7 +68,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (40 positions)
+### ⭐ **FAANG+** (38 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -126,13 +126,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-#### 🍎 **Apple** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 2d |
-| IS&T Early Career Engineering Program Manager Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | 1d |
-
 ### 🏢 **Top Tech** (10 positions)
 
 #### 💾 **Marvel Technology** (1 position)
@@ -181,7 +174,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
 
-### 🏭 **Manufacturing & Industrial** (17 positions)
+### 🏭 **Manufacturing & Industrial** (18 positions)
 
 #### ⚗️ **Applied Materials** (5 positions)
 
@@ -218,6 +211,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Electrification Marketing & Sales Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
 
+#### 🔧 **Texas Instruments** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Utah: (MS/PhD) Manufacturing Product Development Engineer Intern | Lehi, UT | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007587/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 4d |
+
 #### 📡 **Analog Devices** (1 position)
 
 | Role | Location | Apply Now | Age |
@@ -238,8 +237,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏢 **Top Hiring Companies**
 
-#### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -254,9 +253,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 55 | 80% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 53 | 78% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 14 | 20% | 1-2 years of experience |
+| 🔴 Early Career         | 15 | 22% | 1-2 years of experience |
 
 ---
 
@@ -274,7 +273,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 69+ verified internships and new grad roles from 16 top companies.
+✅ **100% Real Opportunities:** 68+ verified internships and new grad roles from 16 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -326,12 +325,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 68 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 74 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 68 roles
+- **📁 Total Positions**: 74 roles
 - **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Opportunities**: 27 positions
 
@@ -351,12 +350,12 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Research Intern - Gray Systems Lab (GSL) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892617/Research-Intern---Gray-Systems-Lab-(GSL)) | 1w |
-| Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894505/Research-Intern---AI-Agents-%26-Reasoning) | 1w |
 | Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893707/Research-Intern---Azure-Research-%E2%80%93-Systems) | 1w |
+| Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894505/Research-Intern---AI-Agents-%26-Reasoning) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894531/Research-Intern---Cloud-Reliability-%26-Efficiency) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894793/Research-Intern---Computer-Vision-Algorithms) | 1w |
-| Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 1w |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
+| Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 1w |
 | Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1891873/Research-Intern---Medical-Image-Reconstruction) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894843/Research-Intern---Artificial-Intelligence) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1887569/Research-Intern---Machine-Learning-at-MSR-NYC) | 2w |
@@ -454,7 +453,7 @@ No companies available
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 2w |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (10 positions)
+### 🏭 **Manufacturing & Industrial** (16 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -462,6 +461,17 @@ No companies available
 |------|----------|-----------|-----|
 | Finance MBA Summer 2026 Intern (MBA - Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312368706?domain=appliedmaterials.com&triggerGoButton=false) | 2w |
 | Finance MBA Intern (Austin, TX) | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790311993689?domain=appliedmaterials.com&triggerGoButton=false) | 2w |
+
+#### 🔧 **Texas Instruments** (6 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Technical Documentation Writer Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007461/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 1w |
+| Communications and Brand Marketing Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007070/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 2w |
+| Web Marketing Intern - Product Portfolio Marketing | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007264/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
+| Civil, Structural, Architectural Internship | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007332/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
+| Facilities Electrical Engineering Intern | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007333/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
+| Entry Level Facilities Technician | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007322/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
 
 #### 📡 **Analog Devices** (3 positions)
 
@@ -492,7 +502,7 @@ No companies available
 
 <div align="center">
 
-**🎯 69 current opportunities from 16 top companies.**
+**🎯 68 current opportunities from 16 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
