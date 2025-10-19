@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 66+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 0+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 0+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 66 internships & new grad roles  
-🏢 **Top Companies:** 11 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 36 premium opportunities  
+🔥 **Current Opportunities:** 0 internships & new grad roles  
+🏢 **Top Companies:** 0 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 0 premium opportunities  
 📅 **Last Updated:** October 19, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 14 (older than 1 week)
+📁 **Archived Opportunities:** 0 (older than 1 week)
 
 
 ---
@@ -68,139 +68,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (36 positions)
-
-#### 📦 **Amazon** (6 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 5d |
-| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3108700/2026-tax-intern-summer) | 5d |
-| 2026 MBA Leadership Development Program (MLDP) - Sr. Vendor Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3110756/2026-mba-leadership-development-program-mldp-sr-vendor-manager-intern) | 3d |
-| 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 4d |
-| 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 4d |
-| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 4d |
-
-<details>
-<summary><h4>🟢 <strong>Google</strong> (29 positions)</h4></summary>
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Business Undergraduate Intern, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/90758089770181318-business-undergraduate-intern-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Technical Program Manager Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/97848244867867334-technical-program-manager-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Technical Program Manager Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/72548751285068486-technical-program-manager-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Software Engineering Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/118106937735684806-software-engineering-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Software Engineering Intern, BS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/75808725415142086-software-engineering-intern-bs-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Software Engineering Intern, MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Program Manager Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/106878802839118534-program-manager-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Product Design Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/141518372821967558-product-design-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Software Engineering Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/104981114489053894-software-engineering-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Research Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/100216277234000582-research-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Sales Development Representative Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/93131127920698054-sales-development-representative-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Business Intelligence Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/109894625795154630-business-intelligence-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| MBA Intern, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/121416951455982278-mba-intern-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Customer Engineer Intern, Google Public Sector, Summer | Reston, VA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/112121227035714246-customer-engineer-intern-google-public-sector-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| User Experience Engineer Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/126044533367415494-user-experience-engineer-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Hardware Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/137564393180144326-hardware-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| People Analytics Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/101116405742478022-people-analytics-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| Hardware Engineering Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/85023749010531014-hardware-engineering-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| User Experience Research Intern, MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/83211820956820166-user-experience-research-intern-ms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| User Experience Engineer Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/138221487206081222-user-experience-engineer-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
-| User Experience Design Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/80346631093789382-user-experience-design-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| User Experience Research Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/93408691792814790-user-experience-research-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Security Consultant Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/120043261464060614-security-consultant-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Security Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/107132933369668294-security-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Silicon Engineering Intern, BS/MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/125635860249879238-silicon-engineering-intern-bsms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Silicon Engineering Intern, PhD, Summer | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/119346653739000518-silicon-engineering-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Business Data Scientist Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/93371308397470406-business-data-scientist-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Data Scientist, Research Intern, PhD, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/116696760385970886-data-scientist-research-intern-phd-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-| Data Scientist, Product Intern, MS, Summer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results//jobs/results/89208145057850054-data-scientist-product-intern-ms-summer-2026?location=United%20States&target_level=INTERN_AND_APPRENTICE&q=internships&page=2) | 1h |
-
-</details>
-
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 2d |
-
-### 🏢 **Top Tech** (17 positions)
-
-#### 🔶 **AMD** (5 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Summer 2026 Undergrad Finance Intern 🏠 | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 1d |
-| 2026 Masters Technical Writer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 1d |
-| 2026 Undergraduate Technical Writer Co-op/Intern | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 1d |
-| 2026 PhD Thermal Mechanical Engineer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 1d |
-| Spring/Summer 2026 PhD Agent Task Planning for Resource-Constrained Client Devices Co-op 🏠 | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70208/login) | 1d |
-
-#### ☁️ **Salesforce** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313088/summer-2026-intern-business-value-strategic-selling-consultant-financial-services/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
-| Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
-
-#### 🔵 **IBM** (9 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Designer: User Research Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60302&source=WEB_Search_NA) | 1d |
-| 2026 Intern – Visual Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61730&source=WEB_Search_NA) | 1d |
-| Associate X-Force Cyber Range Consultant Intern | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57116&source=WEB_Search_NA) | 1d |
-| Associate X-Force Incident Response Intern | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57938&source=WEB_Search_NA) | 1d |
-| Corporate Strategy Summer Consultant – 2026 Internship | shipNew York | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57337&source=WEB_Search_NA) | 1d |
-| Federal Developer Intern: | shipWASHINGTON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57318&source=WEB_Search_NA) | 1d |
-| 2026 Senior Data Scientist Intern - Corporate Development (M&A) | shipNew York | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64453&source=WEB_Search_NA) | 1d |
-| Back End Developer Intern | shipTUCSON | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58792&source=WEB_Search_NA) | 1d |
-| 2026 Intern – Motion Designer | shipAustin | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=61729&source=WEB_Search_NA) | 1d |
-
-### 💰 **Financial & Fintech** (3 positions)
-
-#### 🏦 **JPMorgan Chase** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Applied AI/ML Associate Program - Internship | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674425/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
-| 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
-| 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1d |
-
-### 🏭 **Manufacturing & Industrial** (10 positions)
-
-#### 💪 **Arm** (6 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Intern Linux Distributions Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-linux-distributions-engineer/33099/86419689760) | 1d |
-| Intern Technical Writer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-technical-writer/33099/87019647104) | 1d |
-| Intern GPU Hardware Architecture Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-gpu-hardware-architecture-engineer/33099/85831486400) | 1d |
-| Intern Systems Architecture Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-systems-architecture-engineer/33099/86632227360) | 1d |
-| Intern, Physical IP Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-physical-ip-engineer/33099/86442548576) | 1d |
-| Intern AI/ML Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-ai-ml-engineer/33099/86634179152) | 1d |
-
-#### 💾 **Micron Technology** (2 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Intern - Process Development | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 1d |
-| Intern - Metrology Process Development Engineer | Boise, Idaho | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 1d |
-
-#### 🔧 **Texas Instruments** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Utah: (MS/PhD) Manufacturing Product Development Engineer Intern | Lehi, UT | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007587/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 4d |
-
-#### 🏗️ **Honeywell** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
-
-
+| Company | Role | Location | Apply Now | Age |
+|---------|------|----------|-----------|-----|
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* |
 
 
 ---
@@ -208,43 +78,36 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏢 **Top Hiring Companies**
 
-#### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
+#### ⭐ **FAANG+** (0 companies)
+No companies available
 
 
-#### 💰 **Fintech Leaders** (1 company)
-🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (3 positions)
+#### 💰 **Fintech Leaders** (0 companies)
+No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (3 companies)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5 positions) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (9)
+#### ☁️ **Enterprise & Cloud** (0 companies)
+No companies available
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 47 | 71% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 19 | 29% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 0 | NaN% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 0 | NaN% | 0-1 years of experience |
+| 🔴 Early Career         | 0 | NaN% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Mountain View, CA**: 22 opportunities
-- **Austin, Texas**: 6 opportunities
-- **Reston, VA**: 6 opportunities
-- **Seattle, WA**: 6 opportunities
-- **shipAustin**: 4 opportunities
-- **US, CA**: 3 opportunities
-- **shipWASHINGTON**: 2 opportunities
-- **shipNew York**: 2 opportunities
+
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 66+ verified internships and new grad roles from 11 top companies.
+✅ **100% Real Opportunities:** 0+ verified internships and new grad roles from 0 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -293,63 +156,11 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 
----
-
-<details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 14 (7+ days old) - Click to Expand</h2></summary>
-
-> Some positions may still be accepting applications or useful for planning.
-
-### **Archived Opportunity Stats**
-- **📁 Total Positions**: 14 roles
-- **🏢 Companies**: 11 companies  
-- **⭐ FAANG+ Opportunities**: 3 positions
-
-### ⭐ **FAANG+** (3 positions)
-
-#### 📦 **Amazon** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Annapurna Labs at AWS Internships (US) - Silicon & AI Systems Innovation | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3094824/2026-annapurna-labs-at-aws-internships-us-silicon-ai-systems-innovation) | 3w |
-| 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1w |
-| Industrial Design Engineer Summer Internship – 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3083039/industrial-design-engineer-summer-internship-2026-us) | 2w |
-
-### 🏭 **Manufacturing & Industrial** (11 positions)
-
-#### 🔧 **Texas Instruments** (6 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Technical Documentation Writer Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007461/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 1w |
-| Communications and Brand Marketing Development Program | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007070/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 2w |
-| Web Marketing Intern - Product Portfolio Marketing | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007264/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
-| Civil, Structural, Architectural Internship | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007332/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
-| Facilities Electrical Engineering Intern | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007333/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
-| Entry Level Facilities Technician | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007322/?location=United+States&locationId=300000000361862&locationLevel=country&mode=location&selectedFlexFieldsFacets=%2522AttributeChar8%257CInterns) | 3w |
-
-#### 🏗️ **Honeywell** (5 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Mechanical Engineering - Summer 2026 PhD Intern (US Person Required) | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122797/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| URDP Intern (Bachelor's) - HSE | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120130/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
-| Intern Master's Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113539/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Intern Bachelors Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122106/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
-| Intern Masters Physics | Plymouth, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121632/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
-
-
-
-</details>
-
----
-
-
 
 
 <div align="center">
 
-**🎯 66 current opportunities from 11 top companies.**
+**🎯 0 current opportunities from 0 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
