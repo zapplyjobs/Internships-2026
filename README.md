@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 162+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 163+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 162 internships & new grad roles  
+🔥 **Current Opportunities:** 163 internships & new grad roles  
 🏢 **Top Companies:** 18 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 41 premium opportunities  
 📅 **Last Updated:** October 19, 2025  
@@ -266,7 +266,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
 
-### 🏭 **Manufacturing & Industrial** (29 positions)
+### 🏭 **Manufacturing & Industrial** (30 positions)
 
 #### ⚗️ **Applied Materials** (4 positions)
 
@@ -309,11 +309,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Electrification Marketing & Sales Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
 
-#### 🔌 **Infineon Technologies** (1 position)
+#### 🔌 **Infineon Technologies** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Internship - Applications Engineer | Austin + 2 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/careers/job/563808961003940?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
+| Internship - Information Technology Engineer | Lexington + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/careers/job/563808956250519?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
 
 #### 🔧 **Texas Instruments** (3 positions)
 
@@ -361,7 +362,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 131 | 81% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 132 | 81% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 31 | 19% | 1-2 years of experience |
 
@@ -381,7 +382,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 162+ verified internships and new grad roles from 18 top companies.
+✅ **100% Real Opportunities:** 163+ verified internships and new grad roles from 18 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -458,8 +459,8 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Research Intern - Gray Systems Lab (GSL) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892617/Research-Intern---Gray-Systems-Lab-(GSL)) | 1w |
-| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893707/Research-Intern---Azure-Research-%E2%80%93-Systems) | 1w |
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894505/Research-Intern---AI-Agents-%26-Reasoning) | 1w |
+| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893707/Research-Intern---Azure-Research-%E2%80%93-Systems) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894531/Research-Intern---Cloud-Reliability-%26-Efficiency) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894793/Research-Intern---Computer-Vision-Algorithms) | 1w |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 1w |
@@ -609,7 +610,7 @@ No companies available
 
 <div align="center">
 
-**🎯 162 current opportunities from 18 top companies.**
+**🎯 163 current opportunities from 18 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
