@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - Information Technology Engineer",
+    "job_city": "Lexington + 1 more",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• Experience in front end technology such as HTML, CSS, JavaScript/Typescript, and React frameworks Pursuing a bachelor's or master's degree in Computer Science or Computer Information Systems Technical Skills: experience writing SQL queries against a relational database Experience in an object-oriented programming languages (preferably Java) Experience with modern debugging and root cause analysis techniques Experience in Development on MVC framework along with RESTAPI’s Experience in source control systems like Subversion and Git.\n• Experience in Relational and NoSQL database technology Internship – Mixed Signal IC Verification EngineerDallas TX (United States) + 1 moreHRC1350405On-site Internship for Information Technology (IT) Students (Resume Databank)Melaka (Malaysia)101478.",
+    "job_apply_link": "https://jobs.infineon.com/careers/careers/job/563808956250519?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
+    "id": "infineon-technologies-internship-information-technology-engineer-lexington-1-more"
+  },
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship - ASIC RTL/Digital Design",
+    "job_city": "San Jose + 1 more",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• EEducation: Actively pursuing a BS/MS in Electrical Engineering, Computer Engineering, Applied Physics, or relevant majorCoursework: Completed relevant coursework in digital design, semiconductor devices, power electronics, and programmingCertifications: Python programming or digital signal processing certifications are a plusEquipment Proficiency: Familiarity with bench equipment like oscilloscopes, multimeters, and function generatorsTechnical Skills: Experience with digital design and troubleshooting buck converter evaluation boardsSoftware Skills: Proficiency in Python and familiarity with Microsoft Office toolsInternship Duration: Looking for a 6-month to 1-year internship.",
+    "job_apply_link": "https://jobs.infineon.com/careers/careers/job/563808958550431?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
+    "id": "infineon-technologies-internship-asic-rtl-digital-design-san-jose-1-more"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "2026 Spring Mechanical Engineer Co-op - Bachelors (Rochester, NY)",
+    "job_city": "Rochester",
+    "job_state": "NY",
+    "job_posted_at": "1d",
+    "job_description": "internships job for the role 2026 Spring Mechanical Engineer Co-op - Bachelors (Rochester, NY)",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312489199?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-2026-spring-mechanical-engineer-co-op-bachelors-rochester-ny-rochester"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "2026 Summer EHS/Product Safety Engineer Intern (Bachelors -- Multiple Locations)",
+    "job_city": "Gloucester",
+    "job_state": "+ 1 more",
+    "job_posted_at": "4d",
+    "job_description": "internships job for the role 2026 Summer EHS/Product Safety Engineer Intern (Bachelors -- Multiple Locations)",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312499210?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-2026-summer-ehs-product-safety-engineer-intern-bachelors-multiple-locations-gloucester"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Manufacturing Engineering Intern (Austin)",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_posted_at": "1d",
+    "job_description": "internships job for the role Manufacturing Engineering Intern (Austin)",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304744608?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-manufacturing-engineering-intern-austin-austin"
+  },
+  {
+    "employer_name": "Applied Materials",
+    "job_title": "Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)",
+    "job_city": "Santa Clara",
+    "job_state": "CA",
+    "job_posted_at": "1d",
+    "job_description": "internships job for the role Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)",
+    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790304873357?domain=appliedmaterials.com&triggerGoButton=false",
+    "id": "applied-materials-summer-2026-supply-chain-intern-bachelor-s-santa-clara-ca-santa-clara"
+  }
+]
