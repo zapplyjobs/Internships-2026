@@ -30,6 +30,12 @@ function parseLocation(locationText) {
 
   // Comprehensive job-related keywords to remove - ENHANCED
   const nonLocationKeywords = [
+    // === NEW/MODIFIED KEYWORDS FOR IBM DATA ===
+    'ship', // Likely the prefix 'ship' or 'ship{City}'
+    'apply', 'see in ibm',
+    '1d', '2d', '3d', // Common relative dates appearing in location field
+    // ==========================================
+    
     // Job levels - most problematic ones
     'entry level', 'entry-level', 'entrylevel',
     'senior', 'junior', 
@@ -81,8 +87,21 @@ function parseLocation(locationText) {
     'vacancy', 'vacancies'
   ];
 
-  // STEP 1: Initial normalization
+  // STEP 1: Initial normalization and aggressive cleaning for known prefixes
   let cleanLocation = locationText.trim();
+
+  // === AGGRESSIVE PRE-PROCESSING STEP (NEW) ===
+  // 1. Remove the 'ship' prefix immediately, regardless of case.
+  cleanLocation = cleanLocation.replace(/^ship/i, '').trim();
+
+  // 2. Remove trailing application/date data specific to the IBM format.
+  cleanLocation = cleanLocation
+    .replace(/\s*apply\s*(?:\d+[hdwmo])?$/i, '') // Removes 'Apply' and optional date like '1d'
+    .replace(/\s*see in ibm\s*$/i, '') // Removes 'see in ibm'
+    .replace(/\s*1d\s*$/i, '') // Specific removal of '1d' if it remains
+    .trim();
+  // ==============================================
+
 
   // STEP 2: Check for remote FIRST (special handling before cleaning)
   const lowerLocation = cleanLocation.toLowerCase();
