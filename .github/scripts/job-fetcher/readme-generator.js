@@ -256,7 +256,7 @@ async function generateReadme(
 
   return `# 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 24 hours with ${
+**🚀 Real-time internships and new grad roles from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${
     currentJobs.length
   }+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
@@ -265,7 +265,7 @@ async function generateReadme(
 **🛠 Help us grow! Add new opportunities by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
-## **Join Community**
+## **Join Our Community**
 
 Connect with fellow students and new grads, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
 
@@ -386,7 +386,7 @@ ${
     currentJobs.length
   }+ verified internships and new grad roles from ${totalCompanies} top companies.
 
-✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 24 hours automatically.
+✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
 ✅ **Student-Focused:** Smart filtering for CS students, bootcamp grads, and recent graduates.
 
