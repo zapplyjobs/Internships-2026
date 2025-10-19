@@ -453,6 +453,12 @@ function isUSOnlyJob(job) {
     const cleanCity = city.replace(/[,\s]+/g, ' ').trim();
     const cleanState = state.replace(/[,\s]+/g, ' ').trim();
     
+    // Helper function to check word boundaries
+    function containsWord(text, word) {
+        const regex = new RegExp(`\\b${word}\\b`, 'i');
+        return regex.test(text);
+    }
+    
     // Expanded list of non-US countries (including variations)
     const nonUSCountries = [
         'estonia', 'canada', 'uk', 'united kingdom', 'great britain', 'britain',
@@ -463,11 +469,11 @@ function isUSOnlyJob(job) {
         'russia', 'china', 'ukraine', 'serbia', 'romania', 'bulgaria', 'hungary',
         'portugal', 'greece', 'turkey', 'croatia', 'slovakia', 'slovenia', 'lithuania',
         'latvia', 'luxembourg', 'malta', 'cyprus', 'iceland', 'new zealand', 'thailand',
-        'vietnam', 'philippines', 'indonesia', 'malaysia', 'Colombia', 'hong kong','Uae'
+        'vietnam', 'philippines', 'indonesia', 'malaysia', 'colombia', 'hong kong', 'uae'
     ];
     
     // Check if state field contains non-US countries (this is the main filter since country appears in state)
-    if (nonUSCountries.some(nonUSCountry => cleanState.includes(nonUSCountry))) {
+    if (nonUSCountries.some(nonUSCountry => containsWord(cleanState, nonUSCountry))) {
         return false;
     }
     
@@ -499,11 +505,11 @@ function isUSOnlyJob(job) {
         'moscow', 'st petersburg', 'novosibirsk', 'yekaterinburg',
         'beijing', 'shanghai', 'guangzhou', 'shenzhen', 'chengdu',
         'kyiv', 'kiev', 'kharkiv', 'odesa', 'dnipro',
-        'belgrade', 'novi sad', 'nis', 'Bogota', 'medellin', 'cali', 'brazil', 'sao paulo', 'rio de janeiro',
+        'belgrade', 'novi sad', 'nis', 'bogota', 'medellin', 'cali', 'brazil', 'sao paulo', 'rio de janeiro',
     ];
     
     // Check if city contains any non-US cities
-    if (nonUSCities.some(nonUSCity => cleanCity.includes(nonUSCity))) {
+    if (nonUSCities.some(nonUSCity => containsWord(cleanCity, nonUSCity))) {
         return false;
     }
     
@@ -517,9 +523,15 @@ function isUSOnlyJob(job) {
     }
     
     // US country indicators in state field (since country info appears in state)
+    // Using word boundaries to avoid matching "us" in words like "austin"
     const usCountryIndicators = [
-        'us', 'usa', 'united states', 'united states of america', 'america'
+        'usa', 'united states', 'united states of america', 'america'
     ];
+    
+    // Check for explicit "US" as a standalone word (like "Austin, US")
+    if (containsWord(cleanState, 'us') || containsWord(cleanCity, 'us')) {
+        return true;
+    }
     
     // If state contains US indicators
     if (usCountryIndicators.some(indicator => cleanState.includes(indicator))) {
@@ -544,8 +556,15 @@ function isUSOnlyJob(job) {
         'wisconsin', 'wyoming', 'district of columbia'
     ];
     
-    // Check if state matches US states
-    if (usStates.some(usState => cleanState === usState || cleanState.includes(usState))) {
+    // Check if state matches US states using word boundaries
+    if (usStates.some(usState => {
+        // For two-letter codes, use strict word boundary
+        if (usState.length === 2) {
+            return containsWord(cleanState, usState);
+        }
+        // For full names, can use includes since they're unique
+        return cleanState.includes(usState);
+    })) {
         return true;
     }
     
@@ -566,21 +585,21 @@ function isUSOnlyJob(job) {
         'laredo', 'norfolk', 'durham', 'madison', 'lubbock', 'irvine', 'winston salem',
         'glendale', 'garland', 'hialeah', 'reno', 'chesapeake', 'gilbert', 'baton rouge',
         'irving', 'scottsdale', 'north las vegas', 'fremont', 'boise', 'richmond',
-        'san bernardino', 'birmingham', 'spokane', 'rochester', 'des moines', 'modesto',
-        'fayetteville', 'tacoma', 'oxnard', 'fontana', 'columbus', 'montgomery',
-        'moreno valley', 'shreveport', 'aurora', 'yonkers', 'akron', 'huntington beach',
-        'little rock', 'augusta', 'amarillo', 'glendale', 'mobile', 'grand rapids',
+        'san bernardino', 'spokane', 'rochester', 'des moines', 'modesto',
+        'fayetteville', 'tacoma', 'oxnard', 'fontana', 'montgomery',
+        'moreno valley', 'shreveport', 'yonkers', 'akron', 'huntington beach',
+        'little rock', 'augusta', 'amarillo', 'mobile', 'grand rapids',
         'salt lake city', 'tallahassee', 'huntsville', 'grand prairie', 'knoxville',
         'worcester', 'newport news', 'brownsville', 'santa clarita', 'providence',
         'fort lauderdale', 'chattanooga', 'oceanside', 'jackson', 'garden grove',
-        'rancho cucamonga', 'port st lucie', 'tempe', 'ontario', 'vancouver',
+        'rancho cucamonga', 'port st lucie', 'tempe', 'ontario',
         'cape coral', 'sioux falls', 'springfield', 'peoria', 'pembroke pines',
         'elk grove', 'salem', 'lancaster', 'corona', 'eugene', 'palmdale', 'salinas',
-        'springfield', 'pasadena', 'fort collins', 'hayward', 'pomona', 'cary',
-        'rockford', 'alexandria', 'escondido', 'mckinney', 'kansas city', 'joliet',
+        'pasadena', 'fort collins', 'hayward', 'pomona', 'cary',
+        'rockford', 'alexandria', 'escondido', 'mckinney', 'joliet',
         'sunnyvale', 'torrance', 'bridgeport', 'lakewood', 'hollywood', 'paterson',
         'naperville', 'syracuse', 'mesquite', 'dayton', 'savannah', 'clarksville',
-        'orange', 'pasadena', 'fullerton', 'killeen', 'frisco', 'hampton',
+        'orange', 'fullerton', 'killeen', 'frisco', 'hampton',
         'mcallen', 'warren', 'bellevue', 'west valley city', 'columbia', 'olathe',
         'sterling heights', 'new haven', 'miramar', 'waco', 'thousand oaks',
         'cedar rapids', 'charleston', 'visalia', 'topeka', 'elizabeth', 'gainesville',
@@ -589,13 +608,22 @@ function isUSOnlyJob(job) {
         'victorville', 'evansville', 'santa clara', 'abilene', 'athens', 'vallejo',
         'allentown', 'norman', 'beaumont', 'independence', 'murfreesboro', 'ann arbor',
         'fargo', 'wilmington', 'golden valley', 'pearland', 'richardson', 'broken arrow',
-        'richmond', 'college station', 'league city', 'sugar land', 'lakeland',
-        'duluth', 'woodbridge', 'charleston'
+        'college station', 'league city', 'sugar land', 'lakeland',
+        'duluth', 'woodbridge'
     ];
     
-    // Check if city matches major US cities
-    if (majorUSCities.some(usCity => cleanCity.includes(usCity))) {
+    // Check if city matches major US cities using word boundaries
+    if (majorUSCities.some(usCity => containsWord(cleanCity, usCity))) {
         return true;
+    }
+    
+    // Handle "Multiple Cities" - assume US unless specified otherwise
+    if (cleanCity.includes('multiple') || cleanState.includes('multiple')) {
+        // Only exclude if explicitly mentions a non-US country
+        if (nonUSCountries.some(country => cleanCity.includes(country) || cleanState.includes(country))) {
+            return false;
+        }
+        return true; // Default to US for "Multiple Cities"
     }
     
     // Handle remote jobs - assume US remote unless specified otherwise
@@ -617,7 +645,7 @@ function isUSOnlyJob(job) {
         return false;
     }
     
-    // Default to exclude if we can't determine (changed from include to be more selective)
+    // Default to exclude if we can't determine
     return false;
 }
 
@@ -744,12 +772,17 @@ function formatLocation(city, state) {
   let normalizedCity = city ? city.trim() : '';
   let normalizedState = state ? state.trim() : '';
 
-  // STEP 1: Handle remote
+  // Handle remote - add emoji
   if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
     return 'Remote 🏠';
   }
 
-  // STEP 2: Filter out generic/invalid state values
+  // Handle Multiple Cities
+  if (normalizedCity.toLowerCase() === 'multiple cities') {
+    return 'Multiple Cities 🌎';
+  }
+
+  // Filter out invalid state values
   const invalidStates = [
     'us', 'usa', 'u.s.', 'u.s.a', 'united states',
     'multiple locations', 'various locations', 'nationwide',
@@ -757,53 +790,19 @@ function formatLocation(city, state) {
   ];
   
   if (invalidStates.includes(normalizedState.toLowerCase())) {
-    normalizedState = ''; // Clear invalid state
+    normalizedState = '';
   }
 
-  // STEP 3: Clean city - remove job-level keywords if they got through
-  const cityCleanupKeywords = [
-    'internship', 'intern', 'entry level', 'entrylevel', 'entry',
-    'senior', 'junior', 'multiple cities', 'various'
-  ];
-  
-  cityCleanupKeywords.forEach(keyword => {
-    const regex = new RegExp(`^${keyword}\\s*`, 'gi');
-    normalizedCity = normalizedCity.replace(regex, '').trim();
-  });
-
-  // STEP 4: If city contains "United States", remove it
-  normalizedCity = normalizedCity
-    .replace(/,?\s*United States$/i, '')
-    .replace(/,?\s*USA$/i, '')
-    .replace(/,?\s*U\.S\.A?$/i, '')
-    .trim();
-
-  // STEP 5: Handle state containing "United States"
-  if (normalizedState.toLowerCase().includes('united states')) {
-    // If state is "United States" or contains it, clear it unless there's specific info
-    if (normalizedState.toLowerCase() === 'united states') {
-      normalizedState = '';
-    } else {
-      // Extract actual state if format is like "California, United States"
-      normalizedState = normalizedState
-        .replace(/,?\s*United States$/i, '')
-        .replace(/,?\s*USA$/i, '')
-        .trim();
-    }
-  }
-
-  // STEP 6: Handle patterns like "California - San Francisco"
-  // This means state came first, so swap them
+  // Handle patterns like "California - San Francisco" (state came first)
   if (normalizedCity.includes(' - ')) {
     const parts = normalizedCity.split(' - ').map(p => p.trim());
     if (parts.length === 2) {
-      // First part is likely state, second is city
       normalizedState = normalizedState || parts[0];
       normalizedCity = parts[1];
     }
   }
 
-  // STEP 7: Final validation - filter out if city or state are too short or invalid
+  // Final validation - filter out if too short
   if (normalizedCity && normalizedCity.length < 2) {
     normalizedCity = '';
   }
@@ -811,30 +810,29 @@ function formatLocation(city, state) {
     normalizedState = '';
   }
 
-  // STEP 8: Check if city is actually just numbers or special characters
+  // Check if city is just numbers or special characters
   if (normalizedCity && /^[\d\s,\-._]+$/.test(normalizedCity)) {
     normalizedCity = '';
   }
 
-  // STEP 9: Return formatted location based on what we have
-  // Both city and state
+  // Return formatted location based on what we have
   if (normalizedCity && normalizedState) {
     return `${normalizedCity}, ${normalizedState}`;
   }
   
-  // Only state
   if (!normalizedCity && normalizedState) {
     return normalizedState;
   }
   
-  // Only city
   if (normalizedCity && !normalizedState) {
     return normalizedCity;
   }
 
-  // Neither (should be filtered out in stats)
-  return null; // Return null instead of a string so it can be filtered
+  // Neither - return null to be filtered out
+  return null;
 }
+
+
 
 
 // Fetch internship data from popular sources
