@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 161+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 17+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 163+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 161 internships & new grad roles  
-🏢 **Top Companies:** 16 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 40 premium opportunities  
+🔥 **Current Opportunities:** 163 internships & new grad roles  
+🏢 **Top Companies:** 17 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 41 premium opportunities  
 📅 **Last Updated:** October 19, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 72 (older than 1 week)
+📁 **Archived Opportunities:** 78 (older than 1 week)
 
 
 ---
@@ -68,9 +68,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (40 positions)
+### ⭐ **FAANG+** (41 positions)
 
-#### 📦 **Amazon** (5 positions)
+#### 📦 **Amazon** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -79,6 +79,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 MBA Leadership Development Program (MLDP) - Sr. Vendor Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3110756/2026-mba-leadership-development-program-mldp-sr-vendor-manager-intern) | 3d |
 | 2026 MBA Program Management (PGM) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109822/2026-mba-program-management-pgm-internship) | 4d |
 | 2026 Amazon Leadership Accelerator (ALA) Product Manager Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109663/2026-amazon-leadership-accelerator-ala-product-manager-internship) | 4d |
+| 2026 MBA Finance Leadership Development Program (FLDP) Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3109651/2026-mba-finance-leadership-development-program-fldp-internship) | 4d |
 
 #### 🟦 **Microsoft** (4 positions)
 
@@ -267,7 +268,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 4d |
 
-### 🏭 **Manufacturing & Industrial** (27 positions)
+### 🏭 **Manufacturing & Industrial** (28 positions)
 
 #### ⚗️ **Applied Materials** (4 positions)
 
@@ -326,6 +327,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Process Development Engineering Intern | US, Boston | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Process-Development-Engineering-Intern_R257202?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 2d |
 | RF Product Engineer Intern | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 6d |
 
+#### 🏗️ **Honeywell** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
+
 
 
 
@@ -335,7 +342,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (6)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -350,9 +357,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 134 | 83% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 134 | 82% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 27 | 17% | 1-2 years of experience |
+| 🔴 Early Career         | 29 | 18% | 1-2 years of experience |
 
 ---
 
@@ -361,7 +368,7 @@ No companies available
 - **Mountain View, CA**: 22 opportunities
 - **Austin, Texas**: 6 opportunities
 - **Reston, VA**: 6 opportunities
-- **Seattle, WA**: 5 opportunities
+- **Seattle, WA**: 6 opportunities
 - **US, CA**: 4 opportunities
 - **California San Francisco**: 3 opportunities
 - **Redmond, Washington**: 3 opportunities
@@ -370,7 +377,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 161+ verified internships and new grad roles from 16 top companies.
+✅ **100% Real Opportunities:** 163+ verified internships and new grad roles from 17 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -422,27 +429,27 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 72 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 78 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 72 roles
-- **🏢 Companies**: 16 companies  
-- **⭐ FAANG+ Opportunities**: 26 positions
+- **📁 Total Positions**: 78 roles
+- **🏢 Companies**: 17 companies  
+- **⭐ FAANG+ Opportunities**: 27 positions
 
-### ⭐ **FAANG+** (26 positions)
+### ⭐ **FAANG+** (27 positions)
 
 #### 📦 **Amazon** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Annapurna Labs at AWS Internships (US) - Silicon & AI Systems Innovation | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3094824/2026-annapurna-labs-at-aws-internships-us-silicon-ai-systems-innovation) | 3w |
-| Industrial Design Engineer Summer Internship – 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3083039/industrial-design-engineer-summer-internship-2026-us) | 2w |
 | 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1w |
+| Industrial Design Engineer Summer Internship – 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3083039/industrial-design-engineer-summer-internship-2026-us) | 2w |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (23 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (24 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -453,7 +460,7 @@ No companies available
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894793/Research-Intern---Computer-Vision-Algorithms) | 1w |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 1w |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
-| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
+| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1891873/Research-Intern---Medical-Image-Reconstruction) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894843/Research-Intern---Artificial-Intelligence) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1887569/Research-Intern---Machine-Learning-at-MSR-NYC) | 2w |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893714/Research-Intern---Copilot-Tuning) | 1w |
@@ -462,6 +469,7 @@ No companies available
 | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1886648/Research-Intern---MSR-Software-Hardware-Co-design) | 2w |
 | Research Intern - Security Research Group, Microsoft Research Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1884237/Research-Intern---Security-Research-Group%2C-Microsoft-Research-Redmond) | 3w |
 | Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1885164/Research-Intern---Reliability-of-Cloud-and-AI-Systems) | 2w |
+| Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1883443/Research-Intern---RiSE-group-(Formal-Methods%2C-High-Performance-Computing%2C-ML-Systems%2C-Programming-Languages%2C-Software-Engineering)) | 3w |
 | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1883457/Research-Intern---MSR-Systems-Research-Group---Redmond) | 3w |
 | Research Intern - Robot Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1882694/Research-Intern---Robot-Learning) | 3w |
 | Research Intern - Systems for Reliable and Scalable AI Agents | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1884229/Research-Intern---Systems-for-Reliable-and-Scalable-AI-Agents) | 3w |
@@ -545,7 +553,7 @@ No companies available
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 2w |
 | 2026 Trust Analyst Internship - Emerging Talent Summer Experience | Jackson, WY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210669440/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (14 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -576,6 +584,16 @@ No companies available
 | Design Evaluation Engineering Intern (PhD) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 2w |
 | Mechanical Engineering Co-Op | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineering-Co-Op_R256254?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 3w |
 
+#### 🏗️ **Honeywell** (5 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineering - Summer 2026 PhD Intern (US Person Required) | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122797/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| URDP Intern (Bachelor's) - HSE | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120130/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Intern Master's Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113539/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| Intern Bachelors Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122106/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| Intern Masters Physics | Plymouth, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121632/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+
 
 
 </details>
@@ -587,7 +605,7 @@ No companies available
 
 <div align="center">
 
-**🎯 161 current opportunities from 16 top companies.**
+**🎯 163 current opportunities from 17 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
