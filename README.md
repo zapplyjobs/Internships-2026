@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 15+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 72+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 16+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 74+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 72 internships & new grad roles  
-🏢 **Top Companies:** 15 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 39 premium opportunities  
+🔥 **Current Opportunities:** 74 internships & new grad roles  
+🏢 **Top Companies:** 16 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 38 premium opportunities  
 📅 **Last Updated:** October 19, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 64 (older than 1 week)
+📁 **Archived Opportunities:** 69 (older than 1 week)
 
 
 ---
@@ -68,7 +68,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (39 positions)
+### ⭐ **FAANG+** (38 positions)
 
 #### 📦 **Amazon** (5 positions)
 
@@ -126,13 +126,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-#### 🍎 **Apple** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| FY26 Apple Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/fy26-apple-space-planning-internship?team=CORSV) | 2d |
-
-### 🏢 **Top Tech** (17 positions)
+### 🏢 **Top Tech** (20 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -155,6 +149,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Undergraduate Technical Writer Co-op/Intern | US, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 1d |
 | 2026 PhD Thermal Mechanical Engineer Co-op/Intern | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 1d |
 | Spring/Summer 2026 PhD Agent Task Planning for Resource-Constrained Client Devices Co-op 🏠 | US, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70208/login) | 1d |
+
+#### ☁️ **Salesforce** (3 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Financial Services) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313088/summer-2026-intern-business-value-strategic-selling-consultant-financial-services/) | 1h |
+| Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1h |
+| Summer 2026 Intern - Business Value & Strategic Selling Consultant | Illinois Chicago | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313081/summer-2026-intern-business-value-strategic-selling-consultant/) | 1h |
 
 #### 🔵 **IBM** (10 positions)
 
@@ -199,13 +201,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏭 **Manufacturing & Industrial** (11 positions)
 
-#### 💪 **Arm** (7 positions)
+#### 💪 **Arm** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern Linux Distributions Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-linux-distributions-engineer/33099/86419689760) | 1d |
 | Intern Technical Writer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-technical-writer/33099/87019647104) | 1d |
-| Intern Performance Architecture & PnP Modeling Engineer | San Diego, California | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-diego/intern-performance-architecture-and-pnp-modeling-engineer/33099/85997348752) | 1d |
 | Intern GPU Hardware Architecture Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-gpu-hardware-architecture-engineer/33099/85831486400) | 1d |
 | Intern Systems Architecture Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-systems-architecture-engineer/33099/86632227360) | 1d |
 | Intern, Physical IP Engineer | Austin, Texas | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/austin/intern-physical-ip-engineer/33099/86442548576) | 1d |
@@ -230,6 +231,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | RF Product Engineer Intern | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 6d |
 
+#### 🏗️ **Honeywell** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3d |
+
 
 
 
@@ -238,25 +245,25 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏢 **Top Hiring Companies**
 
-#### ⭐ **FAANG+** (4 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
+#### ⭐ **FAANG+** (3 companies)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (29 positions) • 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (4) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (1 company)
 🏦 **[JPMorgan Chase](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs)** (3 positions)
 
 
-#### ☁️ **Enterprise & Cloud** (5 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
+#### ☁️ **Enterprise & Cloud** (6 companies)
+🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (5) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (3) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (10)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 56 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 55 | 74% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 16 | 22% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 26% | 1-2 years of experience |
 
 ---
 
@@ -274,7 +281,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 72+ verified internships and new grad roles from 15 top companies.
+✅ **100% Real Opportunities:** 74+ verified internships and new grad roles from 16 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -326,13 +333,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 64 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 69 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 64 roles
-- **🏢 Companies**: 15 companies  
+- **📁 Total Positions**: 69 roles
+- **🏢 Companies**: 16 companies  
 - **⭐ FAANG+ Opportunities**: 28 positions
 
 ### ⭐ **FAANG+** (28 positions)
@@ -351,12 +358,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Research Intern - Gray Systems Lab (GSL) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
-| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - AI Agents & Reasoning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
+| Research Intern - Azure Research – Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
-| Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
+| Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com) | 2w |
@@ -444,7 +451,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Intern - Actuarial Consulting, State Health - Campus | US GA, Atlanta | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Actuarial-Consulting--State-Health---Campus-2026_33030?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Junior AI Specialist | US VA, Springfield | [<img src="./image.png" width="100" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Junior-AI-Specialist_32388?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (9 positions)
+### 🏭 **Manufacturing & Industrial** (14 positions)
 
 #### 🔧 **Texas Instruments** (6 positions)
 
@@ -465,6 +472,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Design Evaluation Engineering Intern (PhD) | US, OR | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-OR-Beaverton/Design-Evaluation-Engineering-Intern--PhD-_R256340?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 2w |
 | Mechanical Engineering Co-Op | US, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Mechanical-Engineering-Co-Op_R256254?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 3w |
 
+#### 🏗️ **Honeywell** (5 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineering - Summer 2026 PhD Intern (US Person Required) | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122797/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| URDP Intern (Bachelor's) - HSE | Phoenix, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120130/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 3w |
+| Intern Master's Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113539/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| Intern Bachelors Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122106/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| Intern Masters Physics | Plymouth, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121632/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+
 
 
 </details>
@@ -476,7 +493,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 <div align="center">
 
-**🎯 72 current opportunities from 15 top companies.**
+**🎯 74 current opportunities from 16 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
