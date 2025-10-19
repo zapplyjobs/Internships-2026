@@ -24,26 +24,25 @@ function cleanJobTitle(title) {
  * @returns {Object} Object with city and state properties
  */
 function parseLocation(locationText) {
-  if (!locationText) {
-    return { city: '', state: '' };
+  // Handle null, undefined, empty string, or "null" string
+  if (!locationText || locationText === 'null' || locationText.trim() === '' || locationText.toLowerCase().trim() === 'null') {
+    return { city: 'Multiple Cities', state: '' };
   }
 
-  // Comprehensive job-related keywords to remove - ENHANCED
+  // EARLY CHECK: Preserve "Multiple Cities" pattern before cleaning
+  const lowerText = locationText.toLowerCase().trim();
+  if (lowerText.includes('multiple') && (lowerText.includes('cities') || lowerText.includes('locations') || lowerText.includes('sites'))) {
+    return { city: 'Multiple Cities', state: '' };
+  }
+  if (lowerText.includes('various') && (lowerText.includes('cities') || lowerText.includes('locations'))) {
+    return { city: 'Multiple Cities', state: '' };
+  }
+  if (lowerText.includes('all locations') || lowerText.includes('nationwide')) {
+    return { city: 'Multiple Cities', state: '' };
+  }
+
+  // Job-related keywords to remove (minimal list, most commented out to preserve location data)
   const nonLocationKeywords = [
-    // === NEW/MODIFIED KEYWORDS FOR IBM DATA ===
-    'ship', // Likely the prefix 'ship' or 'ship{City}'
-    'apply', 'see in ibm',
-    '1d', '2d', '3d', // Common relative dates appearing in location field
-    // ==========================================
-    
-    // Job levels - most problematic ones
-    'entry level', 'entry-level', 'entrylevel',
-    'senior', 'junior', 
-    'mid-level', 'mid level', 'midlevel',
-    'intern', 'internship', 'internships',
-    'co-op', 'coop',
-    'trainee', 'graduate', 'fellowship',
-    
     // Employment types
     'full time', 'full-time', 'fulltime',
     'part time', 'part-time', 'parttime',
@@ -61,13 +60,6 @@ function parseLocation(locationText) {
     'telecommute', 'telecommuting',
     'virtual',
     'in-office', 'in office',
-    
-    // Location descriptors - CRITICAL
-    'multiple locations', 'multiple cities', 'multiple sites',
-    'various locations', 'various cities',
-    'all locations',
-    'nationwide', 'national',
-    'multiple', 'various', 'all', 'any',
     
     // Job descriptors
     'experience', 'exp',
@@ -87,24 +79,9 @@ function parseLocation(locationText) {
     'vacancy', 'vacancies'
   ];
 
-  // STEP 1: Initial normalization and aggressive cleaning for known prefixes
   let cleanLocation = locationText.trim();
 
-  // === AGGRESSIVE PRE-PROCESSING STEP (NEW) ===
-  // 1. Remove the 'ship' prefix immediately, regardless of case.
-  cleanLocation = cleanLocation.replace(/^ship/i, '').trim();
-
-  // 2. Remove trailing application/date data specific to the IBM format.
-  cleanLocation = cleanLocation
-    .replace(/\s*apply\s*(?:\d+[hdwmo])?$/i, '') // Removes 'Apply' and optional date like '1d'
-    .replace(/\s*see in ibm\s*$/i, '') // Removes 'see in ibm'
-    .replace(/\s*1d\s*$/i, '') // Specific removal of '1d' if it remains
-    .trim();
-  // ==============================================
-
-
-  // STEP 2: Check for remote FIRST (special handling before cleaning)
-  const lowerLocation = cleanLocation.toLowerCase();
+  // Check for remote FIRST
   const remotePatterns = [
     /^remote$/i,
     /^remote[,\s]*$/i,
@@ -118,7 +95,7 @@ function parseLocation(locationText) {
     }
   }
 
-  // STEP 3: Remove country suffixes
+  // Remove country suffixes (US, USA, United States)
   cleanLocation = cleanLocation
     .replace(/,?\s*United States\s*$/i, '')
     .replace(/,?\s*USA\s*$/i, '')
@@ -126,83 +103,66 @@ function parseLocation(locationText) {
     .replace(/,?\s*US\s*$/i, '')
     .trim();
 
-  // STEP 4: Remove non-location keywords with ENHANCED regex
-  // This is the critical section - using word boundaries and case-insensitive matching
+  // Remove non-location keywords
   nonLocationKeywords.forEach(keyword => {
-    // Escape special regex characters
     const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    
-    // Create multiple patterns to catch different scenarios
     const patterns = [
-      // At the beginning with optional whitespace/comma after
       new RegExp(`^${escapedKeyword}[,\\s]*`, 'gi'),
-      // In the middle with word boundaries
       new RegExp(`\\b${escapedKeyword}\\b[,\\s]*`, 'gi'),
-      // At the end with optional whitespace/comma before
       new RegExp(`[,\\s]*${escapedKeyword}$`, 'gi'),
-      // Standalone with surrounding whitespace
       new RegExp(`\\s+${escapedKeyword}\\s+`, 'gi')
     ];
     
-    // Apply all patterns
     patterns.forEach(pattern => {
       cleanLocation = cleanLocation.replace(pattern, ' ');
     });
   });
 
-  // STEP 5: Aggressive cleanup of remaining artifacts
+  // Cleanup remaining artifacts
   cleanLocation = cleanLocation
-    // Remove multiple spaces
     .replace(/\s+/g, ' ')
-    // Remove multiple commas
     .replace(/,+/g, ',')
-    // Remove spaces before/after commas
     .replace(/\s*,\s*/g, ', ')
-    // Remove leading/trailing commas, spaces, dashes, and other punctuation
     .replace(/^[,\s\-:;|]+|[,\s\-:;|]+$/g, '')
-    // Remove standalone dashes with spaces
     .replace(/\s+-\s+/g, ' ')
-    // Remove any remaining double spaces
     .replace(/\s+/g, ' ')
     .trim();
 
-  // STEP 6: Additional pattern-based cleaning for specific cases
-  // Remove patterns like "InternshipCity" or "Entry LevelCity"
-  cleanLocation = cleanLocation
-    .replace(/^(internship|intern|entrylevel|entry|senior|junior)/i, '')
-    .trim();
-
-  // STEP 7: Filter out empty or too short results
+  // Filter out empty or too short results
   if (!cleanLocation || cleanLocation.length < 2) {
-    return { city: '', state: '' };
+    return { city: 'Multiple Cities', state: '' };
   }
 
-  // STEP 8: Filter out generic/placeholder terms
+  // Filter out generic/placeholder terms
   const genericTerms = [
     'us', 'usa', 'u.s.', 'u.s.a', 'u.s', 'us.', 
     'united states', 'unitedstates',
-    'multiple', 'various', 'all', 'any',
-    'nationwide', 'national',
     'tbd', 'tba', 'n/a', 'na',
     'location', 'locations'
   ];
   
+  // Special handling for "multiple", "various", etc.
+  const multipleTerms = ['multiple', 'various', 'all', 'any', 'nationwide', 'national'];
+  if (multipleTerms.includes(cleanLocation.toLowerCase())) {
+    return { city: 'Multiple Cities', state: '' };
+  }
+  
   if (genericTerms.includes(cleanLocation.toLowerCase())) {
-    return { city: '', state: '' };
+    return { city: 'Multiple Cities', state: '' };
   }
 
-  // STEP 9: Check if the cleaned location is just numbers or special characters
+  // Check if just numbers or special characters
   if (/^[\d\s,\-._]+$/.test(cleanLocation)) {
-    return { city: '', state: '' };
+    return { city: 'Multiple Cities', state: '' };
   }
 
-  // STEP 10: Split by comma and parse
+  // Split by comma and parse
   const parts = cleanLocation
     .split(',')
     .map(part => part.trim())
     .filter(part => part.length > 0);
 
-  // Common US state abbreviations
+  // US state abbreviations
   const stateAbbreviations = [
     'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
     'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
@@ -211,7 +171,7 @@ function parseLocation(locationText) {
     'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'
   ];
 
-  // Common US state full names
+  // US state full names
   const stateNames = [
     'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado',
     'connecticut', 'delaware', 'florida', 'georgia', 'hawaii', 'idaho',
@@ -241,7 +201,6 @@ function parseLocation(locationText) {
     
     // Check if it's a state full name
     if (stateNames.includes(singlePart.toLowerCase())) {
-      // Capitalize first letter of each word
       const capitalizedState = singlePart
         .toLowerCase()
         .split(' ')
@@ -256,14 +215,15 @@ function parseLocation(locationText) {
     );
     
     if (hasJobTerms) {
-      return { city: '', state: '' };
+      return { city: 'Multiple Cities', state: '' };
     }
     
     // Assume it's a city if it's not a recognized state
     return { city: singlePart, state: '' };
   }
 
-  return { city: '', state: '' };
+  // Default fallback
+  return { city: 'Multiple Cities', state: '' };
 }
 
 /**
