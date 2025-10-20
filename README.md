@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 125+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 18+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 165+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 125 internships & new grad roles  
+🔥 **Current Opportunities:** 165 internships & new grad roles  
 🏢 **Top Companies:** 18 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 20, 2025  
@@ -137,7 +137,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | IS&T Early Career Engineering Program Manager Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | 2d |
 | FY26 Places Program Management and Operations (PMO) Program Manager Intern | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/fy26-places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 15h |
 
-### 🏢 **Top Tech** (53 positions)
+### 🏢 **Top Tech** (93 positions)
 
 #### 💾 **Marvel Technology** (1 position)
 
@@ -192,7 +192,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences) | New York New York | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr313087/summer-2026-intern-business-value-strategic-selling-consultant-healthcare-life-sciences/) | 1d |
 
 <details>
-<summary><h4>🔵 <strong>IBM</strong> (24 positions)</h4></summary>
+<summary><h4>🔵 <strong>IBM</strong> (64 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -220,6 +220,46 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Technical Solution Specialist Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56580&source=WEB_Search_NA) | 1d |
 | AI Foundations - Research Scientist - Research Internship: | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58805&source=WEB_Search_NA) | 1d |
 | AI Healthcare & Life Sciences Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60288&source=WEB_Search_NA) | 1d |
+| AI-Centric Solution Architecting for Global IT - Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=65071&source=WEB_Search_NA) | 1d |
+| Federal Data Engineering Co-Op: | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66120&source=WEB_Search_NA) | 1d |
+| Firmware Developer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60609&source=WEB_Search_NA) | 1d |
+| Platform Engineer Intern – Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53603&source=WEB_Search_NA) | 1d |
+| Customer Success Manager Intern – Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59847&source=WEB_Search_NA) | 1d |
+| 2026 Intern: IBM Quantum Research Scientist | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60895&source=WEB_Search_NA) | 1d |
+| Cloud-Native Front-end and API Developer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58571&source=WEB_Search_NA) | 1d |
+| Intern 2026: AI Hybrid Cloud Platform Research Scientist | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58804&source=WEB_Search_NA) | 1d |
+| 2026 Intern: Research Scientist – AI-powered Automation | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59705&source=WEB_Search_NA) | 1d |
+| Associate Business Transformation Consultant Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58730&source=WEB_Search_NA) | 1d |
+| Intern 2026: Software Developer - Security | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59668&source=WEB_Search_NA) | 1d |
+| Intellectual Property Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=62958&source=WEB_Search_NA) | 1d |
+| Associate Package Consultants Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57360&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Software Applications | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59974&source=WEB_Search_NA) | 1d |
+| Intern 2026: AI Platform Developer | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60196&source=WEB_Search_NA) | 1d |
+| Software Developer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57319&source=WEB_Search_NA) | 1d |
+| Software Engineering Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57950&source=WEB_Search_NA) | 1d |
+| 2026 Brand Sales Specialist Co-Op - Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57380&source=WEB_Search_NA) | 1d |
+| Intern 2026: Hardware Engineer - Semiconductor | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58770&source=WEB_Search_NA) | 1d |
+| 2026 Intern: Next Generation Storage Systems | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60293&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Events & Engagements | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60303&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Primitives Software Developer | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60314&source=WEB_Search_NA) | 1d |
+| Back End Developer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55372&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Computing Applications Research | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59976&source=WEB_Search_NA) | 1d |
+| Internship for AI automation for Performance Analysis | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=66096&source=WEB_Search_NA) | 1d |
+| Designer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56063&source=WEB_Search_NA) | 1d |
+| 2026 Platform Engineer Co-Op - Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57384&source=WEB_Search_NA) | 1d |
+| SWE: Toward Autonomous Data Management with AI Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58829&source=WEB_Search_NA) | 1d |
+| RS: Toward Autonomous Data Management with FMs and AI Agents Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58728&source=WEB_Search_NA) | 1d |
+| Intern 2026: Research Scientist - Semiconductor | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59978&source=WEB_Search_NA) | 1d |
+| Intern 2026: CMOS Circuit Design Intern – Quantum Computing Applications | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59979&source=WEB_Search_NA) | 1d |
+| AI Research Partnerships Internship | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=59639&source=WEB_Search_NA) | 1d |
+| Intern 2026: Quantum Data Center Engineering | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60902&source=WEB_Search_NA) | 1d |
+| Product Manager Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=64176&source=WEB_Search_NA) | 1d |
+| 2026 Brand Technical Specialist Co-Op - Entry Level Sales Program | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=57382&source=WEB_Search_NA) | 1d |
+| Intern 2026: AI and Agentic Security Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58831&source=WEB_Search_NA) | 1d |
+| Intern 2026: AI Inference Optimization Engineer | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60197&source=WEB_Search_NA) | 1d |
+| Hardware Developer Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=55106&source=WEB_Search_NA) | 1d |
+| AI Algorithms and Applications Intern | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60260&source=WEB_Search_NA) | 1d |
+| 2026 Intern: Agentic AI System Benchmarking | Multiple Cities 🌎 | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60281&source=WEB_Search_NA) | 1d |
 
 </details>
 
@@ -319,21 +359,21 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (6 companies)
-📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9 positions) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (21) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (6) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (24)
+📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9 positions) • 💾 **[Marvel Technology](https://marvell.wd1.myworkdayjobs.com/MarvellCareers)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (21) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (6) • 🔵 **[IBM](https://www.ibm.com/careers/search)** (64)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 97 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 138 | 84% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 28 | 22% | 1-2 years of experience |
+| 🔴 Early Career         | 27 | 16% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Multiple Cities 🌎**: 45 opportunities
+- **Multiple Cities 🌎**: 85 opportunities
 - **Mountain View, CA**: 21 opportunities
 - **Reston, VA**: 6 opportunities
 - **Seattle, WA**: 6 opportunities
@@ -346,7 +386,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 125+ verified internships and new grad roles from 18 top companies.
+✅ **100% Real Opportunities:** 165+ verified internships and new grad roles from 18 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -575,7 +615,7 @@ No companies available
 
 <div align="center">
 
-**🎯 125 current opportunities from 18 top companies.**
+**🎯 165 current opportunities from 18 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
