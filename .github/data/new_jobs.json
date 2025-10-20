@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship – Mixed Signal IC Verification Engineer",
+    "job_city": "Dallas TX (United States) + 1 more",
+    "job_state": "",
+    "job_posted_at": "1d",
+    "job_description": "• US citizen or green cardholder: This position requires access to documentation that is controlled by the export laws of the United States.\n• Candidates are required to provide proof of either US citizenship, Permanent US residency, or classification as a protected individual as defined in 8USC 1324b(a)(3).\n• Verification Knowledge: Solid understanding of mixed-signal design and verification, including UVM-based methodologies Team Attributes: Outstanding communication, leadership, and teamwork skills, alongside a self-starter mindset Education: Actively pursuing a Bachelor's or Master's in Electrical Engineering or equivalent Tool Proficiency: Experience with EDA tools such as Cadence Virtuoso, Maestro, and vManager Programming Skills: Proficient in System Verilog, VAMS, or real number modeling techniques.",
+    "job_apply_link": "https://jobs.infineon.com/careers/careers/job/563808962158613?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
+    "id": "infineon-technologies-internship-mixed-signal-ic-verification-engineer-dallas-tx-united-states-1-more"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "FY26 Facilities Maintenance Internship",
+    "job_city": "Austin",
+    "job_state": "",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsPursuing a bachelor’s degree in mechanical engineering, electrical engineering, industrial engineering or construction managementGraduating in December 2026 or later3.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624542-0157/fy26-facilities-maintenance-internship?team=CORSV",
+    "id": "apple-fy26-facilities-maintenance-internship-austin"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "FY26 Construction Project Manager Internship",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsPursuing a bachelor’s degree in mechanical engineering, electrical engineering, industrial engineering or construction managementGraduating in December 2026 or later.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624581-3749/fy26-construction-project-manager-internship?team=CORSV",
+    "id": "apple-fy26-construction-project-manager-internship-san-jose"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "FY26 Apple Workplace Design - Innovation Team Internship",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsPursuing a bachelor’s degree in Industrial Design (BFA or BS)Graduating in December 2026 or laterStrong Design Portfolio3.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200624571-3749/fy26-apple-workplace-design-innovation-team-internship?team=CORSV",
+    "id": "apple-fy26-apple-workplace-design-innovation-team-internship-san-jose"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "FY26 Places Program Management and Operations (PMO) Program Manager Intern",
+    "job_city": "San Jose",
+    "job_state": "",
+    "job_posted_at": "2h",
+    "job_description": "• Minimum QualificationsPursuing a Bachelor’s or Master’s degree in Business, Economics or other related fields of study3.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200625086-3749/fy26-places-program-management-and-operations-pmo-program-manager-intern?team=CORSV",
+    "id": "apple-fy26-places-program-management-and-operations-pmo-program-manager-intern-san-jose"
+  }
+]
