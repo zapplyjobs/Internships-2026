@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 19+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 166+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 19+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 165+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,12 +23,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 166 internships & new grad roles  
+🔥 **Current Opportunities:** 165 internships & new grad roles  
 🏢 **Top Companies:** 19 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 43 premium opportunities  
 📅 **Last Updated:** October 20, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 78 (older than 1 week)
+📁 **Archived Opportunities:** 79 (older than 1 week)
 
 
 ---
@@ -286,7 +286,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Cybersecurity Analyst Intern | McLean, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Cybersecurity-Analyst-Intern_R0227958?workerSubType=12aea2bdfbdb10dbf53be9b8e38a2a1d) | 5d |
 
-### 🏭 **Manufacturing & Industrial** (20 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
 #### ⚗️ **Applied Materials** (3 positions)
 
@@ -320,11 +320,10 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Electrification Marketing & Sales Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Location Cary, North Carolina | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
 
-#### 🔌 **Infineon Technologies** (2 positions)
+#### 🔌 **Infineon Technologies** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Internship - Information Technology Engineer | Lexington + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/careers/job/563808956250519?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
 | Internship - ASIC RTL/Digital Design | San Jose + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/careers/job/563808958550431?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
 
 #### 🔧 **Texas Instruments** (3 positions)
@@ -372,9 +371,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 137 | 83% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 138 | 84% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 29 | 17% | 1-2 years of experience |
+| 🔴 Early Career         | 27 | 16% | 1-2 years of experience |
 
 ---
 
@@ -392,7 +391,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 166+ verified internships and new grad roles from 19 top companies.
+✅ **100% Real Opportunities:** 165+ verified internships and new grad roles from 19 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -444,16 +443,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 78 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 79 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 78 roles
+- **📁 Total Positions**: 79 roles
 - **🏢 Companies**: 19 companies  
-- **⭐ FAANG+ Opportunities**: 26 positions
+- **⭐ FAANG+ Opportunities**: 27 positions
 
-### ⭐ **FAANG+** (26 positions)
+### ⭐ **FAANG+** (27 positions)
 
 #### 📦 **Amazon** (3 positions)
 
@@ -464,7 +463,7 @@ No companies available
 | 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/search/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1w |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (23 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (24 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -475,7 +474,7 @@ No companies available
 | Research Intern - Networking Research Group | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894793/Research-Intern---Computer-Vision-Algorithms) | 1w |
 | Research Intern - ML and Computational Biology for the Immune System | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
-| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
+| Research Intern - Medical Image Reconstruction | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1891873/Research-Intern---Medical-Image-Reconstruction) | 1w |
 | Research Intern - Artificial Intelligence | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894843/Research-Intern---Artificial-Intelligence) | 1w |
 | Research Intern - Machine Learning at MSR NYC | New York, United States + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1887569/Research-Intern---Machine-Learning-at-MSR-NYC) | 2w |
 | Research Intern - Copilot Tuning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893714/Research-Intern---Copilot-Tuning) | 1w |
@@ -484,6 +483,7 @@ No companies available
 | Research Intern - MSR Software-Hardware Co-design | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1886648/Research-Intern---MSR-Software-Hardware-Co-design) | 2w |
 | Research Intern - Security Research Group, Microsoft Research Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1884237/Research-Intern---Security-Research-Group%2C-Microsoft-Research-Redmond) | 3w |
 | Research Intern - Reliability of Cloud and AI Systems | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1885164/Research-Intern---Reliability-of-Cloud-and-AI-Systems) | 2w |
+| Research Intern - RiSE group (Formal Methods, High-Performance Computing, ML Systems, Programming Languages, Software Engineering) | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1883443/Research-Intern---RiSE-group-(Formal-Methods%2C-High-Performance-Computing%2C-ML-Systems%2C-Programming-Languages%2C-Software-Engineering)) | 3w |
 | Research Intern - MSR Systems Research Group - Redmond | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1883457/Research-Intern---MSR-Systems-Research-Group---Redmond) | 3w |
 | Research Intern - Robot Learning | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1882694/Research-Intern---Robot-Learning) | 3w |
 | Research Intern - Systems for Reliable and Scalable AI Agents | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1884229/Research-Intern---Systems-for-Reliable-and-Scalable-AI-Agents) | 3w |
@@ -620,7 +620,7 @@ No companies available
 
 <div align="center">
 
-**🎯 166 current opportunities from 19 top companies.**
+**🎯 165 current opportunities from 19 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
