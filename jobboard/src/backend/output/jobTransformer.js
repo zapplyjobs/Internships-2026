@@ -219,7 +219,49 @@ function parseLocation(locationText) {
       // It's a state-only location like "US, CA"
       return { city: '', state: normalizedState };
     }
+    // Check if it's a city name after "US, "
+    const autoState = getStateForCity(statePart);
+    if (autoState) {
+      return { city: statePart, state: autoState };
+    }
+    // Just return the part after "US, " as city
+    return { city: statePart, state: '' };
   }
+
+  // Handle "US, State, City" format (e.g., "US, MA, Wilmington")
+  const usStateCity = cleanLocation.match(/^US[,\s]+([^,]+)[,\s]+(.+)$/i);
+  if (usStateCity) {
+    const part1 = usStateCity[1].trim();
+    const part2 = usStateCity[2].trim();
+    
+    const state1 = normalizeState(part1);
+    const state2 = normalizeState(part2);
+    
+    if (state1 && !state2) {
+      // Format: US, State, City
+      return { city: part2, state: state1 };
+    } else if (!state1 && state2) {
+      // Format: US, City, State (weird but handle it)
+      return { city: part1, state: state2 };
+    } else if (state1 && state2) {
+      // Both are states, take first
+      return { city: '', state: state1 };
+    } else {
+      // Neither is state, first is likely city
+      const autoState = getStateForCity(part1);
+      if (autoState) {
+        return { city: part1, state: autoState };
+      }
+      return { city: part1, state: '' };
+    }
+  }
+
+  // Handle patterns like "United States + 1 more, NY"
+  cleanLocation = cleanLocation
+    .replace(/United States\s*\+\s*\d+\s*more[,\s]*/gi, '')
+    .replace(/USA\s*\+\s*\d+\s*more[,\s]*/gi, '')
+    .replace(/US\s*\+\s*\d+\s*more[,\s]*/gi, '')
+    .trim();
 
   // Remove country identifiers AFTER checking for "US, State" pattern
   cleanLocation = cleanLocation
