@@ -768,68 +768,26 @@ function getJobCategory(title, description = "") {
 }
 
 function formatLocation(city, state) {
-  // Normalize inputs
-  let normalizedCity = city ? city.trim() : '';
-  let normalizedState = state ? state.trim() : '';
-
-  // Handle remote - add emoji
-  if (normalizedCity.toLowerCase() === 'remote' || normalizedState.toLowerCase() === 'remote') {
-    return 'Remote 🏠';
-  }
-
-  // Handle Multiple Cities
-  if (normalizedCity.toLowerCase() === 'multiple cities') {
-    return 'Multiple Cities 🌎';
-  }
-
-  // Filter out invalid state values
-  const invalidStates = [
-    'us', 'usa', 'u.s.', 'u.s.a', 'united states',
-    'multiple locations', 'various locations', 'nationwide',
-    'location not specified', 'tbd', 'tba', 'n/a'
-  ];
-  
-  if (invalidStates.includes(normalizedState.toLowerCase())) {
-    normalizedState = '';
-  }
-
-  // Handle patterns like "California - San Francisco" (state came first)
-  if (normalizedCity.includes(' - ')) {
-    const parts = normalizedCity.split(' - ').map(p => p.trim());
-    if (parts.length === 2) {
-      normalizedState = normalizedState || parts[0];
-      normalizedCity = parts[1];
+    // Handle US - Remote
+    if (city === 'US - Remote') return 'US - Remote 🏠';
+    
+    // Handle empty cases (shouldn't happen but safety check)
+    if (!city && !state) return 'US - Remote 🏠';
+    
+    // Handle only state (e.g., "US, CA" becomes just "CA")
+    if (!city && state) return state;
+    
+    // Handle only city (no state provided)
+    if (city && !state) {
+        // Special cases
+        if (city === 'Multiple Cities') return 'Multiple Cities';
+        if (city.toLowerCase() === 'remote') return 'US - Remote 🏠';
+        // Just return the city
+        return city;
     }
-  }
-
-  // Final validation - filter out if too short
-  if (normalizedCity && normalizedCity.length < 2) {
-    normalizedCity = '';
-  }
-  if (normalizedState && normalizedState.length < 2) {
-    normalizedState = '';
-  }
-
-  // Check if city is just numbers or special characters
-  if (normalizedCity && /^[\d\s,\-._]+$/.test(normalizedCity)) {
-    normalizedCity = '';
-  }
-
-  // Return formatted location based on what we have
-  if (normalizedCity && normalizedState) {
-    return `${normalizedCity}, ${normalizedState}`;
-  }
-  
-  if (!normalizedCity && normalizedState) {
-    return normalizedState;
-  }
-  
-  if (normalizedCity && !normalizedState) {
-    return normalizedCity;
-  }
-
-  // Neither - return null to be filtered out
-  return null;
+    
+    // Standard format: City, ST (e.g., "Seattle, WA")
+    return `${city}, ${state}`;
 }
 
 
