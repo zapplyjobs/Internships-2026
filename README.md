@@ -131,8 +131,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Facilities Maintenance Internship | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624542-0157/facilities-maintenance-internship?team=CORSV) | 20h |
-| Places Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 3d |
 | Construction Project Manager Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV) | 20h |
+| Places Space Planning Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 3d |
 | Apple Workplace Design - Innovation Team Internship | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 20h |
 | IS&T Early Career Engineering Program Manager Opportunities | Austin | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626967-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR) | 2d |
 | Places Program Management and Operations (PMO) Program Manager Intern | San Jose | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 20h |
@@ -372,9 +372,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 139 | 84% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 137 | 83% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 27 | 16% | 1-2 years of experience |
+| 🔴 Early Career         | 29 | 17% | 1-2 years of experience |
 
 ---
 
