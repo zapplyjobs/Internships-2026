@@ -138,6 +138,10 @@ export interface Commands {
     params: Bidi.Emulation.SetLocaleOverrideParameters;
     returnType: Bidi.Emulation.SetLocaleOverrideResult;
   };
+  'emulation.setNetworkConditions': {
+    params: Bidi.Emulation.SetNetworkConditionsParameters;
+    returnType: Bidi.EmptyResult;
+  };
   'emulation.setScreenOrientationOverride': {
     params: Bidi.Emulation.SetScreenOrientationOverrideParameters;
     returnType: Bidi.Emulation.SetScreenOrientationOverrideResult;

@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - Machine Learning and Statistics",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "1d",
+    "job_description": "internships job for the role Research Intern - Machine Learning and Statistics",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900003/Research-Intern---Machine-Learning-and-Statistics",
+    "id": "microsoft-research-intern-machine-learning-and-statistics-cambridge"
+  },
+  {
+    "employer_name": "Microsoft",
+    "job_title": "Research Intern - AI Hardware",
+    "job_city": "Redmond",
+    "job_state": "WA",
+    "job_posted_at": "1d",
+    "job_description": "internships job for the role Research Intern - AI Hardware",
+    "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1900014/Research-Intern---AI-Hardware",
+    "id": "microsoft-research-intern-ai-hardware-redmond"
+  }
+]

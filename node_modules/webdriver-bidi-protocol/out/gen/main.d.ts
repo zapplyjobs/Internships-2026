@@ -1025,6 +1025,7 @@ export type EmulationCommand =
   | Emulation.SetForcedColorsModeThemeOverride
   | Emulation.SetGeolocationOverride
   | Emulation.SetLocaleOverride
+  | Emulation.SetNetworkConditions
   | Emulation.SetScreenOrientationOverride
   | Emulation.SetScriptingEnabled
   | Emulation.SetTimezoneOverride
@@ -1150,6 +1151,30 @@ export declare namespace Emulation {
 }
 export declare namespace Emulation {
   type SetLocaleOverrideResult = EmptyResult;
+}
+export declare namespace Emulation {
+  type SetNetworkConditions = {
+    method: 'emulation.setNetworkConditions';
+    params: Emulation.SetNetworkConditionsParameters;
+  };
+}
+export declare namespace Emulation {
+  type SetNetworkConditionsParameters = {
+    networkConditions: Emulation.NetworkConditions | null;
+    contexts?: [
+      BrowsingContext.BrowsingContext,
+      ...BrowsingContext.BrowsingContext[],
+    ];
+    userContexts?: [Browser.UserContext, ...Browser.UserContext[]];
+  };
+}
+export declare namespace Emulation {
+  type NetworkConditions = Emulation.NetworkConditionsOffline;
+}
+export declare namespace Emulation {
+  type NetworkConditionsOffline = {
+    type: 'offline';
+  };
 }
 export declare namespace Emulation {
   type SetScreenOrientationOverride = {
@@ -1356,6 +1381,7 @@ export declare namespace Network {
 }
 export declare namespace Network {
   const enum DataType {
+    Request = 'request',
     Response = 'response',
   }
 }
