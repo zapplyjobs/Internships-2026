@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 109+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 110+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 109 internships & new grad roles  
+🔥 **Current Opportunities:** 110 internships & new grad roles  
 🏢 **Top Companies:** 11 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 43 premium opportunities  
 📅 **Last Updated:** October 23, 2025  
@@ -74,9 +74,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Operations Engineer Intern (Tennessee) | TN | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 15h |
-| 2026 Operations Engineer Intern (New Jersey) | NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 15h |
-| 2026 Operations Engineer Intern (Missouri) | MO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 15h |
+| 2026 Operations Engineer Intern (Tennessee) | TN | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 16h |
+| 2026 Operations Engineer Intern (New Jersey) | NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 16h |
+| 2026 Operations Engineer Intern (Missouri) | MO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 16h |
 
 <details>
 <summary><h4>🟢 <strong>Google</strong> (32 positions)</h4></summary>
@@ -167,12 +167,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-### 💻 **Enterprise Software** (10 positions)
+### 💻 **Enterprise Software** (11 positions)
 
-#### 💻 **Dell** (1 position)
+#### 💻 **Dell** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Cloud Software Security Sales Intern 🏠 | Round Rock, TX | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Round-Rock-Texas-United-States/Cloud-Software-Security-Intern_R278817-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f018d77a638aa9c39fce5&Job_Profiles=914289f44c2f0167a70527aa9c3992e5&Job_Profiles=914289f44c2f01177ee92faa9c39c6e5&Job_Profiles=914289f44c2f01ef8daa54b19c396cf6&Job_Profiles=7b0a08cdc207018a15c9fc3c1d048ce6) | 1d |
 | Undergraduate Intern 🏠 | Hopkinton, MA | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Hopkinton-Massachusetts-United-States/Undergraduate-Intern_R273064-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f018d77a638aa9c39fce5&Job_Profiles=914289f44c2f0167a70527aa9c3992e5&Job_Profiles=914289f44c2f01177ee92faa9c39c6e5&Job_Profiles=914289f44c2f01ef8daa54b19c396cf6&Job_Profiles=7b0a08cdc207018a15c9fc3c1d048ce6) | 1d |
 
 #### 📱 **Verizon** (9 positions)
@@ -266,7 +267,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (26)
+💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (2 positions) • 📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (9) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (26)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
@@ -275,7 +276,7 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 93 | 85% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 16 | 15% | 1-2 years of experience |
+| 🔴 Early Career         | 17 | 15% | 1-2 years of experience |
 
 ---
 
@@ -293,7 +294,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 109+ verified internships and new grad roles from 11 top companies.
+✅ **100% Real Opportunities:** 110+ verified internships and new grad roles from 11 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -430,7 +431,7 @@ No companies available
 
 <div align="center">
 
-**🎯 109 current opportunities from 11 top companies.**
+**🎯 110 current opportunities from 11 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
