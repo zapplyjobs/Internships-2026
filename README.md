@@ -287,6 +287,7 @@ No companies available
 - **Multiple Cities**: 15 opportunities
 - **Reston, VA**: 6 opportunities
 - **San Jose  San Jose, California US, CA**: 5 opportunities
+- **Cary, NC**: 5 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **San Jose, CA**: 4 opportunities
 - **Houston, TX**: 3 opportunities
@@ -364,8 +365,8 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Annapurna Labs at AWS Internships (US) - Silicon & AI Systems Innovation | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3094824/2026-annapurna-labs-at-aws-internships-us-silicon-ai-systems-innovation) | 3w |
-| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 1w |
 | 2026 Supply Chain Manager Intern | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108512/2026-supply-chain-manager-intern) | 1w |
+| 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 1w |
 | 2026 Applied Science Internship - Distributed Systems and High Performance Computing | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1w |
 | Software Development Engineer Internship - Winter- 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 2w |
 
