@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Operations Engineer Intern (Colorado)",
+    "job_city": "",
+    "job_state": "CO",
+    "job_posted_at": "17h",
+    "job_description": "internships job for the role 2026 Operations Engineer Intern (Colorado)",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado",
+    "id": "amazon-2026-operations-engineer-intern-colorado-"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Operations Engineer Intern (Texas)",
+    "job_city": "",
+    "job_state": "TX",
+    "job_posted_at": "17h",
+    "job_description": "internships job for the role 2026 Operations Engineer Intern (Texas)",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas",
+    "id": "amazon-2026-operations-engineer-intern-texas-"
+  }
+]
