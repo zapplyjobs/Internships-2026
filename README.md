@@ -28,7 +28,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 23, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 75 (older than 1 week)
+📁 **Archived Opportunities:** 80 (older than 1 week)
 
 
 ---
@@ -447,12 +447,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 75 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 80 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 75 roles
+- **📁 Total Positions**: 80 roles
 - **🏢 Companies**: 18 companies  
 - **⭐ FAANG+ Opportunities**: 35 positions
 
@@ -482,14 +482,14 @@ No companies available
 | Research Intern - Biomedical AI for Precision Health | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1897750/Research-Intern---Biomedical-AI-for-Precision-Health) | 1w |
 | Research Intern - Cloud Reliability & Efficiency | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894531/Research-Intern---Cloud-Reliability-%26-Efficiency) | 1w |
 | Research Intern - Azure Research – Systems | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893707/Research-Intern---Azure-Research-%E2%80%93-Systems) | 1w |
-| Research Intern - ML and Computational Biology for the Immune System | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
 | Research Intern - Computer Vision Algorithms | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894793/Research-Intern---Computer-Vision-Algorithms) | 1w |
+| Research Intern - ML and Computational Biology for the Immune System | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893717/Research-Intern---ML-and-Computational-Biology-for-the-Immune-System) | 1w |
 | Research Intern - Networking Research Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1892421/Research-Intern---Networking-Research-Group) | 2w |
 | Research Intern - Artificial Intelligence | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894843/Research-Intern---Artificial-Intelligence) | 1w |
 | Research Intern - Medical Image Reconstruction | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1891873/Research-Intern---Medical-Image-Reconstruction) | 2w |
 | Research Intern - Copilot Tuning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1893714/Research-Intern---Copilot-Tuning) | 1w |
-| Applied Science: Internship Opportunities – Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1896563/Applied-Science%3A-Internship-Opportunities-%E2%80%93-Mountain-View) | 1w |
 | Research Intern - Precision Health Innovation Market Analyst | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1894599/Research-Intern---Precision-Health-Innovation-Market-Analyst) | 1w |
+| Applied Science: Internship Opportunities – Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1896563/Applied-Science%3A-Internship-Opportunities-%E2%80%93-Mountain-View) | 1w |
 | Research Intern - Machine Learning at MSR NYC | NY | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1887569/Research-Intern---Machine-Learning-at-MSR-NYC) | 2w |
 | Research Intern - MSR AI Interaction and Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1889172/Research-Intern---MSR-AI-Interaction-and-Learning) | 2w |
 | Research Intern - MSR Software-Hardware Co-design | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1886648/Research-Intern---MSR-Software-Hardware-Co-design) | 3w |
@@ -580,7 +580,7 @@ No companies available
 | 2026 Applied AI/ML Associate Program - Internship | NY | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210674425/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 1w |
 | 2026 Consumer & Community Banking Risk Modeling Associate Program – Summer Internship | Wilmington, DE | [<img src="./image.png" width="100" alt="Apply">](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210659548/?keyword=internships&lastSelectedFacet=POSTING_DATES&location=United+States&locationId=300000000289738&locationLevel=country&mode=location&selectedPostingDatesFacet=30%253B7) | 3w |
 
-### 🏭 **Manufacturing & Industrial** (12 positions)
+### 🏭 **Manufacturing & Industrial** (17 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -608,6 +608,16 @@ No companies available
 |------|----------|-----------|-----|
 | RF Product Engineer Intern | MA, Wilmington | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/RF-Product-Engineer-Intern_R256566?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 1w |
 | Applications Engineer Intern | CA, San Jose, Rio Robles | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09&workerSubType=633b03df4f5d1000ec10ab4627a80000) | 2w |
+
+#### 🏗️ **Honeywell** (5 positions)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| Mechanical Engineering - Summer 2026 PhD Intern (US Person Required) | Clearwater, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122797/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+| Mechanical Engineering - Summer 2026 PhD Intern | Clearwater Beach, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/120111/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 1w |
+| Intern Master's Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/113539/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+| Intern Bachelors Physics | Broomfield, CO | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/122106/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
+| Intern Masters Physics | Plymouth, MN | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/121632/?keyword=internships&location=United+States&locationId=300000000469866&locationLevel=country&mode=location) | 2w |
 
 
 
