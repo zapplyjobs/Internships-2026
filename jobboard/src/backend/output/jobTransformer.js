@@ -23,11 +23,9 @@ const VALID_STATE_ABBREVS = new Set(Object.values(STATE_ABBREVIATIONS));
 
 /**
  * Major US cities to state mapping
- * Used to auto-complete state when only city is provided
  */
 const CITY_TO_STATE = {
-  // Major tech hubs
-  'seattle': 'WA', 'redmond': 'WA', 'bellevue': 'WA', 'tacoma': 'WA',
+  'seattle': 'WA', 'redmond': 'WA', 'bellevue': 'WA', 'tacoma': 'WA', 'kirkland': 'WA',
   'san francisco': 'CA', 'san jose': 'CA', 'mountain view': 'CA', 'palo alto': 'CA',
   'sunnyvale': 'CA', 'cupertino': 'CA', 'santa clara': 'CA', 'menlo park': 'CA',
   'los angeles': 'CA', 'san diego': 'CA', 'irvine': 'CA', 'sacramento': 'CA',
@@ -36,7 +34,7 @@ const CITY_TO_STATE = {
   'fort worth': 'TX', 'plano': 'TX', 'irving': 'TX', 'arlington': 'TX',
   'new york': 'NY', 'brooklyn': 'NY', 'queens': 'NY', 'manhattan': 'NY',
   'buffalo': 'NY', 'rochester': 'NY', 'albany': 'NY', 'syracuse': 'NY',
-  'boston': 'MA', 'cambridge': 'MA', 'somerville': 'MA', 'worcester': 'MA',
+  'boston': 'MA', 'cambridge': 'MA', 'somerville': 'MA', 'worcester': 'MA', 'wilmington': 'MA',
   'chicago': 'IL', 'naperville': 'IL', 'peoria': 'IL', 'springfield': 'IL',
   'atlanta': 'GA', 'savannah': 'GA', 'augusta': 'GA', 'columbus': 'GA',
   'denver': 'CO', 'boulder': 'CO', 'colorado springs': 'CO', 'aurora': 'CO',
@@ -54,13 +52,13 @@ const CITY_TO_STATE = {
   'indianapolis': 'IN', 'fort wayne': 'IN', 'evansville': 'IN',
   'columbus': 'OH', 'cleveland': 'OH', 'cincinnati': 'OH', 'toledo': 'OH',
   'milwaukee': 'WI', 'madison': 'WI', 'green bay': 'WI',
-  'baltimore': 'MD', 'annapolis': 'MD', 'rockville': 'MD',
-  'kansas city': 'MO', 'st louis': 'MO', 'saint louis': 'MO', 'springfield': 'MO',
+  'baltimore': 'MD', 'annapolis': 'MD', 'rockville': 'MD', 'fort meade': 'MD',
+  'kansas city': 'MO', 'st louis': 'MO', 'saint louis': 'MO',
   'oklahoma city': 'OK', 'tulsa': 'OK', 'norman': 'OK',
   'albuquerque': 'NM', 'santa fe': 'NM', 'las cruces': 'NM',
   'louisville': 'KY', 'lexington': 'KY',
   'richmond': 'VA', 'virginia beach': 'VA', 'norfolk': 'VA', 'arlington': 'VA',
-  'mclean': 'VA', 'alexandria': 'VA', 'reston': 'VA',
+  'mclean': 'VA', 'alexandria': 'VA', 'reston': 'VA', 'chantilly': 'VA', 'ashburn': 'VA',
   'providence': 'RI', 'newport': 'RI',
   'boise': 'ID', 'meridian': 'ID',
   'des moines': 'IA', 'cedar rapids': 'IA',
@@ -81,18 +79,17 @@ const CITY_TO_STATE = {
   'wilmington': 'DE', 'dover': 'DE',
   'cheyenne': 'WY', 'casper': 'WY',
   'billings': 'MT', 'missoula': 'MT',
-  'pierre': 'SD', 'sioux falls': 'SD',
+  'pierre': 'SD',
   'charleston': 'WV', 'huntington': 'WV',
-  // Special cases
-  'washington': 'DC', // Assume DC unless specified as state
-  'arlington': 'VA', // Most common Arlington
-  'springfield': 'IL', // Most common Springfield
+  'washington': 'DC',
   'west nyack': 'NY',
   'walnut creek': 'CA',
   'clearwater beach': 'FL',
-  'galway': 'IE', // International - will be filtered
+  'jersey city': 'NJ',
+  'exton': 'PA',
+  'spring': 'TX',
+  'beavercreek': 'OH',
 };
-
 
 /**
  * Clean job title by removing common prefixes, suffixes, and formatting issues
@@ -126,16 +123,35 @@ function normalizeState(state) {
   
   const cleaned = state.trim().toUpperCase();
   
-  // Already an abbreviation
   if (VALID_STATE_ABBREVS.has(cleaned)) {
     return cleaned;
   }
   
-  // Convert full name to abbreviation
   const fullName = state.trim().toLowerCase();
   return STATE_ABBREVIATIONS[fullName] || '';
 }
 
+/**
+ * Remove street addresses and numbers from location string
+ */
+function removeAddressComponents(text) {
+  return text
+    // Remove street numbers and street types
+    .replace(/\b\d+\s+[A-Za-z]+\s+(Street|St|Avenue|Ave|Road|Rd|Drive|Dr|Boulevard|Blvd|Lane|Ln|Court|Ct|Circle|Cir|Parkway|Pkwy|Way)\b/gi, '')
+    // Remove suite/unit numbers
+    .replace(/\b(Suite|Ste|Unit|Apt|#)\s*\d+\w*/gi, '')
+    // Remove standalone street numbers at the start
+    .replace(/^\d{3,}\s+/, '')
+    // Remove zip codes
+    .replace(/\b\d{5}(-\d{4})?\b/g, '')
+    .trim();
+}
+
+/**
+ * Parse and clean location text to extract city and state
+ * Returns format: { city: string, state: string (abbreviation) }
+ * Remote positions will have city: 'US - Remote', state: ''
+ */
 /**
  * Parse and clean location text to extract city and state
  * Returns format: { city: string, state: string (abbreviation) }
@@ -159,16 +175,19 @@ function parseLocation(locationText) {
 
   const lowerText = cleanLocation.toLowerCase().trim();
 
-  // Check for remote patterns FIRST (before any other processing)
+  // Check for remote patterns FIRST
   const remotePatterns = [
     /^remote$/i,
     /^remote[,\s]*$/i,
     /^remote\s*-\s*$/i,
     /^\s*remote\s*$/i,
     /^us\s*-?\s*remote$/i,
+    /^usa\s*-?\s*remote$/i,
     /^remote\s*-?\s*us$/i,
+    /^remote\s*-?\s*usa$/i,
     /^work\s*from\s*home$/i,
-    /^wfh$/i
+    /^wfh$/i,
+    /🏠/  // Home emoji indicates remote
   ];
   
   for (const pattern of remotePatterns) {
@@ -179,7 +198,7 @@ function parseLocation(locationText) {
 
   // Check for multiple location patterns
   if (lowerText.includes('multiple') && 
-      (lowerText.includes('cities') || lowerText.includes('locations') || lowerText.includes('sites') || lowerText.includes('s'))) {
+      (lowerText.includes('cities') || lowerText.includes('locations') || lowerText.includes('sites') || lowerText.includes('position'))) {
     return { city: 'Multiple Cities', state: '' };
   }
   if (lowerText.includes('various') && 
@@ -190,8 +209,11 @@ function parseLocation(locationText) {
     return { city: 'Multiple Cities', state: '' };
   }
 
+  // Remove address components early
+  cleanLocation = removeAddressComponents(cleanLocation);
+
   // Handle "Available in one of X locations" pattern
-  if (cleanLocation.match(/Available in one of \d+ s/i)) {
+  if (cleanLocation.match(/Available in one of \d+ /i)) {
     const exampleLocations = cleanLocation.match(/\((.*?)\)/);
     if (exampleLocations && exampleLocations[1]) {
       const locations = exampleLocations[1].split(';').map(loc => loc.trim());
@@ -209,51 +231,51 @@ function parseLocation(locationText) {
     return { city: 'Multiple Cities', state: '' };
   }
 
-  // CRITICAL: Handle "US, State" format BEFORE removing US
-  // Pattern: "US, CA" or "US, Texas" etc.
-  const usStateMatch = cleanLocation.match(/^US[,\s]+(.+)$/i);
+  // Handle "US, State, City" or "USA, State, City" format - FIXED VERSION
+  const usStateCity = cleanLocation.match(/^(US|USA)[,\s]+([^,]+)[,\s]+(.+)$/i);
+  if (usStateCity) {
+    const part1 = usStateCity[2].trim();
+    const part2 = usStateCity[3].trim();
+    
+    const state1 = normalizeState(part1);
+    
+    // If part1 is a valid state (like "CA"), then part2 is the city
+    if (state1) {
+      return { city: part2, state: state1 };
+    }
+    
+    // If part1 is not a state, check if part2 is a state
+    const state2 = normalizeState(part2);
+    if (state2) {
+      return { city: part1, state: state2 };
+    }
+    
+    // If neither is a recognized state, try to find state for the city
+    const autoState = getStateForCity(part2) || getStateForCity(part1);
+    if (autoState) {
+      return { city: part2, state: autoState };
+    }
+    
+    // Default: use part2 as city, part1 as state (even if not recognized)
+    return { city: part2, state: part1 };
+  }
+
+  // Handle "US, State" or "USA, State" format BEFORE removing country
+  const usStateMatch = cleanLocation.match(/^(US|USA)[,\s]+(.+)$/i);
   if (usStateMatch) {
-    const statePart = usStateMatch[1].trim();
+    const statePart = usStateMatch[2].trim();
     const normalizedState = normalizeState(statePart);
     if (normalizedState) {
-      // It's a state-only location like "US, CA"
+      // State-only location like "US, CA" or "USA, CO"
       return { city: '', state: normalizedState };
     }
-    // Check if it's a city name after "US, "
+    // Check if it's a known city
     const autoState = getStateForCity(statePart);
     if (autoState) {
       return { city: statePart, state: autoState };
     }
-    // Just return the part after "US, " as city
+    // Return as city without state
     return { city: statePart, state: '' };
-  }
-
-  // Handle "US, State, City" format (e.g., "US, MA, Wilmington")
-  const usStateCity = cleanLocation.match(/^US[,\s]+([^,]+)[,\s]+(.+)$/i);
-  if (usStateCity) {
-    const part1 = usStateCity[1].trim();
-    const part2 = usStateCity[2].trim();
-    
-    const state1 = normalizeState(part1);
-    const state2 = normalizeState(part2);
-    
-    if (state1 && !state2) {
-      // Format: US, State, City
-      return { city: part2, state: state1 };
-    } else if (!state1 && state2) {
-      // Format: US, City, State (weird but handle it)
-      return { city: part1, state: state2 };
-    } else if (state1 && state2) {
-      // Both are states, take first
-      return { city: '', state: state1 };
-    } else {
-      // Neither is state, first is likely city
-      const autoState = getStateForCity(part1);
-      if (autoState) {
-        return { city: part1, state: autoState };
-      }
-      return { city: part1, state: '' };
-    }
   }
 
   // Handle patterns like "United States + 1 more, NY"
@@ -263,14 +285,14 @@ function parseLocation(locationText) {
     .replace(/US\s*\+\s*\d+\s*more[,\s]*/gi, '')
     .trim();
 
-  // Remove country identifiers AFTER checking for "US, State" pattern
+  // Remove country identifiers AFTER checking for "US/USA, State" pattern
   cleanLocation = cleanLocation
     .replace(/,?\s*United States\s*$/i, '')
     .replace(/,?\s*USA\s*$/i, '')
     .replace(/,?\s*U\.S\.A\.?\s*$/i, '')
     .trim();
 
-  // Non-location keywords to filter out
+  // Non-location keywords to filter out (EXPANDED LIST)
   const nonLocationKeywords = [
     'full time', 'full-time', 'fulltime', 'part time', 'part-time', 'parttime',
     'contract', 'contractor', 'temporary', 'temp', 'permanent', 'seasonal',
@@ -280,7 +302,10 @@ function parseLocation(locationText) {
     'required', 'req', 'preferred', 'pref', 'degree', 'bachelor', 'bachelors', 'bs', 'ba',
     'master', 'masters', 'ms', 'ma', 'mba', 'phd', 'doctorate', 'position', 'positions',
     'role', 'roles', 'job', 'jobs', 'opportunity', 'opportunities', 'opening', 'openings',
-    'posting', 'postings', 'vacancy', 'vacancies'
+    'posting', 'postings', 'vacancy', 'vacancies',
+    // JOB LEVELS (Critical for IBM case)
+    'entry level', 'entrylevel', 'entry-level', 'junior', 'mid level', 'mid-level', 'midlevel',
+    'senior', 'sr', 'lead', 'principal', 'staff', 'architect', 'fellow', 'intern', 'internship'
   ];
 
   // Remove non-location keywords
@@ -334,69 +359,50 @@ function parseLocation(locationText) {
     const part1 = parts[0];
     const part2 = parts[1];
     
-    // Try to normalize both parts as states
     const state1 = normalizeState(part1);
     const state2 = normalizeState(part2);
     
-    // Case 1: First part is a state (State, City format)
+    // Case 1: First part is a state (State, City format - REVERSED)
     if (state1 && !state2) {
-      // Format: State, City (reverse order)
       return { city: part2, state: state1 };
     }
     
-    // Case 2: Second part is a state (City, State format - normal)
+    // Case 2: Second part is a state (City, State format - NORMAL)
     if (!state1 && state2) {
-      // Format: City, State (normal order)
       return { city: part1, state: state2 };
     }
     
-    // Case 3: Both are states (shouldn't happen, but take first as state)
+    // Case 3: Both are states
     if (state1 && state2) {
       return { city: '', state: state1 };
     }
     
-    // Case 4: Neither is a state - check for "City, City" patterns
+    // Case 4: Neither is a state
     if (!state1 && !state2) {
-      // Handle "New York, New York" or "Kansas City, Kansas"
       if (part1.toLowerCase() === part2.toLowerCase()) {
-        // It's a duplicate - treat first part as city
         return { city: part1, state: '' };
       }
-      
-      // Check if part2 might be a misspelled state or city
-      // Default to treating first as city, second as unknown location info
       return { city: part1, state: '' };
     }
     
-    // Default: first is city, second is state
     return { city: part1, state: state2 };
     
   } else if (parts.length === 1) {
     const singlePart = parts[0];
     
-    // Check if it's just a state
+    // Check if it's just a state abbreviation
     const normalizedState = normalizeState(singlePart);
     if (normalizedState) {
       return { city: '', state: normalizedState };
     }
     
-    // Check if it contains job-related terms
-    const hasJobTerms = nonLocationKeywords.some(keyword => 
-      singlePart.toLowerCase().includes(keyword.toLowerCase())
-    );
-    
-    if (hasJobTerms) {
-      return { city: 'Multiple Cities', state: '' };
-    }
-    
-    // CRITICAL: Try to find state for this city
+    // Try to find state for this city
     const autoState = getStateForCity(singlePart);
     if (autoState) {
-      // Found the state! Return complete location
       return { city: singlePart, state: autoState };
     }
     
-    // It's just a city without state (and we couldn't find it)
+    // Just a city without state
     return { city: singlePart, state: '' };
   }
 
@@ -404,7 +410,7 @@ function parseLocation(locationText) {
 }
 
 /**
- * Convert date string to relative format (e.g., "1h", "2d", "1w", "1mo")
+ * Convert date string to relative format
  */
 function convertDateToRelative(postedDate) {
   const dateStr = String(postedDate);
@@ -474,7 +480,7 @@ function isJobOlderThanOneMonth(postedDate) {
 }
 
 /**
- * Main transformation function - converts raw job data to standardized format
+ * Main transformation function
  */
 function transformJobs(jobs, searchQuery) {
   return jobs
