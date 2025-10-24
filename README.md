@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 105+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 11+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 107+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,7 +23,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 105 internships & new grad roles  
+🔥 **Current Opportunities:** 107 internships & new grad roles  
 🏢 **Top Companies:** 11 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 24, 2025  
@@ -186,7 +186,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Incident Management Analyst Summer 2026 Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Cary-North-Carolina/Incident-Management-Analyst-Summer-2026-Internship_R-1086962?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 | Network Performance Summer 2026 Internship | West Nyack, NY | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/West-Nyack-New-York/Network-Performance-Summer-2026-Internship_R-1086965?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 
-### 🏭 **Manufacturing & Industrial** (29 positions)
+### 🏭 **Manufacturing & Industrial** (31 positions)
 
 #### ⚗️ **Applied Materials** (2 positions)
 
@@ -209,7 +209,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Intern - Process Development | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 1d |
 
 <details>
-<summary><h4>⚡ <strong>ABB</strong> (23 positions)</h4></summary>
+<summary><h4>⚡ <strong>ABB</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -235,7 +235,17 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Lean Challenge Intern Mebane - Summer | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012505/Lean-Challenge-Intern-Mebane-Summer-2026) | 1h |
 | Health, Safety & Environment Intern - Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026) | 1h |
 | 2026 Electrification Marketing & Sales Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
+| Multiphysics & Engineering Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010659/Multiphysics-Engineering-Intern-Summer-2026) | 1h |
+| Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
+| Electrical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007975/Electrical-Engineer-CO-OP-Spring-2026) | 1h |
+| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
 | 2026 Engineering Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
+| Quality Intern- Spring | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009592/Quality-Intern-Spring-2026) | 1h |
+| Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
+| Automation Engineer Intern - Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
+| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
+| Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
+| Field Application Engineering Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011129/Field-Application-Engineering-Intern-Summer-2026) | 1h |
 
 </details>
 
@@ -269,9 +279,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 84 | 80% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 90 | 84% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 21 | 20% | 1-2 years of experience |
+| 🔴 Early Career         | 17 | 16% | 1-2 years of experience |
 
 ---
 
@@ -281,7 +291,7 @@ No companies available
 - **Reston, VA**: 6 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **San Jose  San Jose, California US, CA**: 4 opportunities
-- **Senatobia, MS**: 3 opportunities
+- **Houston, TX**: 3 opportunities
 - **Greenville, SC**: 3 opportunities
 - **Houston, TX**: 3 opportunities
 
@@ -289,7 +299,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 105+ verified internships and new grad roles from 11 top companies.
+✅ **100% Real Opportunities:** 107+ verified internships and new grad roles from 11 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -432,7 +442,7 @@ No companies available
 
 <div align="center">
 
-**🎯 105 current opportunities from 11 top companies.**
+**🎯 107 current opportunities from 11 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
