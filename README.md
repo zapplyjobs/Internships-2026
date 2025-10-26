@@ -28,7 +28,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 26, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 21 (older than 1 week)
+📁 **Archived Opportunities:** 20 (older than 1 week)
 
 
 ---
@@ -181,10 +181,10 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Network Performance Summer 2026 Internship | Walnut Creek, CA | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Walnut-Creek-California/Network-Performance-Summer-2026-Internship_R-1086968?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Network Automation Summer 2026 Internship | Irving, TX | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Network-Automation-Summer-2026-Internship_R-1086958?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Incident Management Analyst Summer 2026 Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Cary-North-Carolina/Incident-Management-Analyst-Summer-2026-Internship_R-1086962?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
-| Network Performance Summer 2026 Internship | West Nyack, NY | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/West-Nyack-New-York/Network-Performance-Summer-2026-Internship_R-1086965?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| Network Performance Summer 2026 Internship | Walnut Creek, CA | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Walnut-Creek-California/Network-Performance-Summer-2026-Internship_R-1086968?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Network Automation Summer 2026 Internship | Irving, TX | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Network-Automation-Summer-2026-Internship_R-1086958?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Incident Management Analyst Summer 2026 Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Cary-North-Carolina/Incident-Management-Analyst-Summer-2026-Internship_R-1086962?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
+| Network Performance Summer 2026 Internship | West Nyack, NY | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/West-Nyack-New-York/Network-Performance-Summer-2026-Internship_R-1086965?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
 ### 🏭 **Manufacturing & Industrial** (28 positions)
 
@@ -206,30 +206,30 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Lean Challenge Intern Richmond- Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010385/Lean-Challenge-Intern-Richmond-Summer-2026) | 1h |
-| Procurement and Logistics Intern - Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009731/Procurement-and-Logistics-Intern-Summer-2026) | 1h |
-| IS Business Analyst Intern - spring | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009324/IS-Business-Analyst-Intern-spring-2026) | 1h |
 | Supply Chain & Data Analytics Intern- Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009414/Supply-Chain-Data-Analytics-Intern-Spring-2026) | 1h |
 | Lean Challenge Intern Mebane - Summer | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012505/Lean-Challenge-Intern-Mebane-Summer-2026) | 1h |
 | Health, Safety & Environment Intern - Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026) | 1h |
-| Production Engineering Intern - Spring & Summer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009426/Production-Engineering-Intern-Spring-Summer-2026) | 1h |
-| Health, Safety and Environment Intern- Spring | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009931/Health-Safety-and-Environment-Intern-Spring-2026) | 1h |
+| Multiphysics & Engineering Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010659/Multiphysics-Engineering-Intern-Summer-2026) | 1h |
+| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
 | 2026 Electrification Marketing & Sales Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
 | Data & Analytics Intern- Summer | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026) | 1h |
-| Multiphysics & Engineering Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010659/Multiphysics-Engineering-Intern-Summer-2026) | 1h |
-| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
-| Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
-| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
-| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
+| Production Engineering Intern - Spring & Summer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009426/Production-Engineering-Intern-Spring-Summer-2026) | 1h |
+| Health, Safety and Environment Intern- Spring | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009931/Health-Safety-and-Environment-Intern-Spring-2026) | 1h |
+| Lean Challenge Intern Richmond- Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010385/Lean-Challenge-Intern-Richmond-Summer-2026) | 1h |
+| Procurement and Logistics Intern - Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009731/Procurement-and-Logistics-Intern-Summer-2026) | 1h |
+| IS Business Analyst Intern - spring | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009324/IS-Business-Analyst-Intern-spring-2026) | 1h |
 | Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
 | Quality Intern- Spring | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009592/Quality-Intern-Spring-2026) | 1h |
 | Integrated Motor Drive Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008152/Integrated-Motor-Drive-Co-Op-Spring-2026) | 1h |
 | Electrical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007975/Electrical-Engineer-CO-OP-Spring-2026) | 1h |
 | Integrated Motor Drive SW Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013377/Integrated-Motor-Drive-SW-Co-Op-Spring-2026) | 1h |
 | Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
-| R&D Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009157/R-D-Intern-Summer-2026) | 1h |
+| Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
 | Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
+| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
+| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
+| Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
 
 </details>
 
@@ -277,7 +277,7 @@ No companies available
 - **San Jose  San Jose, California US, CA**: 4 opportunities
 - **Cary, NC**: 4 opportunities
 - **Greenville, SC**: 4 opportunities
-- **Richmond, VA**: 3 opportunities
+- **Mebane, NC**: 3 opportunities
 
 ---
 
@@ -335,12 +335,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 21 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 20 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 21 roles
+- **📁 Total Positions**: 20 roles
 - **🏢 Companies**: 10 companies  
 - **⭐ FAANG+ Opportunities**: 5 positions
 
@@ -361,7 +361,7 @@ No companies available
 |------|----------|-----------|-----|
 | Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 1w |
 
-### 💻 **Enterprise Software** (12 positions)
+### 💻 **Enterprise Software** (11 positions)
 
 #### 💻 **Dell** (1 position)
 
@@ -369,7 +369,7 @@ No companies available
 |------|----------|-----------|-----|
 | Global Operations Undergrad Intern 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Austin-Texas-United-States/Global-Operations-Undergrad-Intern_R275493-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f018d77a638aa9c39fce5&Job_Profiles=914289f44c2f0167a70527aa9c3992e5&Job_Profiles=914289f44c2f01177ee92faa9c39c6e5&Job_Profiles=914289f44c2f01ef8daa54b19c396cf6&Job_Profiles=7b0a08cdc207018a15c9fc3c1d048ce6) | 3w |
 
-#### 📱 **Verizon** (11 positions)
+#### 📱 **Verizon** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -383,7 +383,6 @@ No companies available
 | Technical Product Management Summer 2026 Internship | Plano, TX | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Plano-Texas/Technical-Product-Management-Summer-2026-Internship_R-1086171?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Cloud Solutions Summer 2026 Internship | Irving, TX | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Irving-Texas/Cloud-Solutions-Summer-2026-Internship_R-1086077?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Consumer Sales Ops & Partner Channel Summer 2026 Internship | sking Ridge, NJ | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Consumer-Sales-Ops---Partner-Channel-Summer-2026-Internship_R-1086120?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
-| Public Policy Summer 2026 Internship | District of Columbia, WA | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/Public-Policy-Summer-2026-Internship_R-1086014?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
 ### 🏭 **Manufacturing & Industrial** (4 positions)
 
