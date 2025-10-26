@@ -1,6 +1,6 @@
 # 🎓 New Grad & Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 10+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 103+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 9+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 102+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -23,8 +23,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 103 internships & new grad roles  
-🏢 **Top Companies:** 10 elite tech companies hiring  
+🔥 **Current Opportunities:** 102 internships & new grad roles  
+🏢 **Top Companies:** 9 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 44 premium opportunities  
 📅 **Last Updated:** October 26, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -186,7 +186,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Incident Management Analyst Summer 2026 Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Cary-North-Carolina/Incident-Management-Analyst-Summer-2026-Internship_R-1086962?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 | Network Performance Summer 2026 Internship | West Nyack, NY | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/West-Nyack-New-York/Network-Performance-Summer-2026-Internship_R-1086965?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (27 positions)
+### 🏭 **Manufacturing & Industrial** (26 positions)
 
 #### 💪 **Arm** (1 position)
 
@@ -232,12 +232,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 </details>
 
-#### 🔌 **Infineon Technologies** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| HR Intern | San Jose + 1 more | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
-
 
 
 
@@ -262,9 +256,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 80 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 79 | 77% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 23 | 22% | 1-2 years of experience |
+| 🔴 Early Career         | 23 | 23% | 1-2 years of experience |
 
 ---
 
@@ -282,7 +276,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 103+ verified internships and new grad roles from 10 top companies.
+✅ **100% Real Opportunities:** 102+ verified internships and new grad roles from 9 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -340,7 +334,7 @@ No companies available
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 20 roles
-- **🏢 Companies**: 10 companies  
+- **🏢 Companies**: 9 companies  
 - **⭐ FAANG+ Opportunities**: 5 positions
 
 ### ⭐ **FAANG+** (5 positions)
@@ -415,7 +409,7 @@ No companies available
 
 <div align="center">
 
-**🎯 103 current opportunities from 10 top companies.**
+**🎯 102 current opportunities from 9 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
