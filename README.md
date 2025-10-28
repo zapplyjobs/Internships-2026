@@ -76,8 +76,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | 2026 Operations Engineer Intern (Colorado) | CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 5d |
 | 2026 Operations Engineer Intern (Texas) | TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas) | 5d |
-| 2026 Operations Engineer Intern (Tennessee) | TN | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 5d |
 | Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 1d |
+| 2026 Operations Engineer Intern (Tennessee) | TN | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 5d |
 | 2026 Operations Engineer Intern (New Jersey) | NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 5d |
 | 2026 Operations Engineer Intern (Missouri) | MO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 5d |
 
@@ -199,8 +199,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
 | Integrated Motor Drive Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008152/Integrated-Motor-Drive-Co-Op-Spring-2026) | 1h |
 | Electrical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007975/Electrical-Engineer-CO-OP-Spring-2026) | 1h |
-| Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
 | Integrated Motor Drive SW Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013377/Integrated-Motor-Drive-SW-Co-Op-Spring-2026) | 1h |
+| Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
 | Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
 | Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
 | Supply Chain & Data Analytics Intern- Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009414/Supply-Chain-Data-Analytics-Intern-Spring-2026) | 1h |
