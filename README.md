@@ -28,7 +28,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 39 premium opportunities  
 📅 **Last Updated:** October 29, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 14 (older than 1 week)
+📁 **Archived Opportunities:** 15 (older than 1 week)
 
 
 ---
@@ -75,9 +75,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Operations Engineer Intern (Tennessee) | TN | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 6d |
-| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2d |
 | 2026 Operations Engineer Intern (Colorado) | CO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 6d |
 | 2026 Operations Engineer Intern (Texas) | TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas) | 6d |
+| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2d |
 | 2026 Operations Engineer Intern (New Jersey) | NJ | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 6d |
 | 2026 Operations Engineer Intern (Missouri) | MO | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 6d |
 
@@ -184,30 +184,30 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Vision Engineer Intern- AI Robotics- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014185/AI-Vision-Engineer-Intern-AI-Robotics-Spring-2026) | 1h |
-| AI Vision Software Engineer Intern- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014183/AI-Vision-Software-Engineer-Intern-Spring-2026) | 1h |
-| Manufacturing Engineering Intern - Summer | Albuquerque, NM | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013128/Manufacturing-Engineering-Intern-Summer-2026) | 1h |
-| Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
-| Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
-| Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
-| Electrical Engineerig Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineerig-Intern-Summer-2026) | 1h |
-| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
-| Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
-| Chemist / Chemical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012610/Chemist-Chemical-Engineer-Intern-Summer-2026) | 1h |
-| Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
-| Quotations Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010171/Quotations-Intern-Summer-2026) | 1h |
-| Automation Engineer Intern - Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
-| Field Application Engineering Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011129/Field-Application-Engineering-Intern-Summer-2026) | 1h |
-| Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
-| Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
-| Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
-| Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
-| Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
-| Application Engineering Intern Milwaukee-Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
-| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
+| Supply Chain & Data Analytics Intern- Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009414/Supply-Chain-Data-Analytics-Intern-Spring-2026) | 1h |
+| Lean Challenge Intern Mebane - Summer | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012505/Lean-Challenge-Intern-Mebane-Summer-2026) | 1h |
+| Health, Safety & Environment Intern - Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026) | 1h |
+| Multiphysics & Engineering Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010659/Multiphysics-Engineering-Intern-Summer-2026) | 1h |
+| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
+| Power Electronics Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014618/Power-Electronics-Intern-Summer-2026) | 1h |
+| 2026 Electrification Marketing & Sales Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
+| 2026 Engineering Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
+| Data & Analytics Intern- Summer | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026) | 1h |
+| Production Engineering Intern - Spring & Summer | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009426/Production-Engineering-Intern-Spring-Summer-2026) | 1h |
+| Health, Safety and Environment Intern- Spring | Pinetops, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009931/Health-Safety-and-Environment-Intern-Spring-2026) | 1h |
 | Lean Challenge Intern Richmond- Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010385/Lean-Challenge-Intern-Richmond-Summer-2026) | 1h |
+| Procurement and Logistics Intern - Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009731/Procurement-and-Logistics-Intern-Summer-2026) | 1h |
+| IS Business Analyst Intern - spring | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009324/IS-Business-Analyst-Intern-spring-2026) | 1h |
+| Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
+| Quality Intern- Spring | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009592/Quality-Intern-Spring-2026) | 1h |
+| Integrated Motor Drive Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008152/Integrated-Motor-Drive-Co-Op-Spring-2026) | 1h |
+| Electrical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007975/Electrical-Engineer-CO-OP-Spring-2026) | 1h |
+| Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
+| Integrated Motor Drive SW Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013377/Integrated-Motor-Drive-SW-Co-Op-Spring-2026) | 1h |
 | Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
-| R&D Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009157/R-D-Intern-Summer-2026) | 1h |
+| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
+| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
+| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
 
 </details>
 
@@ -251,12 +251,12 @@ No companies available
 ### 🌍 **Top Locations**
 - **Mountain View, CA**: 21 opportunities
 - **Multiple Cities**: 13 opportunities
-- **rtlesville, OK**: 8 opportunities
 - **Reston, VA**: 6 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **San Jose  San Jose, California US, CA**: 4 opportunities
+- **Greenville, SC**: 4 opportunities
 - **Austin  Austin, Texas US, TX**: 3 opportunities
-- **San Jose, CA**: 3 opportunities
+- **Mebane, NC**: 3 opportunities
 
 ---
 
@@ -314,12 +314,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 14 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 15 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 14 roles
+- **📁 Total Positions**: 15 roles
 - **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Opportunities**: 10 positions
 
@@ -359,7 +359,13 @@ No companies available
 |------|----------|-----------|-----|
 | Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 Internship | sking Ridge, NJ | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Morgan-State-University-Consumer-Sales-Ops---Partner-Channel-Summer-2026-Internship_R-1086277?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
+
+#### ⚗️ **Applied Materials** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| 2026 Spring Mechanical Engineer Co-op - Bachelors (Rochester, NY) | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312489199?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
 
 #### 🚗 **Magna International** (2 positions)
 
