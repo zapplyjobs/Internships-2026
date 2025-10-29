@@ -28,7 +28,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 39 premium opportunities  
 📅 **Last Updated:** October 29, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 15 (older than 1 week)
+📁 **Archived Opportunities:** 14 (older than 1 week)
 
 
 ---
@@ -242,9 +242,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 82 | 86% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 81 | 85% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 13 | 14% | 1-2 years of experience |
+| 🔴 Early Career         | 14 | 15% | 1-2 years of experience |
 
 ---
 
@@ -314,12 +314,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 15 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 14 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 15 roles
+- **📁 Total Positions**: 14 roles
 - **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Opportunities**: 10 positions
 
@@ -359,13 +359,7 @@ No companies available
 |------|----------|-----------|-----|
 | Morgan State University Consumer Sales Ops & Partner Channel Summer 2026 Internship | sking Ridge, NJ | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Morgan-State-University-Consumer-Sales-Ops---Partner-Channel-Summer-2026-Internship_R-1086277?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4w |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
-
-#### ⚗️ **Applied Materials** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Spring Mechanical Engineer Co-op - Bachelors (Rochester, NY) | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312489199?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 🚗 **Magna International** (2 positions)
 
