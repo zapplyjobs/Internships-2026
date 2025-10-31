@@ -19,6 +19,8 @@ const {
     delay 
 } = require('./utils');
 
+const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
+
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
@@ -63,6 +65,123 @@ const SEARCH_QUERIES = [
     'principal engineer',
     'engineering manager'
 ];
+
+/**
+ * Load job dates store - persists assigned dates for jobs without original dates
+ */
+function loadJobDatesStore() {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    const datesPath = path.join(dataDir, 'job_dates.json');
+    
+    try {
+        if (!fs.existsSync(datesPath)) {
+            return {};
+        }
+        
+        const fileContent = fs.readFileSync(datesPath, 'utf8');
+        if (!fileContent.trim()) {
+            return {};
+        }
+        
+        return JSON.parse(fileContent);
+        
+    } catch (error) {
+        console.error('Error loading job_dates.json:', error.message);
+        return {};
+    }
+}
+
+/**
+ * Save job dates store with atomic writes
+ */
+function saveJobDatesStore(jobDates) {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    
+    try {
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+
+        // Cleanup: Remove entries older than 60 days
+        const now = new Date();
+        const cleanedDates = {};
+        
+        Object.entries(jobDates).forEach(([jobId, dateInfo]) => {
+            const assignedDate = new Date(dateInfo.assigned_date);
+            const daysDiff = Math.floor((now - assignedDate) / (1000 * 60 * 60 * 24));
+            
+            if (daysDiff < 60) {
+                cleanedDates[jobId] = dateInfo;
+            }
+        });
+
+        const datesPath = path.join(dataDir, 'job_dates.json');
+        const tempPath = path.join(dataDir, 'job_dates.tmp.json');
+        
+        fs.writeFileSync(tempPath, JSON.stringify(cleanedDates, null, 2), 'utf8');
+        fs.renameSync(tempPath, datesPath);
+        
+    } catch (error) {
+        console.error('Error saving job_dates.json:', error.message);
+    }
+}
+
+/**
+ * Fill null dates with stored or new ISO datetimes, then convert to relative format
+ */
+function fillJobDates(jobs, jobDatesStore) {
+    const updatedDatesStore = { ...jobDatesStore };
+    
+    const processedJobs = jobs.map(job => {
+        const hasNoDate = job.job_posted_at === null || 
+                         job.job_posted_at === undefined || 
+                         job.job_posted_at === '' ||
+                         job.job_posted_at === 'null';
+        
+        if (!hasNoDate) {
+            // Job has a date - convert to relative if it's ISO format
+            const relativeDate = convertDateToRelative(job.job_posted_at);
+            if (relativeDate) {
+                job.job_posted_at = relativeDate;
+            }
+            return job;
+        }
+        
+        // Job has null date - need to fill it
+        const jobId = `${(job.company || job.employer_name || '').toLowerCase().replace(/\s+/g, '-')}-${(job.title || job.job_title || '').toLowerCase().replace(/\s+/g, '-')}-${(job.location || job.job_city || '').toLowerCase().replace(/\s+/g, '-')}`;
+        
+        let isoDatetime;
+        
+        if (updatedDatesStore[jobId]) {
+            // Reuse stored date
+            isoDatetime = updatedDatesStore[jobId].assigned_date;
+        } else {
+            // Assign new date and store it
+            isoDatetime = new Date().toISOString();
+            updatedDatesStore[jobId] = {
+                assigned_date: isoDatetime,
+                job_title: job.title || job.job_title,
+                company: job.company || job.employer_name,
+                first_seen: isoDatetime
+            };
+        }
+        
+        // Convert ISO to relative format
+        const relativeDate = convertDateToRelative(isoDatetime);
+        
+        return {
+            ...job,
+            job_posted_at: relativeDate || isoDatetime
+        };
+    });
+    
+    // Save if we added any new dates
+    if (Object.keys(updatedDatesStore).length > Object.keys(jobDatesStore).length) {
+        saveJobDatesStore(updatedDatesStore);
+    }
+    
+    return processedJobs;
+}
 
 // Enhanced API search with better error handling
 async function searchJobs(query, location = '') {
@@ -396,6 +515,7 @@ function loadSeenJobsStore() {
 }
 
 // Main job processing function
+// Main job processing function
 async function processJobs() {
     console.log('🚀 Starting job processing...');
     
@@ -403,14 +523,59 @@ async function processJobs() {
         // Load seen jobs for deduplication
         const seenIds = loadSeenJobsStore();
         
+        // Load job dates store
+        const jobDatesStore = loadJobDatesStore();
+        
         // Fetch jobs from both API and real career pages
         const allJobs = await fetchAllRealJobs();
-        const currentJobs = allJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at));
+        
+        // Fill null dates and convert to relative format
+        const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
         
         // Add unique IDs for deduplication using standardized generation
-        currentJobs.forEach(job => {
+        jobsWithDates.forEach(job => {
             job.id = generateJobId(job);
         });
+        
+        // **CRITICAL FIX: Sort ALL jobs by date before any filtering**
+        const sortedJobs = jobsWithDates.sort((a, b) => {
+            // Convert relative dates back to timestamps for proper sorting
+            const getTimestamp = (dateStr) => {
+                if (!dateStr) return 0;
+                
+                // Handle relative format (1d, 2w, 3mo, etc.)
+                const match = String(dateStr).match(/^(\d+)([hdwmo])$/i);
+                if (match) {
+                    const value = parseInt(match[1]);
+                    const unit = match[2].toLowerCase();
+                    const now = new Date();
+                    
+                    switch (unit) {
+                        case 'h': return now - (value * 60 * 60 * 1000);
+                        case 'd': return now - (value * 24 * 60 * 60 * 1000);
+                        case 'w': return now - (value * 7 * 24 * 60 * 60 * 1000);
+                        case 'mo': return now - (value * 30 * 24 * 60 * 60 * 1000);
+                        default: return now;
+                    }
+                }
+                
+                // Handle ISO date strings
+                try {
+                    return new Date(dateStr).getTime();
+                } catch {
+                    return 0;
+                }
+            };
+            
+            const aTime = getTimestamp(a.job_posted_at);
+            const bTime = getTimestamp(b.job_posted_at);
+            
+            // Sort by most recent first (descending)
+            return bTime - aTime;
+        });
+        
+        // Filter current jobs (not older than a week)
+        const currentJobs = sortedJobs.filter(j => !isJobOlderThanWeek(j.job_posted_at));
         
         // Filter for truly new jobs (not previously seen)
         const freshJobs = currentJobs.filter(job => !seenIds.has(job.id));
@@ -421,14 +586,43 @@ async function processJobs() {
             writeNewJobsJson([]);
         } else {
             console.log(`📬 Found ${freshJobs.length} new jobs to process`);
+            
+            // **Ensure fresh jobs are also sorted by date**
+            const sortedFreshJobs = freshJobs.sort((a, b) => {
+                const getTimestamp = (dateStr) => {
+                    if (!dateStr) return 0;
+                    const match = String(dateStr).match(/^(\d+)([hdwmo])$/i);
+                    if (match) {
+                        const value = parseInt(match[1]);
+                        const unit = match[2].toLowerCase();
+                        const now = new Date();
+                        
+                        switch (unit) {
+                            case 'h': return now - (value * 60 * 60 * 1000);
+                            case 'd': return now - (value * 24 * 60 * 60 * 1000);
+                            case 'w': return now - (value * 7 * 24 * 60 * 60 * 1000);
+                            case 'mo': return now - (value * 30 * 24 * 60 * 60 * 1000);
+                            default: return now;
+                        }
+                    }
+                    try {
+                        return new Date(dateStr).getTime();
+                    } catch {
+                        return 0;
+                    }
+                };
+                
+                return getTimestamp(b.job_posted_at) - getTimestamp(a.job_posted_at);
+            });
+            
             // Write new jobs for Discord bot consumption
-            writeNewJobsJson(freshJobs);
+            writeNewJobsJson(sortedFreshJobs);
             // Update seen jobs store
-            updateSeenJobsStore(freshJobs, seenIds);
+            updateSeenJobsStore(sortedFreshJobs, seenIds);
         }
         
         // Calculate archived jobs
-        const archivedJobs = allJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
+        const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
         
         console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
         
