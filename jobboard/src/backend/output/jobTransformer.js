@@ -513,6 +513,9 @@ function parseLocation(locationText) {
     }
   }
 
+  // Remove address components early
+  cleanLocation = removeAddressComponents(cleanLocation);
+
   // Pattern 5: CRITICAL - Handle AMD-style format: "US,FL,Orlando 3501 Quadrangle Blvd Orlando,Florida US"
  /**
  * COMPREHENSIVE AMD-style pattern matching
@@ -932,11 +935,13 @@ if (amdStylePattern) {
     }
     
     // Try to find state for this city
+    // Try to find state for this city
     const autoState = getStateForCity(singlePart);
     if (autoState) {
       return { city: singlePart, state: autoState };
     }
     
+    // Just a city without state
     // Just a city without state
     return { city: singlePart, state: '' };
   }
