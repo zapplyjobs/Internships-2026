@@ -13,9 +13,7 @@ interface URLSearchParams extends Iterable<[name: string, value: string]> {
 }
 
 declare class URLSearchParams {
-  constructor(
-    init: string | Record<string, string> | Iterable<[string, string]>
-  )
+  constructor(init: string | Record<string, string> | Iterable<[string, string]>)
 }
 
 export = URLSearchParams

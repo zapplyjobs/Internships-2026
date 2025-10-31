@@ -1576,7 +1576,7 @@ async function writeFile(filepath, data, opts, cb) {
       len += await write(fd, len ? data.subarray(len) : data)
       if (len === data.byteLength) break
     }
-  } catch (err) {
+  } catch (e) {
     err = e
   } finally {
     if (fd !== -1) await close(fd)
