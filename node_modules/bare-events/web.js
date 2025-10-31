@@ -135,24 +135,12 @@ exports.EventTarget = class EventTarget {
   addEventListener(type, callback = null, options = {}) {
     if (typeof options === 'boolean') options = { capture: options }
 
-    const {
-      capture = false,
-      passive = false,
-      once = false,
-      signal = null
-    } = options
+    const { capture = false, passive = false, once = false, signal = null } = options
 
     if (signal !== null && signal.aborted) return
     if (callback === null) return
 
-    const listener = new EventListener(
-      type,
-      callback,
-      capture,
-      passive,
-      once,
-      signal
-    )
+    const listener = new EventListener(type, callback, capture, passive, once, signal)
 
     const listeners = this._listeners.get(type)
 

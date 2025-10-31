@@ -142,9 +142,7 @@ module.exports = class URLSearchParams {
       if (i === -1) i = sequence.length
 
       const name = decodeURIComponent(sequence.substring(0, i))
-      const value = decodeURIComponent(
-        sequence.substring(i + 1, sequence.length)
-      )
+      const value = decodeURIComponent(sequence.substring(i + 1, sequence.length))
 
       let list = this._params.get(name)
 
