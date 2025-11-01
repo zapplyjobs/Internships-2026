@@ -162,7 +162,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629272-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 1d |
+| IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629272-3401/is-t-sap-project-manager-early-career?team=SFTWR) | 1d |
 | Construction Project Manager Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV) | 5d |
 
 ### 🏢 **Top Tech** (26 positions)
@@ -172,7 +172,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Undergraduate Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71723/login) | 4h |
+| 2026 Undergraduate Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71723/login) | 5h |
 | 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72068/login) | 18h |
 | 2026 PhD Mechanical Engineer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 18h |
 | 2026 PhD Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70606/login) | 18h |
@@ -263,9 +263,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 51 | 74% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 46 | 67% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 18 | 26% | 1-2 years of experience |
+| 🔴 Early Career         | 23 | 33% | 1-2 years of experience |
 
 ---
 
@@ -350,9 +350,9 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 1w |
 | 2026 Operations Engineer Intern (Texas) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas) | 1w |
+| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (New Jersey) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 1w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 1w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 2w |
@@ -367,8 +367,8 @@ No companies available
 | Apple Workplace Design - Innovation Team Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 1w |
 | Places Program Management and Operations (PMO) Program Manager Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 1w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-0836/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 1w |
-| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 1w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | New York City | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-2459/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 1w |
+| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 1w |
 | Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 2w |
 
 ### 🏢 **Top Tech** (3 positions)
