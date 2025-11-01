@@ -263,9 +263,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 52 | 75% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 46 | 67% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 17 | 25% | 1-2 years of experience |
+| 🔴 Early Career         | 23 | 33% | 1-2 years of experience |
 
 ---
 
