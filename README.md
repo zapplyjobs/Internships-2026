@@ -255,9 +255,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 48 | 71% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 46 | 68% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 20 | 29% | 1-2 years of experience |
+| 🔴 Early Career         | 22 | 32% | 1-2 years of experience |
 
 ---
 
@@ -342,9 +342,9 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 1w |
 | 2026 Operations Engineer Intern (Texas) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas) | 1w |
-| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (New Jersey) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 1w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 1w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 2w |
