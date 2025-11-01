@@ -173,31 +173,31 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Undergraduate Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71723/login) | 5h |
-| 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72068/login) | 18h |
-| 2026 PhD Mechanical Engineer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 18h |
-| 2026 PhD Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70606/login) | 18h |
-| 2026 PhD Machine Learning / Artificial Intelligence Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70668/login) | 18h |
-| 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71674/login) | 18h |
-| 2026 Masters Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72072/login) | 18h |
-| 2026 PhD Compiler Engineering Co-op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71502/login) | 18h |
-| Summer 2026 Undergrad Finance Intern 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 18h |
-| Summer 2026 Undergrad Finance Intern 🏠 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69949/login) | 18h |
-| Summer 2026 Undergrad Product Marketing Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70951/login) | 18h |
-| 2026 Masters Technical Writer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 18h |
-| 2026 Undergraduate Technical Writer Co-op/Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 18h |
-| 2026 Masters Firmware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72059/login) | 18h |
-| 2026 Undergrad Firmware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72051/login) | 18h |
-| 2026 PhD Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71782/login) | 18h |
-| Summer 2026 Masters Automotive Functional Safety Engineering Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70127/login) | 18h |
-| 2026 Masters Compiler Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71675/login) | 18h |
-| 2026 Masters Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71788/login) | 18h |
-| Summer 2026 Masters Analog/Mixed-Signal Intern | Ft Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69556/login) | 18h |
-| 2026 Summer GPU Intern | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70180/login) | 18h |
-| 2026 Masters Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70663/login) | 18h |
-| Summer 2026 PhD Analog/Mixed-Signal Design Intern | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69788/login) | 18h |
-| Summer 2026 Undergrad Analog/Mixed-Signal Design Intern | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69789/login) | 18h |
-| 2026 Undergrad Hardware Design Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72620/login) | 18h |
-| 2026 Masters Hardware Design Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72618/login) | 18h |
+| 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72068/login) | 19h |
+| 2026 PhD Mechanical Engineer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 19h |
+| 2026 PhD Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70606/login) | 19h |
+| 2026 PhD Machine Learning / Artificial Intelligence Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70668/login) | 19h |
+| 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71674/login) | 19h |
+| 2026 Masters Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72072/login) | 19h |
+| 2026 PhD Compiler Engineering Co-op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71502/login) | 19h |
+| Summer 2026 Undergrad Finance Intern 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 19h |
+| Summer 2026 Undergrad Finance Intern 🏠 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69949/login) | 19h |
+| Summer 2026 Undergrad Product Marketing Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70951/login) | 19h |
+| 2026 Masters Technical Writer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 19h |
+| 2026 Undergraduate Technical Writer Co-op/Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 19h |
+| 2026 Masters Firmware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72059/login) | 19h |
+| 2026 Undergrad Firmware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72051/login) | 19h |
+| 2026 PhD Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71782/login) | 19h |
+| Summer 2026 Masters Automotive Functional Safety Engineering Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70127/login) | 19h |
+| 2026 Masters Compiler Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71675/login) | 19h |
+| 2026 Masters Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71788/login) | 19h |
+| Summer 2026 Masters Analog/Mixed-Signal Intern | Ft Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69556/login) | 19h |
+| 2026 Summer GPU Intern | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70180/login) | 19h |
+| 2026 Masters Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70663/login) | 19h |
+| Summer 2026 PhD Analog/Mixed-Signal Design Intern | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69788/login) | 19h |
+| Summer 2026 Undergrad Analog/Mixed-Signal Design Intern | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69789/login) | 19h |
+| 2026 Undergrad Hardware Design Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72620/login) | 19h |
+| 2026 Masters Hardware Design Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72618/login) | 19h |
 
 </details>
 
@@ -215,29 +215,29 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern, Systems Engineering - Compute AI Hardware Platforms | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160) | 18h |
+| Intern, Systems Engineering - Compute AI Hardware Platforms | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160) | 19h |
 
 #### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern - Process Development | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 18h |
-| Intern - Metrology Process Development Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 18h |
+| Intern - Process Development | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/30947665) | 19h |
+| Intern - Metrology Process Development Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/37814552) | 19h |
 | Intern – Equipment Engineer | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.micron.com/careers/job/38609795) | 5d |
 
 #### 🔌 **Infineon Technologies** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Internship - Software Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967595964?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| HR Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship – Analog / Digital Design & Verification | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967034597?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - Product Quality Assurance 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961271276?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
-| Internship - Sustaining Product Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956317074?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 18h |
+| Internship - Software Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967595964?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| HR Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship – Analog / Digital Design & Verification | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967034597?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - Product Quality Assurance 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961271276?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
+| Internship - Sustaining Product Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956317074?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 19h |
 
 
 
@@ -263,9 +263,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 50 | 72% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 48 | 70% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 19 | 28% | 1-2 years of experience |
+| 🔴 Early Career         | 21 | 30% | 1-2 years of experience |
 
 ---
 
@@ -350,9 +350,9 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 1w |
 | 2026 Operations Engineer Intern (Texas) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas) | 1w |
-| 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 1w |
 | 2026 Operations Engineer Intern (New Jersey) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey) | 1w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 1w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 2w |
