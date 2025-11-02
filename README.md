@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 29 premium opportunities  
 📅 **Last Updated:** November 2, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 21 (older than 1 week)
+📁 **Archived Opportunities:** 20 (older than 1 week)
 
 
 ---
@@ -295,9 +295,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 76 | 82% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 74 | 80% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 17 | 18% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 20% | 1-2 years of experience |
 
 ---
 
@@ -367,12 +367,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 21 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 20 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 21 roles
+- **📁 Total Positions**: 20 roles
 - **🏢 Companies**: 9 companies  
 - **⭐ FAANG+ Opportunities**: 15 positions
 
@@ -403,14 +403,13 @@ No companies available
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 1w |
 | Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 2w |
 
-### 🏢 **Top Tech** (3 positions)
+### 🏢 **Top Tech** (2 positions)
 
-#### 🔬 **Synopsys** (3 positions)
+#### 🔬 **Synopsys** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Spring 2026 Software Development Co-Op (BS) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-software-development-co-op-bs/44408/87085296784) | 2w |
-| Spring 2026 Co-op, Software Development (Bachelors) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-co-op-software-development-bachelors/44408/87085296624) | 2w |
 | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-intern-software-development-mechanical-bachelor-s/44408/87085295552) | 2w |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
