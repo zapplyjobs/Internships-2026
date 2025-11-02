@@ -172,7 +172,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2026 Masters Silicon Architect and Radiation Effects Intern 🇺🇸 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/73297/login) | 21h |
+| Summer 2026 Masters Silicon Architect and Radiation Effects Intern 🇺🇸 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/73297/login) | 22h |
 | 2026 Undergrad Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72068/login) | 1d |
 | 2026 PhD Mechanical Engineer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72393/login) | 1d |
 | 2026 PhD Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70606/login) | 1d |
