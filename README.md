@@ -209,8 +209,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Lean Challenge Intern Mebane - Summer | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012505/Lean-Challenge-Intern-Mebane-Summer-2026) | 1h |
 | Health, Safety & Environment Intern - Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008027/Health-Safety-Environment-Intern-Spring-2026) | 1h |
 | Multiphysics & Engineering Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010659/Multiphysics-Engineering-Intern-Summer-2026) | 1h |
-| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
 | Power Electronics Intern- Summer | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014618/Power-Electronics-Intern-Summer-2026) | 1h |
+| Power Electronics Intern - Spring | Raleigh, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009444/Power-Electronics-Intern-Spring-2026) | 1h |
 | Commercial Sales Intern - Spring | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008697/Commercial-Sales-Intern-Spring-2026) | 1h |
 | 2026 Electrification Marketing & Sales Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
@@ -228,8 +228,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Mechanical Engineer CO-OP- Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00007974/Mechanical-Engineer-CO-OP-Spring-2026) | 1h |
 | Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
 | Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
-| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
 | Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
+| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
 | Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
 
 </details>
@@ -246,7 +246,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Internship - Product Quality Assurance 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961271276?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 3d |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 3d |
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 3d |
-| Internship - Test Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 3d |
+| Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 3d |
 
 
 
@@ -272,9 +272,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 63 | 79% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 60 | 75% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 17 | 21% | 1-2 years of experience |
+| 🔴 Early Career         | 20 | 25% | 1-2 years of experience |
 
 ---
 
