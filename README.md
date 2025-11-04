@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 12 premium opportunities  
 📅 **Last Updated:** November 4, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 23 (older than 1 week)
+📁 **Archived Opportunities:** 22 (older than 1 week)
 
 
 ---
@@ -263,9 +263,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 51 | 69% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 52 | 70% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 23 | 31% | 1-2 years of experience |
+| 🔴 Early Career         | 22 | 30% | 1-2 years of experience |
 
 ---
 
@@ -335,12 +335,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 23 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 22 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 23 roles
+- **📁 Total Positions**: 22 roles
 - **🏢 Companies**: 7 companies  
 - **⭐ FAANG+ Opportunities**: 17 positions
 
@@ -383,13 +383,7 @@ No companies available
 | Spring 2026 Co-op, Software Development (Bachelors) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-co-op-software-development-bachelors/44408/87085296624) | 2w |
 | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-intern-software-development-mechanical-bachelor-s/44408/87085295552) | 2w |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
-
-#### ⚗️ **Applied Materials** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Spring Mechanical Engineer Co-op - Bachelors (Rochester, NY) | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312489199?domain=appliedmaterials.com&triggerGoButton=false) | 2w |
+### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 🚗 **Magna International** (2 positions)
 
