@@ -122,8 +122,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 21h |
-| Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi) | 21h |
+| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 22h |
+| Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi) | 22h |
 | 2026 Operations Engineer Intern, RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120999/2026-operations-engineer-intern-rme-reliability-maintenance-engineering) | 1d |
 | 2026 Operations Engineer Intern (Mississippi) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120783/2026-operations-engineer-intern-mississippi) | 1d |
 
@@ -245,7 +245,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 5d |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 5d |
 | Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 5d |
-| Internship - Manufacturing Operations Project Management | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808959740003?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 5d |
+| Internship - Manufacturing Operations Project Management 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808959740003?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 5d |
 
 
 
@@ -271,9 +271,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 60 | 78% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 58 | 75% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 17 | 22% | 1-2 years of experience |
+| 🔴 Early Career         | 19 | 25% | 1-2 years of experience |
 
 ---
 
