@@ -9,9 +9,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-80-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-82-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-17-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 10+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 80+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 10+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 82+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 80 internships & new grad roles  
+🔥 **Current Opportunities:** 82 internships & new grad roles  
 🏢 **Top Companies:** 10 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 16 premium opportunities  
+⭐ **FAANG+ Positions:** 17 premium opportunities  
 📅 **Last Updated:** November 6, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 17 (older than 1 week)
+📁 **Archived Opportunities:** 18 (older than 1 week)
 
 
 ---
@@ -116,9 +116,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (16 positions)
+### ⭐ **FAANG+** (17 positions)
 
-#### 📦 **Amazon** (4 positions)
+#### 📦 **Amazon** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -126,6 +126,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 1d |
 | Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi) | 1d |
 | 2026 Operations Engineer Intern, RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120999/2026-operations-engineer-intern-rme-reliability-maintenance-engineering) | 2d |
+| 2026 Operations Engineer Intern (Mississippi) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120783/2026-operations-engineer-intern-mississippi) | 2d |
 
 #### 🟢 **Google** (11 positions)
 
@@ -209,7 +210,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Digital Transformation Analyst Intern | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0229131?q=internships) | 2d |
 
-### 🏭 **Manufacturing & Industrial** (33 positions)
+### 🏭 **Manufacturing & Industrial** (34 positions)
 
 #### 💪 **Arm** (1 position)
 
@@ -218,13 +219,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Intern, Systems Engineering - Compute AI Hardware Platforms | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.arm.com/job/san-jose/intern-systems-engineering-compute-ai-hardware-platforms/33099/87318572160) | 6d |
 
 <details>
-<summary><h4>⚡ <strong>ABB</strong> (23 positions)</h4></summary>
+<summary><h4>⚡ <strong>ABB</strong> (24 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
-| Supply Chain Intern - Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012706/Supply-Chain-Intern-Summer-2026) | 1h |
-| Application Engineering Intern Milwaukee-Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
+| AI Vision Engineer Intern- AI Robotics- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014185/AI-Vision-Engineer-Intern-AI-Robotics-Spring-2026) | 1h |
+| AI Vision Software Engineer Intern- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014183/AI-Vision-Software-Engineer-Intern-Spring-2026) | 1h |
+| Manufacturing Engineering Intern - Summer | Albuquerque, NM | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013128/Manufacturing-Engineering-Intern-Summer-2026) | 1h |
 | Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
 | Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
@@ -233,18 +234,19 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
 | Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
 | Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
+| Quotations Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010171/Quotations-Intern-Summer-2026) | 1h |
+| Field Application Engineering Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011129/Field-Application-Engineering-Intern-Summer-2026) | 1h |
+| Automation Engineer Intern - Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 | Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
-| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
 | Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
 | Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
 | Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
-| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
-| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
-| Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
-| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
-| Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
-| Integrated Motor Drive Co-Op - Spring | Greenville, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008152/Integrated-Motor-Drive-Co-Op-Spring-2026) | 1h |
-| Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
+| Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
+| Supply Chain Intern - Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012706/Supply-Chain-Intern-Summer-2026) | 1h |
+| Application Engineering Intern Milwaukee-Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
+| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
+| Lean Challenge Intern Richmond- Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010385/Lean-Challenge-Intern-Richmond-Summer-2026) | 1h |
+| Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
 
 </details>
 
@@ -260,7 +262,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6d |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6d |
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6d |
-| Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6d |
+| Internship - Test Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6d |
 
 
 
@@ -271,7 +273,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (4)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (11 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (1) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (5)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -286,27 +288,27 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 56 | 70% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 59 | 72% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 24 | 30% | 1-2 years of experience |
+| 🔴 Early Career         | 23 | 28% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Multiple Cities**: 24 opportunities
 - **rtlesville, OK**: 8 opportunities
+- **US - Remote 🏠**: 7 opportunities
+- **San Jose, CA**: 6 opportunities
 - **Mountain View, CA**: 6 opportunities
-- **US - Remote 🏠**: 6 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Austin, TX**: 4 opportunities
-- **San Jose, CA**: 4 opportunities
-- **Senatobia, MS**: 3 opportunities
+- **Houston, TX**: 3 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 80+ verified internships and new grad roles from 10 top companies.
+✅ **100% Real Opportunities:** 82+ verified internships and new grad roles from 10 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -358,21 +360,22 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 17 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 18 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 17 roles
+- **📁 Total Positions**: 18 roles
 - **🏢 Companies**: 10 companies  
-- **⭐ FAANG+ Opportunities**: 15 positions
+- **⭐ FAANG+ Opportunities**: 16 positions
 
-### ⭐ **FAANG+** (15 positions)
+### ⭐ **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (7 positions)
+#### 📦 **Amazon** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 1w |
 | 2026 Operations Engineer Intern (Tennessee) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee) | 2w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 2w |
 | 2026 Operations Engineer Intern (Texas), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas-rme-reliability-maintenance-engineering) | 2w |
@@ -414,7 +417,7 @@ No companies available
 
 <div align="center">
 
-**🎯 80 current opportunities from 10 top companies.**
+**🎯 82 current opportunities from 10 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
