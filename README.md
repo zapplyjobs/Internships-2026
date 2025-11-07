@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-79-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-80-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-16-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 8+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 79+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 8+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 80+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,7 +71,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 79 internships & new grad roles  
+🔥 **Current Opportunities:** 80 internships & new grad roles  
 🏢 **Top Companies:** 8 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 16 premium opportunities  
 📅 **Last Updated:** November 7, 2025  
@@ -144,13 +144,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Mechanical Product Design Engineer, Platforms, PhD, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135902922931086022-mechanical-product-design-engineer-platforms-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | Hardware Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127517607023518406-hardware-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 
-### 🏢 **Top Tech** (28 positions)
+### 🏢 **Top Tech** (29 positions)
 
-#### 🔬 **Synopsys** (2 positions)
+#### 🔬 **Synopsys** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Spring 2026 Software Development Co-Op (BS) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-software-development-co-op-bs/44408/87085296784) | 2d |
+| Spring 2026 Co-op, Software Development (Bachelors) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-co-op-software-development-bachelors/44408/87085296624) | 2d |
 | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-intern-software-development-mechanical-bachelor-s/44408/87085295552) | 2d |
 
 <details>
@@ -210,30 +211,30 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Manufacturing Engineering Intern - Summer | Albuquerque, NM | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013128/Manufacturing-Engineering-Intern-Summer-2026) | 1h |
 | AI Vision Engineer Intern- AI Robotics- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014185/AI-Vision-Engineer-Intern-AI-Robotics-Spring-2026) | 1h |
 | AI Vision Software Engineer Intern- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014183/AI-Vision-Software-Engineer-Intern-Spring-2026) | 1h |
-| Manufacturing Engineering Intern - Summer | Albuquerque, NM | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013128/Manufacturing-Engineering-Intern-Summer-2026) | 1h |
 | Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
 | Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
+| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
 | Chemist / Chemical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012610/Chemist-Chemical-Engineer-Intern-Summer-2026) | 1h |
 | Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
-| Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
 | Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
-| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
+| Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
 | Quotations Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010171/Quotations-Intern-Summer-2026) | 1h |
-| Automation Engineer Intern - Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 | Field Application Engineering Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011129/Field-Application-Engineering-Intern-Summer-2026) | 1h |
+| Automation Engineer Intern - Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011245/Automation-Engineer-Intern-Summer-2026) | 1h |
 | Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
 | Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
 | Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
 | Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
+| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
 | Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
 | Supply Chain Intern - Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012706/Supply-Chain-Intern-Summer-2026) | 1h |
 | Application Engineering Intern Milwaukee-Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008133/Application-Engineering-Intern-Milwaukee-Summer-2026) | 1h |
-| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
-| Lean Challenge Intern Richmond- Summer | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010385/Lean-Challenge-Intern-Richmond-Summer-2026) | 1h |
-| Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
+| Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
+| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
 
 </details>
 
@@ -268,16 +269,16 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (2) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (26)
+💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 🔬 **[Synopsys](https://careers.synopsys.com/search-jobs)** (3) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (26)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 59 | 75% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 56 | 70% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 20 | 25% | 1-2 years of experience |
+| 🔴 Early Career         | 24 | 30% | 1-2 years of experience |
 
 ---
 
@@ -286,8 +287,8 @@ No companies available
 - **rtlesville, OK**: 8 opportunities
 - **San Jose, CA**: 6 opportunities
 - **Mountain View, CA**: 6 opportunities
+- **US - Remote 🏠**: 6 opportunities
 - **Sunnyvale, CA**: 5 opportunities
-- **US - Remote 🏠**: 5 opportunities
 - **Austin, TX**: 4 opportunities
 - **Houston, TX**: 3 opportunities
 
@@ -295,7 +296,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 79+ verified internships and new grad roles from 8 top companies.
+✅ **100% Real Opportunities:** 80+ verified internships and new grad roles from 8 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -381,8 +382,8 @@ No companies available
 | Apple Workplace Design - Innovation Team Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 2w |
 | Places Program Management and Operations (PMO) Program Manager Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 2w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-0836/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
-| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | New York City | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-2459/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
+| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | New York City | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-2459/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
 | Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 3w |
 
 ### 🏭 **Manufacturing & Industrial** (2 positions)
@@ -405,7 +406,7 @@ No companies available
 
 <div align="center">
 
-**🎯 79 current opportunities from 8 top companies.**
+**🎯 80 current opportunities from 8 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
