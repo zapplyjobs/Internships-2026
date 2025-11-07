@@ -247,7 +247,7 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 39 | 83% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 8 | 17% | 1-2 years of experience |
+| 🔴 Early Career         | 7 | 15% | 1-2 years of experience |
 
 ---
 
@@ -257,6 +257,7 @@ No companies available
 - **Sunnyvale, CA**: 4 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
+- **Cleveland, OH**: 3 opportunities
 - **Mountain View, CA**: 3 opportunities
 - **Santa Clara, CA**: 3 opportunities
 - **Multiple Cities**: 3 opportunities
