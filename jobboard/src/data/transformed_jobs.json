@@ -1,38 +1,20 @@
 [
   {
-    "employer_name": "Applied Materials",
-    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": null,
-    "job_description": "internships job for the role 2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312754953?domain=appliedmaterials.com&triggerGoButton=false"
+    "employer_name": "Micron Technology",
+    "job_title": "Engineer, Metrology & Real Time Defects Analysis",
+    "job_city": "Singapore",
+    "job_state": "",
+    "job_posted_at": "3w",
+    "job_description": "• Set up tool qualification criteria and implement monitoring through Statistical Process Control (SPC) charts.\n• Interest in and knowledge of the semiconductor industry and Micron is preferred.\n• Demonstrated leadership and a track record of impact are highly desirable Bachelor’s or advanced degree in Engineering or Science is required Internship or experience in the semiconductor industry is a plus Strong analytical, logical, and critical thinking skills Candidates with relevant experience is preferred.\n• Support Fab through data analysis, providing knowledgeable summations of results and recommendations on how to proceed with process changes, equipment availability improvements and cost reduction work.\n• Develop and run projects crafted to enhance inline detection, improve efficiency, reduce cost, reduce tool measurement variability and improve machine availability.",
+    "job_apply_link": "https://careers.micron.com"
   },
   {
-    "employer_name": "Applied Materials",
-    "job_title": "2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": null,
-    "job_description": "internships job for the role 2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA)",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312754954?domain=appliedmaterials.com&triggerGoButton=false"
-  },
-  {
-    "employer_name": "Applied Materials",
-    "job_title": "2026 Summer Internship - Photonics Test Engineer - PhD (Santa Clara, CA)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": null,
-    "job_description": "internships job for the role 2026 Summer Internship - Photonics Test Engineer - PhD (Santa Clara, CA)",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312754955?domain=appliedmaterials.com&triggerGoButton=false"
-  },
-  {
-    "employer_name": "Applied Materials",
-    "job_title": "Mechanical Engineer New College Grad - Doctorate Degree (Santa Clara, CA)",
-    "job_city": "Santa Clara",
-    "job_state": "CA",
-    "job_posted_at": "2w",
-    "job_description": "internships job for the role Mechanical Engineer New College Grad - Doctorate Degree (Santa Clara, CA)",
-    "job_apply_link": "https://careers.appliedmaterials.com/careers/job/790312512155?domain=appliedmaterials.com&triggerGoButton=false"
+    "employer_name": "Micron Technology",
+    "job_title": "Fab10 Process and Equipment Engineer",
+    "job_city": "Singapore",
+    "job_state": "",
+    "job_posted_at": "1w",
+    "job_description": "• Interest in and knowledge of the semiconductor industry and Micron is preferred Demonstrated leadership and a track record of impact are highly desirable Bachelor’s or advanced degree in Engineering or Science is required Internship or experience in the semiconductor industry is a plus Strong analytical, logical, and critical thinking skills Less than 2 years.\n• Knowledge of Statistical Process Control (SPC), Design of Experiment, Engineering Statistical data analysis would be advantageous.",
+    "job_apply_link": "https://careers.micron.com"
   }
 ]
