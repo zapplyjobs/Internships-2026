@@ -253,8 +253,8 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **rtlesville, OK**: 8 opportunities
 - **US - Remote 🏠**: 6 opportunities
-- **Cary, NC**: 4 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Mebane, NC**: 3 opportunities
 - **Raleigh, NC**: 3 opportunities
