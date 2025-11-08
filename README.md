@@ -243,9 +243,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 39 | 87% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 40 | 89% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 6 | 13% | 1-2 years of experience |
+| 🔴 Early Career         | 5 | 11% | 1-2 years of experience |
 
 ---
 
@@ -397,8 +397,8 @@ No companies available
 | HR Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship – Analog / Digital Design & Verification | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967034597?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
-| Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
+| Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Manufacturing Operations Project Management 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808959740003?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 
