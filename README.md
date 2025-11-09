@@ -245,13 +245,13 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 39 | 87% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 6 | 13% | 1-2 years of experience |
+| 🔴 Early Career         | 5 | 10% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **rtlesville, OK**: 8 opportunities
 - **US - Remote 🏠**: 6 opportunities
+- **Cary, NC**: 4 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
