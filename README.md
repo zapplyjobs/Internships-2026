@@ -206,6 +206,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
 | Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
 | Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
+| R&D Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009157/R-D-Intern-Summer-2026) | 1h |
+| Product Development Engineering Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012836/Product-Development-Engineering-Intern-Summer-2026) | 1h |
 
 </details>
 
@@ -240,7 +242,6 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
-- **rtlesville, OK**: 8 opportunities
 - **US - Remote 🏠**: 6 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Senatobia, MS**: 3 opportunities
