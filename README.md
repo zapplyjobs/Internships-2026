@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-38-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-32-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-11-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 38+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 32+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 38 internships & new grad roles  
+🔥 **Current Opportunities:** 32 internships & new grad roles  
 🏢 **Top Companies:** 7 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 11 premium opportunities  
 📅 **Last Updated:** November 10, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 49 (older than 1 week)
+📁 **Archived Opportunities:** 50 (older than 1 week)
 
 
 ---
@@ -165,7 +165,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Digital Transformation Analyst Intern | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0229131?q=internships) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (22 positions)
+### 🏭 **Manufacturing & Industrial** (16 positions)
 
 #### ⚗️ **Applied Materials** (3 positions)
 
@@ -175,8 +175,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312754954?domain=appliedmaterials.com&triggerGoButton=false) | 4d |
 | 2026 Summer Internship - Photonics Test Engineer - PhD (Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312754955?domain=appliedmaterials.com&triggerGoButton=false) | 4d |
 
-<details>
-<summary><h4>⚡ <strong>ABB</strong> (19 positions)</h4></summary>
+#### ⚡ **ABB** (13 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -224,26 +223,27 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 34 | 89% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 28 | 88% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 4 | 11% | 1-2 years of experience |
+| 🔴 Early Career         | 4 | 13% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **US - Remote 🏠**: 6 opportunities
-- **Cary, NC**: 4 opportunities
 - **Sunnyvale, CA**: 4 opportunities
-- **Cleveland, OH**: 3 opportunities
+- **Houston, TX**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Santa Clara, CA**: 3 opportunities
+- **rtlesville, OK**: 2 opportunities
+- **Milwaukee, WI**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 38+ verified internships and new grad roles from 7 top companies.
+✅ **100% Real Opportunities:** 32+ verified internships and new grad roles from 7 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -295,18 +295,18 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 49 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 50 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 49 roles
+- **📁 Total Positions**: 50 roles
 - **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Opportunities**: 12 positions
+- **⭐ FAANG+ Opportunities**: 13 positions
 
-### ⭐ **FAANG+** (12 positions)
+### ⭐ **FAANG+** (13 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -315,6 +315,7 @@ No companies available
 | 2026 Operations Engineer Intern (Texas), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (New Jersey), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 2w |
+| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 3w |
 
 #### 🍎 **Apple** (6 positions)
@@ -375,8 +376,8 @@ No companies available
 | HR Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship – Analog / Digital Design & Verification | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967034597?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
-| Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
+| Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Sustaining Product Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956317074?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 
@@ -398,7 +399,7 @@ No companies available
 
 <div align="center">
 
-**🎯 38 current opportunities from 7 top companies.**
+**🎯 32 current opportunities from 7 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
