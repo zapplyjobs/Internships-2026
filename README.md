@@ -244,9 +244,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 41 | 89% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 40 | 87% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 5 | 11% | 1-2 years of experience |
+| 🔴 Early Career         | 6 | 13% | 1-2 years of experience |
 
 ---
 
@@ -346,8 +346,8 @@ No companies available
 | IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629272-3401/is-t-sap-project-manager-early-career?team=SFTWR) | 1w |
 | Construction Project Manager Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV) | 2w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Cupertino, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-0836/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
-| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
 | Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | New York City | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-2459/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
+| Engineer, Evolve - an Apple Services Rotation Program - Engineering New Grads | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627361-3337/engineer-evolve-an-apple-services-rotation-program-engineering-new-grads?team=SFTWR) | 2w |
 | Facilities Maintenance Internship | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624542-0157/facilities-maintenance-internship?team=CORSV) | 3w |
 | Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 3w |
 | Apple Workplace Design - Innovation Team Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 3w |
