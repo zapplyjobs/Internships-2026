@@ -4,7 +4,7 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 9</em></p>
+<p><em>Real-time opportunities from 8</em></p>
 
 <br>
 
@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 12 premium opportunities  
 📅 **Last Updated:** November 10, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 50 (older than 1 week)
+📁 **Archived Opportunities:** 51 (older than 1 week)
 
 
 ---
@@ -245,7 +245,7 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 39 | 87% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 6 | 13% | 1-2 years of experience |
+| 🔴 Early Career         | 6 | 14% | 1-2 years of experience |
 
 ---
 
@@ -315,24 +315,25 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 50 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 51 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 50 roles
-- **🏢 Companies**: 9 companies  
-- **⭐ FAANG+ Opportunities**: 15 positions
+- **📁 Total Positions**: 51 roles
+- **🏢 Companies**: 8 companies  
+- **⭐ FAANG+ Opportunities**: 16 positions
 
-### ⭐ **FAANG+** (15 positions)
+### ⭐ **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (6 positions)
+#### 📦 **Amazon** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Operations Engineer Intern (Tennessee), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 2w |
 | 2026 Operations Engineer Intern (Texas), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas-rme-reliability-maintenance-engineering) | 2w |
+| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | 2026 Operations Engineer Intern (New Jersey), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 2w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 3w |
