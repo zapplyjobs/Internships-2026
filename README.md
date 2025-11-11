@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 9 premium opportunities  
 📅 **Last Updated:** November 11, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 52 (older than 1 week)
+📁 **Archived Opportunities:** 51 (older than 1 week)
 
 
 ---
@@ -201,7 +201,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Communications Intern-Giving and Volunteering | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25003343/?keyword=internships&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 21h |
+| Communications Intern-Giving and Volunteering | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25003343/?keyword=internships&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 22h |
 
 
 
@@ -240,8 +240,9 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Santa Clara, CA**: 3 opportunities
-- **Mountain View, CA**: 2 opportunities
-- **Multiple Cities**: 2 opportunities
+- **San Jose, CA**: 2 opportunities
+- **rtlesville, OK**: 2 opportunities
+- **Milwaukee, WI**: 2 opportunities
 
 ---
 
@@ -299,18 +300,18 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 52 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 51 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 52 roles
+- **📁 Total Positions**: 51 roles
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Opportunities**: 15 positions
+- **⭐ FAANG+ Opportunities**: 14 positions
 
-### ⭐ **FAANG+** (15 positions)
+### ⭐ **FAANG+** (14 positions)
 
-#### 📦 **Amazon** (9 positions)
+#### 📦 **Amazon** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -321,7 +322,6 @@ No companies available
 | 2026 Operations Engineer Intern (Texas), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (New Jersey), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 2w |
-| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 4w |
 
 #### 🍎 **Apple** (6 positions)
@@ -362,7 +362,7 @@ No companies available
 | 2026 Masters Compiler Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71675/login) | 1w |
 | 2026 Masters Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71788/login) | 1w |
 | 2026 Undergraduate Software Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71723/login) | 1w |
-| Summer 2026 Masters Silicon Architect and Radiation Effects Intern 🇺🇸 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/73297/login) | 1w |
+| Summer 2026 Masters Silicon Architect and Radiation Effects Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/73297/login) | 1w |
 | Summer 2026 Masters Analog/Mixed-Signal Intern | Ft Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69556/login) | 1w |
 | 2026 Masters Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70663/login) | 1w |
 | 2026 Summer GPU Intern | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70180/login) | 1w |
