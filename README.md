@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 8 premium opportunities  
 📅 **Last Updated:** November 12, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 54 (older than 1 week)
+📁 **Archived Opportunities:** 55 (older than 1 week)
 
 
 ---
@@ -142,7 +142,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2026 PhD DSP and ML Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/74335/login) | 10h |
+| Summer 2026 PhD DSP and ML Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/74335/login) | 11h |
 
 ### 💻 **Enterprise Software** (2 positions)
 
@@ -179,11 +179,11 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
 | Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
-| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
 | Chemist / Chemical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012610/Chemist-Chemical-Engineer-Intern-Summer-2026) | 1h |
 | Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
-| Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
 | Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
+| Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
+| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
 
 </details>
 
@@ -295,12 +295,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 54 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 55 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 54 roles
+- **📁 Total Positions**: 55 roles
 - **🏢 Companies**: 8 companies  
 - **⭐ FAANG+ Opportunities**: 17 positions
 
@@ -333,7 +333,7 @@ No companies available
 | Apple Workplace Design - Innovation Team Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 3w |
 | Places Program Management and Operations (PMO) Program Manager Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 3w |
 
-### 🏢 **Top Tech** (27 positions)
+### 🏢 **Top Tech** (28 positions)
 
 #### 🔬 **Synopsys** (3 positions)
 
@@ -344,7 +344,7 @@ No companies available
 | Spring 2026 Intern - Software Development - Mechanical (Bachelor's) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-intern-software-development-mechanical-bachelor-s/44408/87085295552) | 1w |
 
 <details>
-<summary><h4>🔶 <strong>AMD</strong> (24 positions)</h4></summary>
+<summary><h4>🔶 <strong>AMD</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -356,6 +356,7 @@ No companies available
 | 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71674/login) | 1w |
 | Summer 2026 Undergrad Finance Intern 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 1w |
 | Summer 2026 Masters Automotive Functional Safety Engineering Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70127/login) | 1w |
+| 2026 Masters Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72072/login) | 1w |
 | 2026 PhD Compiler Engineering Co-op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71502/login) | 1w |
 | 2026 Masters Technical Writer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 1w |
 | 2026 Undergraduate Technical Writer Co-op/Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72105/login) | 1w |
