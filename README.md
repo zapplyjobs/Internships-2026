@@ -147,11 +147,10 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏭 **Manufacturing & Industrial** (21 positions)
 
-#### ⚗️ **Applied Materials** (2 positions)
+#### ⚗️ **Applied Materials** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312754953?domain=appliedmaterials.com&triggerGoButton=false) | 5d |
 | 2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312754954?domain=appliedmaterials.com&triggerGoButton=false) | 6d |
 
 <details>
