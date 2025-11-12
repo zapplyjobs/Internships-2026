@@ -223,19 +223,16 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 26 | 87% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 4 | 13% | 1-2 years of experience |
+| 🔴 Early Career         | 3 | 11% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Multiple Cities**: 3 opportunities
 - **Cleveland, OH**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
-- **Selmer, TN**: 1 opportunities
-- **Memphis, TN**: 1 opportunities
 
 ---
 
@@ -300,24 +297,23 @@ No companies available
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 55 roles
 - **🏢 Companies**: 8 companies  
-- **⭐ FAANG+ Opportunities**: 17 positions
+- **⭐ FAANG+ Opportunities**: 16 positions
 
-### ⭐ **FAANG+** (17 positions)
+### ⭐ **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (11 positions)
+#### 📦 **Amazon** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi) | 1w |
+| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 1w |
 | 2026 Operations Engineer Intern, RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120999/2026-operations-engineer-intern-rme-reliability-maintenance-engineering) | 1w |
 | 2026 Operations Engineer Intern (Mississippi) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120783/2026-operations-engineer-intern-mississippi) | 1w |
-| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 1w |
 | 2026 Operations Engineer Intern (Tennessee), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114051/2026-operations-engineer-intern-tennessee-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Colorado) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114416/2026-operations-engineer-intern-colorado) | 2w |
 | 2026 Operations Engineer Intern (Texas), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114413/2026-operations-engineer-intern-texas-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (New Jersey), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114057/2026-operations-engineer-intern-new-jersey-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Missouri) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3114056/2026-operations-engineer-intern-missouri) | 2w |
-| Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | 2026 Tax Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3108700/2026-tax-intern-summer) | 4w |
 
 #### 🍎 **Apple** (6 positions)
