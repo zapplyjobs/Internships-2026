@@ -135,7 +135,8 @@ bare_fs__on_request_result(uv_fs_t *handle) {
   err = js_create_int32(env, status, &args[1]);
   assert(err == 0);
 
-  js_call_function(env, ctx, on_result, 2, args, NULL);
+  err = js_call_function(env, ctx, on_result, 2, args, NULL);
+  (void) err;
 
   err = js_close_handle_scope(env, scope);
   assert(err == 0);
@@ -420,6 +421,21 @@ bare_fs_request_result_dirents(js_env_t *env, js_callback_info_t *info) {
 
 static void
 bare_fs__on_open(uv_fs_t *handle) {
+  int err;
+
+  bare_fs_req_t *req = (bare_fs_req_t *) handle;
+
+  int status = handle->result;
+
+  if (req->exiting && status >= 0) {
+    int fd = status;
+
+    uv_fs_req_cleanup(handle);
+
+    err = uv_fs_close(handle->loop, handle, fd, NULL);
+    assert(err == 0);
+  }
+
   bare_fs__on_request_result(handle);
 }
 
@@ -1656,6 +1672,21 @@ bare_fs_symlink_sync(js_env_t *env, js_callback_info_t *info) {
 
 static void
 bare_fs__on_opendir(uv_fs_t *handle) {
+  int err;
+
+  bare_fs_req_t *req = (bare_fs_req_t *) handle;
+
+  int status = handle->result;
+
+  if (req->exiting && status >= 0) {
+    uv_dir_t *dir = handle->ptr;
+
+    uv_fs_req_cleanup(handle);
+
+    err = uv_fs_closedir(handle->loop, handle, dir, NULL);
+    assert(err == 0);
+  }
+
   bare_fs__on_request_result(handle);
 }
 
@@ -1868,7 +1899,8 @@ bare_fs__on_watcher_event(uv_fs_event_t *handle, const char *filename, int event
     memcpy(data, (void *) filename, len);
   }
 
-  js_call_function(env, ctx, on_event, 3, args, NULL);
+  err = js_call_function(env, ctx, on_event, 3, args, NULL);
+  (void) err;
 
   err = js_close_handle_scope(env, scope);
   assert(err == 0);
@@ -1915,7 +1947,8 @@ bare_fs__on_watcher_close(uv_handle_t *handle) {
     err = js_delete_reference(env, watcher->ctx);
     assert(err == 0);
 
-    js_call_function(env, ctx, on_close, 0, NULL, NULL);
+    err = js_call_function(env, ctx, on_close, 0, NULL, NULL);
+    (void) err;
 
     err = js_close_handle_scope(env, scope);
     assert(err == 0);
