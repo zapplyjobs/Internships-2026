@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 7 premium opportunities  
 📅 **Last Updated:** November 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 53 (older than 1 week)
+📁 **Archived Opportunities:** 54 (older than 1 week)
 
 
 ---
@@ -286,12 +286,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 53 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 54 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 53 roles
+- **📁 Total Positions**: 54 roles
 - **🏢 Companies**: 7 companies  
 - **⭐ FAANG+ Opportunities**: 17 positions
 
@@ -375,7 +375,13 @@ No companies available
 |------|----------|-----------|-----|
 | Undergraduate Intern, Dell Venture Capital 🏠 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-California-United-States/Undergraduate-Intern--Dell-Venture-Capital_R273048?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f018d77a638aa9c39fce5&Job_Profiles=914289f44c2f0167a70527aa9c3992e5&Job_Profiles=914289f44c2f01177ee92faa9c39c6e5&Job_Profiles=914289f44c2f01ef8daa54b19c396cf6&Job_Profiles=7b0a08cdc207018a15c9fc3c1d048ce6) | 1w |
 
-### 🏭 **Manufacturing & Industrial** (7 positions)
+### 🏭 **Manufacturing & Industrial** (8 positions)
+
+#### ⚗️ **Applied Materials** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| 2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA) | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.appliedmaterials.com/careers/job/790312754954?domain=appliedmaterials.com&triggerGoButton=false) | 1w |
 
 #### 🔌 **Infineon Technologies** (7 positions)
 
@@ -385,7 +391,7 @@ No companies available
 | Internship - Software Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967595964?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | HR Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961527808?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship – Analog / Digital Design & Verification | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967034597?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
-| Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
+| Internship - Electrical Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 
