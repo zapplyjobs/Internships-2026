@@ -232,6 +232,7 @@ No companies available
 - **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Multiple Cities**: 3 opportunities
+- **Cleveland, OH**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
 - **Memphis, TN**: 1 opportunities
 - **Selmer, TN**: 1 opportunities
