@@ -4,7 +4,7 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 8</em></p>
+<p><em>Real-time opportunities from 7</em></p>
 
 <br>
 
@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 9 premium opportunities  
 📅 **Last Updated:** November 14, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 54 (older than 1 week)
+📁 **Archived Opportunities:** 53 (older than 1 week)
 
 
 ---
@@ -140,7 +140,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 10h |
+| Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 11h |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -212,8 +212,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (2 companies)
-💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1)
+#### ☁️ **Enterprise & Cloud** (1 company)
+🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1 position)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
@@ -222,7 +222,7 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 26 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 3 | 10% | 1-2 years of experience |
+| 🔴 Early Career         | 2 | 7% | 1-2 years of experience |
 
 ---
 
@@ -292,13 +292,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 54 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 53 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 54 roles
-- **🏢 Companies**: 8 companies  
+- **📁 Total Positions**: 53 roles
+- **🏢 Companies**: 7 companies  
 - **⭐ FAANG+ Opportunities**: 17 positions
 
 ### ⭐ **FAANG+** (17 positions)
@@ -307,8 +307,8 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 1w |
 | Software Dev Engineer Intern - AI/ML (Summer 2026), Artificial General Intelligence (AGI) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121382/software-dev-engineer-intern-ai-ml-summer-2026-artificial-general-intelligence-agi) | 1w |
+| Software Dev Engineer Intern - AI (Summer 2026), Amazon Devices & Services | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121440/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services) | 1w |
 | 2026 Operations Engineer Intern (Bellevue), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121843/2026-operations-engineer-intern-bellevue-rme-reliability-maintenance-engineering) | 1w |
 | 2026 Operations Engineer Intern, RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120999/2026-operations-engineer-intern-rme-reliability-maintenance-engineering) | 1w |
 | 2026 Operations Engineer Intern (Mississippi) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120783/2026-operations-engineer-intern-mississippi) | 1w |
@@ -373,14 +373,6 @@ No companies available
 
 </details>
 
-### 💻 **Enterprise Software** (1 position)
-
-#### 💻 **Dell** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Undergraduate Intern, Dell Venture Capital 🏠 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Palo-Alto-California-United-States/Undergraduate-Intern--Dell-Venture-Capital_R273048?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09&Job_Profiles=914289f44c2f018d77a638aa9c39fce5&Job_Profiles=914289f44c2f0167a70527aa9c3992e5&Job_Profiles=914289f44c2f01177ee92faa9c39c6e5&Job_Profiles=914289f44c2f01ef8daa54b19c396cf6&Job_Profiles=7b0a08cdc207018a15c9fc3c1d048ce6) | 1w |
-
 ### 🏭 **Manufacturing & Industrial** (8 positions)
 
 #### 🔌 **Infineon Technologies** (8 positions)
@@ -393,7 +385,7 @@ No companies available
 | Internship - Electrical Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808966905812?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - IC Analog Design 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362823?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Device Technology | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961362822?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
-| Internship - Test Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
+| Internship - Test Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808961246818?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 | Internship - Sustaining Product Engineer 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956317074?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1w |
 
 
