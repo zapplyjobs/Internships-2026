@@ -74,7 +74,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 🔥 **Current Opportunities:** 30 internships & new grad roles  
 🏢 **Top Companies:** 7 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 8 premium opportunities  
-📅 **Last Updated:** November 13, 2025  
+📅 **Last Updated:** November 14, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Opportunities:** 54 (older than 1 week)
 
@@ -122,8 +122,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 23h |
-| 2026 Amazon Air (Network Control Center) Supply Chain Manager Intern | Erlanger, KY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3125653/2026-amazon-air-network-control-center-supply-chain-manager-intern) | 1d |
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1d |
+| 2026 Amazon Air (Network Control Center) Supply Chain Manager Intern | Erlanger, KY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3125653/2026-amazon-air-network-control-center-supply-chain-manager-intern) | 2d |
 
 #### 🟢 **Google** (6 positions)
 
@@ -190,7 +190,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Communications Intern-Giving and Volunteering | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25003343/?keyword=internships&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 2d |
+| Communications Intern-Giving and Volunteering | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25003343/?keyword=internships&lastSelectedFacet=CATEGORIES&location=United+States&locationId=300000000361862&locationLevel=country&mode=location) | 3d |
 
 
 
@@ -218,7 +218,7 @@ No companies available
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 27 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 3 | 10% | 1-2 years of experience |
+| 🔴 Early Career         | 3 | 12% | 1-2 years of experience |
 
 ---
 
@@ -319,12 +319,12 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629272-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 1w |
 | Construction Project Manager Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV) | 2w |
+| IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200629272-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 2w |
 | Facilities Maintenance Internship | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624542-0157/facilities-maintenance-internship?team=CORSV) | 3w |
-| Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 3w |
 | Apple Workplace Design - Innovation Team Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624571-3749/apple-workplace-design-innovation-team-internship?team=CORSV) | 3w |
 | Places Program Management and Operations (PMO) Program Manager Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200625086-3749/places-program-management-and-operations-pmo-program-manager-intern?team=CORSV) | 3w |
+| Places Space Planning Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200626818-3749/places-space-planning-internship?team=CORSV) | 4w |
 
 ### 🏢 **Top Tech** (28 positions)
 
@@ -411,6 +411,6 @@ No companies available
 
 ---
 
-**Last Updated:** November 13, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** November 14, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
