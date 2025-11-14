@@ -140,7 +140,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 15h |
+| Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 16h |
 
 ### 🏢 **Top Tech** (1 position)
 
