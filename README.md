@@ -240,7 +240,6 @@ No companies available
 - **Raleigh, NC**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Multiple Cities**: 3 opportunities
-- **Pinetops, NC**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
 - **Hackettstown, NJ**: 1 opportunities
 
