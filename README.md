@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 10</em></p>
+<p><em>Real-time opportunities from 9</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-32-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-31-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-12-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 10+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 32+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 9+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 31+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,8 +71,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 32 internships & new grad roles  
-🏢 **Top Companies:** 10 elite tech companies hiring  
+🔥 **Current Opportunities:** 31 internships & new grad roles  
+🏢 **Top Companies:** 9 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 12 premium opportunities  
 📅 **Last Updated:** November 15, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -145,19 +145,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632319-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 1d |
 | Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 1d |
 
-### 🏢 **Top Tech** (2 positions)
+### 🏢 **Top Tech** (1 position)
 
 #### 🔶 **AMD** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Summer 2026 PhD DSP and ML Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/74335/login) | 2d |
-
-#### ☁️ **Salesforce** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Summer 2026 Intern - Software Engineer | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/) | 1h |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -224,17 +218,17 @@ Connect with fellow students and new grads, get career advice, share internship 
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (3 companies)
-💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1) • ☁️ **[Salesforce](https://careers.salesforce.com/en/jobs)** (1)
+#### ☁️ **Enterprise & Cloud** (2 companies)
+💻 **[Dell](https://dell.wd1.myworkdayjobs.com/External)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 29 | 91% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 28 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 3 | 9% | 1-2 years of experience |
+| 🔴 Early Career         | 3 | 10% | 1-2 years of experience |
 
 ---
 
@@ -252,7 +246,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 32+ verified internships and new grad roles from 10 top companies.
+✅ **100% Real Opportunities:** 31+ verified internships and new grad roles from 9 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -310,7 +304,7 @@ No companies available
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 53 roles
-- **🏢 Companies**: 10 companies  
+- **🏢 Companies**: 9 companies  
 - **⭐ FAANG+ Opportunities**: 16 positions
 
 ### ⭐ **FAANG+** (16 positions)
@@ -418,7 +412,7 @@ No companies available
 
 <div align="center">
 
-**🎯 32 current opportunities from 10 top companies.**
+**🎯 31 current opportunities from 9 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
