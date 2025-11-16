@@ -245,6 +245,7 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Multiple Cities**: 3 opportunities
+- **Bloomfield, CT**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
 - **Seattle, WA**: 2 opportunities
 - **Selmer, TN**: 1 opportunities
