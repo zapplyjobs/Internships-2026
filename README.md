@@ -246,7 +246,6 @@ No companies available
 - **Multiple Cities**: 3 opportunities
 - **Pinetops, NC**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
-- **Seattle, WA**: 2 opportunities
 
 ---
 
