@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-35-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-30-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-14-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 8+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 35+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 8+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 30+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,7 +71,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 35 internships & new grad roles  
+🔥 **Current Opportunities:** 30 internships & new grad roles  
 🏢 **Top Companies:** 8 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 14 premium opportunities  
 📅 **Last Updated:** November 17, 2025  
@@ -143,7 +143,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 19h |
+| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 20h |
 | IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632319-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 3d |
 | Software Engineer, IS&T Early Career | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200627852-3956/software-engineer-is-t-early-career?team=SFTWR) | 3d |
 
@@ -163,10 +163,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, Digital Transformation Analyst Intern | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0229131?q=internships) | 3d |
 
-### 🏭 **Manufacturing & Industrial** (19 positions)
+### 🏭 **Manufacturing & Industrial** (14 positions)
 
-<details>
-<summary><h4>⚡ <strong>ABB</strong> (17 positions)</h4></summary>
+#### ⚡ **ABB** (12 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -239,9 +238,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 32 | 91% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 27 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 1 | 3% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 6% | 1-2 years of experience |
+| 🔴 Early Career         | 2 | 7% | 1-2 years of experience |
 
 ---
 
@@ -259,7 +258,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 35+ verified internships and new grad roles from 8 top companies.
+✅ **100% Real Opportunities:** 30+ verified internships and new grad roles from 8 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -416,7 +415,7 @@ No companies available
 
 <div align="center">
 
-**🎯 35 current opportunities from 8 top companies.**
+**🎯 30 current opportunities from 8 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
