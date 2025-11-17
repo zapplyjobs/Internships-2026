@@ -1,12 +1,52 @@
 [
   {
     "employer_name": "Amazon",
-    "job_title": "Research Scientist Intern, Center for Quantum Computing",
-    "job_city": "Pasadena",
-    "job_state": "CA",
-    "job_posted_at": "4d",
-    "job_description": "internships job for the role Research Scientist Intern, Center for Quantum Computing",
-    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3126341/research-scientist-intern-center-for-quantum-computing",
-    "id": "amazon-research-scientist-intern-center-for-quantum-computing-pasadena"
+    "job_title": "2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127849/2026-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+    "job_city": "Corvallis",
+    "job_state": "OR",
+    "job_posted_at": "23h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting-corvallis"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127847/2026-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "23h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting-seattle"
   }
 ]
