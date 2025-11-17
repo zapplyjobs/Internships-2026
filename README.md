@@ -239,6 +239,7 @@ No companies available
 - **Bloomfield, CT**: 2 opportunities
 - **Seattle, WA**: 2 opportunities
 - **Multiple Cities**: 2 opportunities
+- **Selmer, TN**: 1 opportunities
 
 ---
 
