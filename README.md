@@ -254,8 +254,8 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Mountain View, CA**: 3 opportunities
+- **rtlesville, OK**: 2 opportunities
 - **Multiple Cities**: 2 opportunities
-- **US - Remote 🏠**: 2 opportunities
 
 ---
 
