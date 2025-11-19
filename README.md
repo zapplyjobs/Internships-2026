@@ -148,7 +148,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 21h |
+| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 22h |
 | IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632319-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 5d |
 
 ### 💻 **Enterprise Software** (3 positions)
