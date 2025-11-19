@@ -11,7 +11,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-38-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-19-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-18-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -73,7 +73,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 🔥 **Current Opportunities:** 38 internships & new grad roles  
 🏢 **Top Companies:** 9 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 19 premium opportunities  
+⭐ **FAANG+ Positions:** 18 premium opportunities  
 📅 **Last Updated:** November 19, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
 📁 **Archived Opportunities:** 47 (older than 1 week)
@@ -116,7 +116,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (19 positions)
+### ⭐ **FAANG+** (18 positions)
 
 #### 📦 **Amazon** (9 positions)
 
@@ -144,12 +144,11 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Mechanical Product Design Engineer, Platforms, PhD, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/135902922931086022-mechanical-product-design-engineer-platforms-phd-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 | Hardware Engineer, Platforms, University Graduate | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/127517607023518406-hardware-engineer-platforms-university-graduate?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=internships&page=1) | 1h |
 
-#### 🍎 **Apple** (3 positions)
+#### 🍎 **Apple** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 21h |
-| Software Engineer, IS&T Early Career Opportunities | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200623901-0157/software-engineer-is-t-early-career-opportunities?team=SFTWR) | 21h |
 | IS&T SAP Project Manager, Early Career | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632319-0240/is-t-sap-project-manager-early-career?team=SFTWR) | 5d |
 
 ### 💻 **Enterprise Software** (3 positions)
@@ -180,13 +179,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | University, 2026 Summer Games Software Developer Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356?q=internships) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (15 positions)
+### 🏭 **Manufacturing & Industrial** (16 positions)
 
-#### ⚡ **ABB** (12 positions)
+#### ⚡ **ABB** (13 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
+| AI Vision Engineer Intern- AI Robotics- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014185/AI-Vision-Engineer-Intern-AI-Robotics-Spring-2026) | 1h |
+| AI Vision Software Engineer Intern- Spring | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014183/AI-Vision-Software-Engineer-Intern-Spring-2026) | 1h |
 | Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
 | Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
 | Quotations Intern- Summer | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010171/Quotations-Intern-Summer-2026) | 1h |
@@ -196,14 +196,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
 | Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
 | Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
-| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
 | Application Engineering Intern Lombard- Summer | Lombard, IL | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008124/Application-Engineering-Intern-Lombard-Summer-2026) | 1h |
+| Supply Chain Intern - Summer | Milwaukee, WI | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012706/Supply-Chain-Intern-Summer-2026) | 1h |
 
 #### 🔌 **Infineon Technologies** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Internship - Analog Design | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956305280?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 6h |
+| Internship - Analog Design | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808956305280?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 7h |
 | Internship - Applications Engineer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808968063394?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 8h |
 | Internship - Quality Engineering 🇺🇸 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://jobs.infineon.com/careers/job/563808967704626?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com) | 1d |
 
@@ -216,7 +216,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (3 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (7 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (3) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (9)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (7 positions) • 🍎 **[Apple](https://jobs.apple.com/en-us/search)** (2) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (9)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -231,9 +231,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 35 | 92% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 34 | 89% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 1 | 3% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 5% | 1-2 years of experience |
+| 🔴 Early Career         | 3 | 8% | 1-2 years of experience |
 
 ---
 
@@ -241,11 +241,11 @@ No companies available
 - **Seattle, WA**: 5 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Multiple Cities**: 4 opportunities
-- **rtlesville, OK**: 3 opportunities
 - **Houston, TX**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Mountain View, CA**: 3 opportunities
-- **US - Remote 🏠**: 2 opportunities
+- **San Jose, CA**: 2 opportunities
+- **rtlesville, OK**: 2 opportunities
 
 ---
 
