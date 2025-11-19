@@ -246,6 +246,7 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Seattle, WA**: 5 opportunities
 - **Cary, NC**: 3 opportunities
@@ -254,6 +255,7 @@ No companies available
 - **Mountain View, CA**: 3 opportunities
 - **Pinetops, NC**: 2 opportunities
 - **Multiple Cities**: 2 opportunities
+- **US - Remote 🏠**: 2 opportunities
 
 ---
 
