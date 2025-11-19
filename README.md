@@ -244,6 +244,7 @@ No companies available
 - **Bloomfield, CT**: 3 opportunities
 - **Mountain View, CA**: 3 opportunities
 - **Multiple Cities**: 2 opportunities
+- **Corvallis, OR**: 2 opportunities
 
 ---
 
