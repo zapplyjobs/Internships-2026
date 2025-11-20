@@ -194,6 +194,16 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
+| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
+| Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
+| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
+| Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
+| Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
+| Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
+| Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
+| Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
+| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
 | Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
 | Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
@@ -201,16 +211,6 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
 | Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
 | Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
-| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
-| Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
-| Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
-| Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
-| Lean Challenge Intern Senatobia - Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010039/Lean-Challenge-Intern-Senatobia-Summer-2026) | 1h |
-| Quality Documentation Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010218/Quality-Documentation-Intern-Summer-2026) | 1h |
-| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
-| Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
-| Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
-| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
 
 </details>
 
@@ -253,12 +253,12 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
-- **rtlesville, OK**: 8 opportunities
+- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Multiple Cities**: 4 opportunities
 - **Seattle, WA**: 4 opportunities
-- **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
+- **Senatobia, MS**: 3 opportunities
 - **Mountain View, CA**: 3 opportunities
 - **US - Remote 🏠**: 2 opportunities
 
