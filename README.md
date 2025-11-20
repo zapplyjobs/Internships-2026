@@ -157,7 +157,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2025 Undergraduate Product Marketing Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/75123/login) | 22h |
+| Summer 2025 Undergraduate Product Marketing Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/75123/login) | 23h |
 
 ### 💻 **Enterprise Software** (2 positions)
 
@@ -251,11 +251,11 @@ No companies available
 - **rtlesville, OK**: 8 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Seattle, WA**: 5 opportunities
+- **Cary, NC**: 4 opportunities
 - **Multiple Cities**: 4 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
-- **US - Remote 🏠**: 2 opportunities
 
 ---
 
