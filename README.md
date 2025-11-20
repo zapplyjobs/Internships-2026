@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 17 premium opportunities  
 📅 **Last Updated:** November 20, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 46 (older than 1 week)
+📁 **Archived Opportunities:** 47 (older than 1 week)
 
 
 ---
@@ -260,7 +260,6 @@ No companies available
 - **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
-- **US - Remote 🏠**: 2 opportunities
 
 ---
 
@@ -318,12 +317,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 46 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 47 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 46 roles
+- **📁 Total Positions**: 47 roles
 - **🏢 Companies**: 10 companies  
 - **⭐ FAANG+ Opportunities**: 13 positions
 
@@ -352,13 +351,14 @@ No companies available
 |------|----------|-----------|-----|
 | Construction Project Manager Internship | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200624581-3749/construction-project-manager-internship?team=CORSV) | 3w |
 
-### 🏢 **Top Tech** (26 positions)
+### 🏢 **Top Tech** (27 positions)
 
-#### 🔬 **Synopsys** (1 position)
+#### 🔬 **Synopsys** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Spring 2026 Software Development Co-Op (BS) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-software-development-co-op-bs/44408/87085296784) | 2w |
+| Spring 2026 Co-op, Software Development (Bachelors) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://careers.synopsys.com/job/canonsburg/spring-2026-co-op-software-development-bachelors/44408/87085296624) | 2w |
 
 <details>
 <summary><h4>🔶 <strong>AMD</strong> (25 positions)</h4></summary>
