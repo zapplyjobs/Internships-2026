@@ -156,7 +156,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2025 Undergraduate Product Marketing Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/75123/login) | 4h |
+| Summer 2025 Undergraduate Product Marketing Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/75123/login) | 5h |
 
 ### 💻 **Enterprise Software** (3 positions)
 
@@ -246,9 +246,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 40 | 93% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 39 | 91% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 1 | 2% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 5% | 1-2 years of experience |
+| 🔴 Early Career         | 3 | 7% | 1-2 years of experience |
 
 ---
 
