@@ -200,11 +200,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
 | Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
 | Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
-| Manufacturing Engineering Intern Hickory, NC - Summer | Hickory, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010378/Manufacturing-Engineering-Intern-Hickory-NC-Summer-2026) | 1h |
-| Quality Intern- Spring | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009592/Quality-Intern-Spring-2026) | 1h |
-| R&D Product Development Engineering Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014416/R-D-Product-Development-Engineering-Intern-Summer-2026) | 1h |
-| R&D Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009157/R-D-Intern-Summer-2026) | 1h |
-| Product Development Engineering Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012836/Product-Development-Engineering-Intern-Summer-2026) | 1h |
+| Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
 
 </details>
 
@@ -240,21 +236,21 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 39 | 93% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 40 | 95% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 1 | 2% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 5% | 1-2 years of experience |
+| 🔴 Early Career         | 1 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Cary, NC**: 5 opportunities
+- **rtlesville, OK**: 8 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Seattle, WA**: 5 opportunities
 - **Multiple Cities**: 4 opportunities
-- **Raleigh, NC**: 3 opportunities
+- **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
-- **Bloomfield, CT**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
+- **Corvallis, OR**: 2 opportunities
 
 ---
 
