@@ -365,7 +365,6 @@ No companies available
 | Summer 2026 Undergrad Finance Intern 🏠 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69949/login) | 3w |
 | 2026 Undergraduate Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71674/login) | 3w |
 | Summer 2026 Undergrad Finance Intern 🏠 | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69955/login) | 3w |
-| Summer 2026 Masters Automotive Functional Safety Engineering Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70127/login) | 3w |
 | 2026 Masters Hardware Engineering Intern/Co-op | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72072/login) | 3w |
 | 2026 PhD Compiler Engineering Co-op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/71502/login) | 3w |
 | 2026 Masters Technical Writer Co-op/Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/72106/login) | 3w |
@@ -379,6 +378,7 @@ No companies available
 | Summer 2026 Masters Analog/Mixed-Signal Intern | Ft Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69556/login) | 3w |
 | 2026 Masters Machine Learning / Artificial Intelligence Engineering Co-Op/Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70663/login) | 3w |
 | 2026 Summer GPU Intern | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/70180/login) | 3w |
+| Summer 2026 PhD Analog/Mixed-Signal Design Intern | Rochester, NY | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/69788/login) | 3w |
 
 </details>
 
