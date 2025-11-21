@@ -256,6 +256,7 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Pinetops, NC**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
+- **Corvallis, OR**: 2 opportunities
 
 ---
 
