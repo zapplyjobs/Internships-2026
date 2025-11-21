@@ -253,7 +253,6 @@ No companies available
 - **Senatobia, MS**: 3 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
-- **Corvallis, OR**: 2 opportunities
 
 ---
 
