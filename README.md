@@ -255,6 +255,7 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Bloomfield, CT**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
+- **Corvallis, OR**: 2 opportunities
 
 ---
 
