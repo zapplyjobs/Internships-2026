@@ -148,7 +148,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200630545-3401/pr-specialist-rotational-program?team=MKTG) | 2d |
+| PR Specialist, Rotational Program | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://jobs.apple.com/en-us/details/200632282-3401/pr-specialist-rotational-program?team=MKTG) | 3d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -214,9 +214,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 19 | 86% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 1 | 5% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 9% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 21 | 88% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 1 | 4% | 0-1 years of experience |
+| 🔴 Early Career         | 2 | 8% | 1-2 years of experience |
 
 ---
 
