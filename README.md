@@ -163,13 +163,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| FCBA Public Policy Summer 2026 Internship | WA | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/FCBA-Public-Policy-Summer-2026-Internship_R-1087400?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| FCBA Public Policy Summer 2026 Internship | WA | [<img src="./image.png" width="100" alt="Apply">](https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Washington-District-of-Columbia/FCBA-Public-Policy-Summer-2026-Internship_R-1087400?q=internships&locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5d |
 
 #### 📅 **Workday** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Financial Analyst MBA Intern 🏠 | Pleasanton, CA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Financial-Analyst-MBA-Intern_JR-0101802-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 5d |
+| Financial Analyst MBA Intern 🏠 | Pleasanton, CA | [<img src="./image.png" width="100" alt="Apply">](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Financial-Analyst-MBA-Intern_JR-0101802-1?q=internships&Location_Country=bc33aa3152ec42d4995f4791a106ed09) | 6d |
 
 ### 🚀 **Startups & Growth** (2 positions)
 
@@ -178,7 +178,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | University, Digital Transformation Analyst Intern | Arlington, VA | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0229131?q=internships) | 1d |
-| University, 2026 Summer Games Software Developer Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356?q=internships) | 4d |
+| University, 2026 Summer Games Software Developer Intern | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356?q=internships) | 5d |
 
 ### 🏭 **Manufacturing & Industrial** (21 positions)
 
@@ -247,6 +247,7 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Multiple Cities**: 4 opportunities
 - **Seattle, WA**: 4 opportunities
@@ -255,6 +256,7 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Pinetops, NC**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
+- **Corvallis, OR**: 2 opportunities
 
 ---
 
