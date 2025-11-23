@@ -248,6 +248,7 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 5 opportunities
 - **Multiple Cities**: 4 opportunities
 - **Seattle, WA**: 4 opportunities
