@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - United States - Master's Student Science Recruiting",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "6h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - United States - Master's Student Science Recruiting",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3131317/2026-applied-science-internship-united-states-master-s-student-science-recruiting",
+    "id": "amazon-2026-applied-science-internship-united-states-master-s-student-science-recruiting-seattle"
+  },
+  {
+    "employer_name": "Amazon",
+    "job_title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "6h",
+    "job_description": "internships job for the role 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+    "job_apply_link": "https://amazon.jobs/en-gb/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+    "id": "amazon-2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics-san-francisco"
+  }
+]
