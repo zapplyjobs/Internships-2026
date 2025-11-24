@@ -122,8 +122,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - United States - Master's Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131317/2026-applied-science-internship-united-states-master-s-student-science-recruiting) | 16h |
-| 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | 16h |
+| 2026 Applied Science Internship - United States - Master's Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131317/2026-applied-science-internship-united-states-master-s-student-science-recruiting) | 17h |
+| 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | 17h |
 
 #### 🟢 **Google** (8 positions)
 
