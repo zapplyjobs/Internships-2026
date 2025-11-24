@@ -175,14 +175,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Software Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014418/Software-Engineering-Intern-Summer-2026) | 1h |
+| Manufacturing Process Engineering Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013726/Manufacturing-Process-Engineering-Intern-Summer-2026) | 1h |
 | Electrical Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014420/Electrical-Engineer-Intern-Summer-2026) | 1h |
-| Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
-| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
-| Chemist / Chemical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012610/Chemist-Chemical-Engineer-Intern-Summer-2026) | 1h |
 | Electrical Engineering Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013540/Electrical-Engineering-Intern-Summer-2026) | 1h |
+| Test Automation Engineer Intern- Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014419/Test-Automation-Engineer-Intern-Summer-2026) | 1h |
 | Health, Safety, & Environmental Intern-Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013417/Health-Safety-Environmental-Intern-Summer-2026) | 1h |
+| Chemist / Chemical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00012610/Chemist-Chemical-Engineer-Intern-Summer-2026) | 1h |
+| Mechanical Engineer Intern - Summer | rtlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013539/Mechanical-Engineer-Intern-Summer-2026) | 1h |
 | Instructional Design Intern - Spring | Memphis, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96705674/Instructional-Design-Intern-Spring-2026) | 1h |
 | Lean Challenge Intern Selmer- Summer | Selmer, TN | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00011569/Lean-Challenge-Intern-Selmer-Summer-2026) | 1h |
 | Digital Operations & Logistics Intern- Summer | Senatobia, MS | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009947/Digital-Operations-Logistics-Intern-Summer-2026) | 1h |
@@ -227,9 +227,9 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 31 | 91% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 32 | 94% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 1 | 3% | 0-1 years of experience |
-| 🔴 Early Career         | 2 | 6% | 1-2 years of experience |
+| 🔴 Early Career         | 1 | 3% | 1-2 years of experience |
 
 ---
 
