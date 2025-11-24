@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 11 premium opportunities  
 📅 **Last Updated:** November 24, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 50 (older than 1 week)
+📁 **Archived Opportunities:** 52 (older than 1 week)
 
 
 ---
@@ -286,33 +286,35 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 50 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 52 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 50 roles
+- **📁 Total Positions**: 52 roles
 - **🏢 Companies**: 7 companies  
-- **⭐ FAANG+ Opportunities**: 15 positions
+- **⭐ FAANG+ Opportunities**: 17 positions
 
-### ⭐ **FAANG+** (15 positions)
+### ⭐ **FAANG+** (17 positions)
 
-#### 📦 **Amazon** (13 positions)
+#### 📦 **Amazon** (15 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | 2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | 1w |
-| 2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 1w |
 | 2026 Operations Research Science Internship - United States, PhD Student Science Recruiting | Corvallis, OR | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127859/2026-operations-research-science-internship-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 1w |
 | 2026 Amazon Communications Assistant Summer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127134/2026-amazon-communications-assistant-summer-internship) | 1w |
 | 2026 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1w |
-| 2026 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 1w |
-| 2026 Amazon Air Supply Chain Manager Intern | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127133/2026-amazon-air-supply-chain-manager-intern) | 1w |
-| 2026 Amazon Air (Network Control Center) Supply Chain Manager Intern | Erlanger, KY | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3125653/2026-amazon-air-network-control-center-supply-chain-manager-intern) | 1w |
 | 2026 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting | Corvallis, OR | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 1w |
 | 2026 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127849/2026-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127847/2026-applied-science-internship-automated-reasoning-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Amazon Air Supply Chain Manager Intern | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127133/2026-amazon-air-supply-chain-manager-intern) | 1w |
 | 2026 Operations Engineer Intern, RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120999/2026-operations-engineer-intern-rme-reliability-maintenance-engineering) | 2w |
 | 2026 Operations Engineer Intern (Mississippi) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3120783/2026-operations-engineer-intern-mississippi) | 2w |
+| 2026 Operations Engineer Intern (Bellevue), RME (Reliability Maintenance Engineering) | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3121843/2026-operations-engineer-intern-bellevue-rme-reliability-maintenance-engineering) | 2w |
 | Software Development Engineer Internship - Summer 2026 (US) | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 4w |
 
 #### 🍎 **Apple** (2 positions)
