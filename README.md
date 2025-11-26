@@ -4,7 +4,7 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 5</em></p>
+<p><em>Real-time opportunities from 6</em></p>
 
 <br>
 
@@ -195,8 +195,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 No companies available
 
 
-#### ☁️ **Enterprise & Cloud** (1 company)
-🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1 position)
+#### ☁️ **Enterprise & Cloud** (2 companies)
+📱 **[Verizon](https://verizon.wd12.myworkdayjobs.com/verizon-careers)** (1 position) • 🔶 **[AMD](https://careers.amd.com/careers-home/jobs)** (1)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
@@ -281,7 +281,7 @@ No companies available
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 53 roles
-- **🏢 Companies**: 5 companies  
+- **🏢 Companies**: 6 companies  
 - **⭐ FAANG+ Opportunities**: 17 positions
 
 ### ⭐ **FAANG+** (17 positions)
