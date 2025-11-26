@@ -1,12 +1,22 @@
 [
   {
     "employer_name": "Infineon Technologies",
-    "job_title": "Internship - C&P IC Test and Validation",
+    "job_title": "Internship - R&D Project Specialist",
     "job_city": "Multiple Cities",
     "job_state": "",
     "job_posted_at": "1h",
-    "job_description": "• Academic Background: Currently pursuing a Bachelor's or Master’s degree in Electrical Engineering, Electronics Engineering, or a related field.\n• Software Skills: Familiarity with programming and scripting languages (e.\n• Lab Experience: Prior experience working with lab equipment such as oscilloscopes, signal generators, and power analyzers.\n• Communication Skills: Strong verbal and written communication for documenting and presenting technical findings.\n• Problem-Solving Skills: Analytical mindset to interpret data, troubleshoot issues, and propose solutions.\n• Document Procedures and Results: Maintain comprehensive documentation of experimental setups, procedures, and outcomes to support internal knowledge sharing and reporting.\n• Knowledge of Motor Drives: Basic understanding of motor control systems, including control algorithms, protection features, and motor drive architectures.\n• , Python, MATLAB) for data processing and automation.",
-    "job_apply_link": "https://jobs.infineon.com/careers/job/563808959596763?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
-    "id": "infineon-technologies-internship-c-p-ic-test-and-validation-multiple-cities"
+    "job_description": "• US citizen or green card holder: This position requires access to documentation that is controlled by the export laws of the United States.\n• Candidates are required to provide proof of either US citizenship, Permanent US residency, or classification as a protected individual as defined in 8USC 1324b(a)(3).\n• Team Collaboration: Contribute to running R&D projects under the supervision of an experienced R&D project manager Education: Actively pursuing a Bachelor’s or Master’s degree in Project Management, Business, or a related field Soft Skills: Strong collaboration and communication skills to work effectively within a team environment Skill Development: Build hands-on experience in project management within a 12-week summer internship Project Skills: Interest in project management with strong organizational and time management skills.",
+    "job_apply_link": "https://jobs.infineon.com/careers/job/563808961388557?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
+    "id": "infineon-technologies-internship-r-d-project-specialist-multiple-cities"
+  },
+  {
+    "employer_name": "Infineon Technologies",
+    "job_title": "Internship – Package & Process Engineer",
+    "job_city": "Multiple Cities",
+    "job_state": "",
+    "job_posted_at": "1h",
+    "job_description": "• US citizen or green card holder: This position requires access to documentation that is controlled by the export laws of the United States.\n• Candidates are required to provide proof of either US citizenship, Permanent US residency, or classification as a protected individual as defined in 8USC 1324b(a)(3).\n• Education: Actively pursuing a Bachelor’s or Master’s degree in Mechanical Engineering, Materials Science, Chemical Engineering, or a related field Materials Knowledge: Basic understanding of material properties and selection, especially those used in high-reliability (HiRel) environments Technical Expertise: Familiarity with CAD software (e.\n• , SolidWorks, AutoCAD, or similar) and 3D modeling tools Communication Skills: Strong verbal and written communication skills to convey technical insights effectively Problem-Solving Skills: Ability to analyze problems, troubleshoot, and contribute to process improvements Safety Compliance: Ensure all safety requirements and protocols are followed during project execution.",
+    "job_apply_link": "https://jobs.infineon.com/careers/job/563808961476409?Join+as=student%2Fintern%2Ftrainee&Join+as=graduate+%28incl.+graduate+programs%29&Join+as=apprentice&Join+as=dual+student&domain=infineon.com",
+    "id": "infineon-technologies-internship-package-process-engineer-multiple-cities"
   }
 ]
