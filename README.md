@@ -11,7 +11,7 @@
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-30-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-9-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -73,10 +73,10 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 🔥 **Current Opportunities:** 30 internships & new grad roles  
 🏢 **Top Companies:** 5 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 9 premium opportunities  
+⭐ **FAANG+ Positions:** 10 premium opportunities  
 📅 **Last Updated:** November 26, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 54 (older than 1 week)
+📁 **Archived Opportunities:** 53 (older than 1 week)
 
 
 ---
@@ -116,12 +116,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (9 positions)
+### ⭐ **FAANG+** (10 positions)
 
-#### 📦 **Amazon** (2 positions)
+#### 📦 **Amazon** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| 2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | 2d |
 | 2026 Applied Science Internship - United States - Master's Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131317/2026-applied-science-internship-united-states-master-s-student-science-recruiting) | 2d |
 | 2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics) | 2d |
 
@@ -145,14 +146,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | Summer 2025 Undergraduate Product Marketing Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://campus-amd.icims.com/jobs/75123/login) | 6d |
 
-### 🏭 **Manufacturing & Industrial** (20 positions)
+### 🏭 **Manufacturing & Industrial** (19 positions)
 
 <details>
-<summary><h4>⚡ <strong>ABB</strong> (18 positions)</h4></summary>
+<summary><h4>⚡ <strong>ABB</strong> (17 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Supply Chain & Data Analytics Intern- Spring | Mebane, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009414/Supply-Chain-Data-Analytics-Intern-Spring-2026) | 1h |
 | 2026 Electrification Marketing & Sales Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009132/2026-Electrification-Marketing-Sales-Summer-Internship) | 1h |
 | 2026 Engineering Summer Internship | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009129/2026-Engineering-Summer-Internship) | 1h |
 | Data & Analytics Intern- Summer | Cary, NC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010657/Data-Analytics-Intern-Summer-2026) | 1h |
@@ -165,8 +165,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Quality Intern- Spring | Florence, SC | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009592/Quality-Intern-Spring-2026) | 1h |
 | Manufacturing Engineering Intern Hackettstown, NJ - Summer | Hackettstown, NJ | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010376/Manufacturing-Engineering-Intern-Hackettstown-NJ-Summer-2026) | 1h |
 | Application Engineering Intern Alpharetta- Summer | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00008115/Application-Engineering-Intern-Alpharetta-Summer-2026) | 1h |
-| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
 | Project Engineer Co-op - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00010042/Project-Engineer-Co-op-Spring-2026) | 1h |
+| Proposal Engineer Intern - Spring | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00009302/Proposal-Engineer-Intern-Spring-2026) | 1h |
 | Proposal Engineer Intern - Summer | Cleveland, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00013836/Proposal-Engineer-Intern-Summer-2026) | 1h |
 | Sales Co-Op - Fall | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/96826540/Sales-Co-Op-Fall-2025) | 1h |
 | R&D Product Development Engineering Intern - Summer | Bloomfield, CT | [<img src="./image.png" width="100" alt="Apply">](https://careers.abb/global/en/job/JR00014416/R-D-Product-Development-Engineering-Intern-Summer-2026) | 1h |
@@ -189,7 +189,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (7 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (2)
+🟢 **[Google](https://www.google.com/about/careers/applications/jobs)** (7 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (3)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -217,8 +217,8 @@ No companies available
 - **Cleveland, OH**: 3 opportunities
 - **Pinetops, NC**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
+- **San Francisco, CA**: 2 opportunities
 - **Multiple Cities**: 2 opportunities
-- **Mebane, NC**: 1 opportunities
 
 ---
 
@@ -276,22 +276,21 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 54 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 53 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 54 roles
+- **📁 Total Positions**: 53 roles
 - **🏢 Companies**: 5 companies  
-- **⭐ FAANG+ Opportunities**: 17 positions
+- **⭐ FAANG+ Opportunities**: 16 positions
 
-### ⭐ **FAANG+** (17 positions)
+### ⭐ **FAANG+** (16 positions)
 
-#### 📦 **Amazon** (15 positions)
+#### 📦 **Amazon** (14 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics) | 1w |
 | 2026 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 1w |
 | 2026 Amazon Communications Assistant Summer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3127134/2026-amazon-communications-assistant-summer-internship) | 1w |
 | 2026 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en-gb/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1w |
