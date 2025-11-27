@@ -212,14 +212,14 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
-- **rtlesville, OK**: 8 opportunities
+- **rtlesville, OK**: 7 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Cleveland, OH**: 3 opportunities
 - **Senatobia, MS**: 3 opportunities
 - **Mountain View, CA**: 2 opportunities
 - **Multiple Cities**: 2 opportunities
-- **Selmer, TN**: 1 opportunities
 - **Memphis, TN**: 1 opportunities
+- **Selmer, TN**: 1 opportunities
 
 ---
 
