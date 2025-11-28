@@ -43,13 +43,111 @@ jobs:
       working-directory: .github/scripts
       run: npm install discord.js@14
 
+    - name: 🔍 BEFORE bot - Hash posted_jobs.json
+      id: before-hash
+      run: |
+        echo "📊 BEFORE BOT EXECUTION:"
+        if [ -f ".github/data/posted_jobs.json" ]; then
+          echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
+          BEFORE_HASH=$(sha256sum .github/data/posted_jobs.json 2>/dev/null | cut -d' ' -f1 || shasum -a 256 .github/data/posted_jobs.json | cut -d' ' -f1)
+          echo "SHA256: $BEFORE_HASH"
+          echo "hash=$BEFORE_HASH" >> $GITHUB_OUTPUT
+          echo "Last 3 job IDs:"
+          tail -3 .github/data/posted_jobs.json
+        else
+          echo "⚠️  posted_jobs.json does not exist yet"
+          echo "hash=NONE" >> $GITHUB_OUTPUT
+        fi
+
     - name: Post new jobs via Enhanced Bot
-      run: node .github/scripts/enhanced-discord-bot.js
+      run: node .github/scripts/enhanced-discord-bot.js 2>&1 | tee .github/logs/discord-bot.log
       env:
         DISCORD_TOKEN:       ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID:  ${{ secrets.DISCORD_CHANNEL_ID }}
         DISCORD_CLIENT_ID:   ${{ secrets.DISCORD_CLIENT_ID }}
         DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
+
+    - name: 🔍 AFTER bot - Hash posted_jobs.json
+      id: after-hash
+      run: |
+        echo "📊 AFTER BOT EXECUTION:"
+        if [ -f ".github/data/posted_jobs.json" ]; then
+          echo "File size: $(stat -c'%s' .github/data/posted_jobs.json 2>/dev/null || stat -f'%z' .github/data/posted_jobs.json)"
+          AFTER_HASH=$(sha256sum .github/data/posted_jobs.json 2>/dev/null | cut -d' ' -f1 || shasum -a 256 .github/data/posted_jobs.json | cut -d' ' -f1)
+          echo "SHA256: $AFTER_HASH"
+          echo "hash=$AFTER_HASH" >> $GITHUB_OUTPUT
+          echo "Last 3 job IDs:"
+          tail -3 .github/data/posted_jobs.json
+          echo ""
+          echo "Git diff check:"
+          git diff .github/data/posted_jobs.json | head -20 || echo "No diff detected by git"
+        else
+          echo "❌ posted_jobs.json does not exist after bot execution!"
+          echo "hash=NONE" >> $GITHUB_OUTPUT
+          exit 1
+        fi
+
+    - name: 🔍 Verify database was updated
+      run: |
+        echo "📊 VERIFYING DATABASE UPDATE..."
+        echo ""
+
+        BEFORE_HASH="${{ steps.before-hash.outputs.hash }}"
+        AFTER_HASH="${{ steps.after-hash.outputs.hash }}"
+
+        echo "Before hash: $BEFORE_HASH"
+        echo "After hash:  $AFTER_HASH"
+        echo ""
+
+        # First, check for actual posting errors (highest priority)
+        if grep -q "❌ Error posting job" .github/logs/discord-bot.log 2>/dev/null; then
+          echo "❌❌❌ CRITICAL ERROR: Jobs failed to post to Discord! ❌❌❌"
+          echo ""
+          echo "Bot encountered errors while posting jobs."
+          echo "Check bot logs above for details."
+          exit 1
+        fi
+
+        # Second, check if file unchanged (could be expected or error)
+        if [ "$BEFORE_HASH" == "$AFTER_HASH" ]; then
+          echo "⚠️  Database file unchanged - investigating reason..."
+          echo ""
+
+          # Check if all jobs were filtered (expected behavior)
+          if grep -q "After blacklist filter: 0 jobs" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: All jobs filtered by blacklist (expected behavior)"
+            echo ""
+            echo "All new jobs matched blacklist criteria - no jobs posted."
+            echo "This is normal and prevents posting unwanted duplicates."
+            exit 0
+          elif grep -q "No new jobs to post" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: No new jobs found (expected behavior)"
+            echo ""
+            echo "All jobs were already posted previously."
+            echo "Duplicate detection working correctly."
+            exit 0
+          elif grep -q "ℹ️ No new jobs to post" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: No new jobs to post (expected behavior)"
+            echo ""
+            echo "Either no new jobs found or all filtered as duplicates."
+            exit 0
+          else
+            # File unchanged but we don't know why - this is suspicious!
+            echo "❌❌❌ CRITICAL ERROR: posted_jobs.json was NOT modified! ❌❌❌"
+            echo ""
+            echo "Database unchanged but bot should have posted jobs."
+            echo "This could indicate a save failure or other issue."
+            echo ""
+            echo "Check bot logs above for save errors."
+            echo "This workflow will now fail to alert the team."
+            exit 1
+          fi
+        else
+          echo "✅ SUCCESS: Database was updated correctly"
+          echo ""
+          echo "File hash changed, confirming bot saved posted job IDs."
+          echo "Duplicate detection is working properly."
+        fi
 
     - name: Check for changes
       id: verify-changed-files
