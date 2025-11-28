@@ -211,6 +211,7 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **rtlesville, OK**: 8 opportunities
 - **Sunnyvale, CA**: 4 opportunities
 - **Cary, NC**: 3 opportunities
 - **Richmond, VA**: 3 opportunities
