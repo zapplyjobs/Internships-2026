@@ -34,9 +34,9 @@ jobs:
         npx puppeteer browsers install chrome
       
     - name: Update job listings
+      run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
       env:
-        JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
-      run: node .github/scripts/job-fetcher/index.js
+        PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
 
 
     - name: Install bot dependencies
@@ -58,6 +58,11 @@ jobs:
           echo "⚠️  posted_jobs.json does not exist yet"
           echo "hash=NONE" >> $GITHUB_OUTPUT
         fi
+
+    - name: Export jobs to encrypted JSON (for external job boards)
+      run: node .github/scripts/jobs-data-exporter.js
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
 
     - name: Post new jobs via Enhanced Bot
       run: node .github/scripts/enhanced-discord-bot.js 2>&1 | tee .github/logs/discord-bot.log
