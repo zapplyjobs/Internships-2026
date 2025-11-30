@@ -267,11 +267,3 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**🔄 Next check**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
         fi
-
-    - name: Upload workflow logs as artifact
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: workflow-logs-${{ github.run_number }}
-        path: .github/logs/
-        retention-days: 7
