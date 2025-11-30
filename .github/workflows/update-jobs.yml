@@ -59,6 +59,23 @@ jobs:
           echo "hash=NONE" >> $GITHUB_OUTPUT
         fi
 
+    - name: Display job-fetcher summary
+      run: |
+        echo "📊 Job Fetcher Summary:"
+        echo "========================"
+        if [ -f ".github/logs/job-fetcher.log" ]; then
+          # Extract key metrics from log
+          echo "✅ Jobs found:" $(grep -o "Found [0-9]* jobs" .github/logs/job-fetcher.log | tail -1 || echo "0 jobs")
+          echo "✅ After filters:" $(grep -o "After.*filter.*[0-9]* jobs" .github/logs/job-fetcher.log | tail -1 || echo "Unknown")
+          echo "🔍 Errors:" $(grep -c "Error\|error\|ERROR" .github/logs/job-fetcher.log || echo "0")
+          echo "⚠️  Warnings:" $(grep -c "Warning\|warning\|WARN" .github/logs/job-fetcher.log || echo "0")
+          echo ""
+          echo "Last 10 lines of log:"
+          tail -10 .github/logs/job-fetcher.log
+        else
+          echo "⚠️  No job-fetcher log found"
+        fi
+
     - name: Export jobs to encrypted JSON (for external job boards)
       run: node .github/scripts/jobs-data-exporter.js
       env:
@@ -246,3 +263,11 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**🔄 Next check**: Tomorrow at 9 AM UTC" >> $GITHUB_STEP_SUMMARY
         fi
+
+    - name: Upload workflow logs as artifact
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: workflow-logs-${{ github.run_number }}
+        path: .github/logs/
+        retention-days: 7
