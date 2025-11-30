@@ -171,6 +171,10 @@ jobs:
           echo "Duplicate detection is working properly."
         fi
 
+    - name: Create obfuscated audit log
+      if: always()
+      run: node .github/scripts/create-audit-log.js
+
     - name: Check for changes
       id: verify-changed-files
       run: |
