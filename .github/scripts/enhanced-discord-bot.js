@@ -29,8 +29,9 @@ const postedJobsPath = path.join(dataDir, 'posted_jobs.json');
 // Load company data for tier detection
 const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 
-// Import job ID generation for consistency
+// Import job ID generation and queue management for consistency
 const { generateJobId } = require('./job-fetcher/utils');
+const { loadPendingQueue, savePendingQueue } = require('./job-fetcher/job-processor');
 
 // Initialize client
 const client = new Client({
@@ -475,6 +476,9 @@ client.once('ready', async () => {
 
   console.log(`📬 Posting ${unpostedJobs.length} new jobs (${jobs.length - unpostedJobs.length} already posted)...`);
 
+  // Track successfully posted job IDs for queue update
+  const successfullyPostedIds = [];
+
   for (const job of unpostedJobs) {
     try {
       const jobId = generateJobId(job);
@@ -484,7 +488,7 @@ client.once('ready', async () => {
 
       // Get users subscribed to these tags (only if not in GitHub Actions)
       let content = '';
-      
+
       if (!process.env.GITHUB_ACTIONS) {
         const subscribedUsers = subscriptionManager.getUsersForTags(tags);
         if (subscribedUsers.length > 0) {
@@ -496,12 +500,12 @@ client.once('ready', async () => {
         content,
         embeds: [embed]
       };
-      
+
       // Only add components if actionRow has buttons
       if (actionRow.components.length > 0) {
         messageData.components = [actionRow];
       }
-      
+
       const message = await channel.send(messageData);
 
       // Thread creation disabled - bot lacks thread permissions
@@ -512,15 +516,40 @@ client.once('ready', async () => {
 
       // Mark this job as posted AFTER successful posting
       postedJobsManager.markAsPosted(jobId);
+      successfullyPostedIds.push(jobId);
 
       console.log(`✅ Posted: ${job.job_title} at ${job.employer_name}`);
-      
+
       // Small delay to avoid rate limits
       await new Promise(resolve => setTimeout(resolve, 1000));
-      
+
     } catch (error) {
       console.error(`❌ Error posting job ${job.job_title}:`, error);
     }
+  }
+
+  // Update pending queue - mark successfully posted jobs as "posted"
+  try {
+    let queue = loadPendingQueue();
+    const now = new Date().toISOString();
+    let updatedCount = 0;
+
+    queue.forEach(item => {
+      const itemJobId = generateJobId(item.job);
+      if (successfullyPostedIds.includes(itemJobId)) {
+        item.status = 'posted';
+        item.postedAt = now;
+        updatedCount++;
+      }
+    });
+
+    if (updatedCount > 0) {
+      savePendingQueue(queue);
+      console.log(`📋 Updated queue: marked ${updatedCount} jobs as posted`);
+    }
+  } catch (error) {
+    console.error('⚠️ Error updating pending queue:', error.message);
+    // Don't fail the whole process if queue update fails
   }
 
   console.log('🎉 All jobs posted successfully!');
