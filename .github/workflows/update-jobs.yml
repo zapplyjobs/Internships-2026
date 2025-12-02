@@ -7,10 +7,15 @@ on:
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
-    paths: 
+    paths:
       - '.github/scripts/job-fetcher/**'
       - '.github/scripts/real-career-scraper.js'
       - '.github/scripts/enhanced-discord-bot.js'
+
+# Prevent concurrent runs to avoid queue corruption
+concurrency:
+  group: job-updates
+  cancel-in-progress: false
 
 jobs:
   update-jobs:
