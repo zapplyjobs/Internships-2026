@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { fetchAllRealJobs } = require('../real-career-scraper');
+const { fetchAllJobs } = require('../unified-job-fetcher');
 const { 
     companies, 
     ALL_COMPANIES, 
@@ -20,6 +20,9 @@ const {
 } = require('./utils');
 
 const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
+
+// Description fetcher service
+const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
@@ -526,8 +529,8 @@ async function processJobs() {
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
         
-        // Fetch jobs from both API and real career pages
-        const allJobs = await fetchAllRealJobs();
+        // Fetch jobs from PRIMARY_DATA_SOURCE_URL (SimplifyJobs)
+        const allJobs = await fetchAllJobs();
         
         // Fill null dates and convert to relative format
         const jobsWithDates = fillJobDates(allJobs, jobDatesStore);
@@ -614,11 +617,39 @@ async function processJobs() {
                 
                 return getTimestamp(b.job_posted_at) - getTimestamp(a.job_posted_at);
             });
-            
-            // Write new jobs for Discord bot consumption
-            writeNewJobsJson(sortedFreshJobs);
+
+            // Enrich jobs with descriptions before writing
+            console.log('\n📝 Fetching job descriptions...');
+            console.log('━'.repeat(60));
+
+            const jobsWithDescriptions = await fetchDescriptionsBatch(sortedFreshJobs, {
+                batchSize: 10,              // Process 10 jobs at a time
+                delayBetweenRequests: 1000  // 1 second delay between requests
+            });
+
+            // Log description fetching stats
+            const successCount = jobsWithDescriptions.filter(j => j.description_success).length;
+            const failCount = jobsWithDescriptions.length - successCount;
+            const successRate = ((successCount / jobsWithDescriptions.length) * 100).toFixed(1);
+
+            console.log('━'.repeat(60));
+            console.log(`✅ Description fetching complete:`);
+            console.log(`   Success: ${successCount}/${jobsWithDescriptions.length} (${successRate}%)`);
+            console.log(`   Failed: ${failCount}`);
+
+            // Breakdown by platform
+            const platformStats = {};
+            jobsWithDescriptions.forEach(j => {
+                const platform = j.description_platform || 'unknown';
+                platformStats[platform] = (platformStats[platform] || 0) + 1;
+            });
+            console.log(`   Platforms: ${Object.entries(platformStats).map(([p, c]) => `${p}(${c})`).join(', ')}`);
+            console.log('━'.repeat(60) + '\n');
+
+            // Write new jobs with descriptions for Discord bot consumption
+            writeNewJobsJson(jobsWithDescriptions);
             // Update seen jobs store
-            updateSeenJobsStore(sortedFreshJobs, seenIds);
+            updateSeenJobsStore(jobsWithDescriptions, seenIds);
         }
         
         // Calculate archived jobs
