@@ -44,6 +44,7 @@ jobs:
       run: mkdir -p .github/logs
 
     - name: Update job listings
+      continue-on-error: true
       run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
       env:
         PRIMARY_DATA_SOURCE_URL: ${{ secrets.JOB_PROCESSOR_URL }}
