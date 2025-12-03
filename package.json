@@ -1,6 +1,25 @@
 {
+  "name": "new-grad-internships-2026",
+  "version": "1.0.0",
+  "description": "Automated job board for new grad internships",
+  "scripts": {
+    "prepare": "husky install",
+    "lint": "eslint .github/scripts --max-warnings 0",
+    "syntax-check": "find .github/scripts -name '*.js' -type f -exec node -c {} \\;"
+  },
   "dependencies": {
     "discord.js": "^14.25.1",
     "puppeteer": "^24.31.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.2.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix --max-warnings 0",
+      "node -c"
+    ]
   }
 }
