@@ -221,48 +221,6 @@ async function searchJobs(query, location = '') {
     }
 }
 
-// Advanced job fetching with location targeting
-async function fetchAllJobs() {
-    console.log('🔍 Starting comprehensive job search...');
-    
-    const allJobs = [];
-    const locations = ['San Francisco', 'New York', 'Seattle', 'Austin', 'Remote'];
-    
-    // Search core queries across multiple locations
-    const coreQueries = [
-        'software engineer',
-        'frontend developer', 
-        'backend developer',
-        'data scientist',
-        'machine learning engineer'
-    ];
-    
-    for (const query of coreQueries) {
-        // Search without location first
-        const jobs = await searchJobs(query);
-        allJobs.push(...jobs);
-        await delay(1200); // Respect rate limits
-        
-        // Then search specific locations for higher-quality results
-        for (const location of locations.slice(0, 2)) { // Limit to 2 locations to conserve API calls
-            const locationJobs = await searchJobs(query, location);
-            allJobs.push(...locationJobs);
-            await delay(1200);
-        }
-    }
-    
-    // Search new grad specific terms
-    const newGradQueries = ['new grad software engineer', 'entry level developer', 'graduate engineer'];
-    for (const query of newGradQueries) {
-        const jobs = await searchJobs(query);
-        allJobs.push(...jobs);
-        await delay(1200);
-    }
-    
-    console.log(`📊 Total jobs fetched: ${allJobs.length}`);
-    return allJobs;
-}
-
 // Enhanced filtering with better company matching
 function filterTargetCompanyJobs(jobs) {
     console.log('🎯 Filtering for target companies...');
