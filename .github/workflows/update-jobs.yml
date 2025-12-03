@@ -37,7 +37,10 @@ jobs:
       run: |
         npm install puppeteer
         npx puppeteer browsers install chrome
-      
+
+    - name: Create logs directory
+      run: mkdir -p .github/logs
+
     - name: Update job listings
       run: node .github/scripts/job-fetcher/index.js > .github/logs/job-fetcher.log 2>&1
       env:
