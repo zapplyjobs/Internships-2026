@@ -1,12 +1,12 @@
 # Lessons Learned - New Grad Internships 2026
 
-**Last Updated:** December 3, 2025
+**Last Updated:** December 4, 2025
 
 This document captures critical issues discovered during development and their solutions to prevent recurrence.
 
 ---
 
-## 🚨 Critical Issues Fixed (December 3, 2025)
+## 🚨 Critical Issues Fixed (December 3-4, 2025)
 
 ### Issue #1: Queue Persistence Failure
 
@@ -318,11 +318,60 @@ node job-processor.js
 - **Job Fetcher:** `.github/scripts/job-fetcher/`
 - **Pre-commit Hooks:** `.husky/pre-commit`, `package.json`
 
+### Issue #4: Primary Data Source API Response Format Change
+
+**Date Discovered:** December 4, 2025
+
+**Symptoms:**
+- Workflow fetching 0 jobs despite 300+ jobs in primary data source
+- Error: "Could not find job array in API response. Response keys: ['payload', 'title']"
+- Logs showed "0 total jobs, 0 current, 0 new"
+
+**Root Cause:**
+- Primary data source API changed response format
+- OLD format: Direct array OR nested in {jobs/data/results}
+- NEW format: Nested in {payload: [...], title: "..."}
+- apiService.js only checked for jobs/data/results keys, not payload
+
+**Investigation Path:**
+1. Initially suspected 7-day freshness filter (found in utils.js:isJobOlderThanWeek)
+2. Checked workflow logs - saw "0 total jobs" (not a filter issue)
+3. Found error message about missing job array in API response
+4. Identified payload key was not being checked
+5. **Key confusion:** Initially looked at New-Grad-Jobs repo workflow logs by mistake (gh CLI confusion)
+
+**Solution:**
+- Added `payload` check as first nested property in apiService.js
+- Commit: a39c9821 (after obfuscation fix)
+- Code change: Check for jobsData.payload before jobs/data/results
+
+**Impact:**
+- Workflow now fetches 300+ jobs from primary data source
+- Job posting automation restored
+- Applied defensive coding for future API changes
+
+**Diagnostic Method:**
+1. Check workflow logs for job count: "Processing summary: X total jobs"
+2. If 0 jobs, look for API error messages in "Update job listings" step
+3. Check error message for "Response keys:" to see what API actually returned
+4. Compare with code in apiService.js to see if keys match
+
+**Prevention:**
+- apiService.js now checks multiple nested keys (payload, jobs, data, results)
+- Add new keys when APIs change format
+- Monitor "0 jobs" scenarios - could be API change, not filter issue
+
+**Related:**
+- See Memory MCP: `internships_payload_fix_2025_12_04`
+
+---
+
 ### Memory MCP Keys
 - `github_discord_queue_fix_deployed_2025_12_03`
 - `github_discord_node_modules_fix_2025_12_03`
 - `internships_duplicate_function_fix_2025_12_03`
 - `internships_workflow_fix_complete_2025_12_03`
+- `internships_payload_fix_2025_12_04`
 
 ### Related Files
 - MASTER_TODO.md (Session 3 sections)
@@ -331,5 +380,5 @@ node job-processor.js
 ---
 
 **Maintained by:** Development Team
-**Last Review:** December 3, 2025
+**Last Review:** December 4, 2025
 **Next Review:** When new critical issues discovered
