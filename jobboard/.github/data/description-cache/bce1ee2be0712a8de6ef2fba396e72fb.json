@@ -1,0 +1,17 @@
+{
+  "url": "https://seagatecareers.com/job/Bloomington-NFT-Optimization-in-Comsol-Internship-MN/1341696400/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "About our group: Our technology development group designs Heat Assisted Magnetic Recording (HAMR) heads for future products. We design the integrated optics that delivers light from the laser to the Near-Field Transducer (NFT), as well as the plasmonic NFT that focuses the light down to a spot size 10’s of nanometers, an order of magnitude smaller than the diffraction limit. We also design the magnetic circuit that applies a >2 Tesla, GHz magnetic field within nanometers of the NFT’s optical spot. This “leading-edge photonic and magnetic integration” designed by our group has made HAMR a 2026 SPIE Prism Award finalist.About the role - you will: Work with the world’s leading plasmonic NFT design team to invent the next NFT Use Comsol Multiphysics modules to model novel NFT concepts Use Comsol Optimization modules to optimize these novel concepts for performance, reliability and manufacturability Train Neural Networks to form surrogate models to optimize designs for manufacturability, taking wafer process capability into consideration Work with the broader design team to integrate the novel NFT designs into the full HAMR recording head About you: Good physics understanding, such as electro magnetics, materials properties, thermal transport Experience with modeling software. Comsol will be used heavily Experience using general LLMs to work more efficiently Experience training and using neural networks Introductory experience with programming languages (e.g. C++, Python, Java) Good problem-solving skills and out-of-box thinking Good communication and teamwork skills needed in collaborative cross functional team environment throughout the company Your experience includes: Bachelor’s or Master’s degree student in Electrical Engineering, Physics, Materials Science, Mechanical Engineering and must be enrolled in Fall 2026 classes. Location: Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift over lunch time? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor activities, tournaments and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor walking path. On-site cultural festivals, celebrations and community volunteer opportunities also abound. #internship The estimated base wage range for this position is $29-$45/hr. The individual base wage is based on work location and additional factors, including job-related skills, experience, and relevant education or training. Location: Normandale, United States Travel: None",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://seagatecareers.com/job/Bloomington-NFT-Optimization-in-Comsol-Internship-MN/1341696400/?ats=successfactors",
+      "fetchedAt": "2025-12-04T20:59:31.306Z"
+    }
+  },
+  "cachedAt": 1764881971307
+}

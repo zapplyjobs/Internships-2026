@@ -1,0 +1,26 @@
+{
+  "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Engineering-Intern_R8182",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries of American Financial Group. We combine a \"small company\" culture where your ideas will be heard with \"big company\" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.At Great American, we value and recognize the benefits derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees feel included, empowered, and enabled to perform at their best.P&C IT Services provides professional services to help our business units and corporate functions use technology to create, manage, and optimize information and business processes. IT Services can include a wide range of activities such as: software development, data management, Cloud services, IT security, network security, technical support, establishing and overseeing access rights, procuring and maintaining equipment or software, managing the infrastructure, and defining security procedures, The overall goal of IT Services is to provide technology solutions that increase efficiency, reduce costs, and give our company a competitive advantage over our competitors.Our IT Data group is looking for a Data Application Engineering Intern to work a hybrid schedule (3 days a week in the office, 2 days remote) out of the Cincinnati office for the summer.Responsibilities:Documentation ManagementUnit Test DevelopmentEnhancement DevelopmentCode ReviewsMaintaining and updating our team's documentation. Assisting the team with code reviews. Developing stories that contribute to the team's goals.Requirements:Qualifications: Programming Languages: Proficiency in languages like Java, Python, C#, or JavaScript.Exceptional verbal, written and presentation skills Outstanding organizational skills Ability to work effectively both independently and as part of a team Ability to work on tight deadlines as needed Competency in Microsoft applications including Word, Excel, and Outlook Development Tools: Familiarity with tools such as Git for version control, Docker for containerization, and integrated development environments (IDEs) like Visual Studio Code or IntelliJ. Software Development Lifecycle: Understanding the stages of software development, from planning and design to testing and deployment. Debugging and Troubleshooting: Ability to identify and fix bugs efficiently. Web Technologies: Knowledge of HTML, CSS, and frameworks like SpringBoot, React, Angular, or Vue can be beneficial. Required Soft Skills: Communication: Clear and effective communication is crucial for collaborating with team members and presenting your ideas. Teamwork: Ability to work well in a team, contributing to group projects and supporting your colleagues. Problem-Solving: Strong analytical skills to tackle complex coding challenges and find innovative solutions. Adaptability: Willingness to learn new technologies and adapt to changing project requirements. Time Management: Efficiently managing your time to meet deadlines and balance multiple tasks.Education:Pursuing a degree in Computer Science, Information Technology, or Data ScienceGraduation year: 2029Business Unit:Property & Casualty IT ServicesBenefits: Compensation varies by role, position level, and location. Individual pay is influenced by skills, education, training, certifications, experience, and the role's scope and complexity, along with business needs.We offer a competitive Total Rewards package, including medical, dental, and vision plans starting on day one, PTO, paid holidays, commuter benefits, an employee stock purchase plan, education reimbursement, paid parental leave/adoption assistance, and a 401(k) plan with company match. These benefits are available to eligible full-time and part-time employees.Your recruiter can provide more details about our total rewards and specific compensation ranges during the hiring process.",
+    "requirements": [
+      "Adaptability: Willingness to learn new technologies and adapt to changing project requirements.",
+      "Pursuing a degree in Computer Science, Information Technology, or Data Science",
+      "Graduation year: 2029"
+    ],
+    "responsibilities": [
+      "Unit Test Development",
+      "Enhancement Development",
+      "Developing stories that contribute to the team's goals.",
+      "Development Tools: Familiarity with tools such as Git for version control, Docker for containerization, and integrated development environments (IDEs) like Visual Studio Code or IntelliJ.",
+      "Software Development Lifecycle: Understanding the stages of software development, from planning and design to testing and deployment."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Engineering-Intern_R8182",
+      "fetchedAt": "2025-12-04T21:00:07.963Z"
+    }
+  },
+  "cachedAt": 1764882007963
+}
