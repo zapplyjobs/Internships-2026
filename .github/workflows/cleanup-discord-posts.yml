@@ -1,0 +1,85 @@
+name: Cleanup Discord Posts
+
+on:
+  workflow_dispatch:
+    inputs:
+      delete_all_channels:
+        description: 'Delete from all category channels'
+        required: true
+        type: boolean
+        default: true
+      channel_ids:
+        description: 'Specific channel IDs (comma-separated, leave empty if delete_all_channels is true)'
+        required: false
+        type: string
+        default: ''
+      hours_ago:
+        description: 'Only delete posts from last N hours (leave empty for all posts)'
+        required: false
+        type: string
+        default: ''
+      dry_run:
+        description: 'Dry run (preview without deleting)'
+        required: true
+        type: boolean
+        default: true
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      working-directory: .github/scripts
+      run: npm install discord.js@14
+
+    - name: Run cleanup script
+      run: node .github/scripts/cleanup-discord-posts.js
+      env:
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels }}
+        CHANNEL_IDS: ${{ inputs.channel_ids }}
+        HOURS_AGO: ${{ inputs.hours_ago }}
+        DRY_RUN: ${{ inputs.dry_run }}
+        # Category channel IDs
+        DISCORD_TECH_CHANNEL_ID: "1429365682948145164"
+        DISCORD_SALES_CHANNEL_ID: "1429365752145645670"
+        DISCORD_MARKETING_CHANNEL_ID: "1429365805090607206"
+        DISCORD_FINANCE_CHANNEL_ID: "1429366120854585434"
+        DISCORD_HEALTHCARE_CHANNEL_ID: "1429366171840286781"
+        DISCORD_PRODUCT_CHANNEL_ID: "1429366236055081131"
+        DISCORD_SUPPLY_CHANNEL_ID: "1429366422613786674"
+        DISCORD_PM_CHANNEL_ID: "1429366331836207126"
+        DISCORD_HR_CHANNEL_ID: "1429366524459745401"
+
+    - name: Create cleanup summary
+      if: always()
+      run: |
+        echo "## 🧹 Discord Cleanup Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Mode:** ${{ inputs.dry_run == true && '🔍 DRY RUN (Preview Only)' || '✅ LIVE RUN (Posts Deleted)' }}" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ inputs.delete_all_channels }}" == "true" ]; then
+          echo "**Channels:** All category channels (9 channels)" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**Channels:** ${{ inputs.channel_ids }}" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        if [ -n "${{ inputs.hours_ago }}" ]; then
+          echo "**Time Range:** Last ${{ inputs.hours_ago }} hours" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "**Time Range:** All posts" >> $GITHUB_STEP_SUMMARY
+        fi
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Check the job logs above for detailed results." >> $GITHUB_STEP_SUMMARY
