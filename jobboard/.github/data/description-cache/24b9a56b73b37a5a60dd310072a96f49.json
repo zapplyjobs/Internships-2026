@@ -1,0 +1,21 @@
+{
+  "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Power-Bi-Reporting-Long-Term-Intern_R550",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Are you interested in an internship that provides you an opportunity to turn your related coursework into real world business experiences? Do you thrive on fostering collaboration with others and working with a team? The Federal Home Loan Bank of Indianapolis is seeking well-rounded and motivated individuals to join our Solutions and Engineering team. The student filling this position will handle a wide range of important duties.We are seeking a skilled and detail-oriented Power BI Intern with strong experience in building paginated reports and writing Oracle and SQL Server stored procedures. The ideal candidate will work closely with cross-functional teams to deliver high-quality, performance-optimized reporting solutions that support business decision-making. This internship will follow our hybrid workforce model and will be required to be located in or around the Indianapolis area.Key Responsibilities: Design, develop, and deploy Power BI paginated reports using Power BI Report Builder. Write and optimize Oracle PL/SQL and SQL Server T-SQL stored procedures to support reporting needs. Collaborate with business analysts and stakeholders to gather requirements and translate them into technical specifications. Ensure data accuracy, performance, and scalability of reports and queries. Maintain and enhance existing reports and data models. Troubleshoot and resolve issues related to data integrity, performance, and report rendering. Required Skills & Qualifications: Proven experience with Power BI, especially paginated reports. Strong proficiency in Oracle PL/SQL and SQL Server T-SQL. Experience with Power BI Report Builder and Power BI Service. Solid understanding of data modeling. Ability to work independently and manage multiple priorities in a fast-paced environment. Excellent communication and problem-solving skills. Preferred Qualifications: Experience with Power BI DAX and Power Query (M). Familiarity with DevOps, CI/CD pipelines, or version control tools like Git. Program Features & Requirements:Interns are paid a competitive hourly rate.Our intern program is for students that have completed at least their sophomore year. Graduate students and MBA students are highly encouraged to apply.Applicants should be majoring in Information Systems, Data Science, Computer Science, or a similar field study.The Federal Home Loan Bank of Indianapolis is an Equal Opportunity Employer.",
+    "requirements": [
+      "Collaborate with business analysts and stakeholders to gather requirements and translate them into technical specifications.",
+      "Our intern program is for students that have completed at least their sophomore year.  Graduate students and MBA students are highly encouraged to apply."
+    ],
+    "responsibilities": [
+      "Design, develop, and deploy Power BI paginated reports using Power BI Report Builder."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Power-Bi-Reporting-Long-Term-Intern_R550",
+      "fetchedAt": "2025-12-04T20:04:34.795Z"
+    }
+  },
+  "cachedAt": 1764878674795
+}

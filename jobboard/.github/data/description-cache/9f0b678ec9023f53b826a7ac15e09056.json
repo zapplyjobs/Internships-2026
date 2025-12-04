@@ -1,0 +1,21 @@
+{
+  "url": "https://jobs.lever.co/field-ai/3d6e02a8-277a-46dd-b8f8-a37f4486cf41/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "4.5 Tampa Field Application Engineer -Intern (Part-time)Tampa, FloridaArea 4: Field and Customer Success Team /Part time /On-siteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone ✱Current location No location found. Try entering a different locationLoadingCurrent company LinksLinkedIn URLTwitter URLGitHub URLPortfolio URLField AIAre you authorized to work in the U.S.?Are you authorized to work in the United States?✱YesNoWill you now, or in the future, require sponsorship (i.e. H-1B visa, etc.) to legally work in the U.S.?✱YesNoNot applicableAre you currently in a period of Optional Practical Training (OPT)?✱YesNoNot applicableDo you hold a degree in a Science, Technology, Engineering, or Mathematics (STEM) field from a U.S. accredited institution that would allow you to apply for a 24-month OPT extension?✱YesNoNot applicableAdditional informationBy applying for this position, your data will be processed as per Field AI's privacy policy.Field AI has my consent to contact me about future job opportunities.Submit application",
+    "requirements": [
+      "Will you now, or in the future, require sponsorship (i.e. H-1B visa, etc.) to legally work in the U.S.?✱YesNoNot applicable",
+      "Do you hold a degree in a Science, Technology, Engineering, or Mathematics (STEM) field from a U.S. accredited institution that would allow you to apply for a 24-month OPT extension?✱YesNoNot applicable"
+    ],
+    "responsibilities": [
+      "By applying for this position, your data will be processed as per Field AI's privacy policy.Field AI has my consent to contact me about future job opportunities."
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/field-ai/3d6e02a8-277a-46dd-b8f8-a37f4486cf41/apply",
+      "fetchedAt": "2025-12-04T20:03:12.851Z"
+    }
+  },
+  "cachedAt": 1764878592852
+}
