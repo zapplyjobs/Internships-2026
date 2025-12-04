@@ -1,0 +1,22 @@
+{
+  "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-SPS-Simulation-Intern--Summer-2026-_R25-01491",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Let’s search for your next career at TEL. Use the form below to search our current opportunities and then apply. Please consider joining our Talent Community so that we may continue to engage with you.Job DescriptionTokyo Electron America, Inc. a subsidiary of Tokyo Electron Limited, a global, multi-billion dollar corporation and a leader in the semiconductor equipment industry is seeking research scientist intern candidates. Tokyo Electron markets a wide range of semiconductor production equipment (SPE) products and provides outstanding service and support to semiconductor device manufacturers. TEL's world-renowned products and technologies support diverse customer needs for the manufacturing of increasingly sophisticated semiconductors. Position Summary:TEL is seeking a summer intern with ab initio molecular dynamics (AIMD) expertise using CP2K software to work in the Surface Preparation Systems (SPS) Advanced Technology Group (ATG) located in Austin, Texas. Responsibilities:Build models and run ab initio molecular dynamics simulations using CP2K.Modeling chemical reactions in gas/liquid phase, and solid-liquid interface using CP2K. Run DFT calculations on CP2K.Good communications skills are critical to the project assignment. Strong emphasis is placed on candidates that can find solutions to difficult problems. through structured project management while working in a team environment.Qualifications:The candidate should be pursuing a B.S. or M.S. or Ph.D. degree in engineering, physics, chemistry or equivalent field.Experience with CP2K software is required.Knowledge of ab initio molecular dynamics is required.Knowledge of quantum chemistry calculations is desirable.Knowledge of modeling chemical reactions is desirable.Experience working in a Linux cluster environment is desirable.Experience with LAMMPS is desirable.Experience with GAUSSIAN is desirable.Experience with programming languages such as MATLAB, python, C/C++, etc. is desirable.Equal Opportunity Employer/Minorities/Females/Disabled/VeteransDiversity creates an innovative culture. TEL US is an Equal Employment Opportunity / Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.SubsidiaryTOKYO ELECTRON AMERICA, INC.",
+    "requirements": [
+      "The candidate should be pursuing a B.S. or M.S. or Ph.D. degree in engineering, physics, chemistry or equivalent field.",
+      "Experience with CP2K software is required.",
+      "Knowledge of ab initio molecular dynamics is required."
+    ],
+    "responsibilities": [
+      "Coater/Developers"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-SPS-Simulation-Intern--Summer-2026-_R25-01491",
+      "fetchedAt": "2025-12-04T20:59:29.905Z"
+    }
+  },
+  "cachedAt": 1764881969906
+}

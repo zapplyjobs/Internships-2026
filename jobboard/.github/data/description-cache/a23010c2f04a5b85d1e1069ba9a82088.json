@@ -1,0 +1,19 @@
+{
+  "url": "https://jobs.lever.co/lendbuzz/c38535d9-4d5f-4b30-bd80-acf32d3aac74/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Co-op - Backend Engineer (Boston)Boston, MAEngineering – Software Engineering - Backend /Co-op /HybridSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone ✱Current location ✱No location found. Try entering a different locationLoadingCurrent company LinksLinkedIn URLTwitter URLGitHub URLPortfolio URLOther websiteHybrid Work FlexibilityThis position requires three (3) days per week in our Boston office. Are you comfortable with this hybrid work arrangement and able to meet the in-office requirement if hired?✱YesNoWork Authorization Status Are you currently eligible to work in the United States of America?✱YesNoDo you now or in the future require visa sponsorship to continue working in the United States?✱YesNoAdditional informationSubmit application",
+    "requirements": [
+      "This position requires three (3) days per week in our Boston office. Are you comfortable with this hybrid work arrangement and able to meet the in-office requirement if hired?✱YesNo",
+      "Do you now or in the future require visa sponsorship to continue working in the United States?✱YesNo"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/lendbuzz/c38535d9-4d5f-4b30-bd80-acf32d3aac74/apply",
+      "fetchedAt": "2025-12-04T20:59:59.211Z"
+    }
+  },
+  "cachedAt": 1764881999211
+}
