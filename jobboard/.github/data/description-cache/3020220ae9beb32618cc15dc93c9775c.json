@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/genesis-therapeutics/37500c1e-9f2b-4b1a-89ab-53393a4a6ffe/application",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Genesis Molecular AI is building a world-class software team to solve problems in drug discovery through machine learning, biophysical simulation, and computational chemistry. We are looking for engineers excited to help develop new medicines and play a critical role in building out our software platform. You will Build and expand on tools for visualizing molecules and proteins, analyzing machine learning models, and managing complex chemical workflows Work closely with machine learning engineers and medicinal chemists to develop and productionize new computational methods for molecular property prediction Help scale our core infrastructure to handle billions of datapoints and thousands of parallel deep learning and molecular dynamics jobs You are A strong software engineer who will write code quickly and uphold our code quality standards A deep thinker who reasons from first principles over pattern matching Interested in learning about biochemistry and the drug development process What we offer The opportunity to work on high impact tools and products that are immediately deployed to accelerate the discovery of new medicines Strong technical coworkers in AI, software, and chemistry, who all have a powerful mix of intellectual curiosity and humility. The team reads and discusses 1-2 machine learning or chemistry papers every week to stay on top of the field and inspire new ideas About Genesis Molecular AI Genesis Molecular AI is pioneering foundation models for molecular AI to unlock a new era of drug design and development. The company’s generative and predictive AI platform, GEMS (Genesis Exploration of Molecular Space), integrates AI and physics into industry-leading models to generate and optimize drug molecules, including the breakthrough generative diffusion model Pearl for structure prediction. Genesis has raised over $300 million from leading AI, tech and life science-focused investors, signed multiple AI-focused research collaborations with major pharma partners, and is deploying GEMS to advance an internal therapeutics pipeline for a variety of high-impact targets. Genesis is headquartered in Burlingame, CA, with a fully integrated laboratory in San Diego. We are proud to be an inclusive workplace and an Equal Opportunity Employer.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/genesis-therapeutics/37500c1e-9f2b-4b1a-89ab-53393a4a6ffe/application",
+      "fetchedAt": "2025-12-04T21:56:44.893Z"
+    }
+  },
+  "cachedAt": 1764885404894
+}

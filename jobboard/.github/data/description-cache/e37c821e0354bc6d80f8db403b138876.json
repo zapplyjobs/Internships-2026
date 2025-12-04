@@ -1,0 +1,17 @@
+{
+  "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256901",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The engineering intern role provides hands-on experience and exposure to various aspects of engineering within a specific industry. Interns typically work closely with experienced engineers, assisting them with ongoing projects, conducting research, and contributing to the development of testing products or systems. The successful candidate will have the chance to apply theoretical knowledge gained in the classroom to real-world engineering challenges, gaining valuable practical skills and insights. Additionally, they will receive mentorship and guidance from senior engineers, helping them to further develop their technical abilities and professional network within the field of engineering.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256901",
+      "fetchedAt": "2025-12-04T22:00:11.412Z"
+    }
+  },
+  "cachedAt": 1764885611412
+}
