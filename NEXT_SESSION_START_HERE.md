@@ -5,6 +5,27 @@
 
 ---
 
+## 🚨 MANDATORY: Read This First
+
+**Before ANY work on this repository, you MUST read:**
+
+📖 **[SESSION_START_PROTOCOL.md](./SESSION_START_PROTOCOL.md)** - Mandatory reading order and diagnostic checklist
+
+**Why this matters:**
+- Prevents re-investigating known issues (saves hours)
+- Ensures LESSONS_LEARNED.md is consulted before debugging
+- Provides diagnostic quick reference for common issues
+- Maintains institutional knowledge across sessions
+
+**Quick links from protocol:**
+1. **NEXT_SESSION_START_HERE.md** (this file) - Current status
+2. **LESSONS_LEARNED.md** - Complete problem guide with all 5 critical fixes
+3. **Workflow logs** - Only after reading documentation
+
+**⚠️ DO NOT skip the protocol** - It contains the lessons from multiple debugging sessions that took hours to resolve.
+
+---
+
 ## 🎯 Quick Status
 
 **All Critical Issues RESOLVED:**
