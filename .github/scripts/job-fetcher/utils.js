@@ -66,6 +66,45 @@ function migrateOldJobId(oldId) {
   return normalized;
 }
 
+function generateEnhancedId(job) {
+  // Support both primary and legacy data formats
+  let title = (job.title || job.job_title || '').toLowerCase().trim();
+
+  // Normalize Roman numerals BEFORE replacing spaces (word boundary matching)
+  title = title
+    .replace(/\bi\b/g, '1')       // " I " → " 1 "
+    .replace(/\bii\b/g, '2')      // " II " → " 2 "
+    .replace(/\biii\b/g, '3')     // " III " → " 3 "
+    .replace(/\biv\b/g, '4')      // " IV " → " 4 "
+    .replace(/\bv\b/g, '5')       // " V " → " 5 "
+    // Common abbreviations
+    .replace(/\bsr\.?\b/g, 'senior')
+    .replace(/\bjr\.?\b/g, 'junior')
+    .replace(/\b&\b/g, 'and')
+    .replace(/\s+/g, '-');        // Spaces to dashes
+
+  // Support both formats for company name
+  const company = (job.company_name || job.employer_name || '').toLowerCase().trim().replace(/\s+/g, '-');
+
+  // Support both formats for location
+  // Primary: locations[] array, Legacy: job_city string
+  let city = '';
+  if (job.locations && Array.isArray(job.locations) && job.locations.length > 0) {
+    city = job.locations[0].toLowerCase().trim(); // Use first location
+  } else {
+    city = (job.job_city || '').toLowerCase().trim();
+  }
+  city = city.replace(/\s+/g, '-');
+
+  // Remove special characters and normalize
+  const normalize = (str) => str
+    .replace(/[^\w-]/g, '-')  // Replace special chars with dashes
+    .replace(/-+/g, '-')      // Collapse multiple dashes
+    .replace(/^-|-$/g, '');   // Remove leading/trailing dashes
+
+  return `${normalize(company)}-${normalize(title)}-${normalize(city)}`;
+}
+
 function normalizeCompanyName(companyName) {
   const company = COMPANY_BY_NAME[companyName.toLowerCase()];
   return company ? company.name : companyName;
@@ -929,6 +968,7 @@ module.exports = {
   COMPANY_BY_NAME,
   delay,
   generateJobId,
+  generateEnhancedId,
   migrateOldJobId,
   normalizeCompanyName,
   getCompanyEmoji,
