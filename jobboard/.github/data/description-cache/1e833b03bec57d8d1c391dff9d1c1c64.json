@@ -1,0 +1,17 @@
+{
+  "url": "https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting",
+      "fetchedAt": "2025-12-04T20:42:23.992Z"
+    }
+  },
+  "cachedAt": 1764880943992
+}

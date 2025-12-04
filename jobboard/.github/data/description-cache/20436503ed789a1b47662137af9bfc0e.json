@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/personainc.ai/6773dc35-24a5-458d-bc56-17a73ae00fb0",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Persona AI is developing and commercializing rugged, multi-purpose humanoid robots that perform real work. Persona’s founding team has a decades-long history in humanoid robotics, bionics, and product development delivering robust hardware that has touched the stars, worked miles below the surface of the ocean, and even roamed Disney Parks. Our mission is focused squarely on shipping beautiful, reliable products at massive scale, while building a customer-focused team to achieve these aims. About the Role We're looking for a Machine Learning Intern (Manipulation) to help build Persona's machine learning models and infrastructure. We are primarily interested in candidates with experience and relevant projects in robot learning, but can be flexible depending on aptitude and energy. As a Machine Learning Intern at Persona, you will have an incredible opportunity to work with humanoid robots and solve practical problems in the real world. What You'll Do Work with the ML team to develop and improve machine learning models and the infrastructure. Monitor and evaluate the performance of models in the real world. Collaborate on the design and development of the Persona ML software stack and support its application in manipulation, navigation, locomotion, and perception. What We're Looking For Courage and grit to tackle some of the hardest problems in embodied AI. Enthusiasm for working collaboratively in a high paced team environment. Experience with deep learning frameworks (Pytorch, JAX, TensorFlow, etc.) Experience with cloud computing to develop models, manage data, etc. (AWS, Azure, GCP) Strong understanding of the state of the art research in robot learning (behavior cloning and reinforcement learning for manipulation, world models, etc.). Understanding of the challenges of deploying neural network models in the real world. Capable of writing high-quality software. Thrive in fast-paced and ambiguous environments. Strong first principles thinker. Preferred or Bonus Qualifications An advanced degree (Master's or PhD) in computer science, robotics, machine learning, or another related field. Published papers at top ML/Robotics conferences (ICML, ICRA, CoRL, RSS, NeurIPS). Why join Persona AI? You'll shape technology that's redefining the possibilities of robotics and human interaction. Work alongside passionate teammates who value diversity, creativity, and continuous learning. Enjoy full access to advanced prototyping tools, labs, and the freedom to experiment and innovate. We offer competitive compensation, excellent benefits, flexible work environment, and equity opportunities. Persona AI embraces diversity and equal opportunity in a serious way. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our work will be.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/personainc.ai/6773dc35-24a5-458d-bc56-17a73ae00fb0",
+      "fetchedAt": "2025-12-04T20:42:58.279Z"
+    }
+  },
+  "cachedAt": 1764880978279
+}
