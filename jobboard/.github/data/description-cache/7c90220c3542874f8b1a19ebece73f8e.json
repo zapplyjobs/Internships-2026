@@ -1,0 +1,17 @@
+{
+  "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Back to search results let url = localStorage.getItem('kpmgSearchUrl'); if(url){ const backToSearch = document.querySelector('#back-to-search'); if(backToSearch) { backToSearch.href = url; } } Job Not Found This job has been filled or is no longer available. Please check out KPMG's many other job opportunities: Search Jobs Careers Home Early Career Experienced Contractor Executive Practice Areas Advisory Audit Tax Business Support Services Innovation & Technology Why KPMG Who We Are Benefits & How We Work Professional Development Community Impact Job Search US-KPMG.com KPMG LEGAL PRIVACY FEDERAL EMPLOYMENT-RELATED POSTERS ACCESSIBILITY JOB SCAM ALERT TECHNICAL SUPPORT COOKIE PREFERENCES DO NOT SELL OR SHARE MY PERSONAL INFORMATION © 2025 KPMG LLP, a Delaware Limited Liability Partnership, and its subsidiaries are part of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization. For more details about the structure of the KPMG global organization, please visit https://home.kpmg/governance KPMG LLP and its affiliates and subsidiaries (\"KPMG\") offer a comprehensive compensation and benefits package. KPMG is an equal opportunity employer. KPMG complies with all applicable federal, state, and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other category protected by applicable federal, state, or local laws. The attached link contains further information regarding the firm's compliance with federal, state, and local recruitment and hiring laws. KPMG maintains a drug-free workplace. Employment with KPMG is \"At Will,\" which means that employment may be terminated with or without cause and with or without notice at any time at the discretion of either KPMG or the employee. {\"prefetch\":[{\"source\":\"document\",\"where\":{\"and\":[{\"href_matches\":\"/*\"},{\"not\":{\"href_matches\":[\"/wp-*.php\",\"/wp-admin/*\",\"/wp-content/uploads/*\",\"/wp-content/*\",\"/wp-content/plugins/*\",\"/wp-content/themes/understrap-child-main/*\",\"/wp-content/themes/understrap/*\",\"/*\\\\?(.+)\"]}},{\"not\":{\"selector_matches\":\"a[rel~=\\\"nofollow\\\"]\"}},{\"not\":{\"selector_matches\":\".no-prefetch, .no-prefetch a\"}}]},\"eagerness\":\"conservative\"}]}",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=129155",
+      "fetchedAt": "2025-12-04T21:59:48.808Z"
+    }
+  },
+  "cachedAt": 1764885588808
+}

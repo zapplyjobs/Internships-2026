@@ -1,0 +1,17 @@
+{
+  "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212050",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The Summer Internship Program is a unique and challenging 10-week experience for diverse, talented, high-performing individuals interested in different aspects of the financial and technology industry. Contingent upon business needs, performance and completion of degree, our internship serves as a pipeline to our full-time early-career program EDGE.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/212050",
+      "fetchedAt": "2025-12-04T22:00:29.777Z"
+    }
+  },
+  "cachedAt": 1764885629777
+}
