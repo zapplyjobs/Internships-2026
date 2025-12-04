@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Where multiple locations are listed for this role, the position may be based in any of those locations, with priority determined according to the order of listing. What you’ll do As a PhD intern, you will: Collaborate with research scientists to advance methods in: Planning and RL for computer use (e.g. behavioral cloning, RL on model weights, RAG-based domain knowledge) Multimodal grounding (e.g. vision-only models, tree search, hybrid methods with large models) Reward/judge modeling (e.g. error analysis, human evaluation, training judge models) User intent understanding (e.g. modeling vague queries, preference learning) Contribute to building datasets, running experiments, and benchmarking results Explore novel approaches and help derisk Simular’s long-term technical roadmap Document and communicate findings through internal reports or academic-style writing You might be a fit if Currently pursuing a PhD in Computer Science, Machine Learning, or related field Research background in at least one of: Reinforcement learning, Large language/vision-language models, Computer vision and multimodal perception, Representation learning Experience conducting experiments and publishing or preparing papers in top-tier conferences (NeurIPS, ICLR, ICML, CVPR, ACL, etc.) Strong coding and prototyping skills in Python and ML frameworks (PyTorch/JAX) Curiosity, initiative, and interest in bridging fundamental research with applied AI",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application",
+      "fetchedAt": "2025-12-04T19:12:11.506Z"
+    }
+  },
+  "cachedAt": 1764875531506
+}
