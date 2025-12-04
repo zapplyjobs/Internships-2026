@@ -1,0 +1,20 @@
+{
+  "url": "https://boards.greenhouse.io/lightmatter/jobs/4982611008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Lightmatter is leading the revolution in AI data center infrastructure, enabling the next giant leaps in human progress. The company invented the world’s first 3D-stacked photonics engine, Passage™, capable of connecting thousands to millions of processors at the speed of light in extreme-scale data centers for the most advanced AI and HPC workloads. Lightmatter raised $400 million in its Series D round, reaching a valuation of $4.4 billion. We will continue to accelerate the development of data center photonics and grow every department at Lightmatter! If you're passionate about tackling complex challenges, making an impact, and being an expert in your craft, join our team of brilliant scientists, engineers, and accomplished industry leaders. Lightmatter is (re)inventing the future of computing with light!About this Role We are hiring an Intern for our Software team at Lightmatter! We are a photonic computer company redefining what computers and human beings are capable of by building the engines that will power discoveries and drive progress in a sustainable way. With modern human progress relying heavily on computers, the world has hit a dead end with traditional transistors, and the prospect of constantly building data centers is an environmental nightmare. Lightmatter has created a solution in photonic computing: using photons instead of electrons to take advantage of their higher bandwidth. We build chips for artificial intelligence computing. Our architecture leverages the unique properties of light to enable fast and efficient inference and training engines. Responsibilities Enhance data pipeline & workflows for embedded development projects. Incorporate data pipelines development kit hardware test workflows into the software review and approval process. Write and debug integration tests for embedded systems data analytics; Collaborate with hardware and verification teams to support system-level testing and validation Qualifications​ Currently enrolled in an undergraduate or graduate engineering program (Computer Science, Electrical Engineering, or related field). Familiarity with software design concepts and working experience with MangoDB, its query, and Snowflakes Knowledge of data pipeline and data reporting / monitoring frameworks Proficiency with GitHub and CI tools (e.g., Jenkins, GitHub Actions). Programming experience in Python and/or mangoDB queries Willingness to learn and work collaboratively with cross-functional teams. Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.Hourly Rate in USD$50 - $55 USDBenefits Comprehensive Health Care Plan (Medical, Dental & Vision) Retirement Savings Matching Program Life Insurance (Basic, Voluntary & AD&D) Generous Time Off (Vacation, Sick & Public Holidays) Paid Family Leave Short Term & Long Term Disability Training & Development Commuter Benefits Flexible, hybrid workplace model Equity grants (applicable to full-time employees) Benefits eligibility may vary depending on your employment status and location. Lightmatter recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status as required by applicable law. Export Control Candidates should have capacity to comply with the federally mandated requirements of U.S. export control laws.",
+    "requirements": [
+      "Familiarity with software design concepts and working experience with MangoDB, its query, and Snowflakes",
+      "Knowledge of data pipeline and data reporting / monitoring frameworks",
+      "Programming experience in Python and/or mangoDB queries"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4982611008",
+      "fetchedAt": "2025-12-04T20:50:01.312Z"
+    }
+  },
+  "cachedAt": 1764881401312
+}
