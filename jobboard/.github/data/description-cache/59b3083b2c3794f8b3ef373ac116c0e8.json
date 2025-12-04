@@ -1,0 +1,20 @@
+{
+  "url": "https://job-boards.greenhouse.io/embrace/jobs/5718369004",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About Embrace As the only user-focused observability solution built on OpenTelemetry, Embrace delivers crucial insights across both DevOps, web and mobile teams to illuminate real customer impact – not just server impact – to deliver the best app experiences. Customers like The New York Times, Marriott, Masterclass, Home Depot, and Cameo love Embrace’s observability platform because it makes extremely complicated and voluminous data actionable. Our cultural values highlight how we seek to improve as individuals, team members, and a company each and every day. About the Role We’re looking for a Data Science Intern to join our team for a 3-month internship focused on uncovering patterns and insights within the billions of mobile and web events that Embrace collects on behalf of its customers’ apps. You’ll work closely with our product and engineering teams to design and prototype models that detect valuable patterns in user behavior, app performance, and telemetry data—and help translate those ideas into product features that empower web and mobile developers to build better experiences. This is a hands-on, high-impact internship where you’ll gain experience applying modern data science and machine learning techniques to large-scale real-world data. What You’ll Do Explore, analyze, and visualize large datasets from mobile + web observability data and user session data Develop statistical measures and applied models to identify meaningful classifications, trends, anomalies, or predictive signals in event data Partner with Embrace staff (product + data science) to prioritize research projects and translate research insights into potential product features Present findings to technical and non-technical audiences Contribute to documentation, reproducible notebooks, and internal demos Basic Qualifications Currently enrolled in a Master’s program in Data Science, Computer Science, or a related quantitative field Proficient in Python and familiar with key data science frameworks E.g. Pandas/Polars, NumPy, scikit-learn, data visualization libraries such as matplotlib or seaborn Foundational understanding of machine learning concepts (supervised, unsupervised, feature engineering, evaluation metrics) Ability to query and manipulate large datasets using SQL or PySpark Strong analytical and problem-solving skills with attention to detail Excellent written and verbal communication skills Curiosity and enthusiasm for working with large-scale, real-world data Preferred Qualifications Experience working with time-series or event-based data Experience with data visualization tools (e.g., Plotly, Dash, Streamlit, or similar) Familiarity with non-parametric statistics on event-based data Familiarity with deep learning frameworks like PyTorch or TensorFlow and judgement on when to use them Familiarity with cloud data ecosystems (e.g., ClickHouse, Snowflake, BigQuery, AWS, or GCP) Contributions to open-source projects or independent research projects Excitement about learning from experienced engineers and seeing your work influence product direction A love of discovering patterns - and maybe also of Star Wars (or Star Trek) Compensation: This is a paid internship with an expected hourly rate of $23–$27/hour, depending on experience and program level.",
+    "requirements": [
+      "Experience working with time-series or event-based data",
+      "Experience with data visualization tools (e.g., Plotly, Dash, Streamlit, or similar)",
+      "Excitement about learning from experienced engineers and seeing your work influence product direction"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/embrace/jobs/5718369004",
+      "fetchedAt": "2025-12-04T20:31:15.075Z"
+    }
+  },
+  "cachedAt": 1764880275075
+}
