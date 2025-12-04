@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003810",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "MidAmerican Energy Company has an exciting career opportunity available. Take the next step in your career and apply now!",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003810",
+      "fetchedAt": "2025-12-04T22:01:16.309Z"
+    }
+  },
+  "cachedAt": 1764885676309
+}

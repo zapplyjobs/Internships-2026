@@ -1,0 +1,27 @@
+{
+  "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Aechelon Technology, Inc. is a leading producer of 3D simulator content, including Geospecific visual/sensor databases and realistic 3D models. We seek people who share our passion for real-time computer graphics and commitment to our mission of helping make our Nation’s pilots safer. We will give you a chance to work with some of the most talented people in the graphics industry. We are currently seeking students who have attained Sophomore or Junior Status in Computer Science or Computer Engineering programs to join our Summer Internship program. In addition to technical acumen, we highly value leadership skills as we believe innovation thrives when developers take initiative to make great software. This position will be a member of our core 3D Graphics Software Engineering team, which develops pC-Nova, Aechelon Technology’s industry-leading visual simulation application, based in our Overland Park, Kansas office. This role will be paired with a Mentor who will assist in developing new technologies to improve Aechelon’s products. This role will have the opportunity to contribute to Aechelon’s shipping products and therefore make a lasting impact on our Company and our end users. ESSENTIAL DUTIES AND RESPONSIBILITIES: Collaborate with core 3D Graphics Software Engineering team to develop and enhance pC-Nova, Aechelon Technology’s flagship visual simulation application Work closely with dedicated Mentor to design and implement new technologies aimed at improving Aechelon’s product offerings Contribute directly to production-level software, with the opportunity to make a meaningful and lasting impact on both company products and end-user experience REQUIRED QUALIFICATIONS: Passion for developing fast code and solid software engineering principles In-depth knowledge of and experience programming in C or C++ languages Two years progress towards B.S. in Computer Science or Computer Engineering Strong analytical and problem-solving skills Ability to work with export-controlled technology DESIRED COMPETENCIES: Experience with developing 3D applications with Open GL or Direct3D Experience with rendering engines such as Unreal, Unity or Babylon.js Experience with multi-processing real time systems Experience with GPGPU development using CUDA, OpenCL, or OpenGL Compute Experience with machine-learning technology such as Convolutional Neural Networks Experience with defect tracking systems such as Jira or Bugzilla Experience with Configuration Management (CM) systems such as Perforce Proficiency with scripting languages: bash, Javascript, Python, etc. We seek people who share our company's values of extraordinary commitment to technology, customers and the pursuit of excellence. We will give you a chance to work with some of the most talented people in the simulation and training industry.This position description is not intended to be a complete listing of activities, duties or responsibilities that are required of the employee holding this position. Duties, responsibilities and activities may be changed or others may be assigned at any time by the Company with notice to the employee. Aechelon Technology is an equal opportunity employer. We are committed to providing access and opportunities to individuals with disabilities. If you are an applicant who is unable to fully utilize/access our application process because of a disability, Aechelon Technology will provide a reasonable accommodation. Please send an email to hr_team@aechelon.com to request that accommodation, and please be sure to include a detailed description of your requested accommodation, your name and preferred method of contact.",
+    "requirements": [
+      "Contribute directly to production-level software, with the opportunity to make a meaningful and lasting impact on both company products and end-user experience",
+      "In-depth knowledge of and experience programming in C or C++ languages",
+      "Two years progress towards B.S. in Computer Science or Computer Engineering",
+      "Experience with developing 3D applications with Open GL or Direct3D",
+      "Experience with rendering engines such as Unreal, Unity or Babylon.js",
+      "Experience with multi-processing real time systems",
+      "Experience with GPGPU development using CUDA, OpenCL, or OpenGL Compute",
+      "Experience with machine-learning technology such as Convolutional Neural Networks",
+      "Experience with defect tracking systems such as Jira or Bugzilla",
+      "Experience with Configuration Management (CM) systems such as Perforce"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008",
+      "fetchedAt": "2025-12-04T21:58:29.813Z"
+    }
+  },
+  "cachedAt": 1764885509813
+}
