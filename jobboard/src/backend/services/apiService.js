@@ -83,6 +83,22 @@ async function fetchExternalJobsData() {
       if (Array.isArray(jobsData.payload)) {
         jobsData = jobsData.payload;
         console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload`);
+      } else if (jobsData.payload && typeof jobsData.payload === 'object') {
+        // payload exists but isn't array - try nested extraction
+        console.log('⚠️  payload is an object, checking nested properties...');
+        if (Array.isArray(jobsData.payload.jobs)) {
+          jobsData = jobsData.payload.jobs;
+          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.jobs`);
+        } else if (Array.isArray(jobsData.payload.data)) {
+          jobsData = jobsData.payload.data;
+          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.data`);
+        } else if (Array.isArray(jobsData.payload.results)) {
+          jobsData = jobsData.payload.results;
+          console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload.results`);
+        } else {
+          console.error('❌ payload is object but no array found. Payload keys:', Object.keys(jobsData.payload));
+          return [];
+        }
       } else if (Array.isArray(jobsData.jobs)) {
         jobsData = jobsData.jobs;
         console.log(`✅ Extracted ${jobsData.length} jobs from response.data.jobs`);
@@ -94,6 +110,9 @@ async function fetchExternalJobsData() {
         console.log(`✅ Extracted ${jobsData.length} jobs from response.data.results`);
       } else {
         console.error('❌ Could not find job array in API response. Response keys:', Object.keys(jobsData));
+        if (jobsData.payload) {
+          console.error('   Payload type:', typeof jobsData.payload, 'Value:', JSON.stringify(jobsData.payload).substring(0, 200));
+        }
         return [];
       }
     }
