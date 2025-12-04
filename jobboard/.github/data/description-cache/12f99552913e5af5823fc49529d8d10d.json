@@ -1,0 +1,17 @@
+{
+  "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2104",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Subaru of America, Inc.’s Internship Program provides a valuable opportunity for students to gain real-world experience related to their major. Interns have the chance to work on meaningful projects, collaborate with professionals, and develop skills that will be beneficial in their future careers. It’s an excellent way to jump-start their career and enhance their skillset, making them more marketable in their field of study. The Advanced Quality Assurance internship is for students pursing a Bachelor’s Degree with a major in Automotive Industry Management, Business Management, Business Analytics, or Project Management.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2104",
+      "fetchedAt": "2025-12-04T20:42:28.803Z"
+    }
+  },
+  "cachedAt": 1764880948803
+}
