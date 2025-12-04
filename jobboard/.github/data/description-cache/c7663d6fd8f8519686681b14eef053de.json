@@ -1,0 +1,17 @@
+{
+  "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4102298007",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Interested in joining our team? Openings at Jahnel Group Openings at Jahnel Group",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4102298007",
+      "fetchedAt": "2025-12-04T21:50:29.353Z"
+    }
+  },
+  "cachedAt": 1764885029353
+}

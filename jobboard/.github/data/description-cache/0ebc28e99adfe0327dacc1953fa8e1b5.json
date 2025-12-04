@@ -1,0 +1,18 @@
+{
+  "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4523105007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.We are seeking a candidate with expertise in silicon security engineering. This role involves critical tasks such as threat modeling to identify and mitigate potential vulnerabilities, and designing robust security processors. The ideal candidate will contribute to safeguarding our cutting-edge AI technology. This role is onsite, based out of Santa Clara, CA. We welcome candidates at various experience levels for this role. During the interview process, candidates will be assessed for the appropriate level, and offers will align with that level, which may differ from the one in this posting. Who You Are: Currently pursuing a M.S or Ph.D. degree in Computer Science, Computing Engineering, Electrical Engineering, or a related field Strong background in computer security, verification, or testing Familiar with computer architecture, digital logic design or software development Proficiency in programming languages such as RTL or C/C++. What We Need: Conduct security analysis of Tenstorrent’s AI solutions Participate in security processor design Do research on advanced security technologies for chiplet based silicons What Will You Learn: Security engineering of cutting edge security processor Security engineering of chiplet based silicon AI-assisted design Compensation for all interns at Tenstorrent ranges from $50/hr - $70/hr including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made. Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer. This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
+    "requirements": [
+      "Currently pursuing a M.S or Ph.D. degree in Computer Science, Computing Engineering, Electrical Engineering, or a related field"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4523105007",
+      "fetchedAt": "2025-12-04T21:48:08.236Z"
+    }
+  },
+  "cachedAt": 1764884888236
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-westernsouthern.icims.com/jobs/23652/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p>Western &amp; Southern is looking for a dynamic, energetic intern who is eager to learn about our company by assisting our Artificial Intelligence and Robotics Process Automation Department in various AI Development projects throughout the year. You will be working closely with our team to support AI initiatives, assist with research and prototyping efforts, and help improve tools that enhance knowledge retrieval and automation.</p> <h2>Responsibilities</h2> <p><strong>Intern Duties and Responsibilities:</strong></p> <ul> <li>Work alongside our AI IT team to design, build, and enhance web-based tools that leverage generative AI, including front-end (React) and back-end (Python) components.</li> <li>Gain hands-on experience integrating AI models and APIs (e.g., OpenAI, Azure AI) into user-facing applications and internal systems.</li> <li>Collaborate with developers, architects, and analysts to explore automation and AI-enabled solutions that support real business needs.</li> <li>Gain familiarity with cloud monitoring and logging tools for application insights and analytics.</li> <li>Develop your software engineering and problem-solving skills while learning how AI is deployed at scale in a modern enterprise environment.</li> <li>Explore trends in AI by researching emerging tools (like OpenAI, Gemini, Claude, or open-source LLMs) and assist with prototyping efforts.</li> </ul> <h2>Qualifications</h2> <p><strong>Intern Requirements: </strong></p> <ul> <li>Support the development and testing of AI tools and prototypes, including knowledge retrieval systems.</li> <li>Assist with data preparation and ingestion for AI models.</li> <li>Help document features, processes, and system behavior.</li> <li>Conduct research into new AI trends, models, and use cases.</li> <li>Participate in team meetings and provide feedback or updates as needed.</li> <li>Collaborate with team members to troubleshoot and improve existing systems.</li> </ul>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-westernsouthern.icims.com/jobs/23652/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-04T21:49:46.567Z"
+    }
+  },
+  "cachedAt": 1764884986568
+}
