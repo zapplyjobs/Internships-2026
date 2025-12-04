@@ -1,0 +1,20 @@
+{
+  "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Software Engineering InternHuntington BeachEngineering /Intern /On-siteSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone ✱Current location ✱No location found. Try entering a different locationLoadingCurrent company ✱LinksLinkedIn URLExport ComplianceTo conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Please select what best applies to you.✱Please selectU.S. citizen or national of the United StatesU.S. lawful permanent residentRefugee under 8 U.S.C. 1157Asylee under 8 U.S.C. 1158Authorized to work in the United States under the Deferred Action of Childhood Arrivals (DACA) programOther (please explain below)If Other, please explain:Intern AvailabilityWhat season are you looking for an Internship (Fall/Winter/Spring/ Summer)?Additional informationBy applying for this position, your data will be processed as per Layup Parts's .Submit application",
+    "requirements": [
+      "To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR) you must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State. Please select what best applies to you.✱Please selectU.S. citizen or national of the United StatesU.S. lawful permanent residentRefugee under 8 U.S.C. 1157Asylee under 8 U.S.C. 1158Authorized to work in the United States under the Deferred Action of Childhood Arrivals (DACA) programOther (please explain below)"
+    ],
+    "responsibilities": [
+      "By applying for this position, your data will be processed as per Layup Parts's ."
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply",
+      "fetchedAt": "2025-12-04T21:29:29.489Z"
+    }
+  },
+  "cachedAt": 1764883769489
+}
