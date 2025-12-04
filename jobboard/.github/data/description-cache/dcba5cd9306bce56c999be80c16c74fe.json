@@ -1,0 +1,23 @@
+{
+  "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30192965",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "About Carrier Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do. For more information, visit corporate.carrier.com or follow Carrier on social media at @Carrier.About this Role:Carrier is seeking a motivated, results-oriented college student to join the Commercial Airside (AHU) New Product Development team as an intern/co-op for 2025. The Carrier internship experience offers interns an environment that provides practical, challenging, and meaningful on-the-job work experience and the opportunity to apply knowledge and demonstrate strengths to assist Carrier in achieving its business strategy.The successful candidate will work on programming and optimizing of selection software and other software tools for new products and options to support the growth of the Commercial Airside business.General ResponsibilitiesApply software engineering principles to code parametric engineering designsAnalyze existing code to catch up on current software and systemsDocumentation and maintenance of code over timeUtilize Agile methodologies for product developmentParticipate in continuous improvement activities including standard work, Kaizen and VSM eventsKey ResponsibilitiesUnderstand pre-existing Java code behind the current, highly configurable product offering to assist in code optimization effortsWork with others on the engineering and software teams on the backend for the next generation cloud based front end for selection softwareDevelop test cases to validate Product Design and SoftwareAssist the maintenance and optimization of hardware infrastructure to support software optimization.Attend company functions, lunch and learns, and networking eventsShadow multiple office positions and train in a variety of tasksBasic QualificationsMust be currently pursuing a Bachelor's or Master's degree program, majoring in Computer Science, Software Engineering or any engineering field.Must have an overall GPA of 3.0 or higher.Must be eligible to work in the US without sponsorship.Preferred QualificationsProficiency in Java, XML Database.Proficiency in VBA, xQuery, JavaScript, RegEx, grep, awk, sed, SQL, DROOLS, Cloud computing, Agile mindset, Scrum experience.Knowledge of PTC’s Pro/Engineer (Creo) and WindChill applications.Proficiency in Microsoft Office applications.Strong organizational, analytical, and problem-solving skills.Self-driven and proactive.Ability to manage multiple tasks and priorities.Ability to communicate effectively at all levels.Team player and willing to collaborate with others on projects.Sheet metal, mechanical and electrical design experience.HVAC engineering/design/manufacturing experience.Highly organized with strong attention to detail, while managing multiple priorities.RSRCAR Pay RangeThe salary for this position is between $36,750– $127,500 annually. Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.Job Applicant's Privacy Notice:Click on this link to read the Job Applicant's Privacy Notice",
+    "requirements": [
+      "Must be currently pursuing a Bachelor's or Master's degree program, majoring in Computer Science, Software Engineering or any engineering field.",
+      "Must have an overall GPA of 3.0 or higher."
+    ],
+    "responsibilities": [
+      "Utilize Agile methodologies for product development",
+      "Develop test cases to validate Product Design and Software",
+      "Team player and willing to collaborate with others on projects."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30192965",
+      "fetchedAt": "2025-12-04T19:11:16.891Z"
+    }
+  },
+  "cachedAt": 1764875476891
+}

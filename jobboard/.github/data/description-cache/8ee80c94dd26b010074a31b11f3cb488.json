@@ -1,0 +1,23 @@
+{
+  "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5015603008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Awetomaton is seeking exceptional students for our Summer 2026 Internship 3-month term. As a Research Intern you will be mentored directly by our senior engineering talent and have the opportunity to develop solutions to near-term national security needs. You will be part of a 4-6 person Summer cohort working out of our Beavercreek Ohio headquarters. Your work will have high visibility to both Awetomaton and Government Executives. This Summer you will work on a 2-person team to implement and evaluate SORT (Simple Online and Realtime Tracking) and Deep SORT algorithms for overhead reconnaissance imagery, exploring potential integration with existing tracking systems. This is a full-time paid position for students that will have completed their Junior undergraduate year by Summer 2026. Approximate start date is May 18, 2026. Our benefit offerings are limited to 401k for internship candidates. US Citizenship is a requirement, as we are unable to provide Visa sponsorship. Applications will be considered through December 26, 2025. Key Responsibilities Study and implement SORT and Deep SORT tracking algorithms Adapt algorithms for remote sensing imagery data processing Benchmark performance characteristics Computational complexity per frame Memory efficiency with active track management Real-time processing capability Investigate integration pathways with more robust tracking algorithm for dynamic algorithm switching in high-density detection environments Document algorithm performance, limitations, and recommendations for operational deployment Familiarity with platform management concepts including containerization and Kubernetes Required Qualifications Currently pursuing a degree in Electrical Engineering, Computer Science, or related field with Junior year completed by Summer 2026 US Citizen Strong foundation in computer vision and/or machine learning Programming proficiency in Python (PyTorch experience preferred) Familiarity with object detection and tracking concepts Ability to read and implement algorithms from academic papers Preferred Qualifications Experience with video processing or sensor data analysis Knowledge of deep learning architectures for appearance-based tracking Interest in defense/aerospace applications About Awetomaton We build software that enables humans to make informed decisions from raw intel data, with a specialization in satellite collection. We are a Dayton-based defense startup that believes there is a critical skill & culture gap - one we are filling with high-output, mission focused engineering talent. Results matter to our customers. We've never lost a customer because we deliver what they need. Awetomaton is where you do work that matters with a passionate team in an environment that inspires your creativity. Benefits We provide industry leading benefits that balance your health & wellbeing today, as well as lay a solid financial future into retirement. Highlights of our benefit plan include: Flexible time off totaling 36 days / year. No approvals required. 100% 401k company match up to IRS annual limits. This is a benefit of up to $23,500 for 2025. Health plan through Blue Cross Blue Shield with Health Savings Account (HSA). We pay 95% of employee premiums including family plans. Employee favorite: Tech and Wellness reimbursement of $3000 / year. Treat yourself with the newest gadgets or athletic gear. No approvals required. Annual profit sharing as 401k contribution. No set percent and dependent on annual company performance. Benefit is above and beyond 401k match. Windows or MacBook laptop and well-equipped office spaces for optimal productivity in office and on-the-go.",
+    "requirements": [
+      "Currently pursuing a degree in Electrical Engineering, Computer Science, or related field with Junior year completed by Summer 2026",
+      "Programming proficiency in Python (PyTorch experience preferred)",
+      "Experience with video processing or sensor data analysis",
+      "Knowledge of deep learning architectures for appearance-based tracking",
+      "Flexible time off totaling 36 days / year. No approvals required.",
+      "Employee favorite: Tech and Wellness reimbursement of $3000 / year. Treat yourself with the newest gadgets or athletic gear. No approvals required."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5015603008",
+      "fetchedAt": "2025-12-04T19:11:18.112Z"
+    }
+  },
+  "cachedAt": 1764875478112
+}
