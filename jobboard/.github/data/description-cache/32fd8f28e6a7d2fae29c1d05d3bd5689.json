@@ -1,0 +1,18 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineering-Intern_R51691",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Position DescriptionCadence Design Systems is seeking a highly motivated graduate student for internship in the Product Engineering team. The Cadence Digital and Signoff Group will offer you a dynamic environment in which you will work with innovative R&D and Customer Engagement teams to influence the development of software tools for advanced chip design platforms.Position ResponsibilitiesDesigning, developing, troubleshooting and debugging software programs on Unix/Linux platformsSupporting Customers in performing successful tapeouts of their System-on-chip designsPosition RequirementsCurrently enrolled in BS or MS studies in Computer Science or Electrical EngineeringExperience with EDA tools and with VLSI design; familiar with digital implementation challenges including clock tree synthesis, routing, optimization and silicon signoff.Experience with UNIX and/or LINUX platformsStrong knowledge of TclStrong analysis and problem solving skillsExcellent algorithmic skillsTeam PlayerStrong ability and passion to learnExcellent verbal and written communication skillsWe’re doing work that matters. Help us solve what others can’t.",
+    "requirements": null,
+    "responsibilities": [
+      "Designing, developing, troubleshooting and debugging software programs on Unix/Linux platforms"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Product-Engineering-Intern_R51691",
+      "fetchedAt": "2025-12-04T22:09:55.059Z"
+    }
+  },
+  "cachedAt": 1764886195059
+}
