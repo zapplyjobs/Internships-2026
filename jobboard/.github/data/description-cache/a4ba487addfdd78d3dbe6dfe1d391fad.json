@@ -1,0 +1,22 @@
+{
+  "url": "https://hbpublishing.wd1.myworkdayjobs.com/en-US/Careers/job/Boston/Data-Engineering-Co-Op_JR250407",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Harvard Business Publishing (HBP) – the leading destination for innovative management thinking. We reach lifelong learners to improve the practice of management in a changing world. This mission inspires each of us to unlock the leader in everyone – including you!The opportunityThe Data Engineering (DENG) co-op at Harvard Business Publishing (HBP) supports our DENG team in designing, building, and maintaining data infrastructure and systems that enable efficient processing and analysis of large and complex datasets for use by HBP business stakeholders, data analysts, and for use in our end user-facing products. The co-op will develop experience in data modeling, data warehousing, and ELT (Extract, Load, Transform) processes. As a member of the DENG team within HBP’s Data & AI Unit, the DE is situated in a central service role with high cross-functional engagement and impacts across all divisions of HBP. As HBP pursues a strategy of enhancing its value to organizational leaders and business learners through new forms of engagement and interactive product experiences, the DENG team plays a critical role in interfacing with product engineers, data scientists, and AI developers at HBP to enable their work. What you'll do: Identify, prioritize, and execute tasks in the data engineering life cycle Communicate with business and product development stakeholders to understand and support their data use cases Develop and maintain secure, scalable, reliable data pipelines Collaborate with business users, software engineering, and cross-functional product development teams in solution design, development, and troubleshooting Support the implementation and maintenance of data APIs that interface between our data warehouse and our products Collaborate with data scientists and ML scientists at HBP to analyze and derive insight from data, and to operationalize those insights in internal and product operations What you'll bring: Experience with one or more of the following data engineering competencies, Data modeling and warehousing (e.g., in Snowflake or similar cloud platforms) ETL pipelining (e.g., with dbt) Data governance ML operations and deployment Experience with SQL and relational databases Familiarity with developing applications on AWS cloud and knowledge of various AWS services Analytical mind with problem-solving aptitude Strong written and oral communication skills Ability to work independently, strong work ethic, with enthusiasm and ability to thrive in a team environment This is a 6-month Spring Co-op opportunity. Compensation for this role ranges from $30.00 to $40.00 per hour, commensurate with experience.The above range is the expected hourly rate for this position.",
+    "requirements": null,
+    "responsibilities": [
+      "Communicate with business and product development stakeholders to understand and support their data use cases",
+      "Develop and maintain secure, scalable, reliable data pipelines",
+      "Collaborate with business users, software engineering, and cross-functional product development teams in solution design, development, and troubleshooting",
+      "Collaborate with data scientists and ML scientists at HBP to analyze and derive insight from data, and to operationalize those insights in internal and product operations",
+      "Familiarity with developing applications on AWS cloud and knowledge of various AWS services"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://hbpublishing.wd1.myworkdayjobs.com/en-US/Careers/job/Boston/Data-Engineering-Co-Op_JR250407",
+      "fetchedAt": "2025-12-04T19:18:51.097Z"
+    }
+  },
+  "cachedAt": 1764875931097
+}

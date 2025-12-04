@@ -1,0 +1,17 @@
+{
+  "url": "https://www.8am.com/openings/?gh_jid=4622069006",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "8am is the #1 personal injury law software, providing attorneys with an all-in-one solution for case management, practice management, CRM, and client intake.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.8am.com/openings/?gh_jid=4622069006",
+      "fetchedAt": "2025-12-04T19:19:10.300Z"
+    }
+  },
+  "cachedAt": 1764875950300
+}

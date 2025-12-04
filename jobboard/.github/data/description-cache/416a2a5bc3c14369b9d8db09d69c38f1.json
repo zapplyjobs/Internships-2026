@@ -1,0 +1,16 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R52013",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Summer interns will have an opportunity to learn Cadence processes for software development and build prototypes for given problems and integrate in Cadence products. We have a wide variety of software projects to which you could contribute. They range from prototyping state of the art technologies and exploring open-source software.You will develop essential software engineering skills for your future professional career such as defining requirements, project planning, coding, debugging, testing, and documenting.You will be working with a designated mentor and will present at the end of the summer the result of your work.Requirements:Currently pursuing an MS or PH.D. in Computer Science, Computer Engineering, Electrical Engineering, Mechanical engineering, Applied Physics, Applied Mathematics, or similar degrees. Examples of fields of interest would include, but not limited to,Electrical engineering (Electromagnetic simulation, electrical circuit simulation, systems/control theory, analog circuit analysis/design, semiconductor device simulation)Computational electromagnetics (finite element methods, finite-difference time domain/FDTD, integral equations, fast multipole algorithms)Computer science (parallel numerical algorithms, graph algorithms, high performance computing architectures)Applied mathematics (computational linear algebra, sparse matrix algorithms, numerical solution of ordinary or partial differential equations, model order reduction, Fourier transform. Nonlinear optimizations)Computational physics (particle methods, fluid dynamics, molecular dynamics, Monte Carlo techniques, thermal analysis, photonics system simulation).Skills:Basic knowledge of software programming in C++/C, Python, Matlab, or equivalent languages.Good communications skills to work with team or across teams.We’re doing work that matters. Help us solve what others can’t.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern--Circuit-Simulation-_R52013",
+      "fetchedAt": "2025-12-04T19:19:47.442Z"
+    }
+  },
+  "cachedAt": 1764875987442
+}

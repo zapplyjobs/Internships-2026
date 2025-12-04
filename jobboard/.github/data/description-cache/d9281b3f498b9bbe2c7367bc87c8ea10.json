@@ -1,0 +1,26 @@
+{
+  "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/Firmware---Embedded-Software-Co-Op---Summer_30193045",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "About Carrier:Carrier, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure the safe transport of food, life-saving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit corporate.carrier.com or follow Carrier on social media at @Carrier.About the role:As a member of the firmware development team, your daily activities will include the full life-cycle of design, development, modification, testing, debugging, and support for new and existing firmware.Key Responsibilities: Develop bare metal firmware solutions to meet the needs of customersDetermine test requirements needed for the testing teamWork closely with stakeholders and technical lead to see product through the entire development lifecycleParticipate in code reviews, able to receive guidance and direction on best practicesCommunicate with hardware engineers to ensure correct system integrationDevelop device drivers and board support packagesRun unit tests and troubleshootProvide support to production and field issuesDrive continuous improvement in engineering best practicesBasic QualificationsMust be currently pursuing a bachelor's degree in Electrical Engineering, Computer Engineering, or any engineering field.Must have an overall GPA of 3.0 or higher.Must be eligible to work in the US without sponsorship.Preferred Qualifications:Proficiency in CUnderstanding of hardware and embedded systemsBasic understanding of relevant technologies, software development methodologies, and programming languages.Experience with version control systems (primarily git)Great interpersonal and communication skillsExperience with iterative development and agile methodologies.#EarlyCareers RSRCAR BenefitsEmployees are eligible for benefits, including:Health Care benefits: Medical, Dental, Vision; wellness incentivesRetirement benefitsTime Off and Leave: Paid vacation days, up to 15 days; paid sick days, up to 5 days; paid personal leave, up to 5 days; paid holidays, up to 13 days; birth and adoption leave; parental leave; family and medical leave; bereavement leave; jury duty; military leave; purchased vacation Disability: Short-term and long-term disability Life Insurance and Accidental Death and Dismemberment Tax-Advantaged Accounts: Health Savings Account; Healthcare Spending Account; Dependent Care Spending Account Tuition Assistance To learn more about our benefits offering, please click here: Work With Us | Carrier Corporate The specific benefits available to any employee may vary depending on state and local laws and eligibility factors, such as date of hire and the applicability of collective bargaining agreements. The annual salary salary for this position is between $36,750 – $127,500 annually. Factors which may affect pay within this range include, but are not limited to, skills, education, experience, and other unique qualifications of the successful candidate. Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.Job Applicant's Privacy Notice:Click on this link to read the Job Applicant's Privacy Notice",
+    "requirements": [
+      "Determine test requirements needed for the testing team",
+      "Must be currently pursuing a bachelor's degree in Electrical Engineering, Computer Engineering, or any engineering field.",
+      "Must have an overall GPA of 3.0 or higher."
+    ],
+    "responsibilities": [
+      "Develop bare metal firmware solutions to meet the needs of customers",
+      "Work closely with stakeholders and technical lead to see product through the entire development lifecycle",
+      "Develop device drivers and board support packages",
+      "Basic understanding of relevant technologies, software development methodologies, and programming languages.",
+      "Experience with iterative development and agile methodologies."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAM60-Sensitech-Inc-800-Cummings-Center-Beverly-MA-01915-USA/Firmware---Embedded-Software-Co-Op---Summer_30193045",
+      "fetchedAt": "2025-12-04T19:19:02.172Z"
+    }
+  },
+  "cachedAt": 1764875942172
+}
