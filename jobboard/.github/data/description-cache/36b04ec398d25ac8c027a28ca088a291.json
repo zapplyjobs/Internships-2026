@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for an Machine Learning Engineer Intern who’s excited to help build the future of AI-assisted development tooling. You’ll act as an internal beta user, train and evaluate real models, and help us validate AI-accelerated workflows. You’ll also contribute to ML projects across dataset preparation, model experimentation, benchmarking, and exploring new frameworks or inference toolchains. What You’ll Do: Train, evaluate, and debug machine learning models (e.g., deep learning, classical ML, multimodal models) using Python, PyTorch, and related frameworks. Use our internal AI-powered tooling to accelerate model development, dataset preparation, experiment tracking, and deployment workflows. Help test features like dataset validation, automated hyperparameter search, model introspection, and inference/runtime integrations. Provide structured feedback on usability, model behavior, edge cases, and failure modes (you’re part of the product loop). Build demo models, evaluation scripts, or experiment workflows that help us validate reliability and usability of the platform. Read academic papers, model cards, and technical documentation to cross-verify model performance and expected behavior. You'll be a good fit if you: Have hands-on experience training ML models (vision, NLP, or embedded/edge ML all welcome). Know your way around core ML concepts: model architectures, loss functions, optimization, evaluation metrics. Have experience with ML toolchains and workflows (e.g., PyTorch Lightning, Hugging Face, ONNX, TensorRT, Weights &amp; Biases). Are curious about how AI development tools could be radically better—and want to help shape that future. Ideal candidates will: Have a Master’s in Mathematics, Data Science, or Engineering. Bring prior work or internship experience with model training, ML research, or applied AI engineering. Be hungry to contribute to an ambitious startup.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/root-access/6a3f17bd-6690-4c3d-865b-f1093ae500fa",
+      "fetchedAt": "2025-12-04T20:18:35.010Z"
+    }
+  },
+  "cachedAt": 1764879515010
+}

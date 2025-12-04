@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.lever.co/envedabio/f1c510ba-349c-45fc-97a2-bd379954243b/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Enveda believes in a respectful workplace culture. If you want to share, feel free to let us know your preference so we can address you correctly.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.lever.co/envedabio/f1c510ba-349c-45fc-97a2-bd379954243b/apply",
+      "fetchedAt": "2025-12-04T20:19:01.620Z"
+    }
+  },
+  "cachedAt": 1764879541620
+}
