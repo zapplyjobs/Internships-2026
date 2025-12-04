@@ -80,7 +80,10 @@ async function fetchExternalJobsData() {
       console.log('⚠️  API response is not a direct array, attempting to extract...');
 
       // Try common nested array properties
-      if (Array.isArray(jobsData.jobs)) {
+      if (Array.isArray(jobsData.payload)) {
+        jobsData = jobsData.payload;
+        console.log(`✅ Extracted ${jobsData.length} jobs from response.data.payload`);
+      } else if (Array.isArray(jobsData.jobs)) {
         jobsData = jobsData.jobs;
         console.log(`✅ Extracted ${jobsData.length} jobs from response.data.jobs`);
       } else if (Array.isArray(jobsData.data)) {
