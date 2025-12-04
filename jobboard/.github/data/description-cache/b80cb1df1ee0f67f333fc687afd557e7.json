@@ -1,0 +1,17 @@
+{
+  "url": "https://playfly.com/join-our-team/?gh_jid=4051889009",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "CAREERS Be a part of something great. We are constantly seeking talented individuals to join our team Check out our current openings! We know that well-being is at the center of everyday life. Our comprehensive benefits package supports you where you are, so you can take care of what matters today while confidently planning for the future. Our Benefits Competitive Benefits Professional Development Collaborative Culture Equal Opportunity Employer",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://playfly.com/join-our-team/?gh_jid=4051889009",
+      "fetchedAt": "2025-12-04T20:03:54.701Z"
+    }
+  },
+  "cachedAt": 1764878634701
+}

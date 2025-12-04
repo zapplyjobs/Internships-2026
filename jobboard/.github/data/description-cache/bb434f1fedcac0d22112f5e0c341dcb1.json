@@ -1,0 +1,21 @@
+{
+  "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Are you interested in an internship that provides you an opportunity to turn your related coursework into real world business experiences? Do you thrive on fostering collaboration with others and working with a team? The Federal Home Loan Bank of Indianapolis is seeking well-rounded and motivated individuals to join our Data Excellence team. The student filling this position will handle a wide range of important duties.The Analytics Engineer Intern will be a member of the Analytics Engineering team, gaining practical experience in supporting analytics solutions on the Bank’s enterprise data platforms and modern analytics technologies. This position provides the opportunity to work with Microsoft Fabric, SAP BusinessObjects, and various banking applications and datasets, facilitating informed, data-driven decision-making. The intern will operate under the guidance of senior engineers and collaborate on projects focused on developing and improving analytic solutions, while acquiring knowledge of industry-leading practices. This internship will follow our hybrid workforce model and will be required to be located in or around the Indianapolis area.Primary Responsibilities:Create and maintain Power BI and Webi reportsDevelop new Data Warehouse Jobs using Business Objects Data ServicesDevelop and maintain Data Warehouse ETL jobs and processesOther duties as assignedPosition Requirements:Effective written and oral communication skillsAbility to take instruction and work independently, as well as in a team setting.Strong organizational skills with attention to detailAnalytical and problem-solving skillsProgram Features & Requirements:Interns are paid a competitive hourly rate.Our intern program is for students that have completed at least their sophomore year. Graduate students are highly encouraged to apply.Applicants should be Data Management or Data Science majors.The Federal Home Loan Bank of Indianapolis is an Equal Opportunity Employer.",
+    "requirements": [
+      "Our intern program is for students that have completed at least their sophomore year.  Graduate students are highly encouraged to apply."
+    ],
+    "responsibilities": [
+      "Develop new Data Warehouse Jobs using Business Objects Data Services",
+      "Develop and maintain Data Warehouse ETL jobs and processes"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Analytics-Engineer-Intern_R552",
+      "fetchedAt": "2025-12-04T20:03:08.029Z"
+    }
+  },
+  "cachedAt": 1764878588030
+}
