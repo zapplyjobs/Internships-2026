@@ -14,7 +14,12 @@ on:
         type: string
         default: ''
       hours_ago:
-        description: 'Only delete posts from last N hours (leave empty for all posts)'
+        description: 'Delete posts from last N hours (leave empty unless needed)'
+        required: false
+        type: string
+        default: ''
+      older_than_hours:
+        description: 'Delete posts OLDER than N hours (168 = 7 days, leave empty for all)'
         required: false
         type: string
         default: ''
@@ -56,6 +61,7 @@ jobs:
         DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels }}
         CHANNEL_IDS: ${{ inputs.channel_ids }}
         HOURS_AGO: ${{ inputs.hours_ago }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours }}
         DRY_RUN: ${{ inputs.dry_run }}
         # Category channel IDs
         DISCORD_TECH_CHANNEL_ID: "1429365682948145164"
@@ -103,7 +109,9 @@ jobs:
         fi
         echo "" >> $GITHUB_STEP_SUMMARY
         if [ -n "${{ inputs.hours_ago }}" ]; then
-          echo "**Time Range:** Last ${{ inputs.hours_ago }} hours" >> $GITHUB_STEP_SUMMARY
+          echo "**Time Range:** Last ${{ inputs.hours_ago }} hours (newer posts)" >> $GITHUB_STEP_SUMMARY
+        elif [ -n "${{ inputs.older_than_hours }}" ]; then
+          echo "**Time Range:** Older than ${{ inputs.older_than_hours }} hours (older posts)" >> $GITHUB_STEP_SUMMARY
         else
           echo "**Time Range:** All posts" >> $GITHUB_STEP_SUMMARY
         fi

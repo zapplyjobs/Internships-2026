@@ -7,7 +7,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { decryptLog } = require('./encryption-utils');
+const JobsDataExporter = require('./jobs-data-exporter');
 
 const ENCRYPTED_FILE = path.join(process.cwd(), '.github', 'data', 'jobs-data-encrypted.json');
 const PASSWORD = process.env.LOG_ENCRYPT_PASSWORD;
@@ -26,7 +26,8 @@ console.log('🔓 Decrypting jobs-data-encrypted.json...\n');
 
 try {
   const encryptedData = JSON.parse(fs.readFileSync(ENCRYPTED_FILE, 'utf8'));
-  const decryptedData = decryptLog(encryptedData, PASSWORD);
+  const exporter = new JobsDataExporter();
+  const decryptedData = exporter.decrypt(encryptedData);
 
   console.log('✅ Decryption successful!\n');
   console.log('📊 Metadata:');
