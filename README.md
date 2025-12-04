@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 756</em></p>
+<p><em>Real-time opportunities from 755</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-1972-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-756-blue?style=flat&logo=building)
+![Companies](https://img.shields.io/badge/Companies-755-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-18-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 756+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 1972+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 755+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 1972+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -72,7 +72,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ## 📊 **Live Stats**
 
 🔥 **Current Opportunities:** 1972 internships & new grad roles  
-🏢 **Top Companies:** 756 elite tech companies hiring  
+🏢 **Top Companies:** 755 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 18 premium opportunities  
 📅 **Last Updated:** December 4, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -122,34 +122,34 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Development Engineer Test Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3134079/software-development-engineer-test-intern-summer) | 1h |
-| 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 1h |
-| Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 1h |
-| 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 1h |
-| Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 1h |
-| Software Development Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 1h |
-| Security Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us) | 1h |
-| Systems Development Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1h |
+| Software Development Engineer Test Intern - Summer | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3134079/software-development-engineer-test-intern-summer) | 2h |
+| 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 2h |
+| Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 2h |
+| 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 2h |
+| Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 2h |
+| Software Development Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 2h |
+| Security Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us) | 2h |
+| Systems Development Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 2h |
 
 #### 🟦 **Microsoft** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Data Science: PhD Internship Opportunities - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857576) | 1h |
-| Software Engineer: Frontend Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1861019) | 1h |
-| Software Engineer: Security Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1861017) | 1h |
-| Software Engineer Intern - AI - Machine Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1872468) | 1h |
-| Software Engineer: Applied AI/ML Intern Opportunities for University Students - AI - Machine Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1877249) | 1h |
-| Software Engineer Intern - Multiple Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1880482) | 1h |
-| Research Internship – Computing | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/) | 1h |
-| Data Engineer Intern | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw) | 1h |
-| Software Engineering Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1860947) | 1h |
+| Data Science: PhD Internship Opportunities - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857576) | 2h |
+| Software Engineer: Frontend Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1861019) | 2h |
+| Software Engineer: Security Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1861017) | 2h |
+| Software Engineer Intern - AI - Machine Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1872468) | 2h |
+| Software Engineer: Applied AI/ML Intern Opportunities for University Students - AI - Machine Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1877249) | 2h |
+| Software Engineer Intern - Multiple Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1880482) | 2h |
+| Research Internship – Computing | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/) | 2h |
+| Data Engineer Intern | Redmond, Washington | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw) | 2h |
+| Software Engineering Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1860947) | 2h |
 
 #### 🟢 **Google** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026) | 1h |
+| Software Engineering Intern | Atlanta, GA | [<img src="./image.png" width="100" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026) | 2h |
 
 ### 🏢 **Top Tech** (21 positions)
 
@@ -157,47 +157,47 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning Intern | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996) | 1h |
-| PhD Research Intern - Cross-Disciplinary Vision Science - 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---2026_JR2004812) | 1h |
-| PhD Research Intern - Gaming Research - 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Gaming-Research---2026_JR2004805-1) | 1h |
-| Autonomous Vehicles and Robotics Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | 1h |
-| Deep Learning Computer Architecture Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 1h |
-| Systems Software Engineering Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204) | 1h |
-| Deep Learning Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 1h |
-| Computer Architecture Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1) | 1h |
-| PhD Autonomous Vehicles Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244) | 1h |
-| PhD Computer Vision and Deep Learning Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241) | 1h |
-| Software Engineering | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206) | 1h |
-| NVIDIA Internships: PhD Graphics and Simulation Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242) | 1h |
-| NVIDIA 2026 Internships: PhD Generative AI Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228) | 1h |
-| Internships: Deep Learning | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 1h |
-| NVIDIA Internships: Deep Learning Computer Architecture | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 1h |
+| Machine Learning Intern | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996) | 2h |
+| PhD Research Intern - Cross-Disciplinary Vision Science - 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Cross-Disciplinary-Vision-Science---2026_JR2004812) | 2h |
+| PhD Research Intern - Gaming Research - 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Gaming-Research---2026_JR2004805-1) | 2h |
+| Autonomous Vehicles and Robotics Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | 2h |
+| Deep Learning Computer Architecture Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 2h |
+| Systems Software Engineering Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204) | 2h |
+| Deep Learning Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 2h |
+| Computer Architecture Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1) | 2h |
+| PhD Autonomous Vehicles Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244) | 2h |
+| PhD Computer Vision and Deep Learning Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241) | 2h |
+| Software Engineering | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206) | 2h |
+| NVIDIA Internships: PhD Graphics and Simulation Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242) | 2h |
+| NVIDIA 2026 Internships: PhD Generative AI Research | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228) | 2h |
+| Internships: Deep Learning | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 2h |
+| NVIDIA Internships: Deep Learning Computer Architecture | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 2h |
 
 #### 🔷 **Intel** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036) | 1h |
+| Software Engineering Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036) | 2h |
 
 #### 🔶 **AMD** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.amd.com/careers-home/jobs/70483/job) | 1h |
+| Software Engineering Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.amd.com/careers-home/jobs/70483/job) | 2h |
 
 #### ☁️ **Salesforce** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Summer 2025 Intern - Software Engineer (Security/Government) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | 1h |
-| Intern - AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2) | 1h |
-| Salesforce AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422) | 1h |
+| Summer 2025 Intern - Software Engineer (Security/Government) | Bellevue, WA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | 2h |
+| Intern - AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2) | 2h |
+| Salesforce AI Research | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422) | 2h |
 
 #### 🔵 **IBM** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Engineer Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=) | 1h |
+| AI Engineer Intern | Austin, TX | [<img src="./image.png" width="100" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=) | 2h |
 
 ### 💻 **Enterprise Software** (23 positions)
 
@@ -205,34 +205,34 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer 2 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001164) | 1h |
-| AI Research Scientist 1 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2002885) | 1h |
-| Data Analyst 1 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000155) | 1h |
-| AI Research Scientist PhD – Intern - United States | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000473) | 1h |
-| Software Engineer Data/AI/Intelligent Systems PhD Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001487) | 1h |
-| Software Engineer 1 - Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000436) | 1h |
-| AI Machine Learning Engineer 2 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000461) | 1h |
-| AI Machine Learning Engineer 1 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000454) | 1h |
+| Software Engineer 2 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001164) | 2h |
+| AI Research Scientist 1 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2002885) | 2h |
+| Data Analyst 1 | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000155) | 2h |
+| AI Research Scientist PhD – Intern - United States | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000473) | 2h |
+| Software Engineer Data/AI/Intelligent Systems PhD Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001487) | 2h |
+| Software Engineer 1 - Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000436) | 2h |
+| AI Machine Learning Engineer 2 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000461) | 2h |
+| AI Machine Learning Engineer 1 - Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000454) | 2h |
 
 #### 🖥️ **Hewlett Packard Enterprise** (15 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| HPE Labs - Machine Learning Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Machine-Learning-Research-Associate--Intern-_1197755) | 1h |
-| Research Associate Intern - Networking and Distributed Systems Lab | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Research-Associate-Intern--Networking-and-Distributed-Systems-Lab-_1192357) | 1h |
-| AI/ML Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | 1h |
-| Hpe Labs – Intern - Emerging Accelerators Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Emerging-Accelerators-Research-Associate--Intern-_1192296) | 1h |
-| HPE Labs - AI Research Lab Research Associate (Intern) | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 1h |
-| Hpe Labs – Intern - AI Research Lab Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 1h |
-| EMC Test Engineering Intern | Roseville, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/EMC-Test-Engineering-Intern_1193069) | 1h |
-| Tech Consultant intern | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054) | 1h |
-| Software Engineering Intern | Fort Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Intern--Colorado-_1193616) | 1h |
-| AI Developer Intern - Masters | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085) | 1h |
-| AI Developer Intern - Undergrad | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 1h |
-| Data Science Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1192965) | 1h |
-| Cloud Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) | 1h |
-| Firmware Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern) | 1h |
-| Software Engineering Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961) | 1h |
+| HPE Labs - Machine Learning Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Machine-Learning-Research-Associate--Intern-_1197755) | 2h |
+| Research Associate Intern - Networking and Distributed Systems Lab | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Research-Associate-Intern--Networking-and-Distributed-Systems-Lab-_1192357) | 2h |
+| AI/ML Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | 2h |
+| Hpe Labs – Intern - Emerging Accelerators Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Emerging-Accelerators-Research-Associate--Intern-_1192296) | 2h |
+| HPE Labs - AI Research Lab Research Associate (Intern) | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 2h |
+| Hpe Labs – Intern - AI Research Lab Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 2h |
+| EMC Test Engineering Intern | Roseville, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Roseville-California-United-States-of-America/EMC-Test-Engineering-Intern_1193069) | 2h |
+| Tech Consultant intern | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054) | 2h |
+| Software Engineering Intern | Fort Collins, CO | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Intern--Colorado-_1193616) | 2h |
+| AI Developer Intern - Masters | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085) | 2h |
+| AI Developer Intern - Undergrad | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 2h |
+| Data Science Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1192965) | 2h |
+| Cloud Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) | 2h |
+| Firmware Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern) | 2h |
+| Software Engineering Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961) | 2h |
 
 ### 🚀 **Startups & Growth** (16 positions)
 
@@ -240,27 +240,27 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Intern, Summer 2026 | Totowa, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | 1h |
-| Software Engineering Intern – Internal Tools 2026 (hybrid) | Cedar Rapids, IA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | 1h |
-| Software Engineering Intern, Summer 2026 | Fort Worth, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 1h |
-| Software Engineering Intern I, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026) | 1h |
-| Software Engineering Intern II, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) | 1h |
-| Software Engineering Intern III, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) | 1h |
-| Software Engineering Intern IV, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | 1h |
-| Software or Computer Engineering Co-op | Sterling Heights, MI | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op) | 1h |
-| Software or Computer Engineering Intern | Sterling Heights, MI | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026) | 1h |
-| Software Engineering Intern | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 1h |
-| Software Engineering CO-OP | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026) | 1h |
+| Software Intern, Summer 2026 | Totowa, NJ | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | 2h |
+| Software Engineering Intern – Internal Tools 2026 (hybrid) | Cedar Rapids, IA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | 2h |
+| Software Engineering Intern, Summer 2026 | Fort Worth, TX | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 2h |
+| Software Engineering Intern I, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118005BREXTERNAL/Software-Engineering-Intern-I-Summer-2026) | 2h |
+| Software Engineering Intern II, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) | 2h |
+| Software Engineering Intern III, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) | 2h |
+| Software Engineering Intern IV, Summer 2026 | Nashua, NH | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | 2h |
+| Software or Computer Engineering Co-op | Sterling Heights, MI | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op) | 2h |
+| Software or Computer Engineering Intern | Sterling Heights, MI | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026) | 2h |
+| Software Engineering Intern | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 2h |
+| Software Engineering CO-OP | San Diego, CA | [<img src="./image.png" width="100" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026) | 2h |
 
 #### ⚙️ **General Dynamics** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Canonsburg, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job) | 1h |
-| Intern Software Engineer - Embedded Posted Date | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job) | 1h |
-| Software Engineer – Intern Conversion | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job) | 1h |
-| Intern Engineer | Fort Wayne, IN | [<img src="./image.png" width="100" alt="Apply">](https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity) | 1h |
-| Embedded Software Engineering Co-Op | Scottsdale, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | 1h |
+| Software Engineering Intern | Canonsburg, PA | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job) | 2h |
+| Intern Software Engineer - Embedded Posted Date | Orlando, FL | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job) | 2h |
+| Software Engineer – Intern Conversion | Herndon, VA | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job) | 2h |
+| Intern Engineer | Fort Wayne, IN | [<img src="./image.png" width="100" alt="Apply">](https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity) | 2h |
+| Embedded Software Engineering Co-Op | Scottsdale, AZ | [<img src="./image.png" width="100" alt="Apply">](https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | 2h |
 
 ### 🛒 **Consumer & E-Commerce** (9 positions)
 
@@ -268,15 +268,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering – Summer 2026 Internships | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27352?lang=en-us&icims=1) | 1h |
-| Artificial Intelligence – Summer 2026 Internships - Machine Learning & Data Science | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27354?lang=en-us&icims=1) | 1h |
-| Computer Vision Software Intern | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27720?lang=en-us&icims=1) | 1h |
-| Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) | 1h |
-| Data Engineering Intern - AI & Analytics | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27485?lang=en-us&icims=1) | 1h |
-| Software Automation Engineering Intern - Summer 2026 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27482?lang=en-us&icims=1) | 1h |
-| Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1h |
-| Software Engineering Intern – Software Engineer 3D Intern | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27279?lang=en-us&icims=1) | 1h |
-| Software Engineering Intern - Digital Manufacturing Automation | Orange, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/26981?lang=en-us&icims=1) | 1h |
+| Software Engineering – Summer 2026 Internships | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27352?lang=en-us&icims=1) | 2h |
+| Artificial Intelligence – Summer 2026 Internships - Machine Learning & Data Science | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27354?lang=en-us&icims=1) | 2h |
+| Computer Vision Software Intern | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27720?lang=en-us&icims=1) | 2h |
+| Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) | 2h |
+| Data Engineering Intern - AI & Analytics | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27485?lang=en-us&icims=1) | 2h |
+| Software Automation Engineering Intern - Summer 2026 | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27482?lang=en-us&icims=1) | 2h |
+| Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 2h |
+| Software Engineering Intern – Software Engineer 3D Intern | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27279?lang=en-us&icims=1) | 2h |
+| Software Engineering Intern - Digital Manufacturing Automation | Orange, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/26981?lang=en-us&icims=1) | 2h |
 
 ### 🛡️ **Defense & Aerospace** (26 positions)
 
@@ -285,32 +285,32 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern - ML Training Infra and Efficiency | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7395734) | 1h |
-| 2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | 1h |
-| 2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | 1h |
-| 2026 Summer Intern - MS/PhD - Systems Engineer - Rider Comfort | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357352) | 1h |
-| 2026 Summer Intern - PhD - ML Compilers | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7365529) | 1h |
-| 2026 Summer Intern - MS/PhD - Software Engineer - Predictive Planner Research | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357510) | 1h |
-| 2026 Summer Intern - MS/PhD - Compute - Compiler | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7340164) | 1h |
-| 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 1h |
-| 2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150) | 1h |
-| 2026 Summer Intern - MS/PhD - Low-bit Model Quantization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7324907) | 1h |
-| 2026 Summer Intern - MS/PhD - RL Based Model Optimization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7324916) | 1h |
-| Software Engineering, Fleet Response | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1h |
-| 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 1h |
-| 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 1h |
-| Intern - Research - Coding Agents for AV Planning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7301864) | 1h |
-| Intern - Research - Multimodal Large Language Models | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7298453) | 1h |
-| Intern - Research - 3D/4D Scene Reconstruction and Understanding | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7280172) | 1h |
-| Intern - Research - Perception Foundation Models | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7274784) | 1h |
-| Intern - Human Behavior Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7295403) | 1h |
-| Intern - Research - 3D Reconstruction and Synthesis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7287920) | 1h |
-| Software Engineering, Commercialization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1h |
-| 2026 Summer Intern - PhD - Perception Semantics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7258380) | 1h |
-| Intern - PhD - Machine Learning Engineer - Simulation | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7252833) | 1h |
-| 2026 Summer Intern - PhD - Data Science | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7249548) | 1h |
-| Machine Learning Infra Foundations | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 1h |
-| 2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) | 1h |
+| Intern - ML Training Infra and Efficiency | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7395734) | 2h |
+| 2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | 2h |
+| 2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | 2h |
+| 2026 Summer Intern - MS/PhD - Systems Engineer - Rider Comfort | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357352) | 2h |
+| 2026 Summer Intern - PhD - ML Compilers | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7365529) | 2h |
+| 2026 Summer Intern - MS/PhD - Software Engineer - Predictive Planner Research | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357510) | 2h |
+| 2026 Summer Intern - MS/PhD - Compute - Compiler | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7340164) | 2h |
+| 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 2h |
+| 2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150) | 2h |
+| 2026 Summer Intern - MS/PhD - Low-bit Model Quantization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7324907) | 2h |
+| 2026 Summer Intern - MS/PhD - RL Based Model Optimization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7324916) | 2h |
+| Software Engineering, Fleet Response | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 2h |
+| 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 2h |
+| 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 2h |
+| Intern - Research - Coding Agents for AV Planning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7301864) | 2h |
+| Intern - Research - Multimodal Large Language Models | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7298453) | 2h |
+| Intern - Research - 3D/4D Scene Reconstruction and Understanding | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7280172) | 2h |
+| Intern - Research - Perception Foundation Models | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7274784) | 2h |
+| Intern - Human Behavior Analytics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7295403) | 2h |
+| Intern - Research - 3D Reconstruction and Synthesis | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7287920) | 2h |
+| Software Engineering, Commercialization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 2h |
+| 2026 Summer Intern - PhD - Perception Semantics | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7258380) | 2h |
+| Intern - PhD - Machine Learning Engineer - Simulation | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7252833) | 2h |
+| 2026 Summer Intern - PhD - Data Science | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7249548) | 2h |
+| Machine Learning Infra Foundations | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 2h |
+| 2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) | 2h |
 
 </details>
 
@@ -320,55 +320,55 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern – AI/DA Engineer | Leander, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---AI-DA-Engineer_JR85118) | 1h |
-| Intern – System Software Engineering | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013) | 1h |
-| Intern Machine Learning Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR85472) | 1h |
-| Intern – RAM Engineer ID1 | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---RAM-Engineer-ID1_JR83367) | 1h |
-| Intern – DRAM Quality Data Analytics Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Quality-Data-Analytics-Engineer_JR82845) | 1h |
-| Intern – Metrology Process Development Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR82065) | 1h |
-| Intern – Product Yield Analysis and Analytics - Research | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Analysis-and-Analytics--Research-_JR81928) | 1h |
-| Intern – TPG Global IE | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902) | 1h |
+| Intern – AI/DA Engineer | Leander, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---AI-DA-Engineer_JR85118) | 2h |
+| Intern – System Software Engineering | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013) | 2h |
+| Intern Machine Learning Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR85472) | 2h |
+| Intern – RAM Engineer ID1 | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---RAM-Engineer-ID1_JR83367) | 2h |
+| Intern – DRAM Quality Data Analytics Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Quality-Data-Analytics-Engineer_JR82845) | 2h |
+| Intern – Metrology Process Development Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR82065) | 2h |
+| Intern – Product Yield Analysis and Analytics - Research | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Analysis-and-Analytics--Research-_JR81928) | 2h |
+| Intern – TPG Global IE | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902) | 2h |
 
 #### ⚡ **ABB** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Software-Engineering-Intern--Summer-2026_JR00015149) | 1h |
-| Software Engineering Intern- Summer 2026 | Bartlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 1h |
-| AI Vision Engineer Intern- AI Robotics | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 1h |
-| Data and Analytics Intern - Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1) | 1h |
+| Software Engineering Intern | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Software-Engineering-Intern--Summer-2026_JR00015149) | 2h |
+| Software Engineering Intern- Summer 2026 | Bartlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 2h |
+| AI Vision Engineer Intern- AI Robotics | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 2h |
+| Data and Analytics Intern - Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1) | 2h |
 
 #### 🔧 **Texas Instruments** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007033) | 1h |
-| Data Science Intern | Newton, IA | [<img src="./image.png" width="100" alt="Apply">](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/248280) | 1h |
+| Software Engineering Intern | Dallas, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.ti.com/en/sites/CX/job/25007033) | 2h |
+| Data Science Intern | Newton, IA | [<img src="./image.png" width="100" alt="Apply">](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/248280) | 2h |
 
 #### 🏭 **Siemens** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer Co-op | Huntsville, AL | [<img src="./image.png" width="100" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 1h |
+| Software Engineer Co-op | Huntsville, AL | [<img src="./image.png" width="100" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 2h |
 
 #### 📡 **Analog Devices** (8 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Communication & Data Transmission Algorithms | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Communication---Data-Transmission-Algorithms---PhD-Intern_R257978) | 1h |
-| Hardware Security Design Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) | 1h |
-| Data Analytics Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Data-Analytics-Intern_R258069) | 1h |
-| Robot Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Robot-Learning-Intern--PhD-_R257051) | 1h |
-| Applications Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1) | 1h |
-| Algorithm Engineer Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043) | 1h |
-| Machine Learning Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268) | 1h |
-| Machine Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001) | 1h |
+| Communication & Data Transmission Algorithms | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Communication---Data-Transmission-Algorithms---PhD-Intern_R257978) | 2h |
+| Hardware Security Design Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) | 2h |
+| Data Analytics Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Data-Analytics-Intern_R258069) | 2h |
+| Robot Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Robot-Learning-Intern--PhD-_R257051) | 2h |
+| Applications Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1) | 2h |
+| Algorithm Engineer Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043) | 2h |
+| Machine Learning Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268) | 2h |
+| Machine Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001) | 2h |
 
 #### 🏗️ **Honeywell** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare) | 1h |
+| Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | [<img src="./image.png" width="100" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare) | 2h |
 
 
 
@@ -414,7 +414,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 1972+ verified internships and new grad roles from 756 top companies.
+✅ **100% Real Opportunities:** 1972+ verified internships and new grad roles from 755 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -467,7 +467,7 @@ No companies available
 
 <div align="center">
 
-**🎯 1972 current opportunities from 756 top companies.**
+**🎯 1972 current opportunities from 755 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

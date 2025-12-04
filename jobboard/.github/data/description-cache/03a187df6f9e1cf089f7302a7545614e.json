@@ -1,0 +1,19 @@
+{
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Leidos is seeking a university student to join our Orlando-based team as Software Development Interns supporting Internal Research and Development (IRAD) efforts. This internship offers an opportunity to contribute to exploratory projects in Artificial Intelligence (AI), data engineering, and advanced software development — all in support of Leidos' internal innovation and national security customer missions. We welcome applicants from a variety of academic backgrounds who have strong interest or experience in computing, data, or AI. This role emphasizes hands-on, applied research and prototyping in modern software and AI ecosystems.Primary ResponsibilitiesContribute to IRAD projects involving Artificial Intelligence (AI), Machine Learning (ML), and Large Language Models (LLMs)Support the development of multimodal AI systems that combine visual, textual, geospatial, and sensor dataAssist in designing data pipelines that transform structured and unstructured data into AI/ML-ready formatsPrototype AI applications and perform experimental evaluations, including AI safety and reliability testingCollaborate with multidisciplinary teams on simulation, modeling, and decision support toolsDocument findings, write test code, and iterate based on feedback and research outcomesBasic QualificationsActively enrolled in an undergraduate or graduate program at the University of Central FloridaU.S. citizenship and the ability to obtain and maintain a Secret security clearanceStrong interest in or exposure to programming, AI/ML, or data scienceFamiliarity with one or more modern programming languages (e.g., Python, Java, C++, JavaScript)Preferred QualificationsCoursework, projects, or hands-on experience in areas such as:Artificial Intelligence or Machine LearningComputer Vision or Multimodal ModelsNatural Language Processing or Large Language ModelsData engineering or data wranglingFamiliarity with data labeling, data cleaning, or preparing training sets for AIInterest in AI safety, bias mitigation, or explainabilityCreative problem-solving skills and eagerness to work on exploratory, research-driven effortsWe’re not looking for perfectly polished resumes or perfect fits. We’re looking for people who break limits, ask hard questions, and don’t wait to be told what’s next. At Leidos, we’re not following the roadmap — we’re redrawing it. Original Posting:November 6, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $46,800.00 - $84,600.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+    "requirements": null,
+    "responsibilities": [
+      "Support the development of multimodal AI systems that combine visual, textual, geospatial, and sensor data",
+      "Collaborate with multidisciplinary teams on simulation, modeling, and decision support tools"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
+      "fetchedAt": "2025-12-04T21:16:42.939Z"
+    }
+  },
+  "cachedAt": 1764883002939
+}
