@@ -1,0 +1,19 @@
+{
+  "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: The Brain Computer Interface (BCI) Applications Team is responsible for delivering a product that gives people with paralysis the ability to control computers, phones, gaming consoles, and robotic arms with their minds at the same speed and functionality level as able-bodied people can. In addition,the team is also working on restoring speech to mute individuals, this will also open the option for direct and natural silent communication with AI agents. The team works closely with the PRIME clinical study patients which allows them fast and direct feedback about new features from users. The work in the team is multidisciplinary and team members have diverse backgrounds in software engineers, design engineering, ML engineering and neuro-engineering. Job Description and Responsibilities: As a Software Engineer Intern in the BCI team, you will collaborate with our users, specifically clinical trial participants, to comprehend their requirements and engineer brain-computer interface software systems that deliver exceptional user experiences. You will take the lead in creating innovative applications, implementing new features, and resolving existing issues to enhance the overall functionality of the software. Additionally, you will be expected to: Develop, test, and validate software systems Work with cross-functional teams to design new BCI functionalities and novel computer user interfaces Work with study participants to iterate on and further refine the software Design and implement algorithms to decode brain activity Design user experiences centered around brain control Required Qualifications: Evidence in delivering high-impact projects to users or businesses with clear metrics and fast iteration cycle Evidence of exceptional ability in engineering and strong understanding of engineering first principles Fluent in Python Experience in architecting elegant, maintainable, performant and reliable user-facing software applications You are mission-driven and goal-oriented in your approach to solving problems You are resourceful, flexible, and adaptable; no task is too big or too small Excellent communication and collaboration skills Preferred Qualifications: Fluent in Swift and TypeScript Pay Transparency: Based on California law, the following details are for California individuals only. California Hourly Rate: $35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
+    "requirements": [
+      "Design user experiences centered around brain control",
+      "Experience in architecting elegant, maintainable, performant and reliable user-facing software applications"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003",
+      "fetchedAt": "2025-12-04T19:29:50.465Z"
+    }
+  },
+  "cachedAt": 1764876590466
+}
