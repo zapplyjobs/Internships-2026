@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/metron/jobs/4958803007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About Metron Metron is an employee-owned company dedicated to delivering innovative solutions for the most challenging national security problems. For over 40 years, our principled approach to problem-solving has yielded creative solutions at the intersection of advanced mathematics, computer science, physics, and engineering. Our people are leaders in their technical fields and are passionate about solving challenging problems. We look for individuals who share this same passion and can apply their experience in real-world settings. Metron is seeking talented students to be part of our summer internship program. The successful candidate(s) will be supervised by a mentor and work in small teams led by senior technical staff members. Projects include developing and testing algorithms, creating user interface components, and writing scripts in support of large-scale defense and homeland security support systems. Interns are given the opportunity to learn from our talented staff and present their accomplishments at the end of their internship. Required Qualifications Applicant must be at least 16 years old U.S. Citizenship Desired Qualifications Pursuing a bachelor's degree in Computer Science, Math, Physics, Engineering, or related field Programming experience in Java, C++, Rust, or Python Familiarity with designing and implementing graphical user interfaces Familiarity with web development, modern collaborative software tools, data structures, and algorithms Excellent analytical skills and problem-solving ability Prior quantitative research experience Position Location: Reston, VA Metron is an Equal Employment Opportunity (EEO) employer. It is the policy of the company to provide equal employment opportunities to all qualified applicants without regard to race, color, religious, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. VEVRAA Federal Contractor",
+    "requirements": [
+      "Applicant must be at least 16 years old",
+      "Pursuing a bachelor's degree in Computer Science, Math, Physics, Engineering, or related field",
+      "Programming experience in Java, C++, Rust, or Python",
+      "Prior quantitative research experience"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/metron/jobs/4958803007",
+      "fetchedAt": "2025-12-04T19:30:01.352Z"
+    }
+  },
+  "cachedAt": 1764876601352
+}

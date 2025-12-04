@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003934",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "MidAmerican Energy Company is seeking a student pursuing a bachelor's degree or higher in data science, computer science, economics, statistics, logistics, supply chain, business analytics, or related field of study, graduating later than August 2026. The position is temporary, nonexempt, and part-time/hourly.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003934",
+      "fetchedAt": "2025-12-04T19:33:16.390Z"
+    }
+  },
+  "cachedAt": 1764876796390
+}
