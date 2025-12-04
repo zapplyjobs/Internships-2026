@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.paccar.com/job/Lewisville-Data-Scientist-Summer-Internship-2026-TX-75067/1273328001/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Company Information PACCAR is a Fortune 500 company established in 1905. PACCAR Inc is recognized as a global leader in the commercial vehicle, financial, and customer service fields with internationally recognized brands such as Kenworth, Peterbilt, and DAF trucks. PACCAR is a global technology leader in the design, manufacture and customer support of premium light-, medium- and heavy-duty trucks under the Kenworth, Peterbilt and DAF nameplates and also provides customized financial services, information technology and truck parts related to its principal business. Whether you want to design the transportation technology of tomorrow, support the staff functions of a dynamic, international leader, or build our excellent products and services, you can develop the career you desire with PACCAR. Get started!Requisition Summary Join the PACCAR Global Quality team as a Data Scientist intern, where your role will be central to advancing product reliability through the application of continuous improvements, advanced analytics, and cloud-based solutions. Your work will directly contribute to PACCAR's immediate and strategic future, reinforcing our dedication to setting a high standard within our team. As a Data Scientist you may leverage telematics, call center, warranty, test, and production data to unlock decision-making on prognostics and targeted design actions. The internship is scheduled to begin in May or June 2026.Job Functions / Responsibilities Extract, clean, merge, transform and compile data from various data sources Extract signal from data by analyzing correlations, detecting anomalies, performing dimensionality reduction, parsing text, and recommending data quality solutions Generate machine learning models that incorporate diverse data types into a unified model Effectively communicate insights and recommendations derived from data analysis to various stakeholders, including leadership Provide accurate, relevant and meaningful ad-hoc analysis to management to support strategic and tactical decision-making. Education Currently enrolled in a Masters program. Additional Job Board Information At PACCAR, we value talent and promote growth and development. We carefully consider numerous compensation factors, including your education, training, or experience. The salary range for internship positions is $25 an hour for undergraduate students and $30 an hour for graduate students. Additionally, this role is eligible for a range of benefit options listed above. If you would like more information about what makes PACCAR an excellent place to work, please visit the PACCAR Career Site. PACCAR is an Equal Opportunity Employer/Protected Veteran/Disability and E-Verity Employer.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.paccar.com/job/Lewisville-Data-Scientist-Summer-Internship-2026-TX-75067/1273328001/?ats=successfactors",
+      "fetchedAt": "2025-12-04T19:10:51.825Z"
+    }
+  },
+  "cachedAt": 1764875451825
+}
