@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "This is a paid in-person spring internship that requires 16 hours/week commitment. Must be based in NYC or near. Our office is located in Midtown Manhattan. Company Overview: Root Access is an applied AI company building developer tools for embedded engineers. We help hardware teams program mankind’s most important machines across industrial, defense, automotive, and more. Role Overview We’re looking for a Software Engineer Intern who’s excited to help build the future of developer tooling. You’ll build real features end-to-end and assist in validating AI-assisted engineering workflows. You’ll also contribute to core product development ranging from frontend interfaces to backend systems, integrations, automation scripts, or new developer experience tooling. What You’ll Do Design, build, and debug software tools and systems using Python, TypeScript, or Rust. Use our internal AI-powered developer tools to prototype and enhance engineering workflows. Help implement and test key product features like project generation, build automation, and developer-facing APIs. Provide structured feedback on usability, bugs, and edge cases—you’re part of the product feedback loop. Build demo apps, scripts, or workflows that stress-test our tools and showcase new features. Read technical docs, specs, and code to verify model output and ensure reliability (yes, we still read docs). You might be a good fit if you: Have experience building CLI tools, dev scripts, small web or backend apps Think hardware is really cool with some hobbyist-level experience programming MCUs Have used or contributed to build systems or developer tools (e.g., VS Code extensions, CLIs, GitHub Actions) Ideal Candidates will: Come in with previous work or internship experience shipping to production Be hungry to contribute to an ambitious startup",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/root-access/6f004058-c03f-43d6-b2e9-fa37e6844e68",
+      "fetchedAt": "2025-12-04T20:18:33.733Z"
+    }
+  },
+  "cachedAt": 1764879513733
+}
