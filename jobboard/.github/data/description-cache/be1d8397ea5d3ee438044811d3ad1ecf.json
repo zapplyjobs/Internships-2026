@@ -1,0 +1,21 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are now looking for a Machine Learning Intern. Intelligent machines powered by AI computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error. This is truly an extraordinary time — the era of AI has begun. Image recognition and speech recognition — GPU Deep Learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human creativity, conjuring up the amazing virtual worlds of video games and Hollywood films.Now, NVIDIA's GPU runs Deep Learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and artificial intelligence come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why NVIDIA GPUs are used broadly for Deep Learning, and NVIDIA is increasingly known as “the AI computing company.What you’ll be doing:Keeping track of the latest developments in NVIDIA technology and build demos for regional colleagues outreached activities.Assist the team engaging AI community and collaborator through Accelerated AI workshop.Develop demonstration using NVIDIA SDKs e.g., RIVA, Merlin, NeMo, TensorRT, Maxine, Triton Inference Server, etcAlgorithmic development and experimentation on machine learning projectAI Software development​​​What we need to see:Pursuing BS, MS or PhD in Computer Science, Data Science, Mathematics, or a related field.Experience with machine learning and / or deep learningExcellent oral and written communication skills in English.Familiar with Linux OS environmentPython Programming",
+    "requirements": null,
+    "responsibilities": [
+      "Keeping track of the latest developments in NVIDIA technology and build demos for regional colleagues outreached activities.",
+      "Develop demonstration using NVIDIA SDKs e.g., RIVA, Merlin, NeMo, TensorRT, Maxine, Triton Inference Server, etc",
+      "Algorithmic development and experimentation on machine learning project",
+      "AI Software development"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Machine-Learning-Intern_JR2007996",
+      "fetchedAt": "2025-12-04T20:32:21.629Z"
+    }
+  },
+  "cachedAt": 1764880341629
+}

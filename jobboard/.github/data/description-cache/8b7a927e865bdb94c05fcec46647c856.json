@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227687002",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "What if… you could teach AI to read, reason, and program like a scientist? Pioneering Intelligence (PI) is a Flagship initiative focused on intelligent AI systems that drive innovation across the life sciences and beyond. We are building agentic AI frameworks that can reason across text, images, and experimental data to accelerate drug discovery. We’re seeking an ML Co-op to join our Agentic AI team. In this role, you will explore how vision–language models (VLMs) and multimodal reasoning systems can interpret, extract, and simulate scientific knowledge — turning published quantitative systems biology models into dynamic, machine-readable structures. You’ll collaborate with researchers and engineers to push the boundaries of multimodal intelligence in a fast-paced, entrepreneurial environment. Key Responsibilities Integrate and evaluate VLMs (e.g., CLIP, GPT-4V, Flamingo, Kosmos, Gemini) for structured model extraction and representation. Develop multimodal pipelines for processing text, figures, and equations from scientific literature and structured datasets. Collaborate with researchers in AI/ML, computational biology, and software engineering to deploy prototypes that convert mechanistic models into usable computational forms. Basic Requirements Enrolled in or recent graduate of a program in Artificial Intelligence, Machine Learning, Computer Science or Engineering, Applied Mathematics, or a related field. Strong programming skills in Python and experience with common ML frameworks (scikit-learn, PyTorch, TensorFlow, MLflow). Familiarity with LLMs and/or vision–language models (VLMs). Experience conducting hands-on experimentation and systematic performance analysis. Preferred Qualifications Experience with LLM development frameworks, such as LangChain, Hugging Face Transformers, PydanticAI, or LiteLLM. Familiarity with multimodal reasoning (e.g., integrating text, image, and numerical data). Knowledge of agentic AI paradigms (e.g., MCP tool-use, memory, planning, reinforcement learning from human feedback). Background or coursework in numerical modeling or computational biology. Comfort working in a fast-paced R&D environment with interdisciplinary teams. The pay range for this role is $25 - $40 per hour. This role is a short-term engagement that is not eligible for health and welfare benefits. Retirement benefits may be available after completing a set number of hours. Compensation and benefits information is based on Pioneering Intelligence's good faith estimate as of the date of publication and may be modified in the future.",
+    "requirements": [
+      "Strong programming skills in Python and experience with common ML frameworks (scikit-learn, PyTorch, TensorFlow, MLflow).",
+      "Experience conducting hands-on experimentation and systematic performance analysis.",
+      "Experience with LLM development frameworks, such as LangChain, Hugging Face Transformers, PydanticAI, or LiteLLM.",
+      "Knowledge of agentic AI paradigms (e.g., MCP tool-use, memory, planning, reinforcement learning from human feedback)."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8227687002",
+      "fetchedAt": "2025-12-04T20:31:12.814Z"
+    }
+  },
+  "cachedAt": 1764880272815
+}
