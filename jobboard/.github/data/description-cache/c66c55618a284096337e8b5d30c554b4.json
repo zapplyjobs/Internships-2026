@@ -1,0 +1,24 @@
+{
+  "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/4969226008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About QuEra Computing, Inc. QuEra Computing is building the world’s most powerful neutral-atom quantum computers. Our systems are designed to scale and enable groundbreaking advances in science and technology. We collaborate closely with leading academic and industry partners to push the boundaries of quantum computing, error correction, and fault tolerance. Summary QuEra Computing Inc. seeks a creative and collaborative Scientific Software Engineer (Internship) to help solve the unique software challenges of integrating high-level applications into state-of-the-art neutral-atom quantum computers. You will have the opportunity to work with a vibrant scientific software team and a community of industry and academic collaborators and to help our growing team of diverse experts address fascinating challenges, ranging from classical compiler techniques to direct integration with low-level hardware components. Using our open-source toolchain, Kirin, you will be building QuEra’s compiler pipeline together with experimental & computational physicists from low-level hardware instructions to high-level programming languages. This involves the development of new features and infrastructure for hardware execution. You will be co-designing compilers and hardware infrastructure to prepare for the next generation of quantum computing using cutting-edge neutral-atom and quantum error correction technologies. This new direction involves multiple new challenges in both engineering and science. Applications will be reviewed on a rolling basis, and those received before Dec. 15, 2025 are guaranteed full consideration. Responsibilities Develop and maintain domain-specific languages (DSLs) at various levels of quantum programs such as circuits, atom moves, pulses, and its associated compilation stack Support integration of compilation into multiple hardware platforms Writing unit tests and documentation for existing compiler and software stack Qualifications Enthusiastic about building tools used by non-software developers Experience with Python semantics, Python type hints, CPython interpreter Knowledge of Static Single Assignment intermediate representations-based compiler Knowledge of the full lifecycle of software development, including version control, code review, testing, CI/CD, logging, profiling, debugging, and documentation Preferred Qualifications Ph.D. candidate or Bachelor degree in Computer Science with focus on quantum computation, architecture, programming language, compiler, or equivalent experience knowledge in quantum physics and AMO physics Experience in programming language design, especially programming language theory knowledge in quantum error correction Contribution to existing open-source libraries Why Join QuEra? You will be part of a collaborative, fast-moving team at the forefront of quantum technology. This internship offers exposure to both cutting-edge theory and practical implementation, with opportunities to contribute to peer-reviewed research and real-world quantum hardware development. On-site internship. There is no relocation offered for this role. QuEra is committed to cultivating a diverse work environment and is proud to be an equal opportunity employer. We highly value diversity in our current and future employees and do not discriminate (including in our hiring and promotion practices) based on race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law.",
+    "requirements": [
+      "Experience with Python semantics, Python type hints, CPython interpreter",
+      "Knowledge of Static Single Assignment intermediate representations-based compiler",
+      "Knowledge of the full lifecycle of software development, including version control, code review, testing, CI/CD, logging, profiling, debugging, and documentation",
+      "Ph.D. candidate or Bachelor degree in Computer Science with focus on quantum computation, architecture, programming language, compiler, or equivalent experience",
+      "knowledge in quantum physics and AMO physics",
+      "Experience in programming language design, especially programming language theory",
+      "knowledge in quantum error correction"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/4969226008",
+      "fetchedAt": "2025-12-04T22:06:52.044Z"
+    }
+  },
+  "cachedAt": 1764886012044
+}
