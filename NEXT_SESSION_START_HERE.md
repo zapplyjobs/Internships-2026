@@ -177,8 +177,8 @@ gh run view <run-id> --log --repo="zapplyjobs/New-Grad-Internships-2026"
 
 ### 2. Investigate Pending Issues (Optional)
 
-**Taha Name in Actions:**
-- User report: "Taha-mehmood-03" appears in workflow runs
+**Workflow Attribution:**
+- User report: "team-account" appears in workflow runs
 - Investigation incomplete (requires admin access or screenshot)
 - Status: Non-critical, can wait
 
