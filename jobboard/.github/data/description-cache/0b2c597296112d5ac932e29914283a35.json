@@ -1,0 +1,18 @@
+{
+  "url": "https://job-boards.greenhouse.io/usconec/jobs/4018504009",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "US Conec, Ltd. Engineering Innovation. Precision Plastics. Powering AI. US Conec, Ltd. is a trusted, global company that prides itself on engineering excellence—creating innovative connectivity solutions that support today’s most important technologies. We foster a friendly, inclusive culture that values teamwork, creativity, and mutual respect. At US Conec, you’ll find real opportunities to grow and make a meaningful impact in a company that genuinely cares about its people and its customers. With competitive compensation, excellent benefits, and a supportive environment, this is a place where you can build your future—whether your interests lie in manufacturing, engineering, operations, or beyond.Metrology Data Science Intern – Hickory, North Carolina Summer 2026 About US Conec Ltd At US Conec, we design and manufacture precision fiber-optic interconnects that power the world’s fastest data centers, telecom networks, and supercomputers.In other words? We’re the backbone powering AI. Role Overview We’re looking for a Metrology Data Science Intern who’s excited to roll up their sleeves and turn raw measurement data into powerful insights. You’ll team up with our metrology engineers, build tools that save time, and help everyone make smarter, data-driven decisions. What You’ll Do Dream up and build data-analysis scripts that automate repetitive tasks.• Create data pipelines that pull measurement results straight from the lab into our central database.• Work with engineers to write clear, step-by-step data workflows and instructions.• Prototype handy apps or dashboards that lighten the load for operators. Possible Projects Auto-generate polished, unified measurement reports so everyone’s on the same page.• Set up real-time data ingestion and validation for our metrology instruments.• Design interactive dashboards for quick QA checks and trend spotting.• Explore machine-learning ideas for sniffing out anomalies in our data. What We’re Looking For A solid grasp of statistics and data-science fundamentals.• Hands-on experience with Python (Pandas, NumPy) or MATLAB.• Familiarity with data-visualization libraries or tools (Matplotlib, Plotly, Power BI).• Comfort writing basic SQL or working with databases.• Great communicator who loves documenting processes and collaborating. Join US Conec today and be part of a team that values each other, promotes innovation and growth, and strives to exceed customer expectations in everything we do. US Conec is proud to be an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We consider all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, disability, protected veteran status, or any other legally protected characteristics",
+    "requirements": [
+      "A solid grasp of statistics and data-science fundamentals.• Hands-on experience with Python (Pandas, NumPy) or MATLAB.• Familiarity with data-visualization libraries or tools (Matplotlib, Plotly, Power BI).• Comfort writing basic SQL or working with databases.• Great communicator who loves documenting processes and collaborating."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/usconec/jobs/4018504009",
+      "fetchedAt": "2025-12-04T19:47:35.880Z"
+    }
+  },
+  "cachedAt": 1764877655881
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CD1",
+  "data": {
+    "success": true,
+    "platform": "taleo",
+    "description": "Click the link provided to see the complete job description.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CD1",
+      "fetchedAt": "2025-12-04T19:45:51.011Z"
+    }
+  },
+  "cachedAt": 1764877551011
+}

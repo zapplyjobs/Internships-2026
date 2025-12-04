@@ -1,0 +1,20 @@
+{
+  "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---CDO-Data---Visualization---Cloud---AI-Engineer-Intern_J-00329553",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "IntroductionTeam Latent Force is a team that manages and maintains a near-real-time data streaming platform that ingests high-volume machine data from EUV systems and delivers it to visualization applications (Grafana, MATLAB, etc.) used by research and diagnostics teams. Your assignmentAs a Team Latent Force intern, you will design, develop, and maintain backend services, data pipelines, and Kubernetes-based deployments supporting low-latency, high-reliability data flows.Your profileMust be pursuing a degree in Computer Science, Computer Engineering, Information System, or other related fields.Familiarity with Azure cloud servicesHands-on experience with KubernetesDevOps experience (CI/CD pipelines, IaC (infra as code), monitoring, automation).Comfortable working collaboratively in a fast-moving engineering environment.Skills & Competencies.Experience working with time-series data and databases (InfluxDB).Proficiency in Python for backend or data pipeline development.Bash scripting for tooling and cluster workflows.Experience with DockerGrafana dashboarding and metrics instrumentation.Experience with cluster-level observability tools (Prometheus).Experience working in Agile methodology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities. An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
+    "requirements": [
+      "Must be pursuing a degree in Computer Science, Computer Engineering, Information System, or other related fields."
+    ],
+    "responsibilities": [
+      "Proficiency in Python for backend or data pipeline development."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---CDO-Data---Visualization---Cloud---AI-Engineer-Intern_J-00329553",
+      "fetchedAt": "2025-12-04T19:46:12.529Z"
+    }
+  },
+  "cachedAt": 1764877572529
+}

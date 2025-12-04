@@ -1,0 +1,17 @@
+{
+  "url": "https://university-uber.icims.com/jobs/151453/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Job Description</h2> <p>We’re looking for PhD candidates to intern on the Threat Detection team during summer 2026 (12 weeks). You will be embedded in our engineering team and work closely with other specialists, software developers, and product managers. As a PhD intern, you will work on an exciting yet bold problem in depth and independently, under the supervision of an experienced engineer on that team.</p> <p>&nbsp;</p> <p><strong>About the Team</strong></p> <p><strong></strong>The Threat Detection team at Uber is responsible for identifying and mitigating malicious activities to safeguard Uber's services, infrastructure, and users, with the help of machine learning, big data technologies. They work closely with other teams within Engineering Security to safeguard the confidentiality, integrity, and availability of customer information, and ensure a secure computing environment for the Uber community.</p> <p>&nbsp;</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Drive exciting, ambitious, previously unsolved projects from end to end</li> <li>Thrive in ambiguous product requirements</li> <li>Collaborate with peer researchers, product managers, and data scientists closely</li> <li>Make data-driven decisions, with exceptional execution</li> <li>Be motivated to own projects and push them forward with independence</li> <li>Most importantly, have a passion to make Uber better for our customers</li> </ul> <p>&nbsp;</p> <p><strong>Basic Qualifications</strong></p> <ul> <li>Currently enrolled in a Ph.D. program studying Machine Learning, Computer Science, Computer Engineering, or relevant technical fields&nbsp;</li> <li>Candidates should have at least one semester/quarter left of their education after finishing the internship</li> <li>Experience in machine learning algorithms, deep learning, and statistical modeling</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Excellent problem-solving and communication skills</li> <li>Experience in NLP and GenAI/LLMs&nbsp;</li> <li>Experience with machine learning libraries such as TensorFlow, PyTorch,or Scikit-learn</li> <li>Experience presenting at industry recognized academic conferences and a good publishing record</li> </ul> <p></p> <h2><p> &nbsp; </p></h2> <p>For Sunnyvale, CA-based roles: The base hourly rate amount for this role is USD$67.00 per hour.</p> <p>You will also be eligible for various benefits.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://university-uber.icims.com/jobs/151453/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-04T19:48:24.493Z"
+    }
+  },
+  "cachedAt": 1764877704493
+}
