@@ -7,8 +7,10 @@
  * Usage:
  *   - Set DELETE_ALL_CHANNELS=true to clean all category channels
  *   - Set specific CHANNEL_IDS (comma-separated) to clean specific channels
- *   - Set HOURS_AGO to only delete posts from last N hours (optional)
+ *   - Set HOURS_AGO to delete posts from last N hours (newer posts)
+ *   - Set OLDER_THAN_HOURS to delete posts older than N hours (older posts) - e.g., 168 for 7 days
  *   - Set DRY_RUN=true to preview without deleting
+ *   - Note: Cannot use both HOURS_AGO and OLDER_THAN_HOURS at the same time
  */
 
 const { Client, GatewayIntentBits } = require('discord.js');
@@ -19,6 +21,7 @@ const DISCORD_GUILD_ID = process.env.DISCORD_GUILD_ID;
 const DELETE_ALL_CHANNELS = process.env.DELETE_ALL_CHANNELS === 'true';
 const CHANNEL_IDS = process.env.CHANNEL_IDS ? process.env.CHANNEL_IDS.split(',').map(id => id.trim()) : [];
 const HOURS_AGO = process.env.HOURS_AGO ? parseInt(process.env.HOURS_AGO) : null;
+const OLDER_THAN_HOURS = process.env.OLDER_THAN_HOURS ? parseInt(process.env.OLDER_THAN_HOURS) : null;
 const DRY_RUN = process.env.DRY_RUN === 'true';
 
 // Category channel IDs (for DELETE_ALL_CHANNELS mode)
@@ -46,10 +49,12 @@ const client = new Client({
 /**
  * Delete messages from a channel
  * @param {Object} channel - Discord channel object
- * @param {Date|null} cutoffTime - Only delete messages after this time (null = all)
+ * @param {Object} timeFilter - Time filtering options
+ * @param {Date|null} timeFilter.newerThan - Delete posts newer than this time
+ * @param {Date|null} timeFilter.olderThan - Delete posts older than this time
  * @returns {number} Number of messages deleted
  */
-async function cleanupChannel(channel, cutoffTime = null) {
+async function cleanupChannel(channel, timeFilter = {}) {
   console.log(`\n🔍 Scanning channel: ${channel.name} (${channel.id})`);
 
   let deletedCount = 0;
@@ -61,7 +66,8 @@ async function cleanupChannel(channel, cutoffTime = null) {
     const allThreads = threads.threads;
 
     // Also fetch archived threads if needed
-    if (!cutoffTime || (Date.now() - cutoffTime.getTime()) > 7 * 24 * 60 * 60 * 1000) {
+    const olderThan = timeFilter.olderThan;
+    if (!olderThan || (Date.now() - olderThan.getTime()) > 7 * 24 * 60 * 60 * 1000) {
       const archivedThreads = await channel.threads.fetchArchived({ limit: 100 });
       archivedThreads.threads.forEach((thread, id) => {
         allThreads.set(id, thread);
@@ -74,7 +80,13 @@ async function cleanupChannel(channel, cutoffTime = null) {
       scannedCount++;
 
       // Check if thread is within time range
-      if (cutoffTime && thread.createdTimestamp < cutoffTime.getTime()) {
+      // For "newer than" mode (HOURS_AGO): delete if created AFTER cutoff
+      if (timeFilter.newerThan && thread.createdTimestamp < timeFilter.newerThan.getTime()) {
+        continue;
+      }
+
+      // For "older than" mode (OLDER_THAN_HOURS): delete if created BEFORE cutoff
+      if (timeFilter.olderThan && thread.createdTimestamp > timeFilter.olderThan.getTime()) {
         continue;
       }
 
@@ -137,11 +149,20 @@ async function cleanup() {
     process.exit(1);
   }
 
-  // Calculate cutoff time if HOURS_AGO is set
-  let cutoffTime = null;
+  // Calculate time filters
+  const timeFilter = {};
+
+  if (HOURS_AGO && OLDER_THAN_HOURS) {
+    console.error('❌ Error: Cannot use both HOURS_AGO and OLDER_THAN_HOURS at the same time');
+    process.exit(1);
+  }
+
   if (HOURS_AGO) {
-    cutoffTime = new Date(Date.now() - (HOURS_AGO * 60 * 60 * 1000));
-    console.log(`⏰ Only deleting posts from last ${HOURS_AGO} hours (after ${cutoffTime.toLocaleString()})\n`);
+    timeFilter.newerThan = new Date(Date.now() - (HOURS_AGO * 60 * 60 * 1000));
+    console.log(`⏰ Deleting posts from last ${HOURS_AGO} hours (created after ${timeFilter.newerThan.toLocaleString()})\n`);
+  } else if (OLDER_THAN_HOURS) {
+    timeFilter.olderThan = new Date(Date.now() - (OLDER_THAN_HOURS * 60 * 60 * 1000));
+    console.log(`⏰ Deleting posts older than ${OLDER_THAN_HOURS} hours (created before ${timeFilter.olderThan.toLocaleString()})\n`);
   } else {
     console.log(`⏰ Deleting ALL posts (no time limit)\n`);
   }
@@ -172,7 +193,7 @@ async function cleanup() {
         continue;
       }
 
-      const deleted = await cleanupChannel(channel, cutoffTime);
+      const deleted = await cleanupChannel(channel, timeFilter);
       totalDeleted += deleted;
 
     } catch (error) {
