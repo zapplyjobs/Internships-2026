@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146391",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. Requirements of the Candidate include: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus.",
+    "requirements": [
+      "Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics.",
+      "C++ and/or Java programming knowledge or experience in a Linux environment preferred.",
+      "Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus.",
+      "Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/scminternships/jobs/1146391",
+      "fetchedAt": "2025-12-04T20:18:00.626Z"
+    }
+  },
+  "cachedAt": 1764879480626
+}
