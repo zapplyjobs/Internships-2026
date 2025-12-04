@@ -18,6 +18,11 @@ on:
         required: false
         type: string
         default: ''
+      clear_database:
+        description: 'Also clear posted_jobs.json (sync database with Discord cleanup)'
+        required: true
+        type: boolean
+        default: false
       dry_run:
         description: 'Dry run (preview without deleting)'
         required: true
@@ -62,6 +67,27 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID: "1429366422613786674"
         DISCORD_PM_CHANNEL_ID: "1429366331836207126"
         DISCORD_HR_CHANNEL_ID: "1429366524459745401"
+
+    - name: Clear posted_jobs.json (if requested)
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        echo "🗑️ Clearing posted_jobs.json to sync with Discord cleanup..."
+        node .github/scripts/state-sync-manager.js --action=clear-posted
+
+    - name: Verify state after cleanup
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        echo "🔍 Verifying state files after cleanup..."
+        node .github/scripts/state-sync-manager.js --action=verify
+
+    - name: Commit database changes
+      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add .github/data/posted_jobs.json
+        git commit -m "chore: clear posted_jobs.json after Discord cleanup" || echo "No changes to commit"
+        git push || echo "Nothing to push"
 
     - name: Create cleanup summary
       if: always()
