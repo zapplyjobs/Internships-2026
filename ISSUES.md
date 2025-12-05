@@ -66,55 +66,68 @@ Modified `.github/workflows/cleanup-discord-posts.yml`:
 
 ## ⚠️ MEDIUM PRIORITY ISSUES
 
-### 🔴 ACTIVE - Discord Thread Limit Reached (Dec 5, 2025)
+### ✅ RESOLVED - Discord Thread Limit Reached (Dec 5, 2025)
 
-**Status:** 🔴 ACTIVE (blocking new job posts)
-**Severity:** MEDIUM (prevents new posts but existing functionality intact)
+**Status:** ✅ RESOLVED
+**Severity:** MEDIUM (prevented new posts but existing functionality intact)
 **First Detected:** 2025-12-05 15:04 UTC
+**Resolution Date:** 2025-12-05 16:30 UTC
 
 #### Problem
 Discord bot failing to post new jobs with error: `DiscordAPIError[160006]: Maximum number of active threads reached`
 
-#### Root Cause
-Discord forum channels have a hard limit of **~1,000 active threads per channel**. Internships repo currently has **834 posted jobs** (active threads), approaching this limit. When attempting to post new jobs, Discord API rejects the request.
+#### Root Cause (Two Issues Found)
+1. **Discord thread limit:** Forum channels have hard limit of ~1,000 active threads per channel. Tech-internships had 834 threads.
+2. **Cleanup script bug:** Only fetched 100 archived threads (limit: 100), meaning 646 threads were never scanned during cleanup!
 
 #### Impact
-- **Internships repo:** Cannot post new jobs until cleanup performed
-- **Duration:** Started Dec 5, 15:04 UTC, ongoing
+- **Internships repo:** Could not post new jobs
+- **Duration:** Dec 5, 15:04 UTC to 16:30 UTC
 - **Jobs affected:** 2+ jobs failed to post (Technology Delivery Analyst, Enablement Operations Data Analyst)
 
 #### Detection
-Workflow logs show:
+Workflow logs showed:
 ```
 [BOT ERROR] ❌ Error posting job Technology Delivery Analyst: DiscordAPIError[160006]: Maximum number of active threads reached
 [BOT] 🎉 Posting complete! Successfully posted: 0, Failed: 2
 ```
 
-#### Resolution Required
-**Option 1 (Recommended): Delete old posts (7+ days)**
-```bash
-# Run cleanup workflow via GitHub Actions UI:
-# - older_than_hours: 168 (7 days)
-# - clear_database: true
-# - dry_run: false (for live run)
+Cleanup logs showed:
+```
+📋 Found 188 threads in channel
+📊 Channel summary: Scanned 188, Deleted 0
+```
+Only 188 out of 834 threads scanned!
+
+#### Resolution Applied
+**Fix 1 (Commit 31ea2768): Workflow verification non-blocking**
+```yaml
+- name: Verify state after cleanup
+  continue-on-error: true
+  run: node .github/scripts/state-sync-manager.js --action=verify || true
 ```
 
-**Option 2: Delete all posts and start fresh**
-```bash
-# Run cleanup workflow:
-# - delete_all_channels: true
-# - clear_database: true
-# - dry_run: false
-```
+**Fix 2 (Commit 2f578bfd): Cleanup script pagination**
+- Added pagination to fetch ALL archived threads (not just 100)
+- Added monitoring to show thread counts per channel
+- Better logging for debugging
+
+**Fix 3 (Commit 04891003): New AI/DS channels**
+- Added `ai-internships` and `data-science-internships` channels
+- Splits AI/ML and Data Science jobs from tech-internships
+- Reduces tech channel load by ~30-40%
 
 #### Prevention Strategies
-1. **Automated Cleanup:** Schedule cleanup workflow to run weekly
-2. **Monitoring:** Alert when posted_jobs.json exceeds 800 entries
-3. **Archival:** Consider archiving old threads instead of deleting
+1. **New channels reduce load:** AI/DS jobs now split off (30-40% reduction)
+2. **Fixed cleanup script:** Now fetches all threads properly
+3. **Weekly cleanup recommended:** Run cleanup workflow weekly to maintain <800 threads
+4. **Monitoring:** Alert when posted_jobs.json exceeds 800 entries
 
 #### Related Issues
-- Workflow fix applied: Commit 31ea2768 (made verification non-blocking)
-- See LESSONS_LEARNED.md for cleanup workflow best practices
+- Cleanup workflow verification: Commit 31ea2768
+- Cleanup script pagination: Commit 2f578bfd
+- New channel routing: Commit 04891003
+- See Memory MCP: `github_discord_thread_limit_issue_2025_12_05`
 
 ---
 
