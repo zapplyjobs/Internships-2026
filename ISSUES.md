@@ -1,6 +1,6 @@
 # Active Issues Tracker - New-Grad-Internships-2026 Repository
 
-**Last Updated:** 2025-12-05
+**Last Updated:** 2025-12-05 15:30 UTC
 **Purpose:** Central tracking for all active and resolved issues across the repository
 
 **Note:** This repository shares workflows and scripts with New-Grad-Jobs. Critical issues affecting both repos are documented in both ISSUES.md files.
@@ -66,7 +66,57 @@ Modified `.github/workflows/cleanup-discord-posts.yml`:
 
 ## ⚠️ MEDIUM PRIORITY ISSUES
 
-### None Currently Active
+### 🔴 ACTIVE - Discord Thread Limit Reached (Dec 5, 2025)
+
+**Status:** 🔴 ACTIVE (blocking new job posts)
+**Severity:** MEDIUM (prevents new posts but existing functionality intact)
+**First Detected:** 2025-12-05 15:04 UTC
+
+#### Problem
+Discord bot failing to post new jobs with error: `DiscordAPIError[160006]: Maximum number of active threads reached`
+
+#### Root Cause
+Discord forum channels have a hard limit of **~1,000 active threads per channel**. Internships repo currently has **834 posted jobs** (active threads), approaching this limit. When attempting to post new jobs, Discord API rejects the request.
+
+#### Impact
+- **Internships repo:** Cannot post new jobs until cleanup performed
+- **Duration:** Started Dec 5, 15:04 UTC, ongoing
+- **Jobs affected:** 2+ jobs failed to post (Technology Delivery Analyst, Enablement Operations Data Analyst)
+
+#### Detection
+Workflow logs show:
+```
+[BOT ERROR] ❌ Error posting job Technology Delivery Analyst: DiscordAPIError[160006]: Maximum number of active threads reached
+[BOT] 🎉 Posting complete! Successfully posted: 0, Failed: 2
+```
+
+#### Resolution Required
+**Option 1 (Recommended): Delete old posts (7+ days)**
+```bash
+# Run cleanup workflow via GitHub Actions UI:
+# - older_than_hours: 168 (7 days)
+# - clear_database: true
+# - dry_run: false (for live run)
+```
+
+**Option 2: Delete all posts and start fresh**
+```bash
+# Run cleanup workflow:
+# - delete_all_channels: true
+# - clear_database: true
+# - dry_run: false
+```
+
+#### Prevention Strategies
+1. **Automated Cleanup:** Schedule cleanup workflow to run weekly
+2. **Monitoring:** Alert when posted_jobs.json exceeds 800 entries
+3. **Archival:** Consider archiving old threads instead of deleting
+
+#### Related Issues
+- Workflow fix applied: Commit 31ea2768 (made verification non-blocking)
+- See LESSONS_LEARNED.md for cleanup workflow best practices
+
+---
 
 ---
 
