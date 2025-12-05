@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Enhanced Channel Router v2
+ * Enhanced Channel Router v3
  *
  * HIERARCHICAL ROUTING SYSTEM (Title-First Approach)
  *

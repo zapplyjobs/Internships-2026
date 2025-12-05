@@ -114,6 +114,8 @@ jobs:
         DISCORD_GUILD_ID:    ${{ secrets.DISCORD_GUILD_ID }}
         # Internship category channels (hardcoded - not secrets)
         DISCORD_TECH_CHANNEL_ID: "1429365682948145164"
+        DISCORD_AI_CHANNEL_ID: "1446528260627501228"              # NEW: AI/ML internships (Dec 2025)
+        DISCORD_DS_CHANNEL_ID: "1446528167362822296"              # NEW: Data Science internships (Dec 2025)
         DISCORD_SALES_CHANNEL_ID: "1429365752145645670"
         DISCORD_MARKETING_CHANNEL_ID: "1429365805090607206"
         DISCORD_FINANCE_CHANNEL_ID: "1429366120854585434"
