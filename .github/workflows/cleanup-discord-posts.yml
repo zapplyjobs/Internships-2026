@@ -73,6 +73,8 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID: "1429366422613786674"
         DISCORD_PM_CHANNEL_ID: "1429366331836207126"
         DISCORD_HR_CHANNEL_ID: "1429366524459745401"
+        DISCORD_AI_CHANNEL_ID: "1446528260627501228"
+        DISCORD_DS_CHANNEL_ID: "1446528167362822296"
 
     - name: Clear posted_jobs.json (if requested)
       if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
