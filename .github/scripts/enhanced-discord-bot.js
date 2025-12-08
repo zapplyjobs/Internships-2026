@@ -22,6 +22,9 @@ const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID; // Legacy single channel supp
 const CLIENT_ID = process.env.DISCORD_CLIENT_ID;
 const GUILD_ID = process.env.DISCORD_GUILD_ID;
 
+// Data paths
+const dataDir = path.join(process.cwd(), '.github', 'data');
+
 // Multi-channel configuration for forum channels
 const CHANNEL_CONFIG = {
   'tech': process.env.DISCORD_TECH_CHANNEL_ID,
