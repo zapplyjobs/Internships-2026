@@ -275,7 +275,9 @@ async function cleanup() {
       console.error('❌ Error: Bot is not in any guilds');
       process.exit(1);
     }
-    guild = guilds.first();
+    // guilds.first() returns partial guild - must fetch full guild with channels
+    const partialGuild = guilds.first();
+    guild = await client.guilds.fetch(partialGuild.id);
   }
 
   console.log(`📍 Guild: ${guild.name} (${guild.id})\n`);
