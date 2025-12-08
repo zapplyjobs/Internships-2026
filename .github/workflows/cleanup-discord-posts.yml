@@ -34,6 +34,11 @@ on:
         type: boolean
         default: true
 
+# Prevent concurrent runs with update-jobs workflow
+concurrency:
+  group: job-updates
+  cancel-in-progress: false
+
 jobs:
   cleanup:
     runs-on: ubuntu-latest
