@@ -48,7 +48,9 @@ const LOCATION_CHANNEL_CONFIG = {
   'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
   'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
   'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
-  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID,
+  'boston': process.env.DISCORD_BOSTON_CHANNEL_ID,
+  'los-angeles': process.env.DISCORD_LA_CHANNEL_ID
 };
 
 // Check if multi-channel mode is enabled (check for actual values, not just defined)
@@ -612,7 +614,29 @@ function getJobLocationChannel(job) {
     'aurora': 'chicago',
     'joliet': 'chicago',
     'evanston': 'chicago',
-    'schaumburg': 'chicago'
+    'schaumburg': 'chicago',
+
+    // Boston Metro Area
+    'boston': 'boston',
+    'cambridge': 'boston',
+    'somerville': 'boston',
+    'brookline': 'boston',
+    'quincy': 'boston',
+    'newton': 'boston',
+    'waltham': 'boston',
+    'revere': 'boston',
+    'medford': 'boston',
+
+    // Los Angeles Metro Area
+    'los angeles': 'los-angeles',
+    'santa monica': 'los-angeles',
+    'pasadena': 'los-angeles',
+    'long beach': 'los-angeles',
+    'glendale': 'los-angeles',
+    'irvine': 'los-angeles',
+    'anaheim': 'los-angeles',
+    'burbank': 'los-angeles',
+    'torrance': 'los-angeles'
   };
 
   // City abbreviations
@@ -646,7 +670,12 @@ function getJobLocationChannel(job) {
   // If we have a state but no specific city match, map to the main city in that state
   if (state) {
     if (state === 'ca' || state === 'california') {
-      return LOCATION_CHANNEL_CONFIG['san-francisco'];
+      // CA jobs without specific city go to LA (most CA jobs not in Bay Area)
+      // Bay Area cities already caught by city matching above
+      return LOCATION_CHANNEL_CONFIG['los-angeles'];
+    }
+    if (state === 'ma' || state === 'massachusetts') {
+      return LOCATION_CHANNEL_CONFIG['boston'];
     }
     if (state === 'ny' || state === 'new york') {
       return LOCATION_CHANNEL_CONFIG['new-york'];
