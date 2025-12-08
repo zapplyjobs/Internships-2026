@@ -22,7 +22,12 @@ on:
         description: 'Delete posts OLDER than N hours (168 = 7 days, leave empty for all)'
         required: false
         type: string
-        default: ''
+        default: '168'
+      nuclear_mode:
+        description: '⚠️ NUCLEAR MODE: Delete ALL posts regardless of age (requires explicit confirmation)'
+        required: true
+        type: boolean
+        default: false
       clear_database:
         description: 'Also clear posted_jobs.json (sync database with Discord cleanup)'
         required: true
@@ -67,6 +72,7 @@ jobs:
         CHANNEL_IDS: ${{ inputs.channel_ids }}
         HOURS_AGO: ${{ inputs.hours_ago }}
         OLDER_THAN_HOURS: ${{ inputs.older_than_hours }}
+        NUCLEAR_MODE: ${{ inputs.nuclear_mode }}
         DRY_RUN: ${{ inputs.dry_run }}
         # Category channel IDs
         DISCORD_TECH_CHANNEL_ID: "1429365682948145164"
