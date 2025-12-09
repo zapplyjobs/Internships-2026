@@ -1,6 +1,9 @@
 name: Cleanup Discord Posts
 
 on:
+  schedule:
+    # Run weekly on Sundays at 00:00 UTC (7 PM EST Saturday)
+    - cron: '0 0 * * 0'
   workflow_dispatch:
     inputs:
       delete_all_channels:
@@ -25,11 +28,6 @@ on:
         default: '168'
       nuclear_mode:
         description: '⚠️ NUCLEAR MODE: Delete ALL posts regardless of age (requires explicit confirmation)'
-        required: true
-        type: boolean
-        default: false
-      clear_database:
-        description: 'Also clear posted_jobs.json (sync database with Discord cleanup)'
         required: true
         type: boolean
         default: false
@@ -68,13 +66,13 @@ jobs:
       env:
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
-        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels }}
-        CHANNEL_IDS: ${{ inputs.channel_ids }}
-        HOURS_AGO: ${{ inputs.hours_ago }}
-        OLDER_THAN_HOURS: ${{ inputs.older_than_hours }}
-        NUCLEAR_MODE: ${{ inputs.nuclear_mode }}
-        DRY_RUN: ${{ inputs.dry_run }}
-        # Category channel IDs
+        DELETE_ALL_CHANNELS: ${{ inputs.delete_all_channels || 'true' }}
+        CHANNEL_IDS: ${{ inputs.channel_ids || '' }}
+        HOURS_AGO: ${{ inputs.hours_ago || '' }}
+        OLDER_THAN_HOURS: ${{ inputs.older_than_hours || '168' }}
+        NUCLEAR_MODE: ${{ inputs.nuclear_mode || 'false' }}
+        DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        # Category channel IDs (internships-specific Discord channels)
         DISCORD_TECH_CHANNEL_ID: "1429365682948145164"
         DISCORD_SALES_CHANNEL_ID: "1429365752145645670"
         DISCORD_MARKETING_CHANNEL_ID: "1429365805090607206"
@@ -100,27 +98,9 @@ jobs:
         DISCORD_BOSTON_CHANNEL_ID: ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
         DISCORD_LA_CHANNEL_ID: ${{ secrets.DISCORD_LA_CHANNEL_ID }}
 
-    - name: Clear posted_jobs.json (if requested)
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
-      run: |
-        echo "🗑️ Clearing posted_jobs.json to sync with Discord cleanup..."
-        node .github/scripts/state-sync-manager.js --action=clear-posted
-
-    - name: Verify state after cleanup
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
-      continue-on-error: true
-      run: |
-        echo "🔍 Verifying state files after cleanup..."
-        node .github/scripts/state-sync-manager.js --action=verify || true
-
-    - name: Commit database changes
-      if: ${{ inputs.clear_database == true && inputs.dry_run == false }}
-      run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add .github/data/posted_jobs.json
-        git commit -m "chore: clear posted_jobs.json after Discord cleanup" || echo "No changes to commit"
-        git push || echo "Nothing to push"
+    # NOTE: clear_database feature removed (2025-12-09)
+    # posted_jobs.json now uses automatic 7-day TTL archiving
+    # No manual clearing needed - archives are managed automatically by PostedJobsManagerV2
 
     - name: Create cleanup summary
       if: always()
@@ -129,8 +109,8 @@ jobs:
         echo "" >> $GITHUB_STEP_SUMMARY
         echo "**Mode:** ${{ inputs.dry_run == true && '🔍 DRY RUN (Preview Only)' || '✅ LIVE RUN (Posts Deleted)' }}" >> $GITHUB_STEP_SUMMARY
         echo "" >> $GITHUB_STEP_SUMMARY
-        if [ "${{ inputs.delete_all_channels }}" == "true" ]; then
-          echo "**Channels:** All category channels (9 channels)" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ inputs.delete_all_channels || 'true' }}" == "true" ]; then
+          echo "**Channels:** All category channels (11 channels)" >> $GITHUB_STEP_SUMMARY
         else
           echo "**Channels:** ${{ inputs.channel_ids }}" >> $GITHUB_STEP_SUMMARY
         fi
