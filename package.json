@@ -20,8 +20,10 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --fix --max-warnings 0",
       "node -c"
+    ],
+    "!(.github)/**/*.js": [
+      "eslint --fix --max-warnings 0"
     ]
   }
 }
