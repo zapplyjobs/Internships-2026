@@ -27,3 +27,68 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+# Test files (development only)
+test-*.js
+*.test.js
+*.spec.js
+*.test.ts
+*.spec.ts
+__tests__/
+coverage/
+.nyc_output/
+
+# Backup files
+*.backup.*
+*.old.*
+*.bak
+*~
+*_backup.*
+*_pre_*_backup.*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Local debug logs (NEVER commit - contains unencrypted sensitive data)
+.local/
+*.local.log
+routing-debug.json
+*-decrypted.json
+
+# GitHub Actions debug logs (NEVER commit - plaintext routing/jobs data for debugging)
+# These files are created when CREATE_DEBUG_LOGS=true environment variable is set
+# They are GitHub Actions artifacts only - NOT for Git history
+.github/logs/
+routing-debug-*.log
+jobs-debug-*.log
+
+# Description fetcher cache (7-day cache for job descriptions)
+.github/data/description-cache/
+
+# Debug and test files (development only)
+debug-*.js
+debug-*.html
+workday-page.png
+
+# Security - Sensitive documentation (NEVER commit)
+CLAUDE.md
+.GenAI_Work/
+CHANGELOG.md
+*ARCHITECTURE*.md
+*DATA_SOURCE*.md
+*SCRAPER*.md
+*API_INTEGRATION*.md
+*STRATEGY*.md
+*TOS_COMPLIANCE*.md
+*SECURITY_AUDIT*.md
+*TECHNICAL*.md
+TECHNICAL_DOCUMENTATION.md
+.backup/
+sources.json
+
+# Temporary directories
+G/
+
+# Include .github/scripts for linting (override default ignore)
+!.github/
