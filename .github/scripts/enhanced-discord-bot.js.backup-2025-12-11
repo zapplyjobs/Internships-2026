@@ -32,9 +32,11 @@ const GUILD_ID = process.env.DISCORD_GUILD_ID;
 
 // Data paths
 const dataDir = path.join(process.cwd(), '.github', 'data');
+const subscriptionsPath = path.join(dataDir, 'subscriptions.json');
+const postedJobsPath = path.join(dataDir, 'posted_jobs.json');
 
 // Load company data for tier detection
-const companies = JSON.parse(fs.readFileSync(path.join(__dirname, 'job-fetcher', 'companies.json'), 'utf8'));
+const companies = JSON.parse(fs.readFileSync('./.github/scripts/job-fetcher/companies.json', 'utf8'));
 
 // Import job ID generation for consistency
 const { generateJobId, generateEnhancedId } = require('./job-fetcher/utils');
@@ -56,7 +58,7 @@ const client = new Client({
   ]
 });
 
-// Initialize managers (using imported classes)
+// Initialize managers
 const subscriptionManager = new SubscriptionManager();
 
 const postedJobsManager = new PostedJobsManager();
@@ -351,7 +353,7 @@ function buildJobEmbed(job) {
   }
 
   // Add cleaned description preview if available
-  const cleanedDescription = cleanJobDescription(job.job_description, job.description_format);
+  const cleanedDescription = cleanJobDescription(job.job_description);
   if (cleanedDescription) {
     embed.addFields({
       name: '📋 Description',
@@ -526,8 +528,6 @@ client.once('ready', async () => {
     }
   } catch (error) {
     console.log('ℹ️ No new jobs file found or error reading it');
-    console.error('🔍 DEBUG - Full error:', error.message);
-    console.error('🔍 DEBUG - Error stack:', error.stack);
     client.destroy();
     process.exit(0);
     return;
@@ -757,14 +757,12 @@ client.once('ready', async () => {
           channel.name
         );
         let jobPostedSuccessfully = false;
-        let primaryThreadId = null; // Track thread ID for database
 
         // INDUSTRY POST: Post to industry channel
         const industryResult = await postJobToForum(job, channel);
         if (industryResult.success) {
           console.log(`  ✅ Industry: ${job.job_title} @ ${job.employer_name}`);
           jobPostedSuccessfully = true;
-          primaryThreadId = industryResult.thread?.id || null; // Capture thread ID
           channelFullErrorCount = 0; // Reset counter on success
         } else {
           console.log(`  ❌ Industry post failed: ${job.job_title}`);
@@ -816,18 +814,18 @@ client.once('ready', async () => {
 
         // Mark as posted if at least one post succeeded
         if (jobPostedSuccessfully) {
-          postedJobsManager.markAsPosted(jobId, job, primaryThreadId);
-
+          postedJobsManager.markAsPosted(jobId);
+          
           // Also mark all location variants as posted (for multi-location grouping)
           if (job._allJobVariants && job._allJobVariants.length > 1) {
             job._allJobVariants.forEach(variant => {
               const variantId = generateJobId(variant);
               if (variantId !== jobId) {
-                postedJobsManager.markAsPosted(variantId, variant, null);
+                postedJobsManager.markAsPosted(variantId);
               }
             });
           }
-
+          
           totalPosted++;
         } else {
           totalFailed++;
