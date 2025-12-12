@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:50:48.438Z",
+  "lastUpdated": "2025-12-12T07:59:40.772Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1266,14 +1266,36 @@
       "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1880482",
       "discordThreadId": "1448945162515513374",
       "instanceNumber": 1
+    },
+    {
+      "id": "aveva-services-intern-lake-forest-2025-12-12-1",
+      "jobId": "aveva-services-intern-lake-forest",
+      "company": "AVEVA",
+      "title": "Services Intern",
+      "postedToDiscord": "2025-12-12T07:59:34.454Z",
+      "sourceDate": "2025-10-14T00:26:35.000Z",
+      "sourceUrl": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Houston-Texas-United-States-of-America/Services-Intern_R012496",
+      "discordThreadId": "1448947361631174756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-technologies-computer-science-intern-bolt-and-wafer-fab-operations-team-santa-rosa-2025-12-12-1",
+      "jobId": "keysight-technologies-computer-science-intern-bolt-and-wafer-fab-operations-team-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Computer Science Intern - BOLT and Wafer Fab Operations Team",
+      "postedToDiscord": "2025-12-12T07:59:40.771Z",
+      "sourceDate": "2025-10-14T00:08:59.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/49117?lang=en-us&icims=1",
+      "discordThreadId": "1448947388600422520",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 115,
+    "totalJobs": 117,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T07:50:48.438Z",
+      "date": "2025-12-12T07:59:40.772Z",
       "archived": 0
     }
   }
