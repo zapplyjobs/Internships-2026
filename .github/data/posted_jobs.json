@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T11:49:49.056Z",
+  "lastUpdated": "2025-12-12T11:57:38.244Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1618,14 +1618,36 @@
       "sourceUrl": "https://epicgames.com/careers/jobs/5675688004?gh_jid=5675688004",
       "discordThreadId": "1449005311502585898",
       "instanceNumber": 1
+    },
+    {
+      "id": "netradyne-ai-research-intern-san-diego-2025-12-12-1",
+      "jobId": "netradyne-ai-research-intern-san-diego",
+      "company": "NetraDyne",
+      "title": "AI Research Intern",
+      "postedToDiscord": "2025-12-12T11:57:36.531Z",
+      "sourceDate": "2025-10-10T01:08:04.000Z",
+      "sourceUrl": "https://www.netradyne.com/company/careers?gh_jid=4617868005",
+      "discordThreadId": "1449007264252821607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-software-development-engineer-arlington-2025-12-12-1",
+      "jobId": "gm-financial-intern-software-development-engineer-arlington",
+      "company": "GM financial",
+      "title": "Intern – Software Development Engineer",
+      "postedToDiscord": "2025-12-12T11:57:38.244Z",
+      "sourceDate": "2025-10-09T23:14:31.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1056",
+      "discordThreadId": "1449007279285342209",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 147,
+    "totalJobs": 149,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T11:49:49.056Z",
+      "date": "2025-12-12T11:57:38.244Z",
       "archived": 0
     }
   }
