@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:57:47.924Z",
+  "lastUpdated": "2025-12-12T06:14:46.712Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1024,14 +1024,58 @@
       "sourceUrl": "https://jobs.keysight.com/jobs/49885?lang=en-us&icims=1",
       "discordThreadId": "1448916715051290674",
       "instanceNumber": 1
+    },
+    {
+      "id": "nelnet-intern-it-software-engineer-summer-2026-lincoln-2025-12-12-1",
+      "jobId": "nelnet-intern-it-software-engineer-summer-2026-lincoln",
+      "company": "Nelnet",
+      "title": "Intern – IT Software Engineer - Summer 2026",
+      "postedToDiscord": "2025-12-12T06:14:35.583Z",
+      "sourceDate": "2025-10-14T23:41:31.000Z",
+      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer_R21836",
+      "discordThreadId": "1448920949427798026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bloom-energy-systems-engineering-intern-san-jose-2025-12-12-1",
+      "jobId": "bloom-energy-systems-engineering-intern-san-jose",
+      "company": "Bloom Energy",
+      "title": "Systems Engineering Intern",
+      "postedToDiscord": "2025-12-12T06:14:37.289Z",
+      "sourceDate": "2025-10-14T20:35:15.000Z",
+      "sourceUrl": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Systems-Engineering-Intern_JR-20731",
+      "discordThreadId": "1448920956528623770",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waymo-2026-summer-intern-phd-software-engineer-due-mountain-view-2025-12-12-1",
+      "jobId": "waymo-2026-summer-intern-phd-software-engineer-due-mountain-view",
+      "company": "Waymo",
+      "title": "2026 Summer Intern - PhD - Software Engineer - Due",
+      "postedToDiscord": "2025-12-12T06:14:42.014Z",
+      "sourceDate": "2025-10-14T22:22:29.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7315982",
+      "discordThreadId": "1448920976468217856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-technology-intern-summer-2026-austin-2025-12-12-1",
+      "jobId": "hntb-technology-intern-summer-2026-austin",
+      "company": "HNTB",
+      "title": "Technology Intern - Summer 2026",
+      "postedToDiscord": "2025-12-12T06:14:46.712Z",
+      "sourceDate": "2025-10-14T20:37:47.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2026_R-27864-1",
+      "discordThreadId": "1448920996110274674",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 93,
+    "totalJobs": 97,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T05:57:47.924Z",
+      "date": "2025-12-12T06:14:46.712Z",
       "archived": 0
     }
   }
