@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:49:33.997Z",
+  "lastUpdated": "2025-12-12T05:57:47.924Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -980,14 +980,58 @@
       "sourceUrl": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
       "discordThreadId": "1448914642964316190",
       "instanceNumber": 1
+    },
+    {
+      "id": "roblox-summer-2026-data-scientist-phd-intern-san-mateo-2025-12-12-1",
+      "jobId": "roblox-summer-2026-data-scientist-phd-intern-san-mateo",
+      "company": "Roblox",
+      "title": "Summer 2026] Data Scientist – PhD Intern",
+      "postedToDiscord": "2025-12-12T05:57:34.760Z",
+      "sourceDate": "2025-10-15T01:41:56.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7299325?gh_jid=7299325",
+      "discordThreadId": "1448916654926069892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-2026-intern-data-scientist-predictive-finance-lehi-2025-12-12-1",
+      "jobId": "adobe-2026-intern-data-scientist-predictive-finance-lehi",
+      "company": "Adobe",
+      "title": "2026 Intern - Data Scientist - Predictive Finance",
+      "postedToDiscord": "2025-12-12T05:57:36.484Z",
+      "sourceDate": "2025-10-15T00:41:54.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Data-Scientist--Predictive-Finance_R161479",
+      "discordThreadId": "1448916675003940995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-team-2026-start-phd-san-jose-2025-12-12-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-search-team-2026-start-phd-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok Search Team - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-12T05:57:41.186Z",
+      "sourceDate": "2025-10-15T01:35:12.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7557122323507349778",
+      "discordThreadId": "1448916694604189697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-technologies-software-engineer-intern-front-end-design-santa-rosa-2025-12-12-1",
+      "jobId": "keysight-technologies-software-engineer-intern-front-end-design-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Software Engineer Intern - Front end Design",
+      "postedToDiscord": "2025-12-12T05:57:47.924Z",
+      "sourceDate": "2025-10-14T23:41:41.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/49885?lang=en-us&icims=1",
+      "discordThreadId": "1448916715051290674",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 89,
+    "totalJobs": 93,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T05:49:33.997Z",
+      "date": "2025-12-12T05:57:47.924Z",
       "archived": 0
     }
   }
