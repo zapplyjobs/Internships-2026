@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:01:20.209Z",
+  "lastUpdated": "2025-12-12T04:04:49.699Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -540,14 +540,80 @@
       "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003267",
       "discordThreadId": "1448887414314635426",
       "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-modeling-and-simulation-intern-greenville-2025-12-12-1",
+      "jobId": "ge-vernova-ge-vernova-modeling-and-simulation-intern-greenville",
+      "company": "GE Vernova",
+      "title": "GE Vernova Modeling and Simulation Intern",
+      "postedToDiscord": "2025-12-12T04:04:29.907Z",
+      "sourceDate": "2025-10-17T15:38:23.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Modeling-and-Simulation-Intern---Summer-2026_R5022685-1",
+      "discordThreadId": "1448888209659531285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "valmont-software-engineering-web-intern-omaha-2025-12-12-1",
+      "jobId": "valmont-software-engineering-web-intern-omaha",
+      "company": "Valmont",
+      "title": "Software Engineering Web Intern",
+      "postedToDiscord": "2025-12-12T04:04:34.789Z",
+      "sourceDate": "2025-10-17T14:46:41.000Z",
+      "sourceUrl": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Software-Engineering-Web-Intern_R25624",
+      "discordThreadId": "1448888230240981123",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corning-corporate-sustainability-intern-summer-2026-elmira-2025-12-12-1",
+      "jobId": "corning-corporate-sustainability-intern-summer-2026-elmira",
+      "company": "Corning",
+      "title": "Corporate Sustainability Intern - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:04:38.098Z",
+      "sourceDate": "2025-10-17T12:17:22.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors",
+      "discordThreadId": "1448888243918475316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-researcher-intern-intelligent-creation-vision-and-graphics-2026-start-phd-seattle-2025-12-12-1",
+      "jobId": "tiktok-researcher-intern-intelligent-creation-vision-and-graphics-2026-start-phd-seattle",
+      "company": "TikTok",
+      "title": "Researcher Intern - Intelligent Creation-Vision and Graphics - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-12T04:04:39.766Z",
+      "sourceDate": "2025-10-17T11:11:44.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533685770852059410",
+      "discordThreadId": "1448888251472416920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ptc-onshape-software-development-intern-ai-boston-2025-12-12-1",
+      "jobId": "ptc-onshape-software-development-intern-ai-boston",
+      "company": "PTC",
+      "title": "Onshape Software Development – Intern - AI",
+      "postedToDiscord": "2025-12-12T04:04:43.305Z",
+      "sourceDate": "2025-10-17T11:04:30.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Onshape-Software-Development-AI--Intern_JR110956",
+      "discordThreadId": "1448888258405863568",
+      "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-human-aware-interaction-and-learning-research-intern-cambridge-2025-12-12-1",
+      "jobId": "toyota-research-institute-human-aware-interaction-and-learning-research-intern-cambridge",
+      "company": "Toyota Research Institute",
+      "title": "Human Aware Interaction and Learning – Research Intern",
+      "postedToDiscord": "2025-12-12T04:04:49.698Z",
+      "sourceDate": "2025-10-17T14:18:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/b012c063-b8a8-454b-8026-6a8cf8a4e5fc/apply",
+      "discordThreadId": "1448888285647605861",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 49,
+    "totalJobs": 55,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T04:01:20.209Z",
+      "date": "2025-12-12T04:04:49.699Z",
       "archived": 0
     }
   }
