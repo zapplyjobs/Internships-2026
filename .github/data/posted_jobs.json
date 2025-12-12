@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:13:59.017Z",
+  "lastUpdated": "2025-12-12T05:33:32.930Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -892,14 +892,58 @@
       "sourceUrl": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern---Software-Execution_JR-0079895-1",
       "discordThreadId": "1448905696564482048",
       "instanceNumber": 1
+    },
+    {
+      "id": "hitachi-intern-procurement-analyst-hagerstown-2025-12-12-1",
+      "jobId": "hitachi-intern-procurement-analyst-hagerstown",
+      "company": "Hitachi",
+      "title": "Intern Procurement Analyst",
+      "postedToDiscord": "2025-12-12T05:33:21.796Z",
+      "sourceDate": "2025-10-15T17:02:25.000Z",
+      "sourceUrl": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Hagerstown-Maryland-United-States/Intern-Procurement-Analyst_R0107709",
+      "discordThreadId": "1448910573583470662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bloom-energy-business-data-analyst-intern-indirect-commodity-san-jose-2025-12-12-1",
+      "jobId": "bloom-energy-business-data-analyst-intern-indirect-commodity-san-jose",
+      "company": "Bloom Energy",
+      "title": "Business Data Analyst Intern - Indirect Commodity",
+      "postedToDiscord": "2025-12-12T05:33:26.461Z",
+      "sourceDate": "2025-10-15T06:35:05.000Z",
+      "sourceUrl": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Business-Data-Analyst-Intern---Indirect-Commodity_JR-20721",
+      "discordThreadId": "1448910593271791736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "illumio-technical-program-management-intern-program-management-automation-sunnyvale-2025-12-12-1",
+      "jobId": "illumio-technical-program-management-intern-program-management-automation-sunnyvale",
+      "company": "Illumio",
+      "title": "Technical Program Management Intern - Program Management - Automation",
+      "postedToDiscord": "2025-12-12T05:33:28.179Z",
+      "sourceDate": "2025-10-15T04:38:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/illumio/da9e6331-07ec-46f9-b4b6-b5c4f0b6d21b/application",
+      "discordThreadId": "1448910600322154577",
+      "instanceNumber": 1
+    },
+    {
+      "id": "visa-software-engineer-intern-bellevue-2025-12-12-1",
+      "jobId": "visa-software-engineer-intern-bellevue",
+      "company": "Visa",
+      "title": "Software Engineer, Intern",
+      "postedToDiscord": "2025-12-12T05:33:32.930Z",
+      "sourceDate": "2025-10-15T02:49:21.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000087985128-software-engineer-intern-summer-2026-bellevue",
+      "discordThreadId": "1448910620144439399",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 81,
+    "totalJobs": 85,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T05:13:59.017Z",
+      "date": "2025-12-12T05:33:32.930Z",
       "archived": 0
     }
   }
