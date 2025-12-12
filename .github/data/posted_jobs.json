@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T09:43:04.270Z",
+  "lastUpdated": "2025-12-12T09:58:14.154Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1420,14 +1420,36 @@
       "sourceUrl": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Salem-Virginia-United-States-of-America/Software-and-Controls-Engineering-Intern_WD30251820",
       "discordThreadId": "1448973414743146587",
       "instanceNumber": 1
+    },
+    {
+      "id": "iridium-communications-software-engineering-internship-mclean-2025-12-12-1",
+      "jobId": "iridium-communications-software-engineering-internship-mclean",
+      "company": "Iridium Communications",
+      "title": "Software Engineering Internship",
+      "postedToDiscord": "2025-12-12T09:58:12.420Z",
+      "sourceDate": "2025-10-13T15:19:43.000Z",
+      "sourceUrl": "https://careers-iridium.icims.com/jobs/4753/iridium-software-engineering-internship-%E2%80%93-summer-2026-%28virginia%29/job",
+      "discordThreadId": "1448977223045349511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "digikey-software-engineer-intern-thief-river-falls-2025-12-12-1",
+      "jobId": "digikey-software-engineer-intern-thief-river-falls",
+      "company": "DigiKey",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-12T09:58:14.154Z",
+      "sourceDate": "2025-10-13T15:17:58.000Z",
+      "sourceUrl": "https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Intern--Software-Engineer_R5010",
+      "discordThreadId": "1448977230754742383",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 129,
+    "totalJobs": 131,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T09:43:04.270Z",
+      "date": "2025-12-12T09:58:14.154Z",
       "archived": 0
     }
   }
