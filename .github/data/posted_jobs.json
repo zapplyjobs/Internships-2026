@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T09:11:37.724Z",
+  "lastUpdated": "2025-12-12T09:27:57.360Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1376,14 +1376,36 @@
       "sourceUrl": "https://nuro.ai/careersitem?gh_jid=7309261",
       "discordThreadId": "1448965501954035834",
       "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-corporate-system-ai-engineer-intern-multiple-teams-atlanta-2025-12-12-1",
+      "jobId": "intercontinental-exchange-corporate-system-ai-engineer-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Corporate System AI Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T09:27:52.660Z",
+      "sourceDate": "2025-10-13T17:27:08.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1448969590523564135",
+      "instanceNumber": 1
+    },
+    {
+      "id": "radiance-technologies-software-engineer-intern-multiple-teams-beavercreek-2025-12-12-1",
+      "jobId": "radiance-technologies-software-engineer-intern-multiple-teams-beavercreek",
+      "company": "Radiance Technologies",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T09:27:57.360Z",
+      "sourceDate": "2025-10-13T16:31:22.000Z",
+      "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Software-Engineer-Intern--Summer-2026-_HR101836",
+      "discordThreadId": "1448969610836709426",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 125,
+    "totalJobs": 127,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T09:11:37.724Z",
+      "date": "2025-12-12T09:27:57.360Z",
       "archived": 0
     }
   }
