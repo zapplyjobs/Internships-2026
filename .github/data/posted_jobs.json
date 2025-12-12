@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T11:25:47.586Z",
+  "lastUpdated": "2025-12-12T11:38:51.186Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1574,14 +1574,36 @@
       "sourceUrl": "https://jobs.ericsson.com/careers/job/563121772252795?domain=ericsson.com&jobPipeline=LinkedIn",
       "discordThreadId": "1448999265266307158",
       "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-software-engineering-intern-full-stack-java-jacksonville-2025-12-12-1",
+      "jobId": "intercontinental-exchange-software-engineering-intern-full-stack-java-jacksonville",
+      "company": "Intercontinental Exchange",
+      "title": "Software Engineering Intern - Full-Stack - Java",
+      "postedToDiscord": "2025-12-12T11:38:46.463Z",
+      "sourceDate": "2025-10-10T18:33:03.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11614/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449002532222402719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "altice-usa-intern-customer-care-plainview-2025-12-12-1",
+      "jobId": "altice-usa-intern-customer-care-plainview",
+      "company": "Altice USA",
+      "title": "Intern – Customer Care",
+      "postedToDiscord": "2025-12-12T11:38:51.186Z",
+      "sourceDate": "2025-10-10T17:12:42.000Z",
+      "sourceUrl": "https://www.alticeusacareers.com/job/Bethpage-Intern-Customer-Care-NY-11714/1333655100/?ats=successfactors",
+      "discordThreadId": "1449002552052940832",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 143,
+    "totalJobs": 145,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T11:25:47.586Z",
+      "date": "2025-12-12T11:38:51.186Z",
       "archived": 0
     }
   }
