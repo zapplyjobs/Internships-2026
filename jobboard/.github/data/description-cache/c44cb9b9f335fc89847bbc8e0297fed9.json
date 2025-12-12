@@ -1,0 +1,17 @@
+{
+  "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23283",
+  "data": {
+    "success": true,
+    "platform": "taleo",
+    "description": "Is an internship focused on changing the world's energy future intriguing? If so, we might have just the opportunity you're looking for! Reporting to the Physical Process Science & Realization group, you will work with scientists and engineers at INL’s Biomass Feedstock National User Facility (BFNUF) to develop and validate novel digital models of biomass materials or engineering systems and use modeling approaches to elucidate influence of material properties on bioenergy product quality or explore engineering solutions to improve process performance energy efficiency. Strong communication skills to interact with subject matter experts and peer colleagues to learn the experimental and computational methodologies and existing data management systems are desired. Research experience in one or multiple of the areas listed below is desired. - Proficient use of software packages to perform particle dynamic simulations based on the discrete element method (DEM). The ability to use SolidWorks to create complex geometries and generate computational meshes for DEM simulations is a significant plus. - Proficient Python programming skills to apply or extend existing machine learning algorithms for analyzing and controlling sophisticated mechanical or chemical engineering systems. Experience of using GPU computing to accelerate machine learning model training is a significant plus. - Proficient use of advanced image processing software to process 3D X-ray computed tomography (XCT) images or scanning electron microscopy (SEM) images. Experience of machine learning based multi-phase image segmentation for structural and compositional analysis is a significant plus. - Proficient writing skills to keep detailed technical documentation for the research accomplished and complete a draft scientific manuscript during the internship. This team works a 9x80 schedule onsite at our Research Education Campus facility in Idaho Falls, ID. Start date and duration of internship vary based on project and student availability. You may be eligible for course credit for this internship if approved by your university.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23283",
+      "fetchedAt": "2025-12-12T03:45:53.441Z"
+    }
+  },
+  "cachedAt": 1765511153441
+}
