@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T09:58:14.154Z",
+  "lastUpdated": "2025-12-12T10:10:39.261Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1442,14 +1442,36 @@
       "sourceUrl": "https://digikey.wd5.myworkdayjobs.com/en-US/digi-key/job/Thief-River-Falls-MN/Intern--Software-Engineer_R5010",
       "discordThreadId": "1448977230754742383",
       "instanceNumber": 1
+    },
+    {
+      "id": "chick-fil-a-digital-transformation-and-technology-software-engineer-intern-atlanta-2025-12-12-1",
+      "jobId": "chick-fil-a-digital-transformation-and-technology-software-engineer-intern-atlanta",
+      "company": "Chick-fil-A",
+      "title": "Digital Transformation and Technology Software Engineer Intern",
+      "postedToDiscord": "2025-12-12T10:10:37.342Z",
+      "sourceDate": "2025-10-13T15:08:08.000Z",
+      "sourceUrl": "https://careers-chickfila.icims.com/jobs/18992/digital-transformation-and-technology-software-engineer-intern---summer-2026/job",
+      "discordThreadId": "1448980347646771260",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reliable-robotics-flight-software-engineer-mountain-view-2025-12-12-1",
+      "jobId": "reliable-robotics-flight-software-engineer-mountain-view",
+      "company": "Reliable Robotics",
+      "title": "Flight Software Engineer",
+      "postedToDiscord": "2025-12-12T10:10:39.260Z",
+      "sourceDate": "2025-10-13T14:56:29.000Z",
+      "sourceUrl": "https://jobs.lever.co/reliable/c03acd82-7f84-43c8-bcf9-e854abeb6104",
+      "discordThreadId": "1448980354986807451",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 131,
+    "totalJobs": 133,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T09:58:14.154Z",
+      "date": "2025-12-12T10:10:39.261Z",
       "archived": 0
     }
   }
