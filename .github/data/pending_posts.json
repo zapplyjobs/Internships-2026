@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Software Development Intern - Multiple Teams",
-      "employer_name": "GM financial",
-      "job_city": "Fort Worth",
-      "job_state": "TX",
-      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
-      "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1088",
-      "job_posted_at_datetime_utc": "2025-10-13T20:08:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gm-financial-software-development-intern-multiple-teams-fort-worth",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T09:11:28.617Z",
-    "postedAt": "2025-12-12T09:11:40.735Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Intern - Behavior Planning",
-      "employer_name": "Nuro",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "TechCrunch, April 9, 2025Nuro’s $106M raise backs its shift from delivery robots to licensing autonomy tech",
-      "job_apply_link": "https://nuro.ai/careersitem?gh_jid=7309261",
-      "job_posted_at_datetime_utc": "2025-10-13T19:18:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nuro-machine-learning-intern-behavior-planning-mountain-view",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T09:11:28.617Z",
-    "postedAt": "2025-12-12T09:11:40.735Z"
-  },
-  {
-    "job": {
       "job_title": "Corporate System AI Engineer Intern - Multiple Teams",
       "employer_name": "Intercontinental Exchange",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Intercontinental Exchange in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>The Corporate System AI Engineer Intern will support the design and development of AI-powered quality assurance platforms and related solutions within Corporate Systems.</p> <p><strong>&nbsp;Responsibilities</strong></p> <ul> <li>Collaborate with cross-functional teams to test AI-driven features, explore generative AI techniques (e.g., RAG, prompt engineering), and support integration with enterprise systems and APIs</li> <li>Assist in developing and fine-tuning applications using foundation models (LLMs, multimodal), participate in rapid prototyping, and contribute to agentic AI and NLP-based solutions</li> <li>Gain hands-on experience with modern test automation tools and AI/ML frameworks while translating business needs into technical AI solutions through research and agile development</li> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a degree program at an accredited university, be at least advancing to their junior year of study, and pursuing a degree in Artificial Intelligence, Machine Learning, Computer Science, Software Engineering, Computer Engineering, or related field</li> <li>Familiarity with programming languages such as Python, Java, or JavaScript/TypeScript.</li> <li>Foundational understanding of AI/ML concepts and a strong interest in software testing and quality assurance.</li> <li>Eagerness to learn and contribute to real-world AI development projects in a collaborative environment.</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Atlanta office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-KM</p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
       "job_apply_link": "https://careers-ice.icims.com/jobs/11605/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-13T17:27:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intercontinental-exchange-corporate-system-ai-engineer-intern-multiple-teams-atlanta"
+      "id": "intercontinental-exchange-corporate-system-ai-engineer-intern-multiple-teams-atlanta",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T09:27:48.034Z",
+    "postedAt": "2025-12-12T09:28:00.371Z"
   },
   {
     "job": {
@@ -228,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-13T16:31:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "radiance-technologies-software-engineer-intern-multiple-teams-beavercreek"
+      "id": "radiance-technologies-software-engineer-intern-multiple-teams-beavercreek",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T09:27:48.034Z",
+    "postedAt": "2025-12-12T09:28:00.371Z"
   },
   {
     "job": {
