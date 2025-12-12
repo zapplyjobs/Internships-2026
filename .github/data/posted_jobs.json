@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:09:14.002Z",
+  "lastUpdated": "2025-12-12T04:26:44.923Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -672,14 +672,80 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/eCommerce-Analyst-Internship---Summer-2026_R258439",
       "discordThreadId": "1448889400925753515",
       "instanceNumber": 1
+    },
+    {
+      "id": "ptc-software-development-intern-mobile-development-boston-2025-12-12-1",
+      "jobId": "ptc-software-development-intern-mobile-development-boston",
+      "company": "PTC",
+      "title": "Software Development Intern - Mobile Development",
+      "postedToDiscord": "2025-12-12T04:26:27.370Z",
+      "sourceDate": "2025-10-17T07:58:20.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110934",
+      "discordThreadId": "1448893727866359850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-software-development-engineering-intern-summer-2026-omaha-2025-12-12-1",
+      "jobId": "caci-software-development-engineering-intern-summer-2026-omaha",
+      "company": "CACI",
+      "title": "Software Development/Engineering Intern - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:26:29.043Z",
+      "sourceDate": "2025-10-16T23:39:25.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-NE-Omaha/Software-Development-Engineering-Intern---Summer-2026_318647",
+      "discordThreadId": "1448893742974242846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-gpu-accelerated-optimization-intern-summer-2026-schenectady-2025-12-12-1",
+      "jobId": "ge-vernova-ge-vernova-gpu-accelerated-optimization-intern-summer-2026-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova GPU Accelerated Optimization Intern - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:26:33.875Z",
+      "sourceDate": "2025-10-17T04:36:30.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-GPU-accelerated-optimization-intern---Summer-2026_R5022548-1",
+      "discordThreadId": "1448893762582614037",
+      "instanceNumber": 1
+    },
+    {
+      "id": "delta-dental-application-development-intern-multiple-teams-east-lansing-2025-12-12-1",
+      "jobId": "delta-dental-application-development-intern-multiple-teams-east-lansing",
+      "company": "Delta Dental",
+      "title": "Application Development Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T04:26:35.505Z",
+      "sourceDate": "2025-10-16T23:25:18.000Z",
+      "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101035-1",
+      "discordThreadId": "1448893770148876419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-business-intelligence-developer-intern-co-op-multiple-teams-waukegan-2025-12-12-1",
+      "jobId": "uline-business-intelligence-developer-intern-co-op-multiple-teams-waukegan",
+      "company": "Uline",
+      "title": "Business Intelligence Developer Intern/Co-op - Multiple Teams",
+      "postedToDiscord": "2025-12-12T04:26:40.191Z",
+      "sourceDate": "2025-10-17T02:56:33.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R258437",
+      "discordThreadId": "1448893789698654259",
+      "instanceNumber": 1
+    },
+    {
+      "id": "merck-2026-future-talent-program-co-op-agentic-ai-north-wales-2025-12-12-1",
+      "jobId": "merck-2026-future-talent-program-co-op-agentic-ai-north-wales",
+      "company": "Merck",
+      "title": "2026 Future Talent Program – Co-Op - Agentic AI",
+      "postedToDiscord": "2025-12-12T04:26:44.923Z",
+      "sourceDate": "2025-10-17T01:11:24.000Z",
+      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Agentic-AI---Co-Op_R369728",
+      "discordThreadId": "1448893809462349938",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 61,
+    "totalJobs": 67,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T04:09:14.002Z",
+      "date": "2025-12-12T04:26:44.923Z",
       "archived": 0
     }
   }
