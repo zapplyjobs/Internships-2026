@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:11:52.477Z",
+  "lastUpdated": "2025-12-12T07:26:49.018Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1189,14 +1189,47 @@
       "sourceUrl": "https://lifeattiktok.com/search/7532267134924867847",
       "discordThreadId": "1448935364948525166",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-tiktok-shop-user-product-data-science-seattle-2025-12-12-1",
+      "jobId": "tiktok-data-scientist-intern-tiktok-shop-user-product-data-science-seattle",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Tiktok Shop User Product Data Science",
+      "postedToDiscord": "2025-12-12T07:26:44.255Z",
+      "sourceDate": "2025-10-14T02:03:58.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532254890627696903",
+      "discordThreadId": "1448939105294618725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-tiktok-shop-business-product-data-science-seattle-2025-12-12-1",
+      "jobId": "tiktok-data-scientist-intern-tiktok-shop-business-product-data-science-seattle",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Tiktok Shop Business Product Data Science",
+      "postedToDiscord": "2025-12-12T07:26:44.260Z",
+      "sourceDate": "2025-10-14T02:03:57.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532238337198622983",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "pure-storage-software-engineer-intern-multiple-teams-santa-clara-2025-12-12-1",
+      "jobId": "pure-storage-software-engineer-intern-multiple-teams-santa-clara",
+      "company": "Pure Storage",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T07:26:49.018Z",
+      "sourceDate": "2025-10-14T01:58:53.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/purestorage/jobs/7258723",
+      "discordThreadId": "1448939124873756715",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 108,
+    "totalJobs": 111,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T07:11:52.477Z",
+      "date": "2025-12-12T07:26:49.018Z",
       "archived": 0
     }
   }
