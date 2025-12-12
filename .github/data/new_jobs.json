@@ -112,31 +112,31 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineering Intern - Multiple Teams",
-    "employer_name": "Expedition Technology",
-    "job_city": "Reston",
-    "job_state": "VA",
-    "job_description": "Careers Home Careers Current Openings We’re hiring! Check out our current positions below If you don’t see a position of interest but think you’d be a great fit at EXP, drop us a line with your resume!At Expedition Technology, we are committed to providing an accessible environment for all candidates. If you require any accommodations during the application or interview process, please let us know. We will work with you to ensure your needs are met.To request accommodations, please contact us at accommodations@exptechinc.com. Include your name, the position you are applying for, and the specific accommodation you need. Thank you for considering a career with Expedition Technology. Our Team and Process Our teams make Expedition great! EXP is team-centric, learn more about our employees’ thoughts, the problems we tackle, and how we collaborate to develop novel technologies. More About Us",
-    "job_apply_link": "https://www.exptechinc.com/careers/?gh_jid=4942451007",
-    "job_posted_at_datetime_utc": "2025-10-13T21:02:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "expedition-technology-software-engineering-intern-multiple-teams-reston",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Software Engineer Intern",
+    "job_title": "Software Engineering Intern",
     "employer_name": "PTC",
     "job_city": "Boston",
     "job_state": "MA",
-    "job_description": "Join PTC in this exciting opportunity.",
-    "job_apply_link": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern_JR110885",
-    "job_posted_at_datetime_utc": "2025-10-13T20:26:12.000Z",
+    "job_description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow – all while seeing their ideas come to life and celebrating the differences that make us who we are and the work we do possible. Job DescriptionOur 10-week Americas Summer Internship Program offers students an immersive learning experience with hands-on work in areas across the organization. Interning with PTC provides students with the opportunity to work on high-visibility and high impact projects.Your ImpactModeling interns are an important factor in accelerating customer focused enhancements. We have a pool of development stories for interns that can be completed during their tenure at Onshape.Your TeamYou will be part of the team building a highly complex and interactive web application, using front-end frameworks, websockets, and REST APIs. You will work alongside your mentors and other full-time employees on production functionalities and solving real user issues. You will have the opportunity to enhance your skills and make UI/UX decisions that will impact to millions of Onshape users.Your Day-to-DayWork with UX to understand feature specificationImplement and iterate in modeling features in part studio, assembly and graphics areaWrite automated test for modeling featuresFix bugs in their features and related product areasBasic QualificationsEnrolled in a degree program in one of the following or related fields: Engineering, Software Engineering, Computer Engineering, Computer Science.Good problem solving and communication skillsExperience with Web UI Frameworks (e.g., Angular) or graphics APIs (e.g., WebGL)Comfortable working in a large code basePTC carefully considers a wide variety of factors when determining compensation. The anticipated average hourly rate for this position is $32/hour. This rate reflects a good-faith estimate of compensation at the time of posting. Actual compensation may vary based on a candidate's major, degree currently being pursued and location. At PTC, we believe in the power of diverse ideas and perspectives. As a global company that values and respects all identities, cultures, and perspectives, we strive to create an inclusive PTC for ALL through an environment where everyone feels like they belong and are empowered to bring their true, authentic selves to work. Proud to be an Equal Opportunity Employer, we welcome applicants from all backgrounds and hire without regard to race, national origin, religion, age, color, ethnicity, ancestry, marital status, sex (including pregnancy), sexual orientation, gender identity, gender expression, genetic information, disability, veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.PTC endeavors to make ptc.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact PTC's Talent Acquisition team at TalentAcquisition@ptc.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. Life at PTC is about more than working with today’s most cutting-edge technologies to transform the physical world. It’s about showing up as you are and working alongside some of today’s most talented industry leaders to transform the world around you. If you share our passion for problem-solving through innovation, you’ll likely become just as passionate about the PTC experience as we are. Are you ready to explore your next career move with us?We respect the privacy rights of individuals and are committed to handling Personal Information responsibly and in accordance with all applicable privacy and data protection laws. Review our Privacy Policy here.\"",
+    "job_apply_link": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineering-Intern_JR110887",
+    "job_posted_at_datetime_utc": "2025-10-13T20:19:47.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "ptc-software-engineer-intern-boston",
+    "id": "ptc-software-engineering-intern-boston",
     "description_platform": "workday",
-    "description_success": false
+    "description_success": true
+  },
+  {
+    "job_title": "Intern - Software Development Engineer - Multiple Teams",
+    "employer_name": "GM financial",
+    "job_city": "Fort Worth",
+    "job_state": "TX",
+    "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time! Why GM Financial? GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses. Our Purpose: We pioneer the innovations that move and connect people to what matters. Are you excited about innovation, entrepreneurship and solving complex business problems? Then we ar...",
+    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1059",
+    "job_posted_at_datetime_utc": "2025-10-13T20:08:08.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "gm-financial-intern-software-development-engineer-multiple-teams-fort-worth",
+    "description_platform": "generic",
+    "description_success": true
   }
 ]

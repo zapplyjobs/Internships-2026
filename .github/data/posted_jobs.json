@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T08:35:44.264Z",
+  "lastUpdated": "2025-12-12T08:52:17.295Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1332,14 +1332,36 @@
       "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern_JR110885",
       "discordThreadId": "1448956456777814109",
       "instanceNumber": 1
+    },
+    {
+      "id": "ptc-software-engineering-intern-boston-2025-12-12-1",
+      "jobId": "ptc-software-engineering-intern-boston",
+      "company": "PTC",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-12T08:52:15.412Z",
+      "sourceDate": "2025-10-13T20:19:47.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineering-Intern_JR110887",
+      "discordThreadId": "1448960618613702731",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-software-development-engineer-multiple-teams-fort-worth-2025-12-12-1",
+      "jobId": "gm-financial-intern-software-development-engineer-multiple-teams-fort-worth",
+      "company": "GM financial",
+      "title": "Intern - Software Development Engineer - Multiple Teams",
+      "postedToDiscord": "2025-12-12T08:52:17.295Z",
+      "sourceDate": "2025-10-13T20:08:08.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1059",
+      "discordThreadId": "1448960634409582738",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 121,
+    "totalJobs": 123,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T08:35:44.264Z",
+      "date": "2025-12-12T08:52:17.295Z",
       "archived": 0
     }
   }
