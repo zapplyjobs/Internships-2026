@@ -1,0 +1,17 @@
+{
+  "url": "https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Search by Keyword Search by Location Show More Options Loading... City All State All Country/Region All Location All Facility All Category All Title All Select how often (in days) to receive an alert: Email jobs to me form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Corporate Sustainability Intern - Summer 2026 Date: Oct 16, 2025 Company: Corning Sorry, this position has either been filled or is not available in your browser language. Please change the language setting in the drop down list above.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://corningjobs.corning.com/job/Corning-Corporate-Sustainability-Intern-Summer-2026-NY-14831/1335401200/?ats=successfactors",
+      "fetchedAt": "2025-12-12T04:04:18.304Z"
+    }
+  },
+  "cachedAt": 1765512258304
+}
