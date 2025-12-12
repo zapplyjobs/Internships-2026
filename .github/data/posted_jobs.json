@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T12:36:25.359Z",
+  "lastUpdated": "2025-12-12T13:02:43.045Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1684,14 +1684,36 @@
       "sourceUrl": "https://www.alticeusacareers.com/job/Bethpage-Intern-Network-Planning-&-Engineering-NY-11714/1332899600/?ats=successfactors",
       "discordThreadId": "1449017039514501192",
       "instanceNumber": 1
+    },
+    {
+      "id": "altice-usa-intern-data-assurance-plainview-2025-12-12-1",
+      "jobId": "altice-usa-intern-data-assurance-plainview",
+      "company": "Altice USA",
+      "title": "Intern – Data Assurance",
+      "postedToDiscord": "2025-12-12T13:02:41.309Z",
+      "sourceDate": "2025-10-09T17:32:21.000Z",
+      "sourceUrl": "https://www.alticeusacareers.com/job/Bethpage-Intern-Data-Assurance-NY-11714/1332886800/?ats=successfactors",
+      "discordThreadId": "1449023649796460554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "copart-technology-product-analyst-intern-product-management-dallas-2025-12-12-1",
+      "jobId": "copart-technology-product-analyst-intern-product-management-dallas",
+      "company": "Copart",
+      "title": "Technology Product Analyst Intern - Product Management",
+      "postedToDiscord": "2025-12-12T13:02:43.045Z",
+      "sourceDate": "2025-10-09T17:21:08.000Z",
+      "sourceUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105106",
+      "discordThreadId": "1449023657119584256",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 153,
+    "totalJobs": 155,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T12:36:25.359Z",
+      "date": "2025-12-12T13:02:43.045Z",
       "archived": 0
     }
   }

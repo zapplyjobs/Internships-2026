@@ -1,0 +1,17 @@
+{
+  "url": "https://www.alticeusacareers.com/job/Bethpage-Intern-Data-Assurance-NY-11714/1332886800/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Search by Keyword Search by Location Show More Options Loading... Brand All Job Category All Clear Select how often (in days) to receive an alert: Create an Alert to see when similar jobs are posted form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, we are no longer accepting applications for this role at this time.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.alticeusacareers.com/job/Bethpage-Intern-Data-Assurance-NY-11714/1332886800/?ats=successfactors",
+      "fetchedAt": "2025-12-12T13:02:32.272Z"
+    }
+  },
+  "cachedAt": 1765544552272
+}
