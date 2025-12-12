@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T11:11:09.522Z",
+  "lastUpdated": "2025-12-12T11:25:47.586Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1552,14 +1552,36 @@
       "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-36624",
       "discordThreadId": "1448995582365663355",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-recording-engineer-project-intern-data-speech-2026-start-san-jose-2025-12-12-1",
+      "jobId": "tiktok-recording-engineer-project-intern-data-speech-2026-start-san-jose",
+      "company": "TikTok",
+      "title": "Recording Engineer Project Intern - Data Speech - 2026 Start",
+      "postedToDiscord": "2025-12-12T11:25:45.861Z",
+      "sourceDate": "2025-10-10T21:01:43.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7553720893541959944",
+      "discordThreadId": "1448999258005962892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ericsson-swe-automation-intern-plano-2025-12-12-1",
+      "jobId": "ericsson-swe-automation-intern-plano",
+      "company": "Ericsson",
+      "title": "SWE & Automation Intern",
+      "postedToDiscord": "2025-12-12T11:25:47.586Z",
+      "sourceDate": "2025-10-10T20:19:19.000Z",
+      "sourceUrl": "https://jobs.ericsson.com/careers/job/563121772252795?domain=ericsson.com&jobPipeline=LinkedIn",
+      "discordThreadId": "1448999265266307158",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 141,
+    "totalJobs": 143,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T11:11:09.522Z",
+      "date": "2025-12-12T11:25:47.586Z",
       "archived": 0
     }
   }
