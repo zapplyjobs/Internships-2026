@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Data Engineering Intern - High Performance Analog",
-      "employer_name": "Qorvo",
-      "job_city": "Richardson",
-      "job_state": "TX",
-      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Data Engineering Internships are offered in our High Performance Analog, business group. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Design, build, test, and maintain data pipelines to unify data from multiple sources using Spark on AWS. Support data infrastructure that enables analytics, reporting, and machine learning models. Implement CI/CD workflows, version control, and testing for reliable data delivery. Ensure data quality and integrity across structured and unstructured sources. Partner with engineers and analysts to define requirements and deliver scalable data solutions. Qualifications: Currently pursuing a BS, MS, or PhD in Data Science, Computer Science, Statistics, Applied Math, or related field. Minimum GPA of 3.0. Proficiency in Python Familiarity with distributed systems, ETL concepts, or Spark. Familiarity with Git and SQL. Strong organization skills and attention to detail. Preferred Qualifications: Experience with AWS (S3, Glue, EMR, Redshift, or related services). Exposure to data modeling, schema design, or database optimization. Strong written and verbal communication skills. This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr - $42/hr (subject to change dependent on physical location) Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
-      "job_apply_link": "https://careers.qorvo.com/job/Richardson-Data-Engineering-Intern-TX-75081/1333265100/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-10-09T17:57:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "qorvo-data-engineering-intern-high-performance-analog-richardson",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T12:36:19.110Z",
-    "postedAt": "2025-12-12T12:36:28.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Network Planning & Engineering - Network Planning - Engineering",
-      "employer_name": "Altice USA",
-      "job_city": "Plainview",
-      "job_state": "NY",
-      "job_description": "Lightpath is one of the largest competitive local exchange carriers in the tri-state area. We own and operate our infrastructure \"from the ground up\" by deploying over 20,000 route miles connecting 13,500 on-net/LIT buildings. With a strong portfolio of cutting edge solutions for Internet, WAN, Voice, SD-WAN, Security & Cloud services, we enable Enterprise customers of all sizes the ability to react to new challenges while developing best practices for the future. With Lightpath’s continued focus on network excellence and a “customer first” service commitment, we are building a workforce of the best talent that will meet the needs of our customers and reflect the diverse communities we serve. We’re looking for interns who are eager to learn, contribute, and grow in a collaborative environment. As an intern, you’ll have the opportunity to: Work closely with team members on meaningful projects that drive results. Collaborate across departments, gaining exposure to different areas of the business. Explore and apply AI tools and technologies as part of project work and problem-solving. Be an active part of a supportive, team-oriented culture. Contribute fresh ideas and take ownership of tasks that make an impact. Job Summary: The Network Planning & Engineering Intern will be responsible for modelling equipment within Netcracker and establishing a dashboard within Tableau. The Intern will be working on uploading documents onto the Engineering Wiki page. Although the Intern will work in a team-based environment, it is expected that he/she will be self-motivated, have good attention to detail and able to complete work tasks with an outstanding professional attitude. Duties and Responsibilities: Creating Network Device Grooming Tool / Report to vet through all TDM Trunks and identify trunks with no Child Circuits for disconnect and to consolidate low utilized TDM trunks within Netcracker. Create RFA AI Agent Search Tool: an AI BOT to source the Engineering Wiki to answer RFA potential questions. Present project ideas to individuals and groups. Provide a weekly status report with the Network Engineering Management and Team. The Intern will work closely with all related management teams to fulfill business requirements and contribute to successful implementation of project. The Intern will work with the Transport Engineering team to perform data mining efforts within Netcracker and develop a summarized report within Excel. Transport Engineering and Capacity Planning team to create an AI BOT to answer RFA questions from the Lightpath Fulfillment business units sourcing the Network Planning and Engineering Wiki page. Qualifications: Eligible candidates should be entering their senior year of an undergraduate program or be recent graduates of an undergraduate or master’s program. Candidates must be local to one of our office locations. Bethpage NY, NYC, Golden CO, Wakefield MA, White Plains NY. Bachelor’s Degree-in progress or higher in Computer Applications and Machine Learning or related discipline from an accredited program. 0 to 3 years of professional experience, ideally in Telecommunication experience or closely related field. Demonstrated understanding of optical theory, transport technologies and the operation of optical transport systems (including SONET, SDH, DWDM (ROADM and OADM). Experience with Netcracker or similar Planning and Provisioning tools. Strong working knowledge of Microsoft Office, Visio & various operational Support Systems for internal and external presentations and complex network schematics. Have basic knowledge and skills related to programming in Python and machine learning models. Ability to work in a collaborative environment and willingness to convey ideas among team. Excellent verbal, written, and interpersonal communication skills. Experience in problem solving with stakeholders, clients, and teammates. Ability to work and learn independently. Ability to build and foster collaborative relationships. Strong problem-solving skills, self-management and the ability to multitask. Excellent Documentation and Communication ability. Lightpath is an Equal Opportunity Employer committed to recruiting, hiring and promoting qualified people of all backgrounds regardless of gender, race, color, creed, national origin, religion, age, marital status, pregnancy, physical or mental disability, sexual orientation, gender identity, military or veteran status, or any other basis protected by federal, state, or local law. Lightpath collects personal information about its applicants for employment that may include personal identifiers, professional or employment related information, photos, education information and/or protected classifications under federal and state law. This information is collected for employment purposes, including identification, work authorization, FCRA-compliant background screening, human resource administration and compliance with federal, state and local law. This position is identified as being performed in/or reporting to company operations in New York State. The pay range at the time of posting in the specified locations is $18.00- $20.00/hour. Pay ranges are supplied in compliance with New York State law. Pay is competitive and based on a number of job-related factors, including skills and experience.",
-      "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Intern-Network-Planning-&-Engineering-NY-11714/1332899600/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-10-09T17:32:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "altice-usa-intern-network-planning-engineering-network-planning-engineering-plainview",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T12:36:19.110Z",
-    "postedAt": "2025-12-12T12:36:28.368Z"
-  },
-  {
-    "job": {
       "job_title": "Intern – Data Assurance",
       "employer_name": "Altice USA",
       "job_city": "Plainview",
       "job_state": "NY",
-      "job_description": "Join Altice USA in this exciting opportunity.",
+      "job_description": "Search by Keyword Search by Location Show More Options Loading... Brand All Job Category All Clear Select how often (in days) to receive an alert: Create an Alert to see when similar jobs are posted form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, we are no longer accepting applications for this role at this time.",
       "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Intern-Data-Assurance-NY-11714/1332886800/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-10-09T17:32:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "altice-usa-intern-data-assurance-plainview"
+      "id": "altice-usa-intern-data-assurance-plainview",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T13:02:36.323Z",
+    "postedAt": "2025-12-12T13:02:46.055Z"
   },
   {
     "job": {
@@ -223,17 +185,19 @@
       "employer_name": "Copart",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join Copart in this exciting opportunity.",
+      "job_description": "Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries. We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology. Job DescriptionThe Technology Product Analyst Intern will work in a dynamic, fast-paced environment as part of the Product team, to understand, define and create industry-changing products. We are looking for someone who is proactive, results driven and excited to work with internal business teams to drive new product development and can contribute to critical high value projects that will define and maintain our products.The Product Analyst Intern will be a key member of the IT Product Management Team, with the following duties and responsibilities:Works with executive and senior leaders to create and maintain an operating platform that defines the people, processes, tools, and technology.Partners with business and technology partners to elicit, analyze, translate, and document business requirements into technical requirements.Analyzes, documents and tests program development, logic, process flows, and specifications.Partners with business partners to conduct user acceptance testing.Coordinates the project resources to ensure that projects are delivered on time and within budgetCollaborate with stakeholders to understand data needs to create reports that meets the needs of the businessWork in collaboration with cross functional teams to conduct discussions, interviews and workgroups to capture and to develop requirementWork with the development team to create and test reports utilizing feedback and revisions into reporting productsAnalyze & interpret data and makes recommendations to improve reporting to meet stakeholder needs.1-3 years of experience as a business analyst or product analyst/owner.Bachelor's Degree Required (Masters or MBA preferred).Agile training as Scrum Master or Product Owner.Experience Documenting Complex Business Solutions.Excellent understanding of business complexity and project interdependencies.Intellectual curiosity and the ability to question partners across functional areas.Outstanding written and verbal communication skills.Experience troubleshooting technical issues in work products.Self-starter and able to work in a fast-paced, high-demand environmentStrong analytical and problem-solving skills; excellent follow-up skills required.Strong understanding of basic system engineering, object-oriented design, information risk and security guidelines, and architecture standards. #L1-MS1 At Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:E-verify ParticipationRight to Work",
       "job_apply_link": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105106",
       "job_posted_at_datetime_utc": "2025-10-09T17:21:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "copart-technology-product-analyst-intern-product-management-dallas"
+      "id": "copart-technology-product-analyst-intern-product-management-dallas",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T13:02:36.323Z",
+    "postedAt": "2025-12-12T13:02:46.055Z"
   },
   {
     "job": {
