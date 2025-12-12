@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T09:27:57.360Z",
+  "lastUpdated": "2025-12-12T09:43:04.270Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1398,14 +1398,36 @@
       "sourceUrl": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Software-Engineer-Intern--Summer-2026-_HR101836",
       "discordThreadId": "1448969610836709426",
       "instanceNumber": 1
+    },
+    {
+      "id": "reliable-robotics-ux-ui-software-engineer-mountain-view-2025-12-12-1",
+      "jobId": "reliable-robotics-ux-ui-software-engineer-mountain-view",
+      "company": "Reliable Robotics",
+      "title": "UX/UI Software Engineer",
+      "postedToDiscord": "2025-12-12T09:43:02.602Z",
+      "sourceDate": "2025-10-13T15:29:50.000Z",
+      "sourceUrl": "https://jobs.lever.co/reliable/5d37ef7e-95f3-4b46-86fe-e0aeb64b3d8f",
+      "discordThreadId": "1448973407650578483",
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-controls-software-and-controls-engineering-intern-salem-2025-12-12-1",
+      "jobId": "johnson-controls-software-and-controls-engineering-intern-salem",
+      "company": "Johnson Controls",
+      "title": "Software and Controls Engineering Intern",
+      "postedToDiscord": "2025-12-12T09:43:04.269Z",
+      "sourceDate": "2025-10-13T15:22:53.000Z",
+      "sourceUrl": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Salem-Virginia-United-States-of-America/Software-and-Controls-Engineering-Intern_WD30251820",
+      "discordThreadId": "1448973414743146587",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 127,
+    "totalJobs": 129,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T09:27:57.360Z",
+      "date": "2025-12-12T09:43:04.270Z",
       "archived": 0
     }
   }
