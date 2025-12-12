@@ -121,86 +121,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Co-Op – Defense",
-      "employer_name": "Airspace Intelligence",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "About Air Space Intelligence ASI started with a simple vision - build Google Maps for the skies. Our mission-critical technology now powers decision-making across major airlines, the U.S. Department of Defense, and other critical infrastructure domains. Backed by top-tier investors including Andreessen Horowitz, Spark Capital, and Renegade Partners, ASI delivers operational decision superiority—compressing days of analysis into seconds of action. ASI is leading the way and pushing the boundaries of what’s possible. What you will do: As a Software Engineer in our Co-Op program, you will work alongside seasoned software engineers to build ASI’s Defense products. Our engineers do it all, from meeting with customers to solving complex distributed systems problems. We do whatever it takes to solve our users’ most urgent needs. You will learn how to distill product requirements, write design docs, and build complex software, shoulder to shoulder with the best engineers in the industry. Our previous interns have built mission-critical features, such as detecting when planes are diverted or alerting when a scheduled route is expected to hit turbulence. What we value: Passionate Builders - We’re looking for talented engineers who love to build. Building isn’t a job, it’s a lifestyle. Our stack includes Python, Rust, and React — whether you already know them or are eager to learn, you’ll thrive if you love solving hard problems and shipping great products. Fast Learners - We don’t expect you to do it all day one, but we do expect that you love to learn and learn quickly. At ASI, speed matters. Critical Thinkers - The world is rapidly changing, and as a result, we must continuously reinvent ourselves to stay ahead and relevant. We love divergent thinkers and people who will come in and challenge the status quo. Force Multipliers - Being excellent in a silo is only part of the equation - to thrive at ASI is to be collaborative and positive-sum oriented. How do we hire: We look at the interview process not as a screening or test, but rather as an opportunity to simulate what it would look like working together. We build the interview process around you.",
-      "job_apply_link": "https://jobs.ashbyhq.com/airspace-intelligence.com/c2ef5338-def2-4370-8ab0-0775466d8bf8",
-      "job_posted_at_datetime_utc": "2025-10-16T06:46:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "airspace-intelligence-software-engineer-co-op-defense-boston",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T04:59:48.585Z",
-    "postedAt": "2025-12-12T05:00:10.265Z"
-  },
-  {
-    "job": {
-      "job_title": "Spatial Planning Intern - Spring 2026 - Spatial Planning Team",
-      "employer_name": "Zipline",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Locations Technology For Business Safety Resources Company Contact sales Contact sales Get delivery Get delivery Locations Technology For Business Safety Resources Company Contact sales Contact sales Get delivery Get delivery Locations TexasArkansasSeattleAfricaResources GuidesVideosInformation For CitiesCompany About ZiplineTechnologyFor BusinessNewsroomCareersSafetyPrivacy Commitment Privacy Policy Terms of Service Vulnerability Disclosure Policy Cookie Notice Your Privacy Choices Notice at Collection Do Not Sell or Share My Personal Information",
-      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7497920003",
-      "job_posted_at_datetime_utc": "2025-10-16T02:29:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zipline-spatial-planning-intern-spring-2026-spatial-planning-team-dallas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T04:59:48.585Z",
-    "postedAt": "2025-12-12T05:00:10.265Z"
-  },
-  {
-    "job": {
-      "job_title": "Financial Data Analyst Intern - Multiple Teams",
-      "employer_name": "Uline",
-      "job_city": "Pleasant Prairie",
-      "job_state": "WI",
-      "job_description": "Financial Data Analyst InternshipPaid Internship - Summer 2026Corporate Headquarters12575 Uline Drive, Pleasant Prairie, WI 53158Ready to boost your analytical skills and kick-start your career? Join Uline as a 2026 Financial Data Analyst Intern! You'll get hands-on experience and work with pros at a company that recognizes hard work and values people. With our growth and stability, your career possibilities are endless!A 2025 Handshake Early Talent Award-winning company!Position ResponsibilitiesDesign, develop, implement and maintain various financial dashboards and tools.Use SQL and VBA to create tools to increase financial process efficiencies.Support the finance department by completing SQL data queries and analyses.Collaborate with other teams such as Accounting, Credit Research / Analysis, Tax and Operations.Minimum RequirementsThis full-time, 12-week internship is open to Junior-status college students only.Pursuing a bachelor’s degree in finance, IT or analytics.Strong Microsoft Excel skills. SQL or programming experience preferred.Strong analytical, leadership and communication skills.Benefits of a Uline InternshipGain professional work experience by executing meaningful business projects.Work with a dedicated mentor assigned specifically to you.Live nearby in complementary housing for out-of-town interns.Join a positive and collaborative in-person work environment.Earn competitive pay over summer and the potential to join Uline full-time upon graduation.Intern Perks\"Lunch and Learn\" sessions to expand your business and industry knowledge.Outings and networking events with interns across all departments.On-site café with meals prepared fresh by executive chefs.First-class fitness center with sauna and walking trails.About UlineUline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 9,000 employees across 14 locations.Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.EEO/AA Employer/Vet/Disabled#LI-LM5#CORP(#IN-PPINH)Our employees make the difference and we are committed to offering exceptional benefits and perks! Explore Uline.jobs to learn more!",
-      "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R258319",
-      "job_posted_at_datetime_utc": "2025-10-16T00:43:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uline-financial-data-analyst-intern-multiple-teams-pleasant-prairie",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T04:59:48.585Z",
-    "postedAt": "2025-12-12T05:00:10.265Z"
-  },
-  {
-    "job": {
-      "job_title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
-      "employer_name": "Philips",
-      "job_city": "State College",
-      "job_state": "PA",
-      "job_description": "Job TitleCo-op-Data Engineer-Reedsville, PA-June-December 2026Job DescriptionAre you interested in an co-op opportunity with Philips? We welcome individuals who are currently pursuing an undergraduate (BS) degree to participate in 6 month co-op opportunities at our site in Reedsville, PA Through this role you will gain meaningful, hands-on experience working for a HealthTech company. Supporting the R&D Reliability team by developing data engineering tools and support R&D with improvementsData analysis and reporting. Lead or support project teams as neededSupport CONQ database transition and improvements. Migrate data and write new scripts to allow the transducer reliability team to have the data they need consistently.You're the right fit if: Pursuing a Bachelor's degree in one of the following areas of study: Data Science, Data Analytics, Electrical Engineering, Computer ScienceExperience with T-SQL, Python, SAP, Microsoft Power Apps, SAP-ME, Object Oriented Programming Problem-solving methodology (i.e., Shainin Red-X, DMAIC, PDCA), manufacturing process knowledge,Experience with a regulated work environment, Project Management Self-starter, Driven to improve, Big picture thinking, Takes initiative.You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this position.How we work togetherWe believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations.This is an office roleAbout PhilipsWe are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others.Learn more about our business.Discover our rich and exciting history.Learn more about our purpose.Learn more about our culture.Philips Transparency Details The hourly pay range for this position is $25.00 to $29.00, plus overtime eligible. The actual base pay offered may vary within the posted ranges depending on multiple factors including job-related knowledge/skills, experience, business needs, geographical location, and internal equity. Details about our benefits can be found here. At Philips, it is not typical for an individual to be hired at or near the top end of the range for their role and compensation decisions are dependent upon the facts and circumstances of each case. Additional InformationUS work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future.Company relocation benefits will not be provided for this position. For this position, you must reside in or within commuting distance to Reedsville.This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates. Interested candidates are encouraged to apply as soon as possible to ensure consideration.Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.",
-      "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville/Co-op-Data-Engineer-Reedsville--PA-January-June-2025_565943",
-      "job_posted_at_datetime_utc": "2025-10-16T00:11:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "philips-co-op-data-engineer-reedsville-pa-january-june-2025-state-college",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T04:59:48.585Z",
-    "postedAt": "2025-12-12T05:00:10.265Z"
-  },
-  {
-    "job": {
       "job_title": "Intern, Statistics & Data Science",
       "employer_name": "Cook Group",
       "job_city": "Bloomington",
@@ -210,12 +130,14 @@
       "job_posted_at_datetime_utc": "2025-10-15T22:53:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cook-group-intern-statistics-data-science-bloomington"
+      "id": "cook-group-intern-statistics-data-science-bloomington",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T05:13:41.337Z",
+    "postedAt": "2025-12-12T05:14:02.029Z"
   },
   {
     "job": {
@@ -223,17 +145,19 @@
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
       "job_state": "NY",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryCome and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.Job DescriptionBuilt-in Quality Digitalization Expert Intern will support the transformation of quality assurance processes through digital tools and data-driven solutions. This role focuses on integrating quality into the design and execution of manufacturing and operational workflows, leveraging digital platforms to enhance defect prevention, traceability, and continuous improvement.This role collaborates with cross-functional teams to identify opportunities for automation, develop dashboards and analytics, and contribute to the deployment of digital quality systems. This internship offers hands-on experience in applying Industry 4.0 technologies to real-world quality challenges, driving operational excellence and customer satisfaction.Expected Outcomes:Implementation of digital tools that support defect prevention (digital pre-flight checklists, LPR)Development of dashboards or analytics that provide actionable insights into quality performance.Contribution to a culture of proactive quality and continuous improvement.Primary Skills Developed:Data Analysis & Visualization: Using tools like Power BI, Tableau, or GEV AI platform AMP to interpret quality data and identify trends or anomalies.Digital Tool Integration: Experience MES (Manufacturing Execution Systems) and quality management platforms.Root Cause Analysis: Applying structured problem-solving techniques (e.g., 5 Whys, Fishbone diagrams) to quality issues.Basic Qualifications:Currently pursuing a Bachelor's or Master's degree in Engineering, Computer Science, Data Analytics, Industrial Engineering, or a related field.Minimum of 4.0 GPA out of 5.0 scale.Other Eligibility Requirements:US work authorization without company sponsorship.Desired Qualifications:Technical Skills:Familiarity with data visualization tools (e.g., Power BI, Tableau).Basic programming knowledge (e.g., Python, SQL, or VBA).Understanding of digital manufacturing systems (MES, ERP, QMS) is a plus.Experience with Excel and data manipulation techniques.Analytical & Problem-Solving:Strong analytical mindset with the ability to interpret complex data sets.Exposure to root cause analysis and continuous improvement methodologies (Lean, Six Sigma preferred).Soft Skills:Effective communication and collaboration skills across technical and non-technical teams.Self-motivated, detail-oriented, and eager to learn.Ability to manage multiple tasks and prioritize in a fast-paced environment.Prior internship or project experience in manufacturing, quality, or digital transformation.Knowledge of quality standards and defect prevention strategies.Prior experience or coursework in digital manufacturing, quality engineering, or data analytics.Familiarity with Lean Six Sigma principles and continuous improvement methodologies.Hands-on experience with data visualization tools (e.g., Power BI, Tableau) and scripting languages (e.g., Python, R, SQL).Exposure to MES, ERP, or QMS platforms used in manufacturing environments.Understanding of quality control systems, defect tracking, and root cause analysis techniques.Ability to translate operational challenges into digital solutions using structured problem-solving.Strong interest in Industry 4.0, smart factory concepts, and digital transformation.Demonstrated ability to work in cross-functional teams and communicate effectively with diverse stakeholders.Experience with project-based work, internships, or academic research related to manufacturing or quality systems.Benefits Available to you: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce: Our Culture | GE Vernova (gecareers.com)The pay for this position ranges from $25-$34/hr. based on years of undergraduate/graduate field of study completedThis position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Inclusion At GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: https://jobs.gecareers.com/vernova/global/en/i-d-eAdditional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Quality-Digitalization-Internship---Summer-2026_R5022400-1",
       "job_posted_at_datetime_utc": "2025-10-15T22:44:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-quality-digitalization-internship-summer-2026-schenectady"
+      "id": "ge-vernova-ge-vernova-quality-digitalization-internship-summer-2026-schenectady",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T05:13:41.337Z",
+    "postedAt": "2025-12-12T05:14:02.029Z"
   },
   {
     "job": {
@@ -241,17 +165,19 @@
       "employer_name": "PTC",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join PTC in this exciting opportunity.",
+      "job_description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow – all while seeing their ideas come to life and celebrating the differences that make us who we are and the work we do possible. Onshape is a next-generation Software-as-a-Service (SaaS) product development platform that helps businesses of all sizes modernize and accelerate their design and manufacturing processes. The cloud-native platform is the only all-in-one system that combines robust computer-aided design (CAD) with powerful data management and collaboration tools. Onshape helps extended design teams work together faster from any location and helps executives make better decisions with real-time business analytics and unprecedented visibility into their company’s operations.Your ImpactYou will help with improving the Onshape CAD system, both as far as user-facing functionality and infrastructure. The work is likely to focus on our FeatureScript language ecosystem, including writing tools for FeatureScript developers, expanding geometric capabilities, improving performance, etc. Interns will work on several projects throughout their time that will be deployed to customers, and due to Onshape’s agile and frequent release cycle, interns will often see their work in the hands of the customers before their internship is over!Your TeamYou will be part of a team that is responsible for developing functionality that provides the underpinnings of Onshape's part modeling capabilities, as well as many other aspects of Onshape, like versioning, branching and merging, collaboration, and performance. We treat interns like full time developers who just happen to be around for a shorter period of time, so an intern will be a full-fledged team member with many of the same responsibilities as a full-time engineer.Your Day-to-Day:Develop new code to improve OnshapeWork with UX to figure out how new functionality should workParticipate in the code review process both as reviewer and revieweeFix bugs both in your new code and in existing codeBasic Qualifications:Must be enrolled in some type of degree program in one of the following or related fields: Engineering, Software Engineering, Computer Engineering, Computer Science.Comfort with at least two of (JavaScript/TypeScript, Java, C++)Experience working on a software engineering team. Experience with geometric computation is a plus.Learn and Grow with UsPTC is focused on developing the workforce of tomorrow, and we offer a world class internship experience to do just that. Our internship program provides students with hands-on work experience in a fast-paced, dynamic, work environment. As an intern, you will be tasked with several impactful projects that will help you learn and develop in your field. At PTC, we believe that a strong internship program focused on growth and development, will turn the students of today into the highly skilled workforce of tomorrow. Each program has a unique structure, goals, and is designed to do just that.PTC carefully considers a wide variety of factors when determining compensation. The anticipated average hourly rate for this position is $32/hour. This rate reflects a good-faith estimate of compensation at the time of posting. Actual compensation may vary based on a candidate's major, degree currently being pursued and location. At PTC, we believe in the power of diverse ideas and perspectives. As a global company that values and respects all identities, cultures, and perspectives, we strive to create an inclusive PTC for ALL through an environment where everyone feels like they belong and are empowered to bring their true, authentic selves to work. Proud to be an Equal Opportunity Employer, we welcome applicants from all backgrounds and hire without regard to race, national origin, religion, age, color, ethnicity, ancestry, marital status, sex (including pregnancy), sexual orientation, gender identity, gender expression, genetic information, disability, veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.PTC endeavors to make ptc.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact PTC's Talent Acquisition team at TalentAcquisition@ptc.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. Life at PTC is about more than working with today’s most cutting-edge technologies to transform the physical world. It’s about showing up as you are and working alongside some of today’s most talented industry leaders to transform the world around you. If you share our passion for problem-solving through innovation, you’ll likely become just as passionate about the PTC experience as we are. Are you ready to explore your next career move with us?We respect the privacy rights of individuals and are committed to handling Personal Information responsibly and in accordance with all applicable privacy and data protection laws. Review our Privacy Policy here.\"",
       "job_apply_link": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110929",
       "job_posted_at_datetime_utc": "2025-10-15T18:15:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ptc-software-development-intern-boston"
+      "id": "ptc-software-development-intern-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T05:13:41.337Z",
+    "postedAt": "2025-12-12T05:14:02.029Z"
   },
   {
     "job": {
@@ -264,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-15T17:39:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kion-software-engineer-intern-software-execution-grand-rapids"
+      "id": "kion-software-engineer-intern-software-execution-grand-rapids",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T05:13:41.337Z",
+    "postedAt": "2025-12-12T05:14:02.029Z"
   },
   {
     "job": {
