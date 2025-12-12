@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:55:02.017Z",
+  "lastUpdated": "2025-12-12T07:11:52.477Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1156,14 +1156,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7264631",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-software-engineer-intern-ai-machine-learning-redmond-2025-12-12-1",
+      "jobId": "microsoft-software-engineer-intern-ai-machine-learning-redmond",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - AI - Machine Learning",
+      "postedToDiscord": "2025-12-12T07:11:45.888Z",
+      "sourceDate": "2025-10-14T02:16:08.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1872468",
+      "discordThreadId": "1448935336670396438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-science-project-intern-supply-chain-logistics-seattle-2025-12-12-1",
+      "jobId": "tiktok-data-science-project-intern-supply-chain-logistics-seattle",
+      "company": "TikTok",
+      "title": "Data Science Project Intern - Supply Chain & Logistics",
+      "postedToDiscord": "2025-12-12T07:11:50.850Z",
+      "sourceDate": "2025-10-14T02:04:29.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7525329448096418066",
+      "discordThreadId": "1448935356803186801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-analyst-intern-tiktok-shop-ams-data-science-seattle-2025-12-12-1",
+      "jobId": "tiktok-data-analyst-intern-tiktok-shop-ams-data-science-seattle",
+      "company": "TikTok",
+      "title": "Data Analyst Intern - Tiktok Shop AMS Data Science",
+      "postedToDiscord": "2025-12-12T07:11:52.476Z",
+      "sourceDate": "2025-10-14T02:04:11.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532267134924867847",
+      "discordThreadId": "1448935364948525166",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 105,
+    "totalJobs": 108,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T06:55:02.017Z",
+      "date": "2025-12-12T07:11:52.477Z",
       "archived": 0
     }
   }
