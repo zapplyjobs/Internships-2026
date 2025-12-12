@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T08:15:05.205Z",
+  "lastUpdated": "2025-12-12T08:35:44.264Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1310,14 +1310,36 @@
       "sourceUrl": "https://www.exptechinc.com/careers/?gh_jid=4942413007",
       "discordThreadId": "1448951271607369830",
       "instanceNumber": 1
+    },
+    {
+      "id": "expedition-technology-software-engineering-intern-multiple-teams-reston-2025-12-12-1",
+      "jobId": "expedition-technology-software-engineering-intern-multiple-teams-reston",
+      "company": "Expedition Technology",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T08:35:39.487Z",
+      "sourceDate": "2025-10-13T21:02:19.000Z",
+      "sourceUrl": "https://www.exptechinc.com/careers/?gh_jid=4942451007",
+      "discordThreadId": "1448956449551028285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ptc-software-engineer-intern-boston-2025-12-12-1",
+      "jobId": "ptc-software-engineer-intern-boston",
+      "company": "PTC",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-12T08:35:44.264Z",
+      "sourceDate": "2025-10-13T20:26:12.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern_JR110885",
+      "discordThreadId": "1448956456777814109",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 119,
+    "totalJobs": 121,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T08:15:05.205Z",
+      "date": "2025-12-12T08:35:44.264Z",
       "archived": 0
     }
   }

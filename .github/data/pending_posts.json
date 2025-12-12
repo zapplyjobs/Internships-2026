@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Intern in Deep Learning and Computer Vision - Multiple Teams",
-      "employer_name": "Expedition Technology",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "Careers Home Careers Current Openings We’re hiring! Check out our current positions below If you don’t see a position of interest but think you’d be a great fit at EXP, drop us a line with your resume!At Expedition Technology, we are committed to providing an accessible environment for all candidates. If you require any accommodations during the application or interview process, please let us know. We will work with you to ensure your needs are met.To request accommodations, please contact us at accommodations@exptechinc.com. Include your name, the position you are applying for, and the specific accommodation you need. Thank you for considering a career with Expedition Technology. Our Team and Process Our teams make Expedition great! EXP is team-centric, learn more about our employees’ thoughts, the problems we tackle, and how we collaborate to develop novel technologies. More About Us",
-      "job_apply_link": "https://www.exptechinc.com/careers/?gh_jid=4942450007",
-      "job_posted_at_datetime_utc": "2025-10-13T21:57:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "expedition-technology-intern-in-deep-learning-and-computer-vision-multiple-teams-reston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T08:14:58.931Z",
-    "postedAt": "2025-12-12T08:15:08.215Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning and Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
-      "employer_name": "Expedition Technology",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "Careers Home Careers Current Openings We’re hiring! Check out our current positions below If you don’t see a position of interest but think you’d be a great fit at EXP, drop us a line with your resume!At Expedition Technology, we are committed to providing an accessible environment for all candidates. If you require any accommodations during the application or interview process, please let us know. We will work with you to ensure your needs are met.To request accommodations, please contact us at accommodations@exptechinc.com. Include your name, the position you are applying for, and the specific accommodation you need. Thank you for considering a career with Expedition Technology. Our Team and Process Our teams make Expedition great! EXP is team-centric, learn more about our employees’ thoughts, the problems we tackle, and how we collaborate to develop novel technologies. More About Us",
-      "job_apply_link": "https://www.exptechinc.com/careers/?gh_jid=4942413007",
-      "job_posted_at_datetime_utc": "2025-10-13T21:24:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "expedition-technology-machine-learning-and-digital-signal-processing-intern-digital-signal-processing-machine-learning-reston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T08:14:58.931Z",
-    "postedAt": "2025-12-12T08:15:08.215Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern - Multiple Teams",
       "employer_name": "Expedition Technology",
       "job_city": "Reston",
       "job_state": "VA",
-      "job_description": "Join Expedition Technology in this exciting opportunity.",
+      "job_description": "Careers Home Careers Current Openings We’re hiring! Check out our current positions below If you don’t see a position of interest but think you’d be a great fit at EXP, drop us a line with your resume!At Expedition Technology, we are committed to providing an accessible environment for all candidates. If you require any accommodations during the application or interview process, please let us know. We will work with you to ensure your needs are met.To request accommodations, please contact us at accommodations@exptechinc.com. Include your name, the position you are applying for, and the specific accommodation you need. Thank you for considering a career with Expedition Technology. Our Team and Process Our teams make Expedition great! EXP is team-centric, learn more about our employees’ thoughts, the problems we tackle, and how we collaborate to develop novel technologies. More About Us",
       "job_apply_link": "https://www.exptechinc.com/careers/?gh_jid=4942451007",
       "job_posted_at_datetime_utc": "2025-10-13T21:02:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "expedition-technology-software-engineering-intern-multiple-teams-reston"
+      "id": "expedition-technology-software-engineering-intern-multiple-teams-reston",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T08:35:35.400Z",
+    "postedAt": "2025-12-12T08:35:47.275Z"
   },
   {
     "job": {
@@ -228,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-13T20:26:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ptc-software-engineer-intern-boston"
+      "id": "ptc-software-engineer-intern-boston",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T08:35:35.400Z",
+    "postedAt": "2025-12-12T08:35:47.275Z"
   },
   {
     "job": {
