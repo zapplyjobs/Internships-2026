@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T10:10:39.261Z",
+  "lastUpdated": "2025-12-12T10:27:20.332Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1464,14 +1464,36 @@
       "sourceUrl": "https://jobs.lever.co/reliable/c03acd82-7f84-43c8-bcf9-e854abeb6104",
       "discordThreadId": "1448980354986807451",
       "instanceNumber": 1
+    },
+    {
+      "id": "nelnet-intern-it-software-engineer-net-lincoln-2025-12-12-1",
+      "jobId": "nelnet-intern-it-software-engineer-net-lincoln",
+      "company": "Nelnet",
+      "title": "Intern – IT Software Engineer .NET",
+      "postedToDiscord": "2025-12-12T10:27:18.650Z",
+      "sourceDate": "2025-10-11T03:58:31.000Z",
+      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/IT-Software-Engineer-NET_R21804",
+      "discordThreadId": "1448984547797631076",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stanley-black-decker-engineering-co-op-summer-and-fall-2026-strongsville-2025-12-12-1",
+      "jobId": "stanley-black-decker-engineering-co-op-summer-and-fall-2026-strongsville",
+      "company": "Stanley Black & Decker",
+      "title": "Engineering Co-Op: Summer and Fall 2026",
+      "postedToDiscord": "2025-12-12T10:27:20.332Z",
+      "sourceDate": "2025-10-11T02:46:53.000Z",
+      "sourceUrl": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Co-Op--Summer-and-Fall-2026_REQ-1000041960",
+      "discordThreadId": "1448984554952986676",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 133,
+    "totalJobs": 135,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T10:10:39.261Z",
+      "date": "2025-12-12T10:27:20.332Z",
       "archived": 0
     }
   }
