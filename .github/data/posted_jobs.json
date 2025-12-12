@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:04:49.699Z",
+  "lastUpdated": "2025-12-12T04:09:14.002Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -606,14 +606,80 @@
       "sourceUrl": "https://jobs.lever.co/tri/b012c063-b8a8-454b-8026-6a8cf8a4e5fc/apply",
       "discordThreadId": "1448888285647605861",
       "instanceNumber": 1
+    },
+    {
+      "id": "valmont-data-engineering-intern-omaha-2025-12-12-1",
+      "jobId": "valmont-data-engineering-intern-omaha",
+      "company": "Valmont",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2025-12-12T04:08:59.023Z",
+      "sourceDate": "2025-10-17T10:28:28.000Z",
+      "sourceUrl": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/Data-Engineering-Intern_R25623",
+      "discordThreadId": "1448889338111856782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tencent-game-research-development-intern-engine-research-bellevue-2025-12-12-1",
+      "jobId": "tencent-game-research-development-intern-engine-research-bellevue",
+      "company": "Tencent",
+      "title": "Game Research & Development Intern - Engine Research",
+      "postedToDiscord": "2025-12-12T04:09:00.698Z",
+      "sourceDate": "2025-10-17T10:06:55.000Z",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R106246-1",
+      "discordThreadId": "1448889345812729949",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-advanced-predictive-controls-intern-ai-grid-stability-summer-2026-schenectady-2025-12-12-1",
+      "jobId": "ge-vernova-ge-vernova-advanced-predictive-controls-intern-ai-grid-stability-summer-2026-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova – Advanced Predictive Controls Intern - AI & Grid Stability - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:09:02.422Z",
+      "sourceDate": "2025-10-17T09:01:44.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova---Advanced-Predictive-Controls-Intern---AI---Grid-Stability---Summer-2026_R5022530-1",
+      "discordThreadId": "1448889352888520848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-research-engineer-intern-ads-ml-infra-2026-start-phd-san-jose-2025-12-12-1",
+      "jobId": "tiktok-research-engineer-intern-ads-ml-infra-2026-start-phd-san-jose",
+      "company": "TikTok",
+      "title": "Research Engineer Intern - Ads ML Infra - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-12T04:09:07.243Z",
+      "sourceDate": "2025-10-17T08:38:31.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7559986947671673095",
+      "discordThreadId": "1448889373126033600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-software-developer-intern-multiple-teams-waukegan-2025-12-12-1",
+      "jobId": "uline-software-developer-intern-multiple-teams-waukegan",
+      "company": "Uline",
+      "title": "Software Developer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T04:09:08.977Z",
+      "sourceDate": "2025-10-17T08:02:01.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R258416",
+      "discordThreadId": "1448889380466065517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-ecommerce-analyst-internship-summer-2026-waukegan-2025-12-12-1",
+      "jobId": "uline-ecommerce-analyst-internship-summer-2026-waukegan",
+      "company": "Uline",
+      "title": "Ecommerce Analyst Internship - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:09:14.002Z",
+      "sourceDate": "2025-10-17T08:00:55.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/eCommerce-Analyst-Internship---Summer-2026_R258439",
+      "discordThreadId": "1448889400925753515",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 55,
+    "totalJobs": 61,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T04:04:49.699Z",
+      "date": "2025-12-12T04:09:14.002Z",
       "archived": 0
     }
   }
