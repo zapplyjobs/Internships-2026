@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T10:57:50.922Z",
+  "lastUpdated": "2025-12-12T11:11:09.522Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1530,14 +1530,36 @@
       "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210885",
       "discordThreadId": "1448992232119078996",
       "instanceNumber": 1
+    },
+    {
+      "id": "sagesure-catastrophe-risk-r-d-intern-catastrophe-risk-r-d-chicago-2025-12-12-1",
+      "jobId": "sagesure-catastrophe-risk-r-d-intern-catastrophe-risk-r-d-chicago",
+      "company": "SageSure",
+      "title": "Catastrophe Risk R&D Intern - Catastrophe Risk R&D",
+      "postedToDiscord": "2025-12-12T11:11:04.688Z",
+      "sourceDate": "2025-10-10T23:22:02.000Z",
+      "sourceUrl": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4608119006",
+      "discordThreadId": "1448995562266431499",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ingredion-supply-chain-data-science-intern-data-science-and-analytics-brookfield-2025-12-12-1",
+      "jobId": "ingredion-supply-chain-data-science-intern-data-science-and-analytics-brookfield",
+      "company": "Ingredion",
+      "title": "Supply Chain Data Science Intern - Data Science and Analytics",
+      "postedToDiscord": "2025-12-12T11:11:09.522Z",
+      "sourceDate": "2025-10-10T22:28:48.000Z",
+      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Global-Supply-Chain-Data-Science-Intern_Req-36624",
+      "discordThreadId": "1448995582365663355",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 139,
+    "totalJobs": 141,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T10:57:50.922Z",
+      "date": "2025-12-12T11:11:09.522Z",
       "archived": 0
     }
   }
