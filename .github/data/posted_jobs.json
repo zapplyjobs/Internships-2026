@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:14:46.712Z",
+  "lastUpdated": "2025-12-12T06:35:33.567Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1068,14 +1068,58 @@
       "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2026_R-27864-1",
       "discordThreadId": "1448920996110274674",
       "instanceNumber": 1
+    },
+    {
+      "id": "genesis-therapeutics-ml-research-intern-bs-ms-2026-burlingame-2025-12-12-1",
+      "jobId": "genesis-therapeutics-ml-research-intern-bs-ms-2026-burlingame",
+      "company": "Genesis Therapeutics",
+      "title": "ML Research Intern - BS/MS - 2026",
+      "postedToDiscord": "2025-12-12T06:35:21.898Z",
+      "sourceDate": "2025-10-14T18:48:03.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/genesis-therapeutics/e2f3cc15-0006-4ab1-b38a-c941d4cc5ce9/application",
+      "discordThreadId": "1448926169423675537",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genesis-therapeutics-ml-research-intern-phd-2026-burlingame-2025-12-12-1",
+      "jobId": "genesis-therapeutics-ml-research-intern-phd-2026-burlingame",
+      "company": "Genesis Therapeutics",
+      "title": "ML Research Intern - PhD - 2026",
+      "postedToDiscord": "2025-12-12T06:35:25.367Z",
+      "sourceDate": "2025-10-14T18:47:07.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/genesis-therapeutics/1a81539f-a57a-47a4-baee-0b3b8979d8c3/application",
+      "discordThreadId": "1448926184091160699",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bose-engineering-intern-for-cloud-identity-framingham-2025-12-12-1",
+      "jobId": "bose-engineering-intern-for-cloud-identity-framingham",
+      "company": "Bose",
+      "title": "Engineering Intern for Cloud Identity",
+      "postedToDiscord": "2025-12-12T06:35:31.864Z",
+      "sourceDate": "2025-10-14T18:46:56.000Z",
+      "sourceUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Engineering-Intern-for-Cloud-Identity_R28345",
+      "discordThreadId": "1448926211140091965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "appian-software-quality-engineer-intern-mclean-2025-12-12-1",
+      "jobId": "appian-software-quality-engineer-intern-mclean",
+      "company": "Appian",
+      "title": "Software Quality Engineer Intern",
+      "postedToDiscord": "2025-12-12T06:35:33.567Z",
+      "sourceDate": "2025-10-14T14:58:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7201615",
+      "discordThreadId": "1448926225723691019",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 97,
+    "totalJobs": 101,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T06:14:46.712Z",
+      "date": "2025-12-12T06:35:33.567Z",
       "archived": 0
     }
   }
