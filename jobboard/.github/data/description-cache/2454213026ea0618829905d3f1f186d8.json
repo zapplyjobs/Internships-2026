@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/merge/jobs/4335732004",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Merge is the leading provider of agentic tools and customer-facing integrations for frontier LLMs, Fortune 500 organizations, and B2B SaaS companies. Our platform offers two core products: Merge Unified, which enables businesses to add hundreds of integrations to their products with a single API, and Merge Agent Handler, which empowers AI agents with secure access to thousands of third-party tools. Merge's enterprise-grade platform handles the entire integration lifecycle, from authentication and security to monitoring and maintenance. Thousands of companies trust Merge to accelerate product development, unblock sales, reduce customer churn, and save engineering resources—allowing them to focus on their core product. Who are we looking for? Merge is looking for an Applied AI Intern to help prototype, evaluate, and productionize AI capabilities that power our next-generation Agent Handler. You are excited to turn cutting-edge research into resilient, real-world systems. You enjoy rapid experimentation, care about data quality and evaluation rigor, and thrive in an in-person, highly collaborative environment in San Francisco. You’ll partner with engineers and PMs to build agents and tooling that can safely act across third-party systems, with an emphasis on reliability, observability, and developer-first ergonomics. What will you be doing? Build and iterate on agentic workflows and tools for real product use cases, from prompt design to tool-calling and evaluation Implement and benchmark model- and retrieval-based approaches for classification, extraction, and decision-making Design offline and online evaluations, including golden sets, regression tests, and success metrics tied to product outcomes Prototype developer-facing utilities and internal services that improve agent reliability, latency, and cost control Collaborate with product and engineering on scoping, experiment design, and production rollouts Contribute to documentation and internal playbooks for repeatable AI development What experience is required? Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field Solid programming skills in Python and familiarity with one typed language commonly used in backend systems Experience with at least one of: LLM tool-calling, RAG, fine-tuning, or structured evaluation of model outputs Comfort with data wrangling, writing small services or scripts, and using APIs Clear, concise written and verbal communication, with an eye for detail and reproducibility Nice to Have: Prior work with evaluation harnesses, dataset curation, or synthetic data generation Familiarity with modern vector databases, embeddings, and retrieval strategies Exposure to production systems concerns such as observability, rate limiting, and retries Experience integrating with third-party APIs and handling messy real-world data Compensation The cash compensation range for this role is $60/HR. Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years & depth of experience, certifications. Merge is an equal opportunity employer, and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other protected class.",
+    "requirements": [
+      "Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Electrical Engineering, or related field",
+      "Experience with at least one of: LLM tool-calling, RAG, fine-tuning, or structured evaluation of model outputs",
+      "Experience integrating with third-party APIs and handling messy real-world data",
+      "Actual compensation packages are based on a wide array of factors unique to each candidate, including but not limited to skill set, years & depth of experience, certifications."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/merge/jobs/4335732004",
+      "fetchedAt": "2025-12-12T03:42:27.036Z"
+    }
+  },
+  "cachedAt": 1765510947036
+}

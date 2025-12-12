@@ -1,0 +1,23 @@
+{
+  "url": "https://jobs.lever.co/tokenmetrics/62b16e29-602d-4f52-ba4b-89c02b6dee41",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Crypto Data Scientist / Machine Learning - LLM Engineer InternHouston, TXData Science Team /Internship /RemoteApply for this jobToken Metrics is searching for a highly capable machine learning engineer to optimize our machine learning systems. You will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems, and enhancing the accuracy of our AI software's predictive automation capabilities.As a machine learning engineer, you should demonstrate solid data science knowledge and experience.A first-class machine learning engineer will be someone whose expertise translates into the enhanced performance of predictive models.It is unpaid internship.ResponsibilitiesConsulting with the manager to determine and refine machine learning objectives.Designing machine learning systems and self-running artificial intelligence (AI) to automate predictive models.Transforming data science prototypes and applying appropriate ML algorithms and tools.Ensuring that algorithms generate accurate user recommendations.Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.Developing ML algorithms to analyze huge volumes of historical data to make predictions.Stress testing, performing statistical analysis, and interpreting test results for all market conditions.Documenting machine learning processes.Keeping abreast of developments in machine learning.RequirementsBachelor's degree in computer science, data science, mathematics, or a related field.Master’s degree in computational linguistics, data science, data analytics, or similar will be advantageous.At least two years' experience as a machine learning engineer.Advanced proficiency with Python, Java, and R code.Extensive knowledge of ML frameworks, libraries, data structures, data modeling, and software architecture.LLM fine-tuning experience and working with LLM ObservabilityIn-depth knowledge of mathematics, statistics, and algorithms.Superb analytical and problem-solving abilities.Great communication and collaboration skills.Excellent time management and organizational abilities.Experience with crypto or web3 projectsAbout Token MetricsToken Metrics helps crypto investors build profitable portfolios using artificial intelligence based crypto indices, rankings, and price predictions. Token Metrics has a diverse set of customers, from retail investors and traders to crypto fund managers, in more than 50 countries.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "requirements": [
+      "Bachelor's degree in computer science, data science, mathematics, or a related field.",
+      "Master’s degree in computational linguistics, data science, data analytics, or similar will be advantageous.",
+      "At least two years' experience as a machine learning engineer."
+    ],
+    "responsibilities": [
+      "Developing ML algorithms to analyze huge volumes of historical data to make predictions.",
+      "Keeping abreast of developments in machine learning."
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/tokenmetrics/62b16e29-602d-4f52-ba4b-89c02b6dee41",
+      "fetchedAt": "2025-12-12T03:47:57.342Z"
+    }
+  },
+  "cachedAt": 1765511277343
+}
