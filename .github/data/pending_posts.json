@@ -161,46 +161,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern - Full-Stack - Java",
-      "employer_name": "Intercontinental Exchange",
-      "job_city": "Jacksonville",
-      "job_state": "FL",
-      "job_description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>&nbsp;</p> <p>The Full-Stack (Java) Engineering Intern will contribute to a long-term modernization effort aimed at replacing legacy systems while maintaining core functionality and minimizing user impact.</p> <p>&nbsp;</p> <p><strong>Responsibilities</strong></p> <ul> <li>Assist in designing, coding, and testing framework capabilities for home lending operations</li> <li>Support performance tuning of transaction orchestration and I/O processes</li> <li>Use cloud-native technologies to build scalable solutions</li> <li>Apply caching strategies to improve system performance</li> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a degree program at an accredited university and be at least advancing to their senior year of study, or has obtained a bachelor's degree</li> <li>Demonstrates strong problem-solving and communication skills</li> <li>Experience with Java full stack development using Spring framework</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Jacksonville office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-SH2 </p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
-      "job_apply_link": "https://careers-ice.icims.com/jobs/11614/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-10T18:33:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "intercontinental-exchange-software-engineering-intern-full-stack-java-jacksonville",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T11:38:42.076Z",
-    "postedAt": "2025-12-12T11:38:54.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern – Customer Care",
-      "employer_name": "Altice USA",
-      "job_city": "Plainview",
-      "job_state": "NY",
-      "job_description": "Lightpath is one of the largest competitive local exchange carriers in the tri-state area. We own and operate our infrastructure \"from the ground up\" by deploying over 20,000 route miles connecting 13,500 on-net/LIT buildings. With a strong portfolio of cutting edge solutions for Internet, WAN, Voice, SD-WAN, Security & Cloud services, we enable Enterprise customers of all sizes the ability to react to new challenges while developing best practices for the future. With Lightpath’s continued focus on network excellence and a “customer first” service commitment, we are building a workforce of the best talent that will meet the needs of our customers and reflect the diverse communities we serve. We’re looking for interns who are eager to learn, contribute, and grow in a collaborative environment. As an intern, you’ll have the opportunity to: Work closely with team members on meaningful projects that drive results. Collaborate across departments, gaining exposure to different areas of the business. Explore and apply AI tools and technologies as part of project work and problem-solving. Be an active part of a supportive, team-oriented culture. Contribute fresh ideas and take ownership of tasks that make an impact. Job Description: We are seeking a motivated and tech-savvy Customer Care Intern to join our Customer Care team. This role is ideal for a student or recent graduate who is passionate about artificial intelligence, machine learning, and customer experience. You will work closely with the Customer Care leadership team to explore, prototype, and implement AI-driven solutions that enhance service delivery, automate processes, and improve customer experience. Duties and Responsibilities: Collaborate with the Customer Care team to identify opportunities for AI integration in customer support workflows. Develop and test AI models or tools (e.g., chatbots, sentiment analysis, predictive analytics) to improve customer interactions. Assist in the deployment and monitoring of AI solutions in real-world customer service environments. Analyze customer data to uncover trends, pain points, and automation opportunities. Document findings, prototypes, and recommendations for future AI initiatives. Stay current with AI trends, tools, and best practices relevant to customer service. Qualifications: Eligible candidates should be entering their senior year of an undergraduate program or be recent graduates of an undergraduate or master’s program. Candidate must be local to one of our office locations. Bethpage NY, NYC, Golden CO, Wakefield MA, White Plains NY. Currently pursuing or recently completed a degree in Computer Science, Data Science, AI/ML, or a related field. Familiarity with Python, machine learning frameworks (e.g., TensorFlow, PyTorch), and natural language processing (NLP). Experience with Salesforce and data analysis tools (e.g., pandas, SQL, Power BI) is a plus. Strong problem-solving skills and a passion for innovation. Excellent communication and collaboration abilities. Lightpath is an Equal Opportunity Employer committed to recruiting, hiring and promoting qualified people of all backgrounds regardless of gender, race, color, creed, national origin, religion, age, marital status, pregnancy, physical or mental disability, sexual orientation, gender identity, military or veteran status, or any other basis protected by federal, state, or local law. Lightpath collects personal information about its applicants for employment that may include personal identifiers, professional or employment related information, photos, education information and/or protected classifications under federal and state law. This information is collected for employment purposes, including identification, work authorization, FCRA-compliant background screening, human resource administration and compliance with federal, state and local law. This position is identified as being performed in/or reporting to company operations in New York State. The pay range at the time of posting in the specified locations is $18.00- $20.00/hour. Pay ranges are supplied in compliance with New York State law. Pay is competitive and based on a number of job-related factors, including skills and experience.",
-      "job_apply_link": "https://www.alticeusacareers.com/job/Bethpage-Intern-Customer-Care-NY-11714/1333655100/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-10-10T17:12:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "altice-usa-intern-customer-care-plainview",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-12T11:38:42.076Z",
-    "postedAt": "2025-12-12T11:38:54.197Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Data Management",
       "employer_name": "CIBC",
       "job_city": "Chicago",
@@ -210,12 +170,14 @@
       "job_posted_at_datetime_utc": "2025-10-10T16:52:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cibc-intern-data-management-chicago"
+      "id": "cibc-intern-data-management-chicago",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T11:49:42.985Z",
+    "postedAt": "2025-12-12T11:49:52.065Z"
   },
   {
     "job": {
@@ -228,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-10T02:19:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "epic-games-tools-programmer-intern-morrisville"
+      "id": "epic-games-tools-programmer-intern-morrisville",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-12T11:49:42.985Z",
+    "postedAt": "2025-12-12T11:49:52.065Z"
   },
   {
     "job": {
