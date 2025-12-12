@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:00:07.254Z",
+  "lastUpdated": "2025-12-12T05:13:59.017Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -848,14 +848,58 @@
       "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville/Co-op-Data-Engineer-Reedsville--PA-January-June-2025_565943",
       "discordThreadId": "1448902207461265570",
       "instanceNumber": 1
+    },
+    {
+      "id": "cook-group-intern-statistics-data-science-bloomington-2025-12-12-1",
+      "jobId": "cook-group-intern-statistics-data-science-bloomington",
+      "company": "Cook Group",
+      "title": "Intern, Statistics & Data Science",
+      "postedToDiscord": "2025-12-12T05:13:45.849Z",
+      "sourceDate": "2025-10-15T22:53:58.000Z",
+      "sourceUrl": "https://americas-cookmedical.icims.com/jobs/17485/intern%2c-statistics-%26-data-science/job",
+      "discordThreadId": "1448905641409253427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-quality-digitalization-internship-summer-2026-schenectady-2025-12-12-1",
+      "jobId": "ge-vernova-ge-vernova-quality-digitalization-internship-summer-2026-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova Quality Digitalization Internship - Summer 2026",
+      "postedToDiscord": "2025-12-12T05:13:50.800Z",
+      "sourceDate": "2025-10-15T22:44:58.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Quality-Digitalization-Internship---Summer-2026_R5022400-1",
+      "discordThreadId": "1448905661432725594",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ptc-software-development-intern-boston-2025-12-12-1",
+      "jobId": "ptc-software-development-intern-boston",
+      "company": "PTC",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-12T05:13:57.351Z",
+      "sourceDate": "2025-10-15T18:15:19.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Development-Intern_JR110929",
+      "discordThreadId": "1448905682274357439",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kion-software-engineer-intern-software-execution-grand-rapids-2025-12-12-1",
+      "jobId": "kion-software-engineer-intern-software-execution-grand-rapids",
+      "company": "KION",
+      "title": "Software Engineer Intern - Software Execution",
+      "postedToDiscord": "2025-12-12T05:13:59.017Z",
+      "sourceDate": "2025-10-15T17:39:21.000Z",
+      "sourceUrl": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Engineer-Intern---Software-Execution_JR-0079895-1",
+      "discordThreadId": "1448905696564482048",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 77,
+    "totalJobs": 81,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T05:00:07.254Z",
+      "date": "2025-12-12T05:13:59.017Z",
       "archived": 0
     }
   }
