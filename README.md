@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 168</em></p>
+<p><em>Real-time opportunities from 170</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-332-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-168-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-336-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-170-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 168+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 332+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 170+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 336+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 332 internships & new grad roles  
-🏢 **Top Companies:** 168 elite tech companies hiring  
+🔥 **Current Opportunities:** 336 internships & new grad roles  
+🏢 **Top Companies:** 170 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 12, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1741 (older than 1 week)
+📁 **Archived Opportunities:** 1739 (older than 1 week)
 
 
 ---
@@ -122,8 +122,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 7h |
-| Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 7h |
+| Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 8h |
+| Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 8h |
 | Amazon Economics Apprenticeship Program - 2-Year Research Positions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions) | 6d |
 
 <details>
@@ -131,70 +131,70 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 7h |
-| Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 7h |
-| Research Intern - MSR Inclusive Futures Team | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 7h |
-| Research Intern - AI Systems & Architecture | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631742) | 7h |
-| Research Intern - Office of Applied Research | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556636970) | 7h |
-| Research Intern - AI Frameworks - Network Systems and Tools | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 7h |
-| Research Intern - Environmental Policy/Public Policy | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639557) | 7h |
-| Research Intern - Systems For Efficient AI | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621783) | 7h |
-| Research Intern - Hardware/Software Codesign | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621833) | 7h |
-| Research Intern - Foundational Models & Agents | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621543) | 7h |
-| Research Intern - Computer Vision and Deep Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621779) | 7h |
-| Research Intern - Data Systems | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621612) | 7h |
-| Research Intern - AI Hardware | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 7h |
-| Research Intern - AI Frontiers - Reasoning & Agentic Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621824) | 7h |
-| Research Intern - Applied Sciences Group - Audio/Vision/NLP/Multimodal | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621887) | 7h |
-| Research Intern - Algorithms group: Generative Modeling | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626678) | 7h |
-| Research Intern - LLM Acceleration | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556627833) | 7h |
-| Research Intern - AI Frameworks | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628723) | 7h |
-| Research Intern - AI Agents - Microsoft Research AI Frontiers | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556629204) | 7h |
-| Research Intern - Microsoft Research AI Frontiers | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621454) | 7h |
-| Research Intern | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622015) | 7h |
-| Research Intern - Multimodal Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621800) | 7h |
-| Research Intern - Microsoft Research Software-Hardware Co-design | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621730) | 7h |
-| Research Intern - RiSE Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 7h |
-| Research Intern - Audio and Acoustics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621499) | 7h |
-| Research Intern - MSR AI Interaction and Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621727) | 7h |
-| Research Intern - Machine Learning at MSR NYC | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621563) | 7h |
-| Research Intern - Robot Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621524) | 7h |
-| Research Intern - Gray Systems Lab - Gsl | Madison, WI | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621621) | 7h |
-| Research Intern - Networking Research Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622023) | 7h |
-| Research Intern - Cloud Reliability and Efficiency | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621787) | 7h |
-| Research Intern - Artificial Intelligence | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622017) | 7h |
-| Research Intern - AI Inference Architecture | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631736) | 7h |
-| Research Intern - AI Agents & Reasoning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621722) | 7h |
-| Research Intern - Computer Vision Algorithms | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621721) | 7h |
-| Research Intern | Kitsap County, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631728) | 7h |
-| Research Intern - Machine Learning and Statistics | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621837) | 7h |
-| Research Intern - AI Agents | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621776) | 7h |
-| Research Intern - Multimodal Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628867) | 7h |
-| Research Intern - Algorithms Group: Theory | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628860) | 7h |
-| Research Intern - AI SW/HW Co-design | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628845) | 7h |
-| Research Intern - AI Compiler | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628773) | 7h |
-| Research Intern - Advanced Memory Systems | Washington, Locations | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628873) | 7h |
-| Research Intern - Microsoft Coreai Speech | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628916) | 7h |
-| Research Intern - Model Optimization and HW Acceleration | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628875) | 7h |
-| Research Intern - Training Methods for LLM Efficiency | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 7h |
-| Research Intern - Machine Learning and Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628908) | 7h |
-| Research Intern - Microsoft Research Special Projects | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 7h |
-| Research Intern - Neural Rendering & Character AI - Applied Science | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621609) | 7h |
-| Research Intern - Human Intelligence | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631443) | 7h |
-| Research Intern - Technology for Religious Empowerment | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 7h |
-| Research Intern - Deep Learning Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 7h |
-| Research Intern - AI/ML Numerics & Efficiency | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637096) | 7h |
-| Software Engineer: AI/ML Intern Opportunities - MAI for University Students | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631195) | 7h |
-| Applied Sciences Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637430) | 7h |
-| Research Intern - AIP AI Knowledge Multimodal AI | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637119) | 7h |
-| Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637105) | 7h |
-| Research Intern - Multimodal Deep Learning for Healthcare | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637113) | 7h |
-| Research Intern - AI Network Observability | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639544) | 7h |
-| Research Intern - Microsoft Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640715) | 7h |
-| Research Intern - Onedrive and Sharepoint | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640732) | 7h |
-| Research Intern - AI-Driven CPU Optimizations | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640691) | 7h |
-| Research Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640817) | 7h |
-| Research Intern - Multiple Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 7h |
+| Research Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 8h |
+| Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 8h |
+| Research Intern - MSR Inclusive Futures Team | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 8h |
+| Research Intern - AI Systems & Architecture | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631742) | 8h |
+| Research Intern - Office of Applied Research | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556636970) | 8h |
+| Research Intern - AI Frameworks - Network Systems and Tools | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 8h |
+| Research Intern - Environmental Policy/Public Policy | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639557) | 8h |
+| Research Intern - Systems For Efficient AI | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621783) | 8h |
+| Research Intern - Hardware/Software Codesign | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621833) | 8h |
+| Research Intern - Foundational Models & Agents | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621543) | 8h |
+| Research Intern - Computer Vision and Deep Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621779) | 8h |
+| Research Intern - Data Systems | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621612) | 8h |
+| Research Intern - AI Hardware | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621664) | 8h |
+| Research Intern - AI Frontiers - Reasoning & Agentic Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621824) | 8h |
+| Research Intern - Applied Sciences Group - Audio/Vision/NLP/Multimodal | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621887) | 8h |
+| Research Intern - Algorithms group: Generative Modeling | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626678) | 8h |
+| Research Intern - LLM Acceleration | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556627833) | 8h |
+| Research Intern - AI Frameworks | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628723) | 8h |
+| Research Intern - AI Agents - Microsoft Research AI Frontiers | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556629204) | 8h |
+| Research Intern - Microsoft Research AI Frontiers | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621454) | 8h |
+| Research Intern | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622015) | 8h |
+| Research Intern - Multimodal Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621800) | 8h |
+| Research Intern - Microsoft Research Software-Hardware Co-design | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621730) | 8h |
+| Research Intern - RiSE Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621565) | 8h |
+| Research Intern - Audio and Acoustics | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621499) | 8h |
+| Research Intern - MSR AI Interaction and Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621727) | 8h |
+| Research Intern - Machine Learning at MSR NYC | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621563) | 8h |
+| Research Intern - Robot Learning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621524) | 8h |
+| Research Intern - Gray Systems Lab - Gsl | Madison, WI | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621621) | 8h |
+| Research Intern - Networking Research Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622023) | 8h |
+| Research Intern - Cloud Reliability and Efficiency | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621787) | 8h |
+| Research Intern - Artificial Intelligence | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622017) | 8h |
+| Research Intern - AI Inference Architecture | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631736) | 8h |
+| Research Intern - AI Agents & Reasoning | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621722) | 8h |
+| Research Intern - Computer Vision Algorithms | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621721) | 8h |
+| Research Intern | Kitsap County, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631728) | 8h |
+| Research Intern - Machine Learning and Statistics | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621837) | 8h |
+| Research Intern - AI Agents | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621776) | 8h |
+| Research Intern - Multimodal Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628867) | 8h |
+| Research Intern - Algorithms Group: Theory | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628860) | 8h |
+| Research Intern - AI SW/HW Co-design | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628845) | 8h |
+| Research Intern - AI Compiler | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628773) | 8h |
+| Research Intern - Advanced Memory Systems | Washington, Locations | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628873) | 8h |
+| Research Intern - Microsoft Coreai Speech | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628916) | 8h |
+| Research Intern - Model Optimization and HW Acceleration | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628875) | 8h |
+| Research Intern - Training Methods for LLM Efficiency | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 8h |
+| Research Intern - Machine Learning and Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628908) | 8h |
+| Research Intern - Microsoft Research Special Projects | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 8h |
+| Research Intern - Neural Rendering & Character AI - Applied Science | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621609) | 8h |
+| Research Intern - Human Intelligence | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631443) | 8h |
+| Research Intern - Technology for Religious Empowerment | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 8h |
+| Research Intern - Deep Learning Group | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 8h |
+| Research Intern - AI/ML Numerics & Efficiency | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637096) | 8h |
+| Software Engineer: AI/ML Intern Opportunities - MAI for University Students | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631195) | 8h |
+| Applied Sciences Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637430) | 8h |
+| Research Intern - AIP AI Knowledge Multimodal AI | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637119) | 8h |
+| Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing | Cambridge, MA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637105) | 8h |
+| Research Intern - Multimodal Deep Learning for Healthcare | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637113) | 8h |
+| Research Intern - AI Network Observability | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639544) | 8h |
+| Research Intern - Microsoft Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640715) | 8h |
+| Research Intern - Onedrive and Sharepoint | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640732) | 8h |
+| Research Intern - AI-Driven CPU Optimizations | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640691) | 8h |
+| Research Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640817) | 8h |
+| Research Intern - Multiple Teams | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 8h |
 
 </details>
 
@@ -202,8 +202,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Scientist Intern, LLM Evaluation | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.metacareers.com/profile/job_details/4203446973242742) | 7h |
-| Research Scientist Intern, Computational Chemist | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.metacareers.com/profile/job_details/2059739221232640) | 7h |
+| Research Scientist Intern, LLM Evaluation | New York, NY | [<img src="./image.png" width="100" alt="Apply">](https://www.metacareers.com/profile/job_details/4203446973242742) | 8h |
+| Research Scientist Intern, Computational Chemist | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.metacareers.com/profile/job_details/2059739221232640) | 8h |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -211,8 +211,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Performance Engineering Intern - Deep Learning and HPC - Winter 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287) | 7h |
-| AI Compiler Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 7h |
+| Performance Engineering Intern - Deep Learning and HPC - Winter 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287) | 8h |
+| AI Compiler Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 8h |
 
 ### 💻 **Enterprise Software** (5 positions)
 
@@ -220,15 +220,15 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer Full Stack/Application 2 - Co-op | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2004337) | 7h |
-| Software Engineer Full Stack & Application Development 1 – Intern - United States | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000450) | 7h |
-| Software Engineer Data/AI/Intelligent Systems 1 - Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001254) | 7h |
+| Software Engineer Full Stack/Application 2 - Co-op | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2004337) | 8h |
+| Software Engineer Full Stack & Application Development 1 – Intern - United States | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000450) | 8h |
+| Software Engineer Data/AI/Intelligent Systems 1 - Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001254) | 8h |
 
 #### 🖥️ **Hewlett Packard Enterprise** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineering Intern | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056) | 7h |
+| Software Engineering Intern | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056) | 8h |
 | AI Customer Engagement Analyst Intern | Andover, MA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 6d |
 
 ### 🏭 **Manufacturing & Industrial** (2 positions)
@@ -237,7 +237,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern GEL Software - GEL | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---GEL-Software_JR87167) | 7h |
+| Intern GEL Software - GEL | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---GEL-Software_JR87167) | 8h |
 
 #### ⚡ **ABB** (1 position)
 
@@ -269,16 +269,16 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 296 | 89% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 30 | 9% | 0-1 years of experience |
-| 🔴 Early Career         | 6 | 2% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 298 | 89% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 31 | 9% | 0-1 years of experience |
+| 🔴 Early Career         | 7 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Redmond, WA**: 50 opportunities
-- **Remote in USA, Locations**: 16 opportunities
 - **Sunnyvale, CA**: 15 opportunities
+- **Remote in USA, Locations**: 15 opportunities
 - **Chicago, IL**: 11 opportunities
 - **Cambridge, MA**: 10 opportunities
 - **Seattle, WA**: 8 opportunities
@@ -289,7 +289,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 332+ verified internships and new grad roles from 168 top companies.
+✅ **100% Real Opportunities:** 336+ verified internships and new grad roles from 170 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -341,13 +341,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1741 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1739 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1741 roles
-- **🏢 Companies**: 168 companies  
+- **📁 Total Positions**: 1739 roles
+- **🏢 Companies**: 170 companies  
 - **⭐ FAANG+ Opportunities**: 11 positions
 
 ### ⭐ **FAANG+** (11 positions)
@@ -601,7 +601,7 @@ No companies available
 
 <div align="center">
 
-**🎯 332 current opportunities from 168 top companies.**
+**🎯 336 current opportunities from 170 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

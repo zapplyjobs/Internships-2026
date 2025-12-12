@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T11:38:51.186Z",
+  "lastUpdated": "2025-12-12T11:49:49.056Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1596,14 +1596,36 @@
       "sourceUrl": "https://www.alticeusacareers.com/job/Bethpage-Intern-Customer-Care-NY-11714/1333655100/?ats=successfactors",
       "discordThreadId": "1449002552052940832",
       "instanceNumber": 1
+    },
+    {
+      "id": "cibc-intern-data-management-chicago-2025-12-12-1",
+      "jobId": "cibc-intern-data-management-chicago",
+      "company": "CIBC",
+      "title": "Intern - Data Management",
+      "postedToDiscord": "2025-12-12T11:49:47.398Z",
+      "sourceDate": "2025-10-10T16:52:17.000Z",
+      "sourceUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Data-Management_2523670-1",
+      "discordThreadId": "1449005304241983581",
+      "instanceNumber": 1
+    },
+    {
+      "id": "epic-games-tools-programmer-intern-morrisville-2025-12-12-1",
+      "jobId": "epic-games-tools-programmer-intern-morrisville",
+      "company": "Epic Games",
+      "title": "Tools Programmer Intern",
+      "postedToDiscord": "2025-12-12T11:49:49.056Z",
+      "sourceDate": "2025-10-10T02:19:46.000Z",
+      "sourceUrl": "https://epicgames.com/careers/jobs/5675688004?gh_jid=5675688004",
+      "discordThreadId": "1449005311502585898",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 145,
+    "totalJobs": 147,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T11:38:51.186Z",
+      "date": "2025-12-12T11:49:49.056Z",
       "archived": 0
     }
   }
