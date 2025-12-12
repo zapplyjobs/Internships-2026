@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:26:44.923Z",
+  "lastUpdated": "2025-12-12T04:46:34.033Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -738,14 +738,80 @@
       "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Agentic-AI---Co-Op_R369728",
       "discordThreadId": "1448893809462349938",
       "instanceNumber": 1
+    },
+    {
+      "id": "procter-gamble-p-g-r-d-phd-summer-intern-ai-research-engineer-mason-2025-12-12-1",
+      "jobId": "procter-gamble-p-g-r-d-phd-summer-intern-ai-research-engineer-mason",
+      "company": "Procter & Gamble (P&G)",
+      "title": "R&D PhD Summer Intern - AI Research Engineer",
+      "postedToDiscord": "2025-12-12T04:46:20.867Z",
+      "sourceDate": "2025-10-16T10:33:35.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000139750",
+      "discordThreadId": "1448898741661859850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-sustainability-ai-solutions-intern-summer-2026-cambridge-2025-12-12-1",
+      "jobId": "ge-vernova-ge-vernova-sustainability-ai-solutions-intern-summer-2026-cambridge",
+      "company": "GE Vernova",
+      "title": "GE Vernova Sustainability AI Solutions Intern - Summer 2026",
+      "postedToDiscord": "2025-12-12T04:46:24.204Z",
+      "sourceDate": "2025-10-16T10:28:41.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cambridge/GE-Vernova-Sustainability-AI-Solutions-Intern---Summer-2026_R5020619-1",
+      "discordThreadId": "1448898748418625599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zus-health-data-platform-software-engineering-co-op-philadelphia-2025-12-12-1",
+      "jobId": "zus-health-data-platform-software-engineering-co-op-philadelphia",
+      "company": "Zus Health",
+      "title": "Data Platform Software Engineering Co-Op",
+      "postedToDiscord": "2025-12-12T04:46:28.964Z",
+      "sourceDate": "2025-10-16T06:52:06.000Z",
+      "sourceUrl": "https://jobs.lever.co/zushealth/8b4788c9-dce7-41a0-b9dc-c44a63fc0c14/apply",
+      "discordThreadId": "1448898775757230130",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zus-health-data-platform-software-engineering-co-op-boston-2025-12-12-1",
+      "jobId": "zus-health-data-platform-software-engineering-co-op-boston",
+      "company": "Zus Health",
+      "title": "Data Platform Software Engineering Co-Op",
+      "postedToDiscord": "2025-12-12T04:46:28.966Z",
+      "sourceDate": "2025-10-16T06:49:17.000Z",
+      "sourceUrl": "https://jobs.lever.co/zushealth/54557977-eaa9-4ae9-aadd-9a1ac9551575/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "zus-health-fullstack-software-engineering-co-op-boston-2025-12-12-1",
+      "jobId": "zus-health-fullstack-software-engineering-co-op-boston",
+      "company": "Zus Health",
+      "title": "Fullstack Software Engineering Co-Op",
+      "postedToDiscord": "2025-12-12T04:46:34.030Z",
+      "sourceDate": "2025-10-16T06:50:29.000Z",
+      "sourceUrl": "https://jobs.lever.co/zushealth/de5e65c1-c88a-4adc-8041-c971a3c2c44a/apply",
+      "discordThreadId": "1448898783369756704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zus-health-fullstack-software-engineering-co-op-new-york-2025-12-12-1",
+      "jobId": "zus-health-fullstack-software-engineering-co-op-new-york",
+      "company": "Zus Health",
+      "title": "Fullstack Software Engineering Co-Op",
+      "postedToDiscord": "2025-12-12T04:46:34.033Z",
+      "sourceDate": "2025-10-16T06:49:48.000Z",
+      "sourceUrl": "https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 67,
+    "totalJobs": 73,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T04:26:44.923Z",
+      "date": "2025-12-12T04:46:34.033Z",
       "archived": 0
     }
   }
