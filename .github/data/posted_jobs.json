@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T08:52:17.295Z",
+  "lastUpdated": "2025-12-12T09:11:37.724Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1354,14 +1354,36 @@
       "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1059",
       "discordThreadId": "1448960634409582738",
       "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-software-development-intern-multiple-teams-fort-worth-2025-12-12-1",
+      "jobId": "gm-financial-software-development-intern-multiple-teams-fort-worth",
+      "company": "GM financial",
+      "title": "Software Development Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T09:11:33.031Z",
+      "sourceDate": "2025-10-13T20:08:07.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1088",
+      "discordThreadId": "1448965482077098094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nuro-machine-learning-intern-behavior-planning-mountain-view-2025-12-12-1",
+      "jobId": "nuro-machine-learning-intern-behavior-planning-mountain-view",
+      "company": "Nuro",
+      "title": "Machine Learning Intern - Behavior Planning",
+      "postedToDiscord": "2025-12-12T09:11:37.724Z",
+      "sourceDate": "2025-10-13T19:18:00.000Z",
+      "sourceUrl": "https://nuro.ai/careersitem?gh_jid=7309261",
+      "discordThreadId": "1448965501954035834",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 123,
+    "totalJobs": 125,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T08:52:17.295Z",
+      "date": "2025-12-12T09:11:37.724Z",
       "archived": 0
     }
   }
