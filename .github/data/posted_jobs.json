@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T05:33:32.930Z",
+  "lastUpdated": "2025-12-12T05:49:33.997Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -936,14 +936,58 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000087985128-software-engineer-intern-summer-2026-bellevue",
       "discordThreadId": "1448910620144439399",
       "instanceNumber": 1
+    },
+    {
+      "id": "bloom-energy-it-software-developer-intern-san-jose-2025-12-12-1",
+      "jobId": "bloom-energy-it-software-developer-intern-san-jose",
+      "company": "Bloom Energy",
+      "title": "IT Software Developer Intern",
+      "postedToDiscord": "2025-12-12T05:49:20.686Z",
+      "sourceDate": "2025-10-15T02:35:44.000Z",
+      "sourceUrl": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20773",
+      "discordThreadId": "1448914595514417182",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-research-interns-2-remote-in-usa-2025-12-12-1",
+      "jobId": "centific-research-interns-2-remote-in-usa",
+      "company": "Centific",
+      "title": "Research Interns-2",
+      "postedToDiscord": "2025-12-12T05:49:25.548Z",
+      "sourceDate": "2025-10-15T02:23:51.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Research-Interns-2_JR105487",
+      "discordThreadId": "1448914615424520336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-intern-ml-nlp-research-spring-summer-fall-mountain-view-2025-12-12-1",
+      "jobId": "samsung-research-america-2026-intern-ml-nlp-research-spring-summer-fall-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - ML/NLP Research - Spring/Summer/Fall",
+      "postedToDiscord": "2025-12-12T05:49:27.293Z",
+      "sourceDate": "2025-10-15T02:23:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8202566002",
+      "discordThreadId": "1448914623024857148",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roblox-summer-2026-applied-scientist-intern-san-mateo-2025-12-12-1",
+      "jobId": "roblox-summer-2026-applied-scientist-intern-san-mateo",
+      "company": "Roblox",
+      "title": "Summer 2026] Applied Scientist – Intern",
+      "postedToDiscord": "2025-12-12T05:49:33.997Z",
+      "sourceDate": "2025-10-15T01:41:58.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
+      "discordThreadId": "1448914642964316190",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 85,
+    "totalJobs": 89,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T05:33:32.930Z",
+      "date": "2025-12-12T05:49:33.997Z",
       "archived": 0
     }
   }
