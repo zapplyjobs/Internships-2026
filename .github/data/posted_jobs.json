@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T11:57:38.244Z",
+  "lastUpdated": "2025-12-12T12:16:26.358Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1640,14 +1640,36 @@
       "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1056",
       "discordThreadId": "1449007279285342209",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsung-intern-architecture-research-engineer-san-jose-2025-12-12-1",
+      "jobId": "samsung-intern-architecture-research-engineer-san-jose",
+      "company": "Samsung",
+      "title": "Intern – Architecture Research Engineer",
+      "postedToDiscord": "2025-12-12T12:16:21.640Z",
+      "sourceDate": "2025-10-09T20:09:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/7492430003",
+      "discordThreadId": "1449011991179165789",
+      "instanceNumber": 1
+    },
+    {
+      "id": "seagate-technology-wafer-metrology-intern-multiple-teams-bloomington-2025-12-12-1",
+      "jobId": "seagate-technology-wafer-metrology-intern-multiple-teams-bloomington",
+      "company": "Seagate Technology ",
+      "title": "Wafer Metrology Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T12:16:26.358Z",
+      "sourceDate": "2025-10-09T18:59:02.000Z",
+      "sourceUrl": "https://seagatecareers.com/job/Bloomington-Wafer-Metrology-Internship-Summer-2026-MN/1333345600/?ats=successfactors",
+      "discordThreadId": "1449012010871292079",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 149,
+    "totalJobs": 151,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T11:57:38.244Z",
+      "date": "2025-12-12T12:16:26.358Z",
       "archived": 0
     }
   }
