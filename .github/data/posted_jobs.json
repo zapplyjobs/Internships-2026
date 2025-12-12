@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T06:35:33.567Z",
+  "lastUpdated": "2025-12-12T06:55:02.017Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1112,14 +1112,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7201615",
       "discordThreadId": "1448926225723691019",
       "instanceNumber": 1
+    },
+    {
+      "id": "red-hat-ai-intern-boston-2025-12-12-1",
+      "jobId": "red-hat-ai-intern-boston",
+      "company": "Red Hat",
+      "title": "AI Intern",
+      "postedToDiscord": "2025-12-12T06:54:52.320Z",
+      "sourceDate": "2025-10-14T14:52:40.000Z",
+      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/AI-Intern_R-051339",
+      "discordThreadId": "1448931078520700960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-data-science-phd-internship-opportunities-redmond-redmond-2025-12-12-1",
+      "jobId": "microsoft-data-science-phd-internship-opportunities-redmond-redmond",
+      "company": "Microsoft",
+      "title": "Data Science: PhD Internship Opportunities - Redmond",
+      "postedToDiscord": "2025-12-12T06:54:57.166Z",
+      "sourceDate": "2025-10-14T12:07:19.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1857576",
+      "discordThreadId": "1448931105464913981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "doordash-machine-learning-intern-multiple-teams-seattle-2025-12-12-1",
+      "jobId": "doordash-machine-learning-intern-multiple-teams-seattle",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T06:55:02.015Z",
+      "sourceDate": "2025-10-14T03:12:22.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7295800",
+      "discordThreadId": "1448931125920792669",
+      "instanceNumber": 1
+    },
+    {
+      "id": "doordash-machine-learning-intern-phd-seattle-2025-12-12-1",
+      "jobId": "doordash-machine-learning-intern-phd-seattle",
+      "company": "DoorDash",
+      "title": "Machine Learning Intern - PhD",
+      "postedToDiscord": "2025-12-12T06:55:02.017Z",
+      "sourceDate": "2025-10-14T03:12:22.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7264631",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 101,
+    "totalJobs": 105,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T06:35:33.567Z",
+      "date": "2025-12-12T06:55:02.017Z",
       "archived": 0
     }
   }
