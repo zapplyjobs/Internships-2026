@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T04:46:34.033Z",
+  "lastUpdated": "2025-12-12T05:00:07.254Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -804,14 +804,58 @@
       "sourceUrl": "https://jobs.lever.co/zushealth/2802e098-979f-48a3-959f-e7beba838df5/apply",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "airspace-intelligence-software-engineer-co-op-defense-boston-2025-12-12-1",
+      "jobId": "airspace-intelligence-software-engineer-co-op-defense-boston",
+      "company": "Airspace Intelligence",
+      "title": "Software Engineer Co-Op – Defense",
+      "postedToDiscord": "2025-12-12T04:59:55.367Z",
+      "sourceDate": "2025-10-16T06:46:26.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/airspace-intelligence.com/c2ef5338-def2-4370-8ab0-0775466d8bf8",
+      "discordThreadId": "1448902149915410453",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zipline-spatial-planning-intern-spring-2026-spatial-planning-team-dallas-2025-12-12-1",
+      "jobId": "zipline-spatial-planning-intern-spring-2026-spatial-planning-team-dallas",
+      "company": "Zipline",
+      "title": "Spatial Planning Intern - Spring 2026 - Spatial Planning Team",
+      "postedToDiscord": "2025-12-12T05:00:00.167Z",
+      "sourceDate": "2025-10-16T02:29:33.000Z",
+      "sourceUrl": "https://www.flyzipline.com/careers/open-roles?gh_jid=7497920003",
+      "discordThreadId": "1448902177476055051",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uline-financial-data-analyst-intern-multiple-teams-pleasant-prairie-2025-12-12-1",
+      "jobId": "uline-financial-data-analyst-intern-multiple-teams-pleasant-prairie",
+      "company": "Uline",
+      "title": "Financial Data Analyst Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T05:00:05.482Z",
+      "sourceDate": "2025-10-16T00:43:04.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R258319",
+      "discordThreadId": "1448902198808547339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "philips-co-op-data-engineer-reedsville-pa-january-june-2025-state-college-2025-12-12-1",
+      "jobId": "philips-co-op-data-engineer-reedsville-pa-january-june-2025-state-college",
+      "company": "Philips",
+      "title": "Co-op-Data Engineer-Reedsville - PA-January-June 2025",
+      "postedToDiscord": "2025-12-12T05:00:07.254Z",
+      "sourceDate": "2025-10-16T00:11:47.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville/Co-op-Data-Engineer-Reedsville--PA-January-June-2025_565943",
+      "discordThreadId": "1448902207461265570",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 73,
+    "totalJobs": 77,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T04:46:34.033Z",
+      "date": "2025-12-12T05:00:07.254Z",
       "archived": 0
     }
   }
