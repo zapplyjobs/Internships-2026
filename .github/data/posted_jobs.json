@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:59:40.772Z",
+  "lastUpdated": "2025-12-12T08:15:05.205Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1288,14 +1288,36 @@
       "sourceUrl": "https://jobs.keysight.com/jobs/49117?lang=en-us&icims=1",
       "discordThreadId": "1448947388600422520",
       "instanceNumber": 1
+    },
+    {
+      "id": "expedition-technology-intern-in-deep-learning-and-computer-vision-multiple-teams-reston-2025-12-12-1",
+      "jobId": "expedition-technology-intern-in-deep-learning-and-computer-vision-multiple-teams-reston",
+      "company": "Expedition Technology",
+      "title": "Intern in Deep Learning and Computer Vision - Multiple Teams",
+      "postedToDiscord": "2025-12-12T08:15:03.336Z",
+      "sourceDate": "2025-10-13T21:57:33.000Z",
+      "sourceUrl": "https://www.exptechinc.com/careers/?gh_jid=4942450007",
+      "discordThreadId": "1448951264510607402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "expedition-technology-machine-learning-and-digital-signal-processing-intern-digital-signal-processing-machine-learning-reston-2025-12-12-1",
+      "jobId": "expedition-technology-machine-learning-and-digital-signal-processing-intern-digital-signal-processing-machine-learning-reston",
+      "company": "Expedition Technology",
+      "title": "Machine Learning and Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
+      "postedToDiscord": "2025-12-12T08:15:05.205Z",
+      "sourceDate": "2025-10-13T21:24:35.000Z",
+      "sourceUrl": "https://www.exptechinc.com/careers/?gh_jid=4942413007",
+      "discordThreadId": "1448951271607369830",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 117,
+    "totalJobs": 119,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T07:59:40.772Z",
+      "date": "2025-12-12T08:15:05.205Z",
       "archived": 0
     }
   }
