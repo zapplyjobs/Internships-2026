@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T10:42:44.977Z",
+  "lastUpdated": "2025-12-12T10:57:50.922Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1508,14 +1508,36 @@
       "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Sutherland-VA/Intern--System-Field-Analyst_R5636",
       "discordThreadId": "1448988432679571478",
       "instanceNumber": 1
+    },
+    {
+      "id": "symbotic-intern-system-field-analyst-silverton-2025-12-12-1",
+      "jobId": "symbotic-intern-system-field-analyst-silverton",
+      "company": "Symbotic",
+      "title": "Intern-System Field Analyst",
+      "postedToDiscord": "2025-12-12T10:57:46.052Z",
+      "sourceDate": "2025-10-11T01:27:55.000Z",
+      "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Plainview-TX/Intern--System-Field-Analyst_R5637",
+      "discordThreadId": "1448992212284080170",
+      "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-software-engineer-intern-san-carlos-2025-12-12-1",
+      "jobId": "electronic-arts-software-engineer-intern-san-carlos",
+      "company": "Electronic Arts",
+      "title": "Software Engineer Intern - ",
+      "postedToDiscord": "2025-12-12T10:57:50.921Z",
+      "sourceDate": "2025-10-11T01:27:51.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210885",
+      "discordThreadId": "1448992232119078996",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 137,
+    "totalJobs": 139,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T10:42:44.977Z",
+      "date": "2025-12-12T10:57:50.922Z",
       "archived": 0
     }
   }
