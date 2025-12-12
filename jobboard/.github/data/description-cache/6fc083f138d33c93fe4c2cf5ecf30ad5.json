@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual hourly rate could fall outside of this expected range. This pay range is subject to change and may be modified in the future. Please note that not all benefits shown on this page are applicable to internship opportunities.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://careers.roblox.com/jobs/7142298?gh_jid=7142298",
+      "fetchedAt": "2025-12-12T05:49:15.939Z"
+    }
+  },
+  "cachedAt": 1765518555939
+}
