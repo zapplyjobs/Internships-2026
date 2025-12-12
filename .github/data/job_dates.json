@@ -14464,5 +14464,17 @@
     "job_title": "Technology Intern",
     "company": "Blackhawk Network Holdings",
     "first_seen": "2025-12-12T08:14:56.738Z"
+  },
+  "gm-financial-intern-enterprise-architecture-arlington": {
+    "assigned_date": "2025-12-12T10:42:29.856Z",
+    "job_title": "Intern Enterprise Architecture",
+    "company": "GM financial",
+    "first_seen": "2025-12-12T10:42:29.856Z"
+  },
+  "westwood-survey-intern-fresno": {
+    "assigned_date": "2025-12-12T10:42:29.860Z",
+    "job_title": "Survey Intern",
+    "company": "Westwood",
+    "first_seen": "2025-12-12T10:42:29.860Z"
   }
 }
