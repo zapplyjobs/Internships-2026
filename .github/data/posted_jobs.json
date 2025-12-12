@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T07:40:33.791Z",
+  "lastUpdated": "2025-12-12T07:50:48.438Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1244,14 +1244,36 @@
       "sourceUrl": "https://ats.rippling.com/veryable-careers/jobs/92ad0f7c-97ac-4f26-a95d-2c3cc7e5fc8c",
       "discordThreadId": "1448942584113135688",
       "instanceNumber": 1
+    },
+    {
+      "id": "oshkosh-supply-chain-intern-data-analytics-ai-hagerstown-2025-12-12-1",
+      "jobId": "oshkosh-supply-chain-intern-data-analytics-ai-hagerstown",
+      "company": "Oshkosh",
+      "title": "Supply Chain Intern - Data Analytics & AI",
+      "postedToDiscord": "2025-12-12T07:50:43.741Z",
+      "sourceDate": "2025-10-14T00:51:12.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R39697",
+      "discordThreadId": "1448945141988589630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-software-engineer-intern-multiple-teams-redmond-2025-12-12-1",
+      "jobId": "microsoft-software-engineer-intern-multiple-teams-redmond",
+      "company": "Microsoft",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-12T07:50:48.438Z",
+      "sourceDate": "2025-10-14T00:42:01.000Z",
+      "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1880482",
+      "discordThreadId": "1448945162515513374",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 113,
+    "totalJobs": 115,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T07:40:33.791Z",
+      "date": "2025-12-12T07:50:48.438Z",
       "archived": 0
     }
   }
