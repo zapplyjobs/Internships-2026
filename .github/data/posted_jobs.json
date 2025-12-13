@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T12:06:21.331Z",
+  "lastUpdated": "2025-12-13T12:19:37.803Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2575,14 +2575,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7295359",
       "discordThreadId": "1449371860625129485",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibotta-product-analytics-intern-multiple-teams-denver-2025-12-13-1",
+      "jobId": "ibotta-product-analytics-intern-multiple-teams-denver",
+      "company": "ibotta",
+      "title": "Product Analytics Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T12:19:37.803Z",
+      "sourceDate": "2025-10-02T22:00:30.000Z",
+      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Fraud-Analytics-Intern_R-102135-1",
+      "discordThreadId": "1449375200755060737",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 234,
+    "totalJobs": 235,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T12:06:21.331Z",
+      "date": "2025-12-13T12:19:37.803Z",
       "archived": 0
     }
   }
