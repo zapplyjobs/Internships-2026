@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Graduate Data Science Intern - Pharmacometrics Programming",
-      "employer_name": "Bristol Myers Squibb",
-      "job_city": "Cambridge",
-      "job_state": "MA",
+      "job_title": "Software Engineer Intern - CPE SW E2E Triage",
+      "employer_name": "Motorola",
+      "job_city": "Plantation",
+      "job_state": "FL",
       "job_description": "English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Français du Canada French German Hebrew Hungarian Indonesian Italian Japanese Korean Norwegian Bokmål Polish Portuguese, Portugal Romanian Russian Spanish Swedish Thai Turkish Vietnamese Workday is currently unavailable. We are experiencing a service interruption. Your service will be restored as quickly as possible. <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> We apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.",
-      "job_apply_link": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Cambridge-Crossing---MA---US/Summer-2026---Graduate-Data-Science---Pharmacometrics-Programming-Internship_R1595674",
-      "job_posted_at_datetime_utc": "2025-10-03T05:12:10.000Z",
+      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2026_R58174",
+      "job_posted_at_datetime_utc": "2025-10-03T03:47:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bristol-myers-squibb-graduate-data-science-intern-pharmacometrics-programming-cambridge",
+      "id": "motorola-software-engineer-intern-cpe-sw-e2e-triage-plantation",
       "description_platform": "workday",
       "description_success": true
     },
     "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T09:46:16.402Z",
-    "postedAt": "2025-12-13T09:46:25.732Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - CPE SW E2E Triage",
-      "employer_name": "Motorola",
-      "job_city": "Plantation",
-      "job_state": "FL",
-      "job_description": "Join Motorola in this exciting opportunity.",
-      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2026_R58174",
-      "job_posted_at_datetime_utc": "2025-10-03T03:47:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "motorola-software-engineer-intern-cpe-sw-e2e-triage-plantation"
-    },
-    "status": "pending",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T09:53:25.398Z",
+    "postedAt": "2025-12-13T09:53:33.412Z"
   },
   {
     "job": {
