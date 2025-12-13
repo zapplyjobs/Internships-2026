@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineer Intern - AI/ML",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity Adobe seeks a Machine Learning Engineer to enhance customer experiences through AI and generative technologies. This is an exciting internship opportunity inside Adobe Firefly’s applied research organization. You will be surrounded by amazing talents who build the Firefly family of models from research inception all the way to production. We offer internship roles situated at different stages of the development pipeline from fundamental research to advanced development to production engineering directly shaping the training and integration of Firefly production models. Your role will center on pioneering data, models, applications and scientific evaluation that shape the future of technology in the realms of images, videos, language and multimodal models. Join us in reshaping the future of technology and customer experiences at Adobe! What You’ll Do Work towards results-oriented research goals, while identifying intermediate achievements. Contribute to research and advanced development that can be applied to Adobe product development. Help integrating novel research work into Adobe Firefly product. Lead and collaborate on projects across different teams. What You Need to Succeed Currently enrolled full time and pursuing a Master's or PhD in Computer Science, Computer Engineering, Electrical Engineer or related fields.1 + years of experience in computer vision or natural language processing or machine learning Some experience in Generative AI Experience communicating research to public audiences of peers. Experience working in teams. Knowledge in Python and typical machine learning development toolkits. Ability to participate in a full-time internship between May-September. If you’re looking to make an impact, Adobe’s the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer. Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, sexual orientation, gender identity, disability or veteran status. Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $61.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-      "job_posted_at_datetime_utc": "2025-09-26T07:40:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "adobe-machine-learning-engineer-intern-ai-ml-seattle",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": "2025-12-13T20:18:12.874Z"
-  },
-  {
-    "job": {
       "job_title": "Software Developer Automation Intern",
       "employer_name": "General Dynamics Information Technology",
       "job_city": "Windsor Mill",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T20:31:42.411Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "GE Vernova",
       "job_city": "Bellevue",
       "job_state": "WA",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryIntern for Advanced Technology Organization (ATO) focused on innovation and expert services for GE Vernova Grid Software product suite. The team pilots Join GE Vernova’s Advanced Technology Organization (ATO) as a Power System Iintern and be part of a cutting-edge team driving innovation in the energy sector. This role offers hands-on experience with the GridOS platform and enterprise-grade applications like Advanced Energy Management Systems (AEMS) and Advanced Distribution Management Systems (ADMS).What You’ll Do:· Collaborate on enhancing existing Grid Software solutions and developing new, commercially viable features.· Solve real-world industry and customer challenges using a mix of electrical engineering principles, physics, and AI/ML techniques.· Contribute to pilot projects and advanced R&D initiatives that shape the future of grid technology.Why It’s Exciting:· Work at the intersection of power systems and intelligent software.· Gain exposure to enterprise applications that power modern energy infrastructure.· Be part of a team that values innovation, technical excellence, and impact.Job DescriptionWhat you'll bring (Basic Qualifications)• Currently enrolled in PhD/Master’s Degree in Electrical Engineering or “STEM” Majors (Science, Technology, Engineering and Math) with thesis work in Electrical Engineering (Focus on Power System Operation)• Strong Work/Academic background experience in electrical power systems with focus on Power System Operations (Transmission & Distribution)• Power System Operation & Control – Courses and Projects• Projects and Papers related to AEMS, ADMS, & WAMS• Experience with Simulation models for Power Systems• Minimum cumulative or in-major 3.0/4.0 GPA.• Must commit to working full time (40 hrs/wk) during the internship in summer.What will make you stand out (Desired Characteristics/Nice to have skills)· You thrive in dynamic, collaborative environments where innovation drives solutions to complex energy challenges.· You bring hands-on experience in developing machine learning models, including deep neural networks, graph neural networks, and time series forecasting—especially as applied to power system data and grid operations.· You're familiar with intelligent agent frameworks, prompt engineering, embeddings, and vector databases, and understand how these tools can enhance decision-making in grid software applications.· You have foundational knowledge of power system concepts such as load forecasting, state estimation, fault detection, and grid stability, and can integrate these with AI/ML techniques to build smarter, more resilient energy systems.Eligibility Requirements:· Must be willing to work in an office located in Bellevue.· Must have the ability to work in the US for an unlimited amount of time without sponsorshipBenefits Available to you: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce.The pay for this position ranges from $21.00/hr - $36.00/hr based on years of undergraduate/graduate field of study completed.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Vernova Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)InclusionAt GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more:Our Culture | GE VernovaGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: Yes",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/Power-System-Intern---AI-ML---Summer-2026_R5016935-3",
       "job_posted_at_datetime_utc": "2025-09-25T08:08:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-power-system-intern-ai-ml-bellevue"
+      "id": "ge-vernova-power-system-intern-ai-ml-bellevue",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T20:31:34.732Z",
     "postedAt": null
   },
   {
