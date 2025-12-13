@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T22:17:43.689Z",
+  "lastUpdated": "2025-12-13T22:30:08.560Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3191,14 +3191,25 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-Systems-Analyst---2026-Summer-Internship_R57828",
       "discordThreadId": "1449525718102048818",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-cdn-platform-san-jose-2025-12-13-1",
+      "jobId": "bytedance-software-engineer-intern-cdn-platform-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - CDN Platform",
+      "postedToDiscord": "2025-12-13T22:30:08.560Z",
+      "sourceDate": "2025-09-25T07:04:12.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7553422988620892423/detail",
+      "discordThreadId": "1449528842459807754",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 290,
+    "totalJobs": 291,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T22:17:43.689Z",
+      "date": "2025-12-13T22:30:08.560Z",
       "archived": 0
     }
   }
