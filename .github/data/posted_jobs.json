@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T20:31:39.399Z",
+  "lastUpdated": "2025-12-13T20:40:43.741Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3070,14 +3070,25 @@
       "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
       "discordThreadId": "1449499024204894218",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibotta-software-engineering-intern-denver-2025-12-13-1",
+      "jobId": "ibotta-software-engineering-intern-denver",
+      "company": "Ibotta",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-13T20:40:43.741Z",
+      "sourceDate": "2025-09-26T07:12:01.000Z",
+      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
+      "discordThreadId": "1449501307567345704",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 279,
+    "totalJobs": 280,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T20:31:39.399Z",
+      "date": "2025-12-13T20:40:43.741Z",
       "archived": 0
     }
   }
