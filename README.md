@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1770 (older than 1 week)
+📁 **Archived Opportunities:** 1771 (older than 1 week)
 
 
 ---
@@ -130,7 +130,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Intern - Bio Large Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 1h |
+| Research Intern - Bio Large Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 2h |
 | Research Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 1d |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 1d |
 | Research Intern - MSR Inclusive Futures Team | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 1d |
@@ -334,12 +334,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1770 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1771 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1770 roles
+- **📁 Total Positions**: 1771 roles
 - **🏢 Companies**: 161 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 

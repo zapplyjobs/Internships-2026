@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T03:57:49.215Z",
+  "lastUpdated": "2025-12-13T04:09:09.056Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1838,14 +1838,36 @@
       "sourceUrl": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2026-Data-Analytics-Internship-Program_R15608",
       "discordThreadId": "1449248910043254824",
       "instanceNumber": 1
+    },
+    {
+      "id": "solopulse-software-engineer-intern-co-op-multiple-teams-norcross-2025-12-13-1",
+      "jobId": "solopulse-software-engineer-intern-co-op-multiple-teams-norcross",
+      "company": "SoloPulse",
+      "title": "Software Engineer Intern/Co-Op - Multiple Teams",
+      "postedToDiscord": "2025-12-13T04:09:04.340Z",
+      "sourceDate": "2025-10-08T08:42:54.000Z",
+      "sourceUrl": "https://jobs.lever.co/solopulseco/e430dd0f-8a73-46ec-8aea-739e1a5c1f9c/apply",
+      "discordThreadId": "1449251748379361392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "q2-intern-co-op-software-engineering-data-science-austin-2025-12-13-1",
+      "jobId": "q2-intern-co-op-software-engineering-data-science-austin",
+      "company": "Q2",
+      "title": "Intern/Co-op - Software Engineering - Data Science",
+      "postedToDiscord": "2025-12-13T04:09:09.056Z",
+      "sourceDate": "2025-10-08T08:29:58.000Z",
+      "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/XMLNAME-2026-Summer-Internship---Software-Engineering-Data-Science_REQ-11736",
+      "discordThreadId": "1449251768679534716",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 167,
+    "totalJobs": 169,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T03:57:49.215Z",
+      "date": "2025-12-13T04:09:09.056Z",
       "archived": 0
     }
   }
