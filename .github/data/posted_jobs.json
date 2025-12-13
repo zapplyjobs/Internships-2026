@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T04:48:08.589Z",
+  "lastUpdated": "2025-12-13T04:56:22.224Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1926,14 +1926,36 @@
       "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Business-Solutions-Analyst-Intern_R2519119",
       "discordThreadId": "1449261580725518479",
       "instanceNumber": 1
+    },
+    {
+      "id": "cencora-sap-intern-conshohocken-2025-12-13-1",
+      "jobId": "cencora-sap-intern-conshohocken",
+      "company": "Cencora",
+      "title": "SAP Intern",
+      "postedToDiscord": "2025-12-13T04:56:17.098Z",
+      "sourceDate": "2025-10-08T07:08:53.000Z",
+      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/SAP-Intern_R2515412",
+      "discordThreadId": "1449263630519500941",
+      "instanceNumber": 1
+    },
+    {
+      "id": "highmark-health-associate-software-engineer-intern-case-and-disease-management-pittsburgh-2025-12-13-1",
+      "jobId": "highmark-health-associate-software-engineer-intern-case-and-disease-management-pittsburgh",
+      "company": "Highmark Health",
+      "title": "Associate Software Engineer Intern - Case and Disease Management",
+      "postedToDiscord": "2025-12-13T04:56:22.224Z",
+      "sourceDate": "2025-10-08T06:56:55.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2026-Associate-Software-Engineer-Undergraduate-Intern_J270354",
+      "discordThreadId": "1449263650199048293",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 175,
+    "totalJobs": 177,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T04:48:08.589Z",
+      "date": "2025-12-13T04:56:22.224Z",
       "archived": 0
     }
   }
