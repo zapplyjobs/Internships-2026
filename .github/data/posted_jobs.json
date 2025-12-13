@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T04:21:46.433Z",
+  "lastUpdated": "2025-12-13T04:36:35.818Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1882,14 +1882,36 @@
       "sourceUrl": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80607",
       "discordThreadId": "1449254945412087974",
       "instanceNumber": 1
+    },
+    {
+      "id": "innovative-defense-technologies-software-engineer-intern-multiple-teams-fall-river-2025-12-13-1",
+      "jobId": "innovative-defense-technologies-software-engineer-intern-multiple-teams-fall-river",
+      "company": "Innovative Defense Technologies",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T04:36:31.129Z",
+      "sourceDate": "2025-10-08T07:20:24.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/idtus/job/oFNfyfwZ?nl=1&nl=1&fr=false",
+      "discordThreadId": "1449258649040977971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "innovative-defense-technologies-artificial-intelligence-engineer-intern-warfare-systems-mt-laurel-township-2025-12-13-1",
+      "jobId": "innovative-defense-technologies-artificial-intelligence-engineer-intern-warfare-systems-mt-laurel-township",
+      "company": "Innovative Defense Technologies",
+      "title": "Artificial Intelligence Engineer Intern - Warfare Systems",
+      "postedToDiscord": "2025-12-13T04:36:35.818Z",
+      "sourceDate": "2025-10-08T07:20:06.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/idtus/job/oFclyfwu?nl=1&nl=1&fr=false",
+      "discordThreadId": "1449258675784122419",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 171,
+    "totalJobs": 173,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T04:21:46.433Z",
+      "date": "2025-12-13T04:36:35.818Z",
       "archived": 0
     }
   }
