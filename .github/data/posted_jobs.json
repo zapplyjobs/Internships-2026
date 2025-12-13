@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T11:44:28.876Z",
+  "lastUpdated": "2025-12-13T11:53:59.440Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2553,14 +2553,25 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58156",
       "discordThreadId": "1449366355429298292",
       "instanceNumber": 1
+    },
+    {
+      "id": "integration-innovation-i3-linux-internship-huntsville-2025-12-13-1",
+      "jobId": "integration-innovation-i3-linux-internship-huntsville",
+      "company": "Integration Innovation (i3)",
+      "title": "Linux Internship",
+      "postedToDiscord": "2025-12-13T11:53:59.439Z",
+      "sourceDate": "2025-10-03T02:27:56.000Z",
+      "sourceUrl": "https://careers-i3-corps.icims.com/jobs/4957/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449368749236031609",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 232,
+    "totalJobs": 233,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T11:44:28.876Z",
+      "date": "2025-12-13T11:53:59.440Z",
       "archived": 0
     }
   }
