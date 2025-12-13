@@ -1,0 +1,17 @@
+{
+  "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "window.adobeDataLayer = window.adobeDataLayer || []; adobeDataLayer.push({ event:'cmp:sObject', eventInfo: { path: 'page.page\\u002D49a7e1ccf7' } }); Careers Job Search Saved Jobs Access Application Expand Menu Job Search Saved Jobs Access Application Search jobs at Accenture Clear Search. PRO TIP Try searching using a descriptive phrase or sentence describing your perfect job. Or use keywords in quotation marks to pinpoint exact matches. You've reached the character limit Press enter to see the search results Ready To Explore? Find your next opportunity Results Filters -1 Filters -1 Clear filters Back Clear filters More Less Location Search locations Back Clear filters Search locations Clear Location Search No results found for ‘’ Apply filter Sort by Relevancy Newest Show results Results Sort by Newest Relevancy Newest Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details There are currently no jobs available that match your search criteria. Try a new search / Click here to view our equal opportunity and other employment statements. These are our 10,000 newest job listings. To see more, refine your search query above. These are the 10,000 most relevant open jobs. To see more, refine your search query above. Dismiss",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+      "fetchedAt": "2025-12-13T23:04:36.893Z"
+    }
+  },
+  "cachedAt": 1765667076894
+}
