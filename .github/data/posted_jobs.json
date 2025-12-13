@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T03:11:35.104Z",
+  "lastUpdated": "2025-12-13T03:38:16.484Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1772,14 +1772,36 @@
       "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
       "discordThreadId": "1449237281536868394",
       "instanceNumber": 1
+    },
+    {
+      "id": "mercury-backend-engineering-intern-san-francisco-2025-12-13-1",
+      "jobId": "mercury-backend-engineering-intern-san-francisco",
+      "company": "Mercury",
+      "title": "Backend Engineering Intern",
+      "postedToDiscord": "2025-12-13T03:38:09.971Z",
+      "sourceDate": "2025-10-08T16:40:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mercury/jobs/5668745004",
+      "discordThreadId": "1449243970658898113",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pathai-machine-learning-intern-co-op-multiple-teams-boston-2025-12-13-1",
+      "jobId": "pathai-machine-learning-intern-co-op-multiple-teams-boston",
+      "company": "PathAI",
+      "title": "Machine Learning Intern/Co-op - Multiple Teams",
+      "postedToDiscord": "2025-12-13T03:38:16.483Z",
+      "sourceDate": "2025-10-08T13:08:41.000Z",
+      "sourceUrl": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
+      "discordThreadId": "1449243990879764541",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 161,
+    "totalJobs": 163,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T03:11:35.104Z",
+      "date": "2025-12-13T03:38:16.484Z",
       "archived": 0
     }
   }

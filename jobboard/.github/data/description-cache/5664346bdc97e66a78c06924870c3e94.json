@@ -1,0 +1,17 @@
+{
+  "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Our team is passionate about solving big challenges in healthcare and transforming the field of pathology with artificial intelligence.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
+      "fetchedAt": "2025-12-13T03:38:06.007Z"
+    }
+  },
+  "cachedAt": 1765597086007
+}
