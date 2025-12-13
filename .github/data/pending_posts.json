@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Ground Systems Engineering Intern Summer 2026",
-      "employer_name": "Rocket Lab USA",
-      "job_city": "John C. Stennis Space Center",
-      "job_state": "MS",
-      "job_description": "ABOUT ROCKET LAB Rocket Lab is an end-to-end space company delivering responsive launch services, complete spacecraft design and manufacturing, payloads, satellite components, and more – all with the goal of opening access space. The rockets and satellites we build, and launch enable some of the most ambitious and vital space missions globally, supporting scientific exploration, Earth observation and missions to combat climate change, national security, and exciting new technology demonstrations. Our Electron rocket has become the second most frequently launched U.S. rocket annually and has delivered more than 230 satellites to orbit, all while we work to develop Neutron, our upcoming medium-lift, reusable launch vehicle for larger constellation deployment. Our Space Systems business designs and builds our extensive line of satellites, payloads, and their components, including spacecraft that have been selected to support NASA missions to the Moon and Mars and components used on the James Webb Space Telescope. As a Grounds Systems Engineering Intern based at Rocket Lab’s site in Stennis, Mississippi, you will have the opportunity to support the Test Ground Systems team in test operations for the Archimedes engine. The Ground Systems team is an integral part of the testing team, from designing and building new stands and capabilities, to making sure the stand continues to run smoothly day to day every day offers new challenges and opportunities to grow and contribute to the success of the mission. WHAT YOU’LL GET TO DO As an intern, you will work closely with your mentor and other employees within the department to apply your knowledge and grow your skills both technically and professionally Work with a fast-paced group of professionals to apply engineering and industry concepts to solve real challenges Attend frequent 1:1’s with mentors and supervisors to facilitate success and learning while providing progress updates Enjoy tech talks and network with other interns and employees through social and professional events YOU’LL BRING THESE QUALIFICATIONS Ideal candidates will thrive in ambiguity and are excited to work in small, high-performing teams that are focused on continued learning and growth. Success in this position will be measured by the knowledge and experience you bring to the role, your ability to lead development projects without supervision, and your ability to successfully collaborate across teams to deliver results. Must be enrolled in a bachelor’s, master's or doctorate degree program in an engineering discipline such as Electrical, Mechatronics or Robotics Engineering, or physics discipline and have at least one semester of school remaining post internship GPA of 3.0 or above 3+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable) THESE QUALIFICATIONS WOULD BE NICE TO HAVE GPA of 3.5 or above 6+ months of applied engineering experience (internship, laboratory, and personal/team project experience is applicable) Experience with Soildworks Finite Element Analysis (FEA) experience Proficient in Computer-aided design and manufacturing (CAD/ CAM) Geometric Dimensioning & Tolerancing experience Experience working with pressurized systems Proficient knowledge of fluid dynamics ADDITIONAL REQUIREMENTS Able to work full-time, on-site for a minimum of 12 consecutive weeks beginning May or June 2026. COMPENSATION AND OTHER BENEFITS You may be eligible for a stipend to subsidize relocation costs WHAT TO EXPECT We’re on a mission to unlock the potential of space to improve life on Earth, but that’s not an easy task. It takes hard work, determination, relentless innovation, teamwork, grit, and an unwavering commitment to achieving what others often deem impossible. Our people out-think, out-work and out-pace. We pride ourselves on having each other’s backs, checking our egos at the door, and rolling up our sleeves on all tasks big and small. We thrive under pressure, work to tight deadlines, and our focus is always on how we can deliver, rather than dwelling on the challenges that stand in the way. Important information: FOR CANDIDATES SEEKING TO WORK IN US OFFICES ONLY: To conform to U.S. Government space technology export regulations, including the International Traffic in Arms Regulations (ITAR), Rocket Lab Employees must be a U.S. citizen, lawful U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum, or be eligible to obtain the required authorizations from the U.S. Department of State and/or the U.S. Department of Commerce, as applicable. Learn more about ITAR here. Rocket Lab provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This policy applies to all terms and conditions of employment at Rocket Lab, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Applicants requiring a reasonable accommodation for the application/interview process for a job in the United States should contact Giulia Johnson at g.biow@rocketlabusa.com.This dedicated resource is intended solely to assist job seekers with disabilities whose disability prevents them from being able to apply/interview. Only messages left for this purpose will be considered. A response to your request may take up to two business days. FOR CANDIDATES SEEKING TO WORK IN NEW ZEALAND OFFICES ONLY: For security reasons background checks will be undertaken prior to any employment offers being made to an applicant. These checks will include nationality checks as it is a requirement of this position that you be eligible to access equipment and data regulated by the United States' International Traffic in Arms Regulations. Under these Regulations, you may be ineligible for this role if you do not hold citizenship of Australia, Japan, New Zealand, Switzerland, the European Union or a country that is part of NATO, or if you hold ineligible dual citizenship or nationality. For more information on these Regulations, click here ITAR Regulations.",
-      "job_apply_link": "https://job-boards.greenhouse.io/rocketlab/jobs/7449663003",
-      "job_posted_at_datetime_utc": "2025-09-26T18:18:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rocket-lab-usa-ground-systems-engineering-intern-summer-2026-john-c-stennis-space-center",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": "2025-12-13T19:34:29.668Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering, Commercialization",
       "employer_name": "Waymo",
       "job_city": "Mountain View",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T19:43:51.390Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Uncountable",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Uncountable in this exciting opportunity.",
+      "job_description": "Full-Stack InternNew York, San Francisco, Munich or LondonEngineering /Intern / Working Student /On-siteApply for this jobThank you for your interest in Uncountable Engineering!Description‍Uncountable is hiring interns who are passionate about a career in full-stack software engineering. Our goal is to revolutionize industrial research and development. We're looking for motivated engineers who can help to build a state of the art development platform that will be used across Fortune 500 companies.Possible ProjectsArchitecting database to allow for more complex analysis and building new interfaces and views for scientists to manage experiments.We will consider only applicants that are graduating within a year of the internship.Salary: $6K / monthRequirementsPursuing a degree in CSComputer science fundamentalsWeb development skillsPreferred Qualifications‍‍Familiarity with modern javascript best practicesFamiliarity with SQL database designExperience with ReactOur Current StackBackend: Flask (Python), PostgresFrontend: React (Typescript), Redux, Sass$6,000 - $6,000 a monthWhat's next? Learn more about Interviewing at UncountableLearn more about our engineering team: Check out our blog We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
       "job_posted_at_datetime_utc": "2025-09-25T19:12:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "uncountable-full-stack-intern-san-francisco"
+      "id": "uncountable-full-stack-intern-san-francisco",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T19:43:43.889Z",
     "postedAt": null
   },
   {

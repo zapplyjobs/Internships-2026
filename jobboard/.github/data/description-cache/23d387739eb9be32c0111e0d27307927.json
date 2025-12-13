@@ -1,0 +1,20 @@
+{
+  "url": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Full-Stack InternNew York, San Francisco, Munich or LondonEngineering /Intern / Working Student /On-siteApply for this jobThank you for your interest in Uncountable Engineering!Description‍Uncountable is hiring interns who are passionate about a career in full-stack software engineering. Our goal is to revolutionize industrial research and development. We're looking for motivated engineers who can help to build a state of the art development platform that will be used across Fortune 500 companies.Possible ProjectsArchitecting database to allow for more complex analysis and building new interfaces and views for scientists to manage experiments.We will consider only applicants that are graduating within a year of the internship.Salary: $6K / monthRequirementsPursuing a degree in CSComputer science fundamentalsWeb development skillsPreferred Qualifications‍‍Familiarity with modern javascript best practicesFamiliarity with SQL database designExperience with ReactOur Current StackBackend: Flask (Python), PostgresFrontend: React (Typescript), Redux, Sass$6,000 - $6,000 a monthWhat's next? Learn more about Interviewing at UncountableLearn more about our engineering team: Check out our blog We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "requirements": [
+      "Pursuing a degree in CS"
+    ],
+    "responsibilities": [
+      "Web development skills"
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
+      "fetchedAt": "2025-12-13T19:43:43.888Z"
+    }
+  },
+  "cachedAt": 1765655023888
+}
