@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T07:53:57.352Z",
+  "lastUpdated": "2025-12-13T08:05:58.630Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2278,14 +2278,36 @@
       "sourceUrl": "https://careers-ice.icims.com/jobs/11595/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1449308342853042178",
       "instanceNumber": 1
+    },
+    {
+      "id": "allegheny-county-human-services-internship-analytics-technology-planning-pittsburgh-2025-12-13-1",
+      "jobId": "allegheny-county-human-services-internship-analytics-technology-planning-pittsburgh",
+      "company": "Allegheny County",
+      "title": "Human Services Internship - Analytics - Technology & Planning",
+      "postedToDiscord": "2025-12-13T08:05:56.959Z",
+      "sourceDate": "2025-10-03T18:50:44.000Z",
+      "sourceUrl": "https://alleghenycounty.bamboohr.com/careers/578/",
+      "discordThreadId": "1449311361141178380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "greenwood-village-south-data-and-analytics-intern-analytics-multiple-teams-des-moines-2025-12-13-1",
+      "jobId": "greenwood-village-south-data-and-analytics-intern-analytics-multiple-teams-des-moines",
+      "company": "Greenwood Village South",
+      "title": "Data and Analytics Intern - Analytics - Multiple Teams",
+      "postedToDiscord": "2025-12-13T08:05:58.630Z",
+      "sourceDate": "2025-10-03T15:00:31.000Z",
+      "sourceUrl": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29210",
+      "discordThreadId": "1449311368053522442",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 207,
+    "totalJobs": 209,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T07:53:57.352Z",
+      "date": "2025-12-13T08:05:58.630Z",
       "archived": 0
     }
   }
