@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T05:18:10.514Z",
+  "lastUpdated": "2025-12-13T05:31:50.200Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1992,14 +1992,36 @@
       "sourceUrl": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1",
       "discordThreadId": "1449269139318509568",
       "instanceNumber": 1
+    },
+    {
+      "id": "exact-sciences-commercial-customer-experience-analytics-intern-multiple-teams-madison-2025-12-13-1",
+      "jobId": "exact-sciences-commercial-customer-experience-analytics-intern-multiple-teams-madison",
+      "company": "Exact Sciences",
+      "title": "Commercial Customer Experience Analytics Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T05:31:46.830Z",
+      "sourceDate": "2025-10-07T21:22:13.000Z",
+      "sourceUrl": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-CX-Analytics-Intern_R25-10684",
+      "discordThreadId": "1449272562822414488",
+      "instanceNumber": 1
+    },
+    {
+      "id": "innovative-defense-technologies-software-engineer-intern-san-diego-2025-12-13-1",
+      "jobId": "innovative-defense-technologies-software-engineer-intern-san-diego",
+      "company": "Innovative Defense Technologies",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-13T05:31:50.200Z",
+      "sourceDate": "2025-10-07T19:50:00.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/idtus/job/oN7iyfwu?nl=1&nl=1&fr=false",
+      "discordThreadId": "1449272570082885635",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 181,
+    "totalJobs": 183,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T05:18:10.514Z",
+      "date": "2025-12-13T05:31:50.200Z",
       "archived": 0
     }
   }
