@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T17:17:33.236Z",
+  "lastUpdated": "2025-12-13T17:28:56.309Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2861,14 +2861,25 @@
       "sourceUrl": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479994003",
       "discordThreadId": "1449450176681869536",
       "instanceNumber": 1
+    },
+    {
+      "id": "moloco-software-engineer-intern-seattle-2025-12-13-1",
+      "jobId": "moloco-software-engineer-intern-seattle",
+      "company": "Moloco",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-13T17:28:56.308Z",
+      "sourceDate": "2025-09-27T18:38:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/moloco/jobs/7473817003",
+      "discordThreadId": "1449453041798352926",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 260,
+    "totalJobs": 261,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T17:17:33.236Z",
+      "date": "2025-12-13T17:28:56.309Z",
       "archived": 0
     }
   }
