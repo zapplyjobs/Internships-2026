@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T23:45:04.879Z",
+  "lastUpdated": "2025-12-13T23:54:00.705Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3290,14 +3290,25 @@
       "sourceUrl": "https://ats.rippling.com/barrys-careers/jobs/dfd1cd6a-2d8c-46a2-a504-46f97dac825e",
       "discordThreadId": "1449547701011349505",
       "instanceNumber": 1
+    },
+    {
+      "id": "brown-brown-insurance-technology-solutions-intern-technology-solutions-daytona-beach-2025-12-13-1",
+      "jobId": "brown-brown-insurance-technology-solutions-intern-technology-solutions-daytona-beach",
+      "company": "Brown & Brown Insurance",
+      "title": "Technology Solutions Intern - Technology Solutions",
+      "postedToDiscord": "2025-12-13T23:54:00.705Z",
+      "sourceDate": "2025-09-24T22:32:05.000Z",
+      "sourceUrl": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Technology-Solutions-Internship_R25_0000003139",
+      "discordThreadId": "1449549948294008854",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 299,
+    "totalJobs": 300,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T23:45:04.879Z",
+      "date": "2025-12-13T23:54:00.705Z",
       "archived": 0
     }
   }
