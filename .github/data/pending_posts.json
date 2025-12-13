@@ -161,46 +161,6 @@
   },
   {
     "job": {
-      "job_title": "Frontend Engineering Intern",
-      "employer_name": "Mercury",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Mercury in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/mercury/jobs/5668759004",
-      "job_posted_at_datetime_utc": "2025-10-08T17:03:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mercury-frontend-engineering-intern-san-francisco",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T03:11:29.359Z",
-    "postedAt": "2025-12-13T03:11:38.114Z"
-  },
-  {
-    "job": {
-      "job_title": "Applications Engineer Intern",
-      "employer_name": "Analog Devices",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Join Analog Devices in this exciting opportunity.",
-      "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
-      "job_posted_at_datetime_utc": "2025-10-08T16:55:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "analog-devices-applications-engineer-intern-san-jose",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T03:11:29.359Z",
-    "postedAt": "2025-12-13T03:11:38.114Z"
-  },
-  {
-    "job": {
       "job_title": "Backend Engineering Intern",
       "employer_name": "Mercury",
       "job_city": "San Francisco",
@@ -210,12 +170,14 @@
       "job_posted_at_datetime_utc": "2025-10-08T16:40:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "mercury-backend-engineering-intern-san-francisco"
+      "id": "mercury-backend-engineering-intern-san-francisco",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T03:38:06.008Z",
+    "postedAt": "2025-12-13T03:38:19.495Z"
   },
   {
     "job": {
@@ -223,17 +185,19 @@
       "employer_name": "PathAI",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join PathAI in this exciting opportunity.",
+      "job_description": "Our team is passionate about solving big challenges in healthcare and transforming the field of pathology with artificial intelligence.",
       "job_apply_link": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
       "job_posted_at_datetime_utc": "2025-10-08T13:08:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pathai-machine-learning-intern-co-op-multiple-teams-boston"
+      "id": "pathai-machine-learning-intern-co-op-multiple-teams-boston",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T03:38:06.008Z",
+    "postedAt": "2025-12-13T03:38:19.495Z"
   },
   {
     "job": {
