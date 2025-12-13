@@ -1,0 +1,20 @@
+{
+  "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1347",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Job Description:Summary:The New York Mets are seeking an intern in our Baseball Analytics Department for the summer of 2026. During the summer, the Intern will build, test, and present statistical models to inform the decision-making of our Baseball Operations department. This position requires strong background in complex statistics and data analytics, as well as the ability to communicate statistical model details and findings to both a technical and non-technical audience. Prior experience in or knowledge of baseball is a plus, but is not required.Essential Duties & Responsibilities:Build statistical models to answer a wide variety of baseball-related questions affecting the operations of the organization using advanced knowledge of statistics and data analytics and exercising appropriate discretion and judgment regarding development of statistical modelsInterpret data and report conclusions drawn from their analysesPresent model outputs in an effective way, both for technical and non-technical audiencesCommunicate well with both the Baseball Analytics team as well as other Baseball Operations personnel to understand the parameters of any particular research projectQualifications:Pursuing a degree in statistics or a related fieldProfessional experience in a quantitative position is a plusStrong background in a wide variety of statistical techniquesStrong proficiency in R or PythonStrong communication skillsAbility to work cooperatively with othersThe above information is intended to describe the general nature, type, and level of work to be performed. The information is not intended to be an exhaustive or complete list of all responsibilities, duties, and skills required for this position. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time. The individual selected may perform other related duties as assigned or requested.The New York Mets recognize the importance of a diverse workforce and value the unique qualities individuals of various backgrounds and experiences can offer to the Organization. Our continued success depends heavily on the quality of our workforce. The Organization is committed to providing employees with the opportunity to develop to their fullest potential. Pay Range: $20-25/hourlyFor technical reasons, we strongly advise to not use an .edu email address when applying. Thank you very much.",
+    "requirements": [
+      "Pursuing a degree in statistics or a related field"
+    ],
+    "responsibilities": [
+      "Build statistical models to answer a wide variety of baseball-related questions affecting the operations of the organization using advanced knowledge of statistics and data analytics and exercising appropriate discretion and judgment regarding development of statistical models"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1347",
+      "fetchedAt": "2025-12-13T06:49:43.506Z"
+    }
+  },
+  "cachedAt": 1765608583507
+}
