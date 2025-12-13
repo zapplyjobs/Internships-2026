@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T08:47:22.160Z",
+  "lastUpdated": "2025-12-13T08:55:57.398Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2355,14 +2355,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/stackav/jobs/4924796007",
       "discordThreadId": "1449321784343269478",
       "instanceNumber": 1
+    },
+    {
+      "id": "symbotic-co-op-machine-learning-machine-learning-burlington-2025-12-13-1",
+      "jobId": "symbotic-co-op-machine-learning-machine-learning-burlington",
+      "company": "Symbotic",
+      "title": "Co-op Machine Learning - Machine Learning",
+      "postedToDiscord": "2025-12-13T08:55:57.398Z",
+      "sourceDate": "2025-10-03T06:23:58.000Z",
+      "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning_R5580",
+      "discordThreadId": "1449323937916915733",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 214,
+    "totalJobs": 215,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T08:47:22.160Z",
+      "date": "2025-12-13T08:55:57.398Z",
       "archived": 0
     }
   }
