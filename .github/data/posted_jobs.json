@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T17:37:38.276Z",
+  "lastUpdated": "2025-12-13T17:44:40.406Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2883,14 +2883,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/moloco/jobs/7472531003",
       "discordThreadId": "1449455230818455703",
       "instanceNumber": 1
+    },
+    {
+      "id": "chatham-financial-software-engineer-intern-multiple-teams-centennial-2025-12-13-1",
+      "jobId": "chatham-financial-software-engineer-intern-multiple-teams-centennial",
+      "company": "Chatham Financial",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T17:44:40.406Z",
+      "sourceDate": "2025-09-27T18:23:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
+      "discordThreadId": "1449457001531838684",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 262,
+    "totalJobs": 263,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T17:37:38.276Z",
+      "date": "2025-12-13T17:44:40.406Z",
       "archived": 0
     }
   }
