@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T06:07:57.823Z",
+  "lastUpdated": "2025-12-13T06:19:28.083Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2080,14 +2080,36 @@
       "sourceUrl": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Junior-Data-Engineer---Summer-2026_R006912",
       "discordThreadId": "1449281668614459404",
       "instanceNumber": 1
+    },
+    {
+      "id": "innovative-defense-technologies-software-engineer-intern-integrated-mission-systems-san-diego-2025-12-13-1",
+      "jobId": "innovative-defense-technologies-software-engineer-intern-integrated-mission-systems-san-diego",
+      "company": "Innovative Defense Technologies",
+      "title": "Software Engineer Intern - Integrated Mission Systems",
+      "postedToDiscord": "2025-12-13T06:19:23.248Z",
+      "sourceDate": "2025-10-07T11:28:58.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/idtus/job/oY6myfwI?nl=1&nl=1&fr=false",
+      "discordThreadId": "1449284536591585300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qbe-insurance-data-science-intern-multiple-teams-madison-2025-12-13-1",
+      "jobId": "qbe-insurance-data-science-intern-multiple-teams-madison",
+      "company": "QBE Insurance",
+      "title": "Data Science Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T06:19:28.083Z",
+      "sourceDate": "2025-10-07T08:28:43.000Z",
+      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-Intern--Summer-2026-_344550-1",
+      "discordThreadId": "1449284563535925352",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 189,
+    "totalJobs": 191,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T06:07:57.823Z",
+      "date": "2025-12-13T06:19:28.083Z",
       "archived": 0
     }
   }
