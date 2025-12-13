@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Cloud Software Engineering Intern",
-      "employer_name": "Emerson Electric",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "If you are a student interested in starting and growing your career as a Software Development professional, Emerson has an outstanding opportunity for you! NI is now the Test & Measurement (T&M) Business Unit of Emerson, and we are seeking a dedicated and versatile Software Engineering Intern with an interest in cloud development to join our Platform Software R&D organization. Software Engineers find that our relaxed and stimulating work environment, which includes collaborating in small feature-focused teams, cultivates the type of engineering innovation that leads to our many award-winning products. We are looking for interns with a background or interests in cloud development, AI prompt engineering, Kubernetes, and Python development to help support the backend of our Nigel AI Advisor.",
-      "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026791",
-      "job_posted_at_datetime_utc": "2025-10-03T03:25:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "emerson-electric-cloud-software-engineering-intern-austin",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T10:31:03.039Z",
-    "postedAt": "2025-12-13T10:31:10.188Z"
-  },
-  {
-    "job": {
       "job_title": "2026 Allegheny County Department of Human Services Internship - Developmental Supports",
       "employer_name": "Allegheny County",
       "job_city": "Pittsburgh",
@@ -210,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-03T03:22:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "allegheny-county-2026-allegheny-county-department-of-human-services-internship-developmental-supports-pittsburgh"
+      "id": "allegheny-county-2026-allegheny-county-department-of-human-services-internship-developmental-supports-pittsburgh",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T10:41:02.051Z",
+    "postedAt": "2025-12-13T10:41:10.132Z"
   },
   {
     "job": {
