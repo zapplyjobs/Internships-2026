@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T23:18:10.453Z",
+  "lastUpdated": "2025-12-13T23:29:00.291Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3257,14 +3257,25 @@
       "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/IT-Data-Analytics-Intern_R6557",
       "discordThreadId": "1449540929873645649",
       "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-software-engineer-intern-multiple-teams-orlando-2025-12-13-1",
+      "jobId": "electronic-arts-software-engineer-intern-multiple-teams-orlando",
+      "company": "Electronic Arts",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T23:29:00.290Z",
+      "sourceDate": "2025-09-25T01:26:52.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Modes-Software-Engineer-Intern-SUMMER-2026/210907",
+      "discordThreadId": "1449543655659667527",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 296,
+    "totalJobs": 297,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T23:18:10.453Z",
+      "date": "2025-12-13T23:29:00.291Z",
       "archived": 0
     }
   }
