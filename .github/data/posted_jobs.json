@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T05:42:38.698Z",
+  "lastUpdated": "2025-12-13T05:54:41.348Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2036,14 +2036,36 @@
       "sourceUrl": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2026-Internship---OPIS-Strategic-Insights---Analytics-Intern_Job_Req_49296",
       "discordThreadId": "1449275297290522687",
       "instanceNumber": 1
+    },
+    {
+      "id": "doordash-software-engineer-intern-summer-2026-seattle-2025-12-13-1",
+      "jobId": "doordash-software-engineer-intern-summer-2026-seattle",
+      "company": "DoorDash",
+      "title": "Software Engineer – Intern - Summer 2026",
+      "postedToDiscord": "2025-12-13T05:54:39.693Z",
+      "sourceDate": "2025-10-07T14:23:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/doordashusa/jobs/7262223",
+      "discordThreadId": "1449278320117284965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "momentive-software-developer-intern-niskayuna-2025-12-13-1",
+      "jobId": "momentive-software-developer-intern-niskayuna",
+      "company": "Momentive",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-13T05:54:41.348Z",
+      "sourceDate": "2025-10-07T13:29:04.000Z",
+      "sourceUrl": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
+      "discordThreadId": "1449278328396578937",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 185,
+    "totalJobs": 187,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T05:42:38.698Z",
+      "date": "2025-12-13T05:54:41.348Z",
       "archived": 0
     }
   }
