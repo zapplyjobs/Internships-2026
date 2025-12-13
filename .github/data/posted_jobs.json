@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T18:18:39.102Z",
+  "lastUpdated": "2025-12-13T18:33:53.443Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2927,14 +2927,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/moloco/jobs/7472738003",
       "discordThreadId": "1449465552539090964",
       "instanceNumber": 1
+    },
+    {
+      "id": "compassion-international-internship-it-and-software-engineering-colorado-springs-2025-12-13-1",
+      "jobId": "compassion-international-internship-it-and-software-engineering-colorado-springs",
+      "company": "Compassion International",
+      "title": "Internship - IT and Software Engineering",
+      "postedToDiscord": "2025-12-13T18:33:53.442Z",
+      "sourceDate": "2025-09-27T13:40:30.000Z",
+      "sourceUrl": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/XMLNAME-2026-Summer-Internship---IT-and-Software-Engineering_R7446",
+      "discordThreadId": "1449469387709874380",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 266,
+    "totalJobs": 267,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T18:18:39.102Z",
+      "date": "2025-12-13T18:33:53.443Z",
       "archived": 0
     }
   }
