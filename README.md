@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 156</em></p>
+<p><em>Real-time opportunities from 155</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-329-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-156-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-328-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-155-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 156+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 329+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 155+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 328+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 329 internships & new grad roles  
-🏢 **Top Companies:** 156 elite tech companies hiring  
+🔥 **Current Opportunities:** 328 internships & new grad roles  
+🏢 **Top Companies:** 155 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1716 (older than 1 week)
+📁 **Archived Opportunities:** 1715 (older than 1 week)
 
 
 ---
@@ -262,7 +262,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 297 | 90% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 296 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 28 | 9% | 0-1 years of experience |
 | 🔴 Early Career         | 4 | 1% | 1-2 years of experience |
 
@@ -270,9 +270,9 @@ No companies available
 
 ### 🌍 **Top Locations**
 - **Redmond, WA**: 51 opportunities
-- **Sunnyvale, CA**: 19 opportunities
-- **San Bruno, CA**: 13 opportunities
+- **Sunnyvale, CA**: 20 opportunities
 - **Remote in USA, Locations**: 13 opportunities
+- **San Bruno, CA**: 12 opportunities
 - **Chicago, IL**: 9 opportunities
 - **Cambridge, MA**: 9 opportunities
 - **Austin, TX**: 8 opportunities
@@ -282,7 +282,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 329+ verified internships and new grad roles from 156 top companies.
+✅ **100% Real Opportunities:** 328+ verified internships and new grad roles from 155 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -334,13 +334,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1716 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1715 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1716 roles
-- **🏢 Companies**: 156 companies  
+- **📁 Total Positions**: 1715 roles
+- **🏢 Companies**: 155 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
 ### ⭐ **FAANG+** (12 positions)
@@ -533,7 +533,7 @@ No companies available
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (19 positions)
+### 🏭 **Manufacturing & Industrial** (18 positions)
 
 #### 💾 **Micron Technology** (6 positions)
 
@@ -546,11 +546,10 @@ No companies available
 | Intern – Product Yield Analysis and Analytics - Research | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Analysis-and-Analytics--Research-_JR81928) | 1w |
 | Intern – TPG Global IE | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902) | 1w |
 
-#### ⚡ **ABB** (3 positions)
+#### ⚡ **ABB** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IS Salesforce.com Agile Delivery Intern-Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449) | 1w |
 | Software Engineering Intern- Summer 2026 | Bartlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 1w |
 | AI Vision Engineer Intern- AI Robotics | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 1w |
 
@@ -595,7 +594,7 @@ No companies available
 
 <div align="center">
 
-**🎯 329 current opportunities from 156 top companies.**
+**🎯 328 current opportunities from 155 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
