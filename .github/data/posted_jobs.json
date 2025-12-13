@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T08:19:15.762Z",
+  "lastUpdated": "2025-12-13T08:34:00.975Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2322,14 +2322,36 @@
       "sourceUrl": "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1",
       "discordThreadId": "1449314704051929172",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-inference-infrastructure-seattle-2025-12-13-1",
+      "jobId": "bytedance-software-engineer-intern-inference-infrastructure-seattle",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Inference Infrastructure",
+      "postedToDiscord": "2025-12-13T08:34:00.970Z",
+      "sourceDate": "2025-10-03T07:33:21.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7556509873740056850/detail",
+      "discordThreadId": "1449318423745138690",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-inference-infrastructure-san-jose-2025-12-13-1",
+      "jobId": "bytedance-software-engineer-intern-inference-infrastructure-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Inference Infrastructure",
+      "postedToDiscord": "2025-12-13T08:34:00.975Z",
+      "sourceDate": "2025-10-03T07:33:20.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7556512633886132487/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 211,
+    "totalJobs": 213,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T08:19:15.762Z",
+      "date": "2025-12-13T08:34:00.975Z",
       "archived": 0
     }
   }
