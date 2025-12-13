@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Software Developer Automation Intern",
-    "employer_name": "General Dynamics Information Technology",
-    "job_city": "Windsor Mill",
-    "job_state": "MD",
-    "job_description": "Join General Dynamics Information Technology in this exciting opportunity.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
-    "job_posted_at_datetime_utc": "2025-09-26T07:14:10.000Z",
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Ibotta",
+    "job_city": "Denver",
+    "job_state": "CO",
+    "job_description": "Join Ibotta in this exciting opportunity.",
+    "job_apply_link": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
+    "job_posted_at_datetime_utc": "2025-09-26T07:12:01.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "general-dynamics-information-technology-software-developer-automation-intern-windsor-mill",
+    "id": "ibotta-software-engineering-intern-denver",
     "description_platform": "workday",
     "description_success": false
   }
