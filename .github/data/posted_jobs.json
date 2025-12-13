@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T08:34:00.975Z",
+  "lastUpdated": "2025-12-13T08:47:22.160Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2344,14 +2344,25 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7556512633886132487/detail",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "stackav-research-intern-autonomy-pittsburgh-2025-12-13-1",
+      "jobId": "stackav-research-intern-autonomy-pittsburgh",
+      "company": "StackAV",
+      "title": "Research Intern - Autonomy",
+      "postedToDiscord": "2025-12-13T08:47:22.160Z",
+      "sourceDate": "2025-10-03T07:30:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/stackav/jobs/4924796007",
+      "discordThreadId": "1449321784343269478",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 213,
+    "totalJobs": 214,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T08:34:00.975Z",
+      "date": "2025-12-13T08:47:22.160Z",
       "archived": 0
     }
   }
