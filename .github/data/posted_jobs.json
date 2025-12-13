@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T18:33:53.443Z",
+  "lastUpdated": "2025-12-13T18:48:12.924Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2938,14 +2938,25 @@
       "sourceUrl": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/XMLNAME-2026-Summer-Internship---IT-and-Software-Engineering_R7446",
       "discordThreadId": "1449469387709874380",
       "instanceNumber": 1
+    },
+    {
+      "id": "veritiv-corporation-data-science-intern-data-analytics-sandy-springs-2025-12-13-1",
+      "jobId": "veritiv-corporation-data-science-intern-data-analytics-sandy-springs",
+      "company": "Veritiv Corporation",
+      "title": "Data Science Intern - Data Analytics",
+      "postedToDiscord": "2025-12-13T18:48:12.923Z",
+      "sourceDate": "2025-09-27T09:03:36.000Z",
+      "sourceUrl": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Data-Science-Intern_R29786",
+      "discordThreadId": "1449472992437473444",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 267,
+    "totalJobs": 268,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T18:33:53.443Z",
+      "date": "2025-12-13T18:48:12.924Z",
       "archived": 0
     }
   }
