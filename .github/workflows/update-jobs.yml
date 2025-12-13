@@ -33,6 +33,10 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '20'
+        cache: 'npm'
+        cache-dependency-path: |
+          package-lock.json
+          jobboard/package-lock.json
 
     - name: Install job fetcher dependencies
       run: npm install axios cheerio
