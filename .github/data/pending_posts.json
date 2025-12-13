@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Internship - IT",
-      "employer_name": "Wells Enterprises",
-      "job_city": "Sioux City",
-      "job_state": "IA",
-      "job_description": "Under general supervision provides essential support for departmental functions that include a wide range of activities and initiatives.",
-      "job_apply_link": "https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2208682",
-      "job_posted_at_datetime_utc": "2025-09-27T16:57:15.000Z",
+      "job_title": "Software Development Engineer Intern - Metadata Storage",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "View our opening for Software Development Engineer Intern (Metadata Storage) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7549081058936899848/detail",
+      "job_posted_at_datetime_utc": "2025-09-27T16:23:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "wells-enterprises-internship-it-sioux-city",
+      "id": "bytedance-software-development-engineer-intern-metadata-storage-san-jose",
       "description_platform": "generic",
       "description_success": true
     },
     "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T17:53:49.731Z",
-    "postedAt": "2025-12-13T17:53:57.305Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer Intern - Metadata Storage",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7549081058936899848/detail",
-      "job_posted_at_datetime_utc": "2025-09-27T16:23:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-intern-metadata-storage-san-jose"
-    },
-    "status": "pending",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T18:05:36.894Z",
+    "postedAt": "2025-12-13T18:05:44.148Z"
   },
   {
     "job": {
