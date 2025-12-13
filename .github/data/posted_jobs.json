@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T13:13:06.458Z",
+  "lastUpdated": "2025-12-13T13:31:29.487Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2619,14 +2619,25 @@
       "sourceUrl": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29208",
       "discordThreadId": "1449388659752304702",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibotta-business-intelligence-intern-multiple-teams-denver-2025-12-13-1",
+      "jobId": "ibotta-business-intelligence-intern-multiple-teams-denver",
+      "company": "ibotta",
+      "title": "Business Intelligence Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T13:31:29.487Z",
+      "sourceDate": "2025-10-02T15:41:09.000Z",
+      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Business-Intelligence-Intern_R-102134",
+      "discordThreadId": "1449393286362955819",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 238,
+    "totalJobs": 239,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T13:13:06.458Z",
+      "date": "2025-12-13T13:31:29.487Z",
       "archived": 0
     }
   }
