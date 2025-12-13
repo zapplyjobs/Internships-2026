@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T16:47:24.206Z",
+  "lastUpdated": "2025-12-13T16:55:53.782Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2828,14 +2828,25 @@
       "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
       "discordThreadId": "1449442588472901632",
       "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-weather-data-analyst-intern-multiple-teams-atlanta-2025-12-13-1",
+      "jobId": "intercontinental-exchange-weather-data-analyst-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Weather Data Analyst Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T16:55:53.781Z",
+      "sourceDate": "2025-09-29T15:41:25.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11588/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449444725722452029",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 257,
+    "totalJobs": 258,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T16:47:24.206Z",
+      "date": "2025-12-13T16:55:53.782Z",
       "archived": 0
     }
   }
