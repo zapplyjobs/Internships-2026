@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T21:27:55.587Z",
+  "lastUpdated": "2025-12-13T21:35:59.811Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3136,14 +3136,25 @@
       "sourceUrl": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
       "discordThreadId": "1449513184665800827",
       "instanceNumber": 1
+    },
+    {
+      "id": "rambus-data-ai-intern-san-jose-2025-12-13-1",
+      "jobId": "rambus-data-ai-intern-san-jose",
+      "company": "Rambus",
+      "title": "Data & AI Intern",
+      "postedToDiscord": "2025-12-13T21:35:59.810Z",
+      "sourceDate": "2025-09-25T13:57:11.000Z",
+      "sourceUrl": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
+      "discordThreadId": "1449515215149600768",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 285,
+    "totalJobs": 286,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T21:27:55.587Z",
+      "date": "2025-12-13T21:35:59.811Z",
       "archived": 0
     }
   }
