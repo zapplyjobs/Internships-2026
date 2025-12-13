@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Digital Manufacturing Intern - Digital Manufacturing",
-    "employer_name": "Allegion",
-    "job_city": "Princeton",
-    "job_state": "IL",
-    "job_description": "English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Français du Canada French German Hebrew Hungarian Indonesian Italian Japanese Korean Norwegian Bokmål Polish Portuguese, Portugal Romanian Russian Spanish Swedish Thai Turkish Vietnamese Workday is currently unavailable. We are experiencing a service interruption. Your service will be restored as quickly as possible. <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> We apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.",
-    "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Digital-Manufacturing-Intern_JR34017-1",
-    "job_posted_at_datetime_utc": "2025-10-03T05:46:45.000Z",
+    "job_title": "Intern - Software Development Engineer - Multiple Teams",
+    "employer_name": "GM financial",
+    "job_city": "Arlington",
+    "job_state": "TX",
+    "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
+    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1068",
+    "job_posted_at_datetime_utc": "2025-10-03T05:33:19.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "allegion-digital-manufacturing-intern-digital-manufacturing-princeton",
-    "description_platform": "workday",
+    "id": "gm-financial-intern-software-development-engineer-multiple-teams-arlington",
+    "description_platform": "generic",
     "description_success": true
   }
 ]
