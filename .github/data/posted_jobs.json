@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T06:49:55.988Z",
+  "lastUpdated": "2025-12-13T06:59:36.721Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2146,14 +2146,36 @@
       "sourceUrl": "https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9/apply",
       "discordThreadId": "1449292230685888677",
       "instanceNumber": 1
+    },
+    {
+      "id": "synchrony-uconn-stamford-digital-technology-center-intern-summer-2026-stamford-2025-12-13-1",
+      "jobId": "synchrony-uconn-stamford-digital-technology-center-intern-summer-2026-stamford",
+      "company": "Synchrony",
+      "title": "UConn Stamford Digital Technology Center Intern – Summer 2026",
+      "postedToDiscord": "2025-12-13T06:59:30.193Z",
+      "sourceDate": "2025-10-06T17:43:29.000Z",
+      "sourceUrl": "https://www.synchronycareers.com/job-detail/22491940/uconn-stamford-digital-technology-center-intern-summer-2026-remote/",
+      "discordThreadId": "1449294639348715583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-corporation-undergraduate-embedded-computing-engineer-intern-el-segundo-2025-12-13-1",
+      "jobId": "the-aerospace-corporation-undergraduate-embedded-computing-engineer-intern-el-segundo",
+      "company": "The Aerospace Corporation",
+      "title": "Undergraduate Embedded Computing Engineer Intern",
+      "postedToDiscord": "2025-12-13T06:59:36.721Z",
+      "sourceDate": "2025-10-06T09:13:07.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
+      "discordThreadId": "1449294659355676783",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 195,
+    "totalJobs": 197,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T06:49:55.988Z",
+      "date": "2025-12-13T06:59:36.721Z",
       "archived": 0
     }
   }
