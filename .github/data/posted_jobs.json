@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T17:53:54.293Z",
+  "lastUpdated": "2025-12-13T18:05:41.136Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2905,14 +2905,25 @@
       "sourceUrl": "https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2208682",
       "discordThreadId": "1449459324165558303",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-development-engineer-intern-metadata-storage-san-jose-2025-12-13-1",
+      "jobId": "bytedance-software-development-engineer-intern-metadata-storage-san-jose",
+      "company": "ByteDance",
+      "title": "Software Development Engineer Intern - Metadata Storage",
+      "postedToDiscord": "2025-12-13T18:05:41.136Z",
+      "sourceDate": "2025-09-27T16:23:54.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7549081058936899848/detail",
+      "discordThreadId": "1449462289643344078",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 264,
+    "totalJobs": 265,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T17:53:54.293Z",
+      "date": "2025-12-13T18:05:41.136Z",
       "archived": 0
     }
   }
