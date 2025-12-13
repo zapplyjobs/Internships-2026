@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T15:38:13.430Z",
+  "lastUpdated": "2025-12-13T15:46:03.427Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2762,14 +2762,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/datacor/jobs/4918298007",
       "discordThreadId": "1449425179741520044",
       "instanceNumber": 1
+    },
+    {
+      "id": "autodesk-intern-ai-agent-and-knowledge-graphs-research-ai-technologies-boston-2025-12-13-1",
+      "jobId": "autodesk-intern-ai-agent-and-knowledge-graphs-research-ai-technologies-boston",
+      "company": "Autodesk",
+      "title": "Intern - AI Agent and Knowledge Graphs - Research - AI Technologies",
+      "postedToDiscord": "2025-12-13T15:46:03.427Z",
+      "sourceDate": "2025-09-30T21:56:39.000Z",
+      "sourceUrl": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Boston-MA-USA/Intern--AI-Agent-and-Knowledge-Graphs_25WD91982",
+      "discordThreadId": "1449427140008476703",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 251,
+    "totalJobs": 252,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T15:38:13.430Z",
+      "date": "2025-12-13T15:46:03.427Z",
       "archived": 0
     }
   }
