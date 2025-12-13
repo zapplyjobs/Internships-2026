@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Backend Engineering Intern",
-      "employer_name": "Mercury",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Mercury in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/mercury/jobs/5668745004",
-      "job_posted_at_datetime_utc": "2025-10-08T16:40:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mercury-backend-engineering-intern-san-francisco",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T03:38:06.008Z",
-    "postedAt": "2025-12-13T03:38:19.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Intern/Co-op - Multiple Teams",
-      "employer_name": "PathAI",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Our team is passionate about solving big challenges in healthcare and transforming the field of pathology with artificial intelligence.",
-      "job_apply_link": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
-      "job_posted_at_datetime_utc": "2025-10-08T13:08:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pathai-machine-learning-intern-co-op-multiple-teams-boston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T03:38:06.008Z",
-    "postedAt": "2025-12-13T03:38:19.495Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Data Scientist",
       "employer_name": "Adobe",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The TeamAdobe Digital Insights (ADI) is the acknowledged leader in real time economic and digital experience insights. Our findings regularly appear in print and on television across publications as varied as Good Morning America, The New York Times, and CNBC. We work with hundreds of top companies, offering them unique insight into their customers and the state of their industry that they cannot get anywhere else!The OpportunityJoin the Adobe Digital Insights (ADI) team as a Summer 2026 Intern! We transform Adobe’s vast digital data into actionable insights that enhance the brand, inform business strategy, and strengthen customer relationships. You will play a key role in acquiring, processing, and producing insights from the Adobe Content Analytics product. The ideal candidate will have a strong background in analysis and a keen interest in data-driven storytelling.All Adobe interns in 2026 will be co-located hybrid—working between their assigned office and home. Interns will be based in the office where their manager and/or team are located to ensure strong collaboration and support. The frequency of in-office work will be determined by team priorities.What You’ll DoAcquire and process large-scale content engagement data to uncover patterns and trends.Create a comprehensive understanding of Adobe Content Analytics content performance, customer engagement, and conversion measurement insights.Build dashboards and reports that deliver meaningful insights to business collaborators.Develop scripts and automation tools to streamline data extraction and transformation.Contribute to the development of internal analytical tools that enhance team productivity and insight generation.What You Need to Succeed Currently enrolled full time and pursuing a Master’s in Statistics, Mathematics, or Engineering is desired; or equivalent experience required with an expected graduation date of December 2026 – June 2027Solid understanding of SQL and R/PythonUnderstanding of statistical modeling/machine learning/ data mining concepts, and a track record solving problems with these methods.Ability to apply statistical/machine learning techniques such as hypothesis testing, time series forecasting, linear and logistic regression, random forests, etc.Ability to participate in a full-time internship between May-September 2026Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $38.00 -- $51.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeIf this role is open to hiring in Colorado (as listed on the job posting), the application window will remain open until at least the date and time stated above in Pacific Time, in compliance with Colorado pay transparency regulations. If this role does not have Colorado listed as a hiring location, no specific application window applies, and the posting may close at any time based on hiring needs.Massachusetts:Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
       "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Data-Scientist_R160622",
       "job_posted_at_datetime_utc": "2025-10-08T11:55:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "adobe-intern-data-scientist-san-jose"
+      "id": "adobe-intern-data-scientist-san-jose",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T03:49:59.839Z",
+    "postedAt": "2025-12-13T03:50:12.084Z"
   },
   {
     "job": {
@@ -228,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-08T09:02:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kairos-power-materials-characterization-part-time-co-op-spring-2026-albuquerque"
+      "id": "kairos-power-materials-characterization-part-time-co-op-spring-2026-albuquerque",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T03:49:59.839Z",
+    "postedAt": "2025-12-13T03:50:12.084Z"
   },
   {
     "job": {
@@ -24082,6 +24046,150 @@
     },
     "status": "pending",
     "addedAt": "2025-12-13T03:10:32.971Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - CMG Learning and Skill Development",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CMG-Learning-and-Skill-Development_202512-131309",
+      "job_posted_at_datetime_utc": "2025-12-13T02:49:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "genentech-intern-cmg-learning-and-skill-development-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Learning & Skill Development",
+      "employer_name": "Genentech",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Learning---Skill-Development_202512-131311",
+      "job_posted_at_datetime_utc": "2025-12-13T02:49:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "genentech-intern-learning-skill-development-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Spatial Planning Intern",
+      "employer_name": "Zipline",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Zipline in this exciting opportunity.",
+      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7561786003",
+      "job_posted_at_datetime_utc": "2025-12-13T02:39:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zipline-spatial-planning-intern-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Strategic Operations Intern - Data & Tooling",
+      "employer_name": "Zipline",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Zipline in this exciting opportunity.",
+      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7549486003",
+      "job_posted_at_datetime_utc": "2025-12-13T02:39:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zipline-strategic-operations-intern-data-tooling-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern - Summer 2026",
+      "employer_name": "Zipline",
+      "job_city": "Dallas",
+      "job_state": "TX",
+      "job_description": "Join Zipline in this exciting opportunity.",
+      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7561784003",
+      "job_posted_at_datetime_utc": "2025-12-13T02:39:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zipline-software-engineering-intern-summer-2026-dallas"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Analytics Engineering Intern",
+      "employer_name": "Zipline",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Zipline in this exciting opportunity.",
+      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7561778003",
+      "job_posted_at_datetime_utc": "2025-12-13T02:39:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zipline-analytics-engineering-intern-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analytics Intern",
+      "employer_name": "Zipline",
+      "job_city": "San Bruno",
+      "job_state": "CA",
+      "job_description": "Join Zipline in this exciting opportunity.",
+      "job_apply_link": "https://www.flyzipline.com/careers/open-roles?gh_jid=7549485003",
+      "job_posted_at_datetime_utc": "2025-12-13T02:39:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zipline-data-analytics-intern-san-bruno"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Researcher Intern - Vision and Graphics - 2026 Start",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7528196025854380306",
+      "job_posted_at_datetime_utc": "2025-12-13T02:18:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tiktok-researcher-intern-vision-and-graphics-2026-start-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T03:49:47.671Z",
     "enrichedAt": null,
     "postedAt": null
   }
