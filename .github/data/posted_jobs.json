@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T11:17:24.924Z",
+  "lastUpdated": "2025-12-13T11:27:09.807Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2520,14 +2520,25 @@
       "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7295403",
       "discordThreadId": "1449359544751755359",
       "instanceNumber": 1
+    },
+    {
+      "id": "waymo-intern-research-3d-reconstruction-and-synthesis-mountain-view-2025-12-13-1",
+      "jobId": "waymo-intern-research-3d-reconstruction-and-synthesis-mountain-view",
+      "company": "Waymo",
+      "title": "Intern - Research - 3D Reconstruction and Synthesis",
+      "postedToDiscord": "2025-12-13T11:27:09.806Z",
+      "sourceDate": "2025-10-03T03:19:52.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7287920",
+      "discordThreadId": "1449361997886914736",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 229,
+    "totalJobs": 230,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T11:17:24.924Z",
+      "date": "2025-12-13T11:27:09.807Z",
       "archived": 0
     }
   }
