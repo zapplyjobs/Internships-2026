@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T05:31:50.200Z",
+  "lastUpdated": "2025-12-13T05:42:38.698Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2014,14 +2014,36 @@
       "sourceUrl": "https://jobs.jobvite.com/idtus/job/oN7iyfwu?nl=1&nl=1&fr=false",
       "discordThreadId": "1449272570082885635",
       "instanceNumber": 1
+    },
+    {
+      "id": "adobe-intern-ai-developer-san-jose-2025-12-13-1",
+      "jobId": "adobe-intern-ai-developer-san-jose",
+      "company": "Adobe",
+      "title": "Intern - AI Developer",
+      "postedToDiscord": "2025-12-13T05:42:36.995Z",
+      "sourceDate": "2025-10-07T15:50:58.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---AI-Developer_R161143",
+      "discordThreadId": "1449275290017599721",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dow-jones-intern-opis-strategic-insights-analytics-cma-strategic-insights-houston-2025-12-13-1",
+      "jobId": "dow-jones-intern-opis-strategic-insights-analytics-cma-strategic-insights-houston",
+      "company": "Dow Jones",
+      "title": "Intern - OPIS Strategic Insights / Analytics - CMA Strategic Insights",
+      "postedToDiscord": "2025-12-13T05:42:38.698Z",
+      "sourceDate": "2025-10-07T14:59:57.000Z",
+      "sourceUrl": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2026-Internship---OPIS-Strategic-Insights---Analytics-Intern_Job_Req_49296",
+      "discordThreadId": "1449275297290522687",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 183,
+    "totalJobs": 185,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T05:31:50.200Z",
+      "date": "2025-12-13T05:42:38.698Z",
       "archived": 0
     }
   }
