@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T03:38:16.484Z",
+  "lastUpdated": "2025-12-13T03:50:09.073Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1794,14 +1794,36 @@
       "sourceUrl": "https://www.pathai.com/careers/8202342002?gh_jid=8202342002",
       "discordThreadId": "1449243990879764541",
       "instanceNumber": 1
+    },
+    {
+      "id": "adobe-intern-data-scientist-san-jose-2025-12-13-1",
+      "jobId": "adobe-intern-data-scientist-san-jose",
+      "company": "Adobe",
+      "title": "Intern - Data Scientist",
+      "postedToDiscord": "2025-12-13T03:50:04.269Z",
+      "sourceDate": "2025-10-08T11:55:24.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-Intern---Data-Scientist_R160622",
+      "discordThreadId": "1449246967137046689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kairos-power-materials-characterization-part-time-co-op-spring-2026-albuquerque-2025-12-13-1",
+      "jobId": "kairos-power-materials-characterization-part-time-co-op-spring-2026-albuquerque",
+      "company": "Kairos Power",
+      "title": "Materials Characterization Part-Time Co-Op - Spring 2026",
+      "postedToDiscord": "2025-12-13T03:50:09.073Z",
+      "sourceDate": "2025-10-08T09:02:29.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/kairospower/jobs/5658958004",
+      "discordThreadId": "1449246987085025383",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 163,
+    "totalJobs": 165,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T03:38:16.484Z",
+      "date": "2025-12-13T03:50:09.073Z",
       "archived": 0
     }
   }
