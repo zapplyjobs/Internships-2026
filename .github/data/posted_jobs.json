@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T06:35:07.120Z",
+  "lastUpdated": "2025-12-13T06:49:55.988Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2124,14 +2124,36 @@
       "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Battery-Analytics-Intern---Summer-2026_R5021704-1",
       "discordThreadId": "1449288502603808851",
       "instanceNumber": 1
+    },
+    {
+      "id": "major-league-baseball-data-science-intern-baseball-analytics-queens-2025-12-13-1",
+      "jobId": "major-league-baseball-data-science-intern-baseball-analytics-queens",
+      "company": "Major League Baseball",
+      "title": "Data Science Intern - Baseball Analytics",
+      "postedToDiscord": "2025-12-13T06:49:51.266Z",
+      "sourceDate": "2025-10-07T03:50:31.000Z",
+      "sourceUrl": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1347",
+      "discordThreadId": "1449292210398040140",
+      "instanceNumber": 1
+    },
+    {
+      "id": "solopulse-radar-digital-signal-processing-intern-co-op-dsp-norcross-2025-12-13-1",
+      "jobId": "solopulse-radar-digital-signal-processing-intern-co-op-dsp-norcross",
+      "company": "SoloPulse",
+      "title": "Radar Digital Signal Processing – Intern/Co-op - Dsp",
+      "postedToDiscord": "2025-12-13T06:49:55.988Z",
+      "sourceDate": "2025-10-07T01:18:02.000Z",
+      "sourceUrl": "https://jobs.lever.co/solopulseco/663eecca-0951-4354-9a0f-14b52aa72ab9/apply",
+      "discordThreadId": "1449292230685888677",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 193,
+    "totalJobs": 195,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T06:35:07.120Z",
+      "date": "2025-12-13T06:49:55.988Z",
       "archived": 0
     }
   }
