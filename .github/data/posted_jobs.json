@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T07:08:31.985Z",
+  "lastUpdated": "2025-12-13T07:20:13.656Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2190,14 +2190,36 @@
       "sourceUrl": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
       "discordThreadId": "1449296911470297202",
       "instanceNumber": 1
+    },
+    {
+      "id": "amazon-software-development-engineer-internship-seattle-2025-12-13-1",
+      "jobId": "amazon-software-development-engineer-internship-seattle",
+      "company": "Amazon",
+      "title": "Software Development Engineer Internship",
+      "postedToDiscord": "2025-12-13T07:20:08.898Z",
+      "sourceDate": "2025-10-06T08:59:54.000Z",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us",
+      "discordThreadId": "1449299834686410782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waymo-intern-research-multimodal-large-language-models-mountain-view-2025-12-13-1",
+      "jobId": "waymo-intern-research-multimodal-large-language-models-mountain-view",
+      "company": "Waymo",
+      "title": "Intern - Research - Multimodal Large Language Models",
+      "postedToDiscord": "2025-12-13T07:20:13.656Z",
+      "sourceDate": "2025-10-05T05:08:42.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7298453",
+      "discordThreadId": "1449299854894432386",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 199,
+    "totalJobs": 201,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T07:08:31.985Z",
+      "date": "2025-12-13T07:20:13.656Z",
       "archived": 0
     }
   }
