@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T04:56:22.224Z",
+  "lastUpdated": "2025-12-13T05:05:17.450Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1948,14 +1948,36 @@
       "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2026-Associate-Software-Engineer-Undergraduate-Intern_J270354",
       "discordThreadId": "1449263650199048293",
       "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-dram-quality-data-analytics-engineer-boise-2025-12-13-1",
+      "jobId": "micron-technology-intern-dram-quality-data-analytics-engineer-boise",
+      "company": "Micron Technology",
+      "title": "Intern – DRAM Quality Data Analytics Engineer",
+      "postedToDiscord": "2025-12-13T05:05:15.792Z",
+      "sourceDate": "2025-10-08T06:49:32.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Quality-Data-Analytics-Engineer_JR82845",
+      "discordThreadId": "1449265889345146903",
+      "instanceNumber": 1
+    },
+    {
+      "id": "enova-business-operations-intern-co-op-analytics-chicago-2025-12-13-1",
+      "jobId": "enova-business-operations-intern-co-op-analytics-chicago",
+      "company": "Enova",
+      "title": "Business Operations Intern/Co-op - Analytics",
+      "postedToDiscord": "2025-12-13T05:05:17.450Z",
+      "sourceDate": "2025-10-08T06:47:23.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7307044",
+      "discordThreadId": "1449265896898957404",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 177,
+    "totalJobs": 179,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T04:56:22.224Z",
+      "date": "2025-12-13T05:05:17.450Z",
       "archived": 0
     }
   }
