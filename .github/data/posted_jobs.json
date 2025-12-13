@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T13:53:39.212Z",
+  "lastUpdated": "2025-12-13T14:04:46.705Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2652,14 +2652,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/lila/jobs/8188686002",
       "discordThreadId": "1449398856469971115",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibotta-data-engineering-intern-multiple-teams-denver-2025-12-13-1",
+      "jobId": "ibotta-data-engineering-intern-multiple-teams-denver",
+      "company": "ibotta",
+      "title": "Data Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T14:04:46.704Z",
+      "sourceDate": "2025-10-02T10:02:16.000Z",
+      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Data-Engineering-Intern_R-102117-1",
+      "discordThreadId": "1449401663352868964",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 241,
+    "totalJobs": 242,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T13:53:39.212Z",
+      "date": "2025-12-13T14:04:46.705Z",
       "archived": 0
     }
   }
