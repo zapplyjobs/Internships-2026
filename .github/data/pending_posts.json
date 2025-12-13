@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "GM financial",
-      "job_city": "Fort Worth",
-      "job_state": "TX",
-      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
-      "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
-      "job_posted_at_datetime_utc": "2025-09-30T00:17:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gm-financial-data-science-intern-fort-worth",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T16:47:19.503Z",
-    "postedAt": "2025-12-13T16:47:27.218Z"
-  },
-  {
-    "job": {
       "job_title": "Weather Data Analyst Intern - Multiple Teams",
       "employer_name": "Intercontinental Exchange",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Intercontinental Exchange in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>&nbsp;</p> <p>The Weather Data Analyst Intern will support data analysis projects related to weather products and their impact on business applications.</p> <p>&nbsp;</p> <p><strong>Responsibilities</strong></p> <ul> <li>Collaborate with meteorologists, data scientists, and financial engineers to explore innovative meteorological research, including AI and statistical modeling</li> <li>Contribute to research and analytics teams to enhance processes supporting customer applications</li> <li>Recommend enhancements for desktop and mobile platforms and assist in creating technical and educational content</li> <li>Develop scientific cases and hindcasts for customer use and marketing initiatives</li> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a degree program at an accredited university, and be at least advancing to their senior year of study in atmospheric or oceanic science, or enrolled in a graduate program in a related field</li> <li>Familiarity with NOAA and ECMWF datasets, including model guidance and observational data.</li> <li>Experience using scientific data analysis tools such as Python, MATLAB, or R</li> <li>Basic understanding of meteorological data formats (e.g., GRIB, netCDF) and visualization tools</li> <li>Strong written and verbal communication skills, with a professional attitude and curiosity to learn</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Atlanta office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-SH2 </p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
       "job_apply_link": "https://careers-ice.icims.com/jobs/11588/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-29T15:41:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intercontinental-exchange-weather-data-analyst-intern-multiple-teams-atlanta"
+      "id": "intercontinental-exchange-weather-data-analyst-intern-multiple-teams-atlanta",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T16:55:49.288Z",
+    "postedAt": "2025-12-13T16:55:56.794Z"
   },
   {
     "job": {
