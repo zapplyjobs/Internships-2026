@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T21:44:22.421Z",
+  "lastUpdated": "2025-12-13T21:53:16.823Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3158,14 +3158,25 @@
       "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7211004",
       "discordThreadId": "1449517323919818794",
       "instanceNumber": 1
+    },
+    {
+      "id": "pinterest-machine-learning-intern-multiple-teams-palo-alto-2025-12-13-1",
+      "jobId": "pinterest-machine-learning-intern-multiple-teams-palo-alto",
+      "company": "Pinterest",
+      "title": "Machine Learning Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T21:53:16.822Z",
+      "sourceDate": "2025-09-25T11:41:07.000Z",
+      "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7210896",
+      "discordThreadId": "1449519565699682463",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 287,
+    "totalJobs": 288,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T21:44:22.421Z",
+      "date": "2025-12-13T21:53:16.823Z",
       "archived": 0
     }
   }
