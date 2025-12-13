@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "User Identity Services Engineering Intern - Identity - Access Control",
-    "employer_name": "Epic Games",
-    "job_city": "Morrisville",
-    "job_state": "NC",
-    "job_description": "Join Epic Games in this exciting opportunity.",
-    "job_apply_link": "https://epicgames.com/careers/jobs/5662697004?gh_jid=5662697004",
-    "job_posted_at_datetime_utc": "2025-10-02T02:54:15.000Z",
+    "job_title": "Data Engineering Intern - Multiple Teams",
+    "employer_name": "Greenwood Village South",
+    "job_city": "Des Moines",
+    "job_state": "IA",
+    "job_description": "This internship is a full-time, 12-week program (40 hours per week) running from May through August. Interns will gain hands-on professional experience by contributing to meaningful projects that have a direct impact on the business. The program will conclude with a presentation to the senior leadership team, highlighting both the project outcomes and the overall internship experience. Throughout the summer, interns will also gain broad exposure to the organization and its operations.",
+    "job_apply_link": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29123",
+    "job_posted_at_datetime_utc": "2025-10-01T19:05:02.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "epic-games-user-identity-services-engineering-intern-identity-access-control-morrisville",
+    "id": "greenwood-village-south-data-engineering-intern-multiple-teams-des-moines",
     "description_platform": "generic",
-    "description_success": false
+    "description_success": true
   }
 ]
