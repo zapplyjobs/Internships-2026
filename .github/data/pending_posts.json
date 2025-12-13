@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Internship - Software Engineering - Corporate and Business Services",
-      "employer_name": "Zebra Technologies",
-      "job_city": "Vernon Hills",
-      "job_state": "IL",
-      "job_description": "Join Zebra Technologies in this exciting opportunity.",
-      "job_apply_link": "https://zebra.eightfold.ai/careers/job/343635585848",
-      "job_posted_at_datetime_utc": "2025-09-30T14:57:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-vernon-hills",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T15:54:04.268Z",
-    "postedAt": "2025-12-13T15:54:11.945Z"
-  },
-  {
-    "job": {
       "job_title": "AI Machine Learning Intern - Gen AI - Multimodal",
       "employer_name": "Eluvio",
       "job_city": "Berkeley",
       "job_state": "CA",
-      "job_description": "Join Eluvio in this exciting opportunity.",
+      "job_description": "Eluvio is a highly focused and ambitious team of systems, networking, application, and video software engineers, AI scientists, ML engineers, and security experts working together to implement the vision of the Content Fabric - a decentralized platform...",
       "job_apply_link": "https://apply.workable.com/eluvio/j/B37F02D08D/apply",
       "job_posted_at_datetime_utc": "2025-09-30T12:26:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eluvio-ai-machine-learning-intern-gen-ai-multimodal-berkeley"
+      "id": "eluvio-ai-machine-learning-intern-gen-ai-multimodal-berkeley",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T16:05:48.817Z",
+    "postedAt": "2025-12-13T16:05:56.530Z"
   },
   {
     "job": {
