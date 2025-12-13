@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T11:27:09.807Z",
+  "lastUpdated": "2025-12-13T11:34:27.542Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2531,14 +2531,25 @@
       "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7287920",
       "discordThreadId": "1449361997886914736",
       "instanceNumber": 1
+    },
+    {
+      "id": "sentinel-technologies-ai-intern-enterprise-architecture-innovation-downers-grove-2025-12-13-1",
+      "jobId": "sentinel-technologies-ai-intern-enterprise-architecture-innovation-downers-grove",
+      "company": "Sentinel Technologies",
+      "title": "AI Intern - Enterprise Architecture - Innovation",
+      "postedToDiscord": "2025-12-13T11:34:27.541Z",
+      "sourceDate": "2025-10-03T03:05:02.000Z",
+      "sourceUrl": "https://careers-sentinel.icims.com/jobs/4875/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449363833872449616",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 230,
+    "totalJobs": 231,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T11:27:09.807Z",
+      "date": "2025-12-13T11:34:27.542Z",
       "archived": 0
     }
   }
