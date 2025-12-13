@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Intern - Software Development Engineer - Multiple Teams",
-    "employer_name": "GM financial",
-    "job_city": "Arlington",
-    "job_state": "TX",
-    "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
-    "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1068",
-    "job_posted_at_datetime_utc": "2025-10-03T05:33:19.000Z",
+    "job_title": "Co-op – Software Engineering - Multiple Teams",
+    "employer_name": "Philips",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_description": "Workday is currently performing a planned maintenance.We'll be back again at 12PM CET. We apologize for the inconvenience caused and we hope you will check back later with us to find a suitable new opportunity. ​​​​​​​In the meantime feel free to browse through our career website and find out more about #LifeAtPhilips.",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA---Jan-2026_562523",
+    "job_posted_at_datetime_utc": "2025-10-03T05:19:38.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "gm-financial-intern-software-development-engineer-multiple-teams-arlington",
-    "description_platform": "generic",
+    "id": "philips-co-op-software-engineering-multiple-teams-cambridge",
+    "description_platform": "workday",
     "description_success": true
   }
 ]
