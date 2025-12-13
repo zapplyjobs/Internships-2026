@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T21:35:59.811Z",
+  "lastUpdated": "2025-12-13T21:44:22.421Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3147,14 +3147,25 @@
       "sourceUrl": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
       "discordThreadId": "1449515215149600768",
       "instanceNumber": 1
+    },
+    {
+      "id": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto-2025-12-13-1",
+      "jobId": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto",
+      "company": "Pinterest",
+      "title": "PhD Machine Learning Intern 2026 - Multiple Teams",
+      "postedToDiscord": "2025-12-13T21:44:22.421Z",
+      "sourceDate": "2025-09-25T12:42:55.000Z",
+      "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7211004",
+      "discordThreadId": "1449517323919818794",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 286,
+    "totalJobs": 287,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T21:35:59.811Z",
+      "date": "2025-12-13T21:44:22.421Z",
       "archived": 0
     }
   }
