@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T07:20:13.656Z",
+  "lastUpdated": "2025-12-13T07:32:51.595Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2212,14 +2212,36 @@
       "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7298453",
       "discordThreadId": "1449299854894432386",
       "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-data-and-analytics-intern-2026-data-and-analytics-davenport-2025-12-13-1",
+      "jobId": "john-deere-data-and-analytics-intern-2026-data-and-analytics-davenport",
+      "company": "John Deere",
+      "title": "Data and Analytics Intern 2026 - Data and Analytics",
+      "postedToDiscord": "2025-12-13T07:32:46.709Z",
+      "sourceDate": "2025-10-05T03:48:32.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137476749430",
+      "discordThreadId": "1449303012630855725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkosh-software-development-intern-oshkosh-2025-12-13-1",
+      "jobId": "oshkosh-software-development-intern-oshkosh",
+      "company": "Oshkosh",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-13T07:32:51.595Z",
+      "sourceDate": "2025-10-04T20:13:21.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Software-Development-Intern_R41756",
+      "discordThreadId": "1449303033535008942",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 201,
+    "totalJobs": 203,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T07:20:13.656Z",
+      "date": "2025-12-13T07:32:51.595Z",
       "archived": 0
     }
   }
