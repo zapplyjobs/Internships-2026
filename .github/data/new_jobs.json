@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer Intern - CDN Platform",
-    "employer_name": "ByteDance",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "View our opening for Software Engineer Intern (CDN Platform)- 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-    "job_apply_link": "https://jobs.bytedance.com/en/position/7553422988620892423/detail",
-    "job_posted_at_datetime_utc": "2025-09-25T07:04:12.000Z",
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Omnitech",
+    "job_city": "Sioux Falls",
+    "job_state": "SD",
+    "job_description": "Join Omnitech in this exciting opportunity.",
+    "job_apply_link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2028834",
+    "job_posted_at_datetime_utc": "2025-09-25T06:12:23.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "bytedance-software-engineer-intern-cdn-platform-san-jose",
+    "id": "omnitech-software-engineering-intern-sioux-falls",
     "description_platform": "generic",
-    "description_success": true
+    "description_success": false
   }
 ]
