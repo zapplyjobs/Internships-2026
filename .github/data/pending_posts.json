@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Intern - Multiple Teams",
-      "employer_name": "Pinterest",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Join Pinterest in this exciting opportunity.",
-      "job_apply_link": "https://www.pinterestcareers.com/job-form?gh_jid=7210896",
-      "job_posted_at_datetime_utc": "2025-09-25T11:41:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pinterest-machine-learning-intern-multiple-teams-palo-alto",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T20:18:05.605Z",
-    "postedAt": "2025-12-13T21:53:19.835Z"
-  },
-  {
-    "job": {
       "job_title": "Power System Intern - AI/ML",
       "employer_name": "GE Vernova",
       "job_city": "Bellevue",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T20:31:34.732Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T22:04:32.932Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Barry's",
       "job_city": "Miami",
       "job_state": "FL",
-      "job_description": "Join Barry's in this exciting opportunity.",
+      "job_description": "About the role All of our employees are expected to uphold Barry’s community and culture standards, and live the Company’s mission, vision,...",
       "job_apply_link": "https://ats.rippling.com/barrys-careers/jobs/dfd1cd6a-2d8c-46a2-a504-46f97dac825e",
       "job_posted_at_datetime_utc": "2025-09-24T23:16:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "barry-s-undergraduate-summer-scholar-data-analyst-summer-2026-miami"
+      "id": "barry-s-undergraduate-summer-scholar-data-analyst-summer-2026-miami",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T22:04:24.955Z",
     "postedAt": null
   },
   {

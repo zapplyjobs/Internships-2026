@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T21:53:16.823Z",
+  "lastUpdated": "2025-12-13T22:04:29.920Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3169,14 +3169,25 @@
       "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7210896",
       "discordThreadId": "1449519565699682463",
       "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-power-system-intern-ai-ml-bellevue-2025-12-13-1",
+      "jobId": "ge-vernova-power-system-intern-ai-ml-bellevue",
+      "company": "GE Vernova",
+      "title": "Power System Intern - AI/ML",
+      "postedToDiscord": "2025-12-13T22:04:29.920Z",
+      "sourceDate": "2025-09-25T08:08:50.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/Power-System-Intern---AI-ML---Summer-2026_R5016935-3",
+      "discordThreadId": "1449522387610632292",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 288,
+    "totalJobs": 289,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T21:53:16.823Z",
+      "date": "2025-12-13T22:04:29.920Z",
       "archived": 0
     }
   }
