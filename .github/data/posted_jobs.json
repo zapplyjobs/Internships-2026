@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T06:19:28.083Z",
+  "lastUpdated": "2025-12-13T06:35:07.120Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2102,14 +2102,36 @@
       "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-Intern--Summer-2026-_344550-1",
       "discordThreadId": "1449284563535925352",
       "instanceNumber": 1
+    },
+    {
+      "id": "waymo-intern-research-coding-agents-for-av-planning-mountain-view-2025-12-13-1",
+      "jobId": "waymo-intern-research-coding-agents-for-av-planning-mountain-view",
+      "company": "Waymo",
+      "title": "Intern - Research - Coding Agents for AV Planning",
+      "postedToDiscord": "2025-12-13T06:35:02.466Z",
+      "sourceDate": "2025-10-07T06:07:48.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7301864",
+      "discordThreadId": "1449288483305951252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-battery-analytics-intern-multiple-teams-schenectady-2025-12-13-1",
+      "jobId": "ge-vernova-battery-analytics-intern-multiple-teams-schenectady",
+      "company": "GE Vernova",
+      "title": "Battery Analytics Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T06:35:07.120Z",
+      "sourceDate": "2025-10-07T04:00:15.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Battery-Analytics-Intern---Summer-2026_R5021704-1",
+      "discordThreadId": "1449288502603808851",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 191,
+    "totalJobs": 193,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T06:19:28.083Z",
+      "date": "2025-12-13T06:35:07.120Z",
       "archived": 0
     }
   }
