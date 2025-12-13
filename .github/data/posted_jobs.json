@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T13:31:29.487Z",
+  "lastUpdated": "2025-12-13T13:42:09.254Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2630,14 +2630,25 @@
       "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Business-Intelligence-Intern_R-102134",
       "discordThreadId": "1449393286362955819",
       "instanceNumber": 1
+    },
+    {
+      "id": "hermeus-modeling-simulation-software-engineering-intern-los-angeles-2025-12-13-1",
+      "jobId": "hermeus-modeling-simulation-software-engineering-intern-los-angeles",
+      "company": "Hermeus",
+      "title": "Modeling & Simulation Software Engineering Intern",
+      "postedToDiscord": "2025-12-13T13:42:09.253Z",
+      "sourceDate": "2025-10-02T14:13:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853",
+      "discordThreadId": "1449395962350010380",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 239,
+    "totalJobs": 240,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T13:31:29.487Z",
+      "date": "2025-12-13T13:42:09.254Z",
       "archived": 0
     }
   }
