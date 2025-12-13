@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Omnitech",
-      "job_city": "Sioux Falls",
-      "job_state": "SD",
-      "job_description": "Join Omnitech in this exciting opportunity.",
-      "job_apply_link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2028834",
-      "job_posted_at_datetime_utc": "2025-09-25T06:12:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "omnitech-software-engineering-intern-sioux-falls",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T20:54:44.133Z",
-    "postedAt": "2025-12-13T22:40:12.916Z"
-  },
-  {
-    "job": {
       "job_title": "Manufacturing Quality Intern - Multiple Teams",
       "employer_name": "Clarios",
       "job_city": "Florence",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T21:04:44.789Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T22:47:58.063Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-24T06:11:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "assured-guaranty-it-software-development-intern-new-york"
+      "id": "assured-guaranty-it-software-development-intern-new-york",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T22:47:50.781Z",
     "postedAt": null
   },
   {
