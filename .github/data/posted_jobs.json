@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T12:36:35.100Z",
+  "lastUpdated": "2025-12-13T12:57:52.773Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2597,14 +2597,25 @@
       "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Data-Engineer-Intern_R-102128",
       "discordThreadId": "1449379468635275425",
       "instanceNumber": 1
+    },
+    {
+      "id": "ibotta-fraud-analytics-intern-fraud-analytics-operations-denver-2025-12-13-1",
+      "jobId": "ibotta-fraud-analytics-intern-fraud-analytics-operations-denver",
+      "company": "ibotta",
+      "title": "Fraud Analytics Intern - Fraud Analytics & Operations",
+      "postedToDiscord": "2025-12-13T12:57:52.772Z",
+      "sourceDate": "2025-10-02T22:00:24.000Z",
+      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Fraud-Analytics-Intern_R-102129",
+      "discordThreadId": "1449384827206897746",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 236,
+    "totalJobs": 237,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T12:36:35.100Z",
+      "date": "2025-12-13T12:57:52.773Z",
       "archived": 0
     }
   }
