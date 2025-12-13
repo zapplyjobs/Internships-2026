@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T08:55:57.398Z",
+  "lastUpdated": "2025-12-13T09:04:54.996Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2366,14 +2366,25 @@
       "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op--Machine-Learning_R5580",
       "discordThreadId": "1449323937916915733",
       "instanceNumber": 1
+    },
+    {
+      "id": "replit-software-engineering-intern-multiple-teams-san-mateo-2025-12-13-1",
+      "jobId": "replit-software-engineering-intern-multiple-teams-san-mateo",
+      "company": "Replit",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T09:04:54.995Z",
+      "sourceDate": "2025-10-03T05:48:59.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1/application",
+      "discordThreadId": "1449326193127198771",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 215,
+    "totalJobs": 216,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T08:55:57.398Z",
+      "date": "2025-12-13T09:04:54.996Z",
       "archived": 0
     }
   }
