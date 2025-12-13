@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T19:26:34.627Z",
+  "lastUpdated": "2025-12-13T19:32:15.227Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2993,14 +2993,25 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
       "discordThreadId": "1449482646710124544",
       "instanceNumber": 1
+    },
+    {
+      "id": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte-2025-12-13-1",
+      "jobId": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte",
+      "company": "Red Ventures",
+      "title": "Data Science Product Manager Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T19:32:15.227Z",
+      "sourceDate": "2025-09-26T21:31:22.000Z",
+      "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279173",
+      "discordThreadId": "1449484075210510477",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 272,
+    "totalJobs": 273,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T19:26:34.627Z",
+      "date": "2025-12-13T19:32:15.227Z",
       "archived": 0
     }
   }
