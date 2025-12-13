@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T12:57:52.773Z",
+  "lastUpdated": "2025-12-13T13:13:06.458Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2608,14 +2608,25 @@
       "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/Ibotta/job/Denver-CO/Fraud-Analytics-Intern_R-102129",
       "discordThreadId": "1449384827206897746",
       "instanceNumber": 1
+    },
+    {
+      "id": "greenwood-village-south-business-analytics-intern-finance-data-analytics-des-moines-2025-12-13-1",
+      "jobId": "greenwood-village-south-business-analytics-intern-finance-data-analytics-des-moines",
+      "company": "Greenwood Village South",
+      "title": "Business Analytics Intern - Finance - Data Analytics",
+      "postedToDiscord": "2025-12-13T13:13:06.458Z",
+      "sourceDate": "2025-10-02T17:26:12.000Z",
+      "sourceUrl": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29208",
+      "discordThreadId": "1449388659752304702",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 237,
+    "totalJobs": 238,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T12:57:52.773Z",
+      "date": "2025-12-13T13:13:06.458Z",
       "archived": 0
     }
   }

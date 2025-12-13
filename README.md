@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-328-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-326-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-156-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 156+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 328+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 156+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 326+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 328 internships & new grad roles  
+🔥 **Current Opportunities:** 326 internships & new grad roles  
 🏢 **Top Companies:** 156 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1713 (older than 1 week)
+📁 **Archived Opportunities:** 1707 (older than 1 week)
 
 
 ---
@@ -130,7 +130,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Research Intern - Bio Large Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 10h |
+| Research Intern - Bio Large Language Models | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 11h |
 | Research Intern | Hillsboro, OR | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 1d |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 1d |
 | Research Intern - MSR Inclusive Futures Team | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 1d |
@@ -262,7 +262,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 296 | 90% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 294 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 28 | 9% | 0-1 years of experience |
 | 🔴 Early Career         | 4 | 1% | 1-2 years of experience |
 
@@ -270,9 +270,9 @@ No companies available
 
 ### 🌍 **Top Locations**
 - **Redmond, WA**: 51 opportunities
-- **Sunnyvale, CA**: 20 opportunities
+- **Sunnyvale, CA**: 19 opportunities
 - **Remote in USA, Locations**: 13 opportunities
-- **San Bruno, CA**: 10 opportunities
+- **San Bruno, CA**: 9 opportunities
 - **Chicago, IL**: 9 opportunities
 - **Cambridge, MA**: 9 opportunities
 - **Austin, TX**: 8 opportunities
@@ -282,7 +282,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 328+ verified internships and new grad roles from 156 top companies.
+✅ **100% Real Opportunities:** 326+ verified internships and new grad roles from 156 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -334,12 +334,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1713 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1707 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1713 roles
+- **📁 Total Positions**: 1707 roles
 - **🏢 Companies**: 156 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
@@ -594,7 +594,7 @@ No companies available
 
 <div align="center">
 
-**🎯 328 current opportunities from 156 top companies.**
+**🎯 326 current opportunities from 156 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
