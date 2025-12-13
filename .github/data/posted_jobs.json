@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T15:04:44.968Z",
+  "lastUpdated": "2025-12-13T15:17:59.477Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2729,14 +2729,25 @@
       "sourceUrl": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---CA---Silicon-Valley-Office/Software-Engineering-Intern_4014",
       "discordThreadId": "1449416747282075851",
       "instanceNumber": 1
+    },
+    {
+      "id": "thomson-reuters-software-engineer-co-op-rochester-2025-12-13-1",
+      "jobId": "thomson-reuters-software-engineer-co-op-rochester",
+      "company": "Thomson Reuters",
+      "title": "Software Engineer Co-Op",
+      "postedToDiscord": "2025-12-13T15:17:59.477Z",
+      "sourceDate": "2025-10-01T05:03:40.000Z",
+      "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-Rochester-85-Allen-St/Software-Engineer-Co-Op_JREQ194937",
+      "discordThreadId": "1449420087147888800",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 248,
+    "totalJobs": 249,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T15:04:44.968Z",
+      "date": "2025-12-13T15:17:59.477Z",
       "archived": 0
     }
   }
