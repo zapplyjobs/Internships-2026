@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Human Services Internship - Analytics - Technology & Planning",
-      "employer_name": "Allegheny County",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Join Allegheny County in this exciting opportunity.",
-      "job_apply_link": "https://alleghenycounty.bamboohr.com/careers/578/",
-      "job_posted_at_datetime_utc": "2025-10-03T18:50:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "allegheny-county-human-services-internship-analytics-technology-planning-pittsburgh",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T08:05:52.463Z",
-    "postedAt": "2025-12-13T08:06:01.641Z"
-  },
-  {
-    "job": {
-      "job_title": "Data and Analytics Intern - Analytics - Multiple Teams",
-      "employer_name": "Greenwood Village South",
-      "job_city": "Des Moines",
-      "job_state": "IA",
-      "job_description": "About the program This internship is a full-time, 12-week program (40 hours per week) running from May through August. Interns will gain hands-on professional experience by contributing to meaningful projects that have a direct impact on the business. The program will conclude with a presentation to the senior leadership team, highlighting both the project outcomes and the overall internship experience. Throughout the summer, interns will also gain broad exposure to the organization and its operations. Experience is Everything. At LCS, experience is everything. We provide you the opportunity to use your talents in a progressive, growing organization that makes a positive difference in the lives of the seniors we serve. If you are seeking an organization that gives back, you’ll love working here. Our principles and hospitality promises define our company culture. LCS employees can be found participating in volunteer activities, getting involved in our committees or collaborating...",
-      "job_apply_link": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29210",
-      "job_posted_at_datetime_utc": "2025-10-03T15:00:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "greenwood-village-south-data-and-analytics-intern-analytics-multiple-teams-des-moines",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T08:05:52.463Z",
-    "postedAt": "2025-12-13T08:06:01.641Z"
-  },
-  {
-    "job": {
       "job_title": "PhD. Co-op - AI Research / Generative AI Engineer",
       "employer_name": "Philips",
       "job_city": "Orlando",
       "job_state": "FL",
-      "job_description": "Join Philips in this exciting opportunity.",
+      "job_description": "Workday is currently performing a planned maintenance.We'll be back again at 12PM CET. We apologize for the inconvenience caused and we hope you will check back later with us to find a suitable new opportunity. ​​​​​​​In the meantime feel free to browse through our career website and find out more about #LifeAtPhilips.",
       "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando/PhD-Co-op---AI-Research---Generative-AI-Engineer---Orlando--FL---January-2026_562065",
       "job_posted_at_datetime_utc": "2025-10-03T14:45:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "philips-phd-co-op-ai-research-generative-ai-engineer-orlando"
+      "id": "philips-phd-co-op-ai-research-generative-ai-engineer-orlando",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T08:19:04.973Z",
+    "postedAt": "2025-12-13T08:19:18.772Z"
   },
   {
     "job": {
@@ -223,17 +185,19 @@
       "employer_name": "Axos Bank",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join Axos Bank in this exciting opportunity.",
+      "job_description": "English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Français du Canada French German Hebrew Hungarian Indonesian Italian Japanese Korean Norwegian Bokmål Polish Portuguese, Portugal Romanian Russian Spanish Swedish Thai Turkish Vietnamese Workday is currently unavailable. We are experiencing a service interruption. Your service will be restored as quickly as possible. <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> We apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.",
       "job_apply_link": "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1",
       "job_posted_at_datetime_utc": "2025-10-03T14:08:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "axos-bank-software-development-intern-san-diego"
+      "id": "axos-bank-software-development-intern-san-diego",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T08:19:04.973Z",
+    "postedAt": "2025-12-13T08:19:18.772Z"
   },
   {
     "job": {
@@ -23416,6 +23380,24 @@
     },
     "status": "pending",
     "addedAt": "2025-12-13T07:44:22.690Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Computer Vision/AI",
+      "employer_name": "Samsung Research America",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Samsung Research America in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
+      "job_posted_at_datetime_utc": "2025-12-13T07:16:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "samsung-research-america-intern-computer-vision-ai-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-13T08:18:40.199Z",
     "enrichedAt": null,
     "postedAt": null
   }

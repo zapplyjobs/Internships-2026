@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T08:05:58.630Z",
+  "lastUpdated": "2025-12-13T08:19:15.762Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2300,14 +2300,36 @@
       "sourceUrl": "https://eexs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/GreenwoodVillageSouth/jobs/job/29210",
       "discordThreadId": "1449311368053522442",
       "instanceNumber": 1
+    },
+    {
+      "id": "philips-phd-co-op-ai-research-generative-ai-engineer-orlando-2025-12-13-1",
+      "jobId": "philips-phd-co-op-ai-research-generative-ai-engineer-orlando",
+      "company": "Philips",
+      "title": "PhD. Co-op - AI Research / Generative AI Engineer",
+      "postedToDiscord": "2025-12-13T08:19:09.382Z",
+      "sourceDate": "2025-10-03T14:45:45.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orlando/PhD-Co-op---AI-Research---Generative-AI-Engineer---Orlando--FL---January-2026_562065",
+      "discordThreadId": "1449314684238041090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-bank-software-development-intern-san-diego-2025-12-13-1",
+      "jobId": "axos-bank-software-development-intern-san-diego",
+      "company": "Axos Bank",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-13T08:19:15.761Z",
+      "sourceDate": "2025-10-03T14:08:31.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern---Summer-2026_JR3503-1",
+      "discordThreadId": "1449314704051929172",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 209,
+    "totalJobs": 211,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T08:05:58.630Z",
+      "date": "2025-12-13T08:19:15.762Z",
       "archived": 0
     }
   }
