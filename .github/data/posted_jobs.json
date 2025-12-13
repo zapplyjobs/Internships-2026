@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-12T13:02:43.045Z",
+  "lastUpdated": "2025-12-13T01:59:15.018Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1706,14 +1706,36 @@
       "sourceUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR105106",
       "discordThreadId": "1449023657119584256",
       "instanceNumber": 1
+    },
+    {
+      "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
+      "jobId": "eight-sleep-ai-ml-research-internship-san-francisco",
+      "company": "Eight Sleep",
+      "title": "AI/ML Research Internship",
+      "postedToDiscord": "2025-12-13T01:59:08.512Z",
+      "sourceDate": "2025-10-09T14:17:58.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
+      "discordThreadId": "1449219050654793728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blizzard-entertainment-tech-art-woodland-hills-2025-12-13-1",
+      "jobId": "blizzard-entertainment-tech-art-woodland-hills",
+      "company": "Blizzard Entertainment",
+      "title": "Tech Art",
+      "postedToDiscord": "2025-12-13T01:59:15.018Z",
+      "sourceDate": "2025-10-09T14:09:07.000Z",
+      "sourceUrl": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art",
+      "discordThreadId": "1449219070615355477",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 155,
+    "totalJobs": 157,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-12T13:02:43.045Z",
+      "date": "2025-12-13T01:59:15.018Z",
       "archived": 0
     }
   }
