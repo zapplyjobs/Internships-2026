@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T07:44:41.497Z",
+  "lastUpdated": "2025-12-13T07:53:57.352Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2256,14 +2256,36 @@
       "sourceUrl": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261",
       "discordThreadId": "1449306011029737666",
       "instanceNumber": 1
+    },
+    {
+      "id": "susquehanna-international-group-sig-technology-co-op-with-drexel-university-spring-summer-a-round-ardmore-2025-12-13-1",
+      "jobId": "susquehanna-international-group-sig-technology-co-op-with-drexel-university-spring-summer-a-round-ardmore",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Technology Co-op with Drexel University: Spring/Summer a-Round",
+      "postedToDiscord": "2025-12-13T07:53:52.648Z",
+      "sourceDate": "2025-10-04T05:29:40.000Z",
+      "sourceUrl": "https://careers-sig.icims.com/jobs/9911/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449308322665861225",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-mobile-application-development-intern-multiple-teams-atlanta-2025-12-13-1",
+      "jobId": "intercontinental-exchange-mobile-application-development-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Mobile Application Development Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T07:53:57.352Z",
+      "sourceDate": "2025-10-03T22:50:05.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11595/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449308342853042178",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 205,
+    "totalJobs": 207,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T07:44:41.497Z",
+      "date": "2025-12-13T07:53:57.352Z",
       "archived": 0
     }
   }
