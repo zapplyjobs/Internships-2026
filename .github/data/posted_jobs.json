@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T01:59:15.018Z",
+  "lastUpdated": "2025-12-13T02:41:12.138Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1728,14 +1728,36 @@
       "sourceUrl": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025921EXTERNALENGLOBAL/2026-US-Summer-Internships-Tech-Art",
       "discordThreadId": "1449219070615355477",
       "instanceNumber": 1
+    },
+    {
+      "id": "biogen-co-op-machine-learning-cambridge-2025-12-13-1",
+      "jobId": "biogen-co-op-machine-learning-cambridge",
+      "company": "Biogen",
+      "title": "Co-op, Machine Learning",
+      "postedToDiscord": "2025-12-13T02:41:07.324Z",
+      "sourceDate": "2025-10-09T13:47:07.000Z",
+      "sourceUrl": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Machine-Learning_REQ21752",
+      "discordThreadId": "1449229607734607872",
+      "instanceNumber": 1
+    },
+    {
+      "id": "altice-usa-intern-junior-systems-analyst-plainview-2025-12-13-1",
+      "jobId": "altice-usa-intern-junior-systems-analyst-plainview",
+      "company": "Altice USA",
+      "title": "Intern – Junior Systems Analyst",
+      "postedToDiscord": "2025-12-13T02:41:12.138Z",
+      "sourceDate": "2025-10-09T09:03:07.000Z",
+      "sourceUrl": "https://www.alticeusacareers.com/job/Golden-Intern-Jr-Systems-Analyst-CO-80401/1332889100/?ats=successfactors",
+      "discordThreadId": "1449229635555557579",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 157,
+    "totalJobs": 159,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T01:59:15.018Z",
+      "date": "2025-12-13T02:41:12.138Z",
       "archived": 0
     }
   }
