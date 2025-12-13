@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T11:34:27.542Z",
+  "lastUpdated": "2025-12-13T11:44:28.876Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2542,14 +2542,25 @@
       "sourceUrl": "https://careers-sentinel.icims.com/jobs/4875/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1449363833872449616",
       "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-engineering-intern-unified-communications-allen-2025-12-13-1",
+      "jobId": "motorola-software-engineering-intern-unified-communications-allen",
+      "company": "Motorola",
+      "title": "Software Engineering Intern - Unified Communications",
+      "postedToDiscord": "2025-12-13T11:44:28.876Z",
+      "sourceDate": "2025-10-03T02:28:31.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58156",
+      "discordThreadId": "1449366355429298292",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 231,
+    "totalJobs": 232,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T11:34:27.542Z",
+      "date": "2025-12-13T11:44:28.876Z",
       "archived": 0
     }
   }

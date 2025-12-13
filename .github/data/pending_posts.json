@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "AI Intern - Enterprise Architecture - Innovation",
-      "employer_name": "Sentinel Technologies",
-      "job_city": "Downers Grove",
-      "job_state": "IL",
-      "job_description": "Join Sentinel Technologies in this exciting opportunity.",
-      "job_apply_link": "https://careers-sentinel.icims.com/jobs/4875/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-03T03:05:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sentinel-technologies-ai-intern-enterprise-architecture-innovation-downers-grove",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T11:34:23.031Z",
-    "postedAt": "2025-12-13T11:34:30.554Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern - Unified Communications",
       "employer_name": "Motorola",
       "job_city": "Allen",
       "job_state": "TX",
-      "job_description": "Join Motorola in this exciting opportunity.",
+      "job_description": "MOTOROLA SOLUTIONS OVERVIEW At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Learn more at www.motorolasolutions.com. If you are a current Motorola Solutions employee, please click this link to apply through your Workday account.",
       "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineering-Intern---Summer-2026_R58156",
       "job_posted_at_datetime_utc": "2025-10-03T02:28:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "motorola-software-engineering-intern-unified-communications-allen"
+      "id": "motorola-software-engineering-intern-unified-communications-allen",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T11:44:24.170Z",
+    "postedAt": "2025-12-13T11:44:31.889Z"
   },
   {
     "job": {
