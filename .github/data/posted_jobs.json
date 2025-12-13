@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T15:29:51.405Z",
+  "lastUpdated": "2025-12-13T15:38:13.430Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2751,14 +2751,25 @@
       "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Solutions-Architecture-Intern---PhD_2502347-1",
       "discordThreadId": "1449423073462976613",
       "instanceNumber": 1
+    },
+    {
+      "id": "datacor-internship-program-multiple-teams-remote-in-usa-2025-12-13-1",
+      "jobId": "datacor-internship-program-multiple-teams-remote-in-usa",
+      "company": "Datacor",
+      "title": "Internship Program - Multiple Teams",
+      "postedToDiscord": "2025-12-13T15:38:13.430Z",
+      "sourceDate": "2025-10-01T04:28:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/datacor/jobs/4918298007",
+      "discordThreadId": "1449425179741520044",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 250,
+    "totalJobs": 251,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T15:29:51.405Z",
+      "date": "2025-12-13T15:38:13.430Z",
       "archived": 0
     }
   }
