@@ -161,61 +161,23 @@
   },
   {
     "job": {
-      "job_title": "Powertrain Software Validation Intern",
-      "employer_name": "Daimler Truck",
-      "job_city": "Portland",
-      "job_state": "OR",
-      "job_description": "Join Daimler Truck in this exciting opportunity.",
-      "job_apply_link": "https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Portland-OR-US/Powertrain-Software-Validation-Intern_DT-15545",
-      "job_posted_at_datetime_utc": "2025-10-07T13:08:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "daimler-truck-powertrain-software-validation-intern-portland",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T06:07:48.596Z",
-    "postedAt": "2025-12-13T06:08:00.835Z"
-  },
-  {
-    "job": {
-      "job_title": "Junior Data Engineer Intern",
-      "employer_name": "Allison Transmission",
-      "job_city": "Indianapolis",
-      "job_state": "IN",
-      "job_description": "Join Allison Transmission in this exciting opportunity.",
-      "job_apply_link": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Junior-Data-Engineer---Summer-2026_R006912",
-      "job_posted_at_datetime_utc": "2025-10-07T13:06:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "allison-transmission-junior-data-engineer-intern-indianapolis",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T06:07:48.596Z",
-    "postedAt": "2025-12-13T06:08:00.835Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Integrated Mission Systems",
       "employer_name": "Innovative Defense Technologies",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join Innovative Defense Technologies in this exciting opportunity.",
+      "job_description": "Join Our Team Innovative Defense Technologies (IDT) is an information technology company headquartered in Arlington, Virginia. Founded in 2006, IDT designs best-in-class solutions that facilitate the rapid delivery of software-based capabilities for the U.S. Department of Defense. Our entire team works together in an entrepreneurial atmosphere marked by innovation and excellence. Search our current openings Category: Select a Category {{ item.name }} Location: Select a Location {{ item.name }} Job Type: Select a Job Type {{ item.name }} Keyword: Search All Open Positions Featured Jobs Software Engineer Arlington, Virginia Director of Corporate FP&A Arlington, Virginia Corporate Helpdesk Technician San Diego, California Operations Support Administrator Mount Laurel, New Jersey Company Culture IDT is a growing company with a vibrant, mission-driven culture. Our team values collaboration, innovation, and the generous exchange of ideas. Throughout the year, we offer a variety of events to keep employees connected and informed. Learn More Benefits At IDT, our employees' well-being is important to us and we are always looking for innovative ways to enhance the benefit programs we offer. We strive to offer high-quality benefits with reputable, nationwide carriers who will partner with our employees to meet our unique insurance needs. Our goal is to have a well-rounded suite of benefits that meet the needs of our employees and their families. Learn More Top Reasons Candidates Choose IDT The opportunity to join a growing company The ability to work with and develop cutting edge technology The compensation package An opportunity for upward mobility and career advancement Main Offices Learn More Meet the Recruitment Team Previous Next Eliza “I am passionate about connecting top talent with opportunity. At IDT, I am proud to help drive success by bringing in the right people who keep our wheels turning!” Jaylin “I love being a part of IDT! I am passionate about helping candidates find their ideal roles & I enjoy connecting them to the exciting projects with hold within our organization. It fulfills me to be on a team that values the candidate experience and thrives to contribute to the success of the company.” Jacolahn “In my position here at IDT I am fortunate enough to be able to engage with interns and early career talent from around the country. Being a member of the recruitment team affords me the opportunity to also play a pivotal role in assisting candidates with their career journey.” Phoebe “Helping other people has always been my passion ever since I was a little kid. Having the opportunity to help candidates land their dream positions at a company like IDT that values quality, honesty, and respect is everything!” Samantha “I enjoy the opportunity to make a difference in our employees' careers. It is extremely gratifying to help a candidate become a valued member of the IDT team.” Shelby “Being a part of IDT has been rewarding on multiple levels! I love supporting candidates and connecting them to the exciting opportunities we hold within our organization. I find joy in a successful candidate experience, and I'm proud to be a part of a company that values that entirely.” Caroline “I love being part of the recruitment team at IDT and helping individuals find their next career opportunity with us. Working with passionate people at such a mission driven organization is incredibly rewarding.” Jack “I love finding the diamond in the rough. I get giddy when I help someone realize their background or military experience is a perfect fit for a role they didn’t think they qualified for.” Mushtaba “I am proud to be part of the IDT recruiting team where we change people's lives by placing them in their dream job! IDT offers the opportunity to work with cutting-edge technology and has a company entrepreneurial culture that encourages creativity and rewards innovation.” Casey “I am proud to be a part of a team that exemplifies the mission driven spirit of IDT. Being a member of the recruitment team has allowed me to maintain my passions of connecting with candidates and assisting in their search for their ideal role!” Edelmira “Joining IDT has brought me the opportunity to connect great talent with exciting opportunities across the company. I am incredibly grateful to contribute to IDT’S mission.” Applicants, employees and former employees are protected from employment discrimination based on race, color, religion, sex, pregnancy, sexual orientaton, gender identity, national origin, age, disability, veteran status, genetic information, , or any other basis protected by federal, state, or local law. As an Equal Opportunity Employer, IDT is committed to providing reasonable accommodations to individuals with disabilities. If you are an individual with a disability and need accommodation in order to apply for our positions, please call 703.807.0055.",
       "job_apply_link": "https://jobs.jobvite.com/idtus/job/oY6myfwI?nl=1&nl=1&fr=false",
       "job_posted_at_datetime_utc": "2025-10-07T11:28:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "innovative-defense-technologies-software-engineer-intern-integrated-mission-systems-san-diego"
+      "id": "innovative-defense-technologies-software-engineer-intern-integrated-mission-systems-san-diego",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T06:19:16.791Z",
+    "postedAt": "2025-12-13T06:19:31.093Z"
   },
   {
     "job": {
@@ -223,17 +185,19 @@
       "employer_name": "QBE Insurance",
       "job_city": "Madison",
       "job_state": "WI",
-      "job_description": "Join QBE Insurance in this exciting opportunity.",
+      "job_description": "Primary DetailsTime Type: Full timeWorker Type: EmployeeTitle: Data Science and Machine Learning Engineering Intern (Summer 2026)The Opportunity: At QBE, we believe machine learning and AI can transform the insurance industry - making it smarter, faster, and more human. Our Data Science and Machine Learning Engineering team builds real-world solutions that support Pricing, Underwriting and Claims, driving innovation and impact across the business. We value curiosity, clarity, craftsmanship, and collaboration - and we’re looking for team members who share these values.As an intern, you’ll contribute to building and deploying ML and AI systems that solve practical business problems. This role is ideal for someone eager to apply technical skills, learn from experienced peers, and grow in a fast-paced, supportive environment.Location: Sun Prairie, WisconsinWork Arrangement: This role is hybrid, where you will be expected to be in the office 4 days per week at our Sun Prairie, WI officeThe salary range for this role is between $18-$27.00 an hourYour new role Use data to uncover insights that improve underwriting and operations.Build and evaluate models, explore new features, and collaborate with teams to deliver measurable impact.Contribute to the development and maintenance of deployment pipelines, ensuring models are robust, reproducible, and scalable. Write clean, efficient, and well-documented Python code using libraries such as pandas, numpy, pydantic, and FastAPI.Learn and apply modern ML tools and frameworks such as Transformers and MLflow.Stay curious - ask questions, seek feedback, and continuously improve your skills.Required Qualifications Current enrollment in a Bachelor’s in Computer Science, Engineering, Mathematics, Data Science, or a related field.Working knowledge of Python; ability to quickly learn new Python packages and programming concepts.Preferred Competencies/SkillsProficiency in Python and familiarity with core data science libraries (e.g., pandas, numpy, scikit-learn).Exposure to cloud platforms (especially Azure) and containerization tools like Docker.Understanding of MLOps concepts such as Git, CI/CD, and model lifecycle management.Familiarity with model validation and monitoring practices.Strong communication skills and a collaborative mindset.Eagerness to learn and grow - technically and professionally.Why QBE? What if you could have a positive impact – at work and in the world? At QBE, we’re enabling a more resilient future – for our customers, communities, environment, and for our people. We’re building momentum to achieve something significant and know our people are at the center of our success. Our industry offers interesting and varied careers where you can help people to protect what matters most. As part of the QBE team, you’ll get to spend every day working with people who are passionate, talented and kind. And our international scale means we’re big enough for your ambitions, yet small enough for you to make a real impact. Join us now, so you can be part of our success – and we can be part of yours! https://www.linkedin.com/company/qbe-north-america/ QBE is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with QBE, please inform our Talent Acquisition team to let us know the nature of your accommodation request and your contact information. Equal Employment Opportunity: QBE provides equal employment opportunities to applicants and employees without regard to race; color; gender; gender identity; sexual orientation; religious practices and observances; national origin; pregnancy, childbirth, or related medical conditions; protected veteran status; or disability or any other legally protected status. This position is not eligible for visa sponsorship. Applicants must be authorized to work in the United States on a full-time basis without the need for current or future sponsorship. Supplementary information Skills:Collaboration Tools, Communication, Critical Thinking, Data Entry, Document Management, Email Management, Financial Products, Hands-On Learning, Intentional collaboration, Managing performance, Microsoft Applications, Report Writing, Research Analysis, Self Motivation, Time ManagementHow to Apply:To submit your application, click \"Apply\" and follow the step by step process.Equal Employment Opportunity:QBE is an equal opportunity employer and is required to comply with equal employment opportunity legislation in each jurisdiction it operates.",
       "job_apply_link": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-Intern--Summer-2026-_344550-1",
       "job_posted_at_datetime_utc": "2025-10-07T08:28:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qbe-insurance-data-science-intern-multiple-teams-madison"
+      "id": "qbe-insurance-data-science-intern-multiple-teams-madison",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T06:19:16.791Z",
+    "postedAt": "2025-12-13T06:19:31.093Z"
   },
   {
     "job": {
