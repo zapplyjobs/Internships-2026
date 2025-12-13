@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T20:05:00.944Z",
+  "lastUpdated": "2025-12-13T20:18:09.863Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3048,14 +3048,25 @@
       "sourceUrl": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Business-Analytics-Intern_R29857",
       "discordThreadId": "1449492319693701300",
       "instanceNumber": 1
+    },
+    {
+      "id": "adobe-machine-learning-engineer-intern-ai-ml-seattle-2025-12-13-1",
+      "jobId": "adobe-machine-learning-engineer-intern-ai-ml-seattle",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer Intern - AI/ML",
+      "postedToDiscord": "2025-12-13T20:18:09.862Z",
+      "sourceDate": "2025-09-26T07:40:26.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
+      "discordThreadId": "1449495628508958910",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 277,
+    "totalJobs": 278,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T20:05:00.944Z",
+      "date": "2025-12-13T20:18:09.863Z",
       "archived": 0
     }
   }
