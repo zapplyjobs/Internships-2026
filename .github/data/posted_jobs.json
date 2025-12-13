@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T10:48:56.505Z",
+  "lastUpdated": "2025-12-13T10:55:37.319Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2487,14 +2487,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7289109",
       "discordThreadId": "1449352371799855176",
       "instanceNumber": 1
+    },
+    {
+      "id": "waymo-intern-research-3d-4d-scene-reconstruction-and-understanding-mountain-view-2025-12-13-1",
+      "jobId": "waymo-intern-research-3d-4d-scene-reconstruction-and-understanding-mountain-view",
+      "company": "Waymo",
+      "title": "Intern - Research - 3D/4D Scene Reconstruction and Understanding",
+      "postedToDiscord": "2025-12-13T10:55:37.319Z",
+      "sourceDate": "2025-10-03T03:19:58.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7280172",
+      "discordThreadId": "1449354060015865880",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 226,
+    "totalJobs": 227,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T10:48:56.505Z",
+      "date": "2025-12-13T10:55:37.319Z",
       "archived": 0
     }
   }
