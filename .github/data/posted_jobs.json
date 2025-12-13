@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T02:41:12.138Z",
+  "lastUpdated": "2025-12-13T03:11:35.104Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1750,14 +1750,36 @@
       "sourceUrl": "https://www.alticeusacareers.com/job/Golden-Intern-Jr-Systems-Analyst-CO-80401/1332889100/?ats=successfactors",
       "discordThreadId": "1449229635555557579",
       "instanceNumber": 1
+    },
+    {
+      "id": "mercury-frontend-engineering-intern-san-francisco-2025-12-13-1",
+      "jobId": "mercury-frontend-engineering-intern-san-francisco",
+      "company": "Mercury",
+      "title": "Frontend Engineering Intern",
+      "postedToDiscord": "2025-12-13T03:11:33.442Z",
+      "sourceDate": "2025-10-08T17:03:21.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mercury/jobs/5668759004",
+      "discordThreadId": "1449237274830311508",
+      "instanceNumber": 1
+    },
+    {
+      "id": "analog-devices-applications-engineer-intern-san-jose-2025-12-13-1",
+      "jobId": "analog-devices-applications-engineer-intern-san-jose",
+      "company": "Analog Devices",
+      "title": "Applications Engineer Intern",
+      "postedToDiscord": "2025-12-13T03:11:35.104Z",
+      "sourceDate": "2025-10-08T16:55:08.000Z",
+      "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
+      "discordThreadId": "1449237281536868394",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 159,
+    "totalJobs": 161,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T02:41:12.138Z",
+      "date": "2025-12-13T03:11:35.104Z",
       "archived": 0
     }
   }
