@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T17:04:39.793Z",
+  "lastUpdated": "2025-12-13T17:17:33.236Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2850,14 +2850,25 @@
       "sourceUrl": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479993003",
       "discordThreadId": "1449446932522209402",
       "instanceNumber": 1
+    },
+    {
+      "id": "zipline-droid-autonomy-validation-intern-droid-autonomy-san-bruno-2025-12-13-1",
+      "jobId": "zipline-droid-autonomy-validation-intern-droid-autonomy-san-bruno",
+      "company": "Zipline",
+      "title": "Droid Autonomy Validation Intern - Droid Autonomy",
+      "postedToDiscord": "2025-12-13T17:17:33.236Z",
+      "sourceDate": "2025-09-27T20:41:51.000Z",
+      "sourceUrl": "https://www.flyzipline.com/careers/open-roles?gh_jid=7479994003",
+      "discordThreadId": "1449450176681869536",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 259,
+    "totalJobs": 260,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T17:04:39.793Z",
+      "date": "2025-12-13T17:17:33.236Z",
       "archived": 0
     }
   }
