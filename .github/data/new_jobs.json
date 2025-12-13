@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Data & AI Intern",
-    "employer_name": "Rambus",
-    "job_city": "San Jose",
+    "job_title": "PhD Machine Learning Intern 2026 - Multiple Teams",
+    "employer_name": "Pinterest",
+    "job_city": "Palo Alto",
     "job_state": "CA",
-    "job_description": "Join Rambus in this exciting opportunity.",
-    "job_apply_link": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
-    "job_posted_at_datetime_utc": "2025-09-25T13:57:11.000Z",
+    "job_description": "Join Pinterest in this exciting opportunity.",
+    "job_apply_link": "https://www.pinterestcareers.com/job-form?gh_jid=7211004",
+    "job_posted_at_datetime_utc": "2025-09-25T12:42:55.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "rambus-data-ai-intern-san-jose",
-    "description_platform": "icims",
+    "id": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto",
+    "description_platform": "generic",
     "description_success": false
   }
 ]
