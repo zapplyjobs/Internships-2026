@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T21:04:50.832Z",
+  "lastUpdated": "2025-12-13T21:17:45.088Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3114,14 +3114,25 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000083936156",
       "discordThreadId": "1449507370060222605",
       "instanceNumber": 1
+    },
+    {
+      "id": "enova-analytics-intern-analytics-chicago-2025-12-13-1",
+      "jobId": "enova-analytics-intern-analytics-chicago",
+      "company": "Enova",
+      "title": "Analytics Intern - Analytics",
+      "postedToDiscord": "2025-12-13T21:17:45.088Z",
+      "sourceDate": "2025-09-25T20:00:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7270714",
+      "discordThreadId": "1449510623779094632",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 283,
+    "totalJobs": 284,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T21:04:50.832Z",
+      "date": "2025-12-13T21:17:45.088Z",
       "archived": 0
     }
   }
