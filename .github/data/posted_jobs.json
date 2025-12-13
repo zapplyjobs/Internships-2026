@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T09:17:59.977Z",
+  "lastUpdated": "2025-12-13T09:30:11.050Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2388,14 +2388,25 @@
       "sourceUrl": "https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Digital-Manufacturing-Intern_JR34017-1",
       "discordThreadId": "1449329487073509388",
       "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-software-development-engineer-multiple-teams-arlington-2025-12-13-1",
+      "jobId": "gm-financial-intern-software-development-engineer-multiple-teams-arlington",
+      "company": "GM financial",
+      "title": "Intern - Software Development Engineer - Multiple Teams",
+      "postedToDiscord": "2025-12-13T09:30:11.050Z",
+      "sourceDate": "2025-10-03T05:33:19.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1068",
+      "discordThreadId": "1449332559392542811",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 217,
+    "totalJobs": 218,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T09:17:59.977Z",
+      "date": "2025-12-13T09:30:11.050Z",
       "archived": 0
     }
   }
