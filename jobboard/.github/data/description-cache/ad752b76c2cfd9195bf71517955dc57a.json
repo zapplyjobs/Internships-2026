@@ -1,0 +1,17 @@
+{
+  "url": "https://bostonscientific.eightfold.ai/careers/job/563602808725759",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This role follows a hybrid work model, requiring employees to be in our local office at least three days per week. Relocation and housing assistance may be available to those who meet the eligibility criteria. Your responsibilities will include: Software Development Collaborate with cross-functional teams to design, build, test, and deploy software solutions using languages such as Python, Java, C#, JavaScript, and R. Work with web frameworks and platforms (e.g., Django, ASP.NET, Node.js, R Shiny) to build feature-rich web applications and APIs. Participate in code reviews, debugging, and troubleshooting software issues. Current rising junior or rising senior (grad dates between Dec 2026 - May 2028), graduating senior (May 2026 grad) continuing on to grad school, or current grad student. Must have at least one semester of school left post-internship to qualify. Pursuing a Bachelors or Masters degree in Computer Engineering, Software Engineering, Computer Science, or Data Science Must be able to start internship on May 18th or 26th, 2026 and work for 12 weeks Must have reliable transportation to/from work. Proficiency in at least one high-level programming language (Python, Java, C#, R). Familiarity with web frameworks (e.g., Django, ASP.NET, R Shiny) and basic web technologies (HTML, CSS, JavaScript). Knowledge of data analytics and visualization tools (R, Python libraries, etc.). Medical device industry experience Understanding of database systems (SQL) and ability to write complex queries. Exposure to deploying and configuring web servers (NGINX or similar). Experience with version control systems (e.g., Git) Familiar with Agile development methodologies Strong analytical and problem-solving abilities with keen attention to detail. Effective communication and interpersonal skills to collaborate in a team-oriented environment. Willingness to learn, adapt to new technologies, and take on challenges with a proactive attitude. Support the design and implementation of data pipelines, data warehousing, and ETL processes. Assist in setting up, configuring, and optimizing web servers (e.g., NGINX) and application deployments. Implement security best practices and performance enhancements for production environments. Work closely with product managers, designers, and other stakeholders to gather requirements and develop solutions that align with business objectives.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602808725759",
+      "fetchedAt": "2025-12-13T21:27:51.334Z"
+    }
+  },
+  "cachedAt": 1765661271335
+}
