@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T07:32:51.595Z",
+  "lastUpdated": "2025-12-13T07:44:41.497Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2234,14 +2234,36 @@
       "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Software-Development-Intern_R41756",
       "discordThreadId": "1449303033535008942",
       "instanceNumber": 1
+    },
+    {
+      "id": "state-of-wisconsin-investment-board-data-analytics-engineering-intern-data-analytics-engineering-madison-2025-12-13-1",
+      "jobId": "state-of-wisconsin-investment-board-data-analytics-engineering-intern-data-analytics-engineering-madison",
+      "company": "State of Wisconsin Investment Board",
+      "title": "Data Analytics Engineering Intern - Data Analytics Engineering",
+      "postedToDiscord": "2025-12-13T07:44:36.723Z",
+      "sourceDate": "2025-10-04T06:04:25.000Z",
+      "sourceUrl": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001266",
+      "discordThreadId": "1449305991396200459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "state-of-wisconsin-investment-board-data-science-intern-data-strategy-information-delivery-division-madison-2025-12-13-1",
+      "jobId": "state-of-wisconsin-investment-board-data-science-intern-data-strategy-information-delivery-division-madison",
+      "company": "State of Wisconsin Investment Board",
+      "title": "Data Science Intern - Data Strategy & Information Delivery Division",
+      "postedToDiscord": "2025-12-13T07:44:41.497Z",
+      "sourceDate": "2025-10-04T06:04:20.000Z",
+      "sourceUrl": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Science-Intern_R-001261",
+      "discordThreadId": "1449306011029737666",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 203,
+    "totalJobs": 205,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T07:32:51.595Z",
+      "date": "2025-12-13T07:44:41.497Z",
       "archived": 0
     }
   }
