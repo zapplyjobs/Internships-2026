@@ -112,31 +112,31 @@
     "description_success": true
   },
   {
-    "job_title": "Co-op, Machine Learning",
-    "employer_name": "Biogen",
-    "job_city": "Cambridge",
-    "job_state": "MA",
-    "job_description": "We’re united by a shared purpose, proud of our work, and inspired by one another and the lives we strive to change. We are a global team with a commitment to excellence, and a pioneering spirit. As a mid-sized biotechnology company, we provide the stability and resources of a well-established business while fostering an environment where individual contributions make a significant impact. Our team encompasses some of the most talented and passionate achievers who have unparalleled opportunities for learning, growth, and expanding their skills. Above all, we work together to deliver life-changing medicines, with every role playing a vital part in our mission. Caring Deeply. Achieving Excellence. Changing Lives.",
-    "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Machine-Learning_REQ21752",
-    "job_posted_at_datetime_utc": "2025-10-09T13:47:07.000Z",
+    "job_title": "Frontend Engineering Intern",
+    "employer_name": "Mercury",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Join Mercury in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/mercury/jobs/5668759004",
+    "job_posted_at_datetime_utc": "2025-10-08T17:03:21.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "biogen-co-op-machine-learning-cambridge",
-    "description_platform": "workday",
-    "description_success": true
+    "id": "mercury-frontend-engineering-intern-san-francisco",
+    "description_platform": "greenhouse",
+    "description_success": false
   },
   {
-    "job_title": "Intern – Junior Systems Analyst",
-    "employer_name": "Altice USA",
-    "job_city": "Plainview",
-    "job_state": "NY",
-    "job_description": "Lightpath is one of the largest competitive local exchange carriers in the tri-state area. We own and operate our infrastructure \"from the ground up\" by deploying over 20,000 route miles connecting 13,500 on-net/LIT buildings. With a strong portfolio of cutting edge solutions for Internet, WAN, Voice, SD-WAN, Security & Cloud services, we enable Enterprise customers of all sizes the ability to react to new challenges while developing best practices for the future. With Lightpath’s continued focus on network excellence and a “customer first” service commitment, we are building a workforce of the best talent that will meet the needs of our customers and reflect the diverse communities we serve. We’re looking for interns who are eager to learn, contribute, and grow in a collaborative environment. As an intern, you’ll have the opportunity to: Work closely with team members on meaningful projects that drive results. Collaborate across departments, gaining exposure to different areas of the business. Explore and apply AI tools and technologies as part of project work and problem-solving. Be an active part of a supportive, team-oriented culture. Contribute fresh ideas and take ownership of tasks that make an impact. Job Summary: The Jr. Systems Analyst Intern assists in analysis of complex business problems to be solved with automated systems. Provide direct support to the GIS and Records organization with analysis and development of Network Inventory as well as integrations with other critical applications. He/she will track, report and analyze the operations process and constantly improve access to information in order to operate the Lightpath network effectively. Responsibilities: Assist in the development of system integrations with physical, logical and provisioning tools. Support engineering and operations with network inventory reporting. Analyze current state of network data and constantly working to improve data quality. Ensure adherence to company policies and procedures regarding processing of network documentation. Qualifications: Eligible candidates should be entering their senior year of an undergraduate program or be recent graduates of an undergraduate or master’s program. Candidates must be local to one of our office locations. Bethpage NY, NYC, Golden CO, Wakefield MA, White Plains NY. Pursuing a college degree in Computer Science or Statistical studies. One to three years of experience with strong analysis skills. Established comfort with using formulas, calculations, and pivot tables within spreadsheets. Ability to work closely with other functions. Ability to develop ad-hoc analysis as needed. High energy self-motivator with a strong work ethic and ability to multi-task. Strong sense of teamwork and mentoring highly desired, with a drive for learning and growth. Ability to adapt to changes in scope of position. Proficient in Excel, Word, PowerPoint, Access & Visio. Proficient in SQL and/or Python to gather data needed for analysis. Knowledge of basic statistics (descriptive) is required; advanced knowledge is preferred. Ability to manage GIS data models is a plus. Develop a deep understanding of Lightpath systems and deliver proposals for process and data improvement. Ability to assist Lightpath users with application challenges as a subject matter expert of the fiber network inventory system. Lightpath is an Equal Opportunity Employer committed to recruiting, hiring and promoting qualified people of all backgrounds regardless of gender, race, color, creed, national origin, religion, age, marital status, pregnancy, physical or mental disability, sexual orientation, gender identity, military or veteran status, or any other basis protected by federal, state, or local law. Lightpath collects personal information about its applicants for employment that may include personal identifiers, professional or employment related information, photos, education information and/or protected classifications under federal and state law. This information is collected for employment purposes, including identification, work authorization, FCRA-compliant background screening, human resource administration and compliance with federal, state and local law. This position is identified as being performed in/or reporting to company operations in Colorado. The pay range at the time of posting in the specified locations is $18.00 - $20.00 /hour. Pay ranges are supplied in compliance with Colorado Law. Pay is competitive and based on a number of job-related factors, including skills and experience.",
-    "job_apply_link": "https://www.alticeusacareers.com/job/Golden-Intern-Jr-Systems-Analyst-CO-80401/1332889100/?ats=successfactors",
-    "job_posted_at_datetime_utc": "2025-10-09T09:03:07.000Z",
+    "job_title": "Applications Engineer Intern",
+    "employer_name": "Analog Devices",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_description": "Join Analog Devices in this exciting opportunity.",
+    "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1",
+    "job_posted_at_datetime_utc": "2025-10-08T16:55:08.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "altice-usa-intern-junior-systems-analyst-plainview",
-    "description_platform": "generic",
-    "description_success": true
+    "id": "analog-devices-applications-engineer-intern-san-jose",
+    "description_platform": "workday",
+    "description_success": false
   }
 ]
