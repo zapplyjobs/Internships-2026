@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T06:59:36.721Z",
+  "lastUpdated": "2025-12-13T07:08:31.985Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2168,14 +2168,36 @@
       "sourceUrl": "https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2026-Undergraduate-Embedded-Computing-Engineer-Intern_R013644",
       "discordThreadId": "1449294659355676783",
       "instanceNumber": 1
+    },
+    {
+      "id": "state-farm-claims-basd-software-developer-bloomington-2025-12-13-1",
+      "jobId": "state-farm-claims-basd-software-developer-bloomington",
+      "company": "State Farm",
+      "title": "Claims BASD - Software Developer",
+      "postedToDiscord": "2025-12-13T07:08:27.226Z",
+      "sourceDate": "2025-10-06T09:11:24.000Z",
+      "sourceUrl": "https://jobs.statefarm.com/main/jobs/41952/job",
+      "discordThreadId": "1449296891673317430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "innovative-defense-technologies-software-engineer-intern-arlington-2025-12-13-1",
+      "jobId": "innovative-defense-technologies-software-engineer-intern-arlington",
+      "company": "Innovative Defense Technologies",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-13T07:08:31.985Z",
+      "sourceDate": "2025-10-06T09:08:08.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/careers/idtus/job/oiEfyfwt",
+      "discordThreadId": "1449296911470297202",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 197,
+    "totalJobs": 199,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T06:59:36.721Z",
+      "date": "2025-12-13T07:08:31.985Z",
       "archived": 0
     }
   }
