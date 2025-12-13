@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1752 (older than 1 week)
+📁 **Archived Opportunities:** 1759 (older than 1 week)
 
 
 ---
@@ -334,12 +334,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1752 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1759 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1752 roles
+- **📁 Total Positions**: 1759 roles
 - **🏢 Companies**: 159 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
@@ -533,7 +533,7 @@ No companies available
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (23 positions)
+### 🏭 **Manufacturing & Industrial** (24 positions)
 
 #### 💾 **Micron Technology** (7 positions)
 
@@ -547,7 +547,7 @@ No companies available
 | Intern – Product Yield Analysis and Analytics - Research | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Analysis-and-Analytics--Research-_JR81928) | 1w |
 | Intern – TPG Global IE | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902) | 1w |
 
-#### ⚡ **ABB** (4 positions)
+#### ⚡ **ABB** (5 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -555,6 +555,7 @@ No companies available
 | Software Engineering Intern | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Software-Engineering-Intern--Summer-2026_JR00015149) | 1w |
 | Software Engineering Intern- Summer 2026 | Bartlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 1w |
 | AI Vision Engineer Intern- AI Robotics | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 1w |
+| Data and Analytics Intern - Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1) | 1w |
 
 #### 🔧 **Texas Instruments** (2 positions)
 
