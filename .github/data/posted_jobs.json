@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T20:40:43.741Z",
+  "lastUpdated": "2025-12-13T20:48:34.749Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3081,14 +3081,25 @@
       "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
       "discordThreadId": "1449501307567345704",
       "instanceNumber": 1
+    },
+    {
+      "id": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago-2025-12-13-1",
+      "jobId": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago",
+      "company": "Ahold Delhaize USA",
+      "title": "Data Engineer (AI) Co-op",
+      "postedToDiscord": "2025-12-13T20:48:34.749Z",
+      "sourceDate": "2025-09-26T07:07:38.000Z",
+      "sourceUrl": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Data-Engineer-(AI)-Co-op-Fall-2026/Chicago-IL/ADUSArms/455368_external_USA-IL-Chicago",
+      "discordThreadId": "1449503282123771957",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 280,
+    "totalJobs": 281,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T20:40:43.741Z",
+      "date": "2025-12-13T20:48:34.749Z",
       "archived": 0
     }
   }
