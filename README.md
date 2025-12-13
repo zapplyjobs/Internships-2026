@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 161</em></p>
+<p><em>Real-time opportunities from 156</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-339-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-161-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-331-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-156-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 161+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 339+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 156+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 331+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 339 internships & new grad roles  
-🏢 **Top Companies:** 161 elite tech companies hiring  
+🔥 **Current Opportunities:** 331 internships & new grad roles  
+🏢 **Top Companies:** 156 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 13, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1759 (older than 1 week)
+📁 **Archived Opportunities:** 1740 (older than 1 week)
 
 
 ---
@@ -262,8 +262,8 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 306 | 90% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 29 | 9% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 299 | 90% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 28 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 4 | 1% | 1-2 years of experience |
 
 ---
@@ -272,17 +272,17 @@ No companies available
 - **Redmond, WA**: 51 opportunities
 - **Sunnyvale, CA**: 21 opportunities
 - **San Bruno, CA**: 14 opportunities
-- **Remote in USA, Locations**: 13 opportunities
-- **Chicago, IL**: 10 opportunities
+- **Remote in USA, Locations**: 12 opportunities
 - **Cambridge, MA**: 10 opportunities
 - **Austin, TX**: 8 opportunities
+- **Chicago, IL**: 8 opportunities
 - **Grove City, PA**: 8 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 339+ verified internships and new grad roles from 161 top companies.
+✅ **100% Real Opportunities:** 331+ verified internships and new grad roles from 156 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -334,13 +334,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1759 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1740 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1759 roles
-- **🏢 Companies**: 161 companies  
+- **📁 Total Positions**: 1740 roles
+- **🏢 Companies**: 156 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
 ### ⭐ **FAANG+** (12 positions)
@@ -533,7 +533,7 @@ No companies available
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (24 positions)
+### 🏭 **Manufacturing & Industrial** (22 positions)
 
 #### 💾 **Micron Technology** (7 positions)
 
@@ -570,18 +570,16 @@ No companies available
 |------|----------|-----------|-----|
 | Software Engineer Co-op | Huntsville, AL | [<img src="./image.png" width="100" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 1w |
 
-#### 📡 **Analog Devices** (8 positions)
+#### 📡 **Analog Devices** (6 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Communication & Data Transmission Algorithms | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Communication---Data-Transmission-Algorithms---PhD-Intern_R257978) | 1w |
 | Hardware Security Design Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Hardware-Security-Design-Intern_R257898) | 1w |
 | Data Analytics Intern | Burlington, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Data-Analytics-Intern_R258069) | 1w |
 | Robot Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Robot-Learning-Intern--PhD-_R257051) | 1w |
 | Applications Engineer Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-CA-San-Jose-Rio-Robles/Applications-Engineer-Intern_R256352-1) | 1w |
 | Algorithm Engineer Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043) | 1w |
 | Machine Learning Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268) | 1w |
-| Machine Learning Intern - PhD | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001) | 1w |
 
 #### 🏗️ **Honeywell** (1 position)
 
@@ -600,7 +598,7 @@ No companies available
 
 <div align="center">
 
-**🎯 339 current opportunities from 161 top companies.**
+**🎯 331 current opportunities from 156 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

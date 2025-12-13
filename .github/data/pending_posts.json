@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Information Systems Intern",
-      "employer_name": "Legrand",
-      "job_city": "Concord",
-      "job_state": "NC",
-      "job_description": "<h2>Position Description</h2> <p><strong>At&nbsp;a Glance</strong></p> <p>&nbsp;</p> <p><strong>Legrand&nbsp;</strong>has an exciting opportunity for an <strong>Information Systems Intern</strong> to join the <strong>Pass &amp; Seymour&nbsp;Team</strong>&nbsp;in&nbsp;<strong>Concord, NC</strong>. This intern will gain experience/knowledge with system development and creating business intelligent reporting tools. They will utilize our current ERP system, databases, and other information sources to develop and design dynamic operational reporting tools and dashboards.&nbsp;</p> <p>&nbsp;</p> <p><strong>What Will You Do?</strong></p> <ul> <li><p>Capture user requirements and department KPI’s</p></li> <li><p>Design, develop and implement reporting tools into operational environment</p></li> <li><p>Document system design</p></li> <li><p>Create instructions and training materials</p></li> </ul> <h2>Qualifications</h2> <p><strong>Education:</strong> Pursuing BS in Information Systems (Junior/Senior) or pursuing BS in Computer Science. (Junior/Senior)</p> <p>&nbsp;</p> <p><strong>Experience:</strong> Related course work.</p> <p>&nbsp;</p> <p><strong><u>Skills/Knowledge/Abilities:</u></strong></p> <ul> <li>Power BI development and design.</li> <li>Ability to use ODBC and SQL to connect applications (Access, Excel, and Power BI).</li> <li>MS Office Suite experience.</li> <li>Ability to document system design and create dataflow diagrams.</li> <li>Ability to use SharePoint, TEAMS, Power Automate or develop websites is requested, but not required.</li> <li>Business and/or Operations knowledge is a huge plus, but not required.</li> <li>Requires strong organizational and time management skills, close attention to detail and be able to meet deadlines.</li> <li>Must have strong analytical and problem-solving skills and ability to efficiently summarize information in an effective manner.</li> <li>Requires good people and communication skills.</li> </ul> <h2>Company Info</h2> <p><strong>About Legrand</strong></p> <p>Legrand is the global specialist in electrical and digital building infrastructures. Our comprehensive offering of solutions for residential, commercial, and data center markets makes us a benchmark for customers worldwide. We harness technological and societal trends with lasting impacts on buildings with the purpose of improving life by transforming the spaces where people live, work, and meet with electrical and digital infrastructures and connected solutions that are simple, innovative, and sustainable. Legrand is a global, publicly traded company listed on the Euronext (Legrand SA EPA: LR). For more information, visit www.legrandgroup.com/en</p> <p>&nbsp;</p> <p><strong>About Legrand North and Central America</strong></p> <p>Legrand, North &amp; Central America (LNCA) is a leader in the AV, Lighting &amp; Controls, Electrical, and Data Center markets. LNCA offers comprehensive medical, dental, and vision coverage, as well as distinctive benefits like a high employer 401K match, paid time off (PTO) and holiday pay, short-term and long-term disability benefit plans, above-benchmark paid maternity and parental leave, bonus opportunities in accordance with the Company’s incentive plans, paid time off to volunteer, and an active/growing Employee Resource Group network. For more information, visit legrand.us&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><strong>About Legrand’s Electrical Wiring Systems Division</strong></p> <p>Legrand’s Electrical Wiring Systems (EWS) division provides the most complete line of residential, commercial, and industrial electrical wiring devices in the world.&nbsp; Through commitment to innovation and quality, EWS maintains the position of industry leader in wire and cable management and wiring devices categories, specializing in raceways, flexible floor, open space and outdoor power solutions, wire mesh cable trays and systems, and designer switches and outlets. With this comprehensive offering, EWS serves a range of exciting vertical markets, including commercial office and commercial interior, data centers, education, healthcare, hospitality, manufacturing, mixed-use developments and residential.&nbsp; For more information, visit&nbsp;legrand.us/electrical wiring devices<strong>&nbsp;</strong>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>http://www.legrand.us</p> <p>http://www.youtube.com/legrandna</p> <p>http://www.linkedin.com/company/44580</p> <p>http://twitter.com/legrandNA</p> <p>&nbsp;</p> <p>Equal Opportunity Employer</p>",
-      "job_apply_link": "https://jobs-legrand.icims.com/jobs/9567/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-03T03:44:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "legrand-information-systems-intern-concord",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T10:04:43.944Z",
-    "postedAt": "2025-12-13T10:04:51.656Z"
-  },
-  {
-    "job": {
       "job_title": "Business Intelligence Developer Intern - Multiple Teams",
       "employer_name": "Sierra Nevada Coporation",
       "job_city": "Lone Tree",
       "job_state": "CO",
-      "job_description": "Join Sierra Nevada Coporation in this exciting opportunity.",
+      "job_description": "English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Français du Canada French German Hebrew Hungarian Indonesian Italian Japanese Korean Norwegian Bokmål Polish Portuguese, Portugal Romanian Russian Spanish Swedish Thai Turkish Vietnamese Workday is currently unavailable. We are experiencing a service interruption. Your service will be restored as quickly as possible. <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> We apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.",
       "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Business-Intelligence-Developer-I_R0028503",
       "job_posted_at_datetime_utc": "2025-10-03T03:41:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sierra-nevada-coporation-business-intelligence-developer-intern-multiple-teams-lone-tree"
+      "id": "sierra-nevada-coporation-business-intelligence-developer-intern-multiple-teams-lone-tree",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T10:17:58.193Z",
+    "postedAt": "2025-12-13T10:18:05.542Z"
   },
   {
     "job": {
