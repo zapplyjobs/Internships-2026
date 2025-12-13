@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T04:36:35.818Z",
+  "lastUpdated": "2025-12-13T04:48:08.589Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1904,14 +1904,36 @@
       "sourceUrl": "https://jobs.jobvite.com/idtus/job/oFclyfwu?nl=1&nl=1&fr=false",
       "discordThreadId": "1449258675784122419",
       "instanceNumber": 1
+    },
+    {
+      "id": "salesforce-intern-ai-research-palo-alto-2025-12-13-1",
+      "jobId": "salesforce-intern-ai-research-palo-alto",
+      "company": "Salesforce",
+      "title": "Intern - AI Research",
+      "postedToDiscord": "2025-12-13T04:48:03.766Z",
+      "sourceDate": "2025-10-08T07:09:19.000Z",
+      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2",
+      "discordThreadId": "1449261560987123846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cencora-business-solutions-analyst-conshohocken-2025-12-13-1",
+      "jobId": "cencora-business-solutions-analyst-conshohocken",
+      "company": "Cencora",
+      "title": "Business Solutions Analyst",
+      "postedToDiscord": "2025-12-13T04:48:08.588Z",
+      "sourceDate": "2025-10-08T07:08:59.000Z",
+      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Business-Solutions-Analyst-Intern_R2519119",
+      "discordThreadId": "1449261580725518479",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 173,
+    "totalJobs": 175,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T04:36:35.818Z",
+      "date": "2025-12-13T04:48:08.589Z",
       "archived": 0
     }
   }
