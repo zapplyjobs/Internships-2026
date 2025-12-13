@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Data Office Summer Intern - Data Office",
-      "employer_name": "AIG",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Join AIG in this exciting opportunity.",
-      "job_apply_link": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Data-Office---Summer-Intern---United-States--Atlanta--GA-_JR2505354",
-      "job_posted_at_datetime_utc": "2025-09-30T03:27:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "aig-data-office-summer-intern-data-office-atlanta",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T16:33:36.335Z",
-    "postedAt": "2025-12-13T16:33:43.924Z"
-  },
-  {
-    "job": {
       "job_title": "Data Science Intern",
       "employer_name": "GM financial",
       "job_city": "Fort Worth",
       "job_state": "TX",
-      "job_description": "Join GM financial in this exciting opportunity.",
+      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
       "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1058",
       "job_posted_at_datetime_utc": "2025-09-30T00:17:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "gm-financial-data-science-intern-fort-worth"
+      "id": "gm-financial-data-science-intern-fort-worth",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T16:47:19.503Z",
+    "postedAt": "2025-12-13T16:47:27.218Z"
   },
   {
     "job": {
