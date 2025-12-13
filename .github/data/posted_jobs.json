@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T16:18:23.562Z",
+  "lastUpdated": "2025-12-13T16:33:40.913Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2806,14 +2806,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005",
       "discordThreadId": "1449435280678584563",
       "instanceNumber": 1
+    },
+    {
+      "id": "aig-data-office-summer-intern-data-office-atlanta-2025-12-13-1",
+      "jobId": "aig-data-office-summer-intern-data-office-atlanta",
+      "company": "AIG",
+      "title": "Data Office Summer Intern - Data Office",
+      "postedToDiscord": "2025-12-13T16:33:40.912Z",
+      "sourceDate": "2025-09-30T03:27:01.000Z",
+      "sourceUrl": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Data-Office---Summer-Intern---United-States--Atlanta--GA-_JR2505354",
+      "discordThreadId": "1449439135868653699",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 255,
+    "totalJobs": 256,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T16:18:23.562Z",
+      "date": "2025-12-13T16:33:40.913Z",
       "archived": 0
     }
   }

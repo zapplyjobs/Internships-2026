@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "AI Engineer Intern - Multiple Teams",
-      "employer_name": "Audax Group",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Founded in 1999, Audax Group is a leading alternative investment manager with offices in Boston, New York, San Francisco, London and Hong Kong. With approximately $42 billion of assets under management and more than 475 employees, Audax is a leading capital partner for middle market companies, operating through three business lines: Audax Private Equity, Audax Private Debt, and Audax Strategic Capital. For more information, visit the Audax Group website www.audaxgroup.com. or follow us on LinkedIn. POSITION SUMMARY: The summer AI Engineer intern is a new and critical role that will drive AI adoption and innovation across the Private Equity strategy. This role will support Audax’s engineers in developing AI-driven pipelines, products and custom GPTs. The ideal candidate will have a strong foundation in machine learning, NLP, and AI infrastructure, combined with the ability to communicate complex topics to non-technical stakeholders. KEY RESPONSIBILITIES: Develop and conduct training sessions on ChatGPT, prompt engineering, and AI applications tailored to different business functions. Collaborate with engineering and data teams to design, develop, and deploy AI models, pipelines, and automation workflows that optimize internal processes and investment analysis. Work hands-on with AI infrastructure, ensuring that AI applications are scalable, secure, and well-integrated with existing data systems. Develop and optimize AI/ML pipelines, including data collection, preprocessing, model training, evaluation, and deployment. Design and implement agentic AI workflows where AI models can autonomously make decisions, retrieve external information, and execute multi-step tasks. GENERAL QUALIFICATIONS: Bachelor's in Computer Science, AI, Machine Learning, or a related field. Strong understanding of NLP, LLMs, and generative AI applications. Excellent communication skills with the ability to educate and influence both technical and non-technical stakeholders TECHNOLOGY QUALIFICATIONS: Proficiency in Python and machine learning frameworks such as TensorFlow, PyTorch, or similar. Experience working with LangChain, AutoGen, OpenAI Function Calling, and vector databases (e.g., Pinecone, Weaviate, FAISS) to build AI agents that interact with APIs, databases, and user queries.Hands-on experience with AI model fine-tuning, prompt engineering, and deploying LLM-powered applications. Experience with enterprise AI integration, working with tools like Snowflake, Databricks, or other data platforms to power AI-driven insights. Location: Boston, MA. This position is in the office 3 days/week. These in-office requirements may be adjusted based on the needs of the business. Date: June 8, 2026 - August 14, 2026 Salary Range: $28-$32 / hourly This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee. Duties, responsibilities and activities may change or new ones may be assigned at any time with or without notice. Audax Management Co. is an equal opportunity employer. Please note that Audax Group and its affiliated entities do not accept unsolicited resumes from a third-party recruiting agency not currently under a signed agreement. Any unsolicited resume that is sent to directly to Audax Group or one of its affiliated entities, or its employees, including those submitted to hiring managers by a third-party recruiting agency not currently under a signed agreement, will be considered property of Audax Group. If a third-party recruiting agency submits a resume without an agreement, Audax Group or its affiliated entities explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the third-party recruiting agency. Any third-party recruiting agency should contact either a member of the Talent Acquisition or Human Resource team at Audax Group, in conjunction with a valid, fully executed contract for service based upon a specific job opening.",
-      "job_apply_link": "https://job-boards.greenhouse.io/audaxgroup/jobs/4613476005",
-      "job_posted_at_datetime_utc": "2025-09-30T10:16:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "audax-group-ai-engineer-intern-multiple-teams-boston",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T16:18:16.993Z",
-    "postedAt": "2025-12-13T16:18:26.574Z"
-  },
-  {
-    "job": {
       "job_title": "Data Office Summer Intern - Data Office",
       "employer_name": "AIG",
       "job_city": "Atlanta",
@@ -210,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-09-30T03:27:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "aig-data-office-summer-intern-data-office-atlanta"
+      "id": "aig-data-office-summer-intern-data-office-atlanta",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T16:33:36.335Z",
+    "postedAt": "2025-12-13T16:33:43.924Z"
   },
   {
     "job": {
