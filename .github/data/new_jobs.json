@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Analytics Intern - Analytics",
-    "employer_name": "Enova",
-    "job_city": "Chicago",
-    "job_state": "IL",
-    "job_description": "Enova International is a leading financial technology company that provides online financial services through our AI and machine learning-powered Colossus™platform. We serve non-prime consumers and businesses alike, while offering world-class technology and services to traditional banks—in order to create accessible credit for millions. Being a values-driven organization is at the core of Enova’s success. We live our values by listening to our customers, challenging assumptions, thinking big, setting high expectations, and hiring and developing the best. Through our values and our commitment to making Enova an awesome place to work, we maintain an environment of inclusion and culture where our employees can thrive. We pride ourselves on hiring smart and driven people who bring new and innovative ideas to the table.",
-    "job_apply_link": "https://job-boards.greenhouse.io/enova/jobs/7270714",
-    "job_posted_at_datetime_utc": "2025-09-25T20:00:04.000Z",
+    "job_title": "Full-Stack Intern",
+    "employer_name": "Uncountable",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Full-Stack InternNew York, San Francisco, Munich or LondonEngineering /Intern / Working Student /On-siteApply for this jobThank you for your interest in Uncountable Engineering!Description‍Uncountable is hiring interns who are passionate about a career in full-stack software engineering. Our goal is to revolutionize industrial research and development. We're looking for motivated engineers who can help to build a state of the art development platform that will be used across Fortune 500 companies.Possible ProjectsArchitecting database to allow for more complex analysis and building new interfaces and views for scientists to manage experiments.We will consider only applicants that are graduating within a year of the internship.Salary: $6K / monthRequirementsPursuing a degree in CSComputer science fundamentalsWeb development skillsPreferred Qualifications‍‍Familiarity with modern javascript best practicesFamiliarity with SQL database designExperience with ReactOur Current StackBackend: Flask (Python), PostgresFrontend: React (Typescript), Redux, Sass$6,000 - $6,000 a monthWhat's next? Learn more about Interviewing at UncountableLearn more about our engineering team: Check out our blog We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "job_apply_link": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
+    "job_posted_at_datetime_utc": "2025-09-25T19:12:06.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "enova-analytics-intern-analytics-chicago",
-    "description_platform": "greenhouse",
+    "id": "uncountable-full-stack-intern-san-francisco",
+    "description_platform": "lever",
     "description_success": true
   }
 ]

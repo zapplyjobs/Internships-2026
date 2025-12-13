@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Analytics Intern - Analytics",
-      "employer_name": "Enova",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Enova International is a leading financial technology company that provides online financial services through our AI and machine learning-powered Colossus™platform. We serve non-prime consumers and businesses alike, while offering world-class technology and services to traditional banks—in order to create accessible credit for millions. Being a values-driven organization is at the core of Enova’s success. We live our values by listening to our customers, challenging assumptions, thinking big, setting high expectations, and hiring and developing the best. Through our values and our commitment to making Enova an awesome place to work, we maintain an environment of inclusion and culture where our employees can thrive. We pride ourselves on hiring smart and driven people who bring new and innovative ideas to the table.",
-      "job_apply_link": "https://job-boards.greenhouse.io/enova/jobs/7270714",
-      "job_posted_at_datetime_utc": "2025-09-25T20:00:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "enova-analytics-intern-analytics-chicago",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T19:34:21.886Z",
-    "postedAt": "2025-12-13T21:17:48.100Z"
-  },
-  {
-    "job": {
       "job_title": "Full-Stack Intern",
       "employer_name": "Uncountable",
       "job_city": "San Francisco",
@@ -214,10 +194,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T19:43:43.889Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T21:27:58.602Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Boston Scientific",
       "job_city": "Roseville",
       "job_state": "MN",
-      "job_description": "Join Boston Scientific in this exciting opportunity.",
+      "job_description": "This role follows a hybrid work model, requiring employees to be in our local office at least three days per week. Relocation and housing assistance may be available to those who meet the eligibility criteria. Your responsibilities will include: Software Development Collaborate with cross-functional teams to design, build, test, and deploy software solutions using languages such as Python, Java, C#, JavaScript, and R. Work with web frameworks and platforms (e.g., Django, ASP.NET, Node.js, R Shiny) to build feature-rich web applications and APIs. Participate in code reviews, debugging, and troubleshooting software issues. Current rising junior or rising senior (grad dates between Dec 2026 - May 2028), graduating senior (May 2026 grad) continuing on to grad school, or current grad student. Must have at least one semester of school left post-internship to qualify. Pursuing a Bachelors or Masters degree in Computer Engineering, Software Engineering, Computer Science, or Data Science Must be able to start internship on May 18th or 26th, 2026 and work for 12 weeks Must have reliable transportation to/from work. Proficiency in at least one high-level programming language (Python, Java, C#, R). Familiarity with web frameworks (e.g., Django, ASP.NET, R Shiny) and basic web technologies (HTML, CSS, JavaScript). Knowledge of data analytics and visualization tools (R, Python libraries, etc.). Medical device industry experience Understanding of database systems (SQL) and ability to write complex queries. Exposure to deploying and configuring web servers (NGINX or similar). Experience with version control systems (e.g., Git) Familiar with Agile development methodologies Strong analytical and problem-solving abilities with keen attention to detail. Effective communication and interpersonal skills to collaborate in a team-oriented environment. Willingness to learn, adapt to new technologies, and take on challenges with a proactive attitude. Support the design and implementation of data pipelines, data warehousing, and ETL processes. Assist in setting up, configuring, and optimizing web servers (e.g., NGINX) and application deployments. Implement security best practices and performance enhancements for production environments. Work closely with product managers, designers, and other stakeholders to gather requirements and develop solutions that align with business objectives.",
       "job_apply_link": "https://bostonscientific.eightfold.ai/careers/job/563602808725759",
       "job_posted_at_datetime_utc": "2025-09-25T01:31:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville"
+      "id": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T21:27:51.335Z",
     "postedAt": null
   },
   {
