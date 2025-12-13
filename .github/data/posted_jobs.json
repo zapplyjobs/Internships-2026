@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T05:05:17.450Z",
+  "lastUpdated": "2025-12-13T05:18:10.514Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1970,14 +1970,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7307044",
       "discordThreadId": "1449265896898957404",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-software-engineer-intern-multiple-teams-denver-2025-12-13-1",
+      "jobId": "caci-software-engineer-intern-multiple-teams-denver",
+      "company": "CACI",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T05:18:08.843Z",
+      "sourceDate": "2025-10-08T06:19:43.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Cleared-Software-Engineer-Intern---Summer-2026_318311",
+      "discordThreadId": "1449269131533881354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abb-data-and-analytics-intern-summer-2026-morrisville-2025-12-13-1",
+      "jobId": "abb-data-and-analytics-intern-summer-2026-morrisville",
+      "company": "ABB",
+      "title": "Data and Analytics Intern - Summer 2026",
+      "postedToDiscord": "2025-12-13T05:18:10.514Z",
+      "sourceDate": "2025-10-08T01:26:11.000Z",
+      "sourceUrl": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/Data---Analytics-Intern--Summer-2026_JR00010657-1",
+      "discordThreadId": "1449269139318509568",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 179,
+    "totalJobs": 181,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T05:05:17.450Z",
+      "date": "2025-12-13T05:18:10.514Z",
       "archived": 0
     }
   }
