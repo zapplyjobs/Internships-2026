@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T22:47:55.052Z",
+  "lastUpdated": "2025-12-13T22:54:51.591Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3224,14 +3224,25 @@
       "sourceUrl": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Kentucky-Florence/Manufacturing-Quality-Intern--Summer-2026-_WD45084",
       "discordThreadId": "1449533315299410053",
       "instanceNumber": 1
+    },
+    {
+      "id": "lennox-international-it-business-systems-analyst-intern-richardson-2025-12-13-1",
+      "jobId": "lennox-international-it-business-systems-analyst-intern-richardson",
+      "company": "Lennox International",
+      "title": "IT Business Systems Analyst Intern",
+      "postedToDiscord": "2025-12-13T22:54:51.591Z",
+      "sourceDate": "2025-09-25T04:41:56.000Z",
+      "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50057/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449535061845217291",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 293,
+    "totalJobs": 294,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T22:47:55.052Z",
+      "date": "2025-12-13T22:54:51.591Z",
       "archived": 0
     }
   }
