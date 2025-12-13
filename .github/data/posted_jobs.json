@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T03:50:09.073Z",
+  "lastUpdated": "2025-12-13T03:57:49.215Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1816,14 +1816,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/kairospower/jobs/5658958004",
       "discordThreadId": "1449246987085025383",
       "instanceNumber": 1
+    },
+    {
+      "id": "steel-dynamics-metallurgy-intern-columbus-2025-12-13-1",
+      "jobId": "steel-dynamics-metallurgy-intern-columbus",
+      "company": "Steel Dynamics",
+      "title": "Metallurgy Intern",
+      "postedToDiscord": "2025-12-13T03:57:42.761Z",
+      "sourceDate": "2025-10-08T08:51:42.000Z",
+      "sourceUrl": "https://careers-steeldynamics.icims.com/jobs/6426/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449248889755406440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pacific-life-data-analytics-intern-multiple-teams-newport-beach-2025-12-13-1",
+      "jobId": "pacific-life-data-analytics-intern-multiple-teams-newport-beach",
+      "company": "Pacific Life",
+      "title": "Data Analytics Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T03:57:49.215Z",
+      "sourceDate": "2025-10-08T08:47:44.000Z",
+      "sourceUrl": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2026-Data-Analytics-Internship-Program_R15608",
+      "discordThreadId": "1449248910043254824",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 165,
+    "totalJobs": 167,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T03:50:09.073Z",
+      "date": "2025-12-13T03:57:49.215Z",
       "archived": 0
     }
   }
