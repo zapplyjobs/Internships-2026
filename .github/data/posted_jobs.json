@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T09:39:04.649Z",
+  "lastUpdated": "2025-12-13T09:46:22.719Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2410,14 +2410,25 @@
       "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/Co-op---Software-Engineering---Cambridge--MA---Jan-2026_562523",
       "discordThreadId": "1449334788677697547",
       "instanceNumber": 1
+    },
+    {
+      "id": "bristol-myers-squibb-graduate-data-science-intern-pharmacometrics-programming-cambridge-2025-12-13-1",
+      "jobId": "bristol-myers-squibb-graduate-data-science-intern-pharmacometrics-programming-cambridge",
+      "company": "Bristol Myers Squibb",
+      "title": "Graduate Data Science Intern - Pharmacometrics Programming",
+      "postedToDiscord": "2025-12-13T09:46:22.719Z",
+      "sourceDate": "2025-10-03T05:12:10.000Z",
+      "sourceUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Cambridge-Crossing---MA---US/Summer-2026---Graduate-Data-Science---Pharmacometrics-Programming-Internship_R1595674",
+      "discordThreadId": "1449336627687329914",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 219,
+    "totalJobs": 220,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T09:39:04.649Z",
+      "date": "2025-12-13T09:46:22.719Z",
       "archived": 0
     }
   }
