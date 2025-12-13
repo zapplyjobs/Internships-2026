@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Modeling & Simulation Software Engineering Intern",
-      "employer_name": "Hermeus",
-      "job_city": "Los Angeles",
-      "job_state": "CA",
-      "job_description": "Modeling & Simulation Software Engineering Intern - Summer 2026Los Angeles, CAInternships – Internships /Intern /On-siteApply for this jobHermeus is a high-speed aircraft manufacturer focused on the rapid design, build, and test of high-Mach and hypersonic aircraft for the national interest. Working directly with the Department of Defense, Hermeus delivers capabilities that will ensure that our nation, and our allies, maintain an asymmetric advantage over any and all potential adversaries.As a Modeling & Simulation Software Engineering Intern you will work with the software team to develop performant modeling and simulation code for our 6DOF SITL simulation using Julia. You'll Interface with the Flight Software, HMI, and Flight Sciences teams to meet stakeholder needs and ensure accurate results. Your work will involve creating hardware/physics informed software models and validate results with real data. Summer: around 10 weeks (May - August)Responsibilities:Develop performant simulation code for 6 Degrees of Freedom (6DOF) Software-in-the-Loop (SITL) systems using Julia.Develop user driven features and focus on scalability of our Monte Carlo simulationCollaborate with cross-functional teams including Flight Software, Human-Machine Interface (HMI), and Flight Sciences to align simulation outputs with stakeholder requirements.Design and implement physics-informed models that accurately represent hardware behavior and system dynamics.Validate simulation accuracy by comparing model outputs with real-world flight data and refining models accordingly.Optimize simulation performance to ensure real-time execution and scalability across different test environments.Participate in code reviews and testing cycles to maintain high software quality and reliability.Document modeling assumptions, validation results, and integration workflows for internal knowledge sharing and future development.Minimum Requirements:Pursuing a degree in Computer Science, Aerospace Engineering, Electrical Engineering, Applied Mathematics, or a related technical field.Proficiency in Julia or strong experience with scientific computing languages such as Python, MATLAB, or C++.Understanding of 6DOF dynamics and simulation principles, especially in aerospace or robotics contexts.Familiarity with modeling physical systems, including hardware-in-the-loop or physics-informed simulation techniques.Experience with data validation and analysis, including comparing simulation outputs to real-world data.Strong understanding of engineering first principlesDemonstrated ability to work within cross-functional teamsEnthusiasm for aviation and Hermeus' missionExcellent written and verbal communication skillsGPA of 3.0 or above$25 - $33 an hourThe salary information provided is a general guideline only. Hermeus takes various factors into account, including, but not limited to, the position's scope and responsibilities, the candidate's professional background, education and training, essential skills, and market and business considerations, when presenting a job offer.U.S. EXPORT CONTROL COMPLIANCE STATUS The person hired will have access to information and items subject to U.S. export controls, and therefore, must either be a “U.S. person” as defined by 22 C.F.R. § 120.62 or otherwise eligible for deemed export licensing. US persons include U.S. citizens, U.S. nationals, lawful permanent residents (green card holders), and asylees and refugees with such status granted, not pending. EQUAL OPPORTUNITYHermeus is an Equal Opportunity Employer. Employment decisions at Hermeus are based solely on merit, competence, and qualifications, without regard to race, color, religion, gender, national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability, or any other legally protected status.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853",
-      "job_posted_at_datetime_utc": "2025-10-02T14:13:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hermeus-modeling-simulation-software-engineering-intern-los-angeles",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T13:42:03.199Z",
-    "postedAt": "2025-12-13T13:42:12.266Z"
-  },
-  {
-    "job": {
       "job_title": "Life Science Automation & AI",
       "employer_name": "Lila Sciences",
       "job_city": "Cambridge",
@@ -210,12 +190,14 @@
       "job_posted_at_datetime_utc": "2025-10-02T13:56:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lila-sciences-life-science-automation-ai-cambridge"
+      "id": "lila-sciences-life-science-automation-ai-cambridge",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T13:53:33.277Z",
+    "postedAt": "2025-12-13T13:53:42.223Z"
   },
   {
     "job": {
