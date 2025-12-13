@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T18:55:40.482Z",
+  "lastUpdated": "2025-12-13T19:04:32.592Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2960,14 +2960,25 @@
       "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279123",
       "discordThreadId": "1449474869862338560",
       "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-machine-learning-engineer-intern-multiple-teams-atlanta-2025-12-13-1",
+      "jobId": "intercontinental-exchange-machine-learning-engineer-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Machine Learning Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T19:04:32.591Z",
+      "sourceDate": "2025-09-27T08:59:31.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11633/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449477101500629053",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 269,
+    "totalJobs": 270,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T18:55:40.482Z",
+      "date": "2025-12-13T19:04:32.592Z",
       "archived": 0
     }
   }
