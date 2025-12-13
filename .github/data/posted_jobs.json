@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T17:44:40.406Z",
+  "lastUpdated": "2025-12-13T17:53:54.293Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2894,14 +2894,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7277698",
       "discordThreadId": "1449457001531838684",
       "instanceNumber": 1
+    },
+    {
+      "id": "wells-enterprises-internship-it-sioux-city-2025-12-13-1",
+      "jobId": "wells-enterprises-internship-it-sioux-city",
+      "company": "Wells Enterprises",
+      "title": "Internship - IT",
+      "postedToDiscord": "2025-12-13T17:53:54.292Z",
+      "sourceDate": "2025-09-27T16:57:15.000Z",
+      "sourceUrl": "https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2208682",
+      "discordThreadId": "1449459324165558303",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 263,
+    "totalJobs": 264,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T17:44:40.406Z",
+      "date": "2025-12-13T17:53:54.293Z",
       "archived": 0
     }
   }
