@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T05:54:41.348Z",
+  "lastUpdated": "2025-12-13T06:07:57.823Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2058,14 +2058,36 @@
       "sourceUrl": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
       "discordThreadId": "1449278328396578937",
       "instanceNumber": 1
+    },
+    {
+      "id": "daimler-truck-powertrain-software-validation-intern-portland-2025-12-13-1",
+      "jobId": "daimler-truck-powertrain-software-validation-intern-portland",
+      "company": "Daimler Truck",
+      "title": "Powertrain Software Validation Intern",
+      "postedToDiscord": "2025-12-13T06:07:53.069Z",
+      "sourceDate": "2025-10-07T13:08:25.000Z",
+      "sourceUrl": "https://dtna.wd5.myworkdayjobs.com/en-US/DTNA_external/job/Portland-OR-US/Powertrain-Software-Validation-Intern_DT-15545",
+      "discordThreadId": "1449281648808951989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allison-transmission-junior-data-engineer-intern-indianapolis-2025-12-13-1",
+      "jobId": "allison-transmission-junior-data-engineer-intern-indianapolis",
+      "company": "Allison Transmission",
+      "title": "Junior Data Engineer Intern",
+      "postedToDiscord": "2025-12-13T06:07:57.823Z",
+      "sourceDate": "2025-10-07T13:06:09.000Z",
+      "sourceUrl": "https://allisontransmission.wd1.myworkdayjobs.com/en-US/ATI-External/job/Indianapolis-IN/Junior-Data-Engineer---Summer-2026_R006912",
+      "discordThreadId": "1449281668614459404",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 187,
+    "totalJobs": 189,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T05:54:41.348Z",
+      "date": "2025-12-13T06:07:57.823Z",
       "archived": 0
     }
   }
