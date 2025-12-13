@@ -181,41 +181,23 @@
   },
   {
     "job": {
-      "job_title": "Business Intelligence Developer Intern - Multiple Teams",
-      "employer_name": "Sierra Nevada Coporation",
-      "job_city": "Lone Tree",
-      "job_state": "CO",
-      "job_description": "English English Arabic Chinese, Simplified Chinese, Traditional Czech Dutch Finnish Français du Canada French German Hebrew Hungarian Indonesian Italian Japanese Korean Norwegian Bokmål Polish Portuguese, Portugal Romanian Russian Spanish Swedish Thai Turkish Vietnamese Workday is currently unavailable. We are experiencing a service interruption. Your service will be restored as quickly as possible. <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> We apologize for the inconvenience. If you are a Workday customer and require additional assistance please contact the Workday Administrator within your organization. Otherwise, please check back later.",
-      "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Business-Intelligence-Developer-I_R0028503",
-      "job_posted_at_datetime_utc": "2025-10-03T03:41:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sierra-nevada-coporation-business-intelligence-developer-intern-multiple-teams-lone-tree",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T10:17:58.193Z",
-    "postedAt": "2025-12-13T10:18:05.542Z"
-  },
-  {
-    "job": {
       "job_title": "Cloud Software Engineering Intern",
       "employer_name": "Emerson Electric",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Emerson Electric in this exciting opportunity.",
+      "job_description": "If you are a student interested in starting and growing your career as a Software Development professional, Emerson has an outstanding opportunity for you! NI is now the Test & Measurement (T&M) Business Unit of Emerson, and we are seeking a dedicated and versatile Software Engineering Intern with an interest in cloud development to join our Platform Software R&D organization. Software Engineers find that our relaxed and stimulating work environment, which includes collaborating in small feature-focused teams, cultivates the type of engineering innovation that leads to our many award-winning products. We are looking for interns with a background or interests in cloud development, AI prompt engineering, Kubernetes, and Python development to help support the backend of our Nigel AI Advisor.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026791",
       "job_posted_at_datetime_utc": "2025-10-03T03:25:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "emerson-electric-cloud-software-engineering-intern-austin"
+      "id": "emerson-electric-cloud-software-engineering-intern-austin",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
-    "postedAt": null
+    "enrichedAt": "2025-12-13T10:31:03.039Z",
+    "postedAt": "2025-12-13T10:31:10.188Z"
   },
   {
     "job": {
