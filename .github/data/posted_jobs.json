@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T13:42:09.254Z",
+  "lastUpdated": "2025-12-13T13:53:39.212Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2641,14 +2641,25 @@
       "sourceUrl": "https://jobs.lever.co/hermeus/dcd92687-0f98-4288-a68e-403fcd654853",
       "discordThreadId": "1449395962350010380",
       "instanceNumber": 1
+    },
+    {
+      "id": "lila-sciences-life-science-automation-ai-cambridge-2025-12-13-1",
+      "jobId": "lila-sciences-life-science-automation-ai-cambridge",
+      "company": "Lila Sciences",
+      "title": "Life Science Automation & AI",
+      "postedToDiscord": "2025-12-13T13:53:39.211Z",
+      "sourceDate": "2025-10-02T13:56:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lila/jobs/8188686002",
+      "discordThreadId": "1449398856469971115",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 240,
+    "totalJobs": 241,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T13:42:09.254Z",
+      "date": "2025-12-13T13:53:39.212Z",
       "archived": 0
     }
   }
