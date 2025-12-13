@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-ice.icims.com/jobs/11633/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>&nbsp;</p> <p>The Machine Learning Engineer Intern will support modernization initiatives within the DDA platform, with a focus on configuration enhancements.</p> <p>&nbsp;</p> <p><strong>Responsibilities</strong></p> <ul> <li>Collaborate with engineering teams to ensure all application configurations are consolidated for consistency and maintainability</li> <li>Data-driven decision making – rigorous data analysis of model performance and operational workflows to identify actionable insights to improve model accuracy and workflow efficiency, inform strategic decisions, and improve system performance</li> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a degree program at an accredited university, and be advancing to their junior year of study, and pursuing a degree in Computer Science, Data Science, or Machine Learning</li> <li>Solid hands-on experience in Python is a must</li> <li>Skills that we’d like to see: Strong fundamental knowledge in Machine Learning, Exploratory Data Analysis (EDA), Statistics &amp; Probability, Version Control, Relational Databases, CI/CD, Agentic workflows, and the AWS ecosystem</li> <li>Skills that will make you stand out: Hands-on experience in PyTorch/Keras/TensorFlow, Deep Learning (with a focus on Large Language Models), Agentic workflows</li> <li>Strong problem-solving skills and attention to detail</li> <li>Excellent written and verbal communication skills</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Atlanta office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-SH2 </p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-ice.icims.com/jobs/11633/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-13T19:04:28.279Z"
+    }
+  },
+  "cachedAt": 1765652668279
+}
