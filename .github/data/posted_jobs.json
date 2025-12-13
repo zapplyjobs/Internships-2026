@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T04:09:09.056Z",
+  "lastUpdated": "2025-12-13T04:21:46.433Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -1860,14 +1860,36 @@
       "sourceUrl": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/XMLNAME-2026-Summer-Internship---Software-Engineering-Data-Science_REQ-11736",
       "discordThreadId": "1449251768679534716",
       "instanceNumber": 1
+    },
+    {
+      "id": "weride-intern-multiple-teams-san-jose-2025-12-13-1",
+      "jobId": "weride-intern-multiple-teams-san-jose",
+      "company": "WeRide",
+      "title": "Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T04:21:41.584Z",
+      "sourceDate": "2025-10-08T08:13:11.000Z",
+      "sourceUrl": "https://jobs.lever.co/weride/c7652fd5-65d8-443d-ab4c-5b450acac77d/apply",
+      "discordThreadId": "1449254925103140948",
+      "instanceNumber": 1
+    },
+    {
+      "id": "macy-s-technology-intern-multiple-teams-johns-creek-2025-12-13-1",
+      "jobId": "macy-s-technology-intern-multiple-teams-johns-creek",
+      "company": "Macy's",
+      "title": "Technology Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-13T04:21:46.433Z",
+      "sourceDate": "2025-10-08T07:46:13.000Z",
+      "sourceUrl": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80607",
+      "discordThreadId": "1449254945412087974",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 169,
+    "totalJobs": 171,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T04:09:09.056Z",
+      "date": "2025-12-13T04:21:46.433Z",
       "archived": 0
     }
   }
