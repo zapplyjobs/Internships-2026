@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T09:46:22.719Z",
+  "lastUpdated": "2025-12-13T09:53:30.400Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -2421,14 +2421,25 @@
       "sourceUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Cambridge-Crossing---MA---US/Summer-2026---Graduate-Data-Science---Pharmacometrics-Programming-Internship_R1595674",
       "discordThreadId": "1449336627687329914",
       "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-engineer-intern-cpe-sw-e2e-triage-plantation-2025-12-13-1",
+      "jobId": "motorola-software-engineer-intern-cpe-sw-e2e-triage-plantation",
+      "company": "Motorola",
+      "title": "Software Engineer Intern - CPE SW E2E Triage",
+      "postedToDiscord": "2025-12-13T09:53:30.400Z",
+      "sourceDate": "2025-10-03T03:47:31.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2026_R58174",
+      "discordThreadId": "1449338428100444212",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 220,
+    "totalJobs": 221,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T09:46:22.719Z",
+      "date": "2025-12-13T09:53:30.400Z",
       "archived": 0
     }
   }
