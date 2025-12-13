@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Ibotta",
-      "job_city": "Denver",
-      "job_state": "CO",
-      "job_description": "Join Ibotta in this exciting opportunity.",
-      "job_apply_link": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
-      "job_posted_at_datetime_utc": "2025-09-26T07:12:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ibotta-software-engineering-intern-denver",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": "2025-12-13T20:40:46.753Z"
-  },
-  {
-    "job": {
       "job_title": "Data Engineer (AI) Co-op",
       "employer_name": "Ahold Delhaize USA",
       "job_city": "Chicago",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T19:32:10.829Z",
-    "postedAt": null
+    "postedAt": "2025-12-13T20:48:37.761Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (CDN Platform)- 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7553422988620892423/detail",
       "job_posted_at_datetime_utc": "2025-09-25T07:04:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-cdn-platform-san-jose"
+      "id": "bytedance-software-engineer-intern-cdn-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-13T20:48:30.605Z",
     "postedAt": null
   },
   {
