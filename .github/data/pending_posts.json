@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern - Android",
-      "employer_name": "Robinhood",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.About the team + role We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. We’re looking for talented and motivated Android Engineers to join our award-winning team and help expand Robinhood’s mobile experience. This role is based in our Menlo Park, CA office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you’ll do Collaborate with our award-winning design team throughout the full product lifecycle. Contribute to new features and play a role in building products that will change how America views finance. Help shape the future of our Android platform. Explore and build innovative Android UI/UX. Work with technologies such as Kotlin, RxJava 2, Retrofit/OkHttp, Dagger 2, and Room. What you bring Currently enrolled in a full-time, degree-seeking program with an expected graduation date in Winter 2026/Spring 2027. A solid foundation in software engineering. An interest in front-end work, specifically visually driven product design and shaping user experience. Familiarity with Android components and experience building or contributing to at least one Android app. Experience building, maintaining, or contributing to open-source projects. Familiarity with Kotlin, RxJava 2, Dagger 2, and other libraries in our tech stack. A self-starter mentality and a proactive approach. What we offer Market competitive compensation structure Quarterly lifestyle wallet for personal wellness, learning and development, and more! Time away including company holidays, paid time off, and sick time! Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed and is aligned to one of 3 compensation zones. For other locations not listed, compensation can be discussed with your recruiter during the interview process.Zone 1 (Menlo Park, CA; New York, NY; Bellevue, WA; Washington, DC)$48 - $48 USDZone 2 (Denver, CO; Westlake, TX; Chicago, IL)$42 - $42 USDZone 3 (Lake Mary, FL; Clearwater, FL; Gainesville, FL)$37 - $37 USDClick here to learn more about our Total Rewards, which vary by region and entity. If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application. Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.",
-      "job_apply_link": "https://boards.greenhouse.io/robinhood/jobs/7239199",
-      "job_posted_at_datetime_utc": "2025-09-23T02:37:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robinhood-software-engineering-intern-android-menlo-park",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T06:18:52.907Z",
-    "postedAt": "2025-12-14T08:05:47.518Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern - IOS",
       "employer_name": "Robinhood",
       "job_city": "Menlo Park",
@@ -214,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T06:34:40.703Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T08:19:33.940Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T07:08:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "philips-system-test-automation-engineer-san-diego"
+      "id": "philips-system-test-automation-engineer-san-diego",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T08:19:26.735Z",
     "postedAt": null
   },
   {
