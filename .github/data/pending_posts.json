@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Software Development Intern - Breakthrough",
-      "employer_name": "U.S. Venture",
-      "job_city": "Green Bay",
-      "job_state": "WI",
-      "job_description": "POSITION SUMMARYWe are seeking an Solution Development (Software Development) Intern to join our Summer 2026 Internship Program. This interview will support our Breakthrough division and our software development team in the rapidly growing Technology Solutions group. We are seeking an individual who is passionate about building software platforms to deliver products that disrupt markets through innovation. The ideal candidate will thrive on embracing organizational vision to ideate and drive technical solutions forward by investigating and experimenting with emerging platforms and frameworks. We are building cloud first applications that are scalable, flexible and support a rapidly changing market with continuous launches of new innovation, features and products. Our team is an open minded, evolving, innovation focused technology team. We approach our work through self-managed, multi-disciplinary teams that bring together data science, software development and a robust quality program to quickly bring new products to market. Our holistic organizational culture is reinforced every day through our smart, passionate and edgy team members that are focused on excellence in service to our clients and each other. We work hard, give back and move markets by delivering “Breakthrough” innovations and value.U.S. Venture’s Internship Program runs May - August. Dates may vary based on individual class schedules. This position is located in Green Bay, WI [1175 Lombardi Ave, Green Bay, WI 54304].JOB RESPONSIBILITIESBuild cutting edge software products that integrate into a holistic Platform as a Service (PaaS) offering that are highly flexible and scalable using a UX driven product development strategy.Understanding of and experience with developing applications and an understanding in building either front end (React) and/or back-end APIs (NodeJS)Understanding of Cloud technologies and open-source tools used to create world class product experiences.Bring technical thought leadership, an inquisitive nature and desire for excellence to our agile product based teams.QUALIFICATIONSCurrent student pursing a bachelors or advanced degree in Mathematics, Computer Science or EngineeringUnderstanding of coding languages including at least one of: JavaScript, Python, React JS or NodeJS.Understanding of Git and DevOps deployment in Google Cloud or other Cloud platforms is helpful.Familiarity with Google Cloud technologies or related Cloud technology exposure is a definite PLUS. DIVISION:Breakthrough U.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need. U.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.U.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic. If you need assistance or an accommodation due to a disability, you may call Human Resources at (920) 739-6101.",
-      "job_apply_link": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Software-Development-Intern---Breakthrough_R4445",
-      "job_posted_at_datetime_utc": "2025-09-22T01:26:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "u-s-venture-software-development-intern-breakthrough-green-bay",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T11:17:34.518Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "ServiceNow Security Organization - AI for Security Operations Engineering Intern - Sso",
-      "employer_name": "ServiceNow",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "ServiceNow Security Organization (SSO) - AI for Security Operations Engineering InternThis job has expired",
-      "job_apply_link": "https://jobs.smartrecruiters.com/ServiceNow/744000083014485",
-      "job_posted_at_datetime_utc": "2025-09-20T16:58:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "servicenow-servicenow-security-organization-ai-for-security-operations-engineering-intern-sso-san-diego",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T11:27:21.501Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "Tapeout Engineering Business Applications and Data Intern",
-      "employer_name": "GlobalFoundries",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join GlobalFoundries in this exciting opportunity.",
-      "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Tapeout-Engineering-Biz-Apps---Data-Intern--Summer-2026-_JR-2502789",
-      "job_posted_at_datetime_utc": "2025-09-20T02:35:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "globalfoundries-tapeout-engineering-business-applications-and-data-intern-austin",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T11:35:22.128Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Intern",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Calabasas",
-      "job_state": "CA",
-      "job_description": "Join Keysight Technologies in this exciting opportunity.",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49653?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:16:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-intern-calabasas",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T11:44:05.884Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Software Engineering Intern",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Loveland",
-      "job_state": "CO",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.<br /><br /></p><p style=\"margin-bottom: 6.0pt;\"><strong>Description</strong></p><p style=\"margin-bottom: 6.0pt;\">Keysight&rsquo;s Customer Software Entitlement &amp; Delivery R&amp;D team develops the core software components that enable monetization and access control for Keysight&rsquo;s industry-leading measurement solutions. These components are used internally across Keysight&rsquo;s product portfolio, powering software and hardware products relied on by customers in industries ranging from 5G wireless communications and aerospace/defense to automotive, semiconductor, and quantum research.</p><p style=\"margin-bottom: 6.0pt;\">We are seeking a Software Developer Intern to join our team in <strong>Loveland, Colorado</strong>. This is a unique opportunity to work on the next generation of licensing components that support a global technology leader. The role offers hands-on experience with modern cloud-native development practices and exposure to the challenges of building internal platforms for large-scale, enterprise-grade software systems.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin-bottom: 6.0pt;\">As a Software Developer Intern, you will:</p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 6.0pt;\">Contribute to the design and development of next-generation licensing components for Keysight.</li><li style=\"margin-bottom: 6.0pt;\">Work with cloud technologies including Go, Kubernetes, and Helm<strong>.</strong></li><li style=\"margin-bottom: 6.0pt;\">Work with modern UI technologies including Angular and Electron.</li><li style=\"margin-bottom: 6.0pt;\">Collaborate with experienced R&amp;D engineers to deliver high-quality, maintainable, and scalable software components.</li><li style=\"margin-bottom: 6.0pt;\">Gain exposure to how internal software platforms are used to enable product teams across a global enterprise.</li><li style=\"margin-bottom: 6.0pt;\">Learn best practices for software engineering in a large-scale, collaborative environment.</li></ul> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin-bottom: 6.0pt;\"><strong>Must Have:</strong></p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 6.0pt;\">Currently enrolled in a Bachelor&rsquo;s or Master&rsquo;s degree program in Computer Science, Software Engineering, or related field.</li><li style=\"margin-bottom: 6.0pt;\">Basic familiarity with the source control tool Git.</li><li style=\"margin-bottom: 6.0pt;\">Strong people skills and knack for problem solving.</li><li style=\"margin-bottom: 6.0pt;\">Familiarity with one or more of the following: TypeScript, Angular, Go, Kubernetes, C++, C# .</li><li style=\"margin-bottom: 6.0pt;\">Ability to work both independently and collaboratively in a team environment.</li><li style=\"margin-bottom: 6.0pt;\">Good written and verbal communication skills.</li></ul><p style=\"margin-bottom: 6.0pt;\"><strong>Nice to Have:</strong></p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 6.0pt;\">Prior coursework, projects, or internships involving cloud-native architecture or desktop software development.</li></ul><p style=\"margin-bottom: 6.0pt;\"><strong>Why Join Us?</strong></p><p style=\"margin-bottom: 6.0pt;\">This position provides a unique opportunity to:</p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 6.0pt;\">Work on internal platform software that enables product teams across a global company.</li><li style=\"margin-bottom: 6.0pt;\">Gain hands-on experience with desktop and cloud-native technologies applied to real-world enterprise challenges.</li><li style=\"margin-bottom: 6.0pt;\">Contribute to software used across industries from wireless communications and aerospace to energy, automotive, and advanced research domains.</li><li style=\"margin-bottom: 6.0pt;\">Be part of a collaborative, innovative culture that values learning and growth.</li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">$29-31/hour</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49524?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:15:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-software-engineering-intern-loveland",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T11:53:40.105Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "Bachelor Level Intern",
-      "employer_name": "Centerstone",
-      "job_city": "Ellenton",
-      "job_state": "FL",
-      "job_description": "Centerstone is among the nation’s leading nonprofit behavioral health systems with thousands of employees dedicated to delivering care that changes people’s lives. A dynamic, well-established organization, we offer rewarding opportunities to serve all ages in a variety of settings. Come talk to us about joining the Centerstone team!JOB DESCRIPTION:SUMMARY OF POSITIONBachelor internship for individuals working towards their bachelor's degree. Students will have hands on experience interacting with clients. Students will have the opportunity to enhance professional skills of public speaking through presenting data to our clinic and facilitating by leading team meetings. Additionally, students will gain experience and training on Microsoft Excel, while learning to clean and analyze data sets. Students will learn to navigate data visualization and storytelling through creating one pagers and other presentations.KNOWLEDGE, SKILLS & ABILITIESEffectively communicate via written, verbal, in person and virtual methods.Ability to work with data; detail-orientedExcellent communication skillsQUALIFICATIONSEducation level Working toward a bachelor’s degree in public health, social sciences, or related field.Years of Experience Demonstrated history of being able to work independently and manage multiple prioritiesCertification/Licensure N/APHYSICAL REQUIREMENTSStanding – 20%Sitting – 80%Squatting – Occasional Kneeling – Occasional Bending – Occasional Driving – Occasional Lifting – Occasional DISCLAIMERThe duties and responsibilities described in this document are not a comprehensive list and additional tasks may be assigned to the employee from time to time, or the scope of the job may change as necessitated by business demands.Time Type:Part timePay Range:$0.00--$0.00Delivering care that changes people's lives starts with our employees. Below are just some of the great benefits Centerstone employees enjoy:Medical, dental, and vision health coverageFlexible Spending and Health Savings Accounts403b retirement plan with company matchPaid time off and ten paid holidaysAD&D Insurance, Life Insurance, and Long Term Disability (company paid)Employee Resource GroupsContinuing education opportunitiesEmployee Assistance ProgramCenterstone is an equal opportunity employer. Employment at Centerstone is based solely on a person's merit and qualifications directly related to professional competence. We treat all clients and colleagues with dignity and respect.At Centerstone, we use our values as a guide for what we do. Respect, Expertise, Integrity and Empowerment are at the heart of every interaction at Centerstone, and particularly rooted in our Culture.Our approach to culture is to create an environment that encourages, supports and celebrates the voices and experiences of our employees. We are committed to a culture of empowerment, respect, integrity and expertise that powers our innovation and connects us to each other, our clients and the communities we serve.Centerstone is also committed to a strong culture of quality and safety, celebrating role-models who champion best practices for quality, clinical risk, and patient safety.",
-      "job_apply_link": "https://centerstone.wd5.myworkdayjobs.com/centerstonecareers/job/Bradenton-Florida/Bachelor-Level-Intern_JR-028686-1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:15:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "centerstone-bachelor-level-intern-ellenton",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T12:06:10.638Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "Application Development Intern",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Santa Rosa",
-      "job_state": "CA",
-      "job_description": "Join Keysight Technologies in this exciting opportunity.",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49520?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:15:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-application-development-intern-santa-rosa",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T12:19:22.877Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Software Engineer Internship",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Santa Rosa",
-      "job_state": "CA",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\">The High Frequency Measurements (HFM) organization of Keysight Technologies in Santa Rosa, CA has an opportunity for a summer internship in the R&amp;D Software Engineering Processes (SEP) Team.</span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\">The HFM organization develops and produces the world&rsquo;s highest performance signal generators, signal analyzers, network analyzers, power meters and modular systems to create and analyze wireless signals.</span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Our SEP engineers develop software tools and processes to qualify our market-leading Signal Analyzers, Signal Sources, and Electronic Measurement Applications. They work with manufacturing, software development and SEP teams in other geographies world-wide. Intern projects will typically involve working with these teams with the goal of improving our quality processes, verification techniques and reducing time to market.<br /><br /></span></p><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #242424;\">Example projects and experiences may include:</span></strong></span></p><ul><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Designing and developing C# based utilities and tests to verify the capabilities of signal analysis and signal generator software/hardware.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Implementing or enhancing web applications related to software quality and testing.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Learning and applying modern software engineering practices such as Agile Scrum, unit testing, usability testing, and continuously integrated builds.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Gaining hands-on knowledge of Test &amp; Measurement instrument control.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Identifying key areas for AI integration in Testing &amp; QA.</span></li></ul><p style=\"margin: 0px;\">&nbsp;</p> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #242424;\">The ideal candidate will be pursuing a BSCS / BSCSE or equivalent degree.<br /><br /></span></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #242424;\">Desired Skills and Knowledge:</span></strong></p><ul><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Strong software analysis and design knowledge.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Experience with Microsoft Windows, .NET, C++, C#, OO, XML, HTML, SQL databases.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Possible experience in one or more of the following: software testing, software test paradigms, software development best practices, quality metrics, continuous integration, and unit testing.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">An interest in RF technologies and measurement applications.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Familiarity with AI technologies and their applications in software testing and quality assurance.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Self-motivated and comfortable in a dynamic, fast-paced environment.</span></li></ul><p style=\"margin: 0px;\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship (ie H1B Visa) may not be considered.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">$29-31/hour</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49623?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-20T00:15:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-software-engineer-internship-santa-rosa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T12:35:59.857Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Intern - AI/ML",
-      "employer_name": "Sensata",
-      "job_city": "Attleboro",
-      "job_state": "MA",
-      "job_description": "Sensata Interns have the unique opportunity to support a focused, actionable approach for an increased and more accurate understanding of customers and their individual needs. The Commercial Excellence team works in partnership with functional areas across the organization to deliver digital capabilities that maximize profitable revenue growth, improve customer and product margins and reduce overall costs to serve customers. Our Intern Program is inclusive to all our US sites and is designed to give each intern a concentrated view of what it is like to be an engineer at Sensata. Internship projects vary from year to year and are based on current business needs at the time of the internship. Specific details will be provided prior to your start date, but all projects are technical and require a sound understanding of engineering principles.AI/ML Interns will be focused on building the Data pipelines and RAG applications to support the organization’s Artificial Intelligence/Machine Learning Roadmap. This role requires good understanding of coding techniques in Python, SQL and Cloud technologies.Key Responsibilities:Assist in design and implementing AI/ML models using Python.Support the development and testing of Retrieval Augmented Generation (RAG) pipelines.Help Integrate AI solutions with Microsoft Azure.Research and provide multiple path of solutions.Successful Candidates will Demonstrate:Proficiency in Python with exposure to ML/AI librariesFamiliarity with Machine Learning and AI conceptsStrong problem-solving skills and willingness to learnRequired Qualifications:Currently pursuing a Master’s (or Bachelor’s with relevant experience) in Computer Science, Data Science, or related fieldU.S. citizen or U.S. permanent resident is NOT required for this position, however proper work authorizations will be required. At Sensata, our employees are the key to our success and growth. In addition to the competitive hourly rates offered, all interns receive a sign-on bonus. Interns at Sensata Technologies are eligible to participate in benefits including paid holidays, sick time, and medical insurance.Engineering/IT Intern Hourly RatesSophomore Graduating 2029: $25.00Junior Graduating 2028: $27.00Senior Graduating 2027: $29.00Graduate Students: $32.00SmarterTogetherCollaborating at Sensata means working with some of the world’s most talented people in an enriching environment that is constantly pushing towards the next best thingEmployees work across functions, countries and cultures gaining new perspectives through mutual respect and open communication As OneSensata, we are working together to make things work together Click here to view Sensata Recruitment Privacy StatementClick here to view our Sensata Recruitment Privacy Statement for ChinaNOTE: If you are a current Sensata employee (or one of our Affiliates), please back out of this application and log into Workday via the Company Intranet to apply directly. Type \"FIND JOBS\" in the Workday search bar.",
-      "job_apply_link": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/IT--AI-ML--Intern---Summer-2026_IRC96039",
-      "job_posted_at_datetime_utc": "2025-09-19T23:56:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sensata-it-intern-ai-ml-attleboro",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T12:57:52.686Z",
-    "postedAt": "2025-12-14T18:29:26.991Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Data Science",
       "employer_name": "Hartford Financial Services",
       "job_city": "Chicago",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T13:13:17.230Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T18:28:47.729Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T18:45:23.160Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
       "job_state": "NY",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business’s mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.Representing virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova’s businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.Come and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.Job DescriptionWe are seeking a motivated intern to join the ARC AI Project Team. The candidate will play a key role in supporting the deployment of AI projects for our GE Vernova Power Transmission business, participating in all phases from idea generation and assessment, through proof of concept and minimum viable product (MVP), to full activation of AI solutions. Beside the ARC AI team, the candidate will work closely with the Power Transmission AI project teams to transfer their business needs into AI solutions in a cross-functional environment.Primary Skills Developed:Advanced analytical and problem-solving abilities through direct engagement with complex AI projects.Effective communication skills gained from collaborating across multidisciplinary teams and presenting technical concepts to diverse audiences.Practical, hands-on experience in the end-to-end deployment of AI solutions, including project scoping, development, validation, and implementation.Insight into real-world business challenges and the application of AI technologies to drive meaningful business transformation.Project Outcomes:Collaborate with the ARC and Power Transmission AI teams to identify and evaluate new opportunities for AI projects.Support the design, development, and validation of AI proofs of concept and minimum viable products (MVPs).Assist in the deployment and integration of AI solutions within the business unit, ensuring alignment with organizational objectives.Partner with project teams to understand business needs and translate them into effective AI-driven solutions.Contribute to comprehensive project documentation, reporting, and knowledge sharing to promote best practices and cross-team learning.Qualifications:Currently pursuing a Ph.D. in Computer Science, Engineering or related field.Legal authorization to work in the U.S. is required.Because of the specific categories of data handled by GE Vernova Advanced Research and the structure of our work environment, we are unable to accommodate employment of persons while they are considered nationals of countries subject to comprehensive restrictions under the US Export Administration Regulations (EAR), 15 CFR Section 746 et seq. (currently North Korea, Syria, Iran and Cuba). Please note that citizens of these countries who have either “U.S. person” status under U.S. export control laws or subsequent citizenship or permanent residency from a non-restricted country can be considered.Must be willing to work out of an office located in Niskayuna, NY. Minimum GPA 4.0 / 5.0 scale.Desired Qualifications:Demonstrated proficiency in programming languages, such as PythonSolid understanding of AI and machine learning principlesHands-on experience with data analysis toolsAbility to work collaboratively within cross-functional teamsBenefits Available to you: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce: Our Culture | GE Vernova (gecareers.com)The weekly base pay range for this position is $1,000-$2,000 weekly. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position will be posted until at least 9/25/2025.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Inclusion At GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: https://jobs.gecareers.com/vernova/global/en/i-d-eAdditional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-ML-Engineer-Intern---Summer-2026_R5020396-1",
       "job_posted_at_datetime_utc": "2025-09-18T22:12:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-ai-ml-engineer-intern-schenectady"
+      "id": "ge-vernova-ge-vernova-ai-ml-engineer-intern-schenectady",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "WillowTree",
       "job_city": "Durham",
       "job_state": "NC",
-      "job_description": "Join WillowTree in this exciting opportunity.",
+      "job_description": "Who We Are Welcome to TELUS Digital — where innovation drives impact at a global scale. As an award-winning digital product consultancy and the digital division of TELUS, one of Canada’s largest telecommunications providers, we design and deliver transformative customer experiences through cutting-edge technology, agile thinking, and a people-first culture. With a global team across North America, South America, Central America, Europe, and APAC, we offer end-to-end expertise across eight core service areas: Digital Product Consulting, Digital Marketing Services, Data & AI, Strategy Consulting, Business Operations Modernization, Enterprise Applications, Cloud Engineering, and QA & Test Engineering. From mobile apps and websites to voice UI, chatbots, AI, customer service, and in-store solutions, TELUS Digital enables seamless, trusted, and digitally powered experiences that meet customers wherever they are — all backed by the secure infrastructure and scale of our multi-billion-dollar parent company. Location & Flexibility Our interns are integral parts of our teams at TELUS Digital. To help retain our deep culture of collaboration, our interns maintain an in-office presence in a hybrid capacity (Tuesdays, Wednesdays, Thursdays). This role can be located in Columbus, OH, Charlottesville, VA, or Durham, NC. The Opportunity We believe the best ideas come from shared creativity. What sets us apart from other agencies is that our engineers sit right beside researchers and creatives, so perspectives from multiple disciplines shape our products. Our summer internship program gives current students the chance to make an impact by contributing ideas and adding a fresh perspective to real client projects, all while receiving one-on-one mentoring from our full-time team members. Not only that, but you’ll have snacks galore, and plenty of chances to socialize with your fellow interns — including fun outings during work hours. We’ll have you with us full-time (think 40 hours a week for approx. 11 weeks) and yes, it is definitely paid. Not a bad gig, right? We understand our responsibility to create a diverse, equitable, and inclusive place within the tech industry, while pushing to make our industry more representative. Because of this responsibility, we need candidates who value diversity and inclusion through their work, team collaboration, or involvement in student organizations. Your Impact Your day-to-day work will influence millions of users You’ll have the opportunity to learn every day from engineering leadership Hands-on experience by working on real client work You’ll build amazing products people love You’ll participate in the delivery of large and complex software projects in a team-based environment Your Background You plan to graduate in Fall/Winter 2026 or later Have experience with mobile or web development (Swift, Java, Kotlin, TypeScript, Javascript, etc.) You’ve done a mobile project in school or in your spare time A self-starter who embraces new technologies You are intellectually curious and enjoy digging into what makes each platform unique A commitment to delivering quality code for best-in-class digital experiences You appreciate good design and have an eye for details Applicants must be authorized to work permanently for any employer in the U.S. We are unable to sponsor employment visas at this time. P.S. Even if you don’t have expertise in all of the qualifications listed, we value new perspectives and encourage you to apply. We’re committed to building a diverse company that reflects the diversity of our users. If you feel confident about a good amount of the bullet points above, we’ll ramp you up on the rest. Equal Opportunity Employer At TELUS Digital, we are proud to be an equal opportunity employer and are committed to creating a diverse and inclusive workplace. All aspects of employment, including the decision to hire and promote, are based on applicants’ qualifications, merits, competence and performance without regard to any characteristic related to diversity. We will only use the information you provide to process your application and to produce tracking statistics. Since we do not request personal data deemed sensitive, we ask you to abstain from sharing that information with us. For more information on how we use your information, see our Privacy Policy.Hourly Rate (USD)$31 - $31 USD",
       "job_apply_link": "https://job-boards.greenhouse.io/willowtree/jobs/8094349002",
       "job_posted_at_datetime_utc": "2025-09-18T20:59:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "willowtree-software-engineering-intern-durham"
+      "id": "willowtree-software-engineering-intern-durham",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Auto-Owners Insurance",
       "job_city": "East Lansing",
       "job_state": "MI",
-      "job_description": "Join Auto-Owners Insurance in this exciting opportunity.",
+      "job_description": "A career at Auto-Owners is challenging and rewarding. Our group of caring associates create financial security by helping individuals and businesses make a new start when a loss occurs.Job DescriptionAuto-Owners Insurance, a top-rated insurance carrier, is seeking a motivated intern to join our IT Division as an Intelligent Automation Developer. Responsibilities include developing, maintaining, and supporting software applications for new and existing systems. The position requires the person to:Define, develop, test, analyze, and maintain new and pre-existing software programs and applications.Actively participate in code/design reviews and brainstorming sessions.Develop program and system documentation.Analyze and fix software errors in a timely and accurate fashion.Consult with users, architects, project leaders, and management to resolve problems and suggest alternatives.This internship has full-time hours (Monday through Friday) and is in person in Lansing, Michigan. Interns choose their start and end dates. Most join in mid-May and stay until mid-August.Desired Skills and ExperienceStudents must be working toward a bachelor’s degree in Computer Science, Information Systems, Information Technology, or a related field, and have at least two years of coursework completed.Experience with any of these development technologies is a plus: RPA, Machine Learning, NLP, OCR/ICR, Data Analysis and Java.Identify innovations in OCR, text analytics and NLP leveraging ML/AI and deep learning to help advance automation, knowledge discovery, decision-making and insights, and streamline business processes or enable new capabilities in document understanding and knowledge extraction from text and unstructured data.The aptitude and desire for software development while demonstrating initiative.Knowledge of Agile software development principles, process, and tools.Must be able to learn and effectively use tools and software development techniques as practiced, acquired, or adopted within the IT Division.Equal Employment OpportunityAuto-Owners Insurance is an equal opportunity employer. The Company hires, transfers, and promotes on the basis of ability, without consideration of disability, age, sex, race, color, religion, height, weight, marital status, sexual orientation, gender identity or national origin, or any factor contrary to federal, state or local law.*Please note that the ability to work in the U.S. without current or future sponsorship is a requirement.#LI-DNI#IN-DNI",
       "job_apply_link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Intern_R_12385",
       "job_posted_at_datetime_utc": "2025-09-18T20:01:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "auto-owners-insurance-intelligent-automation-developer-intern-east-lansing"
+      "id": "auto-owners-insurance-intelligent-automation-developer-intern-east-lansing",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Magna",
       "job_city": "Troy",
       "job_state": "MI",
-      "job_description": "Join Magna in this exciting opportunity.",
+      "job_description": "Job descriptions may display in multiple languages based on your language selection. What we offer: At Magna, you can expect an engaging and dynamic environment where you can help to develop industry-leading automotive technologies. We invest in our employees, providing them with the support and resources they need to succeed. As a member of our global team, you can expect exciting, varied responsibilities as well as a wide range of development prospects. Because we believe that your career path should be as unique as you are. Group Summary: Magna is more than one of the world’s largest suppliers in the automotive space. We are a mobility technology company built to innovate, with a global, entrepreneurial-minded team. With 65+ years of expertise, our ecosystem of interconnected products combined with our complete vehicle expertise uniquely positions us to advance mobility in an expanded transportation landscape. Job Responsibilities: Position Overview Magna Corporate R&amp;D Intern program provides students the opportunity to be a key player within the organization. We seek a self-motivated intern to support our research team in projects focused on Computer Vision, Deep Learning, Image segmentation, and Pose estimation to contribute to new technology development in localization and 3D scene understanding/reconstruction. Essential Duties and Responsibilities: Supports the team in the industrialization of the existing 6D pose estimation pipelines. Work with an existing vision, DL model, and toolset and improve aspects of it. Support the research and development of new DL/ML algorithms in object detection, segmentation, and 6D pose estimation domains. Qualifications: Experience building systems based on machine learning and/or deep learning methods. Programming experience with Python/ C++/MATLAB, ROS/ROS2 Hands-on experience with deep learning frameworks such TensorFlow, PyTorch, etc. Good hands-on experience with computer vision algorithms and libraries, such as Open CV, Development experience in a Linux environment (Ubuntu is preferred) Self-starter and able to work in a collaborative and result-oriented environment. Education / Experience Current enrollment in computer science, electrical engineering, computer Engineering, Mechanical Engineering, or robotics with emphasis on computer vision and machine learning degree-seeking program at the Graduate-level Special Knowledge / Skills: Experience with DL/ML is required. Hands-on experience with deep learning models for image/video understanding and pose estimation is a plus. Strong knowledge of programming techniques, especially for parallel architectures, is a plus. Physical Demands / Work Environment: Normal amount of sitting or standing, average mobility to move around an office (Troy, MI) environment, able to conduct a normal amount of work at a computer. Awareness, Unity, Empowerment: At Magna, we believe that a diverse workforce is critical to our success. That’s why we are proud to be an equal opportunity employer. We hire on the basis of experience and qualifications, and in consideration of job requirements, regardless of, in particular, color, ancestry, religion, gender, origin, sexual orientation, age, citizenship, marital status, disability or gender identity. Magna takes the privacy of your personal information seriously. We discourage you from sending applications via email or traditional mail to comply with GDPR requirements and your local Data Privacy Law. Worker Type: Student / Co-Op Group: Magna Corporate We see a future where everyone can live and move without limitations. That’s why we are developing technologies, systems and concepts that make vehicles safer and cleaner, while serving our communities, the planet and, above all, people. In the right environment, your ideas can turn into industry-changing automotive technologies and improve the lives of people around the world. Let's create the future of mobility, together. Learn more about us: Sustainability Innovation Interview-Tips",
       "job_apply_link": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision---AI-Intern--Fall-2025_R00211083",
       "job_posted_at_datetime_utc": "2025-09-18T19:23:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "magna-computer-vision-ai-intern-troy"
+      "id": "magna-computer-vision-ai-intern-troy",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Bartlett & West",
       "job_city": "Jefferson City",
       "job_state": "MO",
-      "job_description": "Join Bartlett & West in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>POSITION SUMMARY:&nbsp;</strong>As a Bartlett &amp; West intern you’ll work in a stimulating and collaborative environment where you’ll gain practical experience and exposure to diverse perspectives.&nbsp; You will also be introduced to the Purpose &amp; Core Values that drive the employee owners each day along with the opportunity to understand the benefits of an employee-owned firm.</p> <p>&nbsp;</p> <p>Interns will be encouraged to network with other employee owners and to build relationships across disciplines as well as with other interns and co-ops. We will provide organized social and networking opportunities throughout the summer where you will have the opportunity to connect with other graduates that have recently joined Bartlett &amp; West as well as meet with our senior leadership&nbsp;team.</p> <p>&nbsp;</p> <p>This position would focus in Water Resources GIS.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <h2>Responsibilities</h2> <p><strong>Essential Functions &amp; Responsibilities:</strong></p> <ul> <li>Data conversion, migration, and map production.&nbsp;</li> <li>Understanding and following mapping standards.&nbsp;</li> </ul> <ul> <li>Preparation of GIS data, including analysis support.&nbsp;</li> <li>Creation of thematic maps using available datasets.&nbsp;</li> <li>Setup coordinate system information.&nbsp;</li> <li>Setup applicable attribute information.&nbsp;</li> <li>Draw,&nbsp;digitize map features from hard copy source material.&nbsp;</li> </ul> <ul> <li>Edit and create new feature classes within the map environment.&nbsp;</li> <li>Import features from a variety of sources into GIS environment.&nbsp;</li> <li>Create and edit annotation and labelling.&nbsp;</li> <li>Occasional development and support of geographic database schema.&nbsp;</li> </ul> <h2>Qualifications</h2> <p><strong>Knowledge, Skills, Abilities:</strong>&nbsp;</p> <ul> <li>Basic map production skills or relevant coursework&nbsp;</li> <li>Analytical thinker &nbsp;</li> <li>Good written and verbal communication skills &nbsp;</li> <li>Good problem-solving skills &nbsp;</li> </ul> <ul> <li>Detail oriented&nbsp;</li> <li>Proficiency in MS Office and ArcGIS software&nbsp;</li> <li>Exhibits initiative, responsibility, and flexibility&nbsp;</li> <li>Desire and ability to learn new technology and processes&nbsp;</li> <li>Developed organizational and time management skills&nbsp;</li> </ul> <ul> <li>Ability to work successfully independently and within a team&nbsp;&nbsp;</li> <li>Possess unquestionable integrity, ethics, and the values appropriate to the company’s culture; and actively models those values internally and externally&nbsp;</li> </ul> <p>&nbsp;</p> <p><strong>Education:</strong></p> <p>Enrollment in a Technical School or currently enrolled student majoring in GIS, Geography or a related field and one (1) year completed in a Bachelor’s Degree program.</p> <p><strong>&nbsp;</strong></p> <p><strong>Experience:</strong></p> <p>0-6 months experience.&nbsp; Experience in MS Office Suite required.&nbsp; Experience or exposure with GIS preferred.&nbsp;</p> <p><strong>&nbsp;</strong></p> <p><strong>&nbsp;</strong></p> <p><strong>Travel Expectations:</strong></p> <p>Must be able to travel in-state and out-of-state on occasion, which usually would consist of field work on construction projects, visiting other company locations, attending business meetings.&nbsp; Engineer Intern travels in company vehicle or personal vehicle. Minimum travel is 10% of the time depending on projects. Valid driver’s license with good driving record required.</p> <p>&nbsp;</p> <p>Bartlett &amp; West is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, age, sexual orientation, status as a protected veteran or status as a qualified individual with disability.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>An offer is contingent upon successfully passing the pre-employment drug screen. Drug screen will need to complete within 48 hours of being contacted.&nbsp;</p> <p>Nearly all positions at Bartlett &amp; West can require employee-owners to operate a motor vehicle on public roads in the course of their duties.&nbsp; Accordingly, all employees may be required to have acceptable driving records and to provide an authorization to the Company to periodically obtain MVR reports”.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Bartlett &amp; West partners with businesses and communities to build smarter, stronger, more connected infrastructure. From railroad GIS to industrial parks and city planning, we provide innovative technology and engineering solutions to clients worldwide. With deep industry knowledge and a passion for creative problem solving, we engineer better tomorrows.</p> <p>&nbsp;</p> <p><strong><em>Bartlett &amp; West is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, age, sexual orientation, status as a protected veteran or status as a qualified individual with disability.&nbsp;&nbsp;</em></strong></p>",
       "job_apply_link": "https://careers-bartwest.icims.com/jobs/2334/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-18T07:39:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bartlett-west-gis-intern-water-resources-focus-jefferson-city"
+      "id": "bartlett-west-gis-intern-water-resources-focus-jefferson-city",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Video Codec Algorithm Intern (Multimedia Lab)- 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7546692493909428498/detail",
       "job_posted_at_datetime_utc": "2025-09-18T02:37:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-video-codec-algorithm-intern-multimedia-lab-bs-ms-san-diego"
+      "id": "bytedance-video-codec-algorithm-intern-multimedia-lab-bs-ms-san-diego",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-09-18T01:44:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-technologies-2026-summer-internship-software-engineer-android-corporate-and-business-services-ceo-lake-grove"
+      "id": "zebra-technologies-2026-summer-internship-software-engineer-android-corporate-and-business-services-ceo-lake-grove",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Sierra Nevada Coporation",
       "job_city": "Southern Pines",
       "job_state": "NC",
-      "job_description": "Join Sierra Nevada Coporation in this exciting opportunity.",
+      "job_description": "Come start your career with some of the brightest and most innovative minds in the country. Get your hands on actual projects, and at the same time, prepare for a truly awesome career in aerospace and defense. Our Interns have the unique experience of getting both mentoring and coaching while working side by side with recognized industry experts on real-world assignments directly related to their field of study. Bring your knowledge and desire to learn, and we will provide the experience! This position is in support of the TRAX team - SNC's TRAX software plays an integral part in bridging battlefield communication gaps for Military and Coalition Partners, effectively eliminating any proprietary interfaces and protocols, allowing commanders to receive a sound common operating picture of their battle space. This position will work as part of a larger Agile software development team to rapidly provide operational capabilities to the field.Summer internships are typically 10-12 weeks starting in late May/early June and work an average of 40 hours a week. Depending on satisfactory completion of certain criteria during your internship, you may be considered for a full-time position upon graduation. As a Technical Intern, you'll ask questions, get involved, bring your ideas, be part of an actual project team, attend planning meetings, complete assignments as tasked by your team, absorb and learn from your team and apply that learning to projects assigned. You'll have the opportunity to learn fundamental business processes and procedures, build your technical foundation through practice and mentorship, and participate in an in-depth program built by our University Recruiting team, that includes cross-functional workshops and meeting with leadership to gain understanding of the business and SNC culture.The Mission Solutions and Technologies (MST) business area provides affordable, turn-key command/control, communications, integrated ISR, force protection and security solutions worldwide. The MST team has a long legacy of supporting the Department of Defense, Department of Homeland Security, commercial and international customers with years of experience in platform operations, engineering and full lifecycle management across domains – air, land, sea, space and cyber.Responsibilities:Designs, develops, documents, tests and debugs applications software and systems that contain logical and mathematical solutionsDefine software/and or system architecture, design software modules, and produce associated documentation per corporate or customer standardsEnsures software standards are metWrite and test software modules and integrate with other software and/or hardware componentsQualifications You Must Have:Must be a Sophomore, Junior or Senior in college or technical school, with at least 6 months until graduation after end of internshipThe ability to obtain and maintain a Secret U.S. Security Clearance is requiredExperience in C#, Java, or KotlinExperience designing and developing softwareAbility to work in a highly collaborative team environmentAbility to work in a fast-paced environmentExcellent communication and interpersonal skillsStrong skills in Word, Excel, PowerPoint and VisioStrong organization skills and work ethic; detail orientedQualifications We Prefer:Development experience in JavaScript, Typescript with Frameworks like REACTDevelopment experience in C# ASP.NET CorePursuing a degree in engineering or a related disciplineMicrosoft Access skillsThis posting will be open for application for a minimum of 5 days and may be extended based on business needs.SNC offers a generous benefit package, including medical, dental, and vision plans, 401(k) with 150% match up to 6%, life insurance, 3 weeks paid time off, tuition reimbursement, and more.IMPORTANT NOTICE: This position requires the ability to obtain and maintain a Secret U.S. Security Clearance. U.S. Citizenship status is required as this position needs an active U.S. Security Clearance for employment. Non-U.S. citizens may not be eligible to obtain a security clearance. The Department of Defense Consolidated Adjudications Facility (DoD CAF), a federal government agency, handles the adjudicative aspects of the security clearance eligibility process for industry applicants. Adjudicative factors which affect the outcome of the eligibility determination include, but are not limited to, allegiance to the U.S., foreign influence, foreign preference, criminal conduct, security violations and illegal drug use.Learn more about the background check process for Security Clearances. SNC is a global leader in aerospace and national security committed to moving the American Dream forward. We’re known and respected for our mission and execution focus, agility, and disruptive and rapid innovation. We provide leading edge technologies and transformative solutions that support our nation’s most critical security needs. If you are mission-focused, thrive in collaborative environments, and want to make our country stronger with state-of-the-art technologies that safeguard freedom, join our team!SNC is an Equal Opportunity Employer committed to an environment free of discrimination. Employment decisions are made based on merit without regard to race, color, age, religion, sex, national origin, disability, status as a protected veteran or other characteristics protected by law.",
       "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern---Summer-2026_R0028247",
       "job_posted_at_datetime_utc": "2025-09-18T01:16:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sierra-nevada-coporation-software-engineer-intern-southern-pines"
+      "id": "sierra-nevada-coporation-software-engineer-intern-southern-pines",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "BorgWarner",
       "job_city": "Kokomo",
       "job_state": "IN",
-      "job_description": "Join BorgWarner in this exciting opportunity.",
+      "job_description": "PositionData Science Intern, Supply Chain BOM AnalyticsLocationKokomo, IndianaAbout UsBorgWarner is a global product leader in delivering innovative and sustainable mobility solutions. We are a company of innovators and independent thinkers that brings together talented employees, meaningful work and amazing technology in a unique environment. At BorgWarner, we constantly work towards our vision of a clean and energy-efficient world. Our Culture BorgWarner promotes and nurtures a diverse and inclusive environment, honors integrity, strives for excellence, commits to responsibility for our communities and the environment, and builds on the power of collaboration. We believe the health and safety of our employees are a top priority.Career Opportunities We manage talent as seriously as we manage our businesses and encourage you to learn about our proud history, strong culture, technologies, and vision for the future. We offer positions locally and globally with over 80 locations in 19 countries.If this position energizes you and you feel you can help us achieve our mission and vision, you are invited to submit an application for consideration.You may see the list of requirements and feel you do not meet all of them. However, remember that BorgWarner thinks differently. If your qualifications align with the majority of those outlined in this job description, we encourage you to apply and share your experience and skills with us.Job PurposeBorgWarner PowerDrive Systems is currently looking for “dynamic, results driven” individual to join as a Data Science Intern, Supply Chain BOM Analytics in our Summer Internship Program.In this role, under the supervision of a GSM Director, the intern will be primarily responsible for designing and creating a tool to facilitate the systemic analysis and benchmarking of the bill of materials (BOM) of BorgWarner PDS products. Key ResponsibilitiesUnderstand PDS product portfolioWork with Engineering, Advance Launch Managers (ALMs) and Global Commodity Managers (GCMs) to understand BOM structures and main building blocks of the different product linesAssist in analysing and processing large-scale Bill of Materials (BOM) datasets across thousands of products to support supply chain optimization and decision-makingApply data analysis techniques to identify patterns, inconsistencies, and improvement opportunities in BOM structures and component usageGenerate initial reports to validate the data analysis conceptDevelop a user-friendly tool for stakeholders to compare BOMsProvide insight to cost reduction teams (e.g.: value added / value engineering activities)Other projects as deemed necessary by the ALM and GCM Teams What We Are Looking ForCurrently enrolled in an accredited college, university, or be a graduate from an accredited collegeGPA of 3.0 on a 4.0 scale, or B average, upon initial hire dateProficiency in Python (specially pandas, numpy) for data cleaning and analysisExperience with Power Query and Excel for data transformation and reportingFamiliarity with Power BI or other visualization tools is a plusUnderstanding of supply chain concepts and BOM structures is highly desirableData science background preferred Highly collaborative and team oriented Self-motivated individual Ability to interface at all levels within the organization in a professional manner What We BelieveInclusion - We value diversity in people, ideas, and experiencesIntegrity - We believe in transparency, authenticity, and depend on each other to deliver what we promiseExcellence - We contribute to our developments by seeking knowledge and sharing informationResponsibility - We care about our local communities and the global environmentCollaboration - We are one BorgWarnerVisa SponsorshipBorgWarner does provide sponsorship for employment visa status based on business need. However, for this role, sponsorship is not available.No Unauthorized Referrals from Recruiters & VendorsPlease note that BorgWarner and any of its affiliated companies does not seek or accept unsolicited resumes or offers from third party recruiters or staffing agencies associated with any published or unpublished employment opportunities. Any unsolicited information sent to BorgWarner will be considered as unencumbered and free from any fee or charge whatsoever. Only members of our Human Resources Team have the authority to engage or authorize recruiting services, which must be agreed upon before the unsolicited resume or offer is received.Career Scam DisclaimerBorgWarner makes no representations or guarantees regarding employment opportunities listed on any third-party website. To protect against career scams, job applicants should take the necessary precautions when interviewing for and accepting employment positions allegedly offered by BorgWarner. Applicants should never provide their Social Security numbers, birth dates, credit card numbers, bank account information or other private information when communicating with prospective employers or responding to employment opportunities online. Job applicants are invited to contact BorgWarner through BorgWarner’s website to verify the authenticity of any employment opportunities.Join the company that is creating solutions that support a cleaner, more energy-efficient world. For more information about BorgWarner, please visit www.borgwarner.com#LI-onsiteSalary Range $16.00 - $27.00 / hour Internal Use Only: Indirect HourlyGlobal Terms of Use and Privacy StatementCarefully read the BorgWarner Privacy Policy before using this website. Your ability to access and use this website and apply for a job at BorgWarner are conditioned on your acceptance and compliance with these terms.Please access the linked document by clicking here, select the geographical area where you are applying for employment, and review. Before submitting your application you will be asked to confirm your agreement with the terms.Career Scam Disclaimer: BorgWarner makes no representations or guarantees regarding employment opportunities listed on any third-party website. To protect against career scams, job applicants should take the necessary precautions when interviewing for and accepting employment positions allegedly offered by BorgWarner. Applicants should never provide their national ID numbers, birth dates, credit card numbers, bank account information or other private information when communicating with prospective employers or responding to employment opportunities online. Job applicants are invited to contact BorgWarner through BorgWarner’s website to verify the authenticity of any employment opportunities.",
       "job_apply_link": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Data-Science-Intern--Supply-Chain-BOM-Analytics_R2025-3648",
       "job_posted_at_datetime_utc": "2025-09-18T01:14:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo"
+      "id": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T18:44:53.743Z",
     "postedAt": null
   },
   {
