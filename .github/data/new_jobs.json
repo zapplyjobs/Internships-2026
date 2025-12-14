@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Python Developer",
-    "employer_name": "SAP",
-    "job_city": "Newtown Square",
-    "job_state": "PA",
-    "job_description": "Search by keyword Search by location Show more options Loading... Work area All Career status All Country All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
-    "job_apply_link": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101",
-    "job_posted_at_datetime_utc": "2025-09-22T07:15:28.000Z",
+    "job_title": "System Test Automation Engineer",
+    "employer_name": "Philips",
+    "job_city": "San Diego",
+    "job_state": "CA",
+    "job_description": "Join Philips in this exciting opportunity.",
+    "job_apply_link": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
+    "job_posted_at_datetime_utc": "2025-09-22T07:08:34.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "sap-python-developer-newtown-square",
-    "description_platform": "generic",
-    "description_success": true
+    "id": "philips-system-test-automation-engineer-san-diego",
+    "description_platform": "workday",
+    "description_success": false
   }
 ]
