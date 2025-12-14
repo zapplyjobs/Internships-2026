@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T10:56:02.429Z",
+  "lastUpdated": "2025-12-14T11:05:20.858Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3774,14 +3774,25 @@
       "sourceUrl": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
       "discordThreadId": "1449716553179205697",
       "instanceNumber": 1
+    },
+    {
+      "id": "highmark-health-software-engineering-pittsburgh-2025-12-14-1",
+      "jobId": "highmark-health-software-engineering-pittsburgh",
+      "company": "Highmark Health",
+      "title": "Software Engineering",
+      "postedToDiscord": "2025-12-14T11:05:20.858Z",
+      "sourceDate": "2025-09-22T06:55:34.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+      "discordThreadId": "1449718895945580604",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 343,
+    "totalJobs": 344,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T10:56:02.429Z",
+      "date": "2025-12-14T11:05:20.858Z",
       "archived": 0
     }
   }
