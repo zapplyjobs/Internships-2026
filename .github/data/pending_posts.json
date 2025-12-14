@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Engineering Co-op",
-      "employer_name": "Trane Technologies",
-      "job_city": "Winona",
-      "job_state": "MN",
-      "job_description": "Join Trane Technologies in this exciting opportunity.",
-      "job_apply_link": "https://careers.tranetechnologies.com/global/en/job/2504004",
-      "job_posted_at_datetime_utc": "2025-09-16T01:15:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "trane-technologies-engineering-co-op-winona",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Low Latency Video Codec Algorithm Intern (Multimedia Lab)- 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7548273169150380296/detail",
-      "job_posted_at_datetime_utc": "2025-09-16T01:10:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Intern",
-      "employer_name": "CACI",
-      "job_city": "Denver",
-      "job_state": "CO",
-      "job_description": "Software Development Intern - Summer 2026Job Category: Intern/Co-opTime Type: Part timeMinimum Clearance Required to Start: NoneEmployee Type: Part-Time On-CallPercentage of Travel Required: NoneType of Travel: NoneAnticipated Posting End: 1/31/2026The Opportunity:CACI is looking for a talented Software Developer for our Summer 2026 internship program. As an intern in this organization, you will have the opportunity to work with a variety of technologies, which may include Java 17, ReST, Spring, Angular, Bootstrap, Cesium, OpenLayers, WebGL, WebAssembly, Accumulo, PostGres, Python and a variety of other enterprise technologies. You will also be exposed to GIS & OGC standards, continuous integration, and automated testing tools such as GitLab, Cypress, and JUnitThe Responsibilities:CACI's FADE Team is literally changing the state-of-the-art of geospatial analysis software. The team is producing exceptionally high-quality tools to enable our users to address challenging real-world problems, converting knowledge of time and space into actionable information for decision makers. Learn to fully unit test the code you have written. Participate in peer review of completed code. Follow established version control processes that govern commits back to main branch. Learn to use established CI Pipelines in the AWS cloud to qualify and build your code. Learn to properly integrate, integration test and regression test you code using established test automation.The Qualifications:Required:Understanding of programming principles, such as object-orientation and use of design patterns.Understanding microservice environments, AWS, Containerization strategies (Docker, OCI, etc.), Kubernetes.Modern Server development frameworks, including but not limited to Spring Boot, Micronaut, etc.Modern client development frameworks, AngularJS/Angular, REACT, Svelte, or similar.Java and associated libraries.JavaScript, HTML, CSS, and associated libraries.Linux and Windows skills.Experience with technical projects from design to production.Ability to present designs to customers and stakeholders.Must currently be enrolled in a full-time Undergraduate, or Graduate Student. If Undergraduate or Graduate, pursing a degree in Computer Science or related field is preferred, not required.Must be able to obtain and maintain applicable security clearance.Desired:Experience using and interacting with various DevOps tools, including: Jenkins, GitLab, NexusExperience using various programming languages, tools, and techniques, including: Java, JavaScript, Groovy, Svelte, Angular, Python, GIT, SQL, Semantic version controlMinimum GPA of 3.0 or higher is preferred, not required.-________________________________________________________________________________________What You Can Expect: A culture of integrity.At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust.CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.A focus on continuous growth.Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy. Your potential is limitless. So is ours.Learn more about CACI here.________________________________________________________________________________________Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits. Learn more here.The proposed salary range for this position is: $43,900 - 87,900 USDCACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
-      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Development-Intern---Summer-2026_317296-1",
-      "job_posted_at_datetime_utc": "2025-09-16T00:46:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "caci-software-development-intern-denver",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern - Automation & Developer Experience",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Colorado Springs",
-      "job_state": "CO",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">6&ndash;12 month internship designed to advance the Vulnerability Management (VM) automation program significantly. The intern will play a key role in:</span></p><ul style=\"margin-top: 0in;\"><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Enhancing CI/CD test coverage, improving reliability and reducing deployment risk.</span></li><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Developing a lightweight operational dashboard&nbsp;using FastAPI and Jinja, providing real-time visibility into VM processes and metrics.</span></li><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Implementing scheduled Python jobs&nbsp;(via cron) to automate report generation and maintain data hygiene, reducing manual overhead.</span></li></ul><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">The scope is intentionally crafted to minimize domain-specific onboarding, allowing the intern to focus on high-impact engineering tasks&mdash;platform development, testing, and data integration. This structure ensures rapid productivity while amplifying the lead developer&rsquo;s efforts on Snowflake migration and broader automation initiatives.</span></p><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">By investing in this internship, we accelerate delivery timelines, reduce technical debt, and create scalable tools that support long-term operational resilience. It&rsquo;s a cost-effective way to expand capacity while maintaining strategic focus.</span></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">&nbsp;</span></strong></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Program Objectives</span></strong></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Increase reliability and developer velocity through CI/CD quality testing (pytest, coverage, Jenkins).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Deliver an internal web dashboard to view job status and trigger runs (FastAPI + Jinja + HTMX).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Operate automation via scheduled Python jobs (cron) with logging, locking, and basic notifications.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Implement and stabilize three automation flows: Zero‑Day daily digest, Patch Advisory monthly report, and VM Tool user‑activity checks.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Produce runbooks, deployment notes (NGINX/systemd), and an architecture one‑pager for sustainment.</span></li></ul> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Skills Required</span></strong></p><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Essential (Must‑Have)</span></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Python fundamentals: functions, modules, packaging; comfort with CLI tools (Typer/argparse).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Pandas basics for data cleanup and export.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">FastAPI + Jinja basics: routes, templates, simple forms, JSON APIs.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Testing with pytest: unit tests, basic fixtures/mocks.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Git workflows: branching, pull requests, code reviews.</span></li></ul><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Nice to Have (Learn on the Job)</span></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">HTMX progressive enhancement for small UI interactions.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Jenkins pipeline familiarity (coverage reports, artifacts, gating).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Cron and Linux fundamentals; simple shell scripting.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Snowflake read patterns and service account auth.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">NGINX reverse proxy and systemd service management.</span></li></ul><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">$29-31/hourly</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49584?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-15T23:46:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Software Development Co-Op",
-      "employer_name": "Midmark ",
-      "job_city": "Vandalia",
-      "job_state": "OH",
-      "job_description": "JOB SUMMARY: This co-op position offers an experience uniquely designed to bridge the gap between academic studies and practical application in firmware development within a business and manufacturing environment. Co-op program students will have the opportunity to develop their skills in analyzing, designing, programing, configuring, and testing computer software programs and business applications. ESSENTIAL/PRIMARY DUTIES: - Works closely with Scrum Teams to do the following:- Builds, supports, and maintains existing and new IT software applications. - Creates or updates user stories to support software design concepts. - Builds Application Programming Interfaces (APIs) for the exchange of data. - Builds continuous integration and continuous delivery (CI/CD) pipelines for the automation of code deployments. - Builds automated test scripts that demonstrate the working quality of the software solutions. - Builds automated infrastructure utilizing Infrastructure as Code met...",
-      "job_apply_link": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3632",
-      "job_posted_at_datetime_utc": "2025-09-15T23:12:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "midmark-it-software-development-co-op-vandalia",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "Technology Intern",
-      "employer_name": "Voya Financial",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Together we fight for everyone’s opportunity for a better financial future.We will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future. We know that reaching this future depends on our actions today.Like our Purpose Statement, Voya believes in being bold and committed to action. We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision.Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage – Apply NowGetting to Know the Opportunity:This paid internship will provide students enrolled in an accredited program the opportunity to work in a real world, high-tech environment.Contributions You'll Make:Students have the opportunity to work with a variety of systems, from traditional office applications to sophisticated security systems, networking, web, and other technologies. A fast-paced environment affords the right candidate a unique opportunity to be exposed to a variety of technologies and its application to solution business opportunities and challenges. Areas of opportunity include:Data Management & Enterprise ArchitectureCorporate Systems, Quality & Vendor ManagementInfrastructure ServicesRetirement ServicesDigitalSecurity ServicesEmployee BenefitsPreferred Knowledge & Experience:Pursuing an undergraduate or graduate degree in Computer Science, Information Technology, Management Information Systems or related fieldsMinimum GPA of 3.2Self-motivated, excited about learning, comfortable working in a collaborative environment characterized by open sharing of feedback to achieve optimum outcomes. Strong communication and presentation skillsDetail oriented with solid analytical capabilities – being able to see things differently than others with substance and relevance.#LI-MN1#LI-RemoteCompensation Pay Disclosure: Voya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities.The below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting.Actual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. $25.00/hr.-$30.00/hr. USDBe Well. Stay Well.Voya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well.What We OfferHealth, dental, vision and life insurance plans401(k) Savings plan – with generous company matching contributions (up to 6%)Voya Retirement Plan – employer paid cash balance retirement plan (4%)Tuition reimbursement up to $5,250/yearPaid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day.Paid volunteer time — 40 hours per calendar yearLearn more about Voya benefits (download PDF)Critical SkillsAt Voya, we have identified the following critical skills which are key to success in our culture: Customer Focused: Passionate drive to delight our customers and offer unique solutions that deliver on their expectations.Critical Thinking: Thoughtful process of analyzing data and problem solving data to reach a well-reasoned solution.Team Mentality: Partnering effectively to drive our culture and execute on our common goals. Business Acumen: Appreciation and understanding of the financial services industry in order to make sound business decisions.Learning Agility: Openness to new ways of thinking and acquiring new skills to retain a competitive advantage.Learn more about Critical SkillsEqual Employment OpportunityVoya Financial is an equal-opportunity employer. Voya Financial provides equal opportunity to qualified individuals regardless of race, color, sex, national origin, citizenship status, religion, age, disability, veteran status, creed, marital status, sexual orientation, gender identity, genetic information, or any other status protected by state or local law.Reasonable AccommodationsVoya is committed to the inclusion of all qualified individuals. As part of this commitment, Voya will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please reference resources for applicants with disabilities.Misuse of Voya's name in fraud schemes",
-      "job_apply_link": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2026-Technology-Intern_JR0031730",
-      "job_posted_at_datetime_utc": "2025-09-15T23:08:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "voya-financial-technology-intern-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Workflow Architect Intern",
-      "employer_name": "Cencora",
-      "job_city": "Conshohocken",
-      "job_state": "PA",
-      "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!Job DetailsOur team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere.Start Date: June 8, 2026End Date: August 14, 2026Location: Conshohocken, PA We are seeking a motivated and detail-oriented AI Workflow Architect Intern to join our dynamic team. In this role, you will assist in designing, optimizing, and implementing AI-driven workflows that address complex business challenges across the pharmaceutical and healthcare industries. This is a unique opportunity to gain hands-on experience in applying artificial intelligence to real-world problems while collaborating with experts in technology and healthcare solutions.Key ResponsibilitiesWorkflow Design & Optimization: Assist in developing automated workflows using AI technologies to improve operational efficiency and productivity.Data Analysis: Collaborate with data scientists and engineers to analyze datasets for workflow insights and identify opportunities for AI integration.Tool Development: Support the creation and testing of AI tools and frameworks that enable seamless workflow orchestration.Documentation: Draft clear, detailed documentation for workflow architectures, including diagrams, process flows, and technical specifications.Stakeholder Collaboration: Work with cross-functional teams to understand business requirements and translate them into scalable AI-driven solutions.Performance Monitoring: Help evaluate, monitor, and refine workflows to ensure optimal performance and alignment with organizational goals.Learning OpportunitiesHands-on experience with state-of-the-art AI technologies such as machine learning, natural language processing, and robotic process automation.Exposure to real-world applications of AI in healthcare and pharmaceutical operations.Collaboration with industry leaders and subject matter experts in technology and healthcare.Development of problem-solving and critical thinking skills in a fast-paced environment.QualificationsCurrent enrollment in a Bachelor’s or Master’s program in Computer Science, Data Science, Artificial Intelligence, Engineering, or a related field.Must not require sponsorship to work in the US, now or in the futureProficiency in programming languages such as Python or Java.Basic understanding of AI/ML concepts and frameworks (e.g., TensorFlow, PyTorch, or Scikit-learn).Familiarity with workflow management tools and process modeling.Strong problem-solving skills with the ability to analyze complex systems and datasets.Excellent written and verbal communication, with the ability to convey technical concepts to non-technical audiences.Ability to collaborate effectively within a multidisciplinary team environment.Bonus Skills:Experience with cloud platforms (e.g., AWS, Azure, or Google Cloud), APIs, and process automation tools is a plus.What Cencora offersWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencoraFull timeEqual Employment OpportunityCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returnedAffiliated CompaniesAffiliated Companies:",
-      "job_apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517589",
-      "job_posted_at_datetime_utc": "2025-09-15T22:55:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cencora-ai-workflow-architect-intern-conshohocken",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Engineering Intern",
-      "employer_name": "Cencora",
-      "job_city": "Conshohocken",
-      "job_state": "PA",
-      "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!Job DetailsOur team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere.Start Date: June 8, 2026End Date: August 14, 2026Location: Conshohocken, PAAs Cencora continues to expand its capabilities in artificial intelligence and machine learning, there is a growing need to cultivate early-career talent who can support and grow with our AIPS initiatives. The proposed AI/ML Engineering Intern role is designed to provide senior-year undergraduate students with hands-on experience in real-world AI/ML projects, while also supporting the technical operations of platforms like CenChat and GenIE Platform.As an AI/ML Engineering Intern, you will support Cencora’s AI and ML initiatives by working alongside Cognitive Architects, Business Analysts, and internal stakeholders. This internship offers hands-on experience with intelligent assistants like CenChat and exposure to cutting-edge technologies in machine learning and automation.We’re looking for a curious, motivated intern with a passion for AI/ML who is eager to learn and contribute to real-world projects in a collaborative environment.Responsibilities:Assist in designing and testing prototypes for scalable machine learning infrastructure.Support the development of MLOps practices including model training, packaging, deployment, and monitoring.Help build and maintain pipelines for ML operations and infrastructure automation.Collaborate with AI Architects and ML Engineers to support successful deployment of AI/ML workloads.Learn and apply AI algorithms while adhering to architectural standards.Participate in troubleshooting and resolving technical issues within ML platforms.Analyze business processes and data flows to support model development under guidance.Contribute to the development of analytical models that support business growth.Help promote adoption of ML solutions using explainable AI techniques.QualificationsCurrently pursuing a Bachelor’s degree in Computer Science or related field, entering senior year.Must not require sponsorship to work in the US, now or in the futureExposure to or coursework in AI/ML, Deep Learning, or Computer Vision.Familiarity with ML frameworks such as TensorFlow, Keras, PyTorch, or Scikit-learn.Basic understanding of cloud platforms and data engineering concepts.Strong written and verbal communication skills.Experience or coursework in Agile/DevOps tools like Azure DevOps or Jenkins is a plus.Ability to work in a fast-paced, collaborative environment.Skills & AttributesPassion for AI/ML and enthusiasm for learning new technologies.Self-motivated and intellectually curious.Ability to research and evaluate technical solutions independently.Comfortable with ambiguity and adaptable to changing requirements.Strong team player with good interpersonal skills.Detail-oriented with solid organizational skills.Ability to communicate effectively with both technical and non-technical audiences.What Cencora offersWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencoraFull timeEqual Employment OpportunityCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returnedAffiliated CompaniesAffiliated Companies:",
-      "job_apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2517571",
-      "job_posted_at_datetime_utc": "2025-09-15T22:55:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cencora-ai-ml-engineering-intern-conshohocken",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
-      "job_title": "ML Software Engineer Intern - AI/CAD Integration",
-      "employer_name": "Falcomm",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Are you passionate about applying machine learning to transform the future of semiconductor design? At Falcomm, we are on a mission to revolutionize semiconductor technologies by integrating AI-driven solutions into the design and development of our en...",
-      "job_apply_link": "https://apply.workable.com/falcomm/j/B5EB495F31/",
-      "job_posted_at_datetime_utc": "2025-09-15T10:11:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": "2025-12-14T19:57:01.885Z"
-  },
-  {
-    "job": {
       "job_title": "Business Data Analyst",
       "employer_name": "OneDigital",
       "job_city": "Remote in USA",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:48:07.570Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:11:15.535Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "Chainlink Labs",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Chainlink Labs in this exciting opportunity.",
+      "job_description": "About Chainlink Chainlink is the industry-standard oracle platform bringing the capital markets onchain and powering the majority of decentralized finance (DeFi). The Chainlink stack provides the essential data, interoperability, compliance, and privacy standards needed to power advanced blockchain use cases for institutional tokenized assets, lending, payments, stablecoins, and more. Since inventing decentralized oracle networks, Chainlink has enabled tens of trillions in transaction value and now secures the vast majority of DeFi. Many of the world’s largest financial services institutions have also adopted Chainlink’s standards and infrastructure, including Swift, Euroclear, Mastercard, Fidelity International, UBS, S&amp;P Dow Jones Indices, FTSE Russell, WisdomTree, ANZ, and top protocols such as Aave, Lido, GMX and many others. Chainlink leverages a novel fee model where offchain and onchain revenue from enterprise adoption is converted to LINK tokens and stored in a strategic Chainlink Reserve . Learn more at chain.link . About the Role Chainlink Labs is seeking Research Interns to support its mission of building the world’s most secure and flexible decentralized oracle technologies. Research Engineers will work directly with top domain experts in applied cryptography, mechanism design (cryptoeconomics), distributed systems, and other disciplines to identify and solve key research challenges and build production solutions that keep Chainlink at the forefront of oracle system deployment and fuel the success of the smart contract ecosystem. Your Impact Working with Chainlink core engineering to identify short- and long-term research challenges critical to the company’s success and to transition innovations from Chainlink Labs into production. Working with research scientists and technical advisors to study, invent, and build cutting-edge oracle technologies for the benefit of the company and community. Staying abreast of the evolution of relevant technology ecosystems and participating in relevant technical communities for more effective application development and to guide research toward practical and impactful work. Required Qualifications: B.S. in computer science or equivalent professional experience along with coursework in algorithms and data structures and discrete math. Familiarity with academic process and ability to engage with existing literature on relevant research topics, e.g. by performing literature searches and comprehending papers in a wider context. Professional software development experience is required. Preferred Qualifications Advanced computer science or related degree, coursework in applied and theoretical cryptography, mechanism design, distributed systems, or related fields. Familiarity with Go or Rust. Broad knowledge of blockchain technologies and familiarity specifically with smart contracts. Our Stack We use Go, Typescript, Solidity, Python, LATEX, git, and Linux/Unix. All roles with Chainlink Labs are global and remote-based. Unless otherwise stated, we ask that you try to overlap some working hours with Eastern Standard Time (EST). We carefully review all applications and aim to provide a response to every candidate within two weeks after the job posting closes. The closing date is listed on the job advert, so we encourage you to take the time to thoughtfully prepare your application. We want to fully consider your experience and skills, and you will hear from us regarding the status of your application shortly after the closing date. Commitment to Equal Opportunity Chainlink Labs is an equal opportunity employer. All qualified applicants will receive equal consideration for employment in compliance with applicable laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us via this form . Global Data Privacy Notice for Job Candidates and Applicants Information collected and processed as part of your Chainlink Labs Careers profile, and any job applications you choose to submit is subject to our Privacy Policy . By submitting your application, you are agreeing to our use and processing of your data as required.",
       "job_apply_link": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application",
       "job_posted_at_datetime_utc": "2025-09-13T01:35:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "chainlink-labs-research-internship-remote-in-usa"
+      "id": "chainlink-labs-research-internship-remote-in-usa",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -428,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-09-13T01:07:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "the-toro-company-integrated-supply-chain-analytics-intern-isc-bloomington"
+      "id": "the-toro-company-integrated-supply-chain-analytics-intern-isc-bloomington",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -446,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-09-13T01:06:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "innovative-systems-intern-co-op-software-engineering-pittsburgh"
+      "id": "innovative-systems-intern-co-op-software-engineering-pittsburgh",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Thermo Fisher Scientific",
       "job_city": "Carlsbad",
       "job_state": "CA",
-      "job_description": "Join Thermo Fisher Scientific in this exciting opportunity.",
+      "job_description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionSupply Chain InternWhen you’re part of the team at Thermo Fisher Scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment, or making sure our food is safe. Your work will have real-world impact, and you’ll be supported in achieving your career goals. Our staff members are committed to making a difference in our organization, for our client partners, and the patients we serve. We seek individuals with proven competencies and strong character to help lead our organization now and into the future.Our interns receive professional mentorship and leadership development opportunities to support future career growth with us. Whether you're looking to come back as a repeat intern, transition into one of our Leadership Development Programs, or pursue a full-time position post-graduation, our team is here to support your next step!How will you make an impact?Our interns are matched to projects based on their abilities and current business needs. All projects will have significant strategic and/or operating importance to the business to which they are assigned.Summer projects may include the following responsibilities:Contribute to supply optimization projects, partnering with leadership to identify and implement improvements that enhance efficiency and resilience across the supply chain.Support demand forecasting enhancements by refining models, conducting data analyses, and identifying opportunities to improve forecast accuracy.Assist in supply chain master data refinement, ensuring data integrity and standardization to strengthen decision-making and reporting.Develop and refine supply chain KPI dashboards and metrics, providing actionable insights to measure performance and drive continuous improvement.Apply continuous improvement methodologies (i.e., PPI, Lean, Six Sigma) to identify inefficiencies and recommend process improvements.Collaborate with cross-functional teams—including planning, operations, procurement, and analytics—to align supply chain initiatives with business objectives.Start DateThis internship is set to begin on either May 11th or June 15th, 2026, for a duration of 10–12 weeks – dependent upon student availability per academic calendars.Compensation & RelocationOur undergraduate Supply Chain internships offer an hourly rate between $21.50 – $28.75 dependent upon the location you are supporting (aligned to respective cost-of-living guidelines). Additionally, a relocation stipend is offered in the amount of $5,000 if necessary. Student must be located 50+ miles away from the physical location of the internship to be eligible for the relocation stipend.How will you get here?Undergraduate student pursuing a degree in Industrial Engineering, Supply Chain Management, Supply Chain Analytics, Business Analytics, or related fields, with expected graduation between December 2026 and June 2027.0 years of work experience required; previous related internships preferred.Strong analytical skills with the ability to interpret data, generate insights, and recommend improvements.Consistent track record of results demonstrating integrity, innovation, involvement, and intensity.Energized through championing change, driven in getting results, and savvy in navigating ambiguity.Excellent interpersonal communication skills with a high degree of emotional intelligence.If this sounds like you, we'd love to hear from you!To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience.Compensation and BenefitsThe hourly pay range estimated for this position based in California is $14.75–$28.75.This position may also be eligible to receive a variable annual bonus based on company, team, and/or individual performance results in accordance with company policy. We offer a comprehensive Total Rewards package that our U.S. colleagues and their families can count on, which includes:A choice of national medical and dental plans, and a national vision plan, including health incentive programsEmployee assistance and family support programs, including commuter benefits and tuition reimbursementAt least 120 hours paid time off (PTO), 10 paid holidays annually, paid parental leave (3 weeks for bonding and 8 weeks for caregiver leave), accident and life insurance, and short- and long-term disability in accordance with company policyRetirement and savings programs, such as our competitive 401(k) U.S. retirement savings planEmployees’ Stock Purchase Plan (ESPP) offers eligible colleagues the opportunity to purchase company stock at a discountFor more information on our benefits, please visit: https://jobs.thermofisher.com/global/en/total-rewards",
       "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Data-Analyst-Intern_R-01328140",
       "job_posted_at_datetime_utc": "2025-09-13T00:54:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "thermo-fisher-scientific-data-analyst-intern-carlsbad"
+      "id": "thermo-fisher-scientific-data-analyst-intern-carlsbad",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Online Architecture Research Intern (TikTok-Generalized Arch)- 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7549086862464338184",
       "job_posted_at_datetime_utc": "2025-09-12T23:47:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-online-architecture-research-intern-tiktok-generalized-arch-2026-start-phd-san-jose"
+      "id": "tiktok-online-architecture-research-intern-tiktok-generalized-arch-2026-start-phd-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
       "job_state": "NY",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business’s mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.Representing virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova’s businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.Come and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.Job DescriptionGE Vernova is seeking a highly skilled AI Agent Engineering Intern to design, develop, and deploy advanced autonomous AI agents leveraging LLMs and advanced AI/ML techniques. The ideal candidate will build intelligent Agents capable of perceiving, reasoning, and acting within complex digital or real-world environments, integrating AI models into scalable applications that solve real-world business challenges autonomously.What You'll Do:S Design, implement, and optimize AI Agents using LLMs, reinforcement learning, planning algorithms, and decision-making frameworks.Develop scalable multi AI Agent architectures supporting long horizon reasoning, autonomy, planning, interaction, and complex task completion.Integrate AI Agents with APIs, backend services, databases, and enterprise applications.Prototype, deploy, and maintain AI-driven systems ensuring reliability and performance in production environments.Optimize agent behavior through continuous feedback, reinforcement learning, and user interaction.Collaborate closely with research, engineering, product, and deployment teams to iterate on agent capabilities and innovate continuously.Monitor AI Agent performance, conduct rigorous evaluations, implement safety guardrails, and ensure ethical AI practices.Document AI Agent architectures, design decisions, workflows, and maintain comprehensive technical documentation.Stay current with emerging AI technologies, contribute to platform and tooling improvements, and share knowledge within the team.Your mission is to push the boundaries of planning, reasoning, and agentic intelligence. You will design and implement large-scale AI/ML solutions integrating the latest state of the art research in our global productsWhat You'll Bring (Basic Qualifications):Working towards a Masters Degree in a technical field of Artificial Intelligence, Machine Learning, AI Engineering.Minimum 4.0 GPA out of 5.0 scale (without rounding)Applicants must be currently authorized to work in the United States without the need for employer sponsorship. This role is not eligible for employer immigration sponsorship, now or in the future.Must be willing to work out of an office located in Niskayuna, NY. What Will Make You Stand Out:Proficiency in Python and/or languages like JavaScript, TypeScript, Node.js, or Java, Go, with strong coding and software engineering practices.Expertise with AI/ML libraries and frameworks such as LangChain, OpenAI APIs, PyTorch, TensorFlow, commercial or open source LLMs.Hands-on experience with LLMs, prompt engineering, and natural language processing (NLP).Knowledge of agent orchestration platforms and multi-agent systems (e.g., AutogenAI, LangGraph, MCP protocol).Familiarity with data management, vector databases, semantic retrieval, and real-time data pipelines.Experience deploying AI systems on cloud platforms (AWS, Google Cloud) with container orchestration (Docker, Kubernetes).Strong understanding of machine learning model training, fine-tuning, and evaluation techniques.Awareness of AI ethics, data privacy, and secure handling of sensitive information.Benefits Available to You: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce.The pay for this position ranges from $21.00/hr - $36.00/hr based on years of undergraduate/graduate field of study completed.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Vernova Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)InclusionAt GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: Our Culture | GE VernovaThis posting will be open until at least Sept 30, 2025.General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Additional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-Agentic-Engineering-Intern---Summer-2026_R5019975-1",
       "job_posted_at_datetime_utc": "2025-09-12T23:26:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-ai-agentic-engineering-intern-schenectady"
+      "id": "ge-vernova-ge-vernova-ai-agentic-engineering-intern-schenectady",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "TC Energy",
       "job_city": "Washington",
       "job_state": "PA",
-      "job_description": "Join TC Energy in this exciting opportunity.",
+      "job_description": "Determined. Imaginative. Curious. If these are some of the ways you describe yourself — we want to learn more about you! At TC Energy, we are Energy Problem Solvers — passionate about transitioning North America to cleaner energy while meeting the energy demands of today and tomorrow. If that sounds like a challenge you want to help tackle, we want you to join our team! To be considered, applications must include a resume and academic transcript (unofficial). Incomplete submissions may not be reviewed. We appreciate your attention to detail and look forward to learning more about you!The OpportunityTC Energy is looking to add an #EnergyProblemSolver in Washington, PA to support our efforts in Energy Problem Solving and our daily operations.We are seeking students enrolled in Data Analytics, Engineering, Business or other related programs to support our Operations Office of Excellence Assurance for the U.S. Gas footprint. This team’s primary goal is to ensure safe, effective, efficient, and quality operational performance is achieved through systematic, disciplined approaches to evaluation and implementation of sustainable, value-add improvement opportunities.As an Intern, you will assist in providing objective evaluations regarding the effectiveness and sustainability of processes, procedures, and initiatives through robust data analysis with a focus on safety, risk management, quality and operational performance.We engage our students in the very core of our operations. As a valued member of the team, you’ll do exciting, challenging work, solve real world problems, and make a meaningful impact. You’ll learn about the business and build your professional network by working closely with other skilled people at TC Energy. Every day will enhance your knowledge, skills and passion for what you do.The term length is for 3 months.What you’ll doIdentify and assess safety and operational risk through robust data collection and analysis.Trend data and extract insights to support recommendations that reduce risk exposure, improve safe operational practices, and add value across the organization.Report findings and recommended improvement opportunities through business cases and leadership presentations.Develop and provide oversight of implementation and change management plans.Ensure inclusive engagement of impacted stakeholders.Assess post implementation effectiveness, sustainability, and value achievement.Provide assurance on data quality and reporting of key metrics (Power Bi).Maintain ethical, equitable and quality standards to achieve safe operational performance.Other ad hoc requests as needed.Minimum QualificationsActively enrolled in an Engineering, Data Analytics, Business or other related undergraduate degree program with at least one semester of education completed.Enrollment at an accredited University/Polytechnic and returning to school for at least one semester following your work term.Preferred QualificationsDemonstrate a safety mindset, in a professional and personal setting.Exhibit TC Energy corporate values and incorporate them into work activities and initiatives.Strong interpersonal and communicative skills to work efficiently in a collaborative team environment.Commitment to building and maintaining relationships with internal and external stakeholders.Ability to accurately analyze information and deal with ambiguity.Experience working in a dynamic and challenging environment, and adaptable to changing priorities.Ability to multi-task effectively, with strong organizational and time management skillsReflective and committed to continuous improvement and personal development.Proficiency with Microsoft Office products (Excel, PowerPoint, Power BI, etc.)To remain competitive, support our high-performance culture and allow for more flexibility in the way we work, we offer a hybrid work model and flexible dress code for our eligible office-based workforce in Canada, the U.S. and Mexico. #LI-HybridAbout our businessTC Energy is a leading energy infrastructure company in North America. We have complementary businesses of natural gas pipelines and power generation. Our operations span three countries, seven Canadian provinces, and 34 U.S. states.TC Energy is an equal opportunity employer and participates in the E-Verify program supervised by the U.S. government.Learn moreVisit us at www.TCEnergy.com/students and connect with us on our social media channels for our latest news, employee stories, community activities, and other updates. Thank you for choosing TC Energy in your career search. * Applicants must have legal authorization to work in the country in which the position is based with no restrictions.* All positions require background screening. Some require criminal and/or credit checks to comply with regulations.* TC Energy is committed to provide employment opportunities to all qualified individuals, without regard to race, religion, age, sex, color, national origin, sexual orientation, gender identity, veteran status, or disability. Accommodation for applicants with disabilities is available on request during the recruitment process. Applicants with disabilities can request accessible formats or communication supports by contacting careers@tcenergy.com.",
       "job_apply_link": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Washington-Pennsylvania/Data-Analytics-Intern--Operations-Office-of-Excellence-Assurance_JR-09057",
       "job_posted_at_datetime_utc": "2025-09-12T18:33:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tc-energy-data-analytics-intern-operations-office-of-excellence-assurance-washington"
+      "id": "tc-energy-data-analytics-intern-operations-office-of-excellence-assurance-washington",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T18:28:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corteva-data-management-and-dashboard-development-intern-grimes"
+      "id": "corteva-data-management-and-dashboard-development-intern-grimes",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "U.S. Venture",
       "job_city": "Green Bay",
       "job_state": "WI",
-      "job_description": "Join U.S. Venture in this exciting opportunity.",
+      "job_description": "POSITION SUMMARYWe are seeking an Solution Development (Software Development) Intern to join our Summer 2026 Internship Program. This interview will support our Breakthrough division and our software development team in the rapidly growing Technology Solutions group. We are seeking an individual who is passionate about building software platforms to deliver products that disrupt markets through innovation. The ideal candidate will thrive on embracing organizational vision to ideate and drive technical solutions forward by investigating and experimenting with emerging platforms and frameworks. We are building cloud first applications that are scalable, flexible and support a rapidly changing market with continuous launches of new innovation, features and products. Our team is an open minded, evolving, innovation focused technology team. We approach our work through self-managed, multi-disciplinary teams that bring together data science, software development and a robust quality program to quickly bring new products to market. Our holistic organizational culture is reinforced every day through our smart, passionate and edgy team members that are focused on excellence in service to our clients and each other. We work hard, give back and move markets by delivering “Breakthrough” innovations and value.U.S. Venture’s Internship Program runs May - August. Dates may vary based on individual class schedules. This position is located in Green Bay, WI [1175 Lombardi Ave, Green Bay, WI 54304].JOB RESPONSIBILITIESBuild cutting edge software products that integrate into a holistic Platform as a Service (PaaS) offering that are highly flexible and scalable using a UX driven product development strategy.Understanding of and experience with developing applications and an understanding in building either front end (React) and/or back-end APIs (NodeJS)Understanding of Cloud technologies and open-source tools used to create world class product experiences.Bring technical thought leadership, an inquisitive nature and desire for excellence to our agile product based teams.QUALIFICATIONSCurrent student pursing a bachelors or advanced degree in Mathematics, Computer Science or EngineeringUnderstanding of coding languages including at least one of: JavaScript, Python, React JS or NodeJS.Understanding of Git and DevOps deployment in Google Cloud or other Cloud platforms is helpful.Familiarity with Google Cloud technologies or related Cloud technology exposure is a definite PLUS. DIVISION:Breakthrough U.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need. U.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.U.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic. If you need assistance or an accommodation due to a disability, you may call Human Resources at (920) 739-6101.",
       "job_apply_link": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Solution-Development--Software-Development--Intern---Breakthrough_R4331",
       "job_posted_at_datetime_utc": "2025-09-12T17:53:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "u-s-venture-solution-development-intern-software-development-breakthrough-green-bay"
+      "id": "u-s-venture-solution-development-intern-software-development-breakthrough-green-bay",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:10:39.262Z",
     "postedAt": null
   },
   {
