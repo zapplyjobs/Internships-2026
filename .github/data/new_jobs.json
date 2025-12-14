@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Internship - Software Engineering - Corporate and Business Services",
-    "employer_name": "Zebra Technologies",
-    "job_city": "Kennesaw",
-    "job_state": "GA",
-    "job_description": "Join Zebra Technologies in this exciting opportunity.",
-    "job_apply_link": "https://zebra.eightfold.ai/careers/job/343628025219",
-    "job_posted_at_datetime_utc": "2025-09-23T06:16:55.000Z",
+    "job_title": "Software Co-op - Robotics",
+    "employer_name": "Berkshire Grey",
+    "job_city": "Bedford",
+    "job_state": "MA",
+    "job_description": "Join Berkshire Grey in this exciting opportunity.",
+    "job_apply_link": "https://berkshiregrey.bamboohr.com/careers/651/",
+    "job_posted_at_datetime_utc": "2025-09-23T05:02:32.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw",
+    "id": "berkshire-grey-software-co-op-robotics-bedford",
     "description_platform": "generic",
     "description_success": false
   }
