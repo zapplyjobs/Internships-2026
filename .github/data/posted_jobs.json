@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T00:47:58.832Z",
+  "lastUpdated": "2025-12-14T01:18:56.929Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3323,14 +3323,25 @@
       "sourceUrl": "https://ideas-sas.icims.com/jobs/40105/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1449563530293674106",
       "instanceNumber": 1
+    },
+    {
+      "id": "assured-guaranty-it-software-development-intern-new-york-2025-12-14-1",
+      "jobId": "assured-guaranty-it-software-development-intern-new-york",
+      "company": "Assured Guaranty",
+      "title": "IT Software Development Intern",
+      "postedToDiscord": "2025-12-14T01:18:56.929Z",
+      "sourceDate": "2025-09-24T06:11:22.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/assuredguaranty/jobs/8180639002",
+      "discordThreadId": "1449571323746451487",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 302,
+    "totalJobs": 303,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T00:47:58.832Z",
+      "date": "2025-12-14T01:18:56.929Z",
       "archived": 0
     }
   }
