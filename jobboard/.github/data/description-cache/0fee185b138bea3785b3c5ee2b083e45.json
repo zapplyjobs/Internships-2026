@@ -1,0 +1,17 @@
+{
+  "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "MLCOE is a world-class machine learning team with state-of-the-art methods to solve financial problems using our unique datasets.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608",
+      "fetchedAt": "2025-12-14T22:40:07.231Z"
+    }
+  },
+  "cachedAt": 1765752007231
+}
