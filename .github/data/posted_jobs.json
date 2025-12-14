@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T11:05:20.858Z",
+  "lastUpdated": "2025-12-14T11:17:38.725Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3785,14 +3785,25 @@
       "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
       "discordThreadId": "1449718895945580604",
       "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-software-engineer-intern-redwood-city-2025-12-14-1",
+      "jobId": "electronic-arts-software-engineer-intern-redwood-city",
+      "company": "Electronic Arts",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T11:17:38.725Z",
+      "sourceDate": "2025-09-22T06:53:23.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
+      "discordThreadId": "1449721990587088906",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 344,
+    "totalJobs": 345,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T11:05:20.858Z",
+      "date": "2025-12-14T11:17:38.725Z",
       "archived": 0
     }
   }
