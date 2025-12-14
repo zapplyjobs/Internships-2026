@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T21:08:47.835Z",
+  "lastUpdated": "2025-12-14T21:21:31.808Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -5380,14 +5380,113 @@
       "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
       "discordThreadId": "1449870758565253423",
       "instanceNumber": 1
+    },
+    {
+      "id": "peraton-data-science-intern-blacksburg-2025-12-14-1",
+      "jobId": "peraton-data-science-intern-blacksburg",
+      "company": "Peraton",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-14T21:21:12.254Z",
+      "sourceDate": "2025-09-11T01:26:16.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/158534/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449873875197231214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atlassian-data-science-intern-seattle-2025-12-14-1",
+      "jobId": "atlassian-data-science-intern-seattle",
+      "company": "Atlassian",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-14T21:21:13.950Z",
+      "sourceDate": "2025-09-11T00:06:40.000Z",
+      "sourceUrl": "https://careers-americas.icims.com/jobs/20962/data-science-intern%2c-2026-summer-u.s./job",
+      "discordThreadId": "1449873888417681661",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atlassian-data-engineer-intern-seattle-2025-12-14-1",
+      "jobId": "atlassian-data-engineer-intern-seattle",
+      "company": "Atlassian",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-14T21:21:15.603Z",
+      "sourceDate": "2025-09-11T00:06:35.000Z",
+      "sourceUrl": "https://careers-americas.icims.com/jobs/20963/data-engineer-intern%2c-2026-summer-u.s./job",
+      "discordThreadId": "1449873895451525160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-software-engineering-intern-ann-arbor-2025-12-14-1",
+      "jobId": "kla-software-engineering-intern-ann-arbor",
+      "company": "KLA",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-14T21:21:20.420Z",
+      "sourceDate": "2025-09-11T01:02:48.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
+      "discordThreadId": "1449873915412353187",
+      "instanceNumber": 1
+    },
+    {
+      "id": "covar-machine-learning-internship-durham-2025-12-14-1",
+      "jobId": "covar-machine-learning-internship-durham",
+      "company": "CoVar",
+      "title": "Machine Learning Internship",
+      "postedToDiscord": "2025-12-14T21:21:22.176Z",
+      "sourceDate": "2025-09-11T00:01:02.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/covar/jobs/4870783007",
+      "discordThreadId": "1449873922504921232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shure-data-engineer-intern-morton-grove-2025-12-14-1",
+      "jobId": "shure-data-engineer-intern-morton-grove",
+      "company": "Shure",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-14T21:21:23.858Z",
+      "sourceDate": "2025-09-10T23:31:33.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4417/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449873930075504892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xcel-energy-data-design-draft-intern-denver-2025-12-14-1",
+      "jobId": "xcel-energy-data-design-draft-intern-denver",
+      "company": "Xcel Energy",
+      "title": "Data Design/Draft Intern",
+      "postedToDiscord": "2025-12-14T21:21:28.524Z",
+      "sourceDate": "2025-09-11T00:03:14.000Z",
+      "sourceUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Design-Draft-Intern_JR110118-1",
+      "discordThreadId": "1449873949696462928",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-software-developer-intern-multiple-teams-atlanta-2025-12-14-1",
+      "jobId": "intercontinental-exchange-software-developer-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Software Developer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-14T21:21:30.173Z",
+      "sourceDate": "2025-09-10T23:53:02.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11598/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449873956596088914",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-front-end-engineer-intern-multiple-teams-atlanta-2025-12-14-1",
+      "jobId": "intercontinental-exchange-front-end-engineer-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "Front-End Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-14T21:21:31.808Z",
+      "sourceDate": "2025-09-10T23:52:48.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11632/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449873963454038169",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 489,
+    "totalJobs": 498,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T21:08:47.835Z",
+      "date": "2025-12-14T21:21:31.808Z",
       "archived": 0
     }
   }
