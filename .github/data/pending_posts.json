@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Technology Solutions Intern - Technology Solutions",
-      "employer_name": "Brown & Brown Insurance",
-      "job_city": "Daytona Beach",
-      "job_state": "FL",
-      "job_description": "Built on meritocracy, our unique company culture rewards self-starters and those who are committed to doing what is best for our customers.The Brown & Brown, Inc.’s (B&B) Technology Solutions’ award-winning paid internship program is a project-based experience designed to provide talented undergraduate students an opportunity to contribute meaningful work to our world-class team. As part of a leading global insurance brokerage, the intern role based out of Daytona Beach, FL, will be exposed to a range of learning opportunities, including working with new technologies, developing and troubleshooting system modifications, fostering innovation, and providing application support.In addition to the role’s day-to-day responsibilities, the internship program has been carefully curated for interns to experience our collaborative, teammate-centric culture of Meritocracy that truly makes Brown & Brown a certified Great Places to Work®. The internship experience will include mentorship, teammate partnership, a speaker series, networking opportunities with leadership, and a community engagement project.Brown & Brown is committed to converting high-performing interns into full-time employment opportunities as we continue to look to grow our team of 23,000+ teammates. Our program provides talented students the chance to gain experience in real-world enterprise projects and exposure to learn from our supportive and approachable Technology Solutions team of subject matter experts, all while exploring the opportunity for employment after graduation.Essential Duties and Responsibilities:Data gathering, analysis, and reportingExploring Cloud, Security, AI, Data, or Project Management initiativesSupport tasks tied to project milestones, recommendations and collaborating with cross-functional teamsComplete assigned projects and deliverables, presenting recommendations at the conclusion of the internship to leadersActively participate in all internship program elementsPerform duties as assigned by department leadershipCompetencies:Drives Results – Consistently achieve results through meeting timeframes.Customer Focused – Builds strong relationships and delivers customer-centric solutions.Technical Aptitude – Foundational knowledge to perform tasks as directed.Drives Engagement – Helps create a positive and engaging work environment.Cultivates Innovation – Creates new and better ways for internal processes.Decision Quality – Make sound and timely decisions that drive efficient workflows.Preferred Considerations:Involvement in student organizations, project work, tech clubs, hackathons, or competitionsVolunteer work with a technical component or volunteer work that directly gives back to the communityDemonstrated passion for learning and applying emerging technologiesEducation, Experience, and Knowledge:Actively enrolled in an Associate’s or Bachelor’s Degree, preferred in a STEM related fieldExpected graduation: December 2026 or laterMinimum GPA: 3.0Posting End Date:24 Oct 2025Job posting may come down early due to volume of applicants. Teammate Benefits & Total Well-BeingWe go beyond standard benefits, focusing on the total well-being of our teammates, including:Health Benefits: Medical/Rx, Dental, Vision, Life Insurance, Disability Insurance Financial Benefits: ESPP; 401k; Student Loan Assistance; Tuition Reimbursement Mental Health & Wellness: Free Mental Health & Enhanced Advocacy ServicesBeyond Benefits: Paid Time Off, Holidays, Preferred Partner Discounts and more. Not reflective of all benefits. Enrollment waiting periods or eligibility criteria may apply to certain benefits. Benefit details and offerings may vary for subsidiary entities or in specific geographic locations.The Power To Be Yourself As an Equal Opportunity Employer, we are committed to fostering an inclusive environment comprised of people from all backgrounds, with a variety of experiences and perspectives, guided by our Diversity, Inclusion & Belonging (DIB) motto, “The Power to Be Yourself”.",
-      "job_apply_link": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Technology-Solutions-Internship_R25_0000003139",
-      "job_posted_at_datetime_utc": "2025-09-24T22:32:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "brown-brown-insurance-technology-solutions-intern-technology-solutions-daytona-beach",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T22:17:39.221Z",
-    "postedAt": "2025-12-13T23:54:03.779Z"
-  },
-  {
-    "job": {
       "job_title": "Intern – Air Quality Modeler - ",
       "employer_name": "Ramboll",
       "job_city": "Fort Collins",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T22:30:04.606Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T00:14:38.666Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
       "job_state": "NY",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryCome and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.Job DescriptionJob Description:We invite a graduate-level intern to strengthen integration between our world's fastest meso-coupled GPU-based large-eddy simulation (LES) and AI/machine-learning calibration algorithms for wind resource and wake prediction. You’ll work with a mature LES platform (including actuator-disk and/or engineering wake models) and fuse simulation outputs with met-mast and turbine data from our fleet. The objective is time-correlated predictions that sharpen annual energy production (AEP) and loads estimates, improve wind turbine suitability decisions, and create clearer view of risk and value.Project Outcomes: Scope is intentionally flexible. Potential tracks include:1. Designing and running focused LES studies across key terrain/stability regimes2. Validating predictions against multi-height mast and SCADA data with clear performance metrics3. Quantifying bias and uncertainty to support decision thresholds4. Training fast surrogate models for layout and risk screening5. Prototyping practical methods to better align simulations with observed conditions.Primary Skills Developed:Skills you’ll develop:• Practical data-analysis workflows; CFD/LES and atmospheric boundary-layer fundamentals• Python data science at scale (Xarray/Dask/Pandas)• Modern machine-learning methods for regression and time-series prediction• Statistical evaluation and uncertainty quantification• Reproducible, version-controlled workflows• Clear technical communication.Business value: reducing uncertainty in turbine suitability, AEP, and loads improves siting, curtailment strategy, and financial models. High-impact outputs will be piloted on live projects and, if effective, integrated into our internal assessment toolkit.Internship Term Dates:May/June - August 2026Qualifications:Currently pursuing a Masters or Doctorate in Engineering, Mathematics, or Applied ScienceMinimum GPA 4.0 / 5.0 scale.Desired Qualifications:Experience running Large Eddy Simulation (LES) modelsProficiency in scientific Python libraries such as NumPy, Pandas, Xarray.Experience with data mining, data engineering, or machine learning techniquesFamiliarity with high performance cloud computing environmentsExperience in atmospheric flows and wind-farm atmosphere interactionsFamiliarity with remote sensing applied to atmospheric measurements (Lidar, Sodar, Radar)Experience using Aero-elastic simulation tools such as FAST, Flex, or BladedBenefits Available to you: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce: Our Culture | GE Vernova (gecareers.com)The pay for this position ranges from $34/hr-$36/hr based on years of undergraduate/graduate field of study completedThis position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Inclusion At GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: https://jobs.gecareers.com/vernova/global/en/i-d-eAdditional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Advanced-Wind-Resource-and-Energy-Characterization-Intern---Summer-2026_R5020732-1",
       "job_posted_at_datetime_utc": "2025-09-24T01:18:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-advanced-wind-resource-and-energy-characterization-intern-summer-2026-schenectady"
+      "id": "ge-vernova-ge-vernova-advanced-wind-resource-and-energy-characterization-intern-summer-2026-schenectady",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T00:14:31.406Z",
     "postedAt": null
   },
   {
