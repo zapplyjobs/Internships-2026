@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Salesforce AI Research",
-      "employer_name": "Salesforce",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Join Salesforce in this exciting opportunity.",
-      "job_apply_link": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422",
-      "job_posted_at_datetime_utc": "2025-09-10T13:08:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "salesforce-salesforce-ai-research-palo-alto",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Embedded Software Development Intern",
-      "employer_name": "Shure",
-      "job_city": "Niles",
-      "job_state": "IL",
-      "job_description": "Join Shure in this exciting opportunity.",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4426/job",
-      "job_posted_at_datetime_utc": "2025-09-10T13:06:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-embedded-software-development-intern-niles",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Mobile Applications (Android) Intern",
-      "employer_name": "Shure",
-      "job_city": "Niles",
-      "job_state": "IL",
-      "job_description": "Join Shure in this exciting opportunity.",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4454/job",
-      "job_posted_at_datetime_utc": "2025-09-10T13:06:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-mobile-applications-android-intern-niles",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Shure",
-      "job_city": "Niles",
-      "job_state": "IL",
-      "job_description": "Join Shure in this exciting opportunity.",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4438/job",
-      "job_posted_at_datetime_utc": "2025-09-10T13:05:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-software-engineering-intern-niles",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Cloud Applications Development Intern",
-      "employer_name": "Shure",
-      "job_city": "Niles",
-      "job_state": "IL",
-      "job_description": "var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/careersus-shure.icims.com\\/jobs\\/4405\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://careersus-shure.icims.com/jobs/4405/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe>",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4405/job",
-      "job_posted_at_datetime_utc": "2025-09-10T13:04:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-cloud-applications-development-intern-niles",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Mobile Applications (iOS) Intern",
-      "employer_name": "Shure",
-      "job_city": "Niles",
-      "job_state": "IL",
-      "job_description": "Join Shure in this exciting opportunity.",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4453/job",
-      "job_posted_at_datetime_utc": "2025-09-10T13:03:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-mobile-applications-ios-intern-niles",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Lockheed Martin",
-      "job_city": "Orlando",
-      "job_state": "FL",
-      "job_description": "Join Lockheed Martin in this exciting opportunity.",
-      "job_apply_link": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
-      "job_posted_at_datetime_utc": "2025-09-10T13:00:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lockheed-martin-software-engineering-intern-orlando",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Quality Specialist – Data Analysis Sr. Intern",
-      "employer_name": "Thermo Fisher Scientific",
-      "job_city": "Logan",
-      "job_state": "UT",
-      "job_description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing our Mission to life every single day to enable our customers to make the world healthier, cleaner and safer. We provide our global teams with the resources needed to achieve individual career goals while helping to take science a step beyond by developing solutions for some of the world’s toughest challenges, like protecting the environment, making sure our food is safe or helping find cures for cancer.Position Overview: Join Thermo Fisher Scientific Inc. as a Quality Specialist - Data Analysis and play a pivotal role in ensuring flawless data quality and outstanding insights! This ambitious role offers the opportunity to work with world-class teams, strictly focusing on data analysis to determine and successfully implement improvements in quality metrics.Key Responsibilities:Extract, clean, and analyze quality metrics data from various sources.Build and manage dashboards for displaying key performance metrics and quality data.Collaborate with cross-functional teams to understand data requirements and deliver actionable insights.Identify trends, patterns, and anomalies in data to support continuous improvement initiatives.Ensure data accuracy and integrity by performing regular audits and validation checks.Present findings and recommendations to team members through clear and concise reports and visualizations.Automate data collection and reporting processes to improve efficiency.Stay updated with industry standard methodologies and emerging trends in data analysis and visualization.Qualifications:Pursuing Master's degree or equivalent experience in Data Science, Statistics, Computer Science, or a related field. Must graduate between December 2026 - June 2027.Proven experience as a Data Analyst or in a similar role.Proficiency in data visualization tools such as Tableau, Power BI, or similar.Solid understanding of SQL and experience with database management.Familiarity with statistical analysis and data modeling techniques.Excellent problem-solving skills and attention to detail.Strong communication skills, both written and verbal.Ability to work independently and as part of a team.Experience with Python or R for data analysis is a plus.Start Date: This internship is set to begin on either May 11th or June 15th, 2026 for a duration of 10-12 weeks – dependent upon student availability per academic calendars.Compensation & Relocation: Our undergraduate Operations internships offer an hourly rate between $21.50 - $28.75 dependent upon the location you are supporting (aligned to respective cost-of-living guidelines). Additionally, a relocation stipend is offered in the amount of $5,000 if necessary. Student must be located 50+ miles away from the physical location of the internship to be eligible for the relocation stipend.To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience.",
-      "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Logan-Utah-USA/Quality-Specialist---Data-Analysis-Sr-Intern_R-01328086",
-      "job_posted_at_datetime_utc": "2025-09-10T06:52:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "thermo-fisher-scientific-quality-specialist-data-analysis-sr-intern-logan",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern - Tiktok Recommendation-Large Recommender Models - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Intern (TikTok Recommendation-Large Recommender Models) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7548183795784222984",
-      "job_posted_at_datetime_utc": "2025-09-10T01:57:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-research-scientist-intern-tiktok-recommendation-large-recommender-models-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": "2025-12-14T22:10:32.821Z"
-  },
-  {
-    "job": {
       "job_title": "2026 Summer Internships - Software Engineering",
       "employer_name": "Activision-Blizzard",
       "job_city": "Santa Monica",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:27:07.434Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:58:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "fidelity-co-op-software-engineer-locations-boston"
+      "id": "fidelity-co-op-software-engineer-locations-boston",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -428,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:39:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "arm-limited-software-engineer-austin"
+      "id": "arm-limited-software-engineer-austin",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Varda",
       "job_city": "El Segundo",
       "job_state": "CA",
-      "job_description": "Join Varda in this exciting opportunity.",
+      "job_description": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbital economy by creating both the products and infrastructure needed so space can directly benefit life on Earth. Our mission is to expand the economic bounds of humankind. Our team is uniquely suited to accomplishing this goal, with leadership and staff comprised of veterans from SpaceX, Blue Origin, major pharmaceutical companies and Silicon Valley. Varda was founded in January 2021 by Will Bruey and Delian Asparouhov with significant backing from world class investors including Khosla Ventures, Lux Capital, Founders Fund, Caffeinated Capital, General Catalyst, and Also Capital. Varda is headquartered in El Segundo, California, where we have offices and a production facility where our vehicles, equipment, and materials are built, integrated, and tested. Varda also has offices in Washington, DC and Huntsville, AL (coming soon). Join Varda, and work to create a bustling in-space ecosystem. About This Role Spring internships will range between the months of January and May. All dates dependent upon the university schedule of the selected students. Internships are full-time and on-site in Los Angeles, CA. The flight software team is responsible for writing the embedded code that runs onboard Varda’s spacecraft — enabling autonomous control, data handling, and fault protection in space. In this role, you will help develop and test real-time C++ software running on flight computers, directly supporting systems like guidance, navigation, control, power management, and communications. You’ll gain experience working close to the hardware, integrating with sensors, actuators, and avionics to ensure the vehicle performs reliably across all mission phases. Internships at Varda are optimal for students looking to grow technically and professionally while working on impactful projects critical to the company’s success. You will be working on a collaborative team in a startup environment while being able to learn from some of most accomplished and experienced aerospace professionals in the world. We’re dedicated to providing an experience that will let your decisions and contributions help drive Varda’s success. Responsibilities Design, implement, and debug embedded C++ software running on spacecraft systems Work with hardware interfaces and component datasheets Assist in systems integration and testing Collaborate with avionics and systems teams to validate software behavior Basic Qualifications Proficiency in C++ Strong understanding of computer architecture and operating systems Experience working with embedded systems or microcontrollers (not limited to Arduino) Familiarity with Linux environments Ability to troubleshoot and debug low-level software issues Preferred Skills And Experience Hands-on experience with embedded development outside coursework Previous internship or project team experience Experience reading and utilizing component datasheets Coursework in embedded systems, digital design, or electronics Relevant Coursework Computer Architecture Operating Systems Software Engineering / Computer Science Fundamentals Data Structures & Algorithms (Bonus) Signals and Systems (Bonus) Digital Design, Assembly, Embedded Systems, Electronics ITAR Requirements Varda, like all employers, must ensure that its employees working in the United States are lawfully authorized to work in the U.S. Additionally, our employees are exposed to and have access to certain export-controlled items. At present, some of our technology to which employees have access requires a license to be exported to individuals other than “U.S. Persons” as defined in U.S. export regulations. Because our employees are provided access to export-controlled items, our current policy is to only hire “U.S. persons” who are permitted to have access to our technology without an export license. “US person” means: U.S. citizen, U.S. lawful permanent resident, or protected individual as defined by 8 U.S.C. 1324b(a)(3) (i.e., individual admitted to the U.S. as a refugee or granted asylum in the U.S.) Learn more about the ITAR here. Benefits Exciting team of professionals at the top of their field working by your side Equity in a fully funded space startup with potential for significant growth (interns excluded) 401(k) matching (interns excluded) Unlimited PTO (interns excluded) Health insurance, including Vision and Dental Lunch and snacks provided on site every day. Dinners provided twice a week. Maternity / Paternity leave (interns excluded) Varda Space Industries is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, martial status, mental or physical disability, or any other legally protected status. E-Verify Statement Varda Space Industries, Inc. participates in the U.S. Department of Homeland Security E-Verify program. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program. E-Verify Notice Right To Work Notice Read more Read more",
       "job_apply_link": "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003",
       "job_posted_at_datetime_utc": "2025-09-09T08:39:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "varda-flight-software-c-internship-el-segundo"
+      "id": "varda-flight-software-c-internship-el-segundo",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:29:23.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bosch-data-science-intern-farmington-hills"
+      "id": "bosch-data-science-intern-farmington-hills",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:26:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cna-technology-internship-program-ai-governance-enablement-chicagyo"
+      "id": "cna-technology-internship-program-ai-governance-enablement-chicagyo",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -500,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:23:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cna-technology-internship-program-ai-engineering-chicago"
+      "id": "cna-technology-internship-program-ai-engineering-chicago",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:22:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cretex-medical-it-intern-data-analyst-coon-rapids"
+      "id": "cretex-medical-it-intern-data-analyst-coon-rapids",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:13:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "millerknoll-infrastructure-systems-ai-intern-zeeland"
+      "id": "millerknoll-infrastructure-systems-ai-intern-zeeland",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T08:07:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cox-software-engineering-intern-north-hills"
+      "id": "cox-software-engineering-intern-north-hills",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:26:35.911Z",
     "postedAt": null
   },
   {
