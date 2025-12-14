@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T06:58:43.763Z",
+  "lastUpdated": "2025-12-14T07:08:50.070Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3521,14 +3521,25 @@
       "sourceUrl": "https://berkshiregrey.bamboohr.com/careers/651/",
       "discordThreadId": "1449656825090805853",
       "instanceNumber": 1
+    },
+    {
+      "id": "truveta-software-engineering-intern-multiple-teams-seattle-2025-12-14-1",
+      "jobId": "truveta-software-engineering-intern-multiple-teams-seattle",
+      "company": "Truveta",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-14T07:08:50.070Z",
+      "sourceDate": "2025-09-23T05:02:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/truveta/jobs/5656952004",
+      "discordThreadId": "1449659373319094396",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 320,
+    "totalJobs": 321,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T06:58:43.763Z",
+      "date": "2025-12-14T07:08:50.070Z",
       "archived": 0
     }
   }
