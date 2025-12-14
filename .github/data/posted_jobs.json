@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T04:58:14.104Z",
+  "lastUpdated": "2025-12-14T05:08:00.575Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3411,14 +3411,25 @@
       "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1",
       "discordThreadId": "1449626508921540730",
       "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-advanced-wind-resource-and-energy-characterization-intern-summer-2026-schenectady-2025-12-14-1",
+      "jobId": "ge-vernova-ge-vernova-advanced-wind-resource-and-energy-characterization-intern-summer-2026-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova Advanced Wind Resource and Energy Characterization Intern - Summer 2026",
+      "postedToDiscord": "2025-12-14T05:08:00.574Z",
+      "sourceDate": "2025-09-24T01:18:01.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Schenectady/GE-Vernova-Advanced-Wind-Resource-and-Energy-Characterization-Intern---Summer-2026_R5020732-1",
+      "discordThreadId": "1449628968457207820",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 310,
+    "totalJobs": 311,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T04:58:14.104Z",
+      "date": "2025-12-14T05:08:00.575Z",
       "archived": 0
     }
   }
