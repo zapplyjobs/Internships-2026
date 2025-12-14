@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Developer Intern - Backend",
-      "employer_name": "Robinhood",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Join us in building the future of finance. Our mission is to democratize finance for all. An estimated $124 trillion of assets will be inherited by younger generations in the next two decades. The largest transfer of wealth in human history. If you’re ready to be at the epicenter of this historic cultural and financial shift, keep reading.About the team + role We are building an elite team, applying frontier technologies to the world’s biggest financial problems. We’re looking for bold thinkers. Sharp problem-solvers. Builders who are wired to make an impact. Robinhood isn’t a place for complacency, it’s where ambitious people do the best work of their careers. We’re a high-performing, fast-moving team with ethics at the center of everything we do. Expectations are high, and so are the rewards. At Robinhood, you will be building and owning certain backend services and infrastructure that power our core financial products. You will also gain a unique look into how the US financial systems works on the inside and strengthen your financial-domain knowledge. This role is based in our Toronto office, with in-person attendance expected at least 3 days per week. At Robinhood, we believe in the power of in-person work to accelerate progress, spark innovation, and strengthen community. Our office experience is intentional, energizing, and designed to fully support high-performing teams. What you’ll do Work closely with a dedicated mentor who will guide you through your internship, from onboarding to making an impact at Robinhood, while deepening your understanding of our tech stack and the financial domain. Design, build, test, and release software solutions that meet stringent correctness and scalability requirements. Partner with various cross-functional teams to solve critical problems across the Robinhood organization. Collaborate with other financial institutions to build products and gain industry insights. Maintain and scale an existing codebase using technologies such as Python/Django, Go, PostgreSQL, Kafka, Redis, Memcached, AWS, and Kubernetes. What you bring Currently enrolled in a full-time, degree-seeking program with an expected graduation date in Winter 2026/Spring 2027. Strong CS fundamentals. Passion and interest in financial technology. Prior software engineering experience from internships, hackathons, or side projects. Familiarity with Python/Django or Go, and an understanding of relational databases and transactions. A passion for finance and a desire to learn more about the domain. What we offer Market competitive compensation structure Quarterly lifestyle wallet for personal wellness, learning and development, and more! Time away including company holidays, paid time off, and sick time! Lively office environment with catered meals, fully stocked kitchens, and geo-specific commuter benefits Our team is committed to providing an inclusive and welcoming interview experience for all candidates. If you require a specific accommodation during the application or interview process due to a physical or mental condition, please complete this Applicant Accommodation Form to notify our team. The form should only be completed if you need a specific accommodation. AI Usage Disclosure: Robinhood uses artificial intelligence (AI) tools to support parts of our recruiting process. These tools enhance the efficiency and consistency of our hiring process; however, all hiring decisions are made by our hiring teams. Vacancy Notice: This job posting represents an existing vacancy that we are actively seeking to fill.Base pay for the successful applicant will depend on a variety of job-related factors, which may include education, training, experience, location, business needs, or market demands. The expected hourly range for this role is based on the location where the work will be performed. Toronto, ON$33 - $33 CADClick here to learn more about our Total Rewards, which vary by region and entity. If our mission energizes you and you’re ready to build the future of finance, we look forward to seeing your application. Robinhood provides equal opportunity for all applicants, offers reasonable accommodations upon request, and complies with applicable equal employment and privacy laws. Inclusion is built into how we hire and work—welcoming different backgrounds, perspectives, and experiences so everyone can do their best. Please review the Privacy Policy for your country of application.",
-      "job_apply_link": "https://boards.greenhouse.io/robinhood/jobs/7235228",
-      "job_posted_at_datetime_utc": "2025-09-23T02:37:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robinhood-software-developer-intern-backend-menlo-park",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T06:05:53.758Z",
-    "postedAt": "2025-12-14T07:53:58.805Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern - Android",
       "employer_name": "Robinhood",
       "job_city": "Menlo Park",
@@ -214,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T06:18:52.907Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T08:05:47.518Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "SAP",
       "job_city": "Newtown Square",
       "job_state": "PA",
-      "job_description": "Join SAP in this exciting opportunity.",
+      "job_description": "Search by keyword Search by location Show more options Loading... Work area All Career status All Country All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101",
       "job_posted_at_datetime_utc": "2025-09-22T07:15:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sap-python-developer-newtown-square"
+      "id": "sap-python-developer-newtown-square",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T08:05:40.369Z",
     "postedAt": null
   },
   {
