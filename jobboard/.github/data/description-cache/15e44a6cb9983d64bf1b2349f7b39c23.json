@@ -1,0 +1,17 @@
+{
+  "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2036",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Subaru of America, Inc.’s Internship Program provides a valuable opportunity for students to gain real-world experience related to their major. Interns have the chance to work on meaningful projects, collaborate with professionals, and develop skills that will be beneficial in their future careers. It’s an excellent way to jump-start their career and enhance their skillset, making them more marketable in their field of study. The Connected Vehicle internship is for students pursing a Bachelor’s Degree or MBA with a major in Business Management, Business Administration, Business Analytics, Communications, Marketing, Finance, Sales, or Management Information Systems.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2036",
+      "fetchedAt": "2025-12-14T19:56:26.646Z"
+    }
+  },
+  "cachedAt": 1765742186646
+}
