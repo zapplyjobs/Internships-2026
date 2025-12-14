@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/covar/jobs/4870783007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "***If you have questions about the internship or the status of your application, please send an email with the subject line \"2026 SUMMER INTERNSHIP\" to rkalika@covar.com.*** Machine Learning Internship About CoVar CoVar is a small AI/ML R&D software company in Durham, NC, that uses artificial intelligence to solve problems that matter. We develop AI/ML tools to help the DoD detect enemies and threats, help biomedical researchers find new cures for diseases, and help monitor machinery to prevent injuries and environmental catastrophes. We are passionate engineers, dedicated to pushing the bounds of what AI/ML can do in the real world. Internship Overview 8-12 weeks – flexible, depending on your schedule In-person in Durham, NC Paid internship Matched with one project based on your current expertise and interests Paired with an advisor who will guide you and help you set and meet your goals Concludes with you presenting your work either internally to CoVar or externally to the customer Interview Timeline Accepting applications online from now to December 31st Interviews in January and February Interviews steps consist of a video screening, code screening, and potentially an ML technical interview Offers out by the end of February About this position You will help CoVar develop software and machine learning algorithms to solve real-world customer problems. You will work with data, develop algorithms, evaluate results, and write the production code that goes onto real-world systems. You will have the opportunity to present your work to high-level customers in the DoD and in the industry. Qualifications Applicants should have expertise in Python (including NumPy, pandas, and other packages) and PyTorch. Deep understanding of machine learning fundamentals (gradient descent, cross-validation, ROC curves, confusion matrices) are necessary. Knowledge of classical machine learning (e.g., support-vector-machines, logistic regression) are valued. Applicants are ideally familiar with computer vision algorithms like object detection networks (e.g., YOLO, CenterNet) and modern image classification techniques. Previous experience with DoD customers is a plus. Minimum qualifications Software expertise: Python and associated numerical and analytics packages (NumPy, pandas, etc.); git; PyTorch. AI/ML expertise: Machine learning fundamentals; Deep knowledge of state-of-the-art in any of the following: computer vision (preferred), natural language processing, classical machine learning, Bayesian models, etc. Pursuing B.S., preferably M.S. or Ph.D in engineering, math, computer science, or related field Excellent technical communication skills Ability to work in Durham, NC Work authorization: US citizen Bonus skills Department of Defense project experience Benefits Competitive hourly wages Flexible work schedule Visit us: www.covar.com If you have any questions, please send an email with the subject line \"2025 SUMMER INTERNSHIP\" to rkalika@covar.com.",
+    "requirements": [
+      "AI/ML expertise: Machine learning fundamentals; Deep knowledge of state-of-the-art in any of the following: computer vision (preferred), natural language processing, classical machine learning, Bayesian models, etc.",
+      "Department of Defense project experience"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/covar/jobs/4870783007",
+      "fetchedAt": "2025-12-14T21:07:50.370Z"
+    }
+  },
+  "cachedAt": 1765746470370
+}
