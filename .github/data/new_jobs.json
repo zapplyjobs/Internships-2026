@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Systems Integration Test Engineer Intern (Software)",
+    "job_title": "Software Engineer",
     "employer_name": "Lockheed Martin",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
     "job_description": "Join Lockheed Martin in this exciting opportunity.",
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
-    "job_posted_at_datetime_utc": "2025-09-22T07:05:23.000Z",
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
+    "job_posted_at_datetime_utc": "2025-09-22T07:01:06.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "lockheed-martin-systems-integration-test-engineer-intern-software-sunnyvale",
+    "id": "lockheed-martin-software-engineer-king-of-prussia",
     "description_platform": "generic",
     "description_success": false
   }

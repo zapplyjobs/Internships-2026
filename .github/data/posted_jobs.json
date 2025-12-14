@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T10:31:17.561Z",
+  "lastUpdated": "2025-12-14T10:41:25.881Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3741,14 +3741,25 @@
       "sourceUrl": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
       "discordThreadId": "1449710320003055686",
       "instanceNumber": 1
+    },
+    {
+      "id": "lockheed-martin-software-engineer-king-of-prussia-2025-12-14-1",
+      "jobId": "lockheed-martin-software-engineer-king-of-prussia",
+      "company": "Lockheed Martin",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-14T10:41:25.880Z",
+      "sourceDate": "2025-09-22T07:01:06.000Z",
+      "sourceUrl": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
+      "discordThreadId": "1449712876276289648",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 340,
+    "totalJobs": 341,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T10:31:17.561Z",
+      "date": "2025-12-14T10:41:25.881Z",
       "archived": 0
     }
   }
