@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T09:31:28.963Z",
+  "lastUpdated": "2025-12-14T09:39:28.258Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3675,14 +3675,25 @@
       "sourceUrl": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
       "discordThreadId": "1449695273520599102",
       "instanceNumber": 1
+    },
+    {
+      "id": "universal-orlando-resort-software-development-resort-accessibility-and-compliance-orlando-2025-12-14-1",
+      "jobId": "universal-orlando-resort-software-development-resort-accessibility-and-compliance-orlando",
+      "company": "Universal Orlando Resort",
+      "title": "Software Development, Resort Accessibility and Compliance",
+      "postedToDiscord": "2025-12-14T09:39:28.258Z",
+      "sourceDate": "2025-09-22T07:22:05.000Z",
+      "sourceUrl": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
+      "discordThreadId": "1449697284362080327",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 334,
+    "totalJobs": 335,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T09:31:28.963Z",
+      "date": "2025-12-14T09:39:28.258Z",
       "archived": 0
     }
   }
