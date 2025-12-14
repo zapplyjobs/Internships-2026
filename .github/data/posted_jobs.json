@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T18:45:20.141Z",
+  "lastUpdated": "2025-12-14T18:59:49.353Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -4093,14 +4093,113 @@
       "sourceUrl": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/20491",
       "discordThreadId": "1449834655544246282",
       "instanceNumber": 1
+    },
+    {
+      "id": "shure-audio-applied-research-science-intern-morton-grove-2025-12-14-1",
+      "jobId": "shure-audio-applied-research-science-intern-morton-grove",
+      "company": "Shure",
+      "title": "Audio Applied Research Science Intern",
+      "postedToDiscord": "2025-12-14T18:59:27.237Z",
+      "sourceDate": "2025-09-18T22:42:27.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4402/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449838208299831298",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-ai-ml-engineer-intern-schenectady-2025-12-14-1",
+      "jobId": "ge-vernova-ge-vernova-ai-ml-engineer-intern-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova AI/ML Engineer Intern",
+      "postedToDiscord": "2025-12-14T18:59:28.926Z",
+      "sourceDate": "2025-09-18T22:12:39.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-ML-Engineer-Intern---Summer-2026_R5020396-1",
+      "discordThreadId": "1449838215862157474",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auto-owners-insurance-intelligent-automation-developer-intern-east-lansing-2025-12-14-1",
+      "jobId": "auto-owners-insurance-intelligent-automation-developer-intern-east-lansing",
+      "company": "Auto-Owners Insurance",
+      "title": "Intelligent Automation Developer Intern",
+      "postedToDiscord": "2025-12-14T18:59:30.727Z",
+      "sourceDate": "2025-09-18T20:01:06.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Intern_R_12385",
+      "discordThreadId": "1449838223080816772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "magna-computer-vision-ai-intern-troy-2025-12-14-1",
+      "jobId": "magna-computer-vision-ai-intern-troy",
+      "company": "Magna",
+      "title": "Computer Vision & AI Intern",
+      "postedToDiscord": "2025-12-14T18:59:32.388Z",
+      "sourceDate": "2025-09-18T19:23:57.000Z",
+      "sourceUrl": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Computer-Vision---AI-Intern--Fall-2025_R00211083",
+      "discordThreadId": "1449838230399615178",
+      "instanceNumber": 1
+    },
+    {
+      "id": "willowtree-software-engineering-intern-durham-2025-12-14-1",
+      "jobId": "willowtree-software-engineering-intern-durham",
+      "company": "WillowTree",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-14T18:59:37.078Z",
+      "sourceDate": "2025-09-18T20:59:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/willowtree/jobs/8094349002",
+      "discordThreadId": "1449838249718579382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-video-codec-algorithm-intern-multimedia-lab-bs-ms-san-diego-2025-12-14-1",
+      "jobId": "bytedance-video-codec-algorithm-intern-multimedia-lab-bs-ms-san-diego",
+      "company": "ByteDance",
+      "title": "Video Codec Algorithm Intern - Multimedia Lab - BS/MS",
+      "postedToDiscord": "2025-12-14T18:59:40.386Z",
+      "sourceDate": "2025-09-18T02:37:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7546692493909428498/detail",
+      "discordThreadId": "1449838257050484766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zebra-technologies-2026-summer-internship-software-engineer-android-corporate-and-business-services-ceo-lake-grove-2025-12-14-1",
+      "jobId": "zebra-technologies-2026-summer-internship-software-engineer-android-corporate-and-business-services-ceo-lake-grove",
+      "company": "Zebra Technologies",
+      "title": "2026 Summer Internship - Software Engineer - Android - Corporate and Business Services - CEO",
+      "postedToDiscord": "2025-12-14T18:59:42.262Z",
+      "sourceDate": "2025-09-18T01:44:28.000Z",
+      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343628061669",
+      "discordThreadId": "1449838271134957619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sierra-nevada-coporation-software-engineer-intern-southern-pines-2025-12-14-1",
+      "jobId": "sierra-nevada-coporation-software-engineer-intern-southern-pines",
+      "company": "Sierra Nevada Coporation",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T18:59:44.138Z",
+      "sourceDate": "2025-09-18T01:16:17.000Z",
+      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern---Summer-2026_R0028247",
+      "discordThreadId": "1449838278978310144",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bartlett-west-gis-intern-water-resources-focus-jefferson-city-2025-12-14-1",
+      "jobId": "bartlett-west-gis-intern-water-resources-focus-jefferson-city",
+      "company": "Bartlett & West",
+      "title": "GIS Intern - Water Resources Focus",
+      "postedToDiscord": "2025-12-14T18:59:49.353Z",
+      "sourceDate": "2025-09-18T07:39:52.000Z",
+      "sourceUrl": "https://careers-bartwest.icims.com/jobs/2334/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449838300381708385",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 372,
+    "totalJobs": 381,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T18:45:20.141Z",
+      "date": "2025-12-14T18:59:49.353Z",
       "archived": 0
     }
   }
