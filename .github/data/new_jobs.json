@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer",
-    "employer_name": "Lockheed Martin",
-    "job_city": "King of Prussia",
-    "job_state": "PA",
-    "job_description": "Join Lockheed Martin in this exciting opportunity.",
-    "job_apply_link": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
-    "job_posted_at_datetime_utc": "2025-09-22T07:01:06.000Z",
+    "job_title": "Software Engineer Intern",
+    "employer_name": "Impel",
+    "job_city": "Syracuse",
+    "job_state": "NY",
+    "job_description": "Join Impel in this exciting opportunity.",
+    "job_apply_link": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+    "job_posted_at_datetime_utc": "2025-09-22T06:59:45.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "lockheed-martin-software-engineer-king-of-prussia",
+    "id": "impel-software-engineer-intern-syracuse",
     "description_platform": "generic",
     "description_success": false
   }

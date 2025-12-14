@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T10:41:25.881Z",
+  "lastUpdated": "2025-12-14T10:49:32.131Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3752,14 +3752,25 @@
       "sourceUrl": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
       "discordThreadId": "1449712876276289648",
       "instanceNumber": 1
+    },
+    {
+      "id": "impel-software-engineer-intern-syracuse-2025-12-14-1",
+      "jobId": "impel-software-engineer-intern-syracuse",
+      "company": "Impel",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T10:49:32.131Z",
+      "sourceDate": "2025-09-22T06:59:45.000Z",
+      "sourceUrl": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
+      "discordThreadId": "1449714916201332859",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 341,
+    "totalJobs": 342,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T10:41:25.881Z",
+      "date": "2025-12-14T10:49:32.131Z",
       "archived": 0
     }
   }

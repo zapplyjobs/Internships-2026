@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Lockheed Martin",
-      "job_city": "King of Prussia",
-      "job_state": "PA",
-      "job_description": "Join Lockheed Martin in this exciting opportunity.",
-      "job_apply_link": "https://www.lockheedmartinjobs.com/job/king-of-prussia/software-engineer-intern/694/86256787840",
-      "job_posted_at_datetime_utc": "2025-09-22T07:01:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lockheed-martin-software-engineer-king-of-prussia",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T08:55:44.008Z",
-    "postedAt": "2025-12-14T10:41:28.892Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Impel",
       "job_city": "Syracuse",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T09:04:48.788Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T10:49:35.143Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T06:22:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bae-systems-software-or-computer-engineering-co-op-sterling-heights"
+      "id": "bae-systems-software-or-computer-engineering-co-op-sterling-heights",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T10:49:27.646Z",
     "postedAt": null
   },
   {
