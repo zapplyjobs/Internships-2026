@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
-      "employer_name": "Zillow",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "About the teamAre you passionate about creating AI agents capable of reasoning, planning, and collaborating in real-world situations? The Zillow AI Applied Science team is dedicated to developing the next generation of agentic systems, powered by large foundation models, to assist customers in exploring , finding, and dreaming their ideal homes. With millions of users actively seeking the best way to shop for their next home, we are focused on building a cutting-edge online shopping experience. At the convergence of research, engineering, and product, we design AI agents that execute meaningful actions in multi-stakeholder environments. These agents achieve this by comprehending user needs and data, maintaining context, and optimizing for the customer-facing experience.Some of the questions we are asking in this new paradigm are: How can AI analyze complex user interactions within the UX to determine and suggest the most effective next steps for users? What is the optimal collaborative approach between AI and users to achieve the established objectives?About the roleWe are seeking remote PhD interns for Summer 2026!As an intern, you will use your expertise in Agentic systems, conversational AI, LLMs, and multi-modal inference to advance customer-facing experiences and interfaces. Your research will help build AI agents capable of handling complex, rich media oriented, multi-turn interactions while maintaining context and taking appropriate actions. Your internship will develop the next-generation real estate shopping experience that integrates Agentic and Multi-modal reasoning to transform how users find their ideal homes through pushing research problems including but not limited to:Personalized and Guided Home Exploration: An agentic approach that proactively guides and helps users navigate millions of listings to identify the best homes, the experience should be highly engaging, fun and goal orientedConversational Optimization: Enhanced multi-turn conversations with effective context management and improved dialogue quality, achieved through organized data from retrieved resultsMulti-modal Collaboration System: A combination of 3D computer vision (utilizing 3D reconstructions and Gaussian splats) and LLM interfaces, powered by conversational AIThis role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions.In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually. This base pay range is specific to these locations and may not be applicable to other locations. In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually. The base pay range is specific to these locations and may not be applicable to other locations.Who you areCurrently enrolled in a PhD program in computer science, NLP, machine learning, or a related field, with solid publication recordBackground in at least one of the following areas:Human computer interaction (HCI)User behavior research in the context of agentic AIAgentic AI (tool use, planning, reasoning, decision-making)Conversational AI and dialogue optimizationMulti-modal inference models with focus on combining 3D Computer Vision and LLMsMulti-agent systems and orchestrationMemory systems and context engineeringReinforcement learning and reward modelingFamiliarity with modern deep learning frameworks (e.g., PyTorch, Hugging Face Transformers)Strong research mindset, with motivation to publishInterest in applying AI to complex, multi-stakeholder domains​Here at Zillow - we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences.Get to know usAt Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company that's reshaping an industry and helping more people make home a reality.Zillow is honored to be recognized among the best workplaces in the country. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2025, and included on the PEOPLE Companies That Care® 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together.Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact your recruiter directly.Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law.Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
-      "job_apply_link": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
-      "job_posted_at_datetime_utc": "2025-09-24T02:42:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zillow-ai-applied-scientist-phd-intern-next-gen-agentic-and-multi-modal-home-exploration-experience-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T23:37:24.710Z",
-    "postedAt": "2025-12-14T04:23:34.934Z"
-  },
-  {
-    "job": {
       "job_title": "R&D Software Engineer Intern - Customer Software Entitlement & Delivery R&D - Cloud Technologies",
       "employer_name": "Keysight Technologies",
       "job_city": "Loveland",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T23:45:00.223Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T04:44:06.778Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-23T06:16:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw"
+      "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T04:43:59.762Z",
     "postedAt": null
   },
   {

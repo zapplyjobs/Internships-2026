@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T04:23:31.922Z",
+  "lastUpdated": "2025-12-14T04:44:03.763Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3389,14 +3389,25 @@
       "sourceUrl": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
       "discordThreadId": "1449617775772569630",
       "instanceNumber": 1
+    },
+    {
+      "id": "keysight-technologies-r-d-software-engineer-intern-customer-software-entitlement-delivery-r-d-cloud-technologies-loveland-2025-12-14-1",
+      "jobId": "keysight-technologies-r-d-software-engineer-intern-customer-software-entitlement-delivery-r-d-cloud-technologies-loveland",
+      "company": "Keysight Technologies",
+      "title": "R&D Software Engineer Intern - Customer Software Entitlement & Delivery R&D - Cloud Technologies",
+      "postedToDiscord": "2025-12-14T04:44:03.763Z",
+      "sourceDate": "2025-09-24T02:11:33.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/49564?lang=en-us&icims=1",
+      "discordThreadId": "1449622942471159929",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 308,
+    "totalJobs": 309,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T04:23:31.922Z",
+      "date": "2025-12-14T04:44:03.763Z",
       "archived": 0
     }
   }
