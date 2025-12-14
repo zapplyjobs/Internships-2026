@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Thanks for your interest in the Software Development / Digital Delivery Intern (Available June 2026) position. Unfortunately this position has been closed but you can search our 652 open jobs by clicking here.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+      "fetchedAt": "2025-12-14T10:31:12.184Z"
+    }
+  },
+  "cachedAt": 1765708272184
+}
