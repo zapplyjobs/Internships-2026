@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T06:34:44.716Z",
+  "lastUpdated": "2025-12-14T06:50:34.743Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3499,14 +3499,25 @@
       "sourceUrl": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
       "discordThreadId": "1449650796491968623",
       "instanceNumber": 1
+    },
+    {
+      "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw-2025-12-14-1",
+      "jobId": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw",
+      "company": "Zebra Technologies",
+      "title": "Internship - Software Engineering - Corporate and Business Services",
+      "postedToDiscord": "2025-12-14T06:50:34.742Z",
+      "sourceDate": "2025-09-23T06:16:55.000Z",
+      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343628025219",
+      "discordThreadId": "1449654781017718816",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 318,
+    "totalJobs": 319,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T06:34:44.716Z",
+      "date": "2025-12-14T06:50:34.743Z",
       "archived": 0
     }
   }
