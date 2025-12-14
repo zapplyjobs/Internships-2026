@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Mastercard",
-    "job_city": "O Fallon",
-    "job_state": "MO",
-    "job_description": "Join Mastercard in this exciting opportunity.",
-    "job_apply_link": "https://careers.mastercard.com/us/en/job/MASRUSR257331EXTERNALENUS/Software-Engineer-Intern-Summer-2026-United-States",
-    "job_posted_at_datetime_utc": "2025-09-22T07:07:32.000Z",
+    "job_title": "Systems Integration Test Engineer Intern (Software)",
+    "employer_name": "Lockheed Martin",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Join Lockheed Martin in this exciting opportunity.",
+    "job_apply_link": "https://www.lockheedmartinjobs.com/job/sunnyvale/systems-integration-test-engineer-intern-software-summer-2026/694/86294359328",
+    "job_posted_at_datetime_utc": "2025-09-22T07:05:23.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "mastercard-software-engineer-intern-o-fallon",
+    "id": "lockheed-martin-systems-integration-test-engineer-intern-software-sunnyvale",
     "description_platform": "generic",
     "description_success": false
   }

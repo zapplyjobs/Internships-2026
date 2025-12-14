@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Mastercard",
-      "job_city": "O Fallon",
-      "job_state": "MO",
-      "job_description": "Join Mastercard in this exciting opportunity.",
-      "job_apply_link": "https://careers.mastercard.com/us/en/job/MASRUSR257331EXTERNALENUS/Software-Engineer-Intern-Summer-2026-United-States",
-      "job_posted_at_datetime_utc": "2025-09-22T07:07:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mastercard-software-engineer-intern-o-fallon",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T08:33:43.691Z",
-    "postedAt": "2025-12-14T10:18:41.920Z"
-  },
-  {
-    "job": {
       "job_title": "Systems Integration Test Engineer Intern (Software)",
       "employer_name": "Lockheed Martin",
       "job_city": "Sunnyvale",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T08:47:34.830Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T10:31:20.573Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Arup",
       "job_city": "Los Angeles",
       "job_state": "CA",
-      "job_description": "Join Arup in this exciting opportunity.",
+      "job_description": "Thanks for your interest in the Software Development / Digital Delivery Intern (Available June 2026) position. Unfortunately this position has been closed but you can search our 652 open jobs by clicking here.",
       "job_apply_link": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
       "job_posted_at_datetime_utc": "2025-09-22T06:35:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "arup-software-development-digital-delivery-intern-los-angeles"
+      "id": "arup-software-development-digital-delivery-intern-los-angeles",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T10:31:12.185Z",
     "postedAt": null
   },
   {
