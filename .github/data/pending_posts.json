@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern - Multiple Teams",
-      "employer_name": "GlobalFoundries",
-      "job_city": "Burlington",
-      "job_state": "VT",
-      "job_description": "Join GlobalFoundries in this exciting opportunity.",
-      "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Software-Engineering-Intern--Summer-2026-_JR-2502809",
-      "job_posted_at_datetime_utc": "2025-09-23T22:43:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "globalfoundries-software-engineering-intern-multiple-teams-burlington",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T00:47:54.756Z",
-    "postedAt": "2025-12-14T05:19:16.322Z"
-  },
-  {
-    "job": {
       "job_title": "Graduate Engineering Intern - Multiple Teams",
       "employer_name": "Solidigm",
       "job_city": "Rancho Cordova",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T01:18:52.757Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T05:32:37.937Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Jade Global",
       "job_city": "Ogden",
       "job_state": "UT",
-      "job_description": "Join Jade Global in this exciting opportunity.",
+      "job_description": "Data/Ai Engineer Intern1Data/AI Engineer in the Data & Ai TeamLaunch Your Career with Jade GlobalAre you ready to start a career where your talents are recognized, your growth is supported, and your work truly matters?At Jade Global, we’re looking for recent graduates with strong potential, curiosity, and drive. While prior experience in technology is a plus, it’s not required — what matters most is your motivation to learn, grow, and make an impact. We take a personalized approach to hiring, placing greater weight on who you are and what excites you, not just your GPA.You’ll be joining a team of 1,000+ experienced business and technology professionals who are invested in your success. From day one, you’ll receive hands-on coaching, mentorship, and a fast-track, individualized career path designed to help you thrive over the next 3–5 years.This is not an internship — it’s a full-time opportunity with a competitive salary, full benefits, and generous performance-based compensation. You’ll be working with some of the most innovative and high-growth companies in Silicon Valley and beyond.We’re seeking the next generation of leaders, problem-solvers, and innovators from top universities around the world — people who are passionate about technology, eager to take ownership, and committed to excellence.Ready to build your future with us? Let’s get started.Responsibilities include:Collecting and documenting business analytics requirementsAnalyzing complex data using AI tools and frameworksExploring the use of LLMs, computer vision, and generative AI to address client business challengesData collection, preparation, and analysis.Model development and testing.Authoring technical documentation.Presenting solutions to key stakeholders. Candidate Profile:Bachelor’s degree in Computer Science, Data Science, AI/ML, or related field Strong Python programming skillsUnderstanding of ML algorithms like linear regression, classification, clustering, etc.Familiarity with libraries such as Pandas, NumPy, Scikit-learn, TensorFlow or PyTorchGood understanding of data structures and algorithmDesire to learnStrong analytical thinking and problem-solving and analytical skills.Independent person able to manage self and activities within a scheduleAble to facilitate conversations and drive decisionsPassionateCreative thinkerTakes initiative and ownershipStrong team playerStrong communicatorInterest in learning and growing both technically and as a personExposure to NLP, Computer Vision, or Generative AI is a plusExperience with Jupyter Notebooks and Git is a plusKnowledge of SQL and cloud platforms (AWS, Azure, GCP) is a plus What You’ll Gain:Mentoring and learning from AI/ML professionalsCollaborative and innovation-driven environmentStrong understanding of business analytic needsAbility to translate customer requirements into visible results through leading edge technologyDeep understanding of proven analytics and AI toolsCareer growth opportunities within the Data & AI team",
       "job_apply_link": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
       "job_posted_at_datetime_utc": "2025-09-23T03:18:26.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jade-global-data-ai-engineer-intern-data-ai-team-ogden"
+      "id": "jade-global-data-ai-engineer-intern-data-ai-team-ogden",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T05:32:30.774Z",
     "postedAt": null
   },
   {
