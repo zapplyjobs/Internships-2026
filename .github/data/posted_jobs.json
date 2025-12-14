@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-13T23:54:00.705Z",
+  "lastUpdated": "2025-12-14T00:14:35.654Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3301,14 +3301,25 @@
       "sourceUrl": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Technology-Solutions-Internship_R25_0000003139",
       "discordThreadId": "1449549948294008854",
       "instanceNumber": 1
+    },
+    {
+      "id": "ramboll-intern-air-quality-modeler-fort-collins-2025-12-14-1",
+      "jobId": "ramboll-intern-air-quality-modeler-fort-collins",
+      "company": "Ramboll",
+      "title": "Intern – Air Quality Modeler - ",
+      "postedToDiscord": "2025-12-14T00:14:35.654Z",
+      "sourceDate": "2025-09-24T16:04:52.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000083672278",
+      "discordThreadId": "1449555128196534395",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 300,
+    "totalJobs": 301,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-13T23:54:00.705Z",
+      "date": "2025-12-14T00:14:35.654Z",
       "archived": 0
     }
   }
