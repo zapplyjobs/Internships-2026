@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering",
-      "employer_name": "Highmark Health",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Join Highmark Health in this exciting opportunity.",
-      "job_apply_link": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
-      "job_posted_at_datetime_utc": "2025-09-22T06:55:34.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "highmark-health-software-engineering-pittsburgh",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T09:31:24.561Z",
-    "postedAt": "2025-12-14T11:05:23.871Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Electronic Arts",
       "job_city": "Redwood City",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T09:39:23.918Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T11:17:41.738Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "U.S. Venture",
       "job_city": "Green Bay",
       "job_state": "WI",
-      "job_description": "Join U.S. Venture in this exciting opportunity.",
+      "job_description": "POSITION SUMMARYWe are seeking an Solution Development (Software Development) Intern to join our Summer 2026 Internship Program. This interview will support our Breakthrough division and our software development team in the rapidly growing Technology Solutions group. We are seeking an individual who is passionate about building software platforms to deliver products that disrupt markets through innovation. The ideal candidate will thrive on embracing organizational vision to ideate and drive technical solutions forward by investigating and experimenting with emerging platforms and frameworks. We are building cloud first applications that are scalable, flexible and support a rapidly changing market with continuous launches of new innovation, features and products. Our team is an open minded, evolving, innovation focused technology team. We approach our work through self-managed, multi-disciplinary teams that bring together data science, software development and a robust quality program to quickly bring new products to market. Our holistic organizational culture is reinforced every day through our smart, passionate and edgy team members that are focused on excellence in service to our clients and each other. We work hard, give back and move markets by delivering “Breakthrough” innovations and value.U.S. Venture’s Internship Program runs May - August. Dates may vary based on individual class schedules. This position is located in Green Bay, WI [1175 Lombardi Ave, Green Bay, WI 54304].JOB RESPONSIBILITIESBuild cutting edge software products that integrate into a holistic Platform as a Service (PaaS) offering that are highly flexible and scalable using a UX driven product development strategy.Understanding of and experience with developing applications and an understanding in building either front end (React) and/or back-end APIs (NodeJS)Understanding of Cloud technologies and open-source tools used to create world class product experiences.Bring technical thought leadership, an inquisitive nature and desire for excellence to our agile product based teams.QUALIFICATIONSCurrent student pursing a bachelors or advanced degree in Mathematics, Computer Science or EngineeringUnderstanding of coding languages including at least one of: JavaScript, Python, React JS or NodeJS.Understanding of Git and DevOps deployment in Google Cloud or other Cloud platforms is helpful.Familiarity with Google Cloud technologies or related Cloud technology exposure is a definite PLUS. DIVISION:Breakthrough U.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need. U.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.U.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic. If you need assistance or an accommodation due to a disability, you may call Human Resources at (920) 739-6101.",
       "job_apply_link": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Software-Development-Intern---Breakthrough_R4445",
       "job_posted_at_datetime_utc": "2025-09-22T01:26:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "u-s-venture-software-development-intern-breakthrough-green-bay"
+      "id": "u-s-venture-software-development-intern-breakthrough-green-bay",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T11:17:34.518Z",
     "postedAt": null
   },
   {
