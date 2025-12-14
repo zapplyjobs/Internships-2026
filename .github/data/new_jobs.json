@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "Health DevOps Engineer Intern",
+    "job_title": "Health Software Engineer Intern",
     "employer_name": "Voloridge Health",
     "job_city": "Jupiter",
     "job_state": "FL",
-    "job_description": "<p>Voloridge Health, headquartered in Jupiter, FL, is a proactive healthcare technology company. We develop advanced tools to deliver predictive, personalized insights to empower individuals and organizations to make data-driven decisions, promoting longer, healthier lives. Voloridge Health is dedicated to developing a data-science-driven approach to assess, track, and improve healthspan. Founded in 2023 with the same data science background that has propelled its sister company, Voloridge Investment Management, as an award-winning quantitative hedge fund.</p><p>We are seeking a DevOps Engineer Intern to join the Voloridge Health team. In this role, you will work alongside the Senior DevOps Engineer and take part in automating the entire life cycle of application development.</p><p><strong>Summary of Job Functions</strong> </p><ul> <li>Assist in developing and maintaining automated build and deployment pipelines for mobile and cloud-based applications </li><li>Support the implementation of Infrastructure-as-Code (IaC) and configuration management tools to streamline environments </li><li>Help monitor application and infrastructure performance, security, and cost efficiency </li><li>Collaborate with software development teams to support application deployments and troubleshoot basic issues </li><li>Conduct research on emerging DevOps practices, tools, and cloud technologies, and present findings to the team </li></ul><p><strong>Minimum Requirements</strong> </p><ul> <li>Ability to work onsite in our Jupiter, Florida office (not a remote role) </li><li>Completion of at least three years of an undergraduate or graduate degree program in Computer Science, Information Systems, or a related field </li><li>Basic understanding of cloud platforms (AWS preferred) and networking fundamentals </li><li>Familiarity with at least one scripting language (Python, Bash, etc.) </li><li>Exposure to containers and orchestration tools (Docker, Kubernetes, etc.) a plus </li><li>Strong problem-solving skills and eagerness to learn modern DevOps practices </li></ul><p><strong>Benefits</strong> </p><ul> <li>Fully paid housing if applicable </li><li>Uber stipend to cover most transportation costs </li><li>Free breakfast, lunch, and snacks on-site daily </li><li>Gym membership included </li></ul><p>Voloridge Health is an Equal Opportunity Employer. All qualified applicants are encouraged to apply and will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristic or status.</p><p> </p>",
-    "job_apply_link": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
-    "job_posted_at_datetime_utc": "2025-09-22T07:25:45.000Z",
+    "job_description": "Voloridge Health, headquartered in Jupiter, FL, is a proactive healthcare technology company. We develop advanced tools to deliver predictive, personalized insights to empower individuals and organizations to make data-driven decisions, promoting longer, healthier lives. Voloridge Health is dedicated to developing a data-science-driven approach to assess, track, and improve healthspan. Founded…",
+    "job_apply_link": "https://voloridge-health.hiringthing.com/job/958323/health-software-engineer-intern-2026",
+    "job_posted_at_datetime_utc": "2025-09-22T07:24:44.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "voloridge-health-health-devops-engineer-intern-jupiter",
+    "id": "voloridge-health-health-software-engineer-intern-jupiter",
     "description_platform": "generic",
     "description_success": true
   }
