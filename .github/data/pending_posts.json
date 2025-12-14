@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineer Intern, Applied ML",
-      "employer_name": "Robinhood",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Join Robinhood in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
-      "job_posted_at_datetime_utc": "2025-09-22T23:59:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robinhood-machine-learning-engineer-intern-applied-ml-menlo-park",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T06:58:37.577Z",
-    "postedAt": "2025-12-14T08:47:43.920Z"
-  },
-  {
-    "job": {
       "job_title": "Engineering Intern Program",
       "employer_name": "NorthMark Strategies",
       "job_city": "Dallas",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T07:08:44.846Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T08:55:51.898Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T07:01:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lockheed-martin-software-engineer-king-of-prussia"
+      "id": "lockheed-martin-software-engineer-king-of-prussia",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T08:55:44.008Z",
     "postedAt": null
   },
   {
