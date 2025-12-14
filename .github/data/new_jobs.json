@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Data Scientist Associate Internship",
-    "employer_name": "GDIT",
-    "job_city": "Remote in USA",
-    "job_state": "Locations",
-    "job_description": "Join GDIT in this exciting opportunity.",
-    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
-    "job_posted_at_datetime_utc": "2025-09-22T06:36:27.000Z",
+    "job_title": "Software Development / Digital Delivery Intern",
+    "employer_name": "Arup",
+    "job_city": "Los Angeles",
+    "job_state": "CA",
+    "job_description": "Thanks for your interest in the Software Development / Digital Delivery Intern (Available June 2026) position. Unfortunately this position has been closed but you can search our 652 open jobs by clicking here.",
+    "job_apply_link": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+    "job_posted_at_datetime_utc": "2025-09-22T06:35:35.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "gdit-data-scientist-associate-internship-remote-in-usa",
-    "description_platform": "workday",
-    "description_success": false
+    "id": "arup-software-development-digital-delivery-intern-los-angeles",
+    "description_platform": "generic",
+    "description_success": true
   }
 ]
