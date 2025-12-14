@@ -1,0 +1,17 @@
+{
+  "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/969",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The Data Analyst Intern will help to drive informed decision-making by extracting insights from diverse data sources. The intern may assist the project team or departments by developing and maintaining reporting and analytical tools (Excel, Smartsheet, Power BI), cleaning data and ensuring data quality, ensuring data privacy and security, data visualization and reporting, and other duties as assigned. The Data Analyst Intern will also help prepare construction data for data science initiatives.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/969",
+      "fetchedAt": "2025-12-14T23:48:04.727Z"
+    }
+  },
+  "cachedAt": 1765756084727
+}
