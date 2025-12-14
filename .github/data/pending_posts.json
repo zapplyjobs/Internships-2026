@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Mercury Marine – Systems/Software Engineering Intern",
-      "employer_name": "Brunswick",
-      "job_city": "Fond du Lac",
-      "job_state": "WI",
-      "job_description": "Join Brunswick in this exciting opportunity.",
-      "job_apply_link": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Intern_JR-047436",
-      "job_posted_at_datetime_utc": "2025-09-04T21:39:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "brunswick-mercury-marine-systems-software-engineering-intern-fond-du-lac",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:24:59.142Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Qorvo",
-      "job_city": "Hillsboro",
-      "job_state": "OR",
-      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Software Engineering Internships are offered in our High Performance Analog, Advanced Cellular, Connectivity and Sensors and Global Operations business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Software development, deployment, and troubleshooting of customer-focused services and applications that support semiconductor manufacturing automation and enterprise DevOps initiatives. Partnering tightly with cross site Manufacturing Systems team members and subject matter experts to determine requirements are meeting client area expectations. Develop and write clean, functional, and testable software applications. Drive technical and other SDLC improvements in collaboration with other technical team members. Initiate and/or participate in established source code change management best practice, and software documentation. Qualifications: Currently enrolled in Information Systems, Computer Science, Engineering, or a related discipline with completion of at least two years of school prior to beginning of internship. 3.0 GPA or higher Proficiency with at least one object-oriented scripting language (e.g., Python, C#, Ruby, etc.) in addition to familiarity with web and frontend frameworks (.NET, Django, React, Vue, Flask etc.) Understanding of structured refactoring methodologies Capability implementing selected design patterns (e.g., pub-sub, observer) Familiarity with developing and consuming web services Familiarity with data preprocessing, feature engineering, and model evaluation techniques. Exposure to containerization and orchestration preferably Docker Experience with file parsing, sharing and transfer mechanisms, XML/JSON file formats Working proficiency with relational database design, SQL query construction, DevOps familiarity using GitLab or GitHub Effective oral and written communication skills Ability to work independently as well as in a collaborative, interdisciplinary team environment This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr-$42/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
-      "job_apply_link": "https://careers.qorvo.com/job/Hillsboro-Software-Engineer-Intern-OR-97124/1322876900/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-09-04T16:45:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "qorvo-software-engineer-intern-hillsboro",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Co-Op (Hybrid)",
-      "employer_name": "RTX",
-      "job_city": "Burnsville",
-      "job_state": "MN",
-      "job_description": "Join RTX in this exciting opportunity.",
-      "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800",
-      "job_posted_at_datetime_utc": "2025-09-04T11:10:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rtx-software-engineer-co-op-hybrid-burnsville",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Co-Op (Onsite)",
-      "employer_name": "RTX",
-      "job_city": "Cedar Rapids",
-      "job_state": "IA",
-      "job_description": "Join RTX in this exciting opportunity.",
-      "job_apply_link": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
-      "job_posted_at_datetime_utc": "2025-09-04T11:09:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rtx-software-engineering-co-op-onsite-cedar-rapids",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Azure Cloud Administration",
-      "employer_name": "Simon",
-      "job_city": "Indianapolis",
-      "job_state": "IN",
-      "job_description": "Join Simon in this exciting opportunity.",
-      "job_apply_link": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Azure-Cloud-Administration_R12531",
-      "job_posted_at_datetime_utc": "2025-09-04T11:06:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "simon-azure-cloud-administration-indianapolis",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Quality Assurance",
-      "employer_name": "Simon",
-      "job_city": "Indianapolis",
-      "job_state": "IN",
-      "job_description": "Join Simon in this exciting opportunity.",
-      "job_apply_link": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533",
-      "job_posted_at_datetime_utc": "2025-09-04T11:05:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "simon-software-quality-assurance-indianapolis",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "US Foods",
-      "job_city": "Rosemont",
-      "job_state": "IL",
-      "job_description": "Join US Foods in this exciting opportunity.",
-      "job_apply_link": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Hybrid--Onsite---Remote-_R271111",
-      "job_posted_at_datetime_utc": "2025-09-04T11:03:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "us-foods-software-engineer-rosemont",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer, M&A",
-      "employer_name": "US Foods",
-      "job_city": "Rosemont",
-      "job_state": "IL",
-      "job_description": "Join US Foods in this exciting opportunity.",
-      "job_apply_link": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233",
-      "job_posted_at_datetime_utc": "2025-09-04T11:02:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "us-foods-data-engineer-m-a-rosemont",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
-      "job_title": "TSS Software Tester Associate",
-      "employer_name": "GDIT",
-      "job_city": "Bossier City",
-      "job_state": "LA",
-      "job_description": "Join GDIT in this exciting opportunity.",
-      "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/TSS-Software-Tester-Associate--Intern-_RQ204605",
-      "job_posted_at_datetime_utc": "2025-09-04T10:57:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gdit-tss-software-tester-associate-bossier-city",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": "2025-12-14T23:48:32.107Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "General Dynamics",
       "job_city": "Canonsburg",
@@ -214,10 +34,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:37:56.233Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T23:48:07.434Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:57:21.389Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "SNC-Lavalin",
       "job_city": "Tallahassee",
       "job_state": "FL",
-      "job_description": "Join SNC-Lavalin in this exciting opportunity.",
+      "job_description": "Job DescriptionWE ARE HIRING! AtkinsRéalis is seeking a Cultural Resources GIS Intern to join our Tallahassee, FL office. ABOUT US AtkinsRéalis is a world-class engineering services and nuclear organization. For over 50 years, we’ve partnered with public and private clients across the U.S. to deliver infrastructure planning, engineering, construction, environmental consulting, urban planning, architecture, and program management. Our depth and breadth of expertise enables us to tackle the most technically complex and time-sensitive projects—driving innovation, resilience, and real-world impact where it matters most. Our Internship Program, Explore, is designed for college students pursuing a degree in a STEM field and provides opportunities to learn what it’s like to work in a professional environment and apply what’s learned in class to the real-world challenges we face every day. RESPONSIBILITIES Contribute to geospatial analyses, data creation/compilation, and administrative processes led by other AtkinsRéalis staff. Processing and posting GIS data to online viewers. GIS-based study impact assessments/structure counts. GIS support for public meetings for public review of proposed changes to data. Attend weekly online meetings to report on progress. Georeference historic imagery and conduct general ArcPro Spatial Analysis Ad-hoc GIS analysis, mapping and support to client as needed. QUALIFICATIONS EXPERIENCE: 0-2 years of experience in related technical field EDUCATION: Completed or currently enrolled in GIS coursework at the university level. SPECIAL SKILLS: Personal computer with GIS capabilities Introductory GIS Skills (Shapefile creation & manipulation, georeferencing, general data management) PROFESSIONAL REGISTRATIONS: None WHY JOIN US? AtkinsRéalis is growing fast in the U.S.—and there’s never been a more exciting time to be part of our journey. We’re committed to engineering a better future for our planet and its people. That means creating solutions that matter, and building a workplace where every voice is heard, every perspective counts, and everyone belongs. By connecting people, data, and technology across our global network, we’re tackling some of the world’s most complex challenges. And we’re looking for passionate, driven new professionals like you to help shape what’s next. Let’s build the future—together. WHAT WE OFFER AT ATKINSRÉALIS: At AtkinsRéalis, our values—Safety, Integrity, Collaboration, Innovation, and Excellence—are more than just words. They are the foundation of who we are and how we work. These principles shape our culture, guide our decisions, and inspire us to create an environment where every team member feels empowered to grow, succeed, and make a meaningful impact. As an Intern, you will participate in Explore, our intern development initiative, and will enjoy a host of benefits including: Competitive salary Hands-on experience with industry leaders Support and mentorship from various professionals throughout the business Career and educational exploration opportunities such as Client Site Visits, Weekly Lunch & Learns, & various virtual and/or in-person activities As an entry-level Full-Time employee, you will enjoy a robust rewards package including enrollment into Emerge, our new graduate experience, providing: Opportunities to work on various projects of ranging size and scope Support & structured mentorship from various professionals throughout the global AtkinsRéalis network Formal business and soft-skills training on topics such as time management, resilience, emotional intelligence, feedback, and communication Integration into a robust Emerging Professional Network Additional learning and development programs, training, career opportunities and a highly regarded tuition reimbursement program Additional benefits may include medical, dental, vision, company-paid life and short- and long-term disability benefits, employer-matched 401(k) with 100% vesting, employee stock purchase plan, Paid Time Off, leaves of absences options, flexible work options, recognition and employee satisfaction programs, employee assistance program, and voluntary benefits. You can review our comprehensive benefits page here. Expected compensation range is between $23 - $29 hourly depending on skills, experience, and geographical location. Are you ready to start your career with us? Apply today and help us shape something extraordinary. AtkinsRéalis is an equal opportunity, Drug-Free employer. EOE/Veteran/Disability Please review AtkinsRéalis’ Equal Opportunity Statement here. AtkinsRéalis cares about your privacy and is committed to protecting your privacy. Please consult our Privacy Notice on our Careers site to know more about how we collect, use and transfer your Personal Data. By submitting your personal information to AtkinsRéalis, you confirm that you have read and accept our Privacy Notice. Note to staffing and direct hire agencies: In the event a recruiter or agency who is not on our preferred supplier list submits a resume/candidate to anyone in the company, AtkinsRéalis family of companies, we explicitly reserve the right to recruit and hire the candidate(s) at our discretion and without any financial obligation to the recruiter or agency. https://careers.atkinsrealis.com/recruitment-agencies #URR100 Worker TypeEmployeeJob TypeCasualAt AtkinsRéalis, we seek to hire individuals with diverse characteristics, backgrounds and perspectives. We strongly believe that world-class talent makes no distinctions based on gender, ethnic or national origin, sexual identity and orientation, age, religion or disability, but enriches itself through these differences.",
       "job_apply_link": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTallahassee3522-Thomasville-Rd/Cultural-Resources-GIS-Intern---Spring-2026_R-137281-1",
       "job_posted_at_datetime_utc": "2025-09-03T23:22:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "snc-lavalin-cultural-resources-gis-intern-tallahassee"
+      "id": "snc-lavalin-cultural-resources-gis-intern-tallahassee",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Qorvo",
       "job_city": "Hillsboro",
       "job_state": "OR",
-      "job_description": "Join Qorvo in this exciting opportunity.",
+      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Applications Engineering Internships are offered in our High Performance Analog, Advanced Cellular, Connectivity and Sensors, and Sales & Marketing business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Collaborate with business and technical stakeholders to identify and prioritize AI/ML use cases. Conduct research and feasibility analysis on proposed use cases. Develop and test proof-of-concept models using appropriate AI/ML techniques. Document findings, methodologies, and outcomes for internal review and presentation. Stay current with emerging trends and technologies in AI/ML and data science. Support data collection, preprocessing, and exploratory analysis as needed. Qualifications: Currently pursuing Masters degree in Computer Science, Data Science, Artificial Intelligence, or a related field. Must have a 3.5 GPA or Higher Strong understanding of machine learning concepts and algorithms. Experience with Python and ML libraries such as scikit-learn, TensorFlow, PyTorch, or similar. Familiarity with data wrangling, feature engineering, and model evaluation techniques. Prior hands on experience with Large Language Models (LLMs). Excellent analytical and problem-solving skills. Strong communication and collaboration abilities. Preferred Skills: Exposure to cloud platforms (e.g., Azure, AWS, GCP) and MLOps tools. Experience with NLP, computer vision, or time-series analysis. Understanding of business processes and enterprise systems (e.g., SAP, Salesforce). This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $25/hr-$34/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
       "job_apply_link": "https://careers.qorvo.com/job/Hillsboro-AIML-Intern-OR-97124/1322517600/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-09-03T22:43:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qorvo-ai-ml-intern-hillsboro"
+      "id": "qorvo-ai-ml-intern-hillsboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Autonomous Vehicles and Robotics Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Autonomous Vehicles and Robotics teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week minimum full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. Potential Internships in this field include: Autonomous Vehicles Developing and training state-of-the-art Deep Neural Networks for path generation Collecting training datasets and real-time inference run-times using simulators/gyms as well as performing in-vehicle tests Course or internship experience related to the following areas could be required: Computer Vision, Mapping, Localization, SLAM, Image Processing, Segmentation Robotics Building the fundamental infrastructure and software platforms of our system, working at the very heart of the software system, which will power every robot and application built with Isaac Course or internship experience related to the following areas could be required: Robotics, Autonomous Vehicles, Validation Frameworks for Deep Learning, Operating Systems and Data Structures (threads, processes, memory, synchronization), Physics Simulation, Simulators, Computer Graphics, Version Control, Computer Vision, Cloud Technologies What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, CUDA, ROS, Python, OpenGL, Linux, Sensor Input Devices (LiDAR, cameras, radars), Training Frameworks (TensorFlow, Keras, PyTorch) Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
       "job_posted_at_datetime_utc": "2025-09-03T18:45:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-autonomous-vehicles-and-robotics-intern-santa-clara"
+      "id": "nvidia-autonomous-vehicles-and-robotics-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-09-03T18:44:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bae-systems-software-engineering-intern-san-diego"
+      "id": "bae-systems-software-engineering-intern-san-diego",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Intel",
       "job_city": "Hillsboro",
       "job_state": "OR",
-      "job_description": "Join Intel in this exciting opportunity.",
+      "job_description": "Intel’s official careers website. Find your next job and take on projects that shape tomorrow’s technology. Benefits Internships Life at Intel Locations Recruitment Process Discover your place in our world-changing work.",
       "job_apply_link": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
       "job_posted_at_datetime_utc": "2025-09-03T18:44:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intel-software-engineering-intern-hillsboro"
+      "id": "intel-software-engineering-intern-hillsboro",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -500,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-09-03T18:43:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "northern-trust-technology-intern-software-development-chicago"
+      "id": "northern-trust-technology-intern-software-development-chicago",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Deep Learning Computer Architecture Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Deep Learning Computer Architecture teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week minimum full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Course or internship experience related to the following areas could be required: Computer Architecture experience in one or more of these focus areas: GPU Architecture, CPU Architecture, Deep Learning, GPU Computing, Parallel Programming, or High-Performance Computing Systems GPU Computing (CUDA, OpenCL, OpenACC), GPU Memory Systems, Deep Learning Frameworks (PyTorch, TensorFlow, Keras, Caffe), HPC (MPI, OpenMP) Modelling/Performance Analysis, Parallel Processing, Neural Network Architectures, GPU Acceleration, Deep Learning Neural Networks, Compiler Programming Performance Modeling, Profiling, Optimizing, and/or Analysis Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, Python, Perl, GPU Computing (CUDA, OpenCL, OpenACC), Deep Learning Frameworks (PyTorch, TensorFlow, Caffe), HPC (MPI, OpenMP) Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
       "job_posted_at_datetime_utc": "2025-09-03T18:42:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-deep-learning-computer-architecture-intern-santa-clara"
+      "id": "nvidia-deep-learning-computer-architecture-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Systems Software Engineering Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Systems Software teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week minimum full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. Potential Internships in this field include: Systems Software Defining, designing, and developing integrated (e.g., Jetson Orin) and discrete (e.g., Hopper H100) GPU system software components (e.g., runtime, math libraries) with focus on power and performance, as well as creating architecture and design specifications Course or internship experience related to the following areas could be required: Operating Systems (Threads, Process Control, Memory/Resource Management, Virtual Memory), Multithreaded Debugging, Linux Kernel Development, RTOS Development on Embedded Platforms, Data Structures & Algorithms (time/space complexity), Computer Networking (TPC/IP, OSI Model, Sockets) Graphics Systems Software Designing and implementing of OpenGL, OpenGL ES, and Vulkan graphics drivers, platform support, and conformance tests to support new hardware features in collaboration with other software, hardware, architecture, and support teams Training and debugging various issues within the Tegra graphics software stack Course or internship experience related to the following areas could be required: Computer Architecture, Operating Systems, Real-Time Systems Development, Device Driver Programming, Game Console Middleware, or other Low-Level Library Development, 3D/2D Graphics Theory, Implementation & Optimizations, Simulation or Emulation (writing & debugging tests) Compiler Working at the center of deep-learning compiler technology, spanning architecture design and support through functional languages Investigating problems or optimization opportunities within the Compiler backend by working with global compiler, hardware, and application teams to oversee improvements and problem resolutions Course or internship experience related to the following areas could be required: Operating Systems Compiler, Compiler Construction, Advanced Algorithms and Data Structures, Computer Architecture, Compiler Development, Open Source Programming, High-Performance Computing (HPC), Automation Tools (XLA, TVM, Halide), Open Source Tools (CLANG, LLBM, gcc) Firmware & Embedded Software Supporting development of firmware run on embedded microcontrollers within GPUs, while optimizing software to improve system robustness, performance, and security Participating in testing new and existing firmware, and developing tools and infrastructure to improve our front-end design and verification process Course or internship experience related to the following areas could be required: Operating Systems (Threads, Process Control, Memory/Resource Management, Virtual Memory), Embedded Systems (Processors, Firmware, Input/Output Devices and Memory), Real-Time Performance, Low-Level Development, Data Structures & Algorithms, Computer Architecture, Computer Systems Software, Linux Kernel Development, Multi-Threaded or Multi-Process Programming, RTOS Development on Embedded Platforms Software Security Hardening and developing secure solutions across the software stack, spanning multi-node supercomputers down to microcontrollers and security co-processors Building tools and infrastructure to scale security efforts across large organizations and codebases with millions of lines of code Course or internship experience related to the following areas could be required: Operating Systems, Data Structures & Algorithms, Computer Networking, Network Security, Cryptography, Computer Systems Architecture, Microcontroller and Microprocessor fundamentals (Caches, Buses, Memory Controllers, DMA, etc.) What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, CUDA, x86, ARM CPU, GPU, Embedded C, Linux, Linux Kernel Development, Perl, Bash/Shell Scripting Operating Systems (Threads, Process Control, Memory/Resource Management, Virtual Memory), Formal Verification Tools (Spark, Frama-C), Linux Kernel Development, Multi-Threaded or Multi-Process Programming, Computer Networking (TPC/IP, OSI Model, Sockets), Open Source Tools (CLANG, LLBM, gcc), Testing Production/Automation Tools (XLA, TVM, Halide), Microprocessor Fundamentals (Caches, Buses, Memory Controllers, DMA, etc.) Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
       "job_posted_at_datetime_utc": "2025-09-03T18:42:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-systems-software-engineering-intern-santa-clara"
+      "id": "nvidia-systems-software-engineering-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Deep Learning Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Deep Learning teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. Potential Internships in this field include: Deep Learning Applications & Algorithms Developing algorithms for deep learning, data analytics, or scientific computing to improving performance of GPU implementations Course or internship experience related to the following areas could be required: Deep Neural Networks, Linear Algebra, Numerical Methods and/or Computer Vision, Software Design, Computer Memory (Disk, Memory, Caches), CPU and GPU Architectures, Networking, Numeric Libraries, Embedded System Design and Development, Drivers, Real-Time Software Deep Learning Frameworks & Libraries Building underlying frameworks and libraries to accelerate Deep Learning on GPUs Contributing directly to software packages such as JAX, PyTorch, and TensorFlow, integrating the latest library (e.g., cuDNN) or CUDA features, performance tuning, and analysis Optimizing core deep learning algorithms and libraries (e.g., CuDNN, CuBLAS), maintaining build, test, and distribution infrastructure for these libraries and deep learning frameworks on NVIDIA supported platforms Course or internship experience related to the following areas could be required: Computer Architecture (CPUs, GPUs, FPGAs or other accelerators), GPU Programming Models, Performance-Oriented Parallel Programming, Optimizing for High-Performance Computing (HPC), Algorithms, Numerical Methods What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, CUDA, Python, x86, ARM CPU, GPU, Linux, Direct3D, Vulkan, OpenGL, OpenCL, Spark, Perl, Bash/Shell Scripting, Container Tools (Docker/Containers, Kubernetes), Infrastructure Platforms (AWS, Azure, GCP), Data Technologies (Kafka, ELK, Cassandra, Apache Spark), React, Go Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
       "job_posted_at_datetime_utc": "2025-09-03T18:41:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-deep-learning-intern-santa-clara"
+      "id": "nvidia-deep-learning-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:56:52.107Z",
     "postedAt": null
   },
   {
