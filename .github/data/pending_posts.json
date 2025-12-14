@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Technology Analyst",
-      "employer_name": "Accenture",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "window.adobeDataLayer = window.adobeDataLayer || []; adobeDataLayer.push({ event:'cmp:sObject', eventInfo: { path: 'page.page\\u002D49a7e1ccf7' } }); Careers Job Search Saved Jobs Access Application Expand Menu Job Search Saved Jobs Access Application Search jobs at Accenture Clear Search. PRO TIP Try searching using a descriptive phrase or sentence describing your perfect job. Or use keywords in quotation marks to pinpoint exact matches. You've reached the character limit Press enter to see the search results Ready To Explore? Find your next opportunity Results Filters -1 Filters -1 Clear filters Back Clear filters More Less Location Search locations Back Clear filters Search locations Clear Location Search No results found for ‘’ Apply filter Sort by Relevancy Newest Show results Results Sort by Newest Relevancy Newest Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details There are currently no jobs available that match your search criteria. Try a new search / Click here to view our equal opportunity and other employment statements. These are our 10,000 newest job listings. To see more, refine your search query above. These are the 10,000 most relevant open jobs. To see more, refine your search query above. Dismiss",
-      "job_apply_link": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
-      "job_posted_at_datetime_utc": "2025-09-24T05:43:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "accenture-technology-analyst-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T23:04:36.894Z",
-    "postedAt": "2025-12-14T02:52:05.356Z"
-  },
-  {
-    "job": {
       "job_title": "AI Applied Scientist - PhD Intern - Evaluation Systems and Metrics",
       "employer_name": "Zillow",
       "job_city": "Remote in USA",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-13T23:18:05.697Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T03:32:59.146Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Zillow",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Zillow in this exciting opportunity.",
+      "job_description": "About the teamThe Applied Science AQ/EQ (Action/Emotion Quotient ) Foundation team at Zillow is at the forefront of advancing intelligent systems that empower millions of customers for their home shopping journey. Our mission is to build cutting-edge models and agentic workflows that can provide actionable recommendations and execute tasks on behalf of users during one of the most complex and high-stakes financial decisions of their lives. We leverage Zillow’s vast, unique and domain-specific datasets to design adaptive AI systems that integrate with expert workflows and reduce the stress of the home-buying journey.About the roleAs a PhD Research Intern on the AQ/EQ Foundation team, you will conduct state-of-the-art research in foundational models and building agentic AI systems. You will focus on fine-tuning and reinforcement learning of large language models (LLMs), with an emphasis on customizing them for Zillow’s domain. You’ll also explore the design of automated, agentic workflows that allow intelligent systems to reason, plan, and act in ways that directly improve the home-buying experience. This role offers the opportunity to collaborate with applied scientists, engineers, and product leaders while pushing the boundaries of personalization and intelligent automation. You'll design training algorithms and therefore the improved agentic AI workflow will be shipped to various Zillow Agentic Skills to power the integrated Zillow Copilot experience, which is a rare opportunity to transform the real estate industry.Responsibilities include:Researching and developing techniques for fine-tuning LLMs with domain-specific dataApplying reinforcement learning to optimize model performance for user-centric outcomeDesigning and prototyping agentic workflows that can autonomously perform tasks and assist home buyersCollaborating with cross-functional teams to evaluate and deploy research prototypesSharing insights through presentations, documentation, and potentially publicationsThis role has been categorized as a Remote position. “Remote” employees do not have a permanent corporate office workplace and, instead, work from a physical location of their choice, which must be identified to the Company. U.S. employees may live in any of the 50 United States, with limited exceptions.In California, Connecticut, Maryland, Massachusetts, New Jersey, New York, Washington state, and Washington DC the standard base pay range for this role is $104,000.00 - $166,000.00 annually. This base pay range is specific to these locations and may not be applicable to other locations. In Colorado, Hawaii, Illinois, Minnesota, Nevada, Ohio, Rhode Island, and Vermont the standard base pay range for this role is $104,000.00 - $166,000.00 annually. The base pay range is specific to these locations and may not be applicable to other locations.Who you areCurrently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence, or a related field with a strong publication recordCandidates should have a background in one or more of the following areas:Advanced research in natural language processing (NLP) and/or reinforcement learning (RL)Practical experience fine-tuning and adapting large language models (LLMs) for specific use casesFamiliarity with the design and implementation of automated/ agentic workflowsDeep understanding of LLMs, hands on experience of post-training with the most popular OSS modelsProficiency in Python and modern ML frameworks (e.g., PyTorch, TensorFlow)Excited about applying advanced AI methods to impactful, real-world problemsStrong communication skills and ability to work collaboratively in a multidisciplinary environmentStrong research mindset, with motivation to publish​Here at Zillow - we value the experience and perspective of candidates with non-traditional backgrounds. We encourage you to apply if you have transferable skills or related experiences.Get to know usAt Zillow, we’re reimagining how people move—through the real estate market and through their careers. As the most-visited real estate platform in the U.S., we help customers navigate buying, selling, financing and renting with greater ease and confidence. Whether you're working in tech, sales, operations, or design, you’ll be part of a company that's reshaping an industry and helping more people make home a reality.Zillow is honored to be recognized among the best workplaces in the country. Zillow was named one of FORTUNE 100 Best Companies to Work For® in 2025, and included on the PEOPLE Companies That Care® 2025 list, reflecting our commitment to creating an innovative, inclusive, and engaging culture where employees are empowered to grow.No matter where you sit in the organization, your work will help drive innovation, support our customers, and move the industry—and your career—forward, together.Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please contact your recruiter directly.Qualified applicants with arrest or conviction records will be considered for employment in accordance with applicable state and local law.Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
       "job_apply_link": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-AQ---EQ_P748041",
       "job_posted_at_datetime_utc": "2025-09-23T19:28:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zillow-ai-applied-scientist-intern-foundational-aq-eq-remote-in-usa"
+      "id": "zillow-ai-applied-scientist-intern-foundational-aq-eq-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T03:32:51.837Z",
     "postedAt": null
   },
   {
@@ -21726,6 +21708,24 @@
     },
     "status": "pending",
     "addedAt": "2025-12-13T08:18:40.199Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Electrical Engineering Intern - Digital Circuitry",
+      "employer_name": "Shure",
+      "job_city": "Lake Grove",
+      "job_state": "NY",
+      "job_description": "Join Shure in this exciting opportunity.",
+      "job_apply_link": "https://careersus-shure.icims.com/jobs/4422/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-10T23:31:30.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "shure-electrical-engineering-intern-digital-circuitry-lake-grove"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-14T03:32:46.782Z",
     "enrichedAt": null,
     "postedAt": null
   }
