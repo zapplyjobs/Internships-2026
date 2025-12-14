@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "R&D Software Engineering Internship",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Santa Rosa",
-      "job_state": "CA",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin-bottom: 1.0pt;\">This is an internship position where you will be part of an Agile team working on full-stack development with teams in other geographies world-wide. You will participate in the full software lifecycle of requirements capture, investigation, product definition, design, implementation, test development, testing, and maintenance.</p><p style=\"margin-bottom: 1.0pt;\"><strong>&nbsp;</strong></p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 1.0pt;\">Design and develop software for electronic test and measurement products;</li><li style=\"margin-bottom: 1.0pt;\">Apply practices and play roles in Agile Scrum;</li><li style=\"margin-bottom: 1.0pt;\">Obtain hands-on knowledge of Test &amp; Measurement instrument control.</li></ul> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin-bottom: 1.0pt;\">Pursuing BS or MS in Computer Science, Computer Engineering, Electrical Engineering or equivalent.</p><p style=\"margin-bottom: 1.0pt;\">&nbsp;</p><ul style=\"margin-top: 0in;\"><li style=\"margin-bottom: 1.0pt;\">Experience with software development, version control, and test</li><li style=\"margin-bottom: 1.0pt;\">Strong knowledge of Object Oriented Design</li><li style=\"margin-bottom: 1.0pt;\">Experience with C/C++ , C#, XML</li><li style=\"margin-bottom: 1.0pt;\">Proficient in building, testing, and debugging software</li><li style=\"margin-bottom: 1.0pt;\">Demonstrated analytical and problem solving skills</li><li style=\"margin-bottom: 1.0pt;\">Excellent communication skills</li><li style=\"margin-bottom: 1.0pt;\">Desire to work in a team environment to achieve objectives</li><li style=\"margin-bottom: 1.0pt;\">Ability to quickly learn new technologies</li></ul><p style=\"margin: 0px;\">Candidates who wish to be considered must be enrolled in a accredited college/university as of September 2026. Applicants who have graduated before September 2026 will not be considered unless they are entering/applying to a MS or PHD program after graduating.</p><p style=\"margin: 0px;\">&nbsp;</p><div data-block=\"true\" data-editor=\"1enu7\" data-offset-key=\"6v4llefc-0-0\"><div data-offset-key=\"6v4llefc-0-0\"><span data-offset-key=\"6v4llefc-0-0\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship for employment visa status (e.g., H-1B Visa status) may not be considered.</span></div></div><div data-block=\"true\" data-editor=\"1enu7\" data-offset-key=\"bo37u793-0-0\"><div data-offset-key=\"bo37u793-0-0\">&nbsp;</div><div data-offset-key=\"bo37u793-0-0\"><span data-offset-key=\"bo37u793-0-0\">California Pay Range:USD $31.33-$33.74/hour</span></div><div data-offset-key=\"bo37u793-0-0\">&nbsp;</div></div><div data-block=\"true\" data-editor=\"1enu7\" data-offset-key=\"5tnk1f2e-0-0\"><div data-offset-key=\"5tnk1f2e-0-0\"><span data-offset-key=\"5tnk1f2e-0-0\">Based on experience, education and skills, most offers will be between the minimum and the midpoint of the Salary Range listed above.</span></div></div><div data-block=\"true\" data-editor=\"1enu7\" data-offset-key=\"4f4r1473-0-0\"><div data-offset-key=\"4f4r1473-0-0\"><span data-offset-key=\"4f4r1473-0-0\">Note: For other locations, pay ranges will vary by region.</span></div></div><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49565?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-16T20:10:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-software-engineering-internship-santa-rosa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:19:54.135Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Software Engineering Intern",
-      "employer_name": "RESPEC",
-      "job_city": "Richardson",
-      "job_state": "TX",
-      "job_description": "Student Software Engineering InternInternDiscipline: Computer ScienceCompany DescriptionBig challenges need bold thinkers.If you’re someone who sees problems as opportunities, you’ll thrive here. RESPEC is 100% employee-owned, which means we take ownership of every challenge. Here, your ideas drive real solutions. Since 1969, we’ve tackled complex challenges in energy transition, infrastructure resilience, digital transformation, and sustainability.At RESPEC, you’ll work alongside clients to take on critical problems. Depending on your expertise, you might design infrastructure in remote locations, develop renewable energy solutions for global projects, or apply data-driven technology to improve mining and water systems.We bring deep technical knowledge, real-world experience, and a commitment to work that matters. If you're looking for a place where your contributions have real impact, you’ll fit right in.We do not accept unsolicited resumes from third-party recruiters.Job DescriptionRESPEC seeks a Student Software Engineering Intern for our Summer 2026 program in our Richardson, TX office. This is a temporary part-time position. Our Data and Technology technical Interns work under the general direction of a senior-level staff member or a supervisor and are responsible for assisting project teams with coding, planning, quality control, data analysis/entry, and other areas of focus. They are expected to collaborate with one or more technical mentors to assist with various projects.Do you:Talk nerdy?Enjoy puzzles?Love to learn cutting edge technology?Thrive on writing software?Love math?Dream of solving real world problems?If you answered yes to one or all of those questions, then we want to talk to you. At RESPEC, we hire the best of the best that love to learn, solve problems, appreciate a fun-loving culture, and want to be involved. Duties of a Technical Intern may include but are not limited to the following:Creating, modifying, and testing code, forms, and scripts needed to run computer applicationsWorking from specifications written by software developers or other individualsAssisting software developers by analyzing user needs and reviewing software solutionsAssisting in administrative project tasksAssisting the project team in identifying process improvementsAssisting the software development team with software update releasesAutomating test cases by using a variety of test automation toolsWorking with support and implementation teams to investigate production-support issues and perform root-cause analysis.QualificationsEnrolled in an accredited technical school or college and studying toward a degree in computer science, computer engineering, or a related fieldSoftware development knowledge gained through either coursework or job experienceExposure to needs analysis, development, and deployment of software applicationsAdditional InformationCompensation: Salary depends on experience. This is temporary part-time position. No benefits are offered except those that are required for statutory purposes. Equal Opportunity Employer, including veterans and individuals with disabilities. All your information will be kept confidential according to EEO guidelines.All your information will be kept confidential according to EEO guidelines.I'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/RESPECInc/744000082291065",
-      "job_posted_at_datetime_utc": "2025-09-16T19:22:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "respec-student-software-engineering-intern-richardson",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Co-op - Text Analytics",
-      "employer_name": "Babel Street",
-      "job_city": "Somerville",
-      "job_state": "MA",
-      "job_description": "Babel Street is the trusted technology partner for the world’s most advanced identity intelligence and risk operations. We deliver advanced AI and data analytics solutions providing unmatched, analysis-ready data regardless of language, proactive risk identification, 360-degree insights, high-speed automation, and seamless integration into existing systems. Babel Street empowers government and commercial organizations to transform high-stakes identity and risk operations into a strategic advantage. The actionable insights we deliver safeguard lives and protect critical assets around the world. Babel Street is headquartered in Reston, Virginia, with regional offices in Boston, MA and Cleveland, OH, and international offices in Australia, Canada, Israel, Japan, and the U.K. For more information, visit www.babelstreet.com. Position Overview: As a Software Engineer Co-op you will improve and implement the design of components of Babel Street's Analytics platform. Join us and help us create the next wave of software for Natural Language Processing and text analytics. Job Responsibilities: Design, build, and maintain key products of the Babel Analytics NLP platform Integrate new technologies and NLP methodologies into our existing platform Influence design, implementation, and architectural direction Work with product management to identify needed software improvements Research and prototype new technologies to improve our platform Participate in agile sprint and release planning Qualifications: Ability to program in Java and/or Python Knowledge of computational linguistics and/or NLP is a plus Familiarity with Data Science is a plus Familiarity with React or MongoDB is a plus Ability to communicate in languages other than English is a plus A passion to design, build and polish innovative applications Benefits at Babel Street (just to name a few...) Health Benefits: Babel Street covers 85-100% monthly premium costs for Medical, Dental, Vision, Life & Disability insurances – for you and your family! Retirement Plans: Babel Street offers both a Traditional and Roth 401(K) with a very competitive match. Unlimited Flexible Leave: We trust our employees to manage their own time and balance their personal and work lives. Holidays: Babel Street provides employees with 12 paid Federal Holidays Tuition Reimbursement: We are committed to investing in our employees. One way we do that is with our Tuition Reimbursement Program for continuing education. Babel Street is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. Further, Babel Street will not discriminate against applicants for inquiring about, discussing or disclosing their pay or, in certain circumstances, the pay of their co‐worker, Pay Transparency Nondiscrimination. In addition, Babel Street's policy is to provide reasonable accommodation to qualified employees who have protected disabilities to the extent required by applicable laws, regulations and ordinances where a particular employee works. Upon request, we will provide you with more information about such accommodations. #LI-DNI Range for this position based on qualifications and experience$30 - $30 USD",
-      "job_apply_link": "https://job-boards.greenhouse.io/babelstreet/jobs/7248507",
-      "job_posted_at_datetime_utc": "2025-09-16T10:23:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "babel-street-software-engineer-co-op-text-analytics-somerville",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Cloud and Infrastructure Intern",
-      "employer_name": "Kyowa Kirin",
-      "job_city": "Princeton",
-      "job_state": "NJ",
-      "job_description": "Kyowa Kirin is a global specialty pharmaceutical company that applies state-of-the-art biotechnologies to discover and deliver novel medicines in four areas of unmet need: oncology, nephrology, immunology, and CNS/movement disorders. The North American organization includes two offices (in New Jersey and California) that focus on drug discovery, product development, and commercialization. Together, we work as a close-knit team to understand clinical needs and advance innovations that can profoundly impact patient lives.",
-      "job_apply_link": "https://job-boards.greenhouse.io/kyowakirinusa90/jobs/7242728003",
-      "job_posted_at_datetime_utc": "2025-09-16T10:20:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kyowa-kirin-it-cloud-and-infrastructure-intern-princeton",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "AI+ People Strategy Intern",
-      "employer_name": "S&P Global",
-      "job_city": "Virtual",
-      "job_state": "TN",
-      "job_description": "Join S&P Global in this exciting opportunity.",
-      "job_apply_link": "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Virtual-TN/AI--People-Strategy-Intern_320000-2",
-      "job_posted_at_datetime_utc": "2025-09-16T10:04:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "s-p-global-ai-people-strategy-intern-virtual",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Unisys",
-      "job_city": "Eagan",
-      "job_state": "MN",
-      "job_description": "Unisys is a global technology solutions company that powers breakthroughs for the world’s leading organizations. Our solutions – cloud, AI, digital workplace, logistics and enterprise computing – help our clients challenge the status quo and unlock their full potential. To learn how we have been helping clients push what’s possible for more than 150 years, visit unisys.com and follow us on LinkedIn. https://www.unisys.com/unisys-legal/recruiting Notice for U.S. Applicants: Unisys is an Equal Opportunity Employer – Minorities/ Females/ Veterans/ Individuals with Disabilities/ Sexual Orientation/ Gender Identity",
-      "job_apply_link": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729",
-      "job_posted_at_datetime_utc": "2025-09-16T09:58:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "unisys-software-engineer-intern-eagan",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Enterprise Technology - Engineer (Software, Data, Infrastructure)",
-      "employer_name": "State Farm",
-      "job_city": "Bloomington",
-      "job_state": "IL",
-      "job_description": "Join State Farm in this exciting opportunity.",
-      "job_apply_link": "https://jobs.statefarm.com/main/jobs/41746",
-      "job_posted_at_datetime_utc": "2025-09-16T09:56:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "state-farm-enterprise-technology-engineer-software-data-infrastructure-bloomington",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer",
-      "employer_name": "ICF International",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "Join ICF International in this exciting opportunity.",
-      "job_apply_link": "https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer",
-      "job_posted_at_datetime_utc": "2025-09-16T09:52:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "icf-international-software-developer-reston",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
-      "job_title": "Cloud Engineer (AWS/Azure)",
-      "employer_name": "ICF International",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "Join ICF International in this exciting opportunity.",
-      "job_apply_link": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure",
-      "job_posted_at_datetime_utc": "2025-09-16T09:51:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "icf-international-cloud-engineer-aws-azure-reston",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": "2025-12-14T19:41:04.082Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer, Intern",
       "employer_name": "Duolingo",
       "job_city": "Pittsburgh",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:30:50.442Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T19:40:35.046Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T19:48:39.246Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Low Latency Video Codec Algorithm Intern (Multimedia Lab)- 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7548273169150380296/detail",
       "job_posted_at_datetime_utc": "2025-09-16T01:10:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle"
+      "id": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "CACI",
       "job_city": "Denver",
       "job_state": "CO",
-      "job_description": "Join CACI in this exciting opportunity.",
+      "job_description": "Software Development Intern - Summer 2026Job Category: Intern/Co-opTime Type: Part timeMinimum Clearance Required to Start: NoneEmployee Type: Part-Time On-CallPercentage of Travel Required: NoneType of Travel: NoneAnticipated Posting End: 1/31/2026The Opportunity:CACI is looking for a talented Software Developer for our Summer 2026 internship program. As an intern in this organization, you will have the opportunity to work with a variety of technologies, which may include Java 17, ReST, Spring, Angular, Bootstrap, Cesium, OpenLayers, WebGL, WebAssembly, Accumulo, PostGres, Python and a variety of other enterprise technologies. You will also be exposed to GIS & OGC standards, continuous integration, and automated testing tools such as GitLab, Cypress, and JUnitThe Responsibilities:CACI's FADE Team is literally changing the state-of-the-art of geospatial analysis software. The team is producing exceptionally high-quality tools to enable our users to address challenging real-world problems, converting knowledge of time and space into actionable information for decision makers. Learn to fully unit test the code you have written. Participate in peer review of completed code. Follow established version control processes that govern commits back to main branch. Learn to use established CI Pipelines in the AWS cloud to qualify and build your code. Learn to properly integrate, integration test and regression test you code using established test automation.The Qualifications:Required:Understanding of programming principles, such as object-orientation and use of design patterns.Understanding microservice environments, AWS, Containerization strategies (Docker, OCI, etc.), Kubernetes.Modern Server development frameworks, including but not limited to Spring Boot, Micronaut, etc.Modern client development frameworks, AngularJS/Angular, REACT, Svelte, or similar.Java and associated libraries.JavaScript, HTML, CSS, and associated libraries.Linux and Windows skills.Experience with technical projects from design to production.Ability to present designs to customers and stakeholders.Must currently be enrolled in a full-time Undergraduate, or Graduate Student. If Undergraduate or Graduate, pursing a degree in Computer Science or related field is preferred, not required.Must be able to obtain and maintain applicable security clearance.Desired:Experience using and interacting with various DevOps tools, including: Jenkins, GitLab, NexusExperience using various programming languages, tools, and techniques, including: Java, JavaScript, Groovy, Svelte, Angular, Python, GIT, SQL, Semantic version controlMinimum GPA of 3.0 or higher is preferred, not required.-________________________________________________________________________________________What You Can Expect: A culture of integrity.At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust.CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.A focus on continuous growth.Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy. Your potential is limitless. So is ours.Learn more about CACI here.________________________________________________________________________________________Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits. Learn more here.The proposed salary range for this position is: $43,900 - 87,900 USDCACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
       "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Development-Intern---Summer-2026_317296-1",
       "job_posted_at_datetime_utc": "2025-09-16T00:46:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "caci-software-development-intern-denver"
+      "id": "caci-software-development-intern-denver",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Keysight Technologies",
       "job_city": "Colorado Springs",
       "job_state": "CO",
-      "job_description": "Join Keysight Technologies in this exciting opportunity.",
+      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">6&ndash;12 month internship designed to advance the Vulnerability Management (VM) automation program significantly. The intern will play a key role in:</span></p><ul style=\"margin-top: 0in;\"><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Enhancing CI/CD test coverage, improving reliability and reducing deployment risk.</span></li><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Developing a lightweight operational dashboard&nbsp;using FastAPI and Jinja, providing real-time visibility into VM processes and metrics.</span></li><li><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Implementing scheduled Python jobs&nbsp;(via cron) to automate report generation and maintain data hygiene, reducing manual overhead.</span></li></ul><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">The scope is intentionally crafted to minimize domain-specific onboarding, allowing the intern to focus on high-impact engineering tasks&mdash;platform development, testing, and data integration. This structure ensures rapid productivity while amplifying the lead developer&rsquo;s efforts on Snowflake migration and broader automation initiatives.</span></p><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">By investing in this internship, we accelerate delivery timelines, reduce technical debt, and create scalable tools that support long-term operational resilience. It&rsquo;s a cost-effective way to expand capacity while maintaining strategic focus.</span></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">&nbsp;</span></strong></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Program Objectives</span></strong></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Increase reliability and developer velocity through CI/CD quality testing (pytest, coverage, Jenkins).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Deliver an internal web dashboard to view job status and trigger runs (FastAPI + Jinja + HTMX).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Operate automation via scheduled Python jobs (cron) with logging, locking, and basic notifications.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Implement and stabilize three automation flows: Zero‑Day daily digest, Patch Advisory monthly report, and VM Tool user‑activity checks.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Produce runbooks, deployment notes (NGINX/systemd), and an architecture one‑pager for sustainment.</span></li></ul> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Skills Required</span></strong></p><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Essential (Must‑Have)</span></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Python fundamentals: functions, modules, packaging; comfort with CLI tools (Typer/argparse).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Pandas basics for data cleanup and export.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">FastAPI + Jinja basics: routes, templates, simple forms, JSON APIs.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Testing with pytest: unit tests, basic fixtures/mocks.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Git workflows: branching, pull requests, code reviews.</span></li></ul><p style=\"margin: 0px;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Nice to Have (Learn on the Job)</span></p><ul style=\"margin-top: 0in;\"><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">HTMX progressive enhancement for small UI interactions.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Jenkins pipeline familiarity (coverage reports, artifacts, gating).</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Cron and Linux fundamentals; simple shell scripting.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">Snowflake read patterns and service account auth.</span></li><li style=\"margin-left: 0in;\"><span style=\"font-size: 11.0pt; font-family: 'Calibri',sans-serif;\">NGINX reverse proxy and systemd service management.</span></li></ul><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">$29-31/hourly</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
       "job_apply_link": "https://jobs.keysight.com/jobs/49584?lang=en-us&icims=1",
       "job_posted_at_datetime_utc": "2025-09-15T23:46:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs"
+      "id": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Midmark ",
       "job_city": "Vandalia",
       "job_state": "OH",
-      "job_description": "Join Midmark  in this exciting opportunity.",
+      "job_description": "JOB SUMMARY: This co-op position offers an experience uniquely designed to bridge the gap between academic studies and practical application in firmware development within a business and manufacturing environment. Co-op program students will have the opportunity to develop their skills in analyzing, designing, programing, configuring, and testing computer software programs and business applications. ESSENTIAL/PRIMARY DUTIES: - Works closely with Scrum Teams to do the following:- Builds, supports, and maintains existing and new IT software applications. - Creates or updates user stories to support software design concepts. - Builds Application Programming Interfaces (APIs) for the exchange of data. - Builds continuous integration and continuous delivery (CI/CD) pipelines for the automation of code deployments. - Builds automated test scripts that demonstrate the working quality of the software solutions. - Builds automated infrastructure utilizing Infrastructure as Code met...",
       "job_apply_link": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3632",
       "job_posted_at_datetime_utc": "2025-09-15T23:12:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "midmark-it-software-development-co-op-vandalia"
+      "id": "midmark-it-software-development-co-op-vandalia",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Voya Financial",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Voya Financial in this exciting opportunity.",
+      "job_description": "Together we fight for everyone’s opportunity for a better financial future.We will do this together — with customers, partners and colleagues. We will fight for others, not against: We will stand up for and champion everyone’s access to opportunities. The status quo is not good enough … we believe every individual and every community deserves access to financial opportunities. We are determined to support both individuals and communities in reaching a better financial future. We know that reaching this future depends on our actions today.Like our Purpose Statement, Voya believes in being bold and committed to action. We are committed to a work environment where the differences that we are born with — and those we acquire throughout our lives — are understood, valued and intentionally pursued. We believe that our employees own our culture and have a responsibility to foster an environment where we all feel comfortable bringing our whole selves to work. Purposefully bringing our differences together to positively influence our culture, serve our clients and enrich our communities is essential to our vision.Are you ready to join a company with a strong purpose and a winning culture? Start your Voyage – Apply NowGetting to Know the Opportunity:This paid internship will provide students enrolled in an accredited program the opportunity to work in a real world, high-tech environment.Contributions You'll Make:Students have the opportunity to work with a variety of systems, from traditional office applications to sophisticated security systems, networking, web, and other technologies. A fast-paced environment affords the right candidate a unique opportunity to be exposed to a variety of technologies and its application to solution business opportunities and challenges. Areas of opportunity include:Data Management & Enterprise ArchitectureCorporate Systems, Quality & Vendor ManagementInfrastructure ServicesRetirement ServicesDigitalSecurity ServicesEmployee BenefitsPreferred Knowledge & Experience:Pursuing an undergraduate or graduate degree in Computer Science, Information Technology, Management Information Systems or related fieldsMinimum GPA of 3.2Self-motivated, excited about learning, comfortable working in a collaborative environment characterized by open sharing of feedback to achieve optimum outcomes. Strong communication and presentation skillsDetail oriented with solid analytical capabilities – being able to see things differently than others with substance and relevance.#LI-MN1#LI-RemoteCompensation Pay Disclosure: Voya is committed to pay that’s fair and equitable, which means comparable pay for comparable roles and responsibilities.The below annual base salary range reflects the expected hiring range(s) for this position in the location(s) listed. In addition to base salary, Voya offers incentive opportunities (i.e., annual cash incentives, sales incentives, and/or long-term incentives) based on the role to reward the achievement of annual performance objectives. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Voya Financial is willing to pay at the time of this posting.Actual compensation offered may vary from the posted salary range based upon the candidate’s geographic location, work experience, education, licensure requirements and/or skill level and will be finalized at the time of offer. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked. $25.00/hr.-$30.00/hr. USDBe Well. Stay Well.Voya provides the resources that can make a difference in your lives. To us, this means thriving physically, financially, socially and emotionally. Voya benefits are designed to help you do just that. That’s why we offer an array of plans, programs, tools and resources with one goal in mind: To help you and your family be well and stay well.What We OfferHealth, dental, vision and life insurance plans401(k) Savings plan – with generous company matching contributions (up to 6%)Voya Retirement Plan – employer paid cash balance retirement plan (4%)Tuition reimbursement up to $5,250/yearPaid time off – including 20 days paid time off, nine paid company holidays and a flexible Diversity Celebration Day.Paid volunteer time — 40 hours per calendar yearLearn more about Voya benefits (download PDF)Critical SkillsAt Voya, we have identified the following critical skills which are key to success in our culture: Customer Focused: Passionate drive to delight our customers and offer unique solutions that deliver on their expectations.Critical Thinking: Thoughtful process of analyzing data and problem solving data to reach a well-reasoned solution.Team Mentality: Partnering effectively to drive our culture and execute on our common goals. Business Acumen: Appreciation and understanding of the financial services industry in order to make sound business decisions.Learning Agility: Openness to new ways of thinking and acquiring new skills to retain a competitive advantage.Learn more about Critical SkillsEqual Employment OpportunityVoya Financial is an equal-opportunity employer. Voya Financial provides equal opportunity to qualified individuals regardless of race, color, sex, national origin, citizenship status, religion, age, disability, veteran status, creed, marital status, sexual orientation, gender identity, genetic information, or any other status protected by state or local law.Reasonable AccommodationsVoya is committed to the inclusion of all qualified individuals. As part of this commitment, Voya will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please reference resources for applicants with disabilities.Misuse of Voya's name in fraud schemes",
       "job_apply_link": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2026-Technology-Intern_JR0031730",
       "job_posted_at_datetime_utc": "2025-09-15T23:08:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "voya-financial-technology-intern-remote-in-usa"
+      "id": "voya-financial-technology-intern-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Cencora",
       "job_city": "Conshohocken",
       "job_state": "PA",
-      "job_description": "Join Cencora in this exciting opportunity.",
+      "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!Job DetailsOur team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere.Start Date: June 8, 2026End Date: August 14, 2026Location: Conshohocken, PA We are seeking a motivated and detail-oriented AI Workflow Architect Intern to join our dynamic team. In this role, you will assist in designing, optimizing, and implementing AI-driven workflows that address complex business challenges across the pharmaceutical and healthcare industries. This is a unique opportunity to gain hands-on experience in applying artificial intelligence to real-world problems while collaborating with experts in technology and healthcare solutions.Key ResponsibilitiesWorkflow Design & Optimization: Assist in developing automated workflows using AI technologies to improve operational efficiency and productivity.Data Analysis: Collaborate with data scientists and engineers to analyze datasets for workflow insights and identify opportunities for AI integration.Tool Development: Support the creation and testing of AI tools and frameworks that enable seamless workflow orchestration.Documentation: Draft clear, detailed documentation for workflow architectures, including diagrams, process flows, and technical specifications.Stakeholder Collaboration: Work with cross-functional teams to understand business requirements and translate them into scalable AI-driven solutions.Performance Monitoring: Help evaluate, monitor, and refine workflows to ensure optimal performance and alignment with organizational goals.Learning OpportunitiesHands-on experience with state-of-the-art AI technologies such as machine learning, natural language processing, and robotic process automation.Exposure to real-world applications of AI in healthcare and pharmaceutical operations.Collaboration with industry leaders and subject matter experts in technology and healthcare.Development of problem-solving and critical thinking skills in a fast-paced environment.QualificationsCurrent enrollment in a Bachelor’s or Master’s program in Computer Science, Data Science, Artificial Intelligence, Engineering, or a related field.Must not require sponsorship to work in the US, now or in the futureProficiency in programming languages such as Python or Java.Basic understanding of AI/ML concepts and frameworks (e.g., TensorFlow, PyTorch, or Scikit-learn).Familiarity with workflow management tools and process modeling.Strong problem-solving skills with the ability to analyze complex systems and datasets.Excellent written and verbal communication, with the ability to convey technical concepts to non-technical audiences.Ability to collaborate effectively within a multidisciplinary team environment.Bonus Skills:Experience with cloud platforms (e.g., AWS, Azure, or Google Cloud), APIs, and process automation tools is a plus.What Cencora offersWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencoraFull timeEqual Employment OpportunityCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returnedAffiliated CompaniesAffiliated Companies:",
       "job_apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517589",
       "job_posted_at_datetime_utc": "2025-09-15T22:55:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cencora-ai-workflow-architect-intern-conshohocken"
+      "id": "cencora-ai-workflow-architect-intern-conshohocken",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "Cencora",
       "job_city": "Conshohocken",
       "job_state": "PA",
-      "job_description": "Join Cencora in this exciting opportunity.",
+      "job_description": "Our team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere. Apply today!Job DetailsOur team members are at the heart of everything we do. At Cencora, we are united in our responsibility to create healthier futures, and every person here is essential to us being able to deliver on that purpose. If you want to make a difference at the center of health, come join our innovative company and help us improve the lives of people and animals everywhere.Start Date: June 8, 2026End Date: August 14, 2026Location: Conshohocken, PAAs Cencora continues to expand its capabilities in artificial intelligence and machine learning, there is a growing need to cultivate early-career talent who can support and grow with our AIPS initiatives. The proposed AI/ML Engineering Intern role is designed to provide senior-year undergraduate students with hands-on experience in real-world AI/ML projects, while also supporting the technical operations of platforms like CenChat and GenIE Platform.As an AI/ML Engineering Intern, you will support Cencora’s AI and ML initiatives by working alongside Cognitive Architects, Business Analysts, and internal stakeholders. This internship offers hands-on experience with intelligent assistants like CenChat and exposure to cutting-edge technologies in machine learning and automation.We’re looking for a curious, motivated intern with a passion for AI/ML who is eager to learn and contribute to real-world projects in a collaborative environment.Responsibilities:Assist in designing and testing prototypes for scalable machine learning infrastructure.Support the development of MLOps practices including model training, packaging, deployment, and monitoring.Help build and maintain pipelines for ML operations and infrastructure automation.Collaborate with AI Architects and ML Engineers to support successful deployment of AI/ML workloads.Learn and apply AI algorithms while adhering to architectural standards.Participate in troubleshooting and resolving technical issues within ML platforms.Analyze business processes and data flows to support model development under guidance.Contribute to the development of analytical models that support business growth.Help promote adoption of ML solutions using explainable AI techniques.QualificationsCurrently pursuing a Bachelor’s degree in Computer Science or related field, entering senior year.Must not require sponsorship to work in the US, now or in the futureExposure to or coursework in AI/ML, Deep Learning, or Computer Vision.Familiarity with ML frameworks such as TensorFlow, Keras, PyTorch, or Scikit-learn.Basic understanding of cloud platforms and data engineering concepts.Strong written and verbal communication skills.Experience or coursework in Agile/DevOps tools like Azure DevOps or Jenkins is a plus.Ability to work in a fast-paced, collaborative environment.Skills & AttributesPassion for AI/ML and enthusiasm for learning new technologies.Self-motivated and intellectually curious.Ability to research and evaluate technical solutions independently.Comfortable with ambiguity and adaptable to changing requirements.Strong team player with good interpersonal skills.Detail-oriented with solid organizational skills.Ability to communicate effectively with both technical and non-technical audiences.What Cencora offersWe provide compensation, benefits, and resources that enable a highly inclusive culture and support our team members’ ability to live with purpose every day. In addition to traditional offerings like medical, dental, and vision care, we also provide a comprehensive suite of benefits that focus on the physical, emotional, financial, and social aspects of wellness. This encompasses support for working families, which may include backup dependent care, adoption assistance, infertility coverage, family building support, behavioral health solutions, paid parental leave, and paid caregiver leave. To encourage your personal growth, we also offer a variety of training programs, professional development resources, and opportunities to participate in mentorship programs, employee resource groups, volunteer activities, and much more. For details, visit https://www.virtualfairhub.com/cencoraFull timeEqual Employment OpportunityCencora is committed to providing equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status or membership in any other class protected by federal, state or local law.The company’s continued success depends on the full and effective utilization of qualified individuals. Therefore, harassment is prohibited and all matters related to recruiting, training, compensation, benefits, promotions and transfers comply with equal opportunity principles and are non-discriminatory.Cencora is committed to providing reasonable accommodations to individuals with disabilities during the employment process which are consistent with legal requirements. If you wish to request an accommodation while seeking employment, please call 888.692.2272 or email hrsc@cencora.com. We will make accommodation determinations on a request-by-request basis. Messages and emails regarding anything other than accommodations requests will not be returnedAffiliated CompaniesAffiliated Companies:",
       "job_apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2517571",
       "job_posted_at_datetime_utc": "2025-09-15T22:55:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cencora-ai-ml-engineering-intern-conshohocken"
+      "id": "cencora-ai-ml-engineering-intern-conshohocken",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Falcomm",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Falcomm in this exciting opportunity.",
+      "job_description": "Are you passionate about applying machine learning to transform the future of semiconductor design? At Falcomm, we are on a mission to revolutionize semiconductor technologies by integrating AI-driven solutions into the design and development of our en...",
       "job_apply_link": "https://apply.workable.com/falcomm/j/B5EB495F31/",
       "job_posted_at_datetime_utc": "2025-09-15T10:11:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta"
+      "id": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-15T10:03:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "onedigital-business-data-analyst-remote-in-usa"
+      "id": "onedigital-business-data-analyst-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T19:48:07.570Z",
     "postedAt": null
   },
   {
