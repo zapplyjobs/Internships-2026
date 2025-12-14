@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineering Internship",
-      "employer_name": "WisdomAI",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "NLP/Machine Learning Intern (Summer)San Mateo / BengaluruInternships /On-siteSubmit your applicationWhich location are you applying for?Select...San MateoBengaluruResume/CV ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone Current location No location found. Try entering a different locationLoadingCurrent company LinksLinkedIn URLTwitter URLGitHub URLPortfolio URLWisdomAIAdditional informationSubmit application",
-      "job_apply_link": "https://jobs.lever.co/wisdomai/1e0e506e-f284-42e1-96e1-5bc8c290f9eb/apply",
-      "job_posted_at_datetime_utc": "2025-09-13T02:24:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "wisdomai-machine-learning-engineering-internship-san-mateo",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T19:56:34.776Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Internship",
-      "employer_name": "Chainlink Labs",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "About Chainlink Chainlink is the industry-standard oracle platform bringing the capital markets onchain and powering the majority of decentralized finance (DeFi). The Chainlink stack provides the essential data, interoperability, compliance, and privacy standards needed to power advanced blockchain use cases for institutional tokenized assets, lending, payments, stablecoins, and more. Since inventing decentralized oracle networks, Chainlink has enabled tens of trillions in transaction value and now secures the vast majority of DeFi. Many of the world’s largest financial services institutions have also adopted Chainlink’s standards and infrastructure, including Swift, Euroclear, Mastercard, Fidelity International, UBS, S&amp;P Dow Jones Indices, FTSE Russell, WisdomTree, ANZ, and top protocols such as Aave, Lido, GMX and many others. Chainlink leverages a novel fee model where offchain and onchain revenue from enterprise adoption is converted to LINK tokens and stored in a strategic Chainlink Reserve . Learn more at chain.link . About the Role Chainlink Labs is seeking Research Interns to support its mission of building the world’s most secure and flexible decentralized oracle technologies. Research Engineers will work directly with top domain experts in applied cryptography, mechanism design (cryptoeconomics), distributed systems, and other disciplines to identify and solve key research challenges and build production solutions that keep Chainlink at the forefront of oracle system deployment and fuel the success of the smart contract ecosystem. Your Impact Working with Chainlink core engineering to identify short- and long-term research challenges critical to the company’s success and to transition innovations from Chainlink Labs into production. Working with research scientists and technical advisors to study, invent, and build cutting-edge oracle technologies for the benefit of the company and community. Staying abreast of the evolution of relevant technology ecosystems and participating in relevant technical communities for more effective application development and to guide research toward practical and impactful work. Required Qualifications: B.S. in computer science or equivalent professional experience along with coursework in algorithms and data structures and discrete math. Familiarity with academic process and ability to engage with existing literature on relevant research topics, e.g. by performing literature searches and comprehending papers in a wider context. Professional software development experience is required. Preferred Qualifications Advanced computer science or related degree, coursework in applied and theoretical cryptography, mechanism design, distributed systems, or related fields. Familiarity with Go or Rust. Broad knowledge of blockchain technologies and familiarity specifically with smart contracts. Our Stack We use Go, Typescript, Solidity, Python, LATEX, git, and Linux/Unix. All roles with Chainlink Labs are global and remote-based. Unless otherwise stated, we ask that you try to overlap some working hours with Eastern Standard Time (EST). We carefully review all applications and aim to provide a response to every candidate within two weeks after the job posting closes. The closing date is listed on the job advert, so we encourage you to take the time to thoughtfully prepare your application. We want to fully consider your experience and skills, and you will hear from us regarding the status of your application shortly after the closing date. Commitment to Equal Opportunity Chainlink Labs is an equal opportunity employer. All qualified applicants will receive equal consideration for employment in compliance with applicable laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us via this form . Global Data Privacy Notice for Job Candidates and Applicants Information collected and processed as part of your Chainlink Labs Careers profile, and any job applications you choose to submit is subject to our Privacy Policy . By submitting your application, you are agreeing to our use and processing of your data as required.",
-      "job_apply_link": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application",
-      "job_posted_at_datetime_utc": "2025-09-13T01:35:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "chainlink-labs-research-internship-remote-in-usa",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Integrated Supply Chain – Analytics Intern - Isc",
-      "employer_name": "The Toro Company",
-      "job_city": "Bloomington",
-      "job_state": "MN",
-      "job_description": "Join The Toro Company in this exciting opportunity.",
-      "job_apply_link": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Integrated-Supply-Chain--ISC--Analytics-Intern---The-Toro-Company_JR14044",
-      "job_posted_at_datetime_utc": "2025-09-13T01:07:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-toro-company-integrated-supply-chain-analytics-intern-isc-bloomington",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern/Co-op - Software Engineering",
-      "employer_name": "Innovative Systems",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Join Innovative Systems in this exciting opportunity.",
-      "job_apply_link": "http://innovativesystems.applytojob.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering",
-      "job_posted_at_datetime_utc": "2025-09-13T01:06:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "innovative-systems-intern-co-op-software-engineering-pittsburgh",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "Thermo Fisher Scientific",
-      "job_city": "Carlsbad",
-      "job_state": "CA",
-      "job_description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionSupply Chain InternWhen you’re part of the team at Thermo Fisher Scientific, you’ll do important work, like helping customers in finding cures for cancer, protecting the environment, or making sure our food is safe. Your work will have real-world impact, and you’ll be supported in achieving your career goals. Our staff members are committed to making a difference in our organization, for our client partners, and the patients we serve. We seek individuals with proven competencies and strong character to help lead our organization now and into the future.Our interns receive professional mentorship and leadership development opportunities to support future career growth with us. Whether you're looking to come back as a repeat intern, transition into one of our Leadership Development Programs, or pursue a full-time position post-graduation, our team is here to support your next step!How will you make an impact?Our interns are matched to projects based on their abilities and current business needs. All projects will have significant strategic and/or operating importance to the business to which they are assigned.Summer projects may include the following responsibilities:Contribute to supply optimization projects, partnering with leadership to identify and implement improvements that enhance efficiency and resilience across the supply chain.Support demand forecasting enhancements by refining models, conducting data analyses, and identifying opportunities to improve forecast accuracy.Assist in supply chain master data refinement, ensuring data integrity and standardization to strengthen decision-making and reporting.Develop and refine supply chain KPI dashboards and metrics, providing actionable insights to measure performance and drive continuous improvement.Apply continuous improvement methodologies (i.e., PPI, Lean, Six Sigma) to identify inefficiencies and recommend process improvements.Collaborate with cross-functional teams—including planning, operations, procurement, and analytics—to align supply chain initiatives with business objectives.Start DateThis internship is set to begin on either May 11th or June 15th, 2026, for a duration of 10–12 weeks – dependent upon student availability per academic calendars.Compensation & RelocationOur undergraduate Supply Chain internships offer an hourly rate between $21.50 – $28.75 dependent upon the location you are supporting (aligned to respective cost-of-living guidelines). Additionally, a relocation stipend is offered in the amount of $5,000 if necessary. Student must be located 50+ miles away from the physical location of the internship to be eligible for the relocation stipend.How will you get here?Undergraduate student pursuing a degree in Industrial Engineering, Supply Chain Management, Supply Chain Analytics, Business Analytics, or related fields, with expected graduation between December 2026 and June 2027.0 years of work experience required; previous related internships preferred.Strong analytical skills with the ability to interpret data, generate insights, and recommend improvements.Consistent track record of results demonstrating integrity, innovation, involvement, and intensity.Energized through championing change, driven in getting results, and savvy in navigating ambiguity.Excellent interpersonal communication skills with a high degree of emotional intelligence.If this sounds like you, we'd love to hear from you!To qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience.Compensation and BenefitsThe hourly pay range estimated for this position based in California is $14.75–$28.75.This position may also be eligible to receive a variable annual bonus based on company, team, and/or individual performance results in accordance with company policy. We offer a comprehensive Total Rewards package that our U.S. colleagues and their families can count on, which includes:A choice of national medical and dental plans, and a national vision plan, including health incentive programsEmployee assistance and family support programs, including commuter benefits and tuition reimbursementAt least 120 hours paid time off (PTO), 10 paid holidays annually, paid parental leave (3 weeks for bonding and 8 weeks for caregiver leave), accident and life insurance, and short- and long-term disability in accordance with company policyRetirement and savings programs, such as our competitive 401(k) U.S. retirement savings planEmployees’ Stock Purchase Plan (ESPP) offers eligible colleagues the opportunity to purchase company stock at a discountFor more information on our benefits, please visit: https://jobs.thermofisher.com/global/en/total-rewards",
-      "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Data-Analyst-Intern_R-01328140",
-      "job_posted_at_datetime_utc": "2025-09-13T00:54:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "thermo-fisher-scientific-data-analyst-intern-carlsbad",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Online Architecture Research Intern - Tiktok-Generalized Arch - 2026 Start - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Online Architecture Research Intern (TikTok-Generalized Arch)- 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7549086862464338184",
-      "job_posted_at_datetime_utc": "2025-09-12T23:47:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-online-architecture-research-intern-tiktok-generalized-arch-2026-start-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "GE Vernova AI Agentic Engineering Intern",
-      "employer_name": "GE Vernova",
-      "job_city": "Schenectady",
-      "job_state": "NY",
-      "job_description": "Job Description SummaryAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business’s mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.Representing virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova’s businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.Come and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.Job DescriptionGE Vernova is seeking a highly skilled AI Agent Engineering Intern to design, develop, and deploy advanced autonomous AI agents leveraging LLMs and advanced AI/ML techniques. The ideal candidate will build intelligent Agents capable of perceiving, reasoning, and acting within complex digital or real-world environments, integrating AI models into scalable applications that solve real-world business challenges autonomously.What You'll Do:S Design, implement, and optimize AI Agents using LLMs, reinforcement learning, planning algorithms, and decision-making frameworks.Develop scalable multi AI Agent architectures supporting long horizon reasoning, autonomy, planning, interaction, and complex task completion.Integrate AI Agents with APIs, backend services, databases, and enterprise applications.Prototype, deploy, and maintain AI-driven systems ensuring reliability and performance in production environments.Optimize agent behavior through continuous feedback, reinforcement learning, and user interaction.Collaborate closely with research, engineering, product, and deployment teams to iterate on agent capabilities and innovate continuously.Monitor AI Agent performance, conduct rigorous evaluations, implement safety guardrails, and ensure ethical AI practices.Document AI Agent architectures, design decisions, workflows, and maintain comprehensive technical documentation.Stay current with emerging AI technologies, contribute to platform and tooling improvements, and share knowledge within the team.Your mission is to push the boundaries of planning, reasoning, and agentic intelligence. You will design and implement large-scale AI/ML solutions integrating the latest state of the art research in our global productsWhat You'll Bring (Basic Qualifications):Working towards a Masters Degree in a technical field of Artificial Intelligence, Machine Learning, AI Engineering.Minimum 4.0 GPA out of 5.0 scale (without rounding)Applicants must be currently authorized to work in the United States without the need for employer sponsorship. This role is not eligible for employer immigration sponsorship, now or in the future.Must be willing to work out of an office located in Niskayuna, NY. What Will Make You Stand Out:Proficiency in Python and/or languages like JavaScript, TypeScript, Node.js, or Java, Go, with strong coding and software engineering practices.Expertise with AI/ML libraries and frameworks such as LangChain, OpenAI APIs, PyTorch, TensorFlow, commercial or open source LLMs.Hands-on experience with LLMs, prompt engineering, and natural language processing (NLP).Knowledge of agent orchestration platforms and multi-agent systems (e.g., AutogenAI, LangGraph, MCP protocol).Familiarity with data management, vector databases, semantic retrieval, and real-time data pipelines.Experience deploying AI systems on cloud platforms (AWS, Google Cloud) with container orchestration (Docker, Kubernetes).Strong understanding of machine learning model training, fine-tuning, and evaluation techniques.Awareness of AI ethics, data privacy, and secure handling of sensitive information.Benefits Available to You: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce.The pay for this position ranges from $21.00/hr - $36.00/hr based on years of undergraduate/graduate field of study completed.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Vernova Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)InclusionAt GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: Our Culture | GE VernovaThis posting will be open until at least Sept 30, 2025.General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Additional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
-      "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-AI-Agentic-Engineering-Intern---Summer-2026_R5019975-1",
-      "job_posted_at_datetime_utc": "2025-09-12T23:26:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-ai-agentic-engineering-intern-schenectady",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analytics Intern - Operations Office of Excellence Assurance",
-      "employer_name": "TC Energy",
-      "job_city": "Washington",
-      "job_state": "PA",
-      "job_description": "Determined. Imaginative. Curious. If these are some of the ways you describe yourself — we want to learn more about you! At TC Energy, we are Energy Problem Solvers — passionate about transitioning North America to cleaner energy while meeting the energy demands of today and tomorrow. If that sounds like a challenge you want to help tackle, we want you to join our team! To be considered, applications must include a resume and academic transcript (unofficial). Incomplete submissions may not be reviewed. We appreciate your attention to detail and look forward to learning more about you!The OpportunityTC Energy is looking to add an #EnergyProblemSolver in Washington, PA to support our efforts in Energy Problem Solving and our daily operations.We are seeking students enrolled in Data Analytics, Engineering, Business or other related programs to support our Operations Office of Excellence Assurance for the U.S. Gas footprint. This team’s primary goal is to ensure safe, effective, efficient, and quality operational performance is achieved through systematic, disciplined approaches to evaluation and implementation of sustainable, value-add improvement opportunities.As an Intern, you will assist in providing objective evaluations regarding the effectiveness and sustainability of processes, procedures, and initiatives through robust data analysis with a focus on safety, risk management, quality and operational performance.We engage our students in the very core of our operations. As a valued member of the team, you’ll do exciting, challenging work, solve real world problems, and make a meaningful impact. You’ll learn about the business and build your professional network by working closely with other skilled people at TC Energy. Every day will enhance your knowledge, skills and passion for what you do.The term length is for 3 months.What you’ll doIdentify and assess safety and operational risk through robust data collection and analysis.Trend data and extract insights to support recommendations that reduce risk exposure, improve safe operational practices, and add value across the organization.Report findings and recommended improvement opportunities through business cases and leadership presentations.Develop and provide oversight of implementation and change management plans.Ensure inclusive engagement of impacted stakeholders.Assess post implementation effectiveness, sustainability, and value achievement.Provide assurance on data quality and reporting of key metrics (Power Bi).Maintain ethical, equitable and quality standards to achieve safe operational performance.Other ad hoc requests as needed.Minimum QualificationsActively enrolled in an Engineering, Data Analytics, Business or other related undergraduate degree program with at least one semester of education completed.Enrollment at an accredited University/Polytechnic and returning to school for at least one semester following your work term.Preferred QualificationsDemonstrate a safety mindset, in a professional and personal setting.Exhibit TC Energy corporate values and incorporate them into work activities and initiatives.Strong interpersonal and communicative skills to work efficiently in a collaborative team environment.Commitment to building and maintaining relationships with internal and external stakeholders.Ability to accurately analyze information and deal with ambiguity.Experience working in a dynamic and challenging environment, and adaptable to changing priorities.Ability to multi-task effectively, with strong organizational and time management skillsReflective and committed to continuous improvement and personal development.Proficiency with Microsoft Office products (Excel, PowerPoint, Power BI, etc.)To remain competitive, support our high-performance culture and allow for more flexibility in the way we work, we offer a hybrid work model and flexible dress code for our eligible office-based workforce in Canada, the U.S. and Mexico. #LI-HybridAbout our businessTC Energy is a leading energy infrastructure company in North America. We have complementary businesses of natural gas pipelines and power generation. Our operations span three countries, seven Canadian provinces, and 34 U.S. states.TC Energy is an equal opportunity employer and participates in the E-Verify program supervised by the U.S. government.Learn moreVisit us at www.TCEnergy.com/students and connect with us on our social media channels for our latest news, employee stories, community activities, and other updates. Thank you for choosing TC Energy in your career search. * Applicants must have legal authorization to work in the country in which the position is based with no restrictions.* All positions require background screening. Some require criminal and/or credit checks to comply with regulations.* TC Energy is committed to provide employment opportunities to all qualified individuals, without regard to race, religion, age, sex, color, national origin, sexual orientation, gender identity, veteran status, or disability. Accommodation for applicants with disabilities is available on request during the recruitment process. Applicants with disabilities can request accessible formats or communication supports by contacting careers@tcenergy.com.",
-      "job_apply_link": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Washington-Pennsylvania/Data-Analytics-Intern--Operations-Office-of-Excellence-Assurance_JR-09057",
-      "job_posted_at_datetime_utc": "2025-09-12T18:33:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tc-energy-data-analytics-intern-operations-office-of-excellence-assurance-washington",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Management and Dashboard Development Intern",
-      "employer_name": "Corteva",
-      "job_city": "Grimes",
-      "job_state": "IA",
-      "job_description": "Join Corteva in this exciting opportunity.",
-      "job_apply_link": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Grimes-Iowa-United-States/Data-Management-and-Dashboard-Development-Intern_243176W-1",
-      "job_posted_at_datetime_utc": "2025-09-12T18:28:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "corteva-data-management-and-dashboard-development-intern-grimes",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": "2025-12-14T20:27:48.877Z"
-  },
-  {
-    "job": {
       "job_title": "Solution Development – Intern - Software Development - Breakthrough",
       "employer_name": "U.S. Venture",
       "job_city": "Green Bay",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:10:39.262Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T20:27:14.425Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T20:43:43.755Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:36:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "crum-forster-data-science-intern-morristown"
+      "id": "crum-forster-data-science-intern-morristown",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -428,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:35:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "entegris-agentic-ai-co-op-bedford"
+      "id": "entegris-agentic-ai-co-op-bedford",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -446,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:33:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ketjen-data-science-internship-program-houston"
+      "id": "ketjen-data-science-internship-program-houston",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:32:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nova-tech-ai-internship-willmar"
+      "id": "nova-tech-ai-internship-willmar",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:31:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "paypal-machine-learning-engineer-phd-san-jose"
+      "id": "paypal-machine-learning-engineer-phd-san-jose",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -500,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:30:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "paypal-machine-learning-intern-san-jose"
+      "id": "paypal-machine-learning-intern-san-jose",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:29:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "paypal-data-science-intern-san-jose"
+      "id": "paypal-data-science-intern-san-jose",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:14:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "waters-research-machine-learning-co-op-milford"
+      "id": "waters-research-machine-learning-co-op-milford",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-12T09:11:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "waymo-machine-learning-infra-foundations-mountain-view"
+      "id": "waymo-machine-learning-infra-foundations-mountain-view",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T20:43:08.850Z",
     "postedAt": null
   },
   {
