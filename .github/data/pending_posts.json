@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Data Engineering Intern/Co-op - Information Technology",
-      "employer_name": "Faith Technologies",
-      "job_city": "Neenah",
-      "job_state": "WI",
-      "job_description": "Join Faith Technologies in this exciting opportunity.",
-      "job_apply_link": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Data-Engineering-Internship-Summer-2026_R7610-1",
-      "job_posted_at_datetime_utc": "2025-09-23T01:48:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "faith-technologies-data-engineering-intern-co-op-information-technology-neenah",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T06:50:30.647Z",
-    "postedAt": "2025-12-14T08:33:50.618Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Engineer Intern, Applied ML",
       "employer_name": "Robinhood",
       "job_city": "Menlo Park",
@@ -214,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T06:58:37.577Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T08:47:43.920Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T07:05:23.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lockheed-martin-systems-integration-test-engineer-intern-software-sunnyvale"
+      "id": "lockheed-martin-systems-integration-test-engineer-intern-software-sunnyvale",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T08:47:34.830Z",
     "postedAt": null
   },
   {
