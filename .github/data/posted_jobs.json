@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T23:11:18.006Z",
+  "lastUpdated": "2025-12-14T23:25:25.376Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -6469,14 +6469,113 @@
       "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054",
       "discordThreadId": "1449901587332862113",
       "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-guidance-and-control-research-development-internship-state-college-2025-12-14-1",
+      "jobId": "pennstate-university-guidance-and-control-research-development-internship-state-college",
+      "company": "PennState University",
+      "title": "Guidance and Control Research & Development Internship",
+      "postedToDiscord": "2025-12-14T23:25:03.807Z",
+      "sourceDate": "2025-09-05T22:08:10.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
+      "discordThreadId": "1449905051517718620",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-graph-machine-learning-intern-phd-waukegan-2025-12-14-1",
+      "jobId": "abbvie-graph-machine-learning-intern-phd-waukegan",
+      "company": "AbbVie",
+      "title": "Graph Machine Learning Intern - PhD",
+      "postedToDiscord": "2025-12-14T23:25:05.535Z",
+      "sourceDate": "2025-09-05T03:47:32.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990009335777",
+      "discordThreadId": "1449905058539114578",
+      "instanceNumber": 1
+    },
+    {
+      "id": "s-p-global-machine-learning-intern-cambridge-2025-12-14-1",
+      "jobId": "s-p-global-machine-learning-intern-cambridge",
+      "company": "S&P Global ",
+      "title": "Machine Learning Intern",
+      "postedToDiscord": "2025-12-14T23:25:08.981Z",
+      "sourceDate": "2025-09-05T02:15:44.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319677",
+      "discordThreadId": "1449905065908506768",
+      "instanceNumber": 1
+    },
+    {
+      "id": "muon-space-software-engineering-intern-san-jose-2025-12-14-1",
+      "jobId": "muon-space-software-engineering-intern-san-jose",
+      "company": "Muon Space",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-14T23:25:10.678Z",
+      "sourceDate": "2025-09-05T02:10:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/muonspace/jobs/4856413007",
+      "discordThreadId": "1449905080324067418",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auto-owners-insurance-predictive-modeler-intern-east-lansing-2025-12-14-1",
+      "jobId": "auto-owners-insurance-predictive-modeler-intern-east-lansing",
+      "company": "Auto-Owners Insurance",
+      "title": "Predictive Modeler Intern",
+      "postedToDiscord": "2025-12-14T23:25:12.441Z",
+      "sourceDate": "2025-09-05T02:10:24.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833",
+      "discordThreadId": "1449905087605379092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "igs-energy-software-engineer-intern-remote-2025-12-14-1",
+      "jobId": "igs-energy-software-engineer-intern-remote",
+      "company": "IGS Energy",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T23:25:17.184Z",
+      "sourceDate": "2025-09-05T17:14:39.000Z",
+      "sourceUrl": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R5639",
+      "discordThreadId": "1449905107205492880",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keycorp-2026-summer-marketing-analytics-internship-brooklyn-2025-12-14-1",
+      "jobId": "keycorp-2026-summer-marketing-analytics-internship-brooklyn",
+      "company": "KeyCorp",
+      "title": "2026 Summer Marketing Analytics Internship",
+      "postedToDiscord": "2025-12-14T23:25:18.868Z",
+      "sourceDate": "2025-09-05T02:12:42.000Z",
+      "sourceUrl": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Marketing-Internship---Cleveland_R-33872",
+      "discordThreadId": "1449905114340134987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auto-owners-insurance-software-developer-internship-east-lansing-2025-12-14-1",
+      "jobId": "auto-owners-insurance-software-developer-internship-east-lansing",
+      "company": "Auto-Owners Insurance",
+      "title": "Software Developer Internship",
+      "postedToDiscord": "2025-12-14T23:25:20.602Z",
+      "sourceDate": "2025-09-05T02:10:20.000Z",
+      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
+      "discordThreadId": "1449905121487098043",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usaa-quantitative-risk-analyst-intern-charlotte-2025-12-14-1",
+      "jobId": "usaa-quantitative-risk-analyst-intern-charlotte",
+      "company": "USAA",
+      "title": "Quantitative Risk Analyst Intern",
+      "postedToDiscord": "2025-12-14T23:25:25.376Z",
+      "sourceDate": "2025-09-05T14:10:24.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0112127",
+      "discordThreadId": "1449905141707833416",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 588,
+    "totalJobs": 597,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T23:11:18.006Z",
+      "date": "2025-12-14T23:25:25.376Z",
       "archived": 0
     }
   }
