@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Development / Digital Delivery Intern",
-      "employer_name": "Arup",
-      "job_city": "Los Angeles",
-      "job_state": "CA",
-      "job_description": "Thanks for your interest in the Software Development / Digital Delivery Intern (Available June 2026) position. Unfortunately this position has been closed but you can search our 652 open jobs by clicking here.",
-      "job_apply_link": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
-      "job_posted_at_datetime_utc": "2025-09-22T06:35:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "arup-software-development-digital-delivery-intern-los-angeles",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T10:31:12.185Z",
-    "postedAt": "2025-12-14T12:06:19.742Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Sift",
       "job_city": "El Segundo",
@@ -214,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T10:41:21.567Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T12:19:32.042Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-20T00:15:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "keysight-technologies-application-development-intern-santa-rosa"
+      "id": "keysight-technologies-application-development-intern-santa-rosa",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T12:19:22.877Z",
     "postedAt": null
   },
   {
