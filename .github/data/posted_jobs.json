@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T18:29:23.979Z",
+  "lastUpdated": "2025-12-14T18:45:20.141Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3994,14 +3994,113 @@
       "sourceUrl": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/IT--AI-ML--Intern---Summer-2026_IRC96039",
       "discordThreadId": "1449830636788645909",
       "instanceNumber": 1
+    },
+    {
+      "id": "hartford-financial-services-intern-data-science-chicago-2025-12-14-1",
+      "jobId": "hartford-financial-services-intern-data-science-chicago",
+      "company": "Hartford Financial Services",
+      "title": "Intern - Data Science",
+      "postedToDiscord": "2025-12-14T18:44:58.049Z",
+      "sourceDate": "2025-09-19T18:53:38.000Z",
+      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Data-Science_R2522486",
+      "discordThreadId": "1449834562602533007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "focuskpi-ai-engineer-intern-remote-in-usa-2025-12-14-1",
+      "jobId": "focuskpi-ai-engineer-intern-remote-in-usa",
+      "company": "FocusKPI",
+      "title": "AI Engineer Intern",
+      "postedToDiscord": "2025-12-14T18:44:59.845Z",
+      "sourceDate": "2025-09-19T16:51:22.000Z",
+      "sourceUrl": "https://focuskpi.applytojob.com/apply/4czYHwfYDf/AI-Engineer-Intern-Remote",
+      "discordThreadId": "1449834569862742037",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-2026-intern-research-scientist-engineer-cambridge-2025-12-14-1",
+      "jobId": "adobe-2026-intern-research-scientist-engineer-cambridge",
+      "company": "Adobe",
+      "title": "2026 Intern - Research Scientist/Engineer",
+      "postedToDiscord": "2025-12-14T18:45:03.364Z",
+      "sourceDate": "2025-09-19T03:28:05.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317",
+      "discordThreadId": "1449834577572008088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marmon-holdings-data-engineering-intern-or-student-co-op-milwaukee-2025-12-14-1",
+      "jobId": "marmon-holdings-data-engineering-intern-or-student-co-op-milwaukee",
+      "company": "Marmon Holdings",
+      "title": "Data Engineering Intern OR Student Co-Op",
+      "postedToDiscord": "2025-12-14T18:45:05.164Z",
+      "sourceDate": "2025-09-18T23:47:14.000Z",
+      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1",
+      "discordThreadId": "1449834592688275680",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waymo-2026-summer-intern-phd-perception-semantics-mountain-view-2025-12-14-1",
+      "jobId": "waymo-2026-summer-intern-phd-perception-semantics-mountain-view",
+      "company": "Waymo",
+      "title": "2026 Summer Intern - PhD - Perception Semantics",
+      "postedToDiscord": "2025-12-14T18:45:06.984Z",
+      "sourceDate": "2025-09-18T22:52:49.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7258380",
+      "discordThreadId": "1449834600087027803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xcimer-energy-internship-computational-and-software-engineering-denver-2025-12-14-1",
+      "jobId": "xcimer-energy-internship-computational-and-software-engineering-denver",
+      "company": "Xcimer Energy",
+      "title": "Internship - Computational and Software Engineering",
+      "postedToDiscord": "2025-12-14T18:45:11.864Z",
+      "sourceDate": "2025-09-19T18:48:37.000Z",
+      "sourceUrl": "https://jobs.lever.co/xcimer/f53b08bc-83f0-4e34-bbfb-8213f7d25302/apply",
+      "discordThreadId": "1449834620467023952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-scientist-intern-responsible-ai-san-jose-2025-12-14-1",
+      "jobId": "bytedance-research-scientist-intern-responsible-ai-san-jose",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Responsible AI",
+      "postedToDiscord": "2025-12-14T18:45:13.652Z",
+      "sourceDate": "2025-09-19T05:59:19.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7551168689682499848/detail",
+      "discordThreadId": "1449834628423749784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marmon-holdings-digital-production-engineering-intern-or-student-co-op-milwaukee-2025-12-14-1",
+      "jobId": "marmon-holdings-digital-production-engineering-intern-or-student-co-op-milwaukee",
+      "company": "Marmon Holdings",
+      "title": "Digital Production Engineering Intern OR Student Co-Op",
+      "postedToDiscord": "2025-12-14T18:45:15.356Z",
+      "sourceDate": "2025-09-18T23:47:21.000Z",
+      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2",
+      "discordThreadId": "1449834635612782694",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dp-world-logistics-data-analyst-intern-charlotte-2025-12-14-1",
+      "jobId": "dp-world-logistics-data-analyst-intern-charlotte",
+      "company": "DP World",
+      "title": "Logistics Data Analyst Intern",
+      "postedToDiscord": "2025-12-14T18:45:20.141Z",
+      "sourceDate": "2025-09-19T05:06:15.000Z",
+      "sourceUrl": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/20491",
+      "discordThreadId": "1449834655544246282",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 363,
+    "totalJobs": 372,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T18:29:23.979Z",
+      "date": "2025-12-14T18:45:20.141Z",
       "archived": 0
     }
   }
