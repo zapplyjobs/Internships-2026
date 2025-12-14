@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T04:44:03.763Z",
+  "lastUpdated": "2025-12-14T04:58:14.104Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3400,14 +3400,25 @@
       "sourceUrl": "https://jobs.keysight.com/jobs/49564?lang=en-us&icims=1",
       "discordThreadId": "1449622942471159929",
       "instanceNumber": 1
+    },
+    {
+      "id": "marvell-product-engineer-intern-multiple-teams-santa-clara-2025-12-14-1",
+      "jobId": "marvell-product-engineer-intern-multiple-teams-santa-clara",
+      "company": "Marvell",
+      "title": "Product Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-14T04:58:14.103Z",
+      "sourceDate": "2025-09-24T01:55:46.000Z",
+      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1",
+      "discordThreadId": "1449626508921540730",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 309,
+    "totalJobs": 310,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T04:44:03.763Z",
+      "date": "2025-12-14T04:58:14.104Z",
       "archived": 0
     }
   }
