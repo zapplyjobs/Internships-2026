@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Product Engineer Intern - Multiple Teams",
-      "employer_name": "Marvell",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, automotive, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Your Team, Your ImpactThe Optics team builds highly integrated component platforms with high-speed Silicon photonics, transmit and receive amplifiers, controller ASICs with Marvell DSP’s. The team is responsible for design, verification, and production of these integrated high speed optical components and sun-assemblies. An engineer in this team will be involved across the full product lifecycle, with a strong emphasis on building and improving data driven infrastructure to support yield, quality, and reliability.What You Can ExpectDevelop automated data analysis tools and dashboards to monitor yield, performance, and failure trends.Leverage SQL, Python (pandas, numpy), and JMP for statistical analysis, correlation studies, and root-cause identification.Build interactive HTML-based dashboards with editable query parameters for engineering and production team.Support NPI by testing prototype optical transceivers at various stages, including PCBA, sub-assembly, and modules.What We're Looking ForUndergraduate student in fields of Electrical Engineering, Computer Engineering, Computer Science or related fields.Strong programming experience in Python (pandas, numpy), SQL query, JMP script or similar platforms for data analytics and test automation.Familiar with JMP, data visualization, statistical methods, and interactive web-based reporting.Strong ownership, problem-solving skills, excellent communication, flexibility, and team spirit.Expected Base Pay Range (USD)22 - 45, $ per hour.The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.Additional Compensation and Benefit Elements For Internship roles, we are proud to offer the following benefits package during the internship - medical, dental and vision coverage, perks and discount programs, wellness & mental health support including coaching and therapy, paid holidays, paid volunteer days and paid sick time. Additional compensation may be available for intern PhD candidates.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com.Interview Integrity As part of our commitment to fair and authentic hiring practices, we ask that candidates do not use AI tools (e.g., transcription apps, real-time answer generators like ChatGPT, CoPilot, or note-taking bots) during interviews. Our interviews are designed to assess your personal experience, thought process, and communication skills in real-time. If a candidate uses such tools during an interview, they will be disqualified from the hiring process.This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.#LI-AR2",
-      "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern---Master-s-Degree_2502284-1",
-      "job_posted_at_datetime_utc": "2025-09-24T01:55:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "marvell-product-engineer-intern-multiple-teams-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-13T23:53:56.332Z",
-    "postedAt": "2025-12-14T04:58:17.114Z"
-  },
-  {
-    "job": {
       "job_title": "GE Vernova Advanced Wind Resource and Energy Characterization Intern - Summer 2026",
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T00:14:31.406Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T05:08:03.586Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Truveta",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Truveta in this exciting opportunity.",
+      "job_description": "Software Engineering Intern Truveta is the world’s first health provider led data platform with a vision of Saving Lives with Data. Our mission is to enable researchers to find cures faster, empower every clinician to be an expert, and help families make the most informed decisions about their care. Achieving Truveta’ s ambitious vision requires an incredible team of talented and inspired people with a special combination of health, software and big data experience who share our company values. This role will be based in the Greater Seattle area and interns are asked to come into our office a few days a week. #LI-hybrid Who We Need Truveta is rapidly building a talented and diverse team to tackle complex health and technical challenges. Beyond core capabilities, we are seeking problem solvers, passionate and collaborative teammates, and those willing to roll up their sleeves while making a difference. If you are interested in the opportunity to pursue purposeful work, join a mission-driven team, and build a rewarding career while having fun, Truveta may be the perfect fit for you. Internship Details Our engineering internship is designed for candidates who have recently graduated with their undergraduate or graduate degree. Candidates must have graduated within a year of the internship. This internship is designed to be a minimum of 6 months with the opportunity to extend based on company needs and interns' desires. Candidates must be available before summer 2026. This Opportunity: We have exciting internship opportunities for recent graduates inspired by the opportunity to apply data in the development of real-world health solutions. As a Truveta intern, you will work alongside technology leaders possessing deep technical experience, helping build the world's first at-scale clinical data asset that drives innovation in patient care, medical research and the development of new therapies. Beyond core capabilities, we are seeking problem solvers, passionate and collaborative teammates who are interested in working on meaningful and impactful projects that make a difference. Preferred Qualifications Experience using Java, Python, .net, C# or any other programming language Bachelor’s or Master's degree in engineering, computer science or STEM related field Demonstrated skill in time management and completing projects in a collaborative team environment Previous internship experience working in a technical or engineering environment Good written and verbal communication, including presentation skills Why Truveta? Be a part of building something special. Now is the perfect time to join Truveta. We have strong, established leadership with decades of success. We are well-funded. We are building a culture that prioritizes people and their passions across personal, professional and everything in between. Join us as we build an amazing company together. We offer: Monthly stipend of $1,800-$2,200 Company-issued laptop and equipment Opportunities for future full-time positions Truveta is committed to creating a diverse, inclusive, and empowering workplace. We believe that having employees, interns, and contractors with diverse backgrounds enables Truveta to better meet our mission and serve patients and health communities around the world. We recognize that opportunities in technology historically excluded and continue to disproportionately exclude Black and Indigenous people, people of color, people from working class backgrounds, people with disabilities, and LGBTQIA+ people. We strongly encourage individuals with these identities to apply even if you don’t meet all of the requirements. Please note that all applicants must be authorized to work in the United States for any employer as we are unable to sponsor work visas or permits (e.g. F-1 OPT, H1-B) at this time. We appreciate your interest in the position and encourage you to explore future opportunities with us.",
       "job_apply_link": "https://job-boards.greenhouse.io/truveta/jobs/5656952004",
       "job_posted_at_datetime_utc": "2025-09-23T05:02:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "truveta-software-engineering-intern-multiple-teams-seattle"
+      "id": "truveta-software-engineering-intern-multiple-teams-seattle",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T05:07:56.240Z",
     "postedAt": null
   },
   {
