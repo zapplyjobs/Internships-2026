@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T09:53:52.340Z",
+  "lastUpdated": "2025-12-14T10:05:11.909Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3708,14 +3708,25 @@
       "sourceUrl": "https://jobs.sap.com/job/Newtown-Square-SAP-iXp-Intern-Python-Developer-PA-19073/1237973101",
       "discordThreadId": "1449700908404445186",
       "instanceNumber": 1
+    },
+    {
+      "id": "philips-system-test-automation-engineer-san-diego-2025-12-14-1",
+      "jobId": "philips-system-test-automation-engineer-san-diego",
+      "company": "Philips",
+      "title": "System Test Automation Engineer",
+      "postedToDiscord": "2025-12-14T10:05:11.909Z",
+      "sourceDate": "2025-09-22T07:08:34.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
+      "discordThreadId": "1449703751349702717",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 337,
+    "totalJobs": 338,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T09:53:52.340Z",
+      "date": "2025-12-14T10:05:11.909Z",
       "archived": 0
     }
   }
