@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer Intern",
-    "employer_name": "Exegy",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_description": "Join Exegy in this exciting opportunity.",
-    "job_apply_link": "https://jobs.ashbyhq.com/exegy/6ae2d836-21a3-4132-bd85-722177ab5cf5",
-    "job_posted_at_datetime_utc": "2025-09-22T06:57:47.000Z",
+    "job_title": "Software Engineering",
+    "employer_name": "Highmark Health",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join Highmark Health in this exciting opportunity.",
+    "job_apply_link": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+    "job_posted_at_datetime_utc": "2025-09-22T06:55:34.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "exegy-software-engineer-intern-st-louis",
-    "description_platform": "ashby",
+    "id": "highmark-health-software-engineering-pittsburgh",
+    "description_platform": "workday",
     "description_success": false
   }
 ]
