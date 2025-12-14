@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Software or Computer Engineering Co-op",
-    "employer_name": "BAE Systems",
-    "job_city": "Sterling Heights",
-    "job_state": "MI",
-    "job_description": "Join BAE Systems in this exciting opportunity.",
-    "job_apply_link": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
-    "job_posted_at_datetime_utc": "2025-09-22T06:22:12.000Z",
+    "job_title": "Software Engineer",
+    "employer_name": "Darkhiv",
+    "job_city": "San Antonio",
+    "job_state": "TX",
+    "job_description": "Darkhive is building a new generation of US-produced autonomous drones designed to be scalable in cost, deployment, and management.",
+    "job_apply_link": "https://apply.workable.com/darkhive/j/1DA0B16639/",
+    "job_posted_at_datetime_utc": "2025-09-22T06:17:32.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "bae-systems-software-or-computer-engineering-co-op-sterling-heights",
+    "id": "darkhiv-software-engineer-san-antonio",
     "description_platform": "generic",
-    "description_success": false
+    "description_success": true
   }
 ]
