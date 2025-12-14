@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T23:38:23.480Z",
+  "lastUpdated": "2025-12-14T23:48:29.094Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -6667,14 +6667,113 @@
       "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Scientist-Intern_Req-36014",
       "discordThreadId": "1449908405685715135",
       "instanceNumber": 1
+    },
+    {
+      "id": "brunswick-mercury-marine-systems-software-engineering-intern-fond-du-lac-2025-12-14-1",
+      "jobId": "brunswick-mercury-marine-systems-software-engineering-intern-fond-du-lac",
+      "company": "Brunswick",
+      "title": "Mercury Marine – Systems/Software Engineering Intern",
+      "postedToDiscord": "2025-12-14T23:48:12.033Z",
+      "sourceDate": "2025-09-04T21:39:39.000Z",
+      "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Intern_JR-047436",
+      "discordThreadId": "1449910874126155786",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qorvo-software-engineer-intern-hillsboro-2025-12-14-1",
+      "jobId": "qorvo-software-engineer-intern-hillsboro",
+      "company": "Qorvo",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T23:48:13.780Z",
+      "sourceDate": "2025-09-04T16:45:47.000Z",
+      "sourceUrl": "https://careers.qorvo.com/job/Hillsboro-Software-Engineer-Intern-OR-97124/1322876900/?ats=successfactors",
+      "discordThreadId": "1449910880837046373",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineer-co-op-hybrid-burnsville-2025-12-14-1",
+      "jobId": "rtx-software-engineer-co-op-hybrid-burnsville",
+      "company": "RTX",
+      "title": "Software Engineer Co-Op (Hybrid)",
+      "postedToDiscord": "2025-12-14T23:48:15.639Z",
+      "sourceDate": "2025-09-04T11:10:46.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HMN03-SIS-Sensors---Burnsville-Ea-14300-Judicial-Rd-Burnsville-MN-55306-USA/Software-Engineer-Co-Op--Spring-Summer-2026--Hybrid-_01789800",
+      "discordThreadId": "1449910888495579333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineering-co-op-onsite-cedar-rapids-2025-12-14-1",
+      "jobId": "rtx-software-engineering-co-op-onsite-cedar-rapids",
+      "company": "RTX",
+      "title": "Software Engineering Co-Op (Onsite)",
+      "postedToDiscord": "2025-12-14T23:48:17.428Z",
+      "sourceDate": "2025-09-04T11:09:54.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01786610",
+      "discordThreadId": "1449910896678932524",
+      "instanceNumber": 1
+    },
+    {
+      "id": "simon-azure-cloud-administration-indianapolis-2025-12-14-1",
+      "jobId": "simon-azure-cloud-administration-indianapolis",
+      "company": "Simon",
+      "title": "Azure Cloud Administration",
+      "postedToDiscord": "2025-12-14T23:48:19.142Z",
+      "sourceDate": "2025-09-04T11:06:19.000Z",
+      "sourceUrl": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Azure-Cloud-Administration_R12531",
+      "discordThreadId": "1449910903607660577",
+      "instanceNumber": 1
+    },
+    {
+      "id": "simon-software-quality-assurance-indianapolis-2025-12-14-1",
+      "jobId": "simon-software-quality-assurance-indianapolis",
+      "company": "Simon",
+      "title": "Software Quality Assurance",
+      "postedToDiscord": "2025-12-14T23:48:20.853Z",
+      "sourceDate": "2025-09-04T11:05:09.000Z",
+      "sourceUrl": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Software-Quality-Assurance_R12533",
+      "discordThreadId": "1449910910880714887",
+      "instanceNumber": 1
+    },
+    {
+      "id": "us-foods-software-engineer-rosemont-2025-12-14-1",
+      "jobId": "us-foods-software-engineer-rosemont",
+      "company": "US Foods",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-14T23:48:22.554Z",
+      "sourceDate": "2025-09-04T11:03:29.000Z",
+      "sourceUrl": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Hybrid--Onsite---Remote-_R271111",
+      "discordThreadId": "1449910918271078443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gdit-tss-software-tester-associate-bossier-city-2025-12-14-1",
+      "jobId": "gdit-tss-software-tester-associate-bossier-city",
+      "company": "GDIT",
+      "title": "TSS Software Tester Associate",
+      "postedToDiscord": "2025-12-14T23:48:24.235Z",
+      "sourceDate": "2025-09-04T10:57:01.000Z",
+      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/TSS-Software-Tester-Associate--Intern-_RQ204605",
+      "discordThreadId": "1449910925393006718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "us-foods-data-engineer-m-a-rosemont-2025-12-14-1",
+      "jobId": "us-foods-data-engineer-m-a-rosemont",
+      "company": "US Foods",
+      "title": "Data Engineer, M&A",
+      "postedToDiscord": "2025-12-14T23:48:29.094Z",
+      "sourceDate": "2025-09-04T11:02:01.000Z",
+      "sourceUrl": "https://usfoods.wd1.myworkdayjobs.com/en-US/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--M-A--Hybrid--Onsite---Remote-_R271233",
+      "discordThreadId": "1449910945219608810",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 606,
+    "totalJobs": 615,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T23:38:23.480Z",
+      "date": "2025-12-14T23:48:29.094Z",
       "archived": 0
     }
   }
