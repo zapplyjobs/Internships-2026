@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T09:04:53.451Z",
+  "lastUpdated": "2025-12-14T09:17:59.311Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3653,14 +3653,25 @@
       "sourceUrl": "https://jobs.siemens.com/careers/job/563156132037214",
       "discordThreadId": "1449688581600837643",
       "instanceNumber": 1
+    },
+    {
+      "id": "voloridge-health-health-devops-engineer-intern-jupiter-2025-12-14-1",
+      "jobId": "voloridge-health-health-devops-engineer-intern-jupiter",
+      "company": "Voloridge Health",
+      "title": "Health DevOps Engineer Intern",
+      "postedToDiscord": "2025-12-14T09:17:59.311Z",
+      "sourceDate": "2025-09-22T07:25:45.000Z",
+      "sourceUrl": "https://voloridge-health.hiringthing.com/job/958324/health-devops-engineer-intern-2026",
+      "discordThreadId": "1449691877988237402",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 332,
+    "totalJobs": 333,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T09:04:53.451Z",
+      "date": "2025-12-14T09:17:59.311Z",
       "archived": 0
     }
   }

@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Co-op",
-      "employer_name": "Siemens",
-      "job_city": "Huntsville",
-      "job_state": "AL",
-      "job_description": "Join Siemens in this exciting opportunity.",
-      "job_apply_link": "https://jobs.siemens.com/careers/job/563156132037214",
-      "job_posted_at_datetime_utc": "2025-09-22T07:26:34.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "siemens-software-engineer-co-op-huntsville",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T07:19:56.378Z",
-    "postedAt": "2025-12-14T09:04:56.463Z"
-  },
-  {
-    "job": {
       "job_title": "Health DevOps Engineer Intern",
       "employer_name": "Voloridge Health",
       "job_city": "Jupiter",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T07:30:33.574Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T09:18:02.324Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T06:57:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "exegy-software-engineer-intern-st-louis"
+      "id": "exegy-software-engineer-intern-st-louis",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T09:17:55.096Z",
     "postedAt": null
   },
   {
