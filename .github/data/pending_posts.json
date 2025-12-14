@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Internship - Software Engineering - Corporate and Business Services",
-      "employer_name": "Zebra Technologies",
-      "job_city": "Kennesaw",
-      "job_state": "GA",
-      "job_description": "Join Zebra Technologies in this exciting opportunity.",
-      "job_apply_link": "https://zebra.eightfold.ai/careers/job/343628025219",
-      "job_posted_at_datetime_utc": "2025-09-23T06:16:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zebra-technologies-internship-software-engineering-corporate-and-business-services-kennesaw",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T04:43:59.762Z",
-    "postedAt": "2025-12-14T06:50:37.755Z"
-  },
-  {
-    "job": {
       "job_title": "Software Co-op - Robotics",
       "employer_name": "Berkshire Grey",
       "job_city": "Bedford",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T04:58:09.410Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T06:58:46.776Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T23:59:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "robinhood-machine-learning-engineer-intern-applied-ml-menlo-park"
+      "id": "robinhood-machine-learning-engineer-intern-applied-ml-menlo-park",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T06:58:37.577Z",
     "postedAt": null
   },
   {
