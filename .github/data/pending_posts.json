@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "DevOps Associate",
-      "employer_name": "Spectrum",
-      "job_city": "Greenwood Village",
-      "job_state": "CO",
-      "job_description": "Join Spectrum in this exciting opportunity.",
-      "job_apply_link": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
-      "job_posted_at_datetime_utc": "2025-09-22T06:41:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "spectrum-devops-associate-greenwood-village",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T09:53:47.923Z",
-    "postedAt": "2025-12-14T11:35:29.728Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Astronautics",
       "job_city": "Oak Creek",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T10:05:05.998Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T11:44:13.377Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-20T00:16:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-intern-calabasas"
+      "id": "keysight-technologies-r-d-intern-calabasas",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T11:44:05.884Z",
     "postedAt": null
   },
   {

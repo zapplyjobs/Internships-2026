@@ -126,16 +126,16 @@
     "description_success": true
   },
   {
-    "job_title": "DevOps Associate",
-    "employer_name": "Spectrum",
-    "job_city": "Greenwood Village",
-    "job_state": "CO",
-    "job_description": "Join Spectrum in this exciting opportunity.",
-    "job_apply_link": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
-    "job_posted_at_datetime_utc": "2025-09-22T06:41:45.000Z",
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Astronautics",
+    "job_city": "Oak Creek",
+    "job_state": "WI",
+    "job_description": "Join Astronautics in this exciting opportunity.",
+    "job_apply_link": "https://myjobs.adp.com/astronautics/cx/job-details?reqId=5001151496906",
+    "job_posted_at_datetime_utc": "2025-09-22T06:39:02.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "spectrum-devops-associate-greenwood-village",
+    "id": "astronautics-software-engineering-intern-oak-creek",
     "description_platform": "generic",
     "description_success": false
   }
