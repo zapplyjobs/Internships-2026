@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T07:30:38.086Z",
+  "lastUpdated": "2025-12-14T07:38:38.974Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3554,14 +3554,25 @@
       "sourceUrl": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
       "discordThreadId": "1449664860819558494",
       "instanceNumber": 1
+    },
+    {
+      "id": "robinhood-software-engineering-intern-backend-menlo-park-2025-12-14-1",
+      "jobId": "robinhood-software-engineering-intern-backend-menlo-park",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Backend",
+      "postedToDiscord": "2025-12-14T07:38:38.974Z",
+      "sourceDate": "2025-09-23T02:37:14.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7239236",
+      "discordThreadId": "1449666864362946766",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 323,
+    "totalJobs": 324,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T07:30:38.086Z",
+      "date": "2025-12-14T07:38:38.974Z",
       "archived": 0
     }
   }
