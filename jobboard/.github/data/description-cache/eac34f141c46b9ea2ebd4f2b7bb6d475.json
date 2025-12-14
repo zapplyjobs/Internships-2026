@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Software Engineering Intern – Eventual (San Francisco, CA) About Eventual Eventual enables developers to build the AI systems of the future by making multi-modal data and models work together seamlessly. Every breakthrough AI application—from foundation models to autonomous vehicles relies on processing massive volumes of images, video, and complex data. But today’s data platforms (like Databricks and Snowflake) were built for spreadsheet-like analytics, not the petabytes of multimodal data that power AI. Eventual was founded in 2022 to change that. Our mission is to make working with any kind of data—images, video, audio, text—as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine, Daft , is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can’t. Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens. Backed by Y Combinator, Caffeinated Capital, Array.vc , and top angels from the co-founders of Databricks and Perplexity, we’re just getting started—and we’d love for you to be part of it. Please note: This internship is based in our San Francisco office (Mission District) . We value in-person collaboration and ask interns to be in the office at least 4 days a week. Your Role As a Software Engineering Intern, you’ll work alongside our engineers to contribute to Eventual’s core products and open-source engine. You’ll gain hands-on experience building distributed data systems and products, while learning how to design, implement, and test features that support real-world AI and ML workloads. You’ll get mentorship from our team (ex-Databricks, AWS, Nvidia, Tesla, GitHub Copilot, Pinecone) and the opportunity to make meaningful contributions that reach production. Key Responsibilities Contribute to building features in Eventual’s distributed query engine. Work on developing Eventual’s cloud service. Write clean, maintainable code with guidance from senior engineers. Collaborate with the team to design and implement solutions for real-world data challenges. Assist with testing, debugging, and documenting core system components. What We Look For Currently pursuing a Bachelor’s, Master’s, or PhD in Computer Science (or related field). Strong programming skills in Python and/or Rust. Interest in distributed systems, databases, or data infrastructure. Familiarity with cloud technologies (AWS, GCP, or Azure) is a plus. Excitement to learn from a fast-paced startup environment and contribute to real-world systems.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
+      "fetchedAt": "2025-12-14T22:10:05.902Z"
+    }
+  },
+  "cachedAt": 1765750205902
+}

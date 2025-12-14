@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Embedded Software Engineer",
-      "employer_name": "Wind River",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Browse All Open Positions Open Positions Customer Success - Professional Services & Operations Job listing Job location 9938 - Administrative Support III Bangalore, India 9872 - Lead Software Quality Assurance Engineer - DO-178C Aerospace Bangalore, India 9940 - Member of Technical Staff – Services Tokyo, Japan 9546 - Senior Engineer - DO 178 Verification and Validation C Programming Bangalore, India Customer Success - Services Job listing Job location 9848 - Senior Engineer - DO -178 Verification & Validation Bangalore, India 9427 - Senior Engineer - Services Bangalore, India 9423 - Technical Leader - DO178 V&V Bangalore, India Engineering Job listing Job location 9975 - Cloud Platform Software Developer – Senior Engineer Kanata, Canada 9974 - Cloud Platform Software Engineer - MTS Kanata, Canada 9895 - Documentation Information Architect – Cloud – MTS Kanata, Canada 9987 - Engineer - Sys Chennai, India 9988 - Engineer - Sys Chennai, India 9925 - Jr. Software Application Engineer – Wind River Conductor Kanata, Canada 9935 - Linux Network Developer - Member of Technical Staff Kanata, Canada 9849 - Member of Technical Staff - Cloud Bangalore, India 9891 - Member of Technical Staff - Python Development Bangalore, India 9911 - Member of Technical Staff - Software Engineering - WR Analytics Kanata, Canada 9900 - Member of Technical Staff - Software Engineering - WR OpenStack Kanata, Canada 9902 - Member of Technical Staff - Software Engineering - WR OpenStack Kanata, Canada 9901 - Member of Technical Staff - Software Engineering - WR OpenStack Kanata, Canada 9412 - Member of Technical Staff - Sys Bangalore, India 10004 - Member of Technical Staff - Sys Chennai, India 9580 - Member of Technical Staff - Sys Bangalore, India 9700 - Member of Technical Staff - Sys Bangalore, India 9741 - Member of Technical Staff – SYS Bangalore, India 9904 - Member Technical Staff - Cloud SWAT Kanata, Canada 9889 - Member Technical Staff - Linux application developer Python Bangalore, India Show More Finance Job listing Job location 9875 - Finance Intern Walnut Creek, California 9882 - Procure to Pay Manager San Jose, Costa Rica 9941 - Senior Payroll Analyst Troy, Michigan 10031 - Sr. Manager, Revenue Accounting 2 Locations IT & Security Job listing Job location 9958 - Cybersecurity Governance, Risk, Compliance, Training & Resilience Manager 4 Locations 10024 - Member of Technical Staff -Cloud Security 4 Locations 9959 - Senior Cybersecurity Risk & Compliance Associate 4 Locations Marketing Job listing Job location 9734 - Senior Industry Marketing Manager – Aerospace, Defense, Government Washington, DC Sales Job listing Job location 10023 - Commissions Analyst San Jose, Costa Rica 10005 - Senior Field Application Engineer Seoul, Korea (the Republic of) 10007 - Senior Specialist Solutions Architect 5 Locations Technology Office Job listing Job location 9920 - Software Architect – Wind River Orchestration and Automation Platform 5 Locations Job Seeker Tools Check Your Application Sign-up for Job Alerts",
-      "job_apply_link": "https://jobs.jobvite.com/windriver/job/om4uvfw9",
-      "job_posted_at_datetime_utc": "2025-09-10T15:33:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "wind-river-embedded-software-engineer-san-diego",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Igen",
-      "employer_name": "U.S. Venture",
-      "job_city": "Appleton",
-      "job_state": "WI",
-      "job_description": "POSITION SUMMARYWe are seeking a Software Engineer Intern for our Summer 2026 Internship Program. This intern will support our IGEN division in a collaborative, challenging, and rewarding position where you will be guiding and supporting industry with the next generation excise tax software solution. The Software Engineer Intern will develop and modify existing web-based applications. U.S. Venture’s Internship Program runs May - August. Dates may vary based on individual class schedules. This position is located in Appleton, WI and will start at 1025 West Navitus Dr, Appleton, WI 54913. We are excited to be transitioning to our new corporate headquarters during this internship timeframe and this position will eventually be located at 222 W College Avenue, Appleton, WI 54911.JOB RESPONSIBILITIESApplications vary from C# Service Jobs to Web Applications to Interfaces Windows Applications, Web Service Applications, and Forms Development with internal tool Working with SQL Databases on a regular basis Develop and modify web based applications QUALIFICATIONSCurrent student pursuing a degree in Computer Science, Application Development or Web DevelopmentJunior or Senior status preferred.Prefer Microsoft .Net, Java, JavaScript, CSS SQL or similar database experience DIVISION:IGEN U.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need. U.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.U.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic. If you need assistance or an accommodation due to a disability, you may call Human Resources at (920) 739-6101.",
-      "job_apply_link": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1",
-      "job_posted_at_datetime_utc": "2025-09-10T13:31:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "u-s-venture-software-engineer-intern-igen-appleton",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML ASIC Design and Implementation Automation Intern",
-      "employer_name": "NXP Semiconductors",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Join NXP Semiconductors in this exciting opportunity.",
-      "job_apply_link": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2026_R-10059947",
-      "job_posted_at_datetime_utc": "2025-09-10T13:22:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-san-diego",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - AI Enablement",
-      "employer_name": "Nelnet",
-      "job_city": "Lincoln",
-      "job_state": "NE",
-      "job_description": "Join Nelnet in this exciting opportunity.",
-      "job_apply_link": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---AI-Enablement_R21650",
-      "job_posted_at_datetime_utc": "2025-09-10T13:20:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nelnet-intern-ai-enablement-lincoln",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Scientist Intern (Graphs)",
-      "employer_name": "TWG Global",
-      "job_city": "Santa Monica",
-      "job_state": "CA",
-      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
-      "job_apply_link": "https://apply.workable.com/twg-global/j/17D884D060/",
-      "job_posted_at_datetime_utc": "2025-09-10T13:14:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-graphs-santa-monica",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Scientist Intern (Quantitative Research & Data Science)",
-      "employer_name": "TWG Global",
-      "job_city": "Santa Monica",
-      "job_state": "CA",
-      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
-      "job_apply_link": "https://apply.workable.com/twg-global/j/15B958D8CC/",
-      "job_posted_at_datetime_utc": "2025-09-10T13:13:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-quantitative-research-data-science-santa-monica",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Scientist Intern (Simulation Optimization and Reinforcement Learning)",
-      "employer_name": "TWG Global",
-      "job_city": "Santa Monica",
-      "job_state": "CA",
-      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
-      "job_apply_link": "https://apply.workable.com/twg-global/j/5FADB8A7EE/",
-      "job_posted_at_datetime_utc": "2025-09-10T13:12:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-simulation-optimization-and-reinforcement-learning-santa-monica",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Engineering Intern",
-      "employer_name": "TWG Global",
-      "job_city": "Santa Monica",
-      "job_state": "CA",
-      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
-      "job_apply_link": "https://apply.workable.com/twg-global/j/4458DA5457/",
-      "job_posted_at_datetime_utc": "2025-09-10T13:11:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "twg-global-ai-engineering-intern-santa-monica",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Scientist Intern (Natural Language Processing)",
-      "employer_name": "TWG Global",
-      "job_city": "Santa Monica",
-      "job_state": "CA",
-      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
-      "job_apply_link": "https://apply.workable.com/twg-global/j/95E27142C1/",
-      "job_posted_at_datetime_utc": "2025-09-10T13:10:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-natural-language-processing-santa-monica",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": "2025-12-14T22:00:52.304Z"
-  },
-  {
-    "job": {
       "job_title": "Salesforce AI Research",
       "employer_name": "Salesforce",
       "job_city": "Palo Alto",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:52:20.885Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:00:11.255Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:10:32.821Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "Baird",
       "job_city": "Madison",
       "job_state": "WI",
-      "job_description": "Join Baird in this exciting opportunity.",
+      "job_description": "About the Role: IT has a track record of success with interns across their various teams, all who have the ability to directly contribute to the success of the department. Interns apply knowledge gained in the classroom to develop relevant professional experience while creating meaningful relationships. We look for highly motivated individuals who are proactive, eager to learn and ready to contribute. Our IT Data &amp; Analytics Team works collaboratively to build and deliver data solutions for our clients in a continuous learning environment. IT Data &amp; Analytics interns will assist in architecting successful data solutions, delivering value, problem solving and managing changing priorities on key projects. This is a hybrid internship, working three days per week in our downtown Milwaukee, WI office or downtown Madison, WI office and two days remote. The intern must be able to work full time during the summer, 37.5-40 hours per week, and work part time during the school semesters, 15-20 hours per week. We are seeking a local student who can start in May 2026. The Impact You’ll Make: Focus on data analytics, profiling, modeling, visualization, data integration and delivery Gain exposure to critical business data problems that help drive decisions Be embedded in our Data &amp; Analytics team to deliver data solutions for clients Experience Baird’s collaborative culture that values diverse backgrounds and perspectives through teamwork and a strong sense of partnership by shadowing and mentorship from experienced team members and leaders What You’ll Bring to Baird: Pursuing an associate’s or bachelor’s degree in data science, data analytics, computer science, computer engineering, information systems, information technology management, business analytics or related degree Anticipated graduation date of May 2027 or later Experience with data analysis, data profiling, data modeling, SQL, SSIS (or other ETL development tools is a plus) General interest and passion for data Possess a natural curiosity in understanding the application of technology and data to solve business problems Organizational excellence, with the capacity to manage multiple priorities, demonstrate strong attention to detail and ensure high-quality and on-time delivery High level of motivation, proactivity and strategic thinking, with a strong commitment to learning and contributing effectively About Our Intern Program: Jumpstart your career with Baird’s high-impact summer intern program! You’ll gain real-world experience, connect with inspiring leaders and grow through hands-on projects, mentorship and dynamic events. From our Intern Welcome and Baird Gives Back Day to firmwide networking and professional development, you’ll be part of a vibrant, collaborative culture that values your voice and fuels your future. Baird is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status. #LI-DNI Baird is committed to diversity and provides employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy, citizenship, national origin, age, disability, military service, veteran status, sexual orientation, gender identity or expression, genetic information, or any other status protected by law. Baird is an employee-owned, international financial services firm specializing in wealth management, capital markets, private equity and asset management. Our mission is straightforward. We strive “to provide the best financial advice and service to our clients and be the best place to work for all.” Our culture is like no other with extraordinary people who make Baird great for our clients and one another. Nationally recognized as a great place to work since 2004, we invite you to learn more about Baird, our culture and our people. Baird is committed to inclusion &amp; diversity for our clients, our associates and the communities where we live and work. This commitment stems from our culture of integrity, genuine concern for others and respect for the individual. We view inclusion &amp; diversity as an ongoing journey – one of shared responsibility, continuous improvement and a focus on progress. We invite you to join us as we work together to foster an environment where diversity unites rather than divides us.",
       "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20251069-1",
       "job_posted_at_datetime_utc": "2025-09-10T01:06:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "baird-internship-it-data-analytics-year-round-madison"
+      "id": "baird-internship-it-data-analytics-year-round-madison",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Xcel Energy",
       "job_city": "Minneapolis",
       "job_state": "MN",
-      "job_description": "Join Xcel Energy in this exciting opportunity.",
+      "job_description": "Are you looking for an exciting job where you can put your skills and talents to work at a company you can feel proud to be a part of? Do you want a workplace that will challenge you and offer you opportunities to learn and grow? A position at Xcel Energy could be just what you’re looking for.At Xcel Energy, our employees are the driving force behind our success. So we make sure that, here, you can be your best. Doing work that makes a difference for neighbors and communities. Working with a team you can count on to push you. Expanding skills, staying ready for change, and capturing opportunities to grow. All with the support, rewards and recognition you need to thrive – during your internship and beyond.Project Description:Do you like to look at data sets to ﬁnd trends and tendencies? Do you enjoy dealing with complex, multi-variable problems using cutting-edge analytics? Xcel Energy is looking for smart, innovative STEM based interns with analytical, modeling, and machine learning skills to join our team. We develop solutions leveraging various modeling techniques to solve complex problems and then implement scalable solutions in data-driven environments.Typical intern responsibilities may include but are not limited to:Data exploration skills are essential to this position.The ability to look through data, draw conclusions from data and pply the appropriate statistical technique to the data is imperative to this position.We are looking for analytical thinkers that can quickly get a feel for our data and work in a minimal direction.We want you to bring fresh ideas to our team and help us to improve our processes.This position is for a June 1st, 2026 start. These positions may have the possibility to extend beyond the internship’s initial term based on the candidate’s successful performance and Xcel’s business needs.Minimum RequirementsCurrently enrolled in a master’s program for Data Science, Mathematics, Statistics, or similar program SQL /Python proﬁciency.Data Exploration skills: ability to look through data, assess data quality and draw conclusions from the data Experience assessing data qualityApplying appropriate statistical techniques to data explorationExperience with feature engineeringExposure and understanding of foundational statistics concepts and algorithms: linear/logistic regression, random forest, boosting, etc.Passion for learning (new problem domains, algorithms, tools etc) and for analyzing dataAbility to access, manage, transfer, integrate and analyze complex datasetsStrong Verbal/Writing Communications Skills Preferred QualificationsExperience working with large data sets, especially leveraging Databricks and Spark Fluency with PythonExperience with data visualization tools/languages such as Posit, Power BI, etc.Machine learning exposure and AWS experienceExperience with Gitlab, Claude code, & Microsoft Copilot StudioAs a leading combination electricity and natural gas energy company, Xcel Energy offers a comprehensive portfolio of energy-related products and services to 3.4 million electricity and 1.9 million natural gas customers across eight Western and Midwestern states. At Xcel Energy, we strive to be the preferred and trusted provider of the energy our customers need. If you’re ready to be a part of something big, we invite you to join our team.All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.Individuals with a disability who need an accommodation to apply please contact us at recruiting@xcelenergy.com.Non-BargainingThe anticipated starting base pay for this position is: $27.20 per hourThis position is eligible for the following benefits: Pension, 401(k) plan, Paid time off (PTO), HolidaysBenefit plans are subject to change and Xcel Energy has the right to end, suspend, or amend any of its plans, at any time, in whole or in part.In any materials you submit, you may redact or remove age-identifying information including but not limited to dates of school attendance and graduation. You will not be penalized for redacting or removing this information.Deadline to Apply: 01/02/26EEO is the Law | EEO is the Law Supplement | Pay Transparency Nondiscrimination | Equal Opportunity Policy (PDF) | Employee Rights (PDF)ACCESSIBILITY STATEMENTXcel Energy endeavors to make https://www.xcelenergy.com/ accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact Xcel Energy Talent Acquisition at recruiting@xcelenergy.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.",
       "job_apply_link": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Intern_JR110151-1",
       "job_posted_at_datetime_utc": "2025-09-09T23:46:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "xcel-energy-ai-intern-minneapolis"
+      "id": "xcel-energy-ai-intern-minneapolis",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Qorvo",
       "job_city": "Richardson",
       "job_state": "TX",
-      "job_description": "Join Qorvo in this exciting opportunity.",
+      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet. Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Software Engineering Internships are offered in our High Performance Analog, Advanced Cellular, Connectivity and Sensors and Global Operations business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Support existing desktop and web applications using Microsoft technologies. Software development, deployment, and troubleshooting of customer-centric services and applications for manufacturing automation. Partnering tightly with cross-site Manufacturing Systems team members and subject matter experts to determine requirements are meeting client area expectations. Develop and write clean, functional, and testable software applications. Drive technical and other SDLC improvements in collaboration with other technical team members. Initiate and/or participate in established source code change management best practice, and software documentation. Qualifications: Currently enrolled in Information Systems, Computer Science, Engineering, or a related discipline with completion of at least two years of school prior to beginning of internship. 3.0 GPA or higher Proficiency with at least one object-oriented language (e.g., C#, JavaScript, Python) in addition to familiarity with web and front-end frameworks (.NET, Django, React, Knockout JS) Understanding of structured refactoring methodologies Capability implementing selected design patterns (e.g., MVC, MVVM) Familiarity with developing and consuming web services Familiarity with Windows Services Exposure to containerization and orchestration preferably Docker Experience with file parsing, sharing and transfer mechanisms, XML/JSON file formats Working proficiency with relational database design, SQL query construction, and stored procedures DevOps familiarity using GitLab or GitHub Effective oral and written communication skills Ability to work independently as well as in a collaborative, interdisciplinary team environment This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr - $42/hr (subject to change dependent on physical location) Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
       "job_apply_link": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75081/1324617700/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-09-09T23:40:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qorvo-software-engineer-intern-richardson"
+      "id": "qorvo-software-engineer-intern-richardson",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Waystar",
       "job_city": "Louisville",
       "job_state": "KY",
-      "job_description": "Join Waystar in this exciting opportunity.",
+      "job_description": "ABOUT THIS POSITIONSummer 2026 InternshipInterviews begin January 2026 | Offers extended in March | Start date projected for May Location: This internship will be based at one of Waystar’s four basecamp locations, offering an in-person experience designed to foster collaboration and hands-on learning.WHAT YOU'LL DOWaystar is seeking a curious, analytical, and detail-driven Data Analyst Intern to join our Summer 2026 Internship Program. This opportunity is ideal for students who love working with data, uncovering insights, and solving complex problems that drive smarter decisions in the healthcare technology space. As a Data Analyst Intern, you’ll collaborate with cross-functional teams to support data-driven initiatives across the organization. What You’ll Gain: Exposure to healthcare data and analytics tools Hands-on experience with data visualization, reporting, and trend analysis Opportunities to work on meaningful projects that inform strategic decisions Mentorship from experienced analysts and collaboration across departments WHAT YOU'LL NEEDProgram TimelineThe interview process for Summer 2026 internships will begin in January 2026, with offers expected to be extended in March. Interns will officially onboard in May, aligning with the start of the summer program.ABOUT WAYSTARThrough a smart platform and better experience, Waystar helps providers simplify healthcare payments and yield powerful results throughout the complete revenue cycle.Waystar’s healthcare payments platform combines innovative, cloud-based technology, robust data, and unparalleled client support to streamline workflows and improve financials so providers can focus on what matters most: their patients and communities. Waystar is trusted by 1M+ providers, 1K+ hospitals and health systems, and is connected to over 5K commercial and Medicaid/Medicare payers. We are deeply committed to living out our organizational values: honesty; kindness; passion; curiosity; fanatical focus; best work, always; making it happen; and joyful, optimistic & fun.Waystar products have won multiple Best in KLAS® or Category Leader awards since 2010 and earned multiple #1 rankings from Black Book™ surveys since 2012. The Waystar platform supports more than 500,000 providers, 1,000 health systems and hospitals, and 5,000 payers and health plans. For more information, visit waystar.com or follow @Waystar on Twitter. WAYSTAR PERKSCompetitive total rewards (base salary + bonus, if applicable)Customizable benefits package (3 medical plans with Health Saving Account company match)We offer generous paid time off for our non-exempt team members, starting with 3 weeks + 13 paid holidays, including 2 personal floating holidays. We also offer flexible time off for our exempt team members + 13 paid holidaysPaid parental leave (including maternity + paternity leave)Education assistance opportunities and free LinkedIn Learning accessFree mental health and family planning programs, including adoption assistance and fertility support401(K) program with company matchPet insuranceEmployee resource groupsWaystar is proud to be an equal opportunity workplace. We celebrate, value, and support diversity and inclusion. Qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, national origin, disability status, genetics, marital status, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.",
       "job_apply_link": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Analyst-Internship_R2768-1",
       "job_posted_at_datetime_utc": "2025-09-09T23:25:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "waystar-data-analyst-internship-louisville"
+      "id": "waystar-data-analyst-internship-louisville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Texas Instruments",
       "job_city": "Newton",
       "job_state": "IA",
-      "job_description": "Join Texas Instruments in this exciting opportunity.",
+      "job_description": "Pella Corporation Data Science Intern – Summer 2026 Pella, IA (Onsite) Summary: Are you a highly motivated data science student looking to apply your skills to a real-world challenge? We're seeking a talented intern to join our team and help revolutionize the window and door manufacturing industry. As an intern, you'll work alongside experienced data scientists to develop innovative solutions that drive efficiency, quality, and innovation.",
       "job_apply_link": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/248280",
       "job_posted_at_datetime_utc": "2025-09-09T19:31:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "texas-instruments-data-science-intern-newton"
+      "id": "texas-instruments-data-science-intern-newton",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "APEX Analytix",
       "job_city": "Greensboro",
       "job_state": "NC",
-      "job_description": "Join APEX Analytix in this exciting opportunity.",
+      "job_description": "Job Details Description Quick Take: The key function of the Application Support/Implementation Intern is to provide technical leadership an...",
       "job_apply_link": "https://ats.rippling.com/apexanalytix-careers/jobs/9ced9f81-3db3-4c05-87d9-49a10ab1ca1f",
       "job_posted_at_datetime_utc": "2025-09-09T17:16:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "apex-analytix-copy-of-support-implementation-specialist-intern-greensboro"
+      "id": "apex-analytix-copy-of-support-implementation-specialist-intern-greensboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "APEX Analytix",
       "job_city": "Greensboro",
       "job_state": "NC",
-      "job_description": "Join APEX Analytix in this exciting opportunity.",
+      "job_description": "Job Details Description Quick Take: The Data Application Developer Intern will be responsible for developing front-end data applications us...",
       "job_apply_link": "https://ats.rippling.com/apexanalytix-careers/jobs/b6f42a08-a4e8-45f1-868f-567a09112ebc",
       "job_posted_at_datetime_utc": "2025-09-09T17:16:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "apex-analytix-data-application-developer-intern-greensboro"
+      "id": "apex-analytix-data-application-developer-intern-greensboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Allegion",
       "job_city": "Golden",
       "job_state": "CO",
-      "job_description": "Join Allegion in this exciting opportunity.",
+      "job_description": "Creating Peace of Mind by Pioneering Safety and SecurityAt Allegion, we help keep the people you know and love safe and secure where they live, work and visit. With more than 30 brands, 12,000+ employees globally and products sold in 130 countries, we specialize in security around the doorway and beyond. Additionally, in 2024 we were awarded the Gallup Exceptional Workplace Award, which recognizes the most engaged workplace cultures in the world. Summer Intern – Software Engineering – Quality AssuranceAllegion is seeking a highly motivated individual for a Software Quality Assurance Internship. At Allegion, our software teams are focused on building great software that allows our IoT enabled security hardware to do amazing things. In this role you will have the opportunity to do automation testing either on mobile (Android/iOS), API / Microservices, or Web applications. You will also be exposed to AWS/Azure infrastructure, DevOps, and other tools and technologies that we use to build best in class solutions.If you love fun, technically challenging work and want to take our software to the next level, please apply today!What You Will Do: Translate functional requirements and acceptance criteria into a detailed verification test plan and test scripts ensuring comprehensive test coverage.Contribute to existing automated testing frameworks that will ultimately reduce defects, improve quality, and enable the delivery of high-quality software faster.Run automated tests in pipelines using Azure DevOps, Gitlab, CircleCI or other similar tools.Obtain the experience to create a foundation for growth and future opportunities with Allegion.Collaborate with Product Management and Software Development Teams throughout the development process.What You Need to Succeed: Pursuing a degree in Computer Science, Computer Engineering, or relevant discipline.Strong knowledge of at least one programming language like Python, C#, Java Script, Type script etc.Resiliency and ability to adapt quickly.Ability to work independently and as a team player.Effective listening, time management and creative problem-solving techniques A desire to learn, grow and develop by working on projects that will impact Allegion’s business and customersRegardless of your degree, Allegion is a great place to begin your career.You should consider starting your career with us if: You share our vision of seamless access and a safer worldYou share our purpose of creating peace of mind by pioneering safety & securityYou want to build a robust network of experienced and talented professionalsYou want to work for an industry leader and alongside a team of expertsYou are eager to take initiative and take ownership of exciting projectsYou are ready to embrace the Allegion culture and values and develop lifelong connections with your teammatesWhat You’ll Get From Us:An opportunity to be a part of a dedicated team that collaborates on real, hands-on projectsProfessional Growth through exposure to our executive team, leadership-led lunch & learn sessions and mentor/mentee relationshipsMeaningful time to network and get to know your peers through Allegion sponsored activities hosted by the Talent Attraction TeamCompensation: This range is provided by Allegion. Your actual pay will be based on your skills and experience. The expected Base Hourly Wage: $25-$26 per hour. The actual compensation will be determined based on experience and other factors permitted by law. Apply TodayJoin our team of experts today and help us make tomorrow’s world a safer place!Not sure if your experience perfectly aligns with the role? Studies have shown that some people are less likely to apply to jobs unless they meet every single qualification and every single preferred qualification of a job posting. At Allegion, we are dedicated to building a diverse, inclusive, and authentic workplace. So, if you’re excited about this role but your past experience doesn’t align perfectly with every item in the job description, we encourage you to apply anyway. You may be just the right candidate for this role.We Celebrate Who We Are! Allegion is committed to building and maintaining a diverse and inclusive workplace. Together, we embrace all differences and similarities among colleagues, as well as the differences and similarities within the relationships that we foster with customers, suppliers and the communities where we live and work. Whatever your background, experience, race, color, national origin, religion, age, gender, gender identity, disability status, sexual orientation, protected veteran status, or any other characteristic protected by law, we will make sure that you have every opportunity to impress us in your application and the opportunity to give your best at work, not because we’re required to, but because it’s the right thing to do. We are also committed to providing accommodations for persons with disabilities. If for any reason you cannot apply through our career site and require an accommodation or assistance, please contact our Talent Acquisition Team.© Allegion plc, 2023 | Block D, Iveagh Court, Harcourt Road, Dublin 2, Co. Dublin, IrelandREGISTERED IN IRELAND WITH LIMITED LIABILITY REGISTERED NUMBER 527370Allegion is an equal opportunity and affirmative action employerPrivacy Policy",
       "job_apply_link": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR33730",
       "job_posted_at_datetime_utc": "2025-09-09T09:02:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "allegion-software-engineering-quality-assurance-golden"
+      "id": "allegion-software-engineering-quality-assurance-golden",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "Eventual",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Eventual in this exciting opportunity.",
+      "job_description": "Software Engineering Intern – Eventual (San Francisco, CA) About Eventual Eventual enables developers to build the AI systems of the future by making multi-modal data and models work together seamlessly. Every breakthrough AI application—from foundation models to autonomous vehicles relies on processing massive volumes of images, video, and complex data. But today’s data platforms (like Databricks and Snowflake) were built for spreadsheet-like analytics, not the petabytes of multimodal data that power AI. Eventual was founded in 2022 to change that. Our mission is to make working with any kind of data—images, video, audio, text—as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine, Daft , is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can’t. Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens. Backed by Y Combinator, Caffeinated Capital, Array.vc , and top angels from the co-founders of Databricks and Perplexity, we’re just getting started—and we’d love for you to be part of it. Please note: This internship is based in our San Francisco office (Mission District) . We value in-person collaboration and ask interns to be in the office at least 4 days a week. Your Role As a Software Engineering Intern, you’ll work alongside our engineers to contribute to Eventual’s core products and open-source engine. You’ll gain hands-on experience building distributed data systems and products, while learning how to design, implement, and test features that support real-world AI and ML workloads. You’ll get mentorship from our team (ex-Databricks, AWS, Nvidia, Tesla, GitHub Copilot, Pinecone) and the opportunity to make meaningful contributions that reach production. Key Responsibilities Contribute to building features in Eventual’s distributed query engine. Work on developing Eventual’s cloud service. Write clean, maintainable code with guidance from senior engineers. Collaborate with the team to design and implement solutions for real-world data challenges. Assist with testing, debugging, and documenting core system components. What We Look For Currently pursuing a Bachelor’s, Master’s, or PhD in Computer Science (or related field). Strong programming skills in Python and/or Rust. Interest in distributed systems, databases, or data infrastructure. Familiarity with cloud technologies (AWS, GCP, or Azure) is a plus. Excitement to learn from a fast-paced startup environment and contribute to real-world systems.",
       "job_apply_link": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
       "job_posted_at_datetime_utc": "2025-09-09T09:00:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eventual-software-engineer-intern-san-francisco"
+      "id": "eventual-software-engineer-intern-san-francisco",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:10:05.903Z",
     "postedAt": null
   },
   {
