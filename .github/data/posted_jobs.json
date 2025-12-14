@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T04:01:41.827Z",
+  "lastUpdated": "2025-12-14T04:23:31.922Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3378,14 +3378,25 @@
       "sourceUrl": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Foundational-IQ_P748042",
       "discordThreadId": "1449612280814764122",
       "instanceNumber": 1
+    },
+    {
+      "id": "zillow-ai-applied-scientist-phd-intern-next-gen-agentic-and-multi-modal-home-exploration-experience-remote-in-usa-2025-12-14-1",
+      "jobId": "zillow-ai-applied-scientist-phd-intern-next-gen-agentic-and-multi-modal-home-exploration-experience-remote-in-usa",
+      "company": "Zillow",
+      "title": "AI Applied Scientist - PhD Intern - Next-Gen Agentic and Multi-Modal Home Exploration Experience",
+      "postedToDiscord": "2025-12-14T04:23:31.922Z",
+      "sourceDate": "2025-09-24T02:42:11.000Z",
+      "sourceUrl": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/AI-Applied-Scientist---PhD-Intern--Next-Gen-Agentic-and-Multi-Modal-Home-Exploration-Experience_P748043",
+      "discordThreadId": "1449617775772569630",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 307,
+    "totalJobs": 308,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T04:01:41.827Z",
+      "date": "2025-12-14T04:23:31.922Z",
       "archived": 0
     }
   }
