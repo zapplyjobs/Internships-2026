@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "IT Software Development Intern",
-    "employer_name": "Assured Guaranty",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Assured Guaranty in this exciting opportunity.",
-    "job_apply_link": "https://job-boards.greenhouse.io/assuredguaranty/jobs/8180639002",
-    "job_posted_at_datetime_utc": "2025-09-24T06:11:22.000Z",
+    "job_title": "Data Scientist Intern",
+    "employer_name": "Clarios",
+    "job_city": "Milwaukee",
+    "job_state": "WI",
+    "job_description": "Join Clarios in this exciting opportunity.",
+    "job_apply_link": "https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233",
+    "job_posted_at_datetime_utc": "2025-09-24T05:57:41.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "assured-guaranty-it-software-development-intern-new-york",
-    "description_platform": "greenhouse",
+    "id": "clarios-data-scientist-intern-milwaukee",
+    "description_platform": "workday",
     "description_success": false
   }
 ]
