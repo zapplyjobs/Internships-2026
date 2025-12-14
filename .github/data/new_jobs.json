@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineering Intern",
-    "employer_name": "Astronautics",
-    "job_city": "Oak Creek",
-    "job_state": "WI",
-    "job_description": "Join Astronautics in this exciting opportunity.",
-    "job_apply_link": "https://myjobs.adp.com/astronautics/cx/job-details?reqId=5001151496906",
-    "job_posted_at_datetime_utc": "2025-09-22T06:39:02.000Z",
+    "job_title": "Data Scientist Associate Internship",
+    "employer_name": "GDIT",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join GDIT in this exciting opportunity.",
+    "job_apply_link": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
+    "job_posted_at_datetime_utc": "2025-09-22T06:36:27.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "astronautics-software-engineering-intern-oak-creek",
-    "description_platform": "generic",
+    "id": "gdit-data-scientist-associate-internship-remote-in-usa",
+    "description_platform": "workday",
     "description_success": false
   }
 ]
