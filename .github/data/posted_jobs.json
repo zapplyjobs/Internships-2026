@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T09:39:28.258Z",
+  "lastUpdated": "2025-12-14T09:47:14.291Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3686,14 +3686,25 @@
       "sourceUrl": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
       "discordThreadId": "1449697284362080327",
       "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-robotics-intern-mobile-manipulation-behaviors-los-altos-2025-12-14-1",
+      "jobId": "toyota-research-institute-robotics-intern-mobile-manipulation-behaviors-los-altos",
+      "company": "Toyota Research Institute",
+      "title": "Robotics Intern - Mobile Manipulation, Behaviors",
+      "postedToDiscord": "2025-12-14T09:47:14.291Z",
+      "sourceDate": "2025-09-22T07:19:52.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/7468a62e-09de-4fb6-b5a2-779dfbb94e73",
+      "discordThreadId": "1449699239041962097",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 335,
+    "totalJobs": 336,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T09:39:28.258Z",
+      "date": "2025-12-14T09:47:14.291Z",
       "archived": 0
     }
   }

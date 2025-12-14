@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Development, Resort Accessibility and Compliance",
-      "employer_name": "Universal Orlando Resort",
-      "job_city": "Orlando",
-      "job_state": "FL",
-      "job_description": "Join Universal Orlando Resort in this exciting opportunity.",
-      "job_apply_link": "https://jobs.universalparks.com/job/22443305/internship-software-development-resort-accessibility-and-compliance-summer-2026-orlando-fl",
-      "job_posted_at_datetime_utc": "2025-09-22T07:22:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "universal-orlando-resort-software-development-resort-accessibility-and-compliance-orlando",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T07:45:34.917Z",
-    "postedAt": "2025-12-14T09:39:31.269Z"
-  },
-  {
-    "job": {
       "job_title": "Robotics Intern - Mobile Manipulation, Behaviors",
       "employer_name": "Toyota Research Institute",
       "job_city": "Los Altos",
@@ -214,10 +194,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T07:53:49.349Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T09:47:17.303Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Electronic Arts",
       "job_city": "Orlando",
       "job_state": "FL",
-      "job_description": "Join Electronic Arts in this exciting opportunity.",
+      "job_description": "Home ... Open Roles Role Detail General Information Locations: Orlando, Florida, United States of America Role ID 210838 Worker Type Intern - Temporary Employee Studio/Department EA Studios - SPORTS Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. Electronic Arts is looking for students to join our world-class internship experience. Summer 2026 will be better than ever as we bring all interns together on-site for orientation week and prep students for the future ways of work by offering remote and hybrid opportunities depending on your location. For more information about our Early in Career programs, visit https://www.ea.com/careers/early-careersOur teams build meaningful relationships with hundreds of millions of players around the world who love our games. We aim to be the best at meeting players where they are and supporting them throughout their journey with EA. Our teams develop the strategic vision of our products, run outstanding multi-channel campaigns, build global engagement across all touch points, develop global insights, and propel sales and global publishing. We understand the dynamic global landscape so we can bring relevant content, promotions, and help to players anywhere.What You’ll Do:You will report to Producers, Development Directors and Technical Leads to lead the development of bug fixes, game changes, and new features into our games.Qualifications:You are pursuing a Bachelor’s degree in a related field with a graduation date of December 2026 or after.You have working knowledge of Java Or C++, and SQL, PythonYou have knowledge of object-oriented design and implementationYou must be available for a full-time paid internship in the summer of 2026We are only considering students who will be enrolled in an accredited degree program in the summer of 2026, slated to graduate no earlier than December 2026. Applicants must be legally authorized to work in the US on a full-time basis during the 12-week internship. Visa sponsorship is not available for this position.#LI-DNI About Electronic ArtsWe’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. LinkedInID 74884070 Back to Role List Thank you for your interest! This position is no longer accepting applications. Share this role: LinkedIn X WhatsApp Email Facebook",
       "job_apply_link": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
       "job_posted_at_datetime_utc": "2025-09-22T06:49:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "electronic-arts-gameplay-software-engineer-intern-orlando"
+      "id": "electronic-arts-gameplay-software-engineer-intern-orlando",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T09:47:09.901Z",
     "postedAt": null
   },
   {
