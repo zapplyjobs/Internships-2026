@@ -511,18 +511,37 @@ function savePendingQueue(queue) {
 }
 
 /**
- * Clean up posted jobs from queue
+ * Enhanced cleanup: Remove posted jobs and deduplicate queue
+ * @param {Array} queue - Pending posts queue
+ * @param {Set} postedIds - Set of job IDs already posted to Discord
+ * @returns {Array} Cleaned and deduplicated queue
  */
-function cleanupPostedFromQueue(queue) {
+function cleanupPostedFromQueue(queue, postedIds) {
     const beforeCount = queue.length;
-    const cleanedQueue = queue.filter(item => item.status !== 'posted');
-    const removedCount = beforeCount - cleanedQueue.length;
 
-    if (removedCount > 0) {
-        console.log(`🧹 Removed ${removedCount} posted jobs from queue`);
+    // Step 1: Remove jobs already posted to Discord
+    const notPosted = queue.filter(item => !postedIds.has(item.job.id));
+    const removedPosted = beforeCount - notPosted.length;
+
+    // Step 2: Deduplicate by job ID (keep first occurrence, FIFO)
+    const seen = new Set();
+    const deduplicated = notPosted.filter(item => {
+        const id = item.job.id;
+        if (seen.has(id)) {
+            return false; // Duplicate, skip
+        }
+        seen.add(id);
+        return true; // First occurrence, keep
+    });
+
+    const removedDuplicates = notPosted.length - deduplicated.length;
+    const totalRemoved = beforeCount - deduplicated.length;
+
+    if (totalRemoved > 0) {
+        console.log(`🧹 Queue cleanup: removed ${removedPosted} already posted, ${removedDuplicates} duplicates (${totalRemoved} total, ${deduplicated.length} remaining)`);
     }
 
-    return cleanedQueue;
+    return deduplicated;
 }
 
 // Load seen jobs for deduplication with error handling and validation
@@ -597,15 +616,69 @@ function loadSeenJobsStore() {
     }
 }
 
-// Main job processing function
+// Load posted jobs for accurate deduplication
+function loadPostedJobsStore() {
+    const dataDir = path.join(process.cwd(), '.github', 'data');
+    const postedPath = path.join(dataDir, 'posted_jobs.json');
+
+    try {
+        if (!fs.existsSync(postedPath)) {
+            console.log('ℹ️ No existing posted_jobs.json found - starting fresh');
+            return new Set();
+        }
+
+        const fileContent = fs.readFileSync(postedPath, 'utf8');
+        if (!fileContent.trim()) {
+            console.log('⚠️ Empty posted_jobs.json file - starting fresh');
+            return new Set();
+        }
+
+        const postedData = JSON.parse(fileContent);
+
+        // Handle V2 format (current): {version: 2, jobs: [...], lastUpdated: "...", metadata: {}}
+        if (postedData.version === 2 && Array.isArray(postedData.jobs)) {
+            const validPostedJobs = postedData.jobs
+                .map(job => job.jobId || job.id)
+                .filter(id => typeof id === 'string' && id.trim().length > 0);
+
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V2 format)`);
+            return new Set(validPostedJobs);
+        }
+
+        // Handle V1 format (backwards compatibility): [...]
+        if (Array.isArray(postedData)) {
+            const validPostedJobs = postedData.filter(id => typeof id === 'string' && id.trim().length > 0);
+
+            if (validPostedJobs.length !== postedData.length) {
+                console.log(`⚠️ Filtered ${postedData.length - validPostedJobs.length} invalid entries from posted_jobs.json`);
+            }
+
+            console.log(`✅ Loaded ${validPostedJobs.length} previously posted jobs for deduplication (V1 format)`);
+            return new Set(validPostedJobs);
+        }
+
+        console.log('⚠️ Invalid posted_jobs.json format - starting fresh');
+        return new Set();
+
+    } catch (error) {
+        console.error('❌ Error loading posted_jobs.json:', error.message);
+        console.log('ℹ️ Starting with empty posted jobs set');
+
+        return new Set();
+    }
+}
+
 // Main job processing function
 async function processJobs() {
     console.log('🚀 Starting job processing...');
     
     try {
-        // Load seen jobs for deduplication
-        const seenIds = loadSeenJobsStore();
-        
+        // Load posted jobs for accurate deduplication
+        // Use posted_jobs.json (what we've successfully posted to Discord)
+        // instead of seen_jobs.json (what we've fetched from APIs)
+        const postedIds = loadPostedJobsStore();
+        const seenIds = loadSeenJobsStore(); // Keep for backwards compatibility
+
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
         
@@ -663,7 +736,7 @@ async function processJobs() {
         // STEP 1: Load pending queue and clean up posted jobs (MOVED UP)
         // Load queue BEFORE filtering to check for duplicates already in queue
         let queue = loadPendingQueue();
-        queue = cleanupPostedFromQueue(queue);
+        queue = cleanupPostedFromQueue(queue, postedIds);
 
         // Create set of job IDs already in queue to prevent duplicate additions
         const queueIds = new Set(queue.map(item => item.job.id));
