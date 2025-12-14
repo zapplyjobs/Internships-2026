@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Data Analytics Graduate Internship",
-      "employer_name": "Citizens Financial Group",
-      "job_city": "Coralville",
-      "job_state": "IA",
-      "job_description": "Data Analyst Graduate Internship We’re developing the next generation of Colleagues! Join the data-driven culture at Citizens and learn how we keep customers at the center of everything we do. We are looking for interns to join our 10-week summer internship program and support innovative data & analytics initiatives across the bank. Experience during the program Our program offers interns a unique dual experience – Participants spend half of their time individually partnered with a host team within the data & analytics community to participate in ongoing work. Assignments for data analyst interns may be in areas aligned to advanced analytics, reporting and dashboarding, data visualization, data mining, automation, root-cause analysis, cohort analysis, and other ad-hoc analysis. This component of the program provides direct exposure to teams in areas that align to intern education and interests. The other half of the time, interns work on a cross-functional team, collabo...",
-      "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41914",
-      "job_posted_at_datetime_utc": "2025-09-10T22:40:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "citizens-financial-group-data-analytics-graduate-internship-coralville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:21:06.745Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Graduate Internship",
-      "employer_name": "Citizens Financial Group",
-      "job_city": "Coralville",
-      "job_state": "IA",
-      "job_description": "Data Science Graduate Internship We’re developing the next generation of Colleagues! Join the data-driven culture at Citizens and learn how we keep customers at the center of everything we do. We are looking for interns to join our 10-week summer internship program and support innovative data & analytics initiatives across the bank. Experience during the program Our program offers interns a unique dual experience – Participants spend half of their time individually partnered with a host team within the data & analytics community to participate in ongoing work. Assignments for data science interns may be in areas aligned to statistical modeling, machine learning, natural language processing, computer vision, artificial intelligence, advanced analytics, and other areas. This component of the program provides direct exposure to teams in areas that align to intern education and interests. The other half of the time, interns work on a cross-functional team, collaborating wit...",
-      "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41917",
-      "job_posted_at_datetime_utc": "2025-09-10T22:40:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "citizens-financial-group-data-science-graduate-internship-coralville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Business Intelligence Intern",
-      "employer_name": "Western & Southern Financial Group",
-      "job_city": "Cincinnati",
-      "job_state": "OH",
-      "job_description": "<h2>Overview</h2> <p>Provide data and reporting support for multiple business customers. Work includes migrating reports from outdated technology to Tableau and Cognos. You'll demonstrate strong analytical problem-solving skills to assure accuracy. You will build strong relationships as you communicate successfully with associates at all levels to obtain their approval on the newly converted reports. You'll also work to develop new reports and visualizations through iterative development cycles with business customers.</p> <h2>Responsibilities</h2> <p><strong>What you will do:</strong></p> <ul> <li>Crystal Reports: Assist conversion of outdated reports to Tableau/Cognos.</li> <li>Tableau: Develop dynamic and interactive data visualizations.</li> <li>Cognos: Create reports intended for distributed output.</li> <li>TFS: Use Team Foundation Server to log and track data work.</li> <li>Performs other duties as assigned.</li> <li>Complies with all policies and standards.</li> </ul> <h2>Qualifications</h2> <ul> <li>Incoming junior/senior or current graduate student. - Required</li> <li>Major field of study in Data, Analytics or a related field. - Required</li> <li>Strong working knowledge of SQL in a server-based environment, using tools such as PL/SQL Developer, Oracle Developer, or MS SQL Server Management Studio</li> <li>Demonstrated knowledge of relational databases</li> <li>Beginner to moderate experience with business intelligence tools like Tableau, Cognos, Microsoft BI, etc.</li> <li>Demonstrated ability to respond in a positive, professional manner to multiple deadlines and shifting priorities</li> <li>Demonstrated experience identifying and solving problems independently.</li> </ul> <p><strong>Work Setting/Position Demands:</strong></p> <ul> <li>Works in an office setting and remains in a stationary position for long periods of time while working at a desk, on a computer or with other standard office equipment, or while in meetings.</li> <li>Requires the ability to verbally communicate and exchange accurate information to customers and associates on a regular basis.</li> <li>Requires visual acuity to read and interpret a variety of correspondence, procedures, reports and forms via paper and electronic documents, visual inspection involving small defects; small parts, and/or operation of machinery (including inspection); using measurement devices continuously. Visual acuity is required to determine accuracy, neatness, and thoroughness of work assigned.</li> <li>Requires the ability to prepare written correspondence, reports and forms using prescribed formats and conforming to rules of punctuation, grammar, diction, and style on a regular basis.</li> <li>Requires the ability to apply principles of logical thinking to define problems, collect data, establish facts, and draw valid conclusions</li> <li>Performs substantial movement of wrists, hands, and fingers for continuous computer work.</li> <li>Extended hours required during peak workloads or special projects/events.</li> </ul> <p><strong>Travel Requirements:</strong></p> <ul> <li>None</li> </ul>",
-      "job_apply_link": "https://careers-westernsouthern.icims.com/jobs/23639/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-10T22:32:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "western-southern-financial-group-business-intelligence-intern-cincinnati",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Engineering Intern",
-      "employer_name": "Lennox International",
-      "job_city": "Richardson",
-      "job_state": "TX",
-      "job_description": "<h2>Who We Are</h2> <p><strong>Lennox (NYSE: LII)</strong> Driven by 130 years of legacy, HVAC and refrigeration success, Lennox provides our residential and commercial customers with industry-leading climate-control solutions. At Lennox, we win as a team, aiming for excellence and delivering innovative, sustainable products and services. Our culture guides us and creates a workplace where all employees feel heard and welcomed. Lennox is a global community that values each team member’s contributions and offers a supportive environment for career development. Come, stay, and grow with us.</p> <h2>What Drives Success</h2> <p>As an&nbsp;Intern&nbsp;at Lennox, you will be a part of a team of innovative and knowledgeable industry professionals. You can expect to participate in impactful, developmental projects designed for your specific area of focus. This is approximately a 10 to 12-week program that will provide you with real work experiences to grow your career and provide exposure to business leaders throughout the company.</p> <p>&nbsp;</p> <p>Successful interns will have the potential opportunity of joining Lennox Full-Time upon graduation. Relocation and/or travel may be required for your position.</p> <p>&nbsp;</p> <p><strong>WHAT IS IN IT FOR YOU?</strong><strong>&nbsp;</strong></p> <ul> <li><strong>Meaningful Projects:</strong> Engage in hands-on, impactful projects that contribute to real business outcomes, allowing you to make a difference from day one.</li> <li><strong>Internship Community:</strong> Become part of a supportive community of fellow interns, participating in social events, team-building activities, and engagement initiatives.</li> <li><strong>Exposure to Industry Innovation:</strong> Immerse yourself in a dynamic and innovative environment, gaining exposure to cutting-edge technologies, trends, and practices within the HVAC and manufacturing industry.</li> <li><strong>Learning and Development:</strong> Access to a variety of learning resources, workshops, and training sessions tailored to enhance your skills, expand your knowledge, and foster continuous learning.</li> <li><strong>Competitive Pay &amp; Relocation Assistance:</strong> Receive a competitive compensation package, recognizing the value of your contributions and the skills you bring to the table. Those relocating also receive assistance to help with their move.</li> </ul> <p><strong>WHAT WILL YOU DO?&nbsp;</strong></p> <ul> <li>Collaborate on building agentic AI systems that automate diagnostics and decision-making in engineering workflows.</li> <li>Develop and validate machine learning models for forecasting, quoting, and operational optimization.</li> <li>Conduct data analysis and feature engineering using structured and unstructured enterprise datasets.</li> <li>Contribute to LLM-based agent development, including prompt design, tool integration, and fallback orchestration.</li> <li>Assist in deploying models and agents using cloud technologies and secure enterprise pipelines.</li> <li>Participate in AI governance, ensuring models comply with data policies and learn from feedback.</li> <li>Work cross-functionally with product, engineering, and business teams to deliver impactful solutions.</li> </ul> <p>&nbsp;</p> <p><strong>WHAT DO YOU NEED TO SUCCEED?&nbsp;</strong></p> <p>&nbsp;</p> <p>Required Qualifications:&nbsp;</p> <ul> <li>Pursuing a Masters degree in a related field</li> <li>Strong foundation in machine learning and data science, including regression, classification, and time series modeling.</li> <li>Strong written and verbal communication</li> <li>Proficiency in Python and data tools such as Pandas, NumPy, Scikit-learn, and SQL</li> <li>Understanding of GenAI and LLMs, with interest in prompt engineering, agentic workflows, and tool integration</li> <li>Ability to analyze structured and unstructured data, perform feature engineering, and build interpretable models.</li> </ul> <p><strong>WHAT WILL GIVE YOU AN EDGE?&nbsp;</strong></p> <p>&nbsp;</p> <p>Preferred Qualifications:&nbsp;</p> <ul> <li>Interest or desire to lead project teams</li> <li>Well organized &amp; detail oriented</li> <li>Ability to work independent as well as part of a team</li> <li>Passion for producing high quality work</li> </ul> <h2>What We Are Looking For</h2> <p>Requires current enrollment in a Masters program.Developing professional knowledge in the area of expertise. Solid written and verbal communication skills. Proficient in Microsoft Office.</p> <h2>What We Offer</h2> <p>WHAT WE OFFER:</p> <p>&nbsp;</p> <p>Compensation:&nbsp;This is an hourly non-exempt role. The starting pay range for this role and market is between $22.50-$25.00/hour. This rate is based on the intern's current year in their respective university programs. Graduate students may receive a higher rate of pay based on their year in school. Employees in this role are also eligible to earn overtime when they work more than 40 hours in a week (or as otherwise required by state law).</p> <p>&nbsp;</p> <p>Our Culture:&nbsp;At Lennox, our Core Values of Integrity, Respect &amp; Excellence are ingrained in the fabric of the organization.&nbsp; They define our culture – which is about how we do business and how we treat others. Lennox is not just a workplace; we are a global community that values each team member’s contributions. As an equal opportunity employer, we are committed to recruit, develop, and retain talented individuals from a wide range of backgrounds, ensuring that everyone has the opportunity to succeed and contribute to our continued growth and success. At Lennox, you’ll take pride in our brands, knowing you are part of something special. Come, stay, and grow with us!</p> <p>&nbsp;</p> <p>Disclaimers:&nbsp;The&nbsp;compensation&nbsp;and&nbsp;benefits&nbsp;information&nbsp;is&nbsp;accurate&nbsp;as&nbsp;of&nbsp;the&nbsp;date&nbsp;of&nbsp;this posting. Lennox reserves the right to modify this information at any time, with or without notice, subject to applicable law.&nbsp;</p>",
-      "job_apply_link": "https://uscareers-lennox.icims.com/jobs/49999/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-10T22:30:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "lennox-international-ai-engineering-intern-richardson",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Software Engineering Internship",
-      "employer_name": "Keysight Technologies",
-      "job_city": "Calabasas",
-      "job_state": "CA",
-      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\"><span>We are looking for a passionate and energetic intern to undertake real-world commercial challenges of platform software development. You will be working on software running on various hardware platforms focused on Network Testing Solutions. Ideal candidate is an CS or CE major with very strong CS background.</span></p> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\"><strong><span data-olk-copy-source=\"MessageBody\">Education:</span></strong></p><ul><li><span>Currently pursuing a&nbsp;<strong>BS, MS, or PhD</strong>&nbsp;in&nbsp;<strong>Computer Science (CS)</strong>&nbsp;or&nbsp;<strong>Computer Engineering (CE)</strong>.</span></li></ul><p style=\"margin: 0px;\"><strong><span>Technical Skills:</span></strong></p><ul><li><span>Strong foundation in&nbsp;<strong>software development</strong>, particularly in&nbsp;<strong>Linux-based environments</strong>.</span></li><li><span>Proficient in&nbsp;<strong>object-oriented analysis, design, and programming</strong>.</span></li><li><span>Advanced programming experience in one or more of the following languages:</span><ul><li><strong><span>Golang</span></strong></li><li><strong><span>Python</span></strong></li><li><strong><span>C++</span></strong></li><li><strong><span>Java</span></strong><strong><span>&nbsp;</span></strong></li></ul></li></ul><p style=\"margin: 0px;\"><strong><span>Preferred Experience:</span></strong></p><ul><li><span>Familiarity with&nbsp;<strong>Cloud technologies</strong>&nbsp;such as:</span><ul><li><strong><span>Docker</span></strong></li><li><strong><span>Kubernetes</span></strong></li></ul></li><li><span>Exposure to&nbsp;<strong>Linux internals and technologies</strong>&nbsp;including:</span><ul><li><strong><span>Kernel</span></strong></li><li><strong><span>NetworkManager</span></strong></li><li><strong><span>systemd</span></strong></li></ul></li></ul><p style=\"margin: 0px;\"><strong><span>Soft Skills:</span></strong></p><ul type=\"disc\"><li><span>Demonstrated ability to work effectively in&nbsp;<strong>team environments</strong>.</span></li><li><span>Strong&nbsp;<strong>communication skills</strong>, both verbal and written.</span></li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Candidates who wish to be considered must be enrolled in a accredited college/university as of September 2026. Applicants who have graduated before September 2026 will not be considered unless they are entering/applying to a MS or PHD program after graduating.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship for employment visa status (e.g., H-1B Visa status) may not be considered.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">California Pay Range: $31.33 - $33.02 per hour</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Based on experience, education and skills, most offers will be between the minimum and the midpoint of the Salary Range listed above.</p><p style=\"margin: 0px;\">Note: For other locations, pay ranges will vary by region.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
-      "job_apply_link": "https://jobs.keysight.com/jobs/49413?lang=en-us&icims=1",
-      "job_posted_at_datetime_utc": "2025-09-10T22:29:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-software-engineering-internship-calabasas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Management Graduate Internship",
-      "employer_name": "Citizens Financial Group",
-      "job_city": "Coralville",
-      "job_state": "IA",
-      "job_description": "Data Management Graduate Internship We’re developing the next generation of Colleagues! Join the data-driven culture at Citizens and learn how we keep customers at the center of everything we do. We are looking for interns to join our 10-week summer internship program and support innovative data & analytics initiatives across the bank. Experience during the program Our program offers interns a unique dual experience – Participants spend half of their time individually partnered with a host team within the data & analytics community to participate in ongoing work. Assignments for data analyst interns may be in areas aligned to data quality monitoring, metadata management, ETL support, data integration, SQL development, cloud-based data tools, and exploratory data analysis- including tasks related to reporting, dashboarding, and ad-hoc investigations. This component of the program provides direct exposure to teams in areas that align to intern education and interests. The oth...",
-      "job_apply_link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41915",
-      "job_posted_at_datetime_utc": "2025-09-10T22:27:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "citizens-financial-group-data-management-graduate-internship-coralville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Manufacturing Data Analytics Intern",
-      "employer_name": "Oshkosh",
-      "job_city": "Chambersburg",
-      "job_state": "PA",
-      "job_description": "About JLG, an Oshkosh companyJLG began in 1969, when our founder, John L. Grove set out to resolve growing safety concerns in the construction industry. Since then we have been committed to understanding the challenges and delivering innovative solutions to the access market. We partner with customers to provide quality equipment, training opportunities and trusted support within the access industry. We are a global company, and our products—including mobile elevating work platforms, telehandlers, utility vehicles and accessories—can be found all over the world.Assist the Manufacturing Engineering department in successfully achieving manufacturing goals and contribute to continuous improvement efforts. The Manufacturing Data Analytics Intern will receive assignments from the Manager of Manufacturing, or an assigned representative, and will be encouraged to contribute ideas and suggestions.YOUR IMPACTSupport visualization of factory data (quality, availability, performance) to provide insights and make decisionsCreate Custom Ignition dashboards Provide statistical analysis of weld, paint, and assembly data to create predictive models –Suggest Opportunities for automated feedback in paint system, smart torque tools, as well as new robotic welding systemsPerform time studies.Perform work station/cell analyses to improve productivity and quality.Provide input for manufacturing fixtures and tooling.Assist with plant layout and work station design.Learn and use ERP manufacturing software.All other duties or projects as assigned.MINIMUM QUALIFICATIONS Student working towards a Bachelor’s degree in Data analytics, Industrial engineering, Manufacturing or mechanical engineering or computer scienceCumulative GPA of 3.0 or above.STANDOUT QUALIFICATIONS Proficient in Excel and SQLFamiliar with Power BIFamiliar with lean manufacturing principles, six sigma or industrial process optimizationWORKING CONDITIONS The following represents general working conditions for this role. Specific conditions may vary depending on business needs and individual circumstances.This role combines office-based administrative duties with physical activity in field or production environments.In the office setting, tasks may require extended computer use, sitting, and attending meetings.Field or floor work may involve walking across various terrains or shop floors, standing, moderate lifting (up to 50 pounds), climbing stairs, and exposure to varying temperatures or noise levels.Must be able to shift focus between detailed cognitive work and occasional physical tasks as needed.Reasonable accommodations will be provided for qualified individuals with disabilities to support performance across both office and field responsibilities.WHY JLG, AN OSHKOSH COMPANY?Moving the future forward is our priority and this includes your future. We encourage professional development and champion our employees’ success through various skills and training opportunities. Named one of the World’s Most Ethical Companies™ by Ethisphere Institute for six consecutive years, everything we do at Oshkosh is guided by our core values and the ~15k+ team members around the world who embody them.We put people first. We do the right thing. We persevere. We are better together.Pay Range:$18.00 - $37.00The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success.Oshkosh is committed to working with and offering reasonable accommodation to job applicants with disabilities. If you need assistance or an accommodation due to disability for any part of the employment process, please contact us at corporatetalentacquisition@oshkoshcorp.com.Oshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no way affect the decision regarding an employment application.Oshkosh Corporation will not discharge or in any manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with Oshkosh Corporation's legal duty to furnish information.Certain positions with Oshkosh Corporation require access to controlled goods and technologies subject to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be \"U.S. Persons,\" as defined in these regulations. Generally, a \"U.S. Person\" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum.",
-      "job_apply_link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Data-Analytics-Intern_R39615",
-      "job_posted_at_datetime_utc": "2025-09-10T22:20:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oshkosh-manufacturing-data-analytics-intern-chambersburg",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist Intern - Digital Technology",
-      "employer_name": "Oshkosh",
-      "job_city": "Hagerstown",
-      "job_state": "MD",
-      "job_description": "About JLG, an Oshkosh companyJLG began in 1969, when our founder, John L. Grove set out to resolve growing safety concerns in the construction industry. Since then we have been committed to understanding the challenges and delivering innovative solutions to the access market. We partner with customers to provide quality equipment, training opportunities and trusted support within the access industry. We are a global company, and our products—including mobile elevating work platforms, telehandlers, utility vehicles and accessories—can be found all over the world.As the Digital Technology (DT) Intern, you will support various departments within the DT function, including Data Management, Systems Development, Business Analysis, Testing, Project Management, Cyber Security, EOC, Service Desk, and Technical Analysis. This role will give you the opportunity to work side by side with DT professionals and participate in numerous projects.YOUR IMPACT These duties are not meant to be all-inclusive and other duties may be assigned:Provide day-to-day support to designated DT department.Learn how to identify, analyze, and apply information technology business practices to support strategic business process and plans.Participate as required to design, develop, test, and integrate technology.Participate in the implementation of information technology and business processes.Support, evaluate, and continuously improve information technology and business processes to maintain alignment with business plans.Perform activities accordingly to project plans and schedule.MINIMUM QUALIFICATIONS Student working towards an undergraduate degree in Computer Science, Information Systems, Information Security, or a related field.General understanding of information technology and concepts.Experience with Microsoft Office SuiteDemonstrated excellence in customer service; verbal and written communication skills.Ability to work independently while prioritizing workload.Flexible and adaptable to work under deadlines and/or changing needs.Detailed oriented and quality focuses.Analytical and problem solving skills. STANDOUT QUALIFICATIONSInternship experience in the Global DT field.Experience with Windows XP, Linux and other relevant tools.WORKING CONDITIONSThe following represents general working conditions for this office-based role. Specific conditions may vary depending on business needs and individual circumstances.This role is primarily performed in a professional office environment with standard lighting, ventilation, and temperature-controlled settings.Duties are largely sedentary, requiring extended periods of sitting and using a computer and telephone.Visual acuity to operate a computer and read documents is required, along with auditory ability to participate in virtual and in-person meetings.Occasional movement within the office environment is necessary, including walking short distances, standing, or reaching for files.Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role.Pay Range:$18.00 - $37.00The above pay range reflects the minimum and maximum target pay for the position across all U.S. locations. Within this range, individual pay is determined by various factors, including the scope and responsibilities of the role, the candidate's experience, education and skills, as well as the equity of pay among team members in similar positions. Beyond offering a competitive total rewards package, we prioritize a people-first culture and offer various opportunities to support team member growth and success.Oshkosh is committed to working with and offering reasonable accommodation to job applicants with disabilities. If you need assistance or an accommodation due to disability for any part of the employment process, please contact us at corporatetalentacquisition@oshkoshcorp.com.Oshkosh Corporation is a merit-based Equal Opportunity Employer. Job opportunities are open for application to all qualified individuals and selection decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, or other protected characteristic. To the extent that information is provided or collected regarding categories as provided by law it will in no way affect the decision regarding an employment application.Oshkosh Corporation will not discharge or in any manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with Oshkosh Corporation's legal duty to furnish information.Certain positions with Oshkosh Corporation require access to controlled goods and technologies subject to the International Traffic in Arms Regulations or the Export Administration Regulations. Applicants for these positions may need to be \"U.S. Persons,\" as defined in these regulations. Generally, a \"U.S. Person\" is a U.S. citizen, lawful permanent resident, or an individual who has been admitted as a refugee or granted asylum.",
-      "job_apply_link": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Data-Scientist-Intern---Digital-Technology_R39792",
-      "job_posted_at_datetime_utc": "2025-09-10T22:20:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oshkosh-data-scientist-intern-digital-technology-hagerstown",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Systems Engineer Intern",
-      "employer_name": "Peraton",
-      "job_city": "Blacksburg",
-      "job_state": "VA",
-      "job_description": "<h2>Responsibilities</h2> <p>Peraton is seeking <strong>Summer 2026 Systems Engineer Interns</strong> to join our <strong>Internal Research &amp; Development (IRAD) program</strong> which will be conducted in our <strong>Herndon, VA, West Lafayette, IN</strong> or <strong>Blacksburg, VA</strong> offices.</p> <p>&nbsp;</p> <p>Join our Technology and Engineering Software Delivery Center and support exciting, advanced research projects in areas such as communications, space, cybersecurity, defense, health, and mobile.&nbsp; You’ll have the opportunity to work in a collaborative, supportive environment with our full-time staff, allowing you to grow your skills and your career while building experience in a variety of different projects and domains.&nbsp; You’ll work in an Agile software development environment supporting areas such as requirements/story development, IT integration, cloud computing, DevSecOps, and automated testing.&nbsp; You’ll also get the chance to obtain certifications in leading technologies to enhance your skills, such as Amazon Web Services.</p> <p>&nbsp;</p> <p>We ask that each intern be available to work the duration of the ten weeks (June to August) and commit to working a minimum of 35-40 hours per week. This program is geared toward technical college students, actively enrolled at a four-year university, who will be rising into their junior or senior years. However, strong underclassmen may be considered if they have declared their major and have completed qualified coursework.</p> <h2>Qualifications</h2> <p><strong>Required Qualifications:</strong></p> <ul> <li>HS Diploma and some advanced level training. </li> <li>U.S. Citizenship.</li> <li>Have completed progress toward a bachelor’s degree in systems engineering, computer engineering, electrical engineering, information systems, or a related field.</li> <li>Familiarity with one or more object-oriented or scripting programming languages and exposure to software engineering processes.</li> <li>Hands-on engineering experience through coursework and/or prior internships.</li> <li>Strong analytical and problem-solving skills.</li> <li>Ability to quickly adapt and learn new technologies and concepts. </li> <li>Self-motivated, independent, detail oriented, responsible team-player.</li> <li>Strong written and oral communication skills.</li> </ul> <p><strong>Desired Qualifications:</strong></p> <ul> <li>3.0 and above GPA.</li> <li>Exposure to Agile software development processes.</li> <li>Exposure to Windows and Linux operating systems, database technologies, web application. servers, and/or automated testing tools.</li> <li>Familiarity with application or network installations, configuration, and/or administration.</li> <li>Exposure to cloud computing technologies.</li> </ul> <p>&nbsp;</p> <p>#PeratonIntern</p> <h2>Peraton Overview</h2> <p>Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space, air, and cyberspace. The company serves as a valued partner to essential government agencies and supports every branch of the U.S. armed forces. Each day, our employees do the can’t be done by solving the most daunting challenges facing our customers. Visit peraton.com to learn how we’re keeping people around the world safe and secure.</p> <h2>Target Salary Range</h2>The rate / range per hour below represents the typical salary range for this position. Salary is determined by various factors, including but not limited to, the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and business and contract considerations. Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. <h2>SCA / Union / Intern Rate or Range</h2>$25.00/hour <h2>EEO</h2>EEO: Equal opportunity employer, including disability and protected veterans, or other characteristics protected by law.",
-      "job_apply_link": "https://careers-peraton.icims.com/jobs/158533/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-10T21:38:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "peraton-systems-engineer-intern-blacksburg",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": "2025-12-14T21:42:09.368Z"
-  },
-  {
-    "job": {
       "job_title": "Software Development Co-Op",
       "employer_name": "Medpace, Inc.",
       "job_city": "Cincinnati",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:31:56.508Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T21:41:39.630Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T21:52:49.947Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "U.S. Venture",
       "job_city": "Appleton",
       "job_state": "WI",
-      "job_description": "Join U.S. Venture in this exciting opportunity.",
+      "job_description": "POSITION SUMMARYWe are seeking a Software Engineer Intern for our Summer 2026 Internship Program. This intern will support our IGEN division in a collaborative, challenging, and rewarding position where you will be guiding and supporting industry with the next generation excise tax software solution. The Software Engineer Intern will develop and modify existing web-based applications. U.S. Venture’s Internship Program runs May - August. Dates may vary based on individual class schedules. This position is located in Appleton, WI and will start at 1025 West Navitus Dr, Appleton, WI 54913. We are excited to be transitioning to our new corporate headquarters during this internship timeframe and this position will eventually be located at 222 W College Avenue, Appleton, WI 54911.JOB RESPONSIBILITIESApplications vary from C# Service Jobs to Web Applications to Interfaces Windows Applications, Web Service Applications, and Forms Development with internal tool Working with SQL Databases on a regular basis Develop and modify web based applications QUALIFICATIONSCurrent student pursuing a degree in Computer Science, Application Development or Web DevelopmentJunior or Senior status preferred.Prefer Microsoft .Net, Java, JavaScript, CSS SQL or similar database experience DIVISION:IGEN U.S. Venture requires that a team member have and maintain authorization to work in the country in which the role is based. In general, U.S. Venture does not sponsor candidates for nonimmigrant visas or permanent residency unless based on business need. U.S. Venture will not accept unsolicited resumes from recruiters or employment agencies. In the absence of an executed recruitment Master Service Agreement, there will be no obligation to any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without an agreement, U.S. Venture shall reserve the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. Any unsolicited resumes, including those submitted to hiring managers, shall be deemed the property of U.S. Venture.U.S. Venture, Inc. is an equal opportunity employer that is committed to inclusion and diversity. We ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender, gender identity or expression, marital status, age, national origin, disability, veteran status, genetic information, or other protected characteristic. If you need assistance or an accommodation due to a disability, you may call Human Resources at (920) 739-6101.",
       "job_apply_link": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1",
       "job_posted_at_datetime_utc": "2025-09-10T13:31:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "u-s-venture-software-engineer-intern-igen-appleton"
+      "id": "u-s-venture-software-engineer-intern-igen-appleton",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -428,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-09-10T13:22:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-san-diego"
+      "id": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-san-diego",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -446,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-09-10T13:20:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nelnet-intern-ai-enablement-lincoln"
+      "id": "nelnet-intern-ai-enablement-lincoln",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "TWG Global",
       "job_city": "Santa Monica",
       "job_state": "CA",
-      "job_description": "Join TWG Global in this exciting opportunity.",
+      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
       "job_apply_link": "https://apply.workable.com/twg-global/j/17D884D060/",
       "job_posted_at_datetime_utc": "2025-09-10T13:14:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-graphs-santa-monica"
+      "id": "twg-global-ai-ml-scientist-intern-graphs-santa-monica",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "TWG Global",
       "job_city": "Santa Monica",
       "job_state": "CA",
-      "job_description": "Join TWG Global in this exciting opportunity.",
+      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
       "job_apply_link": "https://apply.workable.com/twg-global/j/15B958D8CC/",
       "job_posted_at_datetime_utc": "2025-09-10T13:13:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-quantitative-research-data-science-santa-monica"
+      "id": "twg-global-ai-ml-scientist-intern-quantitative-research-data-science-santa-monica",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "TWG Global",
       "job_city": "Santa Monica",
       "job_state": "CA",
-      "job_description": "Join TWG Global in this exciting opportunity.",
+      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
       "job_apply_link": "https://apply.workable.com/twg-global/j/5FADB8A7EE/",
       "job_posted_at_datetime_utc": "2025-09-10T13:12:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-simulation-optimization-and-reinforcement-learning-santa-monica"
+      "id": "twg-global-ai-ml-scientist-intern-simulation-optimization-and-reinforcement-learning-santa-monica",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "TWG Global",
       "job_city": "Santa Monica",
       "job_state": "CA",
-      "job_description": "Join TWG Global in this exciting opportunity.",
+      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
       "job_apply_link": "https://apply.workable.com/twg-global/j/4458DA5457/",
       "job_posted_at_datetime_utc": "2025-09-10T13:11:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "twg-global-ai-engineering-intern-santa-monica"
+      "id": "twg-global-ai-engineering-intern-santa-monica",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "TWG Global",
       "job_city": "Santa Monica",
       "job_state": "CA",
-      "job_description": "Join TWG Global in this exciting opportunity.",
+      "job_description": "The Organization&nbsp;&nbsp;At TWG Group Holdings, LLC (“TWG Global”), we drive innovation and business transformation across a diverse portfolio—including investments, finance, insurance, and media—by leveraging data and AI as core assets. Our...",
       "job_apply_link": "https://apply.workable.com/twg-global/j/95E27142C1/",
       "job_posted_at_datetime_utc": "2025-09-10T13:10:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "twg-global-ai-ml-scientist-intern-natural-language-processing-santa-monica"
+      "id": "twg-global-ai-ml-scientist-intern-natural-language-processing-santa-monica",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-10T13:08:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "salesforce-salesforce-ai-research-palo-alto"
+      "id": "salesforce-salesforce-ai-research-palo-alto",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T21:52:20.885Z",
     "postedAt": null
   },
   {
