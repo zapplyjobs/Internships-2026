@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T11:27:26.305Z",
+  "lastUpdated": "2025-12-14T11:35:26.716Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3807,14 +3807,25 @@
       "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
       "discordThreadId": "1449724455000735785",
       "instanceNumber": 1
+    },
+    {
+      "id": "spectrum-devops-associate-greenwood-village-2025-12-14-1",
+      "jobId": "spectrum-devops-associate-greenwood-village",
+      "company": "Spectrum",
+      "title": "DevOps Associate",
+      "postedToDiscord": "2025-12-14T11:35:26.716Z",
+      "sourceDate": "2025-09-22T06:41:45.000Z",
+      "sourceUrl": "https://jobs.spectrum.com/job/-/-/4673/86297196016",
+      "discordThreadId": "1449726470170742894",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 346,
+    "totalJobs": 347,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T11:27:26.305Z",
+      "date": "2025-12-14T11:35:26.716Z",
       "archived": 0
     }
   }
