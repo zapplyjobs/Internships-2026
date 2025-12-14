@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Intern - Data Science - Generation",
-    "employer_name": "Berkshire Hathaway Energy",
-    "job_city": "Des Moines",
-    "job_state": "IA",
-    "job_description": "MidAmerican Energy Company has an exciting Internship opportunity available supporting the Generation team at Walter Scott, Jr. Energy Center, starting June 2, 2025. Take the next step in your career and apply now!",
-    "job_apply_link": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003456",
-    "job_posted_at_datetime_utc": "2025-09-23T18:49:46.000Z",
+    "job_title": "Integration Analyst Intern - Data & AI Team",
+    "employer_name": "Jade Global",
+    "job_city": "Ogden",
+    "job_state": "UT",
+    "job_description": "Integration Analyst Intern1Integration Analyst Intern in the Data & AI TeamLaunch Your Career with Jade GlobalAre you ready to start a career where your talents are recognized, your growth is supported, and your work truly matters?At Jade Global, we’re looking for recent graduates with strong potential, curiosity, and drive. While prior experience in technology is a plus, it’s not required — what matters most is your motivation to learn, grow, and make an impact. We take a personalized approach to hiring, placing greater weight on who you are and what excites you, not just your GPA.You’ll be joining a team of 1,000+ experienced business and technology professionals who are invested in your success. From day one, you’ll receive hands-on coaching, mentorship, and a fast-track, individualized career path designed to help you thrive over the next 3–5 years.This is not an internship — it’s a full-time opportunity with a competitive salary, full benefits, and generous performance-based compensation. You’ll be working with some of the most innovative and high-growth companies in Silicon Valley and beyond.We’re seeking the next generation of leaders, problem-solvers, and innovators from top universities around the world — people who are passionate about technology, eager to take ownership, and committed to excellence.Ready to build your future with us? Let’s get started.Responsibilities include:Exciting projects involving Boomi or Workato, focusing on building robust integration solutions to support streamlined business processes.Develop and optimize data pipelines, automate workflows, and enable seamless connectivity between various systems. Create AI Agents to solve complex business challenges. Candidate Profile:Bachelor’s degree in Computer Science, Data Science, AI/ML, or related field Strong Python programming skillsUnderstanding of ML algorithms like linear regression, classification, clustering, etc.Familiarity with libraries such as Pandas, NumPy, Scikit-learn, TensorFlow or PyTorchGood understanding of data structures and algorithmDesire to learnStrong analytical thinking and problem-solving and analytical skills.Independent person able to manage self and activities within a scheduleAble to facilitate conversations and drive decisionsPassionateCreative thinkerTakes initiative and ownershipStrong team playerStrong communicatorInterest in learning and growing both technically and as a personExposure to NLP, Computer Vision, or Generative AI is a plusExperience with Jupyter Notebooks and Git is a plusKnowledge of SQL and cloud platforms (AWS, Azure, GCP) is a plus What You’ll Gain:Mentoring and learning from AI/ML professionalsCollaborative and innovation-driven environmentStrong understanding of customer integration needsAbility to translate customer requirements into visible results through leading edge technologyDeep understanding of proven integration toolsCareer growth opportunities within the Data & AI team",
+    "job_apply_link": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Integration-Analyst-Intern_R-103683",
+    "job_posted_at_datetime_utc": "2025-09-23T16:15:13.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "berkshire-hathaway-energy-intern-data-science-generation-des-moines",
-    "description_platform": "generic",
+    "id": "jade-global-integration-analyst-intern-data-ai-team-ogden",
+    "description_platform": "workday",
     "description_success": true
   }
 ]
