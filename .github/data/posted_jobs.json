@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T19:41:01.072Z",
+  "lastUpdated": "2025-12-14T19:48:36.234Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -4588,14 +4588,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/7248507",
       "discordThreadId": "1449848659666665592",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-software-engineer-intern-pittsburgh-2025-12-14-1",
+      "jobId": "duolingo-software-engineer-intern-pittsburgh",
+      "company": "Duolingo",
+      "title": "Software Engineer, Intern",
+      "postedToDiscord": "2025-12-14T19:48:11.991Z",
+      "sourceDate": "2025-09-16T09:49:04.000Z",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8155655002",
+      "discordThreadId": "1449850475800428838",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-software-engineer-thrive-intern-pittsburgh-2025-12-14-1",
+      "jobId": "duolingo-software-engineer-thrive-intern-pittsburgh",
+      "company": "Duolingo",
+      "title": "Software Engineer, Thrive Intern",
+      "postedToDiscord": "2025-12-14T19:48:13.875Z",
+      "sourceDate": "2025-09-16T09:47:31.000Z",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8150883002",
+      "discordThreadId": "1449850483182272584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dexcom-sw-development-engineering-remote-in-usa-2025-12-14-1",
+      "jobId": "dexcom-sw-development-engineering-remote-in-usa",
+      "company": "Dexcom",
+      "title": "SW Development Engineering",
+      "postedToDiscord": "2025-12-14T19:48:15.621Z",
+      "sourceDate": "2025-09-16T09:45:08.000Z",
+      "sourceUrl": "https://careers.dexcom.com/careers/job/37990370",
+      "discordThreadId": "1449850491050918091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "athene-software-developer-intern-west-des-moines-2025-12-14-1",
+      "jobId": "athene-software-developer-intern-west-des-moines",
+      "company": "Athene",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-14T19:48:19.742Z",
+      "sourceDate": "2025-09-16T09:40:42.000Z",
+      "sourceUrl": "https://athene.wd5.myworkdayjobs.com/en-US/athene_careers/job/West-Des-Moines-Iowa/Software-Developer-Intern_R253276",
+      "discordThreadId": "1449850498885877770",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-engineering-co-op-centreville-2025-12-14-1",
+      "jobId": "parsons-engineering-co-op-centreville",
+      "company": "Parsons",
+      "title": "Engineering Co-Op",
+      "postedToDiscord": "2025-12-14T19:48:21.445Z",
+      "sourceDate": "2025-09-16T06:58:06.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Co-Op-Summer-2026--TS-Required-_R172366-2",
+      "discordThreadId": "1449850515688132650",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-internship-computing-redmond-2025-12-14-1",
+      "jobId": "microsoft-research-internship-computing-redmond",
+      "company": "Microsoft",
+      "title": "Research Internship – Computing",
+      "postedToDiscord": "2025-12-14T19:48:26.138Z",
+      "sourceDate": "2025-09-16T09:29:20.000Z",
+      "sourceUrl": "https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/",
+      "discordThreadId": "1449850535418134568",
+      "instanceNumber": 1
+    },
+    {
+      "id": "waymo-2026-summer-intern-phd-data-science-mountain-view-2025-12-14-1",
+      "jobId": "waymo-2026-summer-intern-phd-data-science-mountain-view",
+      "company": "Waymo",
+      "title": "2026 Summer Intern - PhD - Data Science",
+      "postedToDiscord": "2025-12-14T19:48:27.895Z",
+      "sourceDate": "2025-09-16T04:40:14.000Z",
+      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7249548",
+      "discordThreadId": "1449850542334677046",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aveva-artificial-intelligence-intern-lake-forest-2025-12-14-1",
+      "jobId": "aveva-artificial-intelligence-intern-lake-forest",
+      "company": "AVEVA",
+      "title": "Artificial Intelligence Intern",
+      "postedToDiscord": "2025-12-14T19:48:31.518Z",
+      "sourceDate": "2025-09-16T03:42:52.000Z",
+      "sourceUrl": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Intern--US_R011625",
+      "discordThreadId": "1449850549544550542",
+      "instanceNumber": 1
+    },
+    {
+      "id": "onsemi-internal-audit-data-analyst-intern-scottsdale-2025-12-14-1",
+      "jobId": "onsemi-internal-audit-data-analyst-intern-scottsdale",
+      "company": "onsemi",
+      "title": "Internal Audit Data Analyst Intern",
+      "postedToDiscord": "2025-12-14T19:48:36.234Z",
+      "sourceDate": "2025-09-16T06:49:55.000Z",
+      "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/2503668",
+      "discordThreadId": "1449850577306517628",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 417,
+    "totalJobs": 426,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T19:41:01.072Z",
+      "date": "2025-12-14T19:48:36.234Z",
       "archived": 0
     }
   }
