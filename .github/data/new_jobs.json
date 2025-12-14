@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Data Engineering Intern/Co-op - Information Technology",
-    "employer_name": "Faith Technologies",
-    "job_city": "Neenah",
-    "job_state": "WI",
-    "job_description": "Join Faith Technologies in this exciting opportunity.",
-    "job_apply_link": "https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Data-Engineering-Internship-Summer-2026_R7610-1",
-    "job_posted_at_datetime_utc": "2025-09-23T01:48:09.000Z",
+    "job_title": "Machine Learning Engineer Intern, Applied ML",
+    "employer_name": "Robinhood",
+    "job_city": "Menlo Park",
+    "job_state": "CA",
+    "job_description": "Join Robinhood in this exciting opportunity.",
+    "job_apply_link": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
+    "job_posted_at_datetime_utc": "2025-09-22T23:59:03.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "faith-technologies-data-engineering-intern-co-op-information-technology-neenah",
-    "description_platform": "workday",
+    "id": "robinhood-machine-learning-engineer-intern-applied-ml-menlo-park",
+    "description_platform": "greenhouse",
     "description_success": false
   }
 ]
