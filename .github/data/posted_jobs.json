@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T11:17:38.725Z",
+  "lastUpdated": "2025-12-14T11:27:26.305Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3796,14 +3796,25 @@
       "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
       "discordThreadId": "1449721990587088906",
       "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-gameplay-software-engineer-intern-orlando-2025-12-14-1",
+      "jobId": "electronic-arts-gameplay-software-engineer-intern-orlando",
+      "company": "Electronic Arts",
+      "title": "Gameplay Software Engineer Intern",
+      "postedToDiscord": "2025-12-14T11:27:26.305Z",
+      "sourceDate": "2025-09-22T06:49:22.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Software-Engineer-Intern-SUMMER-2026/210838",
+      "discordThreadId": "1449724455000735785",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 345,
+    "totalJobs": 346,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T11:17:38.725Z",
+      "date": "2025-12-14T11:27:26.305Z",
       "archived": 0
     }
   }

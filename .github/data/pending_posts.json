@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Electronic Arts",
-      "job_city": "Redwood City",
-      "job_state": "CA",
-      "job_description": "Home ... Open Roles Role Detail General Information Locations: Redwood City, California, United States of America Role ID 210882 Worker Type Intern - Temporary Employee Studio/Department CT - Data & Insights Work Model Hybrid Description & Requirements Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen. Electronic Arts is looking for high performing students to join our world-class internship experience. Summer 2026 will be better than ever as we bring all interns together on-site for orientation week and prep students for the future ways of work by offering remote and hybrid opportunities depending on your location. For more information about our Emerging Talent Program, visit https://www.ea.com/careers/interns-and-university-graduatesThe Data & Insights group is the core powering the global EA ecosystem. We provide the foundation for all of EA's incredible games and player experiences with high-level platforms like Cloud, Commerce, Data and AI, Gameplay Services, Identity and Social. By providing reusable capabilities that game teams can easily integrate into their work, we let them focus on making some of the best games in the world and creating meaningful relationships with our players. We're behind the curtain, making it all work together. Come power the future of play with us.The Challenge AheadAs a Software Engineer Intern on Data & Insights Experimentation Team, you will help build the EA-central online Experimentation live service and enable the LiveCycle Management (LCM) platform. You will report to the Technical Director.Responsibilities:You will extract and process massive data from 20+ game studios and use insights to serve massive online requests.You will develop analytics systems (batch and real-time processing pipelines) that inform on important metrics, detect anomalies, and forecast future results.You will analyze raw data to diagnose and debug issues, ensuring data accuracy and reliability.You will implement statistical algorithms to promote the value of LCM platform, by providing in-depth data insights into players' engagement with content across live channels.Qualifications:Currently enrolled in a Masters Degree program with a grad date of December 2026 onwards Exposure to Experimentation or massive scale data analytics, and ability to explain complex statistical mechanisms to diverse customersExperienced with Python, Java, and SQLNice to Have:Experience Data Lakehouse solutions, like Snowflake, Trino, Redshift, or SparkExperience with distributed data processing, data modelling, and software engineering of data servicesYou must be available for a full-time paid internship in the summer of 2026.At this time, we are considering Masters students who will be enrolled in an accredited degree program in the summer of 2026, slated to graduate no earlier than December 2026. Applicants must be legally authorized to work in the US on a full-time basis during the 12-week internship. Visa sponsorship is not available for this position.Please ensure that your graduation date is visible on your resume. US COMPENSATION AND BENEFITSThe base salary ranges listed below are for the defined geographic market pay zones in these states. If you reside outside of these locations, a recruiter will advise on the base salary range and benefits for your specific location.EA has listed the pay ranges it in good faith expects to pay applicants for this role in the locations listed, as of the time of this posting. Salary offered will be determined based on numerous relevant business and candidate factors including, for example, degree type (e.g. Bachelor’s, Master’s, PhD), what stage you are in your degree journey (i.e. freshman, sophomore, etc.), qualifications, certifications, experience, skills, geographic location, and business or organizational needs.HOURLY PAY RANGES• California (depending on location e.g. Los Angeles vs. Sacramento):º $32 - $53 USD HourlyThe pay is just one part of the overall compensation at EA. We also offer a package of benefits including 80 hours per year of sick time (prorated based on scheduled hours per week if less than full-time), 16 paid company holidays per year, medical insurance, and 401(k). Interns in California are also eligible for Voluntary Disability Insurance. COMPENSATION AND BENEFITS The base salary ranges listed below are for the defined geographic market pay zones in these states. If you reside outside of these locations, a recruiter will advise on the base salary range and benefits for your specific location. EA has listed the hourly pay ranges it in good faith expects to pay applicants for this role in the locations listed, as of the time of this posting. Salary offered will be determined based on numerous relevant business and candidate factors including, for example, degree type (e.g. Bachelor’s, Master’s, PhD), what stage you are in your degree journey (i.e. freshman, sophomore, etc.), qualifications, certifications, experience, skills, geographic location, and business or organizational needs. PAY RANGES * California (depending on location e.g. Los Angeles vs. San Francisco) *$32 - $53 USD The hourly pay is just one part of the overall compensation at EA. We also offer a package of benefits including 80 hours per year of sick time (prorated based on scheduled hours per week if less than full-time), 16 paid company holidays per year, medical insurance, and 401(k). Interns in California are also eligible for Voluntary Disability Insurance. About Electronic ArtsWe’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law. LinkedInID 1449 Back to Role List Thank you for your interest! This position is no longer accepting applications. Share this role: LinkedIn X WhatsApp Email Facebook",
-      "job_apply_link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882",
-      "job_posted_at_datetime_utc": "2025-09-22T06:53:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "electronic-arts-software-engineer-intern-redwood-city",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T09:39:23.918Z",
-    "postedAt": "2025-12-14T11:17:41.738Z"
-  },
-  {
-    "job": {
       "job_title": "Gameplay Software Engineer Intern",
       "employer_name": "Electronic Arts",
       "job_city": "Orlando",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T09:47:09.901Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T11:27:29.317Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "ServiceNow",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join ServiceNow in this exciting opportunity.",
+      "job_description": "ServiceNow Security Organization (SSO) - AI for Security Operations Engineering InternThis job has expired",
       "job_apply_link": "https://jobs.smartrecruiters.com/ServiceNow/744000083014485",
       "job_posted_at_datetime_utc": "2025-09-20T16:58:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "servicenow-servicenow-security-organization-ai-for-security-operations-engineering-intern-sso-san-diego"
+      "id": "servicenow-servicenow-security-organization-ai-for-security-operations-engineering-intern-sso-san-diego",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T11:27:21.501Z",
     "postedAt": null
   },
   {
