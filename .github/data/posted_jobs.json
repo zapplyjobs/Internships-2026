@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T12:36:04.674Z",
+  "lastUpdated": "2025-12-14T12:57:57.262Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3873,14 +3873,25 @@
       "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
       "discordThreadId": "1449741729010815029",
       "instanceNumber": 1
+    },
+    {
+      "id": "darkhiv-software-engineer-san-antonio-2025-12-14-1",
+      "jobId": "darkhiv-software-engineer-san-antonio",
+      "company": "Darkhiv",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-14T12:57:57.261Z",
+      "sourceDate": "2025-09-22T06:17:32.000Z",
+      "sourceUrl": "https://apply.workable.com/darkhive/j/1DA0B16639/",
+      "discordThreadId": "1449747233976225977",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 352,
+    "totalJobs": 353,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T12:36:04.674Z",
+      "date": "2025-12-14T12:57:57.262Z",
       "archived": 0
     }
   }
