@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer, Intern",
-      "employer_name": "Eventual",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Software Engineering Intern – Eventual (San Francisco, CA) About Eventual Eventual enables developers to build the AI systems of the future by making multi-modal data and models work together seamlessly. Every breakthrough AI application—from foundation models to autonomous vehicles relies on processing massive volumes of images, video, and complex data. But today’s data platforms (like Databricks and Snowflake) were built for spreadsheet-like analytics, not the petabytes of multimodal data that power AI. Eventual was founded in 2022 to change that. Our mission is to make working with any kind of data—images, video, audio, text—as intuitive as working with tables, and powerful enough to scale to production workloads. Our open-source engine, Daft , is purpose-built for real-world AI systems: coordinating with external APIs, managing GPU clusters, and handling failures that traditional engines can’t. Daft already powers critical workloads at companies like Amazon, Mobileye, Together AI, and CloudKitchens. Backed by Y Combinator, Caffeinated Capital, Array.vc , and top angels from the co-founders of Databricks and Perplexity, we’re just getting started—and we’d love for you to be part of it. Please note: This internship is based in our San Francisco office (Mission District) . We value in-person collaboration and ask interns to be in the office at least 4 days a week. Your Role As a Software Engineering Intern, you’ll work alongside our engineers to contribute to Eventual’s core products and open-source engine. You’ll gain hands-on experience building distributed data systems and products, while learning how to design, implement, and test features that support real-world AI and ML workloads. You’ll get mentorship from our team (ex-Databricks, AWS, Nvidia, Tesla, GitHub Copilot, Pinecone) and the opportunity to make meaningful contributions that reach production. Key Responsibilities Contribute to building features in Eventual’s distributed query engine. Work on developing Eventual’s cloud service. Write clean, maintainable code with guidance from senior engineers. Collaborate with the team to design and implement solutions for real-world data challenges. Assist with testing, debugging, and documenting core system components. What We Look For Currently pursuing a Bachelor’s, Master’s, or PhD in Computer Science (or related field). Strong programming skills in Python and/or Rust. Interest in distributed systems, databases, or data infrastructure. Familiarity with cloud technologies (AWS, GCP, or Azure) is a plus. Excitement to learn from a fast-paced startup environment and contribute to real-world systems.",
-      "job_apply_link": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
-      "job_posted_at_datetime_utc": "2025-09-09T09:00:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "eventual-software-engineer-intern-san-francisco",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:10:05.903Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Co-op, Software Engineer",
-      "employer_name": "Fidelity",
-      "job_city": "locations Boston",
-      "job_state": "MA",
-      "job_description": "Join Fidelity in this exciting opportunity.",
-      "job_apply_link": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117456",
-      "job_posted_at_datetime_utc": "2025-09-09T08:58:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fidelity-co-op-software-engineer-locations-boston",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Arm Limited",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join Arm Limited in this exciting opportunity.",
-      "job_apply_link": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
-      "job_posted_at_datetime_utc": "2025-09-09T08:39:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "arm-limited-software-engineer-austin",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Flight Software (C++) Internship",
-      "employer_name": "Varda",
-      "job_city": "El Segundo",
-      "job_state": "CA",
-      "job_description": "About Varda Low Earth orbit is open for business. Varda is accelerating the development of commercial space infrastructure, from in-orbit pharmaceutical processing to reliable and economical reentry capsules. From life-saving pharmaceuticals to more powerful fiber optics, there is a world of products used on Earth today that can only be manufactured in space. Varda is accelerating innovation in the orbital economy by creating both the products and infrastructure needed so space can directly benefit life on Earth. Our mission is to expand the economic bounds of humankind. Our team is uniquely suited to accomplishing this goal, with leadership and staff comprised of veterans from SpaceX, Blue Origin, major pharmaceutical companies and Silicon Valley. Varda was founded in January 2021 by Will Bruey and Delian Asparouhov with significant backing from world class investors including Khosla Ventures, Lux Capital, Founders Fund, Caffeinated Capital, General Catalyst, and Also Capital. Varda is headquartered in El Segundo, California, where we have offices and a production facility where our vehicles, equipment, and materials are built, integrated, and tested. Varda also has offices in Washington, DC and Huntsville, AL (coming soon). Join Varda, and work to create a bustling in-space ecosystem. About This Role Spring internships will range between the months of January and May. All dates dependent upon the university schedule of the selected students. Internships are full-time and on-site in Los Angeles, CA. The flight software team is responsible for writing the embedded code that runs onboard Varda’s spacecraft — enabling autonomous control, data handling, and fault protection in space. In this role, you will help develop and test real-time C++ software running on flight computers, directly supporting systems like guidance, navigation, control, power management, and communications. You’ll gain experience working close to the hardware, integrating with sensors, actuators, and avionics to ensure the vehicle performs reliably across all mission phases. Internships at Varda are optimal for students looking to grow technically and professionally while working on impactful projects critical to the company’s success. You will be working on a collaborative team in a startup environment while being able to learn from some of most accomplished and experienced aerospace professionals in the world. We’re dedicated to providing an experience that will let your decisions and contributions help drive Varda’s success. Responsibilities Design, implement, and debug embedded C++ software running on spacecraft systems Work with hardware interfaces and component datasheets Assist in systems integration and testing Collaborate with avionics and systems teams to validate software behavior Basic Qualifications Proficiency in C++ Strong understanding of computer architecture and operating systems Experience working with embedded systems or microcontrollers (not limited to Arduino) Familiarity with Linux environments Ability to troubleshoot and debug low-level software issues Preferred Skills And Experience Hands-on experience with embedded development outside coursework Previous internship or project team experience Experience reading and utilizing component datasheets Coursework in embedded systems, digital design, or electronics Relevant Coursework Computer Architecture Operating Systems Software Engineering / Computer Science Fundamentals Data Structures & Algorithms (Bonus) Signals and Systems (Bonus) Digital Design, Assembly, Embedded Systems, Electronics ITAR Requirements Varda, like all employers, must ensure that its employees working in the United States are lawfully authorized to work in the U.S. Additionally, our employees are exposed to and have access to certain export-controlled items. At present, some of our technology to which employees have access requires a license to be exported to individuals other than “U.S. Persons” as defined in U.S. export regulations. Because our employees are provided access to export-controlled items, our current policy is to only hire “U.S. persons” who are permitted to have access to our technology without an export license. “US person” means: U.S. citizen, U.S. lawful permanent resident, or protected individual as defined by 8 U.S.C. 1324b(a)(3) (i.e., individual admitted to the U.S. as a refugee or granted asylum in the U.S.) Learn more about the ITAR here. Benefits Exciting team of professionals at the top of their field working by your side Equity in a fully funded space startup with potential for significant growth (interns excluded) 401(k) matching (interns excluded) Unlimited PTO (interns excluded) Health insurance, including Vision and Dental Lunch and snacks provided on site every day. Dinners provided twice a week. Maternity / Paternity leave (interns excluded) Varda Space Industries is an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Candidates and employees are always evaluated based on merit, qualifications, and performance. We will never discriminate on the basis of race, color, gender, national origin, ethnicity, veteran status, disability status, age, sexual orientation, gender identity, martial status, mental or physical disability, or any other legally protected status. E-Verify Statement Varda Space Industries, Inc. participates in the U.S. Department of Homeland Security E-Verify program. The E-Verify program is an Internet-based employment eligibility verification system operated by the U.S. Citizenship and Immigration Services. Learn more about the E-Verify program. E-Verify Notice Right To Work Notice Read more Read more",
-      "job_apply_link": "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003",
-      "job_posted_at_datetime_utc": "2025-09-09T08:39:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "varda-flight-software-c-internship-el-segundo",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Bosch",
-      "job_city": "Farmington Hills",
-      "job_state": "MI",
-      "job_description": "Join Bosch in this exciting opportunity.",
-      "job_apply_link": "https://jobs.bosch.com/de/job/REF267030L-data-science-intern-8-months-40-hours-per-week",
-      "job_posted_at_datetime_utc": "2025-09-09T08:29:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bosch-data-science-intern-farmington-hills",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Technology Internship Program (AI Governance & Enablement)",
-      "employer_name": "CNA",
-      "job_city": "Chicagyo",
-      "job_state": "IL",
-      "job_description": "Join CNA in this exciting opportunity.",
-      "job_apply_link": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Governance---Enablement-_R-6325",
-      "job_posted_at_datetime_utc": "2025-09-09T08:26:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cna-technology-internship-program-ai-governance-enablement-chicagyo",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Technology Internship Program (AI Engineering)",
-      "employer_name": "CNA",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join CNA in this exciting opportunity.",
-      "job_apply_link": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-ML-Engineering-_R-6234",
-      "job_posted_at_datetime_utc": "2025-09-09T08:23:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cna-technology-internship-program-ai-engineering-chicago",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Intern - Data Analyst",
-      "employer_name": "Cretex Medical",
-      "job_city": "Coon Rapids",
-      "job_state": "MN",
-      "job_description": "Join Cretex Medical in this exciting opportunity.",
-      "job_apply_link": "https://rms-cretex.icims.com/jobs/5355/it-intern---data-analyst---summer-2026/job",
-      "job_posted_at_datetime_utc": "2025-09-09T08:22:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cretex-medical-it-intern-data-analyst-coon-rapids",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
-      "job_title": "Infrastructure Systems AI Intern",
-      "employer_name": "MillerKnoll",
-      "job_city": "Zeeland",
-      "job_state": "MI",
-      "job_description": "Join MillerKnoll in this exciting opportunity.",
-      "job_apply_link": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/Infrastructure-Systems-AI-Intern_JR107338",
-      "job_posted_at_datetime_utc": "2025-09-09T08:13:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "millerknoll-infrastructure-systems-ai-intern-zeeland",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": "2025-12-14T22:41:03.197Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Cox",
       "job_city": "North Hills",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:26:35.911Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T22:50:28.702Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-09-09T02:06:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "chatham-financial-2026-software-engineer-intern-west-chester"
+      "id": "chatham-financial-2026-software-engineer-intern-west-chester",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Symbotic",
       "job_city": "Burlington",
       "job_state": "MA",
-      "job_description": "Join Symbotic in this exciting opportunity.",
+      "job_description": "Who we areWith its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and flexibility.Title: Machine Learning Scientist Intern We want to learn from you! Our teams at Symbotic value the early career talent that helps us solve critical issues in creative and innovative ways. That is why we offer Internship and Co-op programs where students have the opportunity to work alongside industry professionals on some of our most pivotal projects. We invite students from institutions across the country to apply online or engage with our teams on campus at career fairs and other events. Symbotic offers an extensive calendar of events including Lunch and Learns, Social Outings, and Volunteer opportunities for our Interns and Co-ops to engage in. The Summer Intern session is a 12-week, full-time (40 hours Monday-Friday) program while the Co-op cohorts typically run 16-weeks in the Spring and Fall. In both programs, students are paid a competitive hourly rate. Continue reading to learn more about this exciting opportunity! About the Opportunities Symbotic’s Machine Learning team is an accomplished group of engineers who are working on sophisticated algorithms in areas such as routing, perception, and computer vision. Routing interns will develop algorithms to boost efficiency in a multi-agent system while ensuring scalable software deployment and adherence to production standards. Perception and Computer Vision interns will evaluate and propose new projects for replacing legacy tools with vision-based algorithms. These interns will scope projects from literature review, to dataset design and aggregation, training pipeline development, all the way through production deployment. Practical projects include vision-based collision avoidance. What you’ll do Research and experiment with traditional computer vision methods and deep learning methods for object detection, classification, segmentation, pose estimation, anomaly detection on images or videos. Evaluate and benchmark computer vision methods on production data. Deploy software to production on robot hardware. Design data pre and post processing methods. Document designs, code, experiments, evaluations. Identify high-impact scenarios where AI Planning and machine learning can be applied to optimize the Symbotic robotics software Adapt state-of-the-art approaches or develop high-performance algorithms to solve real-world multi-robot problems. Conduct simulations and experiments to validate the performance of the multi-robot algorithms Present results in verbal and written communications internally, and in top-tier academic venues What you’ll need Currently pursuing PhD or Masters degree in Computer Science or other related discipline required. Strong programming skills in Python and/or C++ (Python is preferred). Experience with ML frameworks such as PyTorch and/or Tensorflow (PyTorch is preferred). Experience with image processing such as OpenCV. Enjoys learning new technologies, skills, and techniques as well as teaching them to others. What’s good to have Publications at high-impact conferences/journals (e.g., CoRL, ICLR, NeurIPS, ICML, ICLR, RSS, ICRA, IROS, RAL, AAAI, ICAPS, IJCAI, JAIR, etc.) on some of the aforementioned topics Experience with RGB cameras (pinhole camera model, calibrations, projections). Experience with 3D sensors and point cloud processing such as PCL. Experience with embedded computing such as Nvidia Jetson. Experience with code revision control (git). Experience with containerization (docker). Experience with using the command line (bash). Experience with transformation between coordinate systems (homogeneous transformations, Euler angles, quaternions). Experience with cloud-hosted environments (AWS, GCP, Azure). Our Environment Up to 10% of travel may be required. Employees must have a valid driver’s license and the ability to drive and/or fly to client and other customer locations. The employee is responsible for owning a credit card and managing expenses personally to be reimbursed on a bi-weekly basis. #LI-JH1 About SymboticSymbotic is an automation technology leader reimagining the supply chain with its end-to-end, AI-powered robotic and software platform. Symbotic reinvents the warehouse as a strategic asset for the world’s largest retail, wholesale, and food & beverage companies. Applying next-gen technology, high-density storage and machine learning to solve today's complex distribution challenges, Symbotic enables companies to move goods with unmatched speed, agility, accuracy and efficiency. As the backbone of commerce the Symbotic platform transforms the flow of goods and the economics of supply chain for its customers. For more information, visit www.symbotic.com. We are a community of innovators, collaborators and pioneers who embrace our differences, because we know unique perspectives make us stronger and smarter. Every perspective matters. We depend on the collective voices of our employees, customers and community to help guide us as we build a better place to work – for you and the world. That’s why we’re proud to be an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information. The base range for this position in the posted location is $29.00 - $45.00 however, base pay offered may vary depending on job-related knowledge, skills, and experience. The compensation package includes medical, dental, vision, disability, 401K, PTO and/or other benefits.",
       "job_apply_link": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning_R5401",
       "job_posted_at_datetime_utc": "2025-09-08T21:39:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "symbotic-intern-machine-learning-burlington"
+      "id": "symbotic-intern-machine-learning-burlington",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "C3.ai",
       "job_city": "San Carlos",
       "job_state": "CA",
-      "job_description": "Join C3.ai in this exciting opportunity.",
+      "job_description": "Work with the best people in technology and business.",
       "job_apply_link": "https://c3.ai/job-description/8106513002?gh_jid=8106513002",
       "job_posted_at_datetime_utc": "2025-09-08T18:24:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "c3-ai-software-engineer-intern-san-carlos"
+      "id": "c3-ai-software-engineer-intern-san-carlos",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "C3.ai",
       "job_city": "San Carlos",
       "job_state": "CA",
-      "job_description": "Join C3.ai in this exciting opportunity.",
+      "job_description": "Work with the best people in technology and business.",
       "job_apply_link": "https://c3.ai/job-description/8107070002?gh_jid=8107070002",
       "job_posted_at_datetime_utc": "2025-09-08T18:24:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "c3-ai-data-science-intern-san-carlos"
+      "id": "c3-ai-data-science-intern-san-carlos",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-09-08T17:49:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "verisk-tech-internship-holmdel"
+      "id": "verisk-tech-internship-holmdel",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Cboe",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Cboe in this exciting opportunity.",
+      "job_description": "Job Description:Building trusted markets — powered by our people.At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.Cboe interns work with a variety of staff across multiple departments and have the opportunity to put their skills to work in their field of interest, while learning about Exchange technology and operations through our robust Options Institute courses.The three main foundational pillars of our internship program are: develop, educate and network. We want to ensure each of our interns receive a real-world working experience that encourages academic, professional and personal growth.Candidates should be versatile, eager and able to work in a fast-paced, time-sensitive financial and technical environment. Our interns will have the flexibility of working 2 days remotely, and 3 days in office per week at one of our state-of-the-art offices in Chicago, Kansas City, and New York City. To be eligible for this internship, applicants must be enrolled in a university or college program and should not be scheduled to graduate before December of the internship year. Our internship program runs from June to August and you will wrap up your internship with a final presentation and retreat. Visit our student page for more information about our internship program!The Regulatory Technology team is hiring for a Machine Learning intern.The Regulatory Machine Learning intern at Cboe will work on prototyping, training, testing and validating classical- and neural-network-based machine learning models and LLM-driven applications for the surveillance of financial markets, directly processing and helping users make sense of terabytes of new data and trading patterns every day. A successful candidate will have extreme intellectual curiosity, tolerance for uncertainty, perseverance, good academic knowledge of machine learning models (classical, deep learning, and LLMs) and statistical techniques and will demonstrate strong programming and large-scale data engineering skills. Together, we’ll research and deploy new techniques to detect violative behavior in financial markets.Your responsibilities and learning objectives will be: Train various candidate models to fit a given business problemPrepare data sets and design data features for ML input in conjunction with financial surveillance expertsEffectively track and evaluate ML model performance during research phaseContribute creative ideas for problem solving during brainstorming discussions with ML team and usersReceive and implement constructive feedback through rigorous code reviews, QA testing, and model evaluationWork in both on-premises and cloud environmentsProduce clear and thorough documentation for your research and analytical workCommunicate technical information clearly and concisely to an end-user audienceLearn best practices in software engineering and ML researchThe ideal candidate has: Understanding of a wide variety of machine learning algorithms, supervised and unsupervised, classical and deep learning, including modern large language models and their unique infrastructure requirementsFluency with advanced undergraduate-level mathematics, including statistics, linear algebra, and multivariable calculus, to the extent of being able to read and implement ideas found in published ML papersFamiliarity with writing code to support the various lifecycle phases of machine learning projects such as training, validation, inference, and production monitoringStrong Python-based programming and data engineering skillsStrong SQL knowledge (Snowflake experience is a plus)Experience with common data science and ML libraries, such as numpy, pandas, Spark, scikit-learn, TensorFlow, and PyTorchExperience configuring and using AI agents to assist with coding and research tasksExperience developing and deploying AI agents/workflows for knowledge-intensive tasks with stringent correctness requirementsAbility to work both independently and as part of a teamExcellent written and verbal communication skillsDemonstrates critical thinking, attention to detail, and good judgmentBachelor’s or Master’s degree in progress in a quantitative field and should not be scheduled to graduate before December of the year in which the internship takes placeYou’ll really stand out with:Strong ability to translate and see long-range connections between trade-offs in ML algorithm design and trade-offs in end-user product featuresKnowledge of time series analysis in a financial context, both statistical methods and deep learning methodsExperience in production software development environments, including version control, testing and test-driven development and change managementExperience with multi-GPU model trainingExperience in the financial services sector, or in any highly regulated industryBenefits and PerksCompetitive compensationFlexible, hybrid work environment, 3 days in office, 2 days remote, per week.2:1 401(k) match, up to 8% match immediately upon hire.Some of our employees’ favorite benefits and perks include:Daily complimentary in-office lunch from local restaurantsEndless free coffee and snacks to fuel your workdayMonthly in office networking events and happy hoursAssociate Resource Groups (ARGs) and affinity groups for support and community buildingMore About Cboe Global MarketsWe’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.Learn more about life at Cboe on our website, LinkedIn, and our student page for more information about our internship program!Equal Employment OpportunityWe're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.#LI-HL#Hybrid This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship now or in the future. Our pay range for interns is determined by function and education level. The national new hire base pay range for this job in the United States is $22.00 - $42.00 per hour. This range represents the minimum and maximum base pay target for new hires working in the position full time. Within the range, individual pay is determined by years of education completed. In addition to base pay, eligibility for our total rewards program may include benefits such as 401 (k) with a generous company match and paid sick time. Your recruiter will provide more details about the total compensation package during the hiring process Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.",
       "job_apply_link": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Machine-Learning-Intern--Regulatory_R-4121",
       "job_posted_at_datetime_utc": "2025-09-08T07:42:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cboe-machine-learning-intern-regulatory-chicago"
+      "id": "cboe-machine-learning-intern-regulatory-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-09-08T07:38:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cboe-software-engineer-intern-data-vantage-chicago"
+      "id": "cboe-software-engineer-intern-data-vantage-chicago",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Cboe",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Cboe in this exciting opportunity.",
+      "job_description": "Job Description:Building trusted markets — powered by our people.At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.Cboe interns work with a variety of staff across multiple departments and have the opportunity to put their skills to work in their field of interest, while learning about Exchange technology and operations through our robust Options Institute courses.The three main foundational pillars of our internship program are: develop, educate and network. We want to ensure each of our interns receive a real-world working experience that encourages academic, professional and personal growth.Candidates should be versatile, eager and able to work in a fast-paced, time-sensitive financial and technical environment. Our interns will have the flexibility of working 2 days remotely, and 3 days in office per week at one of our state-of-the-art offices in Chicago, Kansas City, and New York City. To be eligible for this internship, applicants must be enrolled in a university or college program and should not be scheduled to graduate before December of the internship year. Our internship program runs from June to August and you will wrap up your internship with a final presentation and retreat. Visit our student page for more information about our internship program!The Data & Analytics team is hiring for a Client Engagement Platform intern.The Client Intelligence Platform intern at Cboe will assist in the development and maintenance of our Salesforce instance and integrated toolset, including Sigma dashboards for data visualization. This internship offers a unique opportunity to gain hands-on experience in operational administration, configuration, and support of key business systems while learning about Exchange technology and operations.Your responsibilities and learning objectives will be: Assisting with the operational administration, configuration, and support of the Salesforce databaseLearning and supporting user setup, profiles, roles, groups, security and permissions, workflows and validation rules, and custom objects and fieldsMonitoring and analyzing site metrics, system performance, and user activityCollaborating on continuous improvement initiatives to enhance user experiences and increase efficienciesDeveloping and creating reports and dashboards in Salesforce to support key business metricsTraining users on Salesforce functionality and new features, as well as workflow enhancementsConsulting with business stakeholders to gather and confirm business requirementsProducing functional, technical, and system design documentationLearn systematic debugging techniques and best practices for resolving system issuesLearn basic principles of CRM optimization and apply them to platform enhancementThe ideal candidate has: Must be currently enrolled in a Bachelor’s or Master’s program in Marketing, Computer Science, Business Administration, Information Systems, or related field and should not be scheduled to graduate before December of the internship year.Familiarity with CRM systems, preferably SalesforceBasic understanding of data visualization toolsStrong analytical and problem-solving skillsExcellent communication and teamwork abilitiesYou’ll really stand out with:Experience with database administrationKnowledge of data visualization techniques and toolsPrevious internship or project experience with Salesforce or similar platformsBenefits and PerksCompetitive compensationFlexible, hybrid work environment, 3 days in office, 2 days remote, per week.2:1 401(k) match, up to 8% match immediately upon hire.Some of our employees’ favorite benefits and perks include:Daily complimentary in-office lunch from local restaurantsEndless free coffee and snacks to fuel your workdayMonthly in office networking events and happy hoursAssociate Resource Groups (ARGs) and affinity groups for support and community buildingMore About Cboe Global MarketsWe’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.Learn more about life at Cboe on our website, LinkedIn, and our student page for more information about our internship program!Equal Employment OpportunityWe're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.#LI-HL#Hybrid This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship now or in the future. Our pay range for interns is determined by function and education level. The national new hire base pay range for this job in the United States is $22.00 - $42.00 per hour. This range represents the minimum and maximum base pay target for new hires working in the position full time. Within the range, individual pay is determined by years of education completed. In addition to base pay, eligibility for our total rewards program may include benefits such as 401 (k) with a generous company match and paid sick time. Your recruiter will provide more details about the total compensation package during the hiring process Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.",
       "job_apply_link": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Client-Intelligence-Platform-Intern_R-4139",
       "job_posted_at_datetime_utc": "2025-09-08T07:30:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cboe-client-intelligence-platform-intern-data-analytics-chicago"
+      "id": "cboe-client-intelligence-platform-intern-data-analytics-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-08T07:20:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kensho-software-engineer-intern-new-york"
+      "id": "kensho-software-engineer-intern-new-york",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T22:50:00.335Z",
     "postedAt": null
   },
   {
