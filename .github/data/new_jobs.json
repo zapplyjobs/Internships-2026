@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer",
-    "employer_name": "Darkhiv",
-    "job_city": "San Antonio",
-    "job_state": "TX",
-    "job_description": "Darkhive is building a new generation of US-produced autonomous drones designed to be scalable in cost, deployment, and management.",
-    "job_apply_link": "https://apply.workable.com/darkhive/j/1DA0B16639/",
-    "job_posted_at_datetime_utc": "2025-09-22T06:17:32.000Z",
+    "job_title": "Business Analyst AI Intern",
+    "employer_name": "CAI",
+    "job_city": "Remote in USA",
+    "job_state": "Locations",
+    "job_description": "Join CAI in this exciting opportunity.",
+    "job_apply_link": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/PA-CLIENT-STATE/Business-Analyst-AI-Intern_R6109",
+    "job_posted_at_datetime_utc": "2025-09-22T06:15:54.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "darkhiv-software-engineer-san-antonio",
-    "description_platform": "generic",
-    "description_success": true
+    "id": "cai-business-analyst-ai-intern-remote-in-usa",
+    "description_platform": "workday",
+    "description_success": false
   }
 ]
