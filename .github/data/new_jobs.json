@@ -126,17 +126,17 @@
     "description_success": true
   },
   {
-    "job_title": "Data Scientist Intern",
-    "employer_name": "Clarios",
-    "job_city": "Milwaukee",
-    "job_state": "WI",
-    "job_description": "Join Clarios in this exciting opportunity.",
-    "job_apply_link": "https://clarios.wd5.myworkdayjobs.com/en-US/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Scientist-Intern--Summer-2026-_WD45233",
-    "job_posted_at_datetime_utc": "2025-09-24T05:57:41.000Z",
+    "job_title": "Technology Analyst",
+    "employer_name": "Accenture",
+    "job_city": "Chicago",
+    "job_state": "IL",
+    "job_description": "window.adobeDataLayer = window.adobeDataLayer || []; adobeDataLayer.push({ event:'cmp:sObject', eventInfo: { path: 'page.page\\u002D49a7e1ccf7' } }); Careers Job Search Saved Jobs Access Application Expand Menu Job Search Saved Jobs Access Application Search jobs at Accenture Clear Search. PRO TIP Try searching using a descriptive phrase or sentence describing your perfect job. Or use keywords in quotation marks to pinpoint exact matches. You've reached the character limit Press enter to see the search results Ready To Explore? Find your next opportunity Results Filters -1 Filters -1 Clear filters Back Clear filters More Less Location Search locations Back Clear filters Search locations Clear Location Search No results found for ‘’ Apply filter Sort by Relevancy Newest Show results Results Sort by Newest Relevancy Newest Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details Expand job details There are currently no jobs available that match your search criteria. Try a new search / Click here to view our equal opportunity and other employment statements. These are our 10,000 newest job listings. To see more, refine your search query above. These are the 10,000 most relevant open jobs. To see more, refine your search query above. Dismiss",
+    "job_apply_link": "https://www.accenture.com/us-en/careers/jobdetails?id=R00285547_en&title=Technology+Summer+Analyst+-+NAELFY26",
+    "job_posted_at_datetime_utc": "2025-09-24T05:43:00.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "clarios-data-scientist-intern-milwaukee",
-    "description_platform": "workday",
-    "description_success": false
+    "id": "accenture-technology-analyst-chicago",
+    "description_platform": "generic",
+    "description_success": true
   }
 ]
