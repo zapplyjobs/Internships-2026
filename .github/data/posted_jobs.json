@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T12:19:29.028Z",
+  "lastUpdated": "2025-12-14T12:36:04.674Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3862,14 +3862,25 @@
       "sourceUrl": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
       "discordThreadId": "1449737545314468007",
       "instanceNumber": 1
+    },
+    {
+      "id": "bae-systems-software-or-computer-engineering-co-op-sterling-heights-2025-12-14-1",
+      "jobId": "bae-systems-software-or-computer-engineering-co-op-sterling-heights",
+      "company": "BAE Systems",
+      "title": "Software or Computer Engineering Co-op",
+      "postedToDiscord": "2025-12-14T12:36:04.673Z",
+      "sourceDate": "2025-09-22T06:22:12.000Z",
+      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op",
+      "discordThreadId": "1449741729010815029",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 351,
+    "totalJobs": 352,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T12:19:29.028Z",
+      "date": "2025-12-14T12:36:04.674Z",
       "archived": 0
     }
   }
