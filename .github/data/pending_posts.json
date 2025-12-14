@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Darkhiv",
-      "job_city": "San Antonio",
-      "job_state": "TX",
-      "job_description": "Darkhive is building a new generation of US-produced autonomous drones designed to be scalable in cost, deployment, and management.",
-      "job_apply_link": "https://apply.workable.com/darkhive/j/1DA0B16639/",
-      "job_posted_at_datetime_utc": "2025-09-22T06:17:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "darkhiv-software-engineer-san-antonio",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T10:55:58.188Z",
-    "postedAt": "2025-12-14T12:58:00.274Z"
-  },
-  {
-    "job": {
       "job_title": "Business Analyst AI Intern",
       "employer_name": "CAI",
       "job_city": "Remote in USA",
@@ -214,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T11:05:16.474Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T13:13:24.323Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Hartford Financial Services",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Hartford Financial Services in this exciting opportunity.",
+      "job_description": "Student Intern - HHSIANWe’re determined to make a difference and are proud to be an insurance company that goes well beyond coverages and policies. Working here means having every opportunity to achieve your goals – and to help others accomplish theirs, too. Join our team as we help shape the future. The Hartford is offering an 11-week Data Science Summer Internship Program beginning in May 2026 designed to prepare you for a challenging and rewarding Data Science career. As a Data Scientist Intern, you will develop machine learning and artificial intelligence solutions across a range of strategic initiatives. Additionally, you will have opportunities to network across all levels of our Data Science & Analytics community, collaborate with teammates on learning opportunities like Capstones and Hackathons, attend social events, and discussions with leaders via one-on-ones and panels. To accelerate your project work, we also provide on-the-job training in insurance, AWS development environments for data science, and modeling/machine learning techniques as needed. The Hartford is proud to offer a hybrid work location model that is designed to support flexibility and collaboration, where you will work in an office (CT- Hartford, NC- Charlotte or IL- Chicago) on Tuesday, Wednesday, and Thursday with remote flexibility on Monday and Friday. Responsibilities: Assist in creating statistical models, algorithms, and machine learning techniques to achieve financial objectives and solve business problems Participate in reviewing work with business partners and team members on an ongoing basis to calibrate deliverables against expectations Assist in identifying and assessing the value of new data sources and analytical techniques to ensure ongoing competitive advantage Participate in the creation and deployment of long-term tools to continually evolve the business Contribute to the successful implementation of strategies to achieve targeted business objectives Develop knowledge of The Hartford's formal and informal structures, business processes, and data sources in your area of expertise Remain current on research techniques and become familiar with state-of-the-art tools applicable to your function Provide economic, qualitative, and statistical support to ensure accuracy of characteristics and metrics being applied to business decisions Prepare and deliver presentations that translate data-driven insights, model results, and recommendations to varying business partners Document work clearly to ensure effective knowledge sharing within the team Requirements: Must be authorized to work in the United States without sponsorship now, or in the future Must be working towards a Master’s or Ph.D. in Statistics, Applied Mathematics, Quantitative Economics, Actuarial Science, Data Science, Computer Science, or a similar analytical field Strong communication skills for explaining methodologies, visualizations, and recommendations to non-technical audiences and vice versa Able to maintain organized project notes, version history, and technical documentation for team reference Exposure to statistical modeling, inference, and building machine learning algorithms in an analytical programming language like Python or R Exposure to building modeling solutions in cloud-native environments, such as Sagemaker, a plus Exposure to SQL and navigating databases to extract relevant attributes a plus Exposure to Unix and Git a plus CompensationThe listed annualized base pay range is primarily based on analysis of similar positions in the external market. Actual base pay could vary and may be above or below the listed range based on factors including but not limited to performance, proficiency and demonstration of competencies required for the role. The base pay is just one component of The Hartford’s total compensation package for employees. Other rewards may include short-term or annual bonuses, long-term incentives, and on-the-spot recognition. The annualized base pay range for this role is:-Equal Opportunity Employer/Sex/Race/Color/Veterans/Disability/Sexual Orientation/Gender Identity or Expression/Religion/AgeAbout Us | Our Culture | What It’s Like to Work Here | Perks & Benefits",
       "job_apply_link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Intern--Data-Science_R2522486",
       "job_posted_at_datetime_utc": "2025-09-19T18:53:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hartford-financial-services-intern-data-science-chicago"
+      "id": "hartford-financial-services-intern-data-science-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T13:13:17.230Z",
     "postedAt": null
   },
   {
