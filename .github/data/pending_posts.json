@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Sift",
-      "job_city": "El Segundo",
-      "job_state": "CA",
-      "job_description": "At Sift, we’re redefining how modern machines are built, tested, and operated. Our platform gives engineers real-time observability into high-frequency telemetry—eliminating bottlenecks and enabling faster, more reliable development. Sift was born from our work at SpaceX on Dragon, Falcon, Starlink, and Starship—where scaling telemetry, debugging flight systems, and ensuring mission reliability demanded new infrastructure. Founded by a team from SpaceX, Google, and Palantir, Sift is built for mission-critical systems where precision and scalability are non-negotiable. As a Software Engineering Intern , you’ll gain hands-on experience working on real features that impact our customers. You’ll be paired with mentors who will help you learn modern engineering practices while contributing to our core product. In This Role, You’ll Build and test new product features alongside experienced engineers Learn how to design reliable, efficient systems for real-time data processing and visualization Participate in code reviews, design discussions, and team demos Work on projects that will be used by real customers Grow your skills in distributed systems, data engineering, and modern frontend/backend technologies The Skillset You’ll Bring Actively pursuing a degree in Computer Science, Engineering, Math, Physics, or another STEM field Coursework in programming, data structures, and algorithms Excitement to learn new technologies and apply them in real-world settings Team-oriented, curious, and proactive in asking questions Bonus Points School, internship, or side projects involving data-intensive or distributed systems Familiarity with React, TypeScript, or similar frontend frameworks Exposure to cloud or DevOps tools (AWS, Docker, GitHub Actions, Kubernetes) Engineering At Sift: You'll have the opportunity to help evolve and scale our platform because we're still in the early stages of building the product. Relevant technologies include: Web frontend &amp; backend: ECharts, Go, gRPC, PostgreSQL, Protobuf, Radix, React, Redux, and TypeScript Data : Rust, Arrow, DataFusion, Kafka, Flink, Parquet Infrastructure: Docker, AWS, Kubernetes, Linux, Grafana Location: Sift’s headquarters is in El Segundo, CA . We collaborate in person twice a week—on Mondays and Thursdays —and come together for a full week every two months. We’re open to relocating candidates to LA for the right candidate. Salary range: $45 - $65 per hour. Eligibility: U.S. Person Required : Must be a U.S. citizen, lawful permanent resident, or protected individual such as an asylee or refugee in compliance with ITAR (International Traffic in Arms Regulations) / EAR (Export Administration Regulations) regulations.",
-      "job_apply_link": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6",
-      "job_posted_at_datetime_utc": "2025-09-22T06:24:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sift-software-engineering-intern-el-segundo",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T10:41:21.567Z",
-    "postedAt": "2025-12-14T12:19:32.042Z"
-  },
-  {
-    "job": {
       "job_title": "Software or Computer Engineering Co-op",
       "employer_name": "BAE Systems",
       "job_city": "Sterling Heights",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T10:49:27.646Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T12:36:07.686Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Keysight Technologies",
       "job_city": "Santa Rosa",
       "job_state": "CA",
-      "job_description": "Join Keysight Technologies in this exciting opportunity.",
+      "job_description": "<STRONG>Overview</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a href=\"https://www.keysight.com/us/en/about.html\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">Keysight</a></span>&nbsp;is on the forefront of technology innovation, delivering breakthroughs and trusted insights in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Learn more&nbsp;<span style=\"color: #ff0000;\"><a href=\"https://www.youtube.com/watch?v=ykxkSz5DlPo&amp;t=16s\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">about what we do.</a></span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Our <span style=\"color: #ff0000;\"><a href=\"https://jobs.keysight.com/awards\" target=\"_blank\" style=\"color: #ff0000;\" rel=\"noopener\">award-winning</a></span>&nbsp;culture embraces a bold vision of where technology can take us and a passion for tackling challenging problems with industry-first solutions.&nbsp;We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers.</p> <br><STRONG>Responsibilities</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\">The High Frequency Measurements (HFM) organization of Keysight Technologies in Santa Rosa, CA has an opportunity for a summer internship in the R&amp;D Software Engineering Processes (SEP) Team.</span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\">The HFM organization develops and produces the world&rsquo;s highest performance signal generators, signal analyzers, network analyzers, power meters and modular systems to create and analyze wireless signals.</span></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Our SEP engineers develop software tools and processes to qualify our market-leading Signal Analyzers, Signal Sources, and Electronic Measurement Applications. They work with manufacturing, software development and SEP teams in other geographies world-wide. Intern projects will typically involve working with these teams with the goal of improving our quality processes, verification techniques and reducing time to market.<br /><br /></span></p><p style=\"margin: 0px;\"><span style=\"font-family: verdana, geneva; font-size: 10pt;\"><strong><span style=\"color: #242424;\">Example projects and experiences may include:</span></strong></span></p><ul><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Designing and developing C# based utilities and tests to verify the capabilities of signal analysis and signal generator software/hardware.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Implementing or enhancing web applications related to software quality and testing.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Learning and applying modern software engineering practices such as Agile Scrum, unit testing, usability testing, and continuously integrated builds.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Gaining hands-on knowledge of Test &amp; Measurement instrument control.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10pt; font-family: verdana, geneva;\">Identifying key areas for AI integration in Testing &amp; QA.</span></li></ul><p style=\"margin: 0px;\">&nbsp;</p> <br><STRONG>Qualifications</STRONG><br><br><br><p style=\"margin: 0px;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #242424;\">The ideal candidate will be pursuing a BSCS / BSCSE or equivalent degree.<br /><br /></span></p><p style=\"margin: 0px;\"><strong><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif; color: #242424;\">Desired Skills and Knowledge:</span></strong></p><ul><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Strong software analysis and design knowledge.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Experience with Microsoft Windows, .NET, C++, C#, OO, XML, HTML, SQL databases.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Possible experience in one or more of the following: software testing, software test paradigms, software development best practices, quality metrics, continuous integration, and unit testing.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">An interest in RF technologies and measurement applications.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Familiarity with AI technologies and their applications in software testing and quality assurance.</span></li><li style=\"color: #242424;\"><span style=\"font-size: 10.5pt; font-family: 'Segoe UI',sans-serif;\">Self-motivated and comfortable in a dynamic, fast-paced environment.</span></li></ul><p style=\"margin: 0px;\">Visa Sponsorship is not available for this position. Candidates who now or at any point in the future require sponsorship (ie H1B Visa) may not be considered.</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">Pay Range:</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\">$29-31/hour</p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><span style=\"color: #ff0000;\"><a style=\"color: #ff0000;\" href=\"https://about.keysight.com/en/jobs/careers_privacy_statement.pdf\" target=\"_blank\" rel=\"noopener\">Careers Privacy Statement</a></span>***Keysight is an Equal Opportunity Employer.***</p>",
       "job_apply_link": "https://jobs.keysight.com/jobs/49623?lang=en-us&icims=1",
       "job_posted_at_datetime_utc": "2025-09-20T00:15:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "keysight-technologies-r-d-software-engineer-internship-santa-rosa"
+      "id": "keysight-technologies-r-d-software-engineer-internship-santa-rosa",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T12:35:59.857Z",
     "postedAt": null
   },
   {
