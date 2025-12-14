@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=7249548",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p> <p><strong>You Will</strong>:</p> <ul> <li>Analyze and extract complex data from large tables, exploring predictive features.</li> <li>Develop tools for analyzing simulation data, partnering with engineering teams, and leveraging foundation models for workflow automation.</li> <li>Adapt state-of-the-art ML models for synthetic scene rendering and sensor data generation, integrating generated data into the Waymo simulation platform, conducting experiments to evaluate quality, and developing new sampling methods.</li> </ul> <p><strong>You Have:</strong></p> <ul> <li>Pursuing PhD in a quantitative field (e.g. Statistics, Computer Science, Mathematics, Physics, Engineering)</li> <li>Proficiency in programming with SQL and Python (or R), including data manipulation, wrangling, and visualization.</li> <li>Strong statistical theory foundation.</li> </ul> <p><strong>We Prefer:</strong></p> <ul> <li>Experience in machine learning applications and complex data analysis, or familiarity with C/C++.</li> <li>Experienced in processing and interpreting various sensor data</li> <li>Demonstrated research capabilities through publications and a strong understanding of statistical methodologies and foundation models.</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"> <div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div> <div class=\"title\">Hourly PhD Pay</div> <div class=\"pay-range\">$85—$85 USD</div> </div></div>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7249548",
+      "fetchedAt": "2025-12-14T19:39:34.509Z"
+    }
+  },
+  "cachedAt": 1765741174510
+}
