@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T11:53:44.519Z",
+  "lastUpdated": "2025-12-14T12:06:16.730Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3840,14 +3840,25 @@
       "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/Summer-2026-Data-Scientist-Associate-Internship_RQ206390",
       "discordThreadId": "1449731074753167410",
       "instanceNumber": 1
+    },
+    {
+      "id": "arup-software-development-digital-delivery-intern-los-angeles-2025-12-14-1",
+      "jobId": "arup-software-development-digital-delivery-intern-los-angeles",
+      "company": "Arup",
+      "title": "Software Development / Digital Delivery Intern",
+      "postedToDiscord": "2025-12-14T12:06:16.729Z",
+      "sourceDate": "2025-09-22T06:35:35.000Z",
+      "sourceUrl": "https://jobs.arup.com/jobs/software-development-digital-delivery-intern-available-june-2026-29742",
+      "discordThreadId": "1449734222150635721",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 349,
+    "totalJobs": 350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T11:53:44.519Z",
+      "date": "2025-12-14T12:06:16.730Z",
       "archived": 0
     }
   }
