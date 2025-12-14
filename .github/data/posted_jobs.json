@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T07:38:38.974Z",
+  "lastUpdated": "2025-12-14T07:45:39.036Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3565,14 +3565,25 @@
       "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7239236",
       "discordThreadId": "1449666864362946766",
       "instanceNumber": 1
+    },
+    {
+      "id": "robinhood-software-engineering-intern-web-menlo-park-2025-12-14-1",
+      "jobId": "robinhood-software-engineering-intern-web-menlo-park",
+      "company": "Robinhood",
+      "title": "Software Engineering Intern - Web",
+      "postedToDiscord": "2025-12-14T07:45:39.036Z",
+      "sourceDate": "2025-09-23T02:37:14.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/robinhood/jobs/7239280",
+      "discordThreadId": "1449668640407289968",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 324,
+    "totalJobs": 325,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T07:38:38.974Z",
+      "date": "2025-12-14T07:45:39.036Z",
       "archived": 0
     }
   }

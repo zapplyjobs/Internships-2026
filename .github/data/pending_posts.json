@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern - Backend",
-      "employer_name": "Robinhood",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Join Robinhood in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/robinhood/jobs/7239236",
-      "job_posted_at_datetime_utc": "2025-09-23T02:37:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robinhood-software-engineering-intern-backend-menlo-park",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T05:46:11.721Z",
-    "postedAt": "2025-12-14T07:38:41.986Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern - Web",
       "employer_name": "Robinhood",
       "job_city": "Menlo Park",
@@ -214,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T05:53:16.284Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T07:45:42.047Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T07:22:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "universal-orlando-resort-software-development-resort-accessibility-and-compliance-orlando"
+      "id": "universal-orlando-resort-software-development-resort-accessibility-and-compliance-orlando",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T07:45:34.917Z",
     "postedAt": null
   },
   {
