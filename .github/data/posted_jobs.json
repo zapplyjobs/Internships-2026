@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T19:20:15.854Z",
+  "lastUpdated": "2025-12-14T19:31:20.244Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -4390,14 +4390,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024796009",
       "discordThreadId": "1449843444829917368",
       "instanceNumber": 1
+    },
+    {
+      "id": "kodiak-robotics-summer-2026-intern-artificial-intelligence-machine-learning-mountain-view-2025-12-14-1",
+      "jobId": "kodiak-robotics-summer-2026-intern-artificial-intelligence-machine-learning-mountain-view",
+      "company": "Kodiak Robotics",
+      "title": "Summer 2026 Intern - Artificial Intelligence/Machine Learning",
+      "postedToDiscord": "2025-12-14T19:30:54.873Z",
+      "sourceDate": "2025-09-17T01:49:40.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024627009",
+      "discordThreadId": "1449846125883559986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centific-speech-research-intern-1-redmond-2025-12-14-1",
+      "jobId": "centific-speech-research-intern-1-redmond",
+      "company": "Centific",
+      "title": "Speech Research Intern-1",
+      "postedToDiscord": "2025-12-14T19:30:56.600Z",
+      "sourceDate": "2025-09-16T23:12:49.000Z",
+      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Speech-Research-Intern-1_JR105046-1",
+      "discordThreadId": "1449846133139574805",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-schenectady-2025-12-14-1",
+      "jobId": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-schenectady",
+      "company": "GE Vernova",
+      "title": "GE Vernova Time-Series Foundation Models Research Intern",
+      "postedToDiscord": "2025-12-14T19:30:58.300Z",
+      "sourceDate": "2025-09-16T20:50:20.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Time-Series-Foundation-Models-Research-Intern_R5020041-1",
+      "discordThreadId": "1449846140362031174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qbe-insurance-data-science-and-machine-learning-engineering-intern-madison-2025-12-14-1",
+      "jobId": "qbe-insurance-data-science-and-machine-learning-engineering-intern-madison",
+      "company": "QBE Insurance",
+      "title": "Data Science and Machine Learning Engineering Intern",
+      "postedToDiscord": "2025-12-14T19:31:00.041Z",
+      "sourceDate": "2025-09-16T20:26:34.000Z",
+      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-and-Machine-Learning-Engineering-Intern--Summer-2026-_344248",
+      "discordThreadId": "1449846147567849492",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ingredion-data-engineering-intern-brookfield-2025-12-14-1",
+      "jobId": "ingredion-data-engineering-intern-brookfield",
+      "company": "Ingredion",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2025-12-14T19:31:05.038Z",
+      "sourceDate": "2025-09-16T23:51:11.000Z",
+      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Engineering-Intern_Req-35894",
+      "discordThreadId": "1449846167977463860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peraton-summer-2026-software-development-analyst-intern-topeka-2025-12-14-1",
+      "jobId": "peraton-summer-2026-software-development-analyst-intern-topeka",
+      "company": "Peraton",
+      "title": "Summer 2026 Software Development Analyst Intern",
+      "postedToDiscord": "2025-12-14T19:31:07.285Z",
+      "sourceDate": "2025-09-16T21:37:48.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/159893/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1449846176990888207",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ingredion-data-analytics-intern-brookfield-2025-12-14-1",
+      "jobId": "ingredion-data-analytics-intern-brookfield",
+      "company": "Ingredion",
+      "title": "Data Analytics Intern",
+      "postedToDiscord": "2025-12-14T19:31:08.988Z",
+      "sourceDate": "2025-09-16T20:47:21.000Z",
+      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Analytics-Intern_Req-35895",
+      "discordThreadId": "1449846185228505271",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sharkninja-summer-2026-ecommerce-intern-amazon-may-to-august-needham-2025-12-14-1",
+      "jobId": "sharkninja-summer-2026-ecommerce-intern-amazon-may-to-august-needham",
+      "company": "SharkNinja",
+      "title": "Summer 2026: Ecommerce Intern - Amazon - May to August",
+      "postedToDiscord": "2025-12-14T19:31:15.519Z",
+      "sourceDate": "2025-09-16T22:21:10.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601587006",
+      "discordThreadId": "1449846204912369725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "colonial-pipeline-company-intern-asset-integrity-alpharetta-2025-12-14-1",
+      "jobId": "colonial-pipeline-company-intern-asset-integrity-alpharetta",
+      "company": "Colonial Pipeline Company",
+      "title": "Intern – Asset Integrity",
+      "postedToDiscord": "2025-12-14T19:31:20.244Z",
+      "sourceDate": "2025-09-16T20:13:49.000Z",
+      "sourceUrl": "https://colpipe.wd1.myworkdayjobs.com/Search/job/Alpharetta-GA/Intern--Asset-Integrity_R0001844",
+      "discordThreadId": "1449846232091725937",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 399,
+    "totalJobs": 408,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T19:20:15.854Z",
+      "date": "2025-12-14T19:31:20.244Z",
       "archived": 0
     }
   }
