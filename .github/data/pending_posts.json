@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Software Intern",
-      "employer_name": "Thermo Fisher Scientific",
-      "job_city": "Pleasanton",
-      "job_state": "CA",
-      "job_description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionAbout the RoleJoin as a driven Software Engineering Intern skilled in machine learning and Java/Spring development.ResponsibilitiesDevelop and prototype features using LLMs, RAG pipelines, AWS-hosted data lakes, model deployment, inference, and monitoringDevelop or fine-tune agents capable of handling scientific workflows and knowledge retrievalParticipate in full-stack software development involving Java, Spring Framework, Spring Boot, AngularJS, Electron, PostgreSQL, and TomcatIntegrate and test services with AWS components (e.g., S3, DynamoDB, Lambda, Bedrock/SageMaker, Redshift, etc.)Establish CI/CD pipelines with the use of GitHub Actions, self-hosted runners, and deployment automationImplement automated test cases (unit, integration, and regression)Work together with senior engineers and the SCM team to incorporate security tools like CodeQL, SonarQube, Qualys, GitHub X-ray, and SBOM generation tools.Participate in agile sprints and contribute to development reviews, code reviews, and feature demosRequired QualificationsCurrently pursuing a Master’s or Ph.D. in Computer Science, Data Science, Machine Learning, or a related technical fieldHands-on experience with machine learning, LLMs, transformers, and agent frameworks (LangChain, Haystack, or similar)Experience building RAG pipelines using vector search (e.g., FAISS, Weaviate) and AWS data lakesStrong skills in Java, Spring Framework, and REST API developmentExperience with AngularJS or modern JavaScript frameworksFamiliarity with PostgreSQL, Tomcat, Apache or NginxWorking knowledge of automation testing frameworks (JUnit, Selenium, etc.)Familiarity with GitHub Actions, continuous integration/continuous deployment pipelines, and containerized deploymentsFamiliarity with cybersecurity tools like CodeQL, SonarQube, SBOM generation, GitHub security features, and Qualys scanning toolsPreferred QualificationsExperience deploying LLMs on cloud platforms (AWS Bedrock, SageMaker, or Azure OpenAI)Understanding secure software development and vulnerability management protocolsFamiliarity with scientific or laboratory workflows is a plusWhat You’ll GainExposure to high-impact scientific applications and real-world AI/ML deploymentsOpportunity to work on enterprise-grade software development and cloud infrastructureHands-on mentorship from experienced software engineering professionalsTo qualify, applicants must be legally authorized to work in the United States and should not require sponsorship (current or future) for employment visa status. Thermo Fisher does not offer employment in this position to holders of F-1, J-1, H-1, OPT, and CPT Visas for the purpose of obtaining practical experience. Compensation and BenefitsThe hourly pay range estimated for this position based in California is $22.50–$38.50.This position may also be eligible to receive a variable annual bonus based on company, team, and/or individual performance results in accordance with company policy. We offer a comprehensive Total Rewards package that our U.S. colleagues and their families can count on, which includes:A choice of national medical and dental plans, and a national vision plan, including health incentive programsEmployee assistance and family support programs, including commuter benefits and tuition reimbursementAt least 120 hours paid time off (PTO), 10 paid holidays annually, paid parental leave (3 weeks for bonding and 8 weeks for caregiver leave), accident and life insurance, and short- and long-term disability in accordance with company policyRetirement and savings programs, such as our competitive 401(k) U.S. retirement savings planEmployees’ Stock Purchase Plan (ESPP) offers eligible colleagues the opportunity to purchase company stock at a discountFor more information on our benefits, please visit: https://jobs.thermofisher.com/global/en/total-rewards",
-      "job_apply_link": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Software-Intern_R-01328068",
-      "job_posted_at_datetime_utc": "2025-09-09T02:06:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "thermo-fisher-scientific-software-intern-pleasanton",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:40:35.495Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Software Engineer Intern",
-      "employer_name": "Chatham Financial",
-      "job_city": "West Chester",
-      "job_state": "PA",
-      "job_description": "Join Chatham Financial in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7183989",
-      "job_posted_at_datetime_utc": "2025-09-09T02:06:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "chatham-financial-2026-software-engineer-intern-west-chester",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern-Machine Learning",
-      "employer_name": "Symbotic",
-      "job_city": "Burlington",
-      "job_state": "MA",
-      "job_description": "Who we areWith its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates advanced robots in a high-density, end-to-end system – reinventing warehouse automation for increased efficiency, speed and flexibility.Title: Machine Learning Scientist Intern We want to learn from you! Our teams at Symbotic value the early career talent that helps us solve critical issues in creative and innovative ways. That is why we offer Internship and Co-op programs where students have the opportunity to work alongside industry professionals on some of our most pivotal projects. We invite students from institutions across the country to apply online or engage with our teams on campus at career fairs and other events. Symbotic offers an extensive calendar of events including Lunch and Learns, Social Outings, and Volunteer opportunities for our Interns and Co-ops to engage in. The Summer Intern session is a 12-week, full-time (40 hours Monday-Friday) program while the Co-op cohorts typically run 16-weeks in the Spring and Fall. In both programs, students are paid a competitive hourly rate. Continue reading to learn more about this exciting opportunity! About the Opportunities Symbotic’s Machine Learning team is an accomplished group of engineers who are working on sophisticated algorithms in areas such as routing, perception, and computer vision. Routing interns will develop algorithms to boost efficiency in a multi-agent system while ensuring scalable software deployment and adherence to production standards. Perception and Computer Vision interns will evaluate and propose new projects for replacing legacy tools with vision-based algorithms. These interns will scope projects from literature review, to dataset design and aggregation, training pipeline development, all the way through production deployment. Practical projects include vision-based collision avoidance. What you’ll do Research and experiment with traditional computer vision methods and deep learning methods for object detection, classification, segmentation, pose estimation, anomaly detection on images or videos. Evaluate and benchmark computer vision methods on production data. Deploy software to production on robot hardware. Design data pre and post processing methods. Document designs, code, experiments, evaluations. Identify high-impact scenarios where AI Planning and machine learning can be applied to optimize the Symbotic robotics software Adapt state-of-the-art approaches or develop high-performance algorithms to solve real-world multi-robot problems. Conduct simulations and experiments to validate the performance of the multi-robot algorithms Present results in verbal and written communications internally, and in top-tier academic venues What you’ll need Currently pursuing PhD or Masters degree in Computer Science or other related discipline required. Strong programming skills in Python and/or C++ (Python is preferred). Experience with ML frameworks such as PyTorch and/or Tensorflow (PyTorch is preferred). Experience with image processing such as OpenCV. Enjoys learning new technologies, skills, and techniques as well as teaching them to others. What’s good to have Publications at high-impact conferences/journals (e.g., CoRL, ICLR, NeurIPS, ICML, ICLR, RSS, ICRA, IROS, RAL, AAAI, ICAPS, IJCAI, JAIR, etc.) on some of the aforementioned topics Experience with RGB cameras (pinhole camera model, calibrations, projections). Experience with 3D sensors and point cloud processing such as PCL. Experience with embedded computing such as Nvidia Jetson. Experience with code revision control (git). Experience with containerization (docker). Experience with using the command line (bash). Experience with transformation between coordinate systems (homogeneous transformations, Euler angles, quaternions). Experience with cloud-hosted environments (AWS, GCP, Azure). Our Environment Up to 10% of travel may be required. Employees must have a valid driver’s license and the ability to drive and/or fly to client and other customer locations. The employee is responsible for owning a credit card and managing expenses personally to be reimbursed on a bi-weekly basis. #LI-JH1 About SymboticSymbotic is an automation technology leader reimagining the supply chain with its end-to-end, AI-powered robotic and software platform. Symbotic reinvents the warehouse as a strategic asset for the world’s largest retail, wholesale, and food & beverage companies. Applying next-gen technology, high-density storage and machine learning to solve today's complex distribution challenges, Symbotic enables companies to move goods with unmatched speed, agility, accuracy and efficiency. As the backbone of commerce the Symbotic platform transforms the flow of goods and the economics of supply chain for its customers. For more information, visit www.symbotic.com. We are a community of innovators, collaborators and pioneers who embrace our differences, because we know unique perspectives make us stronger and smarter. Every perspective matters. We depend on the collective voices of our employees, customers and community to help guide us as we build a better place to work – for you and the world. That’s why we’re proud to be an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, religion, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, veteran status, or genetic information. The base range for this position in the posted location is $29.00 - $45.00 however, base pay offered may vary depending on job-related knowledge, skills, and experience. The compensation package includes medical, dental, vision, disability, 401K, PTO and/or other benefits.",
-      "job_apply_link": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning_R5401",
-      "job_posted_at_datetime_utc": "2025-09-08T21:39:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "symbotic-intern-machine-learning-burlington",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer – Intern",
-      "employer_name": "C3.ai",
-      "job_city": "San Carlos",
-      "job_state": "CA",
-      "job_description": "Work with the best people in technology and business.",
-      "job_apply_link": "https://c3.ai/job-description/8106513002?gh_jid=8106513002",
-      "job_posted_at_datetime_utc": "2025-09-08T18:24:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "c3-ai-software-engineer-intern-san-carlos",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science – Intern",
-      "employer_name": "C3.ai",
-      "job_city": "San Carlos",
-      "job_state": "CA",
-      "job_description": "Work with the best people in technology and business.",
-      "job_apply_link": "https://c3.ai/job-description/8107070002?gh_jid=8107070002",
-      "job_posted_at_datetime_utc": "2025-09-08T18:24:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "c3-ai-data-science-intern-san-carlos",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Tech Internship",
-      "employer_name": "Verisk",
-      "job_city": "Holmdel",
-      "job_state": "NJ",
-      "job_description": "Join Verisk in this exciting opportunity.",
-      "job_apply_link": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2257",
-      "job_posted_at_datetime_utc": "2025-09-08T17:49:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "verisk-tech-internship-holmdel",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Intern - Regulatory",
-      "employer_name": "Cboe",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Job Description:Building trusted markets — powered by our people.At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.Cboe interns work with a variety of staff across multiple departments and have the opportunity to put their skills to work in their field of interest, while learning about Exchange technology and operations through our robust Options Institute courses.The three main foundational pillars of our internship program are: develop, educate and network. We want to ensure each of our interns receive a real-world working experience that encourages academic, professional and personal growth.Candidates should be versatile, eager and able to work in a fast-paced, time-sensitive financial and technical environment. Our interns will have the flexibility of working 2 days remotely, and 3 days in office per week at one of our state-of-the-art offices in Chicago, Kansas City, and New York City. To be eligible for this internship, applicants must be enrolled in a university or college program and should not be scheduled to graduate before December of the internship year. Our internship program runs from June to August and you will wrap up your internship with a final presentation and retreat. Visit our student page for more information about our internship program!The Regulatory Technology team is hiring for a Machine Learning intern.The Regulatory Machine Learning intern at Cboe will work on prototyping, training, testing and validating classical- and neural-network-based machine learning models and LLM-driven applications for the surveillance of financial markets, directly processing and helping users make sense of terabytes of new data and trading patterns every day. A successful candidate will have extreme intellectual curiosity, tolerance for uncertainty, perseverance, good academic knowledge of machine learning models (classical, deep learning, and LLMs) and statistical techniques and will demonstrate strong programming and large-scale data engineering skills. Together, we’ll research and deploy new techniques to detect violative behavior in financial markets.Your responsibilities and learning objectives will be: Train various candidate models to fit a given business problemPrepare data sets and design data features for ML input in conjunction with financial surveillance expertsEffectively track and evaluate ML model performance during research phaseContribute creative ideas for problem solving during brainstorming discussions with ML team and usersReceive and implement constructive feedback through rigorous code reviews, QA testing, and model evaluationWork in both on-premises and cloud environmentsProduce clear and thorough documentation for your research and analytical workCommunicate technical information clearly and concisely to an end-user audienceLearn best practices in software engineering and ML researchThe ideal candidate has: Understanding of a wide variety of machine learning algorithms, supervised and unsupervised, classical and deep learning, including modern large language models and their unique infrastructure requirementsFluency with advanced undergraduate-level mathematics, including statistics, linear algebra, and multivariable calculus, to the extent of being able to read and implement ideas found in published ML papersFamiliarity with writing code to support the various lifecycle phases of machine learning projects such as training, validation, inference, and production monitoringStrong Python-based programming and data engineering skillsStrong SQL knowledge (Snowflake experience is a plus)Experience with common data science and ML libraries, such as numpy, pandas, Spark, scikit-learn, TensorFlow, and PyTorchExperience configuring and using AI agents to assist with coding and research tasksExperience developing and deploying AI agents/workflows for knowledge-intensive tasks with stringent correctness requirementsAbility to work both independently and as part of a teamExcellent written and verbal communication skillsDemonstrates critical thinking, attention to detail, and good judgmentBachelor’s or Master’s degree in progress in a quantitative field and should not be scheduled to graduate before December of the year in which the internship takes placeYou’ll really stand out with:Strong ability to translate and see long-range connections between trade-offs in ML algorithm design and trade-offs in end-user product featuresKnowledge of time series analysis in a financial context, both statistical methods and deep learning methodsExperience in production software development environments, including version control, testing and test-driven development and change managementExperience with multi-GPU model trainingExperience in the financial services sector, or in any highly regulated industryBenefits and PerksCompetitive compensationFlexible, hybrid work environment, 3 days in office, 2 days remote, per week.2:1 401(k) match, up to 8% match immediately upon hire.Some of our employees’ favorite benefits and perks include:Daily complimentary in-office lunch from local restaurantsEndless free coffee and snacks to fuel your workdayMonthly in office networking events and happy hoursAssociate Resource Groups (ARGs) and affinity groups for support and community buildingMore About Cboe Global MarketsWe’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.Learn more about life at Cboe on our website, LinkedIn, and our student page for more information about our internship program!Equal Employment OpportunityWe're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.#LI-HL#Hybrid This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship now or in the future. Our pay range for interns is determined by function and education level. The national new hire base pay range for this job in the United States is $22.00 - $42.00 per hour. This range represents the minimum and maximum base pay target for new hires working in the position full time. Within the range, individual pay is determined by years of education completed. In addition to base pay, eligibility for our total rewards program may include benefits such as 401 (k) with a generous company match and paid sick time. Your recruiter will provide more details about the total compensation package during the hiring process Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.",
-      "job_apply_link": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Machine-Learning-Intern--Regulatory_R-4121",
-      "job_posted_at_datetime_utc": "2025-09-08T07:42:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cboe-machine-learning-intern-regulatory-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Data Vantage",
-      "employer_name": "Cboe",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join Cboe in this exciting opportunity.",
-      "job_apply_link": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Data-Vantage_R-4116",
-      "job_posted_at_datetime_utc": "2025-09-08T07:38:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cboe-software-engineer-intern-data-vantage-chicago",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
-      "job_title": "Client Intelligence Platform Intern - Data & Analytics",
-      "employer_name": "Cboe",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Job Description:Building trusted markets — powered by our people.At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide the financial infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers cutting-edge trading, clearing and investment solutions to market participants around the world.Cboe interns work with a variety of staff across multiple departments and have the opportunity to put their skills to work in their field of interest, while learning about Exchange technology and operations through our robust Options Institute courses.The three main foundational pillars of our internship program are: develop, educate and network. We want to ensure each of our interns receive a real-world working experience that encourages academic, professional and personal growth.Candidates should be versatile, eager and able to work in a fast-paced, time-sensitive financial and technical environment. Our interns will have the flexibility of working 2 days remotely, and 3 days in office per week at one of our state-of-the-art offices in Chicago, Kansas City, and New York City. To be eligible for this internship, applicants must be enrolled in a university or college program and should not be scheduled to graduate before December of the internship year. Our internship program runs from June to August and you will wrap up your internship with a final presentation and retreat. Visit our student page for more information about our internship program!The Data & Analytics team is hiring for a Client Engagement Platform intern.The Client Intelligence Platform intern at Cboe will assist in the development and maintenance of our Salesforce instance and integrated toolset, including Sigma dashboards for data visualization. This internship offers a unique opportunity to gain hands-on experience in operational administration, configuration, and support of key business systems while learning about Exchange technology and operations.Your responsibilities and learning objectives will be: Assisting with the operational administration, configuration, and support of the Salesforce databaseLearning and supporting user setup, profiles, roles, groups, security and permissions, workflows and validation rules, and custom objects and fieldsMonitoring and analyzing site metrics, system performance, and user activityCollaborating on continuous improvement initiatives to enhance user experiences and increase efficienciesDeveloping and creating reports and dashboards in Salesforce to support key business metricsTraining users on Salesforce functionality and new features, as well as workflow enhancementsConsulting with business stakeholders to gather and confirm business requirementsProducing functional, technical, and system design documentationLearn systematic debugging techniques and best practices for resolving system issuesLearn basic principles of CRM optimization and apply them to platform enhancementThe ideal candidate has: Must be currently enrolled in a Bachelor’s or Master’s program in Marketing, Computer Science, Business Administration, Information Systems, or related field and should not be scheduled to graduate before December of the internship year.Familiarity with CRM systems, preferably SalesforceBasic understanding of data visualization toolsStrong analytical and problem-solving skillsExcellent communication and teamwork abilitiesYou’ll really stand out with:Experience with database administrationKnowledge of data visualization techniques and toolsPrevious internship or project experience with Salesforce or similar platformsBenefits and PerksCompetitive compensationFlexible, hybrid work environment, 3 days in office, 2 days remote, per week.2:1 401(k) match, up to 8% match immediately upon hire.Some of our employees’ favorite benefits and perks include:Daily complimentary in-office lunch from local restaurantsEndless free coffee and snacks to fuel your workdayMonthly in office networking events and happy hoursAssociate Resource Groups (ARGs) and affinity groups for support and community buildingMore About Cboe Global MarketsWe’re reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one. We’re investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed. We celebrate the diversity in our communities, inside and out, and welcome new perspectives with equity, inclusion and belonging.We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion. We’re an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes.Learn more about life at Cboe on our website, LinkedIn, and our student page for more information about our internship program!Equal Employment OpportunityWe're proud to be an equal opportunity employer - and celebrate our employees’ differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status.#LI-HL#Hybrid This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship now or in the future. Our pay range for interns is determined by function and education level. The national new hire base pay range for this job in the United States is $22.00 - $42.00 per hour. This range represents the minimum and maximum base pay target for new hires working in the position full time. Within the range, individual pay is determined by years of education completed. In addition to base pay, eligibility for our total rewards program may include benefits such as 401 (k) with a generous company match and paid sick time. Your recruiter will provide more details about the total compensation package during the hiring process Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.",
-      "job_apply_link": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Client-Intelligence-Platform-Intern_R-4139",
-      "job_posted_at_datetime_utc": "2025-09-08T07:30:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cboe-client-intelligence-platform-intern-data-analytics-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": "2025-12-14T22:59:33.223Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Kensho",
       "job_city": "New York",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:50:00.335Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T22:58:58.653Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T23:11:21.019Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-09-05T17:14:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "igs-energy-software-engineer-intern-remote"
+      "id": "igs-energy-software-engineer-intern-remote",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "USAA",
       "job_city": "Charlotte",
       "job_state": "NC",
-      "job_description": "Join USAA in this exciting opportunity.",
+      "job_description": "Why USAA?At USAA, our mission is to empower our members to achieve financial security through highly competitive products, exceptional service and trusted advice. We seek to be the #1 choice for the military community and their families.Embrace a fulfilling career at USAA, where our core values – honesty, integrity, loyalty and service – define how we treat each other and our members. Be part of what truly makes us special and impactful.The OpportunityThe Quantitative Risk Analyst internship focuses on practicing skills that play a crucial role in identifying, assessing, and mitigating risk across USAA. You will learn real corporate world sophisticated quantitative techniques to model and lead risks and provide critical insights to advise strategic decisions. The opportunity may lead to selection into a two-year risk development rotational program following graduation. Rotational placings may vary depending on business needs. Our internship program lets you showcase your skills, while gaining real-life experience that’ll help you jump-start your career. Our interns deliver innovative solutions to real business challenges, while building enduring relationships in a collaborative culture with their manager and an assigned mentor.The internship is based at USAA Corporate Headquarters in San Antonio, TX, Plano, TX, and Charlotte, NC. Interns offered full-time roles may have the opportunity to work out of one of USAA’s satellite locations.What you'll do:Our Quantitative Risk Analyst Interns, work under direct supervision and following risk and compliance procedures and guidance, perform routine work assignments and problem resolution to support other team members, including the following tasks:Applies foundational knowledge to support the assessment of future risk, opportunities, and efficiency.Applies foundational learning to help support the team in producing standard methodologies that quantify risk and aggregate exposures.May assist with model validation activities and model validation reporting.Participates in the production of analytical material needed for discussions with cross functional teams to understand sophisticated business objectives and influence solution strategies.Compiles communication materials pertaining to analytical results, findings and solutions for governance committees and business process owners to influence business analysis.Supports internal/external audits, regulatory reviews and rating agency requests.What you have:To qualify, you must be pursuing a degree from an accredited college or university, and plan to graduate after the final day of the internship. Most of our interns participate the summer between their junior and senior years. Our 2026 internship will start on May 27, 2026 and last through August 7, 2026. Graduation date cannot be prior to August 7, 2026Pursuing a bachelor’s degree or higher in Business, Finance, or related field at a 4-year accredited university.0 to 2 years of related experience and accountability for simple to moderately complex tasks and/or projects required.Foundational and conceptual knowledge of risk management, regulatory or operations experience in a relevant functional area to include banking, insurance, financial services, audit, project management, public accounting or other related operational area required.Foundational knowledge of data analysis tools and techniques.What sets you apart:Knowledge of information security/ITKnowledge of reporting and analysis, and control testingData analytical skills, risk management interestDetail oriented/strong organization/ self-starterProficient with ExcelCompensation range: The salary range for this position is: $27 - $28. Interns will receive an intern stipend to assist with expenses.USAA does not provide visa sponsorship for this role. Please do not apply for this role if at any time (now or in the future) you will need immigration support (i.e., H-1B, TN, STEM OPT Training Plans, etc.). USAA views its internship program as a pipeline to possible future employment. This is based on an individual’s graduation date, performance, role qualifications, and business need. To be considered for possible future employment opportunities interns must meet the full-time work eligibility requirements for any given role. Thus, interns should ensure their sponsorship status and other provided information is accurately reflected on their intern application. Inadequate completion of your application may render you ineligible for further consideration in the hiring process. Compensation: USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the hourly range based on your experience and market data of the position. The actual hourly rate for this role may vary by location. The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job.Benefits: At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals. Interns may not be eligible for all benefits, for more details on our outstanding benefits, please visit our benefits page on USAAjobs.com.Applications for this position are accepted on an ongoing basis, this posting will remain open until the position is filled. Thus, interested candidates are encouraged to apply the same day they view this posting. USAA is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.",
       "job_apply_link": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0112127",
       "job_posted_at_datetime_utc": "2025-09-05T14:10:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "usaa-quantitative-risk-analyst-intern-charlotte"
+      "id": "usaa-quantitative-risk-analyst-intern-charlotte",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "AbbVie",
       "job_city": "Waukegan",
       "job_state": "IL",
-      "job_description": "Join AbbVie in this exciting opportunity.",
+      "job_description": "2026 Graph Machine Learning Intern (PhD)InternSalary Min: 58656Campus Program: AbbVie Intern ProgramSalary Max: 100500Class Cycle: 2026Workday Global Grade: 12Campus Sub Function: Discovery ResearchTravel: Yes, 5% of the TimeCompany DescriptionAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas – immunology, oncology, neuroscience, and eye care – and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on X, Facebook, Instagram, YouTube, LinkedIn and Tik Tok.Job DescriptionEnvision spending your summer working with energetic colleagues and inspirational leaders, all while gaining world-class experience in one of the most dynamic organizations in the pharmaceutical industry. This is a reality for AbbVie Interns. The Convergence AI and Data Analytics (CADA) team at AbbVie leverages advanced artificial intelligence and machine learning techniques to integrate and analyze diverse data sources throughout the organization, including biological datasets, clinical trial results, real-world evidence, and genomics. We partner closely with scientists across AbbVie to develop and apply innovative AI solutions that drive scientific discovery and accelerate the advancement of AbbVie’s drug development pipeline. We are seeking a highly motivated and innovative intern who can employ cutting-edge methods in graph machine learning to develop models capable of predicting causal relationships between genes and diseases. They will review published literature on graph neural networks to identify relevant architectures, implement these architectures in Python, perform necessary data pre-processing, and train and rigorously validate the models. The generated predictions will play a critical role in advancing AbbVie's drug development efforts, with significant implications for a wide range of human diseases. Key responsibilities include: Designing, training, and evaluating graph machine learning models to predict trends in biomedical research Developing and optimizing data pipelines for graph data processing and model training Reviewing prior literature to identify suitable machine learning approaches and architectures Communicating findings and insights to cross-functional stakeholders QualificationsMinimum Qualifications Currently enrolled in university, pursuing a PhD in computer science, machine learning, bioinformatics, mathematics or other related field Must be enrolled in university for at least one semester following the internship Expected graduation date between December 2026 – July 2027 Knowledge of fundamental machine learning concepts Proficiency in Python, including data manipulation libraries such as Pandas and NumPy Experience building machine learning models in a major framework such as PyTorch or TensorFlow Preferred Qualifications Familiarity with knowledge graph data Experience with graph machine learning, including frameworks such as PyTorch Geometric or Deep Graph Library (DGL) Working knowledge of SQL Additional InformationBenefits and Amenities Competitive pay Relocation support for eligible students Opportunity to work on cutting-edge machine learning problems with real-world implications for human health Applicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law: ​The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future. ​Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law. ​AbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled. US & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.htmlUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:https://www.abbvie.com/join-us/reasonable-accommodations.htmlI'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/AbbVie/3743990009335777",
       "job_posted_at_datetime_utc": "2025-09-05T03:47:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "abbvie-graph-machine-learning-intern-phd-waukegan"
+      "id": "abbvie-graph-machine-learning-intern-phd-waukegan",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-09-05T02:15:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "s-p-global-machine-learning-intern-cambridge"
+      "id": "s-p-global-machine-learning-intern-cambridge",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "KeyCorp",
       "job_city": "Brooklyn",
       "job_state": "OH",
-      "job_description": "Join KeyCorp in this exciting opportunity.",
+      "job_description": "Location:4910 Tiedeman Road, Brooklyn OhioProgram Duration: May 27, 2026 – August 7, 2026What does our Internship Program offer? Key’s Enterprise Internship is a 10.5-week program that provides meaningful work that matters, offers feedback and coaching, and creates engaging events and conversations that will spark excitement and interest in bringing one’s full-time career to Key.Interns are involved in a host of line of business specific projects that directly impact and benefit Key’s business and strategic pillars. The program includes networking with Key teammates across all levels of the organization, a series of Learning Labs where internal and external speakers provide insight on Key’s competitive landscape, financial wellness, and professional development best practices, and an assigned mentor who shares knowledge, experience, and advice.Job ResponsibilitiesConduct data query and analysis on large data sets with manager and team supportIdentify common data errors and their impactProvide reoccurring reporting and ad hoc requestsEmploy basic best practices for evaluating large dataAnswer key business questions through exploration and discoveryCreate simple analysis to support the production of insights into relevant business questions under general direction / supervisionFind patterns or anomalies by building out visualizations and PowerPoint presentationsExecute basic diagnostics testing under supervision (e.g. performance testing, assumption verification and impacts of limitations)Tests, under supervision, suitability / sufficiency for approach (e.g. representativeness)Provide input with addressing basic business/analytical problems and challengesQualificationsMust have completed at least two years toward a four-year, undergraduate degree program with coursework in statistics, mathematics, economics, financial engineering, data sciences, business analytics or other quantitative disciplines with an anticipated graduation in or before May of 2027Outstanding academic achievement (minimum undergraduate 3.0 GPA)Demonstrated leadership and teamwork from past work experience and/or extracurricular activitiesBring solid analytical, problem solving, communication and presentation skillsProficiency in Excel and PowerPointCompensation and BenefitsThis position is eligible to earn an hourly rate of $25 per hour. Compensation also includes a $2,000.00 Summer Internship Sign-on Bonus.KeyBank’s Internship and Analyst positions are not eligible for employment visa sponsorship (e.g., H-1B visa). This includes, for example, situations where a candidate may have temporary work authorization while enrolled in school or upon graduation (e.g., CPT, OPT) but would need H-1B visa sponsorship within a few years of employment in order to maintain employment eligibility.COMPENSATION AND BENEFITSThis position is eligible to earn a base hourly rate in the range of $18.00 - $22.60 per hour. Placement within the pay range may differ based upon various factors, including but not limited to skills, experience and geographic location.Please note: While a base pay range is referenced above, this position is compensated at a fixed rate of $25 hourly and is eligible to receive a $2,000 sign-on bonus.Please click here for a list of benefits for which this position is eligible.Key has implemented an approach to employee workspaces which prioritizes in-office presence, while providing flexible options in circumstances where roles can be performed effectively in a mobile environment.Job Posting Expiration Date: 12/20/2025 KeyCorp is an Equal Opportunity Employer committed to sustaining an inclusive culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, pregnancy, disability, veteran status or any other characteristic protected by law.Qualified individuals with disabilities or disabled veterans who are unable or limited in their ability to apply on this site may request reasonable accommodations by emailing HR_Compliance@keybank.com.#LI-Remote",
       "job_apply_link": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Marketing-Internship---Cleveland_R-33872",
       "job_posted_at_datetime_utc": "2025-09-05T02:12:42.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "keycorp-2026-summer-marketing-analytics-internship-brooklyn"
+      "id": "keycorp-2026-summer-marketing-analytics-internship-brooklyn",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Muon Space",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Muon Space in this exciting opportunity.",
+      "job_description": "About the role Summer internships will range between the months of May and September depending on university schedules. Internship is full-time and on-site in Mountain View or San Jose, CA. The Software Engineering team at Muon is responsible for software on the spacecraft, at ground stations, in the cloud and for local tools, visualization and simulation. Interns can look forward to owning a project from start to finish which could involve enabling a new type of task for the spacecraft, simulating a new component, writing the software for a new piece of hardware, or deploying new algorithms for processing images and other sensor data from the spacecraft. Come work with the team and help build our new software capabilities! Muon is a small and fast growing startup which offers interns the experience to get direct mentorship and have real impact on our programs. As an intern, you'll collaborate with a dynamic team in a startup environment and have the chance to learn from some of the most accomplished and experienced aerospace professionals in the industry. We're committed to offering an experience where your decisions and contributions play a pivotal role in driving Muon's success. Responsibilities Take ownership of or contribute to the code for a new software capability on ground or in space Propose and iterate on the design for software components Write tests and monitoring to validate correctness of one's own code Conduct analysis to support both development and testing Qualifications Moderate programming experience in C++, Python, TypeScript or a similar high-level language Coursework or relevant experience in algorithms, data structures and statistics Nice-to-have Skills Previous internship or co-op experience Previous experience on technical project teams (i.e. programming, robotics or rocket club, etc.) Understanding of physics and orbital mechanics Experience with mathematical optimization, machine learning or advanced algorithms Experience with cloud environments and distributed systems Salary The hourly wage for this role is $50.About Muon Space Founded in 2021, Muon Space is an end-to-end Space Systems Provider that designs, builds, and operates LEO satellite constellations delivering mission-critical data. Our revolutionary, integrated technology stack enables customers to optimize every dimension of their missions for faster time-to-orbit and superior constellation remote sensing performance. Our state-of-the-art facility in the heart of Silicon Valley is optimized for manufacturing spacecraft and rapid, flexible payload integration at scale. From climate monitoring to national security, Muon Space is dedicated to delivering Earth Intelligence for a safer and more resilient world. Taking Care of Our Team At Muon salary is only part of our total compensation package. In addition to salary, full-time employees receive equity compensation as well as benefits including medical, dental, and vision insurance, a 401k retirement plan, short & long term disability and life insurance. We also offer three weeks paid vacation for new employees, along with 12 paid holidays, unlimited sick time and paid parental leave. Our mission embraces the entire planet and we believe our team should too. Muon is dedicated to creating a diverse and dynamic company and workforce. We believe in equal employment opportunity regardless of race, color, ancestry, religion, sex, age, national origin, citizenship, sexual orientation, marital status, disability, or gender identity. We value diversity in the workplace, and that starts with our applicants. We encourage you to apply, even if you don't check all the boxes, and we look forward to reviewing your application! In addition, if you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know. ITAR/EAR Requirements This position requires access to export controlled information. To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency. The Company may, for legitimate business reasons, decline to pursue any export licensing process.",
       "job_apply_link": "https://job-boards.greenhouse.io/muonspace/jobs/4856413007",
       "job_posted_at_datetime_utc": "2025-09-05T02:10:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "muon-space-software-engineering-intern-san-jose"
+      "id": "muon-space-software-engineering-intern-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "Auto-Owners Insurance",
       "job_city": "East Lansing",
       "job_state": "MI",
-      "job_description": "Join Auto-Owners Insurance in this exciting opportunity.",
+      "job_description": "A career at Auto-Owners is challenging and rewarding. Our group of caring associates create financial security by helping individuals and businesses make a new start when a loss occurs.Job DescriptionAuto-Owners Insurance, a top-rated insurance carrier, is seeking a motivated individual to join our Actuarial Division as a Predictive Modeler Intern. The position requires the person to:Create data files to be used in modeling softwareBuild and evaluate predictive models using modeling softwarePresent predictive model proposals for peer review and business approvalCreate specifications for and coordinate implementation of predictive modelsOccasionally perform ad-hoc reporting to answer specific inquiries from upper managementThis internship has full-time hours (Monday through Friday) and is in-person in Lansing, Michigan. Interns choose their start and end dates. Most join in mid-May and stay until mid-August.Desired Skills & Experience Student must be working toward a bachelor’s in mathematics, statistics, computer science, data mining, machine learning, physics, operations research, or a related quantitative discipline, having at least two years of coursework completed. Master’s students are also considered if graduation is August 2026 or later.An understanding of statistical and predictive modeling concepts, especially clustering and classification techniquesHigh aptitude for programming languagesA desire to learn new thingsAbility to adapt to constant change and innovationKnowledge of SQL, Python, or R is a plusEqual Employment OpportunityAuto-Owners Insurance is an equal opportunity employer. The Company hires, transfers, and promotes on the basis of ability, without consideration of disability, age, sex, race, color, religion, height, weight, marital status, sexual orientation, gender identity or national origin, or any factor contrary to federal, state or local law.*Please note that the ability to work in the U.S. without current or future sponsorship is a requirement.#LI-DNI",
       "job_apply_link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833",
       "job_posted_at_datetime_utc": "2025-09-05T02:10:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "auto-owners-insurance-predictive-modeler-intern-east-lansing"
+      "id": "auto-owners-insurance-predictive-modeler-intern-east-lansing",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Auto-Owners Insurance",
       "job_city": "East Lansing",
       "job_state": "MI",
-      "job_description": "Join Auto-Owners Insurance in this exciting opportunity.",
+      "job_description": "A career at Auto-Owners is challenging and rewarding. Our group of caring associates create financial security by helping individuals and businesses make a new start when a loss occurs.Job DescriptionAuto-Owners Insurance, a top-rated insurance carrier, is seeking a motivated intern to join our IT Division as a Modern Technology Software Developer Intern for the summer. The position requires the person to:Define, develop, test, analyze, and maintain new and pre-existing software programs and applications.Actively participate in code/design reviews and brainstorming sessions.Develop program and system documentation.Analyze and fix software errors in a timely and accurate fashion.Consult with users, architects, project leaders, and management to resolve problems and suggest alternatives.This internship has full-time hours (Monday through Friday) and is in person in Lansing, Michigan. Interns choose their start and end dates. Most join in mid-May and stay until mid-August.Desired Skills and ExperienceStudents must be working toward a bachelor’s degree in Computer Science, Information Systems, Information Technology, or a related field, and have at least two years of coursework completed.Knowledge of Java and RESTful services is strongly preferred.Experience with a modern IDE is strongly preferred.Experience with JavaScript/HTML/CSS, Node.js, React, Angular, and/or container deployments is a plus.Experience with source control management software is a plus.Enthusiasm for driving improvement by finding and implementing solutions to new challenges.Must be able to learn and effectively use tools and software development techniques as practiced, acquired, or adopted within the IT Division.Equal Employment OpportunityAuto-Owners Insurance is an equal opportunity employer. The Company hires, transfers, and promotes on the basis of ability, without consideration of disability, age, sex, race, color, religion, height, weight, marital status, sexual orientation, gender identity or national origin, or any factor contrary to federal, state or local law.*Please note that the ability to work in the U.S. without current or future sponsorship is a requirement.#LI-DNI",
       "job_apply_link": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
       "job_posted_at_datetime_utc": "2025-09-05T02:10:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "auto-owners-insurance-software-developer-internship-east-lansing"
+      "id": "auto-owners-insurance-software-developer-internship-east-lansing",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-05T00:49:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "activision-blizzard-internship-technical-art-tech-art-canoga-park"
+      "id": "activision-blizzard-internship-technical-art-tech-art-canoga-park",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T23:10:50.183Z",
     "postedAt": null
   },
   {
