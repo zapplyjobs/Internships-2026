@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T05:46:15.645Z",
+  "lastUpdated": "2025-12-14T05:53:22.354Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3455,14 +3455,25 @@
       "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Data-Science-Intern_R39716",
       "discordThreadId": "1449638595223617616",
       "instanceNumber": 1
+    },
+    {
+      "id": "bracebridge-capital-software-engineer-application-development-intern-co-op-quantitative-research-boston-2025-12-14-1",
+      "jobId": "bracebridge-capital-software-engineer-application-development-intern-co-op-quantitative-research-boston",
+      "company": "Bracebridge Capital",
+      "title": "Software Engineer - Application Development Intern/Co-op - Quantitative Research",
+      "postedToDiscord": "2025-12-14T05:53:22.354Z",
+      "sourceDate": "2025-09-23T20:00:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4601203005",
+      "discordThreadId": "1449640377043783723",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 314,
+    "totalJobs": 315,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T05:46:15.645Z",
+      "date": "2025-12-14T05:53:22.354Z",
       "archived": 0
     }
   }
