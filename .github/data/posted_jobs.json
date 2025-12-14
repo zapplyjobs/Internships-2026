@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T22:27:04.422Z",
+  "lastUpdated": "2025-12-14T22:41:00.183Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -6073,14 +6073,113 @@
       "sourceUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Intern_JR110151-1",
       "discordThreadId": "1449890457080303697",
       "instanceNumber": 1
+    },
+    {
+      "id": "eventual-software-engineer-intern-san-francisco-2025-12-14-1",
+      "jobId": "eventual-software-engineer-intern-san-francisco",
+      "company": "Eventual",
+      "title": "Software Engineer, Intern",
+      "postedToDiscord": "2025-12-14T22:40:39.514Z",
+      "sourceDate": "2025-09-09T09:00:15.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/eventualcomputing/83a9e0b2-3089-45cb-bec5-cb21e253704b",
+      "discordThreadId": "1449893876558204948",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fidelity-co-op-software-engineer-locations-boston-2025-12-14-1",
+      "jobId": "fidelity-co-op-software-engineer-locations-boston",
+      "company": "Fidelity",
+      "title": "Co-op, Software Engineer",
+      "postedToDiscord": "2025-12-14T22:40:42.967Z",
+      "sourceDate": "2025-09-09T08:58:11.000Z",
+      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117456",
+      "discordThreadId": "1449893883658895380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arm-limited-software-engineer-austin-2025-12-14-1",
+      "jobId": "arm-limited-software-engineer-austin",
+      "company": "Arm Limited",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-14T22:40:44.850Z",
+      "sourceDate": "2025-09-09T08:39:30.000Z",
+      "sourceUrl": "https://careers.arm.com/job/austin/intern-software-engineer/33099/85831486384",
+      "discordThreadId": "1449893898364387359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "varda-flight-software-c-internship-el-segundo-2025-12-14-1",
+      "jobId": "varda-flight-software-c-internship-el-segundo",
+      "company": "Varda",
+      "title": "Flight Software (C++) Internship",
+      "postedToDiscord": "2025-12-14T22:40:48.216Z",
+      "sourceDate": "2025-09-09T08:39:01.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/6824554003",
+      "discordThreadId": "1449893906052284589",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cna-technology-internship-program-ai-governance-enablement-chicagyo-2025-12-14-1",
+      "jobId": "cna-technology-internship-program-ai-governance-enablement-chicagyo",
+      "company": "CNA",
+      "title": "Technology Internship Program (AI Governance & Enablement)",
+      "postedToDiscord": "2025-12-14T22:40:50.238Z",
+      "sourceDate": "2025-09-09T08:26:20.000Z",
+      "sourceUrl": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Governance---Enablement-_R-6325",
+      "discordThreadId": "1449893921294389340",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cna-technology-internship-program-ai-engineering-chicago-2025-12-14-1",
+      "jobId": "cna-technology-internship-program-ai-engineering-chicago",
+      "company": "CNA",
+      "title": "Technology Internship Program (AI Engineering)",
+      "postedToDiscord": "2025-12-14T22:40:51.887Z",
+      "sourceDate": "2025-09-09T08:23:55.000Z",
+      "sourceUrl": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-ML-Engineering-_R-6234",
+      "discordThreadId": "1449893928688943206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "millerknoll-infrastructure-systems-ai-intern-zeeland-2025-12-14-1",
+      "jobId": "millerknoll-infrastructure-systems-ai-intern-zeeland",
+      "company": "MillerKnoll",
+      "title": "Infrastructure Systems AI Intern",
+      "postedToDiscord": "2025-12-14T22:40:53.733Z",
+      "sourceDate": "2025-09-09T08:13:44.000Z",
+      "sourceUrl": "https://millerknoll.wd1.myworkdayjobs.com/en-US/MillerKnoll/job/MI---Zeeland/Infrastructure-Systems-AI-Intern_JR107338",
+      "discordThreadId": "1449893935655686189",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bosch-data-science-intern-farmington-hills-2025-12-14-1",
+      "jobId": "bosch-data-science-intern-farmington-hills",
+      "company": "Bosch",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-14T22:40:58.492Z",
+      "sourceDate": "2025-09-09T08:29:23.000Z",
+      "sourceUrl": "https://jobs.bosch.com/de/job/REF267030L-data-science-intern-8-months-40-hours-per-week",
+      "discordThreadId": "1449893956132278465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cretex-medical-it-intern-data-analyst-coon-rapids-2025-12-14-1",
+      "jobId": "cretex-medical-it-intern-data-analyst-coon-rapids",
+      "company": "Cretex Medical",
+      "title": "IT Intern - Data Analyst",
+      "postedToDiscord": "2025-12-14T22:41:00.183Z",
+      "sourceDate": "2025-09-09T08:22:43.000Z",
+      "sourceUrl": "https://rms-cretex.icims.com/jobs/5355/it-intern---data-analyst---summer-2026/job",
+      "discordThreadId": "1449893963401269371",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 552,
+    "totalJobs": 561,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T22:27:04.422Z",
+      "date": "2025-12-14T22:41:00.183Z",
       "archived": 0
     }
   }
