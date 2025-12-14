@@ -181,26 +181,6 @@
   },
   {
     "job": {
-      "job_title": "System Test Automation Engineer",
-      "employer_name": "Philips",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Join Philips in this exciting opportunity.",
-      "job_apply_link": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego/Intern---System-Test-Automation-Engineer---San-Diego--CA---Summer-2026_563822",
-      "job_posted_at_datetime_utc": "2025-09-22T07:08:34.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "philips-system-test-automation-engineer-san-diego",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T08:19:26.735Z",
-    "postedAt": "2025-12-14T10:05:14.921Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Mastercard",
       "job_city": "O Fallon",
@@ -214,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T08:33:43.691Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T10:18:41.920Z"
   },
   {
     "job": {
@@ -410,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-09-22T06:36:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "gdit-data-scientist-associate-internship-remote-in-usa"
+      "id": "gdit-data-scientist-associate-internship-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T10:18:34.349Z",
     "postedAt": null
   },
   {
