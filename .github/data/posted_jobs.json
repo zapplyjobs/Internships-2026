@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T19:09:38.754Z",
+  "lastUpdated": "2025-12-14T19:20:15.854Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -4291,14 +4291,113 @@
       "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7252833",
       "discordThreadId": "1449840773158797386",
       "instanceNumber": 1
+    },
+    {
+      "id": "comcast-front-end-ui-devops-engineer-intern-west-chester-2025-12-14-1",
+      "jobId": "comcast-front-end-ui-devops-engineer-intern-west-chester",
+      "company": "Comcast",
+      "title": "Front End UI DevOps Engineer Intern",
+      "postedToDiscord": "2025-12-14T19:19:58.324Z",
+      "sourceDate": "2025-09-17T10:22:20.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Comcast-Front-End-UI-DevOps-Engineer-Intern_R419209",
+      "discordThreadId": "1449843371135996067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cencora-ai-readiness-and-enablement-intern-conshohocken-2025-12-14-1",
+      "jobId": "cencora-ai-readiness-and-enablement-intern-conshohocken",
+      "company": "Cencora",
+      "title": "AI Readiness and Enablement Intern",
+      "postedToDiscord": "2025-12-14T19:20:00.267Z",
+      "sourceDate": "2025-09-17T10:20:41.000Z",
+      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517572",
+      "discordThreadId": "1449843379641909379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "legis1-ai-news-integration-north-bethesda-2025-12-14-1",
+      "jobId": "legis1-ai-news-integration-north-bethesda",
+      "company": "Legis1",
+      "title": "AI News Integration",
+      "postedToDiscord": "2025-12-14T19:20:02.099Z",
+      "sourceDate": "2025-09-17T10:16:20.000Z",
+      "sourceUrl": "https://jobs.lever.co/sunwatercapital/583d67a5-46c3-4448-ba2e-604549a8627c",
+      "discordThreadId": "1449843387816743045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-toro-company-commercial-service-publications-intern-the-toro-company-bloomington-2025-12-14-1",
+      "jobId": "the-toro-company-commercial-service-publications-intern-the-toro-company-bloomington",
+      "company": "The Toro Company",
+      "title": "Commercial Service Publications Intern - The Toro Company",
+      "postedToDiscord": "2025-12-14T19:20:03.818Z",
+      "sourceDate": "2025-09-17T04:24:56.000Z",
+      "sourceUrl": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Commercial-Service-Publications-Intern---The-Toro-Company_JR14046",
+      "discordThreadId": "1449843395269886103",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neighbor-software-engineering-intern-multiple-teams-lehi-2025-12-14-1",
+      "jobId": "neighbor-software-engineering-intern-multiple-teams-lehi",
+      "company": "Neighbor",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-14T19:20:05.595Z",
+      "sourceDate": "2025-09-17T03:10:02.000Z",
+      "sourceUrl": "https://jobs.lever.co/neighbor/17671a1c-e487-44cb-934a-2ca06b65f070/apply",
+      "discordThreadId": "1449843402475835412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-android-applications-developer-intern-chicago-2025-12-14-1",
+      "jobId": "motorola-android-applications-developer-intern-chicago",
+      "company": "Motorola",
+      "title": "Android Applications Developer Intern",
+      "postedToDiscord": "2025-12-14T19:20:07.266Z",
+      "sourceDate": "2025-09-17T02:56:14.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2026_R57626",
+      "discordThreadId": "1449843409761079297",
+      "instanceNumber": 1
+    },
+    {
+      "id": "huntsman-fp-a-intern-and-data-analytics-intern-the-woodlands-2025-12-14-1",
+      "jobId": "huntsman-fp-a-intern-and-data-analytics-intern-the-woodlands",
+      "company": "Huntsman",
+      "title": "FP&a Intern and Data Analytics Intern",
+      "postedToDiscord": "2025-12-14T19:20:08.981Z",
+      "sourceDate": "2025-09-17T02:15:24.000Z",
+      "sourceUrl": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/FP-A-Intern--and-Data-Analytics-Intern_J-018968",
+      "discordThreadId": "1449843416736337921",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kodiak-robotics-intern-video-visualization-engineer-mountain-view-2025-12-14-1",
+      "jobId": "kodiak-robotics-intern-video-visualization-engineer-mountain-view",
+      "company": "Kodiak Robotics",
+      "title": "Intern Video Visualization Engineer",
+      "postedToDiscord": "2025-12-14T19:20:13.868Z",
+      "sourceDate": "2025-09-17T01:49:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024648009",
+      "discordThreadId": "1449843436831248465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kodiak-robotics-summer-2026-intern-simulation-mountain-view-2025-12-14-1",
+      "jobId": "kodiak-robotics-summer-2026-intern-simulation-mountain-view",
+      "company": "Kodiak Robotics",
+      "title": "Summer 2026 Intern - Simulation",
+      "postedToDiscord": "2025-12-14T19:20:15.854Z",
+      "sourceDate": "2025-09-17T01:49:42.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024796009",
+      "discordThreadId": "1449843444829917368",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 390,
+    "totalJobs": 399,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T19:09:38.754Z",
+      "date": "2025-12-14T19:20:15.854Z",
       "archived": 0
     }
   }
