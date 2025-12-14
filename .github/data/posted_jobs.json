@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-14T08:47:40.908Z",
+  "lastUpdated": "2025-12-14T08:55:48.887Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -3631,14 +3631,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=?gh_jid=7163234",
       "discordThreadId": "1449684243989921917",
       "instanceNumber": 1
+    },
+    {
+      "id": "northmark-strategies-engineering-intern-program-dallas-2025-12-14-1",
+      "jobId": "northmark-strategies-engineering-intern-program-dallas",
+      "company": "NorthMark Strategies",
+      "title": "Engineering Intern Program",
+      "postedToDiscord": "2025-12-14T08:55:48.887Z",
+      "sourceDate": "2025-09-22T23:57:53.000Z",
+      "sourceUrl": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713",
+      "discordThreadId": "1449686297584205905",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 330,
+    "totalJobs": 331,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-14T08:47:40.908Z",
+      "date": "2025-12-14T08:55:48.887Z",
       "archived": 0
     }
   }
