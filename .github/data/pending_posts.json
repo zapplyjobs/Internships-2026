@@ -182,26 +182,6 @@
   {
     "job": {
       "job_title": "Software Engineer Intern",
-      "employer_name": "Impel",
-      "job_city": "Syracuse",
-      "job_state": "NY",
-      "job_description": "Join Impel in this exciting opportunity.",
-      "job_apply_link": "https://myjobs.adp.com/impeljobs/cx/job-details?reqId=5001151417706",
-      "job_posted_at_datetime_utc": "2025-09-22T06:59:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "impel-software-engineer-intern-syracuse",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-14T09:04:48.788Z",
-    "postedAt": "2025-12-14T10:49:35.143Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
       "employer_name": "Exegy",
       "job_city": "St. Louis",
       "job_state": "MO",
@@ -214,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-14T09:17:55.096Z",
-    "postedAt": null
+    "postedAt": "2025-12-14T10:56:05.440Z"
   },
   {
     "job": {
@@ -405,16 +385,18 @@
       "employer_name": "Darkhiv",
       "job_city": "San Antonio",
       "job_state": "TX",
-      "job_description": "Join Darkhiv in this exciting opportunity.",
+      "job_description": "Darkhive is building a new generation of US-produced autonomous drones designed to be scalable in cost, deployment, and management.",
       "job_apply_link": "https://apply.workable.com/darkhive/j/1DA0B16639/",
       "job_posted_at_datetime_utc": "2025-09-22T06:17:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "darkhiv-software-engineer-san-antonio"
+      "id": "darkhiv-software-engineer-san-antonio",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-14T10:55:58.188Z",
     "postedAt": null
   },
   {
