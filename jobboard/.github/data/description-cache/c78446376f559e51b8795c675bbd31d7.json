@@ -1,0 +1,17 @@
+{
+  "url": "https://www.ixl.com/company/careers?gh_jid=8128629002",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "See how IXL makes math, language arts, science, social studies, and Spanish fun! TRY IXL TODAY >",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.ixl.com/company/careers?gh_jid=8128629002",
+      "fetchedAt": "2025-12-15T06:55:01.691Z"
+    }
+  },
+  "cachedAt": 1765781701691
+}
