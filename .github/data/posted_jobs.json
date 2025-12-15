@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T07:41:38.425Z",
+  "lastUpdated": "2025-12-15T07:52:24.779Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -8746,14 +8746,113 @@
       "sourceUrl": "https://boards.greenhouse.io/appliedintuition/jobs/4473608005",
       "discordThreadId": "1450030019240919111",
       "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-production-infrastructure-washington-2025-12-15-1",
+      "jobId": "palantir-software-engineer-internship-production-infrastructure-washington",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Production Infrastructure",
+      "postedToDiscord": "2025-12-15T07:52:14.892Z",
+      "sourceDate": "2025-08-19T16:18:24.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply",
+      "discordThreadId": "1450032688512630866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-infrastructure-palo-alto-2025-12-15-1",
+      "jobId": "palantir-software-engineer-internship-infrastructure-palo-alto",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Infrastructure",
+      "postedToDiscord": "2025-12-15T07:52:14.903Z",
+      "sourceDate": "2025-08-19T16:18:24.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-iaas-ai-infra-phd-san-jose-2025-12-15-1",
+      "jobId": "bytedance-research-intern-iaas-ai-infra-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Research Intern - Iaas AI Infra - PhD",
+      "postedToDiscord": "2025-12-15T07:52:16.592Z",
+      "sourceDate": "2025-08-19T03:00:54.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7537121176616847624/detail",
+      "discordThreadId": "1450032695865512068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-iaas-ai-infra-phd-seattle-2025-12-15-1",
+      "jobId": "bytedance-research-intern-iaas-ai-infra-phd-seattle",
+      "company": "ByteDance",
+      "title": "Research Intern - Iaas AI Infra - PhD",
+      "postedToDiscord": "2025-12-15T07:52:16.600Z",
+      "sourceDate": "2025-08-19T03:00:53.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7537118884496312584/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-rdma-high-speed-network-phd-seattle-2025-12-15-1",
+      "jobId": "bytedance-research-intern-rdma-high-speed-network-phd-seattle",
+      "company": "ByteDance",
+      "title": "Research Intern - RDMA/High Speed Network - PhD",
+      "postedToDiscord": "2025-12-15T07:52:18.281Z",
+      "sourceDate": "2025-08-19T03:00:48.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7539992615111559442/detail",
+      "discordThreadId": "1450032702995566742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-rdma-high-speed-network-phd-san-jose-2025-12-15-1",
+      "jobId": "bytedance-research-intern-rdma-high-speed-network-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Research Intern - RDMA/High Speed Network - PhD",
+      "postedToDiscord": "2025-12-15T07:52:18.288Z",
+      "sourceDate": "2025-08-19T03:00:46.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7540025509111990546/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-new-york-2025-12-15-1",
+      "jobId": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-new-york",
+      "company": "American Express",
+      "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
+      "postedToDiscord": "2025-12-15T07:52:20.009Z",
+      "sourceDate": "2025-08-19T02:56:06.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/30702558",
+      "discordThreadId": "1450032710163632190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-ai-llm-network-san-jose-2025-12-15-1",
+      "jobId": "bytedance-research-intern-ai-llm-network-san-jose",
+      "company": "ByteDance",
+      "title": "Research Intern - AI/LLM Network",
+      "postedToDiscord": "2025-12-15T07:52:24.771Z",
+      "sourceDate": "2025-08-19T03:00:42.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7539991964504017170/detail",
+      "discordThreadId": "1450032729755353090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-ai-llm-network-seattle-2025-12-15-1",
+      "jobId": "bytedance-research-intern-ai-llm-network-seattle",
+      "company": "ByteDance",
+      "title": "Research Intern - AI/LLM Network",
+      "postedToDiscord": "2025-12-15T07:52:24.779Z",
+      "sourceDate": "2025-08-19T03:00:41.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7539992380817639687/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 795,
+    "totalJobs": 804,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T07:41:38.425Z",
+      "date": "2025-12-15T07:52:24.779Z",
       "archived": 0
     }
   }
