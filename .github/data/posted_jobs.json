@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T05:39:00.270Z",
+  "lastUpdated": "2025-12-15T05:51:35.836Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -7954,14 +7954,113 @@
       "sourceUrl": "https://careers.aflac.com/job/2026-Digital-Services-Intern-GA-31999/1320691100/?ats=successfactors",
       "discordThreadId": "1449999156876939477",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-hanover-associate-solutions-developer-worcester-2025-12-15-1",
+      "jobId": "the-hanover-associate-solutions-developer-worcester",
+      "company": "The Hanover",
+      "title": "Associate Solutions Developer",
+      "postedToDiscord": "2025-12-15T05:51:23.450Z",
+      "sourceDate": "2025-08-27T14:34:59.000Z",
+      "sourceUrl": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
+      "discordThreadId": "1450002266756092125",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spectrum-associate-software-developer-maryland-heights-2025-12-15-1",
+      "jobId": "spectrum-associate-software-developer-maryland-heights",
+      "company": "Spectrum",
+      "title": "Associate Software Developer",
+      "postedToDiscord": "2025-12-15T05:51:25.152Z",
+      "sourceDate": "2025-08-27T14:30:21.000Z",
+      "sourceUrl": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
+      "discordThreadId": "1450002280718929953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spectrum-associate-dev-ops-engineer-charlotte-2025-12-15-1",
+      "jobId": "spectrum-associate-dev-ops-engineer-charlotte",
+      "company": "Spectrum",
+      "title": "Associate Dev Ops Engineer",
+      "postedToDiscord": "2025-12-15T05:51:27.011Z",
+      "sourceDate": "2025-08-27T14:29:39.000Z",
+      "sourceUrl": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
+      "discordThreadId": "1450002288583250066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spectrum-associate-dev-ops-engineer-maryland-heights-2025-12-15-1",
+      "jobId": "spectrum-associate-dev-ops-engineer-maryland-heights",
+      "company": "Spectrum",
+      "title": "Associate Dev Ops Engineer",
+      "postedToDiscord": "2025-12-15T05:51:27.018Z",
+      "sourceDate": "2025-08-27T14:26:57.000Z",
+      "sourceUrl": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nuro-systems-engineering-intern-scenario-taxonomy-mountain-view-2025-12-15-1",
+      "jobId": "nuro-systems-engineering-intern-scenario-taxonomy-mountain-view",
+      "company": "Nuro",
+      "title": "Systems Engineering Intern, Scenario Taxonomy",
+      "postedToDiscord": "2025-12-15T05:51:28.735Z",
+      "sourceDate": "2025-08-27T14:03:55.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7169069",
+      "discordThreadId": "1450002295851843677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nuro-mapping-localization-software-engineering-intern-mountain-view-2025-12-15-1",
+      "jobId": "nuro-mapping-localization-software-engineering-intern-mountain-view",
+      "company": "Nuro",
+      "title": "Mapping & Localization, Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T05:51:30.546Z",
+      "sourceDate": "2025-08-27T14:03:23.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6562194",
+      "discordThreadId": "1450002303577882634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nuro-software-engineer-performance-intern-mountain-view-2025-12-15-1",
+      "jobId": "nuro-software-engineer-performance-intern-mountain-view",
+      "company": "Nuro",
+      "title": "Software Engineer, Performance - Intern",
+      "postedToDiscord": "2025-12-15T05:51:32.253Z",
+      "sourceDate": "2025-08-27T14:03:02.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6867897",
+      "discordThreadId": "1450002310758531157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zebra-avs-mobile-software-engineer-lincolnshire-2025-12-15-1",
+      "jobId": "zebra-avs-mobile-software-engineer-lincolnshire",
+      "company": "Zebra",
+      "title": "AVS Mobile Software Engineer",
+      "postedToDiscord": "2025-12-15T05:51:33.971Z",
+      "sourceDate": "2025-08-27T14:02:00.000Z",
+      "sourceUrl": "https://careers.zebra.com/careers/job/343627780597",
+      "discordThreadId": "1450002317993709638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abridge-full-stack-engineering-intern-san-francisco-2025-12-15-1",
+      "jobId": "abridge-full-stack-engineering-intern-san-francisco",
+      "company": "Abridge",
+      "title": "Full Stack Engineering Intern",
+      "postedToDiscord": "2025-12-15T05:51:35.835Z",
+      "sourceDate": "2025-08-27T14:01:21.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
+      "discordThreadId": "1450002325442658347",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 723,
+    "totalJobs": 732,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T05:39:00.270Z",
+      "date": "2025-12-15T05:51:35.836Z",
       "archived": 0
     }
   }
