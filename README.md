@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-339-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-338-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-164-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 164+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 339+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 164+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 338+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 339 internships & new grad roles  
+🔥 **Current Opportunities:** 338 internships & new grad roles  
 🏢 **Top Companies:** 164 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 15, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1757 (older than 1 week)
+📁 **Archived Opportunities:** 1755 (older than 1 week)
 
 
 ---
@@ -214,13 +214,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Performance Engineering Intern - Deep Learning and HPC - Winter 2026 | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287) | 3d |
 | AI Compiler Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 3d |
 
-### 💻 **Enterprise Software** (4 positions)
+### 💻 **Enterprise Software** (3 positions)
 
-#### 🌐 **Cisco** (3 positions)
+#### 🌐 **Cisco** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer Full Stack/Application 2 - Co-op | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2004337) | 3d |
 | Software Engineer Full Stack & Application Development 1 – Intern - United States | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2000450) | 3d |
 | Software Engineer Data/AI/Intelligent Systems 1 - Intern | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://careers.cisco.com/global/en/job/2001254) | 3d |
 
@@ -255,7 +254,7 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (3 companies)
-🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (3 positions) • 🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2)
+🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (2 positions) • 🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (2)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
@@ -263,7 +262,7 @@ No companies available
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Internships & Co-ops | 307 | 91% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 28 | 8% | 0-1 years of experience |
+| 🟡 New Grad Roles | 27 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 4 | 1% | 1-2 years of experience |
 
 ---
@@ -275,14 +274,14 @@ No companies available
 - **Remote in USA, Locations**: 13 opportunities
 - **Chicago, IL**: 10 opportunities
 - **Cambridge, MA**: 10 opportunities
-- **San Jose, CA**: 8 opportunities
 - **Grove City, PA**: 8 opportunities
+- **San Jose, CA**: 7 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 339+ verified internships and new grad roles from 164 top companies.
+✅ **100% Real Opportunities:** 338+ verified internships and new grad roles from 164 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -334,12 +333,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1757 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1755 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1757 roles
+- **📁 Total Positions**: 1755 roles
 - **🏢 Companies**: 164 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
@@ -600,7 +599,7 @@ No companies available
 
 <div align="center">
 
-**🎯 339 current opportunities from 164 top companies.**
+**🎯 338 current opportunities from 164 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

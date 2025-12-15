@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T06:57:53.053Z",
+  "lastUpdated": "2025-12-15T07:13:02.841Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -8449,14 +8449,113 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
       "discordThreadId": "1450019007284645928",
       "instanceNumber": 1
+    },
+    {
+      "id": "amazon-security-engineer-internship-seattle-2025-12-15-1",
+      "jobId": "amazon-security-engineer-internship-seattle",
+      "company": "Amazon",
+      "title": "Security Engineer Internship",
+      "postedToDiscord": "2025-12-15T07:12:39.598Z",
+      "sourceDate": "2025-08-22T13:10:24.000Z",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us",
+      "discordThreadId": "1450022725816160307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-systems-development-engineer-internship-seattle-2025-12-15-1",
+      "jobId": "amazon-systems-development-engineer-internship-seattle",
+      "company": "Amazon",
+      "title": "Systems Development Engineer Internship",
+      "postedToDiscord": "2025-12-15T07:12:41.401Z",
+      "sourceDate": "2025-08-22T13:08:57.000Z",
+      "sourceUrl": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us",
+      "discordThreadId": "1450022732962988144",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ixl-learning-software-engineer-intern-san-mateo-2025-12-15-1",
+      "jobId": "ixl-learning-software-engineer-intern-san-mateo",
+      "company": "IXL Learning",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-15T07:12:44.763Z",
+      "sourceDate": "2025-08-21T14:14:47.000Z",
+      "sourceUrl": "https://www.ixl.com/company/careers?gh_jid=8128629002",
+      "discordThreadId": "1450022740592689234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "al-warren-oil-company-software-developer-bensenville-2025-12-15-1",
+      "jobId": "al-warren-oil-company-software-developer-bensenville",
+      "company": "Al Warren Oil Company",
+      "title": "Software Developer",
+      "postedToDiscord": "2025-12-15T07:12:46.438Z",
+      "sourceDate": "2025-08-21T14:13:49.000Z",
+      "sourceUrl": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/",
+      "discordThreadId": "1450022754752532652",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globus-medical-software-engineer-co-op-methuen-2025-12-15-1",
+      "jobId": "globus-medical-software-engineer-co-op-methuen",
+      "company": "Globus Medical",
+      "title": "Software Engineer Co-Op",
+      "postedToDiscord": "2025-12-15T07:12:50.008Z",
+      "sourceDate": "2025-08-21T14:12:17.000Z",
+      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Methuen-MA/Co-Op_JR104162",
+      "discordThreadId": "1450022761681653781",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arch-capital-group-enterprise-document-management-systems-edms-greensboro-2025-12-15-1",
+      "jobId": "arch-capital-group-enterprise-document-management-systems-edms-greensboro",
+      "company": "Arch Capital Group",
+      "title": "Enterprise Document Management Systems - Edms",
+      "postedToDiscord": "2025-12-15T07:12:54.772Z",
+      "sourceDate": "2025-08-22T07:54:31.000Z",
+      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Enterprise-Document-Management-Systems--EDMS--Summer-ntern_R25_722",
+      "discordThreadId": "1450022789590290616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arch-capital-group-it-servicing-ngs-product-summer-intern-greensboro-2025-12-15-1",
+      "jobId": "arch-capital-group-it-servicing-ngs-product-summer-intern-greensboro",
+      "company": "Arch Capital Group",
+      "title": "IT Servicing NGS Product Summer Intern",
+      "postedToDiscord": "2025-12-15T07:12:56.444Z",
+      "sourceDate": "2025-08-22T01:20:29.000Z",
+      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/IT-Servicing-NGS-Product-Summer-Intern_R25_724",
+      "discordThreadId": "1450022796708020427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arch-capital-group-online-portals-next-gen-platforms-summer-intern-opng-greensboro-2025-12-15-1",
+      "jobId": "arch-capital-group-online-portals-next-gen-platforms-summer-intern-opng-greensboro",
+      "company": "Arch Capital Group",
+      "title": "Online Portals & Next Gen Platforms – Summer Intern - Opng",
+      "postedToDiscord": "2025-12-15T07:12:58.121Z",
+      "sourceDate": "2025-08-22T01:08:55.000Z",
+      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
+      "discordThreadId": "1450022803721031784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "relx-data-engineer-intern-alpharetta-2025-12-15-1",
+      "jobId": "relx-data-engineer-intern-alpharetta",
+      "company": "RELX",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-15T07:13:02.841Z",
+      "sourceDate": "2025-08-21T14:09:12.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
+      "discordThreadId": "1450022823530729654",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 768,
+    "totalJobs": 777,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T06:57:53.053Z",
+      "date": "2025-12-15T07:13:02.841Z",
       "archived": 0
     }
   }
