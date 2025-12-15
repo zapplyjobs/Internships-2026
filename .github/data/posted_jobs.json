@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T06:20:06.661Z",
+  "lastUpdated": "2025-12-15T06:37:22.507Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -8251,14 +8251,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/integrainterns/jobs/4896460008",
       "discordThreadId": "1450009501355999427",
       "instanceNumber": 1
+    },
+    {
+      "id": "integra-fec-summer-data-analyst-intern-austin-2025-12-15-1",
+      "jobId": "integra-fec-summer-data-analyst-intern-austin",
+      "company": "Integra FEC",
+      "title": "Summer – Data Analyst Intern",
+      "postedToDiscord": "2025-12-15T06:37:02.300Z",
+      "sourceDate": "2025-08-26T22:38:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/integrainterns/jobs/4896455008",
+      "discordThreadId": "1450013761040683119",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eos-energy-storage-summer-internship-program-2026-monroeville-2025-12-15-1",
+      "jobId": "eos-energy-storage-summer-internship-program-2026-monroeville",
+      "company": "Eos Energy Storage",
+      "title": "Summer Internship Program 2026",
+      "postedToDiscord": "2025-12-15T06:37:03.980Z",
+      "sourceDate": "2025-08-25T16:59:39.000Z",
+      "sourceUrl": "https://eosenergystorage.wd1.myworkdayjobs.com/eos/job/PA-Turtle-Creek/Summer-Internship-Program-2026_R4381",
+      "discordThreadId": "1450013768414265375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brunswick-mercury-marine-software-electrical-engineering-co-op-fond-du-lac-2025-12-15-1",
+      "jobId": "brunswick-mercury-marine-software-electrical-engineering-co-op-fond-du-lac",
+      "company": "Brunswick",
+      "title": "Mercury Marine Software/Electrical Engineering Co-op",
+      "postedToDiscord": "2025-12-15T06:37:08.759Z",
+      "sourceDate": "2025-08-26T12:35:38.000Z",
+      "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine-Software-Electrical-Engineering-Co-op--Spring-or-Fall-Term-_JR-047253",
+      "discordThreadId": "1450013788496723979",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pwc-cloud-engineering-data-analytics-software-engineering-intern-rosemont-2025-12-15-1",
+      "jobId": "pwc-cloud-engineering-data-analytics-software-engineering-intern-rosemont",
+      "company": "PwC",
+      "title": "Cloud Engineering, Data & Analytics - Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T06:37:10.470Z",
+      "sourceDate": "2025-08-26T12:32:21.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Cloud-Engineering--Data---Analytics----Software-Engineering-Intern---Summer-2026_658438WD",
+      "discordThreadId": "1450013795819720725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "google-software-engineering-intern-atlanta-2025-12-15-1",
+      "jobId": "google-software-engineering-intern-atlanta",
+      "company": "Google",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T06:37:12.169Z",
+      "sourceDate": "2025-08-25T18:42:56.000Z",
+      "sourceUrl": "https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026",
+      "discordThreadId": "1450013802925133906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-johnson-technology-2026-summer-internship-fort-washington-2025-12-15-1",
+      "jobId": "johnson-johnson-technology-2026-summer-internship-fort-washington",
+      "company": "Johnson & Johnson",
+      "title": "Technology 2026 Summer Internship",
+      "postedToDiscord": "2025-12-15T06:37:13.912Z",
+      "sourceDate": "2025-08-25T18:41:14.000Z",
+      "sourceUrl": "https://www.careers.jnj.com/en/jobs/r-029613/technology-2026-summer-internship/",
+      "discordThreadId": "1450013810105778187",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zip-software-engineer-intern-san-francisco-2025-12-15-1",
+      "jobId": "zip-software-engineer-intern-san-francisco",
+      "company": "Zip",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-15T06:37:16.071Z",
+      "sourceDate": "2025-08-25T09:29:04.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/zip/83c0a4d8-7a88-4921-be8e-347ba3f3bedd",
+      "discordThreadId": "1450013817776898219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tesla-https-github-com-simplifyjobs-summer2026-internships-issues-5677-palo-alto-2025-12-15-1",
+      "jobId": "tesla-https-github-com-simplifyjobs-summer2026-internships-issues-5677-palo-alto",
+      "company": "Tesla",
+      "title": "https://github.com/SimplifyJobs/Summer2026-Internships/issues/5677",
+      "postedToDiscord": "2025-12-15T06:37:17.781Z",
+      "sourceDate": "2025-08-25T09:27:24.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/248920",
+      "discordThreadId": "1450013826476150994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ibm-ai-engineer-intern-austin-2025-12-15-1",
+      "jobId": "ibm-ai-engineer-intern-austin",
+      "company": "IBM",
+      "title": "AI Engineer Intern",
+      "postedToDiscord": "2025-12-15T06:37:22.506Z",
+      "sourceDate": "2025-08-25T22:23:33.000Z",
+      "sourceUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=",
+      "discordThreadId": "1450013845887389727",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 750,
+    "totalJobs": 759,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T06:20:06.661Z",
+      "date": "2025-12-15T06:37:22.507Z",
       "archived": 0
     }
   }
