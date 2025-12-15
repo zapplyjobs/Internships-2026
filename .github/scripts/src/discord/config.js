@@ -22,18 +22,18 @@ const CHANNEL_CONFIG = {
 
 // Location-specific channel configuration
 const LOCATION_CHANNEL_CONFIG = {
-  'remote-usa': process.env.DISCORD_REMOTE_USA_CHANNEL_ID,
-  'new-york': process.env.DISCORD_NY_CHANNEL_ID,
-  'austin': process.env.DISCORD_AUSTIN_CHANNEL_ID,
-  'chicago': process.env.DISCORD_CHICAGO_CHANNEL_ID,
-  'seattle': process.env.DISCORD_SEATTLE_CHANNEL_ID,
-  'redmond': process.env.DISCORD_REDMOND_CHANNEL_ID,
-  'mountain-view': process.env.DISCORD_MV_CHANNEL_ID,
-  'san-francisco': process.env.DISCORD_SF_CHANNEL_ID,
-  'sunnyvale': process.env.DISCORD_SUNNYVALE_CHANNEL_ID,
-  'san-bruno': process.env.DISCORD_SAN_BRUNO_CHANNEL_ID,
-  'boston': process.env.DISCORD_BOSTON_CHANNEL_ID,
-  'los-angeles': process.env.DISCORD_LA_CHANNEL_ID
+  'remote-usa': process.env.DISCORD_REMOTE_USA_INT_CHANNEL_ID,
+  'new-york': process.env.DISCORD_NY_INT_CHANNEL_ID,
+  'austin': process.env.DISCORD_AUSTIN_INT_CHANNEL_ID,
+  'chicago': process.env.DISCORD_CHICAGO_INT_CHANNEL_ID,
+  'seattle': process.env.DISCORD_SEATTLE_INT_CHANNEL_ID,
+  'redmond': process.env.DISCORD_REDMOND_INT_CHANNEL_ID,
+  'mountain-view': process.env.DISCORD_MV_INT_CHANNEL_ID,
+  'san-francisco': process.env.DISCORD_SF_INT_CHANNEL_ID,
+  'sunnyvale': process.env.DISCORD_SUNNYVALE_INT_CHANNEL_ID,
+  'san-bruno': process.env.DISCORD_SAN_BRUNO_INT_CHANNEL_ID,
+  'boston': process.env.DISCORD_BOSTON_INT_CHANNEL_ID,
+  'los-angeles': process.env.DISCORD_LA_INT_CHANNEL_ID
 };
 
 // Legacy single channel support
