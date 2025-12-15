@@ -1,0 +1,56 @@
+name: Test Location Channels
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  test-channels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+    - name: Checkout Internships Repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Install Discord.js
+      run: npm install discord.js@14
+
+    - name: Run Location Channels Test
+      run: node .github/scripts/test-location-channels.js
+      env:
+        # Discord Bot Configuration
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_GUILD_ID: ${{ secrets.DISCORD_GUILD_ID }}
+
+        # NEW-GRAD Location Channels (for comparison)
+        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
+        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
+        DISCORD_AUSTIN_CHANNEL_ID: ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
+        DISCORD_CHICAGO_CHANNEL_ID: ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
+        DISCORD_SEATTLE_CHANNEL_ID: ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
+        DISCORD_REDMOND_CHANNEL_ID: ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
+        DISCORD_MV_CHANNEL_ID: ${{ secrets.DISCORD_MV_CHANNEL_ID }}
+        DISCORD_SF_CHANNEL_ID: ${{ secrets.DISCORD_SF_CHANNEL_ID }}
+        DISCORD_SUNNYVALE_CHANNEL_ID: ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
+        DISCORD_SAN_BRUNO_CHANNEL_ID: ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
+        DISCORD_BOSTON_CHANNEL_ID: ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
+        DISCORD_LA_CHANNEL_ID: ${{ secrets.DISCORD_LA_CHANNEL_ID }}
+
+        # INTERNSHIPS Location Channels (with _INT_ suffix)
+        DISCORD_REMOTE_USA_INT_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_INT_CHANNEL_ID }}
+        DISCORD_NY_INT_CHANNEL_ID: ${{ secrets.DISCORD_NY_INT_CHANNEL_ID }}
+        DISCORD_AUSTIN_INT_CHANNEL_ID: ${{ secrets.DISCORD_AUSTIN_INT_CHANNEL_ID }}
+        DISCORD_CHICAGO_INT_CHANNEL_ID: ${{ secrets.DISCORD_CHICAGO_INT_CHANNEL_ID }}
+        DISCORD_SEATTLE_INT_CHANNEL_ID: ${{ secrets.DISCORD_SEATTLE_INT_CHANNEL_ID }}
+        DISCORD_REDMOND_INT_CHANNEL_ID: ${{ secrets.DISCORD_REDMOND_INT_CHANNEL_ID }}
+        DISCORD_MV_INT_CHANNEL_ID: ${{ secrets.DISCORD_MV_INT_CHANNEL_ID }}
+        DISCORD_SF_INT_CHANNEL_ID: ${{ secrets.DISCORD_SF_INT_CHANNEL_ID }}
+        DISCORD_SUNNYVALE_INT_CHANNEL_ID: ${{ secrets.DISCORD_SUNNYVALE_INT_CHANNEL_ID }}
+        DISCORD_SAN_BRUNO_INT_CHANNEL_ID: ${{ secrets.DISCORD_SAN_BRUNO_INT_CHANNEL_ID }}
+        DISCORD_BOSTON_INT_CHANNEL_ID: ${{ secrets.DISCORD_BOSTON_INT_CHANNEL_ID }}
+        DISCORD_LA_INT_CHANNEL_ID: ${{ secrets.DISCORD_LA_INT_CHANNEL_ID }}
