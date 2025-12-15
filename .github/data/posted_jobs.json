@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T03:13:58.620Z",
+  "lastUpdated": "2025-12-15T03:54:08.165Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -7360,14 +7360,113 @@
       "sourceUrl": "https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
       "discordThreadId": "1449962659461075015",
       "instanceNumber": 1
+    },
+    {
+      "id": "trimble-software-engineering-intern-dayton-2025-12-15-1",
+      "jobId": "trimble-software-engineering-intern-dayton",
+      "company": "Trimble",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T03:53:52.636Z",
+      "sourceDate": "2025-09-02T06:57:55.000Z",
+      "sourceUrl": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern---Summer-2026_R51540",
+      "discordThreadId": "1449972700302016593",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stryker-2026-summer-intern-software-engineering-fort-wayne-2025-12-15-1",
+      "jobId": "stryker-2026-summer-intern-software-engineering-fort-wayne",
+      "company": "Stryker",
+      "title": "2026 Summer Intern - Software Engineering",
+      "postedToDiscord": "2025-12-15T03:53:54.422Z",
+      "sourceDate": "2025-09-01T06:18:07.000Z",
+      "sourceUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/XMLNAME-2026-Summer-Intern---Software-Engineering---Indiana_R549765",
+      "discordThreadId": "1449972708057284640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stryker-2026-summer-intern-software-engineering-fort-lauderdale-2025-12-15-1",
+      "jobId": "stryker-2026-summer-intern-software-engineering-fort-lauderdale",
+      "company": "Stryker",
+      "title": "2026 Summer Intern - Software Engineering",
+      "postedToDiscord": "2025-12-15T03:53:54.428Z",
+      "sourceDate": "2025-09-01T06:18:07.000Z",
+      "sourceUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/XMLNAME-2026-Summer-Intern---Software-Engineering---Florida_R549793",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stryker-2026-summer-intern-software-engineering-flower-mound-2025-12-15-1",
+      "jobId": "stryker-2026-summer-intern-software-engineering-flower-mound",
+      "company": "Stryker",
+      "title": "2026 Summer Intern - Software Engineering",
+      "postedToDiscord": "2025-12-15T03:53:54.434Z",
+      "sourceDate": "2025-09-01T06:18:06.000Z",
+      "sourceUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/XMLNAME-2026-Summer-Intern---Software-Engineering---Texas_R549794",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "netic-software-engineer-intern-san-francisco-2025-12-15-1",
+      "jobId": "netic-software-engineer-intern-san-francisco",
+      "company": "Netic",
+      "title": "Software Engineer, Intern",
+      "postedToDiscord": "2025-12-15T03:53:56.140Z",
+      "sourceDate": "2025-08-31T18:42:38.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/netic/1242d448-bce2-4328-81ac-4b1080460b00",
+      "discordThreadId": "1449972715027955713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bae-systems-software-engineering-co-op-san-diego-2025-12-15-1",
+      "jobId": "bae-systems-software-engineering-co-op-san-diego",
+      "company": "BAE Systems",
+      "title": "Software Engineering CO-OP",
+      "postedToDiscord": "2025-12-15T03:53:59.913Z",
+      "sourceDate": "2025-08-31T18:41:27.000Z",
+      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026",
+      "discordThreadId": "1449972723106447361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-solutions-mission-critical-networks-software-engineer-schaumburg-2025-12-15-1",
+      "jobId": "motorola-solutions-mission-critical-networks-software-engineer-schaumburg",
+      "company": "Motorola Solutions",
+      "title": "Mission Critical Networks Software Engineer",
+      "postedToDiscord": "2025-12-15T03:54:01.711Z",
+      "sourceDate": "2025-08-31T18:38:07.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---Summer-2026-Internship_R57239",
+      "discordThreadId": "1449972738176450583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "databricks-software-engineering-intern-bellevue-2025-12-15-1",
+      "jobId": "databricks-software-engineering-intern-bellevue",
+      "company": "Databricks",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T03:54:03.411Z",
+      "sourceDate": "2025-08-31T17:07:03.000Z",
+      "sourceUrl": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+      "discordThreadId": "1449972745923199142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-children-s-mercy-hospital-data-science-intern-kansas-2025-12-15-1",
+      "jobId": "the-children-s-mercy-hospital-data-science-intern-kansas",
+      "company": "The Children's Mercy Hospital",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-15T03:54:08.165Z",
+      "sourceDate": "2025-08-31T18:34:08.000Z",
+      "sourceUrl": "https://jobs-childrensmercykc.icims.com/jobs/34857/data-science-intern/job",
+      "discordThreadId": "1449972765825175725",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 669,
+    "totalJobs": 678,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T03:13:58.620Z",
+      "date": "2025-12-15T03:54:08.165Z",
       "archived": 0
     }
   }
