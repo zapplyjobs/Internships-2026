@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Associate Solutions Developer",
-      "employer_name": "The Hanover",
-      "job_city": "Worcester",
-      "job_state": "MA",
-      "job_description": "Join The Hanover in this exciting opportunity.",
-      "job_apply_link": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
-      "job_posted_at_datetime_utc": "2025-08-27T14:34:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-hanover-associate-solutions-developer-worcester",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:21:48.957Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Associate Software Developer",
-      "employer_name": "Spectrum",
-      "job_city": "Maryland Heights",
-      "job_state": "MO",
-      "job_description": "Join Spectrum in this exciting opportunity.",
-      "job_apply_link": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
-      "job_posted_at_datetime_utc": "2025-08-27T14:30:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "spectrum-associate-software-developer-maryland-heights",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Associate Dev Ops Engineer",
-      "employer_name": "Spectrum",
-      "job_city": "Charlotte",
-      "job_state": "NC",
-      "job_description": "Join Spectrum in this exciting opportunity.",
-      "job_apply_link": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
-      "job_posted_at_datetime_utc": "2025-08-27T14:29:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "spectrum-associate-dev-ops-engineer-charlotte",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Associate Dev Ops Engineer",
-      "employer_name": "Spectrum",
-      "job_city": "Maryland Heights",
-      "job_state": "MO",
-      "job_description": "Join Spectrum in this exciting opportunity.",
-      "job_apply_link": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
-      "job_posted_at_datetime_utc": "2025-08-27T14:26:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "spectrum-associate-dev-ops-engineer-maryland-heights",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Systems Engineering Intern, Scenario Taxonomy",
-      "employer_name": "Nuro",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Join Nuro in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7169069",
-      "job_posted_at_datetime_utc": "2025-08-27T14:03:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nuro-systems-engineering-intern-scenario-taxonomy-mountain-view",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Mapping & Localization, Software Engineering Intern",
-      "employer_name": "Nuro",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Join Nuro in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=6562194",
-      "job_posted_at_datetime_utc": "2025-08-27T14:03:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nuro-mapping-localization-software-engineering-intern-mountain-view",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer, Performance - Intern",
-      "employer_name": "Nuro",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Join Nuro in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=6867897",
-      "job_posted_at_datetime_utc": "2025-08-27T14:03:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nuro-software-engineer-performance-intern-mountain-view",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "AVS Mobile Software Engineer",
-      "employer_name": "Zebra",
-      "job_city": "Lincolnshire",
-      "job_state": "IL",
-      "job_description": "Join Zebra in this exciting opportunity.",
-      "job_apply_link": "https://careers.zebra.com/careers/job/343627780597",
-      "job_posted_at_datetime_utc": "2025-08-27T14:02:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zebra-avs-mobile-software-engineer-lincolnshire",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
-      "job_title": "Full Stack Engineering Intern",
-      "employer_name": "Abridge",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Abridge in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
-      "job_posted_at_datetime_utc": "2025-08-27T14:01:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "abridge-full-stack-engineering-intern-san-francisco",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T05:51:38.848Z"
-  },
-  {
-    "job": {
       "job_title": "Data Engineer Intern",
       "employer_name": "Microsoft",
       "job_city": "Redmond",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:00:05.495Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7538942403488188680/detail",
       "job_posted_at_datetime_utc": "2025-08-27T03:00:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-search-alliance-phd-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-search-alliance-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535168003103033618/detail",
       "job_posted_at_datetime_utc": "2025-08-27T03:00:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-governance-algorithms-bs-ms-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-governance-algorithms-bs-ms-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Verkada",
       "job_city": "San Mateo",
       "job_state": "CA",
-      "job_description": "Join Verkada in this exciting opportunity.",
+      "job_description": "Who We Are Verkada is transforming how organizations protect their people and places with an integrated, AI-powered platform. A leader in cloud physical security, Verkada helps organizations strengthen safety and efficiency through one connected software platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management.Over 30,000 organizations worldwide, including more than 100 companies in the Fortune 500, trust Verkada as their physical security layer for easier management, intelligent control, and scalable deployments. Founded in 2016, Verkada has expanded rapidly with 15 offices and 2,200+ full-time employees.About the Role Verkada is looking for software engineering interns to join our team for an exciting and challenging internship. We are seeking interns who will thrive in a startup culture working alongside teammates to launch products that will be utilized by customers across the globe. As an intern working with the Backend Engineering team, you will have opportunities to work across the full software stack and collaborate cross-functionally to build the latest iterations of Verkada’s flagship software enabling our best-in-class security systems. We are committed to a thriving in-office culture. This role requires that you be on-site at our HQ in San Mateo, CA. What You'll Do Build scalable distributed systems capable of handling high traffic from 100s of thousands of devices deployed around the world Work with high concurrency key-value storage systems (Redis, DynamoDB) Work with Postgres relational databases Work with logging and message passing technologies like Kafka and SQS Deploy services via Terraform and Kubernetes Develop large scale systems to interact with and configure products remotely Define and improve low-latency, high-throughput, high-reliability microservice architectures Design and develop features incorporating cutting edge computer vision Design clean APIs and implement them using Python and/or Go What You Bring Ability to work at Verkada HQ during winter or summer 2026 Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field of study and graduating by June 2027 Prior internship experience developing and launching products Familiar with: Python or Golang, Distributed Systems, Operating Systems, AWS, Docker, etc Comfortable working in an agile team software development environment Familiar with REST APIs and Linux servers are a plus US Intern Benefits At Verkada, we believe that internships should be as rewarding, supportive, and fun as they are impactful! That’s why we’re committed to providing a world-class experience that supports both your personal well-being and professional growth. Here are just a few of the perks and benefits you can expect as a Verkada Software Engineering intern: Monthly housing stipend in addition to a competitive hourly wage Daily lunch catered onsite, complimentary barista-made drinks, and fully stocked snacks to keep you fueled Intern-exclusive events and mixers, including opportunities to connect with other interns across different teams Cross-functional collaboration opportunities, giving you real exposure to how teams work together at Verkada Lunch & Learns with company executives — hear directly from leaders and gain insight into building a successful career And more! From team-building activities to mentorship opportunities, we’re here to support your growth every step of the way Additional Information We do sponsor and take over sponsorship of employment visas for this role. If we make you an offer, we will make every reasonable effort to get you a visa. Pay Disclosure At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity. This estimate can vary based on the factors described above, so the actual starting base pay may be above or below this range. Base pay is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).Estimated Hourly Pay Range$55 - $65 USDVerkada Is An Equal Opportunity Employer As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law. Your application will be handled in accordance with our Candidate Privacy Policy.",
       "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4836993007",
       "job_posted_at_datetime_utc": "2025-08-27T01:22:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "verkada-backend-software-engineering-intern-san-mateo"
+      "id": "verkada-backend-software-engineering-intern-san-mateo",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Verkada",
       "job_city": "San Mateo",
       "job_state": "CA",
-      "job_description": "Join Verkada in this exciting opportunity.",
+      "job_description": "Who We Are Verkada is transforming how organizations protect their people and places with an integrated, AI-powered platform. A leader in cloud physical security, Verkada helps organizations strengthen safety and efficiency through one connected software platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management.Over 30,000 organizations worldwide, including more than 100 companies in the Fortune 500, trust Verkada as their physical security layer for easier management, intelligent control, and scalable deployments. Founded in 2016, Verkada has expanded rapidly with 15 offices and 2,200+ full-time employees.About the Role Verkada is looking for software engineering interns to join our team for an exciting and challenging internship. We are seeking interns who will thrive in a startup culture working alongside teammates to launch products that will be utilized by customers across the globe. As an intern working with the Frontend Engineering team, you will have opportunities to work across the full software stack and collaborate cross-functionally to build the latest iterations of Verkada’s flagship software enabling our best-in-class security systems. We are committed to a thriving in-office culture. This role requires that you be on-site at our HQ in San Mateo, CA. What You'll Do Build best in class product experiences across our Command web platform (React) and mobile applications (React Native) Comfortable leading whole projects from design to implementation Work cross-functionally with product, design, and the engineering team to create features which delight users and customers What You Bring Ability to work at Verkada HQ during winter or summer 2026 Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field of study and graduating by June 2027 Internship experience developing and launching products Experience building reusable components, utilizing CSS pre-processors and building pixel perfect user interfaces Proficient understanding of JavaScript or TypeScript, including contexts, prototypes/classes and closures Experience working with a modern web framework such as Angular.js, React or Vue Eye for design, product details, and polish US Intern Benefits At Verkada, we believe that internships should be as rewarding, supportive, and fun as they are impactful! That’s why we’re committed to providing a world-class experience that supports both your personal well-being and professional growth. Here are just a few of the perks and benefits you can expect as a Verkada Software Engineering intern: Monthly housing stipend in addition to a competitive hourly wage Daily lunch catered onsite, complimentary barista-made drinks, and fully stocked snacks to keep you fueled Intern-exclusive events and mixers, including opportunities to connect with other interns across different teams Cross-functional collaboration opportunities, giving you real exposure to how teams work together at Verkada Lunch & Learns with company executives — hear directly from leaders and gain insight into building a successful career And more! From team-building activities to mentorship opportunities, we’re here to support your growth every step of the way Additional Information We do sponsor and take over sponsorship of employment visas for this role. If we make you an offer, we will make every reasonable effort to get you a visa. Pay Disclosure At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity. This estimate can vary based on the factors described above, so the actual starting base pay may be above or below this range. Base pay is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).Estimated Hourly Pay Range$55 - $65 USDVerkada Is An Equal Opportunity Employer As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law. Your application will be handled in accordance with our Candidate Privacy Policy.",
       "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4840368007",
       "job_posted_at_datetime_utc": "2025-08-27T01:22:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "verkada-frontend-software-engineering-intern-2026-san-mateo"
+      "id": "verkada-frontend-software-engineering-intern-2026-san-mateo",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Deutsche Bank",
       "job_city": "Morrisville",
       "job_state": "NC",
-      "job_description": "Join Deutsche Bank in this exciting opportunity.",
+      "job_description": "Select a languageEnglish (English) Deutsch (German)Your language preference will be saved in your profile.Deutsche Bank Internship Programme - Technology, Data and Innovation (TDI) – Cary 2026.submit, .submit:hover { background-color: #; color: #; }Country:United StatesCity:CaryJob Description:Internship ProgrammeDivision:Technology, Data & InnovationLocation:CaryAbout the program:The Deutsche Bank Internship Program is designed to help you develop your skills through formal training and continuous support. You’ll quickly gain the confidence to take on real projects by learning first-hand how and what we deliver for clients worldwide. You’ll feel supported by colleagues from across our business and start to develop your professional network.. About the division:Technology underpins Deutsche Bank’s entire business and is changing and shaping the way we engage, interact and transact with our stakeholders, internally and externally.Our Technology, Data and Innovation (TDI) strategy is strengthening our engineering expertise, introducing an agile delivery model, and is modernising the bank's IT infrastructure with long-term investments and taking advantage of cloud computing.We are building a team of visionary technology talent that will ensure that we thrive in this period of unprecedented change for the industry. That means hiring the right people and giving them the training, freedom and opportunity they need to do pioneering work. About the role:Our technology teams deliver and manage engineering solutions to support the bank’s global customers. They develop and deliver solutions to help modernise technology solutions, to reduce complexity and risk, and to drive business growth.Depending on your rotation you will gain expertise in: hands on coding in languages that could include Java, Python, and others Our Technology Intern Program offers you a wide variety of opportunities within technology, and we’re looking for bright minds like yours to help us make pioneering strides in today’s fast-moving digital world. Through job placements, training courses, seminars, and a variety of networking events you will gain a wide range of practical experience and interpersonal skills with a bank that’s truly driving change in the financial and digital world. What we look for:We recruit students and graduates who are intelligent and adaptable with excellent communication skills. To be considered for this role, students must possess or be on track to graduate with a Bachelor/Master of Science Degree in Computer Science, Engineering, Mathematics, or a related field. Our comprehensive training programs will give you all the technical knowledge you’ll need to build a career with us.To be eligible for 2026 Internship Program you must: Complete your studies (all final exams, coursework, and have no outstanding requirements for graduation) between 1st December 2026 and 31st July 2027. Be able to work full-time during the 10-week summer internship (June - August 2026), subject to local working legislation. Possess no more than 12 months full-time, relevant work experience. At this time, Deutsche Bank will only consider applicants who are presently authorized to work for any employer in the United States and who will not require work visa sponsorship from Deutsche Bank, now or in the future, to retain their authorization to work in the United States. Benefits and wellbeing:Feeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programs centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com) About us and our teams:Our values define the working environment we strive to create – where our people have a sense of belonging and everyone feels welcomed, respected and can contribute and grow. We know that high-performing teams have different skills, backgrounds, and experiences. We collaborate, encourage and enable open dialogue and diversity of views. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.Visit Inside Deutsche Bank to discover more about the culture of Deutsche Bank including Diversity, Equity & Inclusion, Leadership, Learning, Future of Work and more besides.Deutsche Bank is an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the \"EEO is the Law\" poster and \"pay transparency statement.\" How to apply:You'll find a wealth of helpful tools and information on our Employability Hub that will support you with your application, prepare for the assessment processes and adapt to a new working environment.Please visit www.careers.db.com/students-graduates to apply. A notice on Recruitment ScamsPlease note that candidates are not required to pay money as part of the recruitment or job placement process. Do not divulge personal information if you are unsure of the authenticity of a communication from someone who claims to be representing Deutsche Bank. A notice on such scams and practices has been hosted on our website on the link below:https://careers.db.com/professionals/a-notice-on-recruitment-scamsThe annualized salary for this position is $85,000. Posted Salary ranges do not include incentive compensation or any other type of renumeration. #LI-EC1Apply",
       "job_apply_link": "https://db.recsolu.com/external/requisitions/DgVKlwNjlhY8M4_JOkMEnw",
       "job_posted_at_datetime_utc": "2025-08-26T22:57:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "deutsche-bank-deutsche-bank-deutsche-bank-internship-programme-technology-data-and-innovation-tdi-morrisville"
+      "id": "deutsche-bank-deutsche-bank-deutsche-bank-internship-programme-technology-data-and-innovation-tdi-morrisville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Deutsche Bank",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Deutsche Bank in this exciting opportunity.",
+      "job_description": "Select a languageEnglish (English) Deutsch (German)Your language preference will be saved in your profile.Deutsche Bank Internship Program - Technology, Data and Innovation (TDI) - New York 2026.submit, .submit:hover { background-color: #; color: #; }Country:United StatesCity:New YorkJob Description:Internship ProgrammeDivision:Technology, Data & InnovationLocation:New YorkAbout the program:The Deutsche Bank Internship Program is designed to help you develop your skills through formal training and continuous support. You’ll quickly gain the confidence to take on real projects by learning first-hand how and what we deliver for clients worldwide. You’ll feel supported by colleagues from across our business and start to develop your professional network. About the division:Technology underpins Deutsche Bank’s entire business and is changing and shaping the way we engage, interact and transact with our stakeholders, internally and externally.Our Technology, Data and Innovation (TDI) strategy is strengthening our engineering expertise, introducing an agile delivery model, and is modernising the bank's IT infrastructure with long-term investments and taking advantage of cloud computing.We are building a team of visionary technology talent that will ensure that we thrive in this period of unprecedented change for the industry. That means hiring the right people and giving them the training, freedom and opportunity they need to do pioneering work. About the role:Our technology teams deliver and manage engineering solutions to support the bank’s global customers. They develop and deliver solutions to help modernise technology solutions, to reduce complexity and risk, and to drive business growth.Depending on your rotation you will gain expertise in:hands on coding in languages that could include Java, Python, and othersOur Technology Intern Program offers you a wide variety of opportunities within technology, and we’re looking for bright minds like yours to help us make pioneering strides in today’s fast-moving digital world. Through job placements, training courses, seminars, and a variety of networking events you will gain a wide range of practical experience and interpersonal skills with a bank that’s truly driving change in the financial and digital world. What we look for:We recruit students and graduates who are intelligent and adaptable with excellent communication skills. To be considered for this role, students must possess or be on track to graduate with a Bachelor/Master of Science Degree in Computer Science, Engineering, Mathematics, or a related field.Our comprehensive training programs will give you all the technical knowledge you’ll need to build a career with us.To be eligible for 2026 Internship Program you must: Complete your studies (all final exams, coursework, and have no outstanding requirements for graduation) between 1st December 2026 and 31st July 2027. Be able to work full-time during the 10-week summer internship (June - August 2026), subject to local working legislation. Possess no more than 12 months full-time, relevant work experience. At this time, Deutsche Bank will only consider applicants who are presently authorized to work for any employer in the United States and who will not require work visa sponsorship from Deutsche Bank, now or in the future, to retain their authorization to work in the United States. Benefits and wellbeing:Feeling healthy, engaged and well-supported, enables us to do our best work and get the most out of life outside of the office. That’s why Deutsche Bank is committed to providing benefits and programs centred around wellbeing. Benefits & Wellbeing – Deutsche Bank Careers (db.com) About us and our teams:Our values define the working environment we strive to create – where our people have a sense of belonging and everyone feels welcomed, respected and can contribute and grow. We know that high-performing teams have different skills, backgrounds, and experiences. We collaborate, encourage and enable open dialogue and diversity of views. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.Visit Inside Deutsche Bank to discover more about the culture of Deutsche Bank including Diversity, Equity & Inclusion, Leadership, Learning, Future of Work and more besides.Deutsche Bank is an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the \"EEO is the Law\" poster and \"pay transparency statement.\" How to apply:You'll find a wealth of helpful tools and information on our Employability Hub that will support you with your application, prepare for the assessment processes and adapt to a new working environment.Please visit www.careers.db.com/students-graduates to apply. A notice on Recruitment ScamsPlease note that candidates are not required to pay money as part of the recruitment or job placement process. Do not divulge personal information if you are unsure of the authenticity of a communication from someone who claims to be representing Deutsche Bank. A notice on such scams and practices has been hosted on our website on the link below:https://careers.db.com/professionals/a-notice-on-recruitment-scamsThe annualized salary for this position is $100,000. Posted Salary ranges do not include incentive compensation or any other type of renumeration.#LI-EC1Apply",
       "job_apply_link": "https://db.recsolu.com/external/requisitions/Bw7mjFK6IZkEJB1Wtse0YA",
       "job_posted_at_datetime_utc": "2025-08-26T22:57:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "deutsche-bank-deutsche-bank-deutsche-bank-internship-program-technology-data-and-innovation-tdi-2026yello-enterprise-new-york"
+      "id": "deutsche-bank-deutsche-bank-deutsche-bank-internship-program-technology-data-and-innovation-tdi-2026yello-enterprise-new-york",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "Qorvo",
       "job_city": "Apopka",
       "job_state": "FL",
-      "job_description": "Join Qorvo in this exciting opportunity.",
+      "job_description": "Search by Keyword Show More Options Loading... Location All Country All Job Family All Experience Level All Job Type All Full Time? All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://careers.qorvo.com/job/Apopka-Database-Intern-FL-32703/1320409200/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-26T22:40:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qorvo-database-intern-apopka"
+      "id": "qorvo-database-intern-apopka",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Integra FEC",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Integra FEC in this exciting opportunity.",
+      "job_description": "Integra is hiring entrepreneurial and quantitatively-skilled students/graduates with data analytics experience who are interested in translating their academic interests into the real-world applications to identify, investigate and analyze fraud in various domains, including finance, healthcare and cryptocurrencies. Integra is a boutique economic consulting and forensic analytics firm that has worked with government agencies and private entities to analyze many complex and high-profile schemes. Our team applies data science and econometric techniques and intensely values each employee to take initiative and to be curious while operating as a data detective to solve complex problems. Our main office is also conveniently located adjacent to the UT Austin campus which enables us to closely interface with the academic environment and the university’s top intellectual talent. As an intern you will code software used to automate processes, scrape and collect large data sets, and perform advanced econometric analysis. You will have flexibility in the programming language used, but scripting languages such as R, Python, and SQL are used most often. The internship is also designed to give you: • Exposure to how technical degrees such as economics, statistics, finance, engineering, computer science, and physics are used in industry • Opportunities to work on team-based and individual projects • Visibility to industry experts Job Qualifications: Familiarity with R, SQL, Python, or other scripting languages Proficiency in Microsoft Excel Attention to detail with big-picture understanding Ability to work well in teams Highest ethical standards All education levels (Bachelor's, Master's, or Ph.D.) welcome Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.",
       "job_apply_link": "https://job-boards.greenhouse.io/integrainterns/jobs/4896460008",
       "job_posted_at_datetime_utc": "2025-08-26T22:38:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "integra-fec-summer-data-scientist-intern-phd-austin"
+      "id": "integra-fec-summer-data-scientist-intern-phd-austin",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "Integra FEC",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Integra FEC in this exciting opportunity.",
+      "job_description": "Integra is hiring entrepreneurial and quantitatively-skilled students/graduates with data analytics experience who are interested in translating their academic interests into the real-world applications to identify, investigate and analyze fraud in various domains, including finance, healthcare and cryptocurrencies. Integra is a boutique economic consulting and forensic analytics firm that has worked with government agencies and private entities to analyze many complex and high-profile schemes. Our team applies data science and econometric techniques and intensely values each employee to take initiative and to be curious while operating as a data detective to solve complex problems. Our main office is also conveniently located adjacent to the UT Austin campus which enables us to closely interface with the academic environment and the university’s top intellectual talent. As an intern you will code software used to automate processes, scrape and collect large data sets, and perform advanced econometric analysis. You will have flexibility in the programming language used, but scripting languages such as R, Python, and SQL are used most often. The internship is also designed to give you: Exposure to how technical degrees such as economics, statistics, finance, engineering, computer science, and physics are used in industry Opportunities to work on team-based and individual projects Visibility to industry experts Job Qualifications: Familiarity with R, SQL, Python, or other scripting languages Proficiency in Microsoft Excel Attention to detail with big-picture understanding Ability to work well in teams Highest ethical standards All education levels (Bachelor's, Master's, or Ph.D.) welcome Applicants must be authorized to work for any employer in the U.S. We are unable to sponsor or take over sponsorship of an employment Visa at this time.",
       "job_apply_link": "https://job-boards.greenhouse.io/integrainterns/jobs/4896455008",
       "job_posted_at_datetime_utc": "2025-08-26T22:38:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "integra-fec-summer-data-analyst-intern-austin"
+      "id": "integra-fec-summer-data-analyst-intern-austin",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:59:34.864Z",
     "postedAt": null
   },
   {
