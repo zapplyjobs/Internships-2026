@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 15, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1768 (older than 1 week)
+📁 **Archived Opportunities:** 1767 (older than 1 week)
 
 
 ---
@@ -334,12 +334,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1768 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1767 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1768 roles
+- **📁 Total Positions**: 1767 roles
 - **🏢 Companies**: 156 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 

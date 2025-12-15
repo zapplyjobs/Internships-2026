@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7210115",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Help increase the GDP of the internet as part of our University team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7210115",
+      "fetchedAt": "2025-12-15T00:58:09.139Z"
+    }
+  },
+  "cachedAt": 1765760289139
+}

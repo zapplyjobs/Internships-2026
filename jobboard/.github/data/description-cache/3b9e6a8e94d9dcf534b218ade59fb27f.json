@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/brevium/jobs/4598383006",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "IMPORTANT NOTICE: We will begin reviewing applications on Monday, September 22. About Brevium:Brevium is a fast-growing tech company that develops innovative software solutions for medical practices, focusing on patient appointment lifecycle management. By using data-driven reminders, recalls, and reactivations, Brevium’s software helps return lost and overdue patients to their doctors. Our system predicts which patients are most likely to return and optimizes outreach to meet both clinical and business goals. Role Overview:Brevium is seeking motivated Full Stack Software Engineer Interns to join our team. Engineer interns should be able to work on a variety of different projects, including building and maintaining external and internal websites, developing Windows services, and working on backend applications. Interns will collaborate closely with other engineers, participate in pair programming, and contribute to writing, testing, and reviewing code. Brevium believes strongly in the values of candor and continual growth. Engineers are expected to be willing to share ideas for continual team and company improvement. Responsibilities: Write, test, and review code, both independently and in collaboration with other engineers. Participate in manual and automated testing to ensure software quality. Collaborate with team members and contribute to process improvements. Qualifications: Experience with object-oriented programming (C# preferred). Experience with SQL (SQL Server preferred). Ability to write and run both manual and automated tests. Willingness to take ownership of projects and see them through to completion. Strong communication skills and willingness to collaborate with others. Ability to learn new technologies and adapt to changing environments. Must be a current Junior, Senior, or Master's student majoring in Software Design, Computer Science, or Computer Programming. Passion for learning and growth. GPA of 3.5 or higher. Location:Brevium’s headquarters is located in American Fork, Utah. About the Company: Industry: Internet & Software Size: 50-100 employees Website: Brevium Expected compensation: $25-32",
+    "requirements": [
+      "Experience with object-oriented programming (C# preferred).",
+      "Experience with SQL (SQL Server preferred)."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/brevium/jobs/4598383006",
+      "fetchedAt": "2025-12-15T00:58:12.295Z"
+    }
+  },
+  "cachedAt": 1765760292295
+}
