@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T00:33:22.300Z",
+  "lastUpdated": "2025-12-15T00:58:57.727Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -6964,14 +6964,113 @@
       "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
       "discordThreadId": "1449922241818132502",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-deep-learning-intern-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-deep-learning-intern-santa-clara",
+      "company": "NVIDIA",
+      "title": "Deep Learning Intern",
+      "postedToDiscord": "2025-12-15T00:58:32.671Z",
+      "sourceDate": "2025-09-03T18:41:57.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
+      "discordThreadId": "1449928573661085839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-computer-architecture-intern-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-computer-architecture-intern-santa-clara",
+      "company": "NVIDIA",
+      "title": "Computer Architecture Intern",
+      "postedToDiscord": "2025-12-15T00:58:34.384Z",
+      "sourceDate": "2025-09-03T18:41:34.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1",
+      "discordThreadId": "1449928583656116328",
+      "instanceNumber": 1
+    },
+    {
+      "id": "interdigital-deep-learning-for-image-and-video-processing-los-altos-2025-12-15-1",
+      "jobId": "interdigital-deep-learning-for-image-and-video-processing-los-altos",
+      "company": "InterDigital",
+      "title": "Deep Learning for Image and Video Processing",
+      "postedToDiscord": "2025-12-15T00:58:38.087Z",
+      "sourceDate": "2025-09-03T13:58:42.000Z",
+      "sourceUrl": "https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/job/LosAltos_CA/Intern--Deep-Learning-for-Image-and-Video-Processing_REQ25-1014",
+      "discordThreadId": "1449928590987890700",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkosh-engineer-intern-software-greenville-2025-12-15-1",
+      "jobId": "oshkosh-engineer-intern-software-greenville",
+      "company": "Oshkosh",
+      "title": "Engineer Intern - Software",
+      "postedToDiscord": "2025-12-15T00:58:42.788Z",
+      "sourceDate": "2025-09-03T18:40:59.000Z",
+      "sourceUrl": "https://careers.oshkoshcorp.com/us/en/job/R40623/Engineer-Intern-Software-Summer-2026",
+      "discordThreadId": "1449928619248975922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "plexus-intern-engineering-productivity-software-neenah-2025-12-15-1",
+      "jobId": "plexus-intern-engineering-productivity-software-neenah",
+      "company": "Plexus",
+      "title": "Intern - Engineering Productivity, Software",
+      "postedToDiscord": "2025-12-15T00:58:44.451Z",
+      "sourceDate": "2025-09-03T18:40:41.000Z",
+      "sourceUrl": "https://jobs.plexus.com/careers/job/1099542548181",
+      "discordThreadId": "1449928626261987471",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-intern-san-francisco-2025-12-15-1",
+      "jobId": "stripe-software-engineer-intern-san-francisco",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern",
+      "postedToDiscord": "2025-12-15T00:58:46.294Z",
+      "sourceDate": "2025-09-03T18:39:34.000Z",
+      "sourceUrl": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115",
+      "discordThreadId": "1449928633287442545",
+      "instanceNumber": 1
+    },
+    {
+      "id": "us-bank-engineering-intern-hopkins-2025-12-15-1",
+      "jobId": "us-bank-engineering-intern-hopkins",
+      "company": "US Bank",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2025-12-15T00:58:48.216Z",
+      "sourceDate": "2025-09-03T18:38:50.000Z",
+      "sourceUrl": "https://careers.usbank.com/global/en/job/2025-0020194/2026-Engineering-Summer-Intern",
+      "discordThreadId": "1449928641168408639",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marshall-wace-technology-intern-new-york-2025-12-15-1",
+      "jobId": "marshall-wace-technology-intern-new-york",
+      "company": "Marshall Wace",
+      "title": "Technology Intern",
+      "postedToDiscord": "2025-12-15T00:58:52.895Z",
+      "sourceDate": "2025-09-03T12:33:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8062751002",
+      "discordThreadId": "1449928661674233856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "broadridge-2026-summer-internship-program-technology-newark-2025-12-15-1",
+      "jobId": "broadridge-2026-summer-internship-program-technology-newark",
+      "company": "Broadridge",
+      "title": "2026 Summer Internship Program - Technology",
+      "postedToDiscord": "2025-12-15T00:58:57.727Z",
+      "sourceDate": "2025-09-03T07:34:29.000Z",
+      "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/XMLNAME-2026-Summer-Internship-Program---Technology_JR1076089",
+      "discordThreadId": "1449928681244856442",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 633,
+    "totalJobs": 642,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T00:33:22.300Z",
+      "date": "2025-12-15T00:58:57.727Z",
       "archived": 0
     }
   }
