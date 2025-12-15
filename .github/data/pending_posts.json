@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Data Engineer Intern",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "Washington",
-      "job_description": "Join Microsoft in this exciting opportunity.",
-      "job_apply_link": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
-      "job_posted_at_datetime_utc": "2025-08-27T14:00:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-data-engineer-intern-redmond",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:38:35.231Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Cybersecurity Analyst Intern",
-      "employer_name": "Jane Street",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Jane Street in this exciting opportunity.",
-      "job_apply_link": "https://www.janestreet.com/join-jane-street/position/8069279002/",
-      "job_posted_at_datetime_utc": "2025-08-27T13:59:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jane-street-cybersecurity-analyst-intern-new-york",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Algorithm Engineer Intern",
-      "employer_name": "Analog Devices",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "About Analog DevicesAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X). Job Description:As an Algorithm Engineer Intern, you will support our team in developing and optimizing algorithms for various applications, including machine learning, data analysis, and signal processing. This internship provides a learning opportunity to work on real-world problems, collaborate with experienced engineers, and contribute to the creation of scalable and high-performance solutions.Key Responsibilities:Assist in the development and testing of algorithms for data processing and machine learning.Conduct research to understand how different algorithms impact system performance.Collaborate with cross-functional teams on software development projects.Participate in debugging and code optimization tasks.Support in maintaining and improving existing codebase.Skills You Will Need to Be Successful:Programming Languages: Proficiency in C, C++, or Python.Machine Learning: Understanding of machine learning algorithms and concepts.Signal Processing: Familiarity with basic signal processing techniques.SQL and Bash Scripting: Understanding of SQL queries and scripting to automate tasks.Strong problem-solving and communication skills.Minimum Qualifications:Currently pursuing a degree in Computer Science, Engineering, or a related field.Familiarity with at least one programming language (C, C++, Python).Basic understanding of algorithms and data structures.Why You'll Love Working at ADIAt Analog Devices, you'll be part of a collaborative and innovative team that's shaping the future of technology. We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world.You'll have access to continuous learning opportunities and mentorship from industry experts. Join us and help create the technologies that bridge the physical and digital worlds, making a tangible difference in how people live, work, and connect.For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.Job Req Type: Required Travel: Shift Type:",
-      "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043",
-      "job_posted_at_datetime_utc": "2025-08-27T07:35:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "analog-devices-algorithm-engineer-intern-boston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Intern",
-      "employer_name": "Analog Devices",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?About Analog DevicesAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network.ADI’s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees.At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles.Apply now for the opportunity to grow your career and help innovate ahead of what’s possible. Job Description: As a Machine Learning Engineering Intern, you will work with the engineering team to gain hands-on experience in developing machine learning models and improving product performance. You will assist in the design and implementation of algorithms, helping to structure, analyze, and leverage data for various applications. This internship provides an opportunity to learn about machine learning methodologies, programming, and data management in real-world projects. Key Responsibilities: Assist in the development and programming of machine learning algorithms for product and system optimization. Work with structured and unstructured data to help build models and perform statistical analysis. Support the translation of machine learning models into code and their integration into systems. Participate in the testing and debugging of machine learning algorithms to ensure efficiency and accuracy. Help document processes for algorithm development, installation, and maintenance. Skills You Will Need to Be Successful: Knowledge of programming languages such as Python or R for machine learning. Familiarity with statistical techniques like decision trees, logistic regression, and Bayesian analysis. Interest in data science, machine learning, and AI technologies. Strong problem-solving and analytical skills. Ability to work collaboratively with engineering teams and communicate technical concepts effectively. Minimum Qualifications: Currently pursuing a Bachelor’s or Master’s Degree in Computer Science, Data Science, or a related field. Interest in machine learning, data processing, and software development. Basic understanding of machine learning principles and statistical modeling. For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.EEO is the Law: Notice of Applicant Rights Under the Law.Job Req Type: Internship/Cooperative Required Travel: No The expected wage range for a new hire into this position is $22 to $41.Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.",
-      "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268",
-      "job_posted_at_datetime_utc": "2025-08-27T07:35:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "analog-devices-machine-learning-intern-boston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Intern - PhD",
-      "employer_name": "Analog Devices",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Are you a problem solver looking for a hands-on internship position with a market-leading company that will help develop your career and reward you intellectually and professionally?About Analog DevicesAnalog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).At ADI, you will learn from the brightest minds who are here to help you grow and succeed. During your internship, you will make an impact through work on meaningful projects alongside a team of experts. Collaborating with colleagues in an environment of respect and responsibility, you will create connections that will become a part of your professional network.ADI’s culture values aligned goals, work-life balance, continuous and life-long learning opportunities, and shared rewards. The internship program features various lunch-and-learn topics and social events with other interns and full-time employees.At ADI, our goal is to develop our interns so they are the first to be considered for full-time roles.Apply now for the opportunity to grow your career and help innovate ahead of what’s possible. Machine Learning InternExplore the future of AI and machine learning with hands-on experience at ADI!Join our innovative AI/ML team as a Machine Learning Intern, where you'll gain practical experience developing and implementing machine learning solutions that power real-world applications in the semiconductor industry. This internship is designed to help you build foundational skills in data science, programming, and algorithm development while working alongside experienced engineers.About the RoleAs a Machine Learning Intern, you’ll support the development of machine learning models and algorithms that enhance product performance and system efficiency. You’ll work with structured and unstructured data, assist in model testing and validation, and contribute to the integration of ML solutions into ADI’s cutting-edge technologies.Responsibilities include, but are not limited to:Assisting in the development and programming of machine learning algorithmsSupporting data preprocessing, feature engineering, and statistical analysisHelping translate ML models into production-ready code and systemsParticipating in testing, debugging, and validating ML modelsDocumenting processes for model development, deployment, and maintenanceCollaborating with cross-functional teams to support AI/ML initiativesMinimum RequirementsCurrently enrolled in a PhD program in Electrical Engineering or a related technical field (e.g., Electronics Engineering)Advanced programming skills in Python (or R)Familiarity with machine learning principles and statistical modelingInterest in AI technologies, data processing, and software developmentWhy You'll Love Working at ADIAt Analog Devices, you'll be part of a collaborative and innovative team that's shaping the future of technology. We offer a supportive environment focused on professional growth, competitive compensation and benefits, work-life balance, and the opportunity to work on cutting-edge projects that make a real impact on the world.You'll have access to continuous learning opportunities and mentorship from industry experts. Join us and help create the technologies that bridge the physical and digital worlds, making a tangible difference in how people live, work, and connect.For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.EEO is the Law: Notice of Applicant Rights Under the Law.Job Req Type: Internship/Cooperative Required Travel: No The expected wage range for a new hire into this position is $22 to $41.Actual wage offered may vary depending on work location, experience, education, training, external market data, internal pay equity, or other bona fide factors.",
-      "job_apply_link": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001",
-      "job_posted_at_datetime_utc": "2025-08-27T07:35:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "analog-devices-machine-learning-intern-phd-boston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - AI Applications",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (AI Model Optimization) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7540823204350527752",
-      "job_posted_at_datetime_utc": "2025-08-27T03:08:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-ai-applications-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7540409121163839751/detail",
-      "job_posted_at_datetime_utc": "2025-08-27T03:02:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - CV/Multimodal/NLP - BS/MS",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-Commerce Knowledge Graph - CV/Multimodal/NLP) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
-      "job_posted_at_datetime_utc": "2025-08-27T03:02:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-knowledge-graph-cv-multimodal-nlp-bs-ms-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
-      "job_posted_at_datetime_utc": "2025-08-27T03:02:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-global-e-commerce-risk-control-phd-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": "2025-12-15T06:00:05.495Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
       "employer_name": "ByteDance",
       "job_city": "Seattle",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:51:17.450Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:59:34.864Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T06:20:09.674Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-08-26T12:35:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "brunswick-mercury-marine-software-electrical-engineering-co-op-fond-du-lac"
+      "id": "brunswick-mercury-marine-software-electrical-engineering-co-op-fond-du-lac",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -428,11 +250,13 @@
       "job_posted_at_datetime_utc": "2025-08-26T12:32:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pwc-cloud-engineering-data-analytics-software-engineering-intern-rosemont"
+      "id": "pwc-cloud-engineering-data-analytics-software-engineering-intern-rosemont",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "IBM",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join IBM in this exciting opportunity.",
+      "job_description": "Introduction Technology sales at IBM is evolving its way of working to break beyond boundaries with innovative approaches. Preferring to 'show' vs. 'tell', we're looking for undergraduate and graduate students who want to combine their technical interests and education with the people skills needed to prospect and co-create with customers, partners, and colleagues on solutions to our clients' most complex business challenges. In a world where technology moves at speed, it's essential that we stay ahead of the curve to provide tailored solutions that meet our clients' needs. It's not enough for us to have the technical expertise. We need to be great with people, too. To empathize. To understand. To collaborate on technical solutions that will improve lives all over the world.This is a summer 2026 position. As an AI Engineer intern within our Client Engineering team, you'll harness your unique skills and perspectives to engage in the development and deployment of AI systems using our watsonx platform for pilots that lead to deployment of enterprise-scale solutions at start-up speed. IBM’s Sales Internship Program culture will set you up for positive impact and success, whilst ongoing development will continually advance your skills. Our sales environment is collaborative and experiential. Part of a team, you'll be surrounded by bright minds – always willing to help– as you apply passion to work that will compel our clients to invest in IBM's products and services. Your role and responsibilities Being an AI Engineer Intern at IBM is not just a job title - it's a mindset. You'll leverage the watsonx platform to assist in co-creating AI value with clients, focusing on technology patterns to enhance repeatability and delight clients. Success is our passion, and your accomplishments will reflect this, driving your career forward, propelling your team to success, and helping our clients thrive. Your primary responsibilities will include, but not be limited to:Pre and Post Sales Pilots: Develop pilots to validate and highlight the feasibility and effectiveness of the proposed AI solutions. Collaborate with cross-functional teams to implement and iterate on pilots, ensuring alignment with customer requirements and expectations while adhering to best practices and quality standards.Solution Optimization and Performance: Continuously monitor and optimize the performance of AI solutions, including foundation models and large language models. Identify opportunities to enhance efficiency, accuracy, and speed through fine-tuning, algorithmic improvements, or infrastructure optimization to meet performance requirements.Collaboration and Project Management: Collaborate with cross-functional teams, including AI engineers, platforms engineers, and members of the sales team, to ensure smooth execution and successful delivery of AI solutions. Effectively communicate project progress, risks, and dependencies to stakeholders.Industry Trends and Innovation: Stay up to date with the latest trends and advancements in AI, foundation models, and large language models. Evaluate emerging technologies, tools, and frameworks to assess their potential impact on solution design and implementation. To be successful in this role, you will need: Confidence to contact and engage potential new customers and deliver an elevated experience.Motivation to achieve sales, business objectives and high client satisfaction.Strong analytic, problem solving, and troubleshooting skills combined with an agile process.Embrace curiosity and a growth mindset. This position requires you to be in one of the following IBM offices: Atlanta GA, Austin TX, Chicago IL, Dallas TX, New York NY, Raleigh NC, San Francisco CA, and Washington DC. Readiness to travel up to 50% annually. ~ IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. Required education High School Diploma/GED Preferred education Bachelor's Degree Required technical and professional expertise Actively Enrolled: Registered undergraduate or graduate university student.Education: Seeking B.S. or M.S. degree in Computer Science, Artificial Intelligence, Data Science, Math, Statistics, Engineering or equivalent technical degree/experience.Programming: Working knowledge in Python, R, Java or language in similar discipline.Tech Savvy: Conversant about AI technology, latest industry trends and how it is being applied to address business challenges.Team Player: Demonstrates team collaboration and can navigate different communication styles.Excellent Communication Skills: Possess verbal, written, and interpersonal skills that are engaging, compelling and influential. Self-Starter: Motivated to work with clients and can lead projects independently. Preferred technical and professional experience Knowledge of AI frameworks such as TensorFlow, PyTorch, Keras or Hugging Face.Experience with LLM and foundational models.Understanding in the usage of libraries such as SciKit Learn, Pandas, Matplotlib, etc.Familiarity with open-source technology, automation and legacy coding (Cobol, C, Assembler) is a plus. ABOUT BUSINESS UNIT IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. The company’s Global Markets organization is a strategic sales business unit that manages IBM’s global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients’ growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Global Markets organization serves clients with expertise in their industry as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces. YOUR LIFE @ IBM In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.Are you ready to be an IBMer? ABOUT IBM IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 500 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world. IBM is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, neurodivergence, age, or other characteristics protected by the applicable law. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. OTHER RELEVANT JOB DETAILS IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. The compensation range and benefits for this position are based on a full-time schedule for a full calendar year. The salary will vary depending on your job-related skills, experience and location. Pay increment and frequency of pay will be in accordance with employment classification and applicable laws. For part time roles, your compensation and benefits will be adjusted to reflect your hours. Benefits may be pro-rated for those who start working during the calendar year. Job Title AI Engineer Intern– Entry Level Sales Program 2026 Date posted 02-Dec-2025 Job ID 53118 City / Township / Village RESEARCH TRIANGLE PARK, Dallas, Austin, San Francisco, WASHINGTON, Chicago, New York State / Province Illinois, Texas, New York, North Carolina, Virginia, California, District of Columbia Country United States Work arrangement Hybrid Area of work Sales Employment type Co-Op (Fixed Term) Contract type Internship Projected Minimum Salary per year 69,000.00 Projected Maximum Salary per year 126,500.00 Position type Internship Travel required Some travel may be required based on business demand Company (0147) International Business Machines Corporation Shift General (daytime) Is this role a commissionable/sales incentive based position? No Apply now < Back to search results",
       "job_apply_link": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=",
       "job_posted_at_datetime_utc": "2025-08-25T22:23:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ibm-ai-engineer-intern-austin"
+      "id": "ibm-ai-engineer-intern-austin",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-08-25T18:42:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "google-software-engineering-intern-atlanta"
+      "id": "google-software-engineering-intern-atlanta",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-08-25T18:41:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "johnson-johnson-technology-2026-summer-internship-fort-washington"
+      "id": "johnson-johnson-technology-2026-summer-internship-fort-washington",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Eos Energy Storage",
       "job_city": "Monroeville",
       "job_state": "PA",
-      "job_description": "Join Eos Energy Storage in this exciting opportunity.",
+      "job_description": "About Eos Energy EnterprisesEos Energy Enterprises, Inc. is accelerating the shift to American energy independence with positively ingenious solutions that transform how the world stores power. Our breakthrough Znyth™ aqueous zinc battery was designed to overcome the limitations of conventional lithium-ion technology. It is safe, scalable, efficient, sustainable, manufactured in the U.S., and the core of our innovative systems that today provides utility, industrial, and commercial customers with a proven, reliable energy storage alternative for 3 to 12-hour applications. Eos was founded in 2008 and is headquartered in Edison, New Jersey. For more information about Eos (NASDAQ: EOSE), visit eose.com.Apply now to our Summer 2026 Internship Opportunities! Are you passionate about innovative, sustainable energy technology and eager to be part of building the energy future? At Eos Energy we are at the forefront of safe, scalable, energy storage solutions that are proudly American-made. We are excited to offer internship opportunities for motivated individuals who are ready to contribute and gain hands-on experience. Join us and be part of a team that is driving and shaping the future of energy! Pittsburgh, PA Opportunities may Include:Corporate Functions (Accounting, Finance, Human Resources, Legal, Marketing, Sales, Supply Chain)Operations (Electrical/Mechanical Engineering, Field Service, Manufacturing Management, Safety, Quality) Science & Technology (Data Science, Information Technology, Software Engineering)Edison, NJ Opportunities may Include:Science & Technology (Chemistry, Data Science, Information Technology, Research & Development, Software Engineering)Key Opportunities!Immerse yourself in valuable hands on projects, solving business problems, maximizing efficiencies, analyzing data, and gain invaluable experience contributing to a scaling company in the US energy industry!Collaborating and networking opportunities with experienced industry leaders and executivesShowcase your skills and experience reflecting on your contributions and lessons learned through final presentations in August Schedule & TravelTo gain the best possible experience from the internship program, our internships are fully onsite. Our summer internship program is a 10 week paid program beginning on 6/1/26 and ending on 8/7/26. Domestic travel would be less than 10% of the time. Requirements:Enrolled in a bachelor’s program with an accredited college/university entering junior or senior yearEducational program requirements determined by specific internship opportunityReliable transportation to Eos site locationsMust have authorization to work in the US",
       "job_apply_link": "https://eosenergystorage.wd1.myworkdayjobs.com/eos/job/PA-Turtle-Creek/Summer-Internship-Program-2026_R4381",
       "job_posted_at_datetime_utc": "2025-08-25T16:59:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eos-energy-storage-summer-internship-program-2026-monroeville"
+      "id": "eos-energy-storage-summer-internship-program-2026-monroeville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-25T09:29:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zip-software-engineer-intern-san-francisco"
+      "id": "zip-software-engineer-intern-san-francisco",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-25T09:27:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tesla-https-github-com-simplifyjobs-summer2026-internships-issues-5677-palo-alto"
+      "id": "tesla-https-github-com-simplifyjobs-summer2026-internships-issues-5677-palo-alto",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-25T09:26:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tesla-commercial-ui-software-engineer-energy-engineering-palo-alto"
+      "id": "tesla-commercial-ui-software-engineer-energy-engineering-palo-alto",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T06:19:40.369Z",
     "postedAt": null
   },
   {
