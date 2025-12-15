@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Commercial UI Software Engineer, Energy Engineering",
-      "employer_name": "Tesla",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Join Tesla in this exciting opportunity.",
-      "job_apply_link": "https://www.tesla.com/careers/search/job/248805",
-      "job_posted_at_datetime_utc": "2025-08-25T09:26:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tesla-commercial-ui-software-engineer-energy-engineering-palo-alto",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:19:40.369Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Supply Chain Data Analyst Internship",
-      "employer_name": "Motorola Solutions",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "MOTOROLA SOLUTIONS OVERVIEW At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Learn more at www.motorolasolutions.com. If you are a current Motorola Solutions employee, please click this link to apply through your Workday account.",
-      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
-      "job_posted_at_datetime_utc": "2025-08-25T08:47:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "motorola-solutions-supply-chain-data-analyst-internship-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Science and Technology Applied to Navigation Co-Op",
-      "employer_name": "PennState University",
-      "job_city": "Horsham",
-      "job_state": "PA",
-      "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants. Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants. JOB DESCRIPTION AND POSITION REQUIREMENTSThe Navigation Research and Development Division (NRDD), part of The Applied Research Laboratory (ARL) at The Pennsylvania State University, located in Warminster, PA, is seeking Undergraduate and Graduate Student Co-ops to support research, development, and engineering activities. Penn State’s Applied Research Laboratory (ARL) is a Department of Defense (DoD) designated University Affiliated Research Center (UARC), which serves as a center of research excellence in a multitude of areas. ARL conducts basic and applied research, exploratory development, and advanced development in support of the U.S. government organizations; contributes to the educational objectives and research goals of Penn State; and promotes the transfer of advanced technology to the U.S. government. The NRDD is a satellite campus of ARL focused on developing the most advanced navigation technologies in the world, built around unique laboratories specially designed to test the most precise navigation sensors and systems. The mission of the NRDD is to conduct new navigation technology research and development, systems engineering and to provide expert knowledge for our Navy, Army, and other U.S. government sponsors. In this co-op you will:Focus on the manifestation of fundamental physical principals in navigation systemsConnect with an experienced researcher in investigating how cross domain science/technologies can be utilized in navigation systems; design, modeling and analysis of navigation sensors; or modeling of geophysical systemsLearn or strengthen skills in applying physical principals to modeling, MATLAB/C++ programming, and computational simulation methodsUndergraduate and Graduate students studying Physics and Mathematics are preferred. This position is well suited for those interested in novel applications of science fundamentals, computational physics, modeling and simulation. Students must be available to work at the Warminster facility for a six month time period.FOR FURTHER INFORMATION on ARL, visit our web site at www.arl.psu.edu. BACKGROUND CHECKS/CLEARANCESEmployment with the University will require successful completion of background check(s) in accordance with University policies. All positions at ARL require candidates to possess the ability to obtain a government security clearance; you will be notified during the interview process if this position is subject to a government background investigation. You must be a U.S. citizen to apply. Employment with the ARL will require successful completion of a pre-employment drug screen. CAMPUS SECURITY CRIME STATISTICSPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here. EEO IS THE LAWPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473. Federal Contractors Labor Law PosterPA State Labor Law PosterPenn State PoliciesCopyright InformationHotlines",
-      "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Science-and-Technology-Applied-to-Navigation-Co-Op_REQ_0000067517-1",
-      "job_posted_at_datetime_utc": "2025-08-23T13:39:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pennstate-university-science-and-technology-applied-to-navigation-co-op-horsham",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "PayPal",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Join PayPal in this exciting opportunity.",
-      "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
-      "job_posted_at_datetime_utc": "2025-08-23T01:20:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "paypal-software-engineer-intern-san-jose",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Co-Op",
-      "employer_name": "RTX",
-      "job_city": "Cedar Rapids",
-      "job_state": "Iowa",
-      "job_description": "Join RTX in this exciting opportunity.",
-      "job_apply_link": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
-      "job_posted_at_datetime_utc": "2025-08-23T01:20:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rtx-software-engineering-co-op-cedar-rapids",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Metronome",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "About Us Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code. Our platform computes millions of invoices per billing period and is scaling rapidly to accommodate new customers, saving them hours of development time and manual invoicing and enabling them to use consumption data to better serve their customers. Our customers love our product and approach, and we’re humbled to work with amazing companies like OpenAI, Databricks, NVIDIA, Confluent, and Anthropic. You'll be joining an experienced team that includes founders who have successfully built and sold startups before. Our founders and employees also have direct experience building and scaling teams through massive growth at companies like Dropbox, Clever, and New Relic. On the back of this experience and our success-to-date, we’ve raised over $128M from leading investors including NEA, Andreessen Horowitz, General Catalyst, Elad Gil, and Workday Ventures. We’re also proud to have founders and executives of companies like Segment, Plaid, Looker, Gitlab, Confluent, HashiCorp, and Snowflake, as investors who have experienced the pain we're solving firsthand.About the Role We’re excited to welcome our first cohort of summer interns in 2026! This is a milestone moment in our company’s journey as part of our inaugural internship program. This is not just another internship; it's a chance to help shape what internships at our company look like going forward. As a Software Engineering Intern, you’ll work alongside a small, talented, and high-impact engineering team on real-world projects that directly contribute to our product and mission. You’ll gain exposure to the full development lifecycle, from problem definition and system design to implementation, testing, and iteration – all in a fast-paced, collaborative environment. Whether you're improving core infrastructure, building new or improving product features, or optimizing systems for scale, your work will matter from day one. We’re looking for curious, motivated, and entrepreneurial individuals who want to learn by doing. You’ll be mentored by experienced engineers, encouraged to ask questions, and trusted with meaningful responsibilities. This internship is a rare opportunity to make a tangible impact, not just on our codebase, but on our culture, processes, and how we grow our future intern programs. If you're excited by the idea of joining a company in the early stages of building something great and being part of its first-ever intern class, we’d love to meet you! Internship Logistics Start date: June 2, 2026 (tentative) End date: August 14, 2026 (tentative) Duration: 10 weeks Location: Hybrid in San Francisco (no relocation package offered at this time) Working hours: 40 hours per week Compensation: $50 per hour What You'll Do Work with your team and other cross-functional partners to build features for the Metronome platform. Own and manage your project end-to-end, including technical design, coding implementation, and feedback. Learn and develop skills around building a platform that scales quickly while also maintaining simplicity through complexity, security, and performance. Explore how businesses bill their customers, unlock insights from usage data, and deliver a delightful user experience through APIs and UI. Impact You'll Have Learn by building real features: Contribute to full-stack features while gaining hands-on experience with both backend and frontend technologies under mentorship from senior engineers. Gain cross-functional exposure: Collaborate with engineering teams, designers, product managers, and Go To Market (GTM) teams to understand how features go from concept to implementation, learning how different roles contribute to product development. Grow through mentorship: Receive guidance from experienced engineers while sharing fresh perspectives and ideas, building your technical skills through code reviews, pair programming, and team knowledge-sharing sessions. Qualifications Must be a rising senior pursuing a Bachelor’s degree in Computer Science or a related technical field (e.g. Software Engineering, Mathematics, etc.) with an expected graduation date of December 2026 or later Must have completed at least one prior software engineering internship or equivalent hands-on experience (e.g. substantial open-source contributions or personal projects) Solid understanding of data structures, algorithms, and computer science fundamentals Proficiency in one or more modern programming languages such as TypeScript, Python, JavaScript, Java, etc. Familiarity with collaborative software development workflows Ability to communicate clearly, work independently, and collaborate effectively in a team environment Enthusiasm for learning, building, and tackling open-ended engineering problems Interview Process Our interview process is the same for everyone and that’s by design. Why? Because you get to pick the team that best matches your interests and strengths. We’ve got teams working across the entire tech stack, and we want you to spend the summer learning, growing, and diving into the areas that excite you most. It’s a chance to explore, try new things, and build real stuff with support every step of the way. Application Review – Our team will review your resume and reach out if there is a potential match. Recruiter Screen – A 15-20 minute call to learn more about your background and experience. Take-Home Coding Assignment – A 60 minute async technical exercise to evaluate your coding skills and problem-solving approach. Engineering Manager Screen – A 30 minute zoom call to understand how you demonstrate proactive growth and ownership through your past experiences. Final Interviews – Virtual interviews with engineers focused on technical and behavioral topics. References – We’ll request and speak with a couple of your professional or academic references. Offer – Successful candidates will receive a formal offer to join our internship program. Benefits for Full-time employees: Excellent medical, dental, vision, and life insurance coverage, including a One Medical membership Paid parental leave FSA (Flexible spending account) Retirement planning - Traditional and ROTH 401(k) Flexible time off Employee assistance program (mental health benefits) Culture where personal growth is highly valued We're an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
-      "job_apply_link": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
-      "job_posted_at_datetime_utc": "2025-08-22T22:12:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "metronome-software-engineering-intern-san-francisco",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Adobe",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "&lt;p style=\"text-align:left\"&gt;&lt;b&gt;&lt;span&gt;Our Company&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. &lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span&gt;We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;br /&gt; &lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;The Opportunity&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Adobe is seeking talented and passionate Software Engineer interns across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Adobe software engineer interns can work directly on products for our Creative Cloud, Document Cloud, or Experience Cloud teams, or they can be immersed in the world of our cloud-based platform - diving into components of our infrastructure or solving problems with big data. We have openings for all interests – web developers, mobile developers, data engineers, frontend development, back–end development, full stack development - the opportunities are endless!&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;All 202&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt; Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are &lt;/span&gt;&lt;span&gt;located&lt;/span&gt;&lt;span&gt;, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will &lt;/span&gt;&lt;span&gt;determine&lt;/span&gt;&lt;span&gt; the frequency they need to go into the office to meet priorities. &lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;What You’ll Do&lt;/span&gt;&lt;/b&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Develop high-performance, reliable, testable and maintainable code.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Collaborate with engineers and participate in daily or weekly stand ups and meetings.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Additional responsibilities as needed based on specific role or team&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;br /&gt; &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;What You Need to Succeed&lt;/span&gt;&lt;/b&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Currently enrolled full time and pursuing a Bachelor&#39;s or &lt;/span&gt;&lt;span&gt;Master’s in Computer Science&lt;/span&gt;&lt;span&gt;, Computer Engineering, Electrical Engineer&lt;/span&gt;&lt;span&gt;ing&lt;/span&gt;&lt;span&gt;, or equivalent experience &lt;/span&gt;&lt;span&gt;required&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt;with an expected graduation date of December 202&lt;/span&gt;&lt;span&gt;6&lt;/span&gt;&lt;span&gt; – June 202&lt;/span&gt;&lt;span&gt;7&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Strong technical background with analytical and problem-solving skills&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Previous related experience in software engineering (applicable coursework, projects, internships, etc.)&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Proficiency and experience with at least one or more of the following: Java, C&#43;&#43;, JavaScript, Python&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Familiar with the software development lifecycle - designing, developing, deploying, and maintaining web and mobile apps&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Results-oriented, with ability and interest in learning new technologies and adapting quickly to new requirements and environments&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Excellent verbal and written communication skills; can effectively articulate complex ideas and influence others through well-reasoned explanations.&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;span&gt;&lt;span&gt;Ability to participate in a full-time internship between May-September&lt;/span&gt;&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;&lt;/h3&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $38.00 -- $51.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.&lt;h3&gt;&lt;/h3&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;u&gt;&lt;b&gt;State-Specific Notices:&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;&lt;u&gt;California&lt;/u&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;&lt;span&gt;Fair Chance Ordinances&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;u&gt;&lt;b&gt;Colorado:&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;&lt;span&gt;Application Window Notice&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;There is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;&lt;u&gt;Massachusetts: &lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Massachusetts Legal Notice&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Adobe is proud to be an&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;u&gt;&lt;a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\" target=\"_blank\"&gt;Equal Employment Opportunity&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;span&gt; employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law.&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;u&gt;&lt;a href=\"https://www.adobe.com/content/dam/cc/en/careers/pdfs/executed-eeo.pdf\" target=\"_blank\"&gt;Learn more.&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email&lt;span&gt; &lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;u&gt;&lt;a href=\"mailto:%20accommodations&#64;adobe.com\" target=\"_blank\"&gt;accommodations&#64;adobe.com&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;&lt;span&gt; or call (408) 536-3015.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;",
-      "job_apply_link": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer",
-      "job_posted_at_datetime_utc": "2025-08-22T19:27:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "adobe-software-engineer-intern-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Empirical",
-      "job_city": "Dakota Dunes",
-      "job_state": "SD",
-      "job_description": "View Open Positions var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/careers-empiricalfoods.icims.com\\/jobs\\/2972\\/software-engineering-intern---summer-2026\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://careers-empiricalfoods.icims.com/jobs/2972/software-engineering-intern---summer-2026/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe>",
-      "job_apply_link": "https://careers-empiricalfoods.icims.com/jobs/2972/software-engineering-intern---summer-2026/job",
-      "job_posted_at_datetime_utc": "2025-08-22T19:26:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "empirical-software-engineering-intern-dakota-dunes",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Localization Intern",
-      "employer_name": "Blizzard",
-      "job_city": "Irvine",
-      "job_state": "CA",
-      "job_description": "Join Blizzard in this exciting opportunity.",
-      "job_apply_link": "https://activision.wd1.myworkdayjobs.com/en-US/blizzard_external_careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
-      "job_posted_at_datetime_utc": "2025-08-22T13:20:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "blizzard-ai-localization-intern-irvine",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": "2025-12-15T06:57:56.066Z"
-  },
-  {
-    "job": {
       "job_title": "Security Engineer Internship",
       "employer_name": "Amazon",
       "job_city": "Seattle",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:36:57.818Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T06:57:29.594Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T07:13:05.855Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-08-21T14:03:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "church-dwight-master-s-data-science-co-op-ewing"
+      "id": "church-dwight-master-s-data-science-co-op-ewing",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Qorvo",
       "job_city": "Greensboro",
       "job_state": "NC",
-      "job_description": "Join Qorvo in this exciting opportunity.",
+      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet. Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Software Characterization Engineering Internships are offered in our Connectivity and Sensors business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Developing and implementing automated RF test solutions to support the characterization and compliance testing of power amplifiers, switches, and other devices Designing, developing, and implementing cost-effective methods of testing and troubleshooting systems and equipment for all phases of product development Streamlining application and software processes, developing and maintaining software for various projects Benchmarking various software to maximize efficiency and develop improvements Driving API development to support data structures, data access, data integration, data visualization, database design and implementation Documenting, reporting, and following the team's design practices Providing comprehensive support to internal customers and achieving resolution to outstanding problems or issues Qualifications: Currently pursuing a BS, MS, or PhD in Computer Science or Electrical Engineering Minimum GPA of 3.0 Competence using C#, Python, or C++Excellent debugging and problem solving skills Familiarity/understanding of development environments, multi-threading paradigms, shell scripting, algorithms or databases Experience with AI/ML, preferably via API or other integration Proficiency with Microsoft Office (Excel, Word, PowerPoint) Self-starter with strong written and verbal communication skills Strong organization skills and attention to detail This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31.00/hr-$42.00/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
       "job_apply_link": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-20T20:51:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qorvo-software-characterization-engineering-intern-greensboro"
+      "id": "qorvo-software-characterization-engineering-intern-greensboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Seagate Technology ",
       "job_city": "Shakopee",
       "job_state": "MN",
-      "job_description": "Join Seagate Technology  in this exciting opportunity.",
+      "job_description": "Search by Keyword Search by Location More Search Options Loading... Country All Job Function All Employee Type All Language All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-20T20:33:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "seagate-technology-summer-intern-software-engineer-shakopee"
+      "id": "seagate-technology-summer-intern-software-engineer-shakopee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Emerson",
       "job_city": "Elyria",
       "job_state": "OH",
-      "job_description": "Join Emerson in this exciting opportunity.",
+      "job_description": "We are looking for creative team members who love to develop software. We want to work with people that make learning and teaching others a fundamental part of every day. We expect our engineers to be curious about how they can apply technology to make a meaningful impact to our customers. In particular, we’re looking to hire a Software Engineering CO-OP who is a member of a software development team dedicated to solving customer problems through technology. CO-OPs participate in all facets of the software development lifecycle including requirements gathering, design, development, and testing.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024741",
       "job_posted_at_datetime_utc": "2025-08-20T13:23:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "emerson-software-development-co-op-elyria"
+      "id": "emerson-software-development-co-op-elyria",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Intern (AI Infra Compute) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://joinbytedance.com/search/7537118884496312584",
       "job_posted_at_datetime_utc": "2025-08-20T13:13:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-research-intern-iaas-ai-infra-seattle"
+      "id": "bytedance-research-intern-iaas-ai-infra-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Intern (AI Infra Compute) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://joinbytedance.com/search/7537121176616847624",
       "job_posted_at_datetime_utc": "2025-08-20T13:11:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-research-intern-iaas-ai-infra-san-jose"
+      "id": "bytedance-research-intern-iaas-ai-infra-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -518,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-20T13:06:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "astera-labs-applied-ai-engineer-intern-san-jose"
+      "id": "astera-labs-applied-ai-engineer-intern-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-20T13:04:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "coco-robotics-ml-engineer-internship-los-angeles"
+      "id": "coco-robotics-ml-engineer-internship-los-angeles",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
@@ -549,16 +385,18 @@
       "employer_name": "Seagate",
       "job_city": "Shakopee",
       "job_state": "MN",
-      "job_description": "Join Seagate in this exciting opportunity.",
+      "job_description": "Search by Keyword Search by Location More Search Options Loading... Country All Job Function All Employee Type All Language All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100",
       "job_posted_at_datetime_utc": "2025-08-20T09:18:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "seagate-software-engineer-shakopee"
+      "id": "seagate-software-engineer-shakopee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T07:12:35.491Z",
     "postedAt": null
   },
   {
