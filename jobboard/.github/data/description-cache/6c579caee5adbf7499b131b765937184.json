@@ -1,0 +1,21 @@
+{
+  "url": "https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0/apply",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Software Engineer Intern - (Summer 2026)Berkeley, CASoftware /Contractor /HybridSubmit your applicationResume/CV ✱ATTACH RESUME/CVCouldn't auto-read resume.Analyzing resume...Success!File exceeds the maximum upload size of 100MB. Please try a smaller size.Full name✱Email✱Phone Current location No location found. Try entering a different locationLoadingCurrent company LinksLinkedIn URLTwitter URLGitHub URLPortfolio URLOther websiteWork authorization questionnaireAre you legally authorized to work in the U.S.?✱YesNoIn the future, will you require The Voleon Group to sponsor a visa on your behalf?YesNoIf you answered yes to either of the above, please provide more detailTranscriptsPlease submit your transcripts in pdf format. Copies of unofficial or official transcripts from your university are accepted.✱Upload fileExpected Graduation Date When is your expected graduation date (month/year)?✱Additional informationBy applying for this position, your data will be processed as per The Voleon Group's Privacy Policy.Submit application",
+    "requirements": [
+      "In the future, will you require The Voleon Group to sponsor a visa on your behalf?YesNo",
+      "When is your expected graduation date (month/year)?✱"
+    ],
+    "responsibilities": [
+      "By applying for this position, your data will be processed as per The Voleon Group's Privacy Policy."
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0/apply",
+      "fetchedAt": "2025-12-15T00:58:17.534Z"
+    }
+  },
+  "cachedAt": 1765760297535
+}
