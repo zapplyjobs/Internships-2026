@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Full Stack Engineering Intern",
-      "employer_name": "Ember AI",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Ember AI in this exciting opportunity.",
-      "job_apply_link": "https://app.dover.com/apply/Ember%20AI/527d1d2a-dc8e-40ce-af14-788a1ff12b13/?rs=76643084",
-      "job_posted_at_datetime_utc": "2025-08-29T20:38:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ember-ai-full-stack-engineering-intern-san-francisco",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T03:53:47.881Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern, Summer 2025",
-      "employer_name": "Anvil",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Anvil in this exciting opportunity.",
-      "job_apply_link": "https://jobs.gem.com/joinanvil-com/am9icG9zdDphdmPRq61s6g0NSoCDzFz_",
-      "job_posted_at_datetime_utc": "2025-08-29T20:35:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "anvil-software-engineer-intern-summer-2025-new-york",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "AI and Innovation Intern",
-      "employer_name": "First National Bank",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Join First National Bank in this exciting opportunity.",
-      "job_apply_link": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2026-AI-and-Innovation-Intern_2025-02086",
-      "job_posted_at_datetime_utc": "2025-08-29T20:32:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "first-national-bank-ai-and-innovation-intern-pittsburgh",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering",
-      "employer_name": "Newrez",
-      "job_city": "Coppell",
-      "job_state": "TX",
-      "job_description": "Join Newrez in this exciting opportunity.",
-      "job_apply_link": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
-      "job_posted_at_datetime_utc": "2025-08-29T20:19:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "newrez-software-engineering-coppell",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Advanced Software Engineering Intern",
-      "employer_name": "Kingland",
-      "job_city": "Ames",
-      "job_state": "IA",
-      "job_description": "$(function () { var opportunity = new US.Opportunity.CandidateOpportunityDetail({\"Id\":\"f6072d74-9ed1-4eab-9525-8b0551691787\",\"Title\":\"Advanced Software Engineering Intern\",\"Featured\":false,\"FullTime\":false,\"HoursPerWeek\":null,\"JobCategoryName\":\"Intern\",\"Locations\":[{\"Id\":\"781b6b10-58a4-505f-bf7a-5021c16f9916\",\"LocalizedName\":null,\"LocalizedLocationId\":null,\"LocalizedDescription\":\"US_Onsite Ames\",\"Address\":{\"Line1\":\"2420 Lincoln Way #301\",\"Line2\":null,\"City\":\"Ames\",\"State\":{\"Name\":\"Iowa\",\"Code\":\"IA\"},\"PostalCode\":\"50014\",\"Country\":{\"Id\":\"cd3c5bd7-9fc2-4529-9784-d3de46477786\",\"Name\":\"United States\",\"Code\":\"USA\"}},\"DisplayName\":false,\"DisplayLocationId\":false,\"DisplayDescription\":false,\"DisplayAddress\":true,\"DisplayStreetAddress\":false,\"Coordinates\":{\"Longitude\":-93.64958093576774,\"Latitude\":42.022773479934834},\"Shapes\":null,\"SourceOfTruth\":1,\"IsAvailableForOpportunities\":true},{\"Id\":\"6e967bca-ee18-5fb0-b454-356d46282fb3\",\"LocalizedName\":null,\"LocalizedLocationId\":null,\"LocalizedDescription\":\"US_Onsite Clear Lake\",\"Address\":{\"Line1\":\"1401 6th Avenue South\",\"Line2\":null,\"City\":\"Clear Lake\",\"State\":{\"Name\":\"Iowa\",\"Code\":\"IA\"},\"PostalCode\":\"50428\",\"Country\":{\"Id\":\"cd3c5bd7-9fc2-4529-9784-d3de46477786\",\"Name\":\"United States\",\"Code\":\"USA\"}},\"DisplayName\":false,\"DisplayLocationId\":false,\"DisplayDescription\":false,\"DisplayAddress\":true,\"DisplayStreetAddress\":false,\"Coordinates\":{\"Longitude\":-93.37083072542998,\"Latitude\":43.1316016546975},\"Shapes\":null,\"SourceOfTruth\":1,\"IsAvailableForOpportunities\":true}],\"PostedDate\":\"2025-08-26T18:02:02.603Z\",\"UpdatedDate\":\"2025-10-06T20:40:31.304Z\",\"RequisitionNumber\":\"ADVAN001076\",\"Description\":\"\\u003cp\\u003e\\u003cstrong\\u003eCOMPANY SUMMARY\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\u003cp\\u003eSince 1992, Kingland has been a leading provider of enterprise software products, using\\u003c/p\\u003e\\n\\u003cp\\u003einnovative problem solving to address many of the most complex data, risk, and regulatory\\u003c/p\\u003e\\n\\u003cp\\u003ecompliance challenges for some of the most integral companies in the world. Because our actions and decisions are guided by our purpose \\u0026ndash; delivering confidence to make the world work better \\u0026ndash; we create predictability, consistency, and trust in our business. This allows Kingland to serve like no one else can, upholding our values of authenticity, creativity, excellence, and ownership, enabling our clients to use data to confidently manage risk and comply with regulations.\\u003c/p\\u003e\\n\\u003cp\\u003eWe believe that every employee plays an important role in the business and contributes to the success and growth that we continue to experience. We seek individuals with unique skill sets that have the desire to work on mission-critical programs. We believe in the value of in-person connection and interactions within our US offices in Ames and Clear Lake, Iowa and Fort Myers, Florida, while also offering team members flexibility that supports the unique needs of both their work and personal lives. By using best practices in developing and maintaining enterprise-class software products, you can be a part of an amazing team committed to our purpose and values. We hope that you will choose to launch yourself into an exciting new adventure at Kingland.\\u003c/p\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003ePOSITION SUMMARY | \\u003c/strong\\u003eAdvanced Software Engineering Intern\\u003c/p\\u003e\\n\\u003cp\\u003eThe Advanced Software Engineering internship is open to students currently enrolled in a four-year institution, in a Software Engineering, Computer Engineering, or Computer Science program.\\u0026nbsp; The SE\\u0026nbsp;Intern will serve as a member of one of our product teams to assist in the development and enhancement of software applications.\\u0026nbsp; The Advanced Software Engineering Intern will gain experience in all aspects of the software development lifecycle and have the opportunity to develop skills using various tools and programming languages.\\u0026nbsp;\\u003c/p\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003eMAJOR RESPONSIBILITIES AND DUTIES | \\u003c/strong\\u003eAdvanced Software Engineering Intern\\u003c/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003eInteraction and collaboration with full-time Software Engineers on the development and enhancement of Cloud Based, Java or Go database-driven software.\\u003c/li\\u003e\\n\\u003cli\\u003eImplement and apply various software design concepts to projects in Production.\\u003c/li\\u003e\\n\\u003cli\\u003eEstimate work efforts and requirements for projects assigned and perform to those estimations.\\u003c/li\\u003e\\n\\u003cli\\u003eCommunicate effectively and appropriately with internal team members and external clients.\\u003c/li\\u003e\\n\\u003c/ul\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003ePOSITION REQUIREMENTS | \\u003c/strong\\u003eAdvanced Software Engineering Intern\\u003c/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003eCurrently enrolled in a four-year institution, in a related program\\u003c/li\\u003e\\n\\u003cli\\u003eExperience writing Java, GO or other OO language.\\u003c/li\\u003e\\n\\u003cli\\u003eMajor GPA of 3.0 or higher on a 4.0 scale preferred.\\u003c/li\\u003e\\n\\u003c/ul\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003ePREFERRED SKILLS | \\u003c/strong\\u003eAdvanced Software Engineering Intern\\u003c/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003eExperience with web UI technologies a plus\\u003c/li\\u003e\\n\\u003cli\\u003ePortfolio of previous work or projects\\u003c/li\\u003e\\n\\u003cli\\u003eExperience with Angular, Vue, React and Bootstrap UI technologies a plus\\u003c/li\\u003e\\n\\u003cli\\u003eExcellent communication and interpersonal skills\\u003c/li\\u003e\\n\\u003c/ul\\u003e\\n\\u003cp\\u003e\\u003cstrong\\u003eLOCATION\\u003c/strong\\u003e\\u003c/p\\u003e\\n\\u003cul\\u003e\\n\\u003cli\\u003eKingland offers modern office locations in Ames, Iowa; Clear Lake, Iowa; or Fort Myers, Florida\\u003c/li\\u003e\\n\\u003c/ul\\u003e\",\"EqualOpportunityEmployerDescription\":\"Equal Opportunity Employer\\u003cbr\\u003e \\r\\nThis employer is required to notify all applicants of their rights pursuant to federal employment laws. \\r\\nFor further information, please review the \\u003ca href=\\u0027https://www.eeoc.gov/poster\\u0027 target=\\u0027_blank\\u0027\\u003eKnow Your Rights\\u003c/a\\u003e notice from the Department of Labor.\",\"PayTransparencyPolicyStatement\":null,\"MatchScore\":1.0,\"HasApplied\":false,\"ApplicationJobBoardName\":null,\"ApplicationJobBoardId\":null,\"DateApplied\":null,\"Salaried\":false,\"CompensationAmount\":null,\"PublishingStatus\":4,\"Links\":[],\"BehaviorCriteria\":[],\"MotivationCriteria\":[],\"EducationCriteria\":[],\"LicenseAndCertificationCriteria\":[],\"SkillCriteria\":[],\"WorkExperienceCriteria\":[],\"JobBoardMemberships\":[{\"JobBoardId\":\"f915a6d0-9b98-4b5e-992b-83828a3d66d6\",\"PublishedInternal\":true,\"PublishedExternal\":true,\"ExternalPostedDate\":\"2025-08-26T18:02:02.6Z\",\"InternalPostedDate\":\"2025-08-26T18:02:02.6Z\"}],\"AssessmentUri\":null,\"AssessmentStatus\":null,\"OpportunityIsClosed\":true,\"TravelRequired\":null,\"TravelDescription\":null,\"SupervisorName\":null,\"Assessments\":[],\"ApplicationId\":null,\"CompensationAnnualMinimum\":null,\"CompensationAnnualMaximum\":null,\"CompensationHourlyMinimum\":null,\"CompensationHourlyMaximum\":null,\"CompensationCurrencyCode\":null,\"CompensationCurrency\":null,\"JobLocationType\":null,\"PayRangeVisible\":false,\"PayRange\":{\"PayRangeMinimum\":null,\"PayRangeMaximum\":null},\"PayRangeCurrencyCode\":\"USD\",\"OpportunityType\":0}); var applicantSourceId = null; if (applicantSourceId) { US.utils.sessionStorage.setItem(\"applicantSourceId\", applicantSourceId); } var renderer = new US.Opportunity.OpportunityRenderViewModel({ opportunity: opportunity, currentJobBoardId: \"f915a6d0-9b98-4b5e-992b-83828a3d66d6\", isViewingInternal: false, salaryRangeStatementType: null, salaryRangeStatement: null, isSalaryRangeFieldsEnabled: false }); US.CurrentOpportunityDetailViewModel = new US.Opportunity.OpportunityDetailViewModel({ currentJobBoardId: \"f915a6d0-9b98-4b5e-992b-83828a3d66d6\", opportunity: opportunity, renderer: renderer, candidatePresenceState: null, opportunityApplyRedirectUrl: \"/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/Account/Register?redirectUrl=%2FKIN1010KNGL%2FJobBoard%2Ff915a6d0-9b98-4b5e-992b-83828a3d66d6%2FOpportunityApply%3FopportunityId%3Df6072d74-9ed1-4eab-9525-8b0551691787\\u0026cancelUrl=http%3A%2F%2Frecruiting2.ultipro.com%2FKIN1010KNGL%2FJobBoard%2Ff915a6d0-9b98-4b5e-992b-83828a3d66d6%2FOpportunityDetail%3FopportunityId%3Df6072d74-9ed1-4eab-9525-8b0551691787\", opportunityApplyOnBehalfRedirectUrl: \"/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/Recruiter/Candidates\", opportunitiesUrl: \"/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6\", tenantAlias: \"KIN1010KNGL\", featureConfigurationGroups: [{\"Id\":\"11c2bc0b-f3f7-73a3-f1e2-0b305d40c827\",\"Name\":\"Recruitment.OpportunityManagement.PublishingAndJobBoards\",\"Features\":[{\"Name\":\"FeaturedOpportunities\",\"Enabled\":true,\"HelpTooltipMessageKey\":null,\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"Approvals\",\"Enabled\":false,\"HelpTooltipMessageKey\":null,\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"Parallel\",\"Enabled\":true,\"HelpTooltipMessageKey\":null,\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"Evergreen\",\"Enabled\":true,\"HelpTooltipMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PublishingAndJobBoards.EvergreenHelpTooltip\",\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"FTE\",\"Enabled\":true,\"HelpTooltipMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PublishingAndJobBoards.FTEHelpTooltip\",\"TurnOffWarningMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PublishingAndJobBoards.FTEDisableWarningMessage\",\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"IncludeHiringManagersInOnboardingOwnerField\",\"Enabled\":false,\"HelpTooltipMessageKey\":null,\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"IncludeHiringManagersInRecruiterField\",\"Enabled\":false,\"HelpTooltipMessageKey\":null,\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null}]},{\"Id\":\"6cd40e2e-22e3-b5a0-07b6-ba74622cafab\",\"Name\":\"Recruitment.OpportunityManagement.PageFeatures\",\"Features\":[{\"Name\":\"PersonalizedJobSearch\",\"Enabled\":false,\"HelpTooltipMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PageFeatures.PersonalizedJobSearchTooltip\",\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":null},{\"Name\":\"JobSearchAgent\",\"Enabled\":true,\"HelpTooltipMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PageFeatures.JobSearchAgentTooltip\",\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PageFeatures.JobSearchAgentConsentMessage\",\"ConsentTitleKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PageFeatures.JobSearchAgentConsentTitle\",\"ToggleableFeature\":null},{\"Name\":\"ShareOnTwitter\",\"Enabled\":true,\"HelpTooltipMessageKey\":\"RecruitmentAdministrator.FieldConfigurationManager.FeatureConfiguration.Recruitment.OpportunityManagement.PageFeatures.ShareOnTwitterTooltip\",\"TurnOffWarningMessageKey\":null,\"ConsentMessageKey\":null,\"ConsentTitleKey\":null,\"ToggleableFeature\":\"TwitterSwitch\"}]}], linkedInRedirectUrl: \"https://recruiting2.ultipro.com/KIN1010KNGL/Opportunity/ApplyWithLinkedIn?jobBoardId=f915a6d0-9b98-4b5e-992b-83828a3d66d6\\u0026opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787\", currentUserRequiresReconsent: false, userIsRecOrHM: false, loggedInPersonName: \"\", assessmentsUrl: \"/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/ApplicationAssessments\", twitterUrl: \"https://twitter.com/intent/tweet?original_referer={originalReferer}\\u0026text={text}\\u0026url={url}\", quickApplyUrl: \"/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/QuickApply\", }); }); Post : : : : : : : : : . : : $(function () { $(\".twitter-share-button\").attr(\"data-lang\", US.CurrentLocale.locale); ko.applyBindings(US.CurrentOpportunityDetailViewModel, $(\"#opportunityDetailView\")[0]); }); !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = \"//platform.twitter.com/widgets.js\"; fjs.parentNode.insertBefore(js, fjs); } }(document, \"script\", \"twitter-wjs\"); <div class=\"modal fade\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\"> <div data-automation=\"error-modal\" class=\"modal-dialog\"> <div class=\"modal-content\"> <div class=\"modal-header\"> <button type=\"button\" class=\"close\" data-automation=\"close-error-modal\" aria-hidden=\"true\" data-dismiss=\"modal\"> <i class=\"fa fa-times\"></i> </button> <h3 id=\"ErrorReferenceDialogHeader\" data-bind=\"text: $.t('Common.ErrorModal.Header')\"></h3> </div> <div class=\"modal-body\"> <p data-bind=\"text: $.t('Common.ErrorModal.Body')\"></p> <div data-bind=\"visible: shouldShowCorrelationId()\"> <p for=\"error-id\" data-bind=\"text: $.t('Common.ErrorModal.ErrorIdDescription')\"></p> <p id=\"error-id\" data-bind=\"text: correlationId\" class=\"text-bold\"></p> </div> </div> </div> </div> </div> <div id=\"PermissionDeniedModalContainer\" class=\"modal fade\" data-automation=\"permission-denied-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"PermissionDeniedModalHeader\" aria-hidden=\"true\"> <div class=\"modal-dialog\"> <div class=\"modal-content\"> <div data-automation=\"modal-header\" class=\"modal-header\"> <h3 class=\"modal-title\" data-bind=\"text: $.t('Common.PermissionDenied.Header')\"></h3> </div> <div class=\"modal-body\"> <p data-bind=\"text: message\" data-automation=\"permission-denied-message\"></p> <ul data-bind=\"if:hasDeniedPermission\" data-automation=\"permission-denied-list\"> <li><strong data-bind=\"text:deniedPermission\"></strong></li> </ul> </div> <div class=\"modal-footer\"> <button class=\"btn btn-primary\" data-dismiss=\"modal\" data-bind=\"text: $.t('Common.Close'), click:closeHandler\" data-automation=\"close-button\"></button> </div> </div> </div> </div> <div id=\"MessageModalContainer\" class=\"modal fade\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"MessageModalHeader\" aria-describedby=\"MessageModalBody\" data-automation=\"confirmation-modal\" data-bind = \"event: { keyup: function(data, e) { if(e.key == 'Escape') { $('#MessageModalContainer .close').click()}}}\"> <div class=\"modal-dialog\" data-automation=\"confirmation-modal\"> <div class=\"modal-content\"> <div class=\"modal-header\"> <button type=\"button\" class=\"close\" data-dismiss=\"modal\" data-bind=\"click: close, attr: { 'aria-label': $.t('Common.Close') }\" data-automation=\"modal-close\"><i class=\"fa fa-times\"></i></button> <h1 class=\"modal-title h3\" data-bind=\"html: header\" id=\"MessageModalHeader\" data-automation=\"modal-title\"></h1> </div> <div id=\"MessageModalBody\" class=\"modal-body\"> <p data-automation=\"modal-text\" data-bind=\"html: message\"></p> <span data-bind=\"visible: errors.length == 1, text: errors[0]\"></span> <ul data-bind=\"visible: errors.length > 1, foreach: errors\"> <li data-bind=\"text: $data\"></li> </ul> <p data-automation=\"modal-question\" data-bind=\"html: $data.question, visible: $data.question\"></p> </div> <div class=\"modal-footer\"> <button type=\"button\" class=\"btn btn-primary\" data-automation=\"modal-accept\" data-dismiss=\"modal\" data-bind=\"text: $data.confirmButton || $.t('Common.OK'), click: confirm\"></button> <button type=\"button\" class=\"btn btn-link\" data-automation=\"modal-reject\" data-dismiss=\"modal\" data-bind=\"text: $data.cancelButton || $.t('Common.Cancel'), visible: $data.question, click: close\"></button> </div> </div> </div> </div>",
-      "job_apply_link": "https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787",
-      "job_posted_at_datetime_utc": "2025-08-29T20:16:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kingland-advanced-software-engineering-intern-ames",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Qorvo",
-      "job_city": "Richardson",
-      "job_state": "TX",
-      "job_description": "Search by Keyword Show More Options Loading... Location All Country All Job Family All Experience Level All Job Type All Full Time? All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
-      "job_apply_link": "https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75081/1321539500/",
-      "job_posted_at_datetime_utc": "2025-08-29T19:02:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "qorvo-software-engineering-intern-richardson",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Security Software Engineering Intern",
-      "employer_name": "Verkada",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "Who We Are Verkada is transforming how organizations protect their people and places with an integrated, AI-powered platform. A leader in cloud physical security, Verkada helps organizations strengthen safety and efficiency through one connected software platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management.Over 30,000 organizations worldwide, including more than 100 companies in the Fortune 500, trust Verkada as their physical security layer for easier management, intelligent control, and scalable deployments. Founded in 2016, Verkada has expanded rapidly with 15 offices and 2,200+ full-time employees.About the Role Verkada is looking for software engineering interns to join our Security team for an exciting and challenging internship. We are seeking interns who will thrive in a startup culture working alongside teammates to launch security features that will be utilized by customers and IoT devices across the globe. As an intern working on the Security team, you will have opportunities to work across the software stack and collaborate cross-functionally to build the latest iterations of Verkada’s global security systems. We are committed to a thriving in-office culture. This role requires that you be on-site at our HQ in San Mateo, CA. What You'll Do Build scalable distributed systems capable of handling high traffic from 100s of thousands of devices deployed around the world Work with high concurrency key-value storage systems (Redis, DynamoDB) Work with Postgres relational databases Work with logging and message passing technologies like Kafka and SQS Deploy services via Terraform and Kubernetes Develop large scale systems to interact with and configure products remotely Define and improve low-latency, high-throughput, high-reliability microservice architectures Design and develop features incorporating cutting edge computer vision Design clean APIs and implement them using Python and/or Go What You Bring Ability to work at Verkada HQ during winter or summer 2026 Actively pursuing a Bachelor's or Master's degree in Computer Science or similar technical field of study and graduating by June 2027 Prior internship experience developing and launching products Familiar with: Python or Golang, Distributed Systems, Operating Systems, AWS, Docker, etc Comfortable working in an agile team software development environment Familiar with REST APIs and Linux servers are a plus US Intern Benefits At Verkada, we believe that internships should be as rewarding, supportive, and fun as they are impactful! That’s why we’re committed to providing a world-class experience that supports both your personal well-being and professional growth. Here are just a few of the perks and benefits you can expect as a Verkada Software Engineering intern: Monthly housing stipend in addition to a competitive hourly wage Daily lunch catered onsite, complimentary barista-made drinks, and fully stocked snacks to keep you fueled Intern-exclusive events and mixers, including opportunities to connect with other interns across different teams Cross-functional collaboration opportunities, giving you real exposure to how teams work together at Verkada Lunch & Learns with company executives — hear directly from leaders and gain insight into building a successful career And more! From team-building activities to mentorship opportunities, we’re here to support your growth every step of the way Additional Information We do sponsor and take over sponsorship of employment visas for this role. If we make you an offer, we will make every reasonable effort to get you a visa. Pay Disclosure At Verkada, we want to attract and retain the best employees, and compensate them in a way that appropriately and fairly values their individual contribution to the company. With that in mind, we carefully consider a number of factors to determine the appropriate starting pay for an employee, including their primary work location and an assessment of a candidate’s skills and experience, as well as market demands and internal parity. This estimate can vary based on the factors described above, so the actual starting base pay may be above or below this range. Base pay is also just one component of Verkada’s total rewards package. A Verkada employee may be eligible for additional forms of compensation, depending on their role, including sales incentives, discretionary bonuses, and/or equity in the company in the form of Restricted Stock Units (RSUs).Estimated Hourly Pay Range$55 - $65 USDVerkada Is An Equal Opportunity Employer As an equal opportunity employer, Verkada is committed to providing employment opportunities to all individuals. All applicants for positions at Verkada will be treated without regard to race, color, ethnicity, religion, sex, gender, gender identity and expression, sexual orientation, national origin, disability, age, marital status, veteran status, pregnancy, or any other basis prohibited by applicable law. Your application will be handled in accordance with our Candidate Privacy Policy.",
-      "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/4842371007",
-      "job_posted_at_datetime_utc": "2025-08-29T18:58:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "verkada-security-software-engineering-intern-san-mateo",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Applied Scientist Intern",
-      "employer_name": "Thomson Reuters",
-      "job_city": "Minneapolis",
-      "job_state": "MN",
-      "job_description": "Applied Scientist InternAre you a curious and open-minded individual with an interest in programming and machine learning? Thomson Reuters Labs in Minneapolis, Minnesota is seeking a ML/NLP scientist intern with a passion for problem-solving using state-of-the-art Machine Learning and Natural Language Processing techniques.What does Thomson Reuters Labs do? We experiment, we build, we deliver. We support the organization and our customers through applied research and development of new products and technologies. The Labs innovate collaboratively across our core segments in Legal, Tax & Accounting, Government, and Reuters News. We undertake a diverse portfolio of projects today, while investing in long term research for the future. As an Applied Scientist Intern, you will be part of a diverse and interdisciplinary global team of experts. We hire specialists in Information Retrieval, Natural Language Processing, and Machine Learning, as well as Engineering and Design to drive the company’s digital and AI transformation. Thomson Reuters Labs is known for consistently delivering successful data-driven Artificial Intelligence solutions in support of high-growth products that serve Thomson Reuters customers in new and exciting ways.About The Role:As a Applied Scientist Intern, you will: Experiment and Develop: You can be involved in the entire model development lifecycle, building, testing and delivering high-quality solutions.Collaborate: Working on a collaborative cross-functional team, you will learn from and partner with colleagues across the globe. Innovate: You will have the opportunity to try new approaches and learn new technologies. You will contribute ideas and work on solving real-world challenges. About You: You are a fit for the Applied Scientist Intern role if your background includes some of the following: Be currently enrolled in a PhD program relevant discipline or Master’s program with research experience.Have an understanding and experience with Natural Language Processing, and/or Machine Learning methods including Large Language Models.Have experience creating and evaluating experiments related to Machine Learning or Large Language Models.Are experienced in one or more programming languages (preferably Python) and have experience working in the Cloud (preferably AWS) Have experience with ML/NLP libraries such as PyTorch, TensorFlow, Scikit-learn, spaCy, LangChain, and HuggingFace.Are comfortable working with unstructured datasets and are knowledgeable about tools and techniques for data cleaning and processing.Have good communication skills and the ability to work collaboratively as part of a team.This is our wish list. We understand that few people check every box. If you are excited about this opportunity, meet most of the following criteria, and are eager to learn, we want to hear from you!Opportunities For Our Applied Science Interns:Learning & Development: On-the-job coaching & learning as well as the opportunity to work with cutting-edge methods and technologies Data and High-Impact Problems: Our scientists and engineers get to play with large datasets and discover new capabilities and insights in support of our high-impact products and customers. Thomson Reuters is best known for the globally respected Reuters News agency, but our company is also the leading source of information for legal, corporate and tax & Accounting professionals. We have over 60,000 TBs worth of legal, regulatory, news, and tax dataCompetitive Compensation: The opportunity to earn while learning new skills#LI-JF1What’s in it For You?Flexibility & Work-Life Balance: Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset. This builds upon our commitment of empowering employees to achieve a better work-life balance.Career Development and Growth: By fostering a culture of continuous learning and skill development, we prepare our talent to tackle tomorrow’s challenges and deliver real-world solutions. Our Grow My Way programming and skills-first approach ensures you have the tools and knowledge to grow, lead, and thrive in an AI-enabled future.Industry Competitive Benefits: We offer comprehensive benefit plans to include paid leave, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing.Culture: Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more. We live by our values: Obsess over our Customers, Compete to Win, Challenge (Y)our Thinking, Act Fast / Learn Fast, and Stronger Together.Social Impact: Make an impact in your community with our Social Impact Institute. We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives.Making a Real-World Impact: We are one of the few companies globally that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world. In the United States, Thomson Reuters offers a comprehensive benefits package to our employees. Our benefit package includes market competitive health, dental, vision, disability, and life insurance programs, as well as a competitive 401k plan with company match. In addition, Thomson Reuters offers market leading work life benefits with competitive vacation, sick and safe paid time off, paid holidays (including two company mental health days off), parental leave, sabbatical leave. These benefits meet or exceeds the requirements of paid time off in accordance with any applicable state or municipal laws. Finally, Thomson Reuters offers the following additional benefits: optional hospital, accident and sickness insurance paid 100% by the employee; optional life and AD&D insurance paid 100% by the employee; Flexible Spending and Health Savings Accounts; fitness reimbursement; access to Employee Assistance Program; Group Legal Identity Theft Protection benefit paid 100% by employee; access to 529 Plan; commuter benefits; Adoption & Surrogacy Assistance; Tuition Reimbursement; and access to Employee Stock Purchase Plan.Thomson Reuters complies with local laws that require upfront disclosure of the expected pay range for a position. The base compensation range varies across locations. For any eligible US locations, unless otherwise noted, the base compensation range for this role is $0 USD - $0 USD. Base pay is positioned within the range based on several factors including an individual’s knowledge, skills and experience with consideration given to internal equity. Base pay is one part of a comprehensive Total Reward program which also includes flexible and supportive benefits and other wellbeing programs.About UsThomson Reuters informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. We serve professionals across legal, tax, accounting, compliance, government, and media. Our products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth, and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news.We are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments. At a time when objectivity, accuracy, fairness, and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.As a global business, we rely on the unique backgrounds, perspectives, and experiences of all employees to deliver on our business goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity Employer providing a drug-free workplace.Thomson Reuters makes reasonable accommodations for applicants with disabilities, including veterans with disabilities, and for sincerely held religious beliefs in accordance with applicable law. If you reside in the United States and require an accommodation in the recruiting process, you may contact our Human Resources Department at HR.Leave-Expert@thomsonreuters.com. Disability accommodations in the recruiting process may include things like a sign language interpreter, making interview rooms accessible, providing assistive technology, or other relevant accommodations. Please note this email is not intended for general recruitment questions and we will promptly respond to inquiries regarding accommodations. More information on requesting an accommodation here.Learn more on how to protect yourself from fraudulent job postings here.More information about Thomson Reuters can be found on thomsonreuters.com",
-      "job_apply_link": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Applied-Scientist-Intern---Summer-2026_JREQ194277",
-      "job_posted_at_datetime_utc": "2025-08-29T17:16:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "thomson-reuters-applied-scientist-intern-minneapolis",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "CACI",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join CACI in this exciting opportunity.",
-      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653",
-      "job_posted_at_datetime_utc": "2025-08-29T15:56:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "caci-software-engineer-intern-austin",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T04:50:01.717Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Qorvo",
       "job_city": "Apopka",
@@ -214,10 +34,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:04:23.555Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "Micron Technology",
       "job_city": "Boise",
       "job_state": "ID",
-      "job_description": "Join Micron Technology in this exciting opportunity.",
+      "job_description": "Our vision is to transform how the world uses information to enrich life for all. Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.Department IntroductionMicron’s Technology & Products Group (TPG) Industrial Engineering team drives innovation and efficiency across our global research and development fabs. We prioritize improving factory operations by using data-driven solutions, advanced analytics, and thoughtful analysis.Position OverviewAs a TPG Global Industrial Engineer Intern, you will work on high-impact projects that enhance the performance of one of the most complex fab environments in the world. This internship offers hands-on experience with large-scale data sets, advanced visualization tools, and real-world problem solving in a highly automated manufacturing setting.ResponsibilitiesIdentify key performance indicators to measure R&D program successExtract and analyze planning data from large data sourcesBuild dashboards and reports using Tableau and other visualization toolsCreate infographics to communicate insights in a clear and engaging formatMinimum QualificationsCurrently pursuing a Bachelor’s or Master’s degree in Industrial Engineering, Manufacturing Engineering, Supply Chain, or a related field, with equivalent experience consideredProficiency in SQL, Python, or similar programming languages for data extractionStrong understanding of supply chain and manufacturing operationsExcellent time management and ability to work independentlyAdvanced communication and presentation skillsPreferred QualificationsExperience in project or program managementProficiency in Excel, Tableau, or other data visualization softwareAbility to present technical information to diverse audiencesStrong data intuition and ability to translate data into actionable insightsExpected graduation after the internship timeframeAs a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future. We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget. Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave. Additionally, Micron benefits include a robust paid time-off program and paid holidays. For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.To learn about your right to work click here.To learn more about Micron, please visit micron.com/careersFor US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918 (select option #3)Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification. Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.",
       "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902",
       "job_posted_at_datetime_utc": "2025-08-28T16:36:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "micron-technology-intern-tpg-global-ie-boise"
+      "id": "micron-technology-intern-tpg-global-ie-boise",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "DMA",
       "job_city": "Fort Wayne",
       "job_state": "IN",
-      "job_description": "Join DMA in this exciting opportunity.",
+      "job_description": "As an employee-owned company, DMA prioritizes employees. Low turnover rates and tenured teams are living proof: 2025 Great Places to Work CertifiedEmployee stock ownership program eligibility begins on day one of employment (ESOP contribution is targeted at 6% of your annual compensation)Company paid parental leaveGenerous time off package Multiple benefit plans, eligibility begins on day one of employmentCulturally focused on work/life balance, mental health, and the overall wellness of our employeesPosition SummaryDMA is seeking a motivated and talented Software Development Intern. We are offering an excellent opportunity for hands-on, real-world experience in software development working with a team of highly skilled software developers. The selected individual will gain exposure in the day-to-day operations, business requirements, and the analysis and transformation into web-based solutions for an organization specializing in innovative software and industry-leading tax services.Essential Duties and Responsibilities Participate in code reviews and release & sprint planning sessionsAssist with developing unit test cases for new features and bug fixesProvide technical support as neededAid with diagnosing and triaging issues with software; determine and document root causeMaintain and enhance existing software solutionsAid in developing and documenting potential solutions to a given issueDevelop and document potential solutions to a given issueAssist with preparation of functional and technical documentationNon-Essential Duties and ResponsibilitiesPerform other duties as assignedEducation and QualificationsPursuing a Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or related fieldMinimum 3.0 Cumulative GPAExperience with an object-oriented programming language, such a C# or Java.Familiarity with scripting languages (e.g. Javascript), MVC concepts, JDBC/SQL is a plusKnowledge of relational databasesAbility to work collaboratively within a team environment of other developers to meet aggressive goals and high-quality standardExcellent communication and interpersonal skillsMust be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. This position does not qualify for employment-based sponsorshipThe Company is an equal employment opportunity employer and is committed to providing equal employment opportunities to its applicants and employees. The Company does not discriminate in employment opportunities or practices on the basis of race, color, religion, gender, national origin, citizenship, age, disability, veteran status, genetic information, or any other category covered by applicable federal, state, or local law. This equal employment opportunity policy applies to all employment policies, procedures, and practices, including but not limited to hiring, promotion, compensation, training, benefits, work assignments, discipline, termination, and all other terms and conditions of employment.It is DMA's policy to make reasonable accommodations for qualified individuals with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please contact our Human Resources team at HRDepartment@dmainc.com or 800-309-2110 and choosing selection 6.",
       "job_apply_link": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124",
       "job_posted_at_datetime_utc": "2025-08-28T08:11:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "dma-software-development-intern-fort-wayne"
+      "id": "dma-software-development-intern-fort-wayne",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Epic Games",
       "job_city": "Cary",
       "job_state": "NC",
-      "job_description": "Join Epic Games in this exciting opportunity.",
+      "job_description": "Visit Epic Games Careers to see the latest jobs and employment opportunities. Join an exciting team pushing the limits in gaming and interactive entertainment.",
       "job_apply_link": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
       "job_posted_at_datetime_utc": "2025-08-28T08:09:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "epic-games-engine-software-engineer-intern-cary"
+      "id": "epic-games-engine-software-engineer-intern-cary",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Crowe",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Crowe in this exciting opportunity.",
+      "job_description": "Crowe LLP (www.crowe.com) is a public accounting, consulting and technology firm with offices around the world. Crowe uses its deep industry expertise to provide audit services to public and private entities. The firm and its subsidiaries also help clients make smart decisions that lead to lasting value with its tax, advisory, and consulting services. Crowe is recognized by many organizations as one of the best places to work in the U.S. As an independent member of Crowe Global, one of the largest global accounting networks in the world, Crowe serves clients worldwide. The network consists of more than 200 independent accounting and advisory services firms in more than 130 countries around the world.",
       "job_apply_link": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-50098",
       "job_posted_at_datetime_utc": "2025-08-28T08:03:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "crowe-ai-functional-intern-chicago"
+      "id": "crowe-ai-functional-intern-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-08-28T07:59:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "walmart-2025-intern-conversion-2026-ft-data-analyst-ii-transportation-bentonville"
+      "id": "walmart-2025-intern-conversion-2026-ft-data-analyst-ii-transportation-bentonville",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Samsara",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Samsara in this exciting opportunity.",
+      "job_description": "CareersDepartmentsLocationsBenefitsBelongingEmerging TalentSee Open Roles CareersDepartmentsLocationsBenefitsBelongingEmerging TalentSee Open Roles Back to All JobsSoftware Engineering InternSan Francisco, CA ID:5068 (for internal use only) Apply Now Software Engineering Intern Apply Now Samsara's MissionImprove the safety, efficiency, and sustainability of the operations that power the global economy.Read Samsara's Culture PlaybookWho we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operations at scale.Working at Samsara means you’ll help define the future of physical operations and be on a team that’s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you’ll have the autonomy and support to make an impact as we build for the long term.About the role:Join us for a 12-week internship in Summer 2026 and help shape the future of industrial IoT. Our interns dive into challenging, real-world projects with the same freedom and responsibility as our full-time engineers. You won't just be learning; you'll be building and making a tangible impact on our global customers from day one. Learn more about the Samsara internship experience here.Applying to this job, you will be considered for one of the following engineering specializations based on your experience, interest, and business need:Backend Infrastructure: You will design and develop the core infrastructure that powers our IoT platform, which connects over 15,000 hardware assets and is used by tens of thousands of customers globally. This role focuses on scaling our data ingestion and storage systems to handle the growing volume of connected devices. You'll collaborate with engineers across the company to make new types of data analysis possible.Full-stack, Frontend: You will create user interfaces that transform data from millions of devices into intuitive, actionable insights. Working closely with our design and product teams, you'll identify and rapidly iterate on solutions. Your projects could range from developing design systems to performance engineering, all with the goal of delivering high-quality, impactful features to our customers.Full-stack, Backend: You will design and develop features across a wide range of our platform, directly impacting both current and future customers. You'll tackle diverse engineering challenges, from architecting data structures for massive data collection to building intuitive and high-performing data analytics on web and mobile platforms.Mobile Infrastructure: You will work on the critical infrastructure that supports our React Native application. Your contributions will empower feature teams to iterate quickly and write performant, maintainable code, helping us deliver a seamless mobile experience to our users.Embedded Software: You will design, develop, and maintain all on-device software for Samsara's hardware products. This includes everything from edge AI models and multimedia frameworks to low-level power management and real-time data processing, building software that runs reliably in tough, real-world conditions. This role involves collaborating with backend, ML, and hardware engineers to create seamless device-to-cloud experiences. Your work will directly drive innovation across Samsara's IoT ecosystem.We use Golang for our backend, Typescript and React for our web client, GraphQL to fetch data from our backend, and React Native for our mobile app. Direct experience with this stack is not required but experience with similar technologies is strongly encouraged.You should apply if:You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the world's physical operations.You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we’re all racing toward our connected operations vision, and we intend to win—together.In this role, you will: You won't just be a cog in the machine; you'll have the agency to build. We offer a greenfield opportunity for growth, giving you the chance to take on a high level of ownership from day oneYou'll work on projects that have a tangible impact, directly improving the safety, efficiency, and sustainability of our customers' operationsWhether you're designing scalable backend infrastructure, creating intuitive user interfaces, or developing robust embedded software, you'll have the freedom to build and innovate, all while collaborating with experienced engineers to deliver high-quality, impactful solutions across our IoT ecosystemChampion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new officesMinimum requirements for the role:You will complete a Bachelor’s degree in Computer Science, Mathematics, Software Engineering, Physics, or Data Science between Spring/Summer/Fall 2027 or Winter 2028.This internship can be a remote or in-person hybrid requiring 3 days per week in our San Francisco, CA office and 2 days working remotely. Relocation assistance is provided for this role if in-person is chosen.An ideal candidate also:Has a Builder Mindset: You're passionate about creating and taking ownership of projects. You have a strong technical foundation in computer science fundamentals, data structures, and algorithms, and you're adaptable and versatile, ready to tackle challenges across different areas of our technology stack.Knows Their Stuff: You have a proven ability to develop production-level software. You're proficient in at least one of the following areas: Backend, Infrastructure, Fullstack, Frontend, or Mobile Infrastructure. We're especially interested in experience with Golang, Python, Node.js, Typescript, and React.Is Customer Obsessed: You're motivated by understanding customer needs and building solutions that make their lives easier. You're excited to ship customer experiences and iterate on new products based on feedback.Wins as a Team: You champion, role model, and embed our company values, especially the belief that we succeed together. You have excellent collaboration skills and can work effectively both independently and with cross-functional teams.The range of hourly base salary for this position is below. Please note that base hourly pay may vary depending on factors including your city of residence, job-related knowledge, skills, and experience. $31.18—$52.40 USDAt Samsara, we welcome everyone regardless of their background. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender, gender identity, sexual orientation, protected veteran status, disability, age, and other characteristics protected by law. We depend on the unique approaches of our team members to help us solve complex problems and want to ensure that Samsara is a place where people from all backgrounds can make an impact.BenefitsFull time employees receive a competitive total compensation package along with employee-led remote and flexible working, health benefits, and much, much more. Take a look at our Benefits site to learn more.Accommodations Samsara is an inclusive work environment, and we are committed to ensuring equal opportunity in employment for qualified persons with disabilities. Please email accessibleinterviewing@samsara.com or click here if you require any reasonable accommodations throughout the recruiting process.Flexible Working At Samsara, we embrace a flexible working model that caters to the diverse needs of our teams. Our offices are open for those who prefer to work in-person and we also support remote work where it aligns with our operational requirements. For certain positions, being close to one of our offices or within a specific geographic area is important to facilitate collaboration, access to resources, or alignment with our service regions. In these cases, the job description will clearly indicate any working location requirements. Our goal is to ensure that all members of our team can contribute effectively, whether they are working on-site, in a hybrid model, or fully remotely. All offers of employment are contingent upon an individual’s ability to secure and maintain the legal right to work at the company and in the specified work location, if applicable.Fraudulent Employment OffersSamsara is aware of scams involving fake job interviews and offers. Please know we do not charge fees to applicants at any stage of the hiring process. Official communication about your application will only come from emails ending in ‘@samsara.com’ or ‘@us-greenhouse-mail.io’. For more information regarding fraudulent employment offers, please visit our blog post here.Samsara's MissionImprove the safety, efficiency, and sustainability of the operations that power the global economy.Read Samsara's Culture PlaybookGlassdoor Best Place to Work 2024 Great Place To Work® Certified™ Fast Company Best Workplace for Innovators Watch VideoWhy Samsara?How Samsara Interns are Making Real-World ImpactRead More Watch VideoCelebrating National Intern Day 2023Job Application for:Software Engineering InternSan Francisco, CAProductsCameras and VideoAI MulticamDriver CoachingDrowsiness DetectionSafety Reporting & InsightsEquipment TrackingTrailer TrackingAsset Tracking Asset TagFleet TelematicsGPS Fleet TrackingFleet MaintenanceRouting & DispatchElectric VehiclesFirst NetSamsara AppsDVIRELD ComplianceConnected TrainingConnected WorkflowsSamsara PlatformSamsara IntelligenceSite SecurityAll Product HardwareIndustriesTransportation & LogisticsConstructionFood & BeverageUtilitiesPassenger TransitField ServicesPublic SectorK-12GovernmentHigher Education IntegrationsOEM IntegrationsApp MarketplaceExpert MarketplaceFor DevelopersDeveloper APIsAPI ChangelogDeveloper PortalResourcesCustomer StoriesSupport CenterCustomer Referral ProgramPartner ProgramsEventsWebinarsGuidesUnrivaled AIBrand AssetsCustomer WebstoreCompanyPricing and PlansAbout UsCareersBelongingInvestor RelationsSamsara VenturesNewsBlogPrivacySecurityContactWhy Choose SamsaraEnglish (CA)Français (CA)Deutsch (DE,AT,CH)Français (FR)Español (MX)Nederlands (NL,BE,LU)English (UK)English (US)Privacy PolicyCandidate Privacy NoticeWebsite Terms of ServiceCookie PolicyYour Privacy ChoicesHardware WarrantyProduct Terms of ServiceHosted Software SLAPartner Code of ConductData Protection AddendumModern Slavery Statement © 2025 Samsara Inc. See Open Roles",
       "job_apply_link": "https://www.samsara.com/company/careers/roles/7179025",
       "job_posted_at_datetime_utc": "2025-08-28T06:56:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "samsara-software-engineering-intern-san-francisco"
+      "id": "samsara-software-engineering-intern-san-francisco",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "HNTB",
       "job_city": "Madison",
       "job_state": "WI",
-      "job_description": "Join HNTB in this exciting opportunity.",
+      "job_description": "What We're Looking ForThis role is for current/former HNTB Interns only.At HNTB, you can create a career that is meaningful to you while building communities that matter to all of us. For more than a century, we have been delivering solutions for some of the largest, most complex infrastructure projects across the country. With our historic growth, it is an exciting time to join our team of employee-owners. This opportunity entails being under close supervision, assist departments by performing basic assignments in the areas including, but not limited to Science, Planning, Technology. This position is usually on a part-time, temporary, or co-op basis. Relocation and housing are not provided for this position.What You’ll Do:Assists project team members with various support tasks.Conducts basic research and data collection.Maintains records, collections and files related to specific projects.Assist in the development of graphics, presentation materials and reports.Performs other duties assigned.What You’ll Need:Enrolled in a related undergraduate or graduate programWhat We Prefer:Current/former HNTB InternshipStrong problem-solving skills and a passion for technology.Proficiency in at least one programming language (e.g., Python, Angular, React, C#, C++).Familiarity with databases, cloud computing, or networking concepts.Excellent communication and teamwork abilities.Strong Interest in transportation and infrastructure.Additional InformationClick here for benefits information: HNTB Total RewardsClick here to learn more about Equal Opportunity Employer/Disability/VeteranVisa sponsorship is not available for this position.#MZ.Locations:Allen Park, MI, Ashwaubenon, WI (Green Bay), Blue Ash, OH (Cincinnati), Chicago, IL, Cleveland, OH, Columbus, OH, Detroit, MI, Downers Grove, IL, East Lansing, MI (Lansing), Grand Rapids, MI, Indianapolis, IN, Jackson, MI, Madison, WI, Milwaukee, WI (East Wisconsin Avenue), Minneapolis, MN, Sterling Heights, MI, Westfield, IN (Carmel)..............The approximate pay range for Ohio is $20.55 - $30.83. Please note that the pay range provided is a good faith estimate for the position at the time of posting. Actual compensation will be dependent on factors, including but not limited to, the individual’s qualifications, experience, knowledge, skills, and abilities as well as physical work location within the state...The approximate pay range for Minnesota is $21.58 - $32.37. Please note that the pay range provided is a good faith estimate for the position at the time of posting. Actual compensation will be dependent on factors, including but not limited to, the individual’s qualifications, experience, knowledge, skills, and abilities as well as physical work location within the state..The approximate pay range for Illinois is $22.61 - $33.91. Please note that the pay range provided is a good faith estimate for the position at the time of posting. Actual compensation will be dependent on factors, including but not limited to, the individual’s qualifications, experience, knowledge, skills, and abilities as well as physical work location within the state..NOTICE TO THIRD-PARTY AGENCIES:HNTB does not accept unsolicited resumes from recruiters or agencies. Any staffing/employment agency, person or entity that submits an unsolicited resume to this site does so with the understanding that the applicant's resume will become the property of HNTB. HNTB will have the right to hire that applicant at its discretion and without any fee owed to the submitting staffing/employment agency, person or entity. Staffing/employment agencies who have fee agreements with HNTB must submit applicants to the designated HNTB recruiter to be eligible for placement fees.",
       "job_apply_link": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Technology-Intern--Summer-2026--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-27215-2",
       "job_posted_at_datetime_utc": "2025-08-27T22:44:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hntb-returning-technology-intern-summer-2026-great-lakes-division-for-current-former-hntb-interns-only-madison"
+      "id": "hntb-returning-technology-intern-summer-2026-great-lakes-division-for-current-former-hntb-interns-only-madison",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -536,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T22:07:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-technologies-2026-summer-internship-software-engineer-mobile-computing-corporate-and-business-services-ceo-lake-grove"
+      "id": "zebra-technologies-2026-summer-internship-software-engineer-mobile-computing-corporate-and-business-services-ceo-lake-grove",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T22:07:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-technologies-2026-summer-internship-software-engineering-handheld-mobile-computer-corporate-and-business-services-ceo-lake-grove"
+      "id": "zebra-technologies-2026-summer-internship-software-engineering-handheld-mobile-computer-corporate-and-business-services-ceo-lake-grove",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:03:55.489Z",
     "postedAt": null
   },
   {
