@@ -1,0 +1,23 @@
+{
+  "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "As an employee-owned company, DMA prioritizes employees. Low turnover rates and tenured teams are living proof: 2025 Great Places to Work CertifiedEmployee stock ownership program eligibility begins on day one of employment (ESOP contribution is targeted at 6% of your annual compensation)Company paid parental leaveGenerous time off package Multiple benefit plans, eligibility begins on day one of employmentCulturally focused on work/life balance, mental health, and the overall wellness of our employeesPosition SummaryDMA is seeking a motivated and talented Software Development Intern. We are offering an excellent opportunity for hands-on, real-world experience in software development working with a team of highly skilled software developers. The selected individual will gain exposure in the day-to-day operations, business requirements, and the analysis and transformation into web-based solutions for an organization specializing in innovative software and industry-leading tax services.Essential Duties and Responsibilities Participate in code reviews and release & sprint planning sessionsAssist with developing unit test cases for new features and bug fixesProvide technical support as neededAid with diagnosing and triaging issues with software; determine and document root causeMaintain and enhance existing software solutionsAid in developing and documenting potential solutions to a given issueDevelop and document potential solutions to a given issueAssist with preparation of functional and technical documentationNon-Essential Duties and ResponsibilitiesPerform other duties as assignedEducation and QualificationsPursuing a Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or related fieldMinimum 3.0 Cumulative GPAExperience with an object-oriented programming language, such a C# or Java.Familiarity with scripting languages (e.g. Javascript), MVC concepts, JDBC/SQL is a plusKnowledge of relational databasesAbility to work collaboratively within a team environment of other developers to meet aggressive goals and high-quality standardExcellent communication and interpersonal skillsMust be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. This position does not qualify for employment-based sponsorshipThe Company is an equal employment opportunity employer and is committed to providing equal employment opportunities to its applicants and employees. The Company does not discriminate in employment opportunities or practices on the basis of race, color, religion, gender, national origin, citizenship, age, disability, veteran status, genetic information, or any other category covered by applicable federal, state, or local law. This equal employment opportunity policy applies to all employment policies, procedures, and practices, including but not limited to hiring, promotion, compensation, training, benefits, work assignments, discipline, termination, and all other terms and conditions of employment.It is DMA's policy to make reasonable accommodations for qualified individuals with disabilities. If you have a disability and either need assistance applying online or need to request an accommodation during any part of the application process, please contact our Human Resources team at HRDepartment@dmainc.com or 800-309-2110 and choosing selection 6.",
+    "requirements": [
+      "Pursuing a Bachelor’s degree in Computer Science, Software Engineering, Information Systems, or related field"
+    ],
+    "responsibilities": [
+      "Assist with developing unit test cases for new features and bug fixes",
+      "Aid in developing and documenting potential solutions to a given issue",
+      "Develop and document potential solutions to a given issue",
+      "Ability to work collaboratively within a team environment of other developers to meet aggressive goals and high-quality standard"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124",
+      "fetchedAt": "2025-12-15T05:02:24.270Z"
+    }
+  },
+  "cachedAt": 1765774944270
+}
