@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 158</em></p>
+<p><em>Real-time opportunities from 164</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-337-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-158-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-340-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-164-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-69-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 158+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 337+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 164+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 340+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,8 +71,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 337 internships & new grad roles  
-🏢 **Top Companies:** 158 elite tech companies hiring  
+🔥 **Current Opportunities:** 340 internships & new grad roles  
+🏢 **Top Companies:** 164 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 15, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
@@ -262,7 +262,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 305 | 91% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 308 | 91% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 28 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 4 | 1% | 1-2 years of experience |
 
@@ -275,14 +275,14 @@ No companies available
 - **Remote in USA, Locations**: 13 opportunities
 - **Chicago, IL**: 10 opportunities
 - **Cambridge, MA**: 10 opportunities
+- **San Jose, CA**: 8 opportunities
 - **Grove City, PA**: 8 opportunities
-- **San Jose, CA**: 7 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 337+ verified internships and new grad roles from 158 top companies.
+✅ **100% Real Opportunities:** 340+ verified internships and new grad roles from 164 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -340,7 +340,7 @@ No companies available
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1766 roles
-- **🏢 Companies**: 158 companies  
+- **🏢 Companies**: 164 companies  
 - **⭐ FAANG+ Opportunities**: 12 positions
 
 ### ⭐ **FAANG+** (12 positions)
@@ -600,7 +600,7 @@ No companies available
 
 <div align="center">
 
-**🎯 337 current opportunities from 158 top companies.**
+**🎯 340 current opportunities from 164 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
