@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.garmin.com/jobs/16828/job",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "<p style=\"font-size:16px;\"><strong>Overview</strong></p><br><br><p style=\"margin: 0px;\">We are seeking a full-time <strong>Software Engineer Intern - Embedded</strong> for Summer 2026 in our Olathe, KS location. In this role, you will be responsible for learning and training to develop software for Garmin's communication and navigation products under supervision.</p> <p style=\"margin: 0px;\"><strong>Essential Functions</strong></p><ul><li>Learn to develop software using C, C++, C#, Java, assembly language, or other selected languages</li><li>Learn to test software using debuggers, emulators, simulators, and logic analyzers</li><li>Learn to perform software releases and software quality assurance activities</li><li>Learn to perform maintenance activities for products already in production in addition to new product software design</li></ul> <p style=\"margin: 0px;\"><strong>Basic Qualifications</strong></p><ul><li>Completed coursework in Computer Science, Electrical Engineering, Computer Engineering, or a related field</li><li>Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)</li><li>Must possess relevant experience and/or training in languages such as C, C++, C# or Java</li><li>Must possess relevant experience and/or training in data structures or object oriented design methodology</li></ul><p style=\"margin: 0px;\"><strong>Desired Qualifications</strong></p><ul><li>Outstanding academics (cumulative GPA greater than or equal to 3.5)</li><li>Previous experience working in a team environment</li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran status, age or disability.</em></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>This position is eligible for Garmin's intern program benefits. Details can be found here: <a href=\"https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A19c1a4b5-6896-3edf-aec6-36e8b242596d\" target=\"_blank\" rel=\"noopener\">Garmin Intern Benefits</a></em></p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers.garmin.com/jobs/16828/job",
+      "fetchedAt": "2025-12-15T04:48:20.950Z"
+    }
+  },
+  "cachedAt": 1765774100950
+}
