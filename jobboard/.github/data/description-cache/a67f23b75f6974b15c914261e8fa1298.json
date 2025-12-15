@@ -1,0 +1,17 @@
+{
+  "url": "https://www.athelas.com/careers?ashby_jid=566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Join Athelas and help transform healthcare with AI-driven solutions. Explore careers in engineering, design, and operations to make a real impact.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.athelas.com/careers?ashby_jid=566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
+      "fetchedAt": "2025-12-15T03:53:40.591Z"
+    }
+  },
+  "cachedAt": 1765770820591
+}

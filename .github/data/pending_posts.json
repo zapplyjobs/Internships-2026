@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Internships: Deep Learning",
-      "employer_name": "NVIDIA",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Deep Learning Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Deep Learning teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. Potential Internships in this field include: Deep Learning Applications & Algorithms Developing algorithms for deep learning, data analytics, or scientific computing to improving performance of GPU implementations Course or internship experience related to the following areas could be required: Deep Neural Networks, Linear Algebra, Numerical Methods and/or Computer Vision, Software Design, Computer Memory (Disk, Memory, Caches), CPU and GPU Architectures, Networking, Numeric Libraries, Embedded System Design and Development, Drivers, Real-Time Software Deep Learning Frameworks & Libraries Building underlying frameworks and libraries to accelerate Deep Learning on GPUs Contributing directly to software packages such as JAX, PyTorch, and TensorFlow, integrating the latest library (e.g., cuDNN) or CUDA features, performance tuning, and analysis Optimizing core deep learning algorithms and libraries (e.g., CuDNN, CuBLAS), maintaining build, test, and distribution infrastructure for these libraries and deep learning frameworks on NVIDIA supported platforms Course or internship experience related to the following areas could be required: Computer Architecture (CPUs, GPUs, FPGAs or other accelerators), GPU Programming Models, Performance-Oriented Parallel Programming, Optimizing for High-Performance Computing (HPC), Algorithms, Numerical Methods What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, CUDA, Python, x86, ARM CPU, GPU, Linux, Direct3D, Vulkan, OpenGL, OpenCL, Spark, Perl, Bash/Shell Scripting, Container Tools (Docker/Containers, Kubernetes), Infrastructure Platforms (AWS, Azure, GCP), Data Technologies (Kafka, ELK, Cassandra, Apache Spark), React, Go Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
-      "job_posted_at_datetime_utc": "2025-09-02T15:08:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nvidia-internships-deep-learning-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T01:42:06.025Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "NVIDIA Internships: Deep Learning Computer Architecture",
-      "employer_name": "NVIDIA",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "By submitting your resume, you’re expressing interest in one of our 2026 Deep Learning Computer Architecture Internships. We’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities. NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create. Our internships offer an excellent opportunity to expand your career and get hands on experience with one of our industry leading Deep Learning Computer Architecture teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve. Throughout the 12-week minimum full-time internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field. What we need to see: Must be actively enrolled in a university pursuing a Bachelor's, Master's, or PhD degree in Electrical Engineering, Computer Engineering, or a related field, for the entire duration of the internship. Course or internship experience related to the following areas could be required: Computer Architecture experience in one or more of these focus areas: GPU Architecture, CPU Architecture, Deep Learning, GPU Computing, Parallel Programming, or High-Performance Computing Systems GPU Computing (CUDA, OpenCL, OpenACC), GPU Memory Systems, Deep Learning Frameworks (PyTorch, TensorFlow, Keras, Caffe), HPC (MPI, OpenMP) Modelling/Performance Analysis, Parallel Processing, Neural Network Architectures, GPU Acceleration, Deep Learning Neural Networks, Compiler Programming Performance Modeling, Profiling, Optimizing, and/or Analysis Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: C, C++, Python, Perl, GPU Computing (CUDA, OpenCL, OpenACC), Deep Learning Frameworks (PyTorch, TensorFlow, Caffe), HPC (MPI, OpenMP) Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD. You will also be eligible for Intern benefits. ​Applications are accepted on an ongoing basis. NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
-      "job_posted_at_datetime_utc": "2025-09-02T15:08:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nvidia-nvidia-internships-deep-learning-computer-architecture-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Analytics Intern",
-      "employer_name": "cencora",
-      "job_city": "Orlando",
-      "job_state": "FL",
-      "job_description": "Join cencora in this exciting opportunity.",
-      "job_apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/USA--FL--Orlando--Lee-Vista/Analytics-Intern_R2515474",
-      "job_posted_at_datetime_utc": "2025-09-02T14:42:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cencora-analytics-intern-orlando",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Engineer Intern",
-      "employer_name": "Qorvo",
-      "job_city": "Richardson",
-      "job_state": "TX",
-      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Data Science Internships are offered in our High Performance Analog, Advanced Cellular, Connectivity and Sensors and Global Operations business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Responsibilities may include: Train, test, and deploy machine learning and AI models in Python, leveraging Spark and/or AWS as needed. Analyze large datasets to uncover insights that optimize process and product performance, increase yields, and reduce costs. Develop and evaluate predictive, diagnostic, and prescriptive models to support business decisions. Implement reproducible research practices including version control, testing, and documentation. Collaborate with engineers and data scientists to translate business challenges into data-driven solutions. Qualifications: Currently pursuing a BS, MS, or PhD in Data Science, Computer Science, Statistics, Applied Math, or related field. Minimum GPA of 3.0. Proficiency in Python and core data science libraries (pandas, scikit-learn, matplotlib, etc.). Experience with at least one deep learning or advanced ML framework (PyTorch, TensorFlow, or Keras). Familiarity with Git and SQL. Curiosity, strong problem-solving skills, and ability to communicate findings clearly. Preferred Qualifications: Understanding of Apache Spark or distributed computing. Experience with cloud-based environments (AWS, GCP, or Azure). Strong presentation and storytelling skills with data. Understanding of semiconductor physics fundamentals. This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr-$42/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
-      "job_apply_link": "https://careers.qorvo.com/job/Richardson-Data-Science-Engineer-Intern-TX-75081/1321946700/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-09-02T14:39:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "qorvo-data-science-engineer-intern-richardson",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "Cambium Learning",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Join Cambium Learning in this exciting opportunity.",
-      "job_apply_link": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Intern-SAS-Team-Data-Analyst_REQ-4157",
-      "job_posted_at_datetime_utc": "2025-09-02T11:12:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cambium-learning-data-analyst-intern-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "Dow Jones",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Dow Jones in this exciting opportunity.",
-      "job_apply_link": "https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
-      "job_posted_at_datetime_utc": "2025-09-02T11:11:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "dow-jones-data-analyst-intern-new-york",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Quality Engineer Intern",
-      "employer_name": "CACI",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join CACI in this exciting opportunity.",
-      "job_apply_link": "https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026",
-      "job_posted_at_datetime_utc": "2025-09-02T10:57:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "caci-software-quality-engineer-intern-austin",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "AMD",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join AMD in this exciting opportunity.",
-      "job_apply_link": "https://careers.amd.com/careers-home/jobs/70483/job",
-      "job_posted_at_datetime_utc": "2025-09-02T10:56:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amd-software-engineering-intern-austin",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
-      "job_title": "Business Insights & Analytics Leadership Development Program – Geospatial Intern - BI&a Ldp",
-      "employer_name": "The Travelers Companies",
-      "job_city": "Hartford",
-      "job_state": "CT",
-      "job_description": "Who Are We?Taking care of our customers, our communities and each other. That’s the Travelers Promise. By honoring this commitment, we have maintained our reputation as one of the best property casualty insurers in the industry for over 170 years. Join us to discover a culture that is rooted in innovation and thrives on collaboration. Imagine loving what you do and where you do it.Job CategoryData AnalyticsCompensation OverviewThe hourly salary range provided for this position is a nationwide market range and represents a broad range of salaries for this role across the country. The actual hourly rate for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. As part of our comprehensive compensation and benefits program, employees are also eligible for performance-based cash incentive awards. Salary Range$27.00 - $29.00Target Openings4What Is the Opportunity?Applications for this posting will be reviewed on a rolling basis beginning in early September. We encourage you to apply as soon as possible.The goal of the Business Insights & Analytics Leadership Development Program's (BI&A LDP) geospatial internship is to attract and develop self-motivated individuals who are highly skilled and passionate about a career in geospatial analytics while providing a foundation for future success within the organization. As a BI&A LDP Geospatial intern, you will be exposed to a challenging professional work experience in business insights & analytics with planned activities giving you insight into business, analytics, and the many geospatial career options at Travelers. With many company-wide events such as Intern Symposium and community outreach events, you will have the opportunity to interact and network with many levels of leadership and management. You will be expected to work together with fellow interns to develop and present solutions to relevant business and analytics topics. Applicants must be authorized to work for ANY employer in the U.S. The company does not sponsor/support H-1B petitions, TN, or Forms I-983/STEM OPT, for this role.Housing - The Internship program is based in Hartford, CT and St. Paul, MN. Positions are available in our Business Units and Corporate Departments. Subsidized apartments are available for students who live beyond a commutable distance from Hartford, CT or St. Paul, MN. Positions are available early June through the end of the summer.What Will You Do?As a Geospatial Intern within the Business Insights & Analytics Leadership Development Program, your potential will be unlocked through robust projects, planful training, helpful development resources (Peer Advisors & Mentors) and engaging with your cohort of peers.You'll create, analyze, and interpret spatial data to support business needs. Intern work can range across a broad set of experiences at Travelers that develop your knowledge of geographic information science, platform technology, statistics, spatial thinking, remote sensing, location intelligence issues, and the social/physical sciences to characterize CAT events, discover relationships and trends.Perform other duties as assigned.What Will Our Ideal Candidate Have?Cumulative GPA of 3.0 or greater.1- 2 years of experience with GIS principles and practices in a college setting.Proficiency in GIS mapping software and platforms required, ESRI ArcGIS Pro experience.Proficiency in SQL Server, SQL Spatial Data Types, Python or other programming languages.Familiarity with acquiring, cleaning, and modifying geospatial data.Accountability: Strong track record of taking ownership and responsibility for actions and outcomes, performance, and results.Analytical and Critical Thinking: Demonstrated aptitude in identifying current or future problems or opportunities, analyzing data, synthesizing and comparing information to understand issues, identifying cause/effect relationships and exploring alternative solutions to support sound decision making.Change Management/Resilience: Ability to remain energized and focused in the face of ambiguity, change or strenuous demands.Customer Focus: Proven customer service skills with the ability to provide service excellence to internal or external clients.Emotional Intelligence: Demonstrated track record of self and social awareness, empathy and balances confidence with humility.Interpersonal: Excellent communication skills with the ability to actively engage with others while maintaining a positive attitude.Judgment/Decision Making: Capability of exercising sound judgment, making decisions and committing to a position.Leveraging Differences: Proven capacity to works with and include people from different backgrounds, experiences, cultures, races, etc. and view those differences as assets to be leveraged to accomplish business goals and objectives.Relationship Management: Strong relationship management skills including the ability to seek out, build, foster and maintain productive relationships, networks or alliances to meet goals and achieve results.Teamwork: Ability to work together in situations when actions are interdependent, and a team is mutually responsible to produce a result.Work Ethic: Possession of a strong drive to do what it takes to get the job done; inquisitive and demonstrates a strong willingness to learn.What is a Must Have?Obtained or pursuing a bachelor’s or master’s degree in Geographic Information Systems (GIS), Computer Science, Geography required.Legally authorized to work in the United States now and in the future.Employment PracticesTravelers is an equal opportunity employer. We value the unique abilities and talents each individual brings to our organization and recognize that we benefit in numerous ways from our differences. We are committed to providing accommodation to persons with disabilities. If you require accommodation during the recruitment or interview process we will work with you to accommodate your needs.If you are a candidate and have specific questions regarding the physical requirements of this role, please send us an email so we may assist you.Travelers reserves the right to fill this position at a level above or below the level included in this posting.To learn more about our comprehensive benefit programs please visit http://careers.travelers.com/life-at-travelers/benefits/.",
-      "job_apply_link": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-46550",
-      "job_posted_at_datetime_utc": "2025-09-02T07:45:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-travelers-companies-business-insights-analytics-leadership-development-program-geospatial-intern-bi-a-ldp-hartford",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": "2025-12-15T03:14:01.634Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Trimble",
       "job_city": "Dayton",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T02:33:36.586Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T03:13:33.194Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T03:54:11.178Z"
   },
   {
     "job": {
@@ -405,16 +225,18 @@
       "employer_name": "PIMCO",
       "job_city": "Newport Beach",
       "job_state": "CA",
-      "job_description": "Join PIMCO in this exciting opportunity.",
+      "job_description": "We are a leading global asset management firm with over 3,000 employees across 20 offices in 15 countries; we help millions of investors around the world pursue their financial goals.We hire critical thinkers. People who thrive in a collaborative culture like ours where we solve real problems while building the future of finance.YouAre excited to be part of a vibrant engineering community that values diversity, hard work, and continuous learning.Love solving complex real-world business problems.Recognize that cross-functional collaboration is a core component of success for the team.Believe there are multiple ways to solve most technical problems and are willing to debate the trade-offs.Have become a stronger engineer by making mistakes and learning from them.Are a doer, someone who wants to grow their career and gain experience across technologies and business functions.WeContinuously invest in a high-performance and inclusive culture, in which a diversity of backgrounds, experiences and viewpoints are celebrated and valued.Encourage career mobility, so you can benefit from learning different functions and technologies, and we gain the benefits of your experience across teams.Run technology pro bono programs that help the non-profit community and give our engineering community opportunities to volunteer and participate.Offer education reimbursements and ongoing training in technology, communication, and diversity & inclusion.Embrace knowledge sharing through lunch-and-learns, demos, and technical forums.Consider our people to be our greatest asset—we will help you learn what PIMCO Technology has to offer so you can participate in activities that benefit your career while delivering impactful technology solutions.2026 Summer Intern - Technology Analyst, Software EngineeringInternship positions are located at PIMCO’s Austin, Texas office.About the role:Our PIMCO Technology teams produce internal-use technology solutions to help our trade floor to make investment decisions, manage portfolio risk and serve our clients.As a Technology Analyst at PIMCO, you will sit at the intersection of finance and technology, solve fast-paced problems and drive innovation. Over 10 weeks during the summer, interns work alongside engineers, developers, investment professionals and analytics teams to develop cutting-edge software and deliver value-add tools.You'll have the chance to define your career with a dynamic, growing global investment management leader while working with a smart, fun team.You are eligible to apply if you: Are a currently pursuing a bachelor’s or master’s degree in computer science, engineering or a similar majorMust be able to begin full time employment at a PIMCO office between January 2027 – August 2027Must be enrolled at a university during the Fall 2026 semester (August 2026 – December 2026)Have a minimum 3.5 cumulative collegiate grade point average, on a 4.0 scale or the equivalent, at an accredited four-year college or universityAre business proficient in EnglishYou’ll excel as a Technology Analyst if you:Are curious with strong problem-solving skills and the desire to take ownership and drive solutions to completionPossess strong programming skills, such as Python, Java, C#, and C++SQL, RDBMS and data warehouse skills or experiencePossess superb interpersonal skills, including the ability to explain complex technical concepts to stakeholders across the firmHave the ability to work well independently and in a team environmentAs a PIMCO Tech intern, you’ll work on exciting projects such as: Developing and applying complex analytical methods to massive data sets in order to manage risk and search for alpha for clients Creating and improving internal applications used by the firm to execute investment strategies, manage risk and support our clientsBuilding tools and platforms to help portfolio managers leverage, analyze test data while harnessing and applying advances in big data analyticsStreamlining trade floor processes, trade executions and transaction costs, and identify new technologies to improve business valueThe PIMCO internship experience: The PIMCO Internship Program runs between Monday, June 8 – Friday, August 14, 2026, with the expectation that you will be available for the full duration of the programDuring Week 1, you’ll participate in PIMCO Fundamentals Training, providing you with the skills, knowledge, and relationships that will prepare you for successDuring Week 2, you will deep dive into the PIMCO’s technology ecosystem and enhance your developer skills through PIMCO Technology University (PTU) Intern BootcampYour supervisor, peer mentor, senior leaders and team offer guidance and mentorship throughout the summerAlongside your colleagues, participate in PIMCO's Global Month of Volunteering, developed to heighten the impact of our employees' worldwide volunteer effortsJoin us for a variety of cross-divisional education, networking & social events!Your supervisor, peer mentor, senior leaders and team offer guidance and mentorship throughout the summerYou’ll receive feedback at mid- and end-of-summer as part of a formal review process to keep you on the path to meeting your summer goalsWant to learn more? Hear about The PIMCO Internship Experience from past internsAs a PIMCO intern, you’ll receive competitive compensation, along with a transition bonus to help with relocation to one of our office locationsHow you should apply:Applications open mid-August 2025. We review applications on a rolling basis and encourage you to apply by submitting your resume as soon as you are ready.What to expect during the interview process: After we receive your application, we'll conduct an initial resume reviewFollowing the resume review, you will be required to complete a HackerRank challenge to showcase your technical skillsIf you pass the HackerRank challenge, you will have the opportunity to showcase your interests, skills, and personality by completing a one-way video interviewIf you are chosen to proceed after the video interview, you will then take a cognitive assessmentOnce you complete the assessment, you'll meet with PIMCO Technology staff during final-round interviews conducted live via video conference. You’ll have the chance to demonstrate your coding skills through an interactive HackerRank CodePair session while also highlighting your past experiences, problem-solving approaches, interpersonal, and technical skillsPIMCO is an equal opportunity employer committed to creating an inclusive, cognitively diverse environment.For more information on PIMCO and Career Opportunities, please visit www.pimco.com/careers/studentsPIMCO follows a total compensation approach when rewarding employees which includes a base salary and a discretionary bonus. Base salary is the fixed component of compensation that is determined by core job responsibilities, relevant experience, internal level, and market factors. The discretionary bonus is used to award performance and therefore is determined by company, business, team, and individual performance.Hourly Rate: $ 52.88Equal Employment Opportunity and Affirmative Action StatementPIMCO recruits and hires qualified candidates without regard to race, national origin, ancestry, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender (including gender identity and expression), age, military or veteran status, disability (physical or mental), any factor prohibited by law, and as such affirms in policy and practice to support and promote the concept of equal employment opportunity and affirmative action, in accordance with all applicable federal, state, provincial and municipal laws. The company also prohibits discrimination on other basis such as medical condition, or marital status under applicable laws.Applicants with DisabilitiesPIMCO is an Equal Employment Opportunity/Affirmative Action employer. We provide reasonable accommodation for qualified individuals with disabilities, including veterans, in job application procedures. If you have any difficulty using our online system due to a disability and you would like to request an accommodation, you may contact us at 949-720-7744 and leave a message. This is a dedicated line designed exclusively to assist job seekers with disabilities to apply online. Only messages left for this purpose will be considered. A response to your request may take up to two business days.",
       "job_apply_link": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105630",
       "job_posted_at_datetime_utc": "2025-08-30T02:15:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pimco-intern-technology-analyst-software-engineering-newport-beach"
+      "id": "pimco-intern-technology-analyst-software-engineering-newport-beach",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Hewlett Packard Enterprise",
       "job_city": "Houston",
       "job_state": "TX",
-      "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+      "job_description": "AI Developer Intern (Masters) This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description: Responsibilities:Will lead and contribute to the development of AI-driven analytics solutions focused on business performance and sales optimizationWork extensively with Databricks for scalable data engineering and Azure cloud services for model deployment, orchestration, and monitoringTranslate business requirements into scalable and performant technical solutions.Design, code, test, and assure the quality of complex AI-powered product features.Partner with a highly motivated and talented set of colleagues.Be a motivated, self-starter who can operate with minimal handholding.Collaborate across teams and time zones, demonstrating flexibility and accountability.Education and Experience Required: Currently pursuing a Master's degree in Computer Science, Data Science, Engineering, Applied Mathematics or a related technical field. Knowledge and Skills: Strong coding proficiency in Python and SQLDeep understanding of algorithmic thinking, data structures, and statistical modelingFamiliarity with machine learning frameworks (e.g., TensorFlow, PyTorch), Familiarity with large language models (LLMs), prompt engineering, fine-tuning techniques, and AI evaluation methodologies is essentialThe complexity and scale of the data pipelines, model integration, and performance optimization tasks require a candidate capable of architecting robust, production-ready solutions that directly impact strategic decision-making across the business.Additional Skills:What We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#internsJob:AdministrationJob Level:N/A States with Pay Range RequirementThe expected salary/wage range for a U.S.-based hire filling this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. If this is a sales role, then the listed salary range reflects combined base salary and target-level sales compensation pay. If this is a non-sales role, then the listed salary range reflects base salary only. Variable incentives may also be offered. Information about employee benefits offered can be found at https://myhperewards.com/main/new-hire-enrollment.html.USD Hourly: $40.00 - $46.00HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.",
       "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085",
       "job_posted_at_datetime_utc": "2025-08-30T00:29:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-ai-developer-intern-masters-houston"
+      "id": "hewlett-packard-enterprise-ai-developer-intern-masters-houston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -441,16 +265,18 @@
       "employer_name": "Hewlett Packard Enterprise",
       "job_city": "Houston",
       "job_state": "TX",
-      "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+      "job_description": "AI Developer Intern (Undergrad) This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description: What you’ll do:Responsibilities:Contribute to the development and deployment of AI-powered analytics solutions for business performance and sales insightsWork extensively with Databricks for scalable data engineering, and leverage Azure cloud services for model training, deployment, and orchestrationTranslate business requirements into scalable and performant technical solutions.Design, code, test, and assure the quality of complex AI-powered product features.Partner with a highly motivated and talented set of colleagues.Be a motivated, self-starter who can operate with minimal handholding.Collaborate across teams and time zones, demonstrating flexibility and accountability.Education and Experience Required: Currently pursuing a Bachelor's in Computer Science, Data Science, Engineering, Applied Mathematics or a related technical field. Knowledge and Skills (Preferred): Strong coding skills, particularly in Python and SQLSolid grasp of algorithmic thinking, data structures, and statistical modeling Familiarity with machine learning frameworks (e.g., TensorFlow, PyTorch), large language models (LLMs), prompt engineering, and AI evaluation methodologies is essentialThis role demands the ability to build robust, efficient pipelines and intelligent systems that directly support strategic decision-making across the businessAdditional Skills:What We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#internsJob:AdministrationJob Level:N/A States with Pay Range RequirementThe expected salary/wage range for a U.S.-based hire filling this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. If this is a sales role, then the listed salary range reflects combined base salary and target-level sales compensation pay. If this is a non-sales role, then the listed salary range reflects base salary only. Variable incentives may also be offered. Information about employee benefits offered can be found at https://myhperewards.com/main/new-hire-enrollment.html.USD Hourly: $35.00 - $40.25HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.",
       "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066",
       "job_posted_at_datetime_utc": "2025-08-30T00:17:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-ai-developer-intern-undergrad-houston"
+      "id": "hewlett-packard-enterprise-ai-developer-intern-undergrad-houston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -459,16 +285,18 @@
       "employer_name": "Appian",
       "job_city": "McLean",
       "job_state": "VA",
-      "job_description": "Join Appian in this exciting opportunity.",
+      "job_description": "Here at Appian, our values of Intensity and Excellence define who we are. We set high standards and live up to them, ensuring that everything we do is done with care and quality. We approach every challenge with ambition and commitment, holding ourselves and each other accountable to achieve the best results. When you join Appian, you’ll be part of a passionate team dedicated to accomplishing hard things, together. Here at Appian, we’re passionate about technology. We love making it, and we love using it. Joining Appian Engineering will provide you with the opportunity to learn in an environment that values cross-functional collaboration and is committed to personal and professional growth. We want to revolutionize the way people work, and in doing so, we develop the Appian platform to be simple so our customers can thrive. We’re looking for Software Engineering interns who are passionate about solving some of the most difficult technical challenges the industry faces today. We’re looking for interns who are not only adept at abstract problem solving but also want to be hands-on with fellow developers in one of the most fun, all-in, high-velocity environments you’ll ever experience. This internship is based at our headquarters in McLean, Virginia. Appian was built on a culture of in-person collaboration, which we believe is a key driver of our mission to be the best. Interns in this program are expected to be in the office 5 days a week to fully experience our culture, learn directly from peers and mentors, and contribute to projects in a collaborative environment. Being in the office provides more opportunities to connect, learn, and celebrate with the exceptional people across Appian. Applicants considered for Summer 2026 - Undergraduate Only To be successful in this role, you need: Previous industry software development experience and a passion for technology. Drive to dig into the code, pair program as needed, collaborate and present your features and proposals to real stakeholders. Team-oriented mindset and collaborative approach to delivering solutions. You’re also energetic, results and delivery oriented, and have a strong commitment to delivering quality work. Familiarity in object-oriented programming languages, such as Java & C++ Basic qualifications: Undergraduate student pursuing a Bachelor's degree in Computer Science, Information Technology, Computer Engineering or related field Strong analytical, communication, and problem solving skills Tools and Resources Training and Development: During onboarding, we focus on equipping new hires with the skills and knowledge for success through department-specific training. Continuous learning is a central focus at Appian, with dedicated mentorship and the First-Friend program being widely utilized resources for new hires. Growth Opportunities: Appian provides a diverse array of growth and development opportunities, including our leadership program tailored for new and aspiring managers, a comprehensive library of specialized department training through Appian University, skills based training, and tuition reimbursement for those aiming to advance their education. This commitment ensures that employees have access to a holistic range of development opportunities. Community: We’ll immerse you into our community rooted in respect starting on day one. Appian fosters inclusivity through our 8 employee-led affinity groups. These groups help employees build stronger internal and external networks by planning social, educational, and outreach activities to connect with Appianites and larger initiatives throughout the company. About Appian Appian is a software company that automates business processes. The Appian AI-Powered Process Platform includes everything you need to design, automate, and optimize even the most complex processes, from start to finish. The world's most innovative organizations trust Appian to improve their workflows, unify data, and optimize operations—resulting in better growth and superior customer experiences. For more information, visit appian.com. [Nasdaq: APPN] Follow Appian: LinkedIn. Appian is an equal opportunity employer that strives to attract and retain the best talent. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state, or local law. Appian provides reasonable accommodations to applicants in accordance with all applicable laws. If you need a reasonable accommodation for any part of the employment process, please contact us by email at ReasonableAccommodations@appian.com. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address. Appian's Applicant & Candidate Privacy Notice",
       "job_apply_link": "https://job-boards.greenhouse.io/appian/jobs/7201613",
       "job_posted_at_datetime_utc": "2025-08-29T23:47:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "appian-software-engineering-intern-mclean"
+      "id": "appian-software-engineering-intern-mclean",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -477,16 +305,18 @@
       "employer_name": "Cloudflare",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Cloudflare in this exciting opportunity.",
+      "job_description": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company. We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us! Available location(s): Austin, US About Cloudflare's Engineering Teams Anytime we push code, it automatically affects the millions of Internet properties (powering websites, remote teams, APIs, mobile apps, etc.) running on our global network. Cloudflare's network is one of the largest in the world and spans over 330 cities in more than 125 countries. What's more, Cloudflare operates within 50 milliseconds of 95% of the Internet-connected population globally (for context, the blink of an eye is 300-400 milliseconds!). We are passionate about making the Internet more secure, reliable, and faster for everyone. Cloudflare’s Engineering teams build and run the software that handles the massive amount of traffic that flows through our network. We also have teams that build the UI and control plane for our software, using modern patterns and libraries in a microservices-based architecture. Technologies include: Typescript/Javascript, Go, Rust, C/C++ and Python. About the Internship Program The ideal summer intern is passionate about making the Internet a better place. You will work alongside experienced engineers. You will push code this summer that touches hundreds of millions of web surfers. We like to get things done, so we are looking for interns who are curious, proactive, and able to complete projects. This is a great opportunity for engineers who want to learn to develop at Internet scale. What would you do as a Cloudflare intern? Ship and deliver projects over 12-16 weeks with autonomy and support. Work cross-functionally with various teams. Work closely with a mentor to guide you through the internship and help with career goals. Build your network across the company through our various in and out of office socials, networking programs, Employee Resource Group (ERG) programs, and Activity Groups. Present your project to the entire company at the end of the internship. Connect and learn from our executives and leadership team including our co-founders. Learn and develop skills through our professional development workshops. Write for our Cloudflare blog and be featured on Cloudflare.tv sessions. You can check out our internship blogs to learn more about our program and hear directly from our past interns. Examples of desirable skills, knowledge and experience Currently pursuing a degree or program in Computer Science, Engineering, Mathematics, Statistics or relevant field to the role. Demonstrated critical thinking skills and drive to learn and adapt new technologies. Curiosity, empathy and ability to get things done. Ability to commit to a minimum 12 week summer internship. In office 3-5 days a week in Austin, TX. Bonus: Demonstrated passion for software development, such as personal projects, open-source contributions, or experience with our developer platform using Cloudflare for Students. Please note We will be hiring interns through the fall and early spring on a rolling basis until all roles are filled. What Makes Cloudflare Special? We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet. Project Galileo: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost. Athenian Project: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states. 1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers. Sound like something you’d like to be a part of? We’d love to hear from you! This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license. Cloudflare is proud to be an equal opportunity employer. We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer. Cloudflare provides reasonable accommodations to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.",
       "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7206269",
       "job_posted_at_datetime_utc": "2025-08-29T22:44:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cloudflare-software-engineer-intern-austin"
+      "id": "cloudflare-software-engineer-intern-austin",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -495,16 +325,18 @@
       "employer_name": "Qorvo",
       "job_city": "Greensboro",
       "job_state": "NC",
-      "job_description": "Join Qorvo in this exciting opportunity.",
+      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet.Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Software Engineering Internships are offered in our High Performance Analog, Advanced Cellular, Connectivity and Sensors and Global Operations business groups. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Summary The intern will contribute to the improvement of diverse manufacturing Extract-Transform-Load (ETL) dataflows and support the development of applications that leverage this data. The intern will collaborate with cross-functional teams to identify opportunities for process optimization and ensure the reliability and scalability of data-driven solutions. Responsibilities may include: Assist in designing, developing, and optimizing ETL dataflows for manufacturing processes Support the maintenance and enhancement of applications that utilize manufacturing data Collaborate with cross-functional teams to gather requirements and implement data solutions Analyze data quality and integrity, identifying areas for improvement Document processes, workflows, and technical solutions for future reference Participate in troubleshooting and resolving issues related to dataflows and applications Qualifications: Currently enrolled in Information Systems, Computer Science, Engineering, or a related discipline with completion of at least two years of school prior to beginning of internship 3.0 GPA or higher Proficiency with at least one object-oriented scripting language (e.g., Python, C#, Ruby, etc.) Working proficiency with relational database design, SQL query construction, and stored procedures Familiarity with web and frontend frameworks (.NET, Django, React, Vue, etc.) Familiarity with file parsing, sharing and transfer mechanisms, XML/JSON file formats DevOps familiarity using GitLab or GitHub Effective oral and written communication skills Ability to work independently as well as in a collaborative, interdisciplinary team environment This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr-$42/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
       "job_apply_link": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1321603900/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-29T22:32:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "qorvo-software-engineer-intern-greensboro"
+      "id": "qorvo-software-engineer-intern-greensboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "Emergent Holdings ",
       "job_city": "Detroit",
       "job_state": "MI",
-      "job_description": "Join Emergent Holdings  in this exciting opportunity.",
+      "job_description": "The Internship Program at BCBSM is designed to enhance the skills and abilities of young professionals as well as to identify and attract future talent for our organization. Interns will gain practical hands-on work experience as well as a solid understanding of the health insurance industry. Our program is an excellent way for interns to get a good start on their careers by working on meaningful projects, learning valuable skills, and networking with employees throughout our organization, which could potentially allow interns to build a future career at BCBSM. - Assist in preparing information and research materials to identify business problems, offer recommendations and assist management with implementation of solutions. - Support leaders on projects designed to enhance the overall efficiency and effectiveness of the organization. - Develop and maintain a solid understanding of BCBSM business, products, programs, data, organizational structure, controls, research. - Analyze ...",
       "job_apply_link": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/13229",
       "job_posted_at_datetime_utc": "2025-08-29T22:30:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "emergent-holdings-summer-2026-intern-data-analytics-detroit"
+      "id": "emergent-holdings-summer-2026-intern-data-analytics-detroit",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Athelas",
       "job_city": "Mountain View",
       "job_state": "CA",
-      "job_description": "Join Athelas in this exciting opportunity.",
+      "job_description": "Join Athelas and help transform healthcare with AI-driven solutions. Explore careers in engineering, design, and operations to make a real impact.",
       "job_apply_link": "https://www.athelas.com/careers?ashby_jid=566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
       "job_posted_at_datetime_utc": "2025-08-29T20:41:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "athelas-software-engineering-intern-mountain-view"
+      "id": "athelas-software-engineering-intern-mountain-view",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-29T20:38:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ember-ai-full-stack-engineering-intern-san-francisco"
+      "id": "ember-ai-full-stack-engineering-intern-san-francisco",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T03:53:47.881Z",
     "postedAt": null
   },
   {
