@@ -21,186 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Qorvo",
-      "job_city": "Apopka",
-      "job_state": "FL",
-      "job_description": "Qorvo (Nasdaq: QRVO) supplies innovative semiconductor solutions that make a better world possible. We combine product and technology leadership, systems-level expertise and global manufacturing scale to quickly solve our customers' most complex technical challenges. Qorvo serves multiple high-growth segments of large global markets, including consumer electronics, smart home/IoT, automotive, EVs, battery-powered appliances, network infrastructure, healthcare and aerospace/defense. Visit www.qorvo.com to learn how our innovative team is helping connect, protect and power our planet. Qorvo’s Internship Program is designed for college students currently enrolled in an accredited Bachelor’s, Master’s, or PhD program. Qorvo offers real work experience, exposure to upper management, and the opportunity to pursue full-time opportunities, as available. Qorvo’s Internship Program offers: Challenging, skill-building assignments Mentoring and coaching from industry experts Launch & Learns and other learning opportunities Collaborative team-based work environment Networking and social events Final presentation to business leaders Qorvo’s Software Engineering, SWR Internships are offered in our Global Operations business group. Specific projects and responsibilities will be determined based on the business needs at the time of the internship assignment. Role Description: Qorvo's Software R&D team is seeking a talented Software Engineering Intern. The ideal candidate chosen for this role will work closely with mentors developing Design Automation and High-Performance Computing applications. The candidate will use Python, REST APIs, and SQL in conjunction with existing Software and APIs. Responsibilities may include: Creating custom Python applications Development of integrated GUI’s Software API call analysis and benchmarking Writing and maintaining unit tests Determining operational practicality Provide comprehensive support to internal customers; achieve resolution to outstanding problems, or issues Planning and writing efficient, well-structured code following documented best practices Qualifications: Degree: Computer Science (College of Engineering) Experience with SQL databases Good Python/C++ programming capabilities Length of internship (9 months availability: Full time first 3 months, part time last 6 months) Familiarity with version control utilizing Git Strong familiarity with the use of IDEs for development and troubleshooting Excellent debugging and problem-solving skills Strong understanding of algorithms and data-structures Excellent communication and interpersonal skills Self-motivated, independent, proactive, detail oriented, and responsible team-player This position is not eligible for visa sponsorship by the Company. Competitive hourly pay commensurate with experience: $31/hr-$42/hr (subject to change dependent on physical location). Posted salary ranges are made in good faith. Qorvo reserves the right to adjust ranges depending on the experience/qualification of the selected candidate as well as external competitiveness and internal comparability. Base compensation is one element of Total Rewards offered at Qorvo. More information on the Total Rewards package can be shared upon request. MAKE A DIFFERENCE AT QORVO We are Qorvo. We do more than create innovative RF and Power solutions for the mobile, defense and infrastructure markets – we are a place to innovate and shape the future of wireless communications. It starts with our employees. As a unified global team, we bring a commitment to excellence, growth and a passion for creating what's next. Explore the possibilities with us. We are an Equal Employment Opportunity (EEO) employer and welcome all qualified applicants. Applicants will receive fair and impartial consideration without regard to any characteristics protected by applicable law, including race, color, religion, sex (as defined by law), national origin, age, military or veteran status, genetic information, or disability.",
-      "job_apply_link": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern-FL-32703/1321433600/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-08-29T15:30:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "qorvo-software-engineering-intern-apopka",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:26:18.806Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Embedded",
-      "employer_name": "Garmin",
-      "job_city": "Olathe",
-      "job_state": "KS",
-      "job_description": "<p style=\"font-size:16px;\"><strong>Overview</strong></p><br><br><p style=\"margin: 0px;\">We are seeking a full-time <strong>Software Engineer Intern - Embedded</strong> for Summer 2026 in our Olathe, KS location. In this role, you will be responsible for learning and training to develop software for Garmin's communication and navigation products under supervision.</p> <p style=\"margin: 0px;\"><strong>Essential Functions</strong></p><ul><li>Learn to develop software using C, C++, C#, Java, assembly language, or other selected languages</li><li>Learn to test software using debuggers, emulators, simulators, and logic analyzers</li><li>Learn to perform software releases and software quality assurance activities</li><li>Learn to perform maintenance activities for products already in production in addition to new product software design</li></ul> <p style=\"margin: 0px;\"><strong>Basic Qualifications</strong></p><ul><li>Completed coursework in Computer Science, Electrical Engineering, Computer Engineering, or a related field</li><li>Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)</li><li>Must possess relevant experience and/or training in languages such as C, C++, C# or Java</li><li>Must possess relevant experience and/or training in data structures or object oriented design methodology</li></ul><p style=\"margin: 0px;\"><strong>Desired Qualifications</strong></p><ul><li>Outstanding academics (cumulative GPA greater than or equal to 3.5)</li><li>Previous experience working in a team environment</li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran status, age or disability.</em></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>This position is eligible for Garmin's intern program benefits. Details can be found here: <a href=\"https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A19c1a4b5-6896-3edf-aec6-36e8b242596d\" target=\"_blank\" rel=\"noopener\">Garmin Intern Benefits</a></em></p>",
-      "job_apply_link": "https://careers.garmin.com/jobs/16828/job",
-      "job_posted_at_datetime_utc": "2025-08-29T14:13:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "garmin-software-engineer-intern-embedded-olathe",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Web/DevOps",
-      "employer_name": "Garmin",
-      "job_city": "Olathe",
-      "job_state": "KS",
-      "job_description": "<p style=\"font-size:16px;\"><strong>Overview</strong></p><br><br><p style=\"margin: 0px;\">We are seeking a full-time <strong>Software Engineer Intern - Non-Embedded</strong> for Summer 2026 in our Olathe, KS location. In this role, you will be responsible for learning and training to develop software for Garmin's communication and navigation products under supervision.</p> <p style=\"margin: 0px;\"><strong>Essential Functions</strong></p><ul><li>Learn to develop software using C, C++, C#, Java, assembly language, or other selected languages</li><li>Learn to test software using debuggers, emulators, simulators, and logic analyzers</li><li>Learn to perform software releases and software quality assurance activities</li><li>Learn to perform maintenance activities for products already in production in addition to new product software design</li></ul> <p style=\"margin: 0px;\"><strong>Basic Qualifications</strong></p><ul><li>Completed coursework in Computer Science, Electrical Engineering, Computer Engineering, or a related field</li><li>Excellent academics (cumulative GPA greater than or equal to 3.0 as a general rule)</li><li>Must possess relevant experience and/or training in languages such as C, C++, C# or Java</li><li>Must possess relevant experience and/or training in data structures or object oriented design methodology</li></ul><p style=\"margin: 0px;\"><strong>Desired Qualifications</strong></p><ul><li>Outstanding academics (cumulative GPA greater than or equal to 3.5)</li><li>Previous experience working in a team environment</li></ul><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>Garmin International is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, citizenship, sex, sexual orientation, gender identity, veteran status, age or disability.</em></p><p style=\"margin: 0px;\">&nbsp;</p><p style=\"margin: 0px;\"><em>This position is eligible for Garmin's intern program benefits. Details can be found here: <a href=\"https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A19c1a4b5-6896-3edf-aec6-36e8b242596d\" target=\"_blank\" rel=\"noopener\">Garmin Intern Benefits</a></em></p>",
-      "job_apply_link": "https://careers.garmin.com/jobs/16829?lang=en-us",
-      "job_posted_at_datetime_utc": "2025-08-29T14:12:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "garmin-software-engineer-intern-web-devops-olathe",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Summer Data Analyst Intern",
-      "employer_name": "Altman Solon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Early careers & internships Student Opportunities Start your career in strategy consulting for the telecommunications, media, & technology sectors Apply now Learn more Join us Why Altman Solon? As a student, you're looking for a successful career – and Altman Solon offers you precisely that. You'll work on challenging and impactful projects alongside a diverse, high-performing team, tackling real-world problems for some of the most innovative companies and investors in the TMT industry. Benefit from direct mentorship and personalized support to accelerate your development. Our collaborative culture ensures that you'll thrive in a dynamic environment that fosters professional fulfillment and work-life balance. For Graduates The Altman Solon start for graduates Altman Solon has open consulting roles across our offices that are open to students who have completed their Bachelor’s or Master’s degree with high academic performance. Ideal candidates have also spent some time abroad, with fluency in English and preferably one other language. This opportunity allows you to collaborate across a global team, lead client engagements, receive mentorship, and pursue an MBA or Doctoral program with financial support from Altman Solon after you’ve worked with the firm for at least two years. Internship Opportunities Internships at Altman Solon Altman Solon offers internship opportunities for students pursuing their Bachelor’s and Master’s degrees. Students join the Altman Solon team for two to three months to support exciting client projects, engage in important business development initiatives, and explore what a career in consulting can look like. Our internships provide you with mentorship by an experienced consultant, exposure into the business of strategy consulting and the TMT industry, and experience contributing to client-facing work on one or two specific projects alongside a global team. Application Process Apply now & grow your career at Altman Solon We aim to make our application process as straightforward as possible to respect your time as a busy student. The timeline of your application process and the steps involved will depend on your geographical location. Here’s how you can apply and what to expect based on where you go to school. Apply now Americas The Analyst role is an entry-level position open to undergraduate students who are currently Seniors on track to graduate in December 2025 or spring of 2026 and Master’s degree students on track to graduate in December 2025 or spring of 2026.The Summer and Winter Analyst roles are internship roles open to undergraduate students who are on track to graduate in December 2026 or spring of 2027 and to Master’s degree students on track to graduate in December 2026 or spring of 2027.Both entry-level Analyst and Summer/Winter Analyst intern roles will open on Friday, August 8, 2025. Please see below for specific deadlines for applications: University of Southern California: Friday, September 5, 2025 at 11:59 p.m. PT Yale University: Monday, September 8, 2025 at 11:59 a.m. ET University of California, Los Angeles: Tuesday, September 9, 2025 at 11:59 p.m. PT Brown University: Thursday, September 11, 2025 at 11:59 p.m. ET University of California, Berkeley: Friday, September 12, 2025 at 11:59 p.m. PT Harvard University: Tuesday, September 16, 2025 at 11:59 p.m. ET Dartmouth College: Friday, September 19, 2025 at 11:59 p.m. ET All other schools: Monday, September 22, 2025 at 8:59 a.m. ET. Application instructions: Include your resume, cover letter, and transcript when submitting your application. Your application will not be considered if it is missing any of these items. Shortly after submitting your application, you will be sent a link to an online assessment. Completion of this assessment is required for your application to be considered complete. The assessment takes roughly 30 minutes to complete, and part of the assessment is timed. You will need to complete this assessment within 48 hours of the time you submit your application, so please plan accordingly. Our team will review applications throughout the month of September and will be in touch with those selected to interview. Summer/Winter Analyst interviews consist of one round: two 1-hour interviews, each featuring an interviewer-led case and a brief behavioral portion. Analyst interviews include two rounds: First round: two 1-hour interviews, each with an interviewer-led case and a brief behavioral portion. Final round: two 1-hour interviews (interviewer-led case and brief behavioral portion) plus one 45-minute, longer-form behavioral interview. We will extend offers on a rolling basis until the classes are filled. If you have any questions regarding your application, please email our team at campusrecruiting-americas@altmansolon.com APAC If you’re pursuing a Bachelor’s or Master’s degree in Sydney or Singapore, here are our campus timelines: Sydney: Graduate Roles: Applications open in January; interviews in March (2 rounds of 3 case study interviews). Summer Internships: Applications open in June; interviews in August (3 case study interviews). Internships run November-February (a minimum of 10 weeks). Singapore: Internships: Applications open in July for internships running January-December (a minimum of 10 weeks). Interviews include 3 case study interviews. Europe If you’re pursuing a Bachelor’s or Master’s degree and possess strong analytical skills, excellent communication abilities, and a collaborative spirit, our internship program is the perfect opportunity for you to gain real-world experience in the TMT sector. Prior experience is a plus, but not essential. We’re committed to providing comprehensive training and fostering your professional development. To apply, submit your CV through our online application portal. Following a review of your application by our team, successful candidates will participate in several interview rounds, including case studies and behavioral interviews, to assess their fit with our team and discuss the demands of the role. Internships at Altman Solon Join our team Since we began the internship program at Altman Solon, we’ve had hundreds of students around the world work with us to gain real-world exposure and develop the skills needed for a successful career. Many of our interns have gone on to work as consultants. But don’t take our word for it – learn why they chose to intern with Altman Solon and what they gained that helped elevate their professional trajectory. Testimonials Don't just take our word for it Since we began the internship program at Altman Solon, we’ve had more than XX students around the world work with us to gain real-world exposure and develop the skills needed for a successful career. Our interns have gone on to work as consultants, [add 2-3 more job titles]. But don’t take our word for it – learn why they chose to intern with Altman Solon and what they gained that helped elevate their professional trajectory. \"Ut paulo gloriatur pro. His solum altera delicata te, ne omnes ignota liberavisse eam. Eam cu homero diceret, te vero fuisset urbanitas eos. At pro nisl iusto.\" John Doe Chief Executive Officer | Company XYZ \"Ut paulo gloriatur pro. His solum altera delicata te, ne omnes ignota liberavisse eam. Eam cu homero diceret, te vero fuisset urbanitas eos. At pro nisl iusto, amet petentium deseruisse vis et. Te summo invidunt volutpat cum.\" John Doe Chief Executive Officer | Company XYZ \"Ut paulo gloriatur pro. His solum altera delicata te, ne omnes ignota liberavisse eam. Eam cu homero diceret.\" John Doe Chief Executive Officer | Company XYZ \"Ut paulo gloriatur pro. His solum altera delicata te, ne omnes ignota liberavisse eam. Eam cu homero diceret, te vero fuisset urbanitas eos. At pro nisl iusto, amet petentium deseruisse vis et. Te summo invidunt volutpat cum.\" John Doe Chief Executive Officer | Company XYZ Open Positions Find your next opportunity Jumpstart your career in professional consulting. Search for the perfect role using our job board by filtering positions by your location. If you don’t see a good match right now, be sure to check back frequently. We’re always adding new opportunities. Internship & Graduate Program FAQs Preparing for your start in consulting What’s the best way to prepare for my interview? Thorough preparation is essential for success in our interview process. Before your interview, we recommend you review the following: Case interview preparation: Familiarize yourself with the structure of case interviews, common frameworks, and effective problem-solving techniques. Behavioral questions: Prepare specific examples to demonstrate your problem-solving skills, your teamwork experience, and your capacity to adapt to challenging situations. Think about your motivation for TMT and strategy consulting in general. Company research: Understand our focus on the TMT sector, our client base, and our firm culture. We've created a helpful video to guide you through case preparation. Watch the video. What are the key skills and attributes you look for when recruiting interns? We seek individuals with strong analytical and problem-solving skills, excellent communication and presentation abilities, and a proven ability to work both independently and collaboratively. A passion for technology and an understanding of the TMT sector are beneficial. You can develop these skills through both internships and self-study. Consider participating in case preparations or seeking opportunities to develop your top-down communication skills. What does a typical day/week look like for an intern at Altman Solon? A typical day or week is dynamic and fast-paced, varying depending on project demands. You can expect to spend time analyzing data, conducting research, developing presentations, collaborating with team members, and engaging directly with clients. You'll be involved in a range of activities, from strategy development and market analysis to financial modeling and client presentations. The TMT sector is constantly evolving, so expect to work on cutting-edge projects and stay current with industry trends. What does career progression and professional development look like at Altman Solon, particularly for junior colleagues? At Altman Solon, we offer significant opportunities for career progression and professional development. Our flat organizational structure creates pathways for advancement, and we actively encourage continued growth and development for all our colleagues. What is the typical length of an internship? The length of our internships varies depending on academic calendars and local customs across our global offices. Generally, our internships range from two to six months. Specific program lengths will be confirmed during the application process for each location. Where in Europe and APAC can I meet Altman Solon at on-campus recruiting fairs? In Europe and APAC, you can meet us on campus at recruiting fairs at the following schools: Europe United Kingdom: University of Cambridge University of Oxford London School of Economics and Political Science (LSE) Netherlands: Maastricht University Erasmus University Rotterdam (EUR) Italy: Bocconi University Politecnico di Milano LUISS Guido Carli University France: HEC Paris ESSEC Business School CentraleSupélec Télécom Paris Germany: Ludwig Maximilian University of Munich (LMU) ESB Business School Reutlingen University of Mannheim Technical University of Munich (TUM) Switzerland: University of St. Gallen (HSG) ETH Zurich (Eidgenössische Technische Hochschule Zürich) APAC Singapore National University of Singapore Nanyang Technological University Singapore Management University Sydney University of Sydney, Australia University of Melbourne, Australia The Australian National University, Australia University of New South Wales, Australia The University of Auckland, New Zealand Looking to join Altman Solon as an experienced professional? Turn your knowledge into action that transforms. Learn more",
-      "job_apply_link": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4662186101",
-      "job_posted_at_datetime_utc": "2025-08-29T09:24:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "altman-solon-summer-data-analyst-intern-boston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Undergrad Software Engineer Intern – Oracle Cloud Infrastructure (OCI)",
-      "employer_name": "Oracle",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Must be enrolled in a university prior to and post internship. Target Internship Duration: May-Aug 2026 or June-Sept 2026 Location: this position is fully in office, in Seattle, WA.",
-      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996",
-      "job_posted_at_datetime_utc": "2025-08-29T08:58:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI)",
-      "employer_name": "Oracle",
-      "job_city": "Nashville",
-      "job_state": "TN",
-      "job_description": "Must be enrolled in a university prior to and post internship. Target Internship Duration: May-Aug 2026 or June-Sept 2026 Location: this position is fully in office, in Nashville, TN.",
-      "job_apply_link": "https://careers.oracle.com/en/sites/jobsearch/job/305998",
-      "job_posted_at_datetime_utc": "2025-08-29T08:57:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-nashville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern, Analytics Modelling",
-      "employer_name": "Brookfield Asset Management",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Brookfield Asset Management in this exciting opportunity.",
-      "job_apply_link": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Intern--Analytics-Modelling_R2045298",
-      "job_posted_at_datetime_utc": "2025-08-29T08:57:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "brookfield-asset-management-intern-analytics-modelling-new-york",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Analytics Intern",
-      "employer_name": "DriveTime",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "What’s Under the HoodDriveTime Family of Brands is the largest privately owned used car sales finance & servicing company in the nation. Headquartered in Tempe, Arizona and Dallas, Texas, we create opportunities and improve the lives of our customers and our employees by placing a focus on putting the right customer, in the right vehicle, on the right terms and on their path to ownership.The DriveTime Family of Brands spans across DriveTime, Bridgecrest and SilverRock. You can find us at the intersection of technology and innovation as we use our proprietary tools and over two decades of industry knowledge to redefine the process of purchasing, financing, and protecting your vehicle. That’s Nice, But What’s the Job?This is not a position for which sponsorship will be provided. Individuals with temporary visas or who need sponsorship now or in the future are not eligible for hire at this time. We are looking for Analytic Interns who possess a strong understanding of analytics and data principles for our Summer 2026 internship program. DriveTime Family of Brands is a highly data driven organization with several analytic departments. Our analytic interns could support one of the following verticals: Risk Analytics, Servicing Strategy & Analytics, Marketing Analytics, Supply Chain Analytics, SilverRock Analytics and Go-Fi Analytics.A successful candidate should have knowledge of data analysis tools such as SQL, Python, Tableau and Excel. Above all, the candidate should have a passion for uncovering actionable insights from data.The analytic interns will be responsible for things like:Conducting data analysis to generate meaningful insights from data setsBrainstorm ideas and provide creative solutions to challenges in data analysisParticipate in all phases of the analytic lifecycle, from research design, data collection and data processing to model building, deployment, and presentation of results.Innovate existing products and services while using technologies and data analysts to identify new opportunities to improve customer experience and profitability.Provide ad hoc analysis and special projects as required.So what are we looking for? Killer analytics and reporting abilities. You’ll need the capability to analyze data and in return, prepare timely reports on your findings.A mind for the details. Okay, we know “detail-oriented” is on about every job description – but we really mean it!Fantastic problem solver. Your job is not only to find the problem, but more importantly, find the solution.Agile in a fast-paced environment. We move, and we move quickly. Thriving in an environment that never stops, is a must.Intellectual curiosity. Why? What? How? Do you find yourself always wanting to learn more and broaden your knowledge base? If so, this could be the role for you!Excellent verbal and written communication skills. The ability to talk and write with confidence, charisma and competence for a wide variety of audiences including management.The Specifics. Bachelors or Master’s student with a graduation date between December 2026 – May 2027Pursuing a quantitative degree in mathematics, economics, finance, analytics, engineering, computer science or other STEM fieldsYou have a GPA of 3.5 or higherData analysis experienceWorking knowledge in SQL, Python, Tableau and ExcelOur internship program is 11 weeks starting May 2026 – August 2026Internships will be base out of our Home offices in Tempe, AZ and Dallas, TXYou can expect a regular on-site schedule; Monday-Friday, 40 hours per weekRelocation not provided for internshipSo What About the Perks? Perks matter.Not Just Coffee Runs. We’re talking real world experience. You’ll walk away from our internship program with hands-on experience, completed projects, full portfolios, and newly developed skills.Who Says You Have to Walk Away? Across both our Tempe, AZ and Dallas, TX offices, over 60% of our interns stay through the fall semester, return the following summer, or are brought on full-time after graduation.Growth & Development. You will be mentored by industry professionals, be given guidance along the way, and the tools to be successful.Philanthropy: Give for Good. We are proud to be difference makers in our communities. We dedicate time for our Interns to give back with us.Gratitude is Green. Out Internship Program is paid, because, well… money matters!In-House Gym. We want our employees to be the best versions of themselves. So come early, take a break in your day or finish strong with a workout!Give Us a Reason (or not), and We’ll Celebrate. Regardless of whether there is a holiday or not, we are finding ways to kick back and enjoy each other’s company outside of day-to-day work.Smart-Casual Dress. Come dressed in jeans (you’ll fit right in with the rest of us).Anything Else? Absolutely.DriveTime Family of Brands is Great Place to Work Certified! And get this: 90% of our rockstar employees say they feel right at home here. We could spend a lot of time having you read about ALL our awards, but we’ll save time (and practice some humility) just naming a few others; Comparably Awards: Best Company for Diversity, Best Company Culture and Best Company Leadership, oh and don’t forget Phoenix Business Journal Healthiest Employers (okay, we’ll stop there)!Hiring is contingent upon successful completion of our background and drug screening process. DriveTime is a drug-free, tobacco-free workplace and an Equal Opportunity Employer.And when it comes to hiring, we don't just look for the right person for the job, we seek out the right person for DriveTime. Buckle up for plenty of opportunities to grow in a professional, fun, and high-energy environment!",
-      "job_apply_link": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2026-_R13157",
-      "job_posted_at_datetime_utc": "2025-08-29T00:07:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "drivetime-analytics-intern-dallas",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
-      "job_posted_at_datetime_utc": "2025-08-28T23:41:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": "2025-12-15T05:04:23.555Z"
-  },
-  {
-    "job": {
       "job_title": "Data Automation Engineer Intern",
       "employer_name": "Marmon Holdings",
       "job_city": "Morton Grove",
@@ -214,10 +34,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T04:49:35.115Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -234,10 +54,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -254,10 +74,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -274,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -294,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -314,10 +134,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -334,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -354,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -374,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T05:03:55.489Z",
-    "postedAt": null
+    "postedAt": "2025-12-15T05:22:15.822Z"
   },
   {
     "job": {
@@ -410,11 +230,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T22:07:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-technologies-2026-summer-internship-marketing-data-science-analytics-corporate-and-business-services-ceo-vernon-hills"
+      "id": "zebra-technologies-2026-summer-internship-marketing-data-science-analytics-corporate-and-business-services-ceo-vernon-hills",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -423,16 +245,18 @@
       "employer_name": "Aflac",
       "job_city": "Columbus",
       "job_state": "GA",
-      "job_description": "Join Aflac in this exciting opportunity.",
+      "job_description": "Opportunity: 2026 Digital Services Intern Salary Range: $19.00 - $25.00 Company: Aflac Columbus Remote/Hybrid/On-Site: Hybrid/Remote Recruiter: Alisha Hargrove Job Posting Ending Date: Worker Designation – This role is hybrid. This means you will be expected to report to one of our Aflac offices located in Columbus, Ga for at least 60% of the work week. You will work from your home (within the continental US) for the remaining portion of the work week. Details of this schedule will be discussed with your leadership. What does it take to be successful at Aflac? Acting with Integrity Communicating Effectively Pursuing Self-Development Serving Customers Supporting Change Supporting Organizational Goals Working with Diverse Populations What will you be doing in this role? Basic administrative and organizational skills Strong written, verbal, analytical, and interpersonal skills Demonstrates acceptance of responsibility, flexibility in acceptance of assignments; exhibits dependability. Proficient in major PC applications, including Microsoft Office, Excel, and Internet access. Principal Duties & Responsibilities • Performs assigned duties under the direction of experienced personnel to gain knowledge and experience in preparation for full time professional opportunities within the Information Technology division • Provides assistance and works on specific projects in the following areas: computer operations, programming, software development/applications, analysis, and hardware; may assist with ad hoc projects related to the industry, and/or business unit processes • Collects, organizes, analyzes, and prepares reports for management; assist team in identifying process improvements • Continuously develops technical, analytical, project management, leadership, presentation, and other business skills by involvement in strategic projects and work assignments • Receives training and performs duties in Information Technology to become familiar with division functions, operations, management skills or style, and company policies and practices affecting each phase of business • Observes experienced personnel to acquire knowledge of methods, procedures, and standards required for performance of departmental duties • Participates in roundtable feedback discussions to interact with other participants and to offer program improvement ideas • Performs other duties as required Education & Experience Required High School Diploma or Equivalent Actively pursuing Bachelor's or Master’s degree in related field Or an equivalent combination of education and experience Total Rewards This compensation range is specific to the job level and takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to: education, experience, licensure, certifications, geographic location, and internal equity. The range has been created in good faith based on information known to Aflac at the time of the posting. Compensation decisions are dependent on the circumstances of each case. This salary range does not include any potential incentive pay or benefits, however, such information will be provided separately when appropriate. The salary range for this position is $19.00 to $25.00.",
       "job_apply_link": "https://careers.aflac.com/job/2026-Digital-Services-Intern-GA-31999/1320691100/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-27T16:06:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "aflac-2026-digital-services-intern-columbus"
+      "id": "aflac-2026-digital-services-intern-columbus",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -446,11 +270,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T14:54:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-intern-software-engineer-embedded-posted-date-orlando"
+      "id": "general-dynamics-intern-software-engineer-embedded-posted-date-orlando",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -464,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T14:49:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-software-engineer-intern-conversion-herndon"
+      "id": "general-dynamics-software-engineer-intern-conversion-herndon",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -482,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T14:45:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "crowdvolt-full-stack-engineer-intern-new-york"
+      "id": "crowdvolt-full-stack-engineer-intern-new-york",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -500,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T14:42:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zebra-software-engineering-handheld-mobile-computer-holtsville"
+      "id": "zebra-software-engineering-handheld-mobile-computer-holtsville",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -513,16 +345,18 @@
       "employer_name": "Vertiv",
       "job_city": "Delaware",
       "job_state": "OH",
-      "job_description": "Join Vertiv in this exciting opportunity.",
+      "job_description": "We are seeking a dedicated and proactive individual to join our firmware development engineering team as an software / firmware engineering Intern. This internship offers an excellent opportunity to gain hands-on experience in various aspects of embedded system development within our organization. The ideal candidate is passionate about developing unique code solutions to difficult engineering and control problems.",
       "job_apply_link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957",
       "job_posted_at_datetime_utc": "2025-08-27T14:37:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "vertiv-software-engineering-internship-delaware"
+      "id": "vertiv-software-engineering-internship-delaware",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -531,16 +365,18 @@
       "employer_name": "Vertiv",
       "job_city": "Delaware",
       "job_state": "OH",
-      "job_description": "Join Vertiv in this exciting opportunity.",
+      "job_description": "Vertiv designs, builds and services critical infrastructure that enables vital applications for data centers, communication networks and commercial and industrial facilities. We support today’s growing mobile and cloud computing markets with a portfolio of power, thermal and infrastructure management solutions. We offer unsurpassed global scale and broad expertise, built from our heritage as Emerson Network Power. And now as Vertiv, we match industry leadership with the focus and spirit of a startup.",
       "job_apply_link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913",
       "job_posted_at_datetime_utc": "2025-08-27T14:37:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "vertiv-firmware-engineering-internship-delaware"
+      "id": "vertiv-firmware-engineering-internship-delaware",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
@@ -554,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-27T14:34:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "the-hanover-associate-solutions-developer-worcester"
+      "id": "the-hanover-associate-solutions-developer-worcester",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-15T05:21:48.957Z",
     "postedAt": null
   },
   {
