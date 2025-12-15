@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T01:42:27.383Z",
+  "lastUpdated": "2025-12-15T02:34:04.100Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -7162,14 +7162,113 @@
       "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492802",
       "discordThreadId": "1449939627208343727",
       "instanceNumber": 1
+    },
+    {
+      "id": "hartford-financial-services-operations-analytics-intern-charlotte-2025-12-15-1",
+      "jobId": "hartford-financial-services-operations-analytics-intern-charlotte",
+      "company": "Hartford Financial Services",
+      "title": "Operations & Analytics Intern",
+      "postedToDiscord": "2025-12-15T02:33:41.203Z",
+      "sourceDate": "2025-09-02T22:35:04.000Z",
+      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Ops-Program-Summer-2026---Operations---Analytics-Intern--Charlotte--_R2522282",
+      "discordThreadId": "1449952520058310686",
+      "instanceNumber": 1
+    },
+    {
+      "id": "p-g-careers-data-scientist-internship-masters-degree-cincinnati-2025-12-15-1",
+      "jobId": "p-g-careers-data-scientist-internship-masters-degree-cincinnati",
+      "company": "P&G Careers",
+      "title": "Data Scientist – Internship - Masters Degree",
+      "postedToDiscord": "2025-12-15T02:33:42.885Z",
+      "sourceDate": "2025-09-02T21:08:21.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
+      "discordThreadId": "1449952527226507284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hartford-financial-services-tech-ops-program-summer-2026-operations-analytics-intern-hartford-2025-12-15-1",
+      "jobId": "hartford-financial-services-tech-ops-program-summer-2026-operations-analytics-intern-hartford",
+      "company": "Hartford Financial Services",
+      "title": "Tech & Ops Program Summer 2026 – Operations & Analytics Intern",
+      "postedToDiscord": "2025-12-15T02:33:47.710Z",
+      "sourceDate": "2025-09-02T22:34:58.000Z",
+      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Ops-Program-Summer-2026---Operations---Analytics-Intern--Hartford-_R2522281-1",
+      "discordThreadId": "1449952547413561456",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-technology-intern-summer-2026-sharonville-2025-12-15-1",
+      "jobId": "hntb-technology-intern-summer-2026-sharonville",
+      "company": "HNTB",
+      "title": "Technology Intern - Summer 2026",
+      "postedToDiscord": "2025-12-15T02:33:52.482Z",
+      "sourceDate": "2025-09-02T18:56:45.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Cleveland-OH/Technology-Intern---Summer-2026_R-27305-1",
+      "discordThreadId": "1449952567420391516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-phd-autonomous-vehicles-research-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-phd-autonomous-vehicles-research-santa-clara",
+      "company": "NVIDIA",
+      "title": "PhD Autonomous Vehicles Research",
+      "postedToDiscord": "2025-12-15T02:33:57.229Z",
+      "sourceDate": "2025-09-02T15:08:41.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244",
+      "discordThreadId": "1449952587359981691",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-phd-computer-vision-and-deep-learning-research-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-phd-computer-vision-and-deep-learning-research-santa-clara",
+      "company": "NVIDIA",
+      "title": "PhD Computer Vision and Deep Learning Research",
+      "postedToDiscord": "2025-12-15T02:33:58.909Z",
+      "sourceDate": "2025-09-02T15:08:36.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241",
+      "discordThreadId": "1449952594402480249",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-software-engineering-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-software-engineering-santa-clara",
+      "company": "NVIDIA",
+      "title": "Software Engineering",
+      "postedToDiscord": "2025-12-15T02:34:00.601Z",
+      "sourceDate": "2025-09-02T15:08:30.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
+      "discordThreadId": "1449952601427804355",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-nvidia-internships-phd-graphics-and-simulation-research-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-nvidia-internships-phd-graphics-and-simulation-research-santa-clara",
+      "company": "NVIDIA",
+      "title": "NVIDIA Internships: PhD Graphics and Simulation Research",
+      "postedToDiscord": "2025-12-15T02:34:02.282Z",
+      "sourceDate": "2025-09-02T15:08:28.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242",
+      "discordThreadId": "1449952608146948137",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-nvidia-2026-internships-phd-generative-ai-research-santa-clara-2025-12-15-1",
+      "jobId": "nvidia-nvidia-2026-internships-phd-generative-ai-research-santa-clara",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
+      "postedToDiscord": "2025-12-15T02:34:04.100Z",
+      "sourceDate": "2025-09-02T15:08:21.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228",
+      "discordThreadId": "1449952615520669747",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 651,
+    "totalJobs": 660,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T01:42:27.383Z",
+      "date": "2025-12-15T02:34:04.100Z",
       "archived": 0
     }
   }
