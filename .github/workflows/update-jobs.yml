@@ -128,19 +128,9 @@ jobs:
         DISCORD_SUPPLY_CHANNEL_ID: "1429366422613786674"
         DISCORD_PM_CHANNEL_ID: "1429366331836207126"
         DISCORD_HR_CHANNEL_ID: "1429366524459745401"
-        # Location-specific channels (shared with New-Grad-Jobs)
-        DISCORD_REMOTE_USA_CHANNEL_ID: ${{ secrets.DISCORD_REMOTE_USA_CHANNEL_ID }}
-        DISCORD_NY_CHANNEL_ID: ${{ secrets.DISCORD_NY_CHANNEL_ID }}
-        DISCORD_AUSTIN_CHANNEL_ID: ${{ secrets.DISCORD_AUSTIN_CHANNEL_ID }}
-        DISCORD_CHICAGO_CHANNEL_ID: ${{ secrets.DISCORD_CHICAGO_CHANNEL_ID }}
-        DISCORD_SEATTLE_CHANNEL_ID: ${{ secrets.DISCORD_SEATTLE_CHANNEL_ID }}
-        DISCORD_REDMOND_CHANNEL_ID: ${{ secrets.DISCORD_REDMOND_CHANNEL_ID }}
-        DISCORD_MV_CHANNEL_ID: ${{ secrets.DISCORD_MV_CHANNEL_ID }}
-        DISCORD_SF_CHANNEL_ID: ${{ secrets.DISCORD_SF_CHANNEL_ID }}
-        DISCORD_SUNNYVALE_CHANNEL_ID: ${{ secrets.DISCORD_SUNNYVALE_CHANNEL_ID }}
-        DISCORD_SAN_BRUNO_CHANNEL_ID: ${{ secrets.DISCORD_SAN_BRUNO_CHANNEL_ID }}
-        DISCORD_BOSTON_CHANNEL_ID: ${{ secrets.DISCORD_BOSTON_CHANNEL_ID }}
-        DISCORD_LA_CHANNEL_ID: ${{ secrets.DISCORD_LA_CHANNEL_ID }}
+        # Location-specific channels: DISABLED for Internships repo
+        # Internships post ONLY to category channels (tech-internships, ai-internships, etc.)
+        # Location channels are exclusive to New-Grad-Jobs repo to prevent cross-posting
 
     - name: 🔍 AFTER bot - Hash posted_jobs.json
       id: after-hash
