@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T05:04:20.543Z",
+  "lastUpdated": "2025-12-15T05:22:12.811Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -7756,14 +7756,113 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
       "discordThreadId": "1449990433651425463",
       "instanceNumber": 1
+    },
+    {
+      "id": "marmon-holdings-data-automation-engineer-intern-morton-grove-2025-12-15-1",
+      "jobId": "marmon-holdings-data-automation-engineer-intern-morton-grove",
+      "company": "Marmon Holdings",
+      "title": "Data Automation Engineer Intern",
+      "postedToDiscord": "2025-12-15T05:21:52.946Z",
+      "sourceDate": "2025-08-28T23:31:57.000Z",
+      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Skokie-IL/Data-Automation-Engineer-Intern_JR0000037416-2",
+      "discordThreadId": "1449994848068309022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-2025-intern-conversion-2026-ft-data-analyst-ii-transportation-bentonville-2025-12-15-1",
+      "jobId": "walmart-2025-intern-conversion-2026-ft-data-analyst-ii-transportation-bentonville",
+      "company": "Walmart",
+      "title": "2025 Intern Conversion - 2026 FT: Data Analyst II, Transportation",
+      "postedToDiscord": "2025-12-15T05:21:54.636Z",
+      "sourceDate": "2025-08-28T07:59:54.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Bentonville-AR/XMLNAME-2025-Intern-Conversion---2026-FT--Data-Analyst-II--Transportation_R-2273146",
+      "discordThreadId": "1449994855030853725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineering-intern-san-francisco-2025-12-15-1",
+      "jobId": "samsara-software-engineering-intern-san-francisco",
+      "company": "Samsara",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-15T05:21:56.305Z",
+      "sourceDate": "2025-08-28T06:56:04.000Z",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7179025",
+      "discordThreadId": "1449994862119096484",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-tpg-global-ie-boise-2025-12-15-1",
+      "jobId": "micron-technology-intern-tpg-global-ie-boise",
+      "company": "Micron Technology",
+      "title": "Intern – TPG Global IE",
+      "postedToDiscord": "2025-12-15T05:22:01.251Z",
+      "sourceDate": "2025-08-28T16:36:12.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902",
+      "discordThreadId": "1449994882029584437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-returning-technology-intern-summer-2026-great-lakes-division-for-current-former-hntb-interns-only-madison-2025-12-15-1",
+      "jobId": "hntb-returning-technology-intern-summer-2026-great-lakes-division-for-current-former-hntb-interns-only-madison",
+      "company": "HNTB",
+      "title": "Returning Technology Intern-Summer 2026 – Great Lakes Division-For Current/Former HNTB Interns Only",
+      "postedToDiscord": "2025-12-15T05:22:02.927Z",
+      "sourceDate": "2025-08-27T22:44:12.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Milwaukee-WI-East-Wisconsin-Avenue/Returning-Technology-Intern--Summer-2026--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-27215-2",
+      "discordThreadId": "1449994889923395605",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dma-software-development-intern-fort-wayne-2025-12-15-1",
+      "jobId": "dma-software-development-intern-fort-wayne",
+      "company": "DMA",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-15T05:22:07.668Z",
+      "sourceDate": "2025-08-28T08:11:31.000Z",
+      "sourceUrl": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2026_REQ124",
+      "discordThreadId": "1449994909221261314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "epic-games-engine-software-engineer-intern-cary-2025-12-15-1",
+      "jobId": "epic-games-engine-software-engineer-intern-cary",
+      "company": "Epic Games",
+      "title": "Engine Software Engineer Intern",
+      "postedToDiscord": "2025-12-15T05:22:09.419Z",
+      "sourceDate": "2025-08-28T08:09:41.000Z",
+      "sourceUrl": "https://www.epicgames.com/site/en-US/careers/jobs/5623220004",
+      "discordThreadId": "1449994916842180659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crowe-ai-functional-intern-chicago-2025-12-15-1",
+      "jobId": "crowe-ai-functional-intern-chicago",
+      "company": "Crowe",
+      "title": "AI Functional Intern",
+      "postedToDiscord": "2025-12-15T05:22:11.163Z",
+      "sourceDate": "2025-08-28T08:03:18.000Z",
+      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-50098",
+      "discordThreadId": "1449994924123750471",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zebra-technologies-2026-summer-internship-software-engineer-mobile-computing-corporate-and-business-services-ceo-lake-grove-2025-12-15-1",
+      "jobId": "zebra-technologies-2026-summer-internship-software-engineer-mobile-computing-corporate-and-business-services-ceo-lake-grove",
+      "company": "Zebra Technologies",
+      "title": "2026 Summer Internship - Software Engineer Mobile Computing - Corporate and Business Services - CEO",
+      "postedToDiscord": "2025-12-15T05:22:12.811Z",
+      "sourceDate": "2025-08-27T22:07:05.000Z",
+      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343627880313",
+      "discordThreadId": "1449994931224576061",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 705,
+    "totalJobs": 714,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T05:04:20.543Z",
+      "date": "2025-12-15T05:22:12.811Z",
       "archived": 0
     }
   }
