@@ -1,0 +1,95 @@
+name: Cleanup Test Jobs
+
+on:
+  workflow_dispatch: # Manual trigger only
+    inputs:
+      dry_run:
+        description: 'Dry run (preview only, no deletion)'
+        required: false
+        type: boolean
+        default: true
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Remove test jobs from posted_jobs.json (V2 format)
+      run: |
+        echo "🧹 Cleaning test jobs from posted_jobs.json (V2 format)..."
+
+        # Read current file
+        POSTED_FILE=".github/data/posted_jobs.json"
+
+        if [ ! -f "$POSTED_FILE" ]; then
+          echo "❌ File not found: $POSTED_FILE"
+          exit 1
+        fi
+
+        # Count before
+        BEFORE_COUNT=$(node -e "const data = require('./$POSTED_FILE'); console.log(data.jobs ? data.jobs.length : 0);")
+        echo "📊 Jobs before cleanup: $BEFORE_COUNT"
+
+        # Filter out test jobs (V2 format)
+        node << 'EOF'
+        const fs = require('fs');
+        const posted = require('./.github/data/posted_jobs.json');
+
+        // V2 format: { version: 2, jobs: [...], metadata: {...} }
+        if (posted.version === 2 && Array.isArray(posted.jobs)) {
+          const beforeCount = posted.jobs.length;
+          posted.jobs = posted.jobs.filter(job => {
+            // Remove jobs with IDs starting with 'test-'
+            return !job.id.startsWith('test-') &&
+                   !job.jobId.startsWith('test-') &&
+                   !job.company.toLowerCase().includes('test-company');
+          });
+          const afterCount = posted.jobs.length;
+          const removed = beforeCount - afterCount;
+
+          console.log(`✅ Removed ${removed} test jobs`);
+          console.log(`📊 Jobs after cleanup: ${afterCount}`);
+
+          if (process.env.DRY_RUN === 'false') {
+            fs.writeFileSync('.github/data/posted_jobs.json', JSON.stringify(posted, null, 2));
+            console.log('💾 Changes saved to file');
+          } else {
+            console.log('🔍 DRY RUN - No changes saved');
+          }
+        } else {
+          console.error('❌ Unexpected file format (not V2)');
+          process.exit(1);
+        }
+        EOF
+      env:
+        DRY_RUN: ${{ inputs.dry_run }}
+
+    - name: Commit changes (if not dry run)
+      if: ${{ inputs.dry_run == false }}
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add .github/data/posted_jobs.json
+        git diff --cached --quiet || git commit -m "chore: cleanup test jobs from posted_jobs.json"
+        git push
+
+    - name: Summary
+      run: |
+        if [ "${{ inputs.dry_run }}" == "true" ]; then
+          echo "✅ Dry run complete - review changes above"
+          echo "💡 To actually remove test jobs, re-run with dry_run=false"
+        else
+          echo "✅ Test jobs removed and pushed to repository"
+        fi
