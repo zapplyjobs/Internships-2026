@@ -1,0 +1,24 @@
+{
+  "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Skokie-IL/Data-Automation-Engineer-Intern_JR0000037416-2",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Wells Lamont LLCAs a part of the global industrial organization Marmon Holdings—which is backed by Berkshire Hathaway—you’ll be doing things that matter, leading at every level, and winning a better way. We’re committed to making a positive impact on the world, providing you with diverse learning and working opportunities, and fostering a culture where everyone’s empowered to be their best.Summary of Responsibilities:As a Data Automation Engineer Intern, you will work hands-on with real company data and support multiple departments by building and maintaining automation solutions. Your primary focus will be on Python and SQL development, with exposure to BI reporting and executable deployment. This position will report directly to the Data Engineer/Business Intelligence Specialist but will have exposure to the wider business teams. Interns will complete a capstone type project over the summer culminating in a presentation to business leadership. Key Projects (Summer 2026)Python Automation: Develop and maintain automation scripts for cross-department processes (file handling, scheduled jobs, API calls, Data Pipelines, etc.).Executable Deployment: The potential to package Python scripts into executable (.exe) files for ease of distribution and use.Database Work: Write and optimize SQL queries within MySQL to extract, validate, and analyze data.Version Control: Use Git/GitHub for collaborative development and source code management.Special Projects: Support supervisor-directed projects and ad-hoc initiatives.Required Education and Experience:Pursuing an undergraduate (or Graduate) degree in Mathematics, Computer Science, Data Science, Informational Systems, or related fieldRising junior status or aboveKnowledge of Python (required); prior experience automating tasks is a plus.Knowledge of SQL (highly preferred); experience with MySQL strongly preferred.Familiarity with Git and GitHub (preferred).Knowledge of Power BI or other data visualization tools (preferred).Understanding of relational database concepts (preferred).Demonstrated leadership & academic achievement in student & extracurricular activitiesAdaptability & ability to work independentlyStrong analytical, problem solving, and critical thinking skillsExcellent organizational skillsCollaborated well in both one-on-one and teamwork settingsGPA of 3.65+ (preferable major related)No previous experience requiredCertain peak periods may provide opportunity for overtime. This is a paid position. The summer internship will run for 12 weeks from May to August. Exact dates flexible based on school schedules.We are an equal opportunity employer, and all applicants will be considered for employment without attention to their membership in any protected class. If you require any reasonable accommodation to complete your application or any part of the recruiting process, please email your request to careers@marmon.com, and please be sure to include the title and the location of the position for which you are applying.Pay Range:19.20 - 28.80We offer a comprehensive benefits package that may include medical, dental, vision, 401k matching, and more!Following receipt of a conditional offer of employment, candidates will be required to complete additional job-related screening processes as permitted or required by applicable law.We are an equal opportunity employer, and all applicants will be considered for employment without attention to their membership in any protected class. If you require any reasonable accommodation to complete your application or any part of the recruiting process, please email your request to careers@marmon.com, and please be sure to include the title and the location of the position for which you are applying.",
+    "requirements": [
+      "Pursuing an undergraduate (or Graduate) degree in Mathematics, Computer Science, Data Science, Informational Systems, or related field",
+      "Knowledge of Python (required); prior experience automating tasks is a plus.",
+      "No previous experience required"
+    ],
+    "responsibilities": [
+      "Python Automation: Develop and maintain automation scripts for cross-department processes (file handling, scheduled jobs, API calls, Data Pipelines, etc.).",
+      "Version Control: Use Git/GitHub for collaborative development and source code management.",
+      "Collaborated well in both one-on-one and teamwork settings"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Skokie-IL/Data-Automation-Engineer-Intern_JR0000037416-2",
+      "fetchedAt": "2025-12-15T04:49:35.114Z"
+    }
+  },
+  "cachedAt": 1765774175114
+}
