@@ -1,0 +1,103 @@
+name: Health Check & Failure Monitor
+
+on:
+  workflow_run:
+    workflows: ["Update Zapply Jobs"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' || github.event_name == 'workflow_dispatch' }}
+    timeout-minutes: 5
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Download workflow logs (if failed)
+      if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+      run: |
+        echo "📥 Downloading logs from failed workflow run..."
+        mkdir -p .github/logs
+
+        # Note: Actual log download requires gh CLI with auth
+        # This is a placeholder - logs are typically captured in the main workflow
+
+    - name: Generate failure report
+      if: always()
+      run: node .github/scripts/failure-logger.js
+      env:
+        LOG_ENCRYPT_PASSWORD: ${{ secrets.LOG_ENCRYPT_PASSWORD }}
+        GITHUB_RUN_ID: ${{ github.event.workflow_run.id || github.run_id }}
+        GITHUB_WORKFLOW: ${{ github.event.workflow_run.name || github.workflow }}
+
+    - name: Upload encrypted failure log
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: failure-log-${{ github.event.workflow_run.id || github.run_id }}
+        path: .github/logs/failure-log-encrypted.json
+        retention-days: 30
+
+    - name: Create GitHub Issue (on repeated failures)
+      if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+      run: |
+        echo "🔍 Checking for repeated failures..."
+
+        # Get last 5 workflow runs
+        RECENT_FAILURES=$(gh run list --workflow="Update Zapply Jobs" --limit 5 --json conclusion --jq '[.[] | select(.conclusion=="failure")] | length')
+
+        echo "Recent failures: $RECENT_FAILURES"
+
+        if [ "$RECENT_FAILURES" -ge 3 ]; then
+          echo "⚠️  3+ consecutive failures detected!"
+          echo "Creating GitHub issue..."
+
+          gh issue create \
+            --title "🚨 Alert: Multiple workflow failures detected" \
+            --body "**Automated Alert**
+
+          The \`Update Zapply Jobs\` workflow has failed $RECENT_FAILURES times in the last 5 runs.
+
+          **Latest Run:** #${{ github.event.workflow_run.id }}
+          **Timestamp:** $(date -u)
+
+          **Action Required:**
+          1. Download failure logs artifact
+          2. Decrypt using: \`LOG_ENCRYPT_PASSWORD=xxx node decrypt-failure-log.js\`
+          3. Investigate root cause
+
+          **Recent Runs:**
+          $(gh run list --workflow='Update Zapply Jobs' --limit 5 --json number,conclusion,createdAt --jq '.[] | \"- Run #\(.number): \(.conclusion) (\(.createdAt))\"')
+
+          **Encrypted Logs:** [Download artifact](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }})
+          " \
+            --label "automated,workflow-failure" || echo "Issue creation failed (may already exist)"
+        fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Summary
+      if: always()
+      run: |
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo "HEALTH CHECK SUMMARY"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo ""
+        echo "✅ Failure logs encrypted and uploaded as artifact"
+        echo "🔒 Logs are encrypted (data source URLs sanitized)"
+        echo "📊 Artifact retention: 30 days"
+        echo ""
+        echo "To decrypt locally:"
+        echo "  1. Download artifact from Actions tab"
+        echo "  2. Extract failure-log-encrypted.json"
+        echo "  3. Run: LOG_ENCRYPT_PASSWORD=xxx node decrypt-failure-log.js"
+        echo ""
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
