@@ -92,3 +92,7 @@ G/
 
 # Include .github/scripts for linting (override default ignore)
 !.github/
+
+# Prevent internal analysis documents from being committed
+*ANALYSIS*.md
+*ARCHITECTURE*.md
