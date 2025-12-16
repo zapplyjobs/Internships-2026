@@ -1,14 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 const { fetchAllJobs } = require('../unified-job-fetcher');
-const { 
-    companies, 
-    ALL_COMPANIES, 
-    COMPANY_BY_NAME, 
+const {
+    companies,
+    ALL_COMPANIES,
+    COMPANY_BY_NAME,
     generateJobId,
     migrateOldJobId,
-    normalizeCompanyName, 
-    getCompanyEmoji, 
+    normalizeCompanyName,
+    getCompanyEmoji,
     getCompanyCareerUrl,
     formatTimeAgo,
     isJobOlderThanWeek,
@@ -16,13 +16,16 @@ const {
     getExperienceLevel,
     getJobCategory,
     formatLocation,
-    delay 
+    delay
 } = require('./utils');
 
 const { convertDateToRelative } = require('../../../jobboard/src/backend/output/jobTransformer.js');
 
 // Description fetcher service
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
+
+// Deduplication logger
+const DeduplicationLogger = require('../deduplication-logger');
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
@@ -671,8 +674,11 @@ function loadPostedJobsStore() {
 // Main job processing function
 async function processJobs() {
     console.log('🚀 Starting job processing...');
-    
+
     try {
+        // Initialize deduplication logger
+        const dedupLogger = new DeduplicationLogger();
+
         // Load posted jobs for accurate deduplication
         // Use posted_jobs.json (what we've successfully posted to Discord)
         // instead of seen_jobs.json (what we've fetched from APIs)
@@ -681,7 +687,7 @@ async function processJobs() {
 
         // Load job dates store
         const jobDatesStore = loadJobDatesStore();
-        
+
         // Fetch jobs from PRIMARY_DATA_SOURCE_URL (SimplifyJobs)
         const allJobs = await fetchAllJobs();
         
@@ -743,9 +749,18 @@ async function processJobs() {
 
         // STEP 2: Filter for truly NEW jobs (deduplication against BOTH seen_jobs.json AND queue)
         // This ensures we don't add the same job to queue multiple times
-        const freshJobs = currentJobs.filter(job =>
-            !seenIds.has(job.id) && !queueIds.has(job.id)
-        );
+        // Log EVERY deduplication check for debugging
+        const freshJobs = currentJobs.filter(job => {
+            const isInSeen = seenIds.has(job.id);
+            const isInQueue = queueIds.has(job.id);
+            const isDuplicate = isInSeen || isInQueue;
+
+            // Log this check
+            const reason = isInSeen ? 'seen_jobs' : (isInQueue ? 'pending_queue' : null);
+            dedupLogger.logCheck(job, job.id, isDuplicate, null, reason);
+
+            return !isDuplicate;
+        });
 
         console.log(`📊 Processing summary: ${allJobs.length} total jobs, ${currentJobs.length} current (< 1 week old), ${freshJobs.length} new (not seen AND not in queue)`);
 
@@ -841,16 +856,46 @@ async function processJobs() {
         
         // Calculate archived jobs
         const archivedJobs = sortedJobs.filter(j => isJobOlderThanWeek(j.job_posted_at));
-        
+
         console.log(`✅ Job processing complete - ${currentJobs.length} current, ${archivedJobs.length} archived`);
-        
+
+        // Save deduplication logs
+        dedupLogger.save();
+
+        // Save structured job fetch summary
+        try {
+            const logsDir = path.join(process.cwd(), '.github', 'logs');
+            fs.mkdirSync(logsDir, { recursive: true });
+
+            const summaryPath = path.join(logsDir, `job-fetch-summary-${new Date().toISOString().split('T')[0]}.json`);
+            const summary = {
+                timestamp: new Date().toISOString(),
+                total_fetched: allJobs.length,
+                current_jobs: currentJobs.length,
+                archived_jobs: archivedJobs.length,
+                fresh_jobs: freshJobs.length,
+                duplicates_filtered: allJobs.length - freshJobs.length,
+                queue_status: {
+                    total: queue.length,
+                    pending: queue.filter(i => i.status === 'pending').length,
+                    enriched: queue.filter(i => i.status === 'enriched').length,
+                    posted: queue.filter(i => i.status === 'posted').length
+                }
+            };
+
+            fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
+            console.log(`📊 Job fetch summary saved: ${summaryPath}`);
+        } catch (error) {
+            console.error('⚠️ Error saving job fetch summary:', error.message);
+        }
+
         return {
             currentJobs,
             archivedJobs,
             freshJobs,
             stats: generateCompanyStats(currentJobs)
         };
-        
+
     } catch (error) {
         console.error('❌ Error in job processing:', error);
         throw error;

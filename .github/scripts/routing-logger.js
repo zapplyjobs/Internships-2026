@@ -21,8 +21,9 @@ class RoutingLogger {
    * @param {string} channelId - Discord channel ID
    * @param {string} channelName - Discord channel name
    * @param {Object} locationInfo - Optional location channel info
+   * @param {Object} allMatches - All pattern matches (AI, DS, Tech, Non-Tech) for debugging
    */
-  logRouting(job, category, matchedKeyword, channelId, channelName, locationInfo = null) {
+  logRouting(job, category, matchedKeyword, channelId, channelName, locationInfo = null, allMatches = null) {
     const entry = {
       timestamp: new Date().toISOString(),
       job_title: job.job_title,
@@ -41,6 +42,11 @@ class RoutingLogger {
       entry.location_state = job.job_state;
     }
 
+    // Add ALL pattern matches for debugging multi-category jobs
+    if (allMatches) {
+      entry.all_matches = allMatches;
+    }
+
     this.routingLog.push(entry);
 
     // Console output for immediate visibility
@@ -49,6 +55,13 @@ class RoutingLogger {
     console.log(`   Channel: ${channelName} (${channelId.substring(0, 4)}...${channelId.substring(channelId.length - 4)})`);
     if (locationInfo) {
       console.log(`   Location: ${locationInfo.channelName} (${job.job_city}, ${job.job_state})`);
+    }
+    // Show ALL matches if multiple patterns matched (potential routing conflict)
+    if (allMatches) {
+      const matchedPatterns = Object.entries(allMatches).filter(([_, v]) => v !== null).map(([k, _]) => k);
+      if (matchedPatterns.length > 1) {
+        console.log(`   ⚠️  Multiple matches: ${matchedPatterns.join(', ')} (using ${category})`);
+      }
     }
   }
 
