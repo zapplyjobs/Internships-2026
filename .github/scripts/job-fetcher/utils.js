@@ -35,9 +35,16 @@ function delay(ms) {
  */
 function generateJobId(job) {
   const title = (job.job_title || "").toLowerCase().trim().replace(/\s+/g, "-");
-  const company = (job.employer_name || "")
+  let company = (job.employer_name || "")
     .toLowerCase()
     .trim()
+    // FIX: Normalize common company name variations to prevent duplicates
+    .replace(/\s+(inc\.?|incorporated|llc|corp\.?|corporation|ltd\.?|limited)$/i, "")
+    .replace(/\s+solutions?$/i, "")      // "Motorola Solutions" → "Motorola"
+    .replace(/\s+technologies?$/i, "")    // "Zebra Technologies" → "Zebra"
+    .replace(/\s+systems?$/i, "")         // "RTX Systems" → "RTX"
+    .replace(/\s+group$/i, "")            // "Accenture Group" → "Accenture"
+    .replace(/\s*,\s*/g, "-")             // "Company, Inc" → "Company-Inc"
     .replace(/\s+/g, "-");
   const city = (job.job_city || "").toLowerCase().trim().replace(/\s+/g, "-");
 
