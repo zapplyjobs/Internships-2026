@@ -14,7 +14,7 @@ on:
 
 # Prevent concurrent runs to avoid queue corruption
 concurrency:
-  group: job-updates
+  group: job-updates-${{ github.repository }}
   cancel-in-progress: false
 
 jobs:
