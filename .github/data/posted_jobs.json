@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T23:04:29.350Z",
+  "lastUpdated": "2025-12-18T23:17:24.470Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10957,14 +10957,36 @@
       "sourceUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035",
       "discordThreadId": "1451349417771667559",
       "instanceNumber": 1
+    },
+    {
+      "id": "globus-medical-software-engineer-co-op-audubon-2025-12-18-1",
+      "jobId": "globus-medical-software-engineer-co-op-audubon",
+      "company": "Globus Medical",
+      "title": "Software Engineer Co-op",
+      "postedToDiscord": "2025-12-18T23:17:21.103Z",
+      "sourceDate": "2025-07-30T14:50:47.000Z",
+      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
+      "discordThreadId": "1451352654847541250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neuralink-firmware-engineer-intern-fremont-2025-12-18-1",
+      "jobId": "neuralink-firmware-engineer-intern-fremont",
+      "company": "Neuralink",
+      "title": "Firmware Engineer Intern",
+      "postedToDiscord": "2025-12-18T23:17:24.470Z",
+      "sourceDate": "2025-07-30T14:41:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+      "discordThreadId": "1451352669456175279",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 996,
+    "totalJobs": 998,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T23:04:29.350Z",
+      "date": "2025-12-18T23:17:24.470Z",
       "archived": 0
     }
   }
