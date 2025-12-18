@@ -21,126 +21,6 @@
   },
   {
     "job": {
-      "job_title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-      "employer_name": "American Express",
-      "job_city": "Sunrise",
-      "job_state": "FL",
-      "job_description": "Join American Express in this exciting opportunity.",
-      "job_apply_link": "https://aexp.eightfold.ai/careers/job/30702553",
-      "job_posted_at_datetime_utc": "2025-08-19T02:56:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:41:14.051Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
-      "job_title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
-      "employer_name": "American Express",
-      "job_city": "Phoenix",
-      "job_state": "AZ",
-      "job_description": "Join American Express in this exciting opportunity.",
-      "job_apply_link": "https://aexp.eightfold.ai/careers/job/30702548",
-      "job_posted_at_datetime_utc": "2025-08-19T02:56:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-phoenix",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Hewlett Packard Enterprise",
-      "job_city": "Spring",
-      "job_state": "TX",
-      "job_description": "Data Science Intern This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description: This requestion may be classified as on desk or hybrid depending on location and role.Job Family Definition:Designs, develops and applies programs, methodologies and systems based on advanced analytic models (e.g. advanced statistics, operations research, computer science, process) to transform structured and unstructured data into meaningful and actionable information insights that drive decision making. Uses visualization techniques to translate analytic insights into understandable business stories (eg. descriptive, inferential and predictive insights). Embeds analytics into client’s business processes and applications. Combines business acumen and scientific methods to solve business problems.Management Level Definition:Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters.Responsibilities:• Participates in the analysis and validation of data sets/solutions/user experience.• Aids in the development, enhancement and maintenance of a client's metadata based on analytic objectives. May load data into the infrastructure and contributes to the creation of the hypothesis matrix. Prepares a portion of the data for the Exploratory Data Analysis (EDA) / hypotheses.• Contributes to building models for the overall solution, validates results and performance. Contributes to the selection of the model that supports the overall solution.• Supports the research, identification and delivery of data science solutions to problems.• Supports visualization of the model's insights, user experience and configuration tools for the analytics model.Intern Education & Experience Required:Working towards a Bachelor's and/or Master's degree with a focus in Data Science, Computer Science, Computer Engineering, Software development, or other IT related field.Knowledge and Skills:• Basic knowledge of data science methodologies.• Basic understanding of business requirements and data science objectives.• Basic data mapping, data transfer and data migration skills. Basic understanding of analytics software (eg. R, SAS, SPSS, Python).• Basic knowledge of machine learning, data integration, and modeling skills and ETL tools (eg. Informatica, Ab Initio, Talend).• Basic communication and presentation skills.• Basic data knowledge of relevant data programming languages.• Basic knowledge of data visualization techniques.Additional Skills:What We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#internsJob:EngineeringJob Level:N/A States with Pay Range RequirementThe expected salary/wage range for a U.S.-based hire filling this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. If this is a sales role, then the listed salary range reflects combined base salary and target-level sales compensation pay. If this is a non-sales role, then the listed salary range reflects base salary only. Variable incentives may also be offered. Information about employee benefits offered can be found at https://myhperewards.com/main/new-hire-enrollment.html.USD Hourly: $35.00 - $46.00HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.",
-      "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1192965",
-      "job_posted_at_datetime_utc": "2025-08-18T21:29:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-data-science-intern-spring",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
-      "job_title": "Research & Development Engineer Intern May 2026 - Associate Scientist - Freshmen - Sophomores - And Juniors",
-      "employer_name": "Procter & Gamble (P&G)",
-      "job_city": "Sharonville",
-      "job_state": "OH",
-      "job_description": "Join Procter & Gamble (P&G) in this exciting opportunity.",
-      "job_apply_link": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Engineer-Intern-May-2026--Associate-Scientist--Freshmen--Sophomores--and-Juniors_R000137017",
-      "job_posted_at_datetime_utc": "2025-08-18T19:39:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "procter-gamble-p-g-research-development-engineer-intern-may-2026-associate-scientist-freshmen-sophomores-and-juniors-sharonville",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
-      "job_title": "Tax LLM Associate - Industry Tax Practice",
-      "employer_name": "PricewaterhouseCoopers (PwC)",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Industry/SectorNot ApplicableSpecialismIndustry Tax PracticeManagement LevelAssociateJob Description & SummaryAt PwC, our people in tax services focus on providing advice and guidance to clients on tax planning, compliance, and strategy. These individuals help businesses navigate complex tax regulations and optimise their tax positions.Those in tax compliance at PwC will focus on validating clients' compliance with tax laws and regulations. You will review and analyse financial data, prepare and file tax returns, and assist businesses in meeting their tax obligations while minimising risks of non-compliance.Driven by curiosity, you are a reliable, contributing member of a team. In our fast-paced environment, you are expected to adapt to working with a variety of clients and team members, each presenting varying challenges and scope. Every experience is an opportunity to learn and grow. You are expected to take ownership and consistently deliver quality work that drives value for our clients and success as a team. As you navigate through the Firm, you build a brand for yourself, opening doors to more opportunities.Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:Apply a learning mindset and take ownership for your own development.Appreciate diverse perspectives, needs, and feelings of others.Adopt habits to sustain high performance and develop your potential.Actively listen, ask questions to check understanding, and clearly express ideas.Seek, reflect, act on, and give feedback.Gather information from a range of sources to analyse facts and discern patterns.Commit to understanding how the business works and building commercial awareness.Learn and apply professional and technical standards (e.g. refer to specific PwC tax and audit guidance), uphold the Firm's code of conduct and independence requirements.The OpportunityAs a Tax LLM Associate, you will engage in tax compliance and consulting projects, providing valuable insights and support to clients in navigating complex tax regulations. You will be part of the Tax Services group, focusing on delivering accurate and timely tax solutions that meet client needs. As an Associate, you will contribute to client engagements while developing your skills and knowledge to deliver quality work. You will build meaningful client connections, learn how to manage and inspire others, and grow your personal brand by deepening your technical knowledge of firm services and technology resources.This role offers a dynamic environment where you will be driven by curiosity and adaptability, participating in project tasks and developing basic skills and knowledge. You will have the opportunity to interpret data to inform insights and recommendations, using a broad range of tools and methodologies to generate new ideas and solve problems. Embrace the chance to grow your personal brand and deepen your understanding of the business context, while supporting senior staff and engaging in research. Join us in delivering impactful tax solutions and building a rewarding career in the fast-paced world of tax compliance and consulting.Responsibilities- Supporting client engagements by assisting in tax compliance and planning activities- Preparing and drafting tax documents, including income tax returns and informational returns- Conducting tax research to provide accurate and up-to-date information and advice- Monitoring and analyzing financial trends to identify opportunities for tax optimization- Collaborating with team members to deliver quality tax services and solutions- Engaging in project management tasks to achieve project goals within specified timelines- Utilizing accounting practices to maintain accurate financial records and reports- Consulting on regulatory compliance to help organizations meet applicable laws and regulations- Participating in financial audits and reviews to assess financial performance and compliance- Developing skills in corporate tax planning to maximize business investments- Filing regulatory submissions to support product evaluation and authorization processes- Analyzing financial statements to understand business health and performance- Building a personal brand by deepening technical knowledge and understanding strengths- Embracing opportunities for growth by navigating complex situations and asking questions- Upholding professional and technical standards in tax and audit guidanceWhat You Must Have- Currently pursuing or have completed a Master of Laws degree- Before starting full-time at PwC, meet the educational requirements and demonstrate a commitment to undertaking and passing Bar exam- At least a 3.0 overall GPA- Client service associate positions are entry-level roles intended for job seekers who are completing or have recently completed their final academic year of educational requirements.What Sets You Apart- Preference for a 3.3 overall GPA- Demonstrating proficiency in corporate tax planning- Engaging in drafting and preparing tax documents- Utilizing skills in financial statement analysis- Participating in regulatory compliance consulting- Monitoring and analyzing financial trends- Developing project management capabilitiesTravel RequirementsUp to 20%Job Posting End DateLearn more about how we work: https://pwc.to/how-we-workPwC does not intend to hire experienced or entry level job seekers who will need, now or in the future, PwC sponsorship through the H-1B lottery, except as set forth within the following policy: https://pwc.to/H-1B-Lottery-Policy.As PwC is an equal opportunity employer, all qualified applicants will receive consideration for employment at PwC without regard to race; color; religion; national origin; sex (including pregnancy, sexual orientation, and gender identity); age; disability; genetic information (including family medical history); veteran, marital, or citizenship status; or, any other status protected by law. For only those qualified applicants that are impacted by the Los Angeles County Fair Chance Ordinance for Employers, the Los Angeles' Fair Chance Initiative for Hiring Ordinance, the San Francisco Fair Chance Ordinance, San Diego County Fair Chance Ordinance, and the California Fair Chance Act, where applicable, arrest or conviction records will be considered for Employment in accordance with these laws. At PwC, we recognize that conviction records may have a direct, adverse, and negative relationship to responsibilities such as accessing sensitive company or customer information, handling proprietary assets, or collaborating closely with team members. We evaluate these factors thoughtfully to establish a secure and trusted workplace for all.The salary range for this position is: $53,500 - $142,000. Actual compensation within the range will be dependent upon the individual's skills, experience, qualifications and location, and applicable employment laws. All hired individuals are eligible for an annual discretionary bonus. PwC offers a wide range of benefits, including medical, dental, vision, 401k, holiday pay, vacation, personal and family sick leave, and more. To view our benefits at a glance, please visit the following link: https://pwc.to/benefits-at-a-glance",
-      "job_apply_link": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD",
-      "job_posted_at_datetime_utc": "2025-08-18T07:48:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pricewaterhousecoopers-pwc-tax-llm-associate-industry-tax-practice-boston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
-      "job_title": "Embedded Software Intern",
-      "employer_name": "Formlabs",
-      "job_city": "Somerville",
-      "job_state": "MA",
-      "job_description": "Join Formlabs in this exciting opportunity.",
-      "job_apply_link": "https://careers.formlabs.com/job/7165153/apply/?gh_jid=7165153",
-      "job_posted_at_datetime_utc": "2025-08-17T09:08:44.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "formlabs-embedded-software-intern-somerville",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
       "job_title": "Applications Engineer Intern",
       "employer_name": "Skyworks",
       "job_city": "Austin",
@@ -181,26 +61,6 @@
   },
   {
     "job": {
-      "job_title": "Cloud Engineer Intern",
-      "employer_name": "Hewlett Packard Enterprise",
-      "job_city": "Spring",
-      "job_state": "TX",
-      "job_description": "Cloud Engineer Intern&lt;p style=\"text-align:inherit\"&gt; &lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office.&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Who We Are:&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Job Description:&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&nbsp;&nbsp;&nbsp;&lt;/p&gt;&lt;h1&gt;&lt;b&gt;This requestion may be classified as on desk or hybrid depending on location and role.&lt;/b&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;Job Family Definition:&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;The Cloud Developer builds from the ground up to meet the needs of mission-critical applications, and is always looking for innovative approaches to deliver end-to-end technical solutions to solve customer problems. Brings technical thinking to break down complex data and to engineer new ideas and methods for solving, prototyping, designing, and implementing cloud-based solutions. Collaborates with project managers and development partners to ensure effective and efficient delivery, deployment, operation, monitoring, and support of Cloud engagements. The Cloud Developer provides business value expertise to drive the development of innovative service offerings that enrich HPE&#39;s Cloud Services portfolio across multiple systems, platforms, and applications.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Responsibilities:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;• Collaborate with cross-functional teams to design, develop, and implement cloud solutions tailored to meet business needs.&lt;br /&gt;• Assist in the deployment and configuration of cloud infrastructure, platforms, and services.&lt;br /&gt;• Contribute to the optimization and automation of the cloud deployment processes to improve efficiency and scalability.&lt;br /&gt;• Perform testing and troubleshooting of cloud systems to ensure reliability, performance, and security.&lt;br /&gt;• Stay up to date with industry trends and best practices in cloud computing to provide insights and recommendations for continuous improvement.&lt;br /&gt;• Support ongoing cloud operations and provide technical assistance as needed.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Education &amp; Experience required:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;• Working towards a Bachelor&#39;s and/or Master&#39;s degree with a focus in computer science, computer engineering, software development, or other IT related field.&lt;span&gt; &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Knowledge &amp; Skills:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;• Knowledge of at least one programming language like C, C&#43;&#43;, python, Javascript, Java or associated libraries, web-sockets, and other cloud networking protocols.&lt;br /&gt;• Familiarity with and understanding of design for software systems running on multiple platform types.&lt;br /&gt;• A basic understanding of Object-Oriented Programming (OOP) principles &amp; Model View Controller (MVC) design patterns, in addition to SQL / NoSQL DBs, GNU, Linux, IPC and process scheduling, and networking protocols TCP/IP.&lt;br /&gt;• Some exposure to full-stack Java software development, Java frameworks and application servers, Web Services (SOAP/REST API), responsive JS (Angular/Node/React.js), version control (preferably Git).&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Additional Skills:&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;What We Can Offer You:&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;Health &amp; Wellbeing&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Personal &amp; Professional Development&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Unconditional Inclusion&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Let&#39;s Stay Connected:&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p style=\"text-align:left\"&gt;&lt;span&gt;Follow &lt;a href=\"http://instagram.com/hpecareers\" target=\"_blank\"&gt;&#64;HPECareers&lt;/a&gt; on Instagram to see the latest on people, culture and tech at HPE. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;#unitedstates&lt;h3&gt;&lt;/h3&gt;&lt;h3&gt;&lt;/h3&gt;#interns&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Job:&lt;/b&gt;&lt;/p&gt;Engineering&lt;p style=\"text-align:left\"&gt;&lt;b&gt;Job Level:&lt;/b&gt;&lt;/p&gt;N/A&lt;p style=\"text-align:inherit\"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span class=\"WCO0\"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;b&gt;States with Pay Range Requirement&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:left\"&gt;&lt;span&gt;The expected salary/wage range for a &lt;u&gt;U.S.&lt;/u&gt;-based hire filling this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. If this is a sales role, then the listed salary range reflects combined base salary and target-level sales compensation pay. If this is a non-sales role, then the listed salary range reflects base salary only. Variable incentives may also be offered. Information about employee benefits offered can be found at &lt;/span&gt;&lt;a target=\"_blank\" href=\"https://myhperewards.com/main/new-hire-enrollment.html\"&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span class=\"WCO0\"&gt;https://myhperewards.com/main/new-hire-enrollment.html&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;USD Hourly: $35.00 - $46.00&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;p&gt;&lt;span&gt;HPE is an Equal Employment Opportunity/ &lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;Veterans/Disabled/LGBT&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: &lt;/span&gt;&lt;a href=\"https://hr.ext.hpe.com/Equal-employment-opportunity-policy.pdf\" target=\"_blank\"&gt;Equal Employment Opportunity&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;&lt;span&gt;Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=\"text-align:inherit\"&gt;&nbsp;&nbsp;&nbsp;&lt;/p&gt;&lt;p&gt;&lt;span&gt;HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories.&lt;/span&gt;&lt;/p&gt;",
-      "job_apply_link": "https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern",
-      "job_posted_at_datetime_utc": "2025-08-17T08:56:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-cloud-engineer-intern-spring",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": "2025-12-18T19:18:46.902Z"
-  },
-  {
-    "job": {
       "job_title": "Firmware Engineer Intern",
       "employer_name": "Hewlett Packard Enterprise",
       "job_city": "Spring",
@@ -214,10 +74,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-15T07:52:10.567Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -234,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -254,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -274,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -294,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -314,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -334,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:27:48.601Z"
   },
   {
     "job": {
@@ -405,16 +265,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7538307729329277202",
       "job_posted_at_datetime_utc": "2025-08-16T00:20:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-backend-software-engineer-intern-foundation-platform-san-jose"
+      "id": "tiktok-backend-software-engineer-intern-foundation-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -423,16 +285,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Backend Software Engineer Intern(Media Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7538301580093720840",
       "job_posted_at_datetime_utc": "2025-08-16T00:20:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-backend-software-engineer-intern-media-platform-san-jose"
+      "id": "tiktok-backend-software-engineer-intern-media-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -441,16 +305,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads)- 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534855949620119815",
       "job_posted_at_datetime_utc": "2025-08-16T00:18:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-san-jose"
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -459,16 +325,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7535617494221048082",
       "job_posted_at_datetime_utc": "2025-08-16T00:18:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-monetization-technology-ads-creative-ai-bs-ms-san-jose"
+      "id": "tiktok-software-engineer-intern-monetization-technology-ads-creative-ai-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -477,16 +345,18 @@
       "employer_name": "Prosidian Consulting",
       "job_city": "Washington",
       "job_state": "DC",
-      "job_description": "Join Prosidian Consulting in this exciting opportunity.",
+      "job_description": "Apprenticeship Data AnalystContractCompany DescriptionProSidian is a Management and Operations Consulting Firm focusing on providing value to clients through tailored solutions based on industry-leading practices. We help forward-thinking clients solve problems and improve operations. With a reputation for its strong CONUS/OCONUS practice spanning six solution areas, ProSidian services focus on the broad spectrum of Risk Management, Compliance, Business Process, IT Effectiveness, Energy & Sustainability, and Human Capital.Launched by former Big 4 Management Consultants; our multidisciplinary teams bring together the talents of nearly 190 professionals globally to complete a wide variety of engagements for Private Companies, Fortune 1,000 Enterprises, and Government Agencies of all sizes. Our Services are deployed across the enterprise, target drivers of economic profit (growth, margin, and efficiency), and are aligned at the intersections of assets, processes, policies, and people delivering value.ProSidian clients represent a broad spectrum of industries to include but are not limited to Energy, Manufacturing, Chemical, Retail, Healthcare, Telecommunications, Hospitality, Pharmaceuticals, Banking & Financial Services, Transportation, Federal and State Government Agencies. Learn More About ProSidian Consulting at www.ProSidian.com.Job DescriptionProSidian Seeks a Apprenticeship Data Analyst in CONUS/OCONUS - Charlotte, NC & Washington, DC to support an engagement for a support agency of the US Department of Labor which administers federal government job training and worker dislocation programs, federal grants to states for public employment service programs, and apprenticeship programs. One key purpose of the agency is to promote apprenticeship programs across the US, provide apprenticeship opportunities to the nation's youth, and improve access to apprenticeship opportunities that enable Americans to obtain relevant skills and high-paying jobs. The ProSidian Engagement Team Members work to provide Youth Apprenticeship Intermediary support including program and project management including participation of a kickoff meeting, participation in training, and provision of written reports, providing a multi-faceted campaign to promote youth apprenticeship programs and their content, determine the most effective methods of recruiting students from local high schools and colleges, design approaches to connect learning communities, conduct outreach to local businesses and educational institutions, and provide general technical assistance and advice to educational institutions and employers to facilitate and accelerate youth apprenticeship programs in various industries.The ProSidian Team shall provide experienced and knowledgeable consulting services in support of the project through provision of experienced and educated team members, development of a national youth apprenticeship network with a specific goal, and ongoing expansion of youth apprenticeship programs to ensure sustainability across all programs. The primary apprenticeship industry sectors within this project include healthcare, transportation and logistics, cyber security, information and communications technology (ICT), hospitality, advanced manufacturing, and other targeted high growth industries.Additionally, the ProSidian Team will assist the Department of Labor's Office of Apprenticeship by effectively researching data collected from apprenticeship programs and youths that have participated in past and current programs to develop new and expand existing youth apprenticeship programs across the nation.Apprenticeship Data Analyst Candidates shall work to support requirements for Program Support and primary role is to support and help execute ProSidian’s effort in supporting the Department of Labor's Youth Apprenticeship programs.Demonstrated ability to perform program/project management tasks effectivelyHas proven ability to manage multifaceted projects of high complexityMust shoulder responsibility for formulating design, implementation and management of assigned projectsProvides quality control of projects and interfaces with client on project specific issuesInsures projects are completed within the estimated time frames and budget constraintsProfessionals in this role should be experienced in research, collection of data, and analysis. The duties of this role include evaluation of case studies of each school system and employer ProSidian worked with on this project, evaluation of what worked and what did not work in developing the apprenticeship programs in new industries, and provide recommendations on how to further grow and expand the project as a result of all findings. Responsibilities may also include conducting comprehensive research on youth apprenticeship opportunities based on labor market trends, researching the most effective methods of outreach and expansion of apprenticeship opportunities, and providing research, data, and findings to other members of the team when necessary.#projectmanagementjobs #hrjobs #technicalassistancejobs #salesandmarketing #salesjobs #facilitation #consulting #education #apprenticeship #youthapprenticeship #training #youthQualificationsThe Apprenticeship Data Analyst shall have consecutive employment in a position with comparable responsibilities within the past two (2) years, Must be able to use a computer to communicate via email; and proficient in Microsoft Office Products (Word/Excel/Power point) and related tools and technology required for the position. Work products shall be thorough, accurate, appropriately documented, and comply with established criteria. The candidate shall ensure that duties are performed in a competent and professional manner that meets milestones/delivery schedules as outlined.To perform this job successfully, an individual must be able to perform each essential duty and responsibility satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or abilities required: Bachelor’s degree from an accredited college or university in a relevant field with at least two years of experience with data collection, research, and analysis.Bachelor's degree REQUIRED, Master's degree preferred.At least 2 years relevant experience. Ability to work effectively both independently and as part of a team.Candidate must have strong attention to detail and organizational skills.Demonstrated ability to propose possible resolutions to complex technical, managerial or operational problems.Demonstrated leadership, management, organizational, and decision-making skills.Demonstrated proactivity, attention to detail, working within deadlines, and ability to juggle multiple priorities in a fast-paced environment.Excellent interpersonal skills and client service provision. Excellent written and verbal communication skills.Experience in project administration and management procedures strongly preferred.Experience in the use of database applications and presentation software desirable.Intermediate level proficiency in MS Excel and other MS Office Suite programs.Requires proficiency in the use of Microsoft Office with an emphasis on Excel spreadsheet skills, PowerPoint, Internet and e-mail applications.Understanding and proficiency in financial and project management systems and procedures.TRAVEL: Travel as coordinated with the technical point of contact and approved in writing by the Contracting Officer in advance, is allowed, in accordance with Federal Travel Regulations.LOCATION: Work shall be conducted at the CONUS/OCONUS - Charlotte, NC & Washington, DC U.S. Citizenship RequiredExcellent oral and written communication skillsProficient with Microsoft Office Products (Microsoft Word, Excel, PowerPoint, Publisher, & Adobe)All ProSidian staff must be determined eligible for a “Facility Access Authorization” (also referred to as an “Employment Authorization”) by the USG’s designated Security Office.Additional InformationAs a condition of employment, all employees are required to fulfill all requirements of the roles for which they are employed; establish, manage, pursue, and fulfill annual goals and objectives with at least three (3) Goals for each of the firms Eight Prosidian Global Competencies [1 - Personal Effectiveness | 2 - Continuous Learning | 3 - Leadership | 4 - Client Service | 5 - Business Management | 6 - Business Development | 7 - Technical Expertise | 8 - Innovation & Knowledge Sharing (Thought Leadership)]; and to support all business development and other efforts on behalf of ProSidian Consulting.CORE COMPETENCIESTeamwork – ability to foster teamwork collaboratively as a participant, and effectively as a team leaderLeadership – ability to guide and lead colleagues on projects and initiativesBusiness Acumen – understanding and insight into how organizations perform, including business processes, data, systems, and peopleCommunication – ability to effectively communicate to stakeholders of all levels orally and in writingMotivation – persistent in pursuit of quality and optimal client and company solutionsAgility – ability to quickly understand and transition between different projects, concepts, initiatives, or work streamsJudgment – exercises prudence and insight in decision-making process while mindful of other stakeholders and long-term ramificationsOrganization – ability to manage projects and activity, and prioritize tasks------------ ------------ ------------OTHER REQUIREMENTSBusiness Tools – understanding and proficiency with business tools and technology, including Microsoft Office. The ideal candidate is advanced with Excel, Access, Outlook, PowerPoint and Word, and proficient with Adobe Acrobat, data analytic tools, and Visio with the ability to quickly learn other tools as necessary.Business Tools – understanding and proficiency with business tools and technology, including Microsoft Office. The ideal candidate is advanced with Excel, Access, Outlook, PowerPoint and Word, and proficient with Adobe Acrobat, data analytic tools, and Visio with the ability to quickly learn other tools as necessary.Commitment - to work with smart, interesting people with diverse backgrounds to solve the biggest challenges across private, public and social sectorsCuriosity – the ideal candidate exhibits an inquisitive nature and the ability to question the status quo among a community of people they enjoy and teams that work well togetherHumility – exhibits grace in success and failure while doing meaningful work where skills have impact and make a differenceWillingness - to constantly learn, share, and grow and to view the world as their classroom------------ ------------ ------------BENEFITS AND HIGHLIGHTS ProSidian Employee Benefits and Highlights: Your good health and well-being are important to ProSidian Consulting. At ProSidian, we invest in our employees to help them stay healthy and achieve work-life balance. That’s why we are also pleased to offer the Employee Benefits Program, designed to promote your health and personal welfare. Our growing list of benefits currently include the following for Full Time Employees:Competitive Compensation: Pay range begins in the competitive ranges with Group Health Benefits, Pre-tax Employee Benefits, and Performance Incentives. For medical and dental benefits, the Company contributes a fixed dollar amount each month towards the plan you elect. Contributions are deducted on a Pre-tax basis.Group Medical Health Insurance Benefits: ProSidian partners with BC/BS, to offer a range of medical plans, including high-deductible health plans or PPOs. ||| Group Dental Health Insurance Benefits: ProSidian dental carriers - Delta, Aetna, Guardian, and MetLife.Group Vision Health Insurance Benefits: ProSidian offers high/low vision plans through 2 carriers: Aetna and VSP.401(k) Retirement Savings Plan: 401(k) Retirement Savings Plans help you save for your retirement for eligible employees. A range of investment options are available with a personal financial planner to assist you. The Plan is a pre-tax Safe Harbor 401(k) Retirement Savings Plan with a company match.Vacation and Paid Time-Off (PTO) Benefits: Eligible employees use PTO for vacation, a doctor’s appointment, or any number of events in your life. Currently these benefits include Vacation/Sick days – 2 weeks/3 days | Holidays - 10 ProSidian and Government Days are given.Pre-Tax Payment Programs: Pre-Tax Payment Programs currently exist in the form of a Premium Only Plan (POP). These Plans offer a full Flexible Spending Account (FSA) Plan and a tax benefit for eligible employees.Purchasing Discounts & Savings Plans: We want you to achieve financial success. We offer a Purchasing Discounts & Savings Plan through The Corporate Perks Benefit Program. This provides special discounts for eligible employees on products and services you buy on a daily basis.Security Clearance: Due to the nature of our consulting engagements there are Security Clearance requirements for Engagement Teams handling sensitive Engagements in the Federal Marketplace. A Security Clearance is a valued asset in your professional portfolio and adds to your credentials.ProSidian Employee & Contractor Referral Bonus Program: ProSidian Consulting will pay up to 5k for all referrals employed for 90 days for candidates submitted through our Referral Program.Performance Incentives: Due to the nature of our consulting engagements there are performance incentives associated with each new client that each employee works to pursue and support.Flexible Spending Account: FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pre-tax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.Supplemental Life/Accidental Death and Dismemberment Insurance: If you want extra protection for yourself and your eligible dependents, you have the option to elect supplemental life insurance. D&D covers death or dismemberment from an accident only.Short- and Long-Term Disability Insurance: Disability insurance plans are designed to provide income protection while you recover from a disability.----------- ------------ ------------ADDITIONAL INFORMATION - See Below Instructions On The Best Way To ApplyProSidian Consulting is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity and expression, age, disability, or Vietnam era, or other eligible veteran status, or any other protected factor. All your information will be kept confidential according to EEO guidelines.ProSidian Consulting has made a pledge to the Hiring Our Heroes Program of the U.S. Chamber of Commerce Foundation and the “I Hire Military” Initiative of The North Carolina Military Business Center (NCMBC) for the State of North Carolina. All applicants are encouraged to apply regardless of Veteran Status.Furthermore, we believe in \"HONOR ABOVE ALL\" - be successful while doing things the right way. The pride comes out of the challenge; the reward is excellence in the work.FOR EASY APPLICATION USE OUR CAREER SITE LOCATED ON http://www.ProSidian.com/ OR SEND YOUR RESUME’S, BIOS, AND SALARY EXPECTATION / RATES TO CAREERS @ PROSIDIAN.COM. ONLY CANDIDATES WITH REQUIRED CRITERIA ARE CONSIDERED.Be sure to place the job reference code in the subject line of your email. Be sure to include your name, address, telephone number, total compensation package, employment history, and educational credentials.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
       "job_posted_at_datetime_utc": "2025-08-15T23:08:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "prosidian-consulting-apprenticeship-data-analyst-washington"
+      "id": "prosidian-consulting-apprenticeship-data-analyst-washington",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -495,16 +365,18 @@
       "employer_name": "Adobe",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity Adobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers. By using predictive models, experimental design methods, and optimization techniques, you will be working on the research and development of exciting projects like real-time online media optimization, sales operation analytics, customer churn scoring and management, customer understanding, product recommendation and customer lifetime value prediction. All 2026 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities. What You’ll Do Develop predictive models on large-scale datasets to address various business problems with statistical modeling, machine learning, and analytics techniques. Develop and implement scalable, efficient, and interpretable modeling algorithms that can work with large-scale data in production systems Collaborate with product management and engineering groups to develop new products and features. What You Need to Succeed Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027 Good understanding of statistical modeling, machine learning, deep learning, or data analytics concepts. Proficient in one or more programming languages such as Python, Java and C Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn Strong analytical and quantitative problem-solving ability. Excellent communication, relationship skills and a team player Ability to participate in a full-time internship between May-September Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $55.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
       "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
       "job_posted_at_datetime_utc": "2025-08-15T23:08:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "adobe-ai-ml-intern-machine-learning-engineer-seattle"
+      "id": "adobe-ai-ml-intern-machine-learning-engineer-seattle",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -513,16 +385,18 @@
       "employer_name": "Hewlett Packard Enterprise",
       "job_city": "Spring",
       "job_state": "TX",
-      "job_description": "Join Hewlett Packard Enterprise in this exciting opportunity.",
+      "job_description": "Software Engineering Intern This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description: This requestion may be classified as on desk or hybrid depending on location and role.Job Family Definition:Designs, develops, troubleshoots and debugs software programs for software enhancements and new products. Develops software including operating systems, compilers, routers, networks, utilities, databases and Internet-related tools. Determines hardware compatibility and/or influences hardware design.Management Level Definition:Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters.Responsibilities:• Codes and programs enhancements, updates, and changes for portions and subsystems of systems software, including operating systems, compliers, networking, utilities, databases, and Internet-related tools• Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.• Develops understanding of and relationship with internal and outsourced development partners on software systems design and development.• Participates as a member of a project team of other software systems engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.Intern Education & Experience Required:Working towards a Bachelor's and/or Master's degree with a focus in Computer Science, Information Systems, or equivalent.Knowledge and Skills:• Experience or understanding of software systems design tools and languages.• Good analytical and problem-solving skills.• Understanding of design for software systems running on multiple platform types• Good written and verbal communication skills; mastery in English and local language.• Understanding of basic testing, coding, and debugging procedures• Good written and verbal communication skills; mastery in English and local languageAdditional Skills:What We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#internsJob:EngineeringJob Level:N/A \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. – United States of America: Hourly Salary USD 35.00 - 46.00 in Massachusetts // 35.00 - 46.00 in California // 35.00 - 46.00 in Minnesota & North Carolina & Texas & WisconsinThe listed salary range reflects base salary. Variable incentives may also be offered.\"Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.htmlHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. No Fees Notice & Recruitment Fraud Disclaimer It has come to HPE’s attention that there has been an increase in recruitment fraud whereby scammer impersonate HPE or HPE-authorized recruiting agencies and offer fake employment opportunities to candidates. These scammers often seek to obtain personal information or money from candidates. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge any candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. The credentials of any hiring agency that claims to be working with HPE for recruitment of talent should be verified by candidates and candidates shall be solely responsible to conduct such verification. Any candidate/individual who relies on the erroneous representations made by fraudulent employment agencies does so at their own risk, and HPE disclaims liability for any damages or claims that may result from any such communication.",
       "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961",
       "job_posted_at_datetime_utc": "2025-08-15T22:59:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-software-engineering-intern-spring"
+      "id": "hewlett-packard-enterprise-software-engineering-intern-spring",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {
@@ -531,16 +405,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Edge Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7538121437628221703/detail",
       "job_posted_at_datetime_utc": "2025-08-15T22:44:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-edge-platform-san-jose"
+      "id": "bytedance-software-engineer-intern-edge-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:27:12.201Z",
     "postedAt": null
   },
   {

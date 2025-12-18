@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T19:18:43.887Z",
+  "lastUpdated": "2025-12-18T19:27:45.586Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -8933,14 +8933,102 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
       "discordThreadId": "1451292603260735790",
       "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-enterprise-firmware-engineer-intern-spring-2025-12-18-1",
+      "jobId": "hewlett-packard-enterprise-firmware-engineer-intern-spring",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Firmware Engineer Intern",
+      "postedToDiscord": "2025-12-18T19:27:21.705Z",
+      "sourceDate": "2025-08-17T08:38:53.000Z",
+      "sourceUrl": "https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern",
+      "discordThreadId": "1451294775381852324",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ccc-intelligent-software-engineer-intern-chicago-2025-12-18-1",
+      "jobId": "ccc-intelligent-software-engineer-intern-chicago",
+      "company": "CCC Intelligent Solutions",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T19:27:25.148Z",
+      "sourceDate": "2025-08-17T08:35:10.000Z",
+      "sourceUrl": "https://cccis.wd1.myworkdayjobs.com/en-US/broadbean_external/job/Chicago-Green-St-IL/Software-Engineer-Intern_0014134",
+      "discordThreadId": "1451294790640599050",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-multi-cloud-cdn-platform-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-multi-cloud-cdn-platform-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Multi-Cloud CDN Platform",
+      "postedToDiscord": "2025-12-18T19:27:28.470Z",
+      "sourceDate": "2025-08-16T02:59:24.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+      "discordThreadId": "1451294804679065641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-live-service-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-live-service-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Live Service",
+      "postedToDiscord": "2025-12-18T19:27:31.859Z",
+      "sourceDate": "2025-08-16T00:21:33.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538314547103762696",
+      "discordThreadId": "1451294818746634282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-media-engine-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-media-engine-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Media Engine",
+      "postedToDiscord": "2025-12-18T19:27:31.868Z",
+      "sourceDate": "2025-08-16T00:21:13.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538304108715198727",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-ai-ml-intern-machine-learning-engineer-san-jose-2025-12-18-1",
+      "jobId": "adobe-ai-ml-intern-machine-learning-engineer-san-jose",
+      "company": "Adobe",
+      "title": "AI/ML Intern - Machine Learning Engineer",
+      "postedToDiscord": "2025-12-18T19:27:38.615Z",
+      "sourceDate": "2025-08-17T08:26:48.000Z",
+      "sourceUrl": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer",
+      "discordThreadId": "1451294845825192110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-global-e-commerce-risk-control-2026-summer-bs-ms-seattle-2025-12-18-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-global-e-commerce-risk-control-2026-summer-bs-ms-seattle",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T19:27:42.053Z",
+      "sourceDate": "2025-08-16T02:59:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535953226975054098/detail",
+      "discordThreadId": "1451294861385928714",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-scientist-intern-seed-generative-ai-for-science-phd-san-jose-2025-12-18-1",
+      "jobId": "bytedance-research-scientist-intern-seed-generative-ai-for-science-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Seed - Generative AI for Science - PhD",
+      "postedToDiscord": "2025-12-18T19:27:45.586Z",
+      "sourceDate": "2025-08-16T02:59:24.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538640321828784392/detail",
+      "discordThreadId": "1451294875898351748",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 812,
+    "totalJobs": 820,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T19:18:43.887Z",
+      "date": "2025-12-18T19:27:45.586Z",
       "archived": 0
     }
   }
