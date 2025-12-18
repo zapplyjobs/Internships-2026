@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:06:57.974Z",
+  "lastUpdated": "2025-12-18T20:18:56.239Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9373,14 +9373,102 @@
       "sourceUrl": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
       "discordThreadId": "1451304742272897056",
       "instanceNumber": 1
+    },
+    {
+      "id": "notion-software-engineer-intern-san-francisco-2025-12-18-1",
+      "jobId": "notion-software-engineer-intern-san-francisco",
+      "company": "Notion",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T20:18:28.038Z",
+      "sourceDate": "2025-08-14T21:00:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application",
+      "discordThreadId": "1451307635528827075",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nice-ai-solutions-intern-atlanta-2025-12-18-1",
+      "jobId": "nice-ai-solutions-intern-atlanta",
+      "company": "NiCE",
+      "title": "AI Solutions Intern",
+      "postedToDiscord": "2025-12-18T20:18:31.621Z",
+      "sourceDate": "2025-08-14T10:45:11.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
+      "discordThreadId": "1451307651559325748",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-intern-engineer-fort-wayne-2025-12-18-1",
+      "jobId": "general-dynamics-intern-engineer-fort-wayne",
+      "company": "General Dynamics",
+      "title": "Intern Engineer",
+      "postedToDiscord": "2025-12-18T20:18:35.243Z",
+      "sourceDate": "2025-08-14T10:43:29.000Z",
+      "sourceUrl": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
+      "discordThreadId": "1451307666658951300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pdt-partners-software-engineering-internship-new-york-2025-12-18-1",
+      "jobId": "pdt-partners-software-engineering-internship-new-york",
+      "company": "PDT Partners",
+      "title": "Software Engineering Internship",
+      "postedToDiscord": "2025-12-18T20:18:39.081Z",
+      "sourceDate": "2025-08-14T10:36:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
+      "discordThreadId": "1451307682614083624",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ocean-optics-software-engineering-co-op-rochester-2025-12-18-1",
+      "jobId": "ocean-optics-software-engineering-co-op-rochester",
+      "company": "Ocean Optics",
+      "title": "Software Engineering Co-op",
+      "postedToDiscord": "2025-12-18T20:18:42.693Z",
+      "sourceDate": "2025-08-14T10:34:54.000Z",
+      "sourceUrl": "https://halma.wd3.myworkdayjobs.com/en-US/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
+      "discordThreadId": "1451307698326077461",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globalfoundries-software-engineering-intern-malta-2025-12-18-1",
+      "jobId": "globalfoundries-software-engineering-intern-malta",
+      "company": "GlobalFoundries",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T20:18:46.060Z",
+      "sourceDate": "2025-08-14T10:21:36.000Z",
+      "sourceUrl": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
+      "discordThreadId": "1451307713027117148",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-ml-engineer-intern-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-ml-engineer-intern-chicago",
+      "company": "Jump Trading",
+      "title": "Campus ML Engineer (Intern)",
+      "postedToDiscord": "2025-12-18T20:18:52.855Z",
+      "sourceDate": "2025-08-14T11:02:56.000Z",
+      "sourceUrl": "https://www.jumptrading.com/careers/6916776/?gh_jid=6916776",
+      "discordThreadId": "1451307740445020211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-ai-researcher-intern-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-ai-researcher-intern-chicago",
+      "company": "Jump Trading",
+      "title": "Campus AI Researcher (Intern)",
+      "postedToDiscord": "2025-12-18T20:18:56.239Z",
+      "sourceDate": "2025-08-14T10:59:50.000Z",
+      "sourceUrl": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
+      "discordThreadId": "1451307755620012113",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 852,
+    "totalJobs": 860,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:06:57.974Z",
+      "date": "2025-12-18T20:18:56.239Z",
       "archived": 0
     }
   }
