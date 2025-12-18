@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:55:29.550Z",
+  "lastUpdated": "2025-12-18T21:04:14.869Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9813,14 +9813,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7532021573718018312",
       "discordThreadId": "1451316954504630354",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-big-data-data-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-big-data-data-platform-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Big Data - Data Platform",
+      "postedToDiscord": "2025-12-18T21:03:47.226Z",
+      "sourceDate": "2025-08-08T02:59:57.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7444457959197509896",
+      "discordThreadId": "1451319041452146831",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
+      "postedToDiscord": "2025-12-18T21:03:53.914Z",
+      "sourceDate": "2025-08-08T03:02:17.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397455434090694921",
+      "discordThreadId": "1451319069662904521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-science-intern-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-science-intern-san-jose",
+      "company": "TikTok",
+      "title": "Data Science intern",
+      "postedToDiscord": "2025-12-18T21:03:57.535Z",
+      "sourceDate": "2025-08-08T03:02:15.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7473021069018237191",
+      "discordThreadId": "1451319084896485467",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-monetization-technology-ads-creative-ai-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-monetization-technology-ads-creative-ai-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative AI",
+      "postedToDiscord": "2025-12-18T21:04:04.158Z",
+      "sourceDate": "2025-08-08T03:01:55.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535607378248550674",
+      "discordThreadId": "1451319113363361933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-featurestore-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-featurestore-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Featurestore",
+      "postedToDiscord": "2025-12-18T21:04:07.719Z",
+      "sourceDate": "2025-08-08T02:58:35.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7498914631534053650",
+      "discordThreadId": "1451319127502356672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
+      "postedToDiscord": "2025-12-18T21:04:11.204Z",
+      "sourceDate": "2025-08-08T02:56:41.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7488088713790359815",
+      "discordThreadId": "1451319142740262964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-governance-algorithms-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-governance-algorithms-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+      "postedToDiscord": "2025-12-18T21:04:14.860Z",
+      "sourceDate": "2025-08-08T02:56:40.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397453792083642650",
+      "discordThreadId": "1451319156925530294",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-governance-algorithms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-governance-algorithms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce Governance Algorithms",
+      "postedToDiscord": "2025-12-18T21:04:14.869Z",
+      "sourceDate": "2025-08-08T02:55:51.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397453649348479270",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 892,
+    "totalJobs": 900,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:55:29.550Z",
+      "date": "2025-12-18T21:04:14.869Z",
       "archived": 0
     }
   }
