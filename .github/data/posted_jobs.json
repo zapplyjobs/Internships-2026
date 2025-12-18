@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:18:02.557Z",
+  "lastUpdated": "2025-12-18T22:30:41.305Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10517,14 +10517,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7478174818136000776",
       "discordThreadId": "1451337729680871495",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-global-crm-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-global-crm-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Global CRM",
+      "postedToDiscord": "2025-12-18T22:30:12.925Z",
+      "sourceDate": "2025-08-07T08:17:09.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532247736243865864",
+      "discordThreadId": "1451340792567435418",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-research-scientist-intern-tiktok-nextgen-recommendation-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-research-scientist-intern-tiktok-nextgen-recommendation-phd-san-jose",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - Tiktok - Nextgen Recommendation - PhD",
+      "postedToDiscord": "2025-12-18T22:30:16.769Z",
+      "sourceDate": "2025-08-07T08:17:02.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7519768631745087752",
+      "discordThreadId": "1451340807117344830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-experimentation-evaluation-data-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-experimentation-evaluation-data-platform-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
+      "postedToDiscord": "2025-12-18T22:30:20.299Z",
+      "sourceDate": "2025-08-07T08:16:15.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534793633532479751",
+      "discordThreadId": "1451340823341043893",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-content-ecology-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-content-ecology-phd-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok-Content Ecology - PhD",
+      "postedToDiscord": "2025-12-18T22:30:26.780Z",
+      "sourceDate": "2025-08-07T08:16:30.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532390182411405586",
+      "discordThreadId": "1451340850691837983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-research-scientist-intern-trust-and-safety-cv-nlp-multimodal-llm-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-research-scientist-intern-trust-and-safety-cv-nlp-multimodal-llm-phd-san-jose",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM - PhD",
+      "postedToDiscord": "2025-12-18T22:30:30.262Z",
+      "sourceDate": "2025-08-07T08:16:19.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527582397938223367",
+      "discordThreadId": "1451340865250529310",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-local-services-team-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-search-local-services-team-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T22:30:33.808Z",
+      "sourceDate": "2025-08-07T08:16:17.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534626464240994568",
+      "discordThreadId": "1451340879775404094",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-trust-and-safety-cv-nlp-multimodal-llm-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-trust-and-safety-cv-nlp-multimodal-llm-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
+      "postedToDiscord": "2025-12-18T22:30:37.952Z",
+      "sourceDate": "2025-08-07T08:16:15.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527589557336869138",
+      "discordThreadId": "1451340895998841064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-e-commerce-team-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-search-e-commerce-team-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS",
+      "postedToDiscord": "2025-12-18T22:30:41.304Z",
+      "sourceDate": "2025-08-07T08:16:14.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534626087721240839",
+      "discordThreadId": "1451340911983202365",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 956,
+    "totalJobs": 964,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:18:02.557Z",
+      "date": "2025-12-18T22:30:41.305Z",
       "archived": 0
     }
   }
