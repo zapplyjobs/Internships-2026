@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern - Financial Product - Global Payment",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Financial Product) - Global Payment - 2026 Summer(BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7533002244305848584/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T21:03:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-financial-product-global-payment-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - SDN Traffic Intelligence & Control - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Intern(SDN Traffic Intelligence & Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537161497627281682/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:45:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-intern-sdn-traffic-intelligence-control-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Researcher Intern - Virtual Network",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Researcher Intern (Virtual Network) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537163899668531474/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:33:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-researcher-intern-virtual-network-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern - ML System",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Intern (ML System) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535199487904794887/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:21:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-intern-ml-system-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Network Software Development Engineer Intern - Network Observation",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for [Online Assessment]Network Software Development Engineer Intern(Network Observation) - 2026 Summer (BS/ MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537153828938352914/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:20:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-network-software-development-engineer-intern-network-observation-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - ML System",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (ML System) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535206697116502290/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:20:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-ml-system-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer Intern - Network Automation",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for [Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:20:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-intern-network-automation-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": "2025-12-18T19:55:58.066Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Nosql Databases",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535878806051473671/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T20:20:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-nosql-databases-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Nosql Databases",
       "employer_name": "ByteDance",
       "job_city": "Seattle",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:07:00.988Z"
   },
   {
     "job": {
@@ -450,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:59:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jump-trading-campus-ai-researcher-intern-chicago"
+      "id": "jump-trading-campus-ai-researcher-intern-chicago",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "NiCE",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join NiCE in this exciting opportunity.",
+      "job_description": "The enterprise AI platform for orchestrating human and AI Agents to automate service, augment work, and accelerate intelligent experiences at scale.",
       "job_apply_link": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
       "job_posted_at_datetime_utc": "2025-08-14T10:45:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nice-ai-solutions-intern-atlanta"
+      "id": "nice-ai-solutions-intern-atlanta",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -486,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:43:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-intern-engineer-fort-wayne"
+      "id": "general-dynamics-intern-engineer-fort-wayne",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -504,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:36:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pdt-partners-software-engineering-internship-new-york"
+      "id": "pdt-partners-software-engineering-internship-new-york",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -522,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:34:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ocean-optics-software-engineering-co-op-rochester"
+      "id": "ocean-optics-software-engineering-co-op-rochester",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -540,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:21:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "globalfoundries-software-engineering-intern-malta"
+      "id": "globalfoundries-software-engineering-intern-malta",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -558,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T10:17:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sonic-healthcare-usa-cache-software-development-intern-dallas"
+      "id": "sonic-healthcare-usa-cache-software-development-intern-dallas",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "TetraMem",
       "job_city": "Fremont",
       "job_state": "CA",
-      "job_description": "Join TetraMem in this exciting opportunity.",
+      "job_description": "About the Role We are seeking a Software Intern to support the development of tools frameworks and applications that enable neural network models to run efficiently on TetraMems novel analog compute in memory chips This is an exciting opportunity to work at the intersection of software hardware and artificial intelligence Responsibilities Develop and optimize Python or C code for neural network and machine learning model compression conversion deployment and runtime environments Analyze and adapt ML models for to improve their compatibility and efficiency on compute in memory hardware and software Support software design development and performance profiling Collaborate with AI researchers and hardware engineers to validate system level functionality Participate in code reviews testing and documentation Qualifications Currently pursuing a degree in Computer Science Electrical Engineering or related field Solid programming experience in Python C or similar Understanding of data structures algorithms and software architecture Familiarity with AIML frameworks eg TensorFlow PyTorch is a plus Strong problem solving skills and eagerness to learn Salary Range 35 45 USDhr",
       "job_apply_link": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209",
       "job_posted_at_datetime_utc": "2025-08-14T10:15:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tetramem-software-machine-learning-intern-fremont"
+      "id": "tetramem-software-machine-learning-intern-fremont",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:06:27.323Z",
     "postedAt": null
   },
   {
