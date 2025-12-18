@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:31:11.539Z",
+  "lastUpdated": "2025-12-18T20:41:25.926Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9549,14 +9549,102 @@
       "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2026_R218625-1",
       "discordThreadId": "1451310839549132943",
       "instanceNumber": 1
+    },
+    {
+      "id": "shopify-usa-engineering-internships-remote-in-usa-2025-12-18-1",
+      "jobId": "shopify-usa-engineering-internships-remote-in-usa",
+      "company": "Shopify",
+      "title": "USA Engineering Internships",
+      "postedToDiscord": "2025-12-18T20:40:59.849Z",
+      "sourceDate": "2025-08-13T02:13:29.000Z",
+      "sourceUrl": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern",
+      "discordThreadId": "1451313304881336539",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nicolet-national-bank-software-developer-intern-green-bay-2025-12-18-1",
+      "jobId": "nicolet-national-bank-software-developer-intern-green-bay",
+      "company": "Nicolet National Bank",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-18T20:41:03.457Z",
+      "sourceDate": "2025-08-13T01:43:33.000Z",
+      "sourceUrl": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf",
+      "discordThreadId": "1451313321541112069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-capital-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-capital-platform-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Capital Platform",
+      "postedToDiscord": "2025-12-18T20:41:07.433Z",
+      "sourceDate": "2025-08-13T01:19:14.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534536157456058632",
+      "discordThreadId": "1451313337164894272",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shopify-engineering-internship-new-york-2025-12-18-1",
+      "jobId": "shopify-engineering-internship-new-york",
+      "company": "Shopify",
+      "title": "Engineering Internship",
+      "postedToDiscord": "2025-12-18T20:41:11.007Z",
+      "sourceDate": "2025-08-13T00:30:50.000Z",
+      "sourceUrl": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
+      "discordThreadId": "1451313353350840401",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-3d-avatar-research-and-development-intern-pico-perception-san-jose-2025-12-18-1",
+      "jobId": "bytedance-3d-avatar-research-and-development-intern-pico-perception-san-jose",
+      "company": "ByteDance",
+      "title": "3D Avatar Research and Development Intern - PICO Perception",
+      "postedToDiscord": "2025-12-18T20:41:15.388Z",
+      "sourceDate": "2025-08-12T20:03:41.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
+      "discordThreadId": "1451313368320184400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "respec-student-software-engineering-intern-albuquerque-2025-12-18-1",
+      "jobId": "respec-student-software-engineering-intern-albuquerque",
+      "company": "RESPEC",
+      "title": "Student Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T20:41:18.976Z",
+      "sourceDate": "2025-08-12T17:58:04.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
+      "discordThreadId": "1451313386649419890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anduril-industries-software-engineer-intern-atlanta-2025-12-18-1",
+      "jobId": "anduril-industries-software-engineer-intern-atlanta",
+      "company": "Anduril Industries",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T20:41:22.421Z",
+      "sourceDate": "2025-08-12T15:53:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
+      "discordThreadId": "1451313401702912012",
+      "instanceNumber": 1
+    },
+    {
+      "id": "notion-software-engineer-san-francisco-2025-12-18-1",
+      "jobId": "notion-software-engineer-san-francisco",
+      "company": "Notion",
+      "title": "Software Engineer",
+      "postedToDiscord": "2025-12-18T20:41:25.926Z",
+      "sourceDate": "2025-08-12T09:17:07.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
+      "discordThreadId": "1451313416189906954",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 868,
+    "totalJobs": 876,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:31:11.539Z",
+      "date": "2025-12-18T20:41:25.926Z",
       "archived": 0
     }
   }
