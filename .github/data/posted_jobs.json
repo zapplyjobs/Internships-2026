@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T19:27:45.586Z",
+  "lastUpdated": "2025-12-18T19:33:57.232Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9021,14 +9021,102 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7538640321828784392/detail",
       "discordThreadId": "1451294875898351748",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-video-on-demand-algorithm-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-video-on-demand-algorithm-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
+      "postedToDiscord": "2025-12-18T19:33:29.111Z",
+      "sourceDate": "2025-08-16T00:21:01.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538304000404244743",
+      "discordThreadId": "1451296317254009033",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-backend-software-engineer-intern-foundation-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-backend-software-engineer-intern-foundation-platform-san-jose",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Foundation Platform",
+      "postedToDiscord": "2025-12-18T19:33:32.626Z",
+      "sourceDate": "2025-08-16T00:20:58.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538307729329277202",
+      "discordThreadId": "1451296331552264283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-backend-software-engineer-intern-media-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-backend-software-engineer-intern-media-platform-san-jose",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Media Platform",
+      "postedToDiscord": "2025-12-18T19:33:32.634Z",
+      "sourceDate": "2025-08-16T00:20:58.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538301580093720840",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-monetization-technology-ads-creative-ai-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-monetization-technology-ads-creative-ai-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Monetization Technology - Ads Creative AI - BS/MS",
+      "postedToDiscord": "2025-12-18T19:33:36.298Z",
+      "sourceDate": "2025-08-16T00:18:07.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535617494221048082",
+      "discordThreadId": "1451296346387513466",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-short-video-content-understanding-multimodal-recommendation-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-short-video-content-understanding-multimodal-recommendation-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok Short Video Content Understanding/Multimodal Recommendation",
+      "postedToDiscord": "2025-12-18T19:33:42.923Z",
+      "sourceDate": "2025-08-16T00:21:08.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7538495412894976264",
+      "discordThreadId": "1451296374250274972",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "General Hire – Machine Learning Engineer Intern - Commerce& Content Service & Search Ads - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T19:33:46.952Z",
+      "sourceDate": "2025-08-16T00:18:08.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534855949620119815",
+      "discordThreadId": "1451296389475602493",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-ai-ml-intern-machine-learning-engineer-seattle-2025-12-18-1",
+      "jobId": "adobe-ai-ml-intern-machine-learning-engineer-seattle",
+      "company": "Adobe",
+      "title": "AI/ML Intern - Machine Learning Engineer",
+      "postedToDiscord": "2025-12-18T19:33:50.586Z",
+      "sourceDate": "2025-08-15T23:08:09.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
+      "discordThreadId": "1451296406416527536",
+      "instanceNumber": 1
+    },
+    {
+      "id": "prosidian-consulting-apprenticeship-data-analyst-washington-2025-12-18-1",
+      "jobId": "prosidian-consulting-apprenticeship-data-analyst-washington",
+      "company": "Prosidian Consulting",
+      "title": "Apprenticeship Data Analyst",
+      "postedToDiscord": "2025-12-18T19:33:57.232Z",
+      "sourceDate": "2025-08-15T23:08:47.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
+      "discordThreadId": "1451296434543530177",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 820,
+    "totalJobs": 828,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T19:27:45.586Z",
+      "date": "2025-12-18T19:33:57.232Z",
       "archived": 0
     }
   }
