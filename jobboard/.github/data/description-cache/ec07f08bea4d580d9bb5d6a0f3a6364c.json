@@ -1,0 +1,17 @@
+{
+  "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "About the Role We are seeking a Software Intern to support the development of tools frameworks and applications that enable neural network models to run efficiently on TetraMems novel analog compute in memory chips This is an exciting opportunity to work at the intersection of software hardware and artificial intelligence Responsibilities Develop and optimize Python or C code for neural network and machine learning model compression conversion deployment and runtime environments Analyze and adapt ML models for to improve their compatibility and efficiency on compute in memory hardware and software Support software design development and performance profiling Collaborate with AI researchers and hardware engineers to validate system level functionality Participate in code reviews testing and documentation Qualifications Currently pursuing a degree in Computer Science Electrical Engineering or related field Solid programming experience in Python C or similar Understanding of data structures algorithms and software architecture Familiarity with AIML frameworks eg TensorFlow PyTorch is a plus Strong problem solving skills and eagerness to learn Salary Range 35 45 USDhr",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209",
+      "fetchedAt": "2025-12-18T20:06:27.322Z"
+    }
+  },
+  "cachedAt": 1766088387322
+}

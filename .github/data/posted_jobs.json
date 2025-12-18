@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T19:55:55.052Z",
+  "lastUpdated": "2025-12-18T20:06:57.974Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9285,14 +9285,102 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
       "discordThreadId": "1451301960660684923",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-nosql-databases-seattle-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-nosql-databases-seattle",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Nosql Databases",
+      "postedToDiscord": "2025-12-18T20:06:37.013Z",
+      "sourceDate": "2025-08-15T20:15:43.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535621760088901895/detail",
+      "discordThreadId": "1451304655064662107",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-relational-database-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-relational-database-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Relational Database",
+      "postedToDiscord": "2025-12-18T20:06:37.024Z",
+      "sourceDate": "2025-08-15T20:15:36.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535645811629508871/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-development-engineer-intern-foundation-software-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-development-engineer-intern-foundation-software-san-jose",
+      "company": "ByteDance",
+      "title": "Software Development Engineer Intern - Foundation Software",
+      "postedToDiscord": "2025-12-18T20:06:40.696Z",
+      "sourceDate": "2025-08-15T20:15:11.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7537384687636072711/detail",
+      "discordThreadId": "1451304669451391027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-2026-intern-software-engineer-seattle-2025-12-18-1",
+      "jobId": "adobe-2026-intern-software-engineer-seattle",
+      "company": "Adobe",
+      "title": "2026 Intern - Software Engineer",
+      "postedToDiscord": "2025-12-18T20:06:44.169Z",
+      "sourceDate": "2025-08-15T20:09:18.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Software-Engineer_R158531",
+      "discordThreadId": "1451304684643029185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "automated-systems-of-tacoma-software-engineering-intern-tacoma-2025-12-18-1",
+      "jobId": "automated-systems-of-tacoma-software-engineering-intern-tacoma",
+      "company": "Automated Systems of Tacoma",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T20:06:47.575Z",
+      "sourceDate": "2025-08-15T13:39:25.000Z",
+      "sourceUrl": "https://automatedsystemsoftacoma.applytojob.com/apply/MfHgBZerZd/Software-Engineering-Intern-2026",
+      "discordThreadId": "1451304699419693229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "transperfect-software-engineer-intern-new-york-2025-12-18-1",
+      "jobId": "transperfect-software-engineer-intern-new-york",
+      "company": "TransPerfect",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T20:06:50.951Z",
+      "sourceDate": "2025-08-15T13:37:43.000Z",
+      "sourceUrl": "https://transperfect.wd5.myworkdayjobs.com/en-US/transperfect/job/US-New-York-NY-1250-Broadway/Software-Engineer-Intern_R2025-242116",
+      "discordThreadId": "1451304713222885438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineering-intern-cedar-rapids-2025-12-18-1",
+      "jobId": "rtx-software-engineering-intern-cedar-rapids",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T20:06:54.486Z",
+      "sourceDate": "2025-08-15T13:27:41.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineering-Intern--Summer-2026---Onsite-_01786507",
+      "discordThreadId": "1451304727823388712",
+      "instanceNumber": 1
+    },
+    {
+      "id": "morgan-stanley-firmwide-ai-strategy-solutions-summer-analyst-program-new-york-2025-12-18-1",
+      "jobId": "morgan-stanley-firmwide-ai-strategy-solutions-summer-analyst-program-new-york",
+      "company": "Morgan Stanley",
+      "title": "Firmwide AI Strategy & Solutions Summer Analyst Program",
+      "postedToDiscord": "2025-12-18T20:06:57.974Z",
+      "sourceDate": "2025-08-15T13:25:21.000Z",
+      "sourceUrl": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-f03044b2dac6/spa-1/candidate/so/pm/1/pl/1/opp/19975-2026-Firmwide-AI-Strategy-Solutions-Summer-Analyst-Program-New-York/en-GB",
+      "discordThreadId": "1451304742272897056",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 844,
+    "totalJobs": 852,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T19:55:55.052Z",
+      "date": "2025-12-18T20:06:57.974Z",
       "archived": 0
     }
   }
