@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:42:52.126Z",
+  "lastUpdated": "2025-12-18T22:49:22.817Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10693,14 +10693,102 @@
       "sourceUrl": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
       "discordThreadId": "1451343976786300948",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-payment-architecture-global-payment-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-payment-architecture-global-payment-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Payment Architecture - Global Payment",
+      "postedToDiscord": "2025-12-18T22:48:55.344Z",
+      "sourceDate": "2025-08-05T16:07:01.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
+      "discordThreadId": "1451345500308508866",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-data-ecosystem-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-data-ecosystem-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (Data Ecosystem)",
+      "postedToDiscord": "2025-12-18T22:48:58.794Z",
+      "sourceDate": "2025-08-05T03:19:45.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533388869200333074",
+      "discordThreadId": "1451345514598502505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "baseten-software-engineering-intern-new-york-2025-12-18-1",
+      "jobId": "baseten-software-engineering-intern-new-york",
+      "company": "Baseten",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T22:49:02.459Z",
+      "sourceDate": "2025-08-05T02:28:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
+      "discordThreadId": "1451345529714905209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "copart-mobile-developer-intern-ai-ml-dallas-2025-12-18-1",
+      "jobId": "copart-mobile-developer-intern-ai-ml-dallas",
+      "company": "Copart",
+      "title": "Mobile Developer Intern (AI / ML)",
+      "postedToDiscord": "2025-12-18T22:49:06.045Z",
+      "sourceDate": "2025-08-05T02:23:35.000Z",
+      "sourceUrl": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
+      "discordThreadId": "1451345544332050576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-seattle-2025-12-18-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-seattle",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
+      "postedToDiscord": "2025-12-18T22:49:12.531Z",
+      "sourceDate": "2025-08-06T05:27:55.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535156966491146503/detail",
+      "discordThreadId": "1451345572668899360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-conversational-ai-2026-start-phd-seattle-2025-12-18-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-conversational-ai-2026-start-phd-seattle",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - E-commerce-Conversational AI - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-18T22:49:15.917Z",
+      "sourceDate": "2025-08-06T05:18:17.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535156928172132626/detail",
+      "discordThreadId": "1451345586967285861",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-tiktok-intelligent-creation-generative-ai-and-graphics-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-tiktok-intelligent-creation-generative-ai-and-graphics-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
+      "postedToDiscord": "2025-12-18T22:49:19.409Z",
+      "sourceDate": "2025-08-05T03:18:54.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533029779479791890",
+      "discordThreadId": "1451345601286504642",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-privacy-security-in-llm-driven-agentic-systems-phd-internship-state-college-2025-12-18-1",
+      "jobId": "pennstate-university-privacy-security-in-llm-driven-agentic-systems-phd-internship-state-college",
+      "company": "PennState University",
+      "title": "Privacy/Security in LLM-Driven Agentic Systems PhD Internship",
+      "postedToDiscord": "2025-12-18T22:49:22.817Z",
+      "sourceDate": "2025-08-04T22:07:24.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
+      "discordThreadId": "1451345615752794289",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 972,
+    "totalJobs": 980,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:42:52.126Z",
+      "date": "2025-12-18T22:49:22.817Z",
       "archived": 0
     }
   }
