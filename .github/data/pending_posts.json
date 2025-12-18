@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Hewlett Packard Enterprise",
-      "job_city": "Spring",
-      "job_state": "TX",
-      "job_description": "Software Engineering Intern This role has been designed as ‘Hybrid’ with an expectation that you will work on average 2 days per week from an HPE office.Who We Are:Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on finding new and better ways to accelerate what’s next. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good. If you are looking to stretch and grow your career our culture will embrace you. Open up opportunities with HPE.Job Description: This requestion may be classified as on desk or hybrid depending on location and role.Job Family Definition:Designs, develops, troubleshoots and debugs software programs for software enhancements and new products. Develops software including operating systems, compilers, routers, networks, utilities, databases and Internet-related tools. Determines hardware compatibility and/or influences hardware design.Management Level Definition:Contributes to assignments of limited scope by applying technical concepts and theoretical knowledge acquired through specialized training, education, or previous experience. Acts as team member by providing information, analysis and recommendations in support of team efforts. Exercises independent judgment within defined parameters.Responsibilities:• Codes and programs enhancements, updates, and changes for portions and subsystems of systems software, including operating systems, compliers, networking, utilities, databases, and Internet-related tools• Executes established test plans and protocols for assigned portions of code; identifies, logs, and debugs assigned issues.• Develops understanding of and relationship with internal and outsourced development partners on software systems design and development.• Participates as a member of a project team of other software systems engineers and internal and outsourced development partners to develop reliable, cost effective and high quality solutions for low to moderately- complex products.Intern Education & Experience Required:Working towards a Bachelor's and/or Master's degree with a focus in Computer Science, Information Systems, or equivalent.Knowledge and Skills:• Experience or understanding of software systems design tools and languages.• Good analytical and problem-solving skills.• Understanding of design for software systems running on multiple platform types• Good written and verbal communication skills; mastery in English and local language.• Understanding of basic testing, coding, and debugging procedures• Good written and verbal communication skills; mastery in English and local languageAdditional Skills:What We Can Offer You:Health & WellbeingWe strive to provide our team members and their loved ones with a comprehensive suite of benefits that supports their physical, financial and emotional wellbeing.Personal & Professional DevelopmentWe also invest in your career because the better you are, the better we all are. We have specific programs catered to helping you reach any career goals you have — whether you want to become a knowledge expert in your field or apply your skills to another division.Unconditional InclusionWe are unconditionally inclusive in the way we work and celebrate individual uniqueness. We know varied backgrounds are valued and succeed here. We have the flexibility to manage our work and personal needs. We make bold moves, together, and are a force for good.Let's Stay Connected:Follow @HPECareers on Instagram to see the latest on people, culture and tech at HPE. #unitedstates#internsJob:EngineeringJob Level:N/A \"The expected salary/wage range for this position is provided below. Actual offer may vary from this range based upon geographic location, work experience, education/training, and/or skill level. – United States of America: Hourly Salary USD 35.00 - 46.00 in Massachusetts // 35.00 - 46.00 in California // 35.00 - 46.00 in Minnesota & North Carolina & Texas & WisconsinThe listed salary range reflects base salary. Variable incentives may also be offered.\"Information about employee benefits offered in the US can be found at https://myhperewards.com/main/new-hire-enrollment.htmlHPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT employer. We do not discriminate on the basis of race, gender, or any other protected category, and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together. Please click here: Equal Employment Opportunity.Hewlett Packard Enterprise is EEO Protected Veteran/ Individual with Disabilities. HPE will comply with all applicable laws related to employer use of arrest and conviction records, including laws requiring employers to consider for employment qualified applicants with criminal histories. No Fees Notice & Recruitment Fraud Disclaimer It has come to HPE’s attention that there has been an increase in recruitment fraud whereby scammer impersonate HPE or HPE-authorized recruiting agencies and offer fake employment opportunities to candidates. These scammers often seek to obtain personal information or money from candidates. Please note that Hewlett Packard Enterprise (HPE), its direct and indirect subsidiaries and affiliated companies, and its authorized recruitment agencies/vendors will never charge any candidate a registration fee, hiring fee, or any other fee in connection with its recruitment and hiring process. The credentials of any hiring agency that claims to be working with HPE for recruitment of talent should be verified by candidates and candidates shall be solely responsible to conduct such verification. Any candidate/individual who relies on the erroneous representations made by fraudulent employment agencies does so at their own risk, and HPE disclaims liability for any damages or claims that may result from any such communication.",
-      "job_apply_link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961",
-      "job_posted_at_datetime_utc": "2025-08-15T22:59:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hewlett-packard-enterprise-software-engineering-intern-spring",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Edge Platform",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Edge Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538121437628221703/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T22:44:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-edge-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Relational Database",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for [Online Assessment] Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535874373627971848/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T22:44:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-relational-database-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Virtual Network",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Intern(Virtual Network) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537164763424606482/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T22:20:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-intern-virtual-network-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Traffic Platform",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Traffic Platform)- 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537845175444670727/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T22:20:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-traffic-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - SDN Traffic Intelligence & Control - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Research Intern(SDN Traffic Intelligence & Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537161874254776583/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T22:19:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-intern-sdn-traffic-intelligence-control-phd-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer Intern - Network Automation",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for [Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537152240618195208/detail",
-      "job_posted_at_datetime_utc": "2025-08-15T21:35:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-intern-network-automation-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
-      "job_title": "Artificial Intelligence Analyst Intern",
-      "employer_name": "Interactions",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Job DescriptionThis is a temporary position for 10-15 weeks in which a student in a technical program (CS, IT, Infosec, etc.) will devise a GenAI-based solution for automating our receipt, processing, and response to customer audit questionnaires.Job DescriptionDevelop a program for leveraging AI tools, agents, LLMs, etc. in support of a Third-Party Risk Management (TPRM) Program, specifically focused on handling responses to customer audits of us.Specifically, the solution should be able to parse incoming queries (which may take many forms, spreadsheets being the simplest), locate answers from existing documentation which includes previous responses to similar questions, and populate the response information into the appropriate platform or document.Additionally, and as time allows:Support the security and IT teams with various efforts, projects, and programsManage projects and tasks as assignedHelp ensure overall compliance with governance and security models (e.g. NIST Cybersecurity framework controls, Interactions policies, standards, and procedures)Respond to requests for assistance from business units and other internal customersKeep the Security Manager apprised of activities, issues, commitments, etc.Summarize technical details into high-level requirements for presentation to CISO and other managementJob RequirementsActive pursuit of bachelor’s degree in Computer Science, Computer Security, Information Technology or other relevant fieldExperience with Generative AI tools, trends, and usesAbility to take initiative and work both independently and as part of a team.Good verbal communications skills and concise written communication skillsGood organization and multi-tasking skills.Familiarity with the business impact of security tools, technologies and policiesFamiliarity with current security trends and threatsWorking knowledge of operating systems, networks, TCP/IP, and related conceptsWhy Work at Interactions?We've created a culture of people who are dedicated to helping each other and the company succeed. We take time to celebrate wins and recognize accomplishments. Whether it’s a seasonal event or friendly competition, we’re always thinking of new ways to have fun.Our team's health and well-being is important to us. In addition to a full suite of benefits, we offer 5 weeks of time off with pay, 401k matching, paid parental leave and flexible work schedules. We are all committed to the company’s success by being valued shareowners and are incentivized through individual performance and company results. Come join us!Interactions is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, marital status, age, disability or protected veteran status, or any other characteristic protected by law.",
-      "job_apply_link": "https://interactions.wd1.myworkdayjobs.com/en-US/Interactions/job/United-States---Remote/Artificial-Intelligence-Analyst-Intern_R0002002",
-      "job_posted_at_datetime_utc": "2025-08-15T21:12:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "interactions-artificial-intelligence-analyst-intern-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": "2025-12-18T19:44:55.321Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Financial Product - Global Payment",
       "employer_name": "ByteDance",
       "job_city": "San Jose",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:44:20.528Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:55:58.066Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Development Engineer Intern(Foundation Software)- 2026 Summer (MS/BS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7537384687636072711/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:15:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-intern-foundation-software-san-jose"
+      "id": "bytedance-software-development-engineer-intern-foundation-software-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "Adobe",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Adobe in this exciting opportunity.",
+      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity Adobe is seeking talented and passionate Software Engineer interns across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products. Adobe software engineer interns can work directly on products for our Creative Cloud, Document Cloud, or Experience Cloud teams, or they can be immersed in the world of our cloud-based platform - diving into components of our infrastructure or solving problems with big data. We have openings for all interests – web developers, mobile developers, data engineers, frontend development, back–end development, full stack development - the opportunities are endless! All 2026 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities. What You’ll Do Develop high-performance, reliable, testable and maintainable code. Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation. Collaborate with engineers and participate in daily or weekly stand ups and meetings. Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you. Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication. Additional responsibilities as needed based on specific role or team What You Need to Succeed Currently enrolled full time and pursuing a Bachelor's or Master’s in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience required with an expected graduation date of December 2026 – June 2027 Strong technical background with analytical and problem-solving skills Previous related experience in software engineering (applicable coursework, projects, internships, etc.) Proficiency and experience with at least one or more of the following: Java, C++, JavaScript, Python Familiar with the software development lifecycle - designing, developing, deploying, and maintaining web and mobile apps Results-oriented, with ability and interest in learning new technologies and adapting quickly to new requirements and environments Excellent verbal and written communication skills; can effectively articulate complex ideas and influence others through well-reasoned explanations. Ability to participate in a full-time internship between May-September Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $38.00 -- $51.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
       "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Software-Engineer_R158531",
       "job_posted_at_datetime_utc": "2025-08-15T20:09:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "adobe-2026-intern-software-engineer-seattle"
+      "id": "adobe-2026-intern-software-engineer-seattle",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -486,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-08-15T13:39:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "automated-systems-of-tacoma-software-engineering-intern-tacoma"
+      "id": "automated-systems-of-tacoma-software-engineering-intern-tacoma",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -504,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-15T13:37:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "transperfect-software-engineer-intern-new-york"
+      "id": "transperfect-software-engineer-intern-new-york",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -522,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-15T13:27:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rtx-software-engineering-intern-cedar-rapids"
+      "id": "rtx-software-engineering-intern-cedar-rapids",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -540,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-15T13:25:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "morgan-stanley-firmwide-ai-strategy-solutions-summer-analyst-program-new-york"
+      "id": "morgan-stanley-firmwide-ai-strategy-solutions-summer-analyst-program-new-york",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "Notion",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Notion in this exciting opportunity.",
+      "job_description": "About Us: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money. In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays. This internship will take place from May - September (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time. About The Role: Millions of people use Notion — and this number is increasing every day. That means a million people trust us to deliver a fast, reliable, and secure experience, and we value this more than anything. We want to keep earning trust, while also continuing to amaze our users with the tools they can build in Notion. This is where you come in. During your 12-week internship, you will be paired with a mentor that will help guide you as you work closely with our team to build and ship impactful projects. These projects will drive valuable impact to our customers and engineers. From product engineering, mobile, to infrastructure and security, we have opportunities available on different teams. Take a look at what our past intern cohort worked on with our Blog post here and here and TikTok post. What You'll Achieve: Write clean, secure, tested, and documented code. Design &amp; enhance the Notion platform with new capabilities, as and when the need arises. Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling. Develop, fix and debug software for web services, databases, applications, tools, networks. Qualifications: Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must graduate before July 2027. Previous internship experience. Working towards a proficiency of one or more programming languages such as Typescript, Node.js, Go, Python, Java, Swift, Rust, or Kotlin. You find large challenges exciting and enjoy discovering problems as much as solving them. You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment. This internship will take place from May - September (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time. Skills You’ll Need To Bring: Thoughtful problem-solving: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck. For a backend internship: You have a passion for learning how parts of a system fit together—from the user interface to the data model. Familiarity with relational database systems like Postgres or MySQL is a plus. For a frontend internship: You have a passion for learning technologies (CSS, Javascript, &amp; React) and best practices in front-end architecture, including performance, accessibility and usability. Put users first: You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad. Not ideological about technology: To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go. Empathetic communication: You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed. Team player: For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same. Nice to Haves: You have expertise with specific technologies that are part of our stack, including Typescript, React, Electron, Node.js, AWS, and Postgres. You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work. You have interests outside of technology, such as in art, history, or social sciences. Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Notion. Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know. Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated hourly range for this role is $57/hr for Bachelors and $61/hr for Master’s. By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy and NYLL 144 . #LI-Onsite",
       "job_apply_link": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application",
       "job_posted_at_datetime_utc": "2025-08-14T21:00:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "notion-software-engineer-intern-san-francisco"
+      "id": "notion-software-engineer-intern-san-francisco",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
@@ -576,11 +430,13 @@
       "job_posted_at_datetime_utc": "2025-08-14T11:02:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jump-trading-campus-ml-engineer-intern-chicago"
+      "id": "jump-trading-campus-ml-engineer-intern-chicago",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:55:24.041Z",
     "postedAt": null
   },
   {
