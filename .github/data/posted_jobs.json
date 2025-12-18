@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T21:17:36.879Z",
+  "lastUpdated": "2025-12-18T21:28:23.644Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9989,14 +9989,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7533019095227648263",
       "discordThreadId": "1451322521038360810",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-agentic-ai-engine-data-management-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-agentic-ai-engine-data-management-platform-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Agentic AI Engine - Data Management platform",
+      "postedToDiscord": "2025-12-18T21:27:58.672Z",
+      "sourceDate": "2025-08-08T02:50:08.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534800139048175880",
+      "discordThreadId": "1451325130017079440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-mobile-software-engineer-intern-tiktok-search-san-jose-2025-12-18-1",
+      "jobId": "tiktok-mobile-software-engineer-intern-tiktok-search-san-jose",
+      "company": "TikTok",
+      "title": "Mobile Software Engineer Intern - Tiktok-Search",
+      "postedToDiscord": "2025-12-18T21:28:02.782Z",
+      "sourceDate": "2025-08-08T02:49:17.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535220827098302738",
+      "discordThreadId": "1451325145619628083",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ramp-software-engineer-internship-ios-san-francisco-2025-12-18-1",
+      "jobId": "ramp-software-engineer-internship-ios-san-francisco",
+      "company": "Ramp",
+      "title": "Software Engineer Internship - IOS",
+      "postedToDiscord": "2025-12-18T21:28:06.183Z",
+      "sourceDate": "2025-08-07T22:40:42.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/ramp/8c155b55-3e7e-48a8-ac98-f988a2b6f4da/application",
+      "discordThreadId": "1451325161776091267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-trust-and-safety-cv-nlp-multimodal-llm-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-trust-and-safety-cv-nlp-multimodal-llm-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
+      "postedToDiscord": "2025-12-18T21:28:12.828Z",
+      "sourceDate": "2025-08-08T02:50:56.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527589875165563143",
+      "discordThreadId": "1451325188888334428",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-scientist-intern-tiktok-recommendation-phd-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-scientist-intern-tiktok-recommendation-phd-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern - Tiktok-Recommendation - PhD",
+      "postedToDiscord": "2025-12-18T21:28:16.502Z",
+      "sourceDate": "2025-08-08T02:50:51.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7525650208522193159",
+      "discordThreadId": "1451325203954012351",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-scientist-intern-tiktok-recommendation-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-scientist-intern-tiktok-recommendation-phd-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Scientist Intern - Tiktok-Recommendation - PhD",
+      "postedToDiscord": "2025-12-18T21:28:16.511Z",
+      "sourceDate": "2025-08-08T02:49:17.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7519241729582516487",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-monetization-genai-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-monetization-genai-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Monetization GenAI",
+      "postedToDiscord": "2025-12-18T21:28:20.103Z",
+      "sourceDate": "2025-08-08T02:50:36.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533770205199386887",
+      "discordThreadId": "1451325219519336481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-recommendation-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-recommendation-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS",
+      "postedToDiscord": "2025-12-18T21:28:23.644Z",
+      "sourceDate": "2025-08-08T02:50:27.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527065936093858055",
+      "discordThreadId": "1451325234300059741",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 908,
+    "totalJobs": 916,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T21:17:36.879Z",
+      "date": "2025-12-18T21:28:23.644Z",
       "archived": 0
     }
   }
