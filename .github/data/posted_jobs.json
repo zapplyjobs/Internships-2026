@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:18:56.239Z",
+  "lastUpdated": "2025-12-18T20:31:11.539Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9461,14 +9461,102 @@
       "sourceUrl": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
       "discordThreadId": "1451307755620012113",
       "instanceNumber": 1
+    },
+    {
+      "id": "sonic-healthcare-usa-cache-software-development-intern-dallas-2025-12-18-1",
+      "jobId": "sonic-healthcare-usa-cache-software-development-intern-dallas",
+      "company": "Sonic Healthcare USA",
+      "title": "Cache Software Development Intern",
+      "postedToDiscord": "2025-12-18T20:30:46.354Z",
+      "sourceDate": "2025-08-14T10:17:17.000Z",
+      "sourceUrl": "https://shusa.wd5.myworkdayjobs.com/en-US/External/job/Dallas-TX/Cache-Software-Development_REQ-033017",
+      "discordThreadId": "1451310732971868294",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stoneridge-business-analytics-intern-novi-2025-12-18-1",
+      "jobId": "stoneridge-business-analytics-intern-novi",
+      "company": "Stoneridge",
+      "title": "Business Analytics Intern",
+      "postedToDiscord": "2025-12-18T20:30:50.445Z",
+      "sourceDate": "2025-08-14T08:12:22.000Z",
+      "sourceUrl": "https://stoneridge.wd5.myworkdayjobs.com/careers/job/Novi-MI/Stoneridge-Impact-Program-Intern_JR101043",
+      "discordThreadId": "1451310748645986344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-researcher-intern-vision-and-graphics-phd-san-jose-2025-12-18-1",
+      "jobId": "bytedance-researcher-intern-vision-and-graphics-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Researcher Intern - Vision and Graphics - PhD",
+      "postedToDiscord": "2025-12-18T20:30:54.216Z",
+      "sourceDate": "2025-08-13T07:37:38.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7528196025854380306/detail",
+      "discordThreadId": "1451310766006206707",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-software-firmware-development-intern-moffett-field-2025-12-18-1",
+      "jobId": "kbr-software-firmware-development-intern-moffett-field",
+      "company": "KBR",
+      "title": "Software/Firmware Development Intern",
+      "postedToDiscord": "2025-12-18T20:30:57.656Z",
+      "sourceDate": "2025-08-13T02:37:20.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Moffett-Field-California/Software-Firmware-Development-Intern_R2110543",
+      "discordThreadId": "1451310781172944927",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tetramem-software-machine-learning-intern-fremont-2025-12-18-1",
+      "jobId": "tetramem-software-machine-learning-intern-fremont",
+      "company": "TetraMem",
+      "title": "Software - Machine Learning Intern",
+      "postedToDiscord": "2025-12-18T20:31:04.226Z",
+      "sourceDate": "2025-08-14T10:15:44.000Z",
+      "sourceUrl": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3404209",
+      "discordThreadId": "1451310808289247445",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tetramem-software-embedded-intern-san-jose-2025-12-18-1",
+      "jobId": "tetramem-software-embedded-intern-san-jose",
+      "company": "TetraMem",
+      "title": "Software - Embedded Intern",
+      "postedToDiscord": "2025-12-18T20:31:04.235Z",
+      "sourceDate": "2025-08-14T10:12:38.000Z",
+      "sourceUrl": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "capital-one-current-phd-applied-research-internship-program-cambridge-2025-12-18-1",
+      "jobId": "capital-one-current-phd-applied-research-internship-program-cambridge",
+      "company": "Capital One",
+      "title": "Current PhD – Applied Research Internship Program",
+      "postedToDiscord": "2025-12-18T20:31:08.086Z",
+      "sourceDate": "2025-08-13T21:46:40.000Z",
+      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2026_R218606-1",
+      "discordThreadId": "1451310823199998045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "capital-one-current-phd-data-science-internship-cambridge-2025-12-18-1",
+      "jobId": "capital-one-current-phd-data-science-internship-cambridge",
+      "company": "Capital One",
+      "title": "Current PhD – Data Science Internship",
+      "postedToDiscord": "2025-12-18T20:31:11.539Z",
+      "sourceDate": "2025-08-13T05:22:25.000Z",
+      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Current-PhD---Data-Science-Internship---Summer-2026_R218625-1",
+      "discordThreadId": "1451310839549132943",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 860,
+    "totalJobs": 868,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:18:56.239Z",
+      "date": "2025-12-18T20:31:11.539Z",
       "archived": 0
     }
   }

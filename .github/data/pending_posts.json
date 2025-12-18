@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Notion",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "About Us: Notion helps you build beautiful tools for your life’s work. In today's world of endless apps and tabs, Notion provides one place for teams to get everything done, seamlessly connecting docs, notes, projects, calendar, and email—with AI built in to find answers and automate work. Millions of users, from individuals to large organizations like Toyota, Figma, and OpenAI, love Notion for its flexibility and choose it because it helps them save time and money. In-person collaboration is essential to Notion's culture. We require all team members to work from our offices on Mondays and Thursdays, our designated Anchor Days. Certain teams or positions may require additional in-office workdays. This internship will take place from May - September (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time. About The Role: Millions of people use Notion — and this number is increasing every day. That means a million people trust us to deliver a fast, reliable, and secure experience, and we value this more than anything. We want to keep earning trust, while also continuing to amaze our users with the tools they can build in Notion. This is where you come in. During your 12-week internship, you will be paired with a mentor that will help guide you as you work closely with our team to build and ship impactful projects. These projects will drive valuable impact to our customers and engineers. From product engineering, mobile, to infrastructure and security, we have opportunities available on different teams. Take a look at what our past intern cohort worked on with our Blog post here and here and TikTok post. What You'll Achieve: Write clean, secure, tested, and documented code. Design &amp; enhance the Notion platform with new capabilities, as and when the need arises. Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling. Develop, fix and debug software for web services, databases, applications, tools, networks. Qualifications: Pursuing a bachelor's or master’s degree in computer science, engineering, or another related field. Must graduate before July 2027. Previous internship experience. Working towards a proficiency of one or more programming languages such as Typescript, Node.js, Go, Python, Java, Swift, Rust, or Kotlin. You find large challenges exciting and enjoy discovering problems as much as solving them. You are able to problem-solve and adapt to changing priorities in a fast-paced, dynamic environment. This internship will take place from May - September (based on your summer schedule) and you will need to be able to work out of our NY or SF office during this time. Skills You’ll Need To Bring: Thoughtful problem-solving: For you, problem-solving starts with a clear and accurate understanding of the context. You can decompose tricky problems and work towards a clean solution, by yourself or with teammates. You're comfortable asking for help when you get stuck. For a backend internship: You have a passion for learning how parts of a system fit together—from the user interface to the data model. Familiarity with relational database systems like Postgres or MySQL is a plus. For a frontend internship: You have a passion for learning technologies (CSS, Javascript, &amp; React) and best practices in front-end architecture, including performance, accessibility and usability. Put users first: You think critically about the implications of what you're building, and how it shapes real people's lives. You understand that reach comes with responsibility for our impact—good and bad. Not ideological about technology: To you, technologies and programming languages are about tradeoffs. You may be opinionated, but you're not ideological and can learn new technologies as you go. Empathetic communication: You communicate nuanced ideas clearly, whether you're explaining technical decisions in writing or brainstorming in real time. In disagreements, you engage thoughtfully with other perspectives and compromise when needed. Team player: For you, work isn't a solo endeavor. You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same. Nice to Haves: You have expertise with specific technologies that are part of our stack, including Typescript, React, Electron, Node.js, AWS, and Postgres. You've heard of computing pioneers like Ada Lovelace, Douglas Engelbart, Alan Kay, and others—and understand why we're big fans of their work. You have interests outside of technology, such as in art, history, or social sciences. Our customers come from all walks of life and so do we. We hire great people from a wide variety of backgrounds, not just because it's the right thing to do, but because it makes our company stronger. If you share our values and our enthusiasm for small businesses, you will find a home at Notion. Notion is proud to be an equal opportunity employer. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other applicable legally protected characteristic. Notion considers qualified applicants with criminal histories, consistent with applicable federal, state and local law. Notion is also committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please let your recruiter know. Notion is committed to providing highly competitive cash compensation, equity, and benefits. The compensation offered for this role will be based on multiple factors such as location, the role’s scope and complexity, and the candidate’s experience and expertise, and may vary from the range provided below. For roles based in San Francisco or New York City, the estimated hourly range for this role is $57/hr for Bachelors and $61/hr for Master’s. By clicking “Submit Application”, I understand and agree that Notion and its affiliates and subsidiaries will collect and process my information in accordance with Notion’s Global Recruiting Privacy Policy and NYLL 144 . #LI-Onsite",
-      "job_apply_link": "https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6/application",
-      "job_posted_at_datetime_utc": "2025-08-14T21:00:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "notion-software-engineer-intern-san-francisco",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Campus ML Engineer (Intern)",
-      "employer_name": "Jump Trading",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join Jump Trading in this exciting opportunity.",
-      "job_apply_link": "https://www.jumptrading.com/careers/6916776/?gh_jid=6916776",
-      "job_posted_at_datetime_utc": "2025-08-14T11:02:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jump-trading-campus-ml-engineer-intern-chicago",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:55:24.041Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Campus AI Researcher (Intern)",
-      "employer_name": "Jump Trading",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join Jump Trading in this exciting opportunity.",
-      "job_apply_link": "https://www.jumptrading.com/careers/7141699/?gh_jid=7141699",
-      "job_posted_at_datetime_utc": "2025-08-14T10:59:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jump-trading-campus-ai-researcher-intern-chicago",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Solutions Intern",
-      "employer_name": "NiCE",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "The enterprise AI platform for orchestrating human and AI Agents to automate service, augment work, and accelerate intelligent experiences at scale.",
-      "job_apply_link": "https://job-boards.eu.greenhouse.io/nice/jobs/4654114101?gh_jid=4654114101",
-      "job_posted_at_datetime_utc": "2025-08-14T10:45:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nice-ai-solutions-intern-atlanta",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern Engineer",
-      "employer_name": "General Dynamics",
-      "job_city": "Fort Wayne",
-      "job_state": "IN",
-      "job_description": "Join General Dynamics in this exciting opportunity.",
-      "job_apply_link": "https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity",
-      "job_posted_at_datetime_utc": "2025-08-14T10:43:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-dynamics-intern-engineer-fort-wayne",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Internship",
-      "employer_name": "PDT Partners",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join PDT Partners in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/pdtpartners/jobs/7073180",
-      "job_posted_at_datetime_utc": "2025-08-14T10:36:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pdt-partners-software-engineering-internship-new-york",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Co-op",
-      "employer_name": "Ocean Optics",
-      "job_city": "Rochester",
-      "job_state": "NY",
-      "job_description": "Join Ocean Optics in this exciting opportunity.",
-      "job_apply_link": "https://halma.wd3.myworkdayjobs.com/en-US/halma/job/Rochester/Software-Engineering-Co-op_JR25_000871",
-      "job_posted_at_datetime_utc": "2025-08-14T10:34:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ocean-optics-software-engineering-co-op-rochester",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "GlobalFoundries",
-      "job_city": "Malta",
-      "job_state": "NY",
-      "job_description": "Join GlobalFoundries in this exciting opportunity.",
-      "job_apply_link": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Software-Engineering-Intern--Summer-2026-_JR-2502857?src=JB-10100%E2%80%89%E2%80%89%E2%80%89%E2%80%89%E2%80%89",
-      "job_posted_at_datetime_utc": "2025-08-14T10:21:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "globalfoundries-software-engineering-intern-malta",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": "2025-12-18T20:18:59.255Z"
-  },
-  {
-    "job": {
       "job_title": "Cache Software Development Intern",
       "employer_name": "Sonic Healthcare USA",
       "job_city": "Dallas",
@@ -254,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:06:27.323Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:31:14.555Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534536157456058632",
       "job_posted_at_datetime_utc": "2025-08-13T01:19:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-capital-platform-san-jose"
+      "id": "tiktok-software-engineer-intern-capital-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "Shopify",
       "job_city": "New York",
       "job_state": "New York",
-      "job_description": "Join Shopify in this exciting opportunity.",
+      "job_description": "PRIVATE JOB POSTINGTo view this job posting, please enter the password.Enter passwordSubmitSubmitWork with us in your early careerDev Degree ProgramA 3-4-year program that allows people to earn a computer science degree while working. It’s designed for those looking to break into computer science or transition into the tech field.Learn more about our Dev Degree ProgramInternship ProgramShopify offers 4-month paid Engineering internships that are open to students, recent graduates, and those early in their careers.Learn more about our Internship ProgramAPM ProgramShopify’s 12-month Apprentice Product Manager program is designed to help you gain the skills needed to start a product management career.Learn more about our APM ProgramDesign Apprentice ProgramShopify's 12-month Design Apprentice Program pairs early-career designers with senior mentors through two rotations. Built for new graduates, career switchers, and those early in their design careers.Learn more about our Design Apprentice ProgramTerms of ServicePrivacy Policy",
       "job_apply_link": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
       "job_posted_at_datetime_utc": "2025-08-13T00:30:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "shopify-engineering-internship-new-york"
+      "id": "shopify-engineering-internship-new-york",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for 3D Avatar Research and Development Intern (PICO Perception) - 2025 Fall (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
       "job_posted_at_datetime_utc": "2025-08-12T20:03:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-3d-avatar-research-and-development-intern-pico-perception-san-jose"
+      "id": "bytedance-3d-avatar-research-and-development-intern-pico-perception-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "RESPEC",
       "job_city": "Albuquerque",
       "job_state": "NM",
-      "job_description": "Join RESPEC in this exciting opportunity.",
+      "job_description": "Student Software Engineering InternInternDiscipline: Information TechnologyCompany DescriptionRESPEC seeks a Student Software Engineering Intern for our Summer 2025 program in our Albuquerque office. This is a temporary part-time position. Founded in 1969, RESPEC is a global, 100 percent employee-owned consulting and services company dedicated to delivering innovative solutions to complex challenges for private and public clients. Operating in 14 U.S. states and 2 Canadian provinces, with influence extending to 50 countries worldwide, RESPEC is a leader in water, mining, energy, natural resources, and infrastructure services. Our six market sectors—Mining & Energy, Water, Facilities, Transportation, Development Services, and Data & Technology—reflect our expertise and commitment to excellence. At RESPEC, we thrive on collaboration and partnership, applying advanced technology to achieve sustainable solutions and drive our projects forward. We are deeply invested in our employees’ success and well-being, fostering a supportive and innovative work environment where everyone can grow and contribute meaningfully. Our commitment to excellence is evident in our contributions to local communities and strategic alliances worldwide, ensuring that we continue to inspire and innovate in rapidly evolving technical environments.We do not accept unsolicited resumes from third-party recruiters.Job DescriptionOur Data and Technology technical Interns work under the general direction of a senior-level staff member or a supervisor and are responsible for assisting project teams with coding, planning, quality control, data analysis/entry, and other areas of focus. They are expected to collaborate with one or more technical mentors to assist with various projects.Do you:Talk nerdy?Enjoy puzzles?Love to learn cutting edge technology?Thrive on writing software?Love math?Dream of solving real world problems?If you answered yes to one or all of those questions, then we want to talk to you. At RESPEC, we hire the best of the best that love to learn, solve problems, appreciate a fun-loving culture, and want to be involved. Duties of a Technical Intern may include but are not limited to the following:Creating, modifying, and testing code, forms, and scripts needed to run computer applicationsWorking from specifications written by software developers or other individualsAssisting software developers by analyzing user needs and reviewing software solutionsAssisting in administrative project tasksAssisting the project team in identifying process improvementsAssisting the software development team with software update releasesAutomating test cases by using a variety of test automation toolsWorking with support and implementation teams to investigate production-support issues and perform root-cause analysis.QualificationsEnrolled in an accredited technical school or college and studying toward a degree in computer science, computer engineering, or a related fieldSoftware development knowledge gained through either coursework or job experienceExposure to needs analysis, development, and deployment of software applicationsAdditional InformationSalary depends on experience. This is temporary part-time position. No benefits are offered except what is required for statutory purposes. All your information will be kept confidential according to EEO guidelines. I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
       "job_posted_at_datetime_utc": "2025-08-12T17:58:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "respec-student-software-engineering-intern-albuquerque"
+      "id": "respec-student-software-engineering-intern-albuquerque",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -522,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-12T15:53:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "anduril-industries-software-engineer-intern-atlanta"
+      "id": "anduril-industries-software-engineer-intern-atlanta",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -540,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-08-12T09:17:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "notion-software-engineer-san-francisco"
+      "id": "notion-software-engineer-san-francisco",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -558,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-08-12T09:15:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "notion-software-engineer-ai-san-francisco"
+      "id": "notion-software-engineer-ai-san-francisco",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
@@ -576,11 +430,13 @@
       "job_posted_at_datetime_utc": "2025-08-12T09:11:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "notion-software-engineer-mobile-san-francisco"
+      "id": "notion-software-engineer-mobile-san-francisco",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:30:36.502Z",
     "postedAt": null
   },
   {
