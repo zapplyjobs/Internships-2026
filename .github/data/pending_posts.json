@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern - Global CRM",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Global CRM) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7532247736243865864",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-global-crm-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern - Tiktok - Nextgen Recommendation - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Intern (TikTok - NextGen Recommendation) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7519768631745087752",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-research-scientist-intern-tiktok-nextgen-recommendation-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Tiktok-Content Ecology - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Scientist Intern (TikTok-Content Ecology—LLM application) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7532390182411405586",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-content-ecology-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern - Trust and Safety - CV/NLP/Multimodal LLM - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Intern- (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Start(PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7527582397938223367",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-research-scientist-intern-trust-and-safety-cv-nlp-multimodal-llm-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Tiktok Search Local Services team - 2026 Summer - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern - TikTok Search Local Services team - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534626464240994568",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-local-services-team-2026-summer-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Experimentation & Evaluation - Data Platform",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534793633532479751",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-experimentation-evaluation-data-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Trust and Safety - CV/NLP/Multimodal LLM",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Summer(BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7527589557336869138",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-trust-and-safety-cv-nlp-multimodal-llm-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Tiktok Search E-Commerce team - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern - TikTok Search E-Commerce team - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534626087721240839",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-e-commerce-team-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:30:44.320Z"
-  },
-  {
-    "job": {
       "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS",
       "employer_name": "TikTok",
       "job_city": "Seattle",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:42:55.139Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
       "job_posted_at_datetime_utc": "2025-08-05T16:07:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-payment-architecture-global-payment-san-jose"
+      "id": "bytedance-software-engineer-intern-payment-architecture-global-payment-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Data Ecosystem) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533388869200333074",
       "job_posted_at_datetime_utc": "2025-08-05T03:19:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-data-ecosystem-san-jose"
+      "id": "tiktok-software-engineer-intern-data-ecosystem-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)- 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533029779479791890",
       "job_posted_at_datetime_utc": "2025-08-05T03:18:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-tiktok-intelligent-creation-generative-ai-and-graphics-san-jose"
+      "id": "tiktok-software-engineer-intern-tiktok-intelligent-creation-generative-ai-and-graphics-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -504,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-05T02:28:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "baseten-software-engineering-intern-new-york"
+      "id": "baseten-software-engineering-intern-new-york",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -522,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-08-05T02:23:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "copart-mobile-developer-intern-ai-ml-dallas"
+      "id": "copart-mobile-developer-intern-ai-ml-dallas",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "PennState University",
       "job_city": "State College",
       "job_state": "PA",
-      "job_description": "Join PennState University in this exciting opportunity.",
+      "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants. Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants.  JOB DESCRIPTION AND POSITION REQUIREMENTSThe College/Unit of IST is seeking applicants for part-time job of Privacy/Security in LLM-Driven Agentic Systems PhD Internship w/ Dr. SharmaAbout the Project:Governance, Privacy and Security Lab is conducting research at the intersection of security, privacy, and AI systems design. The goal of this project is to create a structured analysis of information flow in modular, LLM-driven agentic systems. The focus is on identifying security, privacy, and control failures that emerge when autonomous modules interact across loosely enforced system boundaries. We also would like to estimate the value of privacy and security in the agentic systems from users perspective. Internship Role:We are seeking a highly motivated PhD intern (part-time research role) to support the development of tools, models, and taxonomies that expose and mitigate vulnerabilities in LLM-driven agentic systems. You will work closely with team to:Analyze modular architectures for unanticipated information flowFormalize information flow motifs and their associated threat vectorsAssist in developing a layered threat model aligned with NIST Cybersecurity Framework principlesApply causal tracing, influence tracking, and behavioral audit techniques to real-world agentic systemsContribute to an academic paper and open-source toolsQualifications:Enrolled in a PhD program in Computer Science, Information Science, Cybersecurity, or related fieldsResearch experience in one or more of the following: LLMs, multi-agent systems, privacy/ securityAnalytical and writing skillsExperience with LLM agent frameworks or security auditing tools is a plusApply:Please apply to the position to be considered. Please upload a CV, and a sample publication or writing sample. Applications are reviewed on a rolling basis.Compensation:The starting rate for this job is $18, 20 hours/week. BACKGROUND CHECKS/CLEARANCESEmployment with the University will require successful completion of background check(s) in accordance with University policies.   CAMPUS SECURITY CRIME STATISTICSPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here. EEO IS THE LAWPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473. The Pennsylvania State University is committed to and accountable for advancing equity, respect, and belonging in all its forms. We embrace individual uniqueness, as well as a culture of belonging that supports both broad and specific equity initiatives, leverages the educational and institutional benefits of inclusion in society, and provides opportunities for engagement intended to help all members of the community thrive. We value belonging as a core strength and an essential element of the university’s teaching, research, and service mission. Federal Contractors Labor Law PosterPA State Labor Law PosterPenn State PoliciesCopyright InformationHotlines",
       "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
       "job_posted_at_datetime_utc": "2025-08-04T22:07:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pennstate-university-privacy-security-in-llm-driven-agentic-systems-phd-internship-state-college"
+      "id": "pennstate-university-privacy-security-in-llm-driven-agentic-systems-phd-internship-state-college",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -558,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-08-03T22:47:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sony-research-intern-on-generative-ai-for-content-creation-new-york"
+      "id": "sony-research-intern-on-generative-ai-for-content-creation-new-york",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "Williams-Sonoma",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Williams-Sonoma in this exciting opportunity.",
+      "job_description": "We’re looking for talented research interns for our engineering team focusing on delivering new visual experiences. The team works on problems in imaging, computer vision, graphics, and machine learning.",
       "job_apply_link": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/15762",
       "job_posted_at_datetime_utc": "2025-08-02T02:10:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "williams-sonoma-research-engineering-internship-ai-computer-vision-visualization-san-jose"
+      "id": "williams-sonoma-research-engineering-internship-ai-computer-vision-visualization-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:42:14.119Z",
     "postedAt": null
   },
   {

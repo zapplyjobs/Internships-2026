@@ -1,12 +1,12 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2025-12-18T22:30:39.805Z",
-  "totalPosts": 297,
+  "lastUpdated": "2025-12-18T22:42:50.625Z",
+  "totalPosts": 313,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 85,
-      "lastPost": "2025-12-18T22:30:16.997Z"
+      "posts": 91,
+      "lastPost": "2025-12-18T22:42:38.730Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa-int",
@@ -20,28 +20,28 @@
     },
     "1449956348543369464": {
       "name": "🤠・austin-int",
-      "posts": 5,
-      "lastPost": "2025-12-18T20:30:44.854Z"
+      "posts": 6,
+      "lastPost": "2025-12-18T22:42:33.486Z"
     },
     "1446528260627501228": {
       "name": "🤖・ai-internships",
-      "posts": 49,
-      "lastPost": "2025-12-18T22:30:38.115Z"
+      "posts": 51,
+      "lastPost": "2025-12-18T22:42:48.928Z"
     },
     "1449956487584682044": {
       "name": "🌆・chicago-int",
-      "posts": 9,
-      "lastPost": "2025-12-18T21:35:35.983Z"
+      "posts": 10,
+      "lastPost": "2025-12-18T22:42:26.453Z"
     },
     "1449956664458350765": {
       "name": "🌉・san-francisco-int",
-      "posts": 84,
-      "lastPost": "2025-12-18T22:30:39.805Z"
+      "posts": 85,
+      "lastPost": "2025-12-18T22:42:50.625Z"
     },
     "1449956514344472617": {
       "name": "🌧️・seattle-int",
-      "posts": 26,
-      "lastPost": "2025-12-18T22:17:54.675Z"
+      "posts": 28,
+      "lastPost": "2025-12-18T22:42:47.091Z"
     },
     "1446528167362822296": {
       "name": "📈・data-science-internships",
@@ -50,13 +50,13 @@
     },
     "1449956299793105019": {
       "name": "🗽・new-york-int",
-      "posts": 7,
-      "lastPost": "2025-12-18T20:54:58.384Z"
+      "posts": 9,
+      "lastPost": "2025-12-18T22:42:40.460Z"
     },
     "1449956833165971568": {
       "name": "🦢・los-angeles-int",
-      "posts": 1,
-      "lastPost": "2025-12-18T20:30:56.155Z"
+      "posts": 2,
+      "lastPost": "2025-12-18T22:42:30.077Z"
     }
   }
 }
