@@ -1,0 +1,17 @@
+{
+  "url": "https://www.bill.com/job?gh_jid=5588103004",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "BILL's mission is to make it simple to connect and do business. We're always looking for talented people to join our growing team. Find jobs at BILL.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://www.bill.com/job?gh_jid=5588103004",
+      "fetchedAt": "2025-12-18T23:17:11.426Z"
+    }
+  },
+  "cachedAt": 1766099831426
+}
