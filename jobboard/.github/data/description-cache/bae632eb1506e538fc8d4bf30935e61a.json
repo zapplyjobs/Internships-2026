@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "Gimlet Labs is building the foundation for the next generation of AI applications. As generative AI workloads rapidly scale, inference efficiency is becoming the critical bottleneck. Gimlet is redefining AI inference from the ground up, combining cutting-edge research with an integrated hardware-software stack that delivers breakthrough performance, efficiency, and model quality. Gimlet pairs its inference stack with a seamless developer experience, allowing users to deploy, manage, and monitor AI workloads from frameworks like PyTorch and LangChain at production scale in seconds. Gimlet is spun out of a Stanford research project under Professors Zain Asgar and Sachin Katti. The founding team has deep experience across AI, distributed systems, and hardware with previous successful exits. Gimlet Labs is seeking a Software Engineer (Intern) to help develop Gimlet’s platform for deploying and monitoring AI workloads. In this role, you will be applying the latest AI techniques to develop frameworks to help generate and optimize AI workloads. You will contribute to Gimlet’s novel compilation framework for partitioning and orchestrating AI workloads across diverse hardware environments. You will design and implement scalable systems that can run production workloads of millions of requests a second. Responsibilities: Building, deploying and scaling AI systems for production Evaluating and implementing cutting-edge AI research Researching ways to improve model accuracy, performance and efficiency Qualifications: Currently pursuing degree in computer science, engineering, or comparable area of study Experience with AI/ML or distributed systems. Preferred Qualifications: Experience with PyTorch, TensorFlow, ONNX and other AI frameworks Familiarity with distributed systems and orchestration frameworks (e.g., Kubernetes) Software development experience with Python and C++ Understanding of the latest AI research and techniques",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
+      "fetchedAt": "2025-12-18T22:29:52.640Z"
+    }
+  },
+  "cachedAt": 1766096992640
+}

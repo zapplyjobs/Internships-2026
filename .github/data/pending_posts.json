@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "AI/ML Software Engineer Intern - Data Platform",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7499689149813950727",
-      "job_posted_at_datetime_utc": "2025-08-07T08:19:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-ai-ml-software-engineer-intern-data-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:53:26.468Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - Creative AI - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7488883963248904456",
-      "job_posted_at_datetime_utc": "2025-08-07T08:19:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-creative-ai-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:53:26.468Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer Intern - Ads Data",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Data Engineer Intern (Ads Data) - 2025 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7478174818136000776",
-      "job_posted_at_datetime_utc": "2025-08-07T08:18:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-data-engineer-intern-ads-data-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7488085993833613575",
-      "job_posted_at_datetime_utc": "2025-08-07T08:18:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - E-commerce-Intelligent Customer Service - PhD",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7397445014442740018",
-      "job_posted_at_datetime_utc": "2025-08-07T08:18:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-e-commerce-intelligent-customer-service-phd-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern – Lead Ads - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Lead Ads) - 2025 Fall (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7483748420286859527",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-lead-ads-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Platform efficiency",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7530513185797359880",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-platform-efficiency-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
-      "job_title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Frontend Engineer Intern (Trust and Safety-Engineering-Risk & Response) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7527613337334188306",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-frontend-engineer-intern-trust-and-safety-engineering-risk-response-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": "2025-12-18T22:18:05.572Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Global CRM",
       "employer_name": "TikTok",
       "job_city": "San Jose",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:03:22.839Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:30:44.320Z"
   },
   {
     "job": {
@@ -450,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-08-07T05:49:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "jump-trading-campus-ui-software-engineer-intern-chicago"
+      "id": "jump-trading-campus-ui-software-engineer-intern-chicago",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "Roblox",
       "job_city": "San Mateo",
       "job_state": "CA",
-      "job_description": "Join Roblox in this exciting opportunity.",
+      "job_description": "For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual hourly rate could fall outside of this expected range. This pay range is subject to change and may be modified in the future. Please note that not all benefits shown on this page are applicable to internship opportunities.",
       "job_apply_link": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
       "job_posted_at_datetime_utc": "2025-08-07T05:46:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "roblox-software-engineer-intern-san-mateo"
+      "id": "roblox-software-engineer-intern-san-mateo",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -486,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-08-07T04:32:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "confluent-software-engineering-intern-austin"
+      "id": "confluent-software-engineering-intern-austin",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -504,11 +350,13 @@
       "job_posted_at_datetime_utc": "2025-08-07T00:44:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "talos-trading-software-engineer-intern-backend-dealer-new-york"
+      "id": "talos-trading-software-engineer-intern-backend-dealer-new-york",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "Gimlet Labs",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Gimlet Labs in this exciting opportunity.",
+      "job_description": "Gimlet Labs is building the foundation for the next generation of AI applications. As generative AI workloads rapidly scale, inference efficiency is becoming the critical bottleneck. Gimlet is redefining AI inference from the ground up, combining cutting-edge research with an integrated hardware-software stack that delivers breakthrough performance, efficiency, and model quality. Gimlet pairs its inference stack with a seamless developer experience, allowing users to deploy, manage, and monitor AI workloads from frameworks like PyTorch and LangChain at production scale in seconds. Gimlet is spun out of a Stanford research project under Professors Zain Asgar and Sachin Katti. The founding team has deep experience across AI, distributed systems, and hardware with previous successful exits. Gimlet Labs is seeking a Software Engineer (Intern) to help develop Gimlet’s platform for deploying and monitoring AI workloads. In this role, you will be applying the latest AI techniques to develop frameworks to help generate and optimize AI workloads. You will contribute to Gimlet’s novel compilation framework for partitioning and orchestrating AI workloads across diverse hardware environments. You will design and implement scalable systems that can run production workloads of millions of requests a second. Responsibilities: Building, deploying and scaling AI systems for production Evaluating and implementing cutting-edge AI research Researching ways to improve model accuracy, performance and efficiency Qualifications: Currently pursuing degree in computer science, engineering, or comparable area of study Experience with AI/ML or distributed systems. Preferred Qualifications: Experience with PyTorch, TensorFlow, ONNX and other AI frameworks Familiarity with distributed systems and orchestration frameworks (e.g., Kubernetes) Software development experience with Python and C++ Understanding of the latest AI research and techniques",
       "job_apply_link": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
       "job_posted_at_datetime_utc": "2025-08-06T18:37:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "gimlet-labs-software-engineer-intern-san-francisco"
+      "id": "gimlet-labs-software-engineer-intern-san-francisco",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "Talos Trading",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Talos Trading in this exciting opportunity.",
+      "job_description": "Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission at Talos is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle. At Talos, you'll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe that every member of our team adds invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust and integrity, collaboration, and mutual growth. Together, we are ambitiously building something extraordinary. Your unique talents and insights will play a crucial role in our shared success. We are a tight-knit but decentralized team of highly-experienced engineers and businesspeople. We have a hybrid-friendly work environment, with physical hubs in New York, London, Singapore, Sweden and Cyprus. About the Role As a Front End Software Engineer Intern at Talos, you’ll work with the team as we develop Talos’s new portfolio management system (PMS). Our platform is built from scratch to handle the unique challenges of the digital asset market. Talos operates at the intersection of crypto and capital markets. We build high-performance reactive systems and deliver solutions quickly to keep pace with the changing digital assets space. The team is made up of engineers that know building great systems takes time, and we spend the time to ensure the safety, security and performance of our platform. We value strong communication skills and the ability to get things done in a collaborative environment. Trading systems experience is preferred, but not required. Responsibilities and Duties Collaborate with the team to design, implement, test and deploy high performance user interfaces Work with the product team to deliver solutions that support the full investment lifecycle Collaborate with cross-functional teams to gain a comprehensive understanding of our execution and settlement product in the digital asset ecosystem Engage in ongoing learning and exploration of industry trends and advancements related to execution and settlement processes in the digital asset space Be part of an open and transparent culture Qualifications Class of 2027 pursuing a degree in Computer Science or related field Experience in React, Angular, or Vue.js, with a solid understanding of web-based frameworks. At Talos, we use React. Bonus points for familiarity with TypeScript, Redux, or RxJS Demonstrated development experience (applicable coursework, projects, internships, etc.) Experience in either crypto or finance, or a strong desire to learn Excellent written and verbal communication skills Local to New York HQ Benefits You will also enjoy a comprehensive array of competitive benefits, regardless of your location, within our warm, welcoming, and ambitious company culture. We provide paid lunches in the office, monthly fitness and evening socials to foster connections with colleagues, and other events to engage with the wider team. Get In Touch! Sounds compelling? We’d love to hear from you. Contact us directly . Also, check out other open positions listed on our website. © Talos Trading, careers@talos.com Talos is proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Talos is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at careers@talos.com . To protect the interests of all parties, Talos Trading, LLC and its affiliates (“Talos”) strongly discourage submission of unsolicited resumes from any source other than directly from a candidate . Talos will NOT pay fees, commissions or compensation of any kind (“Fees”) for any placement or hire resulting from the receipt of an unsolicited resume. Talos will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees and Talos reserves the right to contact, interview, and hire the candidate directly. Agencies, search firms, recruitment firms and similar organizations (“Agencies”) must obtain advance written approval from Talos’s internal recruiting team to submit resumes, AND must sign a valid fully executed placement agreement with Talos in order to be eligible to receive any Fees from Talos. Talos will not pay a Fee to any Agency that does not have such agreement in place. By submitting a resume without a signed agreement, you acknowledge and accept these terms. © Talos Trading, careers@talos.com By submitting your application and pursuing job candidacy, you consent to the processing of your personal information in connection with our Applicant &amp; Employee Privacy Notice .",
       "job_apply_link": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
       "job_posted_at_datetime_utc": "2025-08-06T11:23:21.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "talos-trading-software-engineer-intern-front-end-pms-new-york"
+      "id": "talos-trading-software-engineer-intern-front-end-pms-new-york",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Summer (MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535156966491146503/detail",
       "job_posted_at_datetime_utc": "2025-08-06T05:27:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Summer/Fall (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535156928172132626/detail",
       "job_posted_at_datetime_utc": "2025-08-06T05:18:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-conversational-ai-2026-start-phd-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-conversational-ai-2026-start-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:30:03.756Z",
     "postedAt": null
   },
   {
