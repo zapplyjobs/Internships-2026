@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (TikTok-Engine and Tools-3D graphics) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7532735339883710728",
-      "job_posted_at_datetime_utc": "2025-08-07T17:18:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-engine-and-tools-3d-graphics-2026-start-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:27:49.465Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7527618943449909522",
-      "job_posted_at_datetime_utc": "2025-08-07T17:18:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-trust-and-safety-engineer-ai-safety-2026-summer-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:27:49.465Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7397455103747836210",
-      "job_posted_at_datetime_utc": "2025-08-07T17:18:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer Intern - E-commerce",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Data Engineer Intern (E-commerce) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534818364393654535",
-      "job_posted_at_datetime_utc": "2025-08-07T17:18:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-data-engineer-intern-e-commerce-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Applied Machine Learning-Enterprise - BS/MS",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Fall (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7534883498658629906/detail",
-      "job_posted_at_datetime_utc": "2025-08-07T17:15:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7533042683796097298/detail",
-      "job_posted_at_datetime_utc": "2025-08-07T16:37:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - PhD",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7533020328604649746",
-      "job_posted_at_datetime_utc": "2025-08-07T16:33:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-data-scientist-intern-tiktok-product-data-science-2026-summer-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Data Arch - ShortText Rec) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7535250563514059016",
-      "job_posted_at_datetime_utc": "2025-08-07T16:12:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-data-arch-shorttext-rec-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": "2025-12-18T21:45:32.845Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Engineer Intern - Monetization Technology - Ads Creative - BS/MS",
       "employer_name": "TikTok",
       "job_city": "San Jose",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:35:10.637Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T21:44:51.905Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T21:54:11.076Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern - TikTok Search Architecture team - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534626306991016199",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-team-san-jose"
+      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-team-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Intern (Compute Platform - Database Acceleration)- 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534790434314438919",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-research-scientist-intern-compute-platform-database-acceleration-san-jose"
+      "id": "tiktok-research-scientist-intern-compute-platform-database-acceleration-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Engineer Intern (E-commerce) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534817408415861000",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-data-engineer-intern-e-commerce-san-jose"
+      "id": "tiktok-data-engineer-intern-e-commerce-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern - TikTok Search Team - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7534852684386617618",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-team-san-jose"
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-search-team-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (Search E-commerce) - 2025 Summer (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7478106032707848456",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-search-e-commerce-san-jose"
+      "id": "tiktok-machine-learning-engineer-intern-search-e-commerce-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7472489421964724487",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-data-science-intern-tiktok-product-data-science-2025-summer-phd-san-jose"
+      "id": "tiktok-data-science-intern-tiktok-product-data-science-2025-summer-phd-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7499689149813950727",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-ai-ml-software-engineer-intern-data-platform-san-jose"
+      "id": "tiktok-ai-ml-software-engineer-intern-data-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7488883963248904456",
       "job_posted_at_datetime_utc": "2025-08-07T08:19:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-creative-ai-bs-ms-san-jose"
+      "id": "tiktok-machine-learning-engineer-intern-creative-ai-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T21:53:26.468Z",
     "postedAt": null
   },
   {
