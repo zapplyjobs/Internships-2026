@@ -1,0 +1,17 @@
+{
+  "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "About the Role We are seeking a driven Embedded Software Intern to join our engineering team and gain hands on experience building the computing fabric of AGI Youll work alongside experienced engineers on projects that combine low level firmware high performance drivers and edge AI model deployment Responsibilities Assist in the design development and optimization of embedded software and drivers for real time and AI workloads Support integration and performance tuning on FPGA and ASIC platforms Assist in implementing and verifying low level optimizations to reduce latency improve power efficiency and boost performance Assist in testing debugging and profiling for system reliability and performance Qualifications Currently pursuing a degree in Computer Science Electrical Engineering or related field Familiar with CC Rust and Python for embedded systems Familiar with AI and Machine learning concepts and models Exposure to RTOS device drivers and low level programming Experience with debugging profiling and performance tuning Experience with embedded software for FPGA ASIC or MCU based platforms is a plus Self motivated eager to learn and comfortable in a fast paced environment Salary Range 35 45 USDhr",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042",
+      "fetchedAt": "2025-12-18T20:17:03.793Z"
+    }
+  },
+  "cachedAt": 1766089023793
+}
