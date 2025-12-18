@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
-<h3>💼 New Grad Internship 2025-2026</h3>
+<h3>💼 Internship 2025-2026</h3>
 <p><em>Real-time opportunities from 163</em></p>
 
 <br>
@@ -46,18 +46,18 @@
   
   
   
-  # 🎓 New Grad Internship Opportunities 2026 by Zapply
+  # 🎓 Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 163+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 338+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships from 163+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 338+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
-**🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
+**🎯 Includes summer internships and fall co-ops from tech giants, unicorn startups, and fast-growing companies.**
 
 **🛠 Help us grow! Add new opportunities by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
 
 ---
 ## **Join Our Community**
 
-Connect with fellow students and new grads, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
+Connect with fellow students, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
 
 
  <div align="center">
@@ -71,7 +71,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 338 internships & new grad roles  
+🔥 **Current Opportunities:** 338 internships
 🏢 **Top Companies:** 163 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 69 premium opportunities  
 📅 **Last Updated:** December 15, 2025  
@@ -83,7 +83,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎓 **Featured Internship Programs 2026**
 
-> **Top summer and fall internship programs for CS students and new graduates.**
+> **Top summer and fall internship programs for CS students.**
 
 ### 🏢 **FAANG+ & Elite Tech Internships**
 
@@ -100,7 +100,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | 💳 **Stripe** | Software Engineering Internship |<a href="https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
 | ₿ **Coinbase** | Software Engineering Internship |<a href="https://www.coinbase.com/careers/positions?search=software%2520internship"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
 
-### 📚 **Additional Internship & New Grad Resources**
+### 📚 **Additional Internship Resources**
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
@@ -279,9 +279,9 @@ No companies available
 
 ---
 
-## 🔮 **Why Students & New Grads Choose Our Platform**
+## 🔮 **Why Students Choose Our Platform**
 
-✅ **100% Real Opportunities:** 338+ verified internships and new grad roles from 163 top companies.
+✅ **100% Real Opportunities:** 338+ verified internships from 163 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -295,7 +295,7 @@ No companies available
 
 ---
 
-## 🚀 **Application Tips for Students & New Grads**
+## 🚀 **Application Tips for Students**
 
 ### 🔍 **Research Before Applying**
 
@@ -311,11 +311,11 @@ No companies available
 - **Show technical skills:** List programming languages, frameworks, and tools you've actually used.
 - [Read this informative guide on tweaking your resume for internships](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
-### 🎯 **Interview Prep for New Grads**
+### 🎯 **Interview Prep**
 
 - **Practice coding problems:** Use LeetCode, HackerRank, or similar platforms daily.
 - **Prepare project stories:** Be ready to explain your GitHub repos and course projects in detail.
-- **Ask smart questions:** "What does a typical day look like for interns?" or "How do you support new grads?"
+- **Ask smart questions:** "What does a typical day look like for interns?"
 - [Review this comprehensive interview guide on common questions for students](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
 ---
@@ -333,7 +333,7 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1754 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships</strong> - 1754 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
