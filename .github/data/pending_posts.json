@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "USA Engineering Internships",
-      "employer_name": "Shopify",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "PRIVATE JOB POSTINGTo view this job posting, please enter the password.Enter passwordSubmitSubmitWork with us in your early careerDev Degree ProgramA 3-4-year program that allows people to earn a computer science degree while working. It’s designed for those looking to break into computer science or transition into the tech field.Learn more about our Dev Degree ProgramInternship ProgramShopify offers 4-month paid Engineering internships that are open to students, recent graduates, and those early in their careers.Learn more about our Internship ProgramAPM ProgramShopify’s 12-month Apprentice Product Manager program is designed to help you gain the skills needed to start a product management career.Learn more about our APM ProgramDesign Apprentice ProgramShopify's 12-month Design Apprentice Program pairs early-career designers with senior mentors through two rotations. Built for new graduates, career switchers, and those early in their design careers.Learn more about our Design Apprentice ProgramTerms of ServicePrivacy Policy",
-      "job_apply_link": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?keyword=intern",
-      "job_posted_at_datetime_utc": "2025-08-13T02:13:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shopify-usa-engineering-internships-remote-in-usa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer Intern",
-      "employer_name": "Nicolet National Bank",
-      "job_city": "Green Bay",
-      "job_state": "WI",
-      "job_description": "Join Nicolet National Bank in this exciting opportunity.",
-      "job_apply_link": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d0958c3c9401959580867801e4&id=8a7883a89881bb7201988638b55055cf",
-      "job_posted_at_datetime_utc": "2025-08-13T01:43:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nicolet-national-bank-software-developer-intern-green-bay",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:18:18.072Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Capital Platform",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534536157456058632",
-      "job_posted_at_datetime_utc": "2025-08-13T01:19:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-capital-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Engineering Internship",
-      "employer_name": "Shopify",
-      "job_city": "New York",
-      "job_state": "New York",
-      "job_description": "PRIVATE JOB POSTINGTo view this job posting, please enter the password.Enter passwordSubmitSubmitWork with us in your early careerDev Degree ProgramA 3-4-year program that allows people to earn a computer science degree while working. It’s designed for those looking to break into computer science or transition into the tech field.Learn more about our Dev Degree ProgramInternship ProgramShopify offers 4-month paid Engineering internships that are open to students, recent graduates, and those early in their careers.Learn more about our Internship ProgramAPM ProgramShopify’s 12-month Apprentice Product Manager program is designed to help you gain the skills needed to start a product management career.Learn more about our APM ProgramDesign Apprentice ProgramShopify's 12-month Design Apprentice Program pairs early-career designers with senior mentors through two rotations. Built for new graduates, career switchers, and those early in their design careers.Learn more about our Design Apprentice ProgramTerms of ServicePrivacy Policy",
-      "job_apply_link": "https://www.shopify.com/careers/usa-engineering-internships-summer-2026-usa_b2dbdf1e-ab44-46ed-9a11-69a1a1e4b20c?fbclid=PAZXh0bgNhZW0CMTEAAacZmDKBbpt6Eic3DYCTf372rK812Efp_FC9Sle8J1TgYhTmQa52d0muxM0Vtg_aem_NgJJWd_yRRfgPncN8pXvNw",
-      "job_posted_at_datetime_utc": "2025-08-13T00:30:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shopify-engineering-internship-new-york",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "3D Avatar Research and Development Intern - PICO Perception",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for 3D Avatar Research and Development Intern (PICO Perception) - 2025 Fall (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535957617782147336/detail",
-      "job_posted_at_datetime_utc": "2025-08-12T20:03:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-3d-avatar-research-and-development-intern-pico-perception-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Software Engineering Intern",
-      "employer_name": "RESPEC",
-      "job_city": "Albuquerque",
-      "job_state": "NM",
-      "job_description": "Student Software Engineering InternInternDiscipline: Information TechnologyCompany DescriptionRESPEC seeks a Student Software Engineering Intern for our Summer 2025 program in our Albuquerque office. This is a temporary part-time position. Founded in 1969, RESPEC is a global, 100 percent employee-owned consulting and services company dedicated to delivering innovative solutions to complex challenges for private and public clients. Operating in 14 U.S. states and 2 Canadian provinces, with influence extending to 50 countries worldwide, RESPEC is a leader in water, mining, energy, natural resources, and infrastructure services. Our six market sectors—Mining & Energy, Water, Facilities, Transportation, Development Services, and Data & Technology—reflect our expertise and commitment to excellence. At RESPEC, we thrive on collaboration and partnership, applying advanced technology to achieve sustainable solutions and drive our projects forward. We are deeply invested in our employees’ success and well-being, fostering a supportive and innovative work environment where everyone can grow and contribute meaningfully. Our commitment to excellence is evident in our contributions to local communities and strategic alliances worldwide, ensuring that we continue to inspire and innovate in rapidly evolving technical environments.We do not accept unsolicited resumes from third-party recruiters.Job DescriptionOur Data and Technology technical Interns work under the general direction of a senior-level staff member or a supervisor and are responsible for assisting project teams with coding, planning, quality control, data analysis/entry, and other areas of focus. They are expected to collaborate with one or more technical mentors to assist with various projects.Do you:Talk nerdy?Enjoy puzzles?Love to learn cutting edge technology?Thrive on writing software?Love math?Dream of solving real world problems?If you answered yes to one or all of those questions, then we want to talk to you. At RESPEC, we hire the best of the best that love to learn, solve problems, appreciate a fun-loving culture, and want to be involved. Duties of a Technical Intern may include but are not limited to the following:Creating, modifying, and testing code, forms, and scripts needed to run computer applicationsWorking from specifications written by software developers or other individualsAssisting software developers by analyzing user needs and reviewing software solutionsAssisting in administrative project tasksAssisting the project team in identifying process improvementsAssisting the software development team with software update releasesAutomating test cases by using a variety of test automation toolsWorking with support and implementation teams to investigate production-support issues and perform root-cause analysis.QualificationsEnrolled in an accredited technical school or college and studying toward a degree in computer science, computer engineering, or a related fieldSoftware development knowledge gained through either coursework or job experienceExposure to needs analysis, development, and deployment of software applicationsAdditional InformationSalary depends on experience. This is temporary part-time position. No benefits are offered except what is required for statutory purposes. All your information will be kept confidential according to EEO guidelines. I'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985",
-      "job_posted_at_datetime_utc": "2025-08-12T17:58:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "respec-student-software-engineering-intern-albuquerque",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Anduril Industries",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Join Anduril Industries in this exciting opportunity.",
-      "job_apply_link": "https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=",
-      "job_posted_at_datetime_utc": "2025-08-12T15:53:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "anduril-industries-software-engineer-intern-atlanta",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Notion",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Notion in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
-      "job_posted_at_datetime_utc": "2025-08-12T09:17:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "notion-software-engineer-san-francisco",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": "2025-12-18T20:41:28.942Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer, AI",
       "employer_name": "Notion",
       "job_city": "San Francisco",
@@ -254,10 +94,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:30:36.502Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T20:40:50.088Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T20:48:35.203Z"
   },
   {
     "job": {
@@ -450,11 +290,13 @@
       "job_posted_at_datetime_utc": "2025-08-08T08:19:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "confluent-software-engineering-intern-remote"
+      "id": "confluent-software-engineering-intern-remote",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Intern (AI-Native Databases) - 2026 Summer (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535880188522498322/detail",
       "job_posted_at_datetime_utc": "2025-08-08T05:18:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-intern-ai-native-databases-phd-seattle"
+      "id": "bytedance-student-researcher-intern-ai-native-databases-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535159557922048274/detail",
       "job_posted_at_datetime_utc": "2025-08-08T05:17:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Scientist Intern (TikTok-Local Services) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7532021573718018312",
       "job_posted_at_datetime_utc": "2025-08-08T03:03:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-local-services-lbs-platform-san-jose"
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-local-services-lbs-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Frontend Engineer Intern (TikTok-PGC-OGC) - 2026 Summer(BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533107403265624338",
       "job_posted_at_datetime_utc": "2025-08-08T03:02:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-frontend-engineer-intern-tiktok-pgc-ogc-2026-summer-bs-ms-san-jose"
+      "id": "tiktok-frontend-engineer-intern-tiktok-pgc-ogc-2026-summer-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (TikTok-Engineering Excellence-Dev Infra) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533295344253143314",
       "job_posted_at_datetime_utc": "2025-08-08T03:02:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-mobile-software-engineer-intern-tiktok-engineering-excellence-dev-infra-2026-summer-bs-ms-san-jose"
+      "id": "tiktok-mobile-software-engineer-intern-tiktok-engineering-excellence-dev-infra-2026-summer-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7397455434090694921",
       "job_posted_at_datetime_utc": "2025-08-08T03:02:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-san-jose"
+      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7473021069018237191",
       "job_posted_at_datetime_utc": "2025-08-08T03:02:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-data-science-intern-san-jose"
+      "id": "tiktok-data-science-intern-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T20:47:54.283Z",
     "postedAt": null
   },
   {

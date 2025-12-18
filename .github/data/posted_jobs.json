@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:41:25.926Z",
+  "lastUpdated": "2025-12-18T20:48:32.187Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9637,14 +9637,102 @@
       "sourceUrl": "https://jobs.ashbyhq.com/notion/fc762b58-24c9-4f34-bf5f-2af6e8adc644",
       "discordThreadId": "1451313416189906954",
       "instanceNumber": 1
+    },
+    {
+      "id": "notion-software-engineer-ai-san-francisco-2025-12-18-1",
+      "jobId": "notion-software-engineer-ai-san-francisco",
+      "company": "Notion",
+      "title": "Software Engineer, AI",
+      "postedToDiscord": "2025-12-18T20:48:03.578Z",
+      "sourceDate": "2025-08-12T09:15:41.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/notion/39d70209-37f6-4623-949b-18fbd8889933",
+      "discordThreadId": "1451315084260409454",
+      "instanceNumber": 1
+    },
+    {
+      "id": "notion-software-engineer-mobile-san-francisco-2025-12-18-1",
+      "jobId": "notion-software-engineer-mobile-san-francisco",
+      "company": "Notion",
+      "title": "Software Engineer, Mobile",
+      "postedToDiscord": "2025-12-18T20:48:07.038Z",
+      "sourceDate": "2025-08-12T09:11:53.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421",
+      "discordThreadId": "1451315098726563993",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-returning-new-grad-software-engineer-1-chicago-2025-12-18-1",
+      "jobId": "hntb-returning-new-grad-software-engineer-1-chicago",
+      "company": "HNTB",
+      "title": "Returning New Grad Software Engineer 1",
+      "postedToDiscord": "2025-12-18T20:48:10.933Z",
+      "sourceDate": "2025-08-12T06:06:22.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+      "discordThreadId": "1451315113754624063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neuralink-software-engineer-intern-fremont-2025-12-18-1",
+      "jobId": "neuralink-software-engineer-intern-fremont",
+      "company": "Neuralink",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T20:48:14.882Z",
+      "sourceDate": "2025-08-09T01:45:48.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6672977003",
+      "discordThreadId": "1451315129948962909",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tesla-automation-controls-engineer-megapack-palo-alto-2025-12-18-1",
+      "jobId": "tesla-automation-controls-engineer-megapack-palo-alto",
+      "company": "Tesla",
+      "title": "Automation Controls Engineer, Megapack",
+      "postedToDiscord": "2025-12-18T20:48:18.397Z",
+      "sourceDate": "2025-08-08T17:57:20.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/247595",
+      "discordThreadId": "1451315146419863704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-tech-ops-engineer-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-tech-ops-engineer-chicago",
+      "company": "Jump Trading",
+      "title": "Campus Tech Ops Engineer",
+      "postedToDiscord": "2025-12-18T20:48:21.799Z",
+      "sourceDate": "2025-08-08T10:47:20.000Z",
+      "sourceUrl": "https://www.jumptrading.com/careers/7077897/?gh_jid=7077897",
+      "discordThreadId": "1451315161104388286",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-data-search-tiktok-recommendation-team-bs-ms-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-data-search-tiktok-recommendation-team-bs-ms-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - BS/MS",
+      "postedToDiscord": "2025-12-18T20:48:28.744Z",
+      "sourceDate": "2025-08-09T04:33:53.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535234137146444040",
+      "discordThreadId": "1451315188010713281",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-data-search-tiktok-recommendation-team-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-data-search-tiktok-recommendation-team-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Data-Search-Tiktok Recommendation Team - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T20:48:32.187Z",
+      "sourceDate": "2025-08-09T04:33:52.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534851658053830930",
+      "discordThreadId": "1451315204330623009",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 876,
+    "totalJobs": 884,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:41:25.926Z",
+      "date": "2025-12-18T20:48:32.187Z",
       "archived": 0
     }
   }
