@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:56:35.007Z",
+  "lastUpdated": "2025-12-18T23:04:29.350Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10869,14 +10869,102 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-2025-Internships---MSU_310284",
       "discordThreadId": "1451347428824453312",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-seattle-2025-12-18-1",
+      "jobId": "bytedance-backend-software-engineer-intern-global-e-commerce-seattle",
+      "company": "ByteDance",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "postedToDiscord": "2025-12-18T23:04:05.419Z",
+      "sourceDate": "2025-08-01T15:12:58.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532668388906256658/detail",
+      "discordThreadId": "1451349317678923776",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-san-jose-2025-12-18-1",
+      "jobId": "bytedance-backend-software-engineer-intern-global-e-commerce-san-jose",
+      "company": "ByteDance",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "postedToDiscord": "2025-12-18T23:04:05.431Z",
+      "sourceDate": "2025-08-01T15:12:58.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532670930951178503/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "peak-nano-software-engineer-intern-macedonia-2025-12-18-1",
+      "jobId": "peak-nano-software-engineer-intern-macedonia",
+      "company": "Peak Nano",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T23:04:08.839Z",
+      "sourceDate": "2025-07-30T19:24:32.000Z",
+      "sourceUrl": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
+      "discordThreadId": "1451349331973243090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "method-software-engineer-intern-austin-2025-12-18-1",
+      "jobId": "method-software-engineer-intern-austin",
+      "company": "Method",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T23:04:12.255Z",
+      "sourceDate": "2025-07-30T19:20:46.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/method/f86acf81-857c-454d-a508-8289163ad6eb",
+      "discordThreadId": "1451349346275692827",
+      "instanceNumber": 1
+    },
+    {
+      "id": "allium-engineering-intern-ai-new-york-2025-12-18-1",
+      "jobId": "allium-engineering-intern-ai-new-york",
+      "company": "Allium",
+      "title": "Engineering Intern - AI",
+      "postedToDiscord": "2025-12-18T23:04:15.795Z",
+      "sourceDate": "2025-07-30T17:18:08.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
+      "discordThreadId": "1451349360741974056",
+      "instanceNumber": 1
+    },
+    {
+      "id": "komatsu-embedded-controls-software-intern-warrendale-2025-12-18-1",
+      "jobId": "komatsu-embedded-controls-software-intern-warrendale",
+      "company": "Komatsu",
+      "title": "Embedded Controls Software Intern",
+      "postedToDiscord": "2025-12-18T23:04:19.443Z",
+      "sourceDate": "2025-07-30T15:23:01.000Z",
+      "sourceUrl": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US",
+      "discordThreadId": "1451349376218959986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "l3harris-software-engineer-intern-tulsa-2025-12-18-1",
+      "jobId": "l3harris-software-engineer-intern-tulsa",
+      "company": "L3Harris Technologies",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T23:04:22.833Z",
+      "sourceDate": "2025-07-30T15:08:27.000Z",
+      "sourceUrl": "https://careers.l3harris.com/en/job/-/-/4832/84133135648",
+      "discordThreadId": "1451349390810939595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "m-t-bank-technology-internship-program-buffalo-2025-12-18-1",
+      "jobId": "m-t-bank-technology-internship-program-buffalo",
+      "company": "M&T Bank",
+      "title": "Technology Internship Program",
+      "postedToDiscord": "2025-12-18T23:04:29.349Z",
+      "sourceDate": "2025-07-31T19:49:54.000Z",
+      "sourceUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035",
+      "discordThreadId": "1451349417771667559",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 988,
+    "totalJobs": 996,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:56:35.007Z",
+      "date": "2025-12-18T23:04:29.350Z",
       "archived": 0
     }
   }
