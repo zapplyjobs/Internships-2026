@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-15T07:52:24.779Z",
+  "lastUpdated": "2025-12-18T19:18:43.887Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -8845,14 +8845,102 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7539992380817639687/detail",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
+      "jobId": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise",
+      "company": "American Express",
+      "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
+      "postedToDiscord": "2025-12-18T19:18:16.235Z",
+      "sourceDate": "2025-08-19T02:56:03.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/30702553",
+      "discordThreadId": "1451292487061868877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-phoenix-2025-12-18-1",
+      "jobId": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-phoenix",
+      "company": "American Express",
+      "title": "Campus Graduate Summer Internship Program - 2026 Software Engineer - Technology",
+      "postedToDiscord": "2025-12-18T19:18:16.244Z",
+      "sourceDate": "2025-08-19T02:56:03.000Z",
+      "sourceUrl": "https://aexp.eightfold.ai/careers/job/30702548",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "procter-gamble-p-g-research-development-engineer-intern-may-2026-associate-scientist-freshmen-sophomores-and-juniors-sharonville-2025-12-18-1",
+      "jobId": "procter-gamble-p-g-research-development-engineer-intern-may-2026-associate-scientist-freshmen-sophomores-and-juniors-sharonville",
+      "company": "Procter & Gamble (P&G)",
+      "title": "Research & Development Engineer Intern May 2026 - Associate Scientist - Freshmen - Sophomores - And Juniors",
+      "postedToDiscord": "2025-12-18T19:18:19.915Z",
+      "sourceDate": "2025-08-18T19:39:15.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Engineer-Intern-May-2026--Associate-Scientist--Freshmen--Sophomores--and-Juniors_R000137017",
+      "discordThreadId": "1451292503037710336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "formlabs-embedded-software-intern-somerville-2025-12-18-1",
+      "jobId": "formlabs-embedded-software-intern-somerville",
+      "company": "Formlabs",
+      "title": "Embedded Software Intern",
+      "postedToDiscord": "2025-12-18T19:18:23.370Z",
+      "sourceDate": "2025-08-17T09:08:44.000Z",
+      "sourceUrl": "https://careers.formlabs.com/job/7165153/apply/?gh_jid=7165153",
+      "discordThreadId": "1451292517700997191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-enterprise-cloud-engineer-intern-spring-2025-12-18-1",
+      "jobId": "hewlett-packard-enterprise-cloud-engineer-intern-spring",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Cloud Engineer Intern",
+      "postedToDiscord": "2025-12-18T19:18:30.186Z",
+      "sourceDate": "2025-08-17T08:56:26.000Z",
+      "sourceUrl": "https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern",
+      "discordThreadId": "1451292546205745193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-enterprise-data-science-intern-spring-2025-12-18-1",
+      "jobId": "hewlett-packard-enterprise-data-science-intern-spring",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-18T19:18:36.742Z",
+      "sourceDate": "2025-08-18T21:29:50.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1192965",
+      "discordThreadId": "1451292573862723635",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-tax-llm-associate-industry-tax-practice-boston-2025-12-18-1",
+      "jobId": "pricewaterhousecoopers-pwc-tax-llm-associate-industry-tax-practice-boston",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Tax LLM Associate - Industry Tax Practice",
+      "postedToDiscord": "2025-12-18T19:18:40.301Z",
+      "sourceDate": "2025-08-18T07:48:09.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-LLM-Associate---Summer---Fall-2026_657577WD",
+      "discordThreadId": "1451292588647780382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-supply-chain-ai-intern-chicago-2025-12-18-1",
+      "jobId": "motorola-supply-chain-ai-intern-chicago",
+      "company": "Motorola Solutions",
+      "title": "Supply Chain AI Intern",
+      "postedToDiscord": "2025-12-18T19:18:43.887Z",
+      "sourceDate": "2025-08-17T09:00:35.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-AI-Intern---Summer-Internship-2026_R56902",
+      "discordThreadId": "1451292603260735790",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 804,
+    "totalJobs": 812,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-15T07:52:24.779Z",
+      "date": "2025-12-18T19:18:43.887Z",
       "archived": 0
     }
   }
