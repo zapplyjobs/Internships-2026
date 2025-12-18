@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern - Global E-Commerce Content Recommendation - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7527077153591675154",
-      "job_posted_at_datetime_utc": "2025-08-07T08:16:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-recommendation-bs-ms-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Payment Network - Global Payment",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
-      "job_posted_at_datetime_utc": "2025-08-07T06:23:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-payment-network-global-payment-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:17:22.513Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Campus UI Software Engineer – Intern",
-      "employer_name": "Jump Trading",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join Jump Trading in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7125381",
-      "job_posted_at_datetime_utc": "2025-08-07T05:49:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "jump-trading-campus-ui-software-engineer-intern-chicago",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Roblox",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is as shown below. The actual base pay is dependent upon a variety of job-related factors such as professional background, training, work experience, location, business needs and market demand. Therefore, in some circumstances, the actual hourly rate could fall outside of this expected range. This pay range is subject to change and may be modified in the future. Please note that not all benefits shown on this page are applicable to internship opportunities.",
-      "job_apply_link": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
-      "job_posted_at_datetime_utc": "2025-08-07T05:46:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "roblox-software-engineer-intern-san-mateo",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Confluent",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join Confluent in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
-      "job_posted_at_datetime_utc": "2025-08-07T04:32:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "confluent-software-engineering-intern-austin",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern, Backend, Dealer",
-      "employer_name": "Talos Trading",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Talos Trading in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
-      "job_posted_at_datetime_utc": "2025-08-07T00:44:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "talos-trading-software-engineer-intern-backend-dealer-new-york",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer - Intern",
-      "employer_name": "Gimlet Labs",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Gimlet Labs is building the foundation for the next generation of AI applications. As generative AI workloads rapidly scale, inference efficiency is becoming the critical bottleneck. Gimlet is redefining AI inference from the ground up, combining cutting-edge research with an integrated hardware-software stack that delivers breakthrough performance, efficiency, and model quality. Gimlet pairs its inference stack with a seamless developer experience, allowing users to deploy, manage, and monitor AI workloads from frameworks like PyTorch and LangChain at production scale in seconds. Gimlet is spun out of a Stanford research project under Professors Zain Asgar and Sachin Katti. The founding team has deep experience across AI, distributed systems, and hardware with previous successful exits. Gimlet Labs is seeking a Software Engineer (Intern) to help develop Gimlet’s platform for deploying and monitoring AI workloads. In this role, you will be applying the latest AI techniques to develop frameworks to help generate and optimize AI workloads. You will contribute to Gimlet’s novel compilation framework for partitioning and orchestrating AI workloads across diverse hardware environments. You will design and implement scalable systems that can run production workloads of millions of requests a second. Responsibilities: Building, deploying and scaling AI systems for production Evaluating and implementing cutting-edge AI research Researching ways to improve model accuracy, performance and efficiency Qualifications: Currently pursuing degree in computer science, engineering, or comparable area of study Experience with AI/ML or distributed systems. Preferred Qualifications: Experience with PyTorch, TensorFlow, ONNX and other AI frameworks Familiarity with distributed systems and orchestration frameworks (e.g., Kubernetes) Software development experience with Python and C++ Understanding of the latest AI research and techniques",
-      "job_apply_link": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
-      "job_posted_at_datetime_utc": "2025-08-06T18:37:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gimlet-labs-software-engineer-intern-san-francisco",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern, Front-End, PMS",
-      "employer_name": "Talos Trading",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Institutional Fabric for the Digital Asset Market Founded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission at Talos is clear: to advance the mass adoption of digital assets by seamlessly connecting institutions to the digital asset ecosystem. We are committed to building the most innovative and trusted platform in the world, supporting the entire trading lifecycle. At Talos, you'll find an environment that champions kindness and respect, values diverse perspectives, and upholds inclusivity at every turn. We believe that every member of our team adds invaluable insights and abilities that drive Talos forward. In our pursuit of excellence, we foster a culture of trust and integrity, collaboration, and mutual growth. Together, we are ambitiously building something extraordinary. Your unique talents and insights will play a crucial role in our shared success. We are a tight-knit but decentralized team of highly-experienced engineers and businesspeople. We have a hybrid-friendly work environment, with physical hubs in New York, London, Singapore, Sweden and Cyprus. About the Role As a Front End Software Engineer Intern at Talos, you’ll work with the team as we develop Talos’s new portfolio management system (PMS). Our platform is built from scratch to handle the unique challenges of the digital asset market. Talos operates at the intersection of crypto and capital markets. We build high-performance reactive systems and deliver solutions quickly to keep pace with the changing digital assets space. The team is made up of engineers that know building great systems takes time, and we spend the time to ensure the safety, security and performance of our platform. We value strong communication skills and the ability to get things done in a collaborative environment. Trading systems experience is preferred, but not required. Responsibilities and Duties Collaborate with the team to design, implement, test and deploy high performance user interfaces Work with the product team to deliver solutions that support the full investment lifecycle Collaborate with cross-functional teams to gain a comprehensive understanding of our execution and settlement product in the digital asset ecosystem Engage in ongoing learning and exploration of industry trends and advancements related to execution and settlement processes in the digital asset space Be part of an open and transparent culture Qualifications Class of 2027 pursuing a degree in Computer Science or related field Experience in React, Angular, or Vue.js, with a solid understanding of web-based frameworks. At Talos, we use React. Bonus points for familiarity with TypeScript, Redux, or RxJS Demonstrated development experience (applicable coursework, projects, internships, etc.) Experience in either crypto or finance, or a strong desire to learn Excellent written and verbal communication skills Local to New York HQ Benefits You will also enjoy a comprehensive array of competitive benefits, regardless of your location, within our warm, welcoming, and ambitious company culture. We provide paid lunches in the office, monthly fitness and evening socials to foster connections with colleagues, and other events to engage with the wider team. Get In Touch! Sounds compelling? We’d love to hear from you. Contact us directly . Also, check out other open positions listed on our website. © Talos Trading, careers@talos.com Talos is proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. Talos is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at careers@talos.com . To protect the interests of all parties, Talos Trading, LLC and its affiliates (“Talos”) strongly discourage submission of unsolicited resumes from any source other than directly from a candidate . Talos will NOT pay fees, commissions or compensation of any kind (“Fees”) for any placement or hire resulting from the receipt of an unsolicited resume. Talos will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees and Talos reserves the right to contact, interview, and hire the candidate directly. Agencies, search firms, recruitment firms and similar organizations (“Agencies”) must obtain advance written approval from Talos’s internal recruiting team to submit resumes, AND must sign a valid fully executed placement agreement with Talos in order to be eligible to receive any Fees from Talos. Talos will not pay a Fee to any Agency that does not have such agreement in place. By submitting a resume without a signed agreement, you acknowledge and accept these terms. © Talos Trading, careers@talos.com By submitting your application and pursuing job candidacy, you consent to the processing of your personal information in connection with our Applicant &amp; Employee Privacy Notice .",
-      "job_apply_link": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
-      "job_posted_at_datetime_utc": "2025-08-06T11:23:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "talos-trading-software-engineer-intern-front-end-pms-new-york",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:42:55.139Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
       "employer_name": "ByteDance",
       "job_city": "Seattle",
@@ -254,10 +94,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:49:25.834Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "Ramp",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Ramp in this exciting opportunity.",
+      "job_description": "About Ramp At Ramp, we’re rethinking how modern finance teams function in the age of AI. We believe AI isn’t just the next big wave. It’s the new foundation for how business gets done. We’re investing in that future — and in the people bold enough to build it. Ramp is a financial operations platform designed to save companies time and money. Our all-in-one solution combines payments, corporate cards, vendor management, procurement, travel booking, and automated bookkeeping with built-in intelligence to maximize the impact of every dollar and hour spent. More than 50,000 businesses, from family-owned farms to e-commerce giants to space startups, have saved $10B and 27.5M hours with Ramp. Founded in 2019, Ramp powers the fastest-growing corporate card and bill payment platform in America, and enables over $100 billion in purchases each year. Ramp’s investors include Lightspeed Venture Partners, Thrive Capital, Sands Capital, General Catalyst, Founders Fund, Khosla Ventures, Sequoia Capital, Greylock, Redpoint, and ICONIQ, as well as over 100 angel investors who were founders or executives of leading companies. The Ramp team comprises talented leaders from leading financial services and fintech companies—Stripe, Affirm, Goldman Sachs, American Express, Mastercard, Visa, Capital One—as well as technology companies such as Meta, Uber, Netflix, Twitter, Dropbox, and Instacart. Ramp has been named to Fast Company’s Most Innovative Companies list and LinkedIn’s Top U.S. Startups for more than 3 years, as well as the Forbes Cloud 100 , CNBC Disruptor 50 , and TIME Magazine’s 100 Most Influential Companies . NOTE: This is for Summer 2026, we'll start hiring for Fall 2026 internships in January :) Explore our Engineering Blog &amp; Emerging Talent Blog for insights into our tech stack, mission, and values! About the Role Ramp is, at its core, an engineering company, and is on a mission to build the best engineering team in the US! We are looking for frontend and full-stack engineering interns who are excited to be part of our early story and help us build a diverse and vibrant tech community. Our ideal candidate has a deep understanding of JavaScript, a passion for web performance, and can creatively come up with solutions to solve customer's needs. Our tech stack currently involves TypeScript, React, Vite, and Ryu, our in-house design system. What You'll Do Build performant, beautiful, and usable interfaces that solve for growing businesses with complex needs Ship products and services in cross-functional teams Work with sales and business teams to incorporate and productize customer feedback Help establish engineering processes, tools, and systems that will allow us to scale the code base, productivity, and the team What You'll Need Currently pursuing a B.S. (or higher) in Computer Science or a related technical field, with an expected graduation date between 2026 - 2028 Proficiency in JavaScript, with a knack for getting the visuals right Experience with one or more object-oriented programming languages Track record of shipping high-quality products and features, or a portfolio of side projects Ability to turn business and product ideas into engineering solutions Desire to work in a fast-paced environment, continuously grow, and master your craft Alignment with Ramp’s core values of enabling businesses to grow more by spending less Nice to Haves Proficiency in React v16+ Familiarity with or desire to learn our tech stack, which includes, but not limited to: Flask (Python), Elixir, AWS, RabbitMQ, PostgreSQL Passion for, or curiosity to learn, financial technology Compensation The monthly rate for this internship is $11,700 USD + housing stipend Ramp Benefits Apple MacBook Catered Lunches in NYC office Monday through Friday Benefits (for U.S.-based full-time employees) 100% medical, dental &amp; vision insurance coverage for you Partially covered for your dependents One Medical annual membership 401k (including employer match on contributions made while employed by Ramp) Flexible PTO Fertility HRA (up to $5,000 per year) WFH stipend to support your home office needs Wellness stipend Parental Leave Relocation support to NYC or SF (as needed) Pet insurance Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. Other notices Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. Ramp Applicant Privacy Notice",
       "job_apply_link": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
       "job_posted_at_datetime_utc": "2025-08-01T22:27:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ramp-software-engineering-internship-frontend-new-york"
+      "id": "ramp-software-engineering-internship-frontend-new-york",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -468,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-08-01T22:26:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ramp-software-engineer-internship-backend-new-york"
+      "id": "ramp-software-engineer-internship-backend-new-york",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "DV Trading",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join DV Trading in this exciting opportunity.",
+      "job_description": "*Interviews for the 2026 Summer Internship Program in New York will begin in November 2025. About Us:Founded more than 15 years ago and headquartered in Chicago, the DV Group of financial services firms has grown to more than 450 people operating throughout North America and in Europe. Since spinning out of a large brokerage firm in 2016, DV Trading has rapidly scaled as an independent proprietary trading firm utilizing its own capital, trading strategies, and risk management methodologies to provide liquidity to worldwide financial markets and hedging opportunities to commodity producers and users. Now, DV group affiliates include two broker dealers, a cryptocurrency market making firm, and a bourgeoning investment adviser.DV Commodities is a division within DV Group that specializes in trading commodities markets, including crude oil, refined products, natural gas, power, emissions, metals, softs, and agriculture. DV Commodities' risk management, world-class technology, and talented traders have enabled it to become one of the world’s largest liquidity providers and risk allocators in the energy and commodities spaces. DV Commodities currently has over 35 desks, with traders and staff located in London, New York, Chicago Houston, and Dubai. Overview:As a Software Development Intern, you'll work in small groups within our infrastructure team and/or trading teams to assist building low latency applications, systems and trading tools that will make a direct impact to DV. Through your work and other development opportunities, you will grow your technical skills and understand how our technology stack empowers our firm to serve our trading teams.Requirements: Currently pursuing a degree in Computer Science, Computer Engineering or related field and expected to graduate between Winter 2026 and Summer 2027 Proficient in one or more general purpose programming languages, including C++ and Python Strong quantitative, analytical and problem-solving skills Ability to work onsite at our New York office 5 days a week Hourly pay range $40.00-$50.00DV is not accepting unsolicited resumes from search firms. Only search firms with valid, written agreements with DV should submit resumes in response to DV’s posted positions. All resumes submitted by search firms to DV via e-mail, the Internet, personal delivery, facsimile, or any other method without a valid written agreement shall be deemed the sole property of DV, and no fee will be paid in the event the candidate is hired by DV. DV is proud to be an equal opportunity employer and committed to creating an inclusive environment for all employees.",
       "job_apply_link": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
       "job_posted_at_datetime_utc": "2025-08-01T22:11:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "dv-trading-2026-summer-internship-software-development-dv-commodities-new-york"
+      "id": "dv-trading-2026-summer-internship-software-development-dv-commodities-new-york",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "CACI",
       "job_city": "Dulles",
       "job_state": "VA",
-      "job_description": "Join CACI in this exciting opportunity.",
+      "job_description": "Summer 2025 Internships - MSUJob Category: Intern/Co-opTime Type: Part timeMinimum Clearance Required to Start: NoneEmployee Type: Part-Time On-CallPercentage of Travel Required:Type of Travel:* * *This job requisition serves as a resume collector for students attending Morgan State University interested in opportunities at CACI.The Opportunity:This job requestion is created to collect resumes from students from Morgan State University. As a member of the CACI Intern Program you'll be given challenging assignments consistent with your degree program and level of competence.  For example, Computer Science interns typically develop software, learn development methodologies and tools, and get exposed to advanced concepts like machine learning, or Amazon Web Services.Responsibilities:Your specific assignment will vary.  At CACI we're solving difficult challenges that involve developing capabilities for signals intelligence, building business systems, creating analytics that enable insight and action, designing next generation systems leveraging modern agile methodologies, cloud capabilities, and advanced algorithms.  You'll get assignments and mentoring, but we also look for our interns to be self-starters and independent thinkers that can bring their own innovation and ideas to the table.   At CACI we hire you into our CACI Summer Intern Program and in the ensuing weeks after your acceptance your specific job/program, location, and manager will be identified. Qualifications:Required: Must be current student attending Morgan State UniversityStrong academic success at your University.Energy and a Zest for Learning.Ability to work in a team or individually.Good communications skills.Respect for others.Completion of at least your Freshman year at your UniversityDesired:Practical experience in your area of study - be a practitioner of your trade.This position is contingent on funding and may not be filled immediately. However, this position is representative of positions within CACI that are consistently available. Individuals who apply may also be considered for other positions at CACI.________________________________________________________________________________________What You Can Expect: A culture of integrity.At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust.CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.A focus on continuous growth.Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy.  Your potential is limitless. So is ours.Learn more about CACI here.________________________________________________________________________________________Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits. Learn more here.The proposed salary range for this position is: $39,400 - $75,900CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
       "job_apply_link": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-2025-Internships---MSU_310284",
       "job_posted_at_datetime_utc": "2025-08-01T19:28:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "caci-summer-2025-internships-msu-dulles"
+      "id": "caci-summer-2025-internships-msu-dulles",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "HPR (Hyannis Port Research)",
       "job_city": "Needham",
       "job_state": "MA",
-      "job_description": "Join HPR (Hyannis Port Research) in this exciting opportunity.",
+      "job_description": "HPR is seeking Computer Science and Computer Engineering students to join our award-winning FinTech company. HPR is a dynamic and rapidly growing technology company at the forefront of the high-performance electronic trading industry. As a leader in innovative products and services, we are dedicated to providing cutting-edge solutions that empower tier-1 financial institutions to execute trades rapidly. Our commitment to excellence has fueled our rapid growth, making us an influential player in the market. As a Software Engineering Intern at HPR, you will build upon your strong academic background as you help us advance state-of-the-art, high-performance computing and electronic trading. You will design, develop, and debug C applications running on multi-core Linux systems, to process large amounts of high-throughput, low-latency network data. Education Requirements Pursuing a BS/MS in Computer Engineering, Computer Science or related field and have attained Sophomore standing or higher Successful completion of a course(s) related to Data Structures & Algorithms, Operating Systems, Machine Structure & Assembly-Language, Performance Engineering, and/or Networks & Protocols Must have and maintain at least a 3.0 cumulative GPA, if on a 4.0 scale Basic Qualifications Relevant programming experience in an internship or academic environment, demonstrating strong engineering skills Demonstrated ability to read and write C code Familiarity with Linux Bash/Shell environment Relevant programming experience developing Python or Java applications Strong technical skills, with an interest in expanding knowledge of coding languages Capable of working collaboratively in a fast-paced technical environment Preferred Qualifications Desire to work with low-level technologies Familiarity with network socket programming and TCP Compensation: In compliance with Massachusetts law, the anticipated hourly rate this position is $42.00/hour. Please note that this range represents the expected base wage for this role at the time of posting. The final offer may vary based on factors such as the candidate's experience, skills, and qualifications. Our goal is to ensure a robust learning experience, providing you with new friends, mentorship, and a foundation to start building a strong professional network. We do not offer any fake “intern projects” at HPR. Our Software Engineering Interns are actively engaged, making meaningful contributions to our team on a daily basis. HPR is a collaborative organization. As a member of our team, you are in the thick of everything. Walls do not divide teams, and you will work side-by-side the most talented developers, designers and programmers in the business. At HPR you’ll enjoy generous employee perks including casual dress code, team events, free food and lunches, and more!",
       "job_apply_link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
       "job_posted_at_datetime_utc": "2025-08-01T16:46:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hpr-hyannis-port-research-software-engineering-intern-needham"
+      "id": "hpr-hyannis-port-research-software-engineering-intern-needham",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
       "job_posted_at_datetime_utc": "2025-08-01T15:32:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-frontend-software-engineer-intern-global-e-commerce-seattle"
+      "id": "bytedance-frontend-software-engineer-intern-global-e-commerce-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7532668388906256658/detail",
       "job_posted_at_datetime_utc": "2025-08-01T15:12:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-seattle"
+      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7532670930951178503/detail",
       "job_posted_at_datetime_utc": "2025-08-01T15:12:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-san-jose"
+      "id": "bytedance-backend-software-engineer-intern-global-e-commerce-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:48:45.706Z",
     "postedAt": null
   },
   {
