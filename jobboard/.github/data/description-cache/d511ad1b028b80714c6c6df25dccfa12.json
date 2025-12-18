@@ -1,0 +1,28 @@
+{
+  "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: At Neuralink, we're engineering the future of automated surgeries, focusing on the safe and effective implantation of our groundbreaking Neuralink implant. Our team — a cross-functional mix of roboticists, engineers from various disciplines, and medical professionals — collaborates on developing a surgical flow from first principles. In this critical role, you'll straddle the cutting-edge worlds of robotics, software, and neuroscience. Job Description and Responsibilities: This is a new role for our team that will allow you to create new embedded systems from scratch while challenging and refining the old. As a Firmware Engineer Intern, your responsibilities will encompass: Developing and optimizing embedded software for robotic surgery applications Streamlining our codebase by refining and, when necessary, retiring legacy embedded software Rigorous testing and validation of software systems to meet the highest safety and reliability standards Participating in peer code reviews Writing drivers and applications to extend the functionality of our robotics Specifying hardware and software choices as we develop future hardware platforms Sharing your findings and progress with the team in a collaborative environment Required Qualifications: Demonstrated track record of success in a science or engineering field, evidenced by outstanding projects, innovations, or advanced problem-solving Proven experience in software development, preferably with exposure to embedded systems Preferred Qualifications: Embedded Software Development: 2+ years of experience with embedded systems Proficient with common communication protocols (SPI, UART, I2C, etc.) Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3 Proficient in at least one embedded language such as C, C++, or Rust Proficient with embedded toolchains and workflow Experience building and bringing-up MCUs or FPGAs Experience with embedded stacks for ARM cores Experience developing on embedded Linux platforms Experience with embedded Linux kernel configuration and device tree setup Experience with kernel driver development Experience with ARM bootloaders Experience coding drivers for actuators and sensors Experience with high-speed data acquisition and processing Electrical Engineering: Foundational understanding of MCU architectures and peripheral integration Solid knowledge in electrical engineering and DSP Ability to interpret electrical schematics and datasheets, along with proficiency in using lab equipment Expected Compensation: The anticipated hourly rate for this position is listed below. California Hourly Flat Rate:$35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
+    "requirements": [
+      "Proven experience in software development, preferably with exposure to embedded systems",
+      "2+ years of experience with embedded systems",
+      "Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3",
+      "Experience with embedded stacks for ARM cores",
+      "Experience developing on embedded Linux platforms",
+      "Experience with embedded Linux kernel configuration and device tree setup",
+      "Experience with kernel driver development",
+      "Experience with ARM bootloaders",
+      "Experience coding drivers for actuators and sensors",
+      "Experience with high-speed data acquisition and processing",
+      "Solid knowledge in electrical engineering and DSP"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
+      "fetchedAt": "2025-12-18T22:55:56.411Z"
+    }
+  },
+  "cachedAt": 1766098556411
+}
