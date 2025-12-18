@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Summer (MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535156966491146503/detail",
-      "job_posted_at_datetime_utc": "2025-08-06T05:27:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer Intern - E-commerce-Conversational AI - 2026 Start - PhD",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Summer/Fall (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7535156928172132626/detail",
-      "job_posted_at_datetime_utc": "2025-08-06T05:18:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-conversational-ai-2026-start-phd-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:30:03.756Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Payment Architecture - Global Payment",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7533369790536141063/detail",
-      "job_posted_at_datetime_utc": "2025-08-05T16:07:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-payment-architecture-global-payment-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern (Data Ecosystem)",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Data Ecosystem) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7533388869200333074",
-      "job_posted_at_datetime_utc": "2025-08-05T03:19:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-data-ecosystem-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (TikTok-Intelligent Creation - Generative AI and Graphics)- 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7533029779479791890",
-      "job_posted_at_datetime_utc": "2025-08-05T03:18:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-tiktok-intelligent-creation-generative-ai-and-graphics-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Baseten",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Join Baseten in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37",
-      "job_posted_at_datetime_utc": "2025-08-05T02:28:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "baseten-software-engineering-intern-new-york",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Mobile Developer Intern (AI / ML)",
-      "employer_name": "Copart",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Join Copart in this exciting opportunity.",
-      "job_apply_link": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/details/Mobile-Developer-Intern--AI---ML-_JR104180?workerSubType=642abc1e87ca10098af3a23fe5090000",
-      "job_posted_at_datetime_utc": "2025-08-05T02:23:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "copart-mobile-developer-intern-ai-ml-dallas",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
-      "job_title": "Privacy/Security in LLM-Driven Agentic Systems PhD Internship",
-      "employer_name": "PennState University",
-      "job_city": "State College",
-      "job_state": "PA",
-      "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants. Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants.  JOB DESCRIPTION AND POSITION REQUIREMENTSThe College/Unit of IST is seeking applicants for part-time job of Privacy/Security in LLM-Driven Agentic Systems PhD Internship w/ Dr. SharmaAbout the Project:Governance, Privacy and Security Lab is conducting research at the intersection of security, privacy, and AI systems design. The goal of this project is to create a structured analysis of information flow in modular, LLM-driven agentic systems. The focus is on identifying security, privacy, and control failures that emerge when autonomous modules interact across loosely enforced system boundaries. We also would like to estimate the value of privacy and security in the agentic systems from users perspective. Internship Role:We are seeking a highly motivated PhD intern (part-time research role) to support the development of tools, models, and taxonomies that expose and mitigate vulnerabilities in LLM-driven agentic systems. You will work closely with team to:Analyze modular architectures for unanticipated information flowFormalize information flow motifs and their associated threat vectorsAssist in developing a layered threat model aligned with NIST Cybersecurity Framework principlesApply causal tracing, influence tracking, and behavioral audit techniques to real-world agentic systemsContribute to an academic paper and open-source toolsQualifications:Enrolled in a PhD program in Computer Science, Information Science, Cybersecurity, or related fieldsResearch experience in one or more of the following: LLMs, multi-agent systems, privacy/ securityAnalytical and writing skillsExperience with LLM agent frameworks or security auditing tools is a plusApply:Please apply to the position to be considered. Please upload a CV, and a sample publication or writing sample. Applications are reviewed on a rolling basis.Compensation:The starting rate for this job is $18, 20 hours/week. BACKGROUND CHECKS/CLEARANCESEmployment with the University will require successful completion of background check(s) in accordance with University policies.   CAMPUS SECURITY CRIME STATISTICSPursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here. EEO IS THE LAWPenn State is an equal opportunity employer and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473. The Pennsylvania State University is committed to and accountable for advancing equity, respect, and belonging in all its forms. We embrace individual uniqueness, as well as a culture of belonging that supports both broad and specific equity initiatives, leverages the educational and institutional benefits of inclusion in society, and provides opportunities for engagement intended to help all members of the community thrive. We value belonging as a core strength and an essential element of the university’s teaching, research, and service mission. Federal Contractors Labor Law PosterPA State Labor Law PosterPenn State PoliciesCopyright InformationHotlines",
-      "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
-      "job_posted_at_datetime_utc": "2025-08-04T22:07:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pennstate-university-privacy-security-in-llm-driven-agentic-systems-phd-internship-state-college",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": "2025-12-18T22:49:25.834Z"
-  },
-  {
-    "job": {
       "job_title": "Research Intern on Generative AI for Content Creation",
       "employer_name": "Sony",
       "job_city": "New York",
@@ -254,10 +94,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:42:14.119Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T22:48:45.706Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T22:56:38.022Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "M&T Bank",
       "job_city": "Buffalo",
       "job_state": "NY",
-      "job_description": "Join M&T Bank in this exciting opportunity.",
+      "job_description": "*The recruitment process for this role will begin in Fall 2025, for a June 2026 start date*This role is not eligible for visa sponsorship, meaning you will need to be able to secure and maintain work authorization without the need for a written submission by the company to a government agency, or the need for the company to make an entry as the immigration employer of record (e.g., STEM OPT training plan, I-20 Form endorsed for CPT, TN employer, etc.)Overview: Works under direction of a mentor to complete technology-related projects and assignments for a specified and established length of time.Primary Responsibilities:May complete any or all of the following depending on business/departmental requirements:Support project-based activities aligned to software development, technical engineering, cybersecurity or data engineering.  Projects will have measurable objectives and clear outcomes. Depending on area supported, may complete basic programming and testing or draft plans and scripts of a technical nature.Understand and adhere to the Company’s risk and regulatory standards, policies and controls in accordance with the Company’s Risk Appetite.  Identify risk-related issues needing escalation to management.Maintain M&T internal control standards, including timely implementation of internal and external audit points together with any issues raised by external regulators as applicable.Complete other related duties as assigned.Scope of Responsibilities:The jobholder works under immediate supervision.  The position is for an established time period.Supervisory/Managerial Responsibilities:Not ApplicableEducation and Experience Required:Currently pursuing a minimum of a Bachelor’s degree in Computer Science, Computer Engineering, Software Development or related STEM fieldMinimum cumulative Grade Point Average (GPA) of 3.0Work Visa Sponsorship not offered for this roleEducation and Experience Preferred:Minimum cumulative Grade Point Average (GPA) of 3.5Java, SQL, Python, C# or similar programming knowledge with some practical application. Demonstrated teamwork skillsExposure to Agile methodologyProven innovative and creativity skillsStrong interpersonal skillsStrong written and verbal communication skillsFocused on continual learningProven collaborative skillsTeam-focused approachProven analytical skillsProven problem-solving skillsM&T Bank is committed to fair, competitive, and market-informed pay for our employees. The pay range for this position is $18.00 - $28.00 per hour. The successful candidate’s particular combination of knowledge, skills, and experience will inform their specific compensation. The range listed above encompasses all geographic locations. The pay rate specific to your location will fall within this range and is available from your recruiter.LocationBuffalo, New York, United States of America",
       "job_apply_link": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035",
       "job_posted_at_datetime_utc": "2025-07-31T19:49:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "m-t-bank-technology-internship-program-buffalo"
+      "id": "m-t-bank-technology-internship-program-buffalo",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "Peak Nano",
       "job_city": "Macedonia",
       "job_state": "OH",
-      "job_description": "Join Peak Nano in this exciting opportunity.",
+      "job_description": "JOIN PEAK See Open Positions Peak Values, Not Just Words On The Wall Own It & Get It Done, Transparency No B.S., Don't Be A Jerk, Do The Right Thing, Be A Team Player, Steady In The Storm .hdg__ocean_content .hdg__ocean_content-divider{ background-color: var(--accentColorTwo); height:3px; margin:10px 0 5px; max-width: 80px; width:100%; } .hdg__ocean_wrap{ position:relative; padding:10px 0 25px; } .hdg__ocean_content-h{ margin-top:5px; margin-bottom:0; display:inline-block } .hdg__ocean_content-wp{ display:grid; } .hdg__ocean_content-icon{ margin-top: 10px; padding-right: 10px; max-width: 45px; height: 45px; width: 45px; } .hdg__ocean_content-icon img{ max-width: 100%!important; height: 100%!important; object-fit: contain; } .hdg__ocean_content-title-tag{ margin-bottom:0px; border-radius:var(--cornerRadius); width: auto; } .hdg__ocean_content__p{ display: flex; width: 100%; } .hdg__ocean_content__p-el{ margin-top:15px; padding:0; } .hdg__ocean_content-title{ display: flex; flex-direction: column; position:relative; } .hdg__ocean_content-title.sync a{ position:absolute; top:-10px; } .hdg__ocean_more-link{ flex: 0 0 auto; margin-left: 10px; } .hdg__ocean_see-more{ display: flex; align-items: center; grid-gap: 10px; line-height: 1; } .hs-inline-edit .hdg__ocean_content-title:hover:before { color: #333; content: attr(data-anchor); position: absolute; font-size: 12px; top: -40px; left: 0; padding: 5px; background: #f8f8fd; border-radius: 3px; white-space: nowrap; } Working at Peak Deciding to join a new company is not to be taken lightly, and we want you to make an informed decision. Peak is growing rapidly, and this requires the right team.We want our team to embrace a shared mission and purpose for joining Peak. Our most impactful hires often originate from employee referrals and peer networks. Our goal is for you to feel integral to the company with a meaningful purpose, fostering both personal career growth and collective company success. See Open Positions PEAK BENEFITS Insurance Comprehensive options for Medical, Dental, Vision, and Disability coverage. 401K 401K match provided by Peak Nano, enhancing employee retirement savings. Remote Work Peak offers the flexibility of working remotely for applicable positions. PTO Peak prioritizes work-life balance with allocated personal time off. Career opportunities All Optics Business Unit Films Business Unit Internship Macedonia, OH AI/ML Developmental CO-OP – Spring ‘26 Peak is seeking AI/ML CO-OP to build software that uses AI to improve physical processes in LGRIN lens manufacturing. Apply Remote Applied Optical Scientist Peak Nano is looking for an Optical Scientist with in-depth knowledge of optics and optical software development. Apply Remote Content Marketing Videographer Co-op – Spring ‘26 Peak is looking for a Videographer Co-Op to join our team and help produce engaging, high-impact video content across marketing, sales, and education. Apply Cleveland, OH DevOps Engineer II Peak is seeking a DevOps engineer with a good cultural fit to help build out the digital infrastructure. Apply Cleveland, OH Extrusion Technician Peak is seeking an Extrusion Technician. This is an incredible opportunity to help advance our ground-breaking technology. Apply Valley View, OH Facilities, Maintenance and EH&S Director Peak is seeking an EH&S Director to oversee facilities and maintenance. Apply Macedonia, OH Industrial Maintenance Technician Peak Nano is seeking an Industrial Maintenance Technician, responsible for inspections, repairs, and preventive maintenance on equipment and building systems while ensuring safety and efficiency. Apply Macedonia, OH IT CO-OP – Spring ‘26 Peak Nano is looking for an Information Technology CO-OP to join our IT department in the Spring Session. Apply Macedonia, OH IT Internship – Summer ‘26 Peak Nano is looking for an Information Technology Intern to join our IT department in the Summer Session. Apply Valley View, OH Manufacturing Engineer II, Extrusion Peak is seeking a Manufacturing Engineer II, Extrusion to develop and optimize Optical Film via patented nanolayer cast film co-extrusion process. Apply Macedonia, OH Materials Program Manager Peak is seeking a Materials Program Manager to lead inventory, POs, logistics, reporting, and BOM management. Apply Macedonia, OH Principal Opto-Mechanical Engineer Peak Nano is seeking an innovative Principal Opto-Mechanical Engineer with demonstrated experience bringing new opto-mechanical products to market. Apply Macedonia, OH Principal Software Engineer Peak is seeking a highly skilled Software Architect with deep experience designing both SaaS (Software as a Service) and on-premises enterprise applications. Apply Valley View, OH Process Engineering Internship – Summer ‘26 Peak is seeking a Process Engineering Intern for the Summer ‘26 session. Apply Macedonia, OH Quality Control Supervisor Peak Nano is seeking a Quality Control Supervisor responsible for overseeing quality control activities in an Optical Device manufacturing environment. Apply Valley View, OH Research Engineering Internship – Summer ‘26 Peak is seeking a Research Engineering Intern for the Summer ‘26 session. Apply Macedonia, OH Software Engineer Intern – Summer ‘26 Peak is seeking a Software Engineer Intern for the Summer ‘26 session. Apply Valley View, OH Sr Research Scientist Peak is seeking a Sr. Research Scientist to lead polymer product development, driving innovation and growth in existing and emerging markets. Apply Macedonia, OH Sr Software Engineer Peak is seeking a Sr Software Engineer who will support Peaks’ manufacturing & AI/Ml data infrastructure. Apply Valley View, OH VP of Manufacturing Peak is seeking an experienced VP of Manufacturing to lead operations at a fast-growing, innovative nanotechnology company. Apply Get the Latest Peak News Sign up for Peak's Newsletter with your business email address. Contact Peak",
       "job_apply_link": "https://www.peaknano.com/careers/software-engineer-intern-spring-26",
       "job_posted_at_datetime_utc": "2025-07-30T19:24:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "peak-nano-software-engineer-intern-macedonia"
+      "id": "peak-nano-software-engineer-intern-macedonia",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -486,11 +330,13 @@
       "job_posted_at_datetime_utc": "2025-07-30T19:20:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "method-software-engineer-intern-austin"
+      "id": "method-software-engineer-intern-austin",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "Allium",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Allium in this exciting opportunity.",
+      "job_description": "Allium makes blockchain data accurate, simple and fast Blockchain data is hard, messy, and chaotic When we started out in late 2021 our thesis was simple - blockchain data, despite it being public and free, was difficult to understand, clunky to access and troublesome to maintain. Answering a simple question like “Who are the biggest Ethereum token holders over time?” requires an engineering team to run their own RPC nodes, ingest the full history of the blockchain, clean the data, transform the data and finally summon a wizard to cast a complex SQL query. Accessing data is hard because blockchains are optimized for Writes and not Reads Why is it so hard? Blockchains have historically been optimized for Writes (getting data onto the blockchain) and less for Reads (getting data OUT of the blockchain). This is because optimization efforts were focused on increasing transaction throughput and building fault tolerant and scalable consensus algorithms. This neglect makes it hard to get data out efficiently and reliably at scale. Parsing and interpreting blockchain data requires both deep domain expertise and data manipulation To quote Tim Roughgarden, Columbia Professor, “Blockchains are (virtual) computers, not databases.” They are Turing machines that support general computations, and anyone can write and deploy their own smart contract for their own use case. This nearly infinite number of use cases leads to the fragmentation of data schemas for different purposes. Standardizing these schemas requires deep domain expertise to turn esoteric technical outputs into clear information for specific concepts like tokens, NFTs, stablecoins and DEXs. Allium abstracts the complexity with a simple way to query blockchain data Allium tames the chaos by ingesting, sanitizing, and standardizing all this data. As of this post, the data we’ve archived across 100+ blockchains is in the petabytes and growing exponentially. Google and Bloomberg had to organize the world's public financial and webpage data, Allium is on a mission to do the same for blockchain data This is one of the rare times in history where indexing a giant public dataset is sorely needed by all - similar to what Bloomberg did for financial data and what Google organized for public webpage data. With this indexed data, we are fortunate to support trailblazers in this industry and play some role the industry’s most exciting trends: About our customers We serve 2 groups of customers today with the same data but different platform. Analysts who need to answer data questions about the blockchain (think BI) and Engineers who need highly reliable data queryable in near realtime (think Application backends). Our customers include the biggest institutions Visa , Stripe, Grayscale and also the biggest crypto companies such as Phantom, Uniswap. Allium is one of the unique companies in the industry that bridge blockchain and non blockchain worlds. What you'll do We love to empower our interns as full time engineers and treat them with the highest standards and expectations. You’ll work closely with our founding engineering team to accelerate Allium's AI efforts to make blockchain data easy to query &amp; understand. If you want to get a front row seat into a startup, go for it! Don't take our word for it, what our customers say about us ( https://www.allium.so/blog#love) What some ~cool people have to say about us: Mario Gabriele from The Generalist's Future 50 Startup List: https://www.allium.so/post/allium-named-awardee-of-the-generalists-inaugural-future-50-startups Tomasz Tungus from Theory Ventures: https://tomtunguz.com/allium/ Bucky Moore from Kleiner Perkins: https://www.kleinerperkins.com/perspectives/allium-series-a/ Ok.. now for some tough love, here are the values we strive for at Allium: Pro Athlete Mindset - Consistency. Day in and day out, in pursuit of excellence. A win yesterday does not guarantee (or even imply!) a win tomorrow. I hope anyone who supports a failing sports team will feel the pain ( cough Man United fan s) of inconsistency Figure It Out &amp; Extreme Ownership - Every day is unexplored territory. There are new engineering frameworks, new legal docs, new compliance, new sales, new regulations, and new operational procedures every single day. If you don’t know it, learn it. If you can’t learn it, find someone or a product that does it. If you can’t find someone, find someone who can find someone. It is never lack of resources, but lack of resourcefulness. High Agency - (One of) the highest commonality between all successful people is their responsiveness, most successful billionaire CEOs still reply to emails within minutes (within working hours). And when you reply, respond fast with effective solutions - and even better, resolutions. If you’re looking for a superpower, you can’t go wrong with responsiveness. Well of course this doesn't make sense when you're an engineer coding in flow, but in general high agency of problem solving gets one very far in life Leading from the Front - No one is going to listen (and adopt) your suggestion unless you lead by example. It’s one thing to say We need to do XYZ this better &amp; it’s another thing to build an MVP and say “This is the way we should do things”. The proof of work and momentum goes a long way. Strong Opinions On the Future (loosely held) It is okay to be wrong, but what is not okay is not to have an idea of how a better future should be. Alliumites take pride in trying to improving everything about the company all the time. Sense of (allium) business smell - There are number of folks who live to eat at Allium, but the Allium smell we are talking about is that we love folks who naturally want to know why and how the work they are doing builds leverage for their teammates and also relates to the business goals About the team We invite people of all backgrounds ( https://www.allium.so/about ). We have engineers who learnt coding much later in life, who learnt coding on the side, we have engineers who are still in school and we also have engineers who went to the top schools (CMU, Stanford, UIUC, UPenn, Oxford, NUS, Cornell), all are welcome if one comes in with a curious mind and an infectious work ethic. Administrative Benefits Medical, Dental, Vision, Life and AD&amp;D insurance - US folks get 100% coverage for Gold plans, 80% for dependents Ownership - Meaningful early-stage equity. Every full-time employee receives a stock option grant so you can share directly in Allium's upside Time off - Flexible, trust-based paid time off. We encourage people to take the rest they need. In every country we hire, our policies meet or exceed local statutory vacation requirements Retirement - Company sponsored 401(k) plan in US so you can save pre-tax for the long term Note: The sun never sets on Allium - we hire from any geographical location as long as you are willing to overlap 2 hours overlap on NYC mornings Mon-Thurs from 10am-12pm ET. We have people based in New York, Seattle, Singapore and Australia All applicants have to answer this pop quiz: \" What is an Allium? What is your favorite Allium? \". Bonus points for the right pronunciation.",
       "job_apply_link": "https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e",
       "job_posted_at_datetime_utc": "2025-07-30T17:18:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "allium-engineering-intern-ai-new-york"
+      "id": "allium-engineering-intern-ai-new-york",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "Komatsu",
       "job_city": "Warrendale",
       "job_state": "PA",
-      "job_description": "Join Komatsu in this exciting opportunity.",
+      "job_description": "// Variables for CSB determined properties var jobAlertLinkLabelTextFontColor = \"\"; var jobAlertLinkLabelTextHoverColor = \"\"; document.getElementById(\"aria-pageTitleText-hidden\").innerText = \"\"; Search Jobs //<![CDATA[ window.savedFilter = \"null\"; var isBrandedHostName = \"false\"; //String isBrandedHostName is being used as multiple other places, so creating a new boolean variable to handle job search href. var isBrandedHostNameBool = \"false\" === \"true\"; function navToSearchResults() { var brand = \"\"; var isBrandFormEnabled = \"true\" === \"true\"; if(j2w.SearchManager && j2w.SearchManager.search){ j2w.SearchResultsUnify.removeResultContent(); j2w.SearchManager.search(null); } else{ var sQueryParm = \"\"; $(\".well-small.searchwell input:visible\").each(function(index,item) { sQueryParm += encodeURIComponent(item.name) + \"=\" + encodeURIComponent(item.value) + \"&\" }); if (isBrandedHostNameBool) { window.location.href = '/search/?'+ sQueryParm; } else { window.location.href = (brand && isBrandFormEnabled ? '/' + brand : '') + '/search/?'+ sQueryParm; } } } (function(){ var oSearchInputs = $('.searchwell .input-group > input'); var submitButton = $('.searchwell .keywordsearchbutton:visible'); oSearchInputs.on('keyup', function (e) { if(e?.key?.toLowerCase() === 'enter') { submitButton.trigger('click'); } }); })() //]]> You can't view this job because it's not available at this time. if(\"04600e3b2cd64810\" === \"2cc4dad7\" && \"#ffffff\") { jobAlertLinkLabelTextFontColor = \"#ffffff\"; } if(\"04600e3b2cd64810\" === \"aa199ac7\" && \"#ffffff\") { jobAlertLinkLabelTextHoverColor = \"#ffffff\"; } if(\"047f216b\" === \"2cc4dad7\" && \"#E8F3FF\") { jobAlertLinkLabelTextFontColor = \"#E8F3FF\"; } if(\"047f216b\" === \"aa199ac7\" && \"#E8F3FF\") { jobAlertLinkLabelTextHoverColor = \"#E8F3FF\"; } if(\"0d47084c\" === \"2cc4dad7\" && \"#45484A\") { jobAlertLinkLabelTextFontColor = \"#45484A\"; } if(\"0d47084c\" === \"aa199ac7\" && \"#45484A\") { jobAlertLinkLabelTextHoverColor = \"#45484A\"; } if(\"0d609d62b0e7b085\" === \"2cc4dad7\" && \"#c7cacd\") { jobAlertLinkLabelTextFontColor = \"#c7cacd\"; } if(\"0d609d62b0e7b085\" === \"aa199ac7\" && \"#c7cacd\") { jobAlertLinkLabelTextHoverColor = \"#c7cacd\"; } if(\"0ea3a32f\" === \"2cc4dad7\" && \"#D6DADE\") { jobAlertLinkLabelTextFontColor = \"#D6DADE\"; } if(\"0ea3a32f\" === \"aa199ac7\" && \"#D6DADE\") { jobAlertLinkLabelTextHoverColor = \"#D6DADE\"; } if(\"1025915a\" === \"2cc4dad7\" && \"#0070F2\") { jobAlertLinkLabelTextFontColor = \"#0070F2\"; } if(\"1025915a\" === \"aa199ac7\" && \"#0070F2\") { jobAlertLinkLabelTextHoverColor = \"#0070F2\"; } if(\"1248433e\" === \"2cc4dad7\" && \"#556B82\") { jobAlertLinkLabelTextFontColor = \"#556B82\"; } if(\"1248433e\" === \"aa199ac7\" && \"#556B82\") { jobAlertLinkLabelTextHoverColor = \"#556B82\"; } if(\"1d2db517925e4e3f55f919a8953fea84\" === \"2cc4dad7\" && \"#123456\") { jobAlertLinkLabelTextFontColor = \"#123456\"; } if(\"1d2db517925e4e3f55f919a8953fea84\" === \"aa199ac7\" && \"#123456\") { jobAlertLinkLabelTextHoverColor = \"#123456\"; } if(\"207ffee0\" === \"2cc4dad7\" && \"#EFF1F2\") { jobAlertLinkLabelTextFontColor = \"#EFF1F2\"; } if(\"207ffee0\" === \"aa199ac7\" && \"#EFF1F2\") { jobAlertLinkLabelTextHoverColor = \"#EFF1F2\"; } if(\"2cc4dad7\" === \"2cc4dad7\" && \"#0064D9\") { jobAlertLinkLabelTextFontColor = \"#0064D9\"; } if(\"2cc4dad7\" === \"aa199ac7\" && \"#0064D9\") { jobAlertLinkLabelTextHoverColor = \"#0064D9\"; } if(\"333627c1ab7ad4ce\" === \"2cc4dad7\" && \"#ffc82f\") { jobAlertLinkLabelTextFontColor = \"#ffc82f\"; } if(\"333627c1ab7ad4ce\" === \"aa199ac7\" && \"#ffc82f\") { jobAlertLinkLabelTextHoverColor = \"#ffc82f\"; } if(\"358abc52\" === \"2cc4dad7\" && \"#D6D6D6\") { jobAlertLinkLabelTextFontColor = \"#D6D6D6\"; } if(\"358abc52\" === \"aa199ac7\" && \"#D6D6D6\") { jobAlertLinkLabelTextHoverColor = \"#D6D6D6\"; } if(\"399f8a168f65a18e\" === \"2cc4dad7\" && \"#a5abaf\") { jobAlertLinkLabelTextFontColor = \"#a5abaf\"; } if(\"399f8a168f65a18e\" === \"aa199ac7\" && \"#a5abaf\") { jobAlertLinkLabelTextHoverColor = \"#a5abaf\"; } if(\"47023c7a\" === \"2cc4dad7\" && \"#222222\") { jobAlertLinkLabelTextFontColor = \"#222222\"; } if(\"47023c7a\" === \"aa199ac7\" && \"#222222\") { jobAlertLinkLabelTextHoverColor = \"#222222\"; } if(\"4717b034b94c5747\" === \"2cc4dad7\" && \"#f7f7f7\") { jobAlertLinkLabelTextFontColor = \"#f7f7f7\"; } if(\"4717b034b94c5747\" === \"aa199ac7\" && \"#f7f7f7\") { jobAlertLinkLabelTextHoverColor = \"#f7f7f7\"; } if(\"55e0bf2da6ec756b\" === \"2cc4dad7\" && \"#f6f6f6\") { jobAlertLinkLabelTextFontColor = \"#f6f6f6\"; } if(\"55e0bf2da6ec756b\" === \"aa199ac7\" && \"#f6f6f6\") { jobAlertLinkLabelTextHoverColor = \"#f6f6f6\"; } if(\"61ce1031e0d69a2c\" === \"2cc4dad7\" && \"#1b232a\") { jobAlertLinkLabelTextFontColor = \"#1b232a\"; } if(\"61ce1031e0d69a2c\" === \"aa199ac7\" && \"#1b232a\") { jobAlertLinkLabelTextHoverColor = \"#1b232a\"; } if(\"664738c9\" === \"2cc4dad7\" && \"#C6C6C6\") { jobAlertLinkLabelTextFontColor = \"#C6C6C6\"; } if(\"664738c9\" === \"aa199ac7\" && \"#C6C6C6\") { jobAlertLinkLabelTextHoverColor = \"#C6C6C6\"; } if(\"76a1865d\" === \"2cc4dad7\" && \"#D8D8D8\") { jobAlertLinkLabelTextFontColor = \"#D8D8D8\"; } if(\"76a1865d\" === \"aa199ac7\" && \"#D8D8D8\") { jobAlertLinkLabelTextHoverColor = \"#D8D8D8\"; } if(\"76f4dd4a45d1e23e\" === \"2cc4dad7\" && \"#140a9a\") { jobAlertLinkLabelTextFontColor = \"#140a9a\"; } if(\"76f4dd4a45d1e23e\" === \"aa199ac7\" && \"#140a9a\") { jobAlertLinkLabelTextHoverColor = \"#140a9a\"; } if(\"7efb4c1c\" === \"2cc4dad7\" && \"#F4F4F4\") { jobAlertLinkLabelTextFontColor = \"#F4F4F4\"; } if(\"7efb4c1c\" === \"aa199ac7\" && \"#F4F4F4\") { jobAlertLinkLabelTextHoverColor = \"#F4F4F4\"; } if(\"9842c630\" === \"2cc4dad7\" && \"#FF8000\") { jobAlertLinkLabelTextFontColor = \"#FF8000\"; } if(\"9842c630\" === \"aa199ac7\" && \"#FF8000\") { jobAlertLinkLabelTextHoverColor = \"#FF8000\"; } if(\"a880bb1b\" === \"2cc4dad7\" && \"#999999\") { jobAlertLinkLabelTextFontColor = \"#999999\"; } if(\"a880bb1b\" === \"aa199ac7\" && \"#999999\") { jobAlertLinkLabelTextHoverColor = \"#999999\"; } if(\"aa199ac7\" === \"2cc4dad7\" && \"#223548\") { jobAlertLinkLabelTextFontColor = \"#223548\"; } if(\"aa199ac7\" === \"aa199ac7\" && \"#223548\") { jobAlertLinkLabelTextHoverColor = \"#223548\"; } if(\"aba61b3b\" === \"2cc4dad7\" && \"#333333\") { jobAlertLinkLabelTextFontColor = \"#333333\"; } if(\"aba61b3b\" === \"aa199ac7\" && \"#333333\") { jobAlertLinkLabelTextHoverColor = \"#333333\"; } if(\"b6a533a1\" === \"2cc4dad7\" && \"#000000\") { jobAlertLinkLabelTextFontColor = \"#000000\"; } if(\"b6a533a1\" === \"aa199ac7\" && \"#000000\") { jobAlertLinkLabelTextHoverColor = \"#000000\"; } if(\"b9a00efb6f5c6e8a56a91390486728b2\" === \"2cc4dad7\" && \"#223344\") { jobAlertLinkLabelTextFontColor = \"#223344\"; } if(\"b9a00efb6f5c6e8a56a91390486728b2\" === \"aa199ac7\" && \"#223344\") { jobAlertLinkLabelTextHoverColor = \"#223344\"; } if(\"c41cc828\" === \"2cc4dad7\" && \"#D9D9D9\") { jobAlertLinkLabelTextFontColor = \"#D9D9D9\"; } if(\"c41cc828\" === \"aa199ac7\" && \"#D9D9D9\") { jobAlertLinkLabelTextHoverColor = \"#D9D9D9\"; } if(\"c63bfd23\" === \"2cc4dad7\" && \"#5B94FF\") { jobAlertLinkLabelTextFontColor = \"#5B94FF\"; } if(\"c63bfd23\" === \"aa199ac7\" && \"#5B94FF\") { jobAlertLinkLabelTextHoverColor = \"#5B94FF\"; } if(\"d09a1cea\" === \"2cc4dad7\" && \"#828C97\") { jobAlertLinkLabelTextFontColor = \"#828C97\"; } if(\"d09a1cea\" === \"aa199ac7\" && \"#828C97\") { jobAlertLinkLabelTextHoverColor = \"#828C97\"; } if(\"e11f3b39\" === \"2cc4dad7\" && \"#DCDFE3\") { jobAlertLinkLabelTextFontColor = \"#DCDFE3\"; } if(\"e11f3b39\" === \"aa199ac7\" && \"#DCDFE3\") { jobAlertLinkLabelTextHoverColor = \"#DCDFE3\"; } if(\"e7956041\" === \"2cc4dad7\" && \"#83888B\") { jobAlertLinkLabelTextFontColor = \"#83888B\"; } if(\"e7956041\" === \"aa199ac7\" && \"#83888B\") { jobAlertLinkLabelTextHoverColor = \"#83888B\"; } if(\"e7ba7dfa\" === \"2cc4dad7\" && \"#B5D7FF\") { jobAlertLinkLabelTextFontColor = \"#B5D7FF\"; } if(\"e7ba7dfa\" === \"aa199ac7\" && \"#B5D7FF\") { jobAlertLinkLabelTextHoverColor = \"#B5D7FF\"; } if(\"e9c09cca\" === \"2cc4dad7\" && \"#788FA6\") { jobAlertLinkLabelTextFontColor = \"#788FA6\"; } if(\"e9c09cca\" === \"aa199ac7\" && \"#788FA6\") { jobAlertLinkLabelTextHoverColor = \"#788FA6\"; } if(\"ee3532407970fda0\" === \"2cc4dad7\" && \"#d1d4d3\") { jobAlertLinkLabelTextFontColor = \"#d1d4d3\"; } if(\"ee3532407970fda0\" === \"aa199ac7\" && \"#d1d4d3\") { jobAlertLinkLabelTextHoverColor = \"#d1d4d3\"; } if(\"f6458a8d\" === \"2cc4dad7\" && \"#EBF3FF\") { jobAlertLinkLabelTextFontColor = \"#EBF3FF\"; } if(\"f6458a8d\" === \"aa199ac7\" && \"#EBF3FF\") { jobAlertLinkLabelTextHoverColor = \"#EBF3FF\"; } if(\"fd67c15c\" === \"2cc4dad7\" && \"#1D2D3E\") { jobAlertLinkLabelTextFontColor = \"#1D2D3E\"; } if(\"fd67c15c\" === \"aa199ac7\" && \"#1D2D3E\") { jobAlertLinkLabelTextHoverColor = \"#1D2D3E\"; } //<![CDATA[ const jobAlertLinkLabelTextFontName = 'Arial, Helvetica, sans-serif' || 'Arial'; const jobAlertLinkLabelTextFontSize = '16' || '16'; const calcJobAlertLinkLabelTextFontColor = jobAlertLinkLabelTextFontColor || '#0064D9'; const calcJobAlertLinkLabelTextHoverColor = jobAlertLinkLabelTextHoverColor || '223548'; document.documentElement.style.cssText += '--jobAlertLinkLabelTextFontName: '.concat(jobAlertLinkLabelTextFontName).concat(\";\"); document.documentElement.style.cssText += '--jobAlertLinkLabelTextFontSize: '.concat(jobAlertLinkLabelTextFontSize).concat(\"px;\"); document.documentElement.style.cssText += '--jobAlertLinkLabelTextFontColor: '.concat(calcJobAlertLinkLabelTextFontColor).concat(\";\"); document.documentElement.style.cssText += '--jobAlertLinkLabelTextHoverColor: '.concat(calcJobAlertLinkLabelTextHoverColor).concat(\";\"); $(function() { $('.jobAlertComponent--button').click(function (e) { e.preventDefault(); j2w.TC.collectForCASWorkflow({ agent: null, emailAddress: \"\", action: \"subscribe\", socialSrc: \"\", frequency: 7, keywords: \"\", location: \"\" }); }); }); //]]> //<![CDATA[ window.jobDataHidden = {}; //]]>",
       "job_apply_link": "https://komatsu.jobs/job/Embedded-Controls-Software-Intern/31088-en_US",
       "job_posted_at_datetime_utc": "2025-07-30T15:23:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "komatsu-embedded-controls-software-intern-warrendale"
+      "id": "komatsu-embedded-controls-software-intern-warrendale",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -540,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-07-30T15:08:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "l3harris-technologies-software-engineer-intern-tulsa"
+      "id": "l3harris-technologies-software-engineer-intern-tulsa",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -558,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-07-30T14:50:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "globus-medical-software-engineer-co-op-audubon"
+      "id": "globus-medical-software-engineer-co-op-audubon",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "Neuralink",
       "job_city": "Fremont",
       "job_state": "CA",
-      "job_description": "Join Neuralink in this exciting opportunity.",
+      "job_description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: At Neuralink, we're engineering the future of automated surgeries, focusing on the safe and effective implantation of our groundbreaking Neuralink implant. Our team — a cross-functional mix of roboticists, engineers from various disciplines, and medical professionals — collaborates on developing a surgical flow from first principles. In this critical role, you'll straddle the cutting-edge worlds of robotics, software, and neuroscience. Job Description and Responsibilities: This is a new role for our team that will allow you to create new embedded systems from scratch while challenging and refining the old. As a Firmware Engineer Intern, your responsibilities will encompass: Developing and optimizing embedded software for robotic surgery applications Streamlining our codebase by refining and, when necessary, retiring legacy embedded software Rigorous testing and validation of software systems to meet the highest safety and reliability standards Participating in peer code reviews Writing drivers and applications to extend the functionality of our robotics Specifying hardware and software choices as we develop future hardware platforms Sharing your findings and progress with the team in a collaborative environment Required Qualifications: Demonstrated track record of success in a science or engineering field, evidenced by outstanding projects, innovations, or advanced problem-solving Proven experience in software development, preferably with exposure to embedded systems Preferred Qualifications: Embedded Software Development: 2+ years of experience with embedded systems Proficient with common communication protocols (SPI, UART, I2C, etc.) Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3 Proficient in at least one embedded language such as C, C++, or Rust Proficient with embedded toolchains and workflow Experience building and bringing-up MCUs or FPGAs Experience with embedded stacks for ARM cores Experience developing on embedded Linux platforms Experience with embedded Linux kernel configuration and device tree setup Experience with kernel driver development Experience with ARM bootloaders Experience coding drivers for actuators and sensors Experience with high-speed data acquisition and processing Electrical Engineering: Foundational understanding of MCU architectures and peripheral integration Solid knowledge in electrical engineering and DSP Ability to interpret electrical schematics and datasheets, along with proficiency in using lab equipment Expected Compensation: The anticipated hourly rate for this position is listed below. California Hourly Flat Rate:$35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
       "job_apply_link": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
       "job_posted_at_datetime_utc": "2025-07-30T14:41:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "neuralink-firmware-engineer-intern-fremont"
+      "id": "neuralink-firmware-engineer-intern-fremont",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T22:55:56.412Z",
     "postedAt": null
   },
   {
