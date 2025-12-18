@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T20:48:32.187Z",
+  "lastUpdated": "2025-12-18T20:55:29.550Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9725,14 +9725,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7534851658053830930",
       "discordThreadId": "1451315204330623009",
       "instanceNumber": 1
+    },
+    {
+      "id": "xantium-quantitative-developer-new-york-2025-12-18-1",
+      "jobId": "xantium-quantitative-developer-new-york",
+      "company": "Xantium",
+      "title": "Quantitative Developer",
+      "postedToDiscord": "2025-12-18T20:54:59.884Z",
+      "sourceDate": "2025-08-08T08:29:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xantium/jobs/7094436",
+      "discordThreadId": "1451316829929734165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "confluent-software-engineering-intern-remote-2025-12-18-1",
+      "jobId": "confluent-software-engineering-intern-remote",
+      "company": "Confluent",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T20:55:01.591Z",
+      "sourceDate": "2025-08-08T08:19:57.000Z",
+      "sourceUrl": "https://careers.confluent.io/jobs/job/095d92fe-7534-4f49-a846-b63ca229731b",
+      "discordThreadId": "1451316844492226755",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-intern-ai-native-databases-phd-seattle-2025-12-18-1",
+      "jobId": "bytedance-student-researcher-intern-ai-native-databases-phd-seattle",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - AI-Native Databases - PhD",
+      "postedToDiscord": "2025-12-18T20:55:05.150Z",
+      "sourceDate": "2025-08-08T05:18:53.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535880188522498322/detail",
+      "discordThreadId": "1451316852377653402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-frontend-engineer-intern-tiktok-pgc-ogc-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-frontend-engineer-intern-tiktok-pgc-ogc-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern - Tiktok-Pgc-Ogc - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T20:55:08.747Z",
+      "sourceDate": "2025-08-08T03:02:43.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533107403265624338",
+      "discordThreadId": "1451316866994802698",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-mobile-software-engineer-intern-tiktok-engineering-excellence-dev-infra-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-mobile-software-engineer-intern-tiktok-engineering-excellence-dev-infra-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Mobile Software Engineer Intern - Tiktok-Engineering Excellence-Dev Infra - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T20:55:12.591Z",
+      "sourceDate": "2025-08-08T03:02:39.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533295344253143314",
+      "discordThreadId": "1451316882337693747",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dow-data-engineer-internship-kankakee-2025-12-18-1",
+      "jobId": "dow-data-engineer-internship-kankakee",
+      "company": "Dow",
+      "title": "Data Engineer Internship",
+      "postedToDiscord": "2025-12-18T20:55:19.288Z",
+      "sourceDate": "2025-08-08T08:42:12.000Z",
+      "sourceUrl": "https://dow.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer-Internship-Spring-2026-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2061990",
+      "discordThreadId": "1451316910519222445",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-seattle-2025-12-18-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-recommendation-seattle",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
+      "postedToDiscord": "2025-12-18T20:55:26.056Z",
+      "sourceDate": "2025-08-08T05:17:40.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535159557922048274/detail",
+      "discordThreadId": "1451316939203940434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-local-services-lbs-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-local-services-lbs-platform-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok-Local Services-LBS Platform",
+      "postedToDiscord": "2025-12-18T20:55:29.550Z",
+      "sourceDate": "2025-08-08T03:03:02.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532021573718018312",
+      "discordThreadId": "1451316954504630354",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 884,
+    "totalJobs": 892,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T20:48:32.187Z",
+      "date": "2025-12-18T20:55:29.550Z",
       "archived": 0
     }
   }
