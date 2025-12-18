@@ -14848,5 +14848,1037 @@
     "job_title": "Electrical Engineering Intern - Digital Circuitry",
     "company": "Shure",
     "first_seen": "2025-12-14T03:32:46.745Z"
+  },
+  "barry-wehmiller-bi-data-quality-intern-clayton": {
+    "assigned_date": "2025-12-18T19:16:53.071Z",
+    "job_title": "BI Data Quality Intern",
+    "company": "Barry-Wehmiller",
+    "first_seen": "2025-12-18T19:16:53.071Z"
+  },
+  "the-andersons-sap-intern---march-2026-perrysburg": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "SAP Intern - March 2026",
+    "company": "The Andersons",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "modernizing-medicine-software-architect-intern-boca-raton": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Software Architect Intern",
+    "company": "Modernizing Medicine",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "cintas-data-analytics-intern-mason": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Data Analytics Intern",
+    "company": "Cintas",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "public-service-enterprise-group-technical-intern---gas-operations-gis-edison": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Technical Intern - Gas Operations GIS",
+    "company": "Public Service Enterprise Group",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "cirrus-logic-intern---embedded-machine-learning-engineer---ai/ml-austin": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern - Embedded Machine Learning Engineer - AI/ML",
+    "company": "Cirrus Logic",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "the-exploration-company-crew-systems-engineering-intern---avionics/software-houston": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Crew Systems Engineering Intern - Avionics/Software",
+    "company": "The Exploration Company",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "nvidia-performance-engineer-st.-louis": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Performance Engineer",
+    "company": "NVIDIA",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "rtx-intern:-summer-2026---technical-publication-hartford": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern: Summer 2026 - Technical Publication",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "rtx-intern:-2026-summer---f135-program-digital-solutions-hartford": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern: 2026 Summer - F135 Program Digital Solutions",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "asml-intern---imaging-product-engineer-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern - Imaging Product Engineer",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "asml-intern---optical-product-engineering-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern - Optical Product Engineering",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "asml-intern---platform-software-engineer-in-test-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern - Platform Software Engineer In Test",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "samsung-research-america-2026-intern---ai-algorithm-npu-simulation---spring/summer-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "2026 Intern - AI Algorithm NPU Simulation - Spring/Summer",
+    "company": "Samsung Research America",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "genmab-external-data-management-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "External Data Management Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "roche-2026-summer-intern---contact-center---ai-reshape-indianapolis": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "2026 Summer Intern - Contact Center - AI Reshape",
+    "company": "Roche",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "ge-vernova-ge-vernova-data-scientist-intern---market-&-customer-insights---summer-2026-cambridge": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026",
+    "company": "GE Vernova",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "asml-intern---optical-imaging-product-engineer-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.072Z",
+    "job_title": "Intern - Optical Imaging Product Engineer",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.072Z"
+  },
+  "asml-internship---software-engineer-in-test---mod-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Internship - Software Engineer In Test - Mod",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "leidos-engineering-intern---modeling-&-simulation-applications-huntsville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Engineering Intern - Modeling & Simulation Applications",
+    "company": "Leidos",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "the-washington-post-intern---ios-app-development-washington": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - iOS App Development",
+    "company": "The Washington Post",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "tds-field-services-data-analytics-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Field Services Data Analytics Intern",
+    "company": "TDS",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "keysight-technologies-software-developer-santa-rosa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Developer",
+    "company": "Keysight Technologies",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "mercury-insurance-data-engineer-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineer Intern",
+    "company": "Mercury Insurance",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genmab-histopathology-imaging-data-science-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Histopathology Imaging Data Science Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genmab-applied-ai-&-clinical-technology-innovation-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Applied AI & Clinical Technology Innovation Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genmab-translational-imaging-&-multi-omics-data-science-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Translational Imaging & Multi-Omics Data Science Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genmab-clinical-development-data-science-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Clinical Development Data Science Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genmab-global-data-governance-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Global Data Governance Intern",
+    "company": "Genmab",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-data-analyst-intern-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Analyst Intern",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-2026-summer-intern-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "2026 Summer Intern",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "rolls-royce-tx-s-12-innovations-software-developer-intern---summer-simpsonville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "TX-S-12 Innovations Software Developer Intern - Summer",
+    "company": "Rolls Royce",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "microsoft-data-science:-intern-opportunities-redmond": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Science: Intern Opportunities",
+    "company": "Microsoft",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "veolia-capital-project's-intern-milwaukee": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Capital Project's Intern",
+    "company": "Veolia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "veolia-manufacturing-software-engineer-intern-boulder": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Manufacturing Software Engineer Intern",
+    "company": "Veolia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "emerson-electric-graduate-data-science-intern-austin": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Graduate Data Science Intern",
+    "company": "Emerson Electric",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-research-and-development-intern-naperville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Research and Development Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "quest-analytics-software-engineer-intern---c#---asp.net-overland-park": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Intern - C# - Asp.Net",
+    "company": "Quest Analytics",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "t-mobile-ai-engineering-intern-frisco": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Engineering Intern",
+    "company": "T-Mobile",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "toyota-research-institute-human-interactive-driving-intern---platform-research-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Human Interactive Driving Intern - Platform Research",
+    "company": "Toyota Research Institute",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "zoetis-tech-and-digital-gms-data-&-analytics-solutions-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Tech and Digital GMS Data & Analytics Solutions Intern",
+    "company": "Zoetis",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "altom-transport-software-development-intern-chicago": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Development Intern",
+    "company": "Altom Transport",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "microsoft-data-science-phd-intern-redmond": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Science PhD Intern",
+    "company": "Microsoft",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-r&d-intern-naperville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "R&D Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "sandisk-intern,-firmware-and-software-engineering-irvine": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern, Firmware and Software Engineering",
+    "company": "Sandisk",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "fhlbank-atlanta-software-development-intern-atlanta": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Development Intern",
+    "company": "FHLBank Atlanta",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nrg-energy-life-cycle-optimization-intern-princeton": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Life Cycle Optimization Intern",
+    "company": "NRG Energy",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "leidos-software-engineer-/-web-development-intern-wixom": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer / Web Development Intern",
+    "company": "Leidos",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "leidos-apprentice-geospatial-analyst-st.-louis": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Apprentice Geospatial Analyst",
+    "company": "Leidos",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "microsoft-research-intern---llm-performance-optimization-redmond": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Research Intern - LLM Performance Optimization",
+    "company": "Microsoft",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "astrazeneca-data-automation-and-modeling-intern-durham": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Automation and Modeling Intern",
+    "company": "AstraZeneca",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "fox-fox-technology-intern-program---live-sports-virtual-enhancement-operator-tempe": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "FOX Technology Intern Program - Live Sports Virtual Enhancement Operator",
+    "company": "FOX",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "factset-buy-side-analytics-intern-charlotte": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Buy-Side Analytics Intern",
+    "company": "FactSet",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "direct-supply-web-development-intern-milwaukee": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Web Development Intern",
+    "company": "Direct Supply",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "samsung-research-america-intern---product-development-engineer---summer-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Product Development Engineer - Summer",
+    "company": "Samsung Research America",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "bose-software-engineer-in-test-intern/co-op-framingham": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer in Test Intern/Co-op",
+    "company": "Bose",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "hcsc-early-careers-–-associate-automation-programmer-intern-richardson": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Early Careers – Associate Automation Programmer Intern",
+    "company": "HCSC",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "applied-materials-2026-summer-–-plasma-products-modeling-physicist/scientist-intern---phd---santa-clara,-ca-santa-clara": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "2026 Summer – Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA",
+    "company": "Applied Materials",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "kbr-national-security-solutions-–-software-engineering-intern---nss-beavercreek": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "National Security Solutions – Software Engineering Intern - Nss",
+    "company": "KBR",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "motorola-machine-learning/ai-hoffman-estates": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Machine Learning/AI",
+    "company": "Motorola",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "vertex-pharmaceuticals-vertex-summer-intern-2026---statistical-programming-boston": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Vertex Summer Intern 2026 - Statistical Programming",
+    "company": "Vertex Pharmaceuticals",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "factset-buy-side-analytics-internship---chicago---summer-2026-chicago": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Buy-Side Analytics Internship - Chicago - Summer 2026",
+    "company": "FactSet",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "factset-buy-side-analytics-intern-austin": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Buy-Side Analytics Intern",
+    "company": "FactSet",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "red-hat-machine-learning-systems-research-intern-boston": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Machine Learning Systems Research Intern",
+    "company": "Red Hat",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "vistra-intern---maintenance-cleburne": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Maintenance",
+    "company": "Vistra",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "the-aerospace-corporation-graduate-network-systems-intern-el-segundo": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Graduate Network Systems Intern",
+    "company": "The Aerospace Corporation",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "general-dynamics-mission-systems-software-engineer-intern-quincy": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Intern",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "general-dynamics-mission-systems-intern-engineer-scottsdale": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern Engineer",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "empower-intern---software-engineer-hartford": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Software Engineer",
+    "company": "Empower",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "berkshire-hathaway-energy-intern-–-data-science-des-moines": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – Data Science",
+    "company": "Berkshire Hathaway Energy",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "samsung-research-america-intern---machine-learning-engineer-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Machine Learning Engineer",
+    "company": "Samsung Research America",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "robert-bosch-venture-capital-artificial-intelligence-/-machine-learning:-foundation-models-–-intern-sunnyvale": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Artificial Intelligence / Machine Learning: Foundation Models – Intern",
+    "company": "Robert Bosch Venture Capital",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "booz-allen-technologist-intern-honolulu": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Technologist Intern",
+    "company": "Booz Allen",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "capital-technology-group-summer-internship---software-development-silver-spring": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Summer Internship - Software Development",
+    "company": "Capital Technology Group",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "rtx-intern-–-raytheon-software-development-intern-tewksbury": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – Raytheon Software Development Intern",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "equipmentshare-intern:-people-analytics-and-systems-columbia": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern: People Analytics and Systems",
+    "company": "EquipmentShare",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "velera-business-intelligence-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Business Intelligence Intern",
+    "company": "Velera",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "velera-intern-data-engineer-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern Data Engineer",
+    "company": "Velera",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "velera-intern-data-scientist-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern Data Scientist",
+    "company": "Velera",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "symmetry-systems-full-stack-software-engineer-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Full Stack Software Engineer Intern",
+    "company": "Symmetry Systems",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "evolve-technology-computer-vision-intern---summer-waltham": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Computer Vision Intern - Summer",
+    "company": "Evolve Technology",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "berkshire-hathaway-energy-intern-–-ai-engineering-des-moines": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – AI Engineering",
+    "company": "Berkshire Hathaway Energy",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-transport-network-architecture-intern-jackson-township": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Transport Network Architecture Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-bell-labs-math-and-algorithms-intern-berkeley-heights": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Bell Labs Math and Algorithms Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "the-federal-reserve-system-summer-internship-it---ai-algorithms-with-application-development-philadelphia": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Summer Internship IT - AI Algorithms with Application Development",
+    "company": "The Federal Reserve System",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-cscoe-ai-for-drug-discovery-san-francisco": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "CSCoE AI for Drug Discovery",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-biology-research-|-ai-development-(braid)-san-francisco": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Biology Research | AI Development (BRAID)",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "astrazeneca-quantitative-systems-pharmacology-modeling-intern,-phd-students-gaithersburg": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Quantitative Systems Pharmacology Modeling Intern, PhD Students",
+    "company": "AstraZeneca",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-strategy-&-insights--data-science-intern,-master's-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Strategy & Insights- Data Science Intern, Master's",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-applied-science--data-science-intern,-phd-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Applied Science- Data Science Intern, PhD",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-data-engineer--data-science-intern,-master's-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineer- Data Science Intern, Master's",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "bosch-ai-research-intern---wireless-perception-pittsburgh": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Research Intern - Wireless Perception",
+    "company": "Bosch",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "velera-data-engineer-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineer",
+    "company": "Velera",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "capital-technology-group-software-development-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Development",
+    "company": "Capital Technology Group",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "general-dynamics-mission-systems-intern-engineer---clearance-required-kitsap-county": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern Engineer - Clearance Required",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "bae-systems-summer-software-intern-fort-wayne": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Summer Software Intern",
+    "company": "BAE Systems",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "asml-internship---software-quality-assurance-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Internship - Software Quality Assurance",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "by-light-professional-it-services-ai-intern-orlando": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Intern",
+    "company": "By Light Professional IT Services",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "carnegie-mellon-university-ai/ml-vulnerability-analysis-intern-pittsburgh": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI/ML Vulnerability Analysis Intern",
+    "company": "Carnegie Mellon University",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "schreiber-foods-software-and-data-intern---green-bay---wi-green-bay": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software and Data Intern - Green Bay - WI",
+    "company": "Schreiber Foods",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "rtx-software-engineering-intern-colorado-springs": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineering Intern",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "rtx-systems-engineering-intern-colorado-springs": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Systems Engineering Intern",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "intuit-ai-scientist-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Scientist",
+    "company": "Intuit",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "berkshire-hathaway-energy-data-engineer-intern-des-moines": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineer Intern",
+    "company": "Berkshire Hathaway Energy",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-ai/ml-architect-naperville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI/ML Architect",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "solarwinds-frontier-ai-&-agentic-automation-intern---people-technology-austin": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Frontier AI & Agentic Automation Intern - People Technology",
+    "company": "SolarWinds",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-applied-science-data-science-intern-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Applied Science-Data Science Intern",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "microsoft-research-intern---post-training-washington": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Research Intern - Post-Training",
+    "company": "Microsoft",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-data-engineer-data-science-intern---master's---summer-2026','mountain-view','ca-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineer-Data Science Intern - Master's - Summer 2026','Mountain View','CA",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "linkedin-strategy-&-insights-data-science-intern---master's---summer-2026-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Strategy & Insights-Data Science Intern - Master's - Summer 2026",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-intern---genentech-gred-computational-sciences---center-of-excellence-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Genentech Gred Computational Sciences - Center of Excellence",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "fifth-third-bank-software-engineer-co-op---enterprise-finance-applications---summer-2026-cincinnati": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2026",
+    "company": "Fifth Third Bank",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-intern---translational-pharmacokinetics/pharmacodynamics-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - Translational Pharmacokinetics/Pharmacodynamics",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-2026-machine-learning-scientist-summer-intern---biology-research---ai-development-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "2026 Machine Learning Scientist Summer Intern - Biology Research - AI Development",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "genentech-intern---cscoe-ai-for-drug-discovery-san-bruno": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern - CSCoE AI for Drug Discovery",
+    "company": "Genentech",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "asml-intern-computational-fluid-dynamics-san-diego": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern-Computational Fluid Dynamics",
+    "company": "ASML",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "vera-institute-of-justice-data-engineering-intern-new-orleans": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Engineering Intern",
+    "company": "Vera Institute of Justice",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "vera-institute-of-justice-research-intern---incarceration-&-inequality-project-brooklyn": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Research Intern - Incarceration & Inequality Project",
+    "company": "Vera Institute of Justice",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "dropbox-software-engineer-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Intern",
+    "company": "Dropbox",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "clayton-accounting-analytics-internship-maryville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Accounting Analytics Internship",
+    "company": "Clayton",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "roku-software-engineer-boston": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer",
+    "company": "Roku",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "roku-software-engineer-intern-austin": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Intern",
+    "company": "Roku",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "roku-software-engineer-intern-boston": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Intern",
+    "company": "Roku",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-pittsburgh": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Enabling Mission Capability at Scale Intern",
+    "company": "Carnegie Mellon University",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "keysight-technologies-intern-–-machine-learning-security---applied-ml-&-fault-injection-santa-rosa": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – Machine Learning Security - Applied ML & Fault Injection",
+    "company": "Keysight Technologies",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "robert-bosch-venture-capital-ai-research-intern---wireless-perception-pittsburgh": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Research Intern - Wireless Perception",
+    "company": "Robert Bosch Venture Capital",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "apex-fintech-solutions-pcep-intern-portland": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "PCEP Intern",
+    "company": "Apex Fintech Solutions",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "seagate-technology--metrology-intern-summer-2026-bloomington": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Metrology Intern Summer 2026",
+    "company": "Seagate Technology ",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "kla-ai/ml-engineering-intern---model-evaluation---scalability-&-agentic-ai-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI/ML Engineering Intern - Model Evaluation - Scalability & Agentic AI",
+    "company": "KLA",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "tiktok-software-engineer-project-intern-–-lead-ads---2026-start---bs/ms-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer Project Intern – Lead Ads - 2026 Start - BS/MS",
+    "company": "TikTok",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "micron-technology-intern-–-ai/ml-algorithms---silicon-systems-ai-san-jose": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – AI/ML Algorithms - Silicon Systems AI",
+    "company": "Micron Technology",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "freddie-mac-software-engineer-and-data-intern-mclean": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Engineer and Data Intern",
+    "company": "Freddie Mac",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-sales-operations-intern---data-analytics-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Sales Operations Intern - Data Analytics",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-hr-insights-&-analytics-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "HR Insights & Analytics Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-ai-development-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI Development Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-reverse-logistics-data-engineer-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Reverse Logistics Data Engineer Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "moog--intern-–-it-computer-science---data-management-buffalo": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Intern – IT Computer Science - Data Management",
+    "company": "Moog ",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-data-science-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Science Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-database-software-developer-co-op-sunnyvale": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Database Software Developer Co-op",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-software-dev-intern-naperville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Dev Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-bell-labs-ai-ran-research-intern-berkeley-heights": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Bell Labs AI-RAN Research Intern",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-software-dev-ai/ml-coop-naperville": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Software Dev AI/ML Coop",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "nokia-security-software-developer-co-op-sunnyvale": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Security Software Developer Co-Op",
+    "company": "Nokia",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-data-science-intern-2-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Science Intern 2",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-data-scientist-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Data Scientist Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-ai/ml-e-commerce-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "AI/ML E-commerce Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-cost-accounting-intern---data-analyst-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Cost Accounting Intern - Data Analyst",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "corsair-full-stack-developer-data/ai-intern-milpitas": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "Full Stack Developer Data/AI Intern",
+    "company": "Corsair",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "takeda-2026-summer-internship-program:-machine-learning-research-intern-boston": {
+    "assigned_date": "2025-12-18T19:16:53.073Z",
+    "job_title": "2026 Summer Internship Program: Machine Learning Research Intern",
+    "company": "Takeda",
+    "first_seen": "2025-12-18T19:16:53.073Z"
+  },
+  "air-products-summer-phd-intern/co-op---chemical-engineering---2026-allentown": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Summer PhD Intern/Co-op - Chemical Engineering - 2026",
+    "company": "Air Products",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "tiffany-&-co.-software-development-intern---software-developer-parsippany-troy-hills": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Software Development Intern - Software Developer",
+    "company": "Tiffany & Co.",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "tiffany-&-co.-intern---it-integrations-parsippany-troy-hills": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Intern - IT Integrations",
+    "company": "Tiffany & Co.",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "wellmark-software-engineer-intern-des-moines": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Software Engineer Intern",
+    "company": "Wellmark",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "microsoft-software-engineer-redmond": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Software Engineer",
+    "company": "Microsoft",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "premier-data-science-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Data Science Intern",
+    "company": "Premier",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "general-motors-ai/ml-engineer---cloud-&-developer-infrastructure-(bachelor's)-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "AI/ML Engineer - Cloud & Developer Infrastructure (Bachelor's)",
+    "company": "General Motors",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "zoetis-zoetis-tech-&-digital-–-solutions-architecture-&-engineering-intern---ztd---gms-parsippany-troy-hills": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "ZOETIS Tech & Digital – Solutions Architecture & Engineering Intern - Ztd - Gms",
+    "company": "Zoetis",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "the-washington-post-intern---site-engineering-washington": {
+    "assigned_date": "2025-12-18T19:16:53.074Z",
+    "job_title": "Intern - Site Engineering",
+    "company": "The Washington Post",
+    "first_seen": "2025-12-18T19:16:53.074Z"
+  },
+  "rtx-intern-–-software-engineer-intern---ca-goleta": {
+    "assigned_date": "2025-12-18T19:16:53.075Z",
+    "job_title": "Intern – Software Engineer Intern - CA",
+    "company": "RTX",
+    "first_seen": "2025-12-18T19:16:53.075Z"
+  },
+  "general-dynamics-mission-systems-engineer-intern-scottsdale": {
+    "assigned_date": "2025-12-18T19:16:53.076Z",
+    "job_title": "Engineer Intern",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2025-12-18T19:16:53.076Z"
+  },
+  "takeda-2026-summer-internship-program:-data-digital-and-technology-–-intern---dd&t-vernon-hills": {
+    "assigned_date": "2025-12-18T19:16:53.077Z",
+    "job_title": "2026 Summer Internship Program: Data Digital and Technology – Intern - DD&T",
+    "company": "Takeda",
+    "first_seen": "2025-12-18T19:16:53.077Z"
+  },
+  "linkedin-ai/ml-engineer-intern---master's---summer-2026---mountain-view---ca-mountain-view": {
+    "assigned_date": "2025-12-18T19:16:53.077Z",
+    "job_title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
+    "company": "LinkedIn",
+    "first_seen": "2025-12-18T19:16:53.077Z"
+  },
+  "mercury-insurance-data-science-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.077Z",
+    "job_title": "Data Science Intern",
+    "company": "Mercury Insurance",
+    "first_seen": "2025-12-18T19:16:53.077Z"
+  },
+  "tencent-it-application-developer-–-intern---ai-driven-it-ops-palo-alto": {
+    "assigned_date": "2025-12-18T19:16:53.079Z",
+    "job_title": "IT Application Developer – Intern - AI-Driven IT Ops",
+    "company": "Tencent",
+    "first_seen": "2025-12-18T19:16:53.079Z"
+  },
+  "zebra-technologies-internship---flutter-mobile-app-development---corporate-and-business-services-vernon-hills": {
+    "assigned_date": "2025-12-18T19:16:53.080Z",
+    "job_title": "Internship - Flutter Mobile App Development - Corporate and Business Services",
+    "company": "Zebra Technologies",
+    "first_seen": "2025-12-18T19:16:53.080Z"
+  },
+  "mercury-insurance-technology-intern---summer-2026-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.080Z",
+    "job_title": "Technology Intern - Summer 2026",
+    "company": "Mercury Insurance",
+    "first_seen": "2025-12-18T19:16:53.080Z"
+  },
+  "micron-technology-intern-–-hbm-software-engineer-richardson": {
+    "assigned_date": "2025-12-18T19:16:53.080Z",
+    "job_title": "Intern – HBM Software Engineer",
+    "company": "Micron Technology",
+    "first_seen": "2025-12-18T19:16:53.080Z"
+  },
+  "mercury-insurance-marketing-data-analyst-intern-remote-in-usa": {
+    "assigned_date": "2025-12-18T19:16:53.081Z",
+    "job_title": "Marketing Data Analyst Intern",
+    "company": "Mercury Insurance",
+    "first_seen": "2025-12-18T19:16:53.081Z"
+  },
+  "ava-labs-summer-2026-internship-brooklyn": {
+    "assigned_date": "2025-12-18T19:16:53.081Z",
+    "job_title": "Summer 2026 Internship",
+    "company": "Ava Labs",
+    "first_seen": "2025-12-18T19:16:53.081Z"
+  },
+  "booz-allen-university-–-software-developer-intern-honolulu": {
+    "assigned_date": "2025-12-18T19:16:53.082Z",
+    "job_title": "University – Software Developer Intern",
+    "company": "Booz Allen",
+    "first_seen": "2025-12-18T19:16:53.082Z"
+  },
+  "ge-appliances-software-engineering-co-op-louisville": {
+    "assigned_date": "2025-12-18T19:16:53.082Z",
+    "job_title": "Software Engineering Co-op",
+    "company": "GE Appliances",
+    "first_seen": "2025-12-18T19:16:53.082Z"
+  },
+  "fannie-mae-campus-–-intern---data-science---analytics-and-modeling-program-washington": {
+    "assigned_date": "2025-12-18T19:16:53.082Z",
+    "job_title": "Campus – Intern - Data Science - Analytics and Modeling Program",
+    "company": "Fannie Mae",
+    "first_seen": "2025-12-18T19:16:53.082Z"
   }
 }
