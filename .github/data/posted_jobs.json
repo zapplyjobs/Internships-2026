@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:30:41.305Z",
+  "lastUpdated": "2025-12-18T22:42:52.126Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10605,14 +10605,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7534626087721240839",
       "discordThreadId": "1451340911983202365",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-payment-network-global-payment-seattle-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-payment-network-global-payment-seattle",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Payment Network - Global Payment",
+      "postedToDiscord": "2025-12-18T22:42:24.379Z",
+      "sourceDate": "2025-08-07T06:23:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533369475380070663/detail",
+      "discordThreadId": "1451343860667121674",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-ui-software-engineer-intern-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-ui-software-engineer-intern-chicago",
+      "company": "Jump Trading",
+      "title": "Campus UI Software Engineer – Intern",
+      "postedToDiscord": "2025-12-18T22:42:27.954Z",
+      "sourceDate": "2025-08-07T05:49:52.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7125381",
+      "discordThreadId": "1451343875472883763",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roblox-software-engineer-intern-san-mateo-2025-12-18-1",
+      "jobId": "roblox-software-engineer-intern-san-mateo",
+      "company": "Roblox",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-18T22:42:31.578Z",
+      "sourceDate": "2025-08-07T05:46:09.000Z",
+      "sourceUrl": "https://careers.roblox.com/jobs/7114765?gh_jid=7114765",
+      "discordThreadId": "1451343890111135745",
+      "instanceNumber": 1
+    },
+    {
+      "id": "confluent-software-engineering-intern-austin-2025-12-18-1",
+      "jobId": "confluent-software-engineering-intern-austin",
+      "company": "Confluent",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T22:42:34.987Z",
+      "sourceDate": "2025-08-07T04:32:45.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/confluent/d9ebd50b-967e-4f35-8ebd-f0ce2705136a",
+      "discordThreadId": "1451343905332400271",
+      "instanceNumber": 1
+    },
+    {
+      "id": "talos-trading-software-engineer-intern-backend-dealer-new-york-2025-12-18-1",
+      "jobId": "talos-trading-software-engineer-intern-backend-dealer-new-york",
+      "company": "Talos Trading",
+      "title": "Software Engineer Intern, Backend, Dealer",
+      "postedToDiscord": "2025-12-18T22:42:38.503Z",
+      "sourceDate": "2025-08-07T00:44:45.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Talos-Trading/f3d358c4-54e2-4cc8-afe2-8474fa13320b",
+      "discordThreadId": "1451343919819391160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "talos-trading-software-engineer-intern-front-end-pms-new-york-2025-12-18-1",
+      "jobId": "talos-trading-software-engineer-intern-front-end-pms-new-york",
+      "company": "Talos Trading",
+      "title": "Software Engineer Intern, Front-End, PMS",
+      "postedToDiscord": "2025-12-18T22:42:41.961Z",
+      "sourceDate": "2025-08-06T11:23:21.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891",
+      "discordThreadId": "1451343934264443013",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-recommendation-bs-ms-seattle-2025-12-18-1",
+      "jobId": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-recommendation-bs-ms-seattle",
+      "company": "TikTok",
+      "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Recommendation - BS/MS",
+      "postedToDiscord": "2025-12-18T22:42:48.592Z",
+      "sourceDate": "2025-08-07T08:16:14.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527077153591675154",
+      "discordThreadId": "1451343961892323499",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gimlet-labs-software-engineer-intern-san-francisco-2025-12-18-1",
+      "jobId": "gimlet-labs-software-engineer-intern-san-francisco",
+      "company": "Gimlet Labs",
+      "title": "Software Engineer - Intern",
+      "postedToDiscord": "2025-12-18T22:42:52.125Z",
+      "sourceDate": "2025-08-06T18:37:15.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9",
+      "discordThreadId": "1451343976786300948",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 964,
+    "totalJobs": 972,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:30:41.305Z",
+      "date": "2025-12-18T22:42:52.126Z",
       "archived": 0
     }
   }
