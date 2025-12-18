@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T21:28:23.644Z",
+  "lastUpdated": "2025-12-18T21:35:50.899Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10077,14 +10077,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7527065936093858055",
       "discordThreadId": "1451325234300059741",
       "instanceNumber": 1
+    },
+    {
+      "id": "ramp-software-engineer-internship-android-san-francisco-2025-12-18-1",
+      "jobId": "ramp-software-engineer-internship-android-san-francisco",
+      "company": "Ramp",
+      "title": "Software Engineer Internship - Android",
+      "postedToDiscord": "2025-12-18T21:35:20.355Z",
+      "sourceDate": "2025-08-07T22:40:41.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b/application",
+      "discordThreadId": "1451326981944770580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-ml-research-engineer-intern-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-ml-research-engineer-intern-chicago",
+      "company": "Jump Trading",
+      "title": "Campus ML Research Engineer – Intern",
+      "postedToDiscord": "2025-12-18T21:35:23.852Z",
+      "sourceDate": "2025-08-07T22:26:02.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6916776",
+      "discordThreadId": "1451326997082144800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-data-ecosystem-bs-ms-seattle-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-data-ecosystem-bs-ms-seattle",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Data Ecosystem - BS/MS",
+      "postedToDiscord": "2025-12-18T21:35:27.382Z",
+      "sourceDate": "2025-08-07T17:55:06.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533387057667934482",
+      "discordThreadId": "1451327011720003660",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-recommendation-infrastructure-seattle-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-recommendation-infrastructure-seattle",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Recommendation Infrastructure",
+      "postedToDiscord": "2025-12-18T21:35:31.003Z",
+      "sourceDate": "2025-08-07T17:43:44.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7494134428059814152",
+      "discordThreadId": "1451327026630754324",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jump-trading-campus-ai-researcher-intern-phd-postdoc-chicago-2025-12-18-1",
+      "jobId": "jump-trading-campus-ai-researcher-intern-phd-postdoc-chicago",
+      "company": "Jump Trading",
+      "title": "Campus AI Researcher – Intern - PhD/Postdoc",
+      "postedToDiscord": "2025-12-18T21:35:37.483Z",
+      "sourceDate": "2025-08-07T22:26:06.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7141699",
+      "discordThreadId": "1451327054560891025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-monetization-technology-ads-core-global-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-monetization-technology-ads-core-global-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+      "postedToDiscord": "2025-12-18T21:35:40.951Z",
+      "sourceDate": "2025-08-07T17:55:05.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532406261142538514",
+      "discordThreadId": "1451327069198880971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-search-e-commerce-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-search-e-commerce-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Search E-commerce",
+      "postedToDiscord": "2025-12-18T21:35:44.402Z",
+      "sourceDate": "2025-08-07T17:18:50.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7478106048383387911",
+      "discordThreadId": "1451327083518103623",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-phd-seattle-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-phd-seattle",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - E-commerce Governance Algorithms - PhD",
+      "postedToDiscord": "2025-12-18T21:35:50.899Z",
+      "sourceDate": "2025-08-07T17:55:03.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397457236119931146",
+      "discordThreadId": "1451327110588272691",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 916,
+    "totalJobs": 924,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T21:28:23.644Z",
+      "date": "2025-12-18T21:35:50.899Z",
       "archived": 0
     }
   }
