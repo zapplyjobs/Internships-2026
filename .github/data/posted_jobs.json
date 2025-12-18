@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:04:02.165Z",
+  "lastUpdated": "2025-12-18T22:18:02.557Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10429,14 +10429,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7478106032707848456",
       "discordThreadId": "1451334204473217218",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-ai-ml-software-engineer-intern-data-platform-san-jose-2025-12-18-1",
+      "jobId": "tiktok-ai-ml-software-engineer-intern-data-platform-san-jose",
+      "company": "TikTok",
+      "title": "AI/ML Software Engineer Intern - Data Platform",
+      "postedToDiscord": "2025-12-18T22:17:31.860Z",
+      "sourceDate": "2025-08-07T08:19:16.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7499689149813950727",
+      "discordThreadId": "1451337600651759707",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-lead-ads-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-lead-ads-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern – Lead Ads - BS/MS",
+      "postedToDiscord": "2025-12-18T22:17:35.258Z",
+      "sourceDate": "2025-08-07T08:17:35.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7483748420286859527",
+      "discordThreadId": "1451337615155662879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-platform-efficiency-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-platform-efficiency-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Platform efficiency",
+      "postedToDiscord": "2025-12-18T22:17:38.715Z",
+      "sourceDate": "2025-08-07T08:17:30.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7530513185797359880",
+      "discordThreadId": "1451337629025964073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-frontend-engineer-intern-trust-and-safety-engineering-risk-response-seattle-2025-12-18-1",
+      "jobId": "tiktok-frontend-engineer-intern-trust-and-safety-engineering-risk-response-seattle",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern - Trust and Safety-Engineering-Risk & Response",
+      "postedToDiscord": "2025-12-18T22:17:42.237Z",
+      "sourceDate": "2025-08-07T08:17:12.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527613337334188306",
+      "discordThreadId": "1451337643731456020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-creative-ai-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-creative-ai-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Creative AI - BS/MS",
+      "postedToDiscord": "2025-12-18T22:17:49.236Z",
+      "sourceDate": "2025-08-07T08:19:02.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7488883963248904456",
+      "discordThreadId": "1451337671753334828",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-recommendation-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce-Recommendation",
+      "postedToDiscord": "2025-12-18T22:17:52.711Z",
+      "sourceDate": "2025-08-07T08:18:05.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7488085993833613575",
+      "discordThreadId": "1451337687813456066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-intelligent-customer-service-phd-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-intelligent-customer-service-phd-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce-Intelligent Customer Service - PhD",
+      "postedToDiscord": "2025-12-18T22:17:56.176Z",
+      "sourceDate": "2025-08-07T08:18:03.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397445014442740018",
+      "discordThreadId": "1451337702560759881",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-engineer-intern-ads-data-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-engineer-intern-ads-data-san-jose",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - Ads Data",
+      "postedToDiscord": "2025-12-18T22:18:02.556Z",
+      "sourceDate": "2025-08-07T08:18:52.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7478174818136000776",
+      "discordThreadId": "1451337729680871495",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 948,
+    "totalJobs": 956,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:04:02.165Z",
+      "date": "2025-12-18T22:18:02.557Z",
       "archived": 0
     }
   }
