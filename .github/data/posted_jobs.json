@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T21:04:14.869Z",
+  "lastUpdated": "2025-12-18T21:17:36.879Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -9901,14 +9901,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7397453649348479270",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-research-scientist-intern-tiktok-recommendation-content-intelligence-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-research-scientist-intern-tiktok-recommendation-content-intelligence-phd-san-jose",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - Tiktok-Recommendation-Content Intelligence - PhD",
+      "postedToDiscord": "2025-12-18T21:17:06.019Z",
+      "sourceDate": "2025-08-08T02:54:00.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7519247984258566408",
+      "discordThreadId": "1451322392558305471",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-research-scientist-intern-tiktok-recommendation-llms-rl-genai-2026-start-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-research-scientist-intern-tiktok-recommendation-llms-rl-genai-2026-start-phd-san-jose",
+      "company": "TikTok",
+      "title": "Research Scientist Intern - Tiktok Recommendation-Llms - Rl - GenAI - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-18T21:17:09.909Z",
+      "sourceDate": "2025-08-08T02:52:22.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7519766495683053832",
+      "discordThreadId": "1451322408483950724",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-frontend-engineer-intern-tiktok-product-infrastructure-customer-service-platform-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-frontend-engineer-intern-tiktok-product-infrastructure-customer-service-platform-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern - Tiktok-Product Infrastructure-Customer Service Platform - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T21:17:13.346Z",
+      "sourceDate": "2025-08-08T02:51:43.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533295761208559890",
+      "discordThreadId": "1451322423516594250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-mobile-engineer-intern-monetization-technology-ads-core-demonstration-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-mobile-engineer-intern-monetization-technology-ads-core-demonstration-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
+      "postedToDiscord": "2025-12-18T21:17:16.854Z",
+      "sourceDate": "2025-08-08T02:51:42.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532444719809628424",
+      "discordThreadId": "1451322437852598467",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-e-commerce-intelligent-customer-service-ms-seattle-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-e-commerce-intelligent-customer-service-ms-seattle",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - E-commerce-Intelligent Customer Service - MS",
+      "postedToDiscord": "2025-12-18T21:17:23.223Z",
+      "sourceDate": "2025-08-08T02:55:48.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397443668946946314",
+      "discordThreadId": "1451322465203523790",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-training-pre-processing-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-training-pre-processing-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Training Pre-processing",
+      "postedToDiscord": "2025-12-18T21:17:26.667Z",
+      "sourceDate": "2025-08-08T02:53:25.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397894433477822758",
+      "discordThreadId": "1451322479485390910",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-privacy-and-data-protection-office-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-privacy-and-data-protection-office-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Privacy and Data Protection Office - BS/MS",
+      "postedToDiscord": "2025-12-18T21:17:33.239Z",
+      "sourceDate": "2025-08-08T02:51:53.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7530728287904844050",
+      "discordThreadId": "1451322506462888088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-tiktok-product-data-science-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T21:17:36.878Z",
+      "sourceDate": "2025-08-08T02:51:36.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533019095227648263",
+      "discordThreadId": "1451322521038360810",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 900,
+    "totalJobs": 908,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T21:04:14.869Z",
+      "date": "2025-12-18T21:17:36.879Z",
       "archived": 0
     }
   }
