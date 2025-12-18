@@ -1,0 +1,18 @@
+{
+  "url": "https://job-boards.greenhouse.io/roboforce/jobs/4817553008",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Why RoboForce RoboForce is an AI robotics company building Physical AI and Robo-Labor system for dull, dirty, and dangerous work. Our flagship robot, TITAN, is a super humanoid robot designed for industrial environments. We are based in Milpitas, CA and require 5 days/week in-office collaboration. We are seeking a ML Research Engineer, Intern (PhD) to join us in developing advanced AI capabilities for robotics. As part of our team, you will help build the foundational AI ecosystem. You will collaborate closely with a team of world-class AI engineers and gain hands-on experience solving real-world challenges at the intersection of artificial intelligence and robotics. Responsibilities Research and experiment with new ML models for perception and/or complex manipulation tasks including: Robot Foundation Model: VLA, VLM, etc Spatial AI: 3D reconstruction, neural rendering, SLAM, etc. State Estimation: pose estimation, tracking, depth estimation, etc. Robot Learning: imitation learning, reinforcement learning, etc. Multimodal Fusion: model combining different sensor inputs and modalities. Collaborate with robotics, hardware, and product teams to ensure seamless AI model integration. Conduct experiments and evaluations with the goal of advancing state-of-the-art performance and contributing to research publications. Requirements Currently pursuing or recently completed a PhD degree in Computer Science, Robotics, Machine Learning, or a related field. Proficiency in multimodal models, modern ML architectures (e.g., transformers, diffusion models), and reinforcement learning. Proficiency in deep learning frameworks such as PyTorch, JAX, or TensorFlow. Requires 5 days/week in-office collaboration with the teams. Bonus Qualifications Exposure to robot learning through tactile and/or vision-based sensors. Expertise in object pose estimation, bimanual manipulation, and synthetic data. Benefits Health, dental, and vision insurance Lunches and dinners",
+    "requirements": [
+      "Currently pursuing or recently completed a PhD degree in Computer Science, Robotics, Machine Learning, or a related field."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/roboforce/jobs/4817553008",
+      "fetchedAt": "2025-12-18T23:16:53.939Z"
+    }
+  },
+  "cachedAt": 1766099813939
+}
