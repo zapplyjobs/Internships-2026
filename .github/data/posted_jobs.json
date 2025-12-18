@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T21:35:50.899Z",
+  "lastUpdated": "2025-12-18T21:45:29.832Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10165,14 +10165,102 @@
       "sourceUrl": "https://lifeattiktok.com/search/7397457236119931146",
       "discordThreadId": "1451327110588272691",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-trust-and-safety-engineer-ai-safety-2026-summer-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-trust-and-safety-engineer-ai-safety-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Trust and Safety-Engineer-AI Safety - 2026 Summer - BS/MS",
+      "postedToDiscord": "2025-12-18T21:45:01.066Z",
+      "sourceDate": "2025-08-07T17:18:45.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7527618943449909522",
+      "discordThreadId": "1451329417686290576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-data-arch-shorttext-rec-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "tiktok-software-engineer-intern-data-arch-shorttext-rec-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Data Arch - Shorttext Rec - BS/MS",
+      "postedToDiscord": "2025-12-18T21:45:04.500Z",
+      "sourceDate": "2025-08-07T16:12:26.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7535250563514059016",
+      "discordThreadId": "1451329432823402700",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-engine-and-tools-3d-graphics-2026-start-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-tiktok-engine-and-tools-3d-graphics-2026-start-phd-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Tiktok-Engine and Tools-3D graphics - 2026 Start - PhD",
+      "postedToDiscord": "2025-12-18T21:45:11.226Z",
+      "sourceDate": "2025-08-07T17:18:48.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7532735339883710728",
+      "discordThreadId": "1451329460249952468",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-bs-ms-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-bs-ms-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise - BS/MS",
+      "postedToDiscord": "2025-12-18T21:45:15.616Z",
+      "sourceDate": "2025-08-07T17:15:16.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7534883498658629906/detail",
+      "discordThreadId": "1451329476377186368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-san-jose-2025-12-18-1",
+      "jobId": "bytedance-software-engineer-intern-applied-machine-learning-enterprise-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
+      "postedToDiscord": "2025-12-18T21:45:15.626Z",
+      "sourceDate": "2025-08-07T16:37:04.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533042683796097298/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-seattle-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-e-commerce-governance-algorithms-bs-ms-seattle",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - E-commerce Governance Algorithms - BS/MS",
+      "postedToDiscord": "2025-12-18T21:45:22.276Z",
+      "sourceDate": "2025-08-07T17:18:43.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7397455103747836210",
+      "discordThreadId": "1451329506601074850",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-engineer-intern-e-commerce-seattle-2025-12-18-1",
+      "jobId": "tiktok-data-engineer-intern-e-commerce-seattle",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - E-commerce",
+      "postedToDiscord": "2025-12-18T21:45:25.998Z",
+      "sourceDate": "2025-08-07T17:18:25.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7534818364393654535",
+      "discordThreadId": "1451329522350690435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-scientist-intern-tiktok-product-data-science-2026-summer-phd-san-jose-2025-12-18-1",
+      "jobId": "tiktok-data-scientist-intern-tiktok-product-data-science-2026-summer-phd-san-jose",
+      "company": "TikTok",
+      "title": "Data Scientist Intern - Tiktok-Product-Data Science - 2026 Summer - PhD",
+      "postedToDiscord": "2025-12-18T21:45:29.831Z",
+      "sourceDate": "2025-08-07T16:33:24.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533020328604649746",
+      "discordThreadId": "1451329537248989306",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 924,
+    "totalJobs": 932,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T21:35:50.899Z",
+      "date": "2025-12-18T21:45:29.832Z",
       "archived": 0
     }
   }
