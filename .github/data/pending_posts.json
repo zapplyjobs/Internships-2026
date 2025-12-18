@@ -81,166 +81,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Engineer Intern - Tiktok Short Video Content Understanding/Multimodal Recommendation",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Machine Learning Engineer Intern (TikTok Short Video Content Understanding/Multimodal Recommendation) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7538495412894976264",
-      "job_posted_at_datetime_utc": "2025-08-16T00:21:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-machine-learning-engineer-intern-tiktok-short-video-content-understanding-multimodal-recommendation-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Video-on-Demand Algorithm - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern(Video-on-Demand Algorithm) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7538304000404244743",
-      "job_posted_at_datetime_utc": "2025-08-16T00:21:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-video-on-demand-algorithm-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:18:09.784Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "Backend Software Engineer Intern - Foundation Platform",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7538307729329277202",
-      "job_posted_at_datetime_utc": "2025-08-16T00:20:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-backend-software-engineer-intern-foundation-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "Backend Software Engineer Intern - Media Platform",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Backend Software Engineer Intern(Media Platform) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7538301580093720840",
-      "job_posted_at_datetime_utc": "2025-08-16T00:20:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-backend-software-engineer-intern-media-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "General Hire – Machine Learning Engineer Intern - Commerce& Content Service & Search Ads - 2026 Summer - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads)- 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7534855949620119815",
-      "job_posted_at_datetime_utc": "2025-08-16T00:18:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Monetization Technology - Ads Creative AI - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7535617494221048082",
-      "job_posted_at_datetime_utc": "2025-08-16T00:18:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-monetization-technology-ads-creative-ai-bs-ms-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "Apprenticeship Data Analyst",
-      "employer_name": "Prosidian Consulting",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "Apprenticeship Data AnalystContractCompany DescriptionProSidian is a Management and Operations Consulting Firm focusing on providing value to clients through tailored solutions based on industry-leading practices. We help forward-thinking clients solve problems and improve operations. With a reputation for its strong CONUS/OCONUS practice spanning six solution areas, ProSidian services focus on the broad spectrum of Risk Management, Compliance, Business Process, IT Effectiveness, Energy & Sustainability, and Human Capital.Launched by former Big 4 Management Consultants; our multidisciplinary teams bring together the talents of nearly 190 professionals globally to complete a wide variety of engagements for Private Companies, Fortune 1,000 Enterprises, and Government Agencies of all sizes. Our Services are deployed across the enterprise, target drivers of economic profit (growth, margin, and efficiency), and are aligned at the intersections of assets, processes, policies, and people delivering value.ProSidian clients represent a broad spectrum of industries to include but are not limited to Energy, Manufacturing, Chemical, Retail, Healthcare, Telecommunications, Hospitality, Pharmaceuticals, Banking & Financial Services, Transportation, Federal and State Government Agencies. Learn More About ProSidian Consulting at www.ProSidian.com.Job DescriptionProSidian Seeks a Apprenticeship Data Analyst in CONUS/OCONUS - Charlotte, NC & Washington, DC to support an engagement for a support agency of the US Department of Labor which administers federal government job training and worker dislocation programs, federal grants to states for public employment service programs, and apprenticeship programs. One key purpose of the agency is to promote apprenticeship programs across the US, provide apprenticeship opportunities to the nation's youth, and improve access to apprenticeship opportunities that enable Americans to obtain relevant skills and high-paying jobs. The ProSidian Engagement Team Members work to provide Youth Apprenticeship Intermediary support including program and project management including participation of a kickoff meeting, participation in training, and provision of written reports, providing a multi-faceted campaign to promote youth apprenticeship programs and their content, determine the most effective methods of recruiting students from local high schools and colleges, design approaches to connect learning communities, conduct outreach to local businesses and educational institutions, and provide general technical assistance and advice to educational institutions and employers to facilitate and accelerate youth apprenticeship programs in various industries.The ProSidian Team shall provide experienced and knowledgeable consulting services in support of the project through provision of experienced and educated team members, development of a national youth apprenticeship network with a specific goal, and ongoing expansion of youth apprenticeship programs to ensure sustainability across all programs. The primary apprenticeship industry sectors within this project include healthcare, transportation and logistics, cyber security, information and communications technology (ICT), hospitality, advanced manufacturing, and other targeted high growth industries.Additionally, the ProSidian Team will assist the Department of Labor's Office of Apprenticeship by effectively researching data collected from apprenticeship programs and youths that have participated in past and current programs to develop new and expand existing youth apprenticeship programs across the nation.Apprenticeship Data Analyst Candidates shall work to support requirements for Program Support and primary role is to support and help execute ProSidian’s effort in supporting the Department of Labor's Youth Apprenticeship programs.Demonstrated ability to perform program/project management tasks effectivelyHas proven ability to manage multifaceted projects of high complexityMust shoulder responsibility for formulating design, implementation and management of assigned projectsProvides quality control of projects and interfaces with client on project specific issuesInsures projects are completed within the estimated time frames and budget constraintsProfessionals in this role should be experienced in research, collection of data, and analysis. The duties of this role include evaluation of case studies of each school system and employer ProSidian worked with on this project, evaluation of what worked and what did not work in developing the apprenticeship programs in new industries, and provide recommendations on how to further grow and expand the project as a result of all findings. Responsibilities may also include conducting comprehensive research on youth apprenticeship opportunities based on labor market trends, researching the most effective methods of outreach and expansion of apprenticeship opportunities, and providing research, data, and findings to other members of the team when necessary.#projectmanagementjobs #hrjobs #technicalassistancejobs #salesandmarketing #salesjobs #facilitation #consulting #education #apprenticeship #youthapprenticeship #training #youthQualificationsThe Apprenticeship Data Analyst shall have consecutive employment in a position with comparable responsibilities within the past two (2) years, Must be able to use a computer to communicate via email; and proficient in Microsoft Office Products (Word/Excel/Power point) and related tools and technology required for the position. Work products shall be thorough, accurate, appropriately documented, and comply with established criteria. The candidate shall ensure that duties are performed in a competent and professional manner that meets milestones/delivery schedules as outlined.To perform this job successfully, an individual must be able to perform each essential duty and responsibility satisfactorily. The requirements listed below are representative of the knowledge, skills, and/or abilities required: Bachelor’s degree from an accredited college or university in a relevant field with at least two years of experience with data collection, research, and analysis.Bachelor's degree REQUIRED, Master's degree preferred.At least 2 years relevant experience. Ability to work effectively both independently and as part of a team.Candidate must have strong attention to detail and organizational skills.Demonstrated ability to propose possible resolutions to complex technical, managerial or operational problems.Demonstrated leadership, management, organizational, and decision-making skills.Demonstrated proactivity, attention to detail, working within deadlines, and ability to juggle multiple priorities in a fast-paced environment.Excellent interpersonal skills and client service provision. Excellent written and verbal communication skills.Experience in project administration and management procedures strongly preferred.Experience in the use of database applications and presentation software desirable.Intermediate level proficiency in MS Excel and other MS Office Suite programs.Requires proficiency in the use of Microsoft Office with an emphasis on Excel spreadsheet skills, PowerPoint, Internet and e-mail applications.Understanding and proficiency in financial and project management systems and procedures.TRAVEL: Travel as coordinated with the technical point of contact and approved in writing by the Contracting Officer in advance, is allowed, in accordance with Federal Travel Regulations.LOCATION: Work shall be conducted at the CONUS/OCONUS - Charlotte, NC & Washington, DC U.S. Citizenship RequiredExcellent oral and written communication skillsProficient with Microsoft Office Products (Microsoft Word, Excel, PowerPoint, Publisher, & Adobe)All ProSidian staff must be determined eligible for a “Facility Access Authorization” (also referred to as an “Employment Authorization”) by the USG’s designated Security Office.Additional InformationAs a condition of employment, all employees are required to fulfill all requirements of the roles for which they are employed; establish, manage, pursue, and fulfill annual goals and objectives with at least three (3) Goals for each of the firms Eight Prosidian Global Competencies [1 - Personal Effectiveness | 2 - Continuous Learning | 3 - Leadership | 4 - Client Service | 5 - Business Management | 6 - Business Development | 7 - Technical Expertise | 8 - Innovation & Knowledge Sharing (Thought Leadership)]; and to support all business development and other efforts on behalf of ProSidian Consulting.CORE COMPETENCIESTeamwork – ability to foster teamwork collaboratively as a participant, and effectively as a team leaderLeadership – ability to guide and lead colleagues on projects and initiativesBusiness Acumen – understanding and insight into how organizations perform, including business processes, data, systems, and peopleCommunication – ability to effectively communicate to stakeholders of all levels orally and in writingMotivation – persistent in pursuit of quality and optimal client and company solutionsAgility – ability to quickly understand and transition between different projects, concepts, initiatives, or work streamsJudgment – exercises prudence and insight in decision-making process while mindful of other stakeholders and long-term ramificationsOrganization – ability to manage projects and activity, and prioritize tasks------------ ------------ ------------OTHER REQUIREMENTSBusiness Tools – understanding and proficiency with business tools and technology, including Microsoft Office. The ideal candidate is advanced with Excel, Access, Outlook, PowerPoint and Word, and proficient with Adobe Acrobat, data analytic tools, and Visio with the ability to quickly learn other tools as necessary.Business Tools – understanding and proficiency with business tools and technology, including Microsoft Office. The ideal candidate is advanced with Excel, Access, Outlook, PowerPoint and Word, and proficient with Adobe Acrobat, data analytic tools, and Visio with the ability to quickly learn other tools as necessary.Commitment - to work with smart, interesting people with diverse backgrounds to solve the biggest challenges across private, public and social sectorsCuriosity – the ideal candidate exhibits an inquisitive nature and the ability to question the status quo among a community of people they enjoy and teams that work well togetherHumility – exhibits grace in success and failure while doing meaningful work where skills have impact and make a differenceWillingness - to constantly learn, share, and grow and to view the world as their classroom------------ ------------ ------------BENEFITS AND HIGHLIGHTS ProSidian Employee Benefits and Highlights: Your good health and well-being are important to ProSidian Consulting. At ProSidian, we invest in our employees to help them stay healthy and achieve work-life balance. That’s why we are also pleased to offer the Employee Benefits Program, designed to promote your health and personal welfare. Our growing list of benefits currently include the following for Full Time Employees:Competitive Compensation: Pay range begins in the competitive ranges with Group Health Benefits, Pre-tax Employee Benefits, and Performance Incentives. For medical and dental benefits, the Company contributes a fixed dollar amount each month towards the plan you elect. Contributions are deducted on a Pre-tax basis.Group Medical Health Insurance Benefits: ProSidian partners with BC/BS, to offer a range of medical plans, including high-deductible health plans or PPOs. ||| Group Dental Health Insurance Benefits: ProSidian dental carriers - Delta, Aetna, Guardian, and MetLife.Group Vision Health Insurance Benefits: ProSidian offers high/low vision plans through 2 carriers: Aetna and VSP.401(k) Retirement Savings Plan: 401(k) Retirement Savings Plans help you save for your retirement for eligible employees. A range of investment options are available with a personal financial planner to assist you. The Plan is a pre-tax Safe Harbor 401(k) Retirement Savings Plan with a company match.Vacation and Paid Time-Off (PTO) Benefits: Eligible employees use PTO for vacation, a doctor’s appointment, or any number of events in your life. Currently these benefits include Vacation/Sick days – 2 weeks/3 days | Holidays - 10 ProSidian and Government Days are given.Pre-Tax Payment Programs: Pre-Tax Payment Programs currently exist in the form of a Premium Only Plan (POP). These Plans offer a full Flexible Spending Account (FSA) Plan and a tax benefit for eligible employees.Purchasing Discounts & Savings Plans: We want you to achieve financial success. We offer a Purchasing Discounts & Savings Plan through The Corporate Perks Benefit Program. This provides special discounts for eligible employees on products and services you buy on a daily basis.Security Clearance: Due to the nature of our consulting engagements there are Security Clearance requirements for Engagement Teams handling sensitive Engagements in the Federal Marketplace. A Security Clearance is a valued asset in your professional portfolio and adds to your credentials.ProSidian Employee & Contractor Referral Bonus Program: ProSidian Consulting will pay up to 5k for all referrals employed for 90 days for candidates submitted through our Referral Program.Performance Incentives: Due to the nature of our consulting engagements there are performance incentives associated with each new client that each employee works to pursue and support.Flexible Spending Account: FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pre-tax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.Supplemental Life/Accidental Death and Dismemberment Insurance: If you want extra protection for yourself and your eligible dependents, you have the option to elect supplemental life insurance. D&D covers death or dismemberment from an accident only.Short- and Long-Term Disability Insurance: Disability insurance plans are designed to provide income protection while you recover from a disability.----------- ------------ ------------ADDITIONAL INFORMATION - See Below Instructions On The Best Way To ApplyProSidian Consulting is an equal opportunity employer and considers qualified applicants for employment without regard to race, color, creed, religion, national origin, sex, sexual orientation, gender identity and expression, age, disability, or Vietnam era, or other eligible veteran status, or any other protected factor. All your information will be kept confidential according to EEO guidelines.ProSidian Consulting has made a pledge to the Hiring Our Heroes Program of the U.S. Chamber of Commerce Foundation and the “I Hire Military” Initiative of The North Carolina Military Business Center (NCMBC) for the State of North Carolina. All applicants are encouraged to apply regardless of Veteran Status.Furthermore, we believe in \"HONOR ABOVE ALL\" - be successful while doing things the right way. The pride comes out of the challenge; the reward is excellence in the work.FOR EASY APPLICATION USE OUR CAREER SITE LOCATED ON http://www.ProSidian.com/ OR SEND YOUR RESUME’S, BIOS, AND SALARY EXPECTATION / RATES TO CAREERS @ PROSIDIAN.COM. ONLY CANDIDATES WITH REQUIRED CRITERIA ARE CONSIDERED.Be sure to place the job reference code in the subject line of your email. Be sure to include your name, address, telephone number, total compensation package, employment history, and educational credentials.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/prosidianconsulting/743999686536316",
-      "job_posted_at_datetime_utc": "2025-08-15T23:08:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "prosidian-consulting-apprenticeship-data-analyst-washington",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Intern - Machine Learning Engineer",
-      "employer_name": "Adobe",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Our CompanyChanging the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen. We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Opportunity Adobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers. By using predictive models, experimental design methods, and optimization techniques, you will be working on the research and development of exciting projects like real-time online media optimization, sales operation analytics, customer churn scoring and management, customer understanding, product recommendation and customer lifetime value prediction. All 2026 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located, where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities. What You’ll Do Develop predictive models on large-scale datasets to address various business problems with statistical modeling, machine learning, and analytics techniques. Develop and implement scalable, efficient, and interpretable modeling algorithms that can work with large-scale data in production systems Collaborate with product management and engineering groups to develop new products and features. What You Need to Succeed Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2026 – June 2027 Good understanding of statistical modeling, machine learning, deep learning, or data analytics concepts. Proficient in one or more programming languages such as Python, Java and C Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn Strong analytical and quantitative problem-solving ability. Excellent communication, relationship skills and a team player Ability to participate in a full-time internship between May-September Our compensation reflects the cost of labor across several U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $55.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.State-Specific Notices:California:Fair Chance OrdinancesAdobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.Colorado:Application Window NoticeThere is no deadline to apply to this job posting because Adobe accepts applications for this role on an ongoing basis. The posting will remain open based on hiring needs and position availability.Massachusetts: Massachusetts Legal NoticeIt is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.Adobe is proud to be an Equal Employment Opportunity employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more. Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.",
-      "job_apply_link": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer_R158493",
-      "job_posted_at_datetime_utc": "2025-08-15T23:08:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "adobe-ai-ml-intern-machine-learning-engineer-seattle",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": "2025-12-18T19:34:00.247Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Hewlett Packard Enterprise",
       "job_city": "Spring",
@@ -254,10 +94,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:27:12.201Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T19:33:19.418Z",
-    "postedAt": null
+    "postedAt": "2025-12-18T19:44:55.321Z"
   },
   {
     "job": {
@@ -445,16 +285,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Researcher Intern (Virtual Network) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7537163899668531474/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:33:32.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-researcher-intern-virtual-network-seattle"
+      "id": "bytedance-researcher-intern-virtual-network-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -463,16 +305,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Intern (ML System) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535199487904794887/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:21:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-intern-ml-system-san-jose"
+      "id": "bytedance-research-scientist-intern-ml-system-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -481,16 +325,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for [Online Assessment]Network Software Development Engineer Intern(Network Observation) - 2026 Summer (BS/ MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7537153828938352914/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:20:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-network-software-development-engineer-intern-network-observation-san-jose"
+      "id": "bytedance-network-software-development-engineer-intern-network-observation-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -499,16 +345,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (ML System) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535206697116502290/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:20:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-ml-system-san-jose"
+      "id": "bytedance-software-engineer-intern-ml-system-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -517,16 +365,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for [Online Assessment]Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7537152632018012424/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:20:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-intern-network-automation-seattle"
+      "id": "bytedance-software-development-engineer-intern-network-automation-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -535,16 +385,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535878806051473671/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:20:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-nosql-databases-san-jose"
+      "id": "bytedance-software-engineer-intern-nosql-databases-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -553,16 +405,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for [Online Assessment] Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535621760088901895/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:15:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-nosql-databases-seattle"
+      "id": "bytedance-software-engineer-intern-nosql-databases-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -571,16 +425,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7535645811629508871/detail",
       "job_posted_at_datetime_utc": "2025-08-15T20:15:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-relational-database-san-jose"
+      "id": "bytedance-software-engineer-intern-relational-database-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-18T19:44:20.528Z",
     "postedAt": null
   },
   {
@@ -15718,6 +15574,24 @@
     },
     "status": "pending",
     "addedAt": "2025-12-18T19:16:53.123Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Impact Strategy & Analytics Intern - Summer 2026",
+      "employer_name": "McKesson",
+      "job_city": "Irving",
+      "job_state": "TX",
+      "job_description": "Join McKesson in this exciting opportunity.",
+      "job_apply_link": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Impact-Strategy---Analytics-Intern---Summer-2026_JR0135785-1",
+      "job_posted_at_datetime_utc": "2025-12-18T19:12:34.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "mckesson-impact-strategy-analytics-intern-summer-2026-irving"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-18T19:43:41.680Z",
     "enrichedAt": null,
     "postedAt": null
   }
