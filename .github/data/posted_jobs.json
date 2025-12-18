@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-18T22:49:22.817Z",
+  "lastUpdated": "2025-12-18T22:56:35.007Z",
   "jobs": [
     {
       "id": "hntb-artificial-intelligence-intern-arlington-2025-12-12-1",
@@ -10781,14 +10781,102 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Privacy-Security-in-LLM-Driven-Agentic-Systems-PhD-Internship-w--Dr-Sharma_REQ_0000067719",
       "discordThreadId": "1451345615752794289",
       "instanceNumber": 1
+    },
+    {
+      "id": "ramp-software-engineering-internship-frontend-new-york-2025-12-18-1",
+      "jobId": "ramp-software-engineering-internship-frontend-new-york",
+      "company": "Ramp",
+      "title": "Software Engineering Internship - Frontend",
+      "postedToDiscord": "2025-12-18T22:56:06.256Z",
+      "sourceDate": "2025-08-01T22:27:03.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa/application",
+      "discordThreadId": "1451347306443051019",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ramp-software-engineer-internship-backend-new-york-2025-12-18-1",
+      "jobId": "ramp-software-engineer-internship-backend-new-york",
+      "company": "Ramp",
+      "title": "Software Engineer Internship - Backend",
+      "postedToDiscord": "2025-12-18T22:56:10.414Z",
+      "sourceDate": "2025-08-01T22:26:55.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/ramp/c50962b5-c641-4d44-bbe5-7f1d6e7ce51f/application",
+      "discordThreadId": "1451347322762956935",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dv-trading-2026-summer-internship-software-development-dv-commodities-new-york-2025-12-18-1",
+      "jobId": "dv-trading-2026-summer-internship-software-development-dv-commodities-new-york",
+      "company": "DV Trading",
+      "title": "2026 Summer Internship - Software Development - DV Commodities",
+      "postedToDiscord": "2025-12-18T22:56:14.287Z",
+      "sourceDate": "2025-08-01T22:11:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/dvtrading/jobs/4589611005",
+      "discordThreadId": "1451347339875844157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hpr-hyannis-port-research-software-engineering-intern-needham-2025-12-18-1",
+      "jobId": "hpr-hyannis-port-research-software-engineering-intern-needham",
+      "company": "HPR (Hyannis Port Research)",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-18T22:56:17.784Z",
+      "sourceDate": "2025-08-01T16:46:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/6667961003",
+      "discordThreadId": "1451347356116189195",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-frontend-software-engineer-intern-global-e-commerce-seattle-2025-12-18-1",
+      "jobId": "bytedance-frontend-software-engineer-intern-global-e-commerce-seattle",
+      "company": "ByteDance",
+      "title": "Frontend Software Engineer Intern - Global E-Commerce",
+      "postedToDiscord": "2025-12-18T22:56:21.247Z",
+      "sourceDate": "2025-08-01T15:32:01.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533346008655825159/detail",
+      "discordThreadId": "1451347370590732320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sony-research-intern-on-generative-ai-for-content-creation-new-york-2025-12-18-1",
+      "jobId": "sony-research-intern-on-generative-ai-for-content-creation-new-york",
+      "company": "Sony",
+      "title": "Research Intern on Generative AI for Content Creation",
+      "postedToDiscord": "2025-12-18T22:56:27.928Z",
+      "sourceDate": "2025-08-03T22:47:55.000Z",
+      "sourceUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Research-Intern-on-Generative-AI-for-Content-Creation_JR-117631",
+      "discordThreadId": "1451347398440784005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "williams-sonoma-research-engineering-internship-ai-computer-vision-visualization-san-jose-2025-12-18-1",
+      "jobId": "williams-sonoma-research-engineering-internship-ai-computer-vision-visualization-san-jose",
+      "company": "Williams-Sonoma",
+      "title": "Research Engineering Internship - AI - Computer Vision - & Visualization",
+      "postedToDiscord": "2025-12-18T22:56:31.677Z",
+      "sourceDate": "2025-08-02T02:10:28.000Z",
+      "sourceUrl": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/15762",
+      "discordThreadId": "1451347413125042307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-summer-2025-internships-msu-dulles-2025-12-18-1",
+      "jobId": "caci-summer-2025-internships-msu-dulles",
+      "company": "CACI",
+      "title": "Summer 2025 Internships - Msu",
+      "postedToDiscord": "2025-12-18T22:56:35.007Z",
+      "sourceDate": "2025-08-01T19:28:09.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Summer-2025-Internships---MSU_310284",
+      "discordThreadId": "1451347428824453312",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 980,
+    "totalJobs": 988,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-18T22:49:22.817Z",
+      "date": "2025-12-18T22:56:35.007Z",
       "archived": 0
     }
   }
