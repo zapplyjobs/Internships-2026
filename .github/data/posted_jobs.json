@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:28:12.114Z",
+  "lastUpdated": "2025-12-19T19:35:10.150Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9593,14 +9593,102 @@
       "sourceUrl": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Kennewick-WA-USA-Kennewick-Office/Annual-Summer-Intern-Program--2023-_Req-230467",
       "discordThreadId": "1451657375273451631",
       "instanceNumber": 1
+    },
+    {
+      "id": "n1-software-engineer-intern-fullstack-new-york-2025-12-19-1",
+      "jobId": "n1-software-engineer-intern-fullstack-new-york",
+      "company": "N1",
+      "title": "Software Engineer Intern (Fullstack)",
+      "postedToDiscord": "2025-12-19T19:34:41.871Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578",
+      "discordThreadId": "1451659009365905459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bank-of-america-software-engineer-summer-analyst-intern-charlotte-2025-12-19-1",
+      "jobId": "bank-of-america-software-engineer-summer-analyst-intern-charlotte",
+      "company": "Bank of America",
+      "title": "Software Engineer Summer Analyst Intern",
+      "postedToDiscord": "2025-12-19T19:34:45.466Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12942/global-technology-summer-analyst-2026-software-engineer-multiple-locations",
+      "discordThreadId": "1451659025002270810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "d-e-shaw-software-developer-intern-new-york-2025-12-19-1",
+      "jobId": "d-e-shaw-software-developer-intern-new-york",
+      "company": "D. E. Shaw",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-19T19:34:49.093Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521",
+      "discordThreadId": "1451659039749443585",
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-intern-denver-2025-12-19-1",
+      "jobId": "palantir-software-engineer-intern-denver",
+      "company": "Palantir",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:34:52.895Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
+      "discordThreadId": "1451659055042003170",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caterpillar-engineering-intern-tucson-2025-12-19-1",
+      "jobId": "caterpillar-engineering-intern-tucson",
+      "company": "Caterpillar",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2025-12-19T19:34:56.455Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://careers.caterpillar.com/en/jobs/r0000312109/2026-summer-corporate-intern-engineering/?source=pookie",
+      "discordThreadId": "1451659070917578994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "epic-software-development-intern-madison-2025-12-19-1",
+      "jobId": "epic-software-development-intern-madison",
+      "company": "Epic",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-19T19:35:00.220Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2026/27259",
+      "discordThreadId": "1451659085895434270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "susquehanna-quantitative-strategy-developer-intern-bala-cynwyd-2025-12-19-1",
+      "jobId": "susquehanna-quantitative-strategy-developer-intern-bala-cynwyd",
+      "company": "Susquehanna",
+      "title": "Quantitative Strategy Developer Intern",
+      "postedToDiscord": "2025-12-19T19:35:03.676Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026",
+      "discordThreadId": "1451659101561164008",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citadel-securities-software-engineer-intern-miami-2025-12-19-1",
+      "jobId": "citadel-securities-software-engineer-intern-miami",
+      "company": "Citadel Securities",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:35:10.150Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+      "discordThreadId": "1451659128748507157",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 872,
+    "totalJobs": 880,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:28:12.114Z",
+      "date": "2025-12-19T19:35:10.150Z",
       "archived": 0
     }
   }
