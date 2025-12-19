@@ -1,0 +1,17 @@
+{
+  "url": "https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions",
+      "fetchedAt": "2025-12-19T21:16:55.945Z"
+    }
+  },
+  "cachedAt": 1766179015945
+}

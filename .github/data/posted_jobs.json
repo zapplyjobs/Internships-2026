@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:05:01.142Z",
+  "lastUpdated": "2025-12-19T21:17:39.302Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10407,14 +10407,69 @@
       "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564",
       "discordThreadId": "1451681740618858526",
       "instanceNumber": 1
+    },
+    {
+      "id": "camping-world-data-analyst-intern-chicago-2025-12-19-1",
+      "jobId": "camping-world-data-analyst-intern-chicago",
+      "company": "Camping World",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2025-12-19T21:17:15.679Z",
+      "sourceDate": "2025-12-05T07:39:24.000Z",
+      "sourceUrl": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_25_11252",
+      "discordThreadId": "1451684820991217806",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abb-is-salesforce-com-agile-delivery-intern-summer-2026-morrisville-2025-12-19-1",
+      "jobId": "abb-is-salesforce-com-agile-delivery-intern-summer-2026-morrisville",
+      "company": "ABB",
+      "title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
+      "postedToDiscord": "2025-12-19T21:17:22.045Z",
+      "sourceDate": "2025-12-05T07:37:57.000Z",
+      "sourceUrl": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449",
+      "discordThreadId": "1451684848162046193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-machine-learning-engineering-grad-intern-chantilly-2025-12-19-1",
+      "jobId": "the-aerospace-machine-learning-engineering-grad-intern-chantilly",
+      "company": "The Aerospace Corporation",
+      "title": "Machine Learning Engineering Grad Intern",
+      "postedToDiscord": "2025-12-19T21:17:28.653Z",
+      "sourceDate": "2025-12-05T07:28:40.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Grad-Intern_R014076",
+      "discordThreadId": "1451684875047403742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-2026-machine-learning-engineering-undergrad-intern-chantilly-2025-12-19-1",
+      "jobId": "the-aerospace-2026-machine-learning-engineering-undergrad-intern-chantilly",
+      "company": "The Aerospace Corporation",
+      "title": "2026 Machine Learning Engineering Undergrad Intern",
+      "postedToDiscord": "2025-12-19T21:17:32.336Z",
+      "sourceDate": "2025-12-05T07:28:35.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Machine-Learning-Engineering-Undergrad-Intern_R014077",
+      "discordThreadId": "1451684890369065232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sony-interactive-entertainment-graphics-programming-intern-san-diego-2025-12-19-1",
+      "jobId": "sony-interactive-entertainment-graphics-programming-intern-san-diego",
+      "company": "Sony Interactive Entertainment",
+      "title": "Graphics Programming Intern",
+      "postedToDiscord": "2025-12-19T21:17:39.301Z",
+      "sourceDate": "2025-12-05T07:19:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
+      "discordThreadId": "1451684918508912650",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 946,
+    "totalJobs": 951,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:05:01.142Z",
+      "date": "2025-12-19T21:17:39.302Z",
       "archived": 0
     }
   }
