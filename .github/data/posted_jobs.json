@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:54:08.989Z",
+  "lastUpdated": "2025-12-19T22:07:01.625Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10792,14 +10792,47 @@
       "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7439/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1451694103111798980",
       "instanceNumber": 1
+    },
+    {
+      "id": "centerline-communications-gis-intern-remote-in-usa-2025-12-19-1",
+      "jobId": "centerline-communications-gis-intern-remote-in-usa",
+      "company": "Centerline Communications",
+      "title": "GIS Intern",
+      "postedToDiscord": "2025-12-19T22:06:54.804Z",
+      "sourceDate": "2025-09-12T16:44:13.000Z",
+      "sourceUrl": "https://careers-clinellc.icims.com/jobs/2774/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451697316334534750",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sysco-software-dev-engineer-intern-houston-2025-12-19-1",
+      "jobId": "sysco-software-dev-engineer-intern-houston",
+      "company": "Sysco",
+      "title": "Software Dev Engineer Intern",
+      "postedToDiscord": "2025-12-19T22:06:58.250Z",
+      "sourceDate": "2025-09-02T14:49:52.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R215838",
+      "discordThreadId": "1451697330897027203",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-enterprise-ai-customer-engagement-analyst-intern-andover-2025-12-19-1",
+      "jobId": "hewlett-packard-enterprise-ai-customer-engagement-analyst-intern-andover",
+      "company": "Hewlett Packard Enterprise",
+      "title": "AI Customer Engagement Analyst Intern",
+      "postedToDiscord": "2025-12-19T22:07:01.624Z",
+      "sourceDate": "2025-08-21T02:53:17.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735",
+      "discordThreadId": "1451697345338151144",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 981,
+    "totalJobs": 984,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:54:08.989Z",
+      "date": "2025-12-19T22:07:01.625Z",
       "archived": 0
     }
   }
