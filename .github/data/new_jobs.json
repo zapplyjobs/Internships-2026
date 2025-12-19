@@ -98,20 +98,6 @@
     "description_success": true
   },
   {
-    "job_title": "Telecommunications Intern-Engineering",
-    "employer_name": "GCI",
-    "job_city": "Anchorage",
-    "job_state": "AK",
-    "job_description": "GCI's Telecommunications Internship program is designed to give students hands-on experience in a real-world business environment while interfacing with GCI professionals to learn about various employment opportunities available within the telecommunications industry. Students will work alongside GCI employees to develop a project that is aligned with their interests and the needs of the department they are assigned to.",
-    "job_apply_link": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
-    "job_posted_at_datetime_utc": "2025-12-12T02:14:31.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "gci-telecommunications-intern-engineering-anchorage",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Undergraduate Intern",
     "employer_name": "AstraZeneca",
     "job_city": "San Carlos",
@@ -126,17 +112,31 @@
     "description_success": true
   },
   {
-    "job_title": "Digital Integrations Intern",
-    "employer_name": "RaceTrac",
-    "job_city": "Atlanta",
-    "job_state": "GA",
-    "job_description": "Job Description:During the internship, a RaceTrac intern acts as a key contributor to the overall profit of a specific department by providing support on various needs and projects. This individual provides assistance to various department initiatives, ultimately impacting the overall success of the team.What You'll Do: Support the designated departments’ specific project needs.Actively contribute to day-to-day functions within the department role.Identifies and executes individual projects as requested by department leadership.Provides support with special projects as needed.Build and manage an AI-focused personal project from concept to delivery.What We're Looking For: Current enrollment in a college or university with a major that aligns with the department (Computer Science, Software Engineering, Software Development) requiredKnowledge of Microsoft suite (Excel, Word, Office)Coding experience (Csharp) preferredSoftware Development experience preferredKnowledge of JavaScript (JS) preferredResponsibilities:ResponsibilitiesSupport the designated departments’ specific project needs.Actively contribute to day-to-day functions within the department role.Identifies and executes individual projects as requested by department leadership.Provides support with special projects as needed.Qualifications:Current enrollment in a college or university with a major that aligns with the departmentKnowledge of Microsoft suite (Excel, Word, Office)Previous internship experience preferredAll qualified applicants will receive consideration for employment with RaceTrac without regard to their race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.",
-    "job_apply_link": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Digital-Integrations-Intern--Summer-2026-_R10003280",
-    "job_posted_at_datetime_utc": "2025-12-12T00:51:00.000Z",
+    "job_title": "2026 Summer Grad Intern Senior Data Science-Sunnyvale - CA",
+    "employer_name": "Walmart",
+    "job_city": "Sunnyvale",
+    "job_state": "CA",
+    "job_description": "Join Walmart in this exciting opportunity.",
+    "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Grad-Intern-Senior-Data-Science-Sunnyvale-CA_R-2336448",
+    "job_posted_at_datetime_utc": "2025-12-12T00:32:41.000Z",
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
-    "id": "racetrac-digital-integrations-intern-atlanta",
+    "id": "walmart-2026-summer-grad-intern-senior-data-science-sunnyvale-ca-sunnyvale",
     "description_platform": "workday",
-    "description_success": true
+    "description_success": false
+  },
+  {
+    "job_title": "Intern GEL Software - GEL",
+    "employer_name": "Micron Technology",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_description": "Join Micron Technology in this exciting opportunity.",
+    "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---GEL-Software_JR87167",
+    "job_posted_at_datetime_utc": "2025-12-12T00:26:38.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "micron-technology-intern-gel-software-gel-boise",
+    "description_platform": "workday",
+    "description_success": false
   }
 ]

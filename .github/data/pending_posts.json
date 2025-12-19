@@ -274,10 +274,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:45:13.764Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -294,10 +294,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -314,10 +314,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -334,10 +334,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -354,30 +354,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Telecommunications Intern-Engineering",
-      "employer_name": "GCI",
-      "job_city": "Anchorage",
-      "job_state": "AK",
-      "job_description": "GCI's Telecommunications Internship program is designed to give students hands-on experience in a real-world business environment while interfacing with GCI professionals to learn about various employment opportunities available within the telecommunications industry. Students will work alongside GCI employees to develop a project that is aligned with their interests and the needs of the department they are assigned to.",
-      "job_apply_link": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
-      "job_posted_at_datetime_utc": "2025-12-12T02:14:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gci-telecommunications-intern-engineering-anchorage",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -394,30 +374,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-19T21:53:28.386Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Digital Integrations Intern",
-      "employer_name": "RaceTrac",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Job Description:During the internship, a RaceTrac intern acts as a key contributor to the overall profit of a specific department by providing support on various needs and projects. This individual provides assistance to various department initiatives, ultimately impacting the overall success of the team.What You'll Do: Support the designated departments’ specific project needs.Actively contribute to day-to-day functions within the department role.Identifies and executes individual projects as requested by department leadership.Provides support with special projects as needed.Build and manage an AI-focused personal project from concept to delivery.What We're Looking For: Current enrollment in a college or university with a major that aligns with the department (Computer Science, Software Engineering, Software Development) requiredKnowledge of Microsoft suite (Excel, Word, Office)Coding experience (Csharp) preferredSoftware Development experience preferredKnowledge of JavaScript (JS) preferredResponsibilities:ResponsibilitiesSupport the designated departments’ specific project needs.Actively contribute to day-to-day functions within the department role.Identifies and executes individual projects as requested by department leadership.Provides support with special projects as needed.Qualifications:Current enrollment in a college or university with a major that aligns with the departmentKnowledge of Microsoft suite (Excel, Word, Office)Previous internship experience preferredAll qualified applicants will receive consideration for employment with RaceTrac without regard to their race, national origin, religion, age, color, sex, sexual orientation, gender identity, disability, or protected veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations.",
-      "job_apply_link": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Digital-Integrations-Intern--Summer-2026-_R10003280",
-      "job_posted_at_datetime_utc": "2025-12-12T00:51:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "racetrac-digital-integrations-intern-atlanta",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-19T22:06:45.543Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -454,10 +414,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-19T22:06:45.543Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T22:40:19.146Z"
   },
   {
     "job": {
@@ -625,16 +585,18 @@
       "employer_name": "Intapp",
       "job_city": "Palo Alto",
       "job_state": "CA",
-      "job_description": "Join Intapp in this exciting opportunity.",
+      "job_description": "IT Business Applications Intern Location – hybrid: Palo Alto, CA  Position Overview: The IT Business Applications Intern will work closely with our Enterprise Technology team to assist in the maintenance, development, and optimization of our CRM platform. This role provides an excellent opportunity to gain hands-on experience and learn about CRM administration, development, and best practices. What you’ll do: Assist with the maintenance and configuration of the CRM platform. Collaborate on developing and debugging Apex code to create customized solutions. Work alongside the team to create and customize CRM objects, workflows, page layouts, fields, and applications. Collaborate with cross-functional teams to gather and document requirements for CRM enhancements. Participate in testing new CRM features, updates, and custom Apex solutions. Learn and adhere to CRM best practices, including best practices in Apex coding. Participate in team meetings, offering insights and suggestions for process improvements. What you’ll need: Currently pursuing degree in Computer Science, Information Technology, Business Administration, or a related field. Basic understanding of CRM systems Strong analytical and problem-solving skills. Excellent verbal and written communication skills. Ability to work independently and in a team-oriented environment. Eagerness to learn, adaptable, and open to feedback. What you’ll Gain Hands-on experience working with CRM platforms. Opportunity to collaborate with experienced CRM professionals. What to Expect:  Our Summer 2026 Internship Program begins June 1, 2026, and is projected to end August 7, 2026.  Your professional growth and development will be supported throughout the internship program via project work related to your academic and professional interests, mentorship, and engaging events with other interns and company leadership.  Our internship is hybrid, and interns will be expected in the office at least 3 days a week to get the full experience of the Intapp culture and networking opportunities. Please visit Intapp Summer Internship to hear from our former interns about their internship experiences and check out Working at Intapp to learn more about what we value and why Intapp is a wonderful place to start your career!  Intapp provides equal employment opportunities to all qualified applicants and will make hiring decisions without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristic protected by federal, state or local laws. Please note: Intapp will not hire through text message, social media, or email alone. We will never extend a job offer unless you have been contacted directly by an Intapp recruiter and have participated in the interview process which will generally consist of 3 or more virtual or in person meetings. Please note that Intapp only uses company email addresses, which contain “@intapp.com” or “@dealcloud.com” to communicate with candidates via email. Intapp will never ask for financial information of any kind or for any payment during the job application process. We post all legitimate job openings on the Intapp Career Site at https://www.intapp.com/working-at-intapp/. If you believe you were a victim of such a scam, you may contact your local authorities. Intapp is not responsible for any claims, losses, damages, or expenses resulting from scammers.",
       "job_apply_link": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/IT-Business-Applications-Intern_R2024549-1",
       "job_posted_at_datetime_utc": "2025-12-11T23:38:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intapp-it-business-applications-intern-palo-alto"
+      "id": "intapp-it-business-applications-intern-palo-alto",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T22:39:31.717Z",
     "postedAt": null
   },
   {
@@ -643,16 +605,18 @@
       "employer_name": "Nasdaq",
       "job_city": "Denver",
       "job_state": "CO",
-      "job_description": "Join Nasdaq in this exciting opportunity.",
+      "job_description": "About Our Internship ProgramNasdaq’s Internship Program is a 10-week summer experience designed to give students real exposure to how global markets and technology come together. Our interns work on meaningful projects alongside Nasdaq teams, gaining hands-on skills that make an impact on the business.We believe the best way to learn is by doing — that’s why you’ll be paired with a mentor, connected with senior leaders, and included in professional development sessions. You’ll also join a diverse global intern community, sharing experiences and building networks that last beyond the program.Our goal is to provide a supportive, engaging, and fun environment where your work feels valued and your growth comes first. Check out our Nasdaq Internship Program page to learn more and hear directly from past interns about their journeys.Data Science InternshipAt Nasdaq, you’ll have the chance to start your career in an environment where learning, teamwork, and innovation come first. In this role, you’ll support our Data Access and Analytics team and gain hands-on experience with Eqlipse Intelligence Platform, a SaaS solution for enabling Financial Market Infrastructure organizations to unlock the full potential of their data.You don’t need to know everything on day one — we’ll help you build the skills, confidence, and network to grow your career.What You’ll DoSupport our Data Engineering team with day-to-day tasks and contribute to ongoing initiatives.Learn how to build out advanced analytics in a variety of financial assets and markets; design and develop data models to ensure data quality, consistency, and integrity throughout the data lifecycle.Collaborate with teammates across different functions and regions.Bring your ideas and curiosity to problem-solving and project work.Develop your technical and professional skills through training and mentorship.What You’ll BringCurrently pursuing or recently completed a degree in computer science or related area.Eagerness to learn, ask questions, and take on new challenges.Ability to work well with others and contribute to a team environment.Good communication and organizational skills.Curiosity about technology, finance, and global markets.Basic skills in SQL, programing language such as Java, Python, or Scala.Nice-to-Have (Optional)Internship or project experience related to data analytics, data modeling or big data technologies.Involvement in student organizations, volunteering, or leadership roles.Familiarity with data analytics tools like Spark, DBT, Snowflake, Databricks, Monte Carlo, and Atlan.This position will be located in Denver, Colorado and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.Come as You AreNasdaq is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.",
       "job_apply_link": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
       "job_posted_at_datetime_utc": "2025-12-11T23:36:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nasdaq-data-engineering-intern-denver"
+      "id": "nasdaq-data-engineering-intern-denver",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T22:39:31.717Z",
     "postedAt": null
   },
   {
