@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T22:29:36.599Z",
+  "lastUpdated": "2025-12-19T22:40:09.816Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10847,14 +10847,91 @@
       "sourceUrl": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Digital-Integrations-Intern--Summer-2026-_R10003280",
       "discordThreadId": "1451703028511146125",
       "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-gel-software-gel-boise-2025-12-19-1",
+      "jobId": "micron-technology-intern-gel-software-gel-boise",
+      "company": "Micron Technology",
+      "title": "Intern GEL Software - GEL",
+      "postedToDiscord": "2025-12-19T22:39:42.858Z",
+      "sourceDate": "2025-12-12T00:26:38.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---GEL-Software_JR87167",
+      "discordThreadId": "1451705569445413009",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shure-applied-research-science-intern-morton-grove-2025-12-19-1",
+      "jobId": "shure-applied-research-science-intern-morton-grove",
+      "company": "Shure",
+      "title": "Applied Research Science Intern",
+      "postedToDiscord": "2025-12-19T22:39:49.402Z",
+      "sourceDate": "2025-09-10T23:31:38.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4401/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451705598474453206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "w-w-grainger-gtg-intern-applied-machine-learning-chicago-2025-12-19-1",
+      "jobId": "w-w-grainger-gtg-intern-applied-machine-learning-chicago",
+      "company": "W.W. Grainger",
+      "title": "GTG Intern - Applied Machine Learning",
+      "postedToDiscord": "2025-12-19T22:39:52.907Z",
+      "sourceDate": "2025-08-14T11:45:27.000Z",
+      "sourceUrl": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Applied-Machine-Learning-IL-60661-4555/1316062500/?ats=successfactors",
+      "discordThreadId": "1451705612676235368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-multiple-teams-seattle-2025-12-19-1",
+      "jobId": "general-motors-intern-multiple-teams-seattle",
+      "company": "General Motors",
+      "title": "Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-19T22:39:56.279Z",
+      "sourceDate": "2025-12-12T02:34:01.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Master-s-Degree-_JR-202524216",
+      "discordThreadId": "1451705627750564035",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-2026-summer-intern-machine-learning-systems-engineer-autonomous-driving-seattle-2025-12-19-1",
+      "jobId": "general-motors-2026-summer-intern-machine-learning-systems-engineer-autonomous-driving-seattle",
+      "company": "General Motors",
+      "title": "2026 Summer Intern - Machine Learning Systems Engineer - Autonomous Driving",
+      "postedToDiscord": "2025-12-19T22:39:59.819Z",
+      "sourceDate": "2025-12-12T02:33:55.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Bachelor-s-Degree-_JR-202523395",
+      "discordThreadId": "1451705641759674388",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-corporation-for-atmospheric-research-unidata-intern-boulder-2025-12-19-1",
+      "jobId": "university-corporation-for-atmospheric-research-unidata-intern-boulder",
+      "company": "University Corporation for Atmospheric Research",
+      "title": "Unidata Intern",
+      "postedToDiscord": "2025-12-19T22:40:03.343Z",
+      "sourceDate": "2025-12-12T02:26:59.000Z",
+      "sourceUrl": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2026-NSF-Unidata-Intern_REQ-2025-178-1",
+      "discordThreadId": "1451705656695459931",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-undergraduate-intern-san-carlos-2025-12-19-1",
+      "jobId": "astrazeneca-undergraduate-intern-san-carlos",
+      "company": "AstraZeneca",
+      "title": "Undergraduate Intern",
+      "postedToDiscord": "2025-12-19T22:40:09.816Z",
+      "sourceDate": "2025-12-12T00:52:25.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Redwood-City---CA/Undergraduate-Internships-in-Redwood-City--CA_R-241546",
+      "discordThreadId": "1451705684323336283",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 986,
+    "totalJobs": 993,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T22:29:36.599Z",
+      "date": "2025-12-19T22:40:09.816Z",
       "archived": 0
     }
   }
