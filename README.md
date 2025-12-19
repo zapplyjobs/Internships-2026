@@ -122,7 +122,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 1h |
+| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 2h |
 | Data Science: Intern Opportunities | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649486) | 1d |
 | Data Science PhD Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 1d |
 | Research Intern - LLM Performance Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 1d |

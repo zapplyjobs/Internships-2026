@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:58:34.958Z",
+  "lastUpdated": "2025-12-19T21:05:01.142Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10374,14 +10374,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4623431006",
       "discordThreadId": "1451680119868362916",
       "instanceNumber": 1
+    },
+    {
+      "id": "employee-navigator-software-engineer-intern-bethesda-2025-12-19-1",
+      "jobId": "employee-navigator-software-engineer-intern-bethesda",
+      "company": "Employee Navigator",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T21:04:54.031Z",
+      "sourceDate": "2025-12-05T08:09:18.000Z",
+      "sourceUrl": "https://www.employeenavigator.com/careers/7443357?gh_jid=7443357",
+      "discordThreadId": "1451681709031559390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "godaddy-software-development-engineer-tempe-2025-12-19-1",
+      "jobId": "godaddy-software-development-engineer-tempe",
+      "company": "GoDaddy",
+      "title": "Software Development Engineer",
+      "postedToDiscord": "2025-12-19T21:04:57.781Z",
+      "sourceDate": "2025-12-05T07:47:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7479549003",
+      "discordThreadId": "1451681725028499606",
+      "instanceNumber": 1
+    },
+    {
+      "id": "at-t-at-t-labs-intern-advanced-degrees-austin-2025-12-19-1",
+      "jobId": "at-t-at-t-labs-intern-advanced-degrees-austin",
+      "company": "AT&T",
+      "title": "AT&T Labs Intern - Advanced Degrees",
+      "postedToDiscord": "2025-12-19T21:05:01.142Z",
+      "sourceDate": "2025-12-05T07:37:40.000Z",
+      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564",
+      "discordThreadId": "1451681740618858526",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 943,
+    "totalJobs": 946,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:58:34.958Z",
+      "date": "2025-12-19T21:05:01.142Z",
       "archived": 0
     }
   }
