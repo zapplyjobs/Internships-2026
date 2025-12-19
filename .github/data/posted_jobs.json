@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:50:41.389Z",
+  "lastUpdated": "2025-12-19T20:58:34.958Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10286,14 +10286,102 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000097096055",
       "discordThreadId": "1451678134532309186",
       "instanceNumber": 1
+    },
+    {
+      "id": "at-t-at-t-labs-internship-undergraduate-and-masters-degrees-austin-2025-12-19-1",
+      "jobId": "at-t-at-t-labs-internship-undergraduate-and-masters-degrees-austin",
+      "company": "AT&T",
+      "title": "AT&T Labs Internship - Undergraduate and Masters Degrees",
+      "postedToDiscord": "2025-12-19T20:58:03.546Z",
+      "sourceDate": "2025-12-05T13:33:06.000Z",
+      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Undergraduate-and-Masters-Degrees_R-89788",
+      "discordThreadId": "1451679988897157325",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-development-intern-concord-2025-12-19-1",
+      "jobId": "rtx-software-development-intern-concord",
+      "company": "RTX",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-19T20:58:07.347Z",
+      "sourceDate": "2025-12-05T11:10:07.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01810522",
+      "discordThreadId": "1451680003128557782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "maxisiq-software-engineer-intern-spring-summer-arlington-2025-12-19-1",
+      "jobId": "maxisiq-software-engineer-intern-spring-summer-arlington",
+      "company": "MAXISIQ",
+      "title": "Software Engineer Intern - Spring - Summer",
+      "postedToDiscord": "2025-12-19T20:58:10.760Z",
+      "sourceDate": "2025-12-05T10:47:06.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/IOMAXISLLC/3743990010573726",
+      "discordThreadId": "1451680019071111249",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brown-brothers-harriman-transformation-management-intern-boston-2025-12-19-1",
+      "jobId": "brown-brothers-harriman-transformation-management-intern-boston",
+      "company": "Brown Brothers Harriman",
+      "title": "Transformation Management Intern",
+      "postedToDiscord": "2025-12-19T20:58:14.495Z",
+      "sourceDate": "2025-12-05T08:10:57.000Z",
+      "sourceUrl": "https://bbh.wd5.myworkdayjobs.com/en-US/BBH/job/Boston/XMLNAME-2026-Transformation-Management-Summer-Internship_69268",
+      "discordThreadId": "1451680034040578058",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-business-systems-analyst-intern-sunnyvale-2025-12-19-1",
+      "jobId": "intuitive-surgical-business-systems-analyst-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Business Systems Analyst Intern",
+      "postedToDiscord": "2025-12-19T20:58:21.164Z",
+      "sourceDate": "2025-12-05T11:02:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000097143870",
+      "discordThreadId": "1451680062075306191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-ai-ml-data-science-intern-sunnyvale-2025-12-19-1",
+      "jobId": "intuitive-surgical-ai-ml-data-science-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "AI/ML Data Science Intern",
+      "postedToDiscord": "2025-12-19T20:58:27.724Z",
+      "sourceDate": "2025-12-05T11:01:41.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000097142986",
+      "discordThreadId": "1451680089724162190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-data-science-intern-sunnyvale-2025-12-19-1",
+      "jobId": "intuitive-surgical-data-science-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-19T20:58:31.352Z",
+      "sourceDate": "2025-12-05T11:01:38.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000097144258",
+      "discordThreadId": "1451680104496369908",
+      "instanceNumber": 1
+    },
+    {
+      "id": "grassroots-analytics-ai-developer-intern-washington-2025-12-19-1",
+      "jobId": "grassroots-analytics-ai-developer-intern-washington",
+      "company": "Grassroots Analytics",
+      "title": "AI Developer Intern",
+      "postedToDiscord": "2025-12-19T20:58:34.958Z",
+      "sourceDate": "2025-12-05T08:15:28.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4623431006",
+      "discordThreadId": "1451680119868362916",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 935,
+    "totalJobs": 943,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:50:41.389Z",
+      "date": "2025-12-19T20:58:34.958Z",
       "archived": 0
     }
   }
