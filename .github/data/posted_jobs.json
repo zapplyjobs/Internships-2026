@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T22:07:01.625Z",
+  "lastUpdated": "2025-12-19T22:29:36.599Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10825,14 +10825,36 @@
       "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735",
       "discordThreadId": "1451697345338151144",
       "instanceNumber": 1
+    },
+    {
+      "id": "gci-telecommunications-intern-engineering-anchorage-2025-12-19-1",
+      "jobId": "gci-telecommunications-intern-engineering-anchorage",
+      "company": "GCI",
+      "title": "Telecommunications Intern-Engineering",
+      "postedToDiscord": "2025-12-19T22:29:33.239Z",
+      "sourceDate": "2025-12-12T02:14:31.000Z",
+      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
+      "discordThreadId": "1451703013793071267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "racetrac-digital-integrations-intern-atlanta-2025-12-19-1",
+      "jobId": "racetrac-digital-integrations-intern-atlanta",
+      "company": "RaceTrac",
+      "title": "Digital Integrations Intern",
+      "postedToDiscord": "2025-12-19T22:29:36.599Z",
+      "sourceDate": "2025-12-12T00:51:00.000Z",
+      "sourceUrl": "https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/Digital-Integrations-Intern--Summer-2026-_R10003280",
+      "discordThreadId": "1451703028511146125",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 984,
+    "totalJobs": 986,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T22:07:01.625Z",
+      "date": "2025-12-19T22:29:36.599Z",
       "archived": 0
     }
   }

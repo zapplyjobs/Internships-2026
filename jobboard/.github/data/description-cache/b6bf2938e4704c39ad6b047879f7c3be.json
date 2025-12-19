@@ -1,0 +1,20 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Basic Requirements:Educational BackgroundPursuing or recently completed a degree in Computer Science, Applied Mathematics,  Data Science, or a related field.Strong foundation in machine learning, deep learning, and natural language processing (NLP) and LLM.Technical SkillsProficiency in Python and experience with frameworks like PyTorch, TensorFlow, SciKit, etc.Basic understanding of Retrieval-Augmented Generation (RAG) and vector databases.Comfortable working with LLM APIs and integrating them into applications.A solid understanding of machine learning concepts (e.g., supervised/unsupervised learning, NLP, computer vision) and algorithms is crucial.Proficiency in Python is essential. C++ also valuable.Problem-Solving & CollaborationAbility to work in a fast-paced research and development environment.Strong analytical thinking and debugging skills.Experience with rapid prototyping in open-source AI/ML projects.We’re doing work that matters. Help us solve what others can’t.",
+    "requirements": [
+      "Pursuing or recently completed a degree in Computer Science, Applied Mathematics,  Data Science, or a related field."
+    ],
+    "responsibilities": [
+      "Ability to work in a fast-paced research and development environment."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
+      "fetchedAt": "2025-12-19T22:29:15.843Z"
+    }
+  },
+  "cachedAt": 1766183355843
+}
