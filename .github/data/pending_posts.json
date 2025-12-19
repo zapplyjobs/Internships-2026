@@ -101,166 +101,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Internship - Defense Tech",
-      "employer_name": "Palantir",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Software Engineer, Internship - Defense TechPalo Alto, CADev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Defense Tech Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir's Gotham product. Palantir's defense product vertical builds mission-critical products for the modern warfighter, enabling them to securely integrate and visualize their data, perform rich analyses, and build sophisticated, full-fledged programs such as common operating pictures, alert-triaging inboxes, and resource allocation planning tools driven by rich-ML models. Our customers use our defense offering to drive core operations within their organizations - these programs are relied upon for daily operations in the command centers and battlefronts of militaries across the world.Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds geospatial mapping tools for mission critical operations, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Defense Tech Intern - you will be supporting work specifically focusing on delivering our Palantir Defense capabilities to our most critical mission partners. You’ll be involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping. You’ll be paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance prior to start of internship.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-defense-tech-palo-alto",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:44:10.036Z",
-    "postedAt": "2025-12-19T20:04:14.647Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer – Internship - Defense Tech",
-      "employer_name": "Palantir",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "Software Engineer, Internship - Defense TechWashington, D.C.Dev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Defense Tech Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir's Gotham product. Palantir's defense product vertical builds mission-critical products for the modern warfighter, enabling them to securely integrate and visualize their data, perform rich analyses, and build sophisticated, full-fledged programs such as common operating pictures, alert-triaging inboxes, and resource allocation planning tools driven by rich-ML models. Our customers use our defense offering to drive core operations within their organizations - these programs are relied upon for daily operations in the command centers and battlefronts of militaries across the world.Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds geospatial mapping tools for mission critical operations, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Defense Tech Intern - you will be supporting work specifically focusing on delivering our Palantir Defense capabilities to our most critical mission partners. You’ll be involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping. You’ll be paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them.SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance prior to start of internship.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-defense-tech-washington",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:44:10.036Z",
-    "postedAt": "2025-12-19T20:04:14.647Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Internship",
-      "employer_name": "Palantir",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Software Engineer, InternshipPalo Alto, CADev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir Gotham, Palantir Foundry, or Palantir Apollo: products that are deployed at some of the most important institutions across the public and private sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-palo-alto",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Internship",
-      "employer_name": "Palantir",
-      "job_city": "Denver",
-      "job_state": "CO",
-      "job_description": "Software Engineer, InternshipDenver, CODev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir Gotham, Palantir Foundry, or Palantir Apollo: products that are deployed at some of the most important institutions across the public and private sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Application deadlineWe accept applications on an ongoing basis.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-denver",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Internship",
-      "employer_name": "Palantir",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "Software Engineer, InternshipWashington, D.C.Dev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir Gotham, Palantir Foundry, or Palantir Apollo: products that are deployed at some of the most important institutions across the public and private sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-washington",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Internship",
-      "employer_name": "Palantir",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Software Engineer, InternshipSeattle, WADev /Internship /On-siteApply for this jobA World-Changing CompanyPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.The RoleSoftware Engineers at Palantir build software at scale to transform how organizations around the world use data. As a Software Engineer Intern, you’ll have an opportunity to grow more quickly than you ever envisioned, as you contribute high-quality code directly to Palantir Gotham, Palantir Foundry, or Palantir Apollo: products that are deployed at some of the most important institutions across the public and private sectors. You'll create features used by research scientists, aerospace engineers, intelligence analysts, and economic forecasters, in countries around the world. Palantir's Product Development organization is made up of small teams of Software Engineers, each focusing on a specific aspect of a product. For example, you might join a team that builds a Foundry front-end application, or a component of the Gotham release infrastructure. We encourage communication and collaboration among teams to share context, skills, and experience, so you'll learn about many different aspects of each product.Core ResponsibilitiesAs a Software Engineer, you are involved throughout the product lifecycle - from idea generation, design, and prototyping to execution and shipping while also being paired with a mentor dedicated to your growth and success. You'll collaborate closely with technical and non-technical counterparts to understand our customers' problems and build products that tackle them. One of the most effective ways to understand what our users need is to meet them. You may receive an opportunity to tour the assembly line at an auto-manufacturer or join a counter-terror analyst at their desk to really understand their mission and difficulties.SWE principles include: • Ownership: We see projects through from beginning to end in spite of obstacles we may encounter.• Collaboration: We work internally with people from a variety of backgrounds — such as other Software Engineers, Product Managers, Designers and Product Reliability Engineers. We also partner with our business development teams (Forward Deployed Engineers, Deployment Strategists) in order to understand and solve our customers' problems.• Trust: We trust each other to effectively handle time and priorities, and don't micromanage. We want people to have the space to think for themselves, while feeling supported by their team.Technologies We UseIt doesn’t matter what languages you know when you join us, but it does matter that you can write clean, effective code and learn new languages quickly. Our software is constantly evolving, so we need engineers who can do the same. Alongside peers that bring diverse experience - whether you’re a former university TA, switched to CS recently, or are a hackathon enthusiast — you'll build your skills to apply the best technology to solve a given problem. Right now, we use:• Varying languages, including Java and Go for backend and Typescript for frontend• Open-source technologies like Cassandra, Spark, Elasticsearch, React, and Redux• Industry-standard build tooling, including Gradle and GitHubWhat We ValueAbility to communicate and collaborate with a variety of individuals, including engineers, users and non-technical team members.Willingness to learn and make decisions independently, and the ability to ask questions when needed.Active US Security clearance, or eligibility and willingness to obtain a US Security clearance.What We RequireEngineering background in fields such as Computer Science, Mathematics, Software Engineering, and Physics.Familiarity with data structures, storage systems, cloud infrastructure, front-end frameworks, and other technical tools.Experience coding in programming languages, such as Java, C++, Python, JavaScript, or similar languages.Must be planning on graduating in 2027. This should be your final internship before graduating.To apply, please submit the following:An updated resume / CV - please do so in PDF format.Thoughtful responses to our application questions.SalaryThe estimated salary range for this position is estimated to be $10,500/month. Further note that total compensation for this position will be determined by each individual’s relevant qualifications, work experience, skills, and other factors. This estimate excludes the value of any benefits offered; and the potential future value of any long-term incentives.Life at PalantirWe want every Palantirian to achieve their best outcomes, that’s why we celebrate individuals’ strengths, skills, and interests, from your first interview to your longterm growth, rather than rely on traditional career ladders. Paying attention to the needs of our community enables us to optimize our opportunities to grow and helps ensure many pathways to success at Palantir. Promoting health and well-being across all areas of Palantirians’ lives is just one of the ways we’re investing in our community. Learn more at Life at Palantir and note that our offerings may vary by region.In keeping consistent with Palantir’s values and culture, we believe employees are “better together” and in-person work affords the opportunity for more creative outcomes. Therefore, we encourage employees to work from our offices to foster connectivity and innovation. Many teams do offer hybrid options (WFH a day or two a week), allowing our employees to strike the right trade-off for their personal productivity. Based on business need, there are a few roles that allow for “Remote” work on an exceptional basis. If you are applying for one of these roles, you must work from the state in which you are employed. If the posting is specified as Onsite, you are required to work from an office.If you want to empower the world's most important institutions, you belong here. Palantir values excellence regardless of background. We are proud to be an Equal Opportunity Employer for all, including but not limited to Veterans and those with disabilities. Palantir is committed to making the application and hiring process accessible to everyone and will provide a reasonable accommodation for those living with a disability. If you need an accommodation for the application or hiring process, please reach out and let us know how we can help.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply",
-      "job_posted_at_datetime_utc": "2025-07-01T15:56:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "palantir-software-engineer-internship-seattle",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data & AI/GenAI Intern",
-      "employer_name": "Photon",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Join Photon in this exciting opportunity.",
-      "job_apply_link": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/22319",
-      "job_posted_at_datetime_utc": "2025-07-01T15:49:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "photon-data-ai-genai-intern-dallas",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": "2025-12-19T20:04:14.647Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Copart",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries.  We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology. Copart is looking for a data scientist who will work closely with IT and various other departments to drive insight into data and deliver machine learning solutions to improve Copart's operations. This data scientist will also design/manipulate large scale data sets from a multitude of sources, work to operationalize and integrate machine learning solutions into Copart's current products and visualize and report on findings and results to provide insight to the organization.Job duties·         Develop new predictive models using advanced techniques·         Apply critical thinking to ensure data integrity and quality control is applied to each dataset, model and other analysis prior to presenting with internal customers·         Coordinate with different functional teams to operationalize, and monitor machine learning solutions·         Apply statistical methodologies such as cluster and regression analysis, if necessary.·         Act as a proponent of data science/analytics to senior leadership and others by being able to explain the benefits of machine learning, and other techniques.·         6 Months of experience (relevant academic internships & projects can be considered in lieu of professional experience) with machine learning, statistical modeling, and data mining techniques.·         Bachelor or Master's degree in highly quantitative field (computer science, mathematics, machine learning, statistics) or equivalent experience·         Proficiency in either R or Python·         Proficiency in data sourcing/manipulation in SQL·         Bachelor or Master's degree in highly quantitative field (computer science, mathematics, machine learning, statistics) or equivalent experience·         Experience applying various machine learning techniques, specifically neural networks and gradient boosted machines, and understanding the key parameters that affect their performance·         Strong data visualization skills using open source tools (plotly, ggplot2, shiny)·         Experience with both supervised and unsupervised modeling techniques #LI-MS1\n\nAt Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:E-verify ParticipationRight to Work",
-      "job_apply_link": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689",
-      "job_posted_at_datetime_utc": "2025-06-30T22:19:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "copart-software-engineering-intern-dallas",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": "2025-12-19T20:04:14.647Z"
-  },
-  {
-    "job": {
       "job_title": "Multilingual Data Intern - Speech",
       "employer_name": "ByteDance",
       "job_city": "San Jose",
@@ -274,10 +114,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -394,10 +234,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -414,10 +254,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
     "job": {
@@ -465,16 +305,18 @@
       "employer_name": "Cluely",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Cluely in this exciting opportunity.",
+      "job_description": "About Cluely Cluely is building AI to give you an unfair advantage in every situation. It acts as a desktop assistant that takes in screen, mic, and audio context to give you information and suggestions that existing model providers cannot, due to a lack of context. We will win for two reasons: 1) Chatbots are not the best interface for multi-modal AI 2) We can make anything viral About the Role We work six days a week in-person in San Francisco, 10-12 hours a day. You are expected to live within a block of the office (housing provided). Our eng team is a mix of staff-level SWEs and tuff 19 yr olds, check it out here . You might be a good fit if you are: One of the best engineers in the world Down to gamble your life into greatness Compensation: Founding engineers get anywhere from $250-350k base + 0.25-0.5% equity We also offer free housing, free food, and free transportation.",
       "job_apply_link": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108",
       "job_posted_at_datetime_utc": "2025-05-28T18:08:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cluely-software-engineer-intern-san-francisco"
+      "id": "cluely-software-engineer-intern-san-francisco",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.963Z",
     "postedAt": null
   },
   {
@@ -483,16 +325,18 @@
       "employer_name": "Copart",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join Copart in this exciting opportunity.",
+      "job_description": "Copart, Inc. a technology leader and the premier online vehicle auction platform globally, with over 200 facilities located across the world, Copart links vehicle sellers to more than 750,000 buyers in over 190 countries.  We believe in providing an unmatched experience, every day and everywhere, driven by our people, processes, and technology. Copart is looking for JavaScript/Frontend Developer Intern. We're seeking a passionate, opinionated, and creative individual who can develop web applications from the ground up. The successful candidate will be a developer who understands web strengths and constraints and builds pixel perfect solutions.•             Experience developing cutting edge applications•             Good knowledge in at least one client side MVC JavaScript framework (preferably ReactJS or ReactNative)•             Experience developing modular front-end components and building web experiences using HTML5, CSS3, JavaScript•             Mastery of web standards, cross-browser compatibility and constraints of the web•             Good understanding of browser rendering behavior and performance•             Good written and communication skills•             Experience with Agile methodologiesEducation:Must be pursuing a Master's Degree in Computer Science or other related field with a minimum GPA of 3.5 #LI-MS1\n\nAt Copart, we are focused on harnessing the power of diversity, inclusion, and collaboration. By embracing diverse perspectives, we open doors to innovation and unleash the full potential of our team. We are dedicated to fostering a workplace where everyone feels appreciated, included, and inspired to grow and contribute meaningfully.E-Verify Program Participant: Copart participates in the Department of Homeland Security U.S. Citizenship and Immigration Services' E-Verify program (For U.S. applicants and employees only). Please click below to learn more about the E-Verify program:E-verify ParticipationRight to Work",
       "job_apply_link": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineer-Intern_JR103138",
       "job_posted_at_datetime_utc": "2025-05-27T20:42:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "copart-software-engineer-intern-dallas"
+      "id": "copart-software-engineer-intern-dallas",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.963Z",
     "postedAt": null
   },
   {
@@ -501,16 +345,18 @@
       "employer_name": "Point72",
       "job_city": "New York",
       "job_state": "NY",
-      "job_description": "Join Point72 in this exciting opportunity.",
+      "job_description": "About Cubist: Cubist Systematic Strategies’ mission is to be one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures, and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources. About our Team: KEPL is a fast-growing team at Cubist Systematic Strategies. We are specialized in specialized in trading medium-frequency statistical arbitrage strategies with high Sharpe. The team is made up of people from top universities and top tier trading and tech firms, including: D.E. Shaw, Two Sigma, Citadel, Meta, Google, etc. We have an open and collaborative culture, and we value rigorous research and innovative technologies. Role/Experience: We are looking for exceptional students to be our quantitative developer interns for the summer of 2026. An ideal candidate should have a strong passion and initiative to work in a start-up environment. He/she should have strong analytical and programming skills and be able to solve hard problems rigorously. Our typical intern candidates come from math, computer science, or other related programs of top US universities. Our internship program offers the unique KEPL experience. During the internship, our intern will receive rigorous and comprehensive trainings. He/she will further learn and develop strong analytical skills through working with our full-time researchers and developers on challenging real-world problems. We will consider full-time offers for interns after the internship. Requirements: Undergraduate degree or higher in math, computer science, or other quantitative fields Strong analytical skills, with attention to details Strong passion in applying new technologies to trading Proficiency in Python and either C++ or Java Proficiency with Linux environment Knowledge of numerical computing is a plus Commitment to the highest ethical standards The annual base salary is $240,000-$300,000 (USD) which will be prorated based on internship start and end date. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.",
       "job_apply_link": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
       "job_posted_at_datetime_utc": "2025-05-24T18:03:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "point72-summer-2025-quantitative-developer-internship-new-york"
+      "id": "point72-summer-2025-quantitative-developer-internship-new-york",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.963Z",
     "postedAt": null
   },
   {
@@ -519,16 +365,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (Applied Machine Learning-Algorithm) - 2025 Summer/Fall (MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7398413673407121701/detail",
       "job_posted_at_datetime_utc": "2025-05-09T08:32:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-applied-machine-learning-algorithm-san-jose"
+      "id": "bytedance-machine-learning-engineer-intern-applied-machine-learning-algorithm-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.963Z",
     "postedAt": null
   },
   {
@@ -542,11 +390,13 @@
       "job_posted_at_datetime_utc": "2025-05-08T14:02:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "uber-software-engineering-intern-multiple-teams-seattle"
+      "id": "uber-software-engineering-intern-multiple-teams-seattle",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.964Z",
     "postedAt": null
   },
   {
@@ -560,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-04-24T04:05:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "warp-software-engineering-intern-new-york"
+      "id": "warp-software-engineering-intern-new-york",
+      "description_platform": "ashby",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.964Z",
     "postedAt": null
   },
   {
@@ -573,16 +425,18 @@
       "employer_name": "Spectra Logic",
       "job_city": "Boulder",
       "job_state": "CO",
-      "job_description": "Join Spectra Logic in this exciting opportunity.",
+      "job_description": "Open Positions Open Positions Engineering Job listing Job location Engineer - Software Developer in Test I Boulder, Colorado Marketing Job listing Job location Technical Marketing Manager Boulder, Colorado B2B Marketing Events Manager Boulder, Colorado Technical Support Job listing Job location Systems Support Technician Boulder, Colorado Systems Support Technician Boulder, Colorado Check on an application you've submitted. Sign up for Job Alerts.",
       "job_apply_link": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
       "job_posted_at_datetime_utc": "2025-04-19T02:19:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "spectra-logic-intern-software-boulder"
+      "id": "spectra-logic-intern-software-boulder",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.964Z",
     "postedAt": null
   },
   {
@@ -591,16 +445,18 @@
       "employer_name": "pony.ai",
       "job_city": "Fremont",
       "job_state": "CA",
-      "job_description": "Join pony.ai in this exciting opportunity.",
+      "job_description": "Founded in 2016 in Silicon Valley, Pony.ai has quickly become a global leader in autonomous mobility and is a pioneer in extending autonomous mobility technologies and services at a rapidly expanding footprint of sites around the world. Operating Robot...",
       "job_apply_link": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
       "job_posted_at_datetime_utc": "2025-04-17T18:29:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "pony-ai-research-intern-deep-learning-fremont"
+      "id": "pony-ai-research-intern-deep-learning-fremont",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:17:43.964Z",
     "postedAt": null
   },
   {
@@ -12138,6 +11994,114 @@
     },
     "status": "pending",
     "addedAt": "2025-12-19T19:43:48.065Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Software Engineer - Autonomous Robot",
+      "employer_name": "General Motors",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--Masters-Degree-_JR-202524731",
+      "job_posted_at_datetime_utc": "2025-12-19T19:47:29.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-motors-intern-software-engineer-autonomous-robot-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Machine Learning Engineer - Map Enhancements",
+      "employer_name": "General Motors",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--PhD-_JR-202524566",
+      "job_posted_at_datetime_utc": "2025-12-19T19:47:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-motors-intern-machine-learning-engineer-map-enhancements-austin"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Map Enhancements",
+      "employer_name": "General Motors",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--Masters-_JR-202524669",
+      "job_posted_at_datetime_utc": "2025-12-19T19:47:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-motors-intern-map-enhancements-austin"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "American Fidelity",
+      "job_city": "Oklahoma City",
+      "job_state": "OK",
+      "job_description": "Join American Fidelity in this exciting opportunity.",
+      "job_apply_link": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Science-Intern_JR373",
+      "job_posted_at_datetime_utc": "2025-12-19T19:46:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "american-fidelity-data-science-intern-oklahoma-city"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Global Partners",
+      "job_city": "Waltham",
+      "job_state": "MA",
+      "job_description": "Join Global Partners in this exciting opportunity.",
+      "job_apply_link": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Science-Intern_R0029914",
+      "job_posted_at_datetime_utc": "2025-12-19T19:42:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "global-partners-data-science-intern-waltham"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Clinical Supplies Data Analyst Intern - Undergraduate Students",
+      "employer_name": "AstraZeneca",
+      "job_city": "Gaithersburg",
+      "job_state": "MD",
+      "job_description": "Join AstraZeneca in this exciting opportunity.",
+      "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Supplies-Data-Analyst-Intern--Undergraduate-Students_R-242238",
+      "job_posted_at_datetime_utc": "2025-12-19T19:38:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "astrazeneca-clinical-supplies-data-analyst-intern-undergraduate-students-gaithersburg"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": null,
     "postedAt": null
   }

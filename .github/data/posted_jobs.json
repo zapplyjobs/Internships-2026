@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:04:11.633Z",
+  "lastUpdated": "2025-12-19T20:18:21.147Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9945,14 +9945,102 @@
       "sourceUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689",
       "discordThreadId": "1451666431694602375",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-multilingual-data-intern-speech-san-jose-2025-12-19-1",
+      "jobId": "bytedance-multilingual-data-intern-speech-san-jose",
+      "company": "ByteDance",
+      "title": "Multilingual Data Intern - Speech",
+      "postedToDiscord": "2025-12-19T20:17:53.346Z",
+      "sourceDate": "2025-06-27T23:27:03.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7520464007472793874/detail",
+      "discordThreadId": "1451669879227809844",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medpace-web-developer-internship-co-op-cincinnati-2025-12-19-1",
+      "jobId": "medpace-web-developer-internship-co-op-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Web Developer Internship/Co-Op",
+      "postedToDiscord": "2025-12-19T20:17:56.793Z",
+      "sourceDate": "2025-06-20T15:49:39.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/11408?lang=en-us&icims=1",
+      "discordThreadId": "1451669894079975515",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dolby-laboratories-audio-software-engineering-intern-san-francisco-2025-12-19-1",
+      "jobId": "dolby-laboratories-audio-software-engineering-intern-san-francisco",
+      "company": "Dolby Laboratories, Inc.",
+      "title": "Audio Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T20:18:00.277Z",
+      "sourceDate": "2025-06-19T17:14:39.000Z",
+      "sourceUrl": "https://careers.dolby.com/job/San-Francisco-Audio-Software-Engineering-Intern-CA-94101/1300160000/",
+      "discordThreadId": "1451669908218839123",
+      "instanceNumber": 1
+    },
+    {
+      "id": "n1-software-engineer-intern-backend-rust-new-york-2025-12-19-1",
+      "jobId": "n1-software-engineer-intern-backend-rust-new-york",
+      "company": "N1",
+      "title": "Software Engineer Intern [Backend, Rust]",
+      "postedToDiscord": "2025-12-19T20:18:03.832Z",
+      "sourceDate": "2025-06-17T23:54:04.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
+      "discordThreadId": "1451669923360149584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "baker-hughes-early-career-summer-engineering-technology-university-internships-skaneateles-ny-2025-auburn-2025-12-19-1",
+      "jobId": "baker-hughes-early-career-summer-engineering-technology-university-internships-skaneateles-ny-2025-auburn",
+      "company": "Baker Hughes",
+      "title": "Early Career: Summer Engineering & Technology University Internships - Skaneateles - NY - 2025",
+      "postedToDiscord": "2025-12-19T20:18:07.525Z",
+      "sourceDate": "2025-06-03T05:21:52.000Z",
+      "sourceUrl": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/Early-Career--Summer-Engineering---Technology-University-Internships--Skaneateles--NY--2025--Evergreen---Open-_R126863",
+      "discordThreadId": "1451669938111516807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mistral-ai-ai-scientist-intern-multiple-teams-palo-alto-2025-12-19-1",
+      "jobId": "mistral-ai-ai-scientist-intern-multiple-teams-palo-alto",
+      "company": "Mistral AI",
+      "title": "AI Scientist Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-19T20:18:13.946Z",
+      "sourceDate": "2025-06-19T23:28:49.000Z",
+      "sourceUrl": "https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb/apply",
+      "discordThreadId": "1451669966112821339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-future-product-innovation-research-intern-hci-creativity-mountain-view-2025-12-19-1",
+      "jobId": "toyota-research-institute-future-product-innovation-research-intern-hci-creativity-mountain-view",
+      "company": "Toyota Research Institute",
+      "title": "Future Product Innovation Research Intern - HCI Creativity",
+      "postedToDiscord": "2025-12-19T20:18:17.655Z",
+      "sourceDate": "2025-06-13T05:45:42.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/32f6a4d8-7b0b-4461-a5da-7e2097e24539/apply",
+      "discordThreadId": "1451669981115842733",
+      "instanceNumber": 1
+    },
+    {
+      "id": "drivetrain-engineering-intern-gen-ai-for-fp-a-platform-remote-in-usa-2025-12-19-1",
+      "jobId": "drivetrain-engineering-intern-gen-ai-for-fp-a-platform-remote-in-usa",
+      "company": "Drivetrain",
+      "title": "Engineering Intern - Gen AI for FP&a Platform",
+      "postedToDiscord": "2025-12-19T20:18:21.147Z",
+      "sourceDate": "2025-06-09T00:01:11.000Z",
+      "sourceUrl": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
+      "discordThreadId": "1451669995997102254",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 904,
+    "totalJobs": 912,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:04:11.633Z",
+      "date": "2025-12-19T20:18:21.147Z",
       "archived": 0
     }
   }
