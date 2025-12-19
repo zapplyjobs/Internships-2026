@@ -28,34 +28,6 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineer Co-op",
-    "employer_name": "Globus Medical",
-    "job_city": "Audubon",
-    "job_state": "PA",
-    "job_description": "Join Globus Medical in this exciting opportunity.",
-    "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
-    "job_posted_at_datetime_utc": "2025-07-30T14:50:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "globus-medical-software-engineer-co-op-audubon",
-    "description_platform": "workday",
-    "description_success": false
-  },
-  {
-    "job_title": "Firmware Engineer Intern",
-    "employer_name": "Neuralink",
-    "job_city": "Fremont",
-    "job_state": "CA",
-    "job_description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: At Neuralink, we're engineering the future of automated surgeries, focusing on the safe and effective implantation of our groundbreaking Neuralink implant. Our team — a cross-functional mix of roboticists, engineers from various disciplines, and medical professionals — collaborates on developing a surgical flow from first principles. In this critical role, you'll straddle the cutting-edge worlds of robotics, software, and neuroscience. Job Description and Responsibilities: This is a new role for our team that will allow you to create new embedded systems from scratch while challenging and refining the old. As a Firmware Engineer Intern, your responsibilities will encompass: Developing and optimizing embedded software for robotic surgery applications Streamlining our codebase by refining and, when necessary, retiring legacy embedded software Rigorous testing and validation of software systems to meet the highest safety and reliability standards Participating in peer code reviews Writing drivers and applications to extend the functionality of our robotics Specifying hardware and software choices as we develop future hardware platforms Sharing your findings and progress with the team in a collaborative environment Required Qualifications: Demonstrated track record of success in a science or engineering field, evidenced by outstanding projects, innovations, or advanced problem-solving Proven experience in software development, preferably with exposure to embedded systems Preferred Qualifications: Embedded Software Development: 2+ years of experience with embedded systems Proficient with common communication protocols (SPI, UART, I2C, etc.) Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3 Proficient in at least one embedded language such as C, C++, or Rust Proficient with embedded toolchains and workflow Experience building and bringing-up MCUs or FPGAs Experience with embedded stacks for ARM cores Experience developing on embedded Linux platforms Experience with embedded Linux kernel configuration and device tree setup Experience with kernel driver development Experience with ARM bootloaders Experience coding drivers for actuators and sensors Experience with high-speed data acquisition and processing Electrical Engineering: Foundational understanding of MCU architectures and peripheral integration Solid knowledge in electrical engineering and DSP Ability to interpret electrical schematics and datasheets, along with proficiency in using lab equipment Expected Compensation: The anticipated hourly rate for this position is listed below. California Hourly Flat Rate:$35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
-    "job_apply_link": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
-    "job_posted_at_datetime_utc": "2025-07-30T14:41:06.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "neuralink-firmware-engineer-intern-fremont",
-    "description_platform": "greenhouse",
-    "description_success": true
-  },
-  {
     "job_title": "LLM Algorithmic Optimization Engineer – Intern",
     "employer_name": "Nio",
     "job_city": "San Jose",
@@ -137,6 +109,34 @@
     "job_posted_at": "1h",
     "id": "hudson-river-trading-software-engineering-internship-new-york",
     "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineering Intern",
+    "employer_name": "Arcade",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
+    "job_apply_link": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
+    "job_posted_at_datetime_utc": "2025-07-28T17:36:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "arcade-software-engineering-intern-san-francisco",
+    "description_platform": "lever",
+    "description_success": true
+  },
+  {
+    "job_title": "Research Engineer Intern, Applied AI",
+    "employer_name": "Arcade",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
+    "job_apply_link": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
+    "job_posted_at_datetime_utc": "2025-07-28T17:36:31.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "arcade-research-engineer-intern-applied-ai-san-francisco",
+    "description_platform": "lever",
     "description_success": true
   }
 ]
