@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:43:16.549Z",
+  "lastUpdated": "2025-12-19T20:50:41.389Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10198,14 +10198,102 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7397460004344138021/detail",
       "discordThreadId": "1451676268100718793",
       "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-c-developer-intern-curve-engine-atlanta-2025-12-19-1",
+      "jobId": "intercontinental-exchange-c-developer-intern-curve-engine-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "C++ Developer Intern - Curve Engine",
+      "postedToDiscord": "2025-12-19T20:50:11.053Z",
+      "sourceDate": "2025-09-10T23:53:03.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11601/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451678007428386947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "endeavor-air-operational-analytics-and-performance-intern-operational-analytics-and-performance-minneapolis-2025-12-19-1",
+      "jobId": "endeavor-air-operational-analytics-and-performance-intern-operational-analytics-and-performance-minneapolis",
+      "company": "Endeavor Air",
+      "title": "Operational Analytics and Performance Intern - Operational Analytics and Performance",
+      "postedToDiscord": "2025-12-19T20:50:17.554Z",
+      "sourceDate": "2025-11-17T23:34:25.000Z",
+      "sourceUrl": "https://careers-endeavorair.icims.com/jobs/5159/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451678034082922516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corning-data-engineer-intern-elmira-2025-12-19-1",
+      "jobId": "corning-data-engineer-intern-elmira",
+      "company": "Corning",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:50:21.055Z",
+      "sourceDate": "2025-12-05T17:14:33.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Data-Engineering-Intern-Summer-2026-NY-14831/1347705900/?ats=successfactors",
+      "discordThreadId": "1451678048553537678",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tokyo-electron-business-intelligence-engineer-intern-austin-2025-12-19-1",
+      "jobId": "tokyo-electron-business-intelligence-engineer-intern-austin",
+      "company": "Tokyo Electron",
+      "title": "Business Intelligence Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:50:24.450Z",
+      "sourceDate": "2025-12-05T16:06:45.000Z",
+      "sourceUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Business-Intelligence-Engineer-Intern_R25-01647",
+      "discordThreadId": "1451678062834880697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "susquehanna-international-group-sig-electricity-natural-gas-analyst-internship-summer-2026-ardmore-2025-12-19-1",
+      "jobId": "susquehanna-international-group-sig-electricity-natural-gas-analyst-internship-summer-2026-ardmore",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Electricity + Natural Gas Analyst Internship: Summer 2026",
+      "postedToDiscord": "2025-12-19T20:50:30.914Z",
+      "sourceDate": "2025-09-22T21:31:04.000Z",
+      "sourceUrl": "https://careers-sig.icims.com/jobs/9348/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451678089859039284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cotiviti-intern-generative-ai-research-engineer-remote-in-usa-2025-12-19-1",
+      "jobId": "cotiviti-intern-generative-ai-research-engineer-remote-in-usa",
+      "company": "Cotiviti",
+      "title": "Intern – Generative AI Research Engineer",
+      "postedToDiscord": "2025-12-19T20:50:34.505Z",
+      "sourceDate": "2025-09-11T05:25:08.000Z",
+      "sourceUrl": "https://careers-cotiviti.icims.com/jobs/15661/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451678104635445368",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-computer-vision-engineering-intern-sunnyvale-2025-12-19-1",
+      "jobId": "intuitive-surgical-computer-vision-engineering-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Computer Vision Engineering Intern",
+      "postedToDiscord": "2025-12-19T20:50:38.057Z",
+      "sourceDate": "2025-12-05T17:49:15.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000097150430",
+      "discordThreadId": "1451678120120811682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-llm-agentic-ai-r-d-intern-sunnyvale-2025-12-19-1",
+      "jobId": "robert-bosch-venture-capital-llm-agentic-ai-r-d-intern-sunnyvale",
+      "company": "Robert Bosch Venture Capital",
+      "title": "LLM & Agentic AI R&D Intern",
+      "postedToDiscord": "2025-12-19T20:50:41.389Z",
+      "sourceDate": "2025-12-05T17:15:39.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000097096055",
+      "discordThreadId": "1451678134532309186",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 927,
+    "totalJobs": 935,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:43:16.549Z",
+      "date": "2025-12-19T20:50:41.389Z",
       "archived": 0
     }
   }
