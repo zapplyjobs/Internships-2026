@@ -101,26 +101,6 @@
   },
   {
     "job": {
-      "job_title": "Multilingual Data Intern - Speech",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7520464007472793874/detail",
-      "job_posted_at_datetime_utc": "2025-06-27T23:27:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-multilingual-data-intern-speech-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
       "job_title": "Web Developer Internship/Co-Op",
       "employer_name": "Medpace, Inc.",
       "job_city": "Cincinnati",
@@ -137,26 +117,6 @@
     "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:53:05.080Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Scientist Intern - Multiple Teams",
-      "employer_name": "Mistral AI",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "AI Scientist - Paris/Palo Alto (Internship, Master's students)Paris / Palo AltoResearch /Fixed term /On-siteApply for this jobAbout Mistral At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether on-premises or in cloud environments. Our offerings include le Chat, the AI assistant for life and work.We are a dynamic, collaborative team passionate about AI and its potential to transform society.Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between France, USA, UK, Germany and Singapore. We are creative, low-ego and team-spirited.Join us to be part of a pioneering company shaping the future of AI. Together, we can make a meaningful impact. See more about our culture on https://mistral.ai/careers.Role Summary -You will be working on fine tuning LLMs on making state-of-the-art generative models. -You will run autonomous work streams under the supervision of experienced scientists.-The role is based in Paris or Palo Alto-Internship duration : 6 months. We are only considering candidates looking for end of studies internships -We are totally open to CIFRE programs as a continuation after the internshipWhat you will do-Explore state-of-the-art LLM algorithms for fine tuning LLMs, with the supervision of top level scientists.-Assist in the design and implementation of machine learning models and algorithms.-Conduct research on the latest advancements in natural language processing and LLMs.-Contribute to the development and optimization of our LLM systems.-Collaborate with cross-functional teams to integrate LLM technologies into various applications.-Perform data analysis and visualization to support research and development efforts.-Document research findings and contribute to technical reports and publications.-Participate in team meetings and brainstorming sessions to share ideas and insightsAbout you -Currently a Master's from tier 1 engineering schools / Universities. We will prioritise candidates who are about to finalize their Master. -High scientific understanding of the field of generative AI. -Broad knowledge of the field of AI, and specific knowledge or interest in fine-tuning and using language models for applications.-Strong programming skills in Python, with experience in libraries such as TensorFlow, PyTorch, or similar.-Familiarity with natural language processing techniques and machine learning algorithms.-Design complex software and make them usable in production. -Navigate the full MLOps technical stack, with a focus on architecture development and model evaluation and usage. -Previous experience with LLMs or related technologies.-Knowledge of deep learning frameworks and techniques..Experience with version control systems (e.g., Git) and linux shell environment.Now, it would be ideal if you : -Have experience in fine tuning LLMs.-Have used complex HPC infrastructure with full autonomy.Benefits💰 Competitive salary🥕 Food : Daily lunch vouchers🥎 Sport : Monthly contribution to a Gympass subscription 🚴 Transportation : Monthly contribution to a mobility passWe may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb/apply",
-      "job_posted_at_datetime_utc": "2025-06-19T23:28:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mistral-ai-ai-scientist-intern-multiple-teams-palo-alto",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T20:03:47.435Z",
     "postedAt": "2025-12-19T20:18:24.161Z"
   },
   {
@@ -181,86 +141,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern [Backend, Rust]",
-      "employer_name": "N1",
-      "job_city": "New York",
-      "job_state": "Locations",
-      "job_description": "About N1: N1 is the first hyper-performant and horizontally scalable blockchain network designed to enable trustless computing at internet scale. N1 is comprised of a team spanning backgrounds from Harvard, CMU, DFINITY, VMWare, Galaxy Digital, and more, and is backed by top-tier institutions like Founders Fund, Kraken Ventures, SALT, Amber Group, and more. Position Overview: We're seeking a Software Engineer intern with a focus on backend systems in Rust. This role will involve the development of core backend components for our blockchain network, focusing on networking, reliability, and scalability. Your primary responsibilities will entail designing and coding core backend software components primarily in Rust. Your role will involve maintaining and enhancing high-quality software engineering practices within a prominent open-source project. Requirements: Experience/ interest in designing, testing, and implementing scalable backend systems Experience/ interest in a low level programming language like Rust, C, C++, Zig Experience/ interest in systems programming. Strong signals include experience writing compilers, operating systems, kernels, machine simulators Creative, independent, and collaborative team player with the ability to work in a fast paced environment Loves problem solving Strong interest in crypto",
-      "job_apply_link": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
-      "job_posted_at_datetime_utc": "2025-06-17T23:54:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "n1-software-engineer-intern-backend-rust-new-york",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
-      "job_title": "Future Product Innovation Research Intern - HCI Creativity",
-      "employer_name": "Toyota Research Institute",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Future Product Innovation Research Intern, HCI CreativityLos Altos, CAHuman-Centered AI – Internships - Fall 2025 /Intern /HybridApply for this jobAt Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team in Automated Driving, Energy & Materials, Human-Centered AI, Human Interactive Driving, Large Behavior Models, and Robotics.This is a Fall/Winter 2025 paid 13-week internship opportunity. Please note that this internship will be a hybrid in-office role.Human-Centered AIThis internship opportunity falls within the Human-Centered AI Division (HCAI). We are an integrated team of ML researchers, behavior scientists, and human-computer interaction experts. At the core of our work, we aim to support people to make better decisions by using the best of big data, technology, and insights about why we do what we do. The TeamThe Future Product Innovation team is an interdisciplinary team of researchers working at the intersection of generative artificial intelligence (AI), design, engineering, and creativity. We use advances in cognitive modeling, physiological sensing, HCI, and machine learning to support human decision making. Our mission is to accelerate design and engineering processes in the automotive industry. The InternshipWe are seeking a highly motivated and versatile PhD research intern to join our Future Product Innovation team and open up the boundaries on what is possible with Generative AI technologies in the domain of narrative-driven design and future scenario generation. The ideal candidate will have a strong background in multi-media and immersive technologies, with demonstrated interest in design and generative AI. In this project, the intern will develop immersive scenarios driven by Generative AI tools with applications to generation of immersive scenarios for inventing and evaluating strategic scenarios, future product designs, and future social trends. We will match the intern with mentors based on their experience. Over the course of the project, in addition to Future Product Innovation group meetings, the intern will also participate in all Human-Centered AI division meetings and meetings with stakeholders from relevant Toyota business groups. The intern will be exposed to how interdisciplinary industrial research works and learn from our team. Furthermore, the intern will engage in strategy discussions about how their research connects to business impact at Toyota.ResponsibilitiesIn collaboration with your mentor and the other researchers in the department, you will scope the project to align to the core research efforts.Be the primary driver of the technical plan (e.g., model development, analysis plan) with regular feedback from mentors.Execute the project using TRI resources.Present the project’s approach and findings in research meetings.QualificationsCurrently enrolled in a PhD program in Computer Science, Information Science, Immersive Media, Machine Learning (or related fields).Experience working with graphic design Generative AI tools like Google Veo, Gemini, Midjourney, Visual Electric, among othersExperience with deep generative models for narrative generation such as Gemini, ChatGPT, etc.Track record of driving research projects, including publications at top venues, including but not limited to CHI, SIGGRAPH, CVPRDesire to work on exciting, open-ended research projects.Demonstrated ability to work autonomously while soliciting feedback.Excellent communication and teamwork skills.Bonus QualificationsExperience with developing research prototypesExperience adapting pre-trained models to specific tasks or domains through fine-tuning or similar techniquesExperience working with immersive media and generative AI development toolsPlease add a link to Google Scholar and include a full list of publications when submitting your CV to this position.The pay range for this position at commencement of employment is expected to be between $45 and $65/hour for California-based roles. Base pay offered may vary depending on multiple individualized factors, including, but not limited to, business or organizational needs, market location, job-related knowledge, skills, and experience. Note that TRI offers a generous benefits package including vacation and sick time. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.TRI is fueled by a diverse and inclusive community of people with unique backgrounds, education and life experiences. We are dedicated to fostering an innovative and collaborative environment by living the values that are an essential part of our culture. We believe diversity makes us stronger and are proud to provide Equal Employment Opportunity for all, without regard to an applicant’s race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records for employment. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/tri/32f6a4d8-7b0b-4461-a5da-7e2097e24539/apply",
-      "job_posted_at_datetime_utc": "2025-06-13T05:45:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "toyota-research-institute-future-product-innovation-research-intern-hci-creativity-mountain-view",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
-      "job_title": "Engineering Intern - Gen AI for FP&a Platform",
-      "employer_name": "Drivetrain",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Engineering Intern – Gen AI for FP&A PlatformUnited StatesEngineering /Internship /RemoteApply for this jobDrivetrain is on a mission to empower businesses to make better decisions. Our financial planning & decision-making platform helps companies scale and achieve their targets predictably. Drivetrain is a remote-first company headquartered in the San Francisco Bay Area. Founded in 2021 by a couple of ex-Googlers, Drivetrain is a fast-growing company on a trajectory for success with backing from leading venture capital firms.Drivetrain provides a great culture for its employees to thrive in and be happy. 💜 Remote-friendly: Drivetrain brings together the best and the brightest, no matter where they are and provides them a great degree of autonomy. We trust our people.🗣️ Open & transparent: We know that when our creators have access to all the information they need, their best work will emerge.👏 Idea-friendly: We provide an environment to explore new ideas, to take risks, to make mistakes, and to learn, so you can succeed. Anyone in the company can come up with great ideas and become a catalyst for positive change. We let the best ideas win.👥 Customer-centric: We follow a product-led growth strategy, continuously learning from our customers and collaborating to build the amazing software that Drivetrain is.About the RoleWe are seeking highly motivated Computer Science engineering interns passionate about Generative AI to join our team. You will work on real-world projects involving Retrieval-Augmented Generation (RAG), Agentic AI, and Large Language Models (LLMs) to enhance our FP&A (Financial Planning & Analysis) platform. This is a unique opportunity to gain hands-on experience at the intersection of AI and enterprise automation.Key ResponsibilitiesDevelop & Experiment: Build and prototype Gen AI solutions using RAG, agentic workflows, and LLMs for FP&A use cases.Collaborate: Work closely with product and engineering teams to integrate AI-driven features into the platform.Optimize: Apply strong computer science fundamentals to design efficient algorithms, data structures, and scalable systems.Document & Present: Clearly document your work, build workflow diagrams, and present results to the team.Showcase: Complete and demonstrate end-to-end projects that highlight your technical and problem-solving skills.QualificationsAcademic Background: Currently pursuing or recently completed a degree in Computer Science or a related field.Technical Skills: Strong understanding of DSA (Data Structures & Algorithms), system design, and problem-solving.AI/ML Exposure: Familiarity with concepts such as RAG, Agentic AI, and LLMs. Completion of relevant projects is preferred.Practical Experience: Demonstrated ability to build and showcase end-to-end projects in AI/ML or related fields.Communication: Excellent verbal and written communication skills.PreferredProject Portfolio: Evidence of completed projects involving Gen AI, RAG, or agentic workflows.Hands-on Skills: Experience with modern AI frameworks, cloud platforms, and API integration.Why Drivetrain.ai?Real-World Impact: Work on cutting-edge Gen AI projects for enterprise automation.Mentorship: Learn from industry experts and collaborate with a passionate team.Flexibility: Remote or hybrid options available to suit your schedule.Apply now and help shape the future of intelligent FP&A!Candidates with a strong project portfolio and solid computer science fundamentals are encouraged to apply.Sounds exciting? Apply at careers@drivetrain.ai. It may just be the next best decision you’ve ever made!We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
-      "job_posted_at_datetime_utc": "2025-06-09T00:01:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "drivetrain-engineering-intern-gen-ai-for-fp-a-platform-remote-in-usa",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
-      "job_title": "Early Career: Summer Engineering & Technology University Internships - Skaneateles - NY - 2025",
-      "employer_name": "Baker Hughes",
-      "job_city": "Auburn",
-      "job_state": "NY",
-      "job_description": "Engineering & Technology University Internships – Summer 2025 Opportunities May 19th – August 15th, 2025Would you like the opportunity to work in a global energy company? Do you enjoy taking on challenging projects? Join our innovative Internship Program Energy is one of the most critical issues the world faces and at Baker Hughes we are tackling energy transition head on with all the drive, innovation and technology we are known for. As we shape the future of the energy industry, we believe unique ideas and perspective fuel innovation and our differences make us stronger. The development of energy technology is of utmost importance for a cleaner, greener future. We offer rewarding and exciting internships for students with talent, ambition, and team spirit to help us realize our purpose.   The Baker Hughes Internship is designed to enable students pursuing a Bachelors’ or Masters’ degree to gain hands-on work experience as the foundation of their professional lives. Our internships will give you first-hand insights into the processes, systems, and practices that are aligned to ensure customer needs are met through flawless execution and the application of groundbreaking technology. Partner with the best You’ll participate in focused training, and team meetings, work on projects, and present your results. During your internship, you will be supported by a buddy and your manager who will ensure you have valuable learning experience. You can expect to receive coaching and mentoring to enable you to complete assignments and projects to develop your technical and interpersonal skills. You will also have the opportunity to become familiar with the Health, Safety, and Environment (HS&E) and culture of Baker Hughes. As well as our strong commitment to diversity, equity and inclusion.  As an Intern, you will be responsible for:  Completing internal projects to deliver customer outcomes and identify business improvements Assisting engineers or technologists with ongoing projects by conducting research, data analysis, and providing technical support. Participating in the design process, creating drawings or prototypes, and contributing to the development of new products or technologies. Keeping accurate records of experiments, designs, and project-related information, and preparing reports or documentation as needed. Collaborate in software development, coding, or programming tasks with engineers. Working as part of a team and communicating effectively with colleagues, engineers, and supervisors to achieve project goals, and identifying and addressing technical issues or challenges that arise during projects and proposing solutions. Applying Health, Safety, and Environment (HS&E) standards and procedures in all situations to ensure compliance is maintained Fuel your passion To be successful in this role you will:  Be currently enrolled in a Bachelor’s or Master's level degree in Engineering, Technology, Mechanics, other STEM-related program. Have maintained a GPA grade greater than or equal to 3.0 out of 4.0 or the equivalent in your country Be fluent in oral and written English and have effective communication skills Be able to relocate for the duration of your internship (locations vary) Applicant must be legally authorized to work in the United States as a U.S. citizen, lawful permanent resident, refugee, or temporary resident, and will not need employment sponsorship now or in the future. Work in a way that works for you We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone. In this role, we may be able to offer flexible working patterns. Talk to us about your desired working options when you apply. Working with us Working at Baker Hughes means being at the forefront of the energy transition. Our people are diverse, ambitious, and collaborative. We're on a mission to redefine the energy sector by unlocking the power of engineering, data, and science.",
-      "job_apply_link": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NY-SKANEATELES-721-VISIONS-DRIVE/Early-Career--Summer-Engineering---Technology-University-Internships--Skaneateles--NY--2025--Evergreen---Open-_R126863",
-      "job_posted_at_datetime_utc": "2025-06-03T05:21:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "baker-hughes-early-career-summer-engineering-technology-university-internships-skaneateles-ny-2025-auburn",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": "2025-12-19T20:18:24.161Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Engineer Intern",
       "employer_name": "Neuralink",
       "job_city": "Fremont",
@@ -274,10 +154,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -294,10 +174,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:03:47.435Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -314,10 +194,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.963Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -334,10 +214,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.963Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -354,10 +234,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.963Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -374,10 +254,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.963Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -394,10 +274,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.964Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -414,10 +294,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T20:17:43.964Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T20:31:40.653Z"
   },
   {
     "job": {
@@ -465,16 +345,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Intern (AI Platform) 2025 Summer (BS/MS) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7397256395883006258/detail",
       "job_posted_at_datetime_utc": "2025-04-16T06:44:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-intern-ai-platform-san-jose"
+      "id": "bytedance-software-engineer-intern-ai-platform-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -483,16 +365,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2025 Summer/Fall (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7397460004344138021/detail",
       "job_posted_at_datetime_utc": "2025-04-15T14:55:33.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-2025-summer-fall-phd-seattle"
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-2025-summer-fall-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -501,16 +385,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher Intern (Edge Research Project for General Intelligence — Doubao Foundation Model Team (Seed)) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7491032451558721810/detail",
       "job_posted_at_datetime_utc": "2025-04-09T06:25:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-san-jose"
+      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -519,16 +405,18 @@
       "employer_name": "ByteDance",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher Intern (Edge Research Project for General Intelligence — Doubao Foundation Model Team (Seed)) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7491034443466574087/detail",
       "job_posted_at_datetime_utc": "2025-04-09T06:25:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-seattle"
+      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -542,11 +430,13 @@
       "job_posted_at_datetime_utc": "2025-09-11T18:17:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "american-enterprise-institute-housing-center-internship-housing-center-washington"
+      "id": "american-enterprise-institute-housing-center-internship-housing-center-washington",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:45:35.329Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -555,16 +445,18 @@
       "employer_name": "Endeavor Air",
       "job_city": "Minneapolis",
       "job_state": "MN",
-      "job_description": "Join Endeavor Air in this exciting opportunity.",
+      "job_description": "<h2>About Us</h2> <p>Endeavor Air is a wholly-owned subsidiary of Delta Air Lines. Flying as Delta Connection, Endeavor operates&nbsp;141 regional jets on 750 daily flights to 122 destinations in the United States, Canada, and the Caribbean.</p> <p>&nbsp;</p> <p>Headquartered in Minneapolis, Minn., Endeavor has hub operations in Atlanta, Cincinnati, Detroit, Minneapolis, New York, and Raleigh-Durham, and 11 maintenance bases across our network.</p> <h2>Our Culture</h2> <p>We know that our people are our greatest assets, and we are committed to building a culture where employees love coming to work each day. At Endeavor Air, we foster a diverse, culturally-rich and safe workplace where employees are treated with dignity and respect. With a culture built on safety, excellence, and teamwork, Endeavor offers limitless potential for aviation professionals looking to start or continue their careers.</p> <p>&nbsp;</p> <p>Our team promotes&nbsp;an inclusive environment&nbsp;in all aspects of the airline and our operation. As an EEO employer, we provide opportunities for all qualified candidates without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran, or disabled status.</p> <h2>Overview</h2> <p>The Operational Analytics and Performance (OAP) Intern will integrate knowledge and theory learned in the classroom with practical application and skills development in a professional workplace.&nbsp; The Intern will utilize analytical and critical thinking skills to complete project-based work assignments with an emphasis in Operational Analytics.</p> <p>&nbsp;</p> <p>The Application Process: We encourage applicants to apply as early as possible to receive next steps in the application process. After an application is submitted, the Talent Acquisition team will review your application. Due to the high volume of applications, the reviewing process may take several weeks.&nbsp; </p> <p>&nbsp;</p> <p>After the reviewing process of the applications, all applicants will also be notified to complete a required one-way video interview. Please note, due to high volume of applications, videos will take several weeks to review, and you may not receive an email or hear the status of your application for a while, however you will receive an update from the Talent Acquisition team.</p> <p>&nbsp;</p> <p><strong>The Endeavor Air Summer Internship 2026 program will run from the end of May/early June 2026 - middle of August 2026.&nbsp;</strong> </p> <p>&nbsp;</p> <p></p> <h2>Responsibilities</h2> <ul> <li>Perform data analysis and distribution to provide Company employees with essential performance data. </li> <li>Assist in tracking and reporting of on-time statistics, customer service metrics, and other performance metrics to help the company meet goals and provide a valuable service to its customers. </li> <li>Prepare daily, weekly, monthly, and ad hoc reporting for senior management, Delta Air Lines, and other company departments and employees. </li> <li>Develop data mining queries from system databases and statistical data models for comprehensive analysis. </li> <li>Create automated processes where applicable for data extraction, report processing, and distribution through Tableau, SAS, Excel, or other available programs.</li> <li>Participate in operational meetings when attendance is requested. </li> <li>Provide accurate historical performance trends and forecasts to other operating divisions. </li> </ul> <h2>Other Duties</h2> <ul> <li>Performs other duties as assigned.</li> </ul> <h2>Supervisory Responsibilities</h2> <ul> <li>Not Applicable</li> </ul> <h2>Competencies Required</h2> <ul> <li>Embraces diverse people, thinking and styles. Listens and communicates openly, honestly, and respectfully. Acts in an ethical manner.</li> <li>Concern for Safety - Consistently makes safety and security, of self the priority.</li> <li>A continuous learner who identifies and addresses learning needs to advance own performance.</li> <li>Dedicated to meeting the expectations and requirements of internal and external customers.</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently enrolled full-time in an undergraduate degree such as Data Analytics, Statistics, Data Science or Mathematics with Junior or Senior credit standing at the time of application submission.&nbsp;</li> <li>Above average written and communication skills.</li> <li>Microsoft Office Suite platforms.</li> <li>Effective organizational, time management, &amp; multi-tasking skills</li> <li>Prior analytical experience (data analysis/reporting) or database management experience preferred.</li> <li>Knowledge of SQL, Python, or other programming language preferred but not required.</li> </ul> <h2>Work Environment &amp; Physical Demands</h2> <ul> <li>Ability to work full time (32-40 hours/week) during weekdays, with some schedule flexibility, if needed.</li> <li>Ability to work and be based in Minneapolis, MN; relocation assistance is not available.</li> <li>Ability to work both independently and collaboratively in a business environment.</li> <li>Repetitive motion such as typing.</li> <li>Minimal physical exertion such as: pulling, pushing, reaching, bending, standing, walking, and light lifting of boxes, bags files, and electronic equipment not in excess of 30 lbs. </li> <li>Travel as necessary.</li> <li>Computer work, in a typical office environment sitting for the majority of the day.</li> </ul> <h2>What We Offer</h2> <p>Providing world-class service to our customers starts with providing world-class benefits to our employees. Endeavor Air employees receive a competitive total compensation package which includes a variety of benefits to choose from and some of the best perks around.</p> <ul> <li>Free or reduced-rate travel privileges on Delta Air Lines and 80+ air carriers worldwide for employees and eligible family members </li> <li>Comprehensive Medical, Dental, and Vision Plans</li> <li>401(k) with Company Match starting on Day 1</li> <li>Operational Performance Rewards (OPR) Program</li> <li>Life and AD&amp;D Insurance, Short and Long-term Disability, Flexible Spending Accounts (FSA), and voluntary supplementary benefit options</li> </ul> <h2>FLSA Status</h2>Hourly <h2>Minimum Position Pay Range</h2>USD $16.00/Hr. <h2>Maximum Position Pay Range</h2>USD $16.00/Hr.",
       "job_apply_link": "https://careers-endeavorair.icims.com/jobs/5159/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-17T23:34:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "endeavor-air-operational-analytics-and-performance-intern-operational-analytics-and-performance-minneapolis"
+      "id": "endeavor-air-operational-analytics-and-performance-intern-operational-analytics-and-performance-minneapolis",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T20:16:56.606Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -573,16 +465,18 @@
       "employer_name": "Intercontinental Exchange",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Intercontinental Exchange in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>The C++ Developer Intern will work on Curve Engine projects, designing and developing new features.&nbsp; </p> <p><strong>Responsibilities</strong></p> <ul> <li>Implement option pricing models and mathematical solutions in C++, fix production bugs, and enhance system performance</li> <li>Design and implement automated testing frameworks, including unit and functional tests, to ensure reliability and maintainability of code</li> <li>Partner with stakeholders to troubleshoot production issues and contribute to high-impact projects that drive measurable business value</li> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a Master’s degree program or equivalent in Computer Science/Applied Math or a related technical discipline at an accredited university</li> <li>Previous hands-on experience with C++, preferably in a professional setting beyond academic coursework</li> <li>Aptitude and desire to work closely with business and deliver solutions in C++ on an ongoing basis</li> <li>Experience working with advanced mathematical concepts, such as curve fitting, optimization techniques, and numerical solvers.</li> <li>Strong numerical, analytical and problem-solving abilities with attention to detail</li> <li>Effective written and verbal communication skills</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Atlanta office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-KM</p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
       "job_apply_link": "https://careers-ice.icims.com/jobs/11601/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-10T23:53:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intercontinental-exchange-c-developer-intern-curve-engine-atlanta"
+      "id": "intercontinental-exchange-c-developer-intern-curve-engine-atlanta",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T21:16:20.506Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
@@ -591,16 +485,18 @@
       "employer_name": "Susquehanna International Group (SIG)",
       "job_city": "Ardmore",
       "job_state": "PA",
-      "job_description": "Join Susquehanna International Group (SIG) in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>Susquehanna’s energy and power trading is informed by a strong fundamental understanding of weather prediction as well as supply and demand characteristics. As an Electricity Strategist Intern on Susquehanna's Energy Research team, you will be partnered with our senior strategists and traders to identify information and datasets to improve Susquehanna’s modeling and understanding the United States power grid.</p> <h2>What we’re looking for</h2> <ul> <li>Intention to graduate with a bachelor’s or master’s degree within one year of the internship program in Electrical Engineering or a similar major</li> <li>Creative problem solving and intellectual curiosity about electricity markets and fundamentals</li> <li>Strong attention to detail; ability to complete data entry and mapping</li> <li>Knowledge of technologies related to specific technical domain (including but not limited to: Python, Pandas, MySQL)</li> <li>Must be a self-starter, a quick learner, an effective communicator, and resourceful in solving problems</li> </ul> <p>&nbsp;</p> <p><strong>What's In It For You?</strong></p> <ul> <li>Our non-hierarchical culture allows employees of every level to thrive and make impact. We are not your typical trading firm – the environment is casual, collaborative and we focus on continuous development.</li> <li>Housing provided for duration of internship</li> <li>Relaxed dress code: jeans and sneakers are the norm, shorts all summer long</li> <li>Fully stocked kitchens for breakfast, lunch, snacks, and beverages</li> <li>A forty thousand square-foot state of the art fitness facility with brand-new equipment, multi-purpose courts, group exercise classes, and locker room spaces</li> <li>Discounts for dining, entertainment, shopping, travel, and attractions</li> <li>Social events including a poker tournament, dinners, and sporting events in Philadelphia</li> <li>On-site Wellness Center</li> <li>On-site services such as a mailroom, barber, dry cleaning, and car maintenance</li> <li>Opportunities to give back to the community through Susquehanna sponsored events and donation drives</li> </ul> <p>&nbsp;</p> <p><strong>About Susquehanna</strong></p> <p>Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>If you're a recruiting agency and want to partner with us, please reach out to recruiting@sig.com. Any resume or referral submitted in the absence of a signed agreement will not be eligible for an agency fee.</p> <p>&nbsp;</p> <p>#LI-Onsite </p>",
       "job_apply_link": "https://careers-sig.icims.com/jobs/9348/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-22T21:31:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "susquehanna-international-group-sig-electricity-natural-gas-analyst-internship-summer-2026-ardmore"
+      "id": "susquehanna-international-group-sig-electricity-natural-gas-analyst-internship-summer-2026-ardmore",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T21:47:58.995Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T20:30:58.975Z",
     "postedAt": null
   },
   {
