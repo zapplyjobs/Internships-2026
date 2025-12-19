@@ -1,0 +1,17 @@
+{
+  "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Meta was built to help people connect and share, and over the last decade our tools have played a critical part in changing how people around the world communicate with one another. With over a billion people using the service and more than fifty offices around the globe, a career at Meta offers countless ways to make an impact in a fast growing organization. Meta is seeking LLM Evaluation Scientists to join our Meta Superintelligence Lab, focusing on the evaluation and benchmarking of large language models (LLMs) across language and multimodal domains. We are committed to advancing the field of artificial intelligence by developing rigorous methodologies and tools to assess and improve the capabilities, safety, and reliability of cutting-edge AI systems. We are looking for individuals passionate about LLM evaluation, benchmarking, prompt engineering, data analysis, and the development of robust evaluation frameworks. As an LLM Evaluation Scientist, you will have the opportunity to shape the future of AI by ensuring our models meet the highest standards of performance and safety at scale. Our internships are twelve (12) to sixteen (16), or twenty-four (24) weeks long and we have various start dates throughout the year.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://www.metacareers.com/profile/job_details/4203446973242742",
+      "fetchedAt": "2025-12-19T23:17:52.829Z"
+    }
+  },
+  "cachedAt": 1766186272830
+}
