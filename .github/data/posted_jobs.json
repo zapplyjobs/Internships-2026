@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:08:18.316Z",
+  "lastUpdated": "2025-12-19T19:17:32.883Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9450,14 +9450,69 @@
       "sourceUrl": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb",
       "discordThreadId": "1451652367953952964",
       "instanceNumber": 1
+    },
+    {
+      "id": "bill-software-engineer-intern-draper-2025-12-19-1",
+      "jobId": "bill-software-engineer-intern-draper",
+      "company": "BILL",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:17:24.348Z",
+      "sourceDate": "2025-07-16T21:41:02.000Z",
+      "sourceUrl": "https://www.bill.com/job?gh_jid=5588094004",
+      "discordThreadId": "1451654658664693790",
+      "instanceNumber": 1
+    },
+    {
+      "id": "honeywell-co-op-bachelors-software-eng-fall-2025-mason-2025-12-19-1",
+      "jobId": "honeywell-co-op-bachelors-software-eng-fall-2025-mason",
+      "company": "Honeywell",
+      "title": "Co-Op - Bachelors Software Eng (Fall 2025)",
+      "postedToDiscord": "2025-12-19T19:17:29.422Z",
+      "sourceDate": "2025-07-15T23:07:52.000Z",
+      "sourceUrl": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
+      "discordThreadId": "1451654672837509242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "akuna-capital-software-engineer-intern-c-chicago-2025-12-19-1",
+      "jobId": "akuna-capital-software-engineer-intern-c-chicago",
+      "company": "Akuna Capital",
+      "title": "Software Engineer Intern - C++",
+      "postedToDiscord": "2025-12-19T19:17:32.866Z",
+      "sourceDate": "2025-07-14T18:40:07.000Z",
+      "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=6996427",
+      "discordThreadId": "1451654694236852436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "akuna-capital-software-engineer-intern-full-stack-web-chicago-2025-12-19-1",
+      "jobId": "akuna-capital-software-engineer-intern-full-stack-web-chicago",
+      "company": "Akuna Capital",
+      "title": "Software Engineer Intern - Full Stack Web",
+      "postedToDiscord": "2025-12-19T19:17:32.875Z",
+      "sourceDate": "2025-07-14T18:40:01.000Z",
+      "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=7060087",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "akuna-capital-software-engineer-intern-c-net-desktop-chicago-2025-12-19-1",
+      "jobId": "akuna-capital-software-engineer-intern-c-net-desktop-chicago",
+      "company": "Akuna Capital",
+      "title": "Software Engineer Intern - C# .NET Desktop",
+      "postedToDiscord": "2025-12-19T19:17:32.883Z",
+      "sourceDate": "2025-07-14T18:40:00.000Z",
+      "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=7060377",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 859,
+    "totalJobs": 864,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:08:18.316Z",
+      "date": "2025-12-19T19:17:32.883Z",
       "archived": 0
     }
   }

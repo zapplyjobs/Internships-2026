@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Job Seeker Support What is Jobvite? Jobvite is a Talent Acquisition software suite and Applicant Tracking System (ATS) – online software that businesses use to organize their hiring process, curate employer branding, perform recruitment marketing, manage applications, and host their career pages. Jobvite is not a job board, and, unfortunately, cannot help you get a job. If you’ve arrived to this page from a company’s open jobs career page seeking employment, please navigate back to the website where you originally tried to apply for a job and try again. If you end up back here, please reach out to the organization you’re interested in working for directly. Most of our customers broadcast open roles on all major job boards like Indeed, LinkedIn, ZipRecruiter, Glassdoor, and use employer-branded career pages, “Powered by Jobvite”. Please do not fill out Jobvite demo or contact forms to submit employment inquiry, and instead visit those sites directly to search or ask about open roles. We wish you luck during your search! If you are interested in a career with Jobvite (an Employ, Inc. company), please take a look at our open positions.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
+      "fetchedAt": "2025-12-19T19:16:55.597Z"
+    }
+  },
+  "cachedAt": 1766171815597
+}
