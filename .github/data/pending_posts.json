@@ -101,46 +101,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Co-op",
-      "employer_name": "Globus Medical",
-      "job_city": "Audubon",
-      "job_state": "PA",
-      "job_description": "Join Globus Medical in this exciting opportunity.",
-      "job_apply_link": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Audubon-PA/Software-Engineer-Co-op_JR103892",
-      "job_posted_at_datetime_utc": "2025-07-30T14:50:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "globus-medical-software-engineer-co-op-audubon",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:55:56.412Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Firmware Engineer Intern",
-      "employer_name": "Neuralink",
-      "job_city": "Fremont",
-      "job_state": "CA",
-      "job_description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: At Neuralink, we're engineering the future of automated surgeries, focusing on the safe and effective implantation of our groundbreaking Neuralink implant. Our team — a cross-functional mix of roboticists, engineers from various disciplines, and medical professionals — collaborates on developing a surgical flow from first principles. In this critical role, you'll straddle the cutting-edge worlds of robotics, software, and neuroscience. Job Description and Responsibilities: This is a new role for our team that will allow you to create new embedded systems from scratch while challenging and refining the old. As a Firmware Engineer Intern, your responsibilities will encompass: Developing and optimizing embedded software for robotic surgery applications Streamlining our codebase by refining and, when necessary, retiring legacy embedded software Rigorous testing and validation of software systems to meet the highest safety and reliability standards Participating in peer code reviews Writing drivers and applications to extend the functionality of our robotics Specifying hardware and software choices as we develop future hardware platforms Sharing your findings and progress with the team in a collaborative environment Required Qualifications: Demonstrated track record of success in a science or engineering field, evidenced by outstanding projects, innovations, or advanced problem-solving Proven experience in software development, preferably with exposure to embedded systems Preferred Qualifications: Embedded Software Development: 2+ years of experience with embedded systems Proficient with common communication protocols (SPI, UART, I2C, etc.) Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3 Proficient in at least one embedded language such as C, C++, or Rust Proficient with embedded toolchains and workflow Experience building and bringing-up MCUs or FPGAs Experience with embedded stacks for ARM cores Experience developing on embedded Linux platforms Experience with embedded Linux kernel configuration and device tree setup Experience with kernel driver development Experience with ARM bootloaders Experience coding drivers for actuators and sensors Experience with high-speed data acquisition and processing Electrical Engineering: Foundational understanding of MCU architectures and peripheral integration Solid knowledge in electrical engineering and DSP Ability to interpret electrical schematics and datasheets, along with proficiency in using lab equipment Expected Compensation: The anticipated hourly rate for this position is listed below. California Hourly Flat Rate:$35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
-      "job_apply_link": "https://job-boards.greenhouse.io/neuralink/jobs/6648992003",
-      "job_posted_at_datetime_utc": "2025-07-30T14:41:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "neuralink-firmware-engineer-intern-fremont",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T22:55:56.412Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "LLM Algorithmic Optimization Engineer – Intern",
       "employer_name": "Nio",
       "job_city": "San Jose",
@@ -154,10 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -174,10 +134,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -194,10 +154,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -214,10 +174,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -234,10 +194,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -254,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -274,10 +234,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -294,10 +254,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:00:07.322Z"
   },
   {
     "job": {
@@ -465,16 +425,18 @@
       "employer_name": "BILL",
       "job_city": "Draper",
       "job_state": "UT",
-      "job_description": "Join BILL in this exciting opportunity.",
+      "job_description": "BILL's mission is to make it simple to connect and do business. We're always looking for talented people to join our growing team. Find jobs at BILL.",
       "job_apply_link": "https://www.bill.com/job?gh_jid=5588094004",
       "job_posted_at_datetime_utc": "2025-07-16T21:41:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bill-software-engineer-intern-draper"
+      "id": "bill-software-engineer-intern-draper",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T18:59:25.380Z",
     "postedAt": null
   },
   {
@@ -483,16 +445,18 @@
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
       "job_state": "NY",
-      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_description": "Job Description SummaryAs a GE Vernova accelerator, GE Vernova Advanced Research is driving strategy and leading research & development efforts to execute on the business’s mission to help power the energy transition. We forge the collaborations and help invent the technologies required to electrify and decarbonize for a zero-carbon future.Representing virtually every major scientific and engineering discipline, our researchers are collaborating with GE Vernova’s businesses, the U.S. government, and more than 420 entities at the forefront of technology to execute on 150+ energy focused projects. Collectively, these research programs and initiatives aim to solve near term technical challenges, deliver next generation product advances, and drive long term breakthrough innovation to enable more affordable, reliable, sustainable, and secure energy.Explore the possibilities of a research career in a Spring or Summer 2026 internship at GE Vernova Advanced Research. Edison Research Interns are the pipeline for the GE Vernova Advanced Research Edison Program. The Edison Program is an intensive development role for those with a passion for research, a drive for technical excellence, and a shared appreciation for our GE Vernova Way to drive innovation, serve our customers, embrace LEAN, win as one team, and be accountable to deliver.Job DescriptionJob Summary:An Internship with us will provide valuable hands-on experience to help you launch your career in industrial research.  Our team brings together world-class experts in the following disciplines: Mechanical Systems & DesignAI, Software & RoboticsControls & OptimizationEmbedded & OT SecurityAero & ThermosciencesMaterial Chemistry & PhysicsElectronics & Electrical SystemsMaterials, Coatings & ModelingChemistryAs an Edison Research Intern, you will:Apply your academic knowledge and experience to real-life technical problems.Develop your research skills in a collaborative workplace.Participate in professional development & networking opportunities that enhance your functional and communication skills. Qualifications/Requirements:Current or upcoming enrollment in a full-time Masters Degree program in Mechanical Engineering, Materials Science/Engineering, Electrical Engineering, Chemical Engineering, Computer Science, Chemistry or related STEM discipline.A passion for research and development, critical thinking, scientific reasoning, data analytics and interpretation and teamwork.Applicants must be currently authorized to work in the United States without the need for employer sponsorship. This role is not eligible for employer immigration sponsorship, now or in the future.Must be willing to work out of an office located in Niskayuna, NY.Desired Characteristics:Exceptional academic performance with demonstrated research experience.Prior internship or co-op experience in an industrial research environmentHumble:  respectful, inclusive, curious/inquisitiveTransparent:  clear communicator, collaborator, creative problem solverFocused:  sets strategic priorities, uses scientific reasoning,  data analytics to make decisions, critical thinkerDemonstrated initiative and commitment to community/university involvementThe pay range for this position is $1,000-$2,000 USD weekly. The specific pay offered may be influenced by a variety of factors, including the candidate’s experience, education, and skill set. This position will be posted until at least 7/22/2025.General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Additional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No",
       "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
       "job_posted_at_datetime_utc": "2025-07-15T23:51:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ge-vernova-edison-research-intern-multiple-teams-schenectady"
+      "id": "ge-vernova-edison-research-intern-multiple-teams-schenectady",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T18:59:25.380Z",
     "postedAt": null
   },
   {
@@ -12588,6 +12552,528 @@
     },
     "status": "pending",
     "addedAt": "2025-12-18T19:43:41.680Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineer Intern - Ads Data - 2026 Summer",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7584219416980818229",
+      "job_posted_at_datetime_utc": "2025-12-19T07:32:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tiktok-data-engineer-intern-ads-data-2026-summer-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Intern",
+      "employer_name": "Intrinsic",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Join Intrinsic in this exciting opportunity.",
+      "job_apply_link": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5740702004",
+      "job_posted_at_datetime_utc": "2025-12-19T07:28:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "intrinsic-research-intern-mountain-view"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Robotic Process Automation Developer Intern - RPA",
+      "employer_name": "Zoetis",
+      "job_city": "Parsippany-Troy Hills",
+      "job_state": "NJ",
+      "job_description": "Join Zoetis in this exciting opportunity.",
+      "job_apply_link": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Robotic-Process-Automation--RPA--Developer-Intern_JR00019798-2",
+      "job_posted_at_datetime_utc": "2025-12-19T07:15:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "zoetis-robotic-process-automation-developer-intern-rpa-parsippany-troy-hills"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern – And Controls Intern - AI - Navigation",
+      "employer_name": "Collaborative Robotics",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join Collaborative Robotics in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/cobot/ea1b59f7-0852-4ab8-944c-e302e63541bc/application",
+      "job_posted_at_datetime_utc": "2025-12-19T07:14:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "collaborative-robotics-software-engineer-intern-and-controls-intern-ai-navigation-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Research Engineer",
+      "employer_name": "Collaborative Robotics",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Collaborative Robotics in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/cobot/f0df62d2-d37d-45f8-9c8b-3c786f96757f/application",
+      "job_posted_at_datetime_utc": "2025-12-19T07:14:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "collaborative-robotics-ai-research-engineer-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Graduate Intern Geospatial Data Science Modeling and Analysis",
+      "employer_name": "National Renewable Energy Laboratory",
+      "job_city": "Golden",
+      "job_state": "CO",
+      "job_description": "Join National Renewable Energy Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14104",
+      "job_posted_at_datetime_utc": "2025-12-19T02:40:36.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "national-renewable-energy-laboratory-graduate-intern-geospatial-data-science-modeling-and-analysis-golden"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "KMBC Studio Productions Intern",
+      "employer_name": "Hearst",
+      "job_city": "Kansas City",
+      "job_state": "MO",
+      "job_description": "Join Hearst in this exciting opportunity.",
+      "job_apply_link": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025662",
+      "job_posted_at_datetime_utc": "2025-12-19T02:13:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "hearst-kmbc-studio-productions-intern-kansas-city"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Forecasting Intern",
+      "employer_name": "AccuWeather",
+      "job_city": "Wichita",
+      "job_state": "KS",
+      "job_description": "Join AccuWeather in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/accuweather/jobs/7485143",
+      "job_posted_at_datetime_utc": "2025-12-19T00:15:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "accuweather-forecasting-intern-wichita"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Right of Way GIS - La Crosse - WI",
+      "employer_name": "Dairyland Power Cooperative",
+      "job_city": "Winona",
+      "job_state": "MN",
+      "job_description": "Join Dairyland Power Cooperative in this exciting opportunity.",
+      "job_apply_link": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Right-of-Way-GIS--La-Crosse--WI-_JR100852",
+      "job_posted_at_datetime_utc": "2025-12-18T23:35:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dairyland-power-cooperative-intern-right-of-way-gis-la-crosse-wi-winona"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Psychometric and Research Intern",
+      "employer_name": "Curriculum Associates",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Curriculum Associates in this exciting opportunity.",
+      "job_apply_link": "https://curriculumassociates.wd5.myworkdayjobs.com/External/job/US-Remote/Psychometric-and-Research-Intern_JR04709",
+      "job_posted_at_datetime_utc": "2025-12-18T23:34:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "curriculum-associates-psychometric-and-research-intern-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Marketing Data Intern",
+      "employer_name": "Learfield Amplify",
+      "job_city": "Irvine",
+      "job_state": "CA",
+      "job_description": "Join Learfield Amplify in this exciting opportunity.",
+      "job_apply_link": "https://learfield.wd5.myworkdayjobs.com/en-US/Learfield/job/Irvine-CA/Marketing-Data-Intern_R100917-1",
+      "job_posted_at_datetime_utc": "2025-12-18T23:33:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "learfield-amplify-marketing-data-intern-irvine"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Engineer: Intern Opportunities for University Students - Redmond",
+      "employer_name": "Microsoft",
+      "job_city": "Redmond",
+      "job_state": "WA",
+      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
+      "job_posted_at_datetime_utc": "2025-12-18T23:32:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "microsoft-machine-learning-engineer-intern-opportunities-for-university-students-redmond-redmond"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Video Recommendation - 2026 Summer",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7585114089765947701",
+      "job_posted_at_datetime_utc": "2025-12-18T23:23:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-video-recommendation-2026-summer-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "MLE Intern - ML Runtime & Optimization - Spring 2026",
+      "employer_name": "pony.ai",
+      "job_city": "Fremont",
+      "job_state": "CA",
+      "job_description": "Join pony.ai in this exciting opportunity.",
+      "job_apply_link": "https://apply.workable.com/pony-dot-ai/j/A8F27ED11C/apply",
+      "job_posted_at_datetime_utc": "2025-12-18T23:23:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "pony-ai-mle-intern-ml-runtime-optimization-spring-2026-fremont"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Xometry",
+      "job_city": "North Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Xometry in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5007962007",
+      "job_posted_at_datetime_utc": "2025-12-18T23:22:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "xometry-data-science-intern-north-bethesda"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Xometry",
+      "job_city": "North Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Xometry in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5007635007",
+      "job_posted_at_datetime_utc": "2025-12-18T23:22:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "xometry-software-engineer-intern-north-bethesda"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product Analytics Intern",
+      "employer_name": "Xometry",
+      "job_city": "North Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Xometry in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5007793007",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:59.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "xometry-product-analytics-intern-north-bethesda"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Intern",
+      "employer_name": "Xometry",
+      "job_city": "North Bethesda",
+      "job_state": "MD",
+      "job_description": "Join Xometry in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5007983007",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "xometry-machine-learning-intern-north-bethesda"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI/ML Partner Intern",
+      "employer_name": "Experian",
+      "job_city": "Newport Beach",
+      "job_state": "CA",
+      "job_description": "Join Experian in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Experian/744000099626315",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "experian-ai-ml-partner-intern-newport-beach"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Product Validation Intern - Multiple Teams",
+      "employer_name": "Daimler Truck",
+      "job_city": "Portland",
+      "job_state": "OR",
+      "job_description": "Join Daimler Truck in this exciting opportunity.",
+      "job_apply_link": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Product-Validation---Data--Acquisition--Analytics--Science--Intern_DT-16335",
+      "job_posted_at_datetime_utc": "2025-12-18T23:21:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "daimler-truck-product-validation-intern-multiple-teams-portland"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer 2026 – Technical Intern - Transmission Asset Strategy",
+      "employer_name": "Public Service Enterprise Group",
+      "job_city": "South Plainfield",
+      "job_state": "NJ",
+      "job_description": "Join Public Service Enterprise Group in this exciting opportunity.",
+      "job_apply_link": "https://jobs.pseg.com/job/South-Plainfield-Summer-2026-Technical-Intern-Transmission-Asset-Strategy-NJ-07080/1350823500/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-12-18T23:16:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "public-service-enterprise-summer-2026-technical-intern-transmission-asset-strategy-south-plainfield"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Capitol Project's Intern",
+      "employer_name": "Veolia",
+      "job_city": "Milwaukee",
+      "job_state": "WI",
+      "job_description": "Join Veolia in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238341",
+      "job_posted_at_datetime_utc": "2025-12-16T23:19:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "veolia-capitol-project-s-intern-milwaukee"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Management Intern",
+      "employer_name": "Integration Innovation (i3)",
+      "job_city": "Huntsville",
+      "job_state": "AL",
+      "job_description": "Join Integration Innovation (i3) in this exciting opportunity.",
+      "job_apply_link": "https://careers-i3-corps.icims.com/jobs/4993/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-13T00:08:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "integration-innovation-i3-data-management-intern-huntsville"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "Electronic Arts",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Electronic Arts in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211041",
+      "job_posted_at_datetime_utc": "2025-11-05T23:55:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "electronic-arts-software-engineer-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Environmental Intern",
+      "employer_name": "Geosyntec Consultants",
+      "job_city": "Lawrence Township",
+      "job_state": "NJ",
+      "job_description": "Join Geosyntec Consultants in this exciting opportunity.",
+      "job_apply_link": "https://careers-geosyntec.icims.com/jobs/3889/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-31T07:49:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "geosyntec-consultants-environmental-intern-lawrence-township"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Summer Internships",
+      "employer_name": "International Mission Board",
+      "job_city": "Richmond",
+      "job_state": "VA",
+      "job_description": "Join International Mission Board in this exciting opportunity.",
+      "job_apply_link": "https://golimitless.wd1.myworkdayjobs.com/Staff_External_career_site/job/Richmond-Virginia/XMLNAME-2026-Summer-Internships_R0013756",
+      "job_posted_at_datetime_utc": "2025-10-28T16:12:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "international-mission-board-2026-summer-internships-richmond"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Cloud Secure Intern - Data Ingestion - Analytics & Security",
+      "employer_name": "Illumio",
+      "job_city": "Sunnyvale",
+      "job_state": "CA",
+      "job_description": "Join Illumio in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/illumio/438be07e-61e0-4e09-82a8-909004e0ef03/application",
+      "job_posted_at_datetime_utc": "2025-10-17T03:14:28.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Sales Analytics Intern",
+      "employer_name": "Mercury Insurance",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Mercury Insurance in this exciting opportunity.",
+      "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5924/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-04T20:01:11.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "mercury-insurance-sales-analytics-intern-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern - Multiple Teams",
+      "employer_name": "Iridium Communications",
+      "job_city": "McLean",
+      "job_state": "VA",
+      "job_description": "Join Iridium Communications in this exciting opportunity.",
+      "job_apply_link": "https://careers-iridium.icims.com/jobs/4753/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-25T08:25:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "iridium-communications-software-engineering-intern-multiple-teams-mclean"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": null,
     "postedAt": null
   }
