@@ -141,46 +141,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Employee Navigator",
-      "job_city": "Bethesda",
-      "job_state": "MD",
-      "job_description": "Join Employee Navigator in this exciting opportunity.",
-      "job_apply_link": "https://www.employeenavigator.com/careers/7443357?gh_jid=7443357",
-      "job_posted_at_datetime_utc": "2025-12-05T08:09:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "employee-navigator-software-engineer-intern-bethesda",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T20:50:01.966Z",
-    "postedAt": "2025-12-19T21:05:20.295Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer",
-      "employer_name": "GoDaddy",
-      "job_city": "Tempe",
-      "job_state": "AZ",
-      "job_description": "Intern - Software Development EngineerLocation Details: Tempe, AZ or Remote USA At GoDaddy the future of work looks different for each team. Some teams work in the office full-time, others have a hybrid arrangement (they work remotely some days and in the office some days) and some work entirely remotely. Hybrid-or-Remote: This position may be a hybrid or fully remote position, as decided by your manager. If designated as hybrid, you’ll divide your time between working remotely from your home and an office location, so you should live within commuting distance. If designated as remote, you’ll be working remotely from your home and may occasionally visit a GoDaddy office to meet with your team for events or offsites. Your hiring manager can share more about this role’s hybrid or remote designation. This position is not eligible to be performed in Alaska, California, Colorado, Louisiana, Massachusetts, Mississippi, New Jersey, New York, North Dakota, Oregon, Seattle, WA, or the Virgin Islands. SponsorshipGoDaddy will not sponsor employment-based visas (e.g., candidates who now or in the future will require H-1B sponsorship) for this position at this level.About the Role GoDaddy is looking for Summer 2026 Software Development Engineers Interns, data scientists and UX to join us in building and improving GoDaddy products. As an intern with our team you will make meaningful contributions to the company’s revenue, customer growth and innovation. If you want to make a difference, and help our customers make their dreams a reality, GoDaddy is for you! This is a temporary 12 week internship assignment. What you'll get to do... Build outstanding services that help our internal and external customers succeed Write highly-scalable, highly-available, cloud-ready applications Solve end-to-end problems Test code (e.g. writing functional and unit tests) Adopt Agile methodologies to continuously release and deploy iterations of our services Embrace DevOps methodologies for enabling and supporting always-on services Collaborate with multiple teams to understand the needs of our customers. Develop a strong understanding how you can assist our customers in accomplishing their goals every day. Establish critical metrics to monitor for product and customer success Demonstrate a positive demeanor and flexibility to work in a dynamic environment with changing needs Your experience should include... Completing a BS/MS in a computer science, information system, UX or related field. Experience in one programming language such as Java, Python, HTML, Javascript, C#, Go Lang etc. Strong foundation in data structures, algorithms, software designs, micro services, and cloud computing. Prior work experience with AWS is a plus. Demonstrates a passionate to develop sophisticated and groundbreaking solutions for real-world business problems Experience in an Agile development environment is plus Exhibit effortless analytical and research skills Excellent social, written and verbal interpersonal skills. Strong writing skills with the ability to write clearly and quickly, to explain technical concepts to a non-technical audience. You have completed multiple academia projects that demonstrate a deep understanding of different technologies and tools. Strong sense of curiosity and are always striving to improve your knowledge base. About us... GoDaddy is empowering everyday entrepreneurs around the world by providing the help and tools to succeed online, making opportunity more inclusive for all. GoDaddy is the place people come to name their idea, build a professional website, attract customers, sell their products and services, and manage their work. Our mission is to give our customers the tools, insights, and people to transform their ideas and personal initiative into success. To learn more about the company, visit About Us. At GoDaddy, we know diverse teams build better products—period. Our people and culture reflect and celebrate that sense of diversity and inclusion in ideas, experiences and perspectives. But we also know that’s not enough to build true equity and belonging in our communities. That’s why we prioritize integrating diversity, equity, inclusion and belonging principles into the core of how we work every day—focusing not only on our employee experience, but also our customer experience and operations. It’s the best way to serve our mission of empowering entrepreneurs everywhere, and making opportunity more inclusive for all. To read more about these commitments, as well as our representation and pay equity data, check out our Diversity and Pay Parity annual report which can be found on our Diversity Careers page. GoDaddy is proud to be an equal opportunity employer. GoDaddy will consider for employment qualified applicants with criminal histories in a manner consistent with local and federal requirements. Refer to our full EEO policy. If you need help completing an application for a position with GoDaddy, please reach out to our Recruiting Team at myrecruiter@godaddy.com. GoDaddy doesn’t accept unsolicited resumes from recruiters or employment agencies.",
-      "job_apply_link": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7479549003",
-      "job_posted_at_datetime_utc": "2025-12-05T07:47:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "godaddy-software-development-engineer-tempe",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T20:50:01.966Z",
-    "postedAt": "2025-12-19T21:05:20.295Z"
-  },
-  {
-    "job": {
       "job_title": "Data Analyst Intern",
       "employer_name": "Camping World",
       "job_city": "Chicago",
@@ -194,10 +154,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:17:42.316Z"
   },
   {
     "job": {
@@ -214,30 +174,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "AT&T Labs Intern - Advanced Degrees",
-      "employer_name": "AT&T",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join AT&T in this exciting opportunity.",
-      "job_apply_link": "https://att.wd1.myworkdayjobs.com/ATTSpecialInvite/job/Middletown-New-Jersey/AT-T-Labs-Internship---Advanced-Degrees_R-89564",
-      "job_posted_at_datetime_utc": "2025-12-05T07:37:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "at-t-at-t-labs-intern-advanced-degrees-austin",
-      "description_platform": "workday",
-      "description_success": false
-    },
     "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": "2025-12-19T21:05:20.295Z"
+    "postedAt": "2025-12-19T21:17:42.316Z"
   },
   {
     "job": {
@@ -314,10 +254,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:17:42.316Z"
   },
   {
     "job": {
@@ -334,10 +274,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:17:42.316Z"
   },
   {
     "job": {
@@ -354,10 +294,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:17:42.316Z"
   },
   {
     "job": {
@@ -505,16 +445,18 @@
       "employer_name": "Tenstorrent",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Tenstorrent in this exciting opportunity.",
+      "job_description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.Tenstorrent is seeking a highly motivated MS/PhD candidate with a strong background in computer architecture and experience in CPU design to join our AI Architecture team as an Intern. The successful candidate will have the opportunity to work on cutting-edge AI architecture research and contribute to the development of next-generation AI accelerator designs. This role is on-site based in Boston, MA or Toronto, ON. Tenstorrent will support the acquisition of a J1 Visa to enable your PEY in the USA. Responsibilities: Participate in the research and design of AI accelerator architectures. Collaborate with a team of architects and engineers to define and develop new AI features. Analyze the performance of AI designs and provide recommendations for improvement. Contribute to the development of simulation models to evaluate new architecture ideas. Present results and findings to the team and management. Experience & Qualifications: Currently pursuing an AI/ML focused Master's or PhD degree in Electrical Engineering or Computer Science. Strong understanding of computer architecture, digital logic design, and semiconductor device physics. Familiarity with hardware description languages such as Verilog or VHDL. Exposure to industry-standard EDA tools such as Synopsys or Cadence. Some experience with scripting languages such as Perl or Python. Good analytical and problem-solving skills. Excellent written and verbal communication skills. Ability to work effectively in a team environment. Compensation for all engineers at Tenstorrent ranges from $100k - $500k including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made. Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer.This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
       "job_apply_link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4119295007",
       "job_posted_at_datetime_utc": "2025-12-05T03:12:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tenstorrent-ai-architecture-intern-boston"
+      "id": "tenstorrent-ai-architecture-intern-boston",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:17:00.106Z",
     "postedAt": null
   },
   {
@@ -523,16 +465,18 @@
       "employer_name": "Amazon",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Amazon in this exciting opportunity.",
+      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
       "job_apply_link": "https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions",
       "job_posted_at_datetime_utc": "2025-12-05T02:12:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "amazon-amazon-economics-apprenticeship-program-2-year-research-positions-seattle"
+      "id": "amazon-amazon-economics-apprenticeship-program-2-year-research-positions-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:17:00.106Z",
     "postedAt": null
   },
   {
@@ -541,16 +485,18 @@
       "employer_name": "Massachusetts School Building Authority",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Massachusetts School Building Authority in this exciting opportunity.",
+      "job_description": "Capital Planning Data Assistant (Co-op)Boston, MassachusettsCapital Planning – Data /Full-Time Co-Op /HybridApply for this jobThe Massachusetts School Building Authority (MSBA) is a quasi-independent government authority created to reform the process of funding capital improvement projects in the Commonwealth’s public schools. The MSBA strives to work with local communities to create affordable, sustainable, and energy efficient schools across Massachusetts.The Data Team works across the agency and within the Capital Planning department to improve accessibility to data, collect data, and provide sound analysis for use by MSBA staff and leadership in decision making, policy development, stakeholder engagement, operations, and long-term capital planning.We are pleased to offer a Capital Planning Data Assistant (Co-op) position for the Spring Semester. This role provides students with the opportunity to apply classroom learning to real-world challenges in public administration, construction, and capital planning for educational facilities.As the Data Team Co-op, you can expect to experience:Real-world impact: You will contribute to projects that shape the future of public school facilities in Massachusetts.Skill Building: You will work with a qualified team to develop your expertise in data analysis, visualization, and applied research in policy administration, public funding, and construction.Cross-disciplinary exposure: You will collaborate with MSBA staff, and external partners, working with architects, construction project managers, UX designers, IT professionals, education professionals, and more.Public policy development: Through work on your projects and interaction with MSBA leadership, you will gain insight into how decisions are made at the intersection of data, design, and policy.Compensation: The position is a paid, full-time opportunity for up to 6 months.Responsibilities include:Supporting MSBA project managers and architects with data-driven analysis and reporting.Assisting in the development of tools and databases that track project costs, timelines, and capital planning initiatives.Preparing reports, dashboards, and presentations to inform leadership and stakeholders.Assisting with information gathering to support ongoing projects and policy initiatives.Supporting consultants in the development of the MSBA Data Master Plan by gathering and organizing information from MSBA staff and to inform the consultant team’s work.Who should apply:Students currently enrolled in a Bachelor’s or Master’s degree program in data, analytics, public policy analysis, urban and regional planning, or a related field.Strong analytical and communication skills with a high level of attention to detail.Familiarity with Tableau, Excel, PowerBI, Word, and PowerPoint (or willingness to learn).Highly motivated, organized, and able to manage multiple priorities.GPA of 3.2 or higher preferred.Details:Ability to work hybrid work schedule - minimum of two (2) in-office days per week$18 - $19 an hourQualified and interested? Apply now!For more information and to learn more of what we do, please visit the www.massschoolbuildings.org.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/massschoolbuildings/fa4bf5f0-2914-4a16-9fe9-89a0958e5fc2/apply",
       "job_posted_at_datetime_utc": "2025-12-04T23:57:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "massachusetts-school-building-authority-capital-planning-data-assistant-co-op-boston"
+      "id": "massachusetts-school-building-authority-capital-planning-data-assistant-co-op-boston",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:17:00.106Z",
     "postedAt": null
   },
   {
@@ -11440,6 +11386,24 @@
     },
     "status": "pending",
     "addedAt": "2025-12-19T20:17:14.574Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - Data Insights Unit",
+      "employer_name": "Roche",
+      "job_city": "Somerset County",
+      "job_state": "NJ",
+      "job_description": "Join Roche in this exciting opportunity.",
+      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Branchburg/XMLNAME-2026-Summer-Intern---Data-Insights-Unit_202512-132013",
+      "job_posted_at_datetime_utc": "2025-12-19T20:10:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "roche-intern-data-insights-unit-somerset-county"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-19T21:16:53.776Z",
     "enrichedAt": null,
     "postedAt": null
   }
