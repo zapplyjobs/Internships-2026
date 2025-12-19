@@ -1,0 +1,17 @@
+{
+  "url": "https://internships-aei.icims.com/jobs/2517/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p>The education policy team’s data intern will support the team’s cutting-edge research at the intersection of data, education policy, and technology. The data intern will research a variety of topics, including by:• analyzing and drawing meaningful interpretations from state and national education data sets;• using statistical modeling to estimate causal effects;• using web scraping to construct novel education data sets;• applying text analysis, machine learning, and other techniques to analyze unstructured data; and• creating visualizations and written reports to communicate results.</p> <p>Candidates are expected to:• be highly interested in learning more about education policy;• have keen attention to detail and be highly effective at communication;• be highly proficient in Python and/or R.• have a strong understanding of statistics;• have a foundational understanding of machine learning;• be comfortable working independently when given a project; and• be able and eager to learn new skills on the job.</p> <p>&nbsp;</p> <p>Applicants who go above and beyond will:• have taken coursework to understand, or have work experience in, education policy; and• demonstrate fluency in both Python and R, and potentially other programming languages;• have a strong understanding of regression and causal analysis; and• have experience applying machine learning and/or natural language processing to unstructured, messy data sets.</p> <p>&nbsp;</p> <p>The ideal candidate for this position will have a passion for understanding K–12 American education through multiple types of data, have a general STEM background with a foundational understanding of data science, and be driven by open-minded, intellectual curiosity. Candidates who are able to participate in the program on an in-person basis for 30-40 hours a week are encouraged to apply.</p> <p>&nbsp;</p> <p><em>About AEI Internships</em></p> <p>&nbsp;</p> <p>AEI internships offer a unique opportunity for undergraduates, graduate students, and recent graduates to gain experience in research, writing, business, and communications at one of the nation’s leading think tanks. Competitive candidates will generally have a GPA of 3.5 or higher from a top-ranking college or university. AEI’s internship program runs for 12 weeks and all related programming will take place in Washington, DC. Please see the internship program home page for additional information about the program.</p> <p>&nbsp;</p> <p>The start dates for the spring program are:<strong> January 13th and January 20th</strong>.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://internships-aei.icims.com/jobs/2517/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-19T21:44:49.607Z"
+    }
+  },
+  "cachedAt": 1766180689607
+}

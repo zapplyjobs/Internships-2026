@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-ice.icims.com/jobs/11612/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p><strong>Job Purpose</strong></p> <p>The ICE Internship Program offers a dynamic opportunity to combine hands-on, impactful work on projects that shape our business, alongside practical career and professional development. You'll build meaningful connections, strengthen your interpersonal skills, and contribute in ways that truly make a difference.</p> <p>&nbsp;</p> <p>Beyond your day-to-day responsibilities, you’ll participate in weekly sessions led by industry leaders, connect with fellow interns, and deepen your understanding of the financial services, technology, and mortgage industries.</p> <p>&nbsp;</p> <p>The Data Science Intern will contribute to the development of generative and agentic AI solutions by supporting model experimentation, integration, and research across real-world business use cases.</p> <p>&nbsp;</p> <p><strong>&nbsp;Responsibilities</strong></p> <ul> <li>Assist in advancing GenAI and agentic AI use cases through rapid prototyping, model fine-tuning, and integration with enterprise systems</li> <li>Support the development of applications using LLMs, embeddings, and prompt engineering</li> <li>Collaborate on research and experimentation in areas such as NLP, RAG, and autonomous agents, while documenting findings and participating in agile workflows</li> </ul> <ul> <li>Perform additional duties and contribute to projects as assigned</li> </ul> <p><strong>Knowledge and Experience</strong></p> <ul> <li>Must be currently enrolled in a degree program at an accredited university, be at least advancing to their junior year of study, and pursuing a degree in computer science, data science, AI/ML, or a related field</li> <li>Familiarity with Python and basic understanding of JavaScript/TypeScript; exposure to tools like PyTorch, TensorFlow, or FastAPI is a plus.</li> <li>Interest in AI/ML concepts including LLMs, prompt engineering, agentic workflows, and model evaluation techniques.</li> <li>Comfortable using Git/GitHub and development environments like Jupyter Notebooks or VS Code.</li> <li>Strong communication skills, curiosity about emerging AI trends, and a willingness to learn and experiment.</li> </ul> <p><strong>Internship Program Schedule</strong>To accommodate varying academic calendars, the ICE Internship Program offers two schedule options:</p> <ul> <li>Option 1: May 18, 2026 – August 7, 2026</li> <li>Option 2: June 8, 2026 – August 21, 2026</li> </ul> <p>Candidates will be asked to select their preferred session during the application process.</p> <p>&nbsp;</p> <p>Please Note: Interns must be available to work full-time, five days a week, at our Jacksonville office for the entire duration of one of the designated program schedules. Partial participation or alternate dates cannot be accommodated.</p> <p>&nbsp;</p> <p>#LI-SH2 </p> <h2>----------</h2>Intercontinental Exchange, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to legally protected characteristics.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-ice.icims.com/jobs/11612/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-19T21:44:40.696Z"
+    }
+  },
+  "cachedAt": 1766180680697
+}
