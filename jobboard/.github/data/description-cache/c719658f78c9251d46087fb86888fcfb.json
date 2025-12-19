@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Open Positions Open Positions Engineering Job listing Job location Engineer - Software Developer in Test I Boulder, Colorado Marketing Job listing Job location Technical Marketing Manager Boulder, Colorado B2B Marketing Events Manager Boulder, Colorado Technical Support Job listing Job location Systems Support Technician Boulder, Colorado Systems Support Technician Boulder, Colorado Check on an application you've submitted. Sign up for Job Alerts.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
+      "fetchedAt": "2025-12-19T20:17:42.784Z"
+    }
+  },
+  "cachedAt": 1766175462784
+}
