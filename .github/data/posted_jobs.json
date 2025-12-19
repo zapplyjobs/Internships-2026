@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T22:40:09.816Z",
+  "lastUpdated": "2025-12-19T22:49:32.159Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10924,14 +10924,91 @@
       "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Redwood-City---CA/Undergraduate-Internships-in-Redwood-City--CA_R-241546",
       "discordThreadId": "1451705684323336283",
       "instanceNumber": 1
+    },
+    {
+      "id": "kbr-national-security-solutions-software-engineering-internship-nss-chantilly-2025-12-19-1",
+      "jobId": "kbr-national-security-solutions-software-engineering-internship-nss-chantilly",
+      "company": "KBR",
+      "title": "National Security Solutions – Software Engineering Internship - Nss",
+      "postedToDiscord": "2025-12-19T22:49:04.026Z",
+      "sourceDate": "2025-12-12T00:18:15.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/National-Security-Solutions--NSS--Software-Engineering-Internship_R2116382",
+      "discordThreadId": "1451707924228477020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dematic-software-engineering-intern-grand-rapids-2025-12-19-1",
+      "jobId": "dematic-software-engineering-intern-grand-rapids",
+      "company": "Dematic",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T22:49:07.372Z",
+      "sourceDate": "2025-12-12T00:01:23.000Z",
+      "sourceUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0082104",
+      "discordThreadId": "1451707939189559470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-2026-summer-grad-intern-senior-data-science-sunnyvale-ca-sunnyvale-2025-12-19-1",
+      "jobId": "walmart-2026-summer-grad-intern-senior-data-science-sunnyvale-ca-sunnyvale",
+      "company": "Walmart",
+      "title": "2026 Summer Grad Intern Senior Data Science-Sunnyvale - CA",
+      "postedToDiscord": "2025-12-19T22:49:14.838Z",
+      "sourceDate": "2025-12-12T00:32:41.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Grad-Intern-Senior-Data-Science-Sunnyvale-CA_R-2336448",
+      "discordThreadId": "1451707967991840892",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fresenius-medical-care-it-solutions-intern-lexington-2025-12-19-1",
+      "jobId": "fresenius-medical-care-it-solutions-intern-lexington",
+      "company": "Fresenius Medical Care",
+      "title": "IT Solutions Intern",
+      "postedToDiscord": "2025-12-19T22:49:18.596Z",
+      "sourceDate": "2025-12-12T00:15:01.000Z",
+      "sourceUrl": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lexington-MA-USA/IT-Solutions-Internship_R0231964",
+      "discordThreadId": "1451707984102293547",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-gcs-computational-catalysts-orchestra-team-san-bruno-2025-12-19-1",
+      "jobId": "genentech-intern-gcs-computational-catalysts-orchestra-team-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Gcs Computational Catalysts - Orchestra Team",
+      "postedToDiscord": "2025-12-19T22:49:25.474Z",
+      "sourceDate": "2025-12-12T00:12:36.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---gCS-Computational-Catalysts--Orchestra-Team_202512-131549",
+      "discordThreadId": "1451708013067894865",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-software-engineering-intern-pittsburgh-2025-12-19-1",
+      "jobId": "cadence-design-software-engineering-intern-pittsburgh",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T22:49:32.148Z",
+      "sourceDate": "2025-12-11T23:55:25.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-software-engineering-intern-san-jose-2025-12-19-1",
+      "jobId": "cadence-design-software-engineering-intern-san-jose",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T22:49:32.159Z",
+      "sourceDate": "2025-12-11T23:55:17.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 993,
+    "totalJobs": 1000,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T22:40:09.816Z",
+      "date": "2025-12-19T22:49:32.159Z",
       "archived": 0
     }
   }
