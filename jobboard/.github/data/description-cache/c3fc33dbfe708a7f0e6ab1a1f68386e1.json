@@ -1,0 +1,17 @@
+{
+  "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "GCI's Telecommunications Internship program is designed to give students hands-on experience in a real-world business environment while interfacing with GCI professionals to learn about various employment opportunities available within the telecommunications industry. Students will work alongside GCI employees to develop a project that is aligned with their interests and the needs of the department they are assigned to.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
+      "fetchedAt": "2025-12-19T21:53:18.562Z"
+    }
+  },
+  "cachedAt": 1766181198563
+}

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:45:46.658Z",
+  "lastUpdated": "2025-12-19T21:54:08.989Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10704,14 +10704,102 @@
       "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/R-D-Protein-Footprinting-Data-Analysis-Grad-Intern_R-230569",
       "discordThreadId": "1451691996535062641",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-intern-doubao-foundation-model-team-seed-2025-start-phd-san-jose-2025-12-19-1",
+      "jobId": "bytedance-student-researcher-intern-doubao-foundation-model-team-seed-2025-start-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - Doubao Foundation Model Team\",\"Seed\",\"2025 Start\",\"PhD",
+      "postedToDiscord": "2025-12-19T21:53:38.062Z",
+      "sourceDate": "2025-10-31T02:59:14.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7491033494333016327/detail",
+      "discordThreadId": "1451693974350729403",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-intern-doubao-foundation-model-team-seed-2026-start-phd-san-jose-2025-12-19-1",
+      "jobId": "bytedance-student-researcher-intern-doubao-foundation-model-team-seed-2026-start-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - Doubao Foundation Model Team','Seed','2026 Start','PhD",
+      "postedToDiscord": "2025-12-19T21:53:38.073Z",
+      "sourceDate": "2025-10-30T23:41:30.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7491032451558721810/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fm-global-data-visualization-reporting-providence-2025-12-19-1",
+      "jobId": "fm-global-data-visualization-reporting-providence",
+      "company": "FM Global",
+      "title": "Data Visualization & Reporting",
+      "postedToDiscord": "2025-12-19T21:53:41.819Z",
+      "sourceDate": "2025-10-09T17:24:48.000Z",
+      "sourceUrl": "https://jobs-fmglobal.icims.com/jobs/16037/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451693989903208621",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-human-factors-research-intern-arlington-2025-12-19-1",
+      "jobId": "leidos-human-factors-research-intern-arlington",
+      "company": "Leidos",
+      "title": "Human Factors Research Intern",
+      "postedToDiscord": "2025-12-19T21:53:48.374Z",
+      "sourceDate": "2025-11-11T00:35:22.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Human-Factors-Research-Intern_R-00170127-1",
+      "discordThreadId": "1451694017593999452",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sas-summer-2025-system-architect-intern-master-s-morrisville-2025-12-19-1",
+      "jobId": "sas-summer-2025-system-architect-intern-master-s-morrisville",
+      "company": "SAS",
+      "title": "Summer 2025-System Architect Intern - Master's",
+      "postedToDiscord": "2025-12-19T21:53:54.897Z",
+      "sourceDate": "2025-10-31T22:32:19.000Z",
+      "sourceUrl": "https://careers-sas.icims.com/jobs/40664/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451694045117288558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-data-science-intern-multiple-teams-jacksonville-2025-12-19-1",
+      "jobId": "intercontinental-exchange-data-science-intern-multiple-teams-jacksonville",
+      "company": "Intercontinental Exchange",
+      "title": "Data Science Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-19T21:53:58.508Z",
+      "sourceDate": "2025-10-13T17:26:58.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11612/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451694059843227710",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-enterprise-institute-spring-intern-data-analysis-and-education-policy-washington-2025-12-19-1",
+      "jobId": "american-enterprise-institute-spring-intern-data-analysis-and-education-policy-washington",
+      "company": "American Enterprise Institute",
+      "title": "Spring Intern: Data Analysis and Education Policy",
+      "postedToDiscord": "2025-12-19T21:54:02.192Z",
+      "sourceDate": "2025-09-29T15:49:07.000Z",
+      "sourceUrl": "https://internships-aei.icims.com/jobs/2517/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451694074942722282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westwood-gis-internship-hopkins-2025-12-19-1",
+      "jobId": "westwood-gis-internship-hopkins",
+      "company": "Westwood",
+      "title": "GIS Internship",
+      "postedToDiscord": "2025-12-19T21:54:08.989Z",
+      "sourceDate": "2025-09-26T21:53:43.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7439/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451694103111798980",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 973,
+    "totalJobs": 981,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:45:46.658Z",
+      "date": "2025-12-19T21:54:08.989Z",
       "archived": 0
     }
   }
