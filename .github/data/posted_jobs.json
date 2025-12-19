@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:29:24.649Z",
+  "lastUpdated": "2025-12-19T21:38:22.011Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10550,14 +10550,102 @@
       "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101083",
       "discordThreadId": "1451687878647349359",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-sw-engineering-intern-cwl-summer-2026-manassas-2025-12-19-1",
+      "jobId": "general-dynamics-mission-sw-engineering-intern-cwl-summer-2026-manassas",
+      "company": "General Dynamics Mission Systems",
+      "title": "SW Engineering Intern - CWL Summer 2026",
+      "postedToDiscord": "2025-12-19T21:37:50.958Z",
+      "sourceDate": "2025-12-05T03:37:54.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69437/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451690002055434311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-dedham-2025-12-19-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-dedham",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T21:37:54.356Z",
+      "sourceDate": "2025-12-05T03:37:39.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69605/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451690016626708644",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tenstorrent-ai-architecture-intern-boston-2025-12-19-1",
+      "jobId": "tenstorrent-ai-architecture-intern-boston",
+      "company": "Tenstorrent",
+      "title": "AI Architecture Intern",
+      "postedToDiscord": "2025-12-19T21:37:57.843Z",
+      "sourceDate": "2025-12-05T03:12:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4119295007",
+      "discordThreadId": "1451690030970966138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-amazon-economics-apprenticeship-program-2-year-research-positions-seattle-2025-12-19-1",
+      "jobId": "amazon-amazon-economics-apprenticeship-program-2-year-research-positions-seattle",
+      "company": "Amazon",
+      "title": "Amazon Economics Apprenticeship Program - 2-Year Research Positions",
+      "postedToDiscord": "2025-12-19T21:38:01.593Z",
+      "sourceDate": "2025-12-05T02:12:15.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions",
+      "discordThreadId": "1451690045567270992",
+      "instanceNumber": 1
+    },
+    {
+      "id": "massachusetts-school-building-authority-capital-planning-data-assistant-co-op-boston-2025-12-19-1",
+      "jobId": "massachusetts-school-building-authority-capital-planning-data-assistant-co-op-boston",
+      "company": "Massachusetts School Building Authority",
+      "title": "Capital Planning Data Assistant – Co-op",
+      "postedToDiscord": "2025-12-19T21:38:05.178Z",
+      "sourceDate": "2025-12-04T23:57:00.000Z",
+      "sourceUrl": "https://jobs.lever.co/massschoolbuildings/fa4bf5f0-2914-4a16-9fe9-89a0958e5fc2/apply",
+      "discordThreadId": "1451690061342048400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "seagate-technology-business-data-analytics-internship-summer-2026-bloomington-2025-12-19-1",
+      "jobId": "seagate-technology-business-data-analytics-internship-summer-2026-bloomington",
+      "company": "Seagate Technology ",
+      "title": "Business & Data Analytics Internship - Summer 2026",
+      "postedToDiscord": "2025-12-19T21:38:08.615Z",
+      "sourceDate": "2025-12-04T23:50:01.000Z",
+      "sourceUrl": "https://seagatecareers.com/job/Bloomington-Business-&-Data-Analytics-Internship-Summer-2026-MN/1347547800/?ats=successfactors",
+      "discordThreadId": "1451690076026310719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercedes-benz-obd-certification-intern-southfield-2025-12-19-1",
+      "jobId": "mercedes-benz-obd-certification-intern-southfield",
+      "company": "Mercedes-Benz",
+      "title": "OBD Certification Intern",
+      "postedToDiscord": "2025-12-19T21:38:15.261Z",
+      "sourceDate": "2025-12-04T23:55:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/MBRDNA/9223530c-918e-4558-8486-6d68ba0eb667/apply",
+      "discordThreadId": "1451690103519973436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lightcast-junior-data-scientist-research-analyst-boston-2025-12-19-1",
+      "jobId": "lightcast-junior-data-scientist-research-analyst-boston",
+      "company": "Lightcast",
+      "title": "Junior Data Scientist/Research Analyst",
+      "postedToDiscord": "2025-12-19T21:38:22.011Z",
+      "sourceDate": "2025-12-04T23:53:01.000Z",
+      "sourceUrl": "https://jobs.lever.co/economicmodeling/35169e9b-37f4-4fba-9f4d-69edf7a6fcca/apply",
+      "discordThreadId": "1451690131340918982",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 959,
+    "totalJobs": 967,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:29:24.649Z",
+      "date": "2025-12-19T21:38:22.011Z",
       "archived": 0
     }
   }
