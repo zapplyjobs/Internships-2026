@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T22:49:32.159Z",
+  "lastUpdated": "2025-12-19T23:04:33.772Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -11001,14 +11001,80 @@
       "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "rocket-mortgage-application-engineer-intern-detroit-2025-12-19-1",
+      "jobId": "rocket-mortgage-application-engineer-intern-detroit",
+      "company": "Rocket Mortgage",
+      "title": "Application Engineer Intern",
+      "postedToDiscord": "2025-12-19T23:04:04.472Z",
+      "sourceDate": "2025-12-11T23:40:26.000Z",
+      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Application-Engineer-Intern---Summer-2026_R-081364",
+      "discordThreadId": "1451711695171879082",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axiom-space-eva-software-engineering-intern-houston-2025-12-19-1",
+      "jobId": "axiom-space-eva-software-engineering-intern-houston",
+      "company": "Axiom Space",
+      "title": "EVA Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T23:04:08.770Z",
+      "sourceDate": "2025-12-11T23:36:07.000Z",
+      "sourceUrl": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/EVA-Software-Engineering-Intern--Summer-2026-_JR100363",
+      "discordThreadId": "1451711716214837382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-in-usa-2025-12-19-1",
+      "jobId": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-in-usa",
+      "company": "Dropbox",
+      "title": "PhD Systems & AI/ML Research Intern - Summer 2026",
+      "postedToDiscord": "2025-12-19T23:04:12.444Z",
+      "sourceDate": "2025-12-11T23:35:14.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7462813",
+      "discordThreadId": "1451711734044950570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "conagra-brands-ai-and-automation-internship-summer-2026-omaha-2025-12-19-1",
+      "jobId": "conagra-brands-ai-and-automation-internship-summer-2026-omaha",
+      "company": "Conagra Brands",
+      "title": "AI and Automation Internship - Summer 2026",
+      "postedToDiscord": "2025-12-19T23:04:20.349Z",
+      "sourceDate": "2025-12-12T00:10:43.000Z",
+      "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/AI-and-Automation-Internship----Summer-2026_Req-035761",
+      "discordThreadId": "1451711764646465598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intapp-it-business-applications-intern-palo-alto-2025-12-19-1",
+      "jobId": "intapp-it-business-applications-intern-palo-alto",
+      "company": "Intapp",
+      "title": "IT Business Applications Intern",
+      "postedToDiscord": "2025-12-19T23:04:26.903Z",
+      "sourceDate": "2025-12-11T23:38:05.000Z",
+      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/IT-Business-Applications-Intern_R2024549-1",
+      "discordThreadId": "1451711795411685417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nasdaq-data-engineering-intern-denver-2025-12-19-1",
+      "jobId": "nasdaq-data-engineering-intern-denver",
+      "company": "Nasdaq",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2025-12-19T23:04:33.771Z",
+      "sourceDate": "2025-12-11T23:36:58.000Z",
+      "sourceUrl": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
+      "discordThreadId": "1451711822544769186",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1000,
+    "totalJobs": 1006,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T22:49:32.159Z",
+      "date": "2025-12-19T23:04:33.772Z",
       "archived": 0
     }
   }
