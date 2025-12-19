@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:53:25.364Z",
+  "lastUpdated": "2025-12-19T20:04:11.633Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9857,14 +9857,102 @@
       "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4608584101",
       "discordThreadId": "1451663721016590576",
       "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-defense-tech-palo-alto-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-defense-tech-palo-alto",
+      "company": "Palantir",
+      "title": "Software Engineer Internship - Defense Tech",
+      "postedToDiscord": "2025-12-19T20:03:57.222Z",
+      "sourceDate": "2025-07-01T15:56:33.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply",
+      "discordThreadId": "1451666372064051434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-palo-alto-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-palo-alto",
+      "company": "Palantir",
+      "title": "Software Engineer Internship",
+      "postedToDiscord": "2025-12-19T20:03:57.232Z",
+      "sourceDate": "2025-07-01T15:56:26.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-denver-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-denver",
+      "company": "Palantir",
+      "title": "Software Engineer Internship",
+      "postedToDiscord": "2025-12-19T20:03:57.241Z",
+      "sourceDate": "2025-07-01T15:56:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-washington-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-washington",
+      "company": "Palantir",
+      "title": "Software Engineer Internship",
+      "postedToDiscord": "2025-12-19T20:03:57.248Z",
+      "sourceDate": "2025-07-01T15:56:22.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-seattle-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-seattle",
+      "company": "Palantir",
+      "title": "Software Engineer Internship",
+      "postedToDiscord": "2025-12-19T20:03:57.254Z",
+      "sourceDate": "2025-07-01T15:56:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-defense-tech-washington-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-defense-tech-washington",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Defense Tech",
+      "postedToDiscord": "2025-12-19T20:04:01.348Z",
+      "sourceDate": "2025-07-01T15:56:30.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7/apply",
+      "discordThreadId": "1451666387234717809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "photon-data-ai-genai-intern-dallas-2025-12-19-1",
+      "jobId": "photon-data-ai-genai-intern-dallas",
+      "company": "Photon",
+      "title": "Data & AI/GenAI Intern",
+      "postedToDiscord": "2025-12-19T20:04:04.807Z",
+      "sourceDate": "2025-07-01T15:49:22.000Z",
+      "sourceUrl": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/22319",
+      "discordThreadId": "1451666404481830944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "copart-software-engineering-intern-dallas-2025-12-19-1",
+      "jobId": "copart-software-engineering-intern-dallas",
+      "company": "Copart",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T20:04:11.632Z",
+      "sourceDate": "2025-06-30T22:19:01.000Z",
+      "sourceUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR103689",
+      "discordThreadId": "1451666431694602375",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 896,
+    "totalJobs": 904,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:53:25.364Z",
+      "date": "2025-12-19T20:04:11.633Z",
       "archived": 0
     }
   }

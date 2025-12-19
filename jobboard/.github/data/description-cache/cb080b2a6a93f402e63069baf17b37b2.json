@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "About N1: N1 is the first hyper-performant and horizontally scalable blockchain network designed to enable trustless computing at internet scale. N1 is comprised of a team spanning backgrounds from Harvard, CMU, DFINITY, VMWare, Galaxy Digital, and more, and is backed by top-tier institutions like Founders Fund, Kraken Ventures, SALT, Amber Group, and more. Position Overview: We're seeking a Software Engineer intern with a focus on backend systems in Rust. This role will involve the development of core backend components for our blockchain network, focusing on networking, reliability, and scalability. Your primary responsibilities will entail designing and coding core backend software components primarily in Rust. Your role will involve maintaining and enhancing high-quality software engineering practices within a prominent open-source project. Requirements: Experience/ interest in designing, testing, and implementing scalable backend systems Experience/ interest in a low level programming language like Rust, C, C++, Zig Experience/ interest in systems programming. Strong signals include experience writing compilers, operating systems, kernels, machine simulators Creative, independent, and collaborative team player with the ability to work in a fast paced environment Loves problem solving Strong interest in crypto",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/n1/8db1135d-40bc-4e6c-ac64-a5e11fc8d1a4",
+      "fetchedAt": "2025-12-19T20:03:28.233Z"
+    }
+  },
+  "cachedAt": 1766174608233
+}
