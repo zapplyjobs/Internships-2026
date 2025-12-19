@@ -141,46 +141,6 @@
   },
   {
     "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "Camping World",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Join Camping World in this exciting opportunity.",
-      "job_apply_link": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_25_11252",
-      "job_posted_at_datetime_utc": "2025-12-05T07:39:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "camping-world-data-analyst-intern-chicago",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": "2025-12-19T21:17:42.316Z"
-  },
-  {
-    "job": {
-      "job_title": "IS Salesforce.com Agile Delivery Intern-Summer 2026",
-      "employer_name": "ABB",
-      "job_city": "Morrisville",
-      "job_state": "NC",
-      "job_description": "At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we’ll give you what you need to make it happen. It won’t always be easy, growing takes grit. But at ABB, you’ll never run alone. Run what runs the world.This Position reports to:Salesforce Product Owner for Marketing and Sales As an intern, you will have the opportunity to gain practical experience through various projects. Each day, you will acquire knowledge by performing tasks as directed. You will also showcase your skills by supporting ABB’s operations and enhancing personal education/employment opportunities.The work model for the role is onsite/hybrid in Cary, NC.You will be mainly accountable for:Collaborating with Agile team members including developers, administrators, product owners, and business analysts.Participating in daily stand-ups, sprint planning, retrospectives, and other Agile ceremonies.Assisting in the design, development, testing, and deployment of Salesforce solutions.Supporting user story grooming and documentation.Helping to troubleshoot and resolve issues within the Salesforce platform.Conducting research and provide recommendations for Salesforce best practices and enhancements.Contributing to the creation of training materials and user documentation.Qualifications for the role:Currently enrolled in a bachelor's or master’s degree program in Computer Science, Information Systems, Business or a related field, in the United States. Knowledgeable or have working experience in Agile Methodologies (Scrum, Kanban).Familiar with cloud platforms such as salesforce.com AWS, Azure.Intern must have reliable transportation to and from the worksite. Must be legally authorized to work in the United States without company sponsorship now and in the future. Utilize critical thinking skills to analyze complex situations and develop strategic solutions.Effectively organize and prioritize tasks to meet deadlines.Exhibit the capability to manage several tasks at once while maintaining high standards of quality.Collaborate with team members to convey ideas, share information, and provide updates on project progress.Why ABB?  What's in it for youWe want you to bring your full self to work—your ideas, your energy, your ambition. You’ll have the tools and freedom to grow your skills, shape your path, and take on challenges that matter. Here, your work creates impact you can see and feel, every day.ABB is an Equal Employment Opportunity and Affirmative Action employer for protected Veterans and Individuals with Disabilities at ABB.All qualified applicants will receive consideration for employment without regard to their- sex (gender identity, gender expression, sexual orientation), marital status, citizenship, age,  race and ethnicity, inclusive of traits historically associated with race or ethnicity, including but not limited to hair texture and protective hairstyles, color, religious creed, national origin, pregnancy, physical or mental disability, genetic information, protected Veteran status, or any other characteristic protected by federal and state law.For more information regarding your (EEO) rights as an applicant, please visit the following websites: https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdfAs an Equal Employment Opportunity and Affirmative Action Employer for Protected Veterans and Individuals with Disabilities, applicants may request to review the plan of a particular ABB facility between the hours of 9:00 A.M. - 5:00 P.M. EST Monday through Friday by contacting an ABB HR Representative at 1-888-694-7762.Protected Veterans and Individuals with Disabilities may request a reasonable accommodation if you are unable or limited in your ability to use or access ABB's career site as a result of your disability. You may request reasonable accommodations by calling an ABB HR Representative at 1-888-694-7762 or by sending an email to US-AskHR@abb.com. Resumes and applications will not be accepted in this manner. Internships at ABB within the United States are not eligible for company-sponsored medical benefits, 401(k) contributions, or paid time off. The hourly rate is determined by things such as the successful applicant’s qualifications, graduation year and experience. This position is expected to pay between $20 - $34 per hour. We value people from different backgrounds. Could this be your story? Apply today or visit www.abb.com to read more about us and learn about the impact of our solutions across the globe.",
-      "job_apply_link": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449",
-      "job_posted_at_datetime_utc": "2025-12-05T07:37:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "abb-is-salesforce-com-agile-delivery-intern-summer-2026-morrisville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": "2025-12-19T21:17:42.316Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Solar Power Generation",
       "employer_name": "Vistra",
       "job_city": "Irving",
@@ -194,10 +154,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T20:57:53.826Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -281,26 +241,6 @@
   },
   {
     "job": {
-      "job_title": "Graphics Programming Intern",
-      "employer_name": "Sony Interactive Entertainment",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Why PlayStation? PlayStation isn’t just the Best Place to Play — it’s also the Best Place to Work. Today, we’re recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more. PlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.R-121784 About The Team PlayStation isn’t just the Best Place to Play—it’s also the Best Place to Work. Since launching the original PlayStation in 1994, we’ve been a global leader in interactive and digital entertainment. The PlayStation brand is part of Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. Sony Interactive Entertainment is seeking a Graphics Programming Intern to join our high-performance team in San Diego, CA. This is a Summer 2026 internship. Do you love baseball almost as much as you love video games? Join us at San Diego Studio and work on our MLB® - The Show game series! As a summer Graphics Programming Intern, you’ll collaborate with engineers, animators, and designers to improve the tools that power the game. What You’ll Do Work with C++ and Python to support asset management, grooming, creation, and visualization tools. Expand in-game editor features using C++. Write unit tests and formalize existing game code to improve quality and reliability. What You’ll Gain How engineers, animators, and designers collaborate in a professional studio. Hands-on experience with game engine programming methods and concepts. Practical problem-solving in linear algebra, geometry, and vector math. Real-world development workflows, from writing efficient code to testing game features. What We’re Looking For Current enrollment in an accredited university Master’s degree in Computer Science, Computer Engineering, Electrical Engineering, or related field, with graduation expected between Spring 2026 and Summer 2026. Knowledge of C, C++, and Python (ImGui experience is a plus). Understanding of STL data structures and algorithms. Strong background in mathematics (linear algebra, geometry, vector math). Excellent communication skills and the ability to work well on a team. Self-motivated and eager to take initiative. Eligibility Students with expected graduation between May 2026 - August 2026 from an accredited university. Advanced Degree - Master’s Able to work during one of the following periods: May 18th - August 7th or June 15th - September 4th. Relocation assistance is available for eligible candidates. Must be available for the entire 12-week internship period. At this time, SIE will only consider applicants who are authorized to work for any employer in the United States and who will not require work visa sponsorship from SIE now or in the future to maintain their authorization to work in the United States. Our intern positions offer a fixed hourly pay rate. Please note that the pay rate is exclusive to the internship period and may not reflect what pay may look like following the completion of an internship.Please refer to our Candidate Privacy Notice for more information about how we process your personal information, and your data protection rights. At SIE, we consider several factors when setting each role’s base pay range, including the competitive benchmarking data for the market and geographic location. Please note that the base pay range may vary in line with our hybrid working policy and individual base pay will be determined based on job-related factors which may include knowledge, skills, experience, and location. Intern Pay Range$49.50 - $49.50 USD Equal Opportunity Statement: Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category. We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond. PlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.",
-      "job_apply_link": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
-      "job_posted_at_datetime_utc": "2025-12-05T07:19:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sony-interactive-entertainment-graphics-programming-intern-san-diego",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": "2025-12-19T21:17:42.316Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Csi",
       "employer_name": "Roche",
       "job_city": "Santa Clara",
@@ -314,10 +254,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -334,10 +274,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -354,10 +294,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -374,10 +314,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -394,10 +334,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:04:43.992Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:29:27.663Z"
   },
   {
     "job": {
@@ -505,16 +445,18 @@
       "employer_name": "Mercedes-Benz",
       "job_city": "Southfield",
       "job_state": "MI",
-      "job_description": "Join Mercedes-Benz in this exciting opportunity.",
+      "job_description": "OBD Certification InternFarmington Hills, MICertification & Regulatory Affairs – EPA/CARB Liaison & Compliance Testing (4033) /Intern /On-siteApply for this jobAt Mercedes-Benz Research & Development North America (MBRDNA), we are committed to delivering world-class automotive technologies that push the boundaries of what is possible. Our teams of highly skilled engineers and designers use cutting-edge software and technology, to enhance the driving experience and reduce environmental impact. The On-Board Diagnostics (OBD) Certification & Compliance Intern is part of a cross-functional team that supports fuel consumption analysis, emission and OBD certification, and compliance testing for the US market.In this six (6) month internship starting January 2026, you will get (1) insights into the OBD certification process, (2) insights into testing of In-Use and soon-to-be released vehicles to support regulation conformity, (3) insights into the analysis of software change requests and evaluate the consequences in regards to the certification process, (4) insights into tool development and process improvements, (5) insights to data handling and processing.Job Responsibilities:General support in regards to OBD Certification topics and Software Change Management processesSupport the team by creating and maintaining Python and other tool based documentation and evaluation programsProficiency in Python, C#, VBA, Github, Jira, Confluence, Power BI, and MS Excel are preferredAssist and develop new pragramatic solutions to improve company workflowsAnalyze data, summarize results, and prepare technical reports for internal development partnersAssist in creating data pipelines relevant for agency reporting and analysisSupport collaboration within MBRDNA on common projects and objectivesMinimum Qualifications:Current enrollment/recent completion of Bachelor’s or Master’s degree in Mechanical/Automotive Engineering, Data Science, Computer Science or related fieldHigh School DiplomaAbility to act and perform under every circumstance with personal integrity while representing the certification valuesExperience with Microsoft Office products, especially ExcelExperience with Python, VBA, C#, or other programming languagesExperience with Git version control softwareExperience with basic documentation principlesExperience with visualization tools like Power BIDetail-oriented mindsetAbility to execute and develop detailed processesAbility to learn and understand different technical topics fast and being able to discuss and explain it to internal stakeholdersAbility to clearly discuss and communicate complex technical topics in a diverse multicultural environmentDesire to build effective working relationshipsDesire for continuous personal development and growthFrequent use of speech, vision, hearing, use of hands for driving, computer use and presentationsFrequent sitting, standing and reaching with handsPreferred Qualifications:German language skills a plusPython or other programming experiencePowertrain development experienceExperience with Jira backend is a plusWhy should you apply?Here at MBRDNA, you create digital ecosystems around cars, you design a language between humans and machines, you make a car even more intelligent - you make the new reality for cars. MBRDNA was honored as one of the \"Best Places to Work\" by BuiltIn in January 2024, a testament to our commitment to creating an exceptional work environment. At each of our offices, we foster a culture of collaboration and continuous learning, ensuring every team member can thrive and innovate.Benefits for Full-Time* Employees Include: • Medical, dental, and vision insurance for employees and their families • 401(k) with employer match • Up to 18 company-paid holidays • Paid time off (flexible time off for salaried employees), sick time, and parental leave • Tuition assistance program • Wellness/Fitness reimbursement programs * Internships & Contractors excluded from Full-Time Employee benefitsMBRDNA is an equal opportunity employer (EOE) and strongly supports diversity in the workforce. MBRDNA only accepts resumes from approved agencies who have a valid Agency Agreement on file. Please do not forward resumes to our applicant tracking system, MBRDNA employees, or send to any MBRDNA location. MBRDNA is not responsible for any fees or claims related to receipt of unsolicited resumes.Mercedes-Benz Research and Development North America, Inc.PRIVACY NOTICE FOR CALIFORNIA RESIDENTShttps://mbrdna.com/california-employee-privacy-notice/We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/MBRDNA/9223530c-918e-4558-8486-6d68ba0eb667/apply",
       "job_posted_at_datetime_utc": "2025-12-04T23:55:26.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "mercedes-benz-obd-certification-intern-southfield"
+      "id": "mercedes-benz-obd-certification-intern-southfield",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:28:52.588Z",
     "postedAt": null
   },
   {
@@ -523,16 +465,18 @@
       "employer_name": "Lightcast",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Lightcast in this exciting opportunity.",
+      "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
       "job_apply_link": "https://jobs.lever.co/economicmodeling/35169e9b-37f4-4fba-9f4d-69edf7a6fcca/apply",
       "job_posted_at_datetime_utc": "2025-12-04T23:53:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "lightcast-junior-data-scientist-research-analyst-boston"
+      "id": "lightcast-junior-data-scientist-research-analyst-boston",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:28:52.588Z",
     "postedAt": null
   },
   {
@@ -541,16 +485,18 @@
       "employer_name": "Seagate Technology ",
       "job_city": "Bloomington",
       "job_state": "MN",
-      "job_description": "Join Seagate Technology  in this exciting opportunity.",
+      "job_description": "Search by Keyword Search by Location More Search Options Loading... Country All Job Function All Employee Type All Language All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://seagatecareers.com/job/Bloomington-Business-&-Data-Analytics-Internship-Summer-2026-MN/1347547800/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-04T23:50:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "seagate-technology-business-data-analytics-internship-summer-2026-bloomington"
+      "id": "seagate-technology-business-data-analytics-internship-summer-2026-bloomington",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:28:52.588Z",
     "postedAt": null
   },
   {
@@ -559,16 +505,18 @@
       "employer_name": "Seagate Technology ",
       "job_city": "Bloomington",
       "job_state": "MN",
-      "job_description": "Join Seagate Technology  in this exciting opportunity.",
+      "job_description": "Search by Keyword Search by Location More Search Options Loading... Country All Job Function All Employee Type All Language All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
       "job_apply_link": "https://seagatecareers.com/job/Bloomington-Data-Scientist-Internship-Summer-2026-MN/1347536500/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-04T23:49:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "seagate-technology-data-scientist-intern-bloomington"
+      "id": "seagate-technology-data-scientist-intern-bloomington",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:28:52.588Z",
     "postedAt": null
   },
   {
@@ -577,16 +525,18 @@
       "employer_name": "Evolve Technology",
       "job_city": "Waltham",
       "job_state": "MA",
-      "job_description": "Join Evolve Technology in this exciting opportunity.",
+      "job_description": "The Elevator Pitch &nbsp;Do you thrive in fast-paced environments? Do you have a passion for turning raw data into information that is meaningful and actionable?&nbsp;&nbsp;Would you enjoy playing a vital role in driving continuous improvem...",
       "job_apply_link": "https://apply.workable.com/evolv-technology/j/AD1FC6624F/apply",
       "job_posted_at_datetime_utc": "2025-12-04T23:46:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "evolve-technology-quality-analytics-intern-waltham"
+      "id": "evolve-technology-quality-analytics-intern-waltham",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:28:52.588Z",
     "postedAt": null
   },
   {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:17:39.302Z",
+  "lastUpdated": "2025-12-19T21:29:24.649Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10462,14 +10462,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5674863004",
       "discordThreadId": "1451684918508912650",
       "instanceNumber": 1
+    },
+    {
+      "id": "vistra-intern-solar-power-generation-irving-2025-12-19-1",
+      "jobId": "vistra-intern-solar-power-generation-irving",
+      "company": "Vistra",
+      "title": "Intern - Solar Power Generation",
+      "postedToDiscord": "2025-12-19T21:29:03.328Z",
+      "sourceDate": "2025-12-05T07:29:52.000Z",
+      "sourceUrl": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Solar-Power-Generation--Vistra-Corporation-_40014322",
+      "discordThreadId": "1451687782811435269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vistra-intern-digital-agent-development-irving-2025-12-19-1",
+      "jobId": "vistra-intern-digital-agent-development-irving",
+      "company": "Vistra",
+      "title": "Intern - Digital Agent Development",
+      "postedToDiscord": "2025-12-19T21:29:03.339Z",
+      "sourceDate": "2025-12-05T07:29:48.000Z",
+      "sourceUrl": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Digital-Agent-Development--Vistra-Corporation-_40014320",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "vistra-intern-nuclear-power-generation-irving-2025-12-19-1",
+      "jobId": "vistra-intern-nuclear-power-generation-irving",
+      "company": "Vistra",
+      "title": "Intern - Nuclear Power Generation",
+      "postedToDiscord": "2025-12-19T21:29:03.347Z",
+      "sourceDate": "2025-12-05T07:29:47.000Z",
+      "sourceUrl": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Summer-2026-Internship---Nuclear-Power-Generation--Vistra-Corporation-_40014323",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "roche-intern-csi-santa-clara-2025-12-19-1",
+      "jobId": "roche-intern-csi-santa-clara",
+      "company": "Roche",
+      "title": "Intern - Csi",
+      "postedToDiscord": "2025-12-19T21:29:07.014Z",
+      "sourceDate": "2025-12-05T07:14:29.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/XMLNAME-2026-Summer-Intern---Computational-Science---Software-Test-Engineering--CSI-_202511-130554",
+      "discordThreadId": "1451687803703398491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-bell-labs-fiber-optics-co-op-berkeley-heights-2025-12-19-1",
+      "jobId": "nokia-bell-labs-fiber-optics-co-op-berkeley-heights",
+      "company": "Nokia",
+      "title": "Bell Labs Fiber Optics Co-op",
+      "postedToDiscord": "2025-12-19T21:29:10.640Z",
+      "sourceDate": "2025-12-05T03:44:30.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27739",
+      "discordThreadId": "1451687818886643804",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-sw-engineering-intern-brooklyn-2025-12-19-1",
+      "jobId": "general-dynamics-mission-sw-engineering-intern-brooklyn",
+      "company": "General Dynamics Mission Systems",
+      "title": "SW Engineering Intern",
+      "postedToDiscord": "2025-12-19T21:29:14.546Z",
+      "sourceDate": "2025-12-05T03:38:15.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69559/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451687834691043369",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-tcs-manassas-2025-12-19-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-tcs-manassas",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern - Tcs",
+      "postedToDiscord": "2025-12-19T21:29:17.969Z",
+      "sourceDate": "2025-12-05T03:38:02.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69647/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451687850725605497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "delta-dental-intern-application-developer-east-lansing-2025-12-19-1",
+      "jobId": "delta-dental-intern-application-developer-east-lansing",
+      "company": "Delta Dental",
+      "title": "Intern - Application Developer",
+      "postedToDiscord": "2025-12-19T21:29:24.648Z",
+      "sourceDate": "2025-12-05T07:05:31.000Z",
+      "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101083",
+      "discordThreadId": "1451687878647349359",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 951,
+    "totalJobs": 959,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:17:39.302Z",
+      "date": "2025-12-19T21:29:24.649Z",
       "archived": 0
     }
   }
