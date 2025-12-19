@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:31:37.640Z",
+  "lastUpdated": "2025-12-19T20:43:16.549Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10121,14 +10121,91 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7398413673407121701/detail",
       "discordThreadId": "1451673336214982696",
       "instanceNumber": 1
+    },
+    {
+      "id": "spectra-logic-intern-software-boulder-2025-12-19-1",
+      "jobId": "spectra-logic-intern-software-boulder",
+      "company": "Spectra Logic",
+      "title": "Intern - Software",
+      "postedToDiscord": "2025-12-19T20:42:55.867Z",
+      "sourceDate": "2025-04-19T02:19:44.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/spectralogic/job/oMOSvfwH",
+      "discordThreadId": "1451676180112740544",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-intern-ai-platform-san-jose-2025-12-19-1",
+      "jobId": "bytedance-software-engineer-intern-ai-platform-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Intern - AI Platform",
+      "postedToDiscord": "2025-12-19T20:42:59.412Z",
+      "sourceDate": "2025-04-16T06:44:51.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7397256395883006258/detail",
+      "discordThreadId": "1451676196235645039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-san-jose-2025-12-19-1",
+      "jobId": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
+      "postedToDiscord": "2025-12-19T20:43:03.020Z",
+      "sourceDate": "2025-04-09T06:25:17.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7491032451558721810/detail",
+      "discordThreadId": "1451676211133546640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-seattle-2025-12-19-1",
+      "jobId": "bytedance-student-researcher-intern-edge-research-project-for-general-intelligence-doubao-foundation-model-team-seed-seattle",
+      "company": "ByteDance",
+      "title": "Student Researcher Intern - Edge Research Project for General Intelligence - Doubao Foundation Model Team - Seed",
+      "postedToDiscord": "2025-12-19T20:43:03.029Z",
+      "sourceDate": "2025-04-09T06:25:17.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7491034443466574087/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-enterprise-institute-housing-center-internship-housing-center-washington-2025-12-19-1",
+      "jobId": "american-enterprise-institute-housing-center-internship-housing-center-washington",
+      "company": "American Enterprise Institute",
+      "title": "Housing Center Internship - Housing Center",
+      "postedToDiscord": "2025-12-19T20:43:06.441Z",
+      "sourceDate": "2025-09-11T18:17:52.000Z",
+      "sourceUrl": "https://internships-aei.icims.com/jobs/2516/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451676226103152761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pony-ai-research-intern-deep-learning-fremont-2025-12-19-1",
+      "jobId": "pony-ai-research-intern-deep-learning-fremont",
+      "company": "pony.ai",
+      "title": "Research Intern - Deep Learning",
+      "postedToDiscord": "2025-12-19T20:43:13.039Z",
+      "sourceDate": "2025-04-17T18:29:52.000Z",
+      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply",
+      "discordThreadId": "1451676253202419816",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-2025-summer-fall-phd-seattle-2025-12-19-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-2025-summer-fall-phd-seattle",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics - 2025 Summer/Fall - PhD",
+      "postedToDiscord": "2025-12-19T20:43:16.549Z",
+      "sourceDate": "2025-04-15T14:55:33.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7397460004344138021/detail",
+      "discordThreadId": "1451676268100718793",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 920,
+    "totalJobs": 927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:31:37.640Z",
+      "date": "2025-12-19T20:43:16.549Z",
       "archived": 0
     }
   }
