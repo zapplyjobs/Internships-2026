@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T20:18:21.147Z",
+  "lastUpdated": "2025-12-19T20:31:37.640Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10033,14 +10033,102 @@
       "sourceUrl": "https://jobs.lever.co/drivetrain/7266784e-530b-4eb5-a61b-b09557f6e98d/apply",
       "discordThreadId": "1451669995997102254",
       "instanceNumber": 1
+    },
+    {
+      "id": "wurl-full-stack-software-engineer-intern-remote-in-united-states-2025-12-19-1",
+      "jobId": "wurl-full-stack-software-engineer-intern-remote-in-united-states",
+      "company": "Wurl",
+      "title": "Full Stack Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:31:08.464Z",
+      "sourceDate": "2025-05-29T05:02:40.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/wurljobs/jobs/4454109006?gh_src=5874d0446us",
+      "discordThreadId": "1451673214190223441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cluely-software-engineer-intern-san-francisco-2025-12-19-1",
+      "jobId": "cluely-software-engineer-intern-san-francisco",
+      "company": "Cluely",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:31:12.406Z",
+      "sourceDate": "2025-05-28T18:08:16.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108",
+      "discordThreadId": "1451673229239390422",
+      "instanceNumber": 1
+    },
+    {
+      "id": "copart-software-engineer-intern-dallas-2025-12-19-1",
+      "jobId": "copart-software-engineer-intern-dallas",
+      "company": "Copart",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:31:16.648Z",
+      "sourceDate": "2025-05-27T20:42:13.000Z",
+      "sourceUrl": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineer-Intern_JR103138",
+      "discordThreadId": "1451673247870357599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "point72-summer-2025-quantitative-developer-internship-new-york-2025-12-19-1",
+      "jobId": "point72-summer-2025-quantitative-developer-internship-new-york",
+      "company": "Point72",
+      "title": "Summer 2025 Quantitative Developer Internship",
+      "postedToDiscord": "2025-12-19T20:31:20.119Z",
+      "sourceDate": "2025-05-24T18:03:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/point72/jobs/7297613002",
+      "discordThreadId": "1451673263431356547",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-software-engineering-intern-multiple-teams-seattle-2025-12-19-1",
+      "jobId": "uber-software-engineering-intern-multiple-teams-seattle",
+      "company": "Uber",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-19T20:31:23.835Z",
+      "sourceDate": "2025-05-08T14:02:48.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/135752/",
+      "discordThreadId": "1451673277683601650",
+      "instanceNumber": 1
+    },
+    {
+      "id": "warp-software-engineering-intern-new-york-2025-12-19-1",
+      "jobId": "warp-software-engineering-intern-new-york",
+      "company": "Warp",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T20:31:27.521Z",
+      "sourceDate": "2025-04-24T04:05:56.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/warp/4fc9265b-0728-4565-bb3f-b9928689b377",
+      "discordThreadId": "1451673293630476302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neuralink-machine-learning-engineer-intern-fremont-2025-12-19-1",
+      "jobId": "neuralink-machine-learning-engineer-intern-fremont",
+      "company": "Neuralink",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2025-12-19T20:31:34.005Z",
+      "sourceDate": "2025-05-31T00:45:37.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6594261003",
+      "discordThreadId": "1451673321673588757",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-machine-learning-engineer-intern-applied-machine-learning-algorithm-san-jose-2025-12-19-1",
+      "jobId": "bytedance-machine-learning-engineer-intern-applied-machine-learning-algorithm-san-jose",
+      "company": "ByteDance",
+      "title": "Machine Learning Engineer Intern - Applied Machine Learning-Algorithm",
+      "postedToDiscord": "2025-12-19T20:31:37.640Z",
+      "sourceDate": "2025-05-09T08:32:06.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7398413673407121701/detail",
+      "discordThreadId": "1451673336214982696",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 912,
+    "totalJobs": 920,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T20:18:21.147Z",
+      "date": "2025-12-19T20:31:37.640Z",
       "archived": 0
     }
   }
