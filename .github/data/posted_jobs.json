@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:44:51.092Z",
+  "lastUpdated": "2025-12-19T19:53:25.364Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9769,14 +9769,102 @@
       "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/University-of-Cincinnati-R-D-Engineer-Co-op_R000134835",
       "discordThreadId": "1451661565504913601",
       "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-intern-palo-alto-2025-12-19-1",
+      "jobId": "palantir-software-engineer-intern-palo-alto",
+      "company": "Palantir",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:53:14.860Z",
+      "sourceDate": "2025-07-01T17:52:05.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+      "discordThreadId": "1451663677106163752",
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-intern-new-york-2025-12-19-1",
+      "jobId": "palantir-software-engineer-intern-new-york",
+      "company": "Palantir",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:53:14.871Z",
+      "sourceDate": "2025-07-01T17:37:41.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-intern-seattle-2025-12-19-1",
+      "jobId": "palantir-software-engineer-intern-seattle",
+      "company": "Palantir",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:53:14.878Z",
+      "sourceDate": "2025-07-01T17:37:18.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-intern-washington-2025-12-19-1",
+      "jobId": "palantir-software-engineer-intern-washington",
+      "company": "Palantir",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:53:14.885Z",
+      "sourceDate": "2025-07-01T17:37:06.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-production-infrastructure-seattle-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-production-infrastructure-seattle",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Production Infrastructure",
+      "postedToDiscord": "2025-12-19T19:53:18.398Z",
+      "sourceDate": "2025-07-01T15:56:34.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply",
+      "discordThreadId": "1451663692902043810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-infrastructure-new-york-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-infrastructure-new-york",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Infrastructure",
+      "postedToDiscord": "2025-12-19T19:53:18.406Z",
+      "sourceDate": "2025-07-01T15:56:34.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "palantir-software-engineer-internship-production-infrastructure-new-york-2025-12-19-1",
+      "jobId": "palantir-software-engineer-internship-production-infrastructure-new-york",
+      "company": "Palantir",
+      "title": "Software Engineer – Internship - Production Infrastructure",
+      "postedToDiscord": "2025-12-19T19:53:18.413Z",
+      "sourceDate": "2025-07-01T15:56:33.000Z",
+      "sourceUrl": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "imc-trading-machine-learning-research-intern-chicago-2025-12-19-1",
+      "jobId": "imc-trading-machine-learning-research-intern-chicago",
+      "company": "IMC Trading",
+      "title": "Machine Learning Research Intern",
+      "postedToDiscord": "2025-12-19T19:53:25.364Z",
+      "sourceDate": "2025-07-01T22:53:19.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/imc/jobs/4608584101",
+      "discordThreadId": "1451663721016590576",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 888,
+    "totalJobs": 896,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:44:51.092Z",
+      "date": "2025-12-19T19:53:25.364Z",
       "archived": 0
     }
   }
