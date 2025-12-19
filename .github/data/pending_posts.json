@@ -261,126 +261,6 @@
   },
   {
     "job": {
-      "job_title": "Data Scientist Intern",
-      "employer_name": "Seagate Technology ",
-      "job_city": "Bloomington",
-      "job_state": "MN",
-      "job_description": "Search by Keyword Search by Location More Search Options Loading... Country All Job Function All Employee Type All Language All Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
-      "job_apply_link": "https://seagatecareers.com/job/Bloomington-Data-Scientist-Internship-Summer-2026-MN/1347536500/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-04T23:49:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "seagate-technology-data-scientist-intern-bloomington",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:28:52.588Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
-      "job_title": "Quality Analytics Intern",
-      "employer_name": "Evolve Technology",
-      "job_city": "Waltham",
-      "job_state": "MA",
-      "job_description": "The Elevator Pitch &nbsp;Do you thrive in fast-paced environments? Do you have a passion for turning raw data into information that is meaningful and actionable?&nbsp;&nbsp;Would you enjoy playing a vital role in driving continuous improvem...",
-      "job_apply_link": "https://apply.workable.com/evolv-technology/j/AD1FC6624F/apply",
-      "job_posted_at_datetime_utc": "2025-12-04T23:46:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "evolve-technology-quality-analytics-intern-waltham",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:28:52.588Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Analyst 1 – Intern - United States",
-      "employer_name": "Cisco",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Join Cisco in this exciting opportunity.",
-      "job_apply_link": "https://careers.cisco.com/global/en/job/2002648",
-      "job_posted_at_datetime_utc": "2025-12-04T23:45:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cisco-data-science-analyst-1-intern-united-states-san-jose",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern Data Engineer",
-      "employer_name": "GM financial",
-      "job_city": "Arlington",
-      "job_state": "TX",
-      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time! Why GM Financial? GM Financial is the wholly owned captive finance subsidiary of General Motors and is headquartered in Fort Worth, U.S. We are a global provider of auto finance solutions, with operations in North America, South America, and the Asia Pacific region. Through our long-standing relationships with auto dealers, we offer attractive retail financing and lease programs to meet the needs of each customer. We also offer commercial lending products to dealers to help them finance and grow their businesses. Our Purpose: We pioneer the innovations that move and connect people to what matters. Are you excited about innovation, entrepreneurship and solving complex business problems? Then we ar...",
-      "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1417",
-      "job_posted_at_datetime_utc": "2025-12-04T23:45:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gm-financial-intern-data-engineer-arlington",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "Shield AI",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
-      "job_apply_link": "https://jobs.lever.co/shieldai/d00348c2-18a8-4580-a084-be602d455fcf/apply",
-      "job_posted_at_datetime_utc": "2025-12-04T23:41:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shield-ai-data-analyst-intern-dallas",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Protein Footprinting Data Analysis Intern",
-      "employer_name": "Amgen",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "Career CategoryCollege JobJob DescriptionJoin Amgen’s Mission of Serving PatientsAt Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do.Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions of patients each year. As a member of the Amgen team, you’ll help make a lasting impact on the lives of patients as we research, manufacture, and deliver innovative medicines to help people live longer, fuller happier lives.Our award-winning culture is collaborative, innovative, and science based. If you have a passion for challenges and the opportunities that lay within them, you’ll thrive as part of the Amgen team. Join us and transform the lives of patients while transforming your career.Protein Foot Printing Data Analysis Grad Intern – Biologics Engineering StatisticsWhat You Will DoLet’s do this. Let’s change the world. During this program, you will develop statistical and computational tools for protein fingerprinting data:Review and evaluate published strategies for statistical analysis of footprinting MS data to draw valuable insights.Design and implement a computational tool for automated statistical evaluation.Benchmark performance across experimental designs and replicate structures.(Preferred) Integrate the developed workflow into Amgen’s internal MS data processing platform.Present findings and recommendations to cross-functional scientists.What We Expect of YouWe are all different, yet we all use our unique contributions to serve patients. Are you a motivated and analytical student interested in applying computational tools to cutting-edge protein research this individual must have these qualifications:Basic Qualifications: Amgen requires that all individuals applying for a grad internship at Amgen must meet the following criteria:18 years or olderGraduated with a bachelor’s degree from an accredited college or universityCurrently enrolled in an MBA program for an MBA internship OR a Master’s program for a Master’s internship OR a PharmD program for a PharmD internship OR Ph.D. for a PhD internship from an accredited college or university and completion of the first year of MBA OR Master’s OR Pharm D OR Ph.D. program before the internship startsEnrolled in an accredited college or university following the potential internshipMust not be employed at the time the internship startsStudent must be located in the United States for the duration of the [internshipPreferred Qualifications:Currently pursuing a MS or PhD degree in Bioinformatics, Computational Biology, Statistics, Biostatistics, Data Science, Biochemistry, or a related field.Proficiency in Python and CLIStrong foundation in statistics, including experimental design, hypothesis testing, and application of statistical methods to mass spectrometry (MS) data analysis.Prior experience with advanced proteomics mass spectrometry dataStrong analytical, communication, and teamwork skills.Onsite working with a team based in Amgen South San Francisco, California.Strong teamwork, communication, and organizational skills, with the ability to document data and code in electronic lab notebooks, presentations, and reports.What You Can Expect of UsAs we work to develop treatments that take care of others, we also work to care for your professional and personal growth and well-being. From our competitive benefits to our collaborative culture, we’ll support your journey every step of the way.The base pay range for this opportunity in the U.S. is $30-$40 per hourBuild a network of colleagues that will endure and grow throughout your time with us and beyond.Bring your authentic self to the table and become the professional you’re inspired to be through accepting a culture that values the diversity of thought and experience and will flex to your strengths and possibilities.Participate in executive and social networking events, as well as community volunteer projects.Apply now and make a lasting impact with the Amgen team. careers.amgen.com - Please search for Keyword R-230569In any materials you submit, you may redact or remove age-identifying information such as age, date of birth, or dates of school attendance or graduation. You will not be penalized for redacting or removing this information.SponsorshipCandidates must be authorized to work in the U.S. for the duration of this program. Sponsorship for future FTE roles is not guaranteed.As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other and live the Amgen values to continue advancing science to serve patients. Together, we compete in the fight against serious disease.Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other basis protected by applicable law.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.Amgen will consider for employment qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance.Salary Range-",
-      "job_apply_link": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/R-D-Protein-Footprinting-Data-Analysis-Grad-Intern_R-230569",
-      "job_posted_at_datetime_utc": "2025-11-19T00:18:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amgen-r-d-protein-footprinting-data-analysis-intern-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": "2025-12-19T21:45:59.379Z"
-  },
-  {
-    "job": {
       "job_title": "Human Factors Research Intern",
       "employer_name": "Leidos",
       "job_city": "Arlington",
@@ -394,10 +274,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -414,10 +294,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -434,10 +314,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:37:41.511Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -474,10 +354,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:45:13.764Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -494,10 +374,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:45:13.764Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -514,10 +394,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:45:13.764Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -534,10 +414,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-05T21:03:56.137Z",
     "enrichedAt": "2025-12-19T21:45:13.764Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T21:54:12.003Z"
   },
   {
     "job": {
@@ -625,16 +505,18 @@
       "employer_name": "W.W. Grainger",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join W.W. Grainger in this exciting opportunity.",
+      "job_description": "Work Location Type: Hybrid About Grainger: W.W. Grainger, Inc., is a leading broad line distributor with operations primarily in North America, Japan and the United Kingdom. At Grainger, We Keep the World Working® by serving more than 4.5 million customers worldwide with products and solutions delivered through innovative technology and deep customer relationships. Known for its commitment to service and award-winning culture, the Company had 2024 revenue of $17.2 billion across its two business models. In the High-Touch Solutions segment, Grainger offers approximately 2 million maintenances, repair and operating (MRO) products and services, including technical support and inventory management. In the Endless Assortment segment, Zoro.com offers customers access to more than 14 million products, and MonotaRO.com offers more than 24 million products. For more information, visit www.grainger.com. Compensation: This position is hourly, and the starting pay rate is $40/hour The rate of pay provided above is not a guarantee of compensation. The rate reflects the expected base pay for this role at the time of this posting based on the job grade for this position. Grainger reserves the right to amend, modify, or terminate its compensation and benefit programs in its sole discretion at any time, consistent with applicable law. Position Details: We are seeking a talented and motivated Applied Machine Learning Intern to join our team, working at the intersection of ML Engineering and Data Science. The ideal candidate will have a passion for discovering insights from data, eagerness to learn new technologies, excellent communication skills, the ability to work collaboratively, and a commitment to producing high-quality work. This role offers an exciting opportunity to conduct innovative research, develop cutting-edge machine learning models, and contribute to the productionization of ML solutions. You Will: Conduct fundamental and innovative research in applied machine learning Assist in the productionization of ML models and solutions when required Formulate approaches to solve complex problems using well-defined algorithms and data sources Perform data exploration to uncover new questions or opportunities within your problem area Propose and evaluate the applicability and limitations of data in various contexts Collaborate with cross-functional teams to integrate ML solutions into existing systems You Have: Majors in an area of computing, e.g., Computer Science or Applied Math Has a strong foundation in ML, including transformer-based models Can code in Python and SQL Familiar with version control systems like Git Preferred Qualifications: Currently enrolled in a graduate program (MS or PhD) Expected to graduate in the year following the internship Practical experience in Natural Language Processing (NLP) or Computer Vision (CV) Has some industry experience We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex (including pregnancy), national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, protected veteran status or any other protected characteristic under federal, state, or local law. We are proud to be an equal opportunity workplace. We are also committed to fostering an inclusive, accessible work environment that includes both providing reasonable accommodations to individuals with disabilities during the application and hiring process as well as throughout the course of one’s employment, should you need a reasonable accommodation during the application and selection process, including, but not limited to use of our website, any part of the application, interview or hiring process, please advise us so that we can provide appropriate assistance.",
       "job_apply_link": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Applied-Machine-Learning-IL-60661-4555/1316062500/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-14T11:45:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "w-w-grainger-gtg-intern-applied-machine-learning-chicago"
+      "id": "w-w-grainger-gtg-intern-applied-machine-learning-chicago",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-05T21:03:56.137Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
@@ -643,16 +525,18 @@
       "employer_name": "General Motors",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionAbout the Team:  We are building a state-of-the-art AI training platform in close collaboration with model teams to deliver Autonomous car milestones, maximizing model flop utilization and iteration speed, and enhancing inference systems. We are augmenting training, data processing, evaluation and the deployment loop with a data flywheel to validate performance and continuously improve Autonomous driving and Active Safety. We accelerate compute performance through architectural changes and low-level optimizations, informed by advanced Carbench/HIL platforms, AI tooling and workflows and instrumentation built in-house. We streamline compiler/build and modelbench performance; enhance data processing, preprocessing, and batch inference; and improve monitoring and availability to increase velocity and quality. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team. To help facilitate administration of the relocation stipend if you are selected, please apply using the permanent address you would move from. Location: San Francisco, California Sunnyvale, California  Mountain View, California Seattle, Washington  About the Role:  As an intern, you will help develop and optimize our AI training platform by improving data processing pipelines, accelerating model training and inference workflows, and/ or  enhancing testing infrastructure like Carbench/HIL. You will support tool development, instrumentation, and system monitoring to boost reliability, reduce latency, and increase iteration speed for advancing autonomous driving performance.  What You’ll Do: Develop scalable infrastructure and tools to support model training, regression, and rules-based models, operations, and inference. Suggest, collect and synthesize requirements and create effective feature roadmap. Code deliverables in tandem with the engineering team. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU). Perform specific responsibilities which vary by team.  Required Qualifications: Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Master's degree in computer science or a related technical field. Experience in systems software or algorithms. Experience with modern object-oriented programming languages (e.g., Java, C++, Python).  Strong communication skills with experience collaborating across cross-functional teams. Able to work fulltime, 40 hours per week.   Preferred Qualifications Demonstrated software engineer experience via an internship, work experience, coding competitions. Familiarity with AI –assisted engineering tools (e.g., for code generation, model analysis, or experiment planning) to enhance productivity and understanding of ML systems.  Demonstrated creativity and quick problem-solving capabilities. Research and/or work experience in a relevant field, such as machine learning, deep learning, reinforcement learning, NLP, recommendation systems, pattern recognition, signal processing, data mining, artificial intelligence, or computer vision.  Experience with distributed systems (e.g., Spark, Ray, Kubernetes, Slurm). Experience in CUDA, OpenCL, Triton or other accelerator programming language. Intent to return to degree-program after the completion of the internship. Graduating between December 2026 and August 2027.  Compensation: The monthly salary range for this role is $ 7,300 - $10,600 per month. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Master-s-Degree-_JR-202524216",
       "job_posted_at_datetime_utc": "2025-12-12T02:34:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-multiple-teams-seattle"
+      "id": "general-motors-intern-multiple-teams-seattle",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
@@ -661,16 +545,18 @@
       "employer_name": "General Motors",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionGM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.) To help facilitate administration of the relocation stipend if you are selected and eligible, please apply using the permanent address you would move from.Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Location: San Francisco, California Sunnyvale, California  Mountain View, California Seattle, Washington   About the Team:  We are building a state-of-the-art AI training platform in close collaboration with model teams to deliver Autonomous car milestones, maximizing MFU and iteration speed, and enhancing inference systems. We are augmenting training, evaluation and the deployment loop with a data flywheel to validate performance and continuously improve Autonomous driving and Active Safety. We accelerate compute performance through architectural changes and low-level optimizations, informed by advanced Carbench/HIL platforms, AI tooling and workflows and instrumentation built in-house. We streamline compiler/build and modelbench performance; enhance data processing, preprocessing, and bulk inference; and improve monitoring and availability to increase velocity and quality.  About the Role:  As an intern, you will help develop and optimize our AI training platform by improving data processing pipelines, accelerating model training and inference workflows, and/ or  enhancing testing infrastructure like Carbench/HIL. You will support tool development, instrumentation, and system monitoring to boost reliability, reduce latency, and increase iteration speed for advancing autonomous driving performance.  What You’ll Do: Develop scalable infrastructure and tools to support model training, regression, and rules-based models. Suggest, collect and synthesize requirements and create effective feature roadmap. Code deliverables in tandem with the engineering team. Adapt standard machine learning methods to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU). Perform specific responsibilities which vary by team.  Required Qualifications: Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelor's degree in computer science or a related technical field. Research and/or work experience in a relevant field, such as machine learning, deep learning, reinforcement learning, NLP, recommendation systems, pattern recognition, signal processing, data mining, artificial intelligence, or computer vision. Experience in systems software or algorithms. Experience with modern object-oriented programming languages (e.g., Java, C++, Python) .  Strong communication skills with experience collaborating across cross-functional teams Able to work fulltime, 40 hours per week   Preferred Qualifications Intent to return to degree-program after the completion of the internship. Demonstrated software engineer experience via an internship, work experience, coding competitions. Familiarity with AI –assisted engineering tools (e.g., for code generation, model analysis, or experiment planning) to enhance productivity and understanding of ML systems.  Demonstrated creativity and quick problem-solving capabilities. Research and/or work experience in a relevant field, such as machine learning, deep learning, reinforcement learning, NLP, recommendation systems, pattern recognition, signal processing, data mining, artificial intelligence, or computer vision Experience with distributed systems (e.g., Spark, Ray, Kubernetes, Slurm) Experience in CUDA, OpenCL, Triton or other accelerator programming language. Intent to return to degree-program after the completion of the internship. Graduating between December 2026 and August 2027. Compensation: The monthly salary range for this role is $7,300 - $8,600 per month. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM  \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Systems-Engineer---Autonomous-Driving--Bachelor-s-Degree-_JR-202523395",
       "job_posted_at_datetime_utc": "2025-12-12T02:33:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-2026-summer-intern-machine-learning-systems-engineer-autonomous-driving-seattle"
+      "id": "general-motors-2026-summer-intern-machine-learning-systems-engineer-autonomous-driving-seattle",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
@@ -679,16 +565,18 @@
       "employer_name": "University Corporation for Atmospheric Research",
       "job_city": "Boulder",
       "job_state": "CO",
-      "job_description": "Join University Corporation for Atmospheric Research in this exciting opportunity.",
+      "job_description": "Job Description Summary:UCAR is excited to announce the job opening for the 2026 NSF Unidata Student Intern.The 2026 NSF Unidata Summer Internship will offer graduate students and upper-level undergraduates the opportunity to work closely with Unidata’s professional staff on software development projects that interest them and benefit the wider Unidata community. Interns interact with software developers, instructional designers, technical writers, and other mentors within the program, building skill with modern software development processes, learning about data-enabled Earth Systems Science, and generally getting to know what it’s like to work in a community-focused organization supporting Earth Science research and education. Participants contribute to Unidata’s innovative data access, analysis, and visualization tools by writing code, creating learning materials, or participating in other aspects of the software development lifecycle.Position Details: Visa Sponsored Job:NoRelocation Assistance Eligible:NoJob Location: Boulder, ColoradoPosition Type & Term:Full time, Term - Casual (Fixed Term)Compensation Min - Mid Range:Undergraduate Interns: $23.41/hr; Graduate Interns: $28.32/hrApplication NotesAs an intern, you will choose a summer focus from a wide range of areas where NSF Unidata has active projects. Some examples include:Contributing to existing data management, analysis, and visualization software packages written in languages like Python, Java, and C.Creating learning materials that help students and educators take advantage of NSF Unidata software and services.Investigating ways that leading-edge technologies such as machine learning, software containerization, and cloud computing can benefit the Earth system science community.While we encourage you to think about focus areas you might be interested in, and to take a look at some of the things previous interns have worked on, you'll work together with NSF Unidata staff mentors to choose projects once the internship begins.The 2026 program is an 11-week summer position (40 hours / week) running from May 18, 2026 to July 31, 2026. As circumstances permit, interns will have the opportunity to work full-time in person and/or hybrid at the NSF Unidata Program Center (UPC) in Boulder, Colorado. Interns receive an hourly stipend and will be provided with housing (shared with other UCAR interns) and transportation costs to and from Boulder. Additionally, NSF Unidata will arrange for 2026 interns to attend the 2027 AMS annual meeting to present their work.Application Deadline: This position will be posted until 11:59pm MT, Friday, February 6, 2026. Applications will not be accepted past this date, and candidates will receive a status update no later than Monday, March 16, 2026.Required application materials: Resume/CV (preferably in PDF Format)Questionnaire (to be completed when submitting your application) In lieu of a traditional cover letter, the hiring team wants to learn more about your skills/experiences regarding very specific questions related to your skills, education, and academic/career goals to be successful in this position. As part of your application, you will be asked to submit answers to two essays (up to 3,000 character limit per essay). Your essays will be read and weighed equally to your resume, so please ensure you're providing detailed, yet informative, responses based on your experiences. What drew you to apply for this internship? How do you hope the experience will benefit you?How could your skills, education, and experience be used during the Unidata internship? If possible, provide specific examples of relevant projects you have worked on previously.Note: Candidates who advance in our selection process may be asked to submit a sample project (e.g. past class assignment, research project, previous work project, etc.) that highlights relevant skills.Background checks are conducted for candidates who are offered the internship opportunity. Learn more.Work Authorization/Visa Sponsorship: Not available. You must be (a) a current U.S. Citizen; (b) lawfully admitted for permanent residence in the United States; or (c) a protected individual as defined by 8 USC1324b(a)(3).Work Location:  This position is open to students seeking in-person and hybrid (combination of in-person and remote) opportunities. Regardless of flexible work arrangements, UCAR requires ALL positions to be performed within the U.S., excluding U.S. Territories.Duration of Internship: Monday, May 18, 2026 - Friday, July 31, 2026 (11 weeks)Travel & Accommodation: NSF Unidata Interns will receive housing accommodations and round-trip travel to Boulder, CO for this internship. Please note that the benefits listed below in the Benefits Overview section do not apply to summer interns.What You Will DoHere is a summary of what one would expect to be generally responsible for in this role.Key ResponsibilitiesResearch / Scientific Software DevelopmentEngage in research that builds on NSF Unidata technologies and involves using, designing, and/or modifying existing NSF Unidata software.Reporting / SeminarsIn addition to working closely with individual developers, you will attend technical staff meetings to report on the status of your project. You'll also have opportunities to update the UPC staff on the progress of your project through informal “brown bag” talks. And you'll also be encouraged to share your progress and experiences at UCAR and Unidata with a larger community by posting to the Unidata developer's blog.In the last week of your internship, you will have the opportunity to give a NSF Unidata Community Seminar describing your experience and the outcomes of your summer work.Unidata will also arrange for your attendance at the 2027 AMS Annual Meeting Student Conference, allowing you to present your internship work to a wide audience of working scientists and other students. We'll help you get started on your presentation and abstract submission during the summer.   WritingThe intern will be expected to document their work (for projects that involve writing code, this includes in-code documentation as well as user level documentation). The student will be encouraged to participate in the Unidata Developer’s Blog throughout their summer experience.Who We'd Love To Join Our TeamSuccessful candidates will ensure their application materials speak to the following criteria:Education & ExperienceMust be currently enrolled in an undergraduate program as a sophomore, junior, or senior, or enrolled in a graduate level program with a focus on earth science or, if in a related field (e.g., computing or engineering), some earth science coursework preferred.Knowledge, Skills, and AbilitiesDemonstrated knowledge and skill in the areas of data access, distribution, analysis, and/or visualization.Basic knowledge, through coursework, of earth and/or computer science.Ability and willingness to learn and use new scientific computing tools and programs.Excellent oral and written communication skills.Ability to work with a diverse group of peers.Ability to work full-time virtually or in Boulder, Colorado during the summer program.Ability to interact with mentors and peers in a manner that supports collaboration and inquiry.Basic problem-solving skills: exercises judgment when to ask for help. Consults with supervisor on larger job or community related issues.Desired, but not required:For software development projects, working knowledge of at least one Version Control tool, preferably Git.Experience with Earth system science data formats (e.g., netCDF, GRIB, BUFR).QUESTIONS?For help with the Workday application process, please reach out to Meghan Myron-Karels (meghanmk@ucar.edu).For general questions regarding the NSF Unidata program, please contact Ryan May (rmay@ucar.edu).  Commitment to Job Application FairnessApplicants are not required to provide age or age-related information and may redact information related to age, date of birth, or dates of attendance at or graduation from an educational institution from any submissions during the initial application process.Some Final ConsiderationsAt NSF NCAR| UCAR | UCP, you will work alongside a dedicated team of professionals conducting critical research and community outreach to solve complex Earth system science  problems including climate change, air pollution, extreme weather, floods, drought, wildfires, and space weather, all with the goal of improving human life and reducing economic loss. Each of us, from scientists to the professionals who support their work, serves the public and a collaborative community of scientists in our mission to understand the complex processes that make up the Earth system, from the ocean floor to the Sun’s core.Flexible WorkAt UCAR, we are committed to supporting our mission by giving staff the flexibility to find the schedule and location that works best to maintain their own work-life circumstances and reach their full potential as professionals. Many positions within our organization are eligible for fully on-site, hybrid (three days per week) and/or flexible work hours.Equal Opportunity EmployerUCAR is committed to providing equal opportunity for all employees and applicants for employment and does not discriminate on the basis of race, age, creed, color, religion, national origin or ancestry, sex, gender, disability, veteran status, genetic information, sexual orientation, gender identity or expression, or pregnancy. Whatever your intersection of identities, you are welcome at UCAR.Export ControlAll positions are required to comply with U.S. export compliance regulations and work location requirements regarding access to facilities and research systems. Work LocationUCAR requires ALL positions to be performed within the U.S., excluding U.S. Territories.AI SoftwareChatGPT and similar AI software are powerful tools that are changing the way society receives, processes, and leverages information promptly. While we acknowledge its benefits and do not restrict leveraging it with job applications, we highly encourage a majority of the applicant material to be original work.",
       "job_apply_link": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/XMLNAME-2026-NSF-Unidata-Intern_REQ-2025-178-1",
       "job_posted_at_datetime_utc": "2025-12-12T02:26:59.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "university-corporation-for-atmospheric-research-unidata-intern-boulder"
+      "id": "university-corporation-for-atmospheric-research-unidata-intern-boulder",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
@@ -697,16 +585,18 @@
       "employer_name": "GCI",
       "job_city": "Anchorage",
       "job_state": "AK",
-      "job_description": "Join GCI in this exciting opportunity.",
+      "job_description": "GCI's Telecommunications Internship program is designed to give students hands-on experience in a real-world business environment while interfacing with GCI professionals to learn about various employment opportunities available within the telecommunications industry. Students will work alongside GCI employees to develop a project that is aligned with their interests and the needs of the department they are assigned to.",
       "job_apply_link": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003284",
       "job_posted_at_datetime_utc": "2025-12-12T02:14:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "gci-telecommunications-intern-engineering-anchorage"
+      "id": "gci-telecommunications-intern-engineering-anchorage",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
@@ -715,16 +605,18 @@
       "employer_name": "AstraZeneca",
       "job_city": "San Carlos",
       "job_state": "CA",
-      "job_description": "Join AstraZeneca in this exciting opportunity.",
+      "job_description": "We are looking Sophomore and Junior students majoring in Mechanical Engineering, Chemical Engineering, Chemistry, Biology, Biochemistry, or a related field for 12-week internship role in Redwood City, CA.Position Duties:Roles at our Redwood City site will fall under the below departments:Facilities Engineering:Support Facilities team day to day activities such as reviewing and analyzing dataSupport troubleshooting equipment issues with technicians and engineersBuild out digital apps and/or dashboards with MS Power toolsQuality Projects:Play as a key member of the project team with planning, execution and implementation of quality project.Learn and Employ LEAN, Six sigma methodologies.Understand and leverage AI/digital tools as necessary technologiesManufacturing Engineering:Identify equipment issues and engineer potential solutionsTrack, trend, and analyze in-process data using statistical process control (SPC) methods  or visual dashboardsProvide engineering solutions to manufacturing challenges and meet all safety, quality, and supply  requirements Position Requirements:Master’s level and PharmD students majoring Mechanical Engineering, Chemical Engineering, Chemistry, Biology, Biochemistry, or a related field.Candidates must have an expected graduation date after August 2026.Software exposure and coding skills (SQL) for Microsoft Power Apps, PowerBI and Spotfire are preferred.Experience with AI and digital tools are preferredWet Laboratory experience is a plusKnowledge of and ability to read P&IDs and other technical information and incorporate into user, facility, and equipment specifications is preferredUnderstanding of MS Office Suite (Excel, Word, PowerPoint) and basic statistics is required.US Work Authorization is required at time of application.This role will not be providing CPT support.Ability to report onsite to Redwood City, CA 5 days per week. This role will not provide relocation assistance.Compensation range: $24-$26 per hourDate Posted11-Dec-2025Closing Date08-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
       "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Redwood-City---CA/Undergraduate-Internships-in-Redwood-City--CA_R-241546",
       "job_posted_at_datetime_utc": "2025-12-12T00:52:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "astrazeneca-undergraduate-intern-san-carlos"
+      "id": "astrazeneca-undergraduate-intern-san-carlos",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T21:53:28.386Z",
     "postedAt": null
   },
   {
