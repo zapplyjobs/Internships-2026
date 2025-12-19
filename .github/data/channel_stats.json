@@ -1,17 +1,17 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2025-12-19T19:35:08.649Z",
-  "totalPosts": 428,
+  "lastUpdated": "2025-12-19T19:44:49.591Z",
+  "totalPosts": 444,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 131,
-      "lastPost": "2025-12-19T19:35:00.439Z"
+      "posts": 136,
+      "lastPost": "2025-12-19T19:44:31.031Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa-int",
-      "posts": 30,
-      "lastPost": "2025-12-19T19:35:02.174Z"
+      "posts": 33,
+      "lastPost": "2025-12-19T19:44:49.591Z"
     },
     "1449956806414700594": {
       "name": "🚌・boston-int",
@@ -20,23 +20,23 @@
     },
     "1449956348543369464": {
       "name": "🤠・austin-int",
-      "posts": 8,
-      "lastPost": "2025-12-18T23:04:10.755Z"
+      "posts": 9,
+      "lastPost": "2025-12-19T19:44:32.769Z"
     },
     "1446528260627501228": {
       "name": "🤖・ai-internships",
-      "posts": 66,
-      "lastPost": "2025-12-19T19:35:06.915Z"
+      "posts": 68,
+      "lastPost": "2025-12-19T19:44:41.165Z"
     },
     "1449956487584682044": {
       "name": "🌆・chicago-int",
-      "posts": 12,
-      "lastPost": "2025-12-19T19:07:56.712Z"
+      "posts": 13,
+      "lastPost": "2025-12-19T19:44:39.296Z"
     },
     "1449956664458350765": {
       "name": "🌉・san-francisco-int",
-      "posts": 95,
-      "lastPost": "2025-12-19T19:00:02.808Z"
+      "posts": 96,
+      "lastPost": "2025-12-19T19:44:29.111Z"
     },
     "1449956514344472617": {
       "name": "🌧️・seattle-int",
@@ -45,13 +45,13 @@
     },
     "1446528167362822296": {
       "name": "📈・data-science-internships",
-      "posts": 16,
-      "lastPost": "2025-12-19T19:08:15.084Z"
+      "posts": 17,
+      "lastPost": "2025-12-19T19:44:47.918Z"
     },
     "1449956299793105019": {
       "name": "🗽・new-york-int",
-      "posts": 25,
-      "lastPost": "2025-12-19T19:35:08.649Z"
+      "posts": 26,
+      "lastPost": "2025-12-19T19:44:42.988Z"
     },
     "1449956833165971568": {
       "name": "🦢・los-angeles-int",
@@ -72,6 +72,11 @@
       "name": "📣・marketing-internships",
       "posts": 1,
       "lastPost": "2025-12-19T19:28:08.930Z"
+    },
+    "1449956705780895774": {
+      "name": "☀️・sunnyvale-int",
+      "posts": 1,
+      "lastPost": "2025-12-19T19:44:25.608Z"
     }
   }
 }
