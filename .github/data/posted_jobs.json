@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:17:32.883Z",
+  "lastUpdated": "2025-12-19T19:28:12.114Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9505,14 +9505,102 @@
       "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=7060377",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "clarity-innovations-internship-software-engineering-intern-reston-2025-12-19-1",
+      "jobId": "clarity-innovations-internship-software-engineering-intern-reston",
+      "company": "Clarity Innovations",
+      "title": "Internship – Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T19:27:39.655Z",
+      "sourceDate": "2025-07-14T18:11:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
+      "discordThreadId": "1451657239185199236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ramp-software-engineer-internship-ios-new-york-city-2025-12-19-1",
+      "jobId": "ramp-software-engineer-internship-ios-new-york-city",
+      "company": "Ramp",
+      "title": "Software Engineer Internship iOS",
+      "postedToDiscord": "2025-12-19T19:27:43.261Z",
+      "sourceDate": "2025-07-10T09:23:14.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/ramp/0f1c331d-21b6-44fb-a326-5357d6e30188",
+      "discordThreadId": "1451657253718589513",
+      "instanceNumber": 1
+    },
+    {
+      "id": "splunk-site-reliability-engineer-intern-remote-2025-12-19-1",
+      "jobId": "splunk-site-reliability-engineer-intern-remote",
+      "company": "Splunk",
+      "title": "Site Reliability Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:27:44.988Z",
+      "sourceDate": "2025-07-09T17:03:20.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/careers/splunk-careers/job/oFhewfwq",
+      "discordThreadId": "1451657268461572170",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-edison-research-intern-multiple-teams-schenectady-2025-12-19-1",
+      "jobId": "ge-vernova-edison-research-intern-multiple-teams-schenectady",
+      "company": "GE Vernova",
+      "title": "Edison Research Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-19T19:27:51.576Z",
+      "sourceDate": "2025-07-15T23:51:20.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Advanced-Research---2026-Edison-Program-Internship_R5015953-1",
+      "discordThreadId": "1451657288631713833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citadel-launch-intern-miami-2025-12-19-1",
+      "jobId": "citadel-launch-intern-miami",
+      "company": "Citadel",
+      "title": "Launch Intern",
+      "postedToDiscord": "2025-12-19T19:27:58.260Z",
+      "sourceDate": "2025-07-11T01:12:53.000Z",
+      "sourceUrl": "https://www.citadel.com/careers/details/launch-intern-us/",
+      "discordThreadId": "1451657315865595926",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citadel-securities-machine-learning-researcher-phd-intern-miami-2025-12-19-1",
+      "jobId": "citadel-securities-machine-learning-researcher-phd-intern-miami",
+      "company": "Citadel Securities",
+      "title": "Machine Learning Researcher – PhD Intern",
+      "postedToDiscord": "2025-12-19T19:28:01.966Z",
+      "sourceDate": "2025-07-11T01:12:50.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/",
+      "discordThreadId": "1451657332210663505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "armada-ai-intern-bellevue-2025-12-19-1",
+      "jobId": "armada-ai-intern-bellevue",
+      "company": "Armada",
+      "title": "AI Intern",
+      "postedToDiscord": "2025-12-19T19:28:05.700Z",
+      "sourceDate": "2025-07-10T15:30:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/armada/jobs/4684318008",
+      "discordThreadId": "1451657347217887365",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lamb-weston-lamb-weston-summer-internship-program-kennewick-2025-12-19-1",
+      "jobId": "lamb-weston-lamb-weston-summer-internship-program-kennewick",
+      "company": "Lamb Weston",
+      "title": "Lamb Weston Summer Internship Program",
+      "postedToDiscord": "2025-12-19T19:28:12.113Z",
+      "sourceDate": "2025-07-09T00:05:51.000Z",
+      "sourceUrl": "https://lambweston.wd1.myworkdayjobs.com/lamb_external/job/Kennewick-WA-USA-Kennewick-Office/Annual-Summer-Intern-Program--2023-_Req-230467",
+      "discordThreadId": "1451657375273451631",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 864,
+    "totalJobs": 872,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:17:32.883Z",
+      "date": "2025-12-19T19:28:12.114Z",
       "archived": 0
     }
   }
