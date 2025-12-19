@@ -101,166 +101,6 @@
   },
   {
     "job": {
-      "job_title": "LLM Algorithmic Optimization Engineer – Intern",
-      "employer_name": "Nio",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "JOB DESCRIPTIONAbout NIO NIO is a pioneer and a leading company in the premium smart electric vehicle market. Founded in November 2014, NIO’s mission is to shape a joyful lifestyle. NIO aims to build a community starting with smart electric vehicles to share joy and grow together with users.NIO designs, develops, jointly manufactures and sells premium smart electric vehicles, driving innovations in next-generation technologies in autonomous driving, digital technologies, electric powertrains and batteries. NIO differentiates itself through its continuous technological breakthroughs and innovations, such as its industry-leading battery swapping technologies, Battery as a Service, or BaaS, as well as its proprietary autonomous driving technologies and Autonomous Driving as a Service, or ADaaS.NIO’s product portfolio consists of the ES8, a six-seater smart electric flagship SUV, the ES7 (or the EL7), a mid-large five-seater smart electric SUV, the ES6, a five-seater all-round smart electric SUV, the EC7, a five-seater smart electric flagship coupe SUV, the EC6, a five-seater smart electric coupe SUV, the ET7, a smart electric flagship sedan, and the ET5, a mid-size smart electric sedan.About NIO NIO is a pioneer and a leading company in the premium smart electric vehicle market. Founded in November 2014, NIO’s mission is to shape a joyful lifestyle. NIO aims to build a community starting with smart electric vehicles to share joy and grow together with users.NIO designs, develops, jointly manufactures and sells premium smart electric vehicles, driving innovations in next-generation technologies in autonomous driving, digital technologies, electric powertrains and batteries. NIO differentiates itself through its continuous technological breakthroughs and innovations, such as its industry-leading battery swapping technologies, Battery as a Service, or BaaS, as well as its proprietary autonomous driving technologies and Autonomous Driving as a Service, or ADaaS.NIO’s product portfolio consists of the ES8, a six-seater smart electric flagship SUV, the ES7 (or the EL7), a mid-large five-seater smart electric SUV, the ES6, a five-seater all-round smart electric SUV, the EC7, a five-seater smart electric flagship coupe SUV, the EC6, a five-seater smart electric coupe SUV, the ET7, a smart electric flagship sedan, and the ET5, a mid-size smart electric sedan.Roles and Responsibilities:Conduct research and apply cutting-edge technologies to optimize Large Language Models (LLMs) and multimodal models, exploration and implementation of the core algorithmic optimization on heterogeneous architectures, for highly efficient LLM inference as well as deployment across distributed and heterogeneous hardware environments.Focus on model optimization from a systems perspective, ensuring efficient deployment in the vehicle’s digital cockpit and advanced driving (AD) domain.Collaborate with cross-functional teams to ensure the integration of optimized models into real-world automotive applications.Contribute to the entire pipeline from research, development, and testing, through to deployment on hardware, including GPUs and other distributed systems.Qualifications: Currently pursuing or completed a PhD or Master’s degree in Computer Science, Computer Engineering, Applied Mathematics, Communications, Electronics, or a related field with relevant research projects and publications.Strong understanding of GPU/NPU architecture and optimization techniques to identify and address bottlenecks.Proficient in LLM and VLM architectures and algorithms, familiar with transformer based NLP / Audio / CV algorithms and technologies.Proficiency in Python and experience with AI-related training and inference tools such as PyTorch.Proficiency in C/C++ programming, familiar with at least one commonly used LLM inference engines.Hands-on experience with model-serving frameworks such as Open Neural Network Exchange (ONNX).Familiarity with debugging code in distributed computing environments.Experience in LLM inference optimization on resource constrained edge devices is a plus.Preferred Qualification:Ph.D. in computer science, artificial intelligence, or related fields; or Masters degree + 3 years of relevant industry experienceExperience in inference optimization techniques of deep learning models or libraries on hardware architectures;Familiar with microkernel architecture, Linux kernel, hypervisor, middleware, and application frameworkThose who have good publication records and have published high impact, innovative papers are preferredCompensation:The US base salary range for this full-time position is $38.00 - $46.00.Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training.Please note that the compensation details listed in US role postings reflect the base salary only. It does not include discretionary bonus, equity, or benefits.Benefits:Along with competitive pay, as a full-time NIO employee, you are eligible for the following benefits on the first day you join NIO:CIGNA EPO, HSA, and Kaiser HMO medical plans with $0 for Employee Only Coverage.  Dental (including orthodontic coverage) and vision plan.  Both provide options with a $0 paycheck contribution covering you and your eligible dependents.Company Paid HSA (Health Savings Account) Contribution when enrolled in the High Deductible CIGNA medical planHealthcare and Dependent Care Flexible Spending Accounts (FSA)401(k) with Brokerage Link optionCompany paid Basic Life, AD&D, short-term and long-term disability insuranceEmployee Assistance ProgramSick and Vacation time13 Paid Holidays a yearPaid Parental Leave for first 8 weeks at full pay (eligible after 90 days of employment with NIO)Paid Disability Leave for first 6 weeks at full pay (eligible after 90 days of employment with NIO)Voluntary benefits including: Voluntary Life and AD&D options for you, your spouse/domestic partner and dependent child(ren), pet insuranceCommuter benefitsMobile Cell Phone CreditHealthjoy mobile benefit app supporting you and your dependents with benefit questions on the go & support with benefit billing questionsFree lunch and snacksOnsite gymEmployee discounts and perks program",
-      "job_apply_link": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119",
-      "job_posted_at_datetime_utc": "2025-07-29T23:46:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nio-llm-algorithmic-optimization-engineer-intern-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer Internship",
-      "employer_name": "Hewlett Packard (HP)",
-      "job_city": "Spring",
-      "job_state": "TX",
-      "job_description": "Software Developer InternshipDescription -The following posting is a pipeline requisition, meant to accumulate candidates for 2026 Summer Internships. Qualified applicants will be contacted in concert with the approval and publication of identical, approved positions within HP, Inc.This opportunity is intended for conversion to a full-time role that will not offer work authorization sponsorship in the future (full-time conversion pending performance evaluation post internship and available headcount). Interested candidates must be currently eligible to work in the US AND must not require work authorization sponsorship in the future. HP, Inc. will not provide any assistance or sign documentation in support of immigration sponsorship including Curricular Practical Training (CPT) or Optional Practical Training (OPT).Candidates who identify with a group that is historically underrepresented in the technology sector including by not limited to, African American, Latino, Native American, individuals with disabilities and Veterans are encouraged to apply.About UsInnovation is in HP’s DNA. From our origins in a Palo Alto garage in 1939, to our current position as one of the world’s leading technology companies, HP has grown to become a leader in technology and corporate culture, inspiring innovators, and entrepreneurs around the globe. The Program:Our future success depends on the innovation and fresh ideas students bring to HP, Inc. We are hiring students with a diverse set of skills and experiences to join us, across the different organizations that make us HP, inc. Our intern program is intended to enhance your overall learning experience, give you an opportunity to make an impact, have some fun, and meet great people along the way.  Join us for a 12-week paid summer internship designed to let you apply your classroom learnings to real world challenges.  Our internships have a thoughtful balance of networking, executive speakers, community involvement, big meaty projects (no paper filing here!) and fun!The Team: At HP, we believe in the power of ideas. And we believe that ideas thrive best in a culture of teamwork. That is why everyone, in every function, is encouraged to develop, express and share their creativity to deliver better outcomes for our customers. Pillars of software specialization:Software Developer:Coding /Tools/Knowledge Areas: Coding/ Tools: Java, Python, C++, React JS, Node JS, RESTful and GraphQL APIs, Azure DevOps and AWS CodePipeline, RESTful and GraphQL APIs, Splunk observability tools, such as Real User Monitoring (RUM), Application Performance Monitoring (APM), and Log Observer. Backend Systems:Coding /Tools/Knowledge Areas: Python, C/C++/ Linux Development, GIT, Basic circuit design Cryptography, Test-Driven Design(TDD), Unit test frameworks.Cloud Infrastructure:Coding /Tools/Knowledge Areas: Go language, AWS services: EKS, EB, EC2, AWS Lambda, RDS, DynamoDB, SQS, Cloud Formation 2, Linux, bash scripts RabbitMQ, Apache ActiveMQ, Apache Kafka, networking, DNS management, firewall policies, Spunk, Prometheus, Cloudwatch, Kibana, Grafana.Data Privacy:Coding /Tools/Knowledge Areas: Intermediate skills with Microsoft tools like PowerPoint, Excel, and Word, Knowledge of industry standards for data privacyData Science and Analytics:​Coding /Tools/Knowledge Areas: Python, Splunk, SQL, Data Structures, Data Analysis, Automation and AI, Jira, Power BI, Excel and Data, forecasting, modeling, software development.Firmware Developer:Coding /Tools/Knowledge Areas: Firmware/Software development, C++, GHE, GitHub, Debugging, Quality Testing, Software Development LifecycleCyber Security:Coding /Tools/Knowledge Areas: Python, Java Script, SQL, encryption algorithms, authentication protocols, firewalls, IDS/IPS systems, and attack vectors, Linux and Windows, and networking concepts; TCP/IPMobile Applications Developer:Coding /Tools/Knowledge Areas: Apple and/or Android Mobile Application related languages such as Swift, Objective C, Kotlin, Java, etc.System Validation Engineer:Coding /Tools/Knowledge Areas: Software Quality Assurance (SQA), Coding Language(Understanding of code architecture: C, Python, Java), Agile Development (Lean, Scrum, DevOps), Project Management, Data Analysis and Reporting, Computer Architecture, Office365​Systems Integration and Design:Coding /Tools/Knowledge Areas: Ruby-on-Rails, Java, Angular, AWS, GO, , Familiarity with Test-Driven-Development, printing system architectures, embedded systems, client/server infrastructure, networking technologies, Windows, MAC, Linux operating systemsUX Design:Coding/Tools/Knowledge Areas: Figma, Adobe Creative SuiteEducation and Experience Required: 3rd Year of Bachelor's degree completed or 1st year of Master's program completed.--typically technical degree specialization.Must be enrolled full time at an accredited university.Able to obtain work authorization in the United States in 2026, and not require sponsorship in the future.Preferred Majors/Programs: Computer ScienceSoftware EngineeringComputer EngineeringPreferred Knowledge and Skills: As a Software Engineer Intern, you will work with a team in the following types of roles:Data analyticsData scienceSoftware applications engineeringSoftware development opsSoftware product managerTechnical program managementWe are looking for visionaries who are ready to make an impact on the way the world works. At HP, the future is yours to create. Thanks for taking the time to review our job, if you think it is a match to your knowledge and interests please apply today— we are eager to learn more about you. HP is an equal opportunity employer:  https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c08129225 The pay range for this position is $31 to $37 per hour (applies to US candidates only).  Pay varies by work location, job-related knowledge, skills, and experience. Benefits:  Review HP US benefits: https://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c07065756 HP offers a comprehensive benefits package for US Interns working at least 20 hours weekly, including:Health insuranceDental insuranceVision insuranceLong term/short term disability insuranceEmployee assistance programFlexible spending accountLife insuranceGenerous time off policies, including; 4-12 weeks fully paid parental leave based on tenure13 paid holidays15 days paid time off (US benefits overview)Available hours are pro-rated based on hire date and scheduled hoursThe compensation and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law.  Explore HP  #LI-POST Job -AdministrationSchedule -Full timeShift -No shift premium (United States of America)Travel -Relocation -Equal Opportunity Employer (EEO) - HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s).Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence.For more information, review HP’s EEO Policy or read about your rights as an applicant under the law here: “Know Your Rights: Workplace Discrimination is Illegal\"",
-      "job_apply_link": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Developer-Internship_3153304-1",
-      "job_posted_at_datetime_utc": "2025-07-29T22:56:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hewlett-packard-hp-software-developer-internship-spring",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Embedded Software Engineering Co-Op",
-      "employer_name": "General Dynamics",
-      "job_city": "Scottsdale",
-      "job_state": "AZ",
-      "job_description": "Join General Dynamics in this exciting opportunity.",
-      "job_apply_link": "https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420",
-      "job_posted_at_datetime_utc": "2025-07-29T15:03:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-dynamics-embedded-software-engineering-co-op-scottsdale",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Unify",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Join Unify in this exciting opportunity.",
-      "job_apply_link": "https://jobs.ashbyhq.com/unify/95113ca1-4f4a-4435-8636-5758ce0d155e",
-      "job_posted_at_datetime_utc": "2025-07-29T14:57:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "unify-software-engineering-intern-san-francisco",
-      "description_platform": "ashby",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Full-Stack Engineer Intern",
-      "employer_name": "AI Fund",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
-      "job_apply_link": "https://jobs.lever.co/AIFund/08af7df2-3085-4d7b-ad74-10767e2d93db",
-      "job_posted_at_datetime_utc": "2025-07-29T14:23:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ai-fund-full-stack-engineer-intern-san-francisco",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Internship",
-      "employer_name": "Hudson River Trading",
-      "job_city": "New York",
-      "job_state": "NY",
-      "job_description": "Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.",
-      "job_apply_link": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786",
-      "job_posted_at_datetime_utc": "2025-07-28T23:32:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hudson-river-trading-software-engineering-internship-new-york",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Arcade",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
-      "job_apply_link": "https://jobs.lever.co/Arcade/07c31ffc-8333-4819-bde3-e2fd4272ad86",
-      "job_posted_at_datetime_utc": "2025-07-28T17:36:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "arcade-software-engineering-intern-san-francisco",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Engineer Intern, Applied AI",
-      "employer_name": "Arcade",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "Sorry, we couldn't find anything hereThe job posting you're looking for might have closed, or it has been removed. (404 error).",
-      "job_apply_link": "https://jobs.lever.co/Arcade/1c849dd0-e3b5-4f73-bb56-1dc159ec6820",
-      "job_posted_at_datetime_utc": "2025-07-28T17:36:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "arcade-research-engineer-intern-applied-ai-san-francisco",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-18T23:03:55.883Z",
-    "postedAt": "2025-12-19T19:00:07.322Z"
-  },
-  {
-    "job": {
       "job_title": "Data Analysis Intern",
       "employer_name": "NexThreat",
       "job_city": "Reston",
@@ -274,10 +114,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -294,10 +134,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -314,10 +154,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -334,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -354,10 +194,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -374,10 +214,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -414,10 +254,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-18T23:17:11.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:08:21.330Z"
   },
   {
     "job": {
@@ -470,11 +310,13 @@
       "job_posted_at_datetime_utc": "2025-07-15T23:07:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "honeywell-co-op-bachelors-software-eng-fall-2025-mason"
+      "id": "honeywell-co-op-bachelors-software-eng-fall-2025-mason",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -483,16 +325,18 @@
       "employer_name": "Akuna Capital",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Akuna Capital in this exciting opportunity.",
+      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data-driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a Software Engineer Intern on the C++ Team at Akuna: We are seeking Software Engineer Interns to join our innovative and growing technology team for our 10-week Akunacademy summer internship program. In this role, you will work alongside our trading and software teams to design and implement elegant solutions to complex and interesting problems. Software Engineer Interns at Akuna have the opportunity to use cutting-edge technology while working on high performance/low latency systems. We offer a team-based approach to trading and technology, believing that productive integration of the two groups is vital for success in this industry. Akuna loves Software Engineer Interns who are self-starters and have the ability to problem solve and think outside of the box. We value innovation and hard work, and we want you to make an impact at the firm. Whether you are interested in trading infrastructure, algorithms, exchange gateways, performance engineering, hardware or data capture and analysis, or something else, there’s engaging work to be done. If you are excited to jump in and make a difference, Akuna could be the place for you. The C++ teams work on applications where C++ is used for computational heavy-lifting and for applications that have timing-critical, low-latency processes such as trading strategies. C++ provides the flexibility and low-level control that our Software Engineers need to get maximum performance out of multi-core, super-scalar processors. No previous experience in finance or trading is required. Training and continuous education is provided for all Engineers to ensure they have the skills and knowledge needed to be successful. Qualities that make great candidates: Pursuing a BS/MS/ PhD in Computer Science, Engineering, Math, Physics or related field Experience programming in modern C++ Experience with several of the following – distributed systems, parallel processing, networking, data structures and algorithms and operating systems Strong analytic and problem-solving skills Exposure to scripting and rudimentary data mining and regression analysis, ideally in Python with Pandas and Numpy Ability to communicate with the trading team, obtain requirements, find solutions and implement them in a clean and concise way The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond to novel and unexpected problems Passion for innovation and building systems from the ground up Ability to adapt to an ever-changing environment Self-starter attitude with the ability to work independently Strong sense of ownership Must be graduating by August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using CPT, OPT, or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
       "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=6996427",
       "job_posted_at_datetime_utc": "2025-07-14T18:40:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-c-chicago"
+      "id": "akuna-capital-software-engineer-intern-c-chicago",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -501,16 +345,18 @@
       "employer_name": "Akuna Capital",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Akuna Capital in this exciting opportunity.",
+      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a Full Stack Web Software Engineer Intern on the User Interface team at Akuna: We are seeking Web Software Engineer Interns to join the UI team for our 10-week Akunacademy summer internship program. In this role, you will work directly with Traders, Quants, and other Software Engineers to design, build, test, and maintain real-time trading applications. Our applications are the primary way Akuna’s market-makers interact with the financial markets, and their performance allows us to confidently provide liquidity in times of volatility. In this role you will: Collaborate with cross-functional teams to design and develop web applications using React, TypeScript, and Python Implement sound and robust unit and integration tests to ensure the quality of our software Continuously discover, evaluate, and implement technologies to maximize both user experience and development efficiency Participate in Agile/Scrum development and shadow application support process Requirements for this role: Pursuing a Bachelors, Masters, or Ph.D. in technical field – Computer Science/Engineering or equivalent Must graduate by August 2027 Major GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. Qualities that make great candidates: Understanding of web programming languages (JavaScript, TypeScript, Python, HTML/CSS) Familiarity with Linux and a command-line shell Understanding of unit testing concepts and frameworks (e.g., pytest, Jest, Storybook) Familiarity with version control systems (e.g., Git) Solid problem-solving and analytical skills Excellent communication skills and the ability to work in a team environment Self-starter attitude with the ability to work independently In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! *Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
       "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7060087",
       "job_posted_at_datetime_utc": "2025-07-14T18:40:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-full-stack-web-chicago"
+      "id": "akuna-capital-software-engineer-intern-full-stack-web-chicago",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -519,16 +365,18 @@
       "employer_name": "Akuna Capital",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Akuna Capital in this exciting opportunity.",
+      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a C# .NET Desktop Software Engineer Intern on the User Interface team at Akuna: Akuna is seeking a Software Engineer Intern to join the UI team for our 10-week Akunacademy summer internship program. In this role, you will work directly with Traders, Quants, and other Software Engineers to design, build, test, and maintain real-time trading applications. Our applications are the primary way Akuna’s market-makers interact with the financial markets, and their performance allows us to confidently provide liquidity in times of volatility. In this role you will: Collaborate with cross-functional teams to design and develop Windows desktop applications written in C# .NET and WinForms/WPF Implement sound and robust unit and integration tests to ensure the quality of our software Continuously discover, evaluate, and implement technologies to maximize both user experience and development efficiency Participate in Agile/Scrum development and shadow application support process Requirements for this role: Pursuing a Bachelors, Masters, or Ph.D. in technical field – Computer Science/Engineering or equivalent Must graduate by August 2027 Major GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM Qualities that make great candidates: Understanding of .NET Framework and C# programming language Familiarity with WinForm or WPF applications is a plus Familiarity in object-oriented programming and design patterns Familiarity with version control systems (e.g., Git) Understanding of unit testing concepts and frameworks (e.g. NUnit) Solid problem-solving and analytical skills Excellent communication skills and the ability to work in a team environment **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! *Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
       "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7060377",
       "job_posted_at_datetime_utc": "2025-07-14T18:40:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-c-net-desktop-chicago"
+      "id": "akuna-capital-software-engineer-intern-c-net-desktop-chicago",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -537,16 +385,18 @@
       "employer_name": "Clarity Innovations",
       "job_city": "Reston",
       "job_state": "VA",
-      "job_description": "Join Clarity Innovations in this exciting opportunity.",
+      "job_description": "Clarity Innovations is a trusted national security partner, dedicated to safeguarding our nation’s interests and delivering innovative solutions that empower the Intelligence Community (IC) and Department of Defense (DoD) to transform data into actionable intelligence, ensuring mission success in an evolving world. Our mission-first software and data engineering platform modernizes data operations, utilizing advanced workflows, CI/CD, and secure DevSecOps practices. We focus on challenges in Information Warfare, Cyber Operations, Operational Security, and Data Structuring, enabling end-to-end solutions that drive operational impact. We are committed to delivering cutting-edge tools and capabilities that address the most complex national security challenges, empowering our partners to stay ahead of emerging threats and ensuring the success of their critical missions. At Clarity, we are people-focused and set on being a destination employer for top talent, offering an environment where innovation thrives, careers grow, and individuals are valued. Join us as we continue to lead innovation and tackle the most pressing challenges in national security. Program Goals Learn: Professional growth during your internship can be exposure to the Cyber Operations domain, learning a new programming language, or perfecting a new tradecraft technique. Contribute: There is a seat at the table for every one of our interns from day one. It is our goal that by the time you leave, your fingerprint is on a true operational contribution. Have Fun: Your time in our program may be limited, but the memories will last. It is our goal that you enjoy your time here and want to come back. Hire: The road doesn’t end at just the internship! Our end state is to bring on former interns full time after completing their school work. Role Our work focuses on creating software and data engineering platforms for customers throughout the DoD, IC and Federal Agency communities. We bring in students to work directly on our projects so that they can learn the basics of supporting CI/CD production and also the more complex nuances of government contracts. Responsibilities Support full time engineering teams Develop robust and high-quality software, while putting the user’s requirements first Integrate and build testing into their work, and coordinate with QA engineers to ensure products meet customer expectations Required Qualifications Pursuing a BS in Computer Engineering, Computer Science, or a related field Ability to obtain and maintain a Top Secret Security Clearance Experience with Go or Python (in the classroom or from another internship) Understanding of network programming fundamentals, particularly with networking, data structures, and data models Comfortable in a high-trust, adaptable team environment Preferred Qualifications Experience with CI/CD tools (Docker, Kubernetes) Experience building microservices (REST-based or otherwise) #LI-Remote We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.",
       "job_apply_link": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
       "job_posted_at_datetime_utc": "2025-07-14T18:11:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "clarity-innovations-internship-software-engineering-intern-reston"
+      "id": "clarity-innovations-internship-software-engineering-intern-reston",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -555,16 +405,18 @@
       "employer_name": "Citadel",
       "job_city": "Miami",
       "job_state": "FL",
-      "job_description": "Join Citadel in this exciting opportunity.",
+      "job_description": "<div>The Launch Internship is an eleven-week paid internship program for students aspiring to be engineers and seeking an opportunity learn about the finance industry. </div><div><br /></div><div>As a Launch Intern, you will join us in a premier destination of learning and mentorship. During the 11-week program, you will be immersed in the finance industry, collaborating with experienced engineers on projects that have impact on our firms and global capital markets. You will have the opportunity to network and socialize with peers and even connect with senior leaders at Citadel. </div><div><br /></div><div>At Citadel, our engineers work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles, work rapidly goes into production, whether we’re releasing new features, improving efficiency or reducing operational risk. We create systems architectures, develop platforms and build web frameworks—all critical to our business. We use state-of-the-art tools and apply innovative techniques including distributed computing, natural language processing, machine learning and more. </div><div><br /></div><div><b>Your Objectives:</b></div><ul><li>Aid in creating technological tools that bring investing and trading strategies to life </li><li>Work on high-performance, large data research platforms </li><li>Collaborate in small teams to help build the future of finance </li><li>Be immersed in the industry and see how tech is applied in finance </li><li>Learn and grow personally and professionally through project work and curated development programming </li></ul><div><br /></div><div><b>Your Skills &amp; Talents:</b></div><ul><li>Currently a sophomore pursuing a bachelor’s degree in Computer Science, Computer Engineering, or STEM related field</li><li>Intermediate proficiency in at least one coding language </li><li>Ability to communicate effectively in a collaborative, complex and highly technical team environment </li><li>Intellectual curiosity and passion for solving challenging problems using technology </li></ul><div><br /></div><div>Because Citadel is committed to an inclusive, respectful workplace culture, all candidates are welcome to apply. Candidates who have an ability to bring a diverse perspective to the firm as a result of their adaptability, cultural fluency, resilience, and life experiences are strongly encouraged to apply.</div><div><br /></div><div>Opportunities available in New York.</div><br><div><br/> <i><br/> In accordance with applicable law, the base salary range for this role is $4,300 to $4,800 per week.</i></div>",
       "job_apply_link": "https://www.citadel.com/careers/details/launch-intern-us/",
       "job_posted_at_datetime_utc": "2025-07-11T01:12:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "citadel-launch-intern-miami"
+      "id": "citadel-launch-intern-miami",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -573,16 +425,18 @@
       "employer_name": "Citadel Securities",
       "job_city": "Miami",
       "job_state": "FL",
-      "job_description": "Join Citadel Securities in this exciting opportunity.",
+      "job_description": "<div>At Citadel Securities, a leading global market maker, our team of quantitative researchers models the markets and brings trading strategies to life every day. Specifically, the goal of this team is to leverage and tailor the state-of-the-art machine learning and AI algorithms to modernize the quantitative trading industry. We’re looking for extraordinary and highly motivated researchers who are excited about solving challenging problems and iterating in a fast-paced environment. </div><div> </div><div>As an intern, you’ll get to challenge the impossible in research through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship. </div><div><br /></div><div>Our signature internship program takes place June through August. Occasionally, we can be flexible to other times of the year. You will be able to indicate your timing preference in the application.</div><div><br /></div><div><b>Your Objectives </b></div><ul><li>Use statistics, machine learning or AI (e.g. deep learning, NLP) to extract patterns from various kinds of datasets through innovative and rigorous research </li><li>Implement algorithms in high-quality code </li><li>Work with large data sets, including unconventional and unstructured data sources </li><li>Back-test models and document research findings </li></ul><div> </div><div><b>Your Skills &amp; Talents </b></div><ul><li>PhD degree in mathematics, statistics, physics, computer science, or another highly quantitative field </li><li>Advanced training and strong research track record in statistics, machine learning, AI, or another highly quantitative field </li><li>Hands on programming experience in scripting (e.g. Python) and/or compiled languages (e.g. C&#43;&#43;) </li><li>A background demonstrating strong problem-solving skills </li><li>An ability to communicate advanced concepts in a concise and logical way </li><li>Proficiency in creating and using algorithms to meticulously investigate and work through large data or error-checking problems </li></ul><div> </div><div>Opportunities available in Miami and New York.</div><br><div><br/> <i><br/> In accordance with applicable law, the base salary range for this role is $4,300 to $5,800 per week.</i></div>",
       "job_apply_link": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/",
       "job_posted_at_datetime_utc": "2025-07-11T01:12:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "citadel-securities-machine-learning-researcher-phd-intern-miami"
+      "id": "citadel-securities-machine-learning-researcher-phd-intern-miami",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {
@@ -591,16 +445,18 @@
       "employer_name": "Armada",
       "job_city": "Bellevue",
       "job_state": "WA",
-      "job_description": "Join Armada in this exciting opportunity.",
+      "job_description": "About the Company Armada is an edge computing startup that provides computing infrastructure to remote areas where connectivity and cloud infrastructure is limited, as well as areas where data needs to be processed locally for real-time analytics and AI at the edge. We’re looking to bring on the most brilliant minds to help further our mission of bridging the digital divide with advanced technology infrastructure that can be rapidly deployed anywhere. About the role We are seeking a motivated AI Intern to join our AI/ML team and contribute to cutting-edge projects in artificial intelligence and machine learning. Location. This role is On-site in our Bellevue, Washington office. What You'll Do (Key Responsibilities) Assist in building, training, and fine-tuning machine learning models. Conduct research on AI trends, tools, and techniques. Work with large datasets for data preprocessing, cleaning, and feature engineering. Optimize and evaluate model performance using various metrics. Support AI team members in deploying and integrating models into applications. Write and document scripts, workflows, and processes. Collaborate with cross-functional teams, including data engineers and software developers. Stay updated on the latest AI advancements and research papers. Required Qualifications Pursuing or recently completed a degree in Computer Science, Data Science, Artificial Intelligence, or a related field. Familiarity with programming languages such as Python, R, or Java. Knowledge of AI/ML frameworks like TensorFlow, PyTorch, or Scikit-learn. Experience with data manipulation using Pandas, NumPy, and SQL. Understanding of deep learning, NLP, or computer vision is a plus. Strong problem-solving and analytical skills. Ability to work independently and in a team-oriented environment. #LI-AB1 #LI-Onsite Compensation$30 - $30 USD You're a Great Fit if You're A go-getter with a growth mindset. You're intellectually curious, have strong business acumen, and actively seek opportunities to build relevant skills and knowledge A detail-oriented problem-solver. You can independently gather information, solve problems efficiently, and deliver results with a \"get-it-done\" attitude Thrive in a fast-paced environment. You're energized by an entrepreneurial spirit, capable of working quickly, and excited to contribute to a growing company A collaborative team player. You focus on business success and are motivated by team accomplishment vs personal agenda Highly organized and results-driven. Strong prioritization skills and a dedicated work ethic are essential for you Equal Opportunity Statement At Armada, we are committed to fostering a work environment where everyone is given equal opportunities to thrive. As an equal opportunity employer, we strictly prohibit discrimination or harassment based on race, color, gender, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other characteristic protected by law. This policy applies to all employment decisions, including hiring, promotions, and compensation. Our hiring is guided by qualifications, merit, and the business needs at the time. Unsolicited Resumes and Candidates Armada does not accept unsolicited resumes or candidate submissions from external agencies or recruiters. All candidates must apply directly through our careers page. Any resumes submitted by agencies without a prior signed agreement will be considered unsolicited and Armada will not be obligated to pay any fees.",
       "job_apply_link": "https://job-boards.greenhouse.io/armada/jobs/4684318008",
       "job_posted_at_datetime_utc": "2025-07-10T15:30:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "armada-ai-intern-bellevue"
+      "id": "armada-ai-intern-bellevue",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:07:41.513Z",
     "postedAt": null
   },
   {

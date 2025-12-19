@@ -1,0 +1,20 @@
+{
+  "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Clarity Innovations is a trusted national security partner, dedicated to safeguarding our nation’s interests and delivering innovative solutions that empower the Intelligence Community (IC) and Department of Defense (DoD) to transform data into actionable intelligence, ensuring mission success in an evolving world. Our mission-first software and data engineering platform modernizes data operations, utilizing advanced workflows, CI/CD, and secure DevSecOps practices. We focus on challenges in Information Warfare, Cyber Operations, Operational Security, and Data Structuring, enabling end-to-end solutions that drive operational impact. We are committed to delivering cutting-edge tools and capabilities that address the most complex national security challenges, empowering our partners to stay ahead of emerging threats and ensuring the success of their critical missions. At Clarity, we are people-focused and set on being a destination employer for top talent, offering an environment where innovation thrives, careers grow, and individuals are valued. Join us as we continue to lead innovation and tackle the most pressing challenges in national security. Program Goals Learn: Professional growth during your internship can be exposure to the Cyber Operations domain, learning a new programming language, or perfecting a new tradecraft technique. Contribute: There is a seat at the table for every one of our interns from day one. It is our goal that by the time you leave, your fingerprint is on a true operational contribution. Have Fun: Your time in our program may be limited, but the memories will last. It is our goal that you enjoy your time here and want to come back. Hire: The road doesn’t end at just the internship! Our end state is to bring on former interns full time after completing their school work. Role Our work focuses on creating software and data engineering platforms for customers throughout the DoD, IC and Federal Agency communities. We bring in students to work directly on our projects so that they can learn the basics of supporting CI/CD production and also the more complex nuances of government contracts. Responsibilities Support full time engineering teams Develop robust and high-quality software, while putting the user’s requirements first Integrate and build testing into their work, and coordinate with QA engineers to ensure products meet customer expectations Required Qualifications Pursuing a BS in Computer Engineering, Computer Science, or a related field Ability to obtain and maintain a Top Secret Security Clearance Experience with Go or Python (in the classroom or from another internship) Understanding of network programming fundamentals, particularly with networking, data structures, and data models Comfortable in a high-trust, adaptable team environment Preferred Qualifications Experience with CI/CD tools (Docker, Kubernetes) Experience building microservices (REST-based or otherwise) #LI-Remote We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.",
+    "requirements": [
+      "Experience with Go or Python (in the classroom or from another internship)",
+      "Experience with CI/CD tools (Docker, Kubernetes)",
+      "Experience building microservices (REST-based or otherwise)"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4776912007",
+      "fetchedAt": "2025-12-19T19:07:38.021Z"
+    }
+  },
+  "cachedAt": 1766171258022
+}

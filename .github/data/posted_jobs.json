@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:00:04.309Z",
+  "lastUpdated": "2025-12-19T19:08:18.316Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9362,14 +9362,102 @@
       "sourceUrl": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/LLM-Algorithmic-Optimization-Engineer---Intern_R-000119",
       "discordThreadId": "1451650295233777748",
       "instanceNumber": 1
+    },
+    {
+      "id": "akuna-capital-software-engineer-c-chicago-2025-12-19-1",
+      "jobId": "akuna-capital-software-engineer-c-chicago",
+      "company": "Akuna Capital",
+      "title": "Software Engineer C++",
+      "postedToDiscord": "2025-12-19T19:07:51.119Z",
+      "sourceDate": "2025-07-16T22:18:17.000Z",
+      "sourceUrl": "https://akunacapital.com/job-details?gh_jid=6996427",
+      "discordThreadId": "1451652253952770068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "susquehanna-software-engineering-intern-philadelphia-2025-12-19-1",
+      "jobId": "susquehanna-software-engineering-intern-philadelphia",
+      "company": "Susquehanna",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T19:07:54.621Z",
+      "sourceDate": "2025-07-16T22:09:06.000Z",
+      "sourceUrl": "https://careers.sig.com/job/SUSQA004Y9571",
+      "discordThreadId": "1451652268423250014",
+      "instanceNumber": 1
+    },
+    {
+      "id": "optiver-fpga-engineer-intern-chicago-2025-12-19-1",
+      "jobId": "optiver-fpga-engineer-intern-chicago",
+      "company": "Optiver",
+      "title": "FPGA Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:07:58.211Z",
+      "sourceDate": "2025-07-16T22:05:28.000Z",
+      "sourceUrl": "https://optiver.com/working-at-optiver/career-opportunities/8033372002",
+      "discordThreadId": "1451652283493257331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "optiver-fpga-engineer-intern-austin-2025-12-19-1",
+      "jobId": "optiver-fpga-engineer-intern-austin",
+      "company": "Optiver",
+      "title": "FPGA Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:07:58.220Z",
+      "sourceDate": "2025-07-16T22:03:55.000Z",
+      "sourceUrl": "https://optiver.com/working-at-optiver/career-opportunities/8033390002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nexthreat-data-analysis-intern-reston-2025-12-19-1",
+      "jobId": "nexthreat-data-analysis-intern-reston",
+      "company": "NexThreat",
+      "title": "Data Analysis Intern",
+      "postedToDiscord": "2025-12-19T19:08:04.678Z",
+      "sourceDate": "2025-07-28T13:25:14.000Z",
+      "sourceUrl": "https://jobs.lever.co/nexthreat.com/b5a5bf65-4057-46f7-b144-2ddff9444ba0/apply",
+      "discordThreadId": "1451652311045767330",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roboforce-ml-research-engineer-intern-milpitas-2025-12-19-1",
+      "jobId": "roboforce-ml-research-engineer-intern-milpitas",
+      "company": "RoboForce",
+      "title": "ML Research Engineer – Intern",
+      "postedToDiscord": "2025-12-19T19:08:08.209Z",
+      "sourceDate": "2025-07-23T22:49:29.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/roboforce/jobs/4817553008",
+      "discordThreadId": "1451652325587554405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bill-machine-learning-engineer-intern-draper-2025-12-19-1",
+      "jobId": "bill-machine-learning-engineer-intern-draper",
+      "company": "BILL",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:08:11.759Z",
+      "sourceDate": "2025-07-16T21:42:44.000Z",
+      "sourceUrl": "https://www.bill.com/job?gh_jid=5588103004",
+      "discordThreadId": "1451652340284260354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "metropolitan-transportation-authority-software-development-emerging-talent-intern-new-york-city-2025-12-19-1",
+      "jobId": "metropolitan-transportation-authority-software-development-emerging-talent-intern-new-york-city",
+      "company": "Metropolitan Transportation Authority",
+      "title": "Software Development, Emerging Talent Intern",
+      "postedToDiscord": "2025-12-19T19:08:18.316Z",
+      "sourceDate": "2025-07-25T21:55:19.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ok1Awfwb",
+      "discordThreadId": "1451652367953952964",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 851,
+    "totalJobs": 859,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:00:04.309Z",
+      "date": "2025-12-19T19:08:18.316Z",
       "archived": 0
     }
   }
