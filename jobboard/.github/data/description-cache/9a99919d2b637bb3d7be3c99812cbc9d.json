@@ -1,0 +1,22 @@
+{
+  "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "About Our Internship ProgramNasdaq’s Internship Program is a 10-week summer experience designed to give students real exposure to how global markets and technology come together. Our interns work on meaningful projects alongside Nasdaq teams, gaining hands-on skills that make an impact on the business.We believe the best way to learn is by doing — that’s why you’ll be paired with a mentor, connected with senior leaders, and included in professional development sessions. You’ll also join a diverse global intern community, sharing experiences and building networks that last beyond the program.Our goal is to provide a supportive, engaging, and fun environment where your work feels valued and your growth comes first. Check out our Nasdaq Internship Program page to learn more and hear directly from past interns about their journeys.Data Science InternshipAt Nasdaq, you’ll have the chance to start your career in an environment where learning, teamwork, and innovation come first. In this role, you’ll support our Data Access and Analytics team and gain hands-on experience with Eqlipse Intelligence Platform, a SaaS solution for enabling Financial Market Infrastructure organizations to unlock the full potential of their data.You don’t need to know everything on day one — we’ll help you build the skills, confidence, and network to grow your career.What You’ll DoSupport our Data Engineering team with day-to-day tasks and contribute to ongoing initiatives.Learn how to build out advanced analytics in a variety of financial assets and markets; design and develop data models to ensure data quality, consistency, and integrity throughout the data lifecycle.Collaborate with teammates across different functions and regions.Bring your ideas and curiosity to problem-solving and project work.Develop your technical and professional skills through training and mentorship.What You’ll BringCurrently pursuing or recently completed a degree in computer science or related area.Eagerness to learn, ask questions, and take on new challenges.Ability to work well with others and contribute to a team environment.Good communication and organizational skills.Curiosity about technology, finance, and global markets.Basic skills in SQL, programing language such as Java, Python, or Scala.Nice-to-Have (Optional)Internship or project experience related to data analytics, data modeling or big data technologies.Involvement in student organizations, volunteering, or leadership roles.Familiarity with data analytics tools like Spark, DBT, Snowflake, Databricks, Monte Carlo, and Atlan.This position will be located in Denver, Colorado and offers the opportunity for a hybrid work environment at least 3 days a week in-office, subject to change, providing flexibility and accessibility for qualified candidates.Come as You AreNasdaq is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information, or any other status protected by applicable law.We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.",
+    "requirements": [
+      "Currently pursuing or recently completed a degree in computer science or related area."
+    ],
+    "responsibilities": [
+      "Learn how to build out advanced analytics in a variety of financial assets and markets; design and develop data models to ensure data quality, consistency, and integrity throughout the data lifecycle.",
+      "Collaborate with teammates across different functions and regions.",
+      "Develop your technical and professional skills through training and mentorship."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
+      "fetchedAt": "2025-12-19T22:39:31.716Z"
+    }
+  },
+  "cachedAt": 1766183971716
+}
