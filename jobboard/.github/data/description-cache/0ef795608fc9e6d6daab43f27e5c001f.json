@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/scm/jobs/721888",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "SCM is committed to a workplace that values and promotes diversity, inclusion and equal employment opportunity by ensuring that all employees are valued, heard, engaged and involved at work and have full opportunities to collaborate, contribute and grow professionally. We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. Requirements: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus.",
+    "requirements": [
+      "Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics.",
+      "C++ and/or Java programming knowledge or experience in a Linux environment preferred.",
+      "Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus.",
+      "Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/scm/jobs/721888",
+      "fetchedAt": "2025-12-19T19:27:30.466Z"
+    }
+  },
+  "cachedAt": 1766172450466
+}

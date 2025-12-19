@@ -101,26 +101,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "BILL",
-      "job_city": "Draper",
-      "job_state": "UT",
-      "job_description": "BILL's mission is to make it simple to connect and do business. We're always looking for talented people to join our growing team. Find jobs at BILL.",
-      "job_apply_link": "https://www.bill.com/job?gh_jid=5588094004",
-      "job_posted_at_datetime_utc": "2025-07-16T21:41:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bill-software-engineer-intern-draper",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T18:59:25.380Z",
-    "postedAt": "2025-12-19T19:17:51.748Z"
-  },
-  {
-    "job": {
       "job_title": "Edison Research Intern - Multiple Teams",
       "employer_name": "GE Vernova",
       "job_city": "Schenectady",
@@ -134,90 +114,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T18:59:25.380Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Co-Op - Bachelors Software Eng (Fall 2025)",
-      "employer_name": "Honeywell",
-      "job_city": "Mason",
-      "job_state": "OH",
-      "job_description": "Join Honeywell in this exciting opportunity.",
-      "job_apply_link": "https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare",
-      "job_posted_at_datetime_utc": "2025-07-15T23:07:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "honeywell-co-op-bachelors-software-eng-fall-2025-mason",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": "2025-12-19T19:17:51.748Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - C++",
-      "employer_name": "Akuna Capital",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data-driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully, we design and implement our own low latency technologies, trading strategies and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a Software Engineer Intern on the C++ Team at Akuna: We are seeking Software Engineer Interns to join our innovative and growing technology team for our 10-week Akunacademy summer internship program. In this role, you will work alongside our trading and software teams to design and implement elegant solutions to complex and interesting problems. Software Engineer Interns at Akuna have the opportunity to use cutting-edge technology while working on high performance/low latency systems. We offer a team-based approach to trading and technology, believing that productive integration of the two groups is vital for success in this industry. Akuna loves Software Engineer Interns who are self-starters and have the ability to problem solve and think outside of the box. We value innovation and hard work, and we want you to make an impact at the firm. Whether you are interested in trading infrastructure, algorithms, exchange gateways, performance engineering, hardware or data capture and analysis, or something else, there’s engaging work to be done. If you are excited to jump in and make a difference, Akuna could be the place for you. The C++ teams work on applications where C++ is used for computational heavy-lifting and for applications that have timing-critical, low-latency processes such as trading strategies. C++ provides the flexibility and low-level control that our Software Engineers need to get maximum performance out of multi-core, super-scalar processors. No previous experience in finance or trading is required. Training and continuous education is provided for all Engineers to ensure they have the skills and knowledge needed to be successful. Qualities that make great candidates: Pursuing a BS/MS/ PhD in Computer Science, Engineering, Math, Physics or related field Experience programming in modern C++ Experience with several of the following – distributed systems, parallel processing, networking, data structures and algorithms and operating systems Strong analytic and problem-solving skills Exposure to scripting and rudimentary data mining and regression analysis, ideally in Python with Pandas and Numpy Ability to communicate with the trading team, obtain requirements, find solutions and implement them in a clean and concise way The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond to novel and unexpected problems Passion for innovation and building systems from the ground up Ability to adapt to an ever-changing environment Self-starter attitude with the ability to work independently Strong sense of ownership Must be graduating by August 2027 or prior GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using CPT, OPT, or STEM **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
-      "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=6996427",
-      "job_posted_at_datetime_utc": "2025-07-14T18:40:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-c-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": "2025-12-19T19:17:51.748Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Full Stack Web",
-      "employer_name": "Akuna Capital",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a Full Stack Web Software Engineer Intern on the User Interface team at Akuna: We are seeking Web Software Engineer Interns to join the UI team for our 10-week Akunacademy summer internship program. In this role, you will work directly with Traders, Quants, and other Software Engineers to design, build, test, and maintain real-time trading applications. Our applications are the primary way Akuna’s market-makers interact with the financial markets, and their performance allows us to confidently provide liquidity in times of volatility. In this role you will: Collaborate with cross-functional teams to design and develop web applications using React, TypeScript, and Python Implement sound and robust unit and integration tests to ensure the quality of our software Continuously discover, evaluate, and implement technologies to maximize both user experience and development efficiency Participate in Agile/Scrum development and shadow application support process Requirements for this role: Pursuing a Bachelors, Masters, or Ph.D. in technical field – Computer Science/Engineering or equivalent Must graduate by August 2027 Major GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM **Resumes must be submitted in PDF format. Qualities that make great candidates: Understanding of web programming languages (JavaScript, TypeScript, Python, HTML/CSS) Familiarity with Linux and a command-line shell Understanding of unit testing concepts and frameworks (e.g., pytest, Jest, Storybook) Familiarity with version control systems (e.g., Git) Solid problem-solving and analytical skills Excellent communication skills and the ability to work in a team environment Self-starter attitude with the ability to work independently In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! *Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
-      "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7060087",
-      "job_posted_at_datetime_utc": "2025-07-14T18:40:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-full-stack-web-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - C# .NET Desktop",
-      "employer_name": "Akuna Capital",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a C# .NET Desktop Software Engineer Intern on the User Interface team at Akuna: Akuna is seeking a Software Engineer Intern to join the UI team for our 10-week Akunacademy summer internship program. In this role, you will work directly with Traders, Quants, and other Software Engineers to design, build, test, and maintain real-time trading applications. Our applications are the primary way Akuna’s market-makers interact with the financial markets, and their performance allows us to confidently provide liquidity in times of volatility. In this role you will: Collaborate with cross-functional teams to design and develop Windows desktop applications written in C# .NET and WinForms/WPF Implement sound and robust unit and integration tests to ensure the quality of our software Continuously discover, evaluate, and implement technologies to maximize both user experience and development efficiency Participate in Agile/Scrum development and shadow application support process Requirements for this role: Pursuing a Bachelors, Masters, or Ph.D. in technical field – Computer Science/Engineering or equivalent Must graduate by August 2027 Major GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM Qualities that make great candidates: Understanding of .NET Framework and C# programming language Familiarity with WinForm or WPF applications is a plus Familiarity in object-oriented programming and design patterns Familiarity with version control systems (e.g., Git) Understanding of unit testing concepts and frameworks (e.g. NUnit) Solid problem-solving and analytical skills Excellent communication skills and the ability to work in a team environment **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! *Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
-      "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7060377",
-      "job_posted_at_datetime_utc": "2025-07-14T18:40:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-c-net-desktop-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -234,10 +134,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -254,10 +154,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -274,10 +174,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -294,10 +194,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:07:41.513Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -314,10 +214,10 @@
       "description_platform": "ashby",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:17:15.349Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -334,10 +234,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:17:15.349Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -354,10 +254,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-04T19:10:02.154Z",
     "enrichedAt": "2025-12-19T19:17:15.349Z",
-    "postedAt": null
+    "postedAt": "2025-12-19T19:28:15.127Z"
   },
   {
     "job": {
@@ -470,11 +370,13 @@
       "job_posted_at_datetime_utc": "2025-07-08T01:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "epic-software-development-intern-madison"
+      "id": "epic-software-development-intern-madison",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:27:30.467Z",
     "postedAt": null
   },
   {
@@ -483,16 +385,18 @@
       "employer_name": "Citadel Securities",
       "job_city": "Miami",
       "job_state": "FL",
-      "job_description": "Join Citadel Securities in this exciting opportunity.",
+      "job_description": "<div>At Citadel Securities, our engineers work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles, work rapidly goes into production. As an engineer, you can create systems architectures, develop platforms and build web frameworks. You’ll have access to state-of-the-art tools and apply innovative techniques including distributed computing, natural language processing, machine learning and more.</div><div><br /></div><div>As an intern, you’ll get to challenge the impossible in technology through an 11 week program that will allow you to collaborate and connect with senior team members. In addition, you’ll get the opportunity to network and socialize with peers throughout the internship.</div><div><br /></div><div><b>Your Objectives:</b></div><ul><li>Create technological tools that bring trading strategies to life</li><li>Develop high-performance, large data research platforms</li><li>Work in small teams to build the future of finance</li></ul><div><br /></div><div><b>Your Skills &amp; Talents:</b></div><ul><li>Bachelor&#39;s, master&#39;s or PhD in computer science, computer engineering or related fields</li><li>Exceptional programming and design skills</li><li>Strong analytical skills and familiarity with probability and statistics</li><li>Ability to communicate effectively in a collaborative, complex and highly technical team environment</li><li>Intellectual curiosity and passion for solving challenging problems using technology</li></ul><div><br /></div><div>Opportunities available in Miami, New York.</div><br><div><br/> <i><br/> In accordance with applicable law, the base salary range for this role is $4,300 to $4,800 per week.</i></div>",
       "job_apply_link": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
       "job_posted_at_datetime_utc": "2025-07-08T01:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "citadel-securities-software-engineer-intern-miami"
+      "id": "citadel-securities-software-engineer-intern-miami",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:27:30.467Z",
     "postedAt": null
   },
   {
@@ -506,11 +410,13 @@
       "job_posted_at_datetime_utc": "2025-07-08T01:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "susquehanna-quantitative-strategy-developer-intern-bala-cynwyd"
+      "id": "susquehanna-quantitative-strategy-developer-intern-bala-cynwyd",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:27:30.467Z",
     "postedAt": null
   },
   {
@@ -524,11 +430,13 @@
       "job_posted_at_datetime_utc": "2025-07-08T01:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tsmc-computer-integrated-manufacturing-cim-engineer-intern-phoenix"
+      "id": "tsmc-computer-integrated-manufacturing-cim-engineer-intern-phoenix",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:27:30.467Z",
     "postedAt": null
   },
   {
@@ -537,16 +445,18 @@
       "employer_name": "Stevens Capital Management LP",
       "job_city": "Radnor",
       "job_state": "PA",
-      "job_description": "Join Stevens Capital Management LP in this exciting opportunity.",
+      "job_description": "SCM is committed to a workplace that values and promotes diversity, inclusion and equal employment opportunity by ensuring that all employees are valued, heard, engaged and involved at work and have full opportunities to collaborate, contribute and grow professionally. We're seeking highly motivated students who possess strong technical skills and the ability to work in a fast-paced collaborative environment. Primary Responsibilities: Develop new software and enhance existing systems. Create tools to process, store and analyze quote, trade and financial data. Work closely with our traders, quantitative research analysts, implementation programmers and other groups to provide software solutions. Requirements: Pursuing an undergraduate or graduate level degree in Computer Science or Mathematics. C++ and/or Java programming knowledge or experience in a Linux environment preferred. Excellent academic record. Strong problem solving skills. Knowledge of shell scripts and other languages including Perl, Bash or CSH is a plus. Knowledge of relational databases including Sybase, SQL Server and Oracle is a plus.",
       "job_apply_link": "https://job-boards.greenhouse.io/scm/jobs/721888",
       "job_posted_at_datetime_utc": "2025-07-08T00:09:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "stevens-capital-management-lp-developer-intern-radnor"
+      "id": "stevens-capital-management-lp-developer-intern-radnor",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-04T19:10:02.154Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-19T19:27:30.467Z",
     "postedAt": null
   },
   {
