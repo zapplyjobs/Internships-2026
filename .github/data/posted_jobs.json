@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T23:04:33.772Z",
+  "lastUpdated": "2025-12-19T23:18:09.002Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -11067,14 +11067,36 @@
       "sourceUrl": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
       "discordThreadId": "1451711822544769186",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-sw-intern-engineer-dedham-2025-12-19-1",
+      "jobId": "general-dynamics-mission-sw-intern-engineer-dedham",
+      "company": "General Dynamics Mission Systems",
+      "title": "SW Intern Engineer",
+      "postedToDiscord": "2025-12-19T23:18:05.269Z",
+      "sourceDate": "2025-12-11T23:32:23.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451715228197720296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-2026-phd-software-engineer-intern-autonomous-vehicles-cloud-united-states-sunnyvale-2025-12-19-1",
+      "jobId": "uber-2026-phd-software-engineer-intern-autonomous-vehicles-cloud-united-states-sunnyvale",
+      "company": "Uber",
+      "title": "2026 PhD Software Engineer Intern - Autonomous Vehicles Cloud - United States",
+      "postedToDiscord": "2025-12-19T23:18:09.002Z",
+      "sourceDate": "2025-12-11T23:30:34.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/152174/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1451715242605281493",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1006,
+    "totalJobs": 1008,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T23:04:33.772Z",
+      "date": "2025-12-19T23:18:09.002Z",
       "archived": 0
     }
   }
