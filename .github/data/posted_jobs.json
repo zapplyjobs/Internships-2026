@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T21:38:22.011Z",
+  "lastUpdated": "2025-12-19T21:45:46.658Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -10638,14 +10638,80 @@
       "sourceUrl": "https://jobs.lever.co/economicmodeling/35169e9b-37f4-4fba-9f4d-69edf7a6fcca/apply",
       "discordThreadId": "1451690131340918982",
       "instanceNumber": 1
+    },
+    {
+      "id": "evolve-technology-quality-analytics-intern-waltham-2025-12-19-1",
+      "jobId": "evolve-technology-quality-analytics-intern-waltham",
+      "company": "Evolve Technology",
+      "title": "Quality Analytics Intern",
+      "postedToDiscord": "2025-12-19T21:45:23.610Z",
+      "sourceDate": "2025-12-04T23:46:01.000Z",
+      "sourceUrl": "https://apply.workable.com/evolv-technology/j/AD1FC6624F/apply",
+      "discordThreadId": "1451691897985827008",
+      "instanceNumber": 1
+    },
+    {
+      "id": "seagate-technology-data-scientist-intern-bloomington-2025-12-19-1",
+      "jobId": "seagate-technology-data-scientist-intern-bloomington",
+      "company": "Seagate Technology ",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2025-12-19T21:45:31.655Z",
+      "sourceDate": "2025-12-04T23:49:59.000Z",
+      "sourceUrl": "https://seagatecareers.com/job/Bloomington-Data-Scientist-Internship-Summer-2026-MN/1347536500/?ats=successfactors",
+      "discordThreadId": "1451691932655943713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-data-science-analyst-1-intern-united-states-san-jose-2025-12-19-1",
+      "jobId": "cisco-data-science-analyst-1-intern-united-states-san-jose",
+      "company": "Cisco",
+      "title": "Data Science Analyst 1 – Intern - United States",
+      "postedToDiscord": "2025-12-19T21:45:35.424Z",
+      "sourceDate": "2025-12-04T23:45:41.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2002648",
+      "discordThreadId": "1451691949064065064",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-data-engineer-arlington-2025-12-19-1",
+      "jobId": "gm-financial-intern-data-engineer-arlington",
+      "company": "GM financial",
+      "title": "Intern Data Engineer",
+      "postedToDiscord": "2025-12-19T21:45:39.023Z",
+      "sourceDate": "2025-12-04T23:45:36.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1417",
+      "discordThreadId": "1451691964964671661",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shield-ai-data-analyst-intern-dallas-2025-12-19-1",
+      "jobId": "shield-ai-data-analyst-intern-dallas",
+      "company": "Shield AI",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2025-12-19T21:45:43.072Z",
+      "sourceDate": "2025-12-04T23:41:20.000Z",
+      "sourceUrl": "https://jobs.lever.co/shieldai/d00348c2-18a8-4580-a084-be602d455fcf/apply",
+      "discordThreadId": "1451691979766370314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amgen-r-d-protein-footprinting-data-analysis-intern-san-bruno-2025-12-19-1",
+      "jobId": "amgen-r-d-protein-footprinting-data-analysis-intern-san-bruno",
+      "company": "Amgen",
+      "title": "R&D Protein Footprinting Data Analysis Intern",
+      "postedToDiscord": "2025-12-19T21:45:46.658Z",
+      "sourceDate": "2025-11-19T00:18:24.000Z",
+      "sourceUrl": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---South-San-Francisco/R-D-Protein-Footprinting-Data-Analysis-Grad-Intern_R-230569",
+      "discordThreadId": "1451691996535062641",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 967,
+    "totalJobs": 973,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T21:38:22.011Z",
+      "date": "2025-12-19T21:45:46.658Z",
       "archived": 0
     }
   }
