@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-19T19:35:10.150Z",
+  "lastUpdated": "2025-12-19T19:44:51.092Z",
   "jobs": [
     {
       "id": "eight-sleep-ai-ml-research-internship-san-francisco-2025-12-13-1",
@@ -9681,14 +9681,102 @@
       "sourceUrl": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
       "discordThreadId": "1451659128748507157",
       "instanceNumber": 1
+    },
+    {
+      "id": "tsmc-computer-integrated-manufacturing-cim-engineer-intern-phoenix-2025-12-19-1",
+      "jobId": "tsmc-computer-integrated-manufacturing-cim-engineer-intern-phoenix",
+      "company": "TSMC",
+      "title": "Computer Integrated Manufacturing (CIM) Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:44:19.838Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://careers.tsmc.com/en_US/careers/JobDetail/Summer-2026-TSMC-AZ-Internship-Opportunities-Engineering-Roles/16376",
+      "discordThreadId": "1451661433904435303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stevens-capital-management-lp-developer-intern-radnor-2025-12-19-1",
+      "jobId": "stevens-capital-management-lp-developer-intern-radnor",
+      "company": "Stevens Capital Management LP",
+      "title": "Developer Intern",
+      "postedToDiscord": "2025-12-19T19:44:23.414Z",
+      "sourceDate": "2025-07-08T00:09:18.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/scm/jobs/721888",
+      "discordThreadId": "1451661448949268522",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brevian-software-engineering-intern-sunnyvale-2025-12-19-1",
+      "jobId": "brevian-software-engineering-intern-sunnyvale",
+      "company": "Brevian",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-19T19:44:27.108Z",
+      "sourceDate": "2025-07-07T22:33:58.000Z",
+      "sourceUrl": "https://ats.rippling.com/brevian-careers/jobs/0c7d22e5-4522-47e6-8f98-69a64c9ab484",
+      "discordThreadId": "1451661464049029242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "drw-ai-research-intern-palo-alto-2025-12-19-1",
+      "jobId": "drw-ai-research-intern-palo-alto",
+      "company": "DRW",
+      "title": "AI Research Intern",
+      "postedToDiscord": "2025-12-19T19:44:30.612Z",
+      "sourceDate": "2025-07-07T16:40:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/drweng/jobs/7038690",
+      "discordThreadId": "1451661479425343651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "optiver-software-engineer-intern-austin-2025-12-19-1",
+      "jobId": "optiver-software-engineer-intern-austin",
+      "company": "Optiver",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:44:34.271Z",
+      "sourceDate": "2025-07-01T23:51:11.000Z",
+      "sourceUrl": "https://optiver.com/working-at-optiver/career-opportunities/7973725002/?gh_jid=7973725002",
+      "discordThreadId": "1451661494168322140",
+      "instanceNumber": 1
+    },
+    {
+      "id": "drw-software-developer-intern-chicago-2025-12-19-1",
+      "jobId": "drw-software-developer-intern-chicago",
+      "company": "DRW",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-19T19:44:40.796Z",
+      "sourceDate": "2025-07-07T19:08:58.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/drweng/jobs/6926715",
+      "discordThreadId": "1451661522119037171",
+      "instanceNumber": 1
+    },
+    {
+      "id": "citadel-software-engineer-intern-miami-2025-12-19-1",
+      "jobId": "citadel-software-engineer-intern-miami",
+      "company": "Citadel",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-19T19:44:44.489Z",
+      "sourceDate": "2025-07-03T21:14:24.000Z",
+      "sourceUrl": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+      "discordThreadId": "1451661536891240550",
+      "instanceNumber": 1
+    },
+    {
+      "id": "procter-gamble-p-g-university-of-cincinnati-r-d-engineer-co-op-mason-2025-12-19-1",
+      "jobId": "procter-gamble-p-g-university-of-cincinnati-r-d-engineer-co-op-mason",
+      "company": "Procter & Gamble (P&G)",
+      "title": "University of Cincinnati R&D Engineer Co-op",
+      "postedToDiscord": "2025-12-19T19:44:51.092Z",
+      "sourceDate": "2025-07-02T22:37:11.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/University-of-Cincinnati-R-D-Engineer-Co-op_R000134835",
+      "discordThreadId": "1451661565504913601",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 880,
+    "totalJobs": 888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-19T19:35:10.150Z",
+      "date": "2025-12-19T19:44:51.092Z",
       "archived": 0
     }
   }
