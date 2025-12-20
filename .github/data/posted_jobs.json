@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:03:42.070Z",
+  "lastUpdated": "2025-12-20T19:16:52.982Z",
   "jobs": [
-    {
-      "id": "intercontinental-exchange-machine-learning-engineer-intern-multiple-teams-atlanta-2025-12-13-1",
-      "jobId": "intercontinental-exchange-machine-learning-engineer-intern-multiple-teams-atlanta",
-      "company": "Intercontinental Exchange",
-      "title": "Machine Learning Engineer Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-13T19:04:32.591Z",
-      "sourceDate": "2025-09-27T08:59:31.000Z",
-      "sourceUrl": "https://careers-ice.icims.com/jobs/11633/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449477101500629053",
-      "instanceNumber": 1
-    },
     {
       "id": "bytedance-research-scientist-intern-ai-infrastructure-seattle-2025-12-13-1",
       "jobId": "bytedance-research-scientist-intern-ai-infrastructure-seattle",
@@ -9901,14 +9890,80 @@
       "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2533046",
       "discordThreadId": "1452013595918602403",
       "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-intern-digital-life-innovation-in-car-entertainment-spring-summer-2026-mountain-view-2025-12-20-1",
+      "jobId": "rolls-royce-intern-digital-life-innovation-in-car-entertainment-spring-summer-2026-mountain-view",
+      "company": "Rolls Royce",
+      "title": "Intern – Digital Life Innovation - In-Car Entertainment - Spring/Summer 2026",
+      "postedToDiscord": "2025-12-20T19:16:32.056Z",
+      "sourceDate": "2025-12-11T23:21:23.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Mountain-View-Intern,-Digital-Life-Innovation-In-Car-Entertainment-SpringSummer-2026-Cali/1275683401/?ats=successfactors",
+      "discordThreadId": "1452016826660814918",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-phd-software-engineer-intern-autonomous-vehicles-cloud-sunnyvale-2025-12-20-1",
+      "jobId": "uber-phd-software-engineer-intern-autonomous-vehicles-cloud-sunnyvale",
+      "company": "Uber",
+      "title": "PhD Software Engineer Intern - Autonomous Vehicles Cloud",
+      "postedToDiscord": "2025-12-20T19:16:35.491Z",
+      "sourceDate": "2025-12-11T23:14:39.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152174/",
+      "discordThreadId": "1452016841475096737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wellmark-data-analytics-internship-technology-des-moines-2025-12-20-1",
+      "jobId": "wellmark-data-analytics-internship-technology-des-moines",
+      "company": "Wellmark",
+      "title": "Data Analytics Internship - Technology",
+      "postedToDiscord": "2025-12-20T19:16:39.090Z",
+      "sourceDate": "2025-12-11T23:14:37.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WellmarkInc/744000098438394",
+      "discordThreadId": "1452016855912026323",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-hillsboro-2025-12-20-1",
+      "jobId": "microsoft-research-intern-hillsboro",
+      "company": "Microsoft",
+      "title": "Research Intern",
+      "postedToDiscord": "2025-12-20T19:16:42.903Z",
+      "sourceDate": "2025-12-11T23:06:29.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641879",
+      "discordThreadId": "1452016871066046557",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-ai-r-d-engineering-co-op-sunnyvale-2025-12-20-1",
+      "jobId": "nokia-ai-r-d-engineering-co-op-sunnyvale",
+      "company": "Nokia",
+      "title": "AI R&D Engineering Co-op",
+      "postedToDiscord": "2025-12-20T19:16:49.447Z",
+      "sourceDate": "2025-12-11T23:05:27.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28471",
+      "discordThreadId": "1452016899767668757",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-ai-r-d-engineering-intern-co-op-sunnyvale-2025-12-20-1",
+      "jobId": "nokia-ai-r-d-engineering-intern-co-op-sunnyvale",
+      "company": "Nokia",
+      "title": "AI R&D Engineering Intern/Co-op",
+      "postedToDiscord": "2025-12-20T19:16:52.981Z",
+      "sourceDate": "2025-12-11T23:05:06.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28468",
+      "discordThreadId": "1452016914602922005",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 900,
+    "totalJobs": 905,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:03:42.070Z",
+      "date": "2025-12-20T19:16:52.982Z",
       "archived": 0
     }
   }
