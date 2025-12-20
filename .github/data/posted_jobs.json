@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:29:36.671Z",
+  "lastUpdated": "2025-12-20T21:34:55.382Z",
   "jobs": [
     {
       "id": "rambus-data-ai-intern-san-jose-2025-12-13-1",
@@ -10561,14 +10561,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
       "discordThreadId": "1452050315460214946",
       "instanceNumber": 1
+    },
+    {
+      "id": "borgwarner-computer-science-intern-auburn-hills-2025-12-20-1",
+      "jobId": "borgwarner-computer-science-intern-auburn-hills",
+      "company": "BorgWarner",
+      "title": "Computer Science Intern",
+      "postedToDiscord": "2025-12-20T21:34:31.090Z",
+      "sourceDate": "2025-12-10T14:19:27.000Z",
+      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Computer-Science-Summer-Intern_R2025-4709",
+      "discordThreadId": "1452051551739838516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-software-engineering-ai-intern-glendale-2025-12-20-1",
+      "jobId": "the-walt-disney-company-software-engineering-ai-intern-glendale",
+      "company": "The Walt Disney Company",
+      "title": "Software Engineering AI Intern",
+      "postedToDiscord": "2025-12-20T21:34:37.499Z",
+      "sourceDate": "2025-12-10T15:45:40.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
+      "discordThreadId": "1452051578885242993",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-machine-learning-scientist-intern-san-bruno-2025-12-20-1",
+      "jobId": "genentech-machine-learning-scientist-intern-san-bruno",
+      "company": "Genentech",
+      "title": "Machine Learning Scientist Intern",
+      "postedToDiscord": "2025-12-20T21:34:41.327Z",
+      "sourceDate": "2025-12-10T15:08:05.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist-Intern_202512-131284",
+      "discordThreadId": "1452051593662038108",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-darkblue-intelligence-analyst-intern-summer-2026-remote-in-usa-2025-12-20-1",
+      "jobId": "caci-darkblue-intelligence-analyst-intern-summer-2026-remote-in-usa",
+      "company": "CACI",
+      "title": "Darkblue Intelligence Analyst Intern - Summer 2026",
+      "postedToDiscord": "2025-12-20T21:34:48.808Z",
+      "sourceDate": "2025-12-10T15:06:20.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DarkBlue-Intelligence-Analyst-Intern---Summer-2026_320339-1",
+      "discordThreadId": "1452051622191435919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "draper-gn-c-modeling-simulation-and-analysis-intern-cambridge-2025-12-20-1",
+      "jobId": "draper-gn-c-modeling-simulation-and-analysis-intern-cambridge",
+      "company": "Draper",
+      "title": "GN&C Modeling – Simulation and Analysis Intern",
+      "postedToDiscord": "2025-12-20T21:34:55.381Z",
+      "sourceDate": "2025-12-10T15:02:00.000Z",
+      "sourceUrl": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Summer-Intern_JR002045",
+      "discordThreadId": "1452051653615161604",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 960,
+    "totalJobs": 965,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:29:36.671Z",
+      "date": "2025-12-20T21:34:55.382Z",
       "archived": 0
     }
   }
