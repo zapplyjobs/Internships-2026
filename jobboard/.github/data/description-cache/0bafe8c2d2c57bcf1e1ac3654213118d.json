@@ -1,0 +1,22 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.NVIDIA is seeking Compiler Engineers! You will be a key member of our AI Compilers Team working on enabling programmability for NVIDIA GPU’s. Our Compiler team is growing and seeking top-tier compiler engineers who want an exciting and fun role as they help lead the charge to even greater accomplishments within a world-class organization. Come join us and to be part of the team in making a difference!What you'll be doing:Design and implementation of significant parts of the compiler.Work on performance analysis and design/implementation of new optimizations.Develop profiling and debugging tools to generate compiler performance metrics.Partner and collaborate with global compiler and software teams to coordinate improvements and problem resolutions.What we need to see:Pursuing a BS/MS in Computer Science or Computer EngineeringRelevant work or research experience in Compilers, MLIR, performance analysis, compiler optimizations, code generation.Must have Low Level Virtual Machine (LLVM) experienceExcellent C/C++ and Python programming and software design skills, including debugging, performance analysis, and test design.Knowledge of Solvers, Optimizers and Optimization problems.Ways to stand out from the crowd:PhD strongly preferredProven ability to design/architect compiler frameworks.Knowledge and understanding of GPU’sExperience with open source compilers and contributions to code base.Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team with ability to collaborate well with others in an energizing environment.Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until December 12, 2025.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "requirements": [
+      "Must have Low Level Virtual Machine (LLVM) experience",
+      "Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team with ability to collaborate well with others in an energizing environment."
+    ],
+    "responsibilities": [
+      "Develop profiling and debugging tools to generate compiler performance metrics.",
+      "Partner and collaborate with global compiler and software teams to coordinate improvements and problem resolutions."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431",
+      "fetchedAt": "2025-12-20T23:36:17.401Z"
+    }
+  },
+  "cachedAt": 1766273777401
+}

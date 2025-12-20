@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T23:28:33.815Z",
+  "lastUpdated": "2025-12-20T23:36:45.579Z",
   "jobs": [
-    {
-      "id": "electronic-arts-software-engineer-intern-multiple-teams-orlando-2025-12-13-1",
-      "jobId": "electronic-arts-software-engineer-intern-multiple-teams-orlando",
-      "company": "Electronic Arts",
-      "title": "Software Engineer Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-13T23:29:00.290Z",
-      "sourceDate": "2025-09-25T01:26:52.000Z",
-      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Modes-Software-Engineer-Intern-SUMMER-2026/210907",
-      "discordThreadId": "1449543655659667527",
-      "instanceNumber": 1
-    },
     {
       "id": "kla-algorithm-engineering-intern-ann-arbor-2025-12-13-1",
       "jobId": "kla-algorithm-engineering-intern-ann-arbor",
@@ -11100,14 +11089,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640831",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "keen-footwear-systems-integration-engineer-intern-portland-2025-12-20-1",
+      "jobId": "keen-footwear-systems-integration-engineer-intern-portland",
+      "company": "KEEN Footwear",
+      "title": "Systems Integration Engineer Intern",
+      "postedToDiscord": "2025-12-20T23:36:28.454Z",
+      "sourceDate": "2025-12-10T09:11:45.000Z",
+      "sourceUrl": "https://www.keenfootwear.com/careers-list.html?4636982005&gh_jid=4636982005",
+      "discordThreadId": "1452082242598736024",
+      "instanceNumber": 1
+    },
+    {
+      "id": "modernizing-medicine-product-development-intern-ai-ml-engineering-boca-raton-2025-12-20-1",
+      "jobId": "modernizing-medicine-product-development-intern-ai-ml-engineering-boca-raton",
+      "company": "Modernizing Medicine",
+      "title": "Product Development Intern - AI & ML Engineering",
+      "postedToDiscord": "2025-12-20T23:36:35.053Z",
+      "sourceDate": "2025-12-10T09:43:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8213598002",
+      "discordThreadId": "1452082269954113588",
+      "instanceNumber": 1
+    },
+    {
+      "id": "codal-backend-software-engineer-intern-chicago-2025-12-20-1",
+      "jobId": "codal-backend-software-engineer-intern-chicago",
+      "company": "Codal",
+      "title": "Backend Software Engineer Intern",
+      "postedToDiscord": "2025-12-20T23:36:38.616Z",
+      "sourceDate": "2025-12-10T09:40:15.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/codalinc/jobs/5022723008",
+      "discordThreadId": "1452082285661917246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xpeng-motors-research-scientist-intern-santa-clara-2025-12-20-1",
+      "jobId": "xpeng-motors-research-scientist-intern-santa-clara",
+      "company": "XPENG Motors",
+      "title": "Research Scientist Intern",
+      "postedToDiscord": "2025-12-20T23:36:42.061Z",
+      "sourceDate": "2025-12-10T09:10:04.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002",
+      "discordThreadId": "1452082299813494837",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoox-signal-processing-san-mateo-2025-12-20-1",
+      "jobId": "zoox-signal-processing-san-mateo",
+      "company": "Zoox",
+      "title": "Signal Processing",
+      "postedToDiscord": "2025-12-20T23:36:45.579Z",
+      "sourceDate": "2025-12-10T08:30:40.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/96857e0b-d39c-4505-b0b4-9a14c7d9db58/apply",
+      "discordThreadId": "1452082314623586347",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1009,
+    "totalJobs": 1013,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T23:28:33.815Z",
+      "date": "2025-12-20T23:36:45.579Z",
       "archived": 0
     }
   }
