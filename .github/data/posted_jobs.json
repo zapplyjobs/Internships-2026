@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T23:16:59.090Z",
+  "lastUpdated": "2025-12-20T23:28:33.815Z",
   "jobs": [
-    {
-      "id": "oatey-it-data-analytics-intern-analytics-power-bi-cleveland-2025-12-13-1",
-      "jobId": "oatey-it-data-analytics-intern-analytics-power-bi-cleveland",
-      "company": "OATEY",
-      "title": "IT Data Analytics Intern - Analytics - Power BI",
-      "postedToDiscord": "2025-12-13T23:18:10.453Z",
-      "sourceDate": "2025-09-25T01:28:56.000Z",
-      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/IT-Data-Analytics-Intern_R6557",
-      "discordThreadId": "1449540929873645649",
-      "instanceNumber": 1
-    },
     {
       "id": "electronic-arts-software-engineer-intern-multiple-teams-orlando-2025-12-13-1",
       "jobId": "electronic-arts-software-engineer-intern-multiple-teams-orlando",
@@ -11056,14 +11045,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637105",
       "discordThreadId": "1452077337364529193",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-driven-cpu-optimizations-hillsboro-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-driven-cpu-optimizations-hillsboro",
+      "company": "Microsoft",
+      "title": "Research Intern - AI-Driven CPU Optimizations",
+      "postedToDiscord": "2025-12-20T23:28:23.687Z",
+      "sourceDate": "2025-12-10T12:52:00.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640691",
+      "discordThreadId": "1452080209938350262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aramark-sustainability-data-analysis-program-intern-tempe-2025-12-20-1",
+      "jobId": "aramark-sustainability-data-analysis-program-intern-tempe",
+      "company": "Aramark",
+      "title": "Sustainability Data Analysis Program Intern",
+      "postedToDiscord": "2025-12-20T23:28:27.416Z",
+      "sourceDate": "2025-12-10T10:52:31.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Program-Intern,-ASU-Tempe-AZ-85281/1335351700/?ats=successfactors",
+      "discordThreadId": "1452080224182472926",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-onedrive-and-sharepoint-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-onedrive-and-sharepoint-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Onedrive and Sharepoint",
+      "postedToDiscord": "2025-12-20T23:28:33.797Z",
+      "sourceDate": "2025-12-10T12:52:00.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640732",
+      "discordThreadId": "1452080252355608658",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern",
+      "postedToDiscord": "2025-12-20T23:28:33.807Z",
+      "sourceDate": "2025-12-10T12:51:45.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640817",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-multiple-teams-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-multiple-teams-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-20T23:28:33.815Z",
+      "sourceDate": "2025-12-10T12:51:43.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640831",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1005,
+    "totalJobs": 1009,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T23:16:59.090Z",
+      "date": "2025-12-20T23:28:33.815Z",
       "archived": 0
     }
   }
