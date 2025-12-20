@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:16:48.196Z",
+  "lastUpdated": "2025-12-20T22:28:57.719Z",
   "jobs": [
-    {
-      "id": "motorola-it-systems-analyst-intern-supply-chain-it-operations-chicago-2025-12-13-1",
-      "jobId": "motorola-it-systems-analyst-intern-supply-chain-it-operations-chicago",
-      "company": "Motorola",
-      "title": "IT Systems Analyst Intern - Supply Chain - IT Operations",
-      "postedToDiscord": "2025-12-13T22:17:43.689Z",
-      "sourceDate": "2025-09-25T07:38:27.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/IT-Systems-Analyst---2026-Summer-Internship_R57828",
-      "discordThreadId": "1449525718102048818",
-      "instanceNumber": 1
-    },
     {
       "id": "bytedance-software-engineer-intern-cdn-platform-san-jose-2025-12-13-1",
       "jobId": "bytedance-software-engineer-intern-cdn-platform-san-jose",
@@ -10792,14 +10781,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621565",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-gray-systems-lab-gsl-madison-2025-12-20-1",
+      "jobId": "microsoft-research-intern-gray-systems-lab-gsl-madison",
+      "company": "Microsoft",
+      "title": "Research Intern - Gray Systems Lab - Gsl",
+      "postedToDiscord": "2025-12-20T22:28:51.125Z",
+      "sourceDate": "2025-12-10T13:05:32.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621621",
+      "discordThreadId": "1452065225506422936",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-msr-ai-interaction-and-learning-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-msr-ai-interaction-and-learning-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - MSR AI Interaction and Learning",
+      "postedToDiscord": "2025-12-20T22:28:57.693Z",
+      "sourceDate": "2025-12-10T13:05:35.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621727",
+      "discordThreadId": "1452065252194648166",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-machine-learning-at-msr-nyc-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-machine-learning-at-msr-nyc-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning at MSR NYC",
+      "postedToDiscord": "2025-12-20T22:28:57.703Z",
+      "sourceDate": "2025-12-10T13:05:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621563",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-robot-learning-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-robot-learning-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Robot Learning",
+      "postedToDiscord": "2025-12-20T22:28:57.711Z",
+      "sourceDate": "2025-12-10T13:05:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621524",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-cloud-reliability-and-efficiency-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-cloud-reliability-and-efficiency-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Cloud Reliability and Efficiency",
+      "postedToDiscord": "2025-12-20T22:28:57.719Z",
+      "sourceDate": "2025-12-10T13:05:27.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621787",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 981,
+    "totalJobs": 985,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:16:48.196Z",
+      "date": "2025-12-20T22:28:57.719Z",
       "archived": 0
     }
   }
