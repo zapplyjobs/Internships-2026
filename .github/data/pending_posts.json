@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Westinghouse",
-      "job_city": "Shoreview",
-      "job_state": "MN",
-      "job_description": "Are you interested in being part of an innovative team that supports Westinghouse's mission to provide clean energy solutions? At Westinghouse, we recognize that our employees are our most valuable asset and we seek to identify, attract and recruit the most qualified talent while recognizing and encouraging the value of diversity in the global workplace. About the role: As a (Software Engineering intern, you will report to the Engineering Supervisor and be located at our Shoreview location. This is a paid, full-time onsite summer position. Key Responsibilities: Beta Test Software Applications: Participate in beta testing of new software developed in C#/.NET, providing feedback on functionality and performance Develop Tracking Tools: Design and implement a software application to manage firmware versions across projects Research Security Practices: Investigate and document computer hardening techniques to enhance system security and compliance Configure Virtual Environments: Manage virtual machine environments to support legacy operating systems (e.g., Windows XP, Windows 7, Windows 10) for testing and compatibility purposes Support Project Documentation: Assist project engineers in preparing, organizing, and maintaining technical documentation to ensure accuracy and compliance with project standards Qualifications: Pursuing a bachelor's degree in (computer science Minimum GPA of 3.0 Completed Sophomore year of college No relocation assistance provided We are committed to transparency and equity in all of our people practices. The hourly rate for this position, which is dependent upon experience, qualifications and skills, is estimated to be $22.69 to $27.50 per hour. #LI-Onsite, #LI-Engineering, #LI-Internship Why Westinghouse? Westinghouse Electric Company is the global nuclear energy industry's first choice for safe, clean, and efficient energy solutions. We enable our delivery of this vision by living our value system: Safety and Quality Integrity and Trust Customer Focus and Innovation Speed and Passion to Win Teamwork and Accountability While our Global Headquarters are located in Cranberry Township, PA, we have over 11,000 employees working at locations in 19 different countries. You can learn more by visiting http://www.westinghousenuclear.com. Westinghouse is an Equal Opportunity Employer including Veterans and Individuals with Disabilities Get connected with Westinghouse on social media: Twitter | Facebook | LinkedIn| YouTube",
-      "job_apply_link": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/",
-      "job_posted_at_datetime_utc": "2025-12-10T17:26:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "westinghouse-software-engineering-intern-shoreview",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T21:04:20.156Z",
-    "postedAt": "2025-12-20T21:29:39.684Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer Intern",
-      "employer_name": "Marvell",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "About Marvell Marvell’s semiconductor solutions are the essential building blocks of the data infrastructure that connects our world. Across enterprise, cloud and AI, and carrier architectures, our innovative technology is enabling new possibilities. At Marvell, you can affect the arc of individual lives, lift the trajectory of entire industries, and fuel the transformative potential of tomorrow. For those looking to make their mark on purposeful and enduring innovation, above and beyond fleeting trends, Marvell is a place to thrive, learn, and lead. Your Team, Your ImpactMarvell IT - Data Analytics Team is at the forefront of driving Marvell’s Data Intelligence, Strategy, and Architecture initiatives. As a high-visibility team, we deliver critical data insights and analytics solutions to the operations and leadership group that empower data-driven decision-making at the highest levels. We are responsible for executing global, high-impact projects that add significant value across the organization. By leveraging cutting-edge data analytics technologies and methodologies, we ensure that Marvell remains a leader in harnessing data for business advantage.What You Can ExpectWe are seeking a motivated and enthusiastic Data Engineer Intern to join our data and analytics team. This internship is an excellent opportunity for individuals looking to apply their academic knowledge of data science in a real-world setting. The intern will work closely with our experienced data scientists, engineers, and business stakeholders to develop data-driven insights and build predictive models that address business challenges. As an intern on the team, you will:Collaborate with the data science team to gather, clean, and preprocess data from various sources.Perform exploratory data analysis (EDA) to identify patterns, trends, and relationships within large datasets.Assist in building and optimizing machine learning models to solve business problems.Develop data visualizations, dashboards, and reports using tools like Power BI or Python libraries.Present findings and recommendations to stakeholders in a clear and concise manner.Work with large-scale data sets using SQL, Python for data manipulation and analysis.Support the development and deployment of machine learning models in production.Support data integration and data engineering activities, including ETL processes, within Snowflake or Databricks environments. What We're Looking ForCurrently pursuing a bachelor's degree in Computer Science, Data Science, or other related fields with an anticipated graduation date of December 2026 or laterPursuing degree in Computer Science, Data Science, or related fieldProficiency in Python for data analysis, including libraries like pandas, NumPy, scikit-learn, and matplotlib etcKnowledge of SQL for querying databasesUnderstanding of basic statistical concepts and machine learning algorithms (e.g., regression, classification, clustering)Familiarity with data visualization tools such as Power BI or Python-based visualization libraries (e.g., seaborn, Plotly)Proficiency in data preprocessing, data transformation, and exploratory data analysis (EDA) to extract valuable insights from raw datasetsFamiliarity with Generative AI and Large Language Models (LLMs) is a plusExpected Base Pay Range (USD)26 - 51, $ per hour.The successful candidate’s starting base pay will be determined based on job-related skills, experience, qualifications, work location and market conditions. The expected base pay range for this role may be modified based on market conditions.Additional Compensation and Benefit Elements For Internship roles, we are proud to offer the following benefits package during the internship - medical, dental and vision coverage, perks and discount programs, wellness & mental health support including coaching and therapy, paid holidays, paid volunteer days and paid sick time. Additional compensation may be available for intern PhD candidates.All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.Any applicant who requires a reasonable accommodation during the selection process should contact Marvell HR Helpdesk at TAOps@marvell.com.Interview Integrity As part of our commitment to fair and authentic hiring practices, we ask that candidates do not use AI tools (e.g., transcription apps, real-time answer generators like ChatGPT, CoPilot, or note-taking bots) during interviews. Our interviews are designed to assess your personal experience, thought process, and communication skills in real-time. If a candidate uses such tools during an interview, they will be disqualified from the hiring process.This position may require access to technology and/or software subject to U.S. export control laws and regulations, including the Export Administration Regulations (EAR). As such, applicants must be eligible to access export-controlled information as defined under applicable law. Marvell may be required to obtain export licensing approval from the U.S. Department of Commerce and/or the U.S. Department of State. Except for U.S. citizens, lawful permanent residents, or protected individuals as defined by 8 U.S.C. 1324b(a)(3), all applicants may be subject to an export license review process prior to employment.#LI-JY1",
-      "job_apply_link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Data-Engineer-Intern_2502263",
-      "job_posted_at_datetime_utc": "2025-12-10T16:48:28.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "marvell-data-engineer-intern-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T21:04:20.156Z",
-    "postedAt": "2025-12-20T21:29:39.684Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern – Clinical Development-Backend Engineering",
-      "employer_name": "LabCorp",
-      "job_city": "Durham",
-      "job_state": "NC",
-      "job_description": "Join LabCorp in this exciting opportunity.",
-      "job_apply_link": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Clinical-Development-Backend-Engineering_2534910",
-      "job_posted_at_datetime_utc": "2025-12-10T16:37:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "labcorp-intern-clinical-development-backend-engineering-durham",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T21:04:20.156Z",
-    "postedAt": "2025-12-20T21:29:39.684Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Extended Perception Interaction Cognition - Epic",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Generative AI: LLMs, VLMs, Stable Diffusion and related technologies HCI system building: hands-on experience prototyping with the web stack (Typescript, Node.js, React); we expect the intern will leverage AI when programming yet demonstrates software architecture and programming knowledge. Interaction design: experience with devising multimodal interactions (touch, pen, speech), context sensing, responsive &amp; adaptive UIs Experience design: storyboarding, envisioning video techniques UX research: conducting qualitative and quantitative user studies Accepted or currently enrolled in a PhD program in Computer Science or related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. At least 1 year experience conducting original research in (or closely related to) Human-Computer Interaction and further be able to document their research contributions with publicly available resources (e.g. by linking to papers, pre-prints, videos, demonstrations, repositories, articles, press coverage, or research proposals in your submitted CV). Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
-      "job_posted_at_datetime_utc": "2025-12-10T16:24:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-extended-perception-interaction-cognition-epic-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T21:04:20.156Z",
-    "postedAt": "2025-12-20T21:29:39.684Z"
-  },
-  {
-    "job": {
-      "job_title": "North America Solutions Deployment & Integration – Engineering Operations Summer Intern - Sdi - 2026",
-      "employer_name": "Motorola",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "MOTOROLA SOLUTIONS OVERVIEW At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Learn more at www.motorolasolutions.com. If you are a current Motorola Solutions employee, please click this link to apply through your Workday account.",
-      "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America-Solutions-Deployment---Integration--NA-SDI--Engineering-Operations-Summer-Intern--2026_R60147",
-      "job_posted_at_datetime_utc": "2025-12-10T15:53:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "motorola-north-america-solutions-deployment-integration-engineering-operations-summer-intern-sdi-2026-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T21:04:20.156Z",
-    "postedAt": "2025-12-20T21:29:39.684Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering AI Intern",
       "employer_name": "The Walt Disney Company",
       "job_city": "Glendale",
@@ -554,10 +454,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T21:17:55.001Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:34:58.396Z"
   },
   {
     "job": {
@@ -574,10 +474,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T21:17:55.001Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:34:58.396Z"
   },
   {
     "job": {
@@ -594,10 +494,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T21:17:55.001Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:34:58.396Z"
   },
   {
     "job": {
@@ -614,10 +514,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T21:17:55.001Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:34:58.396Z"
   },
   {
     "job": {
@@ -634,10 +534,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T21:17:55.001Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:34:58.396Z"
   },
   {
     "job": {
@@ -745,16 +645,18 @@
       "employer_name": "Codal",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Codal in this exciting opportunity.",
+      "job_description": "An Introduction to Codal Codal is an award-winning web design and development consultancy that helps enterprise organizations solve complex problems and accelerate growth through elegant, data-driven digital solutions. Our areas of expertise include application modernization, eCommerce, UX/UI design, product strategy, data analytics, and artificial intelligence. At Codal, you’ll collaborate with some of the most innovative organizations in the world and work on cutting-edge technologies that push the boundaries of design and software development. You’ll also be part of a community that promotes long-term success, not just for our clients but for each other. We’ll help you develop a professional roadmap that takes your career to new heights. Who You’ll be Working With Codal is seeking a highly motivated Frontend Software Engineering Intern. In this role, you will have the opportunity to join live engagements and see consulting and engineering in action. Each intern will be paired with a dedicated mentor and get real feedback from both engineering and product leadership. Strong interns are often given full-time return offers. As a Frontend Software Engineering Intern, you will contribute directly to the implementation of new features, debug issues, and optimize existing code within a production environment. We'll need you to have a strong eagerness to learn and effective communication skills to actively seek feedback, document your technical findings, and successfully collaborate with your mentor and the wider project team. You can expect to actively research and propose solutions that contribute to the modernization and maintenance of our systems and practices. Working closely with your mentor and team, you will learn how to deconstruct project requirements and tackle specific technical challenges within your primary area of focus. Key Responsibilities Develop and implement user-facing features on client applications using modern HTML, CSS, and JavaScript/TypeScript. Troubleshoot and debug issues within development, staging, and production user interfaces. Write clean, well-documented, and performant code following established front-end best practices for security and accessibility. Participate in code review processes to give and receive constructive feedback on logic, design implementation, and performance. Research technical solutions related to UI frameworks, performance optimization, and styling methods, proposing actionable recommendations to the team. Collaborate cross-functionally with Designers and Product Managers to ensure accurate translation of wireframes and visual designs into responsive applications. Document technical processes, component libraries, and contribute to team knowledge sharing. Actively participate in project meetings and provide progress updates on front-end tasks. Seek and incorporate feedback to continuously improve technical skills and process understanding, particularly concerning UI/UX quality. Requirements Currently pursuing a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Software Engineering, or closely related technical field with an expected graduation in Dec 2026 or May 2027. Experience or coursework demonstrating working proficiency in HTML, CSS, and JavaScript. Familiarity with at least one modern front-end library or framework, such as React, Next.js, or Angular. Basic understanding of responsive design principles and a keen eye for visual detail and user experience. Basic understanding of the software development lifecycle (SDLC) and experience with version control tools, preferably Git. Exposure to consuming data from APIs (REST or GraphQL) for dynamic content loading. Excellent written and verbal communication skills with the ability to articulate technical concepts clearly and ask effective questions, especially when working with non-technical designers. A strong eagerness to learn, intellectual curiosity, and a proactive attitude toward problem-solving. Ability to work effectively in a team environment and collaborate with cross-functional roles. Ability to work in-person on a hybrid basis at our HQ in Chicago, IL for the full duration of the internship. Benefits and Salary Hourly Rate: $34-40 per hour. The rate within this range will be determined based on the candidate's experience level and qualifications. Need another reason to hit the “apply” button? Codal is a global agency with over 200 employees, and offices in the US, UK, and India We regularly host happy hours, dinners, excursions, and other company events to unwind after a hard day at work Office snacks and drinks + a fancy Bevi water machine with flavored water A recreational group that regularly competes in city leagues for softball and volleyball An office in the heart of downtown Chicago with a gym, food court, Walgreens, rooftop bar, outdoor sports court, and other amenities Working hybrid for in-person collaboration and sprint-planning days Note: Codal only communicates with candidates through official @codal.com email addresses. We never request payment during the hiring process. Please be vigilant regarding recruitment scams. At Codal, we are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.",
       "job_apply_link": "https://job-boards.greenhouse.io/codalinc/jobs/5022727008",
       "job_posted_at_datetime_utc": "2025-12-10T13:20:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "codal-frontend-software-engineer-intern-chicago"
+      "id": "codal-frontend-software-engineer-intern-chicago",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:34:21.763Z",
     "postedAt": null
   },
   {
@@ -763,16 +665,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Investigate and evaluate emerging disaggregated KV cache architectures. Implement a hierarchical storage architecture with multiple tiers Build Peer-to-Peer (P2P) service KV cache sharing architecture that enables direct, high-performance cache transfer between multiple LLM serving instances without requiring centralized cache servers. Currently enrolled in a PhD program in Computer Science, Electrical/Computer Engineering, or a related field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Research experience in areas such as computer architecture, AI/ML systems, performance modeling, distributed systems, or hardware-software co-design. Programming skills in Python, C/C++ with experience building prototypes, simulators, or performance analysis tools. Familiarity with modern AI workloads and/or deep learning frameworks (e.g., PyTorch). Demonstrated ability to define and pursue original research directions in AI systems or architecture. Ability to collaborate effectively with researchers across disciplines and work in cross-group, cross-cultural environments. Proficient communication and presentation skills for sharing complex technical insights. Ability to think creatively and approach system and architecture challenges with unconventional or innovative solutions. Experience with PyTorch, CUDA, Triton, or performance-simulation tools. Background in large-scale system design, AI inference bottleneck analysis, or modeling cost/performance tradeoffs. Understanding of accelerator, memory-system, or interconnect design principles.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556639524",
       "job_posted_at_datetime_utc": "2025-12-10T13:18:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-frameworks-network-systems-and-tools-redmond"
+      "id": "microsoft-research-intern-ai-frameworks-network-systems-and-tools-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:34:21.763Z",
     "postedAt": null
   },
   {
@@ -781,16 +685,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Conduct research in decision making and causal inference with large language models. Design and implement experiments, prototypes, or simulations. Analyze results and contribute to technical reports or publications. Collaborate with mentors and team members to achieve project goals. Currently enrolled in a PhD program in Computer Science, Environmental Science, Public Policy, or related field. One or more publications in causal machine learning, policy analysis, and related areas. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Proficiency in programming languages such as Python, C++, or similar. Proficient problem-solving and communication skills. Experience with commercial and/or open source large language models. Prior research experience demonstrated through publications or projects.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556639557",
       "job_posted_at_datetime_utc": "2025-12-10T13:18:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-environmental-policy-public-policy-redmond"
+      "id": "microsoft-research-intern-environmental-policy-public-policy-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:34:21.763Z",
     "postedAt": null
   },
   {
@@ -799,16 +705,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science or a related STEM field. At least 2 years&#39; experience conducting research as part of a research program in academic or industry setting in the area of Large Language Models (LLMs), multimodal models, agents and/or reinforcement learning. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Passion for incubating new ideas, solving problems, and building working prototypes. Experience training and/or finetuning large language models, model compression, distillation to small language models. Experience with Python and deep learning libraries. Desire to learn to create reusable software libraries and packages. Experience using dataset curation, data generation using prompting state of art LLMs and/or model alignment. Experience with reinforcement learning libraries or formal methods and verification is a plus. Experience of scientific writing in top-tier conferences or journals (ICLR, ACL, EMLP, ICML, CVPR, ICCV, ECCV, NeurIPS, TPAMI, etc.).",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556621543",
       "job_posted_at_datetime_utc": "2025-12-10T13:10:34.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-foundational-models-agents-redmond"
+      "id": "microsoft-research-intern-foundational-models-agents-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:34:21.763Z",
     "postedAt": null
   },
   {
@@ -817,16 +725,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Developing novel training algorithms for enhancing reasoning and action taking efficiency and reliability Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Accepted or currently enrolled in a PhD program in Computer Science or related STEM field. At least 1 year of experience with deep learning and large language model training. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Proven expertise in language model pre-training, post-training, or reinforcement learning. Proven publication record in top-tier conferences. Demonstrated ability to develop original research and perform hands-on research in a collaborative and dynamic environment.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
       "job_posted_at_datetime_utc": "2025-12-10T13:10:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-frontiers-reasoning-agentic-models-redmond"
+      "id": "microsoft-research-intern-ai-frontiers-reasoning-agentic-models-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:34:21.763Z",
     "postedAt": null
   },
   {
