@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:53:41.920Z",
+  "lastUpdated": "2025-12-20T21:04:50.292Z",
   "jobs": [
-    {
-      "id": "general-dynamics-information-technology-artificial-intelligence-machine-learning-associate-internship-falls-church-2025-12-13-1",
-      "jobId": "general-dynamics-information-technology-artificial-intelligence-machine-learning-associate-internship-falls-church",
-      "company": "General Dynamics Information Technology",
-      "title": "Artificial Intelligence/Machine Learning Associate Internship",
-      "postedToDiscord": "2025-12-13T20:54:48.378Z",
-      "sourceDate": "2025-09-26T06:57:57.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Artificial-Intelligence-Machine-Learning-Associate--Internship-_RQ207542",
-      "discordThreadId": "1449504849577119847",
-      "instanceNumber": 1
-    },
     {
       "id": "servicenow-data-informatics-analyst-intern-security-organization-san-diego-2025-12-13-1",
       "jobId": "servicenow-data-informatics-analyst-intern-security-organization-san-diego",
@@ -10440,14 +10429,69 @@
       "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28483",
       "discordThreadId": "1452041278010167358",
       "instanceNumber": 1
+    },
+    {
+      "id": "commscope-analytics-intern-hickory-2025-12-20-1",
+      "jobId": "commscope-analytics-intern-hickory",
+      "company": "CommScope",
+      "title": "Analytics Intern",
+      "postedToDiscord": "2025-12-20T21:04:29.819Z",
+      "sourceDate": "2025-12-10T23:04:46.000Z",
+      "sourceUrl": "https://jobs.commscope.com/job/Claremont-Analytics-Intern-Nort/1348738600/?ats=successfactors",
+      "discordThreadId": "1452043995214643342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-ai-product-innovation-intern-bellevue-2025-12-20-1",
+      "jobId": "t-mobile-ai-product-innovation-intern-bellevue",
+      "company": "T-Mobile",
+      "title": "AI Product Innovation Intern",
+      "postedToDiscord": "2025-12-20T21:04:33.272Z",
+      "sourceDate": "2025-12-10T17:59:14.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/AI-Product-Innovation-Intern_REQ339262",
+      "discordThreadId": "1452044011249598538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-ai-product-strategy-internship-bellevue-2025-12-20-1",
+      "jobId": "t-mobile-ai-product-strategy-internship-bellevue",
+      "company": "T-Mobile",
+      "title": "AI Product Strategy Internship",
+      "postedToDiscord": "2025-12-20T21:04:36.630Z",
+      "sourceDate": "2025-12-10T17:58:01.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2026-AI-Product-Strategy-Internship_REQ340118",
+      "discordThreadId": "1452044025610895441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "disney-software-engineering-ai-intern-glendale-2025-12-20-1",
+      "jobId": "disney-software-engineering-ai-intern-glendale",
+      "company": "Disney",
+      "title": "Software Engineering AI Intern",
+      "postedToDiscord": "2025-12-20T21:04:43.916Z",
+      "sourceDate": "2025-12-10T18:14:07.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
+      "discordThreadId": "1452044053607743541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-quantitative-systems-pharmacology-san-francisco-2025-12-20-1",
+      "jobId": "genentech-quantitative-systems-pharmacology-san-francisco",
+      "company": "Genentech",
+      "title": "Quantitative Systems Pharmacology",
+      "postedToDiscord": "2025-12-20T21:04:50.292Z",
+      "sourceDate": "2025-12-10T17:55:35.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Quantitative-Systems-Pharmacology_202512-131165",
+      "discordThreadId": "1452044082812817458",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 949,
+    "totalJobs": 953,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:53:41.920Z",
+      "date": "2025-12-20T21:04:50.292Z",
       "archived": 0
     }
   }
