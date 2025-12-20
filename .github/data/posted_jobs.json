@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:03:28.684Z",
+  "lastUpdated": "2025-12-20T22:16:48.196Z",
   "jobs": [
-    {
-      "id": "ge-vernova-power-system-intern-ai-ml-bellevue-2025-12-13-1",
-      "jobId": "ge-vernova-power-system-intern-ai-ml-bellevue",
-      "company": "GE Vernova",
-      "title": "Power System Intern - AI/ML",
-      "postedToDiscord": "2025-12-13T22:04:29.920Z",
-      "sourceDate": "2025-09-25T08:08:50.000Z",
-      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue-WA-US/Power-System-Intern---AI-ML---Summer-2026_R5016935-3",
-      "discordThreadId": "1449522387610632292",
-      "instanceNumber": 1
-    },
     {
       "id": "motorola-it-systems-analyst-intern-supply-chain-it-operations-chicago-2025-12-13-1",
       "jobId": "motorola-it-systems-analyst-intern-supply-chain-it-operations-chicago",
@@ -10748,14 +10737,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621887",
       "discordThreadId": "1452058838688731159",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-microsoft-research-software-hardware-co-design-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-microsoft-research-software-hardware-co-design-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Research Software-Hardware Co-design",
+      "postedToDiscord": "2025-12-20T22:16:41.470Z",
+      "sourceDate": "2025-12-10T13:05:40.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621730",
+      "discordThreadId": "1452062160309194792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-microsoft-research-ai-frontiers-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-microsoft-research-ai-frontiers-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Research AI Frontiers",
+      "postedToDiscord": "2025-12-20T22:16:48.170Z",
+      "sourceDate": "2025-12-10T13:05:50.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621454",
+      "discordThreadId": "1452062192533901483",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern",
+      "postedToDiscord": "2025-12-20T22:16:48.179Z",
+      "sourceDate": "2025-12-10T13:05:46.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556622015",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-multimodal-learning-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-multimodal-learning-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Multimodal Learning",
+      "postedToDiscord": "2025-12-20T22:16:48.188Z",
+      "sourceDate": "2025-12-10T13:05:46.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621800",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-rise-group-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-rise-group-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - RiSE Group",
+      "postedToDiscord": "2025-12-20T22:16:48.196Z",
+      "sourceDate": "2025-12-10T13:05:40.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621565",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 977,
+    "totalJobs": 981,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:03:28.684Z",
+      "date": "2025-12-20T22:16:48.196Z",
       "archived": 0
     }
   }
