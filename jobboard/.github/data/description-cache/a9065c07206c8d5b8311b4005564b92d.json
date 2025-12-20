@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.commscope.com/job/Shakopee-Intern-Software-Engineer-Minn/1346617800/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Search by Job or Location Search by Location Show More Options Loading... Title All Job Category All Location All Clear Select how often (in days) to receive an alert: Sign up for Job Alerts form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.commscope.com/job/Shakopee-Intern-Software-Engineer-Minn/1346617800/?ats=successfactors",
+      "fetchedAt": "2025-12-20T20:38:30.886Z"
+    }
+  },
+  "cachedAt": 1766263110886
+}
