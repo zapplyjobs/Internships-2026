@@ -1,0 +1,30 @@
+{
+  "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Software-Development-Intern_R_333148",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Company:Oliver WymanDescription:Location: Atlanta, GA / RemoteDuration:  June 1 – July 31, 2026Position Summary:We are looking for a passionate and motivated Software Development Intern to join our dynamic development team. The ideal candidate will have a strong foundation in Java, Python, TypeScript/Nodejs and will support various phases of the software development lifecycle, gaining valuable real-world experience.Key Responsibilities:Development Support:Assist in the design, coding, and testing of software applications using Java, Python, and TypeScript/Nodejs.Collaborate with senior developers to troubleshoot and resolve software defects.Participate in code reviews to maintain code quality and standards.Documentation:Help create and maintain documentation for software specifications, user manuals, and technical guides.Document processes and workflows to ensure best practices are followed.Research and Development:Assist in exploring new technologies and methodologies to improve software development processes.Participate in brainstorming sessions to propose innovative solutions to existing problems.Team Collaboration:Attend and contribute to team meetings with a focus on project updates and progress.Collaborate with cross-functional teams to understand project requirements and business needs.Qualifications:Currently enrolled in a degree program in Computer Science, Software Engineering, or a related field.Proficiency in Java, Python, TypeScript/Nodejs and experience with Angular.Familiarity with web development principles and RESTful APIs.Strong problem-solving skills and a willingness to learn.Excellent communication skills and ability to work in a team environment.Benefits:Hands-on Experience: Gain real-world experience in software development processes and practices.Mentorship: Receive guidance and mentorship from experienced software developers.Career Development: Opportunity to enhance your technical skills and build a professional network.Oliver Wyman, a business of Marsh McLennan (NYSE: MMC), is a management consulting firm combining deep industry knowledge with specialized expertise to help clients optimize their business, improve operations and accelerate performance. Marsh McLennan is a global leader in risk, strategy and people, advising clients in 130 countries across four businesses: Marsh, Guy Carpenter, Mercer and Oliver Wyman. With annual revenue of $24 billion and more than 90,000 colleagues, Marsh McLennan helps build the confidence to thrive through the power of perspective. For more information, visit oliverwyman.com, or follow on LinkedIn and X.Marsh McLennan is committed to embracing a diverse, inclusive and flexible work environment. We aim to attract and retain the best people and embrace diversity of age background, disability, ethnic origin, family duties, gender orientation or expression, marital status, nationality, parental status, personal or social status, political affiliation, race, religion and beliefs, sex/gender, sexual orientation or expression, skin color, veteran status (including protected veterans), or any other characteristic protected by applicable law. If you have a need that requires accommodation, please let us know by contacting reasonableaccommodations@mmc.com.Marsh McLennan is committed to hybrid work, which includes the flexibility of working remotely and the collaboration, connections and professional development benefits of working together in the office. All Marsh McLennan colleagues are expected to be in their local office or working onsite with clients at least three days per week. Office-based teams will identify at least one “anchor day” per week on which their full team will be together in person.",
+    "requirements": [
+      "Team Collaboration:Attend and contribute to team meetings with a focus on project updates and progress.Collaborate with cross-functional teams to understand project requirements and business needs.",
+      "Collaborate with cross-functional teams to understand project requirements and business needs.",
+      "Currently enrolled in a degree program in Computer Science, Software Engineering, or a related field."
+    ],
+    "responsibilities": [
+      "Development Support:Assist in the design, coding, and testing of software applications using Java, Python, and TypeScript/Nodejs.Collaborate with senior developers to troubleshoot and resolve software defects.Participate in code reviews to maintain code quality and standards.",
+      "Collaborate with senior developers to troubleshoot and resolve software defects.",
+      "Research and Development:Assist in exploring new technologies and methodologies to improve software development processes.Participate in brainstorming sessions to propose innovative solutions to existing problems.",
+      "Assist in exploring new technologies and methodologies to improve software development processes.",
+      "Familiarity with web development principles and RESTful APIs.",
+      "Strong problem-solving skills and a willingness to learn.",
+      "Hands-on Experience: Gain real-world experience in software development processes and practices.",
+      "Mentorship: Receive guidance and mentorship from experienced software developers.",
+      "Career Development: Opportunity to enhance your technical skills and build a professional network."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Software-Development-Intern_R_333148",
+      "fetchedAt": "2025-12-20T23:44:36.796Z"
+    }
+  },
+  "cachedAt": 1766274276796
+}
