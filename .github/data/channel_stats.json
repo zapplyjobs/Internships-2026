@@ -1,17 +1,17 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2025-12-20T21:18:20.353Z",
-  "totalPosts": 799,
+  "lastUpdated": "2025-12-20T21:29:35.171Z",
+  "totalPosts": 809,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 226,
-      "lastPost": "2025-12-20T21:18:00.784Z"
+      "posts": 229,
+      "lastPost": "2025-12-20T21:29:22.377Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa-int",
-      "posts": 97,
-      "lastPost": "2025-12-20T21:18:16.833Z"
+      "posts": 99,
+      "lastPost": "2025-12-20T21:29:20.426Z"
     },
     "1449956806414700594": {
       "name": "🚌・boston-int",
@@ -25,18 +25,18 @@
     },
     "1446528260627501228": {
       "name": "🤖・ai-internships",
-      "posts": 117,
-      "lastPost": "2025-12-20T21:18:18.559Z"
+      "posts": 119,
+      "lastPost": "2025-12-20T21:29:33.265Z"
     },
     "1449956487584682044": {
       "name": "🌆・chicago-int",
-      "posts": 20,
-      "lastPost": "2025-12-20T20:17:19.807Z"
+      "posts": 21,
+      "lastPost": "2025-12-20T21:29:24.174Z"
     },
     "1449956664458350765": {
       "name": "🌉・san-francisco-int",
-      "posts": 126,
-      "lastPost": "2025-12-20T21:18:09.015Z"
+      "posts": 127,
+      "lastPost": "2025-12-20T21:29:31.344Z"
     },
     "1449956514344472617": {
       "name": "🌧️・seattle-int",
@@ -100,8 +100,8 @@
     },
     "1449956596179271833": {
       "name": "🖥️・redmond-int",
-      "posts": 1,
-      "lastPost": "2025-12-20T21:18:20.353Z"
+      "posts": 2,
+      "lastPost": "2025-12-20T21:29:35.171Z"
     }
   }
 }

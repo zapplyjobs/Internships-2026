@@ -3122,5 +3122,16 @@
     "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7270714",
     "discordThreadId": "1449510623779094632",
     "instanceNumber": 1
+  },
+  {
+    "id": "uncountable-full-stack-intern-san-francisco-2025-12-13-1",
+    "jobId": "uncountable-full-stack-intern-san-francisco",
+    "company": "Uncountable",
+    "title": "Full-Stack Intern",
+    "postedToDiscord": "2025-12-13T21:27:55.587Z",
+    "sourceDate": "2025-09-25T19:12:06.000Z",
+    "sourceUrl": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
+    "discordThreadId": "1449513184665800827",
+    "instanceNumber": 1
   }
 ]
