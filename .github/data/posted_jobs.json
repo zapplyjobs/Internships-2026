@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:30:01.626Z",
+  "lastUpdated": "2025-12-20T20:38:55.335Z",
   "jobs": [
-    {
-      "id": "general-dynamics-information-technology-software-developer-automation-intern-windsor-mill-2025-12-13-1",
-      "jobId": "general-dynamics-information-technology-software-developer-automation-intern-windsor-mill",
-      "company": "General Dynamics Information Technology",
-      "title": "Software Developer Automation Intern",
-      "postedToDiscord": "2025-12-13T20:31:39.399Z",
-      "sourceDate": "2025-09-26T07:14:10.000Z",
-      "sourceUrl": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-MD-Windsor-Mill/Software-Developer-Automation-Intern_RQ207709",
-      "discordThreadId": "1449499024204894218",
-      "instanceNumber": 1
-    },
     {
       "id": "ibotta-software-engineering-intern-denver-2025-12-13-1",
       "jobId": "ibotta-software-engineering-intern-denver",
@@ -10308,14 +10297,69 @@
       "sourceUrl": "https://explore.jobs.netflix.net/careers/job/790313241540",
       "discordThreadId": "1452035321519935569",
       "instanceNumber": 1
+    },
+    {
+      "id": "cohesity-salesforce-developer-intern-santa-clara-2025-12-20-1",
+      "jobId": "cohesity-salesforce-developer-intern-santa-clara",
+      "company": "Cohesity",
+      "title": "Salesforce Developer Intern",
+      "postedToDiscord": "2025-12-20T20:38:41.546Z",
+      "sourceDate": "2025-12-10T23:17:58.000Z",
+      "sourceUrl": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Salesforce-Developer-Intern_R02141",
+      "discordThreadId": "1452037502939697164",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-phd-software-engineer-intern-observability-data-platform-seattle-2025-12-20-1",
+      "jobId": "uber-phd-software-engineer-intern-observability-data-platform-seattle",
+      "company": "Uber",
+      "title": "PhD Software Engineer Intern - Observability Data Platform",
+      "postedToDiscord": "2025-12-20T20:38:45.184Z",
+      "sourceDate": "2025-12-10T23:17:35.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/151981/",
+      "discordThreadId": "1452037517212651570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-2026-phd-software-engineer-intern-kafka-united-states-sunnyvale-2025-12-20-1",
+      "jobId": "uber-2026-phd-software-engineer-intern-kafka-united-states-sunnyvale",
+      "company": "Uber",
+      "title": "2026 PhD Software Engineer Intern - Kafka - United States",
+      "postedToDiscord": "2025-12-20T20:38:48.523Z",
+      "sourceDate": "2025-12-10T23:17:22.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152031/",
+      "discordThreadId": "1452037532455014400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-full-stack-application-2-co-op-san-jose-2025-12-20-1",
+      "jobId": "cisco-software-engineer-full-stack-application-2-co-op-san-jose",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack/Application 2 - Co-op",
+      "postedToDiscord": "2025-12-20T20:38:51.901Z",
+      "sourceDate": "2025-12-10T23:16:06.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2004337",
+      "discordThreadId": "1452037546325311539",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-software-engineering-intern-roseville-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-software-engineering-intern-roseville",
+      "company": "Westinghouse Electric Company",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-20T20:38:55.335Z",
+      "sourceDate": "2025-12-10T23:13:27.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
+      "discordThreadId": "1452037560539811991",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 937,
+    "totalJobs": 941,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:30:01.626Z",
+      "date": "2025-12-20T20:38:55.335Z",
       "archived": 0
     }
   }

@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27970",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This is a great opportunity to contribute to Nokia’s next generation of AI and machine learning platforms. You will support the development of advanced MLOps, GenAI, and AI/ML systems that enable efficient, scalable, and sustainable model training and inference across diverse environments. Your work will help strengthen Nokia’s ability to deliver high-performance AI services, optimize real-world deployments, and accelerate innovation across cloud, edge, RAN, and emerging intelligent platforms.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27970",
+      "fetchedAt": "2025-12-20T20:38:27.199Z"
+    }
+  },
+  "cachedAt": 1766263107200
+}
