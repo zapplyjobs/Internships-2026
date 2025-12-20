@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:53:27.558Z",
+  "lastUpdated": "2025-12-20T22:03:28.684Z",
   "jobs": [
     {
       "id": "ge-vernova-power-system-intern-ai-ml-bellevue-2025-12-13-1",
@@ -10693,14 +10693,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
       "discordThreadId": "1452056317542793380",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-algorithms-group-generative-modeling-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-algorithms-group-generative-modeling-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Algorithms group: Generative Modeling",
+      "postedToDiscord": "2025-12-20T22:03:18.524Z",
+      "sourceDate": "2025-12-10T13:10:25.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556626678",
+      "discordThreadId": "1452058795512692838",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-llm-acceleration-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-llm-acceleration-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - LLM Acceleration",
+      "postedToDiscord": "2025-12-20T22:03:18.536Z",
+      "sourceDate": "2025-12-10T13:10:23.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556627833",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-frameworks-mountain-view-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-frameworks-mountain-view",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Frameworks",
+      "postedToDiscord": "2025-12-20T22:03:18.544Z",
+      "sourceDate": "2025-12-10T13:10:04.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628723",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-agents-microsoft-research-ai-frontiers-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-agents-microsoft-research-ai-frontiers-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Agents - Microsoft Research AI Frontiers",
+      "postedToDiscord": "2025-12-20T22:03:21.982Z",
+      "sourceDate": "2025-12-10T13:06:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556629204",
+      "discordThreadId": "1452058811794723028",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-applied-sciences-group-audio-vision-nlp-multimodal-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-applied-sciences-group-audio-vision-nlp-multimodal-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Applied Sciences Group - Audio/Vision/NLP/Multimodal",
+      "postedToDiscord": "2025-12-20T22:03:28.684Z",
+      "sourceDate": "2025-12-10T13:10:30.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621887",
+      "discordThreadId": "1452058838688731159",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 972,
+    "totalJobs": 977,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:53:27.558Z",
+      "date": "2025-12-20T22:03:28.684Z",
       "archived": 0
     }
   }
