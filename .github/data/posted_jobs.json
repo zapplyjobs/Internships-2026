@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:38:55.335Z",
+  "lastUpdated": "2025-12-20T20:48:33.655Z",
   "jobs": [
-    {
-      "id": "ibotta-software-engineering-intern-denver-2025-12-13-1",
-      "jobId": "ibotta-software-engineering-intern-denver",
-      "company": "Ibotta",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-13T20:40:43.741Z",
-      "sourceDate": "2025-09-26T07:12:01.000Z",
-      "sourceUrl": "https://ibotta.wd1.myworkdayjobs.com/en-US/ibotta/job/Denver-CO/Software-Engineering-Intern_R-102113",
-      "discordThreadId": "1449501307567345704",
-      "instanceNumber": 1
-    },
     {
       "id": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago-2025-12-13-1",
       "jobId": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago",
@@ -10352,14 +10341,69 @@
       "sourceUrl": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
       "discordThreadId": "1452037560539811991",
       "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-software-development-intern-summer-2026-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-software-development-intern-summer-2026-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Software Development Intern Summer 2026",
+      "postedToDiscord": "2025-12-20T20:48:12.669Z",
+      "sourceDate": "2025-12-10T23:13:25.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
+      "discordThreadId": "1452039898046402817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-software-and-automation-intern-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-software-and-automation-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Software and Automation Intern",
+      "postedToDiscord": "2025-12-20T20:48:16.609Z",
+      "sourceDate": "2025-12-10T23:12:30.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-and-Automation-Intern-Summer-2026-NC/1336532600/?ats=successfactors",
+      "discordThreadId": "1452039912957411511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-enovia-plm-developer-intern-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-enovia-plm-developer-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Enovia PLM Developer Intern",
+      "postedToDiscord": "2025-12-20T20:48:20.397Z",
+      "sourceDate": "2025-12-10T23:12:14.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Enovia-PLM-Developer-Intern-Summer-2026-NC/1338026700/?ats=successfactors",
+      "discordThreadId": "1452039929453477889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-data-science-intern-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-data-science-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-20T20:48:26.958Z",
+      "sourceDate": "2025-12-10T23:12:45.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Data-Science-Intern-Summer-2026-NC/1332730100/?ats=successfactors",
+      "discordThreadId": "1452039957668692050",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-risk-analysis-intern-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-risk-analysis-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Risk Analysis Intern",
+      "postedToDiscord": "2025-12-20T20:48:33.655Z",
+      "sourceDate": "2025-12-10T23:12:11.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Intern-Summer-2026-NC/1322471100/?ats=successfactors",
+      "discordThreadId": "1452039985288056944",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 941,
+    "totalJobs": 945,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:38:55.335Z",
+      "date": "2025-12-20T20:48:33.655Z",
       "archived": 0
     }
   }
