@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T23:03:38.385Z",
+  "lastUpdated": "2025-12-20T23:16:59.090Z",
   "jobs": [
-    {
-      "id": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville-2025-12-13-1",
-      "jobId": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville",
-      "company": "Boston Scientific",
-      "title": "Software Engineer Intern - Data Analytics & Web Applications",
-      "postedToDiscord": "2025-12-13T23:04:40.998Z",
-      "sourceDate": "2025-09-25T01:31:51.000Z",
-      "sourceUrl": "https://bostonscientific.eightfold.ai/careers/job/563602808725759",
-      "discordThreadId": "1449537534743806187",
-      "instanceNumber": 1
-    },
     {
       "id": "oatey-it-data-analytics-intern-analytics-power-bi-cleveland-2025-12-13-1",
       "jobId": "oatey-it-data-analytics-intern-analytics-power-bi-cleveland",
@@ -11012,14 +11001,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
       "discordThreadId": "1452073979685896424",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-aip-ai-knowledge-multimodal-ai-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-aip-ai-knowledge-multimodal-ai-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AIP AI Knowledge Multimodal AI",
+      "postedToDiscord": "2025-12-20T23:16:55.301Z",
+      "sourceDate": "2025-12-10T12:59:19.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637119",
+      "discordThreadId": "1452077322529276068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-multimodal-deep-learning-for-healthcare-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-multimodal-deep-learning-for-healthcare-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Multimodal Deep Learning for Healthcare",
+      "postedToDiscord": "2025-12-20T23:16:55.316Z",
+      "sourceDate": "2025-12-10T12:59:12.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637113",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-network-observability-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-network-observability-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Network Observability",
+      "postedToDiscord": "2025-12-20T23:16:55.325Z",
+      "sourceDate": "2025-12-10T12:58:08.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556639544",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-microsoft-teams-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-microsoft-teams-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Teams",
+      "postedToDiscord": "2025-12-20T23:16:55.332Z",
+      "sourceDate": "2025-12-10T12:52:01.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556640715",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-interactive-multimodal-futures-group-situated-affective-computing-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-interactive-multimodal-futures-group-situated-affective-computing-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing",
+      "postedToDiscord": "2025-12-20T23:16:59.089Z",
+      "sourceDate": "2025-12-10T12:59:18.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637105",
+      "discordThreadId": "1452077337364529193",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1001,
+    "totalJobs": 1005,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T23:03:38.385Z",
+      "date": "2025-12-20T23:16:59.090Z",
       "archived": 0
     }
   }
