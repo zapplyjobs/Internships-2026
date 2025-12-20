@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Analytics Intern",
-      "employer_name": "CommScope",
-      "job_city": "Hickory",
-      "job_state": "NC",
-      "job_description": "Internship Programs at CommScope As CommScope designs and builds connectivity for the world's most advanced networks, we're building something equally as important: careers for forward-thinking, innovated college students like you! Our Summer Internship Program is designed to provide you with an invaluable work experience through meaningful projects that will help you grow and develop both personally and professionally. Throughout the 12-week program, you will collaborate with some of the best in the industry, receive on-the-job training, participating in professional development workshops, executive speaker series, and other networking and social events! How You’ll Help Us Connect the World As an Enablement and Development Intern, you will be responsible for developing a Customer Proposal Template for the Data Center Team. You will work closely with Marketing, Product Management, Sales, Human Resources, and Enablement teams to develop this content. This role will be based in Shakopee, MN. You Will Make an Impact By • Enable us to submit timely, high-quality proposals • Ensure consistent and accurate proposals • Help win new business and strengthen client relationships Required Qualifications for Consideration • Actively pursuing a bachelor’s (upcoming sophomores, juniors & seniors) or master’s degree in English, Marketing or Journalism from an accredited university • Proven strong academic performer with a minimum GPA of 3.0 • Strong experience with Microsoft Word • Must possess unrestricted work authorization and not require future sponsorship • Military-Affiliated candidates encouraged to apply (Veterans, Military Spouses, and Guard/Reservists) You Will Excite Us If You • Experience using Word macros (VBA) and Building Blocks to automatically assemble a proposal • Written stories or articles in college or for work • Familiar with using Microsoft Copilot (or other platform such as Grammarly) to assist in writing • Demonstrate strong leadership, interpersonal and communication skills • Show innovation through unique ideas and propose them to the team • Able to handle multiple assignments simultaneously and effectively meet deadlines • Strategic and creative thinking; distinguished written and verbal communications skills • Strong initiative; a self-starter with analytical skills, attention to detail, problem solving and decision-making abilities • Experience working in a fast-paced environment and flexible to changing priorities What Happens After You Apply Learn how to prepare yourself for the next steps in our hiring process by visiting https://careers.commscope.com/how-we-hire. Why CommScope CommScope is on a quest to deliver connectivity that empowers how we live, work, and learn. Our employees push the boundaries of communications technology that enables game-changing discoveries like 5G, the Internet of Things, and gigabit speeds for everyone, everywhere. With our unmatched expertise in copper, fiber, and wireless infrastructure, our global clients rely on us to outperform today and be ready for the needs of tomorrow. If you want to grow your career alongside bright, passionate, and caring people who strive to create what's next...come connect to your future at CommScope.CommScope is an Equal Opportunity Employer (EEO), including people with disabilities and veterans. If you are seeking an accommodation for the application or interview process, please contact us to submit your request at talentacquisition@commscope.com. You can also learn more about CommScope’s accommodation process and EEO policy at careers.commscope.com/eeo",
-      "job_apply_link": "https://jobs.commscope.com/job/Claremont-Analytics-Intern-Nort/1348738600/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-10T23:04:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "commscope-analytics-intern-hickory",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:48:03.016Z",
-    "postedAt": "2025-12-20T21:04:53.306Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering AI Intern",
-      "employer_name": "Disney",
-      "job_city": "Glendale",
-      "job_state": "CA",
-      "job_description": "Join Disney in this exciting opportunity.",
-      "job_apply_link": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineering-AI-Intern--Summer-2026_10136353",
-      "job_posted_at_datetime_utc": "2025-12-10T18:14:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "disney-software-engineering-ai-intern-glendale",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:48:03.016Z",
-    "postedAt": "2025-12-20T21:04:53.306Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Product Innovation Intern",
-      "employer_name": "T-Mobile",
-      "job_city": "Bellevue",
-      "job_state": "WA",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
-      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/AI-Product-Innovation-Intern_REQ339262",
-      "job_posted_at_datetime_utc": "2025-12-10T17:59:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "t-mobile-ai-product-innovation-intern-bellevue",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:48:03.016Z",
-    "postedAt": "2025-12-20T21:04:53.306Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Product Strategy Internship",
-      "employer_name": "T-Mobile",
-      "job_city": "Bellevue",
-      "job_state": "WA",
-      "job_description": "Join T-Mobile in this exciting opportunity.",
-      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2026-AI-Product-Strategy-Internship_REQ340118",
-      "job_posted_at_datetime_utc": "2025-12-10T17:58:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "t-mobile-ai-product-strategy-internship-bellevue",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:48:03.016Z",
-    "postedAt": "2025-12-20T21:04:53.306Z"
-  },
-  {
-    "job": {
-      "job_title": "Quantitative Systems Pharmacology",
-      "employer_name": "Genentech",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "2026 Summer Intern - Quantitative Systems PharmacologyDepartment SummaryThis intern position is in the Translational Pharmacokinetics (PK) & Pharmacodynamics (PD) or tPKPD Department within Development Sciences. The tPKPD department applies preclinical models (in silico, in vitro or in vivo) to determine the pharmacokinetics (what the body does to the drug) and/or pharmacodynamics (what the drug does to the body) of biotherapeutics. The information obtained from such work is often used to help select lead molecules, optimize dosing regimens and understand the PK behavior/metabolic fate of different molecular designs as we help advance molecules through stages of research and into early clinical development. The work within the tPKPD department spans across a wide range of disease areas, including oncology, immunology, ophthalmology, infectious disease and neuroscience. This internship position is located in South San Francisco, on-site.  The OpportunityConduct systematic literature review to quantify the effects of liquid malignancies on bone marrow hematopoiesis and collate necessary PK and clinical cytopenia time-course data.Expand the existing hematopoietic toxicity QSP model to incorporate disease-specific mechanisms.Calibrate and validate the expanded model using a combination of internal data and curated literature data for relevant drugs.Develop proficiency in MATLAB/Simbiology.Prepare a final presentation summarizing the project methodology and findings.Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June 2026.A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are (Required) Required Education: You meet one of the following criteria:Must be pursuing a Master's Degree (enrolled student).Must be pursuing a PhD (enrolled student).Required Majors: Biomedical Engineering, Applied Math, Computer Science or other Pharmaceutical Sciences fields.Required Skills:2+ years of hands-on experience with MatLab and/or other modeling platform (R, Python, etc.).Strong interpersonal and oral/written communication skills with high attention to detail.Status: Applicants must be currently enrolled in an academic program.Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Experience with computational modeling of biological systems.Experience with pharmacokinetics and pharmacodynamics principles and/or quantitative systems pharmacology (QSP).Some experience in MatLab Simbiology is a plus.Relocation benefits are not available for this job posting.  The expected salary range for this position based on the primary location of California is $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits. Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Quantitative-Systems-Pharmacology_202512-131165",
-      "job_posted_at_datetime_utc": "2025-12-10T17:55:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "genentech-quantitative-systems-pharmacology-san-francisco",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:48:03.016Z",
-    "postedAt": "2025-12-20T21:04:53.306Z"
-  },
-  {
-    "job": {
       "job_title": "Machine Learning Scientist Intern",
       "employer_name": "Genentech",
       "job_city": "San Francisco",
@@ -554,10 +454,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:53:10.337Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:18:24.867Z"
   },
   {
     "job": {
@@ -574,10 +474,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:53:10.338Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:18:24.867Z"
   },
   {
     "job": {
@@ -594,10 +494,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:53:10.338Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:18:24.867Z"
   },
   {
     "job": {
@@ -614,10 +514,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:53:10.338Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:18:24.867Z"
   },
   {
     "job": {
@@ -634,10 +534,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:53:10.338Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T21:18:24.867Z"
   },
   {
     "job": {
@@ -750,11 +650,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T15:45:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "the-walt-disney-company-software-engineering-ai-intern-glendale"
+      "id": "the-walt-disney-company-software-engineering-ai-intern-glendale",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:17:55.001Z",
     "postedAt": null
   },
   {
@@ -763,16 +665,18 @@
       "employer_name": "Genentech",
       "job_city": "San Bruno",
       "job_state": "CA",
-      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_description": "2026 Machine Learning Scientist Summer Intern - BRAIDThis internship position is located in South San Francisco, on site.  Department SummaryAt Genentech Research & Early Development (gRED) we have initiated an exciting journey to bring together and further strengthen our computational talent and capabilities by forming a new, central organization - gRED Computational Sciences Center of Excellence (CS CoE). CS CoE is on a mission to partner across the organization to realize the potential of data, technology and computational approaches that will revolutionize how targets and therapeutics are discovered and developed, ultimately enabling novel treatments for patients across the world.  We stand at the beginning of this exciting journey.BRAID (Biology Research | AI Development) is a department within CS CoE that focuses on developing and applying machine learning methods to impact biological discovery, with the ultimate goal of impacting drug discovery and human health. We are searching for a motivated summer intern to work on designing, developing, and interpreting new generative models for biological data. The candidate will further our work on multi-scale generative models that can be used to advance programs in gene and cell therapy.The internship position is located in South San Francisco, onsite.The opportunityThe intern will lead the development of a novel generative method for biological data. A preliminary step will require basic understanding of the data, its features and required processing steps.To benchmark the generic approach, publicly available datasets with existing supervision can be used for performance evaluation.There will be opportunities to apply the method on novel data collected in the lab, targeting dedicated biological questions.The intern will produce weekly reports of his progress and compile their findings in a final project report that could be used as a basis for a machine learning conference paper submission.The intern will continuously suggest new experiments and modeling strategies based on previous results.Opportunity to shape the research agenda of the projectProgram HighlightsIntensive 12 weeks, full time (40 hours per week) paid internship.Program start dates are in May/June (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship.Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You AreRequired Education: Must be pursuing a PhD (enrolled student).Required Majors:Computer Science, Electrical Engineering, Mathematics, Statistics or related field.Required skills: Excellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Experience with large scale deep learning training infrastructure.Strong foundations in ML theoryFamiliarity with generative models (flow matching, diffusion models,...)Excellent academic presentation and writing skillsRelocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of  California is $50.00 per hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
       "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist-Intern_202512-131284",
       "job_posted_at_datetime_utc": "2025-12-10T15:08:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-machine-learning-scientist-intern-san-bruno"
+      "id": "genentech-machine-learning-scientist-intern-san-bruno",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:17:55.001Z",
     "postedAt": null
   },
   {
@@ -781,16 +685,18 @@
       "employer_name": "CACI",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join CACI in this exciting opportunity.",
+      "job_description": "DarkBlue Intelligence Analyst Intern - Summer 2026Job Category: Intern/Co-opTime Type: Part timeMinimum Clearance Required to Start: NoneEmployee Type: Part-Time On-CallPercentage of Travel Required: NoneType of Travel: None* * *The Opportunity:Opportunity We are seeking a motivated and detail-oriented Intelligence Analyst intern to join our intelligence team. In this role, you will assist in data collection, quality assurance, and report generation focused on hard target OSINT collection from the Open, Deep and Dark Web. This is an excellent opportunity for university students to gain hands-on experience in intelligence analysis while supporting our DarkBlue Intelligence Suite customer engagement efforts. You will work alongside experienced analysts using the DarkBlue Intelligence Suite and learn how to transform complex data into actionable insights for current and prospective customersResponsibilities:Support data collection efforts across open-source intelligence platformsConduct quality assurance on gathered intelligence data to ensure accuracy and reliabilityAssist in preparing client-facing reports and marketing materials that showcase our capabilitiesHelp maintain and organize intelligence databasesCreate visualizations and summaries of analysis findings for various stakeholdersSupport senior analysts in research projects and client deliverablesDocument procedures and best practices for intelligence gathering techniquesQualifications:Required: Currently enrolled in a Bachelor's degree program in Intelligence Studies, International Relations, Political Science, Computer Science, or related fieldStrong interest in cybersecurity, intelligence analysis, or national securityExcellent written and verbal communication skillsAttention to detail and commitment to data accuracyBasic understanding of research methodologies and data collection techniquesProficiency with Microsoft Office suite (especially Excel, Word, and PowerPoint)Ability to work collaboratively in a team environmentMust be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the futureDesired:Prior coursework in intelligence analysis, cybersecurity, or data analyticsFamiliarity with basic data visualization toolsUnderstanding of OSINT principles and techniquesInterest in dark web research and emerging cyber threatsExperience with basic analytical tools and databases-________________________________________________________________________________________What You Can Expect: A culture of integrity.At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust.CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. A focus on continuous growth.Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy. Your potential is limitless. So is ours.Learn more about CACI here.________________________________________________________________________________________Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits. Learn more here.Since this position can be worked in more than one location, the range shown is the national average for the position.The proposed salary range for this position is: $39,900-$79,900CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
       "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DarkBlue-Intelligence-Analyst-Intern---Summer-2026_320339-1",
       "job_posted_at_datetime_utc": "2025-12-10T15:06:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "caci-darkblue-intelligence-analyst-intern-summer-2026-remote-in-usa"
+      "id": "caci-darkblue-intelligence-analyst-intern-summer-2026-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:17:55.001Z",
     "postedAt": null
   },
   {
@@ -799,16 +705,18 @@
       "employer_name": "Draper",
       "job_city": "Cambridge",
       "job_state": "MA",
-      "job_description": "Join Draper in this exciting opportunity.",
+      "job_description": "Overview:Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com.Job Description Summary:This summer intern opening is for an Engineering or Science undergraduate interested in mathematical/software modeling, simulation and analysis. In this position you will work with a team of engineers that evaluate the performance of dynamic systems. Collaborate with designers of these systems and learn about inertial and other navigation sensors and how guidance systems work.Job Description:Duties/ResponsibilitiesDesign, develop, and enhancement engineering solutions for challenging problems.  Implement, test, perform analysis, and provide documentation support.Generate and present test reports including plots, tables, evaluation criteria, and conclusions from data collected and analyzed throughout the test process. Complete assignments designed to develop a practical knowledge of processes, procedures, equipment, facilities, and systems as well as their interrelationships within engineering disciplines. Performs other duties as assigned. Program Requirements Enrolled in an accredited full-time undergraduate or graduate degree program required. There is flexibility regarding hours and program duration based on applicant’s school schedule and availability. Skills/Abilities Excellent written and oral communication skills. Excellent work ethic with the ability to work independently or in a team environment. Ability to adapt to ever-changing environments, risks, and vulnerabilities. Strong computer skills including MS Word, PowerPoint and Excel.Additional Job Description:Candidate must like working on and solving analytical/mathematical based problems. Knowledge of modeling/simulation and algorithm/software design concepts is desired. Familiarity with the use of scripting/modeling tools such as MATLAB/SIMULINK or PYTHON is highly desired.Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration.Job Location - City:CambridgeJob Location - State:MassachusettsJob Location - Postal Code:02139-3563The US base salary range for this full-time position is$15.00 - $225.00Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Union ranges will be in compliance with the collective bargaining agreement's approved rates by location and role. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  Please note that the compensation details listed in US role postings reflect the base salary only, and does not include bonuses or benefits.Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers.Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com.",
       "job_apply_link": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Summer-Intern_JR002045",
       "job_posted_at_datetime_utc": "2025-12-10T15:02:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "draper-gn-c-modeling-simulation-and-analysis-intern-cambridge"
+      "id": "draper-gn-c-modeling-simulation-and-analysis-intern-cambridge",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:17:55.001Z",
     "postedAt": null
   },
   {
@@ -822,11 +730,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T14:19:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "borgwarner-computer-science-intern-auburn-hills"
+      "id": "borgwarner-computer-science-intern-auburn-hills",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T21:17:55.001Z",
     "postedAt": null
   },
   {
