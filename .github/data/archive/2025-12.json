@@ -2968,5 +2968,27 @@
     "sourceUrl": "https://careers-ice.icims.com/jobs/11633/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1449477101500629053",
     "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-scientist-intern-ai-infrastructure-seattle-2025-12-13-1",
+    "jobId": "bytedance-research-scientist-intern-ai-infrastructure-seattle",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - AI Infrastructure",
+    "postedToDiscord": "2025-12-13T19:17:11.033Z",
+    "sourceDate": "2025-09-27T08:53:24.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7553916190126524680/detail",
+    "discordThreadId": "1449480282460655617",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-scientist-intern-ai-infrastructure-san-jose-2025-12-13-1",
+    "jobId": "bytedance-research-scientist-intern-ai-infrastructure-san-jose",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - AI Infrastructure",
+    "postedToDiscord": "2025-12-13T19:26:34.627Z",
+    "sourceDate": "2025-09-27T08:53:23.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
+    "discordThreadId": "1449482646710124544",
+    "instanceNumber": 1
   }
 ]
