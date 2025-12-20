@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:18:21.854Z",
+  "lastUpdated": "2025-12-20T21:29:36.671Z",
   "jobs": [
-    {
-      "id": "uncountable-full-stack-intern-san-francisco-2025-12-13-1",
-      "jobId": "uncountable-full-stack-intern-san-francisco",
-      "company": "Uncountable",
-      "title": "Full-Stack Intern",
-      "postedToDiscord": "2025-12-13T21:27:55.587Z",
-      "sourceDate": "2025-09-25T19:12:06.000Z",
-      "sourceUrl": "https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e",
-      "discordThreadId": "1449513184665800827",
-      "instanceNumber": 1
-    },
     {
       "id": "rambus-data-ai-intern-san-jose-2025-12-13-1",
       "jobId": "rambus-data-ai-intern-san-jose",
@@ -10517,14 +10506,69 @@
       "sourceUrl": "https://www.metacareers.com/profile/job_details/2059739221232640",
       "discordThreadId": "1452047485944991867",
       "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-software-engineering-intern-shoreview-2025-12-20-1",
+      "jobId": "westinghouse-software-engineering-intern-shoreview",
+      "company": "Westinghouse",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-20T21:29:18.369Z",
+      "sourceDate": "2025-12-10T17:26:27.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/",
+      "discordThreadId": "1452050239275143292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "labcorp-intern-clinical-development-backend-engineering-durham-2025-12-20-1",
+      "jobId": "labcorp-intern-clinical-development-backend-engineering-durham",
+      "company": "LabCorp",
+      "title": "Intern – Clinical Development-Backend Engineering",
+      "postedToDiscord": "2025-12-20T21:29:21.927Z",
+      "sourceDate": "2025-12-10T16:37:56.000Z",
+      "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Clinical-Development-Backend-Engineering_2534910",
+      "discordThreadId": "1452050254265585909",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-north-america-solutions-deployment-integration-engineering-operations-summer-intern-sdi-2026-chicago-2025-12-20-1",
+      "jobId": "motorola-north-america-solutions-deployment-integration-engineering-operations-summer-intern-sdi-2026-chicago",
+      "company": "Motorola",
+      "title": "North America Solutions Deployment & Integration – Engineering Operations Summer Intern - Sdi - 2026",
+      "postedToDiscord": "2025-12-20T21:29:25.674Z",
+      "sourceDate": "2025-12-10T15:53:24.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America-Solutions-Deployment---Integration--NA-SDI--Engineering-Operations-Summer-Intern--2026_R60147",
+      "discordThreadId": "1452050269847289987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marvell-data-engineer-intern-santa-clara-2025-12-20-1",
+      "jobId": "marvell-data-engineer-intern-santa-clara",
+      "company": "Marvell",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-20T21:29:32.843Z",
+      "sourceDate": "2025-12-10T16:48:28.000Z",
+      "sourceUrl": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Data-Engineer-Intern_2502263",
+      "discordThreadId": "1452050298209308906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-extended-perception-interaction-cognition-epic-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-extended-perception-interaction-cognition-epic-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Extended Perception Interaction Cognition - Epic",
+      "postedToDiscord": "2025-12-20T21:29:36.671Z",
+      "sourceDate": "2025-12-10T16:24:31.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631767",
+      "discordThreadId": "1452050315460214946",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 956,
+    "totalJobs": 960,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:18:21.854Z",
+      "date": "2025-12-20T21:29:36.671Z",
       "archived": 0
     }
   }
