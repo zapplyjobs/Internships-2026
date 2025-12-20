@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:17:41.967Z",
+  "lastUpdated": "2025-12-20T20:30:01.626Z",
   "jobs": [
-    {
-      "id": "adobe-machine-learning-engineer-intern-ai-ml-seattle-2025-12-13-1",
-      "jobId": "adobe-machine-learning-engineer-intern-ai-ml-seattle",
-      "company": "Adobe",
-      "title": "Machine Learning Engineer Intern - AI/ML",
-      "postedToDiscord": "2025-12-13T20:18:09.862Z",
-      "sourceDate": "2025-09-26T07:40:26.000Z",
-      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706",
-      "discordThreadId": "1449495628508958910",
-      "instanceNumber": 1
-    },
     {
       "id": "general-dynamics-information-technology-software-developer-automation-intern-windsor-mill-2025-12-13-1",
       "jobId": "general-dynamics-information-technology-software-developer-automation-intern-windsor-mill",
@@ -10264,14 +10253,69 @@
       "sourceUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-AfterSales-Data-Analyst-WA-98033/1275251101/?ats=successfactors",
       "discordThreadId": "1452032219827929271",
       "instanceNumber": 1
+    },
+    {
+      "id": "uber-2026-phd-software-engineer-intern-observability-data-platform-united-states-seattle-2025-12-20-1",
+      "jobId": "uber-2026-phd-software-engineer-intern-observability-data-platform-united-states-seattle",
+      "company": "Uber",
+      "title": "2026 PhD Software Engineer Intern - Observability Data Platform - United States",
+      "postedToDiscord": "2025-12-20T20:29:38.488Z",
+      "sourceDate": "2025-12-10T23:28:21.000Z",
+      "sourceUrl": "https://university-uber.icims.com/jobs/151981/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452035225390415974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atlassian-phd-ai-research-intern-2026-summer-u-s-seattle-2025-12-20-1",
+      "jobId": "atlassian-phd-ai-research-intern-2026-summer-u-s-seattle",
+      "company": "Atlassian",
+      "title": "PhD AI Research Intern - 2026 Summer U.S",
+      "postedToDiscord": "2025-12-20T20:29:41.989Z",
+      "sourceDate": "2025-12-10T23:27:36.000Z",
+      "sourceUrl": "https://campus-americas.icims.com/jobs/20960/phd-ai-research-intern%2c-2026-summer-u.s./job",
+      "discordThreadId": "1452035239504511088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dominion-energy-it-microsoft-center-of-excellence-richmond-2025-12-20-1",
+      "jobId": "dominion-energy-it-microsoft-center-of-excellence-richmond",
+      "company": "Dominion Energy",
+      "title": "IT Microsoft Center of Excellence",
+      "postedToDiscord": "2025-12-20T20:29:48.531Z",
+      "sourceDate": "2025-12-10T23:24:16.000Z",
+      "sourceUrl": "https://careers.dominionenergy.com/job/RICHMOND-Intern-IT-Microsoft-Center-of-Excellence-(Richmond,-VA-Cayce,-SC)-VA-23219/1348906400/?ats=successfactors",
+      "discordThreadId": "1452035266649915491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-ai-ml-intern-berkeley-heights-2025-12-20-1",
+      "jobId": "nokia-ai-ml-intern-berkeley-heights",
+      "company": "Nokia",
+      "title": "AI/ML Intern",
+      "postedToDiscord": "2025-12-20T20:29:55.079Z",
+      "sourceDate": "2025-12-10T23:22:26.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27580",
+      "discordThreadId": "1452035294437048443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "netflix-software-engineer-phd-intern-streaming-algorithms-summer-2026-los-gatos-2025-12-20-1",
+      "jobId": "netflix-software-engineer-phd-intern-streaming-algorithms-summer-2026-los-gatos",
+      "company": "Netflix",
+      "title": "Software Engineer PhD Intern - Streaming Algorithms - Summer 2026",
+      "postedToDiscord": "2025-12-20T20:30:01.625Z",
+      "sourceDate": "2025-12-10T23:19:53.000Z",
+      "sourceUrl": "https://explore.jobs.netflix.net/careers/job/790313241540",
+      "discordThreadId": "1452035321519935569",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 933,
+    "totalJobs": 937,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:17:41.967Z",
+      "date": "2025-12-20T20:30:01.626Z",
       "archived": 0
     }
   }
