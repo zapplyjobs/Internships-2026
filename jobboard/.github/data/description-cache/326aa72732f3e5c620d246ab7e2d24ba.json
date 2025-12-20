@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Search by Keyword Search by Global Location Search by US Postal Code Search by Global Location Search by US Postal Code Distance 2 mi 5 mi 10 mi 30 mi 50 mi Search by US Postal Code Search by Global Location Search by Country, City, Job Title Loading... Country/Region All City All Job Title All Brand All Location All //<![CDATA[ var params = { geolocation: { NO_MATCH_FOUND: 'Postal\\x20code\\x20not\\x20supported.' ,SUGGESTION_LIMIT: 10 ,SUGGESTION_MINIMUM_CHARACTERS: 2 ,PAGE_LOCALE: 'en_US' } }; //]]> Select how often (in days) to receive an alert: Create Alert form.emailsubscribe-form { display: none; } × Select how often (in days) to receive an alert: Sorry, this position has been filled.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Development-Intern-Summer-2026-NC/1335431600/?ats=successfactors",
+      "fetchedAt": "2025-12-20T20:29:25.222Z"
+    }
+  },
+  "cachedAt": 1766262565222
+}
