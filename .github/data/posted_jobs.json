@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:53:16.240Z",
+  "lastUpdated": "2025-12-20T23:03:38.385Z",
   "jobs": [
-    {
-      "id": "lennox-international-it-business-systems-analyst-intern-richardson-2025-12-13-1",
-      "jobId": "lennox-international-it-business-systems-analyst-intern-richardson",
-      "company": "Lennox International",
-      "title": "IT Business Systems Analyst Intern",
-      "postedToDiscord": "2025-12-13T22:54:51.591Z",
-      "sourceDate": "2025-09-25T04:41:56.000Z",
-      "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50057/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449535061845217291",
-      "instanceNumber": 1
-    },
     {
       "id": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville-2025-12-13-1",
       "jobId": "boston-scientific-software-engineer-intern-data-analytics-web-applications-roseville",
@@ -10968,14 +10957,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621609",
       "discordThreadId": "1452071370107392042",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-applied-sciences-intern-redmond-2025-12-20-1",
+      "jobId": "microsoft-applied-sciences-intern-redmond",
+      "company": "Microsoft",
+      "title": "Applied Sciences Intern",
+      "postedToDiscord": "2025-12-20T23:03:28.365Z",
+      "sourceDate": "2025-12-10T12:59:20.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637430",
+      "discordThreadId": "1452073937855971349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-technology-for-religious-empowerment-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-technology-for-religious-empowerment-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Technology for Religious Empowerment",
+      "postedToDiscord": "2025-12-20T23:03:34.851Z",
+      "sourceDate": "2025-12-10T13:01:37.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631718",
+      "discordThreadId": "1452073964946981006",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-deep-learning-group-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-deep-learning-group-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Deep Learning Group",
+      "postedToDiscord": "2025-12-20T23:03:34.862Z",
+      "sourceDate": "2025-12-10T12:59:46.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637090",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-ml-numerics-efficiency-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-ml-numerics-efficiency-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI/ML Numerics & Efficiency",
+      "postedToDiscord": "2025-12-20T23:03:34.871Z",
+      "sourceDate": "2025-12-10T12:59:45.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556637096",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-software-engineer-ai-ml-intern-opportunities-mai-for-university-students-redmond-2025-12-20-1",
+      "jobId": "microsoft-software-engineer-ai-ml-intern-opportunities-mai-for-university-students-redmond",
+      "company": "Microsoft",
+      "title": "Software Engineer: AI/ML Intern Opportunities - MAI for University Students",
+      "postedToDiscord": "2025-12-20T23:03:38.384Z",
+      "sourceDate": "2025-12-10T12:59:30.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
+      "discordThreadId": "1452073979685896424",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 997,
+    "totalJobs": 1001,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:53:16.240Z",
+      "date": "2025-12-20T23:03:38.385Z",
       "archived": 0
     }
   }
