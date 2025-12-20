@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28034",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This is a great opportunity to be part of developing cutting-edge software solutions for Nokia’s telecom networks. You will work closely with a team of software engineers and fellow interns to design and implement application software and services that manage and monitor Nokia’s state-of-the-art 5G networks. Your contributions will help drive a SaaS-first approach, ensuring that the technology developed by your team is both innovative and operationally efficient. Additionally, you will play a key role in validating software functionality through automated testing while gaining hands-on experience in best practices under the mentorship of a senior software architect. Your work will support Nokia’s mission to advance global connectivity and network performance.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28034",
+      "fetchedAt": "2025-12-20T23:28:13.325Z"
+    }
+  },
+  "cachedAt": 1766273293325
+}
