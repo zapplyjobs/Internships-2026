@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:34:55.382Z",
+  "lastUpdated": "2025-12-20T21:43:49.418Z",
   "jobs": [
-    {
-      "id": "rambus-data-ai-intern-san-jose-2025-12-13-1",
-      "jobId": "rambus-data-ai-intern-san-jose",
-      "company": "Rambus",
-      "title": "Data & AI Intern",
-      "postedToDiscord": "2025-12-13T21:35:59.810Z",
-      "sourceDate": "2025-09-25T13:57:11.000Z",
-      "sourceUrl": "https://careers-rambus.icims.com/jobs/22378/data-%26-ai-intern/job",
-      "discordThreadId": "1449515215149600768",
-      "instanceNumber": 1
-    },
     {
       "id": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto-2025-12-13-1",
       "jobId": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto",
@@ -10616,14 +10605,69 @@
       "sourceUrl": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Summer-Intern_JR002045",
       "discordThreadId": "1452051653615161604",
       "instanceNumber": 1
+    },
+    {
+      "id": "hcsc-early-careers-automation-programmer-associate-intern-chicago-2025-12-20-1",
+      "jobId": "hcsc-early-careers-automation-programmer-associate-intern-chicago",
+      "company": "HCSC",
+      "title": "Early Careers – Automation Programmer Associate Intern",
+      "postedToDiscord": "2025-12-20T21:43:42.404Z",
+      "sourceDate": "2025-12-10T14:16:09.000Z",
+      "sourceUrl": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Posting-Title--Early-Careers---Automation-Programmer-Associate-Intern_R0046548",
+      "discordThreadId": "1452053864273412268",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-2026-systems-engineer-intern-baltimore-md-baltimore-2025-12-20-1",
+      "jobId": "northrop-grumman-2026-systems-engineer-intern-baltimore-md-baltimore",
+      "company": "Northrop Grumman",
+      "title": "2026 Systems Engineer Intern - Baltimore MD",
+      "postedToDiscord": "2025-12-20T21:43:45.909Z",
+      "sourceDate": "2025-12-10T14:14:11.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2026-Systems-Engineer-Intern---Baltimore-MD_R10213260",
+      "discordThreadId": "1452053878605484126",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-msr-inclusive-futures-team-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-msr-inclusive-futures-team-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - MSR Inclusive Futures Team",
+      "postedToDiscord": "2025-12-20T21:43:49.399Z",
+      "sourceDate": "2025-12-10T13:30:29.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631751",
+      "discordThreadId": "1452053892937552004",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-systems-architecture-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-systems-architecture-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Systems & Architecture",
+      "postedToDiscord": "2025-12-20T21:43:49.409Z",
+      "sourceDate": "2025-12-10T13:26:38.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631742",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-office-of-applied-research-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-office-of-applied-research-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Office of Applied Research",
+      "postedToDiscord": "2025-12-20T21:43:49.418Z",
+      "sourceDate": "2025-12-10T13:25:31.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 965,
+    "totalJobs": 969,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:34:55.382Z",
+      "date": "2025-12-20T21:43:49.418Z",
       "archived": 0
     }
   }
