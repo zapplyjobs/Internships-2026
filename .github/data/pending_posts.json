@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Product Development Intern - AI & ML Engineering",
-      "employer_name": "Modernizing Medicine",
-      "job_city": "Boca Raton",
-      "job_state": "FL",
-      "job_description": "We are united in our mission to make a positive impact on healthcare. Join Us! South Florida Business Journal, Best Places to Work 2024 Inc. 5000 Fastest-Growing Private Companies in America 2024 2024 Black Book Awards, ranked #1 EHR in 11 Specialties 2024 Spring Digital Health Awards, “Web-based Digital Health” category for EMA Health Records (Gold) 2024 Stevie American Business Award (Silver), New Product and Service: Health Technology Solution (Klara) Who we are: We Are Modernizing Medicine (WAMM)! We’re a team of bright, passionate, and positive problem-solvers on a mission to place doctors and patients at the center of care through an intelligent, specialty-specific cloud platform. Our vision is a world where the software we build increases medical practice success and improves patient outcomes. Founded in 2010 by Daniel Cane and Dr. Michael Sherling, we have grown to over 3400 combined direct and contingent team members serving eleven specialties, and we are just getting started! ModMed's global headquarters is based in Boca Raton, FL, with a growing office in Hyderabad, India, and a robust remote workforce across the US, Chile, and Germany. ModMed is seeking a highly motivated and research-driven AI/ML Intern to join our AI & Machine Learning team for Summer 2026. This internship will focus on advancing intelligent automation across the clinical and healthcare claims data lifecycle. The intern will work with cutting-edge generative AI and large language models (LLMs) to derive insights from claim data, evaluate claim states, and support the development of AI-driven decision support systems that recommend next-best actions throughout the claim workflow. Your Role: Develop and evaluate machine learning and generative AI models for clinical and healthcare claims data. Apply LLM and NLP techniques to extract insights, classify claim states, and recommend operational actions. Support model serving, deployment, and end-to-end ML workflow integration with engineering teams. Collaborate with data scientists, ML engineers, and product teams to guide research direction and deliver prototypes. Skills & Requirements: Currently pursuing a PhD or Master’s degree in Computer Science, Electrical/Computer Engineering, Statistics, Data Science, Computational Biology, or a related field (Required) Strong foundation in Machine Learning (Required) Strong foundation in Generative AI / Large Language Models (Required) Strong foundation in Statistics (Required) Strong foundation in Natural Language Processing (Required) Strong foundation in Deep Learning (Required) Experience with model serving, deployment, or end-to-end ML workflows (preferred) Demonstrated research experience (e.g., peer-reviewed publications, preprints, research projects) (Required) Experience working with healthcare claims or electronic health records (Preferred) Familiarity with AWS, Databricks, and distributed data environments (Preferred) Experience with LLM evaluation, safety, and fairness (Preferred) Exposure to Agentic AI or autonomous decision-making frameworks (Preferred) #LI-SM2 ModMed Benefits Highlight: At ModMed, we believe it’s important to offer a competitive benefits package designed to meet the diverse needs of our growing workforce. Eligible Modernizers can enroll in a wide range of benefits: India Meals & Snacks: Enjoy complimentary office lunches & dinners on select days and healthy snacks delivered to your desk, Insurance Coverage: Comprehensive health, accidental, and life insurance plans, including coverage for family members, all at no cost to employees, Allowances: Annual wellness allowance to support your well-being and productivity, Earned, casual, and sick leaves to maintain a healthy work-life balance, Bereavement leave for difficult times and extended medical leave options, Paid parental leaves, including maternity, paternity, adoption, surrogacy, and abortion leave, Celebration leave to make your special day even more memorable, and company-paid holidays to recharge and unwind. United States Comprehensive medical, dental, and vision benefits 401(k): ModMed provides a matching contribution each payday of 50% of your contribution deferred on up to 6% of your compensation. After one year of employment with ModMed, 100% of any matching contribution you receive is yours to keep. Generous Paid Time Off and Paid Parental Leave programs, Company paid Life and Disability benefits, Flexible Spending Account, and Employee Assistance Programs, Company-sponsored Business Resource & Special Interest Groups that provide engaged and supportive communities within ModMed, Professional development opportunities, including tuition reimbursement programs and unlimited access to LinkedIn Learning, Global presence and in-person collaboration opportunities; dog-friendly HQ (US), Hybrid office-based roles and remote availability for some roles, Weekly catered breakfast and lunch, treadmill workstations, Zen, and wellness rooms within our BRIC headquarters. PHISHING SCAM WARNING: ModMed is among several companies recently made aware of a phishing scam involving imposters posing as hiring managers recruiting via email, text and social media. The imposters are creating misleading email accounts, conducting remote \"interviews,\" and making fake job offers in order to collect personal and financial information from unsuspecting individuals. Please be aware that no job offers will be made from ModMed without a formal interview process, and valid communications from our hiring team will come from our employees with a ModMed email address (first.lastname@modmed.com). Please check senders’ email addresses carefully. Additionally, ModMed will not ask you to purchase equipment or supplies as part of your onboarding process. If you are receiving communications as described above, please report them to the FTC website.",
-      "job_apply_link": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8213598002",
-      "job_posted_at_datetime_utc": "2025-12-10T09:43:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "modernizing-medicine-product-development-intern-ai-ml-engineering-boca-raton",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": "2025-12-20T23:36:48.592Z"
-  },
-  {
-    "job": {
-      "job_title": "Backend Software Engineer Intern",
-      "employer_name": "Codal",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "An Introduction to Codal Codal is an award-winning web design and development consultancy that helps enterprise organizations solve complex problems and accelerate growth through elegant, data-driven digital solutions. Our areas of expertise include application modernization, eCommerce, UX/UI design, product strategy, data analytics, and artificial intelligence. At Codal, you’ll collaborate with some of the most innovative organizations in the world and work on cutting-edge technologies that push the boundaries of design and software development. You’ll also be part of a community that promotes long-term success, not just for our clients but for each other. We’ll help you develop a professional roadmap that takes your career to new heights. Who You’ll be Working With Codal is seeking a highly motivated Backend Software Engineering Intern. In this role, you will have the opportunity to join live engagements and see consulting and engineering in action. Each intern will be paired with a dedicated mentor and get real feedback from both engineering and product leadership. Strong interns are often given full-time return offers. As a Backend Software Engineering Intern, you will contribute directly to the implementation of new features, debug issues, and optimize existing code within a production environment. We'll need you to have a strong eagerness to learn and effective communication skills to actively seek feedback, document your technical findings, and successfully collaborate with your mentor and the wider project team. You can expect to actively research and propose solutions that contribute to the modernization and maintenance of our systems and practices. Working closely with your mentor and team, you will learn how to deconstruct project requirements and tackle specific technical challenges within your primary area of focus. Key Responsibilities Develop and implement features on client applications under mentor guidance. Troubleshoot and debug issues in development, staging, and production codebases. Write clean, well-documented code following established best practices. Participate in code review processes to give and receive constructive feedback. Assist in testing by writing and executing unit, integration, or end-to-end tests. Research technical solutions and propose actionable recommendations to the team. Collaborate cross-functionally with Product Managers and Designers on requirements. Document technical processes and contribute to team knowledge sharing. Actively participate in project meetings and provide progress updates. Seek and incorporate feedback to continuously improve technical skills and process understanding. Requirements Currently pursuing a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Software Engineering, or closely related technical field with an expected graduation in Dec 2026 or May 2027. Experience or coursework demonstrating working proficiency in Python and/or Node. Familiarity with one or more cloud providers: AWS, Azure, and/or GCP. Basic understanding of the software development lifecycle (SDLC) and experience with version control tools, preferably Git. Experience or coursework with Backend Engineering Experience with server-side frameworks (e.g., Node.js/Express, Python/Django/Flask) and basic database concepts. Excellent written and verbal communication skills with the ability to articulate technical concepts clearly and ask effective questions. A strong eagerness to learn, intellectual curiosity, and a proactive attitude toward problem-solving. Ability to work in-person on a hybrid basis at our HQ in Chicago, IL for the full duration of the internship (June 1, 2026 - August 7, 2026). Ability to work effectively in a team environment and collaborate with cross-functional roles. Benefits and Salary Hourly Rate: $34-40 per hour. The rate within this range will be determined based on the candidate's experience level and qualifications. Need another reason to hit the “apply” button? Codal is a global agency with over 200 employees, and offices in the US, UK, and India We regularly host happy hours, dinners, excursions, and other company events to unwind after a hard day at work Office snacks and drinks + a fancy Bevi water machine with flavored water A recreational group that regularly competes in city leagues for softball and volleyball An office in the heart of downtown Chicago with a gym, food court, Walgreens, rooftop bar, outdoor sports court, and other amenities Working hybrid for in-person collaboration in the Chicago HQ on Mondays, Tuesdays, and Thursdays Note: Codal only communicates with candidates through official @codal.com email addresses. We never request payment during the hiring process. Please be vigilant regarding recruitment scams. At Codal, we are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.",
-      "job_apply_link": "https://job-boards.greenhouse.io/codalinc/jobs/5022723008",
-      "job_posted_at_datetime_utc": "2025-12-10T09:40:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "codal-backend-software-engineer-intern-chicago",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": "2025-12-20T23:36:48.592Z"
-  },
-  {
-    "job": {
-      "job_title": "Systems Integration Engineer Intern",
-      "employer_name": "KEEN Footwear",
-      "job_city": "Portland",
-      "job_state": "OR",
-      "job_description": ".spacer-section--template--24399698231460__spacer_yBAkCp { height: 0px; } @media (min-width: 767px) { .spacer-section--template--24399698231460__spacer_yBAkCp { height: 65px; } } .spacer-section--template--24399698231460__spacer_yBAkCp { background: #FFF; }",
-      "job_apply_link": "https://www.keenfootwear.com/careers-list.html?4636982005&gh_jid=4636982005",
-      "job_posted_at_datetime_utc": "2025-12-10T09:11:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keen-footwear-systems-integration-engineer-intern-portland",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": "2025-12-20T23:36:48.592Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Intern",
-      "employer_name": "XPENG Motors",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "XPENG is a leading smart technology company at the forefront of innovation, integrating advanced AI and autonomous driving technologies into its vehicles, including electric vehicles (EVs), electric vertical take-off and landing (eVTOL) aircraft, and robotics. With a strong focus on intelligent mobility, XPENG is dedicated to reshaping the future of transportation through cutting-edge R&D in AI, machine learning, and smart connectivity. About the Role We are actively seeking a full-time Research Scientist Intern to drive the modeling and algorithmic development of XPENG’s next-generation Vision-Language-Action (VLA) Foundation Model — the core brain that powers our end-to-end autonomous driving systems. You will work closely with world-class researchers, perception and planning engineers, and infrastructure experts to design, train, and deploy large-scale multi-modal models that unify vision, language, and control. Your work will directly shape the intelligence that enables XPENG’s future L3/L4 autonomous driving products. Key Responsibilities Conduct research on designing and implementing large-scale multi-modal architectures (e.g., vision–language–action transformers) for end-to-end autonomous driving. Design and integrate cross-modal alignment (e.g., visual grounding, temporal reasoning, policy distillation, imitation and reinforcement learning) to improve model interpretability and action quality. Closely collaborate with researchers and engineers across the modeling and infrastructure team. Contribute to top-tier AI/CV/ML conferences publications and present research findings. Minimum Qualifications Currently enrolled in the Master/Ph.D program in Computer Science, Electrical/Computer Engineering, or related field, with the specialization in the CV/NLP/ML. Experience in multi-modal modeling (vision, language, or planning), with deep understanding of representation learning, temporal modeling, and reinforcement learning techniques. Strong proficiency in PyTorch and modern transformer-based model design. Preferred Qualifications Publication record in top-tier AI conferences (CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, etc). Prior experience building foundation or end-to-end driving models, or LLM/VLM architectures (e.g., ViT, Flamingo, BEVFormer, RT-2, or GRPO-style policies). Knowledge of RLHF/DPO/GRPO, trajectory prediction, or policy learning for control tasks. Familiarity with distributed training (DDP, FSDP) and large-batch optimization. What We Offer A collaborative, research-driven environment with access to massive real-world data and industry-scale compute. Opportunity to work with top-tier researchers and engineers advancing the frontier of foundation models for autonomous driving. Direct impact on the next generation of intelligent mobility systems. Comprehensive benefits, meals, and team-building activities. What do we provide: A fun, supportive and engaging environment Infrastructures and computational resources to support your work. Opportunity to work on cutting edge technologies with the top talents in the field. Opportunity to make significant impact on the transportation revolution by the means of advancing autonomous driving Competitive compensation package Snacks, lunches, dinners, and fun activities We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color, sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state regulations.",
-      "job_apply_link": "https://job-boards.greenhouse.io/xpengmotors/jobs/8329810002",
-      "job_posted_at_datetime_utc": "2025-12-10T09:10:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "xpeng-motors-research-scientist-intern-santa-clara",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": "2025-12-20T23:36:48.592Z"
-  },
-  {
-    "job": {
-      "job_title": "Signal Processing",
-      "employer_name": "Zoox",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "Signal Processing InternFoster City, CAZoox Internships – Advanced Hardware Engineering /Internship/Co-op /HybridApply for this jobZoox is transforming mobility with fully autonomous, electric vehicles designed from the ground up for a driverless future. Our mission is to make transportation safer, more sustainable, and accessible to everyone. At Zoox, innovation, collaboration, and a bold vision for the future drive everything we do.Zoox’s internship program offers hands-on experience with cutting-edge technology, mentorship from some of the industry’s brightest minds, and the opportunity to make meaningful contributions to real projects. We seek interns who demonstrate strong academic performance, engagement beyond the classroom, intellectual curiosity, and a genuine interest in Zoox’s mission.As an intern at Zoox, you’ll be working alongside those that architect, design and develop our state of art hardware and signal processing systems for enabling autonomous mobility. At Zoox, you’ll collaborate with a team of world class engineers with diverse backgrounds in areas such as AI and ML, robotics, and simulation. You’ll master new technologies while working on code, algorithm and research in your area so expertise to create and refine the key systems that move Zoox forward. As an intern in the DSP team you will be working on design and implementation of signal processing and machine learning algorithms related to radars, depth cameras, lidars and audio subsystems. We are looking for curious and highly mathematical minds to work with us. Program RequirementsCurrently pursuing a B.S., M.S., or other advanced degree in a relevant engineering field.Plan to return to school after completing the internship.Maintain good academic standing.Available to commit to either a 12-week internship (beginning in May or June 2026), or a 6-month co-op.At least one prior industry internship, co-op, or relevant project experience.Willing and able to relocate to the Bay Area, California, for the duration of the internship.Interns may not use proprietary Zoox information in university theses, publications, or share it outside of Zoox.QualificationsProficiency in C, C++, Python and/or MatlabCourse work in Digital Signal Processing, Circuits and systems, Stochastic filtering, Probability and Statistics, Random Signals and NoiseHands-on experience related to algorithm design in one or more areas related to radar and lidar processing. Ability to bring your best can-do attitude daily while solving hard problems with constraints Bonus QualificationsExperience with Radar Signal Processing and understanding of the radar pipeline (ADC data, FFT, Range-Doppler maps, CFAR, angle-of-arrival estimation).Experience with processing 4D radar data or raw sensor data.HW and SW experience or research related to radar processing and/or radar perceptionExperience with machine learning techniques such as deep neural nets (DNN, CNN, LSTM-RNN, LLMs, VLMs, Transformers) and traditional statistical modeling/feature extraction techniques (GMM, HMM, NMF / spectrograms etc.)Compensation:The monthly salary range for this position is $6,500 to $9,500. Compensation will vary based on geographic location and level of education. Additional benefits may include medical insurance, and a housing stipend (relocation assistance will be offered based on eligibility).About ZooxZoox is developing the first ground-up, fully autonomous vehicle fleet and the supporting ecosystem required to bring this technology to market. Sitting at the intersection of robotics, machine learning, and design, Zoox aims to provide the next generation of mobility-as-a-service in urban environments. We’re looking for top talent that shares our passion and wants to be part of a fast-moving and highly execution-oriented team.Follow us on LinkedInAccommodationsIf you need an accommodation to participate in the application or interview process please reach out to accommodations@zoox.com or your assigned recruiter.A Final Note:You do not need to match every listed expectation to apply for this position. Here at Zoox, we know that diverse perspectives foster the innovation we need to be successful, and we are committed to building a team that encompasses a variety of backgrounds, experiences, and skills.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/zoox/96857e0b-d39c-4505-b0b4-9a14c7d9db58/apply",
-      "job_posted_at_datetime_utc": "2025-12-10T08:30:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zoox-signal-processing-san-mateo",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": "2025-12-20T23:36:48.592Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
       "employer_name": "TikTok",
       "job_city": "San Jose",
@@ -554,10 +454,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:47:38.889Z"
   },
   {
     "job": {
@@ -745,16 +645,18 @@
       "employer_name": "Marsh",
       "job_city": "Atlanta",
       "job_state": "GA",
-      "job_description": "Join Marsh in this exciting opportunity.",
+      "job_description": "Company:Oliver WymanDescription:Location: Atlanta, GA / RemoteDuration:  June 1 – July 31, 2026Position Summary:We are looking for a passionate and motivated Software Development Intern to join our dynamic development team. The ideal candidate will have a strong foundation in Java, Python, TypeScript/Nodejs and will support various phases of the software development lifecycle, gaining valuable real-world experience.Key Responsibilities:Development Support:Assist in the design, coding, and testing of software applications using Java, Python, and TypeScript/Nodejs.Collaborate with senior developers to troubleshoot and resolve software defects.Participate in code reviews to maintain code quality and standards.Documentation:Help create and maintain documentation for software specifications, user manuals, and technical guides.Document processes and workflows to ensure best practices are followed.Research and Development:Assist in exploring new technologies and methodologies to improve software development processes.Participate in brainstorming sessions to propose innovative solutions to existing problems.Team Collaboration:Attend and contribute to team meetings with a focus on project updates and progress.Collaborate with cross-functional teams to understand project requirements and business needs.Qualifications:Currently enrolled in a degree program in Computer Science, Software Engineering, or a related field.Proficiency in Java, Python, TypeScript/Nodejs and experience with Angular.Familiarity with web development principles and RESTful APIs.Strong problem-solving skills and a willingness to learn.Excellent communication skills and ability to work in a team environment.Benefits:Hands-on Experience: Gain real-world experience in software development processes and practices.Mentorship: Receive guidance and mentorship from experienced software developers.Career Development: Opportunity to enhance your technical skills and build a professional network.Oliver Wyman, a business of Marsh McLennan (NYSE: MMC), is a management consulting firm combining deep industry knowledge with specialized expertise to help clients optimize their business, improve operations and accelerate performance. Marsh McLennan is a global leader in risk, strategy and people, advising clients in 130 countries across four businesses: Marsh, Guy Carpenter, Mercer and Oliver Wyman. With annual revenue of $24 billion and more than 90,000 colleagues, Marsh McLennan helps build the confidence to thrive through the power of perspective. For more information, visit oliverwyman.com, or follow on LinkedIn and X.Marsh McLennan is committed to embracing a diverse, inclusive and flexible work environment. We aim to attract and retain the best people and embrace diversity of age background, disability, ethnic origin, family duties, gender orientation or expression, marital status, nationality, parental status, personal or social status, political affiliation, race, religion and beliefs, sex/gender, sexual orientation or expression, skin color, veteran status (including protected veterans), or any other characteristic protected by applicable law. If you have a need that requires accommodation, please let us know by contacting reasonableaccommodations@mmc.com.Marsh McLennan is committed to hybrid work, which includes the flexibility of working remotely and the collaboration, connections and professional development benefits of working together in the office. All Marsh McLennan colleagues are expected to be in their local office or working onsite with clients at least three days per week. Office-based teams will identify at least one “anchor day” per week on which their full team will be together in person.",
       "job_apply_link": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Software-Development-Intern_R_333148",
       "job_posted_at_datetime_utc": "2025-12-09T12:19:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "marsh-oliver-wyman-vector-software-development-intern-atlanta"
+      "id": "marsh-oliver-wyman-vector-software-development-intern-atlanta",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:47:07.041Z",
     "postedAt": null
   },
   {
@@ -768,11 +670,13 @@
       "job_posted_at_datetime_utc": "2025-12-09T12:11:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "thomson-reuters-applied-scientist-intern-eagan"
+      "id": "thomson-reuters-applied-scientist-intern-eagan",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:47:07.041Z",
     "postedAt": null
   },
   {
@@ -781,16 +685,18 @@
       "employer_name": "Sanofi",
       "job_city": "Waltham",
       "job_state": "MA",
-      "job_description": "Join Sanofi in this exciting opportunity.",
+      "job_description": "Job Title: mRNA Systems Engineering - Vaccine Summer - Fall 2026 Co-opLocation: Waltham, MA About the JobAs a Co-op mRNA Systems Engineering Intern within our Systems team at Sanofi's mRNA Center of Excellence, you'll spend 6 months developing software to support cutting-edge R&D work for mRNA-based vaccines targeting a variety of diseases. You'll assist in creating pipelines and applications for screening and designing mRNA sequences and other vaccine components, while also helping maintain and upgrade our central repository of machine learning models and modular components. Ready to get started?Join the team protecting half a billion lives every year with next-gen science, mRNA innovation, and AI-driven breakthroughs. In Vaccines, you'll help advance prevention on a global scale - and shape the future of immunization through innovative software solutions that accelerate our scientific discoveries.About Sanofi:We're an R&D-driven, AI-powered biopharma company committed to improving people's lives and delivering compelling growth. Our deep understanding of the immune system – and innovative pipeline – enables us to invent medicines and vaccines that treat and protect millions of people around the world. Together, we chase the miracles of science to improve people's lives.We are an innovative global healthcare company that helps the world stay ahead of infectious diseases by delivering more than 500 million vaccine doses a year. Across different countries, our talented teams are exploring new technologies to protect people and promote healthy communities. We chase the miracles of science every single day, pursuing progress to make a real impact on millions of patients around the world.Main responsibilities:Collaborate with other team members on active code basesLearn and apply industry-standard engineering best practicesCollaborate with stakeholders in the broader mRNA Center of Excellence (COE) to help ensure the business needs of the organization are being metAssist and train software users as neededDevelop pipelines and applications to assist in the screening and design of mRNA sequences and other vaccine componentsHelp maintain and upgrade a central repository of machine learning models and other modular components for use in design pipelinesAbout youBasic Qualifications:Currently enrolled and pursuing bachelor's or master's degree in Computer Science, Data Science, Bioinformatics, or related field at an accredited college or university with the expectation that you will complete your current degree by the Spring of 2027Must be enrolled in school the semester following your internship/co-op with Sanofi Must be able to relocate to the office location and work 40hrs/week, Monday-Friday, for the full duration of the co-op/internship Must be permanently authorized to work in the U.S. and not require sponsorship of an employment visa (e.g., H-1B or green card) at the time of application or in the future. Students currently on CPT, OPT, or STEM OPT usually require future sponsorship for long term employment and do not meet the requirements for this program unless eligible for an alternative long-term status that does not require company sponsorship Proficient in Python Preferred Qualifications:Exposure to Continuous Integration/Continuous Deployment (CI/CD) workflowsSome experience with Docker, Kubernetes, or other containerization toolsExcellent attention to detailStrong written and verbal communication skillsAbility to quickly orient to a new code baseFamiliarity with the training and lifecycle of machine learning modelsNatural curiosity to explore beyond your immediate tasksEnthusiasm for understanding how your work fits the bigger pictureWhy choose us?Bring the miracles of science to life alongside a supportive, future-focused team.​Discover endless opportunities to grow your talent and drive your career, whether it’s through a promotion or lateral move, at home or internationally.​​Enjoy a thoughtful, well-crafted rewards package that recognizes your contribution and amplifies your impact.​​Work at the forefront of AI-driven research, smart manufacturing, and groundbreaking mRNA platforms that are redefining the future of immunology.Learn from inspiring mentors and collaborative teams while contributing to real projects that shape the future of healthcare.Stretch your skills through hands-on experience with cutting-edge technology that keeps you ahead of the curve.Be part of our innovative mRNA Center of Excellence, where bold thinking and scientific excellence combine to create next-generation vaccines.Grow in a purpose-driven company where your voice matters and your work helps improve millions of lives.Help create sustainable vaccine solutions, from reducing carbon emissions in production to increasing global access to life-saving immunizations.Sanofi Inc. and its U.S. affiliates are Equal Opportunity and Affirmative Action employers committed to a culturally diverse workforce. All qualified applicantswill receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; marital, domesticpartnership or civil union status; sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or military status or liabilityfor military status; domestic violence victim status; atypical cellular or blood trait; genetic information (including the refusal to submit to genetic testing) orany other characteristic protected by law.#GD-SP ​#LI-SP#LI-Onsite#vhd#mRNaPursue progress, discover extraordinaryBetter is out there. Better medications, better outcomes, better science. But progress doesn’t happen without people – people from different backgrounds, in different locations, doing different roles, all united by one thing: a desire to make miracles happen. So, let’s be those people.At Sanofi, we provide equal opportunities to all regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, ability or gender identity.Watch our ALL IN video and check out our Diversity Equity and Inclusion actions at sanofi.com!US and Puerto Rico Residents OnlySanofi Inc. and its U.S. affiliates are Equal Opportunity and Affirmative Action employers committed to a culturally inclusive and diverse workforce. All qualified applicants will receive consideration for employment without regard to race; color; creed; religion; national origin; age; ancestry; nationality; natural or protective hairstyles; marital, domestic partnership or civil union status; sex, gender, gender identity or expression; affectional or sexual orientation; disability; veteran or military status or liability for military status; domestic violence victim status; atypical cellular or blood trait; genetic information (including the refusal to submit to genetic testing) or any other characteristic protected by law.",
       "job_apply_link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Summer-or-Fall-2026-Co-op-Intern---mRNA-Systems-Engineering---Vaccine_R2816919",
       "job_posted_at_datetime_utc": "2025-12-09T10:48:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sanofi-mrna-systems-engineering-fall-2026-co-op-vaccine-summer-waltham"
+      "id": "sanofi-mrna-systems-engineering-fall-2026-co-op-vaccine-summer-waltham",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:47:07.041Z",
     "postedAt": null
   },
   {
@@ -804,11 +710,13 @@
       "job_posted_at_datetime_utc": "2025-12-09T10:47:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-intern-product-technical-development-digital-sciences-focus-san-bruno"
+      "id": "genentech-intern-product-technical-development-digital-sciences-focus-san-bruno",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:47:07.041Z",
     "postedAt": null
   },
   {
@@ -822,11 +730,13 @@
       "job_posted_at_datetime_utc": "2025-12-09T10:00:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "csl-plasma-innovation-project-delivery-intern-boca-raton"
+      "id": "csl-plasma-innovation-project-delivery-intern-boca-raton",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:47:07.041Z",
     "postedAt": null
   },
   {

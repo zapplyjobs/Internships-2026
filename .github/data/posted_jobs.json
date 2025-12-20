@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T23:36:45.579Z",
+  "lastUpdated": "2025-12-20T23:47:16.509Z",
   "jobs": [
-    {
-      "id": "kla-algorithm-engineering-intern-ann-arbor-2025-12-13-1",
-      "jobId": "kla-algorithm-engineering-intern-ann-arbor",
-      "company": "KLA",
-      "title": "Algorithm Engineering Intern",
-      "postedToDiscord": "2025-12-13T23:37:29.273Z",
-      "sourceDate": "2025-09-25T01:12:18.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2531398",
-      "discordThreadId": "1449545790031659162",
-      "instanceNumber": 1
-    },
-    {
-      "id": "barry-s-undergraduate-summer-scholar-data-analyst-summer-2026-miami-2025-12-13-1",
-      "jobId": "barry-s-undergraduate-summer-scholar-data-analyst-summer-2026-miami",
-      "company": "Barry's",
-      "title": "Undergraduate Summer Scholar, Data Analyst - Summer 2026",
-      "postedToDiscord": "2025-12-13T23:45:04.879Z",
-      "sourceDate": "2025-09-24T23:16:52.000Z",
-      "sourceUrl": "https://ats.rippling.com/barrys-careers/jobs/dfd1cd6a-2d8c-46a2-a504-46f97dac825e",
-      "discordThreadId": "1449547701011349505",
-      "instanceNumber": 1
-    },
     {
       "id": "brown-brown-insurance-technology-solutions-intern-technology-solutions-daytona-beach-2025-12-13-1",
       "jobId": "brown-brown-insurance-technology-solutions-intern-technology-solutions-daytona-beach",
@@ -11144,15 +11122,27 @@
       "sourceUrl": "https://jobs.lever.co/zoox/96857e0b-d39c-4505-b0b4-9a14c7d9db58/apply",
       "discordThreadId": "1452082314623586347",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-global-e-commerce-search-infrastructure-san-jose-2025-12-20-1",
+      "jobId": "tiktok-software-engineer-intern-global-e-commerce-search-infrastructure-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
+      "postedToDiscord": "2025-12-20T23:47:16.509Z",
+      "sourceDate": "2025-12-10T02:28:38.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7579073228540201269",
+      "discordThreadId": "1452084960616775680",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1013,
+    "totalJobs": 1012,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T23:36:45.579Z",
-      "archived": 0
+      "date": "2025-12-20T23:47:16.509Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
