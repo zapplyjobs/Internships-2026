@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:28:57.719Z",
+  "lastUpdated": "2025-12-20T22:37:58.093Z",
   "jobs": [
-    {
-      "id": "bytedance-software-engineer-intern-cdn-platform-san-jose-2025-12-13-1",
-      "jobId": "bytedance-software-engineer-intern-cdn-platform-san-jose",
-      "company": "ByteDance",
-      "title": "Software Engineer Intern - CDN Platform",
-      "postedToDiscord": "2025-12-13T22:30:08.560Z",
-      "sourceDate": "2025-09-25T07:04:12.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7553422988620892423/detail",
-      "discordThreadId": "1449528842459807754",
-      "instanceNumber": 1
-    },
     {
       "id": "omnitech-software-engineering-intern-sioux-falls-2025-12-13-1",
       "jobId": "omnitech-software-engineering-intern-sioux-falls",
@@ -10836,14 +10825,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621787",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-inference-architecture-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-inference-architecture-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Inference Architecture",
+      "postedToDiscord": "2025-12-20T22:37:58.055Z",
+      "sourceDate": "2025-12-10T13:05:23.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631736",
+      "discordThreadId": "1452067519392120842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-kitsap-county-2025-12-20-1",
+      "jobId": "microsoft-research-intern-kitsap-county",
+      "company": "Microsoft",
+      "title": "Research Intern",
+      "postedToDiscord": "2025-12-20T22:37:58.069Z",
+      "sourceDate": "2025-12-10T13:05:20.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631728",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-agents-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-agents-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Agents",
+      "postedToDiscord": "2025-12-20T22:37:58.078Z",
+      "sourceDate": "2025-12-10T13:05:18.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621776",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-multimodal-language-models-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-multimodal-language-models-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Multimodal Language Models",
+      "postedToDiscord": "2025-12-20T22:37:58.085Z",
+      "sourceDate": "2025-12-10T13:04:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628867",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-algorithms-group-theory-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-algorithms-group-theory-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Algorithms Group: Theory",
+      "postedToDiscord": "2025-12-20T22:37:58.093Z",
+      "sourceDate": "2025-12-10T13:04:42.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628860",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 985,
+    "totalJobs": 989,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:28:57.719Z",
+      "date": "2025-12-20T22:37:58.093Z",
       "archived": 0
     }
   }
