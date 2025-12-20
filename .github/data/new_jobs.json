@@ -84,20 +84,6 @@
     "description_success": true
   },
   {
-    "job_title": "2026 PhD Software Engineer Intern - Autonomous Vehicles Cloud - United States",
-    "employer_name": "Uber",
-    "job_city": "Sunnyvale",
-    "job_state": "CA",
-    "job_description": "Join Uber in this exciting opportunity.",
-    "job_apply_link": "https://university-uber.icims.com/jobs/152174/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-12-11T23:30:34.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "uber-2026-phd-software-engineer-intern-autonomous-vehicles-cloud-united-states-sunnyvale",
-    "description_platform": "icims",
-    "description_success": false
-  },
-  {
     "job_title": "Intern – AI/Machine Learning",
     "employer_name": "Dominion Energy",
     "job_city": "Richmond",
@@ -136,6 +122,20 @@
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
     "id": "kla-computer-vision-machine-learning-intern-milpitas",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Data Platform Intern",
+    "employer_name": "Great American Insurance Company",
+    "job_city": "Cincinnati",
+    "job_state": "OH",
+    "job_description": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries of American Financial Group. We combine a \"small company\" culture where your ideas will be heard with \"big company\" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.At Great American, we value and recognize the benefits derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees feel included, empowered, and enabled to perform at their best.P&C IT Services provides professional services to help our business units and corporate functions use technology to create, manage, and optimize information and business processes.  IT Services can include a wide range of activities such as: software development, data management, Cloud services, IT security, network security, technical support, establishing and overseeing access rights, procuring and maintaining equipment or software, managing the infrastructure, and defining security procedures,  The overall goal of IT Services is to provide technology solutions that increase efficiency, reduce costs, and give our company a competitive advantage over our competitors.Our Reporting Systems team is looking for an intern to work a hybrid schedule (3 days a week in the office, 2 days remote) out of the Cincinnati office for the summer.Responsibilities:Develop and Maintain ScriptsWrite clean, efficient, and well-documented Python code for data processing and automation tasks.Build reusable modules for interacting with APIs and databases.API IntegrationWork with REST APIs to extract, transform, and load data from various sources.Implement authentication mechanisms (OAuth, tokens) and handle API rate limits and error responses.Database InteractionQuery and manage data in Snowflake using SQL.Optimize queries for performance and ensure data integrity.Data Pipeline SupportAssist in designing and maintaining ETL workflows.Validate data quality and troubleshoot pipeline issues.CollaborationWork closely with senior engineers and analysts to understand requirements and deliver solutions.Participate in code reviews and follow best practices for version control (Git).DocumentationPrepare clear documentation for scripts, APIs, and database processes.Maintain logs and reports for data operations.Requirements:Programming: Proficient in Python (data manipulation, API calls, error handling).APIs: Experience with REST API integration and JSON/XML data formats.Databases: SQL skills; familiarity with Snowflake preferred.Version Control: Basic knowledge of Git/GitHub.Problem-Solving: Ability to debug and resolve issues independently.Education: Sophomore, pursuing a BA/BS in Computer Science or related fieldNice-to-HaveKnowledge of data engineering concepts (ETL, data pipelines).Familiarity with cloud platforms (AWS, Azure, or GCP).Business Unit:Property & Casualty IT ServicesBenefits: Compensation varies by role, position level, and location. Individual pay is influenced by skills, education, training, certifications, experience, and the role's scope and complexity, along with business needs.We offer a competitive Total Rewards package, including medical, dental, and vision plans starting on day one, PTO, paid holidays, commuter benefits, an employee stock purchase plan, education reimbursement, paid parental leave/adoption assistance, and a 401(k) plan with company match. These benefits are available to eligible full-time and part-time employees.Your recruiter can provide more details about our total rewards and specific compensation ranges during the hiring process.",
+    "job_apply_link": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Platform-Intern_R8285",
+    "job_posted_at_datetime_utc": "2025-12-11T23:23:00.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "great-american-insurance-company-data-platform-intern-cincinnati",
     "description_platform": "workday",
     "description_success": true
   }
