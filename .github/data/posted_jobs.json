@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:35:00.291Z",
+  "lastUpdated": "2025-12-20T19:44:04.528Z",
   "jobs": [
-    {
-      "id": "waymo-software-engineering-commercialization-mountain-view-2025-12-13-1",
-      "jobId": "waymo-software-engineering-commercialization-mountain-view",
-      "company": "Waymo",
-      "title": "Software Engineering, Commercialization",
-      "postedToDiscord": "2025-12-13T19:43:48.378Z",
-      "sourceDate": "2025-09-26T17:55:23.000Z",
-      "sourceUrl": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco",
-      "discordThreadId": "1449486981997531290",
-      "instanceNumber": 1
-    },
     {
       "id": "american-century-investments-it-data-intern-engineering-analytics-and-ai-ml-kansas-city-2025-12-13-1",
       "jobId": "american-century-investments-it-data-intern-engineering-analytics-and-ai-ml-kansas-city",
@@ -10044,14 +10033,80 @@
       "sourceUrl": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR14004",
       "discordThreadId": "1452021475069526098",
       "instanceNumber": 1
+    },
+    {
+      "id": "quinstreet-performance-marketing-analytics-intern-program-undergraduate-remote-in-usa-2025-12-20-1",
+      "jobId": "quinstreet-performance-marketing-analytics-intern-program-undergraduate-remote-in-usa",
+      "company": "QuinStreet",
+      "title": "Performance Marketing & Analytics Intern Program - Undergraduate",
+      "postedToDiscord": "2025-12-20T19:43:40.627Z",
+      "sourceDate": "2025-12-11T02:06:47.000Z",
+      "sourceUrl": "https://www.quinstreet.com/careers/?gh_jid=7460695",
+      "discordThreadId": "1452023657949036545",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-software-development-intern-gaithersburg-2025-12-20-1",
+      "jobId": "leidos-software-development-intern-gaithersburg",
+      "company": "Leidos",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-20T19:43:44.253Z",
+      "sourceDate": "2025-12-11T00:03:38.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00171966",
+      "discordThreadId": "1452023672603803792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-summer-2026-technical-intern-electric-asset-strategy-south-plainfield-2025-12-20-1",
+      "jobId": "public-service-enterprise-summer-2026-technical-intern-electric-asset-strategy-south-plainfield",
+      "company": "Public Service Enterprise Group",
+      "title": "Summer 2026 – Technical Intern - Electric Asset Strategy",
+      "postedToDiscord": "2025-12-20T19:43:50.872Z",
+      "sourceDate": "2025-12-11T02:05:47.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/South-Plainfield-Summer-2026-Technical-Intern-Electric-Asset-Strategy-NJ-07080/1348924600/?ats=successfactors",
+      "discordThreadId": "1452023700626079796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airbus-intern-data-science-engineering-atlanta-2025-12-20-1",
+      "jobId": "airbus-intern-data-science-engineering-atlanta",
+      "company": "Airbus",
+      "title": "Intern - Data Science Engineering",
+      "postedToDiscord": "2025-12-20T19:43:54.379Z",
+      "sourceDate": "2025-12-11T00:02:12.000Z",
+      "sourceUrl": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Atlanta-Area-GA/Summer-Internship---Data-Science-Engineering_JR10355957",
+      "discordThreadId": "1452023715012546723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alexion-real-world-data-intern-wilmington-2025-12-20-1",
+      "jobId": "alexion-real-world-data-intern-wilmington",
+      "company": "Alexion",
+      "title": "Real World Data Intern",
+      "postedToDiscord": "2025-12-20T19:43:57.819Z",
+      "sourceDate": "2025-12-10T23:53:19.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Wilmington---DE/Real-World-Data-Intern--Graduate-Level-_R-241429",
+      "discordThreadId": "1452023729700999219",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-braid-delta-lab-san-bruno-2025-12-20-1",
+      "jobId": "genentech-intern-braid-delta-lab-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Braid Delta Lab",
+      "postedToDiscord": "2025-12-20T19:44:04.527Z",
+      "sourceDate": "2025-12-10T23:50:19.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---BRAID-DELTA-Lab_202512-131308",
+      "discordThreadId": "1452023756989010061",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 913,
+    "totalJobs": 918,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:35:00.291Z",
+      "date": "2025-12-20T19:44:04.528Z",
       "archived": 0
     }
   }
