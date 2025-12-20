@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Research Intern - Onedrive and Sharepoint",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Conduct experiments and develop novel AI models and algorithms to address complex ODSP scenarios (e.g., intelligent document understanding, search/RAG, recommendation, generative experiences, proactive knowledge mining). Design rigorous evaluation metrics, methodologies, and validation experiments to measure performance and quality of devised AI solutions and agentic AI workflows. Conduct user studies to gather qualitative and quantitative insights, ensuring solutions align with user needs and improve real-world experience. Build datasets (including leveraging privacy-preserving synthetic data techniques) to fine tune and benchmark models for ODSP applications. Deliver models and algorithms for content understanding, enrichment, and use at scale, across a range of different modalities, including text, images, and video. Apply your in-depth knowledge, problem-solving skills, and drive to solve new challenges in the field and realize your ideas in products used worldwide. Present research findings and propose ideas in team discussions; share results through documentation and presentations and contribute to research publications. Currently enrolled in a PhD program in Computer Science, Electrical/Computer Engineering, Data Science, Statistics, or related fields. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Demonstrated foundation in machine learning and artificial intelligence. Hands-on experience with modern deep learning techniques (e.g., transformer models, large language models). Practical Python coding experience with PyTorch or similar frameworks. Ability to prototype and implement algorithms efficiently. Proficient analytical, problem solving, communication, and collaborative skills. Able to formulate hypotheses, drive experiments, and work effectively in a collaborative environment. Demonstrated research impact through publications or projects in relevant AI domains (e.g., natural language processing, information retrieval, computer vision, multimodal AI, knowledge mining). A track record of applying scientific methods to real-world problems is a plus. Familiarity with LLM training or fine-tuning, particularly using reinforcement learning techniques or AI agent orchestrators. Experience working with large-scale datasets, enterprise content, or content management systems. Experience with privacy-preserving evaluation methods or synthetic data generation is highly desirable.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556640732",
-      "job_posted_at_datetime_utc": "2025-12-10T12:52:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-onedrive-and-sharepoint-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:03:18.989Z",
-    "postedAt": "2025-12-20T23:28:36.826Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - AI-Driven CPU Optimizations",
-      "employer_name": "Microsoft",
-      "job_city": "Hillsboro",
-      "job_state": "OR",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a master&#39;s or PhD program in Computer Science, Computer Engineering or a related STEM field. At least 1 year of experience with data analysis. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Familiarity with computer architecture and system performance measurement and modeling. Experience with compilers, Linux, ARM ISA. Demonstrated ability to develop original research agendas. Ability to think unconventionally and derive creative, innovative solutions. Proficient communication skills, both written and verbal. Proven interpersonal skills with the ability to work effectively across groups and cultures.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556640691",
-      "job_posted_at_datetime_utc": "2025-12-10T12:52:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-driven-cpu-optimizations-hillsboro",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:03:18.989Z",
-    "postedAt": "2025-12-20T23:28:36.826Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. We are seeking Research Intern applications for spring, summer, or fall of 2026. Areas of interest include, but are not limited to, challenges and opportunities in the areas of artificial intelligence, biology, biomedicine, responsible AI, and influences of AI applications on people and society, including economic and psychosocial influences of AI. Currently enrolled in an MS or PhD program in CS, HCI, EE, biology, biomedical informatics, economics, psychology, or a related field or similar level programs in ethics, law, or policy-related fields. At least 1 year of experience in conducting research and writing peer-reviewed publications. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Demonstrated ability to develop original research agendas. Proficient interpersonal skills, cross-group, and cross-culture collaboration. History of effective collaborations with researchers and other colleagues. Proficiency with qualitative or quantitative empirical social science research methods. Demonstrated commitment to responsible AI. Passionate about embarking on creative, out-of-the-box, unconventional efforts in pursuit of new results and directions.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556640817",
-      "job_posted_at_datetime_utc": "2025-12-10T12:51:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:03:18.989Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Multiple Teams",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Research Interns will conduct research in following domains: New imaging model architecture and training methods. Image reconstruction algorithms to solve inverse problems and implementation. Model evaluation, uncertainty, imaging artifacts, and hallucination analysis. Imaging application development and deployment. Currently enrolled in a PhD program in a related STEM field. At least 2 years of research experiences with deep learning for imaging. At least one publication at peer-reviewed journals or international conferences in imaging and AI fields. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Familiar with Pytorch and model training. Understanding multi-GPU training.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556640831",
-      "job_posted_at_datetime_utc": "2025-12-10T12:51:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-multiple-teams-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:03:18.989Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Sustainability Data Analysis Program Intern",
-      "employer_name": "Aramark",
-      "job_city": "Tempe",
-      "job_state": "AZ",
-      "job_description": "Job Description The Student Worker - Functional cleans and maintains assigned area(s) to meet customer and client satisfaction.Job Responsibilities • Adheres to established procedures to provide a safe working environment including complying with OSHA, state, local, federal, and Aramark regulations • Maintains a clean and orderly environment to project the safety and health of others • Properly cleans and maintains housekeeping equipment • Cleans assigned areas to Aramark and client standards and requirements • Follows procedures for storage and disposal of trash and transports it to designated areas • Reports maintenance concerns via work order requests to appropriate personnel • Secures the facility, ensuring building is locked/unlocked as required • Ensures security of company assets At Aramark, developing new skills and doing what it takes to get the job done make a positive impact for our employees and for our customers. In order to meet our commitments, job duties may change or new ones may be assigned without formal notice.Qualifications • Previous custodial experience preferred • Frequent lifting, carrying, pushing, or pulling greater than 50 lbs. • Must be able to follow basic safety procedures and precautions due to physical risks and exposure to hazardous chemicals This role may have physical demands including, but not limited to, lifting, bending, pushing, pulling and/or extended walking and standing. This role may also require uniforms and/or usage of Personal Protective equipment (PPE).Education About Aramark Our Mission Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. At Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law. About Aramark The people of Aramark proudly serve millions of guests every day through food and facilities in 15 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.",
-      "job_apply_link": "https://aramarkcareers.com/UnitedStates/job/Tempe-ASU-Sustainability-Data-Analysis-Program-Intern,-ASU-Tempe-AZ-85281/1335351700/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-10T10:52:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "aramark-sustainability-data-analysis-program-intern-tempe",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:03:18.989Z",
-    "postedAt": "2025-12-20T23:28:36.826Z"
-  },
-  {
-    "job": {
       "job_title": "Product Development Intern - AI & ML Engineering",
       "employer_name": "Modernizing Medicine",
       "job_city": "Boca Raton",
@@ -554,10 +454,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:36:48.592Z"
   },
   {
     "job": {
@@ -574,10 +474,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:36:48.592Z"
   },
   {
     "job": {
@@ -594,10 +494,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:36:48.592Z"
   },
   {
     "job": {
@@ -614,10 +514,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:36:48.592Z"
   },
   {
     "job": {
@@ -634,10 +534,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:16:42.170Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T23:36:48.592Z"
   },
   {
     "job": {
@@ -750,11 +650,13 @@
       "job_posted_at_datetime_utc": "2025-12-09T15:31:23.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rga-reinsurance-company-intern-data-science-chesterfield"
+      "id": "rga-reinsurance-company-intern-data-science-chesterfield",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:36:18.802Z",
     "postedAt": null
   },
   {
@@ -763,16 +665,18 @@
       "employer_name": "Sharp Electronics",
       "job_city": "Montvale",
       "job_state": "NJ",
-      "job_description": "Join Sharp Electronics in this exciting opportunity.",
+      "job_description": "var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/careers-sharpusa.icims.com\\/jobs\\/8567\\/ai-process-automation-intern\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://careers-sharpusa.icims.com/jobs/8567/ai-process-automation-intern/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> Sharp Electronics is an Equal Opportunity/Affirmative Action employer. It is Sharp’s policy to recruit, hire, select, place, train, promote, and transfer qualified individuals for each opening without regard to age, sex, gender identity, race, color, creed, national origin, ancestry, citizenship status, religion, mental or physical disability, marital status, sexual orientation, genetic information, military or veteran status, or any other characteristic protected by applicable federal, state, or local law. Sharp Electronics is an Equal Opportunity Employer (EEO) that complies with the laws and regulations set forth in the following EEO Is The Law Poster. Visit the following links to learn more: \"EEO Is The Law\" Poster and Affirmative Action We are committed to providing reasonable accommodations to qualified individuals with disabilities. If you require a reasonable accommodation to complete an employment application, or during the application process, please e-mail us at ApplicationAssistance@sharpsec.com or call at (866) 361-8547. TDD/TTY users may dial: 855-500-5015 Sharp Electronics participates in E-Verify, a federal pilot program that enables employers to verify the identity and employment eligibility for all persons hired to work in the United States by providing the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS), with information from each new employee’s Form I-9 to confirm work authorization. To learn more, please contact DHS at (888) 464-4218 or visit the following links: E-Verify Website, E-Verify Notice, Right to Work (DOJ) We comply with all applicable federal, state, and local laws, regulations, orders, and mandates, including those we may be required to follow as a federal government contractor/subcontractor. Additional resources can be reviewed by visiting the following links: “Know Your Rights”, Wage and Hour Division’s FMLA Poster, Pay Transparency Policy Statement, and Employee Polygraph Protection Act Rights Poster. We are required under federal law to invite you to voluntarily self-identify in various categories. Relevant forms will be included at several steps in the recruitment process. Get in Touch 1-800-BE-Sharp Contact Us Support Sharp USA Business Products Home Appliances Home Entertainment About Sharp About Sharp Electronics News Careers Press Inquiries Environmental Awareness Compliance & Ethics Policy Sharp Social Business Facebook X Instagram LinkedIn YouTube Blog Consumer Instagram Facebook X X Support Tik Tok Pinterest YouTube Houzz LinkedIn Blog",
       "job_apply_link": "https://careers-sharpusa.icims.com/jobs/8567/ai-process-automation-intern/job",
       "job_posted_at_datetime_utc": "2025-12-09T13:50:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sharp-electronics-ai-process-automation-intern-montvale"
+      "id": "sharp-electronics-ai-process-automation-intern-montvale",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:36:18.802Z",
     "postedAt": null
   },
   {
@@ -781,16 +685,18 @@
       "employer_name": "Genentech",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_description": "2026 Summer Intern - Biology Research | AI DevelopmentDepartment SummaryBRAID is a department within Genentech dedicated to advancing biological and clinical sciences through artificial intelligence. Our core focus is on developing foundation models—general-purpose AI models trained on large-scale biological datasets—which we fine-tune for specialized applications. Our research spans multiple areas, with key focuses including:High-throughput perturbative screening for target identification and drug discovery, utilizing technologies such as cell painting, Perturb-seq, and optical pooled screens.Regulatory element design for gene and cell therapy applications.Integration of multi-modal biological data to improve target assessment.Inference of cellular communication using spatial transcriptomics and proteomics.Virtual screening of small molecules for phenotypic drug discovery.Foundational machine learning, focusing on fine-tuning foundation models, generative modeling, causal inference, explainability, and uncertainty quantification.This internship position is located in South San Francisco, on-site.The OpportunityLarge cohort single cell RNA-seq studies enable the study of disease across contexts at ultra-high resolution. As such atlas-scale datasets are becoming increasingly common, the need for scalable and interpretable computational methods for analyzing and gleaning insights regarding the underlying mechanisms of disease from such datasets is becoming increasingly high.Tensor factorization (TF) methods are promising approaches for studying structured systems biology datasets, and thus for modeling atlas-scale cohort studies. However, existing TF methods are not yet optimized and specifically designed for the analysis of atlas level single cell datasets. Furthermore, current applications of TF to the study of single cell datasets are purely data-driven, and are not yet able to leverage a priori biologically relevant knowledge, potentially limiting their interpretability and hampering their utility.The Li Lab [https://lilab-bcb.github.io/] is looking for an exceptional intern candidate to work on developing and applying a novel TF formulation that addresses the described computational challenges. The candidate will have opportunities to learn and implement state-of-the-art tensor decomposition algorithms and apply them to internally generated and public single cell atlas datasets. The proposed position will serve as an excellent opportunity for the candidate to not only hone their method development skills, but also to deepen their biological knowledge through the application of their newly developed tool to generate impactful insights from high-value datasets.Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internshipProgram start dates are May 18th or June 1st (Summer) 2026A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with, and learn from some of the most talented people in the biotechnology industry.Who You Are Required Education: You meet one of the following criteria:- Must be pursuing a PhD (enrolled student).Required Majors: Computer Sciences / Computational Biology / Bioinformatics or Related FieldRequired Skills: Strong background in computer science, statistics or mathematicsProficient in Python programming language and its data science environment (e.g. Numpy, Scipy, Pandas, Scikit-learn)Experience in single-cell genomics data analysisPreferred Knowledge, Skills, and QualificationsExperience in dimensionality reduction and/or tensor decomposition methods such as non-negative matrix factorization or PARAFAC is a plusExperience using relevant tools such as JAX and TensorLy is a plusExperience applying computational tools to generate biological insights is a plusExcellent communication, collaboration, and interpersonal skillsComplements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and PassionRelocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of CA is $50.00 hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
       "job_apply_link": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biology-Research---AI-Development_202512-131066",
       "job_posted_at_datetime_utc": "2025-12-09T13:47:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-biology-research-ai-development-san-francisco"
+      "id": "genentech-biology-research-ai-development-san-francisco",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:36:18.802Z",
     "postedAt": null
   },
   {
@@ -799,16 +705,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.NVIDIA is seeking Compiler Engineers! You will be a key member of our AI Compilers Team working on enabling programmability for NVIDIA GPU’s. Our Compiler team is growing and seeking top-tier compiler engineers who want an exciting and fun role as they help lead the charge to even greater accomplishments within a world-class organization. Come join us and to be part of the team in making a difference!What you'll be doing:Design and implementation of significant parts of the compiler.Work on performance analysis and design/implementation of new optimizations.Develop profiling and debugging tools to generate compiler performance metrics.Partner and collaborate with global compiler and software teams to coordinate improvements and problem resolutions.What we need to see:Pursuing a BS/MS in Computer Science or Computer EngineeringRelevant work or research experience in Compilers, MLIR, performance analysis, compiler optimizations, code generation.Must have Low Level Virtual Machine (LLVM) experienceExcellent C/C++ and Python programming and software design skills, including debugging, performance analysis, and test design.Knowledge of Solvers, Optimizers and Optimization problems.Ways to stand out from the crowd:PhD strongly preferredProven ability to design/architect compiler frameworks.Knowledge and understanding of GPU’sExperience with open source compilers and contributions to code base.Strong interpersonal skills are required along with the ability to work in a dynamic product-oriented team with ability to collaborate well with others in an energizing environment.Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until December 12, 2025.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431",
       "job_posted_at_datetime_utc": "2025-12-09T13:46:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-ai-compiler-intern-santa-clara"
+      "id": "nvidia-ai-compiler-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:36:18.802Z",
     "postedAt": null
   },
   {
@@ -817,16 +725,18 @@
       "employer_name": "Etched.ai",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Etched.ai in this exciting opportunity.",
+      "job_description": "Software Intern Location: San Jose, CA Team: Software About Etched Etched is building the world’s first AI inference system purpose-built for transformers - delivering over 10x higher performance and dramatically lower cost and latency than a B200. With Etched ASICs, you can build products that would be impossible with GPUs, like real-time video generation models and extremely deep &amp; parallel chain-of-thought reasoning agents. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history. The roles We are hiring software interns across four tracks (systems, firmware, infrastructure, and chip simulation/tooling). You do not need experience in all tracks. Strength in one area is sufficient. Our systems software role focuses on the design, development, and deployment of ML system software required for operating rack-scale systems. Your work will span network performance, telemetry creation and processing pipelines, and analysis of system-level health and performance. System SW is also responsible for the deployment and provisioning of software frameworks and hardware validation, maintaining secure and performant systems for data center scale ML workloads. In our firmware role, you will help develop firmware for custom ASICs designed to run large transformer models efficiently. You’ll work across the stack—from low-level drivers, hardware interfaces, and system initialization code to integration with runtime libraries and model-execution frameworks. Your work will focus on making the hardware operate reliably and at peak performance, enabling high-throughput inference and training workloads. You’ll collaborate with hardware, architecture, and software teams to bring up new silicon, validate features, and support real-world AI applications. Our infrastructure and core software roles drive the development and adoption of next-generation infrastructure tooling, enabling Etched ASIC, Software, and Platform engineers to iterate faster, build more reliably, and push the boundaries of AI performance. This includes working on our hybrid-cloud high-performance compute (HPC) clusters, massively parallel CI executions, Infrastructure-as-code, scale-out observability platform with LLM integration, and building high-quality tools that engineers love using. Our chip simulation and tooling role will co-design, develop, and test simulations of our custom hardware and tools that engineers use to analyze those systems. You will be working at the cutting edge of hardware innovation, closely coordinating with both software and hardware teams across their whole development path. You may be a good fit if you have: Progress towards a Bachelor’s, Master’s, or PhD degree in Computer Science, Engineering, or a related technical field. Proficiency in C/C++ or Rust Proficiency in Python (for interns interested in systems software) Strong fundamentals in data structures and algorithms Strong understanding of low-level software engineering Strong understanding of hardware/software co-design Excellent communication and collaboration skills Strong candidates may also have: Experience with Linux internals, kernel development, or driver debugging Experience with hardware diagnostics or interpreting hardware logs Exposure to server virtualization or CI/CD pipelines Experience with Rust or embedded development We encourage you to apply even if you do not believe you meet every qualification. Program details 12-week paid internship (June - August 2026) Generous housing support for those relocating Daily lunch and dinner in our office Based at our office in San Jose, CA Direct mentorship from industry leaders and world-class engineers Opportunity to work on one of the most important problems of our time For any questions, contact internships@etched.com . How we’re different Etched believes in the Bitter Lesson . We think most of the progress in the AI field has come from using more FLOPs to train and run models, and the best way to get more FLOPs is to build model-specific hardware. Larger and larger training runs encourage companies to consolidate around fewer model architectures, which creates a market for single-model ASICs. We are a fully in-person team in West San Jose, and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both as needed.",
       "job_apply_link": "https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df",
       "job_posted_at_datetime_utc": "2025-12-09T13:42:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "etched-ai-software-intern-san-jose"
+      "id": "etched-ai-software-intern-san-jose",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T23:36:18.802Z",
     "postedAt": null
   },
   {
