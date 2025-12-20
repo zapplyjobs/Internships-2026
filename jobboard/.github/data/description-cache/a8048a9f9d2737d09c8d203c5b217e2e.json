@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Accepted or currently enrolled in a PhD program in Computer Science, Information Science, Statistics, Information Systems, Economics, Operation Research or a related STEM field. At least 1 year of experience in conducting research and writing peer-reviewed publications. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Ability to think unconventionally to derive creative and innovative solutions. Actively conducting research in at least one of the following areas: Collaborative or Multi-party AI Agents (e.g. AI teammates) Multi Agent Simulations (e.g. evaluating or training AI agents in collaborative settings) Tool-Use and Multi-Turn Reinforcement Learning Learning from user interactions or human feedback in the wild Synthetic data generation for LLM evaluation and fine-tuning Rubric-based LLM graders for reward models Evaluation and Benchmarking of LLM Agents Agents (e.g. Memory, Goal management, Inter-Agent conversations) Model finetuning Proficient interpersonal and communication skills, cross-group, and cross-culture collaboration skills.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
+      "fetchedAt": "2025-12-20T21:29:08.333Z"
+    }
+  },
+  "cachedAt": 1766266148333
+}
