@@ -1,0 +1,24 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Wilmington---DE/Real-World-Data-Intern--Graduate-Level-_R-241429",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking for graduate students majoring in Epidemiology, Biostatistics, Public Health, Computer Science, Data Science, or a related field for a 12-week internship role within our Alexion - AstraZeneca Rare Disease division in Wilmington, DE from May 18 2026 to August 7 2026.Position Description:Assist with data cleaning and data management of various types of data, such as survey, registry and claims/EHR dataExecute the statistical analysis of assigned projects based on RWE statistical analysis planBuild data models and dashboards using data visualization toolsPosition Requirements:Graduate students majoring in Epidemiology, Biostatistics, Public Health, Computer Science, Data Science, or a related field.Candidates must have an expected graduation date after August 2026.Proficiency in R, SQL, or Python is requiredExperience working with large and complex real-world data, such as survey, registry, claims, or electronic health records requiredEnthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.Understanding of MS Office Suite (Excel, Word, PowerPoint) is required.US Work Authorization is required at time of application.Ability to report onsite to Wilmington, DE 3-5 days per week. This role will not provide relocation assistance.Compensation range: $41.50 per hourDate Posted10-Dec-2025Closing Date30-Dec-2025Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Candidates must have an expected graduation date after August 2026.",
+      "Proficiency in R, SQL, or Python is required",
+      "Experience working with large and complex real-world data, such as survey, registry, claims, or electronic health records required",
+      "Understanding of MS Office Suite (Excel, Word, PowerPoint) is required.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "Ability to report onsite to Wilmington, DE 3-5 days per week. This role will not provide relocation assistance."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/US---Wilmington---DE/Real-World-Data-Intern--Graduate-Level-_R-241429",
+      "fetchedAt": "2025-12-20T19:32:37.930Z"
+    }
+  },
+  "cachedAt": 1766259157931
+}

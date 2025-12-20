@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:27:04.974Z",
+  "lastUpdated": "2025-12-20T19:35:00.291Z",
   "jobs": [
-    {
-      "id": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte-2025-12-13-1",
-      "jobId": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte",
-      "company": "Red Ventures",
-      "title": "Data Science Product Manager Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-13T19:32:15.227Z",
-      "sourceDate": "2025-09-26T21:31:22.000Z",
-      "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279173",
-      "discordThreadId": "1449484075210510477",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rocket-lab-usa-ground-systems-engineering-intern-summer-2026-john-c-stennis-space-center-2025-12-13-1",
-      "jobId": "rocket-lab-usa-ground-systems-engineering-intern-summer-2026-john-c-stennis-space-center",
-      "company": "Rocket Lab USA",
-      "title": "Ground Systems Engineering Intern Summer 2026",
-      "postedToDiscord": "2025-12-13T19:34:26.653Z",
-      "sourceDate": "2025-09-26T18:18:47.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7449663003",
-      "discordThreadId": "1449484626291851405",
-      "instanceNumber": 1
-    },
     {
       "id": "waymo-software-engineering-commercialization-mountain-view-2025-12-13-1",
       "jobId": "waymo-software-engineering-commercialization-mountain-view",
@@ -10000,14 +9978,80 @@
       "sourceUrl": "https://www.careers.homeofindustrialideas.com/job/Houston-Application-Engineer-Intern-,-Summer-2026-Houston,-TX-Texa/1275536901/?ats=successfactors",
       "discordThreadId": "1452019480799608915",
       "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-software-development-engineer-irving-2025-12-20-1",
+      "jobId": "gm-financial-intern-software-development-engineer-irving",
+      "company": "GM financial",
+      "title": "Intern – Software Development Engineer",
+      "postedToDiscord": "2025-12-20T19:34:36.009Z",
+      "sourceDate": "2025-12-11T16:08:29.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1449",
+      "discordThreadId": "1452021373663969341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tanium-ai-research-intern-oakland-2025-12-20-1",
+      "jobId": "tanium-ai-research-intern-oakland",
+      "company": "Tanium",
+      "title": "AI Research Intern",
+      "postedToDiscord": "2025-12-20T19:34:40.021Z",
+      "sourceDate": "2025-12-11T07:36:24.000Z",
+      "sourceUrl": "https://www.tanium.com/careers/7288542?gh_jid=7288542",
+      "discordThreadId": "1452021388570267929",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-enterprise-software-engineering-intern-sunnyvale-2025-12-20-1",
+      "jobId": "hewlett-packard-enterprise-software-engineering-intern-sunnyvale",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-20T19:34:43.420Z",
+      "sourceDate": "2025-12-11T02:16:41.000Z",
+      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056",
+      "discordThreadId": "1452021404424736779",
+      "instanceNumber": 1
+    },
+    {
+      "id": "quest-global-project-internship-wichita-2025-12-20-1",
+      "jobId": "quest-global-project-internship-wichita",
+      "company": "Quest Global",
+      "title": "Project Internship",
+      "postedToDiscord": "2025-12-20T19:34:50.023Z",
+      "sourceDate": "2025-12-11T16:16:01.000Z",
+      "sourceUrl": "https://careers.quest-global.com/global/en/job/P-113986",
+      "discordThreadId": "1452021431503290520",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-performance-engineering-intern-deep-learning-and-hpc-winter-2026-santa-clara-2025-12-20-1",
+      "jobId": "nvidia-performance-engineering-intern-deep-learning-and-hpc-winter-2026-santa-clara",
+      "company": "NVIDIA",
+      "title": "Performance Engineering Intern - Deep Learning and HPC - Winter 2026",
+      "postedToDiscord": "2025-12-20T19:34:56.829Z",
+      "sourceDate": "2025-12-11T07:14:50.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287",
+      "discordThreadId": "1452021459810517175",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chemours-ai-data-science-intern-remote-in-usa-2025-12-20-1",
+      "jobId": "chemours-ai-data-science-intern-remote-in-usa",
+      "company": "Chemours",
+      "title": "AI & Data Science Intern",
+      "postedToDiscord": "2025-12-20T19:35:00.291Z",
+      "sourceDate": "2025-12-11T02:43:09.000Z",
+      "sourceUrl": "https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR14004",
+      "discordThreadId": "1452021475069526098",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 909,
+    "totalJobs": 913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:27:04.974Z",
+      "date": "2025-12-20T19:35:00.291Z",
       "archived": 0
     }
   }

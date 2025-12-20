@@ -2990,5 +2990,27 @@
     "sourceUrl": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
     "discordThreadId": "1449482646710124544",
     "instanceNumber": 1
+  },
+  {
+    "id": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte-2025-12-13-1",
+    "jobId": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte",
+    "company": "Red Ventures",
+    "title": "Data Science Product Manager Intern - Multiple Teams",
+    "postedToDiscord": "2025-12-13T19:32:15.227Z",
+    "sourceDate": "2025-09-26T21:31:22.000Z",
+    "sourceUrl": "https://www.redventures.com/careers/positions/open?gh_jid=7279173",
+    "discordThreadId": "1449484075210510477",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rocket-lab-usa-ground-systems-engineering-intern-summer-2026-john-c-stennis-space-center-2025-12-13-1",
+    "jobId": "rocket-lab-usa-ground-systems-engineering-intern-summer-2026-john-c-stennis-space-center",
+    "company": "Rocket Lab USA",
+    "title": "Ground Systems Engineering Intern Summer 2026",
+    "postedToDiscord": "2025-12-13T19:34:26.653Z",
+    "sourceDate": "2025-09-26T18:18:47.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/7449663003",
+    "discordThreadId": "1449484626291851405",
+    "instanceNumber": 1
   }
 ]
