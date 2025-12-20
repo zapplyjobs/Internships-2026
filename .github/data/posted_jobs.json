@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:46:08.651Z",
+  "lastUpdated": "2025-12-20T22:53:16.240Z",
   "jobs": [
-    {
-      "id": "clarios-manufacturing-quality-intern-multiple-teams-florence-2025-12-13-1",
-      "jobId": "clarios-manufacturing-quality-intern-multiple-teams-florence",
-      "company": "Clarios",
-      "title": "Manufacturing Quality Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-13T22:47:55.051Z",
-      "sourceDate": "2025-09-25T05:53:03.000Z",
-      "sourceUrl": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Kentucky-Florence/Manufacturing-Quality-Intern--Summer-2026-_WD45084",
-      "discordThreadId": "1449533315299410053",
-      "instanceNumber": 1
-    },
     {
       "id": "lennox-international-it-business-systems-analyst-intern-richardson-2025-12-13-1",
       "jobId": "lennox-international-it-business-systems-analyst-intern-richardson",
@@ -10924,14 +10913,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628875",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-training-methods-for-llm-efficiency-mountain-view-2025-12-20-1",
+      "jobId": "microsoft-research-intern-training-methods-for-llm-efficiency-mountain-view",
+      "company": "Microsoft",
+      "title": "Research Intern - Training Methods for LLM Efficiency",
+      "postedToDiscord": "2025-12-20T22:53:12.755Z",
+      "sourceDate": "2025-12-10T13:04:18.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628881",
+      "discordThreadId": "1452071355536249012",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-machine-learning-and-optimization-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-machine-learning-and-optimization-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Machine Learning and Optimization",
+      "postedToDiscord": "2025-12-20T22:53:12.769Z",
+      "sourceDate": "2025-12-10T13:04:17.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628908",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-microsoft-research-special-projects-cambridge-2025-12-20-1",
+      "jobId": "microsoft-research-intern-microsoft-research-special-projects-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Research Special Projects",
+      "postedToDiscord": "2025-12-20T22:53:12.778Z",
+      "sourceDate": "2025-12-10T13:04:13.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628925",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-human-intelligence-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-human-intelligence-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Human Intelligence",
+      "postedToDiscord": "2025-12-20T22:53:12.785Z",
+      "sourceDate": "2025-12-10T13:02:36.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556631443",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-neural-rendering-character-ai-applied-science-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-neural-rendering-character-ai-applied-science-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Neural Rendering & Character AI - Applied Science",
+      "postedToDiscord": "2025-12-20T22:53:16.240Z",
+      "sourceDate": "2025-12-10T13:02:40.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621609",
+      "discordThreadId": "1452071370107392042",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 993,
+    "totalJobs": 997,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:46:08.651Z",
+      "date": "2025-12-20T22:53:16.240Z",
       "archived": 0
     }
   }
