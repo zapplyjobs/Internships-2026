@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:53:47.443Z",
+  "lastUpdated": "2025-12-20T20:03:56.965Z",
   "jobs": [
     {
       "id": "veritiv-corporation-business-analytics-intern-advanced-analytics-sandy-springs-2025-12-13-1",
@@ -10154,16 +10154,81 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4638581005",
       "discordThreadId": "1452026202092077086",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineering-intern-c-development-san-antonio-2025-12-20-1",
+      "jobId": "general-dynamics-mission-software-engineering-intern-c-development-san-antonio",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineering Intern - C++ Development",
+      "postedToDiscord": "2025-12-20T20:03:39.635Z",
+      "sourceDate": "2025-12-10T23:33:01.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69694/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452028686537719971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wisk-software-engineering-intern-mountain-view-2025-12-20-1",
+      "jobId": "wisk-software-engineering-intern-mountain-view",
+      "company": "Wisk",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-20T20:03:43.358Z",
+      "sourceDate": "2025-12-10T23:31:48.000Z",
+      "sourceUrl": "https://wisk.wd108.myworkdayjobs.com/Wisk_Careers/job/Mountain-View-CA/Software-Engineering-Intern_JR100407",
+      "discordThreadId": "1452028701410721926",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-intern-engineer-kitsap-county-2025-12-20-1",
+      "jobId": "general-dynamics-mission-intern-engineer-kitsap-county",
+      "company": "General Dynamics Mission Systems",
+      "title": "Intern Engineer",
+      "postedToDiscord": "2025-12-20T20:03:46.938Z",
+      "sourceDate": "2025-12-10T23:30:47.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69673/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452028716921389207",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-engineering-intern-kings-bay-base-2025-12-20-1",
+      "jobId": "general-dynamics-mission-engineering-intern-kings-bay-base",
+      "company": "General Dynamics Mission Systems",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2025-12-20T20:03:50.412Z",
+      "sourceDate": "2025-12-10T23:30:46.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69728/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452028731618230466",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-engineering-intern-pittsfield-2025-12-20-1",
+      "jobId": "general-dynamics-mission-engineering-intern-pittsfield",
+      "company": "General Dynamics Mission Systems",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2025-12-20T20:03:50.421Z",
+      "sourceDate": "2025-12-10T23:30:43.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69727/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "fermilab-ura-fermilab-undergraduate-research-intern-fursi-batavia-2025-12-20-1",
+      "jobId": "fermilab-ura-fermilab-undergraduate-research-intern-fursi-batavia",
+      "company": "Fermilab",
+      "title": "URA-Fermilab: Undergraduate Research Intern - Fursi",
+      "postedToDiscord": "2025-12-20T20:03:56.964Z",
+      "sourceDate": "2025-12-10T23:32:35.000Z",
+      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/URA-Fermilab--Undergraduate-Research-Summer-Internship--FURSI-_R_009265",
+      "discordThreadId": "1452028759057236028",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 923,
+    "totalJobs": 929,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:53:47.443Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2025-12-20T20:03:56.965Z",
+      "archived": 0
     }
   }
 }
