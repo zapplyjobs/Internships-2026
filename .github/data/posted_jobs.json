@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:16:52.982Z",
+  "lastUpdated": "2025-12-20T19:27:04.974Z",
   "jobs": [
-    {
-      "id": "bytedance-research-scientist-intern-ai-infrastructure-seattle-2025-12-13-1",
-      "jobId": "bytedance-research-scientist-intern-ai-infrastructure-seattle",
-      "company": "ByteDance",
-      "title": "Research Scientist Intern - AI Infrastructure",
-      "postedToDiscord": "2025-12-13T19:17:11.033Z",
-      "sourceDate": "2025-09-27T08:53:24.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7553916190126524680/detail",
-      "discordThreadId": "1449480282460655617",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-research-scientist-intern-ai-infrastructure-san-jose-2025-12-13-1",
-      "jobId": "bytedance-research-scientist-intern-ai-infrastructure-san-jose",
-      "company": "ByteDance",
-      "title": "Research Scientist Intern - AI Infrastructure",
-      "postedToDiscord": "2025-12-13T19:26:34.627Z",
-      "sourceDate": "2025-09-27T08:53:23.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7553917136512076050/detail",
-      "discordThreadId": "1449482646710124544",
-      "instanceNumber": 1
-    },
     {
       "id": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte-2025-12-13-1",
       "jobId": "red-ventures-data-science-product-manager-intern-multiple-teams-charlotte",
@@ -9956,14 +9934,80 @@
       "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28468",
       "discordThreadId": "1452016914602922005",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-bell-labs-radio-systems-6g-intern-berkeley-heights-2025-12-20-1",
+      "jobId": "nokia-bell-labs-radio-systems-6g-intern-berkeley-heights",
+      "company": "Nokia",
+      "title": "Bell Labs Radio Systems 6G Intern",
+      "postedToDiscord": "2025-12-20T19:26:37.454Z",
+      "sourceDate": "2025-12-11T23:04:59.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28494",
+      "discordThreadId": "1452019364822909022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "manhattan-associates-cloud-ops-software-engineer-campus-atlanta-2025-12-20-1",
+      "jobId": "manhattan-associates-cloud-ops-software-engineer-campus-atlanta",
+      "company": "Manhattan Associates",
+      "title": "Cloud Ops Software Engineer - Campus",
+      "postedToDiscord": "2025-12-20T19:26:41.283Z",
+      "sourceDate": "2025-12-11T20:19:48.000Z",
+      "sourceUrl": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/Cloud-Ops-Software-Engineer---Campus--Summer-2026-_16711",
+      "discordThreadId": "1452019381260255303",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-java-software-engineer-2026-summer-internship-chicago-chicago-2025-12-20-1",
+      "jobId": "motorola-java-software-engineer-2026-summer-internship-chicago-chicago",
+      "company": "Motorola",
+      "title": "Java Software Engineer – 2026 Summer Internship - Chicago",
+      "postedToDiscord": "2025-12-20T19:26:44.932Z",
+      "sourceDate": "2025-12-11T17:05:21.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Java-Software-Engineer---2026-Summer-Internship--Chicago-Hybrid-_R60209",
+      "discordThreadId": "1452019397039227013",
+      "instanceNumber": 1
+    },
+    {
+      "id": "meta-research-scientist-intern-llm-evaluation-new-york-2025-12-20-1",
+      "jobId": "meta-research-scientist-intern-llm-evaluation-new-york",
+      "company": "Meta",
+      "title": "Research Scientist Intern, LLM Evaluation",
+      "postedToDiscord": "2025-12-20T19:26:51.596Z",
+      "sourceDate": "2025-12-11T19:53:51.000Z",
+      "sourceUrl": "https://www.metacareers.com/profile/job_details/4203446973242742",
+      "discordThreadId": "1452019424805654809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jm-family-sales-reporting-visualization-deerfield-beach-2025-12-20-1",
+      "jobId": "jm-family-sales-reporting-visualization-deerfield-beach",
+      "company": "JM Family",
+      "title": "Sales Reporting & Visualization",
+      "postedToDiscord": "2025-12-20T19:26:58.336Z",
+      "sourceDate": "2025-12-11T16:51:41.000Z",
+      "sourceUrl": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Visualization-Intern_JR104378",
+      "discordThreadId": "1452019452911685793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atlas-copco-application-engineer-intern-houston-tx-houston-2025-12-20-1",
+      "jobId": "atlas-copco-application-engineer-intern-houston-tx-houston",
+      "company": "Atlas Copco Group",
+      "title": "Application Engineer Intern - Houston - TX",
+      "postedToDiscord": "2025-12-20T19:27:04.973Z",
+      "sourceDate": "2025-12-11T16:24:32.000Z",
+      "sourceUrl": "https://www.careers.homeofindustrialideas.com/job/Houston-Application-Engineer-Intern-,-Summer-2026-Houston,-TX-Texa/1275536901/?ats=successfactors",
+      "discordThreadId": "1452019480799608915",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 905,
+    "totalJobs": 909,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:16:52.982Z",
+      "date": "2025-12-20T19:27:04.974Z",
       "archived": 0
     }
   }
