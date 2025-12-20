@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:04:50.292Z",
+  "lastUpdated": "2025-12-20T21:18:21.854Z",
   "jobs": [
-    {
-      "id": "servicenow-data-informatics-analyst-intern-security-organization-san-diego-2025-12-13-1",
-      "jobId": "servicenow-data-informatics-analyst-intern-security-organization-san-diego",
-      "company": "ServiceNow",
-      "title": "Data Informatics Analyst Intern - Security Organization",
-      "postedToDiscord": "2025-12-13T21:04:50.831Z",
-      "sourceDate": "2025-09-26T06:05:22.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000083936156",
-      "discordThreadId": "1449507370060222605",
-      "instanceNumber": 1
-    },
-    {
-      "id": "enova-analytics-intern-analytics-chicago-2025-12-13-1",
-      "jobId": "enova-analytics-intern-analytics-chicago",
-      "company": "Enova",
-      "title": "Analytics Intern - Analytics",
-      "postedToDiscord": "2025-12-13T21:17:45.088Z",
-      "sourceDate": "2025-09-25T20:00:04.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7270714",
-      "discordThreadId": "1449510623779094632",
-      "instanceNumber": 1
-    },
     {
       "id": "uncountable-full-stack-intern-san-francisco-2025-12-13-1",
       "jobId": "uncountable-full-stack-intern-san-francisco",
@@ -10484,14 +10462,69 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Quantitative-Systems-Pharmacology_202512-131165",
       "discordThreadId": "1452044082812817458",
       "instanceNumber": 1
+    },
+    {
+      "id": "tesla-internship-embedded-software-engineer-firmware-platforms-palo-alto-2025-12-20-1",
+      "jobId": "tesla-internship-embedded-software-engineer-firmware-platforms-palo-alto",
+      "company": "Tesla",
+      "title": "Internship, Embedded Software Engineer, Firmware Platforms",
+      "postedToDiscord": "2025-12-20T21:18:03.988Z",
+      "sourceDate": "2025-12-10T17:40:37.000Z",
+      "sourceUrl": "https://www.tesla.com/careers/search/job/257414",
+      "discordThreadId": "1452047411420860669",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-machine-learning-scientist-intern-san-francisco-2025-12-20-1",
+      "jobId": "genentech-machine-learning-scientist-intern-san-francisco",
+      "company": "Genentech",
+      "title": "Machine Learning Scientist Intern",
+      "postedToDiscord": "2025-12-20T21:18:10.515Z",
+      "sourceDate": "2025-12-10T17:54:13.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/Machine-Learning-Scientist-Intern_202512-131284",
+      "discordThreadId": "1452047438666924213",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bosch-llm-agentic-ai-r-d-intern-sunnyvale-2025-12-20-1",
+      "jobId": "bosch-llm-agentic-ai-r-d-intern-sunnyvale",
+      "company": "Bosch",
+      "title": "LLM & Agentic AI R&D Intern",
+      "postedToDiscord": "2025-12-20T21:18:14.813Z",
+      "sourceDate": "2025-12-10T17:52:25.000Z",
+      "sourceUrl": "https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern",
+      "discordThreadId": "1452047453451980851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nelnet-intern-solar-data-operations-lincoln-2025-12-20-1",
+      "jobId": "nelnet-intern-solar-data-operations-lincoln",
+      "company": "Nelnet",
+      "title": "Intern – Solar Data Operations",
+      "postedToDiscord": "2025-12-20T21:18:18.334Z",
+      "sourceDate": "2025-12-10T17:48:28.000Z",
+      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Solar-Data-Operations_R22098-1",
+      "discordThreadId": "1452047471386824725",
+      "instanceNumber": 1
+    },
+    {
+      "id": "meta-research-scientist-intern-computational-chemist-redmond-2025-12-20-1",
+      "jobId": "meta-research-scientist-intern-computational-chemist-redmond",
+      "company": "Meta",
+      "title": "Research Scientist Intern, Computational Chemist",
+      "postedToDiscord": "2025-12-20T21:18:21.853Z",
+      "sourceDate": "2025-12-10T17:47:50.000Z",
+      "sourceUrl": "https://www.metacareers.com/profile/job_details/2059739221232640",
+      "discordThreadId": "1452047485944991867",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 953,
+    "totalJobs": 956,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:04:50.292Z",
+      "date": "2025-12-20T21:18:21.854Z",
       "archived": 0
     }
   }
