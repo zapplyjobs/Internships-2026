@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Salesforce Developer Intern",
-      "employer_name": "Cohesity",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "Cohesity is the leader in AI-powered data security. Over 13,600 enterprise customers, including over 85 of the Fortune 100 and nearly 70% of the Global 500, rely on Cohesity to strengthen their resilience while providing Gen AI insights into their vast amounts of data. Formed from the combination of Cohesity with Veritas’ enterprise data protection business, the company’s solutions secure and protect data on-premises, in the cloud, and at the edge. Backed by NVIDIA, IBM, HPE, Cisco, AWS, Google Cloud, and others, Cohesity is headquartered in Santa Clara, CA, with offices around the globe.  We’ve been named a Leader by multiple analyst firms and have been globally recognized for Innovation, Product Strength, and Simplicity in Design , and our culture. Want to join the leader in AI-powered data security? As part of the global Enterprise Technology team, we work with the business leaders to identify key objectives and processes for critical ERP applications.  Our dynamic team focuses on delivering system solutions that are innovative, efficient, and scalable.  We are transforming operations to utilize AI solutions combining the power of NetSuite ERP with emerging AI technologies to deliver smarter, faster, and more adaptive solutions. Contribute as a core team member on multiple projects from requirements gathering through deployment.HOW YOU’LL SPEND YOUR TIME HERE: Support Salesforce development — building, configuring, and maintaining solutions that enhance business workflows.Collaborate with business users and technical teams to understand requirements and translate them into functional solutions.Develop and maintain integrations between Salesforce and other enterprise systems using REST/SOAP APIs, Platform Events, and middleware tools.Configure Salesforce objects, fields, workflows, triggers, validation rules, and custom layouts.Troubleshoot production issues and participate in test planning, execution, and validation within sandbox and production environments.Partner with project managers, architects, and functional teams across sales, pricing, order, and billing operations to ensure alignment with business goals.Gain exposure to AI-assisted productivity tools and participate in automating workflows and system processes.WE’D LOVE TO TALK TO YOU IF YOU HAVE MANY OF THE FOLLOWING:Pursuing a degree in Computer Science, Information Systems, or a related field.Currently pursuing a degree in computer science, Information Systems, or a related field.Basic knowledge of one or more of the following technologies: Java, JavaScript, Node.js, HTML, CSS, Apex, LWC, SQL, Git, REST/SOAP APIs.Strong problem-solving and analytical skills with a passion for learning new technologies.Excellent communication and teamwork abilities—you enjoy collaborating and sharing ideas.Curious, motivated, and humble—someone who takes initiative and enjoys tackling challenges.Demonstrated interest in using AI tools to enhance efficiency and automation.Pay- $40-43Data Privacy Notice for Job Candidates:For information on personal data processing, please see our Privacy Policy.Equal Employment Opportunity Employer (EEOE)Cohesity is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at 1-855-9COHESITY or talent@cohesity.com for assistance.In-Office ExpectationsCohesity employees who are within a reasonable commute (e.g. within a forty-five (45) minute average travel time) work out of our core offices 2-3 days a week of their choosing.Interested candidates based outside of the designated areas are welcome to apply, provided they have the right to work in the job location.",
-      "job_apply_link": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Salesforce-Developer-Intern_R02141",
-      "job_posted_at_datetime_utc": "2025-12-10T23:17:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cohesity-salesforce-developer-intern-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:17:12.307Z",
-    "postedAt": "2025-12-20T20:38:58.348Z"
-  },
-  {
-    "job": {
-      "job_title": "PhD Software Engineer Intern - Observability Data Platform",
-      "employer_name": "Uber",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Join Uber in this exciting opportunity.",
-      "job_apply_link": "https://www.uber.com/global/en/careers/list/151981/",
-      "job_posted_at_datetime_utc": "2025-12-10T23:17:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uber-phd-software-engineer-intern-observability-data-platform-seattle",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:17:12.307Z",
-    "postedAt": "2025-12-20T20:38:58.348Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 PhD Software Engineer Intern - Kafka - United States",
-      "employer_name": "Uber",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Join Uber in this exciting opportunity.",
-      "job_apply_link": "https://www.uber.com/global/en/careers/list/152031/",
-      "job_posted_at_datetime_utc": "2025-12-10T23:17:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uber-2026-phd-software-engineer-intern-kafka-united-states-sunnyvale",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:17:12.307Z",
-    "postedAt": "2025-12-20T20:38:58.348Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Full Stack/Application 2 - Co-op",
-      "employer_name": "Cisco",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Join Cisco in this exciting opportunity.",
-      "job_apply_link": "https://careers.cisco.com/global/en/job/2004337",
-      "job_posted_at_datetime_utc": "2025-12-10T23:16:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cisco-software-engineer-full-stack-application-2-co-op-san-jose",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:17:12.307Z",
-    "postedAt": "2025-12-20T20:38:58.348Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Westinghouse Electric Company",
-      "job_city": "Roseville",
-      "job_state": "MN",
-      "job_description": "Are you interested in being part of an innovative team that supports Westinghouse's mission to provide clean energy solutions? At Westinghouse, we recognize that our employees are our most valuable asset and we seek to identify, attract and recruit the most qualified talent while recognizing and encouraging the value of diversity in the global workplace. About the role: As a (Software Engineering intern, you will report to the Engineering Supervisor and be located at our Shoreview location. This is a paid, full-time onsite summer position. Key Responsibilities: Beta Test Software Applications: Participate in beta testing of new software developed in C#/.NET, providing feedback on functionality and performance Develop Tracking Tools: Design and implement a software application to manage firmware versions across projects Research Security Practices: Investigate and document computer hardening techniques to enhance system security and compliance Configure Virtual Environments: Manage virtual machine environments to support legacy operating systems (e.g., Windows XP, Windows 7, Windows 10) for testing and compatibility purposes Support Project Documentation: Assist project engineers in preparing, organizing, and maintaining technical documentation to ensure accuracy and compliance with project standards Qualifications: Pursuing a bachelor's degree in (computer science Minimum GPA of 3.0 Completed Sophomore year of college No relocation assistance provided We are committed to transparency and equity in all of our people practices. The hourly rate for this position, which is dependent upon experience, qualifications and skills, is estimated to be $22.69 to $27.50 per hour. #LI-Onsite, #LI-Engineering, #LI-Internship Why Westinghouse? Westinghouse Electric Company is the global nuclear energy industry's first choice for safe, clean, and efficient energy solutions. We enable our delivery of this vision by living our value system: Safety and Quality Integrity and Trust Customer Focus and Innovation Speed and Passion to Win Teamwork and Accountability While our Global Headquarters are located in Cranberry Township, PA, we have over 11,000 employees working at locations in 19 different countries. You can learn more by visiting http://www.westinghousenuclear.com. Westinghouse is an Equal Opportunity Employer including Veterans and Individuals with Disabilities Get connected with Westinghouse on social media: Twitter | Facebook | LinkedIn| YouTube",
-      "job_apply_link": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-10T23:13:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "westinghouse-electric-company-software-engineering-intern-roseville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T20:17:12.307Z",
-    "postedAt": "2025-12-20T20:38:58.348Z"
-  },
-  {
-    "job": {
       "job_title": "Software Development Intern Summer 2026",
       "employer_name": "Westinghouse Electric Company",
       "job_city": "Grove City",
@@ -554,10 +454,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:29:29.522Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T20:48:36.669Z"
   },
   {
     "job": {
@@ -574,10 +474,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:29:29.522Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T20:48:36.669Z"
   },
   {
     "job": {
@@ -594,10 +494,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:29:29.522Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T20:48:36.669Z"
   },
   {
     "job": {
@@ -614,10 +514,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:29:29.522Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T20:48:36.669Z"
   },
   {
     "job": {
@@ -634,10 +534,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T20:29:29.522Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T20:48:36.669Z"
   },
   {
     "job": {
@@ -745,16 +645,18 @@
       "employer_name": "CommScope",
       "job_city": "Hickory",
       "job_state": "NC",
-      "job_description": "Join CommScope in this exciting opportunity.",
+      "job_description": "Internship Programs at CommScope As CommScope designs and builds connectivity for the world's most advanced networks, we're building something equally as important: careers for forward-thinking, innovated college students like you! Our Summer Internship Program is designed to provide you with an invaluable work experience through meaningful projects that will help you grow and develop both personally and professionally. Throughout the 12-week program, you will collaborate with some of the best in the industry, receive on-the-job training, participating in professional development workshops, executive speaker series, and other networking and social events! How You’ll Help Us Connect the World As an Enablement and Development Intern, you will be responsible for developing a Customer Proposal Template for the Data Center Team. You will work closely with Marketing, Product Management, Sales, Human Resources, and Enablement teams to develop this content. This role will be based in Shakopee, MN. You Will Make an Impact By • Enable us to submit timely, high-quality proposals • Ensure consistent and accurate proposals • Help win new business and strengthen client relationships Required Qualifications for Consideration • Actively pursuing a bachelor’s (upcoming sophomores, juniors & seniors) or master’s degree in English, Marketing or Journalism from an accredited university • Proven strong academic performer with a minimum GPA of 3.0 • Strong experience with Microsoft Word • Must possess unrestricted work authorization and not require future sponsorship • Military-Affiliated candidates encouraged to apply (Veterans, Military Spouses, and Guard/Reservists) You Will Excite Us If You • Experience using Word macros (VBA) and Building Blocks to automatically assemble a proposal • Written stories or articles in college or for work • Familiar with using Microsoft Copilot (or other platform such as Grammarly) to assist in writing • Demonstrate strong leadership, interpersonal and communication skills • Show innovation through unique ideas and propose them to the team • Able to handle multiple assignments simultaneously and effectively meet deadlines • Strategic and creative thinking; distinguished written and verbal communications skills • Strong initiative; a self-starter with analytical skills, attention to detail, problem solving and decision-making abilities • Experience working in a fast-paced environment and flexible to changing priorities What Happens After You Apply Learn how to prepare yourself for the next steps in our hiring process by visiting https://careers.commscope.com/how-we-hire. Why CommScope CommScope is on a quest to deliver connectivity that empowers how we live, work, and learn. Our employees push the boundaries of communications technology that enables game-changing discoveries like 5G, the Internet of Things, and gigabit speeds for everyone, everywhere. With our unmatched expertise in copper, fiber, and wireless infrastructure, our global clients rely on us to outperform today and be ready for the needs of tomorrow. If you want to grow your career alongside bright, passionate, and caring people who strive to create what's next...come connect to your future at CommScope.CommScope is an Equal Opportunity Employer (EEO), including people with disabilities and veterans. If you are seeking an accommodation for the application or interview process, please contact us to submit your request at talentacquisition@commscope.com. You can also learn more about CommScope’s accommodation process and EEO policy at careers.commscope.com/eeo",
       "job_apply_link": "https://jobs.commscope.com/job/Claremont-Analytics-Intern-Nort/1348738600/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-10T23:04:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "commscope-analytics-intern-hickory"
+      "id": "commscope-analytics-intern-hickory",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T20:48:03.016Z",
     "postedAt": null
   },
   {
@@ -768,11 +670,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T18:14:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "disney-software-engineering-ai-intern-glendale"
+      "id": "disney-software-engineering-ai-intern-glendale",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T20:48:03.016Z",
     "postedAt": null
   },
   {
@@ -786,11 +690,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T17:59:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "t-mobile-ai-product-innovation-intern-bellevue"
+      "id": "t-mobile-ai-product-innovation-intern-bellevue",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T20:48:03.016Z",
     "postedAt": null
   },
   {
@@ -804,11 +710,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T17:58:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "t-mobile-ai-product-strategy-internship-bellevue"
+      "id": "t-mobile-ai-product-strategy-internship-bellevue",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T20:48:03.016Z",
     "postedAt": null
   },
   {
@@ -817,16 +725,18 @@
       "employer_name": "Genentech",
       "job_city": "San Francisco",
       "job_state": "CA",
-      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_description": "2026 Summer Intern - Quantitative Systems PharmacologyDepartment SummaryThis intern position is in the Translational Pharmacokinetics (PK) & Pharmacodynamics (PD) or tPKPD Department within Development Sciences. The tPKPD department applies preclinical models (in silico, in vitro or in vivo) to determine the pharmacokinetics (what the body does to the drug) and/or pharmacodynamics (what the drug does to the body) of biotherapeutics. The information obtained from such work is often used to help select lead molecules, optimize dosing regimens and understand the PK behavior/metabolic fate of different molecular designs as we help advance molecules through stages of research and into early clinical development. The work within the tPKPD department spans across a wide range of disease areas, including oncology, immunology, ophthalmology, infectious disease and neuroscience. This internship position is located in South San Francisco, on-site.  The OpportunityConduct systematic literature review to quantify the effects of liquid malignancies on bone marrow hematopoiesis and collate necessary PK and clinical cytopenia time-course data.Expand the existing hematopoietic toxicity QSP model to incorporate disease-specific mechanisms.Calibrate and validate the expanded model using a combination of internal data and curated literature data for relevant drugs.Develop proficiency in MATLAB/Simbiology.Prepare a final presentation summarizing the project methodology and findings.Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June 2026.A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are (Required) Required Education: You meet one of the following criteria:Must be pursuing a Master's Degree (enrolled student).Must be pursuing a PhD (enrolled student).Required Majors: Biomedical Engineering, Applied Math, Computer Science or other Pharmaceutical Sciences fields.Required Skills:2+ years of hands-on experience with MatLab and/or other modeling platform (R, Python, etc.).Strong interpersonal and oral/written communication skills with high attention to detail.Status: Applicants must be currently enrolled in an academic program.Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Experience with computational modeling of biological systems.Experience with pharmacokinetics and pharmacodynamics principles and/or quantitative systems pharmacology (QSP).Some experience in MatLab Simbiology is a plus.Relocation benefits are not available for this job posting.  The expected salary range for this position based on the primary location of California is $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits. Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
       "job_apply_link": "https://roche.wd3.myworkdayjobs.com/en-US/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Quantitative-Systems-Pharmacology_202512-131165",
       "job_posted_at_datetime_utc": "2025-12-10T17:55:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-quantitative-systems-pharmacology-san-francisco"
+      "id": "genentech-quantitative-systems-pharmacology-san-francisco",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T20:48:03.016Z",
     "postedAt": null
   },
   {
