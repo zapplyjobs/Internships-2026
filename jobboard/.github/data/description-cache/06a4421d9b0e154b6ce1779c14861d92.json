@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556621800",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Research and Analysis: Conduct thorough research on emerging trends in Large Language Model (LLM), prompt engineering, multimodal foundation model. Documentation and Reporting: Prepare detailed documentation of simulations, methodologies, and findings. Present results and insights to team members and stakeholders. Innovation and Problem-Solving: Identify challenges and bottlenecks in AI infrastructure and propose innovative solutions. Currently enrolled in a master or PhD program in Computer Science, Electrical Engineering, Mathematics or a related field. Ability to work independently and collaboratively in a dynamic and vibrant research environment. Willingness to embrace knowledge/technique outside your field of research. Solid programming skill in Python, PyTorch and experience conducting experiments and writing papers. Experience in LLM pre-training, post-training and inference. Reinforcement Learning experiences and frameworks (like VeRL, rLLM) Relevant publication such as CVPR, ACL, ICML, ICCV, ECCV, NeurIPS, ICLR, EMNLP etc.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556621800",
+      "fetchedAt": "2025-12-20T21:53:00.555Z"
+    }
+  },
+  "cachedAt": 1766267580555
+}
