@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T22:37:58.093Z",
+  "lastUpdated": "2025-12-20T22:46:08.651Z",
   "jobs": [
-    {
-      "id": "omnitech-software-engineering-intern-sioux-falls-2025-12-13-1",
-      "jobId": "omnitech-software-engineering-intern-sioux-falls",
-      "company": "Omnitech",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-13T22:40:09.906Z",
-      "sourceDate": "2025-09-25T06:12:23.000Z",
-      "sourceUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2028834",
-      "discordThreadId": "1449531364574761081",
-      "instanceNumber": 1
-    },
     {
       "id": "clarios-manufacturing-quality-intern-multiple-teams-florence-2025-12-13-1",
       "jobId": "clarios-manufacturing-quality-intern-multiple-teams-florence",
@@ -10880,14 +10869,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628860",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-sw-hw-co-design-hillsboro-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-sw-hw-co-design-hillsboro",
+      "company": "Microsoft",
+      "title": "Research Intern - AI SW/HW Co-design",
+      "postedToDiscord": "2025-12-20T22:46:04.984Z",
+      "sourceDate": "2025-12-10T13:04:40.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628845",
+      "discordThreadId": "1452069561364123649",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-compiler-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-compiler-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Compiler",
+      "postedToDiscord": "2025-12-20T22:46:08.626Z",
+      "sourceDate": "2025-12-10T13:04:37.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628773",
+      "discordThreadId": "1452069576325201986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-advanced-memory-systems-washington-2025-12-20-1",
+      "jobId": "microsoft-research-intern-advanced-memory-systems-washington",
+      "company": "Microsoft",
+      "title": "Research Intern - Advanced Memory Systems",
+      "postedToDiscord": "2025-12-20T22:46:08.636Z",
+      "sourceDate": "2025-12-10T13:04:35.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628873",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-microsoft-coreai-speech-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-microsoft-coreai-speech-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Microsoft Coreai Speech",
+      "postedToDiscord": "2025-12-20T22:46:08.643Z",
+      "sourceDate": "2025-12-10T13:04:22.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628916",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-model-optimization-and-hw-acceleration-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-model-optimization-and-hw-acceleration-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Model Optimization and HW Acceleration",
+      "postedToDiscord": "2025-12-20T22:46:08.651Z",
+      "sourceDate": "2025-12-10T13:04:19.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556628875",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 989,
+    "totalJobs": 993,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T22:37:58.093Z",
+      "date": "2025-12-20T22:46:08.651Z",
       "archived": 0
     }
   }

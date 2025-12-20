@@ -441,106 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Research Intern - AI Inference Architecture",
-      "employer_name": "Microsoft",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science, Computer Engineering or a related STEM field. At least 1 year of experience working with LLM inference software stack and systems. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Familiarity with computer architecture and system performance modeling. Experience with PyTorch, CUDA, and parallel programming. Demonstrated ability to develop original research agendas. Ability to think unconventionally and derive creative, innovative solutions. Proficient communication skills, both written and verbal. Proven interpersonal skills with the ability to work effectively across groups and cultures.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556631736",
-      "job_posted_at_datetime_utc": "2025-12-10T13:05:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-inference-architecture-cambridge",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T22:16:30.830Z",
-    "postedAt": "2025-12-20T22:38:01.105Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern",
-      "employer_name": "Microsoft",
-      "job_city": "Kitsap County",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Conducting hands-on research into systems for memory and orchestration of LLMs and multimodal models. Investigating new embedding techniques, including graph embeddings and methods that measure changes over time. Developing advanced retrieval augmented generation systems to enhance LLM capabilities. Collaborating with interdisciplinary teams of researchers and engineers on challenging and impactful projects. Presenting research findings and participating in research discussions. Currently enrolled in a PhD program in Computer Science, Machine Learning, Artificial Intelligence, or a related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Experience with Python ecosystem Experience with LLMs and prompt engineering Experience with agentic systems and workflows.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556631728",
-      "job_posted_at_datetime_utc": "2025-12-10T13:05:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-kitsap-county",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T22:16:30.830Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - AI Agents",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Experience in working with large language models (LLMs) and small language models (SLMs) is required. At least 1 year of research experience with Large Language Model or Small Language Models Currently enrolled in a PhD or Master program in Computer Science or a related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Research experience or publication in computer use agent, UI grounding, tool use, orchestration, and reinforcement learning Publications in AI/ML conferences and journals Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556621776",
-      "job_posted_at_datetime_utc": "2025-12-10T13:05:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-agents-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T22:16:30.830Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Multimodal Language Models",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Responsibilities include prototype implementations, designing experiments, analyzing results, and contributing to research that pushes the boundaries of efficiency in AI systems. Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Accepted or currently enrolled in a PhD program in Computer Science or related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Foundation in machine learning and deep learning, with expertise in areas such as multimodal language models, transformer architecture, efficient model design, compression, and quantization. Proficiency in modern deep learning frameworks (e.g., PyTorch, DeepSpeed) for scalable model development and optimization. Proven ability to define and execute original research agendas, demonstrating creativity and technical rigor. Motivation to publish in top-tier academic venues, showcasing impactful contributions to the research community.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628867",
-      "job_posted_at_datetime_utc": "2025-12-10T13:04:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-multimodal-language-models-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T22:16:30.830Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Algorithms Group: Theory",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science, Mathematics, Electrical Engineering, or a related STEM field. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Publications at top theoretical CS or ML conferences (STOC, FOCS, SODA, NeurIPS, ICML, ICLR, etc.) or top journals.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556628860",
-      "job_posted_at_datetime_utc": "2025-12-10T13:04:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-algorithms-group-theory-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T22:16:30.830Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Research Intern - AI SW/HW Co-design",
       "employer_name": "Microsoft",
       "job_city": "Hillsboro",
@@ -554,10 +454,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T22:28:42.066Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T22:46:11.662Z"
   },
   {
     "job": {
@@ -574,10 +474,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T22:28:42.066Z",
-    "postedAt": null
+    "postedAt": "2025-12-20T22:46:11.662Z"
   },
   {
     "job": {
@@ -745,16 +645,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. This summer we will explore critical opportunities for adapting and designing Artificial Intelligence (AI) systems to better serve the needs of a diversity of religious communities through model evaluations, product design, customer and employee research, responsible AI practices and more. Our Research Intern will have a range of potential projects to choose from within this domain and will be empowered to shape the work in the direction of their passion and external studies. The Research Internship will combine research and practice and involve collaboration with a range of internal and external stakeholders and aim to catalyze the development of a new research focus in this area. Accepted or currently enrolled in a PhD program in Computer Science, social sciences, or a related STEM. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Academic study or personal background related to religion, faith, theology or the social scientific study thereof. Experience in entrepreneurial, multistakeholder or multifunctional settings. Demonstrated interest in and dedication to issues of religious inclusion, liberty and participation in civic life. Experience translating abstract, ethical or philosophical principles into concrete, quantifiable metrics. Experience with multiple emerging technologies, such as, but not limited to, Generative AI, Agentic Systems. Demonstrated ability in prototyping with modern AI/ML and development platforms.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556631718",
       "job_posted_at_datetime_utc": "2025-12-10T13:01:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-technology-for-religious-empowerment-redmond"
+      "id": "microsoft-research-intern-technology-for-religious-empowerment-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T22:45:52.364Z",
     "postedAt": null
   },
   {
@@ -763,16 +665,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science or a related STEM field. At least 1 year of experience (coursework or project) with Machine Learning and Deep Learning. At least 2 years of experience with mathematical modelling for practical problems. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Experience in deep learning foundations, including theories, models, and algorithms. Experience with sequence modeling, Large Language Models (LLM), multimodal intelligence, Large Multimodal Models (LMM), and their applications to natural language processing and computer vision tasks. Experience with neuro-symbolic reasoning and neural program synthesis.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556637090",
       "job_posted_at_datetime_utc": "2025-12-10T12:59:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-deep-learning-group-redmond"
+      "id": "microsoft-research-intern-deep-learning-group-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T22:45:52.364Z",
     "postedAt": null
   },
   {
@@ -781,16 +685,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a master&#39;s, or PhD program in Computer Science, Electrical Engineering, or a related STEM field. Completed at least 2 academic courses or projects involving machine learning systems. At least 3 years of experience programming in Python, C++, or a similar systems-oriented language through work, projects, or research. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Demonstrable Contribution to open-source ML framework or ML systems software. Deep and strong understanding of transformer-based model architectures, including attention mechanisms, KV cache behavior, and common training and inference bottlenecks. Experience with modern ML frameworks and runtimes such as PyTorch, Hugging Face Transformers, SGLang, vLLM, or TensorRT-LLM. Experience with GPU or accelerator programming using CUDA, Triton, or similar tools, and familiarity with profiling and performance analysis. Familiarity with benchmarking and performance profiling tools for ML workloads. Working knowledge of low-precision numeric, quantization methods, or hardware-software co-design considerations for large-scale model efficiency is a plus. Coursework, research, or project experience in areas such as ML systems, model optimization, kernel development, or numerical computing. Proficient analytical and problem-solving skills, with an interest in ML systems and computational performance.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556637096",
       "job_posted_at_datetime_utc": "2025-12-10T12:59:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-ai-ml-numerics-efficiency-redmond"
+      "id": "microsoft-research-intern-ai-ml-numerics-efficiency-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T22:45:52.364Z",
     "postedAt": null
   },
   {
@@ -799,16 +705,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Applies engineering principles and AI techniques to solve complex problems through sound and creative engineering. Works with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods, emerging AI and machine learning techniques and incorporates them into work processes. Seeks feedback and applies internal or industry best practices to improve technical solutions. Demonstrates skill in time management and completing software projects in a cooperative team environment. Reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Enrolled in a full time bachelor&#39;s or master&#39;s program in Computer Science, Engineering, or related field during the academic term immediately before the internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to submit an official or unofficial academic transcript as part of the evaluation process, if selected for interviews. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms and AI/machine learning concepts. Experience with AI/ML projects, such as developing machine learning models, working with large datasets, or implementing AI solutions in real-world applications. Familiarity with AI frameworks and libraries like TensorFlow, PyTorch, or scikit-learn.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556631195",
       "job_posted_at_datetime_utc": "2025-12-10T12:59:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-software-engineer-ai-ml-intern-opportunities-mai-for-university-students-redmond"
+      "id": "microsoft-software-engineer-ai-ml-intern-opportunities-mai-for-university-students-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T22:45:52.364Z",
     "postedAt": null
   },
   {
@@ -822,11 +730,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T12:59:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-applied-sciences-intern-redmond"
+      "id": "microsoft-applied-sciences-intern-redmond",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-20T22:45:52.364Z",
     "postedAt": null
   },
   {
