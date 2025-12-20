@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:48:33.655Z",
+  "lastUpdated": "2025-12-20T20:53:41.920Z",
   "jobs": [
-    {
-      "id": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago-2025-12-13-1",
-      "jobId": "ahold-delhaize-usa-data-engineer-ai-co-op-chicago",
-      "company": "Ahold Delhaize USA",
-      "title": "Data Engineer (AI) Co-op",
-      "postedToDiscord": "2025-12-13T20:48:34.749Z",
-      "sourceDate": "2025-09-26T07:07:38.000Z",
-      "sourceUrl": "https://aholddelhaizeusa.careerswithus.com/job/Co-Ops/Data-Engineer-(AI)-Co-op-Fall-2026/Chicago-IL/ADUSArms/455368_external_USA-IL-Chicago",
-      "discordThreadId": "1449503282123771957",
-      "instanceNumber": 1
-    },
     {
       "id": "general-dynamics-information-technology-artificial-intelligence-machine-learning-associate-internship-falls-church-2025-12-13-1",
       "jobId": "general-dynamics-information-technology-artificial-intelligence-machine-learning-associate-internship-falls-church",
@@ -10396,14 +10385,69 @@
       "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Intern-Summer-2026-NC/1322471100/?ats=successfactors",
       "discordThreadId": "1452039985288056944",
       "instanceNumber": 1
+    },
+    {
+      "id": "commscope-intern-software-engineer-shakopee-2025-12-20-1",
+      "jobId": "commscope-intern-software-engineer-shakopee",
+      "company": "CommScope",
+      "title": "Intern-Software Engineer",
+      "postedToDiscord": "2025-12-20T20:53:21.595Z",
+      "sourceDate": "2025-12-10T23:04:54.000Z",
+      "sourceUrl": "https://jobs.commscope.com/job/Shakopee-Intern-Software-Engineer-Minn/1346617800/?ats=successfactors",
+      "discordThreadId": "1452041186977255514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "commscope-intern-software-developer-shakopee-2025-12-20-1",
+      "jobId": "commscope-intern-software-developer-shakopee",
+      "company": "CommScope",
+      "title": "Intern Software Developer",
+      "postedToDiscord": "2025-12-20T20:53:25.081Z",
+      "sourceDate": "2025-12-10T23:04:51.000Z",
+      "sourceUrl": "https://jobs.commscope.com/job/Shakopee-Intern,-Software-Developer-Minn/1348768800/?ats=successfactors",
+      "discordThreadId": "1452041208108024112",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-sales-data-analyst-intern-summer-2026-new-stanton-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-sales-data-analyst-intern-summer-2026-new-stanton",
+      "company": "Westinghouse Electric Company",
+      "title": "Sales Data Analyst Intern Summer 2026",
+      "postedToDiscord": "2025-12-20T20:53:31.691Z",
+      "sourceDate": "2025-12-10T23:12:09.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/New-Stanton-Sales-Data-Analyst-Intern-Summer-2026-PA-15672/1338047300/?ats=successfactors",
+      "discordThreadId": "1452041235442307297",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-genai-intern-berkeley-heights-2025-12-20-1",
+      "jobId": "nokia-genai-intern-berkeley-heights",
+      "company": "Nokia",
+      "title": "GenAI Intern",
+      "postedToDiscord": "2025-12-20T20:53:38.152Z",
+      "sourceDate": "2025-12-10T23:07:01.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27970",
+      "discordThreadId": "1452041263409791139",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-decentralized-ai-intern-ai-berkeley-heights-2025-12-20-1",
+      "jobId": "nokia-decentralized-ai-intern-ai-berkeley-heights",
+      "company": "Nokia",
+      "title": "Decentralized AI Intern - AI",
+      "postedToDiscord": "2025-12-20T20:53:41.919Z",
+      "sourceDate": "2025-12-10T23:06:51.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28483",
+      "discordThreadId": "1452041278010167358",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 945,
+    "totalJobs": 949,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:48:33.655Z",
+      "date": "2025-12-20T20:53:41.920Z",
       "archived": 0
     }
   }
