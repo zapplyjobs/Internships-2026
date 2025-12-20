@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T19:44:04.528Z",
+  "lastUpdated": "2025-12-20T19:53:47.443Z",
   "jobs": [
-    {
-      "id": "american-century-investments-it-data-intern-engineering-analytics-and-ai-ml-kansas-city-2025-12-13-1",
-      "jobId": "american-century-investments-it-data-intern-engineering-analytics-and-ai-ml-kansas-city",
-      "company": "American Century Investments",
-      "title": "IT Data Intern - Engineering - Analytics and AI/ML",
-      "postedToDiscord": "2025-12-13T19:53:44.098Z",
-      "sourceDate": "2025-09-26T10:11:27.000Z",
-      "sourceUrl": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/IT-Data-Intern--Engineering--Analytics-and-AI-ML-_R0005430",
-      "discordThreadId": "1449489480246624307",
-      "instanceNumber": 1
-    },
     {
       "id": "veritiv-corporation-business-analytics-intern-advanced-analytics-sandy-springs-2025-12-13-1",
       "jobId": "veritiv-corporation-business-analytics-intern-advanced-analytics-sandy-springs",
@@ -10099,15 +10088,82 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---BRAID-DELTA-Lab_202512-131308",
       "discordThreadId": "1452023756989010061",
       "instanceNumber": 1
+    },
+    {
+      "id": "dow-chemical-company-local-college-co-op-research-development-bay-city-2025-12-20-1",
+      "jobId": "dow-chemical-company-local-college-co-op-research-development-bay-city",
+      "company": "Dow Chemical Company",
+      "title": "Local College Co-op - Research & Development",
+      "postedToDiscord": "2025-12-20T19:53:23.529Z",
+      "sourceDate": "2025-12-10T23:46:11.000Z",
+      "sourceUrl": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Auburn-MI-USA/Local-College-Co-op---Research---Development_R2062854",
+      "discordThreadId": "1452026102003269715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-computational-sciences-center-of-excellence-san-bruno-2025-12-20-1",
+      "jobId": "genentech-intern-computational-sciences-center-of-excellence-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Computational Sciences Center of Excellence",
+      "postedToDiscord": "2025-12-20T19:53:30.282Z",
+      "sourceDate": "2025-12-10T23:50:17.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence---Agentic-tool-for-Optical-Pooled-Screens_202512-131335",
+      "discordThreadId": "1452026129761177630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kensho-machine-learning-intern-summer-2026-cambridge-2025-12-20-1",
+      "jobId": "kensho-machine-learning-intern-summer-2026-cambridge",
+      "company": "Kensho",
+      "title": "Machine Learning Intern - Summer 2026",
+      "postedToDiscord": "2025-12-20T19:53:33.684Z",
+      "sourceDate": "2025-12-10T23:37:18.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319673-1",
+      "discordThreadId": "1452026145431093462",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-bank-data-science-intern-summer-2026-san-diego-2025-12-20-1",
+      "jobId": "axos-bank-data-science-intern-summer-2026-san-diego",
+      "company": "Axos Bank",
+      "title": "Data Science Intern - Summer 2026",
+      "postedToDiscord": "2025-12-20T19:53:40.391Z",
+      "sourceDate": "2025-12-10T23:47:10.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Science-Intern---Summer-2026_JR3587",
+      "discordThreadId": "1452026171926777879",
+      "instanceNumber": 1
+    },
+    {
+      "id": "biomed-realty-information-systems-intern-information-systems-san-diego-2025-12-20-1",
+      "jobId": "biomed-realty-information-systems-intern-information-systems-san-diego",
+      "company": "BioMed Realty",
+      "title": "Information Systems Intern - Information Systems",
+      "postedToDiscord": "2025-12-20T19:53:43.821Z",
+      "sourceDate": "2025-12-10T23:33:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/biomedrealty/jobs/4624683006",
+      "discordThreadId": "1452026187718201544",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vera-institute-of-justice-data-engineering-intern-research-central-new-orleans-2025-12-20-1",
+      "jobId": "vera-institute-of-justice-data-engineering-intern-research-central-new-orleans",
+      "company": "Vera Institute of Justice",
+      "title": "Data Engineering Intern - Research Central",
+      "postedToDiscord": "2025-12-20T19:53:47.442Z",
+      "sourceDate": "2025-12-10T23:33:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4638581005",
+      "discordThreadId": "1452026202092077086",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 918,
+    "totalJobs": 923,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T19:44:04.528Z",
-      "archived": 0
+      "date": "2025-12-20T19:53:47.443Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
