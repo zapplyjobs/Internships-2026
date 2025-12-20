@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T20:03:56.965Z",
+  "lastUpdated": "2025-12-20T20:17:41.967Z",
   "jobs": [
-    {
-      "id": "veritiv-corporation-business-analytics-intern-advanced-analytics-sandy-springs-2025-12-13-1",
-      "jobId": "veritiv-corporation-business-analytics-intern-advanced-analytics-sandy-springs",
-      "company": "Veritiv Corporation",
-      "title": "Business Analytics Intern - Advanced Analytics",
-      "postedToDiscord": "2025-12-13T20:05:00.943Z",
-      "sourceDate": "2025-09-26T07:41:05.000Z",
-      "sourceUrl": "https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Business-Analytics-Intern_R29857",
-      "discordThreadId": "1449492319693701300",
-      "instanceNumber": 1
-    },
     {
       "id": "adobe-machine-learning-engineer-intern-ai-ml-seattle-2025-12-13-1",
       "jobId": "adobe-machine-learning-engineer-intern-ai-ml-seattle",
@@ -10220,14 +10209,69 @@
       "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/URA-Fermilab--Undergraduate-Research-Summer-Internship--FURSI-_R_009265",
       "discordThreadId": "1452028759057236028",
       "instanceNumber": 1
+    },
+    {
+      "id": "zurich-insurance-application-delivery-intern-hoffman-estates-2025-12-20-1",
+      "jobId": "zurich-insurance-application-delivery-intern-hoffman-estates",
+      "company": "Zurich Insurance",
+      "title": "Application Delivery Intern",
+      "postedToDiscord": "2025-12-20T20:17:21.308Z",
+      "sourceDate": "2025-12-10T23:29:42.000Z",
+      "sourceUrl": "https://www.careers.zurich.com/job/Schaumburg-Application-Delivery-Internship-(Summer-2026)-IL-60159/1347928957/?ats=successfactors",
+      "discordThreadId": "1452032132535943239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-nuclear-core-design-intern-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-nuclear-core-design-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Nuclear Core Design Intern",
+      "postedToDiscord": "2025-12-20T20:17:28.123Z",
+      "sourceDate": "2025-12-10T23:29:58.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Core-Design-Intern-Summer-2026-NC/1326744400/?ats=successfactors",
+      "discordThreadId": "1452032160319012964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-document-management-solutions-intern-summer-2026-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-document-management-solutions-intern-summer-2026-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Document Management Solutions Intern Summer 2026",
+      "postedToDiscord": "2025-12-20T20:17:32.065Z",
+      "sourceDate": "2025-12-10T23:29:57.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Document-Management-Solutions-Intern-Summer-2026-NC/1338015400/?ats=successfactors",
+      "discordThreadId": "1452032176110571605",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-risk-analysis-co-op-2026-grove-city-2025-12-20-1",
+      "jobId": "westinghouse-electric-company-risk-analysis-co-op-2026-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Risk Analysis Co-Op 2026",
+      "postedToDiscord": "2025-12-20T20:17:35.600Z",
+      "sourceDate": "2025-12-10T23:29:50.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Risk-Analysis-Co-Op-2026-NC/1327729500/?ats=successfactors",
+      "discordThreadId": "1452032193152028777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-intern-aftersales-data-analyst-kirkland-2025-12-20-1",
+      "jobId": "paccar-intern-aftersales-data-analyst-kirkland",
+      "company": "Paccar",
+      "title": "Intern - Aftersales Data Analyst",
+      "postedToDiscord": "2025-12-20T20:17:41.967Z",
+      "sourceDate": "2025-12-10T23:28:40.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-AfterSales-Data-Analyst-WA-98033/1275251101/?ats=successfactors",
+      "discordThreadId": "1452032219827929271",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 929,
+    "totalJobs": 933,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T20:03:56.965Z",
+      "date": "2025-12-20T20:17:41.967Z",
       "archived": 0
     }
   }
