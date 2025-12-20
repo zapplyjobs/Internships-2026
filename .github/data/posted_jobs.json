@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-20T21:43:49.418Z",
+  "lastUpdated": "2025-12-20T21:53:27.558Z",
   "jobs": [
-    {
-      "id": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto-2025-12-13-1",
-      "jobId": "pinterest-phd-machine-learning-intern-2026-multiple-teams-palo-alto",
-      "company": "Pinterest",
-      "title": "PhD Machine Learning Intern 2026 - Multiple Teams",
-      "postedToDiscord": "2025-12-13T21:44:22.421Z",
-      "sourceDate": "2025-09-25T12:42:55.000Z",
-      "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7211004",
-      "discordThreadId": "1449517323919818794",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pinterest-machine-learning-intern-multiple-teams-palo-alto-2025-12-13-1",
-      "jobId": "pinterest-machine-learning-intern-multiple-teams-palo-alto",
-      "company": "Pinterest",
-      "title": "Machine Learning Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-13T21:53:16.822Z",
-      "sourceDate": "2025-09-25T11:41:07.000Z",
-      "sourceUrl": "https://www.pinterestcareers.com/job-form?gh_jid=7210896",
-      "discordThreadId": "1449519565699682463",
-      "instanceNumber": 1
-    },
     {
       "id": "ge-vernova-power-system-intern-ai-ml-bellevue-2025-12-13-1",
       "jobId": "ge-vernova-power-system-intern-ai-ml-bellevue",
@@ -10660,14 +10638,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556636970",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "codal-frontend-software-engineer-intern-chicago-2025-12-20-1",
+      "jobId": "codal-frontend-software-engineer-intern-chicago",
+      "company": "Codal",
+      "title": "Frontend Software Engineer – Intern",
+      "postedToDiscord": "2025-12-20T21:53:16.981Z",
+      "sourceDate": "2025-12-10T13:20:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/codalinc/jobs/5022727008",
+      "discordThreadId": "1452056273188028419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-frameworks-network-systems-and-tools-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-frameworks-network-systems-and-tools-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Frameworks - Network Systems and Tools",
+      "postedToDiscord": "2025-12-20T21:53:20.363Z",
+      "sourceDate": "2025-12-10T13:18:57.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556639524",
+      "discordThreadId": "1452056288581259304",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-environmental-policy-public-policy-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-environmental-policy-public-policy-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Environmental Policy/Public Policy",
+      "postedToDiscord": "2025-12-20T21:53:23.934Z",
+      "sourceDate": "2025-12-10T13:18:56.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556639557",
+      "discordThreadId": "1452056302892089406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-foundational-models-agents-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-foundational-models-agents-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Foundational Models & Agents",
+      "postedToDiscord": "2025-12-20T21:53:23.944Z",
+      "sourceDate": "2025-12-10T13:10:34.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621543",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-frontiers-reasoning-agentic-models-redmond-2025-12-20-1",
+      "jobId": "microsoft-research-intern-ai-frontiers-reasoning-agentic-models-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Frontiers - Reasoning & Agentic Models",
+      "postedToDiscord": "2025-12-20T21:53:27.557Z",
+      "sourceDate": "2025-12-10T13:10:31.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556621824",
+      "discordThreadId": "1452056317542793380",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 969,
+    "totalJobs": 972,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-20T21:43:49.418Z",
+      "date": "2025-12-20T21:53:27.558Z",
       "archived": 0
     }
   }
