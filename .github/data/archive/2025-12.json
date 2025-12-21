@@ -5575,5 +5575,104 @@
     "sourceUrl": "https://careers-sig.icims.com/jobs/9400/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1449876679332986911",
     "instanceNumber": 1
+  },
+  {
+    "id": "citizens-financial-group-data-analytics-graduate-internship-coralville-2025-12-14-1",
+    "jobId": "citizens-financial-group-data-analytics-graduate-internship-coralville",
+    "company": "Citizens Financial Group",
+    "title": "Data Analytics Graduate Internship",
+    "postedToDiscord": "2025-12-14T21:41:44.329Z",
+    "sourceDate": "2025-09-10T22:40:08.000Z",
+    "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41914",
+    "discordThreadId": "1449879048602779681",
+    "instanceNumber": 1
+  },
+  {
+    "id": "western-southern-financial-group-business-intelligence-intern-cincinnati-2025-12-14-1",
+    "jobId": "western-southern-financial-group-business-intelligence-intern-cincinnati",
+    "company": "Western & Southern Financial Group",
+    "title": "Business Intelligence Intern",
+    "postedToDiscord": "2025-12-14T21:41:46.076Z",
+    "sourceDate": "2025-09-10T22:32:36.000Z",
+    "sourceUrl": "https://careers-westernsouthern.icims.com/jobs/23639/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449879056240611338",
+    "instanceNumber": 1
+  },
+  {
+    "id": "citizens-financial-group-data-management-graduate-internship-coralville-2025-12-14-1",
+    "jobId": "citizens-financial-group-data-management-graduate-internship-coralville",
+    "company": "Citizens Financial Group",
+    "title": "Data Management Graduate Internship",
+    "postedToDiscord": "2025-12-14T21:41:47.814Z",
+    "sourceDate": "2025-09-10T22:27:12.000Z",
+    "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41915",
+    "discordThreadId": "1449879063572512961",
+    "instanceNumber": 1
+  },
+  {
+    "id": "oshkosh-data-scientist-intern-digital-technology-hagerstown-2025-12-14-1",
+    "jobId": "oshkosh-data-scientist-intern-digital-technology-hagerstown",
+    "company": "Oshkosh",
+    "title": "Data Scientist Intern - Digital Technology",
+    "postedToDiscord": "2025-12-14T21:41:49.549Z",
+    "sourceDate": "2025-09-10T22:20:01.000Z",
+    "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Data-Scientist-Intern---Digital-Technology_R39792",
+    "discordThreadId": "1449879070853824625",
+    "instanceNumber": 1
+  },
+  {
+    "id": "citizens-financial-group-data-science-graduate-internship-coralville-2025-12-14-1",
+    "jobId": "citizens-financial-group-data-science-graduate-internship-coralville",
+    "company": "Citizens Financial Group",
+    "title": "Data Science Graduate Internship",
+    "postedToDiscord": "2025-12-14T21:41:54.323Z",
+    "sourceDate": "2025-09-10T22:40:06.000Z",
+    "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41917",
+    "discordThreadId": "1449879090843881695",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lennox-international-ai-engineering-intern-richardson-2025-12-14-1",
+    "jobId": "lennox-international-ai-engineering-intern-richardson",
+    "company": "Lennox International",
+    "title": "AI Engineering Intern",
+    "postedToDiscord": "2025-12-14T21:41:56.105Z",
+    "sourceDate": "2025-09-10T22:30:38.000Z",
+    "sourceUrl": "https://uscareers-lennox.icims.com/jobs/49999/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449879098238173264",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-technologies-r-d-software-engineering-internship-calabasas-2025-12-14-1",
+    "jobId": "keysight-technologies-r-d-software-engineering-internship-calabasas",
+    "company": "Keysight Technologies",
+    "title": "R&D Software Engineering Internship",
+    "postedToDiscord": "2025-12-14T21:42:02.853Z",
+    "sourceDate": "2025-09-10T22:29:07.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/49413?lang=en-us&icims=1",
+    "discordThreadId": "1449879118379221153",
+    "instanceNumber": 1
+  },
+  {
+    "id": "oshkosh-manufacturing-data-analytics-intern-chambersburg-2025-12-14-1",
+    "jobId": "oshkosh-manufacturing-data-analytics-intern-chambersburg",
+    "company": "Oshkosh",
+    "title": "Manufacturing Data Analytics Intern",
+    "postedToDiscord": "2025-12-14T21:42:04.582Z",
+    "sourceDate": "2025-09-10T22:20:07.000Z",
+    "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Data-Analytics-Intern_R39615",
+    "discordThreadId": "1449879133957001296",
+    "instanceNumber": 1
+  },
+  {
+    "id": "peraton-systems-engineer-intern-blacksburg-2025-12-14-1",
+    "jobId": "peraton-systems-engineer-intern-blacksburg",
+    "company": "Peraton",
+    "title": "Systems Engineer Intern",
+    "postedToDiscord": "2025-12-14T21:42:06.355Z",
+    "sourceDate": "2025-09-10T21:38:10.000Z",
+    "sourceUrl": "https://careers-peraton.icims.com/jobs/158533/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449879141238444253",
+    "instanceNumber": 1
   }
 ]
