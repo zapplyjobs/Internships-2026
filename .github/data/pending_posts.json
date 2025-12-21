@@ -661,106 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Summer Intern - Procurement",
-      "employer_name": "Veolia",
-      "job_city": "Milwaukee",
-      "job_state": "WI",
-      "job_description": "Procurement Intern InternContract type: Temporary Work / CasualCompany DescriptionVeolia in North America is the top-ranked environmental company in the United States for three consecutive years, and the country’s largest private water operator and technology provider as well as hazardous waste and pollution treatment leader. It offers a full spectrum of water, waste, and energy management services, including water and wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery. Veolia helps commercial, industrial, healthcare, higher education and municipality customers throughout North America. Headquartered in Boston, Veolia has more than 10,000 employees working at more than 350 locations across North America.Job DescriptionPosition Purpose: Student Exploration and Experience Development (SEED) is a 12-week internship opportunity at Veolia for students to gain hands-on experience in sustainability and ecological transformation. They will work on real-world projects, receive mentorship from industry professionals, and participate in workshops and networking events. The program aims to nurture talent, promote innovation, and foster meaningful connections between students and industry professionals. Overall, the SEED program provides students with the skills, knowledge, and connections needed to make a positive impact in the industry.Program Dates: June 1, 2026 to August 21, 2026.Primary Duties/Responsibilities: Ability to extract, wrangle and harmonize data from various databases (including Snowflake, SAS, HANA, Oracle, Microsoft SQL, Hadoop), by using one or more of the following programming languages, including SAS, SQL, Python, R, Excel (Advanced).Ability to visualize and analyze data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.Develop actionable insights from data using descriptive and basic statistical approaches.Present findings from the analyses to facilitate quick decision making.Develop clear, concise, and effective memos / presentation materials for management.Work individually and collaboratively with key stakeholders, build the relationship, and contribute to decision making.Participate in cross-functional teams and achieve business objectives.Work Environment:Environments vary by internship function from office to field to plant. Our aim is to provide tangible industry job experience to each intern. While we may extend offers to some interns, there is no guarantee of a job offer at the end of the internship.QualificationsEducation/Experience/Background: High School Diploma/GED is required.Working towards a four year degree and you have Junior or Senior status in a related major. Example: If the internship is in electrical engineering, you are a junior working towards an electrical engineering (or similar such as electronics engineering) degree.3.2 Cumulative G.P.A preferred.1+ years of experience in extracting, cleaning, and analyzing the data using one or more of the following programming languages, including SAS, SQL, Python.1+ years of experience in visualizing the data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.1+ years of experience in two or more of the following functions, including Analytics, Customer Insights, Marketing, Finance, Operation, Revenue Management, Pricing.Experience gained through college degree programs and/or certifications is applicable to above skills.Additional InformationWe are an Equal Opportunity Employer! All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, subject to applicable law.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000098707035",
-      "job_posted_at_datetime_utc": "2025-12-12T23:30:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "veolia-summer-intern-procurement-milwaukee",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:29:14.285Z",
-    "postedAt": "2025-12-21T22:48:29.967Z"
-  },
-  {
-    "job": {
-      "job_title": "SaaS Software Development Intern/Co-op",
-      "employer_name": "Nokia",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Join our team as a SaaS Software Development Co-op and gain hands-on experience in building web applications, collaborating with global teams, and learning the foundations of software development in a dynamic, fast-paced environment. This role is designed to provide you with exposure to real projects and help you develop the skills necessary for a future career in software and SaaS development.",
-      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28724",
-      "job_posted_at_datetime_utc": "2025-12-12T23:22:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nokia-saas-software-development-intern-co-op-sunnyvale",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:29:14.285Z",
-    "postedAt": "2025-12-21T22:48:29.967Z"
-  },
-  {
-    "job": {
-      "job_title": "Radar Sensing AI Research Intern",
-      "employer_name": "Robert Bosch Venture Capital",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Radar Sensing AI Research InternFull-timeLegal Entity: Robert Bosch LLCCompany Description​​​​​​The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group, a company with over 90 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.The Bosch Research and Technology Center in Pittsburgh, PA is focused on the research and development of cutting-edge AI and sensing technologies that will shape the future of the company's products. This position is part of an ambitious effort to design and develop intelligent multi-modal sensing at the intersection of deep learning and signal processing, with diverse application domains ranging from physical security to intelligent and connected vehicles.Job DescriptionDevelop state-of-the-art Radar AI solutions using combination of classical signal processing and machine/deep learning-based approaches.Research and develop memory-efficient radar models, radar representation learning, novel interior sensing tasks.Collaborate with other researchers to integrate radar AI modules into the prototype systems.Summarize research findings in high-quality paper and/or patent submissions.QualificationsCurrently enrolled as PhD student in Computer Science, Electrical Engineering, or relatedfields.2+ years programming experience, proficiency in PyTorch (Lightning), HuggingFace (transformers), hydra.Broad knowledge of machine- and deep-learning algorithms and principles and state-of-the-art methods.Preferred QualificationsExperience using radar data in machine learning projects.Knowledge of digital signal processing principle and methods.Publication record in top machine learning and signal processing venues.Experience with HPC platforms and job managers (Slurm, IBM LSF).Additional InformationEqual Opportunity Employer, including disability / veterans. *Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date. Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy PolicyImprint",
-      "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000098712536",
-      "job_posted_at_datetime_utc": "2025-12-12T23:22:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robert-bosch-venture-capital-radar-sensing-ai-research-intern-pittsburgh",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:29:14.285Z",
-    "postedAt": "2025-12-21T22:48:29.967Z"
-  },
-  {
-    "job": {
-      "job_title": "Multi-modal Sensing AI Research Intern",
-      "employer_name": "Robert Bosch Venture Capital",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Multi-modal Sensing AI Research InternFull-timeLegal Entity: Robert Bosch LLCCompany DescriptionWe Are Bosch.At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry. Let’s grow together, enjoy more, and inspire each other. Work #LikeABosch • Reinvent yourself: At Bosch, you will evolve. • Discover new directions: At Bosch, you will find your place. • Balance your life: At Bosch, your job matches your lifestyle. • Celebrate success: At Bosch, we celebrate you. • Be yourself: At Bosch, we value values. • Shape tomorrow: At Bosch, you change lives.Job Description​​​​​​The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group, a company with over 90 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.The Bosch Research and Technology Center in Pittsburgh, PA is focused on the research and development of cutting-edge AI and sensing technologies that will shape the future of the company's products. This position is part of an ambitious effort to design and develop intelligent multi-modal sensing at the intersection of deep learning and signal processing, with diverse application domains ranging from physical security to intelligent and connected vehicles.Job Description:Develop state-of-the-art multi-modal models for active (radar, ultrasound) and passive sensing (acoustic, vibration, EEG) use-cases using combination of classical signal processing and machine/deep learning-based approaches.Research and develop solutions for multi-modal representation learning and modality adaptation with paired / unpaired sensor data.Collaborate with other researchers to evaluate the developed model on downstream applications.Summarize research findings in high-quality paper and/or patent submissions.QualificationsCurrently enrolled as PhD student in Computer Science, Electrical Engineering, or related fields.2+ years programming experience, proficiency in PyTorch(Lightning), HuggingFace(transformers), hydra.Broad knowledge of machine- and deep-learning algorithms and principles and state-of-the-art methods.Preferred Qualifications:Experience using raw sensor data (eg. Radar, ultrasound, acoustic etc.) in machine learning projects.Knowledge of digital signal processing principle and methods, multimodal representation learning.Publication record in top machine learning and signal processing venues.Experience with HPC platforms and job managers (Slurm, IBM LSF).Additional InformationEqual Opportunity Employer, including disability / veterans. *Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date. Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy PolicyImprint",
-      "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000098712886",
-      "job_posted_at_datetime_utc": "2025-12-12T23:22:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robert-bosch-venture-capital-multi-modal-sensing-ai-research-intern-pittsburgh",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:29:14.285Z",
-    "postedAt": "2025-12-21T22:48:29.967Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Capitol Project",
-      "employer_name": "Veolia",
-      "job_city": "Milwaukee",
-      "job_state": "WI",
-      "job_description": "Capital Project's Intern InternContract type: Temporary Work / CasualCompany DescriptionVeolia in North America is the top-ranked environmental company in the United States for three consecutive years, and the country’s largest private water operator and technology provider as well as hazardous waste and pollution treatment leader. It offers a full spectrum of water, waste, and energy management services, including water and wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery. Veolia helps commercial, industrial, healthcare, higher education and municipality customers throughout North America. Headquartered in Boston, Veolia has more than 10,000 employees working at more than 350 locations across North America.Job DescriptionPosition Purpose: Student Exploration and Experience Development (SEED) is a 12-week internship opportunity at Veolia for students to gain hands-on experience in sustainability and ecological transformation. They will work on real-world projects, receive mentorship from industry professionals, and participate in workshops and networking events. The program aims to nurture talent, promote innovation, and foster meaningful connections between students and industry professionals. Overall, the SEED program provides students with the skills, knowledge, and connections needed to make a positive impact in the industry.Program Dates: June 1, 2026 to August 21, 2026.Primary Duties/Responsibilities: Ability to extract, wrangle and harmonize data from various databases (including Snowflake, SAS, HANA, Oracle, Microsoft SQL, Hadoop), by using one or more of the following programming languages, including SAS, SQL, Python, R, Excel (Advanced).Ability to visualize and analyze data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.Develop actionable insights from data using descriptive and basic statistical approaches.Present findings from the analyses to facilitate quick decision making.Develop clear, concise, and effective memos / presentation materials for management.Work individually and collaboratively with key stakeholders, build the relationship, and contribute to decision making.Participate in cross-functional teams and achieve business objectives.Work Environment:Environments vary by internship function from office to field to plant. Our aim is to provide tangible industry job experience to each intern. While we may extend offers to some interns, there is no guarantee of a job offer at the end of the internship.QualificationsEducation/Experience/Background: High School Diploma/GED is required.Working towards a four year degree and you have Junior or Senior status in a related major. Example: If the internship is in electrical engineering, you are a junior working towards an electrical engineering (or similar such as electronics engineering) degree.3.2 Cumulative G.P.A preferred.1+ years of experience in extracting, cleaning, and analyzing the data using one or more of the following programming languages, including SAS, SQL, Python.1+ years of experience in visualizing the data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.1+ years of experience in two or more of the following functions, including Analytics, Customer Insights, Marketing, Finance, Operation, Revenue Management, Pricing.Experience gained through college degree programs and/or certifications is applicable to above skills.Additional InformationWe are an Equal Opportunity Employer! All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, subject to applicable law.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000098706823",
-      "job_posted_at_datetime_utc": "2025-12-12T23:19:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "veolia-intern-capitol-project-milwaukee",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:29:14.285Z",
-    "postedAt": "2025-12-21T22:48:29.967Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - IT",
       "employer_name": "Veolia",
       "job_city": "Milwaukee",
@@ -774,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T22:39:11.156Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:54:09.922Z"
   },
   {
     "job": {
@@ -794,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T22:39:11.156Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:54:09.922Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T22:39:11.156Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:54:09.922Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T22:39:11.156Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:54:09.922Z"
   },
   {
     "job": {
@@ -965,16 +865,18 @@
       "employer_name": "Intuitive Surgical",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join Intuitive Surgical in this exciting opportunity.",
+      "job_description": "Software Engineering Intern (GUI)InternShift: DayMax. Salary Region 2: 75 USDMax. Salary Region 1: 88 USDWays of Working: Set Schedule - This job will be onsite weekly, the percentage of onsite work will be defined by the leader.Employee Type: Intern (Fixed Term)Min. Salary Region 1: 70 USDGlobal Job Level (HCM): Professional 3 (9)Min. Salary Region 2: 60 USDCompany DescriptionIt started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have transformed how care is delivered for millions of patients worldwide.We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.Job DescriptionPrimary Function of Position The Ion™ endoluminal system is Intuitive's new robotic platform for minimally invasive biopsy in the peripheral lung, with an initial goal of improving the early diagnosis of lung cancer. As a Software Engineering Intern (GUI), you will support the design and development of graphical user interface (GUI) elements, ranging from more traditional 2D GUI’s to interactive 3D virtual environments. In this role you will work closely with designers, clinical engineers, and other software developers to create world-class user experiences for the Ion platform to positively impact physician experience and patient outcomes. The ideal candidate is an independent and fast-paced software developer with excellent problem-solving skills and a passion for good software architecture and processes, capable of producing robust, high-quality code. This internship is ideal for graduate students seeking hands-on experience in medical device software and user interface development.Essential Job Duties Work as part of a cross-functional team in a fast-paced, start-up-like business unit.Assist in prototyping new GUI elements and workflows in C++ and QML, contributing ideas and rapid iterations.Design and execute analyses and experiments to evaluate different potential solutions.Present findings and progress to the team; contribute to documentation.QualificationsRequired Skills and Experience University Hiring Program Eligibility Requirements:University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.Required Education and Training Current enrollment in a Computer Science, Computer Engineering, Electrical Engineering, Biomedical Engineer or related degree-seeking program at the Master’s or Doctorate (preferred) level.Proficient in C++Working Conditions NonePreferred Skills and Experience Experience with graphics libraries such as OpenGL or OpenSceneGraphKnowledge of parallel programming or GPU programming (e.g. Cuda)Exposure to game engines such as Unity or Unreal EngineExperience working with imaging libraries (e.g., ITK, VTK, OpenCV) or medical image analysisFamiliarity with software development methodologies or tools (CI, version control, issue tracking)Exposure to linuxAdditional InformationDue to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19. Details can vary by role.Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.Mandatory NoticesU.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process). For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes. We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated against the intern program salaries listed and total program compensation will be based on internship duration.I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000098726007",
       "job_posted_at_datetime_utc": "2025-12-12T23:13:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intuitive-surgical-software-engineering-intern-sunnyvale"
+      "id": "intuitive-surgical-software-engineering-intern-sunnyvale",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:53:37.706Z",
     "postedAt": null
   },
   {
@@ -983,16 +885,18 @@
       "employer_name": "Intuitive Surgical",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join Intuitive Surgical in this exciting opportunity.",
+      "job_description": "Machine Vision Engineering InternInternShift: DayMax. Salary Region 2: 49 USDMax. Salary Region 1: 58 USDWays of Working: Onsite - This job is fully onsite.Employee Type: Intern (Fixed Term)Min. Salary Region 1: 44 USDGlobal Job Level (HCM): Professional 1 (5)Min. Salary Region 2: 37 USDCompany DescriptionIt started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have transformed how care is delivered for millions of patients worldwide.We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.Job DescriptionPrimary Function of Position Play an important role within Intuitive Surgical designing, building, and supporting machine vision systems in manufacturing equipment used to produce Intuitive’s state-of-the-art robotic surgical devices. Our custom manufacturing equipment employs a wide variety of automated features, including robotics, motion control, machine vision, and data collection, however the primary responsibility for this position is the machine vision elements. Machine vision uses lights, cameras, and image processing algorithms to help guide robots and inspect parts. This position plays a critical role in scaling manufacturing operations, while improving capacity, quality, yield, and efficiency.Essential Job DutiesWork with the team to design, implement, and test machine vision system hardware and software.Select cameras, lenses, and lighting to optimize image clarity.Program image processing algorithms and develop software, including use of deep learning, to perform image analysis and make automated decisions.Work with mechanical, controls, and manufacturing engineers to integrate vision systems into larger automated equipment.Thoroughly document all aspects of the vision system, including its requirements, design, operation, and qualification.QualificationsRequired Skills and ExperienceStrong technical skills in engineering and math.Good communication and documentation skills.Interest in robotics, vision, and manufacturing automation.University Hiring Program Eligibility Requirements:University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.Required Education and TrainingCurrent enrollment in an Engineering, Computer Science, Math, Physics or related degree-seeking program at the Bachelor’s or Master’s level.Preferred Skills and Experience Knowledge of image processing and analysis techniques.Knowledge of machine vision and/or photographic techniques, such as selection and configuration of camera, lens, and lighting for different applications.Capable of programming in C# or Python.Experience with Cognex and Keyence vision systems.Knowledge of statistics and design of experiments.Experience with manufacturing automation equipment and robotics.Additional InformationDue to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19. Details can vary by role.Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.Mandatory NoticesU.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process). For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes. We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated against the intern program salaries listed and total program compensation will be based on internship duration.I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000098727995",
       "job_posted_at_datetime_utc": "2025-12-12T23:13:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "intuitive-surgical-machine-vision-engineering-intern-sunnyvale"
+      "id": "intuitive-surgical-machine-vision-engineering-intern-sunnyvale",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:53:37.706Z",
     "postedAt": null
   },
   {
@@ -1001,16 +905,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a master&#39;s or PhD program in Computer Science or a related STEM field. Ability to collaborate effectively with other researchers and product development teams. Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556642373",
       "job_posted_at_datetime_utc": "2025-12-12T23:05:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-research-intern-bio-large-language-models-redmond"
+      "id": "microsoft-research-intern-bio-large-language-models-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:53:37.706Z",
     "postedAt": null
   },
   {
@@ -1019,16 +925,18 @@
       "employer_name": "CommScope",
       "job_city": "Shakopee",
       "job_state": "MN",
-      "job_description": "Join CommScope in this exciting opportunity.",
+      "job_description": "Internship Programs at CommScope As CommScope designs and builds connectivity for the world's most advanced networks, we're building something equally as important: careers for forward-thinking, innovated college students like you! Our Summer Internship Program is designed to provide you with an invaluable work experience through meaningful projects that will help you grow and develop both personally and professionally. Throughout the 12-week program, you will collaborate with some of the best in the industry, receive on-the-job training, participating in professional development workshops, executive speaker series, and other networking and social events! How You’ll Help Us Connect the World As a Data Analytics Dashboard Intern, you will be responsible for development of systems like PowerBI reports and dashboards as part of the Datacenter Business Unit. You will work closely with Automation and Operation Teams to create improved visualizations of actual data generated within the team and the factories. This role will be based in Shakopee, MN. You Will Make an Impact By Building and improving existing PowerBI reports Creating new dashboards (PowerBi, Axiom/Canary, Sharepoint) using new datasets generated in the Global Automation teams and Production Locations Required Qualifications for Consideration Actively pursuing a bachelor’s (upcoming sophomores, juniors & seniors) or master’s degree in an engineering discipline, preferable software related from an accredited university Proven strong academic performer with a minimum GPA of 3.0 Experience with PowerBi or similar tool Must possess unrestricted work authorization and not require future sponsorship Military-Affiliated candidates encouraged to apply (Veterans, Military Spouses, and Guard/Reservists) You Will Excite Us If You Are able to automate existing process flow using PowerAutomate or similar tools Are able to program IoT and data collection devices to generate and collect data Demonstrate strong leadership, interpersonal and communication skills Show innovation through unique ideas and propose them to the team Able to handle multiple assignments simultaneously and effectively meet deadlines Strategic and creative thinking; distinguished written and verbal communications skills Strong initiative; a self-starter with analytical skills, attention to detail, problem-solving and decision-making abilities Experience working in a fast-paced environment and flexible to changing priorities What Happens After You Apply Learn how to prepare yourself for the next steps in our hiring process by visiting https://careers.commscope.com/how-we-hire. Why CommScope CommScope is on a quest to deliver connectivity that empowers how we live, work, and learn. Our employees push the boundaries of communications technology that enables game-changing discoveries like 5G, the Internet of Things, and gigabit speeds for everyone, everywhere. With our unmatched expertise in copper, fiber, and wireless infrastructure, our global clients rely on us to outperform today and be ready for the needs of tomorrow. If you want to grow your career alongside bright, passionate, and caring people who strive to create what's next...come connect to your future at CommScope.CommScope is an Equal Opportunity Employer (EEO), including people with disabilities and veterans. If you are seeking an accommodation for the application or interview process, please contact us to submit your request at talentacquisition@commscope.com. You can also learn more about CommScope’s accommodation process and EEO policy at careers.commscope.com/eeo",
       "job_apply_link": "https://jobs.commscope.com/job/Shakopee-Data-Analytics-Dashboard-Intern-Minn/1349466000/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-12T23:04:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "commscope-data-analytics-dashboard-intern-shakopee"
+      "id": "commscope-data-analytics-dashboard-intern-shakopee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:53:37.706Z",
     "postedAt": null
   },
   {
@@ -1037,16 +945,18 @@
       "employer_name": "Sarasota County",
       "job_city": "Sarasota",
       "job_state": "FL",
-      "job_description": "Join Sarasota County in this exciting opportunity.",
+      "job_description": "Intern Sarasota County is proud to be #VaultRanked as one of the Top 150 Internships for 2026! Department:Enterprise Information TechnologyAbout Our JobTechnical internship position performing GIS assignments under the direction of GIS analysts and GIS professionals. Assist and support small and large GIS projects for county departments. GIS projects done by the GIS group often have a countywide effect. The perfect candidate for this position will be someone who likes to contribute to the well-being of the community and to using mapping technology to make smart planning and operational decisions.Job Description:Are you interested in getting hands-on experience in your chosen field? Do you want to make a difference in your community?Intern Sarasota County dedicated to providing students with an unsurpassed learning experience and insight into the dynamic world of public sector employment.Develop new skills you can apply in the workplace. Gain skills that will enhance your resume and increase your career options while exploring public service! Observe and participate in tasks and responsibilities performed daily by skilled professionals. Experience workplace culture, office dynamics, and business etiquette.Your internship will include impactful hands-on work within a department, networking, professional development, and building long lasting connections with other interns, mentors, and Sarasota County team members. Department Responsibilities:Create, update and maintain GIS data.Create maps using county standard templates and best practices for cartography and labeling. Perform GIS analysis utilizing a combination of spatial and tabular data.Provide input for GIS layer creation and maintenance processes.Document all processes used in maintaining data or regularly scheduled projects.Present status updates to senior staff.Apply knowledge of GIS theory/concepts to propose and develop GIS solutions addressing customer needs.Develop and maintain skills as necessary to keep current with GIS technology and professional best practices.Utilize work order management technologies and processes to ensure effective GIS service delivery.Collaborate with your department colleagues to make and influence real changes. Internship Program Responsibilities:A presentation to the County Administrator and other County Leadership staff is required at the close of the internship program on Friday, August 7, 2026.Participate in all organized intern events and trainings.Your Internship Includes: Competitive wage  Hands-on work experienceProfessional headshot1-1 mentoring with county staffProfessional Development Events:Civics 101 & Facility TourOwn Your CareerBusiness Etiquette & Professional NetworkingPhilanthropy & Your CareerBoard of County Commission Public Hearing SessionSpeaking for SuccessOpportunity to job shadow in other departments Location: 920 Apex Road, Sarasota, FL 34232Learn more about the internship program at: scgov.net/internAbout YouMinimum Qualifications:Ages 16-17 with parental consent, or 18 and above. Eligible to work in the United States – we love local, national, and international students! Active, enrolled student.Preferred Qualifications:3+ years of college.CJIS Clearance: The successful candidate will be subject to an extensive background check(s) as a part of the hiring process. An applicant who fails to pass a required screening may be disqualified from employment. About Everything ElseProgram Dates: The 2026 internship program will begin on May 18, 2026 and end on August 7, 2026.  Internship Hours: 40 hours/week, Monday-Friday, 8:00 a.m.-5:00 p.m.; some departments vary.Pay Range: $15 per hour (high school student) up to $20 per hour (Grad/Masters student), based on your credit hours earned. Employee Type:Seasonal (Fixed Term) (Seasonal)Our interview process could include phone interview(s), Microsoft Teams video interview(s), and/or in-person interview(s). If you are selected to join our team, please click on this link to review the Required First Day Documents. You will need to present the following items on your first day: 1. I-9 Acceptable Documents to show your identity and authorization to work. Use this link to learn more and review the different document options: https://www.uscis.gov/i-9-central/form-i-9-acceptable-documentsIf your position requires a Florida Driver’s License, this must be one of your documents. (Your Florida Driver’s License can serve as one of your documents listed in link above – List B Documents.)  2. U.S. Social Security Card (signed, physical card). This is a requirement of our Payroll Department and failure to provide this document could jeopardize timely compensation. (Your U.S. Social Security Card can serve as one of your documents listed in link above – List C Documents.)  Benefits:Employee benefits and Florida Retirement System contributions are not available for seasonal and temporary positions. Positions marked Full Time and Regular (Budgeted) are eligible for benefits, for more information about employee benefits, please click this link or visit SCGov.net. A different blend of voices prompt better conversations, choices and results for everyone. Sarasota County – Many Voices, One Team. We celebrate and value the experiences, backgrounds, perspectives, talents and strengths that make us different.Our vision is to attract, develop, retain and engage a talented workforce broadly representative of the citizens and communities we serve. To further value creativity, innovation, collaboration and great customer service – internally and externally. A job applicant with a disability who requires reasonable accommodation to participate in the application/selection process is requested to make known the need for an accommodation to Human Resources or appropriate county staff members. For assistance with the application, please call 941-861-5353.Sarasota County prohibits discrimination in all services, programs or activities. View the complete policy at scgov.net (keywords: ADA Compliance).Sarasota County Government is a Tobacco-Free/Drug-Free Workplace.",
       "job_apply_link": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Administration-Center/GIS-Intern---Summer-2026-Internship_R20263",
       "job_posted_at_datetime_utc": "2025-12-12T18:36:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sarasota-county-gis-intern-sarasota"
+      "id": "sarasota-county-gis-intern-sarasota",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:53:37.706Z",
     "postedAt": null
   },
   {

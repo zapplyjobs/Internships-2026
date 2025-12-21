@@ -6169,5 +6169,104 @@
     "sourceUrl": "https://rms-cretex.icims.com/jobs/5355/it-intern---data-analyst---summer-2026/job",
     "discordThreadId": "1449893963401269371",
     "instanceNumber": 1
+  },
+  {
+    "id": "cox-software-engineering-intern-north-hills-2025-12-14-1",
+    "jobId": "cox-software-engineering-intern-north-hills",
+    "company": "Cox",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:50:04.634Z",
+    "sourceDate": "2025-09-09T08:07:25.000Z",
+    "sourceUrl": "https://jobs.coxenterprises.com/en/jobs/r202566837/software-engineering-intern-north-hills-ny/",
+    "discordThreadId": "1449896246423716038",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bose-devops-and-infrastructure-intern-framingham-2025-12-14-1",
+    "jobId": "bose-devops-and-infrastructure-intern-framingham",
+    "company": "Bose",
+    "title": "DevOps and Infrastructure Intern",
+    "postedToDiscord": "2025-12-14T22:50:08.092Z",
+    "sourceDate": "2025-09-09T08:06:00.000Z",
+    "sourceUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/DevOps-and-Infrastructure-Intern_R28340",
+    "discordThreadId": "1449896254095233317",
+    "instanceNumber": 1
+  },
+  {
+    "id": "samsung-engineering-austin-2025-12-14-1",
+    "jobId": "samsung-engineering-austin",
+    "company": "Samsung",
+    "title": "Engineering",
+    "postedToDiscord": "2025-12-14T22:50:10.119Z",
+    "sourceDate": "2025-09-09T07:57:55.000Z",
+    "sourceUrl": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/XMLNAME-2026-Summer-Internship_R107280",
+    "discordThreadId": "1449896268859183246",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pella-corporation-software-engineering-intern-pella-2025-12-14-1",
+    "jobId": "pella-corporation-software-engineering-intern-pella",
+    "company": "Pella Corporation",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:50:11.827Z",
+    "sourceDate": "2025-09-09T07:55:30.000Z",
+    "sourceUrl": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/248277",
+    "discordThreadId": "1449896277109117079",
+    "instanceNumber": 1
+  },
+  {
+    "id": "radiant-summer-2026-internship-software-engineering-el-segundo-2025-12-14-1",
+    "jobId": "radiant-summer-2026-internship-software-engineering-el-segundo",
+    "company": "Radiant",
+    "title": "Summer 2026 Internship - Software Engineering",
+    "postedToDiscord": "2025-12-14T22:50:15.443Z",
+    "sourceDate": "2025-09-09T03:00:29.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/radiant/jobs/4606581005",
+    "discordThreadId": "1449896284319387671",
+    "instanceNumber": 1
+  },
+  {
+    "id": "aerovironment-software-engineering-intern-germantown-2025-12-14-1",
+    "jobId": "aerovironment-software-engineering-intern-germantown",
+    "company": "AeroVironment",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:50:17.193Z",
+    "sourceDate": "2025-09-09T02:52:45.000Z",
+    "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2026-Software-Engineering-Intern_5873",
+    "discordThreadId": "1449896299473141821",
+    "instanceNumber": 1
+  },
+  {
+    "id": "thermo-fisher-scientific-software-development-engineering-intern-hillsboro-2025-12-14-1",
+    "jobId": "thermo-fisher-scientific-software-development-engineering-intern-hillsboro",
+    "company": "Thermo Fisher Scientific",
+    "title": "Software Development / Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:50:18.938Z",
+    "sourceDate": "2025-09-09T02:06:29.000Z",
+    "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Software-Development---Engineering-Intern_R-01328133",
+    "discordThreadId": "1449896306423103607",
+    "instanceNumber": 1
+  },
+  {
+    "id": "jpmorganchase-machine-learning-center-of-excellence-new-york-2025-12-14-1",
+    "jobId": "jpmorganchase-machine-learning-center-of-excellence-new-york",
+    "company": "JPMorganChase",
+    "title": "Machine Learning Center of Excellence",
+    "postedToDiscord": "2025-12-14T22:50:23.746Z",
+    "sourceDate": "2025-09-09T07:26:42.000Z",
+    "sourceUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210664608",
+    "discordThreadId": "1449896326597705839",
+    "instanceNumber": 1
+  },
+  {
+    "id": "waymo-2026-summer-intern-phd-perception-computer-vision-deep-learning-mountain-view-2025-12-14-1",
+    "jobId": "waymo-2026-summer-intern-phd-perception-computer-vision-deep-learning-mountain-view",
+    "company": "Waymo",
+    "title": "2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning",
+    "postedToDiscord": "2025-12-14T22:50:25.689Z",
+    "sourceDate": "2025-09-09T03:07:52.000Z",
+    "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7235071",
+    "discordThreadId": "1449896334558498970",
+    "instanceNumber": 1
   }
 ]
