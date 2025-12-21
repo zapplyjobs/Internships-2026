@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:48:07.687Z",
+  "lastUpdated": "2025-12-21T20:55:43.614Z",
   "jobs": [
-    {
-      "id": "boeing-software-engineering-artificial-intelligence-intern-tukwila-2025-12-14-1",
-      "jobId": "boeing-software-engineering-artificial-intelligence-intern-tukwila",
-      "company": "Boeing",
-      "title": "Software Engineering Artificial Intelligence Intern",
-      "postedToDiscord": "2025-12-14T20:48:49.964Z",
-      "sourceDate": "2025-09-12T09:41:50.000Z",
-      "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
-      "discordThreadId": "1449865734762270750",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paypal-machine-learning-engineer-phd-san-jose-2025-12-14-1",
-      "jobId": "paypal-machine-learning-engineer-phd-san-jose",
-      "company": "PayPal",
-      "title": "Machine Learning Engineer PhD",
-      "postedToDiscord": "2025-12-14T20:48:51.633Z",
-      "sourceDate": "2025-09-12T09:31:08.000Z",
-      "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
-      "discordThreadId": "1449865741733204111",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paypal-machine-learning-intern-san-jose-2025-12-14-1",
-      "jobId": "paypal-machine-learning-intern-san-jose",
-      "company": "PayPal",
-      "title": "Machine Learning Intern",
-      "postedToDiscord": "2025-12-14T20:48:53.290Z",
-      "sourceDate": "2025-09-12T09:30:17.000Z",
-      "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
-      "discordThreadId": "1449865748485771275",
-      "instanceNumber": 1
-    },
-    {
-      "id": "waters-research-machine-learning-co-op-milford-2025-12-14-1",
-      "jobId": "waters-research-machine-learning-co-op-milford",
-      "company": "Waters",
-      "title": "Research Machine Learning Co-op",
-      "postedToDiscord": "2025-12-14T20:48:56.753Z",
-      "sourceDate": "2025-09-12T09:14:17.000Z",
-      "sourceUrl": "https://uscareers-waters.icims.com/jobs/24104/2025-24104/job",
-      "discordThreadId": "1449865755666677851",
-      "instanceNumber": 1
-    },
-    {
-      "id": "crum-forster-data-science-intern-morristown-2025-12-14-1",
-      "jobId": "crum-forster-data-science-intern-morristown",
-      "company": "Crum & Forster",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T20:49:01.507Z",
-      "sourceDate": "2025-09-12T09:36:27.000Z",
-      "sourceUrl": "https://careers-cfins.icims.com/jobs/4541/data-science-intern--summer-2026---morristown%2c-nj-or-remote/job",
-      "discordThreadId": "1449865783101624544",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ketjen-data-science-internship-program-houston-2025-12-14-1",
-      "jobId": "ketjen-data-science-internship-program-houston",
-      "company": "Ketjen",
-      "title": "Data Science Internship Program",
-      "postedToDiscord": "2025-12-14T20:49:03.400Z",
-      "sourceDate": "2025-09-12T09:33:34.000Z",
-      "sourceUrl": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2026-Data-Science-Internship-Program_REQ-29206",
-      "discordThreadId": "1449865790537863289",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paypal-data-science-intern-san-jose-2025-12-14-1",
-      "jobId": "paypal-data-science-intern-san-jose",
-      "company": "PayPal",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T20:49:05.427Z",
-      "sourceDate": "2025-09-12T09:29:19.000Z",
-      "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
-      "discordThreadId": "1449865798851236074",
-      "instanceNumber": 1
-    },
-    {
-      "id": "entegris-agentic-ai-co-op-bedford-2025-12-14-1",
-      "jobId": "entegris-agentic-ai-co-op-bedford",
-      "company": "Entegris",
-      "title": "Agentic AI Co-Op",
-      "postedToDiscord": "2025-12-14T20:49:11.958Z",
-      "sourceDate": "2025-09-12T09:35:02.000Z",
-      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/Agentic-AI-Co-Op---Spring-2026_REQ-9196",
-      "discordThreadId": "1449865819021381713",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nova-tech-ai-internship-willmar-2025-12-14-1",
-      "jobId": "nova-tech-ai-internship-willmar",
-      "company": "Nova-Tech",
-      "title": "AI Internship",
-      "postedToDiscord": "2025-12-14T20:49:13.607Z",
-      "sourceDate": "2025-09-12T09:32:36.000Z",
-      "sourceUrl": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
-      "discordThreadId": "1449865833646915766",
-      "instanceNumber": 1
-    },
     {
       "id": "waymo-machine-learning-infra-foundations-mountain-view-2025-12-14-1",
       "jobId": "waymo-machine-learning-infra-foundations-mountain-view",
@@ -10330,14 +10231,69 @@
       "sourceUrl": "https://careers-ice.icims.com/jobs/11582/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452402265435672840",
       "instanceNumber": 1
+    },
+    {
+      "id": "kodiak-robotics-intern-perception-mountain-view-2025-12-21-1",
+      "jobId": "kodiak-robotics-intern-perception-mountain-view",
+      "company": "Kodiak Robotics",
+      "title": "Intern - Perception",
+      "postedToDiscord": "2025-12-21T20:55:20.029Z",
+      "sourceDate": "2025-09-24T02:35:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024632009",
+      "discordThreadId": "1452404079027552417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mks-instruments-data-scientist-intern-multiple-teams-milpitas-2025-12-21-1",
+      "jobId": "mks-instruments-data-scientist-intern-multiple-teams-milpitas",
+      "company": "MKS Instruments",
+      "title": "Data Scientist Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-21T20:55:27.134Z",
+      "sourceDate": "2025-09-26T14:31:25.000Z",
+      "sourceUrl": "https://mksinst.wd1.myworkdayjobs.com/en-US/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2026-Summer-Data-Scientist-Intern_R14997",
+      "discordThreadId": "1452404106315698297",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackhawk-network-holdings-technology-intern-coppell-2025-12-21-1",
+      "jobId": "blackhawk-network-holdings-technology-intern-coppell",
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "postedToDiscord": "2025-12-21T20:55:33.592Z",
+      "sourceDate": "2025-09-22T06:12:20.000Z",
+      "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24801/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452404135398998066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "first-quality-intern-or-co-op-analytics-engineer-anderson-2025-12-21-1",
+      "jobId": "first-quality-intern-or-co-op-analytics-engineer-anderson",
+      "company": "First Quality",
+      "title": "Intern or Co-Op - Analytics Engineer",
+      "postedToDiscord": "2025-12-21T20:55:39.991Z",
+      "sourceDate": "2025-09-20T00:56:53.000Z",
+      "sourceUrl": "https://firstquality.wd5.myworkdayjobs.com/firstquality/job/US-SC-Anderson/INTERN-OR-CO-OP---Analytics-Engineer_R9813",
+      "discordThreadId": "1452404162598797433",
+      "instanceNumber": 1
+    },
+    {
+      "id": "w-r-berkley-ai-intern-wilmington-2025-12-21-1",
+      "jobId": "w-r-berkley-ai-intern-wilmington",
+      "company": "W.R. Berkley",
+      "title": "AI Intern",
+      "postedToDiscord": "2025-12-21T20:55:43.614Z",
+      "sourceDate": "2025-09-11T19:13:19.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452404176611967088",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 939,
+    "totalJobs": 935,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T20:48:07.687Z",
+      "date": "2025-12-21T20:55:43.614Z",
       "archived": 0
     }
   }
