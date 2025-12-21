@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T18:04:25.220Z",
+  "lastUpdated": "2025-12-21T18:19:49.609Z",
   "jobs": [
     {
       "id": "u-s-venture-software-development-intern-breakthrough-green-bay-2025-12-14-1",
@@ -10693,14 +10693,69 @@
       "sourceUrl": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
       "discordThreadId": "1452361066460872745",
       "instanceNumber": 1
+    },
+    {
+      "id": "plexus-intern-product-engineer-summer-2026-neenah-2025-12-21-1",
+      "jobId": "plexus-intern-product-engineer-summer-2026-neenah",
+      "company": "Plexus",
+      "title": "Intern – Product Engineer - Summer 2026",
+      "postedToDiscord": "2025-12-21T18:19:29.007Z",
+      "sourceDate": "2025-12-09T07:28:43.000Z",
+      "sourceUrl": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Intern---Product-Engineer--Summer-2026-_R033663-1",
+      "discordThreadId": "1452364857600114859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mks-instruments-compliance-engineer-co-op-irvine-2025-12-21-1",
+      "jobId": "mks-instruments-compliance-engineer-co-op-irvine",
+      "company": "MKS Instruments",
+      "title": "Compliance Engineer Co-op",
+      "postedToDiscord": "2025-12-21T18:19:32.415Z",
+      "sourceDate": "2025-12-09T07:23:10.000Z",
+      "sourceUrl": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/XMLNAME-2026-Spring-to-Fall-Product-Environmental-Compliance-Co-op_R14534",
+      "discordThreadId": "1452364871898501353",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-data-engineering-intern-norcross-2025-12-21-1",
+      "jobId": "intuitive-surgical-data-engineering-intern-norcross",
+      "company": "Intuitive Surgical",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2025-12-21T18:19:35.905Z",
+      "sourceDate": "2025-12-09T05:04:56.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000097624395",
+      "discordThreadId": "1452364886431764530",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aeg-spring-intern-broadcast-dignity-health-sports-park-carson-2025-12-21-1",
+      "jobId": "aeg-spring-intern-broadcast-dignity-health-sports-park-carson",
+      "company": "AEG",
+      "title": "Spring Intern - Broadcast - Dignity Health Sports Park",
+      "postedToDiscord": "2025-12-21T18:19:42.936Z",
+      "sourceDate": "2025-12-09T06:20:59.000Z",
+      "sourceUrl": "https://www.aegworldwide.com/jobs?gh_jid=8326598002",
+      "discordThreadId": "1452364913417781364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "realtor-com-user-experience-and-web-analytics-intern-austin-2025-12-21-1",
+      "jobId": "realtor-com-user-experience-and-web-analytics-intern-austin",
+      "company": "Realtor.com",
+      "title": "User Experience and Web Analytics Intern",
+      "postedToDiscord": "2025-12-21T18:19:49.609Z",
+      "sourceDate": "2025-12-09T06:20:13.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/rdccareers/jobs/7499951003",
+      "discordThreadId": "1452364943180431423",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 972,
+    "totalJobs": 977,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T18:04:25.220Z",
+      "date": "2025-12-21T18:19:49.609Z",
       "archived": 0
     }
   }
