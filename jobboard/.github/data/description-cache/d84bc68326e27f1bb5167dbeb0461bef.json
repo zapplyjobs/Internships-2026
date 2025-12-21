@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p>The Applied Sciences Laboratory at SRI International is seeking a Summer Intern to conduct research and development in the areas of mathematics of generative AI models (specifically large language models), scalable graph analysis methods, and network sciences. Experience with implementing scalable software associated with these areas is highly desired.&nbsp; The position will be in support of a new computational and mathematical sciences team at SRI International.</p> <p>&nbsp;</p> <p>Our team focuses on the development of new algorithms for a wide variety of exciting applications including supply chain networks, social graphs, optimization of generative AI models, material failures, and biological systems. The aim of the team is to conduct and publish research at top venues and assist SRI commercialize relevant technologies by filing patents and spinning out start-ups.</p> <p>&nbsp;</p> <p>The Summer Intern will work onsite in our Menlo Park, CA office.&nbsp;&nbsp;</p> <h2>Responsibilities</h2> <ul> <li>Training generative AI models</li> <li>Experience with Reinforcement Learning approaches and theory</li> <li>Designing and implementing distributed algorithms for large graphs</li> <li>Assist in developing research ideas</li> <li>Instantiate the approaches in prototype software</li> <li>Lead the experimental evaluation of these ideas, compile results, and communicate the results in presentations.</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently enrolled in a PhD program in Applied Mathematics, Computer Science, or Engineering with a focus on computational sciences or a related area.</li> <li>Some publications, experience in algorithm development associated with artificial intelligence and graph theory.</li> </ul> <p>The salary range is: $40-$45+/hr. Salary ranges will vary and are based on several factors, including geographic location, market competitiveness and equity amongst internal employees in similar roles. Positions may also qualify for SRI's Pay for Outstanding Performance program or the annual Performance Based Compensation program. SRI also has a competitive benefits package, to view details please go to https://www.sri.com/resources/benefits/.</p> <p>&nbsp;</p> <p>SRI is an independent nonprofit research institute headquartered in Menlo Park, Calif., with a rich history of supporting government and industry. We create and deliver world-changing solutions for a safer, healthier, and more sustainable future. For more than 75 years, we have collaborated across technical and scientific disciplines to discover and develop groundbreaking products and technologies and bring innovations and ideas to the marketplace.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2025-12-21T21:35:08.408Z"
+    }
+  },
+  "cachedAt": 1766352908408
+}
