@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:31:34.420Z",
+  "lastUpdated": "2025-12-21T20:40:48.148Z",
   "jobs": [
     {
       "id": "u-s-venture-solution-development-intern-software-development-breakthrough-green-bay-2025-12-14-1",
@@ -10319,14 +10319,69 @@
       "sourceUrl": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2026-Summer-Intern---Software-Engineer_2523686-1",
       "discordThreadId": "1452398096934768732",
       "instanceNumber": 1
+    },
+    {
+      "id": "sonepar-supply-chain-data-analytics-intern-charleston-2025-12-21-1",
+      "jobId": "sonepar-supply-chain-data-analytics-intern-charleston",
+      "company": "Sonepar",
+      "title": "Supply Chain Data Analytics Intern",
+      "postedToDiscord": "2025-12-21T20:40:27.816Z",
+      "sourceDate": "2025-10-31T22:27:07.000Z",
+      "sourceUrl": "https://career.sonepar.com/job/Charleston-Supply-Chain-Data-Analytics-Intern-SC-29405/1263859201/?ats=successfactors",
+      "discordThreadId": "1452400335741124623",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lexisnexis-risk-ai-engineering-analyst-intern-alpharetta-2025-12-21-1",
+      "jobId": "lexisnexis-risk-ai-engineering-analyst-intern-alpharetta",
+      "company": "LexisNexis Risk Solutions",
+      "title": "AI Engineering Analyst Intern",
+      "postedToDiscord": "2025-12-21T20:40:31.847Z",
+      "sourceDate": "2025-10-22T07:25:55.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/AI-Engineering-Analyst-Intern_R103683",
+      "discordThreadId": "1452400350844813487",
+      "instanceNumber": 1
+    },
+    {
+      "id": "exact-sciences-commercial-effectiveness-analytics-intern-multiple-teams-madison-2025-12-21-1",
+      "jobId": "exact-sciences-commercial-effectiveness-analytics-intern-multiple-teams-madison",
+      "company": "Exact Sciences",
+      "title": "Commercial Effectiveness & Analytics Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-21T20:40:35.188Z",
+      "sourceDate": "2025-10-08T08:54:09.000Z",
+      "sourceUrl": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Commercial-Effectiveness---Analytics-Intern--Summer-2026-_R25-10955",
+      "discordThreadId": "1452400367596863700",
+      "instanceNumber": 1
+    },
+    {
+      "id": "merck-2026-future-talent-program-co-op-global-supplier-management-group-and-global-workplace-enterprise-services-digital-strategy-ds-i-delivery-team-north-wales-2025-12-21-1",
+      "jobId": "merck-2026-future-talent-program-co-op-global-supplier-management-group-and-global-workplace-enterprise-services-digital-strategy-ds-i-delivery-team-north-wales",
+      "company": "Merck",
+      "title": "2026 Future Talent Program – Co-op - Global Supplier Management Group and Global Workplace & Enterprise Services Digital Strategy &... - Ds&I - Delivery Team",
+      "postedToDiscord": "2025-12-21T20:40:41.746Z",
+      "sourceDate": "2025-10-17T01:09:45.000Z",
+      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-Future-Talent-Program---Global-Supplier-Management-Group-and-Global-Workplace---Enterprise-Services-Digital-Strategy---Insights--DS-I--Delivery-Team---Co-op_R370184",
+      "discordThreadId": "1452400394360852753",
+      "instanceNumber": 1
+    },
+    {
+      "id": "exact-sciences-ai-engineer-intern-machine-learning-operations-madison-2025-12-21-1",
+      "jobId": "exact-sciences-ai-engineer-intern-machine-learning-operations-madison",
+      "company": "Exact Sciences",
+      "title": "AI Engineer Intern - Machine Learning Operations",
+      "postedToDiscord": "2025-12-21T20:40:48.148Z",
+      "sourceDate": "2025-10-07T02:37:08.000Z",
+      "sourceUrl": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---Machine-Learning-Operations_R25-10996",
+      "discordThreadId": "1452400422013763839",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 938,
+    "totalJobs": 943,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T20:31:34.420Z",
+      "date": "2025-12-21T20:40:48.148Z",
       "archived": 0
     }
   }
