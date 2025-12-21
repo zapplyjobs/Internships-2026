@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T23:29:23.129Z",
+  "lastUpdated": "2025-12-21T23:36:49.879Z",
   "jobs": [
     {
       "id": "activision-blizzard-internship-technical-art-tech-art-canoga-park-2025-12-14-1",
@@ -9725,14 +9725,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
       "discordThreadId": "1452442847138681043",
       "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-university-2026-summer-games-systems-engineering-intern-honolulu-2025-12-21-1",
+      "jobId": "booz-allen-university-2026-summer-games-systems-engineering-intern-honolulu",
+      "company": "Booz Allen",
+      "title": "University – 2026 Summer Games Systems Engineering Intern",
+      "postedToDiscord": "2025-12-21T23:36:29.791Z",
+      "sourceDate": "2025-09-02T18:42:49.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Systems-Engineering-Intern_R0225531",
+      "discordThreadId": "1452444635388579942",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gci-telecommunications-intern-data-analytics-anchorage-2025-12-21-1",
+      "jobId": "gci-telecommunications-intern-data-analytics-anchorage",
+      "company": "GCI",
+      "title": "Telecommunications Intern-Data Analytics",
+      "postedToDiscord": "2025-12-21T23:36:33.300Z",
+      "sourceDate": "2025-12-13T02:13:27.000Z",
+      "sourceUrl": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003282",
+      "discordThreadId": "1452444651155095592",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-gas-power-electro-chemical-machining-digital-development-intern-ecm-fast-hole-drilling-fhd-greenville-2025-12-21-1",
+      "jobId": "ge-vernova-ge-vernova-gas-power-electro-chemical-machining-digital-development-intern-ecm-fast-hole-drilling-fhd-greenville",
+      "company": "GE Vernova",
+      "title": "GE Vernova Gas Power Electro Chemical Machining – Digital Development Intern - Ecm - & Fast Hole Drilling - Fhd",
+      "postedToDiscord": "2025-12-21T23:36:39.794Z",
+      "sourceDate": "2025-09-12T04:34:18.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Gas-Power-Electro-Chemical-Machining--ECM--and-Fast-Hole-Drilling--FHD--Digital-Development_R5019856-2",
+      "discordThreadId": "1452444678518735049",
+      "instanceNumber": 1
+    },
+    {
+      "id": "costar-summer-2026-data-analyst-intern-irvine-ca-irvine-2025-12-21-1",
+      "jobId": "costar-summer-2026-data-analyst-intern-irvine-ca-irvine",
+      "company": "CoStar Group",
+      "title": "Summer 2026 Data Analyst Intern-Irvine - CA",
+      "postedToDiscord": "2025-12-21T23:36:43.313Z",
+      "sourceDate": "2025-12-13T02:52:17.000Z",
+      "sourceUrl": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Orange-County---CA/Summer-2026-Data-Analyst-Intern--Irvine--CA_R38009",
+      "discordThreadId": "1452444692783567022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tenstorrent-physical-design-for-machine-learning-intern-austin-2025-12-21-1",
+      "jobId": "tenstorrent-physical-design-for-machine-learning-intern-austin",
+      "company": "Tenstorrent",
+      "title": "Physical Design for Machine Learning Intern",
+      "postedToDiscord": "2025-12-21T23:36:49.879Z",
+      "sourceDate": "2025-07-19T10:55:53.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
+      "discordThreadId": "1452444720688005212",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 884,
+    "totalJobs": 889,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T23:29:23.129Z",
+      "date": "2025-12-21T23:36:49.879Z",
       "archived": 0
     }
   }
