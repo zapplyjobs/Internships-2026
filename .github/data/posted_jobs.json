@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T17:53:43.738Z",
+  "lastUpdated": "2025-12-21T18:04:25.220Z",
   "jobs": [
     {
       "id": "u-s-venture-software-development-intern-breakthrough-green-bay-2025-12-14-1",
@@ -10638,14 +10638,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df",
       "discordThreadId": "1452358374707433606",
       "instanceNumber": 1
+    },
+    {
+      "id": "thomson-reuters-applied-scientist-intern-eagan-2025-12-21-1",
+      "jobId": "thomson-reuters-applied-scientist-intern-eagan",
+      "company": "Thomson Reuters",
+      "title": "Applied Scientist Intern",
+      "postedToDiscord": "2025-12-21T18:04:04.260Z",
+      "sourceDate": "2025-12-09T12:11:16.000Z",
+      "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Applied-Scientist-Intern_JREQ196689",
+      "discordThreadId": "1452360978103533690",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-product-technical-development-digital-sciences-focus-san-bruno-2025-12-21-1",
+      "jobId": "genentech-intern-product-technical-development-digital-sciences-focus-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Product Technical Development - Digital Sciences Focus",
+      "postedToDiscord": "2025-12-21T18:04:08.108Z",
+      "sourceDate": "2025-12-09T10:47:46.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Technical-Development---Digital-Sciences-Focus_202512-131184",
+      "discordThreadId": "1452360993522061322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "csl-plasma-innovation-project-delivery-intern-boca-raton-2025-12-21-1",
+      "jobId": "csl-plasma-innovation-project-delivery-intern-boca-raton",
+      "company": "CSL",
+      "title": "Plasma Innovation & Project Delivery Intern",
+      "postedToDiscord": "2025-12-21T18:04:12.017Z",
+      "sourceDate": "2025-12-09T10:00:55.000Z",
+      "sourceUrl": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-FL-Boca-Raton-CSL-Plasma/Plasma-Innovation---Project-Delivery-Intern_R-263392",
+      "discordThreadId": "1452361010403868825",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sanofi-mrna-systems-engineering-fall-2026-co-op-vaccine-summer-waltham-2025-12-21-1",
+      "jobId": "sanofi-mrna-systems-engineering-fall-2026-co-op-vaccine-summer-waltham",
+      "company": "Sanofi",
+      "title": "Mrna Systems Engineering – Fall 2026 Co-op - Vaccine Summer",
+      "postedToDiscord": "2025-12-21T18:04:18.621Z",
+      "sourceDate": "2025-12-09T10:48:18.000Z",
+      "sourceUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waltham-MA/Summer-or-Fall-2026-Co-op-Intern---mRNA-Systems-Engineering---Vaccine_R2816919",
+      "discordThreadId": "1452361038816088157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cme-data-science-intern-summer-2026-fall-2026-chicago-2025-12-21-1",
+      "jobId": "cme-data-science-intern-summer-2026-fall-2026-chicago",
+      "company": "CME Group",
+      "title": "Data Science Intern - Summer 2026 - Fall 2026",
+      "postedToDiscord": "2025-12-21T18:04:25.220Z",
+      "sourceDate": "2025-12-09T09:51:42.000Z",
+      "sourceUrl": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
+      "discordThreadId": "1452361066460872745",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 967,
+    "totalJobs": 972,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T17:53:43.738Z",
+      "date": "2025-12-21T18:04:25.220Z",
       "archived": 0
     }
   }

@@ -1,0 +1,18 @@
+{
+  "url": "https://job-boards.greenhouse.io/figureai/jobs/4451543006",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Figure is an AI Robotics company developing a general purpose humanoid. Our humanoid robot, Figure 02, is designed for commercial tasks and the home. We are based in San Jose, CA and require 5 days/week in-office collaboration. It’s time to build. We are looking for a Full-Stack Developer Intern with a passion for robotics and software development. For this role, you will contribute to the development, testing, and maintenance of tools and applications critical for the configuration, diagnosis, calibration, data management, and operation of our innovative subassemblies and robots. This internship presents a fantastic opportunity for those eager to gain hands-on experience in full-stack development while contributing to the cutting-edge field of AI robotics. Responsibilities: Assist in the design, implementation, and testing of tools for robot configuration, diagnosis, calibration, data management, visualization, and user interaction under the guidance of senior engineers. Support the development of scalable APIs and frameworks to facilitate mission-critical operations. Participate in cross-functional teamwork, collaborating with system integration, manufacturing, and operations teams to understand requirements and incorporate feedback into development processes. Contribute to the evaluation and selection of tools and technologies for the software stack through research and participation in trade studies. Requirements: A strong interest in pursuing a career in Computer Science, Engineering, or a related field. Basic knowledge of front-end technologies, including JavaScript, HTML5/CSS, and frameworks such as React or Next.js. Familiarity with back-end development concepts, preferably with Python or Node.js. An understanding of databases and SQL/NonSQL basics. A keen interest in working on software systems that interface with real hardware. Eagerness to learn about containerization and deployment technologies such as Docker. Strong problem-solving skills and a passion for technology and robotics. Excellent verbal and written communication skills. Bonus Qualifications: Involvement in relevant projects, hackathons, or clubs related to software development or robotics. Exposure to data visualization tools and frameworks.",
+    "requirements": [
+      "Basic knowledge of front-end technologies, including JavaScript, HTML5/CSS, and frameworks such as React or Next.js."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4451543006",
+      "fetchedAt": "2025-12-21T18:03:44.576Z"
+    }
+  },
+  "cachedAt": 1766340224576
+}
