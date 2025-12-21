@@ -4189,5 +4189,104 @@
     "sourceUrl": "https://careers-bartwest.icims.com/jobs/2334/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1449838300381708385",
     "instanceNumber": 1
+  },
+  {
+    "id": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo-2025-12-14-1",
+    "jobId": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo",
+    "company": "BorgWarner",
+    "title": "Data Science Intern - Supply Chain BOM Analytics",
+    "postedToDiscord": "2025-12-14T19:09:17.097Z",
+    "sourceDate": "2025-09-18T01:14:01.000Z",
+    "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Data-Science-Intern--Supply-Chain-BOM-Analytics_R2025-3648",
+    "discordThreadId": "1449840682599714928",
+    "instanceNumber": 1
+  },
+  {
+    "id": "barry-wehmiller-di-software-development-intern-st-louis-2025-12-14-1",
+    "jobId": "barry-wehmiller-di-software-development-intern-st-louis",
+    "company": "Barry-Wehmiller",
+    "title": "DI Software Development Intern",
+    "postedToDiscord": "2025-12-14T19:09:21.846Z",
+    "sourceDate": "2025-09-18T00:57:09.000Z",
+    "sourceUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/DI-Software-Development-Intern_R019488",
+    "discordThreadId": "1449840702598025379",
+    "instanceNumber": 1
+  },
+  {
+    "id": "verkada-software-engineering-intern-san-mateo-2025-12-14-1",
+    "jobId": "verkada-software-engineering-intern-san-mateo",
+    "company": "Verkada",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T19:09:25.230Z",
+    "sourceDate": "2025-09-18T00:44:18.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4873796007",
+    "discordThreadId": "1449840709694914690",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cae-engineering-co-op-tampa-2025-12-14-1",
+    "jobId": "cae-engineering-co-op-tampa",
+    "company": "CAE",
+    "title": "Engineering Co-op",
+    "postedToDiscord": "2025-12-14T19:09:27.069Z",
+    "sourceDate": "2025-09-17T19:18:08.000Z",
+    "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040",
+    "discordThreadId": "1449840724022661232",
+    "instanceNumber": 1
+  },
+  {
+    "id": "quest-analytics-quest-analytics-internship-program-summer-2026-overland-park-2025-12-14-1",
+    "jobId": "quest-analytics-quest-analytics-internship-program-summer-2026-overland-park",
+    "company": "Quest Analytics",
+    "title": "Quest Analytics Internship Program - Summer 2026",
+    "postedToDiscord": "2025-12-14T19:09:28.801Z",
+    "sourceDate": "2025-09-17T18:28:45.000Z",
+    "sourceUrl": "https://jobs.lever.co/questanalytics/ad0a6e60-cacc-4c33-9793-ca53c67082dc/apply",
+    "discordThreadId": "1449840731723268106",
+    "instanceNumber": 1
+  },
+  {
+    "id": "apex-fintech-solutions-software-engineering-intern-austin-2025-12-14-1",
+    "jobId": "apex-fintech-solutions-software-engineering-intern-austin",
+    "company": "Apex Fintech Solutions",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T19:09:30.476Z",
+    "sourceDate": "2025-09-17T18:14:23.000Z",
+    "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern_JR103564",
+    "discordThreadId": "1449840738522370071",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bae-systems-software-or-computer-engineering-intern-sterling-heights-2025-12-14-1",
+    "jobId": "bae-systems-software-or-computer-engineering-intern-sterling-heights",
+    "company": "BAE Systems",
+    "title": "Software or Computer Engineering Intern",
+    "postedToDiscord": "2025-12-14T19:09:32.200Z",
+    "sourceDate": "2025-09-17T16:06:24.000Z",
+    "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
+    "discordThreadId": "1449840745715470551",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dexcom-software-test-engineering-remote-in-usa-2025-12-14-1",
+    "jobId": "dexcom-software-test-engineering-remote-in-usa",
+    "company": "Dexcom",
+    "title": "Software Test Engineering",
+    "postedToDiscord": "2025-12-14T19:09:33.962Z",
+    "sourceDate": "2025-09-17T16:05:04.000Z",
+    "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Intern-I---Software-Test-Engineering_JR114243",
+    "discordThreadId": "1449840753097310240",
+    "instanceNumber": 1
+  },
+  {
+    "id": "waymo-intern-phd-machine-learning-engineer-simulation-mountain-view-2025-12-14-1",
+    "jobId": "waymo-intern-phd-machine-learning-engineer-simulation-mountain-view",
+    "company": "Waymo",
+    "title": "Intern - PhD - Machine Learning Engineer - Simulation",
+    "postedToDiscord": "2025-12-14T19:09:38.754Z",
+    "sourceDate": "2025-09-17T23:29:24.000Z",
+    "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7252833",
+    "discordThreadId": "1449840773158797386",
+    "instanceNumber": 1
   }
 ]
