@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:28:43.987Z",
+  "lastUpdated": "2025-12-21T21:35:45.885Z",
   "jobs": [
-    {
-      "id": "shure-automated-test-engineering-intern-software-morton-grove-2025-12-14-1",
-      "jobId": "shure-automated-test-engineering-intern-software-morton-grove",
-      "company": "Shure",
-      "title": "Automated Test Engineering Intern - Software",
-      "postedToDiscord": "2025-12-14T21:32:00.597Z",
-      "sourceDate": "2025-09-10T23:31:31.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4403/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449876600752443502",
-      "instanceNumber": 1
-    },
-    {
-      "id": "symbotic-intern-bot-controls-burlington-2025-12-14-1",
-      "jobId": "symbotic-intern-bot-controls-burlington",
-      "company": "Symbotic",
-      "title": "Intern-Bot Controls",
-      "postedToDiscord": "2025-12-14T21:32:04.026Z",
-      "sourceDate": "2025-09-10T23:24:30.000Z",
-      "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Bot-Controls_R5395",
-      "discordThreadId": "1449876607463461079",
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-analytics-summer-internship-burlington-2025-12-14-1",
-      "jobId": "str-analytics-summer-internship-burlington",
-      "company": "STR",
-      "title": "Analytics Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:10.762Z",
-      "sourceDate": "2025-09-10T23:25:41.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600651006",
-      "discordThreadId": "1449876634999193664",
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-analytics-summer-internship-arlington-2025-12-14-1",
-      "jobId": "str-analytics-summer-internship-arlington",
-      "company": "STR",
-      "title": "Analytics Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:10.767Z",
-      "sourceDate": "2025-09-10T23:25:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600649006",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-intelligence-summer-internship-arlington-2025-12-14-1",
-      "jobId": "str-intelligence-summer-internship-arlington",
-      "company": "STR",
-      "title": "Intelligence Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:14.187Z",
-      "sourceDate": "2025-09-10T23:25:41.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600689006",
-      "discordThreadId": "1449876650451013704",
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-intelligence-summer-internship-burlington-2025-12-14-1",
-      "jobId": "str-intelligence-summer-internship-burlington",
-      "company": "STR",
-      "title": "Intelligence Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:14.193Z",
-      "sourceDate": "2025-09-10T23:25:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600691006",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-machine-learning-computer-vision-ms-phd-summer-internship-burlington-2025-12-14-1",
-      "jobId": "str-machine-learning-computer-vision-ms-phd-summer-internship-burlington",
-      "company": "STR",
-      "title": "Machine Learning Computer Vision MS/PhD Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:17.688Z",
-      "sourceDate": "2025-09-10T23:25:35.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600696006",
-      "discordThreadId": "1449876664912838808",
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-machine-learning-computer-vision-ms-phd-summer-internship-arlington-2025-12-14-1",
-      "jobId": "str-machine-learning-computer-vision-ms-phd-summer-internship-arlington",
-      "company": "STR",
-      "title": "Machine Learning Computer Vision MS/PhD Summer Internship",
-      "postedToDiscord": "2025-12-14T21:32:17.693Z",
-      "sourceDate": "2025-09-10T23:25:33.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600694006",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "susquehanna-international-group-sig-machine-learning-internship-ardmore-2025-12-14-1",
-      "jobId": "susquehanna-international-group-sig-machine-learning-internship-ardmore",
-      "company": "Susquehanna International Group (SIG)",
-      "title": "Machine Learning Internship",
-      "postedToDiscord": "2025-12-14T21:32:19.532Z",
-      "sourceDate": "2025-09-10T23:14:06.000Z",
-      "sourceUrl": "https://careers-sig.icims.com/jobs/9400/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449876679332986911",
-      "instanceNumber": 1
-    },
     {
       "id": "citizens-financial-group-data-analytics-graduate-internship-coralville-2025-12-14-1",
       "jobId": "citizens-financial-group-data-analytics-graduate-internship-coralville",
@@ -10154,14 +10055,69 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990009198524",
       "discordThreadId": "1452412483213070519",
       "instanceNumber": 1
+    },
+    {
+      "id": "sony-software-engineer-intern-san-diego-2025-12-21-1",
+      "jobId": "sony-software-engineer-intern-san-diego",
+      "company": "Sony",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-21T21:35:22.018Z",
+      "sourceDate": "2025-08-01T17:05:58.000Z",
+      "sourceUrl": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-117822",
+      "discordThreadId": "1452414152869019649",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-software-development-intern-co-op-greenville-2025-12-21-1",
+      "jobId": "rolls-royce-software-development-intern-co-op-greenville",
+      "company": "Rolls Royce",
+      "title": "Software Development Intern/Co-op",
+      "postedToDiscord": "2025-12-21T21:35:25.953Z",
+      "sourceDate": "2025-12-12T07:14:27.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Greenville-Software-Development-Co-Op-(Summer-2026)-Sout/1274951401/?ats=successfactors",
+      "discordThreadId": "1452414170032115814",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-enterprise-institute-economic-policy-intern-washington-2025-12-21-1",
+      "jobId": "american-enterprise-institute-economic-policy-intern-washington",
+      "company": "American Enterprise Institute",
+      "title": "Economic Policy Intern",
+      "postedToDiscord": "2025-12-21T21:35:32.755Z",
+      "sourceDate": "2025-11-04T23:27:39.000Z",
+      "sourceUrl": "https://internships-aei.icims.com/jobs/2533/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452414196800028914",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-paint-shop-digitalization-co-op-greer-2025-12-21-1",
+      "jobId": "rolls-royce-paint-shop-digitalization-co-op-greer",
+      "company": "Rolls Royce",
+      "title": "Paint Shop Digitalization Co-op",
+      "postedToDiscord": "2025-12-21T21:35:39.510Z",
+      "sourceDate": "2025-12-12T07:14:25.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Greer-Paint-Shop-Digitalization-Co-op-(Summer-2026)-Sout/1275288601/?ats=successfactors",
+      "discordThreadId": "1452414225711501464",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-apex-oracle-co-op-summer-2026-spartanburg-2025-12-21-1",
+      "jobId": "rolls-royce-apex-oracle-co-op-summer-2026-spartanburg",
+      "company": "Rolls Royce",
+      "title": "APEX/Oracle Co-Op - Summer 2026",
+      "postedToDiscord": "2025-12-21T21:35:45.885Z",
+      "sourceDate": "2025-12-12T07:14:23.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-APEXOracle-Co-Op-(Summer-2026)-Sout/1275615301/?ats=successfactors",
+      "discordThreadId": "1452414253716869376",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 923,
+    "totalJobs": 919,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:28:43.987Z",
+      "date": "2025-12-21T21:35:45.885Z",
       "archived": 0
     }
   }

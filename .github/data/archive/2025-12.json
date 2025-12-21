@@ -5476,5 +5476,104 @@
     "sourceUrl": "https://careers-ice.icims.com/jobs/11632/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1449873963454038169",
     "instanceNumber": 1
+  },
+  {
+    "id": "shure-automated-test-engineering-intern-software-morton-grove-2025-12-14-1",
+    "jobId": "shure-automated-test-engineering-intern-software-morton-grove",
+    "company": "Shure",
+    "title": "Automated Test Engineering Intern - Software",
+    "postedToDiscord": "2025-12-14T21:32:00.597Z",
+    "sourceDate": "2025-09-10T23:31:31.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4403/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449876600752443502",
+    "instanceNumber": 1
+  },
+  {
+    "id": "symbotic-intern-bot-controls-burlington-2025-12-14-1",
+    "jobId": "symbotic-intern-bot-controls-burlington",
+    "company": "Symbotic",
+    "title": "Intern-Bot Controls",
+    "postedToDiscord": "2025-12-14T21:32:04.026Z",
+    "sourceDate": "2025-09-10T23:24:30.000Z",
+    "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Bot-Controls_R5395",
+    "discordThreadId": "1449876607463461079",
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-analytics-summer-internship-burlington-2025-12-14-1",
+    "jobId": "str-analytics-summer-internship-burlington",
+    "company": "STR",
+    "title": "Analytics Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:10.762Z",
+    "sourceDate": "2025-09-10T23:25:41.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600651006",
+    "discordThreadId": "1449876634999193664",
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-analytics-summer-internship-arlington-2025-12-14-1",
+    "jobId": "str-analytics-summer-internship-arlington",
+    "company": "STR",
+    "title": "Analytics Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:10.767Z",
+    "sourceDate": "2025-09-10T23:25:39.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600649006",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-intelligence-summer-internship-arlington-2025-12-14-1",
+    "jobId": "str-intelligence-summer-internship-arlington",
+    "company": "STR",
+    "title": "Intelligence Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:14.187Z",
+    "sourceDate": "2025-09-10T23:25:41.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600689006",
+    "discordThreadId": "1449876650451013704",
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-intelligence-summer-internship-burlington-2025-12-14-1",
+    "jobId": "str-intelligence-summer-internship-burlington",
+    "company": "STR",
+    "title": "Intelligence Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:14.193Z",
+    "sourceDate": "2025-09-10T23:25:39.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600691006",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-machine-learning-computer-vision-ms-phd-summer-internship-burlington-2025-12-14-1",
+    "jobId": "str-machine-learning-computer-vision-ms-phd-summer-internship-burlington",
+    "company": "STR",
+    "title": "Machine Learning Computer Vision MS/PhD Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:17.688Z",
+    "sourceDate": "2025-09-10T23:25:35.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600696006",
+    "discordThreadId": "1449876664912838808",
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-machine-learning-computer-vision-ms-phd-summer-internship-arlington-2025-12-14-1",
+    "jobId": "str-machine-learning-computer-vision-ms-phd-summer-internship-arlington",
+    "company": "STR",
+    "title": "Machine Learning Computer Vision MS/PhD Summer Internship",
+    "postedToDiscord": "2025-12-14T21:32:17.693Z",
+    "sourceDate": "2025-09-10T23:25:33.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4600694006",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "susquehanna-international-group-sig-machine-learning-internship-ardmore-2025-12-14-1",
+    "jobId": "susquehanna-international-group-sig-machine-learning-internship-ardmore",
+    "company": "Susquehanna International Group (SIG)",
+    "title": "Machine Learning Internship",
+    "postedToDiscord": "2025-12-14T21:32:19.532Z",
+    "sourceDate": "2025-09-10T23:14:06.000Z",
+    "sourceUrl": "https://careers-sig.icims.com/jobs/9400/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449876679332986911",
+    "instanceNumber": 1
   }
 ]
