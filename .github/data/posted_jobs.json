@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T23:18:16.179Z",
+  "lastUpdated": "2025-12-21T23:29:23.129Z",
   "jobs": [
-    {
-      "id": "pennstate-university-guidance-and-control-research-development-internship-state-college-2025-12-14-1",
-      "jobId": "pennstate-university-guidance-and-control-research-development-internship-state-college",
-      "company": "PennState University",
-      "title": "Guidance and Control Research & Development Internship",
-      "postedToDiscord": "2025-12-14T23:25:03.807Z",
-      "sourceDate": "2025-09-05T22:08:10.000Z",
-      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1",
-      "discordThreadId": "1449905051517718620",
-      "instanceNumber": 1
-    },
-    {
-      "id": "abbvie-graph-machine-learning-intern-phd-waukegan-2025-12-14-1",
-      "jobId": "abbvie-graph-machine-learning-intern-phd-waukegan",
-      "company": "AbbVie",
-      "title": "Graph Machine Learning Intern - PhD",
-      "postedToDiscord": "2025-12-14T23:25:05.535Z",
-      "sourceDate": "2025-09-05T03:47:32.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990009335777",
-      "discordThreadId": "1449905058539114578",
-      "instanceNumber": 1
-    },
-    {
-      "id": "s-p-global-machine-learning-intern-cambridge-2025-12-14-1",
-      "jobId": "s-p-global-machine-learning-intern-cambridge",
-      "company": "S&P Global ",
-      "title": "Machine Learning Intern",
-      "postedToDiscord": "2025-12-14T23:25:08.981Z",
-      "sourceDate": "2025-09-05T02:15:44.000Z",
-      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319677",
-      "discordThreadId": "1449905065908506768",
-      "instanceNumber": 1
-    },
-    {
-      "id": "muon-space-software-engineering-intern-san-jose-2025-12-14-1",
-      "jobId": "muon-space-software-engineering-intern-san-jose",
-      "company": "Muon Space",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T23:25:10.678Z",
-      "sourceDate": "2025-09-05T02:10:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/muonspace/jobs/4856413007",
-      "discordThreadId": "1449905080324067418",
-      "instanceNumber": 1
-    },
-    {
-      "id": "auto-owners-insurance-predictive-modeler-intern-east-lansing-2025-12-14-1",
-      "jobId": "auto-owners-insurance-predictive-modeler-intern-east-lansing",
-      "company": "Auto-Owners Insurance",
-      "title": "Predictive Modeler Intern",
-      "postedToDiscord": "2025-12-14T23:25:12.441Z",
-      "sourceDate": "2025-09-05T02:10:24.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Predictive-Modeler-Intern---Summer-2022_R_3833",
-      "discordThreadId": "1449905087605379092",
-      "instanceNumber": 1
-    },
-    {
-      "id": "igs-energy-software-engineer-intern-remote-2025-12-14-1",
-      "jobId": "igs-energy-software-engineer-intern-remote",
-      "company": "IGS Energy",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T23:25:17.184Z",
-      "sourceDate": "2025-09-05T17:14:39.000Z",
-      "sourceUrl": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R5639",
-      "discordThreadId": "1449905107205492880",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keycorp-2026-summer-marketing-analytics-internship-brooklyn-2025-12-14-1",
-      "jobId": "keycorp-2026-summer-marketing-analytics-internship-brooklyn",
-      "company": "KeyCorp",
-      "title": "2026 Summer Marketing Analytics Internship",
-      "postedToDiscord": "2025-12-14T23:25:18.868Z",
-      "sourceDate": "2025-09-05T02:12:42.000Z",
-      "sourceUrl": "https://keybank.wd5.myworkdayjobs.com/external_career_site/job/Brooklyn-OH/XMLNAME-2026-Summer-Marketing-Internship---Cleveland_R-33872",
-      "discordThreadId": "1449905114340134987",
-      "instanceNumber": 1
-    },
-    {
-      "id": "auto-owners-insurance-software-developer-internship-east-lansing-2025-12-14-1",
-      "jobId": "auto-owners-insurance-software-developer-internship-east-lansing",
-      "company": "Auto-Owners Insurance",
-      "title": "Software Developer Internship",
-      "postedToDiscord": "2025-12-14T23:25:20.602Z",
-      "sourceDate": "2025-09-05T02:10:20.000Z",
-      "sourceUrl": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
-      "discordThreadId": "1449905121487098043",
-      "instanceNumber": 1
-    },
-    {
-      "id": "usaa-quantitative-risk-analyst-intern-charlotte-2025-12-14-1",
-      "jobId": "usaa-quantitative-risk-analyst-intern-charlotte",
-      "company": "USAA",
-      "title": "Quantitative Risk Analyst Intern",
-      "postedToDiscord": "2025-12-14T23:25:25.376Z",
-      "sourceDate": "2025-09-05T14:10:24.000Z",
-      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0112127",
-      "discordThreadId": "1449905141707833416",
-      "instanceNumber": 1
-    },
     {
       "id": "activision-blizzard-internship-technical-art-tech-art-canoga-park-2025-12-14-1",
       "jobId": "activision-blizzard-internship-technical-art-tech-art-canoga-park",
@@ -9769,14 +9670,69 @@
       "sourceUrl": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Administration-Center/GIS-Intern---Summer-2026-Internship_R20263",
       "discordThreadId": "1452440049101836323",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-software-developer-intern-co-op-berkeley-heights-2025-12-21-1",
+      "jobId": "nokia-software-developer-intern-co-op-berkeley-heights",
+      "company": "Nokia",
+      "title": "Software Developer Intern/Co-op",
+      "postedToDiscord": "2025-12-21T23:29:03.076Z",
+      "sourceDate": "2025-12-12T16:20:47.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28479",
+      "discordThreadId": "1452442760945602694",
+      "instanceNumber": 1
+    },
+    {
+      "id": "labcorp-software-engineer-intern-durham-2025-12-21-1",
+      "jobId": "labcorp-software-engineer-intern-durham",
+      "company": "LabCorp",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-21T23:29:06.717Z",
+      "sourceDate": "2025-12-05T23:44:09.000Z",
+      "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Engineer_2534780-1",
+      "discordThreadId": "1452442777433542867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rambus-product-engineering-intern-product-engineering-san-jose-2025-12-21-1",
+      "jobId": "rambus-product-engineering-intern-product-engineering-san-jose",
+      "company": "Rambus",
+      "title": "Product Engineering Intern - Product Engineering",
+      "postedToDiscord": "2025-12-21T23:29:10.273Z",
+      "sourceDate": "2025-09-26T10:53:31.000Z",
+      "sourceUrl": "https://careers-rambus.icims.com/jobs/22361/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452442792725970974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-digitalization-co-op-spartanburg-2025-12-21-1",
+      "jobId": "rolls-royce-digitalization-co-op-spartanburg",
+      "company": "Rolls Royce",
+      "title": "Digitalization Co-op",
+      "postedToDiscord": "2025-12-21T23:29:16.699Z",
+      "sourceDate": "2025-12-12T16:19:54.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-Digitalization-Co-op-Summer-2026-Sout/1209085001/?ats=successfactors",
+      "discordThreadId": "1452442820215574610",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tenstorrent-physical-design-for-machine-learning-intern-santa-clara-2025-12-21-1",
+      "jobId": "tenstorrent-physical-design-for-machine-learning-intern-santa-clara",
+      "company": "Tenstorrent",
+      "title": "Physical Design for Machine Learning Intern",
+      "postedToDiscord": "2025-12-21T23:29:23.128Z",
+      "sourceDate": "2025-11-04T07:33:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007",
+      "discordThreadId": "1452442847138681043",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 888,
+    "totalJobs": 884,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T23:18:16.179Z",
+      "date": "2025-12-21T23:29:23.129Z",
       "archived": 0
     }
   }
