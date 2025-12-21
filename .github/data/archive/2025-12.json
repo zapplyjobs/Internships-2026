@@ -6268,5 +6268,104 @@
     "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7235071",
     "discordThreadId": "1449896334558498970",
     "instanceNumber": 1
+  },
+  {
+    "id": "thermo-fisher-scientific-software-intern-pleasanton-2025-12-14-1",
+    "jobId": "thermo-fisher-scientific-software-intern-pleasanton",
+    "company": "Thermo Fisher Scientific",
+    "title": "Software Intern",
+    "postedToDiscord": "2025-12-14T22:59:04.813Z",
+    "sourceDate": "2025-09-09T02:06:00.000Z",
+    "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Software-Intern_R-01328068",
+    "discordThreadId": "1449898505144373510",
+    "instanceNumber": 1
+  },
+  {
+    "id": "symbotic-intern-machine-learning-burlington-2025-12-14-1",
+    "jobId": "symbotic-intern-machine-learning-burlington",
+    "company": "Symbotic",
+    "title": "Intern-Machine Learning",
+    "postedToDiscord": "2025-12-14T22:59:08.250Z",
+    "sourceDate": "2025-09-08T21:39:16.000Z",
+    "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Machine-Learning_R5401",
+    "discordThreadId": "1449898519715381380",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cboe-machine-learning-intern-regulatory-chicago-2025-12-14-1",
+    "jobId": "cboe-machine-learning-intern-regulatory-chicago",
+    "company": "Cboe",
+    "title": "Machine Learning Intern - Regulatory",
+    "postedToDiscord": "2025-12-14T22:59:10.001Z",
+    "sourceDate": "2025-09-08T07:42:19.000Z",
+    "sourceUrl": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Machine-Learning-Intern--Regulatory_R-4121",
+    "discordThreadId": "1449898534450233424",
+    "instanceNumber": 1
+  },
+  {
+    "id": "chatham-financial-2026-software-engineer-intern-west-chester-2025-12-14-1",
+    "jobId": "chatham-financial-2026-software-engineer-intern-west-chester",
+    "company": "Chatham Financial",
+    "title": "2026 Software Engineer Intern",
+    "postedToDiscord": "2025-12-14T22:59:14.810Z",
+    "sourceDate": "2025-09-09T02:06:00.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/chathamfinancial/jobs/7183989",
+    "discordThreadId": "1449898554217988147",
+    "instanceNumber": 1
+  },
+  {
+    "id": "c3-ai-software-engineer-intern-san-carlos-2025-12-14-1",
+    "jobId": "c3-ai-software-engineer-intern-san-carlos",
+    "company": "C3.ai",
+    "title": "Software Engineer – Intern",
+    "postedToDiscord": "2025-12-14T22:59:18.202Z",
+    "sourceDate": "2025-09-08T18:24:35.000Z",
+    "sourceUrl": "https://c3.ai/job-description/8106513002?gh_jid=8106513002",
+    "discordThreadId": "1449898561696170166",
+    "instanceNumber": 1
+  },
+  {
+    "id": "verisk-tech-internship-holmdel-2025-12-14-1",
+    "jobId": "verisk-tech-internship-holmdel",
+    "company": "Verisk",
+    "title": "Tech Internship",
+    "postedToDiscord": "2025-12-14T22:59:19.868Z",
+    "sourceDate": "2025-09-08T17:49:48.000Z",
+    "sourceUrl": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2257",
+    "discordThreadId": "1449898575491371094",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cboe-software-engineer-intern-data-vantage-chicago-2025-12-14-1",
+    "jobId": "cboe-software-engineer-intern-data-vantage-chicago",
+    "company": "Cboe",
+    "title": "Software Engineer Intern - Data Vantage",
+    "postedToDiscord": "2025-12-14T22:59:21.762Z",
+    "sourceDate": "2025-09-08T07:38:59.000Z",
+    "sourceUrl": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--Data-Vantage_R-4116",
+    "discordThreadId": "1449898583028666500",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cboe-client-intelligence-platform-intern-data-analytics-chicago-2025-12-14-1",
+    "jobId": "cboe-client-intelligence-platform-intern-data-analytics-chicago",
+    "company": "Cboe",
+    "title": "Client Intelligence Platform Intern - Data & Analytics",
+    "postedToDiscord": "2025-12-14T22:59:23.482Z",
+    "sourceDate": "2025-09-08T07:30:06.000Z",
+    "sourceUrl": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Client-Intelligence-Platform-Intern_R-4139",
+    "discordThreadId": "1449898590641324114",
+    "instanceNumber": 1
+  },
+  {
+    "id": "c3-ai-data-science-intern-san-carlos-2025-12-14-1",
+    "jobId": "c3-ai-data-science-intern-san-carlos",
+    "company": "C3.ai",
+    "title": "Data Science – Intern",
+    "postedToDiscord": "2025-12-14T22:59:30.211Z",
+    "sourceDate": "2025-09-08T18:24:19.000Z",
+    "sourceUrl": "https://c3.ai/job-description/8107070002?gh_jid=8107070002",
+    "discordThreadId": "1449898610580918402",
+    "instanceNumber": 1
   }
 ]
