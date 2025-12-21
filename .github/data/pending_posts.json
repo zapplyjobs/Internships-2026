@@ -641,106 +641,6 @@
   },
   {
     "job": {
-      "job_title": "Intern Enterprise Architecture",
-      "employer_name": "GM financial",
-      "job_city": "Arlington",
-      "job_state": "TX",
-      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
-      "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
-      "job_posted_at_datetime_utc": "2025-12-08T22:49:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gm-financial-intern-enterprise-architecture-arlington",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T10:42:29.898Z",
-    "enrichedAt": "2025-12-21T21:44:28.492Z",
-    "postedAt": "2025-12-21T22:04:10.124Z"
-  },
-  {
-    "job": {
-      "job_title": "Survey Intern",
-      "employer_name": "Westwood",
-      "job_city": "Fresno",
-      "job_state": "CA",
-      "job_description": "<h2>Overview</h2> <p><strong>Survey Intern</strong></p> <p><strong>Westwood Professional Services, Inc.</strong></p> <p>&nbsp;</p> <p><strong>Westwood Professional Services, Inc.</strong> &nbsp;is seeking a Survey Intern to join our team. Westwood has a highly experienced and dynamic team of individuals dedicated to providing high-level professional services to our clients</p> <h2>Duties and Responsibilities</h2> <ul> <li>Responsible for assisting the Crew Chief in the operation of a field survey crew</li> <li>The major objectives are the quality (accuracy, thoroughness, meeting regulatory requirements, public relations) of work, safety, and maintenance of equipment</li> <li>Must operate equipment, maintain safe work environment, protect and maintain the equipment and vehicles, accurately and efficiently collect field data and locate features</li> <li>Record accurate and clear surveying notes</li> <li>Requires a lot of walking outside year-round through all kinds of terrain and in extreme heat and cold</li> <li>Set wooden stakes and iron rods, cut and clear brush, trees, etc.</li> <li>Adhere to the company’s Safety, Quality Management and Equipment Maintenance policies</li> <li>Assisting Registered Professional Surveyors with CAD production, survey research, boundary analysis, easement preparations, legal descriptions, and computing survey points</li> <li>Coordinate and work with field crews and other office staff</li> </ul> <h2>Required Skills</h2> <ul> <li>Physically mobile in and around construction sites and field assignments</li> <li>Ability to carry survey equipment and supplies in remote, rural or urban surroundings</li> <li>Ability to lift 50 pounds and walk long distances</li> </ul> <h2>Required Experience</h2> <ul> <li>High school diploma or GED required</li> <li>Currently enrolled in an associates or bachelor’s degree program in Surveying, Engineering Technology, or related area of study</li> <li>Basic knowledge of AutoCAD Civil 3D for production activities</li> <li>Ability to manage multiple tasks, project coordination, maintain organizational structures, and interact with other design services</li> <li>Ability to perform in a fast-paced environment that is in a growth mode</li> <li>Strong listening, writing, and verbal communication skills</li> </ul> <h2>Preferred Experience</h2> <ul> <li>Knowledge of ALTA surveys, boundary analysis, topographic surveys, preparation of easement documents, legal descriptions, final plat preparation, construction staking</li> <li>Full use of Microsoft Office</li> <li>Familiar with GIS processes and terminology</li> <li>Prior experience with survey field work</li> </ul> <h2>Compensation Range Minimum</h2>USD $20.00/Hr. <h2>Compensation Range Maximum</h2>USD $28.00/Hr. <h2>About Westwood Professional Services, Inc. (Westwood)</h2> <p>At Westwood, our purpose is to create a better world for people through our work. We transform the energy grid, design resilient infrastructure, and develop communities that will flourish today and for future generations. With over 50 years of experience and a legacy of innovation, we stand at the forefront of our industry, dedicated to understanding the unique needs of the markets we serve.</p> <p>Our approach revolves around people. We are committed to building a culture that attracts, retains, and develops high performers. Our team values relationships, innovation, dedication, initiative, and growth. We believe fostering a collaborative “One Team” mentality yields superior outcomesin everything we do.</p> <p>&nbsp;</p> <p>We customize our technical capabilities and geographic reach to meet our clients where they are and help them realize their vision. We are partners in our clients’ success, driving to provide solutions that make a lasting difference. Safety, sustainability, and operational excellence are not just facets of our work; they are intrinsic to our identity, guiding every decision we make.</p> <p>&nbsp;</p> <p>We are deeply invested in the communities we serve. Through our projects and giving-back initiatives, we enrich the lives of those we serve, engage others within our industry, and create a lasting impact on communities around the world. To us, success transcends the completion of projects; it is reflected in the lives we have positively impacted by our work.</p> <p>&nbsp;</p> <p>Join us in creating a better world.</p> <p>&nbsp;</p> <p>In 2024, Zweig Group ranked Westwood nationally at #13 and #40, respectively, on its Hot Firms and Best Firms to Work for lists. Zweig also awarded Westwood one national 1st place award for Marketing Excellence. Westwood was recently recognized as #83 in the ENR Top 500 Firms in 2024. The firm consistently ranks on the industry's top 25 lists and receives recognition for its involvement in award-winning projects nationwide.</p> <p>&nbsp;</p> <p>Westwood provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. We believe that diverse backgrounds strengthen our business. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</p>",
-      "job_apply_link": "https://careers-westwoodps.icims.com/jobs/7145/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-15T21:31:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "westwood-survey-intern-fresno",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T10:42:29.898Z",
-    "enrichedAt": "2025-12-21T21:44:28.492Z",
-    "postedAt": "2025-12-21T22:04:10.124Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern – AI/ML Software Engineering Intern - Simulation Core",
-      "employer_name": "General Motors",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Locations: Sunnyvale, California  Mountain View, California  About the Team:  The Simulation group builds artificial intelligence (AI) and machine learning (ML) models that power realistic environments for testing and training advanced systems. These simulations generate diverse scenarios that help validate and improve decision-making policies across robotics, autonomous systems, and other AI-driven applications. Think of Simulation as a virtual training ground where complex systems learn to operate safely and effectively. The team develops AI/ML models that control simulated entities—whether vehicles, robots, or other agents—so they interact in realistic and dynamic ways. Our technology stack includes generative models, reinforcement learning (RL), and other ML approaches. The Simulation group collaborates closely with teams in behaviors, perception, safety engineering, and infrastructure to deliver scalable, high-fidelity environments. As an intern, you’ll gain hands-on experience in AI/ML model development, training loop optimization, and simulation infrastructure design, while learning from experienced engineers in the robotics and AI space.   What You’ll Do: Assist in developing ML and RL models, including training loop design and optimization. Help streamline integration and contribute to ML infrastructure, metrics, and data pipelines. Collaborate with the AI/ML team to support rapid experimentation and deployment in simulation environments. Apply software engineering skills to accelerate project timelines in areas such as robotics, autonomous systems, and simulation frameworks. Learn how simulation technologies are applied to real-world AI and ML systems. Participate in code reviews, technical discussions, and design resign Collaborate with cross-functional teams including hardware, systems, test, and safety to ensure seamless software integration Communicate effectively across multiple stakeholders  Required Qualifications: We’re looking for students who are eager to learn and contribute. What you need is curiosity, strong fundamentals, and a passion for AI and simulation. Currently pursuing a PhD in Computer Science, Robotics, Electrical Engineering, or a related field. Familiarity with machine learning concepts and frameworks (e.g., TensorFlow, PyTorch). Strong programming skills in Python or C++. Exposure to reinforcement learning, generative models, or GPU programming. Interest in simulation, robotics, or autonomous systems. Able to work fulltime, 40 hours per week.  Preferred Qualifications: Demonstrated software engineering experience from previous internships, work experience, coding competitions, or publications. Experience with projects involving ML pipelines, optimization, or robotics competitions. Intent to return to degree-program after the completion of the internship/co-op.  Compensation: The monthly salary range for this role is $12,300 per month  GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers  \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineering-Intern---Simulation-Core--PhD-_JR-202524239",
-      "job_posted_at_datetime_utc": "2025-12-13T00:47:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-sunnyvale",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T21:44:28.492Z",
-    "postedAt": "2025-12-21T22:04:10.124Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Realtor.com",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Join Realtor.com in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/rdccareers/jobs/7453200003",
-      "job_posted_at_datetime_utc": "2025-12-12T23:49:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "realtor-com-software-engineer-intern-austin",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T21:44:28.492Z",
-    "postedAt": "2025-12-21T22:04:10.124Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern-Engineering - Reliability Physics",
-      "employer_name": "Microchip Technology",
-      "job_city": "Chandler",
-      "job_state": "AZ",
-      "job_description": "Join Microchip Technology in this exciting opportunity.",
-      "job_apply_link": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--Reliability-Physics-_R2607-25",
-      "job_posted_at_datetime_utc": "2025-12-12T23:48:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microchip-technology-intern-engineering-reliability-physics-chandler",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T21:44:28.492Z",
-    "postedAt": "2025-12-21T22:04:10.124Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Boston",
       "employer_name": "Skydio",
       "job_city": "Boston",
@@ -754,10 +654,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T21:53:25.786Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:17:19.317Z"
   },
   {
     "job": {
@@ -774,10 +674,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T21:53:25.786Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:17:19.317Z"
   },
   {
     "job": {
@@ -794,10 +694,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T21:53:25.786Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:17:19.317Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T21:53:25.786Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:17:19.317Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T21:53:25.786Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T22:17:19.317Z"
   },
   {
     "job": {
@@ -945,16 +845,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionGM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.) To help facilitate administration of the relocation stipended if you are selected, please apply using the permanent address you would move from. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  This internship may be considered remote for an individual in the Seattle area.  Locations:  Mountain View, California Sunnyvale, California  About the Team Our team, GM's AV (Autonomous Vehicles) organization, collaborates closely with the Operations Team. Our primary function is to develop and implement products that help them efficiently manage our extensive data collection vehicle fleet. This role is well-suited for individuals who have a strong product focus and a consistent drive to meet customer needs. We also incorporate generative AI into both our development tools and the products we create.  About The Role:  We are looking for an intern with strong engineering fundamentals and who is passionate about enabling effective business operations. As a member of this team, we are looking for someone who cares deeply about the quality of software and products the team owns.  The way this engineer will deliver impact may vary depending on the situation but they will be expected to partner effectively with other engineers, take feedback and guidance from more experienced team members, and deliver effective and reliable solutions to tasks at hand.  What You’ll Do: Develop and maintain software for managing diverse fleets of GM vehicles (R&D and production). Optimize software performance and reliability for real-world deployment Leverage the guidance and experience of more senior engineers on the team to identify engineering pain points and implement solutions that are reliable, scalable, and maintainable. Effectively communicate the status of their work. Follow software engineering best practices within your team. Contribute to the engineering culture on the team. Contribute to real-world services and gain practical experience with Go, Python, Docker, Kubernetes, Linux, GCP, and supporting tools such as Buildkite and OpenTelemetry  Required Qualifications: Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Bachelors degree in Computer Science or a related field. Academic exposure to distributed systems concepts, including scalability, reliability, or fault tolerance. Experience writing Go, Python, or similar languages through coursework, internships, or project work  Understanding of Unix/Linux, SSH, and networking fundamentals. Able to work fulltime, 40 hours per week.   Preferred Qualifications:  Attention to detail, and a desire to improve processes and systems around you. Experience with GCP. Experience with Docker and Kubernetes. Passion for self-driving technology and its potential impact on the world. Intent to return to degree-program after the completion of the internship. Graduating between December 2026 and August 2027.  Compensation: The monthly salary range for this role is $7,300 – $8,600 per month  GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Backend-Software-Engineer--Fleet-Tooling--Bachelor-s-Degree-_JR-202524256",
       "job_posted_at_datetime_utc": "2025-12-12T23:38:42.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-software-engineer-backend-software-engineer-fleet-tooling-sunnyvale"
+      "id": "general-motors-intern-software-engineer-backend-software-engineer-fleet-tooling-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
     "postedAt": null
   },
   {
@@ -963,16 +865,18 @@
       "employer_name": "Shawmut Design and Construction",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Shawmut Design and Construction in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>We are looking for college students (preferably rising Seniors) seeking internships for the summer of 2026 in Boston. </strong>We are seeking a Data Analyst Intern to join our team and support data-driven decision-making across project management, risk analysis, and operational workflows. This role is ideal for a detail-oriented individual with strong analytical skills and an interest in construction industry data.</p> <p><strong>At Shawmut Design and Construction, we take pride in the culture we’ve built as a 100% employee-owned company—one that’s been recognized with more than 85 Best Place to Work awards. </strong>We’ve been honored as a National Fortune Best Workplace, a Fortune Best Workplace for Women, Millennials, and Parents, and one of America’s Best Employers by Forbes—along with numerous regional recognitions across our 11 offices nationwide.</p> <p>If you decide to join Shawmut as a full -time employee in the future you will have the opportunity to own your career and deliver impact within our culture of ownership and innovation focused around providing the gold standard of client service for the world’s most recognizable and elite brands and institutions.</p> <h2>Responsibilities</h2> <ul> <li>Collect, clean, and organize project-related data from multiple sources (ERP systems, spreadsheets, field reports).</li> <li>Assist in building dashboards and reports for project performance, cost tracking, and risk management.</li> <li>Perform data analysis to identify trends, anomalies, and actionable insights.</li> <li>Support the development of predictive models for project timelines and resource allocation.</li> <li>Collaborate with project managers and operations teams to ensure data accuracy and usability.</li> <li>Document processes and create user-friendly guides for data tools and dashboards.</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently pursuing a degree in Data Analytics, Statistics, Computer Science, Engineering, or a related field.</li> <li>Strong proficiency in Excel; familiarity with Power BI, Tableau, or similar visualization tools is a plus.</li> <li>Basic knowledge of SQL and data querying.</li> <li>Understanding of data cleaning and transformation techniques.</li> <li>Excellent analytical and problem-solving skills.</li> <li>Strong communication skills and ability to work in a team environment.</li> </ul> <p>&nbsp;</p> <p>Preferred Skills</p> <ul> <li>Exposure to construction or project management data is a plus.</li> <li>Experience with Python or R for data analysis.</li> <li>Knowledge of KPIs relevant to construction projects (cost variance, schedule performance, etc.).</li> </ul> <h2>EEO Information</h2> <p>Shawmut prohibits discrimination against any staff member or applicant on the basis of race, color, sex, sexual orientation, gender identity/expression, age, religion, national origin, marital status, veteran status, pregnancy, physical or mental disability, genetic information, disability, creed, citizenship status, or any other legally protected characteristic.</p> <p>&nbsp;</p> <p>We are interested in every qualified candidate who is eligible to work in the United States. However, we are not able to offer sponsorship.</p> <h2>Salary Range Information</h2> <p><strong>Boston Base Salary Range: $22/hour - $25/hour. </strong>The range stated is specific to Boston. Placement within the listed range depends on many factors, including, but not limited to, years of experience, project size capability (for Construction &amp; Field roles), and internal company equity.</p>",
       "job_apply_link": "https://careers-shawmut.icims.com/jobs/6633/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-12-12T23:34:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "shawmut-design-and-construction-intern-coop-data-analyst-boston"
+      "id": "shawmut-design-and-construction-intern-coop-data-analyst-boston",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
     "postedAt": null
   },
   {
@@ -981,16 +885,18 @@
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Orlando",
       "job_state": "FL",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Requires a Bachelor’s degree in Software Engineering, or a related Science, Engineering or Mathematics field. Agile experience preferred.</p> <p>&nbsp;</p> <p><strong>CLEARANCE REQUIREMENTS:</strong> Ability to obtain a Department of Defense Secret security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>ROLE AND POSITION OBJECTIVES:</strong>As a software engineer for Range Systems you’ll be a member of a cross functional team responsible for developing software solutions supporting our armed services training community.&nbsp; We encourage you to apply if you have any of these preferred skills or experiences:</p> <p>&nbsp;</p> <p>Coursework/experience in software programming languages such as C/C++ /Java. Experience with UNIX, Linux, and/or Windows and/or real time OS is desired. Strong interpersonal communication skills, problem solving skills, as well as the ability to work in a small team environment.</p> <p>&nbsp;</p> <p><strong>What sets you apart:</strong></p> <ul> <li>Experience with C++, Angular, Python, &amp; Java</li> <li>Familiarity with the Agile Framework</li> <li>Expertise in applying technical standards and methodologies to solve challenges in creative ways</li> <li>Collaborative team player eager to provide technical contributions in a group setting</li> <li>Thorough knowledge of technology trends and willingness to champion new ideas and process improvements</li> <li>Commitment to ongoing professional development for yourself</li> </ul> <p><strong>Our Commitment to You:</strong></p> <p><strong>&nbsp;</strong></p> <ul> <li>An exciting career path with opportunities for continuous learning and development.</li> <li>Research oriented work, alongside award winning teams developing practical solutions for our nation’s security</li> <li>Flexible schedules with every other Friday off work, if desired (9/80 schedule)</li> <li>Competitive benefits, including 401k matching, flex time off, paid parental leave, healthcare benefits, health &amp; wellness programs, employee resource and social groups, and more</li> <li>See more at gdmissionsystems.com/careers/why-work-for-us/benefits</li> </ul> <h3>&nbsp;</h3> <p><strong>Workplace Options:</strong></p> <h3>This position is Hybrid/Flex as desired.</h3> <h3>While on-site, you will be a part of the Orlando team. </h3> <h3>&nbsp;</h3> <p>#LI-Hybrid</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $84,300.00 - USD $86,300.00 /Yr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
       "job_apply_link": "https://careers-gdms.icims.com/jobs/69609/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-12-12T23:32:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-mission-systems-software-engineer-intern-conversion-orlando"
+      "id": "general-dynamics-mission-systems-software-engineer-intern-conversion-orlando",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
     "postedAt": null
   },
   {
@@ -999,16 +905,18 @@
       "employer_name": "Rolls Royce",
       "job_city": "Spartanburg",
       "job_state": "SC",
-      "job_description": "Join Rolls Royce in this exciting opportunity.",
+      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team.Description We connect the network with integrated supply chain solutions to safeguard production. Ensuring parts supply at the right time, right place, quantity and quality for continuous production. The Focus of our department is Material Control, Transportation Control and Delivery Assurance. We are the Gatekeepers of the supply chain for the ultimate driving machine. Missing parts monitoring in relation to past due and internal process errors Process mapping and documentation of ILS (International Logistics) processes Daily reporting of shipping accuracy Collaborate with air and sea freight carriers to improve reporting and KPIs Cooperation with launch team to ensure shared processes are mapped and improvements are documented Material flow analysis and parameter setting, in combination with ideal delivery-profile and rounding values for overseas plants Support in process description and review of service-level agreements Analyze and visualize reoccurring issues of missed shipments Monitor issues related to short shipments and parts in backlog Communicate with BMW Consolidated Services to ensure on-time delivery Performs other duties assigned by management. Qualifications Preferred degrees: Industrial Engineering, Supply Chain Management, Computer Science, or a related field. Candidate must have strong interpersonal and technical skills (experience using Power BI, SQL, Data Lake, etc. is a bonus). Independent & detail-oriented work Organized Effective communication and collaboration skills Willingness to learn Proficiency with Microsoft Office Possess a minimum cumulative GPA of 3.0 (not just in major) Have enrolled student status at an accredited four-year college or university in the United States. Completed at least 30 credit hours at time of application. Ability to work full-time on-site (40 hours / week). Transfer students must have a GPA from current university. MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT Complete and pass a substance abuse test before the work term. Work term dates are May 18th-August 7th BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
       "job_apply_link": "https://jobs.bmwgroup.com/job/Spartanburg-Overseas-Supply-Chain-Operations-and-Data-Analysis-Intern-(Summer-2026)-Sout/1276025601/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-12T23:30:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rolls-royce-overseas-supply-chain-operations-and-data-analysis-intern-spartanburg"
+      "id": "rolls-royce-overseas-supply-chain-operations-and-data-analysis-intern-spartanburg",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
     "postedAt": null
   },
   {
@@ -1017,16 +925,18 @@
       "employer_name": "Veolia",
       "job_city": "Milwaukee",
       "job_state": "WI",
-      "job_description": "Join Veolia in this exciting opportunity.",
+      "job_description": "Conveyance InternInternContract type: Temporary Work / CasualCompany DescriptionVeolia in North America is the top-ranked environmental company in the United States for three consecutive years, and the country’s largest private water operator and technology provider as well as hazardous waste and pollution treatment leader. It offers a full spectrum of water, waste, and energy management services, including water and wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery. Veolia helps commercial, industrial, healthcare, higher education and municipality customers throughout North America. Headquartered in Boston, Veolia has more than 10,000 employees working at more than 350 locations across North America.Job DescriptionPosition Purpose: Student Exploration and Experience Development (SEED) is a 12-week internship opportunity at Veolia for students to gain hands-on experience in sustainability and ecological transformation. They will work on real-world projects, receive mentorship from industry professionals, and participate in workshops and networking events. The program aims to nurture talent, promote innovation, and foster meaningful connections between students and industry professionals. Overall, the SEED program provides students with the skills, knowledge, and connections needed to make a positive impact in the industry.Program Dates: June 1, 2026 to August 21, 2026.Primary Duties/Responsibilities: Ability to extract, wrangle and harmonize data from various databases (including Snowflake, SAS, HANA, Oracle, Microsoft SQL, Hadoop), by using one or more of the following programming languages, including SAS, SQL, Python, R, Excel (Advanced).Ability to visualize and analyze data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.Develop actionable insights from data using descriptive and basic statistical approaches.Present findings from the analyses to facilitate quick decision making.Develop clear, concise, and effective memos / presentation materials for management.Work individually and collaboratively with key stakeholders, build the relationship, and contribute to decision making.Participate in cross-functional teams and achieve business objectives.Work Environment:Environments vary by internship function from office to field to plant. Our aim is to provide tangible industry job experience to each intern. While we may extend offers to some interns, there is no guarantee of a job offer at the end of the internship.QualificationsEducation/Experience/Background: High School Diploma/GED is required.Working towards a four year degree and you have Junior or Senior status in a related major. Example: If the internship is in electrical engineering, you are a junior working towards an electrical engineering (or similar such as electronics engineering) degree.3.2 Cumulative G.P.A preferred.1+ years of experience in extracting, cleaning, and analyzing the data using one or more of the following programming languages, including SAS, SQL, Python.1+ years of experience in visualizing the data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.1+ years of experience in two or more of the following functions, including Analytics, Customer Insights, Marketing, Finance, Operation, Revenue Management, Pricing.Experience gained through college degree programs and/or certifications is applicable to above skills.Additional InformationWe are an Equal Opportunity Employer! All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, subject to applicable law.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000098707194",
       "job_posted_at_datetime_utc": "2025-12-12T23:30:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "veolia-summer-intern-conveyance-milwaukee"
+      "id": "veolia-summer-intern-conveyance-milwaukee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T22:16:49.630Z",
     "postedAt": null
   },
   {

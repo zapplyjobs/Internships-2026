@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T22:04:07.111Z",
+  "lastUpdated": "2025-12-21T22:17:16.304Z",
   "jobs": [
-    {
-      "id": "salesforce-salesforce-ai-research-palo-alto-2025-12-14-1",
-      "jobId": "salesforce-salesforce-ai-research-palo-alto",
-      "company": "Salesforce",
-      "title": "Salesforce AI Research",
-      "postedToDiscord": "2025-12-14T22:10:10.293Z",
-      "sourceDate": "2025-09-10T13:08:21.000Z",
-      "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422",
-      "discordThreadId": "1449886204286730422",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-embedded-software-development-intern-niles-2025-12-14-1",
-      "jobId": "shure-embedded-software-development-intern-niles",
-      "company": "Shure",
-      "title": "Embedded Software Development Intern",
-      "postedToDiscord": "2025-12-14T22:10:13.614Z",
-      "sourceDate": "2025-09-10T13:06:52.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4426/job",
-      "discordThreadId": "1449886211484156129",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-mobile-applications-android-intern-niles-2025-12-14-1",
-      "jobId": "shure-mobile-applications-android-intern-niles",
-      "company": "Shure",
-      "title": "Mobile Applications (Android) Intern",
-      "postedToDiscord": "2025-12-14T22:10:15.402Z",
-      "sourceDate": "2025-09-10T13:06:08.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4454/job",
-      "discordThreadId": "1449886225237409813",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-software-engineering-intern-niles-2025-12-14-1",
-      "jobId": "shure-software-engineering-intern-niles",
-      "company": "Shure",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T22:10:17.270Z",
-      "sourceDate": "2025-09-10T13:05:17.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4438/job",
-      "discordThreadId": "1449886233076695041",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-cloud-applications-development-intern-niles-2025-12-14-1",
-      "jobId": "shure-cloud-applications-development-intern-niles",
-      "company": "Shure",
-      "title": "Cloud Applications Development Intern",
-      "postedToDiscord": "2025-12-14T22:10:18.979Z",
-      "sourceDate": "2025-09-10T13:04:29.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4405/job",
-      "discordThreadId": "1449886240785567935",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-mobile-applications-ios-intern-niles-2025-12-14-1",
-      "jobId": "shure-mobile-applications-ios-intern-niles",
-      "company": "Shure",
-      "title": "Mobile Applications (iOS) Intern",
-      "postedToDiscord": "2025-12-14T22:10:20.869Z",
-      "sourceDate": "2025-09-10T13:03:06.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4453/job",
-      "discordThreadId": "1449886248515670157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lockheed-martin-software-engineering-intern-orlando-2025-12-14-1",
-      "jobId": "lockheed-martin-software-engineering-intern-orlando",
-      "company": "Lockheed Martin",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T22:10:22.685Z",
-      "sourceDate": "2025-09-10T13:00:52.000Z",
-      "sourceUrl": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
-      "discordThreadId": "1449886256371728424",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-research-scientist-intern-tiktok-recommendation-large-recommender-models-phd-san-jose-2025-12-14-1",
-      "jobId": "tiktok-research-scientist-intern-tiktok-recommendation-large-recommender-models-phd-san-jose",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Tiktok Recommendation-Large Recommender Models - PhD",
-      "postedToDiscord": "2025-12-14T22:10:24.885Z",
-      "sourceDate": "2025-09-10T01:57:41.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7548183795784222984",
-      "discordThreadId": "1449886264202498194",
-      "instanceNumber": 1
-    },
-    {
-      "id": "thermo-fisher-scientific-quality-specialist-data-analysis-sr-intern-logan-2025-12-14-1",
-      "jobId": "thermo-fisher-scientific-quality-specialist-data-analysis-sr-intern-logan",
-      "company": "Thermo Fisher Scientific",
-      "title": "Quality Specialist – Data Analysis Sr. Intern",
-      "postedToDiscord": "2025-12-14T22:10:29.808Z",
-      "sourceDate": "2025-09-10T06:52:50.000Z",
-      "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Logan-Utah-USA/Quality-Specialist---Data-Analysis-Sr-Intern_R-01328086",
-      "discordThreadId": "1449886285429739703",
-      "instanceNumber": 1
-    },
     {
       "id": "activision-blizzard-2026-summer-internships-software-engineering-santa-monica-2025-12-14-1",
       "jobId": "activision-blizzard-2026-summer-internships-software-engineering-santa-monica",
@@ -9978,14 +9879,69 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineering-Intern---Simulation-Core--PhD-_JR-202524239",
       "discordThreadId": "1452421388739543071",
       "instanceNumber": 1
+    },
+    {
+      "id": "skydio-software-engineer-intern-boston-boston-2025-12-21-1",
+      "jobId": "skydio-software-engineer-intern-boston-boston",
+      "company": "Skydio",
+      "title": "Software Engineer Intern - Boston",
+      "postedToDiscord": "2025-12-21T22:16:58.780Z",
+      "sourceDate": "2025-12-12T23:44:22.000Z",
+      "sourceUrl": "https://www.skydio.com/jobs/7506660003?gh_jid=7506660003",
+      "discordThreadId": "1452424624829632533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "optiver-software-engineer-intern-summer-2026-austin-austin-2025-12-21-1",
+      "jobId": "optiver-software-engineer-intern-summer-2026-austin-austin",
+      "company": "Optiver",
+      "title": "Software Engineer Intern - Summer 2026 - Austin",
+      "postedToDiscord": "2025-12-21T22:17:02.572Z",
+      "sourceDate": "2025-12-12T23:42:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/optiverprivate/jobs/7973725002",
+      "discordThreadId": "1452424639979589795",
+      "instanceNumber": 1
+    },
+    {
+      "id": "optiver-software-engineer-intern-chicago-2025-12-21-1",
+      "jobId": "optiver-software-engineer-intern-chicago",
+      "company": "Optiver",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-21T22:17:05.998Z",
+      "sourceDate": "2025-12-12T23:42:55.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/optiverprivate/jobs/7973726002",
+      "discordThreadId": "1452424655489994935",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-2026-summer-intern-software-engineer-machine-learning-validation-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-2026-summer-intern-software-engineer-machine-learning-validation-sunnyvale",
+      "company": "General Motors",
+      "title": "2026 Summer Intern - Software Engineer - Machine Learning Validation",
+      "postedToDiscord": "2025-12-21T22:17:12.695Z",
+      "sourceDate": "2025-12-12T23:38:49.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--Master-s-_JR-202524303",
+      "discordThreadId": "1452424682887315619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-ai-ml-software-engineer-master-s-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-ai-ml-software-engineer-master-s-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern - AI/ML Software Engineer - Master's",
+      "postedToDiscord": "2025-12-21T22:17:16.304Z",
+      "sourceDate": "2025-12-12T23:38:46.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineer--Master-s-_JR-202524088",
+      "discordThreadId": "1452424698410569948",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 907,
+    "totalJobs": 903,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T22:04:07.111Z",
+      "date": "2025-12-21T22:17:16.304Z",
       "archived": 0
     }
   }
