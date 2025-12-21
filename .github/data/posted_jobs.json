@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T22:29:45.577Z",
+  "lastUpdated": "2025-12-21T22:39:42.942Z",
   "jobs": [
     {
       "id": "eventual-software-engineer-intern-san-francisco-2025-12-14-1",
@@ -9890,14 +9890,69 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-Technical-Center---Mountain-View-Technical-Center/XMLNAME-2026-Summer-Intern---Backend-Software-Engineer--Fleet-Tooling--Master-s-Degree-_JR-202524257",
       "discordThreadId": "1452427841474920551",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-conversion-orlando-2025-12-21-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-conversion-orlando",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer – Intern Conversion",
+      "postedToDiscord": "2025-12-21T22:39:20.165Z",
+      "sourceDate": "2025-12-12T23:32:28.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69609/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452430251584917766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-overseas-supply-chain-operations-and-data-analysis-intern-spartanburg-2025-12-21-1",
+      "jobId": "rolls-royce-overseas-supply-chain-operations-and-data-analysis-intern-spartanburg",
+      "company": "Rolls Royce",
+      "title": "Overseas Supply Chain Operations and Data Analysis Intern",
+      "postedToDiscord": "2025-12-21T22:39:23.686Z",
+      "sourceDate": "2025-12-12T23:30:15.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-Overseas-Supply-Chain-Operations-and-Data-Analysis-Intern-(Summer-2026)-Sout/1276025601/?ats=successfactors",
+      "discordThreadId": "1452430266034421870",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-software-engineer-backend-software-engineer-fleet-tooling-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-software-engineer-backend-software-engineer-fleet-tooling-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern Software Engineer - Backend Software Engineer - Fleet Tooling",
+      "postedToDiscord": "2025-12-21T22:39:30.290Z",
+      "sourceDate": "2025-12-12T23:38:42.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Backend-Software-Engineer--Fleet-Tooling--Bachelor-s-Degree-_JR-202524256",
+      "discordThreadId": "1452430292991086727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shawmut-design-and-construction-intern-coop-data-analyst-boston-2025-12-21-1",
+      "jobId": "shawmut-design-and-construction-intern-coop-data-analyst-boston",
+      "company": "Shawmut Design and Construction",
+      "title": "Intern/Coop-Data Analyst",
+      "postedToDiscord": "2025-12-21T22:39:36.640Z",
+      "sourceDate": "2025-12-12T23:34:14.000Z",
+      "sourceUrl": "https://careers-shawmut.icims.com/jobs/6633/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452430321122541718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-summer-intern-conveyance-milwaukee-2025-12-21-1",
+      "jobId": "veolia-summer-intern-conveyance-milwaukee",
+      "company": "Veolia",
+      "title": "Summer Intern - Conveyance",
+      "postedToDiscord": "2025-12-21T22:39:42.942Z",
+      "sourceDate": "2025-12-12T23:30:07.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000098707194",
+      "discordThreadId": "1452430347361849500",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 899,
+    "totalJobs": 904,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T22:29:45.577Z",
+      "date": "2025-12-21T22:39:42.942Z",
       "archived": 0
     }
   }
