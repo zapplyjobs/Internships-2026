@@ -661,106 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Intuitive Surgical",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Software Engineering Intern (GUI)InternShift: DayMax. Salary Region 2: 75 USDMax. Salary Region 1: 88 USDWays of Working: Set Schedule - This job will be onsite weekly, the percentage of onsite work will be defined by the leader.Employee Type: Intern (Fixed Term)Min. Salary Region 1: 70 USDGlobal Job Level (HCM): Professional 3 (9)Min. Salary Region 2: 60 USDCompany DescriptionIt started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have transformed how care is delivered for millions of patients worldwide.We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.Job DescriptionPrimary Function of Position The Ion™ endoluminal system is Intuitive's new robotic platform for minimally invasive biopsy in the peripheral lung, with an initial goal of improving the early diagnosis of lung cancer. As a Software Engineering Intern (GUI), you will support the design and development of graphical user interface (GUI) elements, ranging from more traditional 2D GUI’s to interactive 3D virtual environments. In this role you will work closely with designers, clinical engineers, and other software developers to create world-class user experiences for the Ion platform to positively impact physician experience and patient outcomes. The ideal candidate is an independent and fast-paced software developer with excellent problem-solving skills and a passion for good software architecture and processes, capable of producing robust, high-quality code. This internship is ideal for graduate students seeking hands-on experience in medical device software and user interface development.Essential Job Duties Work as part of a cross-functional team in a fast-paced, start-up-like business unit.Assist in prototyping new GUI elements and workflows in C++ and QML, contributing ideas and rapid iterations.Design and execute analyses and experiments to evaluate different potential solutions.Present findings and progress to the team; contribute to documentation.QualificationsRequired Skills and Experience University Hiring Program Eligibility Requirements:University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.Required Education and Training Current enrollment in a Computer Science, Computer Engineering, Electrical Engineering, Biomedical Engineer or related degree-seeking program at the Master’s or Doctorate (preferred) level.Proficient in C++Working Conditions NonePreferred Skills and Experience Experience with graphics libraries such as OpenGL or OpenSceneGraphKnowledge of parallel programming or GPU programming (e.g. Cuda)Exposure to game engines such as Unity or Unreal EngineExperience working with imaging libraries (e.g., ITK, VTK, OpenCV) or medical image analysisFamiliarity with software development methodologies or tools (CI, version control, issue tracking)Exposure to linuxAdditional InformationDue to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19. Details can vary by role.Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.Mandatory NoticesU.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process). For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes. We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated against the intern program salaries listed and total program compensation will be based on internship duration.I'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000098726007",
-      "job_posted_at_datetime_utc": "2025-12-12T23:13:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "intuitive-surgical-software-engineering-intern-sunnyvale",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:53:37.706Z",
-    "postedAt": "2025-12-21T23:18:19.192Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Vision Engineering Intern",
-      "employer_name": "Intuitive Surgical",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Machine Vision Engineering InternInternShift: DayMax. Salary Region 2: 49 USDMax. Salary Region 1: 58 USDWays of Working: Onsite - This job is fully onsite.Employee Type: Intern (Fixed Term)Min. Salary Region 1: 44 USDGlobal Job Level (HCM): Professional 1 (5)Min. Salary Region 2: 37 USDCompany DescriptionIt started with a simple idea: what if surgery could be less invasive and recovery less painful? Nearly 30 years later, that question still fuels everything we do at Intuitive. As a global leader in robotic-assisted surgery and minimally invasive care, our technologies—like the da Vinci surgical system and Ion—have transformed how care is delivered for millions of patients worldwide.We’re a team of engineers, clinicians, and innovators united by one purpose: to make surgery smarter, safer, and more human. Every day, our work helps care teams perform with greater precision and patients recover faster, improving outcomes around the world.The problems we solve demand creativity, rigor, and collaboration. The work is challenging, but deeply meaningful—because every improvement we make has the potential to change a life.If you’re ready to contribute to something bigger than yourself and help transform the future of healthcare, you’ll find your purpose here.Job DescriptionPrimary Function of Position Play an important role within Intuitive Surgical designing, building, and supporting machine vision systems in manufacturing equipment used to produce Intuitive’s state-of-the-art robotic surgical devices. Our custom manufacturing equipment employs a wide variety of automated features, including robotics, motion control, machine vision, and data collection, however the primary responsibility for this position is the machine vision elements. Machine vision uses lights, cameras, and image processing algorithms to help guide robots and inspect parts. This position plays a critical role in scaling manufacturing operations, while improving capacity, quality, yield, and efficiency.Essential Job DutiesWork with the team to design, implement, and test machine vision system hardware and software.Select cameras, lenses, and lighting to optimize image clarity.Program image processing algorithms and develop software, including use of deep learning, to perform image analysis and make automated decisions.Work with mechanical, controls, and manufacturing engineers to integrate vision systems into larger automated equipment.Thoroughly document all aspects of the vision system, including its requirements, design, operation, and qualification.QualificationsRequired Skills and ExperienceStrong technical skills in engineering and math.Good communication and documentation skills.Interest in robotics, vision, and manufacturing automation.University Hiring Program Eligibility Requirements:University Enrollment: Must be currently enrolled in and returning to an accredited degree-seeking academic program after the internship.Internship Work Period: Must be available to work full-time (approximately 40 hours per week) during a 10-12 week period starting May or June. Specific start dates are shared during the recruiting process.Required Education and TrainingCurrent enrollment in an Engineering, Computer Science, Math, Physics or related degree-seeking program at the Bachelor’s or Master’s level.Preferred Skills and Experience Knowledge of image processing and analysis techniques.Knowledge of machine vision and/or photographic techniques, such as selection and configuration of camera, lens, and lighting for different applications.Capable of programming in C# or Python.Experience with Cognex and Keyence vision systems.Knowledge of statistics and design of experiments.Experience with manufacturing automation equipment and robotics.Additional InformationDue to the nature of our business and the role, please note that Intuitive and/or your customer(s) may require that you show current proof of vaccination against certain diseases including COVID-19. Details can vary by role.Intuitive is an Equal Opportunity Employer. We provide equal employment opportunities to all qualified applicants and employees, and prohibit discrimination and harassment of any type, without regard to race, sex, pregnancy, sexual orientation, gender identity, national origin, color, age, religion, protected veteran or disability status, genetic information or any other status protected under federal, state, or local applicable laws.Mandatory NoticesU.S. Export Controls Disclaimer: In accordance with the U.S. Export Administration Regulations (15 CFR §743.13(b)), some roles at Intuitive Surgical may be subject to U.S. export controls for prospective employees who are nationals from countries currently on embargo or sanctions status.Certain information you provide as part of the application will be used for purposes of determining whether Intuitive Surgical will need to (i) obtain an export license from the U.S. Government on your behalf (note: the government’s licensing process can take 3 to 6+ months) or (ii) implement a Technology Control Plan (“TCP”) (note: typically adds 2 weeks to the hiring process). For any Intuitive role subject to export controls, final offers are contingent upon obtaining an approved export license and/or an executed TCP prior to the prospective employee’s start date, which may or may not be flexible, and within a timeframe that does not unreasonably impede the hiring need. If applicable, candidates will be notified and instructed on any requirements for these purposes. We will consider for employment qualified applicants with arrest and conviction records in accordance with fair chance laws.We provide market-competitive compensation packages, inclusive of base pay (paid at an hourly rate), benefits, and a housing allowance. It would not be typical for someone to be hired at the top end of range for the role, as actual pay will be determined based on several factors, including relevant skills and experience for this internship, degree-seeking academic program (PhD, Master’s, Bachelor’s, etc), year in school, and location. The hourly rate is prorated against the intern program salaries listed and total program compensation will be based on internship duration.I'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/Intuitive/744000098727995",
-      "job_posted_at_datetime_utc": "2025-12-12T23:13:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "intuitive-surgical-machine-vision-engineering-intern-sunnyvale",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:53:37.706Z",
-    "postedAt": "2025-12-21T23:18:19.192Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Bio Large Language Models",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a master&#39;s or PhD program in Computer Science or a related STEM field. Ability to collaborate effectively with other researchers and product development teams. Proficient interpersonal skills, cross-group, and cross-culture collaboration.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556642373",
-      "job_posted_at_datetime_utc": "2025-12-12T23:05:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-bio-large-language-models-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:53:37.706Z",
-    "postedAt": "2025-12-21T23:18:19.192Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analytics Dashboard Intern",
-      "employer_name": "CommScope",
-      "job_city": "Shakopee",
-      "job_state": "MN",
-      "job_description": "Internship Programs at CommScope As CommScope designs and builds connectivity for the world's most advanced networks, we're building something equally as important: careers for forward-thinking, innovated college students like you! Our Summer Internship Program is designed to provide you with an invaluable work experience through meaningful projects that will help you grow and develop both personally and professionally. Throughout the 12-week program, you will collaborate with some of the best in the industry, receive on-the-job training, participating in professional development workshops, executive speaker series, and other networking and social events! How You’ll Help Us Connect the World As a Data Analytics Dashboard Intern, you will be responsible for development of systems like PowerBI reports and dashboards as part of the Datacenter Business Unit. You will work closely with Automation and Operation Teams to create improved visualizations of actual data generated within the team and the factories. This role will be based in Shakopee, MN. You Will Make an Impact By Building and improving existing PowerBI reports Creating new dashboards (PowerBi, Axiom/Canary, Sharepoint) using new datasets generated in the Global Automation teams and Production Locations Required Qualifications for Consideration Actively pursuing a bachelor’s (upcoming sophomores, juniors & seniors) or master’s degree in an engineering discipline, preferable software related from an accredited university Proven strong academic performer with a minimum GPA of 3.0 Experience with PowerBi or similar tool Must possess unrestricted work authorization and not require future sponsorship Military-Affiliated candidates encouraged to apply (Veterans, Military Spouses, and Guard/Reservists) You Will Excite Us If You Are able to automate existing process flow using PowerAutomate or similar tools Are able to program IoT and data collection devices to generate and collect data Demonstrate strong leadership, interpersonal and communication skills Show innovation through unique ideas and propose them to the team Able to handle multiple assignments simultaneously and effectively meet deadlines Strategic and creative thinking; distinguished written and verbal communications skills Strong initiative; a self-starter with analytical skills, attention to detail, problem-solving and decision-making abilities Experience working in a fast-paced environment and flexible to changing priorities What Happens After You Apply Learn how to prepare yourself for the next steps in our hiring process by visiting https://careers.commscope.com/how-we-hire. Why CommScope CommScope is on a quest to deliver connectivity that empowers how we live, work, and learn. Our employees push the boundaries of communications technology that enables game-changing discoveries like 5G, the Internet of Things, and gigabit speeds for everyone, everywhere. With our unmatched expertise in copper, fiber, and wireless infrastructure, our global clients rely on us to outperform today and be ready for the needs of tomorrow. If you want to grow your career alongside bright, passionate, and caring people who strive to create what's next...come connect to your future at CommScope.CommScope is an Equal Opportunity Employer (EEO), including people with disabilities and veterans. If you are seeking an accommodation for the application or interview process, please contact us to submit your request at talentacquisition@commscope.com. You can also learn more about CommScope’s accommodation process and EEO policy at careers.commscope.com/eeo",
-      "job_apply_link": "https://jobs.commscope.com/job/Shakopee-Data-Analytics-Dashboard-Intern-Minn/1349466000/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T23:04:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "commscope-data-analytics-dashboard-intern-shakopee",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:53:37.706Z",
-    "postedAt": "2025-12-21T23:18:19.192Z"
-  },
-  {
-    "job": {
-      "job_title": "GIS Intern",
-      "employer_name": "Sarasota County",
-      "job_city": "Sarasota",
-      "job_state": "FL",
-      "job_description": "Intern Sarasota County is proud to be #VaultRanked as one of the Top 150 Internships for 2026! Department:Enterprise Information TechnologyAbout Our JobTechnical internship position performing GIS assignments under the direction of GIS analysts and GIS professionals. Assist and support small and large GIS projects for county departments. GIS projects done by the GIS group often have a countywide effect. The perfect candidate for this position will be someone who likes to contribute to the well-being of the community and to using mapping technology to make smart planning and operational decisions.Job Description:Are you interested in getting hands-on experience in your chosen field? Do you want to make a difference in your community?Intern Sarasota County dedicated to providing students with an unsurpassed learning experience and insight into the dynamic world of public sector employment.Develop new skills you can apply in the workplace. Gain skills that will enhance your resume and increase your career options while exploring public service! Observe and participate in tasks and responsibilities performed daily by skilled professionals. Experience workplace culture, office dynamics, and business etiquette.Your internship will include impactful hands-on work within a department, networking, professional development, and building long lasting connections with other interns, mentors, and Sarasota County team members. Department Responsibilities:Create, update and maintain GIS data.Create maps using county standard templates and best practices for cartography and labeling. Perform GIS analysis utilizing a combination of spatial and tabular data.Provide input for GIS layer creation and maintenance processes.Document all processes used in maintaining data or regularly scheduled projects.Present status updates to senior staff.Apply knowledge of GIS theory/concepts to propose and develop GIS solutions addressing customer needs.Develop and maintain skills as necessary to keep current with GIS technology and professional best practices.Utilize work order management technologies and processes to ensure effective GIS service delivery.Collaborate with your department colleagues to make and influence real changes. Internship Program Responsibilities:A presentation to the County Administrator and other County Leadership staff is required at the close of the internship program on Friday, August 7, 2026.Participate in all organized intern events and trainings.Your Internship Includes: Competitive wage  Hands-on work experienceProfessional headshot1-1 mentoring with county staffProfessional Development Events:Civics 101 & Facility TourOwn Your CareerBusiness Etiquette & Professional NetworkingPhilanthropy & Your CareerBoard of County Commission Public Hearing SessionSpeaking for SuccessOpportunity to job shadow in other departments Location: 920 Apex Road, Sarasota, FL 34232Learn more about the internship program at: scgov.net/internAbout YouMinimum Qualifications:Ages 16-17 with parental consent, or 18 and above. Eligible to work in the United States – we love local, national, and international students! Active, enrolled student.Preferred Qualifications:3+ years of college.CJIS Clearance: The successful candidate will be subject to an extensive background check(s) as a part of the hiring process. An applicant who fails to pass a required screening may be disqualified from employment. About Everything ElseProgram Dates: The 2026 internship program will begin on May 18, 2026 and end on August 7, 2026.  Internship Hours: 40 hours/week, Monday-Friday, 8:00 a.m.-5:00 p.m.; some departments vary.Pay Range: $15 per hour (high school student) up to $20 per hour (Grad/Masters student), based on your credit hours earned. Employee Type:Seasonal (Fixed Term) (Seasonal)Our interview process could include phone interview(s), Microsoft Teams video interview(s), and/or in-person interview(s). If you are selected to join our team, please click on this link to review the Required First Day Documents. You will need to present the following items on your first day: 1. I-9 Acceptable Documents to show your identity and authorization to work. Use this link to learn more and review the different document options: https://www.uscis.gov/i-9-central/form-i-9-acceptable-documentsIf your position requires a Florida Driver’s License, this must be one of your documents. (Your Florida Driver’s License can serve as one of your documents listed in link above – List B Documents.)  2. U.S. Social Security Card (signed, physical card). This is a requirement of our Payroll Department and failure to provide this document could jeopardize timely compensation. (Your U.S. Social Security Card can serve as one of your documents listed in link above – List C Documents.)  Benefits:Employee benefits and Florida Retirement System contributions are not available for seasonal and temporary positions. Positions marked Full Time and Regular (Budgeted) are eligible for benefits, for more information about employee benefits, please click this link or visit SCGov.net. A different blend of voices prompt better conversations, choices and results for everyone. Sarasota County – Many Voices, One Team. We celebrate and value the experiences, backgrounds, perspectives, talents and strengths that make us different.Our vision is to attract, develop, retain and engage a talented workforce broadly representative of the citizens and communities we serve. To further value creativity, innovation, collaboration and great customer service – internally and externally. A job applicant with a disability who requires reasonable accommodation to participate in the application/selection process is requested to make known the need for an accommodation to Human Resources or appropriate county staff members. For assistance with the application, please call 941-861-5353.Sarasota County prohibits discrimination in all services, programs or activities. View the complete policy at scgov.net (keywords: ADA Compliance).Sarasota County Government is a Tobacco-Free/Drug-Free Workplace.",
-      "job_apply_link": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Administration-Center/GIS-Intern---Summer-2026-Internship_R20263",
-      "job_posted_at_datetime_utc": "2025-12-12T18:36:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sarasota-county-gis-intern-sarasota",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T22:53:37.706Z",
-    "postedAt": "2025-12-21T23:18:19.192Z"
-  },
-  {
-    "job": {
       "job_title": "Software Developer Intern/Co-op",
       "employer_name": "Nokia",
       "job_city": "Berkeley Heights",
@@ -774,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T23:03:32.174Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:29:26.142Z"
   },
   {
     "job": {
@@ -794,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T23:03:32.174Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:29:26.142Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T23:03:32.174Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:29:26.142Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T23:03:32.174Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:29:26.142Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T01:59:02.237Z",
     "enrichedAt": "2025-12-21T23:03:32.174Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:29:26.142Z"
   },
   {
     "job": {
@@ -970,11 +870,13 @@
       "job_posted_at_datetime_utc": "2025-12-13T02:06:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "snap-machine-learning-engineer-intern-palo-alto"
+      "id": "snap-machine-learning-engineer-intern-palo-alto",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:10:32.971Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:28:53.427Z",
     "postedAt": null
   },
   {
@@ -983,16 +885,18 @@
       "employer_name": "W.R. Berkley",
       "job_city": "Grimes",
       "job_state": "IA",
-      "job_description": "Join W.R. Berkley in this exciting opportunity.",
+      "job_description": "<h2>Company Details</h2> <p></p> <p>&nbsp;</p> <p>Founded in 1967,&nbsp;W. R. Berkley Corporation&nbsp;has grown from a small investment management firm into one of the largest commercial lines property and casualty insurers in the United States.&nbsp;</p> <p> </p> <p>Berkley Regional Shared Services (BRSS) is the service provider for the Regional Segment of W. R. Berkley Corporation, a Fortune 500 Commercial Lines Insurance Company. Our centers of excellence distributed throughout the United States support the common needs of six Regional Segment companies, allowing each of them to focus on their unique competitive advantages and differentiators. Our distributed model ensures that ideas and opinions are considered at every level of the organization and implemented with excellence. &nbsp;&nbsp;&nbsp;Driven by a commitment to collaboration, BRSS partners with our stakeholders to proactively plan for what’s next in our industry. Our mission is to drive transformation and provide scalable leading-edge capabilities to all our customers using data, analytics, and software engineering. With a culture centered on innovation behaviors and customer centricity, BRSS is a community of thought leaders looking toward the future. We invest in our people’s technical skills and career aspirations and take pride in their accomplishments. BRSS offers many ways to get involved and have the chance to grow your career across a wide range of roles. Come join us as we push forward into the future of industry leading technology and service solutions.&nbsp;</p> <p>&nbsp;</p> <p><em><strong>This role will be based in the Urbandale, IA office</strong></em>.&nbsp;</p> <p>We offer a hybrid work schedule with 4 days in the office (M-Th) ; and 1 day remote (Fr) where it makes sense to do so.</p> <p>&nbsp;</p> <p>The company is an equal opportunity employer.</p> <p>&nbsp;</p> <p>&nbsp;</p> <h2>Responsibilities</h2> <p>Our Berkley Regional Shared Services (BRSS) Summer Software Developer internship program provides highly motivated and qualified students an opportunity to gain first-hand experience, receive valuable on-the-job training, and heighten business knowledge. Interns will collaborate side by side with BRSS employees in a variety of positions to complete challenging projects. Students will interact with all levels of management and senior leaders and gain insight into business and technology in the insurance industry.&nbsp;</p> <p>&nbsp;</p> <p>As a <strong>Software Development Intern</strong> at BRSS, you will support the continued evolution of a ReactJS web platform. On our team, you won’t be limited to the front-end or back-end; your role offers exposure to the full stack, helping you connect the requests we receive to the application features we build. With us, you will get to see the impact of your work on the business, every day.</p> <p>&nbsp;</p> <p><strong>What you can expect:</strong></p> <p>As an Intern, you will:</p> <ul> <li><strong>Deliver Value:</strong> Implement well-defined user stories to meet acceptance criteria; follow established coding standards; estimate and plan your own tasks; turn product ideas into working features driving business outcomes and customer delight.&nbsp;</li> <li><strong>Build with Modern Tech:</strong> Gain hands-on experience with technologies such as React (JavaScript Library), Next.js (React framework), Tailwind (CSS utility framework), Jest (JavaScript unit testing framework) and GraphQL (API query language).&nbsp;</li> <li><strong>Ensure Quality:</strong> Write and execute unit tests; follow team coding standards; seek feedback through code reviews.&nbsp;</li> <li><strong>Ship &amp; Learn: </strong>Participate in CI/CD workflows; assist with deployments to non-production environments; learn rollback and recovery processes.&nbsp;</li> <li><strong>Support &amp; Troubleshoot:</strong> Learn how to triage and troubleshoot production support incidents under mentor guidance.&nbsp;</li> <li><strong>Experiment &amp; Innovate: </strong>Leverage innovation behaviors and design thinking for rapid learning from tight feedback loops.&nbsp;</li> <li><strong>Engage in Agile: </strong>Take an active role in scaled Agile ceremonies (stand-ups, sprint planning, retrospectives) and share your perspective to help the team succeed.&nbsp;</li> <li><strong>Document &amp; Share:</strong> Maintain clear documentation for your work; contribute to onboarding and knowledge-sharing resources.&nbsp;</li> <li><strong>Learn &amp; Grow:</strong> Receive guidance from engineering mentors; pursue learning opportunities; share insights with the team</li> </ul> <h2>Qualifications</h2> <p><strong>What you need to have:</strong></p> <ul> <li>Registered undergraduate student pursuing a major in a Software Engineering, Management Information Systems or related field.</li> <li><p>At least two years of college or university coursework completed in a Computer Science or MIS program.&nbsp;</p></li> <li><p>Experience with full-stack web development (React framework preferred).&nbsp;</p></li> <li><p>Superior problem solving and analytical skills.</p></li> <li><p>Strong customer service focus and sense of urgency.&nbsp;</p></li> <li><p>Ability to quickly adapt and learn new technologies and systems.&nbsp;</p></li> <li><p>Prior related co-op, internship, and/or on or off-campus technical experience preferred but not required.</p></li> <li><p>Demonstrates the WRBC core competencies, innovation behaviors, and behavioral competencies while performing essential duties and responsibilities.&nbsp;</p></li> </ul> <p>&nbsp;<strong>Core Competencies</strong>&nbsp;</p> <ul> <li>Accountability&nbsp;</li> <li>Communication:&nbsp;&nbsp;</li> <li>Customer Focus &amp; Team Work&nbsp;</li> <li>Delivers Results&nbsp;</li> <li>Flexibility</li> <li>Technical &amp; Job Excellence&nbsp;</li> </ul> <p>&nbsp;<strong>Behavioral (Role) Competencies&nbsp;</strong></p> <ul> <li>Action Oriented&nbsp;</li> <li>Coachable&nbsp;</li> <li>Critical Thinking&nbsp;</li> <li>Managing Information&nbsp;</li> <li>Quality Decision Making&nbsp;</li> <li>Self Starter&nbsp;</li> <li>Technically Astute&nbsp;</li> </ul> <p>&nbsp;</p> <p><strong>Please note, internships are planned for employment start dates in Spring 2026.</strong></p> <h2>Additional Company Details</h2>We do not accept any unsolicited resumes from external recruiting agencies or firms. The company offers a competitive compensation plan and robust benefits package for full time regular employees. THIS ROLE IS AN HOURLY PAID POSITION The actual salary for this position will be determined by a number of factors, including the scope, complexity and location of the role; the skills, education, training, credentials and experience of the candidate; and other conditions of employment. <h2>Sponsorship Details</h2>Sponsorship not Offered for this Role",
       "job_apply_link": "https://careers-berkley.icims.com/jobs/12912/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-11T18:30:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "w-r-berkley-intern-software-developer-reactjs-grimes"
+      "id": "w-r-berkley-intern-software-developer-reactjs-grimes",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:10:32.971Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:28:53.427Z",
     "postedAt": null
   },
   {
@@ -1006,11 +910,13 @@
       "job_posted_at_datetime_utc": "2025-09-11T01:30:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "w-r-berkley-data-science-intern-chesterfield"
+      "id": "w-r-berkley-data-science-intern-chesterfield",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:10:32.971Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:28:53.427Z",
     "postedAt": null
   },
   {
@@ -1019,16 +925,18 @@
       "employer_name": "Genentech",
       "job_city": "San Bruno",
       "job_state": "CA",
-      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_description": "2026 Summer Intern - Learning and Skill Development Data ScientistDepartment SummaryThe Learning & Skill Development (LSD) organization is crucial in establishing a digital culture and mindset across the Commercial and Medical Group (CMG), ensuring all customers—employees, managers, healthcare providers, and patients—receive timely and relevant information and skills. LSD is transforming CMG into a continuous learning culture by advancing skills management, digital learning, experiential learning, and workflow learning. The team includes learning business partners with deep business acumen, Learning Design Architects focusing on perennial and business transformation areas, and instructional designers and multimedia partners who build best-in-class learning products. LSD scales these products through facilitators, learning technologists, and an analytics function that links skill development to business impact.This position is based in South San Francisco, CA, On-Site.The OpportunityCollaborate with Learning Design partners to measure impact to inform data-driven learning content designImplement robust data quality and governance procedures, including data cleaning and validation techniquesApply statistical and machine learning methodologies to identify trends, patterns, and predictive insights in large datasetsDocument methodologies, findings, and model performance, and present complex analytical results to both technical and non-technical stakeholdersMaintain accurate records of findings and participate in team discussions to share insightsProgram HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are (Requirements) Required Education: You meet one of the following criteria:Must be pursuing a Bachelor's Degree (enrolled student).Must be pursuing a Master's Degree (enrolled student).Must be pursuing a PhD (enrolled student).Required Majors: Data Science, Computer Science, Applied Mathematics, Statistics, Engineering or related fields.Required Skills: Programming skills with experience in SQL, Python, or RProficiency in data visualization tools (e.g., Tableau, Looker, Qlik, Power BI)Proficiency in data cleaning/processing and analysisExperience with applying ML modelsAbility to translate complex data into actionable insightsPreferred Knowledge, Skills, and QualificationsExperience with learning analytics, including learning/performance evaluation strategyExperience in RAG/Agent developmentExperience with educational or medical dataExcellent communication, collaboration, and interpersonal skillsComplements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and PassionRelocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of  South San Francisco, CA is $45 - $50/hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
       "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CMG-Learning-and-Skill-Development_202512-131309",
       "job_posted_at_datetime_utc": "2025-12-13T02:49:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-intern-cmg-learning-and-skill-development-san-bruno"
+      "id": "genentech-intern-cmg-learning-and-skill-development-san-bruno",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:49:47.671Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:28:53.427Z",
     "postedAt": null
   },
   {
@@ -1037,16 +945,18 @@
       "employer_name": "Genentech",
       "job_city": "San Bruno",
       "job_state": "CA",
-      "job_description": "Join Genentech in this exciting opportunity.",
+      "job_description": "2026 Summer Intern - Learning & Skill Development Data AnalystDepartment SummaryThe Learning & Skill Development (LSD) organization is crucial in establishing a digital culture and mindset across the Commercial and Medical Group (CMG), ensuring all customers—employees, managers, healthcare providers, and patients—receive timely and relevant information and skills. LSD is transforming CMG into a continuous learning culture by advancing skills management, digital learning, experiential learning, and workflow learning. The team includes learning business partners with deep business acumen, Learning Design Architects focusing on perennial and business transformation areas, and instructional designers and multimedia partners who build best-in-class learning products. LSD scales these products through facilitators, learning technologists, and an analytics function that links skill development to business impact.This position is based in South San Francisco, CA, On-Site.The OpportunityAssist in designing and implementing data analytics tools under the guidance of senior team members.Contribute to the development and maintenance of analytic productsCollaborate with stakeholders, gather data requirements, and share preliminary insights.Utilize statistical tools to identify trends and patterns in datasets.Maintain accurate records of findings and participate in team discussions to share insights.Program Highlights Intensive 12-weeks , full-time (40 hours per week) paid internship.Program start dates are in May/June (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry. Who You Are (Requirements) Required Education: You meet one of the following criteria:Must be pursuing a Bachelor's degree or must have attained a Bachelor's degree (recent graduates not currently enrolled in a grad program).Must be pursuing a Master's degree or must have attained a Master's degree.Must be pursuing a PhD or must have attained a PhD (Please note these candidates are NOT eligible for an internship in Research Biology, Drug Discovery, or DevSci).Required SkillsProficiency in statistical analysis and data visualization tools (e.g., Tableau, Qlik, Power BI).Experience in data manipulation and analysis.Familiarity with data cleaning and processing techniques.Excellent communication skills and ability to translate complex data into actionable insights.Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Strong attention to detail and problem-solving skills.Programming skills with experience in SQL, Python, or R.Previous experience with educational or biomedical data is a plus.Experience in developing and implementing databases and data collection systems.Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of  South San Francisco, CA is $26 - $44/hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
       "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Learning---Skill-Development_202512-131311",
       "job_posted_at_datetime_utc": "2025-12-13T02:49:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "genentech-intern-learning-skill-development-san-bruno"
+      "id": "genentech-intern-learning-skill-development-san-bruno",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:49:47.671Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:28:53.427Z",
     "postedAt": null
   },
   {
