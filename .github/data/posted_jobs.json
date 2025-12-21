@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:04:01.508Z",
+  "lastUpdated": "2025-12-21T19:16:55.712Z",
   "jobs": [
-    {
-      "id": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo-2025-12-14-1",
-      "jobId": "borgwarner-data-science-intern-supply-chain-bom-analytics-kokomo",
-      "company": "BorgWarner",
-      "title": "Data Science Intern - Supply Chain BOM Analytics",
-      "postedToDiscord": "2025-12-14T19:09:17.097Z",
-      "sourceDate": "2025-09-18T01:14:01.000Z",
-      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Data-Science-Intern--Supply-Chain-BOM-Analytics_R2025-3648",
-      "discordThreadId": "1449840682599714928",
-      "instanceNumber": 1
-    },
-    {
-      "id": "barry-wehmiller-di-software-development-intern-st-louis-2025-12-14-1",
-      "jobId": "barry-wehmiller-di-software-development-intern-st-louis",
-      "company": "Barry-Wehmiller",
-      "title": "DI Software Development Intern",
-      "postedToDiscord": "2025-12-14T19:09:21.846Z",
-      "sourceDate": "2025-09-18T00:57:09.000Z",
-      "sourceUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/DI-Software-Development-Intern_R019488",
-      "discordThreadId": "1449840702598025379",
-      "instanceNumber": 1
-    },
-    {
-      "id": "verkada-software-engineering-intern-san-mateo-2025-12-14-1",
-      "jobId": "verkada-software-engineering-intern-san-mateo",
-      "company": "Verkada",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:09:25.230Z",
-      "sourceDate": "2025-09-18T00:44:18.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4873796007",
-      "discordThreadId": "1449840709694914690",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cae-engineering-co-op-tampa-2025-12-14-1",
-      "jobId": "cae-engineering-co-op-tampa",
-      "company": "CAE",
-      "title": "Engineering Co-op",
-      "postedToDiscord": "2025-12-14T19:09:27.069Z",
-      "sourceDate": "2025-09-17T19:18:08.000Z",
-      "sourceUrl": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040",
-      "discordThreadId": "1449840724022661232",
-      "instanceNumber": 1
-    },
-    {
-      "id": "quest-analytics-quest-analytics-internship-program-summer-2026-overland-park-2025-12-14-1",
-      "jobId": "quest-analytics-quest-analytics-internship-program-summer-2026-overland-park",
-      "company": "Quest Analytics",
-      "title": "Quest Analytics Internship Program - Summer 2026",
-      "postedToDiscord": "2025-12-14T19:09:28.801Z",
-      "sourceDate": "2025-09-17T18:28:45.000Z",
-      "sourceUrl": "https://jobs.lever.co/questanalytics/ad0a6e60-cacc-4c33-9793-ca53c67082dc/apply",
-      "discordThreadId": "1449840731723268106",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apex-fintech-solutions-software-engineering-intern-austin-2025-12-14-1",
-      "jobId": "apex-fintech-solutions-software-engineering-intern-austin",
-      "company": "Apex Fintech Solutions",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:09:30.476Z",
-      "sourceDate": "2025-09-17T18:14:23.000Z",
-      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineering-Intern_JR103564",
-      "discordThreadId": "1449840738522370071",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bae-systems-software-or-computer-engineering-intern-sterling-heights-2025-12-14-1",
-      "jobId": "bae-systems-software-or-computer-engineering-intern-sterling-heights",
-      "company": "BAE Systems",
-      "title": "Software or Computer Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:09:32.200Z",
-      "sourceDate": "2025-09-17T16:06:24.000Z",
-      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026",
-      "discordThreadId": "1449840745715470551",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dexcom-software-test-engineering-remote-in-usa-2025-12-14-1",
-      "jobId": "dexcom-software-test-engineering-remote-in-usa",
-      "company": "Dexcom",
-      "title": "Software Test Engineering",
-      "postedToDiscord": "2025-12-14T19:09:33.962Z",
-      "sourceDate": "2025-09-17T16:05:04.000Z",
-      "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/Remote---United-States/Intern-I---Software-Test-Engineering_JR114243",
-      "discordThreadId": "1449840753097310240",
-      "instanceNumber": 1
-    },
-    {
-      "id": "waymo-intern-phd-machine-learning-engineer-simulation-mountain-view-2025-12-14-1",
-      "jobId": "waymo-intern-phd-machine-learning-engineer-simulation-mountain-view",
-      "company": "Waymo",
-      "title": "Intern - PhD - Machine Learning Engineer - Simulation",
-      "postedToDiscord": "2025-12-14T19:09:38.754Z",
-      "sourceDate": "2025-09-17T23:29:24.000Z",
-      "sourceUrl": "https://careers.withwaymo.com/jobs?gh_jid=7252833",
-      "discordThreadId": "1449840773158797386",
-      "instanceNumber": 1
-    },
     {
       "id": "comcast-front-end-ui-devops-engineer-intern-west-chester-2025-12-14-1",
       "jobId": "comcast-front-end-ui-devops-engineer-intern-west-chester",
@@ -10671,14 +10572,69 @@
       "sourceUrl": "https://www.calicolabs.com/careers/?gh_jid=8326862002",
       "discordThreadId": "1452376066177106130",
       "instanceNumber": 1
+    },
+    {
+      "id": "calico-labs-intern-laboratory-automation-software-bs-san-bruno-2025-12-21-1",
+      "jobId": "calico-labs-intern-laboratory-automation-software-bs-san-bruno",
+      "company": "Calico Labs",
+      "title": "Intern – Laboratory Automation Software - BS",
+      "postedToDiscord": "2025-12-21T19:16:35.332Z",
+      "sourceDate": "2025-12-06T06:33:49.000Z",
+      "sourceUrl": "https://www.calicolabs.com/careers/?gh_jid=8326850002",
+      "discordThreadId": "1452379228246114505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-commercial-insights-analytics-wilmington-2025-12-21-1",
+      "jobId": "astrazeneca-commercial-insights-analytics-wilmington",
+      "company": "AstraZeneca",
+      "title": "Commercial Insights & Analytics",
+      "postedToDiscord": "2025-12-21T19:16:39.088Z",
+      "sourceDate": "2025-12-06T02:12:52.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Wilmington---DE/Commercial-Insights---Analytics-Intern_R-239830",
+      "discordThreadId": "1452379243160932468",
+      "instanceNumber": 1
+    },
+    {
+      "id": "calico-labs-intern-machine-learning-and-genomics-ms-phd-san-bruno-2025-12-21-1",
+      "jobId": "calico-labs-intern-machine-learning-and-genomics-ms-phd-san-bruno",
+      "company": "Calico Labs",
+      "title": "Intern – Machine Learning and Genomics - MS/PhD",
+      "postedToDiscord": "2025-12-21T19:16:45.702Z",
+      "sourceDate": "2025-12-06T06:33:43.000Z",
+      "sourceUrl": "https://www.calicolabs.com/careers/?gh_jid=8326864002",
+      "discordThreadId": "1452379271870808217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "striim-applied-ai-intern-remote-in-usa-2025-12-21-1",
+      "jobId": "striim-applied-ai-intern-remote-in-usa",
+      "company": "Striim",
+      "title": "Applied AI Intern",
+      "postedToDiscord": "2025-12-21T19:16:49.145Z",
+      "sourceDate": "2025-12-06T02:51:53.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/striiminc/jobs/4999086007",
+      "discordThreadId": "1452379286525710482",
+      "instanceNumber": 1
+    },
+    {
+      "id": "standard-aero-scholar-it-dallas-2025-12-21-1",
+      "jobId": "standard-aero-scholar-it-dallas",
+      "company": "Standard Aero",
+      "title": "Scholar - IT",
+      "postedToDiscord": "2025-12-21T19:16:55.711Z",
+      "sourceDate": "2025-12-06T05:08:41.000Z",
+      "sourceUrl": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7936",
+      "discordThreadId": "1452379313834950778",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 970,
+    "totalJobs": 966,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T19:04:01.508Z",
+      "date": "2025-12-21T19:16:55.712Z",
       "archived": 0
     }
   }
