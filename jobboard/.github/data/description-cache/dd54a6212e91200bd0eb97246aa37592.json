@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000098712536",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Radar Sensing AI Research InternFull-timeLegal Entity: Robert Bosch LLCCompany Description​​​​​​The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group, a company with over 90 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.The Bosch Research and Technology Center in Pittsburgh, PA is focused on the research and development of cutting-edge AI and sensing technologies that will shape the future of the company's products. This position is part of an ambitious effort to design and develop intelligent multi-modal sensing at the intersection of deep learning and signal processing, with diverse application domains ranging from physical security to intelligent and connected vehicles.Job DescriptionDevelop state-of-the-art Radar AI solutions using combination of classical signal processing and machine/deep learning-based approaches.Research and develop memory-efficient radar models, radar representation learning, novel interior sensing tasks.Collaborate with other researchers to integrate radar AI modules into the prototype systems.Summarize research findings in high-quality paper and/or patent submissions.QualificationsCurrently enrolled as PhD student in Computer Science, Electrical Engineering, or relatedfields.2+ years programming experience, proficiency in PyTorch (Lightning), HuggingFace (transformers), hydra.Broad knowledge of machine- and deep-learning algorithms and principles and state-of-the-art methods.Preferred QualificationsExperience using radar data in machine learning projects.Knowledge of digital signal processing principle and methods.Publication record in top machine learning and signal processing venues.Experience with HPC platforms and job managers (Slurm, IBM LSF).Additional InformationEqual Opportunity Employer, including disability / veterans. *Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date. Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy PolicyImprint",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000098712536",
+      "fetchedAt": "2025-12-21T22:29:11.095Z"
+    }
+  },
+  "cachedAt": 1766356151096
+}
