@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:53:33.603Z",
+  "lastUpdated": "2025-12-21T20:04:59.883Z",
   "jobs": [
-    {
-      "id": "trane-technologies-engineering-co-op-winona-2025-12-14-1",
-      "jobId": "trane-technologies-engineering-co-op-winona",
-      "company": "Trane Technologies",
-      "title": "Engineering Co-op",
-      "postedToDiscord": "2025-12-14T19:56:38.751Z",
-      "sourceDate": "2025-09-16T01:15:08.000Z",
-      "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/2504004",
-      "discordThreadId": "1449852601376968808",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle-2025-12-14-1",
-      "jobId": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle",
-      "company": "ByteDance",
-      "title": "Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD",
-      "postedToDiscord": "2025-12-14T19:56:40.426Z",
-      "sourceDate": "2025-09-16T01:10:50.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7548273169150380296/detail",
-      "discordThreadId": "1449852608306221268",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-software-development-intern-denver-2025-12-14-1",
-      "jobId": "caci-software-development-intern-denver",
-      "company": "CACI",
-      "title": "Software Development Intern",
-      "postedToDiscord": "2025-12-14T19:56:42.058Z",
-      "sourceDate": "2025-09-16T00:46:11.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Development-Intern---Summer-2026_317296-1",
-      "discordThreadId": "1449852615533002812",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs-2025-12-14-1",
-      "jobId": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs",
-      "company": "Keysight Technologies",
-      "title": "Software Engineering Intern - Automation & Developer Experience",
-      "postedToDiscord": "2025-12-14T19:56:43.742Z",
-      "sourceDate": "2025-09-15T23:46:33.000Z",
-      "sourceUrl": "https://jobs.keysight.com/jobs/49584?lang=en-us&icims=1",
-      "discordThreadId": "1449852622101282941",
-      "instanceNumber": 1
-    },
-    {
-      "id": "midmark-it-software-development-co-op-vandalia-2025-12-14-1",
-      "jobId": "midmark-it-software-development-co-op-vandalia",
-      "company": "Midmark ",
-      "title": "IT Software Development Co-Op",
-      "postedToDiscord": "2025-12-14T19:56:45.403Z",
-      "sourceDate": "2025-09-15T23:12:37.000Z",
-      "sourceUrl": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3632",
-      "discordThreadId": "1449852629554565323",
-      "instanceNumber": 1
-    },
-    {
-      "id": "voya-financial-technology-intern-remote-in-usa-2025-12-14-1",
-      "jobId": "voya-financial-technology-intern-remote-in-usa",
-      "company": "Voya Financial",
-      "title": "Technology Intern",
-      "postedToDiscord": "2025-12-14T19:56:50.216Z",
-      "sourceDate": "2025-09-15T23:08:38.000Z",
-      "sourceUrl": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2026-Technology-Intern_JR0031730",
-      "discordThreadId": "1449852649758261348",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cencora-ai-workflow-architect-intern-conshohocken-2025-12-14-1",
-      "jobId": "cencora-ai-workflow-architect-intern-conshohocken",
-      "company": "Cencora",
-      "title": "AI Workflow Architect Intern",
-      "postedToDiscord": "2025-12-14T19:56:54.955Z",
-      "sourceDate": "2025-09-15T22:55:50.000Z",
-      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517589",
-      "discordThreadId": "1449852669589065880",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cencora-ai-ml-engineering-intern-conshohocken-2025-12-14-1",
-      "jobId": "cencora-ai-ml-engineering-intern-conshohocken",
-      "company": "Cencora",
-      "title": "AI/ML Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:56:56.633Z",
-      "sourceDate": "2025-09-15T22:55:46.000Z",
-      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2517571",
-      "discordThreadId": "1449852676559863828",
-      "instanceNumber": 1
-    },
-    {
-      "id": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta-2025-12-14-1",
-      "jobId": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta",
-      "company": "Falcomm",
-      "title": "ML Software Engineer Intern - AI/CAD Integration",
-      "postedToDiscord": "2025-12-14T19:56:58.873Z",
-      "sourceDate": "2025-09-15T10:11:09.000Z",
-      "sourceUrl": "https://apply.workable.com/falcomm/j/B5EB495F31/",
-      "discordThreadId": "1449852684134780939",
-      "instanceNumber": 1
-    },
     {
       "id": "onedigital-business-data-analyst-remote-in-usa-2025-12-14-1",
       "jobId": "onedigital-business-data-analyst-remote-in-usa",
@@ -10451,14 +10352,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/Ridealso/32c3647d-90cb-4c24-ab17-e4c29a25a8a8/application",
       "discordThreadId": "1452388532852232302",
       "instanceNumber": 1
+    },
+    {
+      "id": "asm-global-business-analytics-intern-winston-salem-2025-12-21-1",
+      "jobId": "asm-global-business-analytics-intern-winston-salem",
+      "company": "ASM Global",
+      "title": "Business Analytics Intern",
+      "postedToDiscord": "2025-12-21T20:04:38.973Z",
+      "sourceDate": "2025-11-23T09:23:15.000Z",
+      "sourceUrl": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Wake-Forest-University---Winston-Salem-NC/Business-Analytics-Intern_R100112313",
+      "discordThreadId": "1452391322869825607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-software-engineer-intern-ai-ml-milpitas-2025-12-21-1",
+      "jobId": "kla-software-engineer-intern-ai-ml-milpitas",
+      "company": "KLA",
+      "title": "Software Engineer Intern - AI/ML",
+      "postedToDiscord": "2025-12-21T20:04:42.427Z",
+      "sourceDate": "2025-11-20T18:19:48.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241",
+      "discordThreadId": "1452391337927250063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-software-integration-engineer-grad-intern-colorado-springs-2025-12-21-1",
+      "jobId": "the-aerospace-software-integration-engineer-grad-intern-colorado-springs",
+      "company": "The Aerospace Corporation",
+      "title": "Software Integration Engineer Grad Intern",
+      "postedToDiscord": "2025-12-21T20:04:49.464Z",
+      "sourceDate": "2025-11-20T18:58:48.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Colorado-Springs-CO/XMLNAME-2026-Software-Integration-Engineer-Grad-Intern_R014034",
+      "discordThreadId": "1452391365727092756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-data-ai-intelligent-systems-1-intern-boston-2025-12-21-1",
+      "jobId": "cisco-software-engineer-data-ai-intelligent-systems-1-intern-boston",
+      "company": "Cisco",
+      "title": "Software Engineer Data/AI/Intelligent Systems 1 - Intern",
+      "postedToDiscord": "2025-12-21T20:04:53.165Z",
+      "sourceDate": "2025-11-20T18:46:18.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001254",
+      "discordThreadId": "1452391381854322689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "centene-data-science-analyst-intern-remote-in-usa-2025-12-21-1",
+      "jobId": "centene-data-science-analyst-intern-remote-in-usa",
+      "company": "Centene",
+      "title": "Data Science Analyst Intern",
+      "postedToDiscord": "2025-12-21T20:04:59.882Z",
+      "sourceDate": "2025-11-18T23:40:34.000Z",
+      "sourceUrl": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Science-Analyst-Intern--Undergraduate---Summer-2026-_1619601",
+      "discordThreadId": "1452391410316742706",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 950,
+    "totalJobs": 946,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T19:53:33.603Z",
+      "date": "2025-12-21T20:04:59.883Z",
       "archived": 0
     }
   }
