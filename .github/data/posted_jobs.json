@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T23:03:57.947Z",
+  "lastUpdated": "2025-12-21T23:18:16.179Z",
   "jobs": [
-    {
-      "id": "kensho-software-engineer-intern-new-york-2025-12-14-1",
-      "jobId": "kensho-software-engineer-intern-new-york",
-      "company": "Kensho",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T23:10:54.449Z",
-      "sourceDate": "2025-09-08T07:20:13.000Z",
-      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Software-Engineer-Intern---Summer-2026_319680-1",
-      "discordThreadId": "1449901488577974294",
-      "instanceNumber": 1
-    },
-    {
-      "id": "merck-co-ai-ml-computational-toxicology-west-point-2025-12-14-1",
-      "jobId": "merck-co-ai-ml-computational-toxicology-west-point",
-      "company": "Merck & Co.",
-      "title": "AI/ML Computational Toxicology",
-      "postedToDiscord": "2025-12-14T23:10:56.130Z",
-      "sourceDate": "2025-09-08T07:07:37.000Z",
-      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R362134",
-      "discordThreadId": "1449901496111075368",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tiktok-research-scientist-intern-ads-integrity-san-jose-2025-12-14-1",
-      "jobId": "tiktok-research-scientist-intern-ads-integrity-san-jose",
-      "company": "TikTok",
-      "title": "Research Scientist Intern - Ads Integrity",
-      "postedToDiscord": "2025-12-14T23:10:57.895Z",
-      "sourceDate": "2025-09-06T03:58:12.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7546726994756651282",
-      "discordThreadId": "1449901503392387082",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aveva-software-developer-intern-lake-forest-2025-12-14-1",
-      "jobId": "aveva-software-developer-intern-lake-forest",
-      "company": "AVEVA",
-      "title": "Software Developer Intern",
-      "postedToDiscord": "2025-12-14T23:11:01.629Z",
-      "sourceDate": "2025-09-06T00:35:33.000Z",
-      "sourceUrl": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Intern--US_R011627",
-      "discordThreadId": "1449901510753255424",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-software-engineering-intern-greensboro-2025-12-14-1",
-      "jobId": "qorvo-software-engineering-intern-greensboro",
-      "company": "Qorvo",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T23:11:03.401Z",
-      "sourceDate": "2025-09-05T22:33:01.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1323405000/?ats=successfactors",
-      "discordThreadId": "1449901526398144585",
-      "instanceNumber": 1
-    },
-    {
-      "id": "varda-space-industries-finance-data-structures-analytics-internship-el-segundo-2025-12-14-1",
-      "jobId": "varda-space-industries-finance-data-structures-analytics-internship-el-segundo",
-      "company": "Varda Space Industries",
-      "title": "Finance – Data Structures/ Analytics Internship",
-      "postedToDiscord": "2025-12-14T23:11:06.808Z",
-      "sourceDate": "2025-09-05T22:11:50.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/vardaspace/jobs/6975058003",
-      "discordThreadId": "1449901533608017941",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kensho-machine-learning-intern-new-york-2025-12-14-1",
-      "jobId": "kensho-machine-learning-intern-new-york",
-      "company": "Kensho",
-      "title": "Machine Learning Intern",
-      "postedToDiscord": "2025-12-14T23:11:11.537Z",
-      "sourceDate": "2025-09-08T07:09:41.000Z",
-      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/kensho_careers/job/New-York-NY/Machine-Learning-Intern---Summer-2026_319677-1",
-      "discordThreadId": "1449901560422334556",
-      "instanceNumber": 1
-    },
-    {
-      "id": "drivetime-data-science-intern-dallas-2025-12-14-1",
-      "jobId": "drivetime-data-science-intern-dallas",
-      "company": "DriveTime",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T23:11:13.291Z",
-      "sourceDate": "2025-09-06T00:49:32.000Z",
-      "sourceUrl": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2026-_R13252",
-      "discordThreadId": "1449901567674286081",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hewlett-packard-enterprise-tech-consultant-intern-alpharetta-2025-12-14-1",
-      "jobId": "hewlett-packard-enterprise-tech-consultant-intern-alpharetta",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Tech Consultant intern",
-      "postedToDiscord": "2025-12-14T23:11:18.006Z",
-      "sourceDate": "2025-09-08T07:01:14.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054",
-      "discordThreadId": "1449901587332862113",
-      "instanceNumber": 1
-    },
     {
       "id": "pennstate-university-guidance-and-control-research-development-internship-state-college-2025-12-14-1",
       "jobId": "pennstate-university-guidance-and-control-research-development-internship-state-college",
@@ -9813,14 +9714,69 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000098687568",
       "discordThreadId": "1452436449814380564",
       "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-software-engineering-intern-sunnyvale-2025-12-21-1",
+      "jobId": "intuitive-surgical-software-engineering-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-21T23:17:55.620Z",
+      "sourceDate": "2025-12-12T23:13:58.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000098726007",
+      "discordThreadId": "1452439963298824474",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-bio-large-language-models-redmond-2025-12-21-1",
+      "jobId": "microsoft-research-intern-bio-large-language-models-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - Bio Large Language Models",
+      "postedToDiscord": "2025-12-21T23:17:59.239Z",
+      "sourceDate": "2025-12-12T23:05:08.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556642373",
+      "discordThreadId": "1452439978117435646",
+      "instanceNumber": 1
+    },
+    {
+      "id": "commscope-data-analytics-dashboard-intern-shakopee-2025-12-21-1",
+      "jobId": "commscope-data-analytics-dashboard-intern-shakopee",
+      "company": "CommScope",
+      "title": "Data Analytics Dashboard Intern",
+      "postedToDiscord": "2025-12-21T23:18:02.668Z",
+      "sourceDate": "2025-12-12T23:04:35.000Z",
+      "sourceUrl": "https://jobs.commscope.com/job/Shakopee-Data-Analytics-Dashboard-Intern-Minn/1349466000/?ats=successfactors",
+      "discordThreadId": "1452439992533254404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intuitive-surgical-machine-vision-engineering-intern-sunnyvale-2025-12-21-1",
+      "jobId": "intuitive-surgical-machine-vision-engineering-intern-sunnyvale",
+      "company": "Intuitive Surgical",
+      "title": "Machine Vision Engineering Intern",
+      "postedToDiscord": "2025-12-21T23:18:09.622Z",
+      "sourceDate": "2025-12-12T23:13:56.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000098727995",
+      "discordThreadId": "1452440020332843193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sarasota-county-gis-intern-sarasota-2025-12-21-1",
+      "jobId": "sarasota-county-gis-intern-sarasota",
+      "company": "Sarasota County",
+      "title": "GIS Intern",
+      "postedToDiscord": "2025-12-21T23:18:16.178Z",
+      "sourceDate": "2025-12-12T18:36:10.000Z",
+      "sourceUrl": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Administration-Center/GIS-Intern---Summer-2026-Internship_R20263",
+      "discordThreadId": "1452440049101836323",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 892,
+    "totalJobs": 888,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T23:03:57.947Z",
+      "date": "2025-12-21T23:18:16.179Z",
       "archived": 0
     }
   }
