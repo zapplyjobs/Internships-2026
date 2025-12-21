@@ -4486,5 +4486,104 @@
     "sourceUrl": "https://colpipe.wd1.myworkdayjobs.com/Search/job/Alpharetta-GA/Intern--Asset-Integrity_R0001844",
     "discordThreadId": "1449846232091725937",
     "instanceNumber": 1
+  },
+  {
+    "id": "keysight-technologies-r-d-software-engineering-internship-santa-rosa-2025-12-14-1",
+    "jobId": "keysight-technologies-r-d-software-engineering-internship-santa-rosa",
+    "company": "Keysight Technologies",
+    "title": "R&D Software Engineering Internship",
+    "postedToDiscord": "2025-12-14T19:40:41.472Z",
+    "sourceDate": "2025-09-16T20:10:26.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/49565?lang=en-us&icims=1",
+    "discordThreadId": "1449848578368606248",
+    "instanceNumber": 1
+  },
+  {
+    "id": "respec-student-software-engineering-intern-richardson-2025-12-14-1",
+    "jobId": "respec-student-software-engineering-intern-richardson",
+    "company": "RESPEC",
+    "title": "Student Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T19:40:43.508Z",
+    "sourceDate": "2025-09-16T19:22:01.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000082291065",
+    "discordThreadId": "1449848594105634896",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kyowa-kirin-it-cloud-and-infrastructure-intern-princeton-2025-12-14-1",
+    "jobId": "kyowa-kirin-it-cloud-and-infrastructure-intern-princeton",
+    "company": "Kyowa Kirin",
+    "title": "IT Cloud and Infrastructure Intern",
+    "postedToDiscord": "2025-12-14T19:40:45.304Z",
+    "sourceDate": "2025-09-16T10:20:30.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/kyowakirinusa90/jobs/7242728003",
+    "discordThreadId": "1449848602070614188",
+    "instanceNumber": 1
+  },
+  {
+    "id": "s-p-global-ai-people-strategy-intern-virtual-2025-12-14-1",
+    "jobId": "s-p-global-ai-people-strategy-intern-virtual",
+    "company": "S&P Global",
+    "title": "AI+ People Strategy Intern",
+    "postedToDiscord": "2025-12-14T19:40:47.127Z",
+    "sourceDate": "2025-09-16T10:04:33.000Z",
+    "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Virtual-TN/AI--People-Strategy-Intern_320000-2",
+    "discordThreadId": "1449848609897058509",
+    "instanceNumber": 1
+  },
+  {
+    "id": "unisys-software-engineer-intern-eagan-2025-12-14-1",
+    "jobId": "unisys-software-engineer-intern-eagan",
+    "company": "Unisys",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-14T19:40:49.105Z",
+    "sourceDate": "2025-09-16T09:58:52.000Z",
+    "sourceUrl": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Software-Engineer-Intern_REQ567729",
+    "discordThreadId": "1449848617681555637",
+    "instanceNumber": 1
+  },
+  {
+    "id": "state-farm-enterprise-technology-engineer-software-data-infrastructure-bloomington-2025-12-14-1",
+    "jobId": "state-farm-enterprise-technology-engineer-software-data-infrastructure-bloomington",
+    "company": "State Farm",
+    "title": "Enterprise Technology - Engineer (Software, Data, Infrastructure)",
+    "postedToDiscord": "2025-12-14T19:40:50.792Z",
+    "sourceDate": "2025-09-16T09:56:45.000Z",
+    "sourceUrl": "https://jobs.statefarm.com/main/jobs/41746",
+    "discordThreadId": "1449848625508122715",
+    "instanceNumber": 1
+  },
+  {
+    "id": "icf-international-software-developer-reston-2025-12-14-1",
+    "jobId": "icf-international-software-developer-reston",
+    "company": "ICF International",
+    "title": "Software Developer",
+    "postedToDiscord": "2025-12-14T19:40:52.493Z",
+    "sourceDate": "2025-09-16T09:52:15.000Z",
+    "sourceUrl": "https://careers.icf.com/us/en/job/IIIIIIUSR2502588EXTERNALENUS/2026-Summer-Intern-Software-Developer",
+    "discordThreadId": "1449848632579719240",
+    "instanceNumber": 1
+  },
+  {
+    "id": "icf-international-cloud-engineer-aws-azure-reston-2025-12-14-1",
+    "jobId": "icf-international-cloud-engineer-aws-azure-reston",
+    "company": "ICF International",
+    "title": "Cloud Engineer (AWS/Azure)",
+    "postedToDiscord": "2025-12-14T19:40:54.232Z",
+    "sourceDate": "2025-09-16T09:51:27.000Z",
+    "sourceUrl": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure",
+    "discordThreadId": "1449848639596793970",
+    "instanceNumber": 1
+  },
+  {
+    "id": "babel-street-software-engineer-co-op-text-analytics-somerville-2025-12-14-1",
+    "jobId": "babel-street-software-engineer-co-op-text-analytics-somerville",
+    "company": "Babel Street",
+    "title": "Software Engineer Co-op - Text Analytics",
+    "postedToDiscord": "2025-12-14T19:41:01.072Z",
+    "sourceDate": "2025-09-16T10:23:02.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/babelstreet/jobs/7248507",
+    "discordThreadId": "1449848659666665592",
+    "instanceNumber": 1
   }
 ]
