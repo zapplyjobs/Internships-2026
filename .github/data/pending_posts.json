@@ -481,66 +481,6 @@
   },
   {
     "job": {
-      "job_title": "Engineering Intern",
-      "employer_name": "Leidos",
-      "job_city": "Huntsville",
-      "job_state": "AL",
-      "job_description": "The Guidance, Navigation, Control, and Autonomy Branch of the Leidos Innovations Center provides cutting-edge navigation for customers who can’t rely on GPS alone, and we need your help in the Rocket City (Huntsville, AL)! This position offers both analytic and hands-on tasks, including development, simulation, analysis, and field testing of navigation algorithms. We perform research, development, and advanced prototyping for DARPA, NASA, Air Force Research Laboratory, Office of Naval Research, and Army Combat Capabilities Development Command engineering centers. These customers need to get our advanced technology into the field! You’ll work with other engineers in small teams using spiral or agile development to meet aggressive schedules aimed at near-term field demonstrations. Are you excited about making advanced technologies work in the real world? Then we want you on our team! For more information about the work we do, please visit: https://www.leidos.com/products/assured-positioning-navigation-and-timingPrimary ResponsibilitiesAssist in data analysis, plotting, and post-processingDevelop and test Matlab functionsMaintain lab hardware and infrastructure.Basic Qualifications:Rising Sophomore in Mechanical EngineeringExperience programming in MATLABStrong high school academic performanceUS Citizen able to obtain & maintain a Secret security clearanceAWSTIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.Original Posting:December 8, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $40,300.00 - $72,850.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-      "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00171302",
-      "job_posted_at_datetime_utc": "2025-12-09T01:58:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "leidos-engineering-intern-huntsville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-21T18:03:54.580Z",
-    "postedAt": "2025-12-21T18:33:12.142Z"
-  },
-  {
-    "job": {
-      "job_title": "Full-Stack Developer Intern - Winter 2026",
-      "employer_name": "Figure",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Figure is an AI Robotics company developing a general purpose humanoid. Our humanoid robot, Figure 02, is designed for commercial tasks and the home. We are based in San Jose, CA and require 5 days/week in-office collaboration. It’s time to build. We are looking for a Full-Stack Developer Intern with a passion for robotics and software development. For this role, you will contribute to the development, testing, and maintenance of tools and applications critical for the configuration, diagnosis, calibration, data management, and operation of our innovative subassemblies and robots. This internship presents a fantastic opportunity for those eager to gain hands-on experience in full-stack development while contributing to the cutting-edge field of AI robotics. Responsibilities: Assist in the design, implementation, and testing of tools for robot configuration, diagnosis, calibration, data management, visualization, and user interaction under the guidance of senior engineers. Support the development of scalable APIs and frameworks to facilitate mission-critical operations. Participate in cross-functional teamwork, collaborating with system integration, manufacturing, and operations teams to understand requirements and incorporate feedback into development processes. Contribute to the evaluation and selection of tools and technologies for the software stack through research and participation in trade studies. Requirements: A strong interest in pursuing a career in Computer Science, Engineering, or a related field. Basic knowledge of front-end technologies, including JavaScript, HTML5/CSS, and frameworks such as React or Next.js. Familiarity with back-end development concepts, preferably with Python or Node.js. An understanding of databases and SQL/NonSQL basics. A keen interest in working on software systems that interface with real hardware. Eagerness to learn about containerization and deployment technologies such as Docker. Strong problem-solving skills and a passion for technology and robotics. Excellent verbal and written communication skills. Bonus Qualifications: Involvement in relevant projects, hackathons, or clubs related to software development or robotics. Exposure to data visualization tools and frameworks.",
-      "job_apply_link": "https://job-boards.greenhouse.io/figureai/jobs/4451543006",
-      "job_posted_at_datetime_utc": "2025-12-09T01:47:28.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "figure-full-stack-developer-intern-winter-2026-san-jose",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-21T18:03:54.580Z",
-    "postedAt": "2025-12-21T18:33:12.142Z"
-  },
-  {
-    "job": {
-      "job_title": "Product Development Operations Intern",
-      "employer_name": "KEEN Footwear",
-      "job_city": "Portland",
-      "job_state": "OR",
-      "job_description": ".spacer-section--template--24399698231460__spacer_yBAkCp { height: 0px; } @media (min-width: 767px) { .spacer-section--template--24399698231460__spacer_yBAkCp { height: 65px; } } .spacer-section--template--24399698231460__spacer_yBAkCp { background: #FFF; }",
-      "job_apply_link": "https://www.keenfootwear.com/careers-list.html?4636794005&gh_jid=4636794005",
-      "job_posted_at_datetime_utc": "2025-12-09T01:47:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "keen-footwear-product-development-operations-intern-portland",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-21T18:03:54.580Z",
-    "postedAt": "2025-12-21T18:33:12.142Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Scottsdale",
@@ -574,10 +514,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-21T18:19:19.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T18:45:49.546Z"
   },
   {
     "job": {
@@ -594,10 +534,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-21T18:19:19.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T18:45:49.546Z"
   },
   {
     "job": {
@@ -614,10 +554,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-21T18:19:19.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T18:45:49.546Z"
   },
   {
     "job": {
@@ -634,10 +574,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-21T18:19:19.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T18:45:49.546Z"
   },
   {
     "job": {
@@ -654,10 +594,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-21T18:19:19.890Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T18:45:49.546Z"
   },
   {
     "job": {
@@ -765,16 +705,18 @@
       "employer_name": "Reworld",
       "job_city": "Spring Hill",
       "job_state": "FL",
-      "job_description": "Join Reworld in this exciting opportunity.",
+      "job_description": "Who we areFor more than 40 years, Reworld has been a leader in sustainable waste solutions, providing our customers with innovative solutions that help them achieve carbon-negative outcomes. Our VisionReworld is leading the charge to a carbon-negative future through revolutionary sustainable materials management solutions that reduce, reuse, recycle and reimagine waste for the benefit of society and the environment.Our BusinessReworld partners with businesses by offering cutting-edge engineering and innovative solutions, to help customers reduce, reuse, recycle and recover value from waste streams and meet or exceed their sustainability goals.Our ValueReworld's differentiator comes from our ecosystem of technology, facilities and partnerships, trusted by the world’s largest organizations to reimagine waste management for a smarter, more sustainable world.All that we’re missing is you.  Apply today!About the roleOur mission is to build a safer, cleaner, more prosperous world by ensuring no waste is ever wasted.Reword is a global leader in providing sustainable waste solutions. The company’s modern facilities convert waste from municipalities and businesses into clean, renewable electricity. Each day we're working to transform the very definition of waste. We've got the infrastructure, technology, and imagination to solve complex waste management challenges and help create a sustainable and more prosperous future for businesses and communities.As a Reworld intern, you will work on projects that have a real impact on sustainability. Students with a genuine interest in developing a career in renewable energy, sustainability, and waste to energy technology are encouraged to apply!What You'll Do:Eliminate multiple SharePoint foldersDigitalize the drawings libraryPrepare turnover packages for boiler construction.Have the ability to demonstrate how your actions support Reworld Values and Behaviors, including Safe and Inclusive Workplace, Delivering Results through Trust and Building Breakthrough Capabilities.Support the Construction Project Manager with SOP's , JSA's, and training documents for the new expansionWho You Are:Positive, motivated self-starter who can take an assignment and run with it.Currently enrolled in an Engineering Bachelor Degree program or related discipline as a Junior or Senior with experience in data analytics.About Reworld's Internship Program:During your internship, you can expect to:Work with industry experts and gain valuable knowledge, develop new skills, and establish a network of mentors and business contacts.Learn all about Waste to Energy operations at the company.Participate in leadership talks, skill building workshops, facility tours, and networking events.2026 Internship Start Dates:January 2026Pay Rate:Competitive hourly rates All Reworld positions require a candidate's ability to perform the duties and responsibilities of the role while upholding Reworld's Values, including (but not limited to) contributing to a safe and inclusive workplace, delivering results through trust, and building breakthrough capabilities.Please note that Level, Title and/or Salary may be adjusted based on the applicant's experience or skills.Our DEI CommitmentReworld is an Equal Opportunity Employer, has developed an Affirmative Action Program (AAP), and will not discriminate against any qualified applicants because of race, color, religion, sex, national origin, sexual orientation, gender identity, disability (including perceived disability, physical, mental, and/or intellectual disabilities), veteran status, liability for service in the Armed Forces of the United States, or any other characteristic protected by law.   Know Your Rights (Click to view poster) If you are an individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to access job openings or apply for a job on this site because of your disability. You can request reasonable accommodations by going to Reworldwaste.com and clicking on the ‘Contact Us’ button. Under Inquires, select ‘Careers’ in the Interest field, fill out all required fields including your message.  In the message section, please note this is a ‘Job Application Accommodation Request’.Attention Staffing Agencies & Search FirmsReworld may sometimes selectively collaborate with staffing agencies and search firms (Agencies). Reworld will only consider candidates from Agencies with whom a signed agreement and a duly authorized work order (for a specific role) has been duly executed. Any unsolicited candidate submissions or candidate submissions from Agencies that do not meet these criteria, will be deemed invalid and ineligible for any fees.",
       "job_apply_link": "https://reworld.wd5.myworkdayjobs.com/external/job/USA-FL-Spring-Hill/Intern_JR11808",
       "job_posted_at_datetime_utc": "2025-12-06T17:23:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "reworld-intern-spring-hill"
+      "id": "reworld-intern-spring-hill",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T18:45:13.205Z",
     "postedAt": null
   },
   {
@@ -783,16 +725,18 @@
       "employer_name": "WTW",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join WTW in this exciting opportunity.",
+      "job_description": "At WTW, we offer students real-world business experience that is hard to find anywhere else. With offices all over the world, a breadth of business functions and supportive experts at every turn, there’s so much to discover about us and yourself. Our internships are designed to give you maximum insight into our business and the best possible preparation for your future career. You’ll apply what you’ve learned at university to real-life intellectual challenges. You’ll gain immediate exposure to client assignments. You’ll do work that takes you out of your comfort zone and offers you something new and unexpected every day.",
       "job_apply_link": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508633",
       "job_posted_at_datetime_utc": "2025-12-06T10:16:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "wtw-corporate-risk-and-broking-intern-risk-analytics-core-2026-chicago"
+      "id": "wtw-corporate-risk-and-broking-intern-risk-analytics-core-2026-chicago",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T18:45:13.205Z",
     "postedAt": null
   },
   {
@@ -801,16 +745,18 @@
       "employer_name": "Cloudflare",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Cloudflare in this exciting opportunity.",
+      "job_description": "About Us At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company. We realize people do not fit into neat boxes. We are looking for curious and empathetic individuals who are committed to developing themselves and learning new skills, and we are ready to help you do that. We cannot complete our mission without building a diverse and inclusive team. We hire the best people based on an evaluation of their potential and support them throughout their time at Cloudflare. Come join us! Available Locations: Austin, Texas, US About the team The Data Intelligence & Analytics team at Cloudflare is responsible for building a unified data & ML platform that enables our internal Business Partners and Product teams with actionable analytics, insights and recommendations. Our goal is to democratize data & intelligence, support Cloudflare’s critical business needs, and provide self-service data & AI applications to fuel existing and new business critical initiatives. About the role We are looking for a Data Scientist Intern to join our Austin team to help us extract insights from our large datasets and drive business decisions. As an intern, you’ll work alongside experienced data scientists and machine learning engineers to tackle real-world challenges in natural language processing (NLP) and AI development. What you'll do Develop and deploy predictive models to drive business outcomes Collaborate with cross-functional teams to design and implement data-driven solutions Work with large datasets to extract insights and inform business decisions Work on data preprocessing/parsing strategies to make it LLM ready Rapidly test new frameworks such as AI agents, RAG, NL2SQL, etc in the Generative AI domain Support the evaluation and benchmarking of LLM performance across various tasks and metrics Continuously involved in knowledge sharing and mentorship Examples of desirable skills, knowledge and experience B.S. or M.S in Computer Science, Statistics, Mathematics, or other quantitative fields Experience working with programming languages such as Python, SQL or Javascript Knowledge of machine learning algorithms, statistical modeling and LLMs Excellent communication & problem solving skills Ability to collaborate with cross functional teams and work through ambiguous business requirements Ability to commit to a minimum 12 week summer internship In office 3-5 days a week in Austin, TX Bonus Points Familiarity with Google Cloud Platform or something similar Familiarity with container based deployments such as Docker & Kubernetes Experience with JavaScript, Typescript, and React What Makes Cloudflare Special? We’re not just a highly ambitious, large-scale technology company. We’re a highly ambitious, large-scale technology company with a soul. Fundamental to our mission to help build a better Internet is protecting the free and open Internet. Project Galileo: Since 2014, we've equipped more than 2,400 journalism and civil society organizations in 111 countries with powerful tools to defend themselves against attacks that would otherwise censor their work, technology already used by Cloudflare’s enterprise customers--at no cost. Athenian Project: In 2017, we created the Athenian Project to ensure that state and local governments have the highest level of protection and reliability for free, so that their constituents have access to election information and voter registration. Since the project, we've provided services to more than 425 local government election websites in 33 states. 1.1.1.1: We released 1.1.1.1 to help fix the foundation of the Internet by building a faster, more secure and privacy-centric public DNS resolver. This is available publicly for everyone to use - it is the first consumer-focused service Cloudflare has ever released. Here’s the deal - we don’t store client IP addresses never, ever. We will continue to abide by our privacy commitment and ensure that no user data is sold to advertisers or used to target consumers. Sound like something you’d like to be a part of? We’d love to hear from you! This position may require access to information protected under U.S. export control laws, including the U.S. Export Administration Regulations. Please note that any offer of employment may be conditioned on your authorization to receive software or technology controlled under these U.S. export laws without sponsorship for an export license. Cloudflare is proud to be an equal opportunity employer. We are committed to providing equal employment opportunity for all people and place great value in both diversity and inclusiveness. All qualified applicants will be considered for employment without regard to their, or any other person's, perceived or actual race, color, religion, sex, gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship, age, physical or mental disability, medical condition, family care status, or any other basis protected by law. We are an AA/Veterans/Disabled Employer. Cloudflare provides reasonable accommodations to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job. Examples of reasonable accommodations include, but are not limited to, changing the application process, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment. If you require a reasonable accommodation to apply for a job, please contact us via e-mail at hr@cloudflare.com or via mail at 101 Townsend St. San Francisco, CA 94107.",
       "job_apply_link": "https://boards.greenhouse.io/cloudflare/jobs/7444764",
       "job_posted_at_datetime_utc": "2025-12-06T08:49:53.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cloudflare-data-science-intern-austin"
+      "id": "cloudflare-data-science-intern-austin",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T18:45:13.205Z",
     "postedAt": null
   },
   {
@@ -819,16 +765,18 @@
       "employer_name": "Calico Labs",
       "job_city": "San Bruno",
       "job_state": "CA",
-      "job_description": "Join Calico Labs in this exciting opportunity.",
+      "job_description": "We’re explorers, optimists, scientists, engineers, inventors, technologists, drug developers and more, working together to make a difference in peoples’ lives.",
       "job_apply_link": "https://www.calicolabs.com/careers/?gh_jid=8326862002",
       "job_posted_at_datetime_utc": "2025-12-06T08:34:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "calico-labs-intern-machine-learning-for-molecule-design-ms-phd-san-bruno"
+      "id": "calico-labs-intern-machine-learning-for-molecule-design-ms-phd-san-bruno",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T18:45:13.205Z",
     "postedAt": null
   },
   {
@@ -837,16 +785,18 @@
       "employer_name": "Dexcom",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join Dexcom in this exciting opportunity.",
+      "job_description": "The Company Dexcom Corporation (NASDAQ DXCM) is a pioneer and global leader in continuous glucose monitoring (CGM). Dexcom began as a small company with a big dream: To forever change how diabetes is managed. To unlock information and insights that drive better health outcomes. Here we are 25 years later, having pioneered an industry. And we're just getting started. We are broadening our vision beyond diabetes to empower people to take control of health. That means personalized, actionable insights aimed at solving important health challenges. To continue what we've started: Improving human health.  We are driven by thousands of ambitious, passionate people worldwide who are willing to fight like warriors to earn the trust of our customers by listening, serving with integrity, thinking big, and being dependable. We've already changed millions of lives and we're ready to change millions more. Our future ambition is to become a leading consumer health technology company while continuing to develop solutions for serious health conditions. We'll get there by constantly reinventing unique biosensing-technology experiences. Though we've come a long way from our small company days, our dreams are bigger than ever. The opportunity to improve health on a global scale stands before us.About Dexcom’s Summer Intern Program:Are you passionate about innovative technology and improving lives? Dexcom’s 12-week U.S. internship program offers a unique opportunity to work on impactful projects that support people living with diabetes. Designed to develop future leaders, our program provides hands-on experience, professional development, and exposure to real-world challenges in a dynamic, mission-driven environment. With flexible onsite, hybrid, and remote work options, we welcome talented students from across the country. Interns at Dexcom don’t just participate—they lead. Join us in summer 2026 and help shape the future of healthcare technology!Internship Department Details:Department Name: ITBusiness Function: Manufacturing Data ManagementTeam Highlights: This is a fast paced team focused on getting things done and making a difference.  We develop test automation systems linking Dexcom's manufacturing systems and regulated enterprise databases.  This vital role involves the full tech stack for Dexcom from the factory floor to shipping G7 to customers.  It's a great opportunity to gain experience with a variety of mission critical tasks.Where you come in: You will assist with expanding and enhancing a testing system for SQL stored procedures.You will be working with a large manufacturing database to validate Dexcom’s FDA mandated data retention.You will need to be highly organized with strong attention to detail.You have the ability to operate independently.What makes you successful: You have a solid understanding of Python scripting.You bring a good understanding of SQL databases and how they work.You know how to use Python and SQL to handle data transactions.You are a problem solver but know when to seek advice.You have experience with IDEs like MS Server Management Studio and Visual Studio.What you’ll get from your Intern Program: A front row seat to life changing CGM technology. Learn about our brave #dexcomwarriors community. Meaningful work and assignments that impact your early career development. Participation in a targeted Learning Series that encourages professional development topics and provides insight into Dexcom's culture and career opportunities. Engagement in Social Events, Intern Recognition Awards, Paid Holidays, and more! Travel Required: 0-5%Flex Workplace: Your primary location will be a home office. You will not have an assigned workstation and will work with your manager to determine office visit needs. You must live within commuting distance of your assigned Dexcom site (typically 75 miles/120km). Experience and Education Requirements: Intern IIRequires a completed Bachelor’s degree.Must be a currently enrolled Master’s, JD, or PhD student at an accredited college or university with an expected graduation date of December 2026 or later.Non-Exempt Salary Details:Intern IIThe annualized base salary range for this role is $35.00 to $45.00. Annualized values for non-exempt (hourly) positions are estimates, final annualized salary will depend on total hours worked. Final compensation package will ultimately depend on factors including relevant experience, skillset, knowledge, business needs and market demand.Please note: The information contained herein is not intended to be an all-inclusive list of the duties and responsibilities of the job, nor are they intended to be an all-inclusive list of the skills and abilities required to do the job. Management may, at its discretion, assign or reassign duties and responsibilities to this job at any time. The duties and responsibilities in this job description may be subject to change at any time due to reasonable accommodation or other reasons. Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability. Dexcom’s AAP may be viewed upon request by contacting Talent Acquisition at talentacquisition@dexcom.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Dexcom Talent Acquisition at talentacquisition@dexcom.com. Meritain, an Aetna Company, creates and publishes the Machine-Readable Files on behalf of Dexcom. To link to the Machine-Readable Files, please click on the URL provided:  https://health1.meritain.com/app/public/#/one/insurerCode=MERITAIN_I&brandCode=MERITAINOVER/machine-readable-transparency-in-coverage?reportingEntityType=TPA_19874&lock=trueTo all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.",
       "job_apply_link": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Intern-II---Data-Engineering_JR115330",
       "job_posted_at_datetime_utc": "2025-12-06T06:50:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "dexcom-intern-2-data-engineering-san-diego"
+      "id": "dexcom-intern-2-data-engineering-san-diego",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T18:45:13.205Z",
     "postedAt": null
   },
   {
@@ -6626,24 +6576,6 @@
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": null,
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Engineering Intern",
-      "employer_name": "General Dynamics Mission Systems",
-      "job_city": "Cape Canaveral",
-      "job_state": "FL",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
-      "job_apply_link": "https://careers-gdms.icims.com/jobs/69671/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-12-09T04:19:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "6d",
-      "id": "general-dynamics-mission-engineering-intern-cape-canaveral"
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
-    "postedAt": "2025-12-21T18:33:12.142Z"
   },
   {
     "job": {
