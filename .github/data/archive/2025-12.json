@@ -5872,5 +5872,104 @@
     "sourceUrl": "https://apply.workable.com/twg-global/j/95E27142C1/",
     "discordThreadId": "1449883843854336023",
     "instanceNumber": 1
+  },
+  {
+    "id": "salesforce-salesforce-ai-research-palo-alto-2025-12-14-1",
+    "jobId": "salesforce-salesforce-ai-research-palo-alto",
+    "company": "Salesforce",
+    "title": "Salesforce AI Research",
+    "postedToDiscord": "2025-12-14T22:10:10.293Z",
+    "sourceDate": "2025-09-10T13:08:21.000Z",
+    "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422",
+    "discordThreadId": "1449886204286730422",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-embedded-software-development-intern-niles-2025-12-14-1",
+    "jobId": "shure-embedded-software-development-intern-niles",
+    "company": "Shure",
+    "title": "Embedded Software Development Intern",
+    "postedToDiscord": "2025-12-14T22:10:13.614Z",
+    "sourceDate": "2025-09-10T13:06:52.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4426/job",
+    "discordThreadId": "1449886211484156129",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-mobile-applications-android-intern-niles-2025-12-14-1",
+    "jobId": "shure-mobile-applications-android-intern-niles",
+    "company": "Shure",
+    "title": "Mobile Applications (Android) Intern",
+    "postedToDiscord": "2025-12-14T22:10:15.402Z",
+    "sourceDate": "2025-09-10T13:06:08.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4454/job",
+    "discordThreadId": "1449886225237409813",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-software-engineering-intern-niles-2025-12-14-1",
+    "jobId": "shure-software-engineering-intern-niles",
+    "company": "Shure",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:10:17.270Z",
+    "sourceDate": "2025-09-10T13:05:17.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4438/job",
+    "discordThreadId": "1449886233076695041",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-cloud-applications-development-intern-niles-2025-12-14-1",
+    "jobId": "shure-cloud-applications-development-intern-niles",
+    "company": "Shure",
+    "title": "Cloud Applications Development Intern",
+    "postedToDiscord": "2025-12-14T22:10:18.979Z",
+    "sourceDate": "2025-09-10T13:04:29.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4405/job",
+    "discordThreadId": "1449886240785567935",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-mobile-applications-ios-intern-niles-2025-12-14-1",
+    "jobId": "shure-mobile-applications-ios-intern-niles",
+    "company": "Shure",
+    "title": "Mobile Applications (iOS) Intern",
+    "postedToDiscord": "2025-12-14T22:10:20.869Z",
+    "sourceDate": "2025-09-10T13:03:06.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4453/job",
+    "discordThreadId": "1449886248515670157",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lockheed-martin-software-engineering-intern-orlando-2025-12-14-1",
+    "jobId": "lockheed-martin-software-engineering-intern-orlando",
+    "company": "Lockheed Martin",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T22:10:22.685Z",
+    "sourceDate": "2025-09-10T13:00:52.000Z",
+    "sourceUrl": "https://www.lockheedmartinjobs.com/job/orlando/software-engineering-intern-orlando-fl/694/85711258464",
+    "discordThreadId": "1449886256371728424",
+    "instanceNumber": 1
+  },
+  {
+    "id": "tiktok-research-scientist-intern-tiktok-recommendation-large-recommender-models-phd-san-jose-2025-12-14-1",
+    "jobId": "tiktok-research-scientist-intern-tiktok-recommendation-large-recommender-models-phd-san-jose",
+    "company": "TikTok",
+    "title": "Research Scientist Intern - Tiktok Recommendation-Large Recommender Models - PhD",
+    "postedToDiscord": "2025-12-14T22:10:24.885Z",
+    "sourceDate": "2025-09-10T01:57:41.000Z",
+    "sourceUrl": "https://lifeattiktok.com/search/7548183795784222984",
+    "discordThreadId": "1449886264202498194",
+    "instanceNumber": 1
+  },
+  {
+    "id": "thermo-fisher-scientific-quality-specialist-data-analysis-sr-intern-logan-2025-12-14-1",
+    "jobId": "thermo-fisher-scientific-quality-specialist-data-analysis-sr-intern-logan",
+    "company": "Thermo Fisher Scientific",
+    "title": "Quality Specialist – Data Analysis Sr. Intern",
+    "postedToDiscord": "2025-12-14T22:10:29.808Z",
+    "sourceDate": "2025-09-10T06:52:50.000Z",
+    "sourceUrl": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Logan-Utah-USA/Quality-Specialist---Data-Analysis-Sr-Intern_R-01328086",
+    "discordThreadId": "1449886285429739703",
+    "instanceNumber": 1
   }
 ]
