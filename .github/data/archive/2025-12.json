@@ -4783,5 +4783,104 @@
     "sourceUrl": "https://apply.workable.com/falcomm/j/B5EB495F31/",
     "discordThreadId": "1449852684134780939",
     "instanceNumber": 1
+  },
+  {
+    "id": "onedigital-business-data-analyst-remote-in-usa-2025-12-14-1",
+    "jobId": "onedigital-business-data-analyst-remote-in-usa",
+    "company": "OneDigital",
+    "title": "Business Data Analyst",
+    "postedToDiscord": "2025-12-14T20:10:43.521Z",
+    "sourceDate": "2025-09-15T10:03:34.000Z",
+    "sourceUrl": "https://onedigital.wd5.myworkdayjobs.com/en-US/onedigital/job/Remote/Business-Data-Analyst---Intern--Remote-_R7718",
+    "discordThreadId": "1449856144234250240",
+    "instanceNumber": 1
+  },
+  {
+    "id": "workiva-site-reliability-remote-in-usa-2025-12-14-1",
+    "jobId": "workiva-site-reliability-remote-in-usa",
+    "company": "Workiva",
+    "title": "Site Reliability",
+    "postedToDiscord": "2025-12-14T20:10:48.244Z",
+    "sourceDate": "2025-09-15T09:58:04.000Z",
+    "sourceUrl": "https://workiva.wd1.myworkdayjobs.com/careers/job/USA---Remote/Summer-2026-Intern---Site-Reliability_R10747",
+    "discordThreadId": "1449856164501393568",
+    "instanceNumber": 1
+  },
+  {
+    "id": "trane-technologies-software-development-engineering-intern-st-paul-2025-12-14-1",
+    "jobId": "trane-technologies-software-development-engineering-intern-st-paul",
+    "company": "Trane Technologies",
+    "title": "Software Development Engineering Intern",
+    "postedToDiscord": "2025-12-14T20:10:50.077Z",
+    "sourceDate": "2025-09-15T09:50:52.000Z",
+    "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505287EXTERNALENGLOBAL/Software-Development-Engineering-Intern",
+    "discordThreadId": "1449856171962925159",
+    "instanceNumber": 1
+  },
+  {
+    "id": "trane-technologies-software-test-engineer-intern-st-paul-2025-12-14-1",
+    "jobId": "trane-technologies-software-test-engineer-intern-st-paul",
+    "company": "Trane Technologies",
+    "title": "Software Test Engineer Intern",
+    "postedToDiscord": "2025-12-14T20:10:51.723Z",
+    "sourceDate": "2025-09-15T09:49:47.000Z",
+    "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505339EXTERNALENGLOBAL/Software-Test-Engineer-Intern",
+    "discordThreadId": "1449856179244372230",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rilla-software-engineer-intern-new-york-2025-12-14-1",
+    "jobId": "rilla-software-engineer-intern-new-york",
+    "company": "Rilla",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-14T20:10:53.416Z",
+    "sourceDate": "2025-09-15T09:47:18.000Z",
+    "sourceUrl": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5",
+    "discordThreadId": "1449856186231951472",
+    "instanceNumber": 1
+  },
+  {
+    "id": "subaru-intern-connected-vehicle-philadelphia-2025-12-14-1",
+    "jobId": "subaru-intern-connected-vehicle-philadelphia",
+    "company": "Subaru",
+    "title": "Intern – Connected Vehicle",
+    "postedToDiscord": "2025-12-14T20:10:58.114Z",
+    "sourceDate": "2025-09-14T22:41:05.000Z",
+    "sourceUrl": "https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2036",
+    "discordThreadId": "1449856206012289197",
+    "instanceNumber": 1
+  },
+  {
+    "id": "energy-transfer-partners-intern-business-transformation-and-integration-accounting-transformation-and-integration-department-dallas-2025-12-14-1",
+    "jobId": "energy-transfer-partners-intern-business-transformation-and-integration-accounting-transformation-and-integration-department-dallas",
+    "company": "Energy Transfer Partners",
+    "title": "Intern – Business Transformation and Integration - Accounting Transformation and Integration Department",
+    "postedToDiscord": "2025-12-14T20:11:02.824Z",
+    "sourceDate": "2025-09-13T19:39:17.000Z",
+    "sourceUrl": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2510003044",
+    "discordThreadId": "1449856225696284712",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-technologies-machine-learning-engineer-intern-colorado-springs-2025-12-14-1",
+    "jobId": "keysight-technologies-machine-learning-engineer-intern-colorado-springs",
+    "company": "Keysight Technologies",
+    "title": "Machine Learning Engineer Intern",
+    "postedToDiscord": "2025-12-14T20:11:07.658Z",
+    "sourceDate": "2025-09-13T06:41:18.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/49566?lang=en-us&icims=1",
+    "discordThreadId": "1449856245510177042",
+    "instanceNumber": 1
+  },
+  {
+    "id": "omnisource-environmental-analyst-intern-fort-wayne-2025-12-14-1",
+    "jobId": "omnisource-environmental-analyst-intern-fort-wayne",
+    "company": "OmniSource",
+    "title": "Environmental Analyst Intern",
+    "postedToDiscord": "2025-12-14T20:11:12.524Z",
+    "sourceDate": "2025-09-13T05:58:21.000Z",
+    "sourceUrl": "https://careers-omnisource.icims.com/jobs/6512/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449856266401878148",
+    "instanceNumber": 1
   }
 ]
