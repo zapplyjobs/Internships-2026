@@ -4684,5 +4684,104 @@
     "sourceUrl": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/2503668",
     "discordThreadId": "1449850577306517628",
     "instanceNumber": 1
+  },
+  {
+    "id": "trane-technologies-engineering-co-op-winona-2025-12-14-1",
+    "jobId": "trane-technologies-engineering-co-op-winona",
+    "company": "Trane Technologies",
+    "title": "Engineering Co-op",
+    "postedToDiscord": "2025-12-14T19:56:38.751Z",
+    "sourceDate": "2025-09-16T01:15:08.000Z",
+    "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/2504004",
+    "discordThreadId": "1449852601376968808",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle-2025-12-14-1",
+    "jobId": "bytedance-low-latency-video-codec-algorithm-intern-multimedia-lab-phd-seattle",
+    "company": "ByteDance",
+    "title": "Low Latency Video Codec Algorithm Intern - Multimedia Lab - PhD",
+    "postedToDiscord": "2025-12-14T19:56:40.426Z",
+    "sourceDate": "2025-09-16T01:10:50.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7548273169150380296/detail",
+    "discordThreadId": "1449852608306221268",
+    "instanceNumber": 1
+  },
+  {
+    "id": "caci-software-development-intern-denver-2025-12-14-1",
+    "jobId": "caci-software-development-intern-denver",
+    "company": "CACI",
+    "title": "Software Development Intern",
+    "postedToDiscord": "2025-12-14T19:56:42.058Z",
+    "sourceDate": "2025-09-16T00:46:11.000Z",
+    "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Denver/Software-Development-Intern---Summer-2026_317296-1",
+    "discordThreadId": "1449852615533002812",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs-2025-12-14-1",
+    "jobId": "keysight-technologies-software-engineering-intern-automation-developer-experience-colorado-springs",
+    "company": "Keysight Technologies",
+    "title": "Software Engineering Intern - Automation & Developer Experience",
+    "postedToDiscord": "2025-12-14T19:56:43.742Z",
+    "sourceDate": "2025-09-15T23:46:33.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/49584?lang=en-us&icims=1",
+    "discordThreadId": "1449852622101282941",
+    "instanceNumber": 1
+  },
+  {
+    "id": "midmark-it-software-development-co-op-vandalia-2025-12-14-1",
+    "jobId": "midmark-it-software-development-co-op-vandalia",
+    "company": "Midmark ",
+    "title": "IT Software Development Co-Op",
+    "postedToDiscord": "2025-12-14T19:56:45.403Z",
+    "sourceDate": "2025-09-15T23:12:37.000Z",
+    "sourceUrl": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/3632",
+    "discordThreadId": "1449852629554565323",
+    "instanceNumber": 1
+  },
+  {
+    "id": "voya-financial-technology-intern-remote-in-usa-2025-12-14-1",
+    "jobId": "voya-financial-technology-intern-remote-in-usa",
+    "company": "Voya Financial",
+    "title": "Technology Intern",
+    "postedToDiscord": "2025-12-14T19:56:50.216Z",
+    "sourceDate": "2025-09-15T23:08:38.000Z",
+    "sourceUrl": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/United-States-Remote/Summer-2026-Technology-Intern_JR0031730",
+    "discordThreadId": "1449852649758261348",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cencora-ai-workflow-architect-intern-conshohocken-2025-12-14-1",
+    "jobId": "cencora-ai-workflow-architect-intern-conshohocken",
+    "company": "Cencora",
+    "title": "AI Workflow Architect Intern",
+    "postedToDiscord": "2025-12-14T19:56:54.955Z",
+    "sourceDate": "2025-09-15T22:55:50.000Z",
+    "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Workflow-Architect-Intern_R2517589",
+    "discordThreadId": "1449852669589065880",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cencora-ai-ml-engineering-intern-conshohocken-2025-12-14-1",
+    "jobId": "cencora-ai-ml-engineering-intern-conshohocken",
+    "company": "Cencora",
+    "title": "AI/ML Engineering Intern",
+    "postedToDiscord": "2025-12-14T19:56:56.633Z",
+    "sourceDate": "2025-09-15T22:55:46.000Z",
+    "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2517571",
+    "discordThreadId": "1449852676559863828",
+    "instanceNumber": 1
+  },
+  {
+    "id": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta-2025-12-14-1",
+    "jobId": "falcomm-ml-software-engineer-intern-ai-cad-integration-atlanta",
+    "company": "Falcomm",
+    "title": "ML Software Engineer Intern - AI/CAD Integration",
+    "postedToDiscord": "2025-12-14T19:56:58.873Z",
+    "sourceDate": "2025-09-15T10:11:09.000Z",
+    "sourceUrl": "https://apply.workable.com/falcomm/j/B5EB495F31/",
+    "discordThreadId": "1449852684134780939",
+    "instanceNumber": 1
   }
 ]
