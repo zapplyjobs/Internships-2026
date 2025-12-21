@@ -441,26 +441,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Intern (Global E-Commerce Search Infrastructure) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7579073228540201269",
-      "job_posted_at_datetime_utc": "2025-12-10T02:28:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-intern-global-e-commerce-search-infrastructure-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": "2025-12-20T23:47:38.889Z"
-  },
-  {
-    "job": {
       "job_title": "Transit Co-op Intern/Co-op",
       "employer_name": "Commonwealth of Massachusetts",
       "job_city": "Boston",
@@ -474,10 +454,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T17:45:24.776Z"
   },
   {
     "job": {
@@ -494,10 +474,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T17:45:24.776Z"
   },
   {
     "job": {
@@ -514,10 +494,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T17:45:24.776Z"
   },
   {
     "job": {
@@ -534,10 +514,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:28:14.865Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T17:45:24.776Z"
   },
   {
     "job": {
@@ -554,10 +534,10 @@
       "description_platform": "workday",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T03:42:11.302Z",
     "enrichedAt": "2025-12-20T23:36:18.802Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T17:45:24.776Z"
   },
   {
     "job": {
@@ -745,16 +725,18 @@
       "employer_name": "CME Group",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join CME Group in this exciting opportunity.",
+      "job_description": "Data Science Intern – Summer & Fall 2026CME Group is seeking a proactive and skilled Data Science Intern for the 2026 Summer and Fall 2026 terms. This role supports the Manager of Data Science in client development analytics, focusing on transforming various data sources into actionable business insights that drive sales initiatives.Key Responsibilities (Principal Accountabilities):Execute data acquisition, ETL (Extract, Transform, Load) processes utilizing tools such as SQL (Big Query) and SAP Business Object.Develop compelling data visualizations using Tableau, Looker, Streamlit, or R Shiny.Perform data processing and develop analytical models.Required Skills and Qualifications:Skills / Software Requirements:Strong proficiency in a scripting language (e.g., Python, R). Proficiency in SQL and Microsoft Excel.Proficiency with Tableau.Experience with cloud service platforms (e.g., GCP, AWS, Azure)Education:Must be currently pursuing a bachelor’s or master’s degree in a quantitative discipline (e.g., Math, Statistics, Data Science, Financial Engineering, Engineering).A finance background is highly advantageous.Internship Details:Timing: May 2026 – December 2026Hours:Summer: 32 hours per weekFall: 16 hours per weekThis is an in-person only positionCME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $21.10--$35.14. Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings. This includes our comprehensive health coverage and a mental health benefit.CME Group: Where Futures are MadeCME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries. And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-opportunity employer, we consider all potential employees without regard to any protected characteristic.Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment process. Learn more here.",
       "job_apply_link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
       "job_posted_at_datetime_utc": "2025-12-09T09:51:42.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cme-group-data-science-intern-summer-2026-fall-2026-chicago"
+      "id": "cme-group-data-science-intern-summer-2026-fall-2026-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T17:44:48.711Z",
     "postedAt": null
   },
   {
