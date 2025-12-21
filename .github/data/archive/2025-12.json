@@ -5080,5 +5080,104 @@
     "sourceUrl": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote/Computer-Vision-Intern_R-100394",
     "discordThreadId": "1449864437795258399",
     "instanceNumber": 1
+  },
+  {
+    "id": "boeing-software-engineering-artificial-intelligence-intern-tukwila-2025-12-14-1",
+    "jobId": "boeing-software-engineering-artificial-intelligence-intern-tukwila",
+    "company": "Boeing",
+    "title": "Software Engineering Artificial Intelligence Intern",
+    "postedToDiscord": "2025-12-14T20:48:49.964Z",
+    "sourceDate": "2025-09-12T09:41:50.000Z",
+    "sourceUrl": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Technology-Innovation---Graduate-Researcher-Program---Software-Engineering-Artificial-Intelligence-Intern_JR2025472845",
+    "discordThreadId": "1449865734762270750",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paypal-machine-learning-engineer-phd-san-jose-2025-12-14-1",
+    "jobId": "paypal-machine-learning-engineer-phd-san-jose",
+    "company": "PayPal",
+    "title": "Machine Learning Engineer PhD",
+    "postedToDiscord": "2025-12-14T20:48:51.633Z",
+    "sourceDate": "2025-09-12T09:31:08.000Z",
+    "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0131049",
+    "discordThreadId": "1449865741733204111",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paypal-machine-learning-intern-san-jose-2025-12-14-1",
+    "jobId": "paypal-machine-learning-intern-san-jose",
+    "company": "PayPal",
+    "title": "Machine Learning Intern",
+    "postedToDiscord": "2025-12-14T20:48:53.290Z",
+    "sourceDate": "2025-09-12T09:30:17.000Z",
+    "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Intern_R0131023",
+    "discordThreadId": "1449865748485771275",
+    "instanceNumber": 1
+  },
+  {
+    "id": "waters-research-machine-learning-co-op-milford-2025-12-14-1",
+    "jobId": "waters-research-machine-learning-co-op-milford",
+    "company": "Waters",
+    "title": "Research Machine Learning Co-op",
+    "postedToDiscord": "2025-12-14T20:48:56.753Z",
+    "sourceDate": "2025-09-12T09:14:17.000Z",
+    "sourceUrl": "https://uscareers-waters.icims.com/jobs/24104/2025-24104/job",
+    "discordThreadId": "1449865755666677851",
+    "instanceNumber": 1
+  },
+  {
+    "id": "crum-forster-data-science-intern-morristown-2025-12-14-1",
+    "jobId": "crum-forster-data-science-intern-morristown",
+    "company": "Crum & Forster",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2025-12-14T20:49:01.507Z",
+    "sourceDate": "2025-09-12T09:36:27.000Z",
+    "sourceUrl": "https://careers-cfins.icims.com/jobs/4541/data-science-intern--summer-2026---morristown%2c-nj-or-remote/job",
+    "discordThreadId": "1449865783101624544",
+    "instanceNumber": 1
+  },
+  {
+    "id": "ketjen-data-science-internship-program-houston-2025-12-14-1",
+    "jobId": "ketjen-data-science-internship-program-houston",
+    "company": "Ketjen",
+    "title": "Data Science Internship Program",
+    "postedToDiscord": "2025-12-14T20:49:03.400Z",
+    "sourceDate": "2025-09-12T09:33:34.000Z",
+    "sourceUrl": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2026-Data-Science-Internship-Program_REQ-29206",
+    "discordThreadId": "1449865790537863289",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paypal-data-science-intern-san-jose-2025-12-14-1",
+    "jobId": "paypal-data-science-intern-san-jose",
+    "company": "PayPal",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2025-12-14T20:49:05.427Z",
+    "sourceDate": "2025-09-12T09:29:19.000Z",
+    "sourceUrl": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Science-Intern_R0131047",
+    "discordThreadId": "1449865798851236074",
+    "instanceNumber": 1
+  },
+  {
+    "id": "entegris-agentic-ai-co-op-bedford-2025-12-14-1",
+    "jobId": "entegris-agentic-ai-co-op-bedford",
+    "company": "Entegris",
+    "title": "Agentic AI Co-Op",
+    "postedToDiscord": "2025-12-14T20:49:11.958Z",
+    "sourceDate": "2025-09-12T09:35:02.000Z",
+    "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/en-US/EntegrisCareers/job/Bedford-MA/Agentic-AI-Co-Op---Spring-2026_REQ-9196",
+    "discordThreadId": "1449865819021381713",
+    "instanceNumber": 1
+  },
+  {
+    "id": "nova-tech-ai-internship-willmar-2025-12-14-1",
+    "jobId": "nova-tech-ai-internship-willmar",
+    "company": "Nova-Tech",
+    "title": "AI Internship",
+    "postedToDiscord": "2025-12-14T20:49:13.607Z",
+    "sourceDate": "2025-09-12T09:32:36.000Z",
+    "sourceUrl": "https://novatechengineering.applytojob.com/apply/k0P5ygd5a0/AI-Internship",
+    "discordThreadId": "1449865833646915766",
+    "instanceNumber": 1
   }
 ]
