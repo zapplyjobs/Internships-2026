@@ -621,106 +621,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Sony",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "Join Sony in this exciting opportunity.",
-      "job_apply_link": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-117822",
-      "job_posted_at_datetime_utc": "2025-08-01T17:05:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sony-software-engineer-intern-san-diego",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T03:42:11.302Z",
-    "enrichedAt": "2025-12-21T21:17:19.824Z",
-    "postedAt": "2025-12-21T21:35:48.898Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Intern/Co-op",
-      "employer_name": "Rolls Royce",
-      "job_city": "Greenville",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team.Description: Technical Co-Op w/ Comp Science or software development background. Student will integrate with AGILE team and support Developers, Designers, and team in software design, admin and delivery. The qualified co-op should expect to contribute & improve in the following functions:• Set up new software projects with Azure DevOps.• Collect requirements from customers / interface partners.• Write EPICS and user stories in an Agile environment.• Backlog grooming.• Set up and lead Agile ceremonies for the Feature Team.• Act as an Agile Master Deputy.• Develop Web / Mobile Applications based on existing frameworks.• Create data models as base for Web / Mobile Applications.• Web App development (Frontend, Backend, DB).• Mobile App development (Optional).• System design.• Concrete projects depending on project inflow during the assignment time. Qualifications:• Desired majors: Computer Engineering, Computer Science, Software Engineering.• Individuals with effective communication skills.• Candidate should have experience and fluency to programming languages such as TypeScript, JavaScript,Angular, NestJS, AWS, PostgreSQL, GraphQL, C, C++, Java, Python, Swift, etc.• Quick to adapt to switching between programming languages as needed.• Experience in database management through the means of SQL.• Possess a minimum cumulative GPA of 3.0 (not just in major).• Have enrolled student status at an accredited four-year college or university in the United States.• Completed at least 30 credit hours at time of application.• Must commit to three co-op rotations as an enrolled student.• Able to work full-time on-site (40 hours / week).• Transfer students must have a GPA from current university.• MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT.• Complete and pass a substance abuse test before the work term.• Work term dates: May 18, 2026 - Aug 7, 2026 (with rotations in Fall 2026 and Spring 2027). BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Greenville-Software-Development-Co-Op-(Summer-2026)-Sout/1274951401/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-software-development-intern-co-op-greenville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T07:40:16.817Z",
-    "enrichedAt": "2025-12-21T21:17:19.824Z",
-    "postedAt": "2025-12-21T21:35:48.898Z"
-  },
-  {
-    "job": {
-      "job_title": "Economic Policy Intern",
-      "employer_name": "American Enterprise Institute",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "<h2>Overview</h2> <p>The American Enterprise Institute (AEI) seeks an in-person intern to provide research and administrative support to the Economic Policy Studies department. The economic policy intern will have the opportunity to do quantitative analysis, background research, fact-checking, and editing for articles and ongoing academic research projects on issues related to applied economics and public finance. The intern will also assist with live, in-person AEI events on timely public policy issues.</p> <p>&nbsp;</p> <p>The ideal candidate will be an undergraduate with a demonstrated interest in economics and public policy. Applicants should have Microsoft Excel experience and knowledge of intermediate econometrics, statistics, and official databases, such as those of the Bureau of Economic Analysis, Bureau of Labor Statistics, and Federal Reserve Bank of St. Louis. Familiarity with Stata, R, and Python is preferred but not required. Candidates who can participate in the program in person for 25–40&nbsp;hours per week are encouraged to apply.</p> <p>&nbsp;</p> <p><strong>About AEI Internships</strong></p> <p>&nbsp;</p> <p>AEI internships offer a unique opportunity for undergraduates, graduate students, and recent graduates to gain experience in research, writing, business, and communications at one of the nation’s leading think tanks. Competitive candidates will generally have a GPA of 3.5 or higher from a top-ranking college or university. AEI’s internship program runs for 12&nbsp;weeks, and all related programming will take place in person in Washington, DC. Please see the internship program home page for updates.</p> <p>&nbsp;</p> <p>The summer program dates are either <strong>Tuesday,</strong> <strong>May&nbsp;26, to Friday, August&nbsp;21</strong>, or <strong>Tuesday, June&nbsp;2, to Friday, August&nbsp;28</strong>.</p>",
-      "job_apply_link": "https://internships-aei.icims.com/jobs/2533/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-11-04T23:27:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "american-enterprise-institute-economic-policy-intern-washington",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T07:40:16.817Z",
-    "enrichedAt": "2025-12-21T21:17:19.824Z",
-    "postedAt": "2025-12-21T21:35:48.898Z"
-  },
-  {
-    "job": {
-      "job_title": "Paint Shop Digitalization Co-op",
-      "employer_name": "Rolls Royce",
-      "job_city": "Greer",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team.Description: Support Paint Shop quality systems that impact pre-paint finish, corrosion, application, finish, paint repair, and new model launch areas through the development of process improvements, innovations, and software tools. The paint shop digitalization co-op will engage in problem solving activities related to quality and process flow topics. The paint shop digitalization co-op will work with department management teams to communicate existing concepts to improve transparency of the quality landscape and vehicle / information flow management. The paint shop digitalization co-op will investigate the next generation of flow concepts, software tools, and assess feasibility and potential benefits. Performs other duties as assigned by management. Assignment duties and possible projects: Quality, Data Analytics, Problem Solving: Engage in problem solving in the department related to KPI impacts and quality. Develop new ways to display operations / quality data that facilitates a faster and clearer path from problem recognition to solution. Participate in problem solving activities in department to improve KPI’s and develop new methods and tools. Develop new mobile software solutions to streamline the defect documentation process and other quality related processes. Develop or enhance tools to improve visibility of paint shop quality process adherence. Interface with existing plant quality management IT systems. Suggest and test new ideas and technology. Create innovative dashboards to quantify, understand, and visualize all the intricacies of paint shop departments from a quality perspective. Qualifications: Computer Science, Computer Information Systems, Management Information Systems, Data Science / Analytics, or other related degrees Proficiency in data engineering and analysis utilizing tools such as Python, SQL, or similar Preferred experience with data visualization tools such as Power BI, Tableau, Quicksight, etc. On-premises / Cloud Database management preferred. Application development / design (Oracle APEX / Power Apps / Other low-code-no-code platforms) preferred. Microsoft Office Suite experience Agile Working Methodology Strong analytical and problem-solving skills with a keen attention to detail Effective communication skills. Possess a minimum cumulative GPA of 3.0 (not just in major) Have enrolled student status at an accredited four-year college or university in the United States. Completed at least 30 credit hours at time of application. Ability to work full-time on-site (40 hours / week). Transfer students must have a GPA from current university. MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT Complete and pass a substance abuse test before the work term. THE WORK TERM DATES ARE May 18th – August 7th, 2026. Must be an enrolled student during all three rotations. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Greer-Paint-Shop-Digitalization-Co-op-(Summer-2026)-Sout/1275288601/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-paint-shop-digitalization-co-op-greer",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:17:19.824Z",
-    "postedAt": "2025-12-21T21:35:48.898Z"
-  },
-  {
-    "job": {
-      "job_title": "APEX/Oracle Co-Op - Summer 2026",
-      "employer_name": "Rolls Royce",
-      "job_city": "Spartanburg",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team. Job DescriptionThe purpose of this position is to provide the Assembly Quality Management IT Systems (Programming) Team with support on Quality Data Application development, validation, and analytics. The position primarily utilizes Oracle APEX for data reporting and management. BMW uses the Siemens IPS-Q database for assembly defect documentation and tracking. The position will be a contributing member of Quality Reporting and Application development. The qualified intern should expect to contribute and improve in the following functions: Support validation and refinement of current applications Work with users to define needs and project plans Provide support for problem investigation Conduct quality data review Lead technical projects to ensure long-term requirements of systems management and planning are met Recommend and implement quality improvement efforts; stay up to date on future innovations and technical trends and apply these to future changes Test and update software for main quality systems to ensure the latest user enhancements Conduct training for end users after software updates and improvements are implemented Possible project applications may include Electronic Job Sign-in reporting, Problem Solving Database, Key Performance Indicator reporting, Closed Defect Reporting Perform other duties as assigned by management. Qualifications: Preferred degrees: Computer Science, Information Technologies, Engineering, or related field Experience with programming in SQL Application development skills Proficient in Microsoft Office Possess a minimum cumulative GPA of 3.0 (not just in major) Enrolled student status at an accredited four-year college or university in the United States Completed at least 30 credit hours at time of application Ability to work full-time on-site (40 hours/week) Transfer students must have a GPA from their current university MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT Complete and pass a substance abuse test before the work term Work term dates are May 18, 2026 – August 7, 2026. Must be an enrolled student during all three rotations. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Spartanburg-APEXOracle-Co-Op-(Summer-2026)-Sout/1275615301/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-apex-oracle-co-op-summer-2026-spartanburg",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:17:19.824Z",
-    "postedAt": "2025-12-21T21:35:48.898Z"
-  },
-  {
-    "job": {
       "job_title": "Dimensional Focus Co-Op - Summer 2026",
       "employer_name": "Rolls Royce",
       "job_city": "Spartanburg",
@@ -734,10 +634,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {
@@ -754,10 +654,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {
@@ -774,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {
@@ -794,10 +694,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {
@@ -925,16 +825,18 @@
       "employer_name": "GM financial",
       "job_city": "Arlington",
       "job_state": "TX",
-      "job_description": "Join GM financial in this exciting opportunity.",
+      "job_description": "Earn experience and gain skills for career success in our full-time summer internship program. Paid interns have the opportunity to work alongside industry leaders on meaningful projects. They also participate in development opportunities, connect with peers and have a great time!",
       "job_apply_link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
       "job_posted_at_datetime_utc": "2025-12-08T22:49:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "gm-financial-intern-enterprise-architecture-arlington"
+      "id": "gm-financial-intern-enterprise-architecture-arlington",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T10:42:29.898Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:44:28.492Z",
     "postedAt": null
   },
   {
@@ -943,16 +845,18 @@
       "employer_name": "Westwood",
       "job_city": "Fresno",
       "job_state": "CA",
-      "job_description": "Join Westwood in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Survey Intern</strong></p> <p><strong>Westwood Professional Services, Inc.</strong></p> <p>&nbsp;</p> <p><strong>Westwood Professional Services, Inc.</strong> &nbsp;is seeking a Survey Intern to join our team. Westwood has a highly experienced and dynamic team of individuals dedicated to providing high-level professional services to our clients</p> <h2>Duties and Responsibilities</h2> <ul> <li>Responsible for assisting the Crew Chief in the operation of a field survey crew</li> <li>The major objectives are the quality (accuracy, thoroughness, meeting regulatory requirements, public relations) of work, safety, and maintenance of equipment</li> <li>Must operate equipment, maintain safe work environment, protect and maintain the equipment and vehicles, accurately and efficiently collect field data and locate features</li> <li>Record accurate and clear surveying notes</li> <li>Requires a lot of walking outside year-round through all kinds of terrain and in extreme heat and cold</li> <li>Set wooden stakes and iron rods, cut and clear brush, trees, etc.</li> <li>Adhere to the company’s Safety, Quality Management and Equipment Maintenance policies</li> <li>Assisting Registered Professional Surveyors with CAD production, survey research, boundary analysis, easement preparations, legal descriptions, and computing survey points</li> <li>Coordinate and work with field crews and other office staff</li> </ul> <h2>Required Skills</h2> <ul> <li>Physically mobile in and around construction sites and field assignments</li> <li>Ability to carry survey equipment and supplies in remote, rural or urban surroundings</li> <li>Ability to lift 50 pounds and walk long distances</li> </ul> <h2>Required Experience</h2> <ul> <li>High school diploma or GED required</li> <li>Currently enrolled in an associates or bachelor’s degree program in Surveying, Engineering Technology, or related area of study</li> <li>Basic knowledge of AutoCAD Civil 3D for production activities</li> <li>Ability to manage multiple tasks, project coordination, maintain organizational structures, and interact with other design services</li> <li>Ability to perform in a fast-paced environment that is in a growth mode</li> <li>Strong listening, writing, and verbal communication skills</li> </ul> <h2>Preferred Experience</h2> <ul> <li>Knowledge of ALTA surveys, boundary analysis, topographic surveys, preparation of easement documents, legal descriptions, final plat preparation, construction staking</li> <li>Full use of Microsoft Office</li> <li>Familiar with GIS processes and terminology</li> <li>Prior experience with survey field work</li> </ul> <h2>Compensation Range Minimum</h2>USD $20.00/Hr. <h2>Compensation Range Maximum</h2>USD $28.00/Hr. <h2>About Westwood Professional Services, Inc. (Westwood)</h2> <p>At Westwood, our purpose is to create a better world for people through our work. We transform the energy grid, design resilient infrastructure, and develop communities that will flourish today and for future generations. With over 50 years of experience and a legacy of innovation, we stand at the forefront of our industry, dedicated to understanding the unique needs of the markets we serve.</p> <p>Our approach revolves around people. We are committed to building a culture that attracts, retains, and develops high performers. Our team values relationships, innovation, dedication, initiative, and growth. We believe fostering a collaborative “One Team” mentality yields superior outcomesin everything we do.</p> <p>&nbsp;</p> <p>We customize our technical capabilities and geographic reach to meet our clients where they are and help them realize their vision. We are partners in our clients’ success, driving to provide solutions that make a lasting difference. Safety, sustainability, and operational excellence are not just facets of our work; they are intrinsic to our identity, guiding every decision we make.</p> <p>&nbsp;</p> <p>We are deeply invested in the communities we serve. Through our projects and giving-back initiatives, we enrich the lives of those we serve, engage others within our industry, and create a lasting impact on communities around the world. To us, success transcends the completion of projects; it is reflected in the lives we have positively impacted by our work.</p> <p>&nbsp;</p> <p>Join us in creating a better world.</p> <p>&nbsp;</p> <p>In 2024, Zweig Group ranked Westwood nationally at #13 and #40, respectively, on its Hot Firms and Best Firms to Work for lists. Zweig also awarded Westwood one national 1st place award for Marketing Excellence. Westwood was recently recognized as #83 in the ENR Top 500 Firms in 2024. The firm consistently ranks on the industry's top 25 lists and receives recognition for its involvement in award-winning projects nationwide.</p> <p>&nbsp;</p> <p>Westwood provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. We believe that diverse backgrounds strengthen our business. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</p>",
       "job_apply_link": "https://careers-westwoodps.icims.com/jobs/7145/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-15T21:31:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "westwood-survey-intern-fresno"
+      "id": "westwood-survey-intern-fresno",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-12T10:42:29.898Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:44:28.492Z",
     "postedAt": null
   },
   {
@@ -961,16 +865,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Locations: Sunnyvale, California  Mountain View, California  About the Team:  The Simulation group builds artificial intelligence (AI) and machine learning (ML) models that power realistic environments for testing and training advanced systems. These simulations generate diverse scenarios that help validate and improve decision-making policies across robotics, autonomous systems, and other AI-driven applications. Think of Simulation as a virtual training ground where complex systems learn to operate safely and effectively. The team develops AI/ML models that control simulated entities—whether vehicles, robots, or other agents—so they interact in realistic and dynamic ways. Our technology stack includes generative models, reinforcement learning (RL), and other ML approaches. The Simulation group collaborates closely with teams in behaviors, perception, safety engineering, and infrastructure to deliver scalable, high-fidelity environments. As an intern, you’ll gain hands-on experience in AI/ML model development, training loop optimization, and simulation infrastructure design, while learning from experienced engineers in the robotics and AI space.   What You’ll Do: Assist in developing ML and RL models, including training loop design and optimization. Help streamline integration and contribute to ML infrastructure, metrics, and data pipelines. Collaborate with the AI/ML team to support rapid experimentation and deployment in simulation environments. Apply software engineering skills to accelerate project timelines in areas such as robotics, autonomous systems, and simulation frameworks. Learn how simulation technologies are applied to real-world AI and ML systems. Participate in code reviews, technical discussions, and design resign Collaborate with cross-functional teams including hardware, systems, test, and safety to ensure seamless software integration Communicate effectively across multiple stakeholders  Required Qualifications: We’re looking for students who are eager to learn and contribute. What you need is curiosity, strong fundamentals, and a passion for AI and simulation. Currently pursuing a PhD in Computer Science, Robotics, Electrical Engineering, or a related field. Familiarity with machine learning concepts and frameworks (e.g., TensorFlow, PyTorch). Strong programming skills in Python or C++. Exposure to reinforcement learning, generative models, or GPU programming. Interest in simulation, robotics, or autonomous systems. Able to work fulltime, 40 hours per week.  Preferred Qualifications: Demonstrated software engineering experience from previous internships, work experience, coding competitions, or publications. Experience with projects involving ML pipelines, optimization, or robotics competitions. Intent to return to degree-program after the completion of the internship/co-op.  Compensation: The monthly salary range for this role is $12,300 per month  GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers  \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineering-Intern---Simulation-Core--PhD-_JR-202524239",
       "job_posted_at_datetime_utc": "2025-12-13T00:47:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-sunnyvale"
+      "id": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:44:28.492Z",
     "postedAt": null
   },
   {
@@ -984,11 +890,13 @@
       "job_posted_at_datetime_utc": "2025-12-12T23:49:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "realtor-com-software-engineer-intern-austin"
+      "id": "realtor-com-software-engineer-intern-austin",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:44:28.492Z",
     "postedAt": null
   },
   {
@@ -1002,11 +910,13 @@
       "job_posted_at_datetime_utc": "2025-12-12T23:48:23.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microchip-technology-intern-engineering-reliability-physics-chandler"
+      "id": "microchip-technology-intern-engineering-reliability-physics-chandler",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:44:28.492Z",
     "postedAt": null
   },
   {
@@ -5180,10 +5090,10 @@
       "job_posted_at": "6d",
       "id": "general-dynamics-mission-systems-engineering-intern-summer-2026-manassas"
     },
-    "status": "pending",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": null,
-    "postedAt": null
+    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {

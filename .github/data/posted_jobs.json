@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:35:45.885Z",
+  "lastUpdated": "2025-12-21T21:45:00.979Z",
   "jobs": [
-    {
-      "id": "citizens-financial-group-data-analytics-graduate-internship-coralville-2025-12-14-1",
-      "jobId": "citizens-financial-group-data-analytics-graduate-internship-coralville",
-      "company": "Citizens Financial Group",
-      "title": "Data Analytics Graduate Internship",
-      "postedToDiscord": "2025-12-14T21:41:44.329Z",
-      "sourceDate": "2025-09-10T22:40:08.000Z",
-      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41914",
-      "discordThreadId": "1449879048602779681",
-      "instanceNumber": 1
-    },
-    {
-      "id": "western-southern-financial-group-business-intelligence-intern-cincinnati-2025-12-14-1",
-      "jobId": "western-southern-financial-group-business-intelligence-intern-cincinnati",
-      "company": "Western & Southern Financial Group",
-      "title": "Business Intelligence Intern",
-      "postedToDiscord": "2025-12-14T21:41:46.076Z",
-      "sourceDate": "2025-09-10T22:32:36.000Z",
-      "sourceUrl": "https://careers-westernsouthern.icims.com/jobs/23639/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449879056240611338",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citizens-financial-group-data-management-graduate-internship-coralville-2025-12-14-1",
-      "jobId": "citizens-financial-group-data-management-graduate-internship-coralville",
-      "company": "Citizens Financial Group",
-      "title": "Data Management Graduate Internship",
-      "postedToDiscord": "2025-12-14T21:41:47.814Z",
-      "sourceDate": "2025-09-10T22:27:12.000Z",
-      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41915",
-      "discordThreadId": "1449879063572512961",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oshkosh-data-scientist-intern-digital-technology-hagerstown-2025-12-14-1",
-      "jobId": "oshkosh-data-scientist-intern-digital-technology-hagerstown",
-      "company": "Oshkosh",
-      "title": "Data Scientist Intern - Digital Technology",
-      "postedToDiscord": "2025-12-14T21:41:49.549Z",
-      "sourceDate": "2025-09-10T22:20:01.000Z",
-      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Data-Scientist-Intern---Digital-Technology_R39792",
-      "discordThreadId": "1449879070853824625",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citizens-financial-group-data-science-graduate-internship-coralville-2025-12-14-1",
-      "jobId": "citizens-financial-group-data-science-graduate-internship-coralville",
-      "company": "Citizens Financial Group",
-      "title": "Data Science Graduate Internship",
-      "postedToDiscord": "2025-12-14T21:41:54.323Z",
-      "sourceDate": "2025-09-10T22:40:06.000Z",
-      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41917",
-      "discordThreadId": "1449879090843881695",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lennox-international-ai-engineering-intern-richardson-2025-12-14-1",
-      "jobId": "lennox-international-ai-engineering-intern-richardson",
-      "company": "Lennox International",
-      "title": "AI Engineering Intern",
-      "postedToDiscord": "2025-12-14T21:41:56.105Z",
-      "sourceDate": "2025-09-10T22:30:38.000Z",
-      "sourceUrl": "https://uscareers-lennox.icims.com/jobs/49999/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449879098238173264",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keysight-technologies-r-d-software-engineering-internship-calabasas-2025-12-14-1",
-      "jobId": "keysight-technologies-r-d-software-engineering-internship-calabasas",
-      "company": "Keysight Technologies",
-      "title": "R&D Software Engineering Internship",
-      "postedToDiscord": "2025-12-14T21:42:02.853Z",
-      "sourceDate": "2025-09-10T22:29:07.000Z",
-      "sourceUrl": "https://jobs.keysight.com/jobs/49413?lang=en-us&icims=1",
-      "discordThreadId": "1449879118379221153",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oshkosh-manufacturing-data-analytics-intern-chambersburg-2025-12-14-1",
-      "jobId": "oshkosh-manufacturing-data-analytics-intern-chambersburg",
-      "company": "Oshkosh",
-      "title": "Manufacturing Data Analytics Intern",
-      "postedToDiscord": "2025-12-14T21:42:04.582Z",
-      "sourceDate": "2025-09-10T22:20:07.000Z",
-      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Data-Analytics-Intern_R39615",
-      "discordThreadId": "1449879133957001296",
-      "instanceNumber": 1
-    },
-    {
-      "id": "peraton-systems-engineer-intern-blacksburg-2025-12-14-1",
-      "jobId": "peraton-systems-engineer-intern-blacksburg",
-      "company": "Peraton",
-      "title": "Systems Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:42:06.355Z",
-      "sourceDate": "2025-09-10T21:38:10.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158533/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449879141238444253",
-      "instanceNumber": 1
-    },
     {
       "id": "medpace-inc-software-development-co-op-cincinnati-2025-12-14-1",
       "jobId": "medpace-inc-software-development-co-op-cincinnati",
@@ -10110,14 +10011,69 @@
       "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-APEXOracle-Co-Op-(Summer-2026)-Sout/1275615301/?ats=successfactors",
       "discordThreadId": "1452414253716869376",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-systems-engineering-intern-summer-2026-manassas-2025-12-21-1",
+      "jobId": "general-dynamics-mission-systems-engineering-intern-summer-2026-manassas",
+      "company": "General Dynamics Mission Systems",
+      "title": "Systems Engineering Intern - Summer 2026",
+      "postedToDiscord": "2025-12-21T21:44:37.869Z",
+      "sourceDate": "2025-10-09T19:28:20.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/67995/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452416484147073170",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-dimensional-focus-co-op-summer-2026-spartanburg-2025-12-21-1",
+      "jobId": "rolls-royce-dimensional-focus-co-op-summer-2026-spartanburg",
+      "company": "Rolls Royce",
+      "title": "Dimensional Focus Co-Op - Summer 2026",
+      "postedToDiscord": "2025-12-21T21:44:44.420Z",
+      "sourceDate": "2025-12-12T07:14:22.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-Dimensional-Focus-Co-Op-(Summer-2026)-Sout/1275719701/?ats=successfactors",
+      "discordThreadId": "1452416511544266754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-predictive-maintenance-co-op-spartanburg-2025-12-21-1",
+      "jobId": "rolls-royce-predictive-maintenance-co-op-spartanburg",
+      "company": "Rolls Royce",
+      "title": "Predictive Maintenance Co-op",
+      "postedToDiscord": "2025-12-21T21:44:47.946Z",
+      "sourceDate": "2025-12-12T07:14:17.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Spartanburg-Predictive-Maintenance-Co-op-(Summer-2026)-Sout/1275672701/?ats=successfactors",
+      "discordThreadId": "1452416526522126336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-it-innovation-research-intern-greenville-2025-12-21-1",
+      "jobId": "rolls-royce-it-innovation-research-intern-greenville",
+      "company": "Rolls Royce",
+      "title": "IT Innovation & Research Intern",
+      "postedToDiscord": "2025-12-21T21:44:54.625Z",
+      "sourceDate": "2025-12-12T07:14:21.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Summer-2026-Sout/1274914501/?ats=successfactors",
+      "discordThreadId": "1452416554086961284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "w-r-berkley-data-analyst-intern-power-bi-sql-cherry-hills-village-2025-12-21-1",
+      "jobId": "w-r-berkley-data-analyst-intern-power-bi-sql-cherry-hills-village",
+      "company": "W.R. Berkley",
+      "title": "Data Analyst Intern - Power BI - SQL",
+      "postedToDiscord": "2025-12-21T21:45:00.979Z",
+      "sourceDate": "2025-10-31T00:55:55.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/13113/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452416581912105053",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 919,
+    "totalJobs": 915,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:35:45.885Z",
+      "date": "2025-12-21T21:45:00.979Z",
       "archived": 0
     }
   }
