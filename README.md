@@ -122,7 +122,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 22h |
+| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 23h |
 | Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 1d |
 | Data Science: Intern Opportunities | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649486) | 2d |
 | Data Science PhD Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 2d |
