@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T17:45:21.763Z",
+  "lastUpdated": "2025-12-21T17:53:43.738Z",
   "jobs": [
     {
       "id": "u-s-venture-software-development-intern-breakthrough-green-bay-2025-12-14-1",
@@ -10583,14 +10583,69 @@
       "sourceUrl": "https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Summer-Intern---Data-Science_J25542",
       "discordThreadId": "1452356270613987491",
       "instanceNumber": 1
+    },
+    {
+      "id": "sharp-electronics-ai-process-automation-intern-montvale-2025-12-21-1",
+      "jobId": "sharp-electronics-ai-process-automation-intern-montvale",
+      "company": "Sharp Electronics",
+      "title": "AI Process Automation Intern",
+      "postedToDiscord": "2025-12-21T17:53:26.278Z",
+      "sourceDate": "2025-12-09T13:50:14.000Z",
+      "sourceUrl": "https://careers-sharpusa.icims.com/jobs/8567/ai-process-automation-intern/job",
+      "discordThreadId": "1452358302871584998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-ai-compiler-intern-santa-clara-2025-12-21-1",
+      "jobId": "nvidia-ai-compiler-intern-santa-clara",
+      "company": "NVIDIA",
+      "title": "AI Compiler Intern",
+      "postedToDiscord": "2025-12-21T17:53:29.881Z",
+      "sourceDate": "2025-12-09T13:46:04.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431",
+      "discordThreadId": "1452358317061050501",
+      "instanceNumber": 1
+    },
+    {
+      "id": "marsh-oliver-wyman-vector-software-development-intern-atlanta-2025-12-21-1",
+      "jobId": "marsh-oliver-wyman-vector-software-development-intern-atlanta",
+      "company": "Marsh",
+      "title": "Oliver Wyman-Vector-Software Development Intern",
+      "postedToDiscord": "2025-12-21T17:53:33.517Z",
+      "sourceDate": "2025-12-09T12:19:15.000Z",
+      "sourceUrl": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Atlanta---Hartsfield/Oliver-Wyman--Vector--Software-Development-Intern_R_333148",
+      "discordThreadId": "1452358332613656747",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-biology-research-ai-development-san-francisco-2025-12-21-1",
+      "jobId": "genentech-biology-research-ai-development-san-francisco",
+      "company": "Genentech",
+      "title": "Biology Research - AI Development",
+      "postedToDiscord": "2025-12-21T17:53:40.009Z",
+      "sourceDate": "2025-12-09T13:47:31.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/rog-a2o-gene/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Biology-Research---AI-Development_202512-131066",
+      "discordThreadId": "1452358360509845514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "etched-ai-software-intern-san-jose-2025-12-21-1",
+      "jobId": "etched-ai-software-intern-san-jose",
+      "company": "Etched.ai",
+      "title": "Software Intern",
+      "postedToDiscord": "2025-12-21T17:53:43.737Z",
+      "sourceDate": "2025-12-09T13:42:25.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df",
+      "discordThreadId": "1452358374707433606",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 962,
+    "totalJobs": 967,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T17:45:21.763Z",
+      "date": "2025-12-21T17:53:43.738Z",
       "archived": 0
     }
   }
