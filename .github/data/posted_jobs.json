@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T18:45:46.532Z",
+  "lastUpdated": "2025-12-21T18:55:49.020Z",
   "jobs": [
     {
       "id": "shure-audio-applied-research-science-intern-morton-grove-2025-12-14-1",
@@ -10660,14 +10660,69 @@
       "sourceUrl": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/Alation-Data---AI-Intern_R10000612",
       "discordThreadId": "1452371472826892310",
       "instanceNumber": 1
+    },
+    {
+      "id": "axiom-space-mission-operations-engineer-houston-2025-12-21-1",
+      "jobId": "axiom-space-mission-operations-engineer-houston",
+      "company": "Axiom Space",
+      "title": "Mission Operations Engineer",
+      "postedToDiscord": "2025-12-21T18:55:30.393Z",
+      "sourceDate": "2025-12-08T22:17:16.000Z",
+      "sourceUrl": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Mission-Operations-Engineering-Intern--Summer-2026-_JR100353",
+      "discordThreadId": "1452373923068121322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-afsim-modeling-and-simulation-intern-beavercreek-2025-12-21-1",
+      "jobId": "booz-allen-afsim-modeling-and-simulation-intern-beavercreek",
+      "company": "Booz Allen",
+      "title": "AFSIM Modeling and Simulation Intern",
+      "postedToDiscord": "2025-12-21T18:55:35.202Z",
+      "sourceDate": "2025-12-08T19:47:03.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/AFSIM-Modeling---Simulation-Engineer_R0230379",
+      "discordThreadId": "1452373937705975990",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-amazon-robotics-applied-scientist-2-intern-co-op-2026-seattle-2025-12-21-1",
+      "jobId": "amazon-amazon-robotics-applied-scientist-2-intern-co-op-2026-seattle",
+      "company": "Amazon",
+      "title": "Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026",
+      "postedToDiscord": "2025-12-21T18:55:38.962Z",
+      "sourceDate": "2025-12-08T07:27:56.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
+      "discordThreadId": "1452373957192716361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aecom-digital-and-engineering-technology-intern-roanoke-2025-12-21-1",
+      "jobId": "aecom-digital-and-engineering-technology-intern-roanoke",
+      "company": "AECOM",
+      "title": "Digital and Engineering Technology Intern",
+      "postedToDiscord": "2025-12-21T18:55:42.393Z",
+      "sourceDate": "2025-12-08T00:51:15.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AECOM2/744000097430565",
+      "discordThreadId": "1452373973257027636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-summer-research-intern-digital-health-algorithms-mountain-view-2025-12-21-1",
+      "jobId": "samsung-research-america-2026-summer-research-intern-digital-health-algorithms-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Summer Research Intern - Digital Health Algorithms",
+      "postedToDiscord": "2025-12-21T18:55:49.019Z",
+      "sourceDate": "2025-12-08T19:30:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8321872002",
+      "discordThreadId": "1452374000364683349",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 969,
+    "totalJobs": 974,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T18:45:46.532Z",
+      "date": "2025-12-21T18:55:49.020Z",
       "archived": 0
     }
   }
