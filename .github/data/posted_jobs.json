@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T22:17:16.304Z",
+  "lastUpdated": "2025-12-21T22:29:45.577Z",
   "jobs": [
-    {
-      "id": "activision-blizzard-2026-summer-internships-software-engineering-santa-monica-2025-12-14-1",
-      "jobId": "activision-blizzard-2026-summer-internships-software-engineering-santa-monica",
-      "company": "Activision-Blizzard",
-      "title": "2026 Summer Internships - Software Engineering",
-      "postedToDiscord": "2025-12-14T22:26:42.549Z",
-      "sourceDate": "2025-09-10T01:17:28.000Z",
-      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/XMLNAME-2026-US-Summer-Internships---Software-Engineering_R025995-1",
-      "discordThreadId": "1449890357088358481",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-software-engineer-intern-richardson-2025-12-14-1",
-      "jobId": "qorvo-software-engineer-intern-richardson",
-      "company": "Qorvo",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T22:26:44.397Z",
-      "sourceDate": "2025-09-09T23:40:32.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75081/1324617700/?ats=successfactors",
-      "discordThreadId": "1449890373429104700",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apex-analytix-copy-of-support-implementation-specialist-intern-greensboro-2025-12-14-1",
-      "jobId": "apex-analytix-copy-of-support-implementation-specialist-intern-greensboro",
-      "company": "APEX Analytix",
-      "title": "Copy of Support/Implementation Specialist Intern",
-      "postedToDiscord": "2025-12-14T22:26:46.080Z",
-      "sourceDate": "2025-09-09T17:16:28.000Z",
-      "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/9ced9f81-3db3-4c05-87d9-49a10ab1ca1f",
-      "discordThreadId": "1449890380664541185",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apex-analytix-data-application-developer-intern-greensboro-2025-12-14-1",
-      "jobId": "apex-analytix-data-application-developer-intern-greensboro",
-      "company": "APEX Analytix",
-      "title": "Data Application Developer Intern",
-      "postedToDiscord": "2025-12-14T22:26:47.776Z",
-      "sourceDate": "2025-09-09T17:16:17.000Z",
-      "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/b6f42a08-a4e8-45f1-868f-567a09112ebc",
-      "discordThreadId": "1449890387916226612",
-      "instanceNumber": 1
-    },
-    {
-      "id": "allegion-software-engineering-quality-assurance-golden-2025-12-14-1",
-      "jobId": "allegion-software-engineering-quality-assurance-golden",
-      "company": "Allegion",
-      "title": "Software Engineering – Quality Assurance",
-      "postedToDiscord": "2025-12-14T22:26:49.464Z",
-      "sourceDate": "2025-09-09T09:02:45.000Z",
-      "sourceUrl": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Golden-CO/Summer-Intern---Software-Engineering---Quality-Assurance_JR33730",
-      "discordThreadId": "1449890395227164852",
-      "instanceNumber": 1
-    },
-    {
-      "id": "baird-internship-it-data-analytics-year-round-madison-2025-12-14-1",
-      "jobId": "baird-internship-it-data-analytics-year-round-madison",
-      "company": "Baird",
-      "title": "Internship - IT Data & Analytics - Year-Round",
-      "postedToDiscord": "2025-12-14T22:26:54.149Z",
-      "sourceDate": "2025-09-10T01:06:12.000Z",
-      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/baird/Careers/job/WI-Milwaukee/Internship---IT-Data---Analytics--Year-Round-_R20251069-1",
-      "discordThreadId": "1449890414890057768",
-      "instanceNumber": 1
-    },
-    {
-      "id": "waystar-data-analyst-internship-louisville-2025-12-14-1",
-      "jobId": "waystar-data-analyst-internship-louisville",
-      "company": "Waystar",
-      "title": "Data Analyst Internship",
-      "postedToDiscord": "2025-12-14T22:26:55.979Z",
-      "sourceDate": "2025-09-09T23:25:51.000Z",
-      "sourceUrl": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Analyst-Internship_R2768-1",
-      "discordThreadId": "1449890422011990176",
-      "instanceNumber": 1
-    },
-    {
-      "id": "texas-instruments-data-science-intern-newton-2025-12-14-1",
-      "jobId": "texas-instruments-data-science-intern-newton",
-      "company": "Texas Instruments",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T22:26:59.453Z",
-      "sourceDate": "2025-09-09T19:31:58.000Z",
-      "sourceUrl": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/248280",
-      "discordThreadId": "1449890429678915748",
-      "instanceNumber": 1
-    },
-    {
-      "id": "xcel-energy-ai-intern-minneapolis-2025-12-14-1",
-      "jobId": "xcel-energy-ai-intern-minneapolis",
-      "company": "Xcel Energy",
-      "title": "AI Intern",
-      "postedToDiscord": "2025-12-14T22:27:04.422Z",
-      "sourceDate": "2025-09-09T23:46:14.000Z",
-      "sourceUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Intern_JR110151-1",
-      "discordThreadId": "1449890457080303697",
-      "instanceNumber": 1
-    },
     {
       "id": "eventual-software-engineer-intern-san-francisco-2025-12-14-1",
       "jobId": "eventual-software-engineer-intern-san-francisco",
@@ -9934,14 +9835,69 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineer--Master-s-_JR-202524088",
       "discordThreadId": "1452424698410569948",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-autonomous-driving-simulation-team-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-autonomous-driving-simulation-team-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern - Autonomous Driving - Simulation Team",
+      "postedToDiscord": "2025-12-21T22:29:27.133Z",
+      "sourceDate": "2025-12-12T23:38:46.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer---Autonomous-Driving---Simulation-Team--Bachelor-s-_JR-202524246",
+      "discordThreadId": "1452427764564099132",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-simulation-team-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-simulation-team-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern - Simulation Team",
+      "postedToDiscord": "2025-12-21T22:29:30.605Z",
+      "sourceDate": "2025-12-12T23:38:43.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer---Autonomous-Driving---Simulation-Team--Master-s-_JR-202524245",
+      "discordThreadId": "1452427778816479354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-master-s-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-master-s-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern AI/ML Software Engineering Intern - Simulation Core - Master's",
+      "postedToDiscord": "2025-12-21T22:29:37.201Z",
+      "sourceDate": "2025-12-12T23:38:46.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineering-Intern---Simulation-Core--Master-s-_JR-202524241",
+      "discordThreadId": "1452427805840380006",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-2026-summer-intern-ai-ml-software-engineer-phd-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-2026-summer-intern-ai-ml-software-engineer-phd-sunnyvale",
+      "company": "General Motors",
+      "title": "2026 Summer Intern - AI/ML Software Engineer - PhD",
+      "postedToDiscord": "2025-12-21T22:29:42.147Z",
+      "sourceDate": "2025-12-12T23:38:45.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineer--PhD-_JR-202524086",
+      "discordThreadId": "1452427820935544863",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-2026-summer-intern-backend-software-engineer-fleet-tooling-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-2026-summer-intern-backend-software-engineer-fleet-tooling-sunnyvale",
+      "company": "General Motors",
+      "title": "2026 Summer Intern - Backend Software Engineer - Fleet Tooling",
+      "postedToDiscord": "2025-12-21T22:29:45.577Z",
+      "sourceDate": "2025-12-12T23:38:43.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-Technical-Center---Mountain-View-Technical-Center/XMLNAME-2026-Summer-Intern---Backend-Software-Engineer--Fleet-Tooling--Master-s-Degree-_JR-202524257",
+      "discordThreadId": "1452427841474920551",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 903,
+    "totalJobs": 899,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T22:17:16.304Z",
+      "date": "2025-12-21T22:29:45.577Z",
       "archived": 0
     }
   }
