@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:17:46.915Z",
+  "lastUpdated": "2025-12-21T21:28:43.987Z",
   "jobs": [
-    {
-      "id": "peraton-data-science-intern-blacksburg-2025-12-14-1",
-      "jobId": "peraton-data-science-intern-blacksburg",
-      "company": "Peraton",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T21:21:12.254Z",
-      "sourceDate": "2025-09-11T01:26:16.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158534/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449873875197231214",
-      "instanceNumber": 1
-    },
-    {
-      "id": "atlassian-data-science-intern-seattle-2025-12-14-1",
-      "jobId": "atlassian-data-science-intern-seattle",
-      "company": "Atlassian",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-14T21:21:13.950Z",
-      "sourceDate": "2025-09-11T00:06:40.000Z",
-      "sourceUrl": "https://careers-americas.icims.com/jobs/20962/data-science-intern%2c-2026-summer-u.s./job",
-      "discordThreadId": "1449873888417681661",
-      "instanceNumber": 1
-    },
-    {
-      "id": "atlassian-data-engineer-intern-seattle-2025-12-14-1",
-      "jobId": "atlassian-data-engineer-intern-seattle",
-      "company": "Atlassian",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:21:15.603Z",
-      "sourceDate": "2025-09-11T00:06:35.000Z",
-      "sourceUrl": "https://careers-americas.icims.com/jobs/20963/data-engineer-intern%2c-2026-summer-u.s./job",
-      "discordThreadId": "1449873895451525160",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-software-engineering-intern-ann-arbor-2025-12-14-1",
-      "jobId": "kla-software-engineering-intern-ann-arbor",
-      "company": "KLA",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T21:21:20.420Z",
-      "sourceDate": "2025-09-11T01:02:48.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653",
-      "discordThreadId": "1449873915412353187",
-      "instanceNumber": 1
-    },
-    {
-      "id": "covar-machine-learning-internship-durham-2025-12-14-1",
-      "jobId": "covar-machine-learning-internship-durham",
-      "company": "CoVar",
-      "title": "Machine Learning Internship",
-      "postedToDiscord": "2025-12-14T21:21:22.176Z",
-      "sourceDate": "2025-09-11T00:01:02.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/covar/jobs/4870783007",
-      "discordThreadId": "1449873922504921232",
-      "instanceNumber": 1
-    },
-    {
-      "id": "shure-data-engineer-intern-morton-grove-2025-12-14-1",
-      "jobId": "shure-data-engineer-intern-morton-grove",
-      "company": "Shure",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:21:23.858Z",
-      "sourceDate": "2025-09-10T23:31:33.000Z",
-      "sourceUrl": "https://careersus-shure.icims.com/jobs/4417/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449873930075504892",
-      "instanceNumber": 1
-    },
-    {
-      "id": "xcel-energy-data-design-draft-intern-denver-2025-12-14-1",
-      "jobId": "xcel-energy-data-design-draft-intern-denver",
-      "company": "Xcel Energy",
-      "title": "Data Design/Draft Intern",
-      "postedToDiscord": "2025-12-14T21:21:28.524Z",
-      "sourceDate": "2025-09-11T00:03:14.000Z",
-      "sourceUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Design-Draft-Intern_JR110118-1",
-      "discordThreadId": "1449873949696462928",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intercontinental-exchange-software-developer-intern-multiple-teams-atlanta-2025-12-14-1",
-      "jobId": "intercontinental-exchange-software-developer-intern-multiple-teams-atlanta",
-      "company": "Intercontinental Exchange",
-      "title": "Software Developer Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-14T21:21:30.173Z",
-      "sourceDate": "2025-09-10T23:53:02.000Z",
-      "sourceUrl": "https://careers-ice.icims.com/jobs/11598/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449873956596088914",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intercontinental-exchange-front-end-engineer-intern-multiple-teams-atlanta-2025-12-14-1",
-      "jobId": "intercontinental-exchange-front-end-engineer-intern-multiple-teams-atlanta",
-      "company": "Intercontinental Exchange",
-      "title": "Front-End Engineer Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-14T21:21:31.808Z",
-      "sourceDate": "2025-09-10T23:52:48.000Z",
-      "sourceUrl": "https://careers-ice.icims.com/jobs/11632/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449873963454038169",
-      "instanceNumber": 1
-    },
     {
       "id": "shure-automated-test-engineering-intern-software-morton-grove-2025-12-14-1",
       "jobId": "shure-automated-test-engineering-intern-software-morton-grove",
@@ -10198,14 +10099,69 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Arlington/Data-Analyst---BI-Developer-Intern---Summer-2026_316747-1",
       "discordThreadId": "1452409726871798011",
       "instanceNumber": 1
+    },
+    {
+      "id": "netsmart-software-engineer-intern-overland-park-2025-12-21-1",
+      "jobId": "netsmart-software-engineer-intern-overland-park",
+      "company": "Netsmart",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-21T21:28:22.693Z",
+      "sourceDate": "2025-08-29T22:11:55.000Z",
+      "sourceUrl": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2026-Internship-_R014537",
+      "discordThreadId": "1452412394599878737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-2025-intern-conversion-2026-ft-software-engineer-ii-sunnyvale-2025-12-21-1",
+      "jobId": "walmart-2025-intern-conversion-2026-ft-software-engineer-ii-sunnyvale",
+      "company": "Walmart",
+      "title": "2025 Intern Conversion: 2026 FT Software Engineer II",
+      "postedToDiscord": "2025-12-21T21:28:26.141Z",
+      "sourceDate": "2025-08-18T21:38:25.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Software-Engineer-II---Sunnyvale--CA_R-2250550-1",
+      "discordThreadId": "1452412408969564160",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bristol-myers-squibb-technology-rotational-development-program-intern-princeton-2025-12-21-1",
+      "jobId": "bristol-myers-squibb-technology-rotational-development-program-intern-princeton",
+      "company": "Bristol Myers Squibb",
+      "title": "Technology Rotational Development Program Intern",
+      "postedToDiscord": "2025-12-21T21:28:29.841Z",
+      "sourceDate": "2025-08-12T20:15:53.000Z",
+      "sourceUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Technology-Rotational-Development-Program-Intern-Summer-2026_R1594265",
+      "discordThreadId": "1452412423389577511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dimensional-fund-advisors-internship-in-technology-engineering-undergraduate-and-master-s-austin-2025-12-21-1",
+      "jobId": "dimensional-fund-advisors-internship-in-technology-engineering-undergraduate-and-master-s-austin",
+      "company": "Dimensional Fund Advisors",
+      "title": "Internship in Technology: Engineering - Undergraduate and Master's",
+      "postedToDiscord": "2025-12-21T21:28:37.411Z",
+      "sourceDate": "2025-08-28T22:14:33.000Z",
+      "sourceUrl": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology--Engineering--Undergraduate-and-Master-s-_2025-8523",
+      "discordThreadId": "1452412451751723224",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-computational-data-scientist-intern-phd-waukegan-2025-12-21-1",
+      "jobId": "abbvie-computational-data-scientist-intern-phd-waukegan",
+      "company": "AbbVie",
+      "title": "Computational Data Scientist Intern - PhD",
+      "postedToDiscord": "2025-12-21T21:28:43.986Z",
+      "sourceDate": "2025-08-27T02:11:31.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990009198524",
+      "discordThreadId": "1452412483213070519",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 927,
+    "totalJobs": 923,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:17:46.915Z",
+      "date": "2025-12-21T21:28:43.987Z",
       "archived": 0
     }
   }
