@@ -621,86 +621,6 @@
   },
   {
     "job": {
-      "job_title": "Dimensional Focus Co-Op - Summer 2026",
-      "employer_name": "Rolls Royce",
-      "job_city": "Spartanburg",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team. Description: The purpose of this position is to provide the Assembly Quality Management IT Systems (Programming) Team with support on Quality Data Application development, validation, and analytics. Position primarily utilizes Oracle APEX for data reporting and management. BMW uses Siemens IPS-Q database for assembly defect documentation and tracking. Position will be a contributing member to the Quality Reporting and Application development. The qualified intern should expect to contribute and improve in the following functions: Support with validation and refinement of current applications Working with users to define needs and project plan Provide support for problem investigation Conduct quality data review Leads technical projects to ensure long term requirements of systems management and planning are met. Recommends and implements quality improvement efforts. Stays up to date on future innovations, technical trends and applies this to future changes. Tests and updates software for main quality systems to ensure latest user enhancements. Conducts training for end users after software updates and improvements are implemented. Possible project applications may include: Electronic Job Sign in reporting, Problem Solving Database, Key Performance Indicator reporting, Closed Defect Reporting Performs other duties as assigned by management Qualifications: Preferred degrees: Computer Science/Information Technologies/Engineering or related field Experience with programing in SQL Application development Microsoft Office Possess a minimum cumulative GPA of 3.0 (not just in major) Have enrolled student status at an accredited four-year college or university in the United States Completed at least 30 credit hours at time of application Ability to work full-time on-site (40 hours/week) Transfer students must have a GPA from current university MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT. Complete and pass a substance abuse test before the work term THE WORK TERM DATES ARE May 18th, – August 7th, 2026 Must be an enrolled student during all three rotations. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Spartanburg-Dimensional-Focus-Co-Op-(Summer-2026)-Sout/1275719701/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-dimensional-focus-co-op-summer-2026-spartanburg",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": "2025-12-21T21:45:03.992Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Innovation & Research Intern",
-      "employer_name": "Rolls Royce",
-      "job_city": "Greenville",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team. Description: This is a position with the Innovation Lab that focuses on bringing innovations to different areas of BMW Group. The lab examines topics in the areas of artificial intelligence (such as machine/deep learning / genetic algorithms / generative AI /large language models), data science, cybersecurity, green IT and quantumcomputing. The qualified intern should expect to contribute & improve in the in the following functions: Work in an area of innovation focusing on one to two projects for the duration of the internship. Projects will have a mentor in the Innovation Lab. Analyze problems and implement solutions that can be proven to work. Continually refine and improve solutions. Share in team meetings current progress and challenges. Design and test algorithms using Python/R for local systems, GPU-based systems, and cloud solutions(AWS/Azure). Update and track tasks with tools such as JIRA and Confluence. Be open to learning new tools and technologies used by the Innovation Lab for data analytics (e.g. AWS, AI, etc.). Projects are dependent upon current tasks of the Innovation Lab as well as background and willingness of internto learn new technologies and methods. Typical projects include deep learning classification / segmentation, data analytics using Python, experimenting with new IoT devices and design of algorithms suitable for next generationcomputers (e.g. quantum, neuromorphic, optical). Qualifications: Pursuing a degree in Computer Science, Computer Engineering, Mathematics, Statistics, or related discipline. Possess a minimum cumulative GPA of 3.0 (not just in major). Have enrolled student status at an accredited four-year college or university in the United States. Completed at least 30 credit hours at time of application. Ability to work full-time on-site (40 hours / week). Transfer students must have a GPA from current university. MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT. Complete and pass a substance abuse test before the work term. Work term dates are May 18, 2026 - Aug 7, 2026. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Greenville-IT-Innovation-&-Research-Intern-Summer-2026-Sout/1274914501/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-it-innovation-research-intern-greenville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": "2025-12-21T21:45:03.992Z"
-  },
-  {
-    "job": {
-      "job_title": "Predictive Maintenance Co-op",
-      "employer_name": "Rolls Royce",
-      "job_city": "Spartanburg",
-      "job_state": "SC",
-      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team. Description: Focusing on critical production equipment, the purpose of this project is to use historical data and introduce other new analytical methods to identify key strategies to avoid failures during production run time. The new methods should be able to predict failures or have swap out strategies based on historical failure timelines and incorporate condition-based monitoring technologies. The qualified intern/Co-op should expect to contribute & improve in the following functions: Develop new Concepts For monitoring techniques Using a small team plan implementation of predictive monitoring. Identifying opportunities Ai introduction. Make proposals for the interpretation of big data. Capture and plan all Automation improvement ideas and make plans transparent. Put forward proposals to increase technical availability. Use these proposals to track failure reduction. Qualifications: Preferred degree: Engineering or IT Possess a minimum cumulative GPA of 3.0 (not just in major) Have enrolled student status at an accredited four-year college or university in the United States. Completed at least 30 credit hours at time of application. Ability to work full-time on-site (40 hours / week). Transfer students must have a GPA from current university. MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT Complete and pass a substance abuse test before the work term. THE WORK TERM DATES ARE May 18th – August 7th, 2026. Must be an enrolled student during all three rotations. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
-      "job_apply_link": "https://jobs.bmwgroup.com/job/Spartanburg-Predictive-Maintenance-Co-op-(Summer-2026)-Sout/1275672701/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-12T07:14:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rolls-royce-predictive-maintenance-co-op-spartanburg",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": "2025-12-21T21:45:03.992Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern - Power BI - SQL",
-      "employer_name": "W.R. Berkley",
-      "job_city": "Cherry Hills Village",
-      "job_state": "CO",
-      "job_description": "<h2>Company Details</h2> <p></p> <p>&nbsp;</p> <p>At Verus Specialty Insurance, a proud member of the esteemed W.R. Berkley Corporation (NYSE: WRB), we stand as a leading Excess and Surplus Lines provider delivering comprehensive solutions across the United States. Backed by the formidable strength of a Fortune 500 titan and operating with the agility of a nimble startup, we blend the best of both worlds to foster innovation and excellence in everything we do.</p> <p>&nbsp;</p> <p>Our nationwide operations are supported by a robust network of select wholesale producers, ensuring that our reach and capabilities are always close at hand. We are driven by a forward-thinking leadership that champions a dynamic culture where questioning the norm is not just welcomed but expected. This ethos empowers our team to consistently surpass customer expectations and drive the industry forward.</p> <p>&nbsp;</p> <p>At Verus, we are more than just a company; we are a community that thrives on collaboration, growth, and taking ownership of our actions. We are constantly on the lookout for exceptional talent who are eager to contribute, innovate, and grow with us. If you are passionate about making a mark in the insurance industry and align with our vision, we eagerly await your application. Join us and be a part of a team where your contributions are valued, and your potential fully realized!</p> <p>&nbsp;</p> <p>The Company is an equal employment opportunity employer.</p> <p>&nbsp;</p> <p>https://www.verusins.com/</p> <h2>Responsibilities</h2> <p>Come join the Verus team as a summer intern! Our interns work with many different people to learn and gain hands on experience in reporting work and data.&nbsp; This is a great opportunity for anyone interested in starting their career. We will be hiring an intern to learn and grow in a cohort environment.</p> <p>&nbsp;</p> <p>Interns are responsible for performing data analyst related support duties while gaining valuable real-world experience which can be utilized both personally and professionally. Resume builder and steppingstone to a future career in the Insurance Industry.</p> <p>&nbsp;</p> <ul> <li>Assist with developing SQL queries needed for reports or analysis.</li> <li>Analyze internal and external data.</li> <li>Assist with projects.</li> <li>Build or revise Power BI reports that are used throughout the organization.</li> </ul> <h2>Qualifications</h2> <ul> <li>Current college student (and/or recent graduate) working towards a degree program in a STEM related major with a 3.0 GPA or higher.</li> <li>Must demonstrate excellent oral and written communication skills.</li> <li>Must be willing to work collaboratively and embrace innovative ideas and processes.</li> <li>Must be technology-focused and proficient in the use of a computer and its applications.</li> <li>Proficiency with Power BI and SQL preferred.</li> </ul> <p><em>#LI-FL1 #LI-INTERNSHIP</em></p> <h2>Additional Company Details</h2>We do not accept any unsolicited resumes from external recruiting firms. This is a 10-week, paid internship - Monday, June 1, 2026 - Thursday, August 6, 2026. The hourly rate range based on a 37.5-hour work week is $20.00 - $22.00 an hour. This role does not offer a benefits package, as it is a temporary, summer internship position. <h2>Additional Requirements</h2> The application window for this role is estimated to be open through November 28, 2025, but may be extended, if necessary. Please submit your application as soon as possible prior to November 28, 2025. <h2>Sponsorship Details</h2>Sponsorship not Offered for this Role",
-      "job_apply_link": "https://careers-berkley.icims.com/jobs/13113/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-31T00:55:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "w-r-berkley-data-analyst-intern-power-bi-sql-cherry-hills-village",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-12T08:14:56.776Z",
-    "enrichedAt": "2025-12-21T21:28:13.010Z",
-    "postedAt": "2025-12-21T21:45:03.992Z"
-  },
-  {
-    "job": {
       "job_title": "Systems Engineering Intern - Summer 2026",
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Manassas",
@@ -734,10 +654,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:35:12.700Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:53:57.924Z"
   },
   {
     "job": {
@@ -754,10 +674,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:35:12.700Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:53:57.924Z"
   },
   {
     "job": {
@@ -774,10 +694,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:35:12.700Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:53:57.924Z"
   },
   {
     "job": {
@@ -794,10 +714,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:35:12.700Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:53:57.924Z"
   },
   {
     "job": {
@@ -814,10 +734,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-12T08:14:56.776Z",
     "enrichedAt": "2025-12-21T21:35:12.700Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T21:53:57.924Z"
   },
   {
     "job": {
@@ -930,11 +850,13 @@
       "job_posted_at_datetime_utc": "2025-12-12T23:44:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "skydio-software-engineer-intern-boston-boston"
+      "id": "skydio-software-engineer-intern-boston-boston",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:53:25.786Z",
     "postedAt": null
   },
   {
@@ -948,11 +870,13 @@
       "job_posted_at_datetime_utc": "2025-12-12T23:42:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "optiver-software-engineer-intern-summer-2026-austin-austin"
+      "id": "optiver-software-engineer-intern-summer-2026-austin-austin",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:53:25.786Z",
     "postedAt": null
   },
   {
@@ -966,11 +890,13 @@
       "job_posted_at_datetime_utc": "2025-12-12T23:42:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "optiver-software-engineer-intern-chicago"
+      "id": "optiver-software-engineer-intern-chicago",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:53:25.786Z",
     "postedAt": null
   },
   {
@@ -979,16 +905,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionGM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.) To help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.  Work Arrangement:  Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the Mountain View, CA or Sunnyvale, CA office up to three times per week or as determined by the team. Locations:   Mt. View, California  Sunnyvale, California About the Team:   The Autonomous Vehicle (AV) organization is dedicated to advancing the development of autonomous vehicles through cutting-edge simulation technologies and novel iterative development processes. The Software Validation team focuses on unlocking software launches and continuous release decisions via novel simulation V&V methodologies and targeted vehicle testing. Our collaborative environment fosters innovation and excellence, allowing us to push the boundaries of what is possible in autonomous vehicles systems engineering. About the Role:   As a Machine Learning Validation Engineer on the Software Validation team within the AV organization, you will play a critical role in the execution of validation efforts for autonomous vehicle behavior. You will leverage your skillsets to craft guidance on behavioral performance and to design and implement complex V&V strategies. You will work with a team of engineers to define best practices, design and execute innovative analyses to establish performance requirements, drive innovation in testing, and verify the safety and performance of autonomous systems.  You will be responsible for shaping the future of evaluation methodologies for AI systems and other ADAS features, architecting solutions that meet the testing needs of AI developers, systems engineers, and safety stakeholders. What You’ll Do:   Enhance AI/ML validation frameworks and tools for autonomous vehicle software systems. Design and implement automated testing pipelines for sim-based and real-world validation scenarios using ML. Use ML experience to enhance simulated performance metrics. Build tools leveraging ML and stats methods to id edge cases, and failure modes in AV. Analyze large scale driving data to identify validation gaps and improve testing coverage. Required Qualifications  Currently enrolled in a Master’s program (with at least one year completed) and pursuing a degree in Computer Science, Machine Learning, Engineering, or a related technical field. Experience coding in Python, SQL, C/C++ or others. Preferred Qualifications:  Graduating between December 2026 and August 2027. Research and/or work experience in a relevant field, such as machine learning, simulation, AI validation, deep learning, reinforcement learning, data mining, or computer vision.  Intent to return to degree-program after the completion of the internship.  Demonstrated software engineer experience via an internship, work experience, coding competitions.  Experience in systems software or algorithms.  Proven track record of achieving significant results as demonstrated by grants, fellowships, patents, as well as first-authored publications at leading workshops or conferences.  Demonstrated creativity and quick problem solving capabilities.  Experience with Hadoop/Hbase/Pig or Mapreduce/Sawzall/Bigtable. Compensation:  The monthly salary range for this role is $9,100 - $10,600 dependent upon class status and degree.GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program. What you’ll get from us (Benefits):  Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--Master-s-_JR-202524303",
       "job_posted_at_datetime_utc": "2025-12-12T23:38:49.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-2026-summer-intern-software-engineer-machine-learning-validation-sunnyvale"
+      "id": "general-motors-2026-summer-intern-software-engineer-machine-learning-validation-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:53:25.786Z",
     "postedAt": null
   },
   {
@@ -997,16 +925,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from. Locations (in priority order):  Sunnyvale, California  Mountain View, California  Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team. About the Role:  As a Simulation Test Engineering AI/ML Software Engineer intern, you’ll partner with senior engineers to develop, evaluate, and deploy AI/ML tools to scale the development of end-to-end simulation tests, which are used by GM for validation of the autonomous driving software stack. You’ll learn about how simulation testing is performed at GM to evaluate AV stack performance, and your work will play a critical role in managing the creation and quality of these simulation tests throughout their lifecycle.   About the Team: The GM AV Simulation team builds world-class testing and analysis related products and technologies to enable GM to accelerate development of autonomous vehicles as well as general vehicle software development. Our customers range from AV developers understanding the effects of their code on vehicle behavior, data engineers using our data pipelines to build the craziest insights for various evaluation needs, to the release team tracking top-line performance metrics on releases. AV Simulation aims to deliver intuitive user experiences for robotics and AI engineers that accelerate GM towards a driverless future.  What You’ll Do: Quickly ramp up on assigned codebase, product area, and/or system. Meet with the cross-functional stakeholders working on code in your assigned area. Develop data pipelines to curate inputs, manage ground truth, and aggregate results across large experiment runs. Build validation metrics that produce clear pass/fail signals and confidence intervals for ML model behavior in simulation. Enhance AI/ML validation frameworks and tools for autonomous vehicle software systems. Leverage vision-language models (VLMs) and large language models (LLMs) to classify autonomy performance, mine critical scenarios, and prioritize validation efforts, integrating human-in-the-loop where appropriate. Complete assigned tasks efficiently with few iterations. Develop, test, and deploy production-ready code across components of our simulation infrastructure. Identify problem statements, outline optimal solutions, account for tradeoffs and edge cases. Participate in code reviews, technical discussions, and design reviews. Collaborate with cross-functional teams to ensure seamless software integration. Communicate effectively across multiple stakeholders.  Required Qualifications: Currently pursuing or in the process of obtaining a Master’s in Machine Learning, Artificial Intelligence, Computer Science, or a related technical field. Solid understanding of modern machine learning techniques Demonstrated coursework, research, or projects in AI/ML. Strong programming skills in Python. Able to work fulltime, 40 hours per week.  Preferred Qualifications: Exposure to deep learning architectures such as Transformers, CNNs, or Diffusion Models. Hands-on experience with one or more machine learning frameworks (e.g., PyTorch, TensorFlow, JAX, or Keras). Experience with robotics, computer vision through projects or research. Familiarity with multimodal learning or working with sensor data. Interest in contributing to publications, open-source projects, or patents. Familiarity with systems programming languages (e.g., C++ or Java) is a plus. Intent to return to degree-program after the completion of the internship. Compensation: The monthly salary for this role is $9,200 per month  GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineer--Master-s-_JR-202524088",
       "job_posted_at_datetime_utc": "2025-12-12T23:38:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-ai-ml-software-engineer-master-s-sunnyvale"
+      "id": "general-motors-intern-ai-ml-software-engineer-master-s-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T21:53:25.786Z",
     "postedAt": null
   },
   {
@@ -5076,24 +5006,6 @@
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": null,
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Systems Engineering Intern - Summer 2026",
-      "employer_name": "General Dynamics Mission Systems",
-      "job_city": "Manassas",
-      "job_state": "VA",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
-      "job_apply_link": "https://careers-gdms.icims.com/jobs/67995/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-09T19:28:20.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "6d",
-      "id": "general-dynamics-mission-systems-engineering-intern-summer-2026-manassas"
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
-    "postedAt": "2025-12-21T21:45:03.992Z"
   },
   {
     "job": {

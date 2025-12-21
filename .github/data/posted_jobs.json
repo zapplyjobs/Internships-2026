@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:45:00.979Z",
+  "lastUpdated": "2025-12-21T21:53:54.912Z",
   "jobs": [
-    {
-      "id": "medpace-inc-software-development-co-op-cincinnati-2025-12-14-1",
-      "jobId": "medpace-inc-software-development-co-op-cincinnati",
-      "company": "Medpace, Inc.",
-      "title": "Software Development Co-Op",
-      "postedToDiscord": "2025-12-14T21:52:25.266Z",
-      "sourceDate": "2025-09-10T21:13:15.000Z",
-      "sourceUrl": "https://careers.medpace.com/jobs/11515?lang=en-us&icims=1",
-      "discordThreadId": "1449881736631685235",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-systems-software-engineering-intern-dedham-2025-12-14-1",
-      "jobId": "general-dynamics-mission-systems-software-engineering-intern-dedham",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T21:52:29.802Z",
-      "sourceDate": "2025-09-10T20:57:41.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/67909/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449881744458383392",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-systems-software-engineer-intern-colorado-springs-2025-12-14-1",
-      "jobId": "general-dynamics-mission-systems-software-engineer-intern-colorado-springs",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineer – Intern",
-      "postedToDiscord": "2025-12-14T21:52:31.546Z",
-      "sourceDate": "2025-09-10T20:41:31.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/68025/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449881763475095572",
-      "instanceNumber": 1
-    },
-    {
-      "id": "marmon-holdings-engineering-intern-summer-2026-goldsboro-2025-12-14-1",
-      "jobId": "marmon-holdings-engineering-intern-summer-2026-goldsboro",
-      "company": "Marmon Holdings",
-      "title": "Engineering Intern - Summer 2026",
-      "postedToDiscord": "2025-12-14T21:52:33.261Z",
-      "sourceDate": "2025-09-10T17:53:55.000Z",
-      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Goldsboro-NC/Engineering-Intern---Summer-2026_JR0000037710-4",
-      "discordThreadId": "1449881770806874213",
-      "instanceNumber": 1
-    },
-    {
-      "id": "interactive-brokers-software-developer-summer-internship-greenwich-2025-12-14-1",
-      "jobId": "interactive-brokers-software-developer-summer-internship-greenwich",
-      "company": "Interactive Brokers",
-      "title": "Software Developer Summer Internship",
-      "postedToDiscord": "2025-12-14T21:52:35.018Z",
-      "sourceDate": "2025-09-10T17:52:38.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/ibkr/jobs/8158590002",
-      "discordThreadId": "1449881777874407636",
-      "instanceNumber": 1
-    },
-    {
-      "id": "reframe-systems-software-engineer-full-stack-robotics-intern-andover-2025-12-14-1",
-      "jobId": "reframe-systems-software-engineer-full-stack-robotics-intern-andover",
-      "company": "Reframe Systems",
-      "title": "Software Engineer – Full Stack Robotics Intern",
-      "postedToDiscord": "2025-12-14T21:52:38.528Z",
-      "sourceDate": "2025-09-10T17:40:51.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/reframesystems/76b3c3d9-c741-4707-bd38-1d5e75781520/application",
-      "discordThreadId": "1449881785503842395",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cobank-software-engineer-intern-denver-2025-12-14-1",
-      "jobId": "cobank-software-engineer-intern-denver",
-      "company": "CoBank",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:52:40.405Z",
-      "sourceDate": "2025-09-10T15:51:11.000Z",
-      "sourceUrl": "https://careers-cobank.icims.com/jobs/7385/software-engineer-intern-%28denver%29/job",
-      "discordThreadId": "1449881800452214794",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citizens-financial-group-data-management-undergraduate-internship-coralville-2025-12-14-1",
-      "jobId": "citizens-financial-group-data-management-undergraduate-internship-coralville",
-      "company": "Citizens Financial Group",
-      "title": "Data Management Undergraduate Internship",
-      "postedToDiscord": "2025-12-14T21:52:45.210Z",
-      "sourceDate": "2025-09-10T18:26:21.000Z",
-      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41924",
-      "discordThreadId": "1449881820731670739",
-      "instanceNumber": 1
-    },
-    {
-      "id": "citizens-financial-group-data-analytics-undergraduate-internship-coralville-2025-12-14-1",
-      "jobId": "citizens-financial-group-data-analytics-undergraduate-internship-coralville",
-      "company": "Citizens Financial Group",
-      "title": "Data Analytics Undergraduate Internship",
-      "postedToDiscord": "2025-12-14T21:52:46.934Z",
-      "sourceDate": "2025-09-10T18:26:20.000Z",
-      "sourceUrl": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/41925",
-      "discordThreadId": "1449881828222832650",
-      "instanceNumber": 1
-    },
     {
       "id": "wind-river-embedded-software-engineer-san-diego-2025-12-14-1",
       "jobId": "wind-river-embedded-software-engineer-san-diego",
@@ -10066,14 +9967,69 @@
       "sourceUrl": "https://careers-berkley.icims.com/jobs/13113/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452416581912105053",
       "instanceNumber": 1
+    },
+    {
+      "id": "steel-dynamics-quality-product-development-internship-corpus-christi-2025-12-21-1",
+      "jobId": "steel-dynamics-quality-product-development-internship-corpus-christi",
+      "company": "Steel Dynamics",
+      "title": "Quality & Product Development Internship",
+      "postedToDiscord": "2025-12-21T21:53:34.670Z",
+      "sourceDate": "2025-09-11T17:44:29.000Z",
+      "sourceUrl": "https://careers-steeldynamics.icims.com/jobs/6666/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452418736450699450",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-enterprise-institute-summer-intern-data-analysis-and-education-policy-washington-2025-12-21-1",
+      "jobId": "american-enterprise-institute-summer-intern-data-analysis-and-education-policy-washington",
+      "company": "American Enterprise Institute",
+      "title": "Summer Intern: Data Analysis and Education Policy",
+      "postedToDiscord": "2025-12-21T21:53:41.153Z",
+      "sourceDate": "2025-10-02T16:52:49.000Z",
+      "sourceUrl": "https://internships-aei.icims.com/jobs/2531/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452418763302371399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sri-international-intern-computational-and-applied-mathematics-menlo-park-2025-12-21-1",
+      "jobId": "sri-international-intern-computational-and-applied-mathematics-menlo-park",
+      "company": "SRI International",
+      "title": "Intern – Computational and Applied Mathematics",
+      "postedToDiscord": "2025-12-21T21:53:44.874Z",
+      "sourceDate": "2025-09-25T20:29:02.000Z",
+      "sourceUrl": "https://careers-sri.icims.com/jobs/6288/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452418777349357670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shure-digital-signal-processing-intern-digital-signal-processing-machine-learning-morton-grove-2025-12-21-1",
+      "jobId": "shure-digital-signal-processing-intern-digital-signal-processing-machine-learning-morton-grove",
+      "company": "Shure",
+      "title": "Digital Signal Processing Intern - Digital Signal Processing - Machine Learning",
+      "postedToDiscord": "2025-12-21T21:53:48.376Z",
+      "sourceDate": "2025-09-11T22:57:51.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4463/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452418793472131235",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackhawk-network-holdings-technology-intern-pleasanton-2025-12-21-1",
+      "jobId": "blackhawk-network-holdings-technology-intern-pleasanton",
+      "company": "Blackhawk Network Holdings",
+      "title": "Technology Intern",
+      "postedToDiscord": "2025-12-21T21:53:54.912Z",
+      "sourceDate": "2025-09-10T23:25:01.000Z",
+      "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24800/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452418820697227498",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 915,
+    "totalJobs": 911,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:45:00.979Z",
+      "date": "2025-12-21T21:53:54.912Z",
       "archived": 0
     }
   }
