@@ -1,22 +1,22 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2025-12-20T23:47:15.007Z",
-  "totalPosts": 885,
+  "lastUpdated": "2025-12-21T17:45:20.263Z",
+  "totalPosts": 895,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 242,
-      "lastPost": "2025-12-20T23:47:13.324Z"
+      "posts": 244,
+      "lastPost": "2025-12-21T17:44:58.309Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa-int",
-      "posts": 108,
-      "lastPost": "2025-12-20T23:36:33.552Z"
+      "posts": 110,
+      "lastPost": "2025-12-21T17:45:20.263Z"
     },
     "1449956806414700594": {
       "name": "🚌・boston-int",
-      "posts": 18,
-      "lastPost": "2025-12-20T23:16:57.589Z"
+      "posts": 20,
+      "lastPost": "2025-12-21T17:45:07.306Z"
     },
     "1449956348543369464": {
       "name": "🤠・austin-int",
@@ -25,8 +25,8 @@
     },
     "1446528260627501228": {
       "name": "🤖・ai-internships",
-      "posts": 142,
-      "lastPost": "2025-12-20T23:36:42.293Z"
+      "posts": 143,
+      "lastPost": "2025-12-21T17:45:12.001Z"
     },
     "1449956487584682044": {
       "name": "🌆・chicago-int",
@@ -45,8 +45,8 @@
     },
     "1446528167362822296": {
       "name": "📈・data-science-internships",
-      "posts": 44,
-      "lastPost": "2025-12-20T20:53:28.486Z"
+      "posts": 45,
+      "lastPost": "2025-12-21T17:45:18.613Z"
     },
     "1449956299793105019": {
       "name": "🗽・new-york-int",
@@ -75,8 +75,8 @@
     },
     "1449956705780895774": {
       "name": "☀️・sunnyvale-int",
-      "posts": 14,
-      "lastPost": "2025-12-20T21:18:13.313Z"
+      "posts": 15,
+      "lastPost": "2025-12-21T17:44:56.348Z"
     },
     "1449956616018460686": {
       "name": "🌄・mountain-view-int",
@@ -102,6 +102,11 @@
       "name": "🖥️・redmond-int",
       "posts": 19,
       "lastPost": "2025-12-20T23:28:32.296Z"
+    },
+    "1429366331836207126": {
+      "name": "📊・project-management-internships",
+      "posts": 1,
+      "lastPost": "2025-12-21T17:45:05.215Z"
     }
   }
 }
