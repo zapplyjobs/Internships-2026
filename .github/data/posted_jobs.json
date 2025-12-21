@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T19:26:30.425Z",
+  "lastUpdated": "2025-12-21T19:34:36.178Z",
   "jobs": [
-    {
-      "id": "kodiak-robotics-summer-2026-intern-artificial-intelligence-machine-learning-mountain-view-2025-12-14-1",
-      "jobId": "kodiak-robotics-summer-2026-intern-artificial-intelligence-machine-learning-mountain-view",
-      "company": "Kodiak Robotics",
-      "title": "Summer 2026 Intern - Artificial Intelligence/Machine Learning",
-      "postedToDiscord": "2025-12-14T19:30:54.873Z",
-      "sourceDate": "2025-09-17T01:49:40.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/kodiak/jobs/4024627009",
-      "discordThreadId": "1449846125883559986",
-      "instanceNumber": 1
-    },
-    {
-      "id": "centific-speech-research-intern-1-redmond-2025-12-14-1",
-      "jobId": "centific-speech-research-intern-1-redmond",
-      "company": "Centific",
-      "title": "Speech Research Intern-1",
-      "postedToDiscord": "2025-12-14T19:30:56.600Z",
-      "sourceDate": "2025-09-16T23:12:49.000Z",
-      "sourceUrl": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Speech-Research-Intern-1_JR105046-1",
-      "discordThreadId": "1449846133139574805",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-schenectady-2025-12-14-1",
-      "jobId": "ge-vernova-ge-vernova-time-series-foundation-models-research-intern-schenectady",
-      "company": "GE Vernova",
-      "title": "GE Vernova Time-Series Foundation Models Research Intern",
-      "postedToDiscord": "2025-12-14T19:30:58.300Z",
-      "sourceDate": "2025-09-16T20:50:20.000Z",
-      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Time-Series-Foundation-Models-Research-Intern_R5020041-1",
-      "discordThreadId": "1449846140362031174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qbe-insurance-data-science-and-machine-learning-engineering-intern-madison-2025-12-14-1",
-      "jobId": "qbe-insurance-data-science-and-machine-learning-engineering-intern-madison",
-      "company": "QBE Insurance",
-      "title": "Data Science and Machine Learning Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:31:00.041Z",
-      "sourceDate": "2025-09-16T20:26:34.000Z",
-      "sourceUrl": "https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Sun-Prairie-WI-USA/Data-Science-and-Machine-Learning-Engineering-Intern--Summer-2026-_344248",
-      "discordThreadId": "1449846147567849492",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ingredion-data-engineering-intern-brookfield-2025-12-14-1",
-      "jobId": "ingredion-data-engineering-intern-brookfield",
-      "company": "Ingredion",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2025-12-14T19:31:05.038Z",
-      "sourceDate": "2025-09-16T23:51:11.000Z",
-      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Engineering-Intern_Req-35894",
-      "discordThreadId": "1449846167977463860",
-      "instanceNumber": 1
-    },
-    {
-      "id": "peraton-summer-2026-software-development-analyst-intern-topeka-2025-12-14-1",
-      "jobId": "peraton-summer-2026-software-development-analyst-intern-topeka",
-      "company": "Peraton",
-      "title": "Summer 2026 Software Development Analyst Intern",
-      "postedToDiscord": "2025-12-14T19:31:07.285Z",
-      "sourceDate": "2025-09-16T21:37:48.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/159893/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449846176990888207",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ingredion-data-analytics-intern-brookfield-2025-12-14-1",
-      "jobId": "ingredion-data-analytics-intern-brookfield",
-      "company": "Ingredion",
-      "title": "Data Analytics Intern",
-      "postedToDiscord": "2025-12-14T19:31:08.988Z",
-      "sourceDate": "2025-09-16T20:47:21.000Z",
-      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Analytics-Intern_Req-35895",
-      "discordThreadId": "1449846185228505271",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sharkninja-summer-2026-ecommerce-intern-amazon-may-to-august-needham-2025-12-14-1",
-      "jobId": "sharkninja-summer-2026-ecommerce-intern-amazon-may-to-august-needham",
-      "company": "SharkNinja",
-      "title": "Summer 2026: Ecommerce Intern - Amazon - May to August",
-      "postedToDiscord": "2025-12-14T19:31:15.519Z",
-      "sourceDate": "2025-09-16T22:21:10.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4601587006",
-      "discordThreadId": "1449846204912369725",
-      "instanceNumber": 1
-    },
-    {
-      "id": "colonial-pipeline-company-intern-asset-integrity-alpharetta-2025-12-14-1",
-      "jobId": "colonial-pipeline-company-intern-asset-integrity-alpharetta",
-      "company": "Colonial Pipeline Company",
-      "title": "Intern – Asset Integrity",
-      "postedToDiscord": "2025-12-14T19:31:20.244Z",
-      "sourceDate": "2025-09-16T20:13:49.000Z",
-      "sourceUrl": "https://colpipe.wd1.myworkdayjobs.com/Search/job/Alpharetta-GA/Intern--Asset-Integrity_R0001844",
-      "discordThreadId": "1449846232091725937",
-      "instanceNumber": 1
-    },
     {
       "id": "keysight-technologies-r-d-software-engineering-internship-santa-rosa-2025-12-14-1",
       "jobId": "keysight-technologies-r-d-software-engineering-internship-santa-rosa",
@@ -10583,14 +10484,69 @@
       "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-II---AI-Engineering_JR115317",
       "discordThreadId": "1452381723135574077",
       "instanceNumber": 1
+    },
+    {
+      "id": "dexcom-intern-1-software-engineer-remote-in-usa-2025-12-21-1",
+      "jobId": "dexcom-intern-1-software-engineer-remote-in-usa",
+      "company": "Dexcom",
+      "title": "Intern 1 – Software Engineer",
+      "postedToDiscord": "2025-12-21T19:34:18.980Z",
+      "sourceDate": "2025-12-06T01:26:10.000Z",
+      "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-I---Software-Engineer_JR115313",
+      "discordThreadId": "1452383688712261737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-fidelity-agentic-ai-oklahoma-city-2025-12-21-1",
+      "jobId": "american-fidelity-agentic-ai-oklahoma-city",
+      "company": "American Fidelity",
+      "title": "Agentic AI",
+      "postedToDiscord": "2025-12-21T19:34:22.672Z",
+      "sourceDate": "2025-12-05T23:31:36.000Z",
+      "sourceUrl": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Agentic-AI-Intern_JR271",
+      "discordThreadId": "1452383704348491817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "evolve-technology-systems-engineer-intern-waltham-2025-12-21-1",
+      "jobId": "evolve-technology-systems-engineer-intern-waltham",
+      "company": "Evolve Technology",
+      "title": "Systems Engineer Intern",
+      "postedToDiscord": "2025-12-21T19:34:26.072Z",
+      "sourceDate": "2025-12-05T23:25:50.000Z",
+      "sourceUrl": "https://apply.workable.com/evolv-technology/j/AE6683567D/apply",
+      "discordThreadId": "1452383719561101415",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ascend-learning-software-engineer-internship-sre-leawood-2025-12-21-1",
+      "jobId": "ascend-learning-software-engineer-internship-sre-leawood",
+      "company": "Ascend Learning",
+      "title": "Software Engineer Internship - SRE",
+      "postedToDiscord": "2025-12-21T19:34:29.488Z",
+      "sourceDate": "2025-12-05T23:24:31.000Z",
+      "sourceUrl": "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=3a0cbcf9-06ee-4452-9c9a-ee13f49482b0",
+      "discordThreadId": "1452383734119665774",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dexcom-intern-1-it-data-analytics-engineer-remote-in-usa-2025-12-21-1",
+      "jobId": "dexcom-intern-1-it-data-analytics-engineer-remote-in-usa",
+      "company": "Dexcom",
+      "title": "Intern 1 – IT Data Analytics Engineer",
+      "postedToDiscord": "2025-12-21T19:34:36.177Z",
+      "sourceDate": "2025-12-06T01:26:07.000Z",
+      "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Intern-I---IT-Data-Analytics-Engineer_JR115325",
+      "discordThreadId": "1452383761177247896",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 962,
+    "totalJobs": 958,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T19:26:30.425Z",
+      "date": "2025-12-21T19:34:36.178Z",
       "archived": 0
     }
   }
