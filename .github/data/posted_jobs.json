@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:53:54.912Z",
+  "lastUpdated": "2025-12-21T22:04:07.111Z",
   "jobs": [
-    {
-      "id": "wind-river-embedded-software-engineer-san-diego-2025-12-14-1",
-      "jobId": "wind-river-embedded-software-engineer-san-diego",
-      "company": "Wind River",
-      "title": "Embedded Software Engineer",
-      "postedToDiscord": "2025-12-14T22:00:15.918Z",
-      "sourceDate": "2025-09-10T15:33:12.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/windriver/job/om4uvfw9",
-      "discordThreadId": "1449883710475472957",
-      "instanceNumber": 1
-    },
-    {
-      "id": "u-s-venture-software-engineer-intern-igen-appleton-2025-12-14-1",
-      "jobId": "u-s-venture-software-engineer-intern-igen-appleton",
-      "company": "U.S. Venture",
-      "title": "Software Engineer Intern - Igen",
-      "postedToDiscord": "2025-12-14T22:00:17.651Z",
-      "sourceDate": "2025-09-10T13:31:19.000Z",
-      "sourceUrl": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Software-Engineer-Intern---IGEN_R4271-1",
-      "discordThreadId": "1449883718477938698",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-san-diego-2025-12-14-1",
-      "jobId": "nxp-semiconductors-ai-ml-asic-design-and-implementation-automation-intern-san-diego",
-      "company": "NXP Semiconductors",
-      "title": "AI/ML ASIC Design and Implementation Automation Intern",
-      "postedToDiscord": "2025-12-14T22:00:21.093Z",
-      "sourceDate": "2025-09-10T13:22:24.000Z",
-      "sourceUrl": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Diego-Treena-St/AI-ML-ASIC-Design-and-Implementation-Automation-Intern---Summer-2026_R-10059947",
-      "discordThreadId": "1449883725788741692",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nelnet-intern-ai-enablement-lincoln-2025-12-14-1",
-      "jobId": "nelnet-intern-ai-enablement-lincoln",
-      "company": "Nelnet",
-      "title": "Intern - AI Enablement",
-      "postedToDiscord": "2025-12-14T22:00:22.904Z",
-      "sourceDate": "2025-09-10T13:20:14.000Z",
-      "sourceUrl": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---AI-Enablement_R21650",
-      "discordThreadId": "1449883740104032388",
-      "instanceNumber": 1
-    },
-    {
-      "id": "twg-global-ai-ml-scientist-intern-graphs-santa-monica-2025-12-14-1",
-      "jobId": "twg-global-ai-ml-scientist-intern-graphs-santa-monica",
-      "company": "TWG Global",
-      "title": "AI/ML Scientist Intern (Graphs)",
-      "postedToDiscord": "2025-12-14T22:00:26.897Z",
-      "sourceDate": "2025-09-10T13:14:32.000Z",
-      "sourceUrl": "https://apply.workable.com/twg-global/j/17D884D060/",
-      "discordThreadId": "1449883748144386069",
-      "instanceNumber": 1
-    },
-    {
-      "id": "twg-global-ai-ml-scientist-intern-simulation-optimization-and-reinforcement-learning-santa-monica-2025-12-14-1",
-      "jobId": "twg-global-ai-ml-scientist-intern-simulation-optimization-and-reinforcement-learning-santa-monica",
-      "company": "TWG Global",
-      "title": "AI/ML Scientist Intern (Simulation Optimization and Reinforcement Learning)",
-      "postedToDiscord": "2025-12-14T22:00:31.169Z",
-      "sourceDate": "2025-09-10T13:12:44.000Z",
-      "sourceUrl": "https://apply.workable.com/twg-global/j/5FADB8A7EE/",
-      "discordThreadId": "1449883765320187905",
-      "instanceNumber": 1
-    },
-    {
-      "id": "twg-global-ai-engineering-intern-santa-monica-2025-12-14-1",
-      "jobId": "twg-global-ai-engineering-intern-santa-monica",
-      "company": "TWG Global",
-      "title": "AI Engineering Intern",
-      "postedToDiscord": "2025-12-14T22:00:36.038Z",
-      "sourceDate": "2025-09-10T13:11:52.000Z",
-      "sourceUrl": "https://apply.workable.com/twg-global/j/4458DA5457/",
-      "discordThreadId": "1449883782407655555",
-      "instanceNumber": 1
-    },
-    {
-      "id": "twg-global-ai-ml-scientist-intern-quantitative-research-data-science-santa-monica-2025-12-14-1",
-      "jobId": "twg-global-ai-ml-scientist-intern-quantitative-research-data-science-santa-monica",
-      "company": "TWG Global",
-      "title": "AI/ML Scientist Intern (Quantitative Research & Data Science)",
-      "postedToDiscord": "2025-12-14T22:00:42.838Z",
-      "sourceDate": "2025-09-10T13:13:36.000Z",
-      "sourceUrl": "https://apply.workable.com/twg-global/j/15B958D8CC/",
-      "discordThreadId": "1449883815932727347",
-      "instanceNumber": 1
-    },
-    {
-      "id": "twg-global-ai-ml-scientist-intern-natural-language-processing-santa-monica-2025-12-14-1",
-      "jobId": "twg-global-ai-ml-scientist-intern-natural-language-processing-santa-monica",
-      "company": "TWG Global",
-      "title": "AI/ML Scientist Intern (Natural Language Processing)",
-      "postedToDiscord": "2025-12-14T22:00:49.291Z",
-      "sourceDate": "2025-09-10T13:10:47.000Z",
-      "sourceUrl": "https://apply.workable.com/twg-global/j/95E27142C1/",
-      "discordThreadId": "1449883843854336023",
-      "instanceNumber": 1
-    },
     {
       "id": "salesforce-salesforce-ai-research-palo-alto-2025-12-14-1",
       "jobId": "salesforce-salesforce-ai-research-palo-alto",
@@ -10022,14 +9923,69 @@
       "sourceUrl": "https://careers-blackhawknetwork.icims.com/jobs/24800/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452418820697227498",
       "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-enterprise-architecture-arlington-2025-12-21-1",
+      "jobId": "gm-financial-intern-enterprise-architecture-arlington",
+      "company": "GM financial",
+      "title": "Intern Enterprise Architecture",
+      "postedToDiscord": "2025-12-21T22:03:46.851Z",
+      "sourceDate": "2025-12-08T22:49:43.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1074",
+      "discordThreadId": "1452421303523872801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "realtor-com-software-engineer-intern-austin-2025-12-21-1",
+      "jobId": "realtor-com-software-engineer-intern-austin",
+      "company": "Realtor.com",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-21T22:03:50.488Z",
+      "sourceDate": "2025-12-12T23:49:20.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/rdccareers/jobs/7453200003",
+      "discordThreadId": "1452421318581686366",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microchip-technology-intern-engineering-reliability-physics-chandler-2025-12-21-1",
+      "jobId": "microchip-technology-intern-engineering-reliability-physics-chandler",
+      "company": "Microchip Technology",
+      "title": "Intern-Engineering - Reliability Physics",
+      "postedToDiscord": "2025-12-21T22:03:54.293Z",
+      "sourceDate": "2025-12-12T23:48:23.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--Reliability-Physics-_R2607-25",
+      "discordThreadId": "1452421333169344615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westwood-survey-intern-fresno-2025-12-21-1",
+      "jobId": "westwood-survey-intern-fresno",
+      "company": "Westwood",
+      "title": "Survey Intern",
+      "postedToDiscord": "2025-12-21T22:04:00.735Z",
+      "sourceDate": "2025-10-15T21:31:15.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7145/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452421362194059445",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-sunnyvale-2025-12-21-1",
+      "jobId": "general-motors-intern-ai-ml-software-engineering-intern-simulation-core-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern – AI/ML Software Engineering Intern - Simulation Core",
+      "postedToDiscord": "2025-12-21T22:04:07.111Z",
+      "sourceDate": "2025-12-13T00:47:47.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Software-Engineering-Intern---Simulation-Core--PhD-_JR-202524239",
+      "discordThreadId": "1452421388739543071",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 911,
+    "totalJobs": 907,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:53:54.912Z",
+      "date": "2025-12-21T22:04:07.111Z",
       "archived": 0
     }
   }
