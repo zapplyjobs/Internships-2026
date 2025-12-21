@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:55:43.614Z",
+  "lastUpdated": "2025-12-21T21:05:20.461Z",
   "jobs": [
-    {
-      "id": "waymo-machine-learning-infra-foundations-mountain-view-2025-12-14-1",
-      "jobId": "waymo-machine-learning-infra-foundations-mountain-view",
-      "company": "Waymo",
-      "title": "Machine Learning Infra Foundations",
-      "postedToDiscord": "2025-12-14T20:56:47.360Z",
-      "sourceDate": "2025-09-12T09:11:01.000Z",
-      "sourceUrl": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states",
-      "discordThreadId": "1449867736749576336",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ge-vernova-ge-vernova-wind-turbine-controls-intern-greenville-2025-12-14-1",
-      "jobId": "ge-vernova-ge-vernova-wind-turbine-controls-intern-greenville",
-      "company": "GE Vernova",
-      "title": "GE Vernova Wind Turbine Controls Intern",
-      "postedToDiscord": "2025-12-14T20:56:49.117Z",
-      "sourceDate": "2025-09-12T04:34:18.000Z",
-      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Wind-Turbine-Controls-Engineer---Summer-2026_R5019880-1",
-      "discordThreadId": "1449867744249118763",
-      "instanceNumber": 1
-    },
-    {
-      "id": "grant-thornton-tax-technology-intern-bellevue-2025-12-14-1",
-      "jobId": "grant-thornton-tax-technology-intern-bellevue",
-      "company": "Grant Thornton",
-      "title": "Tax Technology Intern",
-      "postedToDiscord": "2025-12-14T20:56:53.869Z",
-      "sourceDate": "2025-09-12T07:05:03.000Z",
-      "sourceUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113374",
-      "discordThreadId": "1449867764255690843",
-      "instanceNumber": 1
-    },
-    {
-      "id": "endeavor-air-safety-intern-minneapolis-2025-12-14-1",
-      "jobId": "endeavor-air-safety-intern-minneapolis",
-      "company": "Endeavor Air",
-      "title": "Safety Intern",
-      "postedToDiscord": "2025-12-14T20:56:55.618Z",
-      "sourceDate": "2025-09-11T18:48:36.000Z",
-      "sourceUrl": "https://careers-endeavorair.icims.com/jobs/5174/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449867771688259594",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lennox-international-iot-intern-richardson-2025-12-14-1",
-      "jobId": "lennox-international-iot-intern-richardson",
-      "company": "Lennox International",
-      "title": "IoT Intern",
-      "postedToDiscord": "2025-12-14T20:57:00.531Z",
-      "sourceDate": "2025-09-12T04:15:47.000Z",
-      "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50060/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449867791694958664",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zebra-technologies-2026-summer-internship-web-application-engineer-corporate-and-business-services-ceo-lake-grove-2025-12-14-1",
-      "jobId": "zebra-technologies-2026-summer-internship-web-application-engineer-corporate-and-business-services-ceo-lake-grove",
-      "company": "Zebra Technologies",
-      "title": "2026 Summer Internship - Web Application Engineer - Corporate and Business Services - CEO",
-      "postedToDiscord": "2025-12-14T20:57:05.359Z",
-      "sourceDate": "2025-09-12T01:35:15.000Z",
-      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343627917245",
-      "discordThreadId": "1449867812393713684",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zebra-technologies-2026-summer-internship-supplies-sensors-research-development-corporate-and-business-services-ceo-wheeling-2025-12-14-1",
-      "jobId": "zebra-technologies-2026-summer-internship-supplies-sensors-research-development-corporate-and-business-services-ceo-wheeling",
-      "company": "Zebra Technologies",
-      "title": "2026 Summer Internship - Supplies & Sensors Research & Development - Corporate and Business Services - CEO",
-      "postedToDiscord": "2025-12-14T20:57:07.055Z",
-      "sourceDate": "2025-09-12T01:35:14.000Z",
-      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343627677740",
-      "discordThreadId": "1449867819725492375",
-      "instanceNumber": 1
-    },
-    {
-      "id": "3m-undergraduate-business-analytics-intern-consumer-business-group-cbg-woodbury-2025-12-14-1",
-      "jobId": "3m-undergraduate-business-analytics-intern-consumer-business-group-cbg-woodbury",
-      "company": "3M",
-      "title": "Undergraduate Business Analytics Intern - Consumer Business Group - Cbg",
-      "postedToDiscord": "2025-12-14T20:57:08.881Z",
-      "sourceDate": "2025-09-11T23:17:23.000Z",
-      "sourceUrl": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2026-Undergraduate-Business-Analytics-Intern---Consumer-Business-Group--CBG-_R01156028",
-      "discordThreadId": "1449867827241816125",
-      "instanceNumber": 1
-    },
-    {
-      "id": "emerson-electric-software-engineering-co-op-june-dec-eden-prairie-2025-12-14-1",
-      "jobId": "emerson-electric-software-engineering-co-op-june-dec-eden-prairie",
-      "company": "Emerson Electric",
-      "title": "Software Engineering Co-op - June-Dec",
-      "postedToDiscord": "2025-12-14T20:57:10.609Z",
-      "sourceDate": "2025-09-11T18:17:28.000Z",
-      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026027",
-      "discordThreadId": "1449867834581585980",
-      "instanceNumber": 1
-    },
     {
       "id": "emerson-electric-graduate-software-engineering-intern-round-rock-2025-12-14-1",
       "jobId": "emerson-electric-graduate-software-engineering-intern-round-rock",
@@ -10286,14 +10187,69 @@
       "sourceUrl": "https://careers-berkley.icims.com/jobs/12875/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452404176611967088",
       "instanceNumber": 1
+    },
+    {
+      "id": "apogee-engineering-technical-intelligence-analyst-apprentice-wright-patterson-afb-2025-12-21-1",
+      "jobId": "apogee-engineering-technical-intelligence-analyst-apprentice-wright-patterson-afb",
+      "company": "Apogee Engineering",
+      "title": "Technical Intelligence Analyst – Apprentice",
+      "postedToDiscord": "2025-12-21T21:04:59.817Z",
+      "sourceDate": "2025-09-11T18:06:21.000Z",
+      "sourceUrl": "https://careers-apogeeusa.icims.com/jobs/1443/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452406505570828288",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shure-cloud-applications-development-intern-morton-grove-2025-12-21-1",
+      "jobId": "shure-cloud-applications-development-intern-morton-grove",
+      "company": "Shure",
+      "title": "Cloud Applications Development Intern",
+      "postedToDiscord": "2025-12-21T21:05:03.572Z",
+      "sourceDate": "2025-09-10T23:31:44.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4405/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452406525556691104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cai-data-analyst-intern-remote-in-usa-2025-12-21-1",
+      "jobId": "cai-data-analyst-intern-remote-in-usa",
+      "company": "CAI",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2025-12-21T21:05:10.018Z",
+      "sourceDate": "2025-09-11T18:09:42.000Z",
+      "sourceUrl": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Analyst-Intern_R6105",
+      "discordThreadId": "1452406553343955025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "united-wholesale-mortgage-technology-summer-intern-information-technology-pontiac-2025-12-21-1",
+      "jobId": "united-wholesale-mortgage-technology-summer-intern-information-technology-pontiac",
+      "company": "United Wholesale Mortgage",
+      "title": "Technology Summer Intern - Information Technology",
+      "postedToDiscord": "2025-12-21T21:05:16.477Z",
+      "sourceDate": "2025-09-11T05:10:22.000Z",
+      "sourceUrl": "https://careers-uwmcareers.icims.com/jobs/14366/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452406580602605659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cotiviti-intern-generative-ai-developer-austin-2025-12-21-1",
+      "jobId": "cotiviti-intern-generative-ai-developer-austin",
+      "company": "Cotiviti",
+      "title": "Intern – Generative AI Developer",
+      "postedToDiscord": "2025-12-21T21:05:20.461Z",
+      "sourceDate": "2025-09-11T00:15:25.000Z",
+      "sourceUrl": "https://careers-cotiviti.icims.com/jobs/15889/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452406594955509963",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 935,
+    "totalJobs": 931,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T20:55:43.614Z",
+      "date": "2025-12-21T21:05:20.461Z",
       "archived": 0
     }
   }
