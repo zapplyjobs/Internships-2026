@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T20:40:48.148Z",
+  "lastUpdated": "2025-12-21T20:48:07.687Z",
   "jobs": [
-    {
-      "id": "u-s-venture-solution-development-intern-software-development-breakthrough-green-bay-2025-12-14-1",
-      "jobId": "u-s-venture-solution-development-intern-software-development-breakthrough-green-bay",
-      "company": "U.S. Venture",
-      "title": "Solution Development – Intern - Software Development - Breakthrough",
-      "postedToDiscord": "2025-12-14T20:43:13.494Z",
-      "sourceDate": "2025-09-12T17:53:10.000Z",
-      "sourceUrl": "https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Solution-Development--Software-Development--Intern---Breakthrough_R4331",
-      "discordThreadId": "1449864323491954789",
-      "instanceNumber": 1
-    },
-    {
-      "id": "symbotic-data-engineer-wilmington-2025-12-14-1",
-      "jobId": "symbotic-data-engineer-wilmington",
-      "company": "Symbotic",
-      "title": "Data Engineer",
-      "postedToDiscord": "2025-12-14T20:43:17.098Z",
-      "sourceDate": "2025-09-12T14:24:16.000Z",
-      "sourceUrl": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Data-Engineer_R5400",
-      "discordThreadId": "1449864330467348513",
-      "instanceNumber": 1
-    },
-    {
-      "id": "innovative-systems-software-engineering-intern-co-op-pittsburgh-2025-12-14-1",
-      "jobId": "innovative-systems-software-engineering-intern-co-op-pittsburgh",
-      "company": "Innovative Systems",
-      "title": "Software Engineering Intern/Co-op",
-      "postedToDiscord": "2025-12-14T20:43:23.411Z",
-      "sourceDate": "2025-09-12T14:41:28.000Z",
-      "sourceUrl": "https://career.innovativesystems.com/apply/XZKtjZUJ5M/InternCoop-Summer-2026-Software-Engineering",
-      "discordThreadId": "1449864358703136942",
-      "instanceNumber": 1
-    },
-    {
-      "id": "diversified-automation-software-engineering-co-op-louisville-2025-12-14-1",
-      "jobId": "diversified-automation-software-engineering-co-op-louisville",
-      "company": "Diversified Automation",
-      "title": "Software Engineering Co-op",
-      "postedToDiscord": "2025-12-14T20:43:25.311Z",
-      "sourceDate": "2025-09-12T14:37:17.000Z",
-      "sourceUrl": "https://jobs.lever.co/diversified-automation/1b50836b-0b6e-45ec-aef0-1156f08f2da0",
-      "discordThreadId": "1449864372720762920",
-      "instanceNumber": 1
-    },
-    {
-      "id": "fidelity-co-op-software-engineer-boston-2025-12-14-1",
-      "jobId": "fidelity-co-op-software-engineer-boston",
-      "company": "Fidelity",
-      "title": "Co-op, Software Engineer",
-      "postedToDiscord": "2025-12-14T20:43:28.841Z",
-      "sourceDate": "2025-09-12T14:36:03.000Z",
-      "sourceUrl": "https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Software-Engineer_2117625",
-      "discordThreadId": "1449864380358590525",
-      "instanceNumber": 1
-    },
-    {
-      "id": "red-hat-software-engineer-intern-boston-2025-12-14-1",
-      "jobId": "red-hat-software-engineer-intern-boston",
-      "company": "Red Hat",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T20:43:32.310Z",
-      "sourceDate": "2025-09-12T14:26:04.000Z",
-      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Boston/Software-Engineer-Intern_R-050437",
-      "discordThreadId": "1449864395042848789",
-      "instanceNumber": 1
-    },
-    {
-      "id": "tel-software-engineer-intern-austin-2025-12-14-1",
-      "jobId": "tel-software-engineer-intern-austin",
-      "company": "TEL",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T20:43:34.045Z",
-      "sourceDate": "2025-09-12T14:22:43.000Z",
-      "sourceUrl": "https://tel.wd3.myworkdayjobs.com/en-US/tel-careers/job/Austin-RiverSouth/Software-Engineer-Intern--Summer-2026-_R25-01193",
-      "discordThreadId": "1449864409597087844",
-      "instanceNumber": 1
-    },
-    {
-      "id": "badger-meter-software-engineering-intern-milwaukee-2025-12-14-1",
-      "jobId": "badger-meter-software-engineering-intern-milwaukee",
-      "company": "Badger Meter",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T20:43:35.948Z",
-      "sourceDate": "2025-09-12T09:45:05.000Z",
-      "sourceUrl": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US---WI---Milwaukee-Global-Water-Center/Software-Engineering-Intern_4016",
-      "discordThreadId": "1449864416907755571",
-      "instanceNumber": 1
-    },
-    {
-      "id": "analytical-mechanics-associates-computer-vision-intern-remote-in-usa-2025-12-14-1",
-      "jobId": "analytical-mechanics-associates-computer-vision-intern-remote-in-usa",
-      "company": "Analytical Mechanics Associates",
-      "title": "Computer Vision Intern",
-      "postedToDiscord": "2025-12-14T20:43:40.742Z",
-      "sourceDate": "2025-09-12T09:43:23.000Z",
-      "sourceUrl": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Remote/Computer-Vision-Intern_R-100394",
-      "discordThreadId": "1449864437795258399",
-      "instanceNumber": 1
-    },
     {
       "id": "boeing-software-engineering-artificial-intelligence-intern-tukwila-2025-12-14-1",
       "jobId": "boeing-software-engineering-artificial-intelligence-intern-tukwila",
@@ -10374,14 +10275,69 @@
       "sourceUrl": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---Machine-Learning-Operations_R25-10996",
       "discordThreadId": "1452400422013763839",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-systems-engineering-intern-canonsburg-2025-12-21-1",
+      "jobId": "general-dynamics-mission-systems-engineering-intern-canonsburg",
+      "company": "General Dynamics Mission Systems",
+      "title": "Systems Engineering Intern",
+      "postedToDiscord": "2025-12-21T20:47:49.507Z",
+      "sourceDate": "2025-10-07T01:55:55.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/67928/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402189149667420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vanguard-application-engineer-intern-co-op-multiple-teams-charlotte-2025-12-21-1",
+      "jobId": "vanguard-application-engineer-intern-co-op-multiple-teams-charlotte",
+      "company": "Vanguard",
+      "title": "Application Engineer Intern/Co-op - Multiple Teams",
+      "postedToDiscord": "2025-12-21T20:47:54.282Z",
+      "sourceDate": "2025-10-01T10:08:19.000Z",
+      "sourceUrl": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Application-Engineer-Co-op---Charlotte_171146",
+      "discordThreadId": "1452402208569037016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "philips-co-op-healthcare-data-scientist-healthcare-data-science-cambridge-2025-12-21-1",
+      "jobId": "philips-co-op-healthcare-data-scientist-healthcare-data-science-cambridge",
+      "company": "Philips",
+      "title": "Co-op – Healthcare Data Scientist - Healthcare Data Science",
+      "postedToDiscord": "2025-12-21T20:48:00.955Z",
+      "sourceDate": "2025-10-05T08:59:58.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
+      "discordThreadId": "1452402236612280413",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sharp-electronics-ai-process-automation-intern-mahwah-2025-12-21-1",
+      "jobId": "sharp-electronics-ai-process-automation-intern-mahwah",
+      "company": "Sharp Electronics",
+      "title": "AI Process Automation Intern",
+      "postedToDiscord": "2025-12-21T20:48:04.305Z",
+      "sourceDate": "2025-10-05T07:47:03.000Z",
+      "sourceUrl": "https://careers-sharpusa.icims.com/jobs/8567/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402251460116621",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intercontinental-exchange-ai-engineering-intern-multiple-teams-atlanta-2025-12-21-1",
+      "jobId": "intercontinental-exchange-ai-engineering-intern-multiple-teams-atlanta",
+      "company": "Intercontinental Exchange",
+      "title": "AI Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-21T20:48:07.687Z",
+      "sourceDate": "2025-10-03T18:28:42.000Z",
+      "sourceUrl": "https://careers-ice.icims.com/jobs/11582/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452402265435672840",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 943,
+    "totalJobs": 939,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T20:40:48.148Z",
+      "date": "2025-12-21T20:48:07.687Z",
       "archived": 0
     }
   }
