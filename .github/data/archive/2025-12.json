@@ -5278,5 +5278,104 @@
     "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026027",
     "discordThreadId": "1449867834581585980",
     "instanceNumber": 1
+  },
+  {
+    "id": "emerson-electric-graduate-software-engineering-intern-round-rock-2025-12-14-1",
+    "jobId": "emerson-electric-graduate-software-engineering-intern-round-rock",
+    "company": "Emerson Electric",
+    "title": "Graduate Software Engineering Intern",
+    "postedToDiscord": "2025-12-14T21:08:21.314Z",
+    "sourceDate": "2025-09-11T18:17:23.000Z",
+    "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026032",
+    "discordThreadId": "1449870646577332277",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dayton-freight-lines-software-developer-intern-dayton-2025-12-14-1",
+    "jobId": "dayton-freight-lines-software-developer-intern-dayton",
+    "company": "Dayton Freight Lines",
+    "title": "Software Developer Intern",
+    "postedToDiscord": "2025-12-14T21:08:23.188Z",
+    "sourceDate": "2025-09-11T13:20:08.000Z",
+    "sourceUrl": "https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job",
+    "discordThreadId": "1449870654940774535",
+    "instanceNumber": 1
+  },
+  {
+    "id": "sierra-nevada-coporation-software-engineer-intern-sparks-2025-12-14-1",
+    "jobId": "sierra-nevada-coporation-software-engineer-intern-sparks",
+    "company": "Sierra Nevada Coporation",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-14T21:08:24.914Z",
+    "sourceDate": "2025-09-11T04:41:04.000Z",
+    "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern---Summer-2026_R0028381",
+    "discordThreadId": "1449870662838649082",
+    "instanceNumber": 1
+  },
+  {
+    "id": "peraton-software-engineer-intern-blacksburg-2025-12-14-1",
+    "jobId": "peraton-software-engineer-intern-blacksburg",
+    "company": "Peraton",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-14T21:08:26.658Z",
+    "sourceDate": "2025-09-11T01:32:19.000Z",
+    "sourceUrl": "https://careers-peraton.icims.com/jobs/158532/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449870670216298566",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cognitiv-machine-learning-research-scientist-intern-san-mateo-2025-12-14-1",
+    "jobId": "cognitiv-machine-learning-research-scientist-intern-san-mateo",
+    "company": "Cognitiv",
+    "title": "Machine Learning Research Scientist Intern",
+    "postedToDiscord": "2025-12-14T21:08:34.750Z",
+    "sourceDate": "2025-09-11T13:18:25.000Z",
+    "sourceUrl": "https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0",
+    "discordThreadId": "1449870690030452836",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-software-engineer-intern-applied-machine-learning-ml-system-san-jose-2025-12-14-1",
+    "jobId": "bytedance-software-engineer-intern-applied-machine-learning-ml-system-san-jose",
+    "company": "ByteDance",
+    "title": "Software Engineer Intern - Applied Machine Learning - ML System",
+    "postedToDiscord": "2025-12-14T21:08:36.510Z",
+    "sourceDate": "2025-09-11T06:21:25.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7539711579525630216/detail",
+    "discordThreadId": "1449870711429529632",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kitware-computer-vision-software-development-internship-clifton-park-2025-12-14-1",
+    "jobId": "kitware-computer-vision-software-development-internship-clifton-park",
+    "company": "Kitware",
+    "title": "Computer Vision Software Development Internship",
+    "postedToDiscord": "2025-12-14T21:08:38.195Z",
+    "sourceDate": "2025-09-11T04:59:47.000Z",
+    "sourceUrl": "https://jobs.lever.co/kitware/ac5a8edf-d005-4706-a01c-3d3b85cadb93/apply",
+    "discordThreadId": "1449870718459183147",
+    "instanceNumber": 1
+  },
+  {
+    "id": "peraton-summer-2026-university-internship-pipeline-reston-2025-12-14-1",
+    "jobId": "peraton-summer-2026-university-internship-pipeline-reston",
+    "company": "Peraton",
+    "title": "Summer 2026 University Internship Pipeline",
+    "postedToDiscord": "2025-12-14T21:08:43.105Z",
+    "sourceDate": "2025-09-11T05:14:57.000Z",
+    "sourceUrl": "https://careers-peraton.icims.com/jobs/158530/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1449870738629722122",
+    "instanceNumber": 1
+  },
+  {
+    "id": "sierra-nevada-coporation-data-scientist-intern-sparks-2025-12-14-1",
+    "jobId": "sierra-nevada-coporation-data-scientist-intern-sparks",
+    "company": "Sierra Nevada Coporation",
+    "title": "Data Scientist Intern",
+    "postedToDiscord": "2025-12-14T21:08:47.835Z",
+    "sourceDate": "2025-09-11T04:41:03.000Z",
+    "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
+    "discordThreadId": "1449870758565253423",
+    "instanceNumber": 1
   }
 ]

@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T21:05:20.461Z",
+  "lastUpdated": "2025-12-21T21:17:46.915Z",
   "jobs": [
-    {
-      "id": "emerson-electric-graduate-software-engineering-intern-round-rock-2025-12-14-1",
-      "jobId": "emerson-electric-graduate-software-engineering-intern-round-rock",
-      "company": "Emerson Electric",
-      "title": "Graduate Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T21:08:21.314Z",
-      "sourceDate": "2025-09-11T18:17:23.000Z",
-      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25026032",
-      "discordThreadId": "1449870646577332277",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dayton-freight-lines-software-developer-intern-dayton-2025-12-14-1",
-      "jobId": "dayton-freight-lines-software-developer-intern-dayton",
-      "company": "Dayton Freight Lines",
-      "title": "Software Developer Intern",
-      "postedToDiscord": "2025-12-14T21:08:23.188Z",
-      "sourceDate": "2025-09-11T13:20:08.000Z",
-      "sourceUrl": "https://careers-daytonfreight.icims.com/jobs/16715/software-developer-intern/job",
-      "discordThreadId": "1449870654940774535",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sierra-nevada-coporation-software-engineer-intern-sparks-2025-12-14-1",
-      "jobId": "sierra-nevada-coporation-software-engineer-intern-sparks",
-      "company": "Sierra Nevada Coporation",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:08:24.914Z",
-      "sourceDate": "2025-09-11T04:41:04.000Z",
-      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern---Summer-2026_R0028381",
-      "discordThreadId": "1449870662838649082",
-      "instanceNumber": 1
-    },
-    {
-      "id": "peraton-software-engineer-intern-blacksburg-2025-12-14-1",
-      "jobId": "peraton-software-engineer-intern-blacksburg",
-      "company": "Peraton",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T21:08:26.658Z",
-      "sourceDate": "2025-09-11T01:32:19.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158532/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449870670216298566",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cognitiv-machine-learning-research-scientist-intern-san-mateo-2025-12-14-1",
-      "jobId": "cognitiv-machine-learning-research-scientist-intern-san-mateo",
-      "company": "Cognitiv",
-      "title": "Machine Learning Research Scientist Intern",
-      "postedToDiscord": "2025-12-14T21:08:34.750Z",
-      "sourceDate": "2025-09-11T13:18:25.000Z",
-      "sourceUrl": "https://jobs.lever.co/cognitiv/be2b3e65-a5e6-4914-ba01-8f07bb80cfa0",
-      "discordThreadId": "1449870690030452836",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-software-engineer-intern-applied-machine-learning-ml-system-san-jose-2025-12-14-1",
-      "jobId": "bytedance-software-engineer-intern-applied-machine-learning-ml-system-san-jose",
-      "company": "ByteDance",
-      "title": "Software Engineer Intern - Applied Machine Learning - ML System",
-      "postedToDiscord": "2025-12-14T21:08:36.510Z",
-      "sourceDate": "2025-09-11T06:21:25.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7539711579525630216/detail",
-      "discordThreadId": "1449870711429529632",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kitware-computer-vision-software-development-internship-clifton-park-2025-12-14-1",
-      "jobId": "kitware-computer-vision-software-development-internship-clifton-park",
-      "company": "Kitware",
-      "title": "Computer Vision Software Development Internship",
-      "postedToDiscord": "2025-12-14T21:08:38.195Z",
-      "sourceDate": "2025-09-11T04:59:47.000Z",
-      "sourceUrl": "https://jobs.lever.co/kitware/ac5a8edf-d005-4706-a01c-3d3b85cadb93/apply",
-      "discordThreadId": "1449870718459183147",
-      "instanceNumber": 1
-    },
-    {
-      "id": "peraton-summer-2026-university-internship-pipeline-reston-2025-12-14-1",
-      "jobId": "peraton-summer-2026-university-internship-pipeline-reston",
-      "company": "Peraton",
-      "title": "Summer 2026 University Internship Pipeline",
-      "postedToDiscord": "2025-12-14T21:08:43.105Z",
-      "sourceDate": "2025-09-11T05:14:57.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/158530/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1449870738629722122",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sierra-nevada-coporation-data-scientist-intern-sparks-2025-12-14-1",
-      "jobId": "sierra-nevada-coporation-data-scientist-intern-sparks",
-      "company": "Sierra Nevada Coporation",
-      "title": "Data Scientist Intern",
-      "postedToDiscord": "2025-12-14T21:08:47.835Z",
-      "sourceDate": "2025-09-11T04:41:03.000Z",
-      "sourceUrl": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Scientist-Intern---Summer-2026_R0028397",
-      "discordThreadId": "1449870758565253423",
-      "instanceNumber": 1
-    },
     {
       "id": "peraton-data-science-intern-blacksburg-2025-12-14-1",
       "jobId": "peraton-data-science-intern-blacksburg",
@@ -10242,14 +10143,69 @@
       "sourceUrl": "https://careers-cotiviti.icims.com/jobs/15889/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452406594955509963",
       "instanceNumber": 1
+    },
+    {
+      "id": "shure-proof-of-concept-software-development-intern-morton-grove-2025-12-21-1",
+      "jobId": "shure-proof-of-concept-software-development-intern-morton-grove",
+      "company": "Shure",
+      "title": "Proof of Concept Software Development Intern",
+      "postedToDiscord": "2025-12-21T21:17:29.420Z",
+      "sourceDate": "2025-09-10T23:31:30.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4469/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452409653961949297",
+      "instanceNumber": 1
+    },
+    {
+      "id": "saab-co-op-software-spring-east-syracuse-2025-12-21-1",
+      "jobId": "saab-co-op-software-spring-east-syracuse",
+      "company": "Saab",
+      "title": "Co-Op – Software Spring",
+      "postedToDiscord": "2025-12-21T21:17:33.107Z",
+      "sourceDate": "2025-09-10T00:42:43.000Z",
+      "sourceUrl": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Software-Spring---Summer-2026_R-02575-1",
+      "discordThreadId": "1452409668667183336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-software-engineer-ii-bentonville-2025-12-21-1",
+      "jobId": "walmart-software-engineer-ii-bentonville",
+      "company": "Walmart",
+      "title": "Software Engineer II",
+      "postedToDiscord": "2025-12-21T21:17:36.677Z",
+      "sourceDate": "2025-09-09T03:19:15.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineer-II_R-2291126",
+      "discordThreadId": "1452409684576174101",
+      "instanceNumber": 1
+    },
+    {
+      "id": "solidigm-2026-undergrad-engineering-internship-rancho-cordova-2025-12-21-1",
+      "jobId": "solidigm-2026-undergrad-engineering-internship-rancho-cordova",
+      "company": "Solidigm",
+      "title": "2026 Undergrad Engineering Internship",
+      "postedToDiscord": "2025-12-21T21:17:43.255Z",
+      "sourceDate": "2025-09-06T00:45:20.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Solidigm/744000080219745",
+      "discordThreadId": "1452409711755395265",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-data-analyst-bi-developer-intern-arlington-2025-12-21-1",
+      "jobId": "caci-data-analyst-bi-developer-intern-arlington",
+      "company": "CACI",
+      "title": "Data Analyst / BI Developer Intern",
+      "postedToDiscord": "2025-12-21T21:17:46.915Z",
+      "sourceDate": "2025-09-02T22:41:49.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Arlington/Data-Analyst---BI-Developer-Intern---Summer-2026_316747-1",
+      "discordThreadId": "1452409726871798011",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 931,
+    "totalJobs": 927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T21:05:20.461Z",
+      "date": "2025-12-21T21:17:46.915Z",
       "archived": 0
     }
   }
