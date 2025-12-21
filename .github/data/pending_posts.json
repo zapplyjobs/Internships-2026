@@ -661,86 +661,6 @@
   },
   {
     "job": {
-      "job_title": "GE Vernova Gas Power Electro Chemical Machining – Digital Development Intern - Ecm - & Fast Hole Drilling - Fhd",
-      "employer_name": "GE Vernova",
-      "job_city": "Greenville",
-      "job_state": "SC",
-      "job_description": "Job Description SummaryJob DescriptionCome and join our powerful, unified force with the energy to change the world. Our mission is BIG.Our TRANSFORMATION is key – bringing the right businesses together to LEAD the ENERGY TRANSITION. Our TEAM is ready.Addressing the climate crisis is an urgent global priority and we take our responsibility seriously. Building on over 130 years of experience tackling the world’s challenges, GE Vernova is uniquely positioned to help lead the energy transition by continuing to electrify the world while simultaneously working to decarbonize it. GE Vernova helps customers power economies and deliver electricity that is vital to health, safety, security, and improved quality of life.What You’ll DoThis would involve analytical feedback from Process Fingerprint of Electro Chemical Machining (ECM) and Fast Hole Drilling (FHD).  The internship involves contextualizing existing machine data streams and then using advanced analytics to identify relationships between the machining process and part quality.  Process modifications and operational limits will be identified / tested based upon these relationships, with the objective to reduce rework and part defects.  This project is tied to the Automation Roadmap for the Gas Value Stream and the internship would specifically be focused on the digitalization connections at these processes.  This would involve collaboration with Operations, Technical Support, IT, and the development/research teams.  Many of the foundational pieces are in place but a strong data analytics resource with understanding of manufacturing / process engineering / AI tools is required to tie all of the data collection, analysis, and feedback to these production cells.Project OutcomesDigital tool connection to manufacturing processes - i.e. Vimana, SPEC, L2L, etc.Digital escalation based on data feedbackDigital communication between processes - machine to machineMachine adaptability based on digital feedbackWhat You'll Bring (Basic Qualifications):Working towards a bachelor’s degree in a technical field of Computational Science, Industrial Engineering and Data Science study.Minimum 4.0 GPA/5.0 scale (without rounding)Must have the ability to work in the US for an unlimited amount of time without sponsorshipWhat Will Make You Stand Out:Experience with data analytics and AI applicationStrong communication skillsWillingness to engage in industrial manufacturing environmentBenefits Available to You: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce.The pay for this position ranges from $21.00/hr - $36.00/hr based on years of undergraduate/graduate field of study completed.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Vernova Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)InclusionAt GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong. Click here to learn more: Our Culture | GE VernovaThis posting will be open until at least Sept 30, 2025.General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a “Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Additional InformationGE Vernova offers a great work environment, professional development, challenging careers, and competitive compensation. GE Vernova is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.GE Vernova will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). Relocation Assistance Provided: No  For candidates applying to a U.S. based position only:  This posting is expected to remain open for at least seven days after it was posted on December 12, 2025.  U.S. Internship roles are ineligible for GE Vernova benefits.",
-      "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-Gas-Power-Electro-Chemical-Machining--ECM--and-Fast-Hole-Drilling--FHD--Digital-Development_R5019856-2",
-      "job_posted_at_datetime_utc": "2025-09-12T04:34:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-gas-power-electro-chemical-machining-digital-development-intern-ecm-fast-hole-drilling-fhd-greenville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T23:17:45.725Z",
-    "postedAt": "2025-12-21T23:36:52.893Z"
-  },
-  {
-    "job": {
-      "job_title": "University – 2026 Summer Games Systems Engineering Intern",
-      "employer_name": "Booz Allen",
-      "job_city": "Honolulu",
-      "job_state": "HI",
-      "job_description": "Join Booz Allen in this exciting opportunity.",
-      "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Systems-Engineering-Intern_R0225531",
-      "job_posted_at_datetime_utc": "2025-09-02T18:42:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "booz-allen-university-2026-summer-games-systems-engineering-intern-honolulu",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T23:17:45.725Z",
-    "postedAt": "2025-12-21T23:36:52.893Z"
-  },
-  {
-    "job": {
-      "job_title": "Physical Design for Machine Learning Intern",
-      "employer_name": "Tenstorrent",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Tenstorrent is leading the industry on cutting-edge AI technology, revolutionizing performance expectations, ease of use, and cost efficiency. With AI redefining the computing paradigm, solutions must evolve to unify innovations in software models, compilers, platforms, networking, and semiconductors. Our diverse team of technologists have developed a high performance RISC-V CPU from scratch, and share a passion for AI and a deep desire to build the best AI platform possible. We value collaboration, curiosity, and a commitment to solving hard problems. We are growing our team and looking for contributors of all seniorities.As an intern in the Physical Design (PD) team, you will work on high-performance designs going into industry leading AI/ML architectures. The student coming into this role will develop ML-based tools and flows to improve the PPA (Performance Power Area) and turnaround time for all aspects of chip implementation from synthesis to tapeout for various IPs. The work is done collaboratively with a group of highly experienced engineers across various domains of the ASIC. This role is on-site, 40 hours, based out of Santa Clara, CA or Austin, TX. Who You Are Currently pursuing a BS/MS/PhD in EE/ECE/CE/CS. Possessing deep knowledge of math, probability, statistics, and algorithms. Experienced in solving problems with Machine Learning models. Skilled in algorithms, data structures, and software development using Python and C/C++. What We Need Ability to develop ML-based tools to improve PPA and turnaround time for chip implementation. Work closely with other PD engineers to develop ML tools for areas such as synthesis, PnR, timing closure, and power grid analysis. Responsibility for selecting appropriate datasets, data representation methods, and implementing new algorithms. Capability to run machine learning tests, perform statistical analysis, and fine-tune models using test results. What You Will Learn How to apply ML systems and flows to high-performance designs for industry-leading AI/ML architectures. Practical experience in extending existing ML systems and implementing cutting-edge algorithms. Gain exposure to core physical design fundamentals, including synthesis, place and route, and timing analysis. Experience collaborating with a group of highly experienced engineers across various domains of the ASIC implementation. Compensation for all interns at Tenstorrent ranges from $50/hr - $70/hr including base and variable compensation targets. Experience, skills, education, background and location all impact the actual offer made. Tenstorrent offers a highly competitive compensation package and benefits, and we are an equal opportunity employer. Due to U.S. Export Control laws and regulations, Tenstorrent is required to ensure compliance with licensing regulations when transferring technology to nationals of certain countries that have been licensing conditions set by the U.S. government. Our engineering positions and certain engineering support positions require access to information, systems, or technologies that are subject to U.S. Export Control laws and regulations, please note that citizenship/permanent residency, asylee and refugee information and/or documentation will be required and considered as Tenstorrent moves through the employment process. If a U.S. export license is required, employment will not begin until a license with acceptable conditions is granted by the U.S. government. If a U.S. export license with acceptable conditions is not granted by the U.S. government, then the offer of employment will be rescinded. This offer of employment is contingent upon the applicant being eligible to access U.S. export-controlled technology. Due to U.S. export laws, including those codified in the U.S. Export Administration Regulations (EAR), the Company is required to ensure compliance with these laws when transferring technology to nationals of certain countries (such as EAR Country Groups D:1, E1, and E2). These requirements apply to persons located in the U.S. and all countries outside the U.S. As the position offered will have direct and/or indirect access to information, systems, or technologies subject to these laws, the offer may be contingent upon your citizenship/permanent residency status or ability to obtain prior license approval from the U.S. Commerce Department or applicable federal agency. If employment is not possible due to U.S. export laws, any offer of employment will be rescinded.",
-      "job_apply_link": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
-      "job_posted_at_datetime_utc": "2025-07-19T10:55:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tenstorrent-physical-design-for-machine-learning-intern-austin",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T01:59:02.237Z",
-    "enrichedAt": "2025-12-21T23:17:45.725Z",
-    "postedAt": "2025-12-21T23:36:52.893Z"
-  },
-  {
-    "job": {
-      "job_title": "Telecommunications Intern-Data Analytics",
-      "employer_name": "GCI",
-      "job_city": "Anchorage",
-      "job_state": "AK",
-      "job_description": "Join GCI in this exciting opportunity.",
-      "job_apply_link": "https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003282",
-      "job_posted_at_datetime_utc": "2025-12-13T02:13:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "gci-telecommunications-intern-data-analytics-anchorage",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-13T02:40:41.667Z",
-    "enrichedAt": "2025-12-21T23:17:45.725Z",
-    "postedAt": "2025-12-21T23:36:52.893Z"
-  },
-  {
-    "job": {
       "job_title": "Summer 2026 Data Analyst Intern-Irvine - CA",
       "employer_name": "CoStar Group",
       "job_city": "Irvine",
@@ -774,10 +694,10 @@
       "description_platform": "generic",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:28:53.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:45:08.754Z"
   },
   {
     "job": {
@@ -794,10 +714,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:28:53.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:45:08.754Z"
   },
   {
     "job": {
@@ -814,10 +734,10 @@
       "description_platform": "icims",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:28:53.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:45:08.754Z"
   },
   {
     "job": {
@@ -834,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-13T03:49:47.671Z",
     "enrichedAt": "2025-12-21T23:28:53.427Z",
-    "postedAt": null
+    "postedAt": "2025-12-21T23:45:08.754Z"
   },
   {
     "job": {
@@ -965,16 +885,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Researcher Intern (Vision and Graphics)- 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7528196025854380306",
       "job_posted_at_datetime_utc": "2025-12-13T02:18:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-researcher-intern-vision-and-graphics-2026-start-san-jose"
+      "id": "tiktok-researcher-intern-vision-and-graphics-2026-start-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T03:49:47.671Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:44:38.040Z",
     "postedAt": null
   },
   {
@@ -983,16 +905,18 @@
       "employer_name": "American Enterprise Institute",
       "job_city": "Washington",
       "job_state": "DC",
-      "job_description": "Join American Enterprise Institute in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>The American Enterprise Institute’s Housing Center seeks an intern to support the research of Senior Fellows Edward&nbsp;J. Pinto and Tobias Peter on domestic housing, historical and current mortgage lending policies, and financial policy reform.</p> <p>&nbsp;</p> <p>Primary assignments will include helping maintain the center’s various indexes and large databases; supporting research through data management, retrieval, and analysis; editing and contributing to scholarly papers, articles, and op-eds; creating and formatting charts and tables, graphic displays, and presentations; and performing other general tasks.</p> <p>&nbsp;</p> <p>The ideal candidate can multitask, has experience using Excel and Stata (or other statistical software), can write succinctly, and is comfortable working independently. Experience in data cleaning and analysis and knowledge of ArcGIS, Python, R, Java, and SAS are preferred but not required. Candidates who can participate in the program in person for 30–40&nbsp;hours a week are encouraged to apply.</p> <p>&nbsp;</p> <p><em>In their application package, candidates should include standardized test scores (for the SAT, ACT, etc.).</em></p> <p>&nbsp;</p> <p><strong>About AEI Internships</strong></p> <p>&nbsp;</p> <p>AEI internships offer a unique opportunity for undergraduates, graduate students, and recent graduates to gain experience in research, writing, business, and communications at one of the nation’s leading think tanks. Competitive candidates will generally have a GPA of 3.5 or higher from a top-ranking college or university. AEI’s internship program runs for 12&nbsp;weeks, and all related programming will take place in person in Washington, DC. Please see the internship program home page for updates.</p> <p>&nbsp;</p> <p>The summer program dates are either <strong>Tuesday,</strong> <strong>May&nbsp;26, to Friday, August&nbsp;21</strong>, or <strong>Tuesday, June&nbsp;2, to Friday, August&nbsp;28</strong>.</p>",
       "job_apply_link": "https://internships-aei.icims.com/jobs/2538/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-04T23:24:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "american-enterprise-institute-housing-center-intern-washington"
+      "id": "american-enterprise-institute-housing-center-intern-washington",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T07:44:22.690Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:44:38.040Z",
     "postedAt": null
   },
   {
@@ -1001,16 +925,18 @@
       "employer_name": "Samsung Research America",
       "job_city": "Mountain View",
       "job_state": "CA",
-      "job_description": "Join Samsung Research America in this exciting opportunity.",
+      "job_description": "Lab Summary: Samsung AI Research Center (SAIC) located in Mountain View, California, is currently recruiting outstanding research interns for the Vision Intelligence lab. Our goal is to perform long-term research with potential for direct impact on future Samsung products reaching hundreds of millions of users worldwide. We are focused on pushing the state-of-the-art in multimodal understanding and generation. Position Summary: In this position, the student will collaborate with leading researchers on a project related to the lab’s interests in multimodal (image, video, 3D, text) retrieval, question answering, reasoning, generation and editing. Position Responsibilities: Conduct research on multi-modal models in one the above-mentioned area Write maintainable code to implement research ideas Work closely with the team to discuss findings and improve the method Executing experiments, documenting their progress and presenting insights Prepare findings for submission to a major conference or journal Required Skills: Currently pursuing a MS or PhD degree Experience with programming in Python, Pytorch, Transformers etc. Previous publications in top-tier conference and journals in CV/ML/AI such as CVPR, ECCV, ICCV, ICML, NeurIPS, AAAI Experience in one or more of the following areas: Experience in VLMs including model architecture design, pretraining or post training (SFT, RLHF, GRPO) techniques Experience in diffusion models and other generative AI approaches for image/video/3D domains Experience in design and development of efficient multi-modal models using techniques like knowledge distillation, mixture of experts etc. Experience in Vision Language Action Models (VLA) for Agentic systems in robotics, GUI based task automation etc. Strong oral and written communication skills Our total rewards programs are designed to motivate and engage exceptional talent. The hourly pay rate range for roles at this level is listed below, but may be higher or lower in other states due to geographic differentials in the labor market. Within the hourly pay rate range, individual rates depend on a number of factors—including the role’s function and location as well as the individual’s knowledge, skills, experience, education and training. This is part of our comprehensive compensation package with annual bonus eligibility and generous benefits to help you live life well.Hourly Pay Rate Range$48 - $63 USDAdditional Information Disclosure of Trade Secrets Samsung has a strict policy on trade secrets. In applying to Samsung and progressing through the recruitment process, you must not disclose any trade secrets of a current or previous employer. Essential Job Functions This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, and frequently operate standard office equipment, such as telephones and computers. Samsung Research America is committed to complying with all Federal, State and local laws related to the employment of qualified individuals with disabilities. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact the recruiter or email sratalent@samsung.com. Equal Employment Opportunity At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities. Samsung Research America is committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law. For more information regarding protection from discrimination under Federal law for applicants and employees, please refer to this link: Pay Transparency",
       "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
       "job_posted_at_datetime_utc": "2025-12-13T07:16:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "samsung-research-america-intern-computer-vision-ai-mountain-view"
+      "id": "samsung-research-america-intern-computer-vision-ai-mountain-view",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-13T08:18:40.199Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:44:38.040Z",
     "postedAt": null
   },
   {
@@ -1019,16 +945,18 @@
       "employer_name": "Shure",
       "job_city": "Lake Grove",
       "job_state": "NY",
-      "job_description": "Join Shure in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>SUMMER 2026</strong></p> <p>Shure offers a challenging, fun and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns who are asked to relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed, and selected candidates will be contacted in late fall/early winter</p> <p>&nbsp;</p> <p>As the <strong>Electrical Engineering Intern (Digital Circuitry)</strong>, you will work under the close direction of senior staff on the design, implementation, and testing of electronic circuits for wireless microphones, signal processors, and conference systems.</p> <p><strong>This Internship is Onsite, based in our Niles, IL location.</strong></p> <h2>Responsibilities</h2> <ul> <li>Designing, simulating, and testing digital circuitry&nbsp;&nbsp;</li> <li>Developing printed circuit board assemblies&nbsp;</li> <li>Assembling prototypes&nbsp;</li> <li>Performing validation testing of circuits&nbsp;</li> <li>Circuit defect analysis and resolution&nbsp;</li> <li>Performing system/sub-system level tests&nbsp;</li> <li>Documentation&nbsp;</li> <li>Completing an independent design project&nbsp;</li> </ul> <h2>Qualifications</h2> <ul> <li>Two years of coursework in Electrical Engineering or a related area.&nbsp;</li> <li>Basic knowledge of digital logic circuits, embedded microcontrollers, analog-to-digital converters, digital-to-analog converters, DSPs, FPGAs, and other digital components.&nbsp;&nbsp;</li> <li>Basic knowledge of audio related circuits, audio systems, and audio measurement techniques.&nbsp;</li> <li>Basic knowledge of test equipment such as oscilloscopes, power supplies, and multimeters.&nbsp;</li> <li>Soldering and circuitry building or repair skills&nbsp;</li> <li>Ability to work independently with a high degree of accuracy and an attention to detail.&nbsp;</li> <li>Good communication skills and the ability to work well in a team&nbsp;</li> <li>Experience with schematic CAD software, PCB layout, and SPICE simulation software is a plus.&nbsp;</li> <li>Experience with programming languages or creating test scripts is a plus.&nbsp;</li> </ul> <p>&nbsp;</p> <p>Applicants for this position must be currently authorized to work in the United States on a full-time basis. Shure will not sponsor applicants for this position for work visas.</p> <p>&nbsp;</p> <p><strong>WHO WE ARE</strong></p> <p>Shure’s mission is to be the most trusted audio brand worldwide – and for over a century, our Core Values have aligned us to be just that. Founded in 1925, we are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get. We offer an Associate-first culture, flexible work arrangements, and opportunity for all.</p> <p>&nbsp;</p> <p>Shure is headquartered in United States. We have more than 35 regional sales offices, engineering hubs, distribution centers and manufacturing facilities throughout the Americas, EMEA, and Asia.</p> <p>&nbsp;</p> <p>Join Shure and <strong>Amplify Your Impact</strong>. Explore our unique culture and learn the key pillars that define our legacy of excellence.&nbsp;</p> <p>&nbsp;</p> <p><strong>THE MIX MATTERS</strong>Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!</p> <p>&nbsp;</p> <p><strong>PAY TRANSPARENCY</strong></p> <p>Modeled by extensive market analysis and economic best practices, Shure offers competitive intern compensation that is reviewed and adjusted annually by our Total Rewards Team to attract, hire, and retain the industry’s top intern talent. Each internship has an hourly rate which varies from $21-$40 per hour based on job function (Engineering, IT, Business, etc) and year completed in school (Junior, Masters 2nd year, PHD, etc).&nbsp;</p> <p>&nbsp;</p> <p><strong>WE GOT YOU - Our Benefits</strong></p> <p>At Shure, we prioritize the well-being of our associates. Benefits for our interns include retirement savings plans and paid time off, employee discounts, professional development opportunities, and work-life balance initiatives. To learn more, check out our <u>Intern Benefits At A Glance</u></p>",
       "job_apply_link": "https://careersus-shure.icims.com/jobs/4422/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-10T23:31:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "shure-electrical-engineering-intern-digital-circuitry-lake-grove"
+      "id": "shure-electrical-engineering-intern-digital-circuitry-lake-grove",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-14T03:32:46.782Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:44:38.040Z",
     "postedAt": null
   },
   {
@@ -1037,16 +965,18 @@
       "employer_name": "Barry-Wehmiller",
       "job_city": "Clayton",
       "job_state": "MO",
-      "job_description": "Join Barry-Wehmiller in this exciting opportunity.",
+      "job_description": "Throughout Barry-Wehmiller, we hold ourselves to a unique measure of success: by the way we touch the lives of people. It’s that vision that drives us in creating world-class experiences and solutions for our customers and unites us around our common goal—to use the power of our business to build a better world. Please click to view our: 📋 Career Privacy and Cookie Notice 📋 Website Terms and Conditions 🌐 Barry-Wehmiller (Corporate) 🌐 Design Group 🌐 BW Packaging 🌐 BW Converting 🌐 BW Papersystems 🌐 Alliance 🌐 BW Forsyth Partners 🌐 Afinitas 🌐 CARR Biosystems 🌐 Chapman &amp; Co. Leadership Institute 🌐 Cor Partners 🌐 Machine Solutions Inc. 🌐 WalkerHughes",
       "job_apply_link": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/BI-Data-Quality-Intern_R020297-1",
       "job_posted_at_datetime_utc": "2025-12-18T17:17:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "barry-wehmiller-bi-data-quality-intern-clayton"
+      "id": "barry-wehmiller-bi-data-quality-intern-clayton",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-21T23:44:38.040Z",
     "postedAt": null
   },
   {
@@ -4090,24 +4020,6 @@
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": null,
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Summer 2026 Data Analyst Intern-Irvine - CA",
-      "employer_name": "CoStar Group",
-      "job_city": "Irvine",
-      "job_state": "CA",
-      "job_description": "Join CoStar Group in this exciting opportunity.",
-      "job_apply_link": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Orange-County---CA/Summer-2026-Data-Analyst-Intern--Irvine--CA_R38009",
-      "job_posted_at_datetime_utc": "2025-12-13T02:52:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "5d",
-      "id": "costar-summer-2026-data-analyst-intern-irvine-ca-irvine"
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
-    "postedAt": "2025-12-21T23:36:52.893Z"
   },
   {
     "job": {
