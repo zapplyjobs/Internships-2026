@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T23:36:49.879Z",
+  "lastUpdated": "2025-12-21T23:45:05.742Z",
   "jobs": [
-    {
-      "id": "activision-blizzard-internship-technical-art-tech-art-canoga-park-2025-12-14-1",
-      "jobId": "activision-blizzard-internship-technical-art-tech-art-canoga-park",
-      "company": "Activision-Blizzard",
-      "title": "Internship - Technical Art - Tech Art",
-      "postedToDiscord": "2025-12-14T23:38:01.276Z",
-      "sourceDate": "2025-09-05T00:49:16.000Z",
-      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Woodland-Hills/XMLNAME-2026-US-Summer-Internships---Tech-Art_R025921",
-      "discordThreadId": "1449908312337420318",
-      "instanceNumber": 1
-    },
-    {
-      "id": "activision-blizzard-summer-internships-game-engineering-canoga-park-2025-12-14-1",
-      "jobId": "activision-blizzard-summer-internships-game-engineering-canoga-park",
-      "company": "Activision-Blizzard",
-      "title": "Summer Internships - Game Engineering",
-      "postedToDiscord": "2025-12-14T23:38:03.087Z",
-      "sourceDate": "2025-09-05T00:49:08.000Z",
-      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Playa-Vista/XMLNAME-2026-US-Summer-Internships---Game-Engineering_R025908",
-      "discordThreadId": "1449908319731847219",
-      "instanceNumber": 1
-    },
-    {
-      "id": "perpay-data-engineering-intern-multiple-teams-philadelphia-2025-12-14-1",
-      "jobId": "perpay-data-engineering-intern-multiple-teams-philadelphia",
-      "company": "Perpay",
-      "title": "Data Engineering Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-14T23:38:04.820Z",
-      "sourceDate": "2025-09-05T00:22:40.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
-      "discordThreadId": "1449908327051169935",
-      "instanceNumber": 1
-    },
-    {
-      "id": "drivetime-software-engineer-intern-tempe-2025-12-14-1",
-      "jobId": "drivetime-software-engineer-intern-tempe",
-      "company": "DriveTime",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-14T23:38:06.591Z",
-      "sourceDate": "2025-09-04T23:02:29.000Z",
-      "sourceUrl": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2026-_R13250-1",
-      "discordThreadId": "1449908334655438890",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rocket-lab-usa-flight-software-intern-summer-2026-littleton-2025-12-14-1",
-      "jobId": "rocket-lab-usa-flight-software-intern-summer-2026-littleton",
-      "company": "Rocket Lab USA",
-      "title": "Flight Software Intern Summer 2026",
-      "postedToDiscord": "2025-12-14T23:38:08.455Z",
-      "sourceDate": "2025-09-04T22:42:17.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/rocketlab/jobs/6732018003",
-      "discordThreadId": "1449908342322626761",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brunswick-mercury-marine-systems-software-engineering-co-op-fond-du-lac-2025-12-14-1",
-      "jobId": "brunswick-mercury-marine-systems-software-engineering-co-op-fond-du-lac",
-      "company": "Brunswick",
-      "title": "Mercury Marine – Systems/Software Engineering Co-op",
-      "postedToDiscord": "2025-12-14T23:38:10.318Z",
-      "sourceDate": "2025-09-04T21:39:41.000Z",
-      "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-047435",
-      "discordThreadId": "1449908350044082186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "activision-blizzard-2026-summer-internships-analytics-data-science-santa-monica-2025-12-14-1",
-      "jobId": "activision-blizzard-2026-summer-internships-analytics-data-science-santa-monica",
-      "company": "Activision-Blizzard",
-      "title": "2026 Summer Internships - Analytics & Data Science",
-      "postedToDiscord": "2025-12-14T23:38:16.973Z",
-      "sourceDate": "2025-09-05T00:49:09.000Z",
-      "sourceUrl": "https://activision.wd1.myworkdayjobs.com/External/job/Santa-Monica/XMLNAME-2026-US-Summer-Internships---Analytics---Data-Science_R025970",
-      "discordThreadId": "1449908370311086234",
-      "instanceNumber": 1
-    },
-    {
-      "id": "perpay-strategic-analytics-intern-strategic-analytics-philadelphia-2025-12-14-1",
-      "jobId": "perpay-strategic-analytics-intern-strategic-analytics-philadelphia",
-      "company": "Perpay",
-      "title": "Strategic Analytics Intern - Strategic Analytics",
-      "postedToDiscord": "2025-12-14T23:38:18.775Z",
-      "sourceDate": "2025-09-05T00:22:39.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076934007",
-      "discordThreadId": "1449908385570099472",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ingredion-data-scientist-intern-brookfield-2025-12-14-1",
-      "jobId": "ingredion-data-scientist-intern-brookfield",
-      "company": "Ingredion",
-      "title": "Data Scientist Intern",
-      "postedToDiscord": "2025-12-14T23:38:23.480Z",
-      "sourceDate": "2025-09-04T22:43:13.000Z",
-      "sourceUrl": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/Data-Scientist-Intern_Req-36014",
-      "discordThreadId": "1449908405685715135",
-      "instanceNumber": 1
-    },
     {
       "id": "brunswick-mercury-marine-systems-software-engineering-intern-fond-du-lac-2025-12-14-1",
       "jobId": "brunswick-mercury-marine-systems-software-engineering-intern-fond-du-lac",
@@ -9780,14 +9681,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4501164007",
       "discordThreadId": "1452444720688005212",
       "instanceNumber": 1
+    },
+    {
+      "id": "w-r-berkley-intern-software-developer-reactjs-grimes-2025-12-21-1",
+      "jobId": "w-r-berkley-intern-software-developer-reactjs-grimes",
+      "company": "W.R. Berkley",
+      "title": "Intern – Software Developer - Reactjs",
+      "postedToDiscord": "2025-12-21T23:44:48.835Z",
+      "sourceDate": "2025-09-11T18:30:22.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/12912/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452446727758938212",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snap-machine-learning-engineer-intern-palo-alto-2025-12-21-1",
+      "jobId": "snap-machine-learning-engineer-intern-palo-alto",
+      "company": "Snap",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2025-12-21T23:44:55.853Z",
+      "sourceDate": "2025-12-13T02:06:56.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Machine-Learning-Engineer-Intern--Summer-2026_R0043225-1",
+      "discordThreadId": "1452446758394138719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-cmg-learning-and-skill-development-san-bruno-2025-12-21-1",
+      "jobId": "genentech-intern-cmg-learning-and-skill-development-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - CMG Learning and Skill Development",
+      "postedToDiscord": "2025-12-21T23:44:59.306Z",
+      "sourceDate": "2025-12-13T02:49:54.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CMG-Learning-and-Skill-Development_202512-131309",
+      "discordThreadId": "1452446773451817091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-learning-skill-development-san-bruno-2025-12-21-1",
+      "jobId": "genentech-intern-learning-skill-development-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Learning & Skill Development",
+      "postedToDiscord": "2025-12-21T23:44:59.315Z",
+      "sourceDate": "2025-12-13T02:49:52.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Learning---Skill-Development_202512-131311",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "w-r-berkley-data-science-intern-chesterfield-2025-12-21-1",
+      "jobId": "w-r-berkley-data-science-intern-chesterfield",
+      "company": "W.R. Berkley",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-21T23:45:05.742Z",
+      "sourceDate": "2025-09-11T01:30:46.000Z",
+      "sourceUrl": "https://careers-berkley.icims.com/jobs/12551/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452446800664596623",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 889,
+    "totalJobs": 885,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T23:36:49.879Z",
+      "date": "2025-12-21T23:45:05.742Z",
       "archived": 0
     }
   }
