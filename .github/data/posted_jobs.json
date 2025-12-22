@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T19:44:45.350Z",
+  "lastUpdated": "2025-12-22T20:17:47.514Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10539,14 +10539,36 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608",
       "discordThreadId": "1452748703650676797",
       "instanceNumber": 1
+    },
+    {
+      "id": "barry-wehmiller-business-insights-developer-analyst-st-louis-2025-12-22-1",
+      "jobId": "barry-wehmiller-business-insights-developer-analyst-st-louis",
+      "company": "Barry-Wehmiller",
+      "title": "Business Insights Developer & Analyst",
+      "postedToDiscord": "2025-12-22T20:17:43.882Z",
+      "sourceDate": "2025-12-22T19:59:00.000Z",
+      "sourceUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Business-Insights-Developer---Analyst-Intern_R020332",
+      "discordThreadId": "1452757001284223200",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kensho-research-scientist-intern-cambridge-2025-12-22-1",
+      "jobId": "kensho-research-scientist-intern-cambridge",
+      "company": "Kensho",
+      "title": "Research Scientist Intern",
+      "postedToDiscord": "2025-12-22T20:17:47.514Z",
+      "sourceDate": "2025-12-22T19:34:51.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/New-York-NY/Research-Scientist---Summer-Intern-2026_319684",
+      "discordThreadId": "1452757018048987178",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 958,
+    "totalJobs": 960,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T19:44:45.350Z",
+      "date": "2025-12-22T20:17:47.514Z",
       "archived": 0
     }
   }
