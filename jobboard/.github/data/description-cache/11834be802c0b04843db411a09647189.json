@@ -1,0 +1,17 @@
+{
+  "url": "https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21226",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Location: UC Health Business Center - Hybrid Department: Digital Health Systems Hours: Full Time - 40 hours/week Shift: First",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21226",
+      "fetchedAt": "2025-12-22T19:17:52.368Z"
+    }
+  },
+  "cachedAt": 1766431072368
+}

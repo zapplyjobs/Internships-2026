@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "R&D Optics Intern",
-      "employer_name": "Alcon",
-      "job_city": "Fort Worth",
-      "job_state": "TX",
-      "job_description": "At Alcon, we are driven by the meaningful work we do to help people see brilliantly. We innovate boldly, champion progress, and act with speed as the global leader in eye care. Here, you’ll be recognized for your commitment and contributions and see your career like never before. Together, we go above and beyond to make an impact in the lives of our patients and customers.We foster an inclusive culture and are looking for diverse, talented people to join Alcon. As an R&D Optics Engineer Intern, you will have the opportunity to contribute to cutting-edge research and development projects that help shape the future of eye care. This internship is based at our Fort Worth, TX location.In this role, a typical day will include:Carry out extensive research in optical design and optical metrology using AI (Artificial Intelligence), primarily in accommodative and refractive correction research areas.Design proprietary optics optimized for human vision and provide reliable optical metrology for performance inspection.Plan, conduct, and execute IOL (Intraocular Lens)-related research and development under general supervision.Minimum Qualifications: Must be enrolled in an accredited university or college for at least one semester prior to the internship, and at least one additional semester following your internshipMust be pursuing a Masters or Ph.D. degree in Optics, Physics, Data Science, or Computer Science.Academic performance: Minimum cumulative GPA 2.8/4.0.Demonstrated leadership skills (i.e. extracurricular activities or projects).Must be authorized to work in the US on a permanent basis.  Students on an F1 visa with CPT work authorization may be accommodated.Ability to commit to a 10-12 weeks summer internship, full time (40 hrs./week) project .Preferred requirements:Experience with optical design, optical engineering, and optical software like Zemax or Code V.Experience with artificial intelligence.How to Thrive at Alcon:Manage your own workload and schedule while hitting your set targets.Build positive working relationships to achieve positive goals and business objectives.Balance experiencing new environments and working autonomously in a collaborative setting.Alcon provides robust benefits package including health, life, retirement, flexible time off for exempt associates, and much more!Alcon CareersSee your impact at alcon.com/careersATTENTION: Current Alcon Employee/Contingent WorkerIf you are currently an active employee/contingent worker at Alcon, please click the appropriate link below to apply on the Internal Career site.Find Jobs for EmployeesFind Jobs for Contingent WorkerALCON IS AN EQUAL OPPORTUNITY EMPLOYER AND PARTICIPATES IN E-VERIFYAlcon takes pride in maintaining an inclusive environment that values different perspectives and our policies are non-discriminatory in recruitment, hiring, training, promotion or other employment practices for reasons of race, color, religion, gender, national origin, age, sexual orientation, marital or veteran status, disability, or any other legally protected status. Alcon is also committed to working with and providing reasonable accommodation to individuals with disabilities. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please send an email to alcon.recruitment@alcon.com and let us know the nature of your request and your contact information.",
-      "job_apply_link": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Summer-2025---R-D-Optics-Intern_R-2025-44130",
-      "job_posted_at_datetime_utc": "2025-12-19T23:22:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "alcon-r-d-optics-intern-fort-worth",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T20:16:42.107Z",
-    "enrichedAt": "2025-12-22T18:50:46.371Z",
-    "postedAt": "2025-12-22T19:08:57.202Z"
-  },
-  {
-    "job": {
-      "job_title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
-      "employer_name": "Tencent",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Business UnitWhat the Role Entails1.Conduct research and development of Omni multimodal large models, including the design and construction of training data, foundational model algorithm design, optimization related to pre-training/SFT/RL, model capability evaluation, and exploration of downstream application scenarios.2.Scientifically analyze challenges in R&D, identify bottlenecks in model performance, and devise solutions based on first principles to accelerate model development and iteration, ensuring competitiveness and leading-edge performance.3.Explore diverse paradigms for achieving Omni-modal understanding and generation capabilities, research next-generation model architectures, and push the boundaries of multimodal models.Who We Look For1.Bachelor’s degree (full-time preferred) or higher in Computer Science, Artificial Intelligence, Mathematics, or related fields; graduate degrees are prioritized. 2.Hands-on experience in large-scale multimodal data processing and high-quality data generation is highly preferred.3.Solid foundation in deep learning algorithms and practical experience in large model development; familiarity with Diffusion Models and Autoregressive Models is advantageous. Publication in top-tier conferences or experience in cross-modal (e.g., audio-visual) research is preferred.4.Proficiency in underlying implementation details of deep learning networks and operators, model tuning for training/inference, CPU/GPU acceleration, and distributed training/inference optimization; practical experience is a plus.5.Participation in ACM or NOI competitions is highly valued.6.Strong learning agility, communication skills, teamwork, and curiosity.Location State(s)US-California-Palo AltoThe expected base pay range for this position in the location(s) listed above is $80,169.00 to $120,000.14 per year. Actual pay may vary depending on job-related knowledge, skills, and experience.\nThis position will be eligible for 1 hour of paid sick leave for every 30 hours worked and up to 13 paid holidays throughout the calendar year. Subject to the terms and conditions of the applicable plans then in effect, full-time interns are also eligible to enroll in the Company-sponsored medical plan.Equal Employment Opportunity at TencentAs an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.",
-      "job_apply_link": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
-      "job_posted_at_datetime_utc": "2025-12-22T02:20:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tencent-hunyuan-multimodal-algorithm-researcher-intern-omni-modal-palo-alto",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-22T02:51:01.207Z",
-    "enrichedAt": "2025-12-22T18:50:46.371Z",
-    "postedAt": "2025-12-22T19:08:57.202Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Intern - Summer 2026",
-      "employer_name": "Mercury Insurance",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "<h2>Overview</h2> <p><strong>Mercury Ignite.</strong></p> <p>Mercury Ignite – Your launchpad to a brighter career. Our summer internship program is a 12-week paid internship designed to allow students to gain practical work experience in the Insurance field.</p> <p>&nbsp;</p> <p><strong>Job Summary</strong>&nbsp;</p> <p>We are seeking curious, passionate, and hard-working students from quantitative academic fields to participate in our fully remote summer internship program. The program will be highly collaborative and immersive, with interns working on real business problems that can span multiple business units within the complex insurance landscape.</p> <p>&nbsp;</p> <p>But it won’t be all work! Mercury executives will host virtual lunch-and-learns with a small group of interns to discuss career aspirations, interns will get to meet Mercury people leaders and team members throughout the organization, and there will be a multitude of virtual social events.</p> <p>&nbsp;</p> <h2>Geo-Salary Information</h2> <p><strong><em>An in-person interview may be required during the hiring process</em></strong></p> <p>&nbsp;</p> <h2>Responsibilities</h2> <p><strong>Job Function</strong></p> <p>The R&amp;D Intern supports research initiatives and pricing strategy development for Mercury’s insurance offerings within a designated business line. Responsibilities include preparing and engineering data, conducting exploratory analyses, and assisting with modeling and segmentation efforts to enhance pricing precision and product differentiation. Interns work collaboratively throughout the program and deliver a capstone presentation to leadership upon completion.</p> <ul> <li>Utilizes Python/R/SQL/SAS or other software to extract, manipulate and analyze large sets of data in order to recommend improvements in our product pricing.</li> <li>Assists in predictive modeling projects and analyzing product performance under supervision and guidance; Tests new rating models to determine.</li> <li>accuracy of prediction, loss ratio improvement and segmentation.</li> <li>Performs primary field research, including customer, distribution, competitor and insurance department under supervision and guidance.</li> <li>Prepares reports, graphs, charts and presentations based on research and analysis</li> <li>Over the course of the summer, interns will ultimately build a minimum viable product (MVP) and have a “capstone” opportunity to present those findings to the Mercury leadership team.</li> <li>Other functions may be assigned</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p> <h2>Qualifications</h2> <p><strong>Education Requirements</strong>&nbsp;</p> <ul> <li>Be legally eligible to work in the U.S</li> <li>Currently pursuing a BS/BA/MS in a quantitative field (Statistics, Mathematics, Data Science, Engineering, Actuarial Science, Economics/Finance).</li> <li>Able to provide current GPA, as reported by your school. Minimum 3.0 GPA required, 3.5 or higher preferred.</li> <li>Ability to work 40 hours a week, 12-week internship, beginning in June 2026.</li> <li>Enrolled student attending a university program with an expected graduation date on or after August 2025</li> <li>Planning to seek full-time employment between December 2026 and September 2027</li> </ul> <p><strong>Preferred Experience:</strong></p> <ul> <li>Solid track record of academic excellence&nbsp;</li> <li>Strong commitment to teamwork, learning and collaboration.</li> <li>Academic or project experience in data manipulation and analysis using tools such as Python, R, SQL, SAS or equivalent</li> <li>Familiarity with modeling concepts such as GLMs, logistic regression, and gradient boosting algorithms</li> <li>Insurance coursework/projects; exposure to pricing/research workflows</li> </ul> <p><strong>Preferred Skills &amp; Abilities</strong>&nbsp;</p> <ul> <li>Excellent verbal and written communication</li> <li>Ability to manipulate and analyze data to address and solve business problems</li> <li>Willingness to independently learn and make an impact within a team environment</li> <li>Working knowledge of SQL and one language (Python or R); clear communication</li> <li>SAS familiarity, dashboarding tools (Power BI/Tableau), basic model validation techniques</li> <li>Proficient in Microsoft Office Suite</li> </ul> <h2>Physical Requirements</h2> <p><strong>Physical Actions</strong>&nbsp;</p> <p>Required job duties are essentially sedentary in nature, consisting of occasional walking, standing, lifting and/or carrying ten pounds maximum.</p> <h2>About the Company</h2> <p>#LI-ZK1</p> <h2>Perks and Benefits</h2> <p><strong>Why a Mercury Ignite internship</strong></p> <ul> <li>Obtain practical work experience in your field of interest</li> <li>Network with other interns and industry professionals</li> <li>Receive personalized coaching and mentorship</li> <li>Work on real projects and initiatives</li> <li>Earn a competitive wage</li> </ul> <p>If you’re interested in launching your career with Mercury Insurance - Apply today!</p> <p>&nbsp;</p> <p><strong>Mercury is an equal opportunity employer, committed to the strength of a diverse workforce. </strong></p> <h2>Pay Range</h2>USD $30.00 - USD $30.00 /Hr.",
-      "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5919/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-07T20:24:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mercury-insurance-r-d-intern-summer-2026-remote-in-usa",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-22T07:41:22.336Z",
-    "enrichedAt": "2025-12-22T18:50:46.371Z",
-    "postedAt": "2025-12-22T19:08:57.202Z"
-  },
-  {
-    "job": {
-      "job_title": "Survey Intern",
-      "employer_name": "Westwood",
-      "job_city": "Cherry Hills Village",
-      "job_state": "CO",
-      "job_description": "<h2>Overview</h2> <p><strong>Survey Intern</strong></p> <p><strong>Westwood Professional Services, Inc.</strong></p> <p>&nbsp;</p> <p><strong>Westwood Professional Services, Inc.</strong> &nbsp;is seeking a Survey Intern to join our team. Westwood has a highly experienced and dynamic team of individuals dedicated to providing high-level professional services to our clients</p> <h2>Duties and Responsibilities</h2> <ul> <li>Responsible for assisting the Crew Chief in the operation of a field survey crew</li> <li>The major objectives are the quality (accuracy, thoroughness, meeting regulatory requirements, public relations) of work, safety, and maintenance of equipment</li> <li>Must operate equipment, maintain safe work environment, protect and maintain the equipment and vehicles, accurately and efficiently collect field data and locate features</li> <li>Record accurate and clear surveying notes</li> <li>Requires a lot of walking outside year-round through all kinds of terrain and in extreme heat and cold</li> <li>Set wooden stakes and iron rods, cut and clear brush, trees, etc.</li> <li>Adhere to the company’s Safety, Quality Management and Equipment Maintenance policies</li> <li>Assisting Registered Professional Surveyors with CAD production, survey research, boundary analysis, easement preparations, legal descriptions, and computing survey points</li> <li>Coordinate and work with field crews and other office staff</li> </ul> <h2>Required Skills</h2> <ul> <li>Physically mobile in and around construction sites and field assignments</li> <li>Ability to carry survey equipment and supplies in remote, rural or urban surroundings</li> <li>Ability to lift 50 pounds and walk long distances</li> </ul> <h2>Required Experience</h2> <ul> <li>High school diploma or GED required</li> <li>Currently enrolled in an associates or bachelor’s degree program in Surveying, Engineering Technology, or related area of study</li> <li>Basic knowledge of AutoCAD Civil 3D for production activities</li> <li>Ability to manage multiple tasks, project coordination, maintain organizational structures, and interact with other design services</li> <li>Ability to perform in a fast-paced environment that is in a growth mode</li> <li>Strong listening, writing, and verbal communication skills</li> </ul> <h2>Preferred Experience</h2> <ul> <li>Knowledge of ALTA surveys, boundary analysis, topographic surveys, preparation of easement documents, legal descriptions, final plat preparation, construction staking</li> <li>Full use of Microsoft Office</li> <li>Familiar with GIS processes and terminology</li> <li>Prior experience with survey field work</li> </ul> <h2>Compensation Range Minimum</h2>USD $20.00/Hr. <h2>Compensation Range Maximum</h2>USD $26.00/Hr. <h2>About Westwood Professional Services, Inc. (Westwood)</h2> <p>At Westwood, our purpose is to create a better world for people through our work. We transform the energy grid, design resilient infrastructure, and develop communities that will flourish today and for future generations. With over 50 years of experience and a legacy of innovation, we stand at the forefront of our industry, dedicated to understanding the unique needs of the markets we serve.</p> <p>Our approach revolves around people. We are committed to building a culture that attracts, retains, and develops high performers. Our team values relationships, innovation, dedication, initiative, and growth. We believe fostering a collaborative “One Team” mentality yields superior outcomesin everything we do.</p> <p>&nbsp;</p> <p>We customize our technical capabilities and geographic reach to meet our clients where they are and help them realize their vision. We are partners in our clients’ success, driving to provide solutions that make a lasting difference. Safety, sustainability, and operational excellence are not just facets of our work; they are intrinsic to our identity, guiding every decision we make.</p> <p>&nbsp;</p> <p>We are deeply invested in the communities we serve. Through our projects and giving-back initiatives, we enrich the lives of those we serve, engage others within our industry, and create a lasting impact on communities around the world. To us, success transcends the completion of projects; it is reflected in the lives we have positively impacted by our work.</p> <p>&nbsp;</p> <p>Join us in creating a better world.</p> <p>&nbsp;</p> <p>In 2024, Zweig Group ranked Westwood nationally at #13 and #40, respectively, on its Hot Firms and Best Firms to Work for lists. Zweig also awarded Westwood one national 1st place award for Marketing Excellence. Westwood was recently recognized as #83 in the ENR Top 500 Firms in 2024. The firm consistently ranks on the industry's top 25 lists and receives recognition for its involvement in award-winning projects nationwide.</p> <p>&nbsp;</p> <p>Westwood provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. We believe that diverse backgrounds strengthen our business. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</p>",
-      "job_apply_link": "https://careers-westwoodps.icims.com/jobs/7343/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-10T22:42:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "westwood-survey-intern-cherry-hills-village",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-22T07:41:22.336Z",
-    "enrichedAt": "2025-12-22T18:50:46.371Z",
-    "postedAt": "2025-12-22T19:08:57.202Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Factory Digital Twin R&D Intern",
-      "employer_name": "NVIDIA",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "NVIDIA’s AI Factories rely on advanced physics-based digital twins to design, validate, and optimize cooling infrastructure for the next generation of accelerated computing. We are seeking a PhD-level intern to drive R&D in single-phase and two-phase cooling digital twin development, creating high-fidelity SimReady assets and contributing to the next wave of intelligent AI Factory infrastructure.What You Will Be Doing:Develop high-fidelity CFD and thermo-fluidic models for single-phase and two-phase cooling systems in data centers, including cold plates, immersion, air cooling, and facility liquid cooling systems.Build SimReady geometries and metadata for use in NVIDIA’s Omniverse platform using USD-based workflows.Use Cadence, ANSYS Fluent, STAR-CCM+, Flownex, or equivalent tools to build and validate digital twin components.Automate simulation workflows using Python, including parameter sweeps, sensitivity studies, multiphysics coupling, and surrogate model generation.Chip in to multi-domain digital twins spanning thermal, mechanical, electrical, and control systems.Integrate simulation data with Omniverse extensions and collaborate on R&D-grade digital twin workflows.Work with the entire NVIDIA Data Center Engineering (DCE) team across cooling, power, controls, and architecture.Validate simulations with lab and field data and define performance envelopes for cooling technologies.What We Need to See:Pursuing PhD in Mechanical Engineering, Thermal Sciences, Computational Engineering, or closely related field.Solid understanding of thermofluid dynamics, single- and two-phase heat transfer, and data center cooling systems.Experience with CFD tools such as Cadence, Ansys Fluent, STAR-CCM+, or similar.Experience with flow network modeling tools such as Flownex.Strong programming ability in Python.Experience with USD, SimReady standards, or Omniverse workflows.Ways to Stand Out from the crowd:Experience in two-phase digital twin modeling familiarity with predictive digital twins or integrating ML/AI with physics-based models.Experience developing custom Omniverse extensions or simulation automation tools.Publications or research in thermal management or digital twins.NVIDIA is widely recognized as one of the technology industry’s most desirable employers, with some of the most forward-thinking and dedicated people in the world. If you’re creative, autonomous, and driven, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 30 USD - 94 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until December 22, 2025.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349",
-      "job_posted_at_datetime_utc": "2025-12-22T10:13:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nvidia-ai-factory-digital-twin-r-d-intern-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-22T10:17:08.889Z",
-    "enrichedAt": "2025-12-22T18:50:46.371Z",
-    "postedAt": "2025-12-22T19:08:57.202Z"
-  },
-  {
-    "job": {
       "job_title": "AI Factory Cooling R&D Intern",
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-22T10:17:08.889Z",
     "enrichedAt": "2025-12-22T18:59:58.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:18:19.611Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-22T17:46:31.942Z",
     "enrichedAt": "2025-12-22T18:59:58.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:18:19.611Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-22T17:46:31.942Z",
     "enrichedAt": "2025-12-22T18:59:58.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:18:19.611Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-22T17:46:31.942Z",
     "enrichedAt": "2025-12-22T18:59:58.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:18:19.611Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-22T17:46:31.942Z",
     "enrichedAt": "2025-12-22T18:59:58.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:18:19.611Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "UC Health",
       "job_city": "Cincinnati",
       "job_state": "OH",
-      "job_description": "Join UC Health in this exciting opportunity.",
+      "job_description": "Location: UC Health Business Center - Hybrid Department: Digital Health Systems Hours: Full Time - 40 hours/week Shift: First",
       "job_apply_link": "https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21226",
       "job_posted_at_datetime_utc": "2025-10-30T07:57:44.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "uc-health-digital-health-systems-co-op-student-cincinnati"
+      "id": "uc-health-digital-health-systems-co-op-student-cincinnati",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T19:08:02.783Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T19:17:52.368Z",
     "postedAt": null
   }
 ]
