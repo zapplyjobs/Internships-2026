@@ -8545,5 +8545,104 @@
     "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
     "discordThreadId": "1450022823530729654",
     "instanceNumber": 1
+  },
+  {
+    "id": "freddie-mac-multifamily-software-development-intern-mclean-2025-12-15-1",
+    "jobId": "freddie-mac-multifamily-software-development-intern-mclean",
+    "company": "Freddie Mac",
+    "title": "Multifamily Software Development Intern",
+    "postedToDiscord": "2025-12-15T07:27:10.599Z",
+    "sourceDate": "2025-08-21T14:06:10.000Z",
+    "sourceUrl": "https://freddiemac.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Multifamily-Software-Development-Intern_JR15981",
+    "discordThreadId": "1450026379331768361",
+    "instanceNumber": 1
+  },
+  {
+    "id": "qorvo-software-characterization-engineering-intern-greensboro-2025-12-15-1",
+    "jobId": "qorvo-software-characterization-engineering-intern-greensboro",
+    "company": "Qorvo",
+    "title": "Software Characterization Engineering Intern",
+    "postedToDiscord": "2025-12-15T07:27:12.351Z",
+    "sourceDate": "2025-08-20T20:51:53.000Z",
+    "sourceUrl": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Engineering-Intern-NC-27409/1318261400/?ats=successfactors",
+    "discordThreadId": "1450026386646503494",
+    "instanceNumber": 1
+  },
+  {
+    "id": "seagate-technology-summer-intern-software-engineer-shakopee-2025-12-15-1",
+    "jobId": "seagate-technology-summer-intern-software-engineer-shakopee",
+    "company": "Seagate Technology ",
+    "title": "Summer Intern - Software Engineer",
+    "postedToDiscord": "2025-12-15T07:27:14.028Z",
+    "sourceDate": "2025-08-20T20:33:27.000Z",
+    "sourceUrl": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100/?ats=successfactors",
+    "discordThreadId": "1450026393294475286",
+    "instanceNumber": 1
+  },
+  {
+    "id": "emerson-software-development-co-op-elyria-2025-12-15-1",
+    "jobId": "emerson-software-development-co-op-elyria",
+    "company": "Emerson",
+    "title": "Software Development Co-op",
+    "postedToDiscord": "2025-12-15T07:27:15.805Z",
+    "sourceDate": "2025-08-20T13:23:51.000Z",
+    "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024741",
+    "discordThreadId": "1450026400768851968",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-intern-iaas-ai-infra-seattle-2025-12-15-1",
+    "jobId": "bytedance-research-intern-iaas-ai-infra-seattle",
+    "company": "ByteDance",
+    "title": "Research Intern (IaaS AI Infra)",
+    "postedToDiscord": "2025-12-15T07:27:17.616Z",
+    "sourceDate": "2025-08-20T13:13:46.000Z",
+    "sourceUrl": "https://joinbytedance.com/search/7537118884496312584",
+    "discordThreadId": "1450026408330920087",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-intern-iaas-ai-infra-san-jose-2025-12-15-1",
+    "jobId": "bytedance-research-intern-iaas-ai-infra-san-jose",
+    "company": "ByteDance",
+    "title": "Research Intern (IaaS AI Infra)",
+    "postedToDiscord": "2025-12-15T07:27:17.623Z",
+    "sourceDate": "2025-08-20T13:11:21.000Z",
+    "sourceUrl": "https://joinbytedance.com/search/7537121176616847624",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "church-dwight-master-s-data-science-co-op-ewing-2025-12-15-1",
+    "jobId": "church-dwight-master-s-data-science-co-op-ewing",
+    "company": "Church & Dwight",
+    "title": "Master's Data Science Co-op",
+    "postedToDiscord": "2025-12-15T07:27:22.439Z",
+    "sourceDate": "2025-08-21T14:03:15.000Z",
+    "sourceUrl": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/XMLNAME-2026-Master-s-Data-Science-Co-op_R2025-14136",
+    "discordThreadId": "1450026428782612648",
+    "instanceNumber": 1
+  },
+  {
+    "id": "astera-labs-applied-ai-engineer-intern-san-jose-2025-12-15-1",
+    "jobId": "astera-labs-applied-ai-engineer-intern-san-jose",
+    "company": "Astera Labs",
+    "title": "Applied AI Engineer Intern",
+    "postedToDiscord": "2025-12-15T07:27:27.345Z",
+    "sourceDate": "2025-08-20T13:06:10.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/asteraearlycareer/jobs/4598303005",
+    "discordThreadId": "1450026449104015453",
+    "instanceNumber": 1
+  },
+  {
+    "id": "coco-robotics-ml-engineer-internship-los-angeles-2025-12-15-1",
+    "jobId": "coco-robotics-ml-engineer-internship-los-angeles",
+    "company": "COCO Robotics",
+    "title": "ML Engineer Internship",
+    "postedToDiscord": "2025-12-15T07:27:30.741Z",
+    "sourceDate": "2025-08-20T13:04:34.000Z",
+    "sourceUrl": "https://jobs.ashbyhq.com/cocodelivery/16c75d81-08af-4d95-8dfe-15fc0516b57a",
+    "discordThreadId": "1450026456536191040",
+    "instanceNumber": 1
   }
 ]
