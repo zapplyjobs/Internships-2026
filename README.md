@@ -123,7 +123,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 1d |
-| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 2d |
+| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 3d |
 | Data Science: Intern Opportunities | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649486) | 3d |
 | Data Science PhD Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 3d |
 | Research Intern - LLM Performance Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 3d |
