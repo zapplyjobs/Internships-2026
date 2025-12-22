@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 124</em></p>
+<p><em>Real-time opportunities from 123</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-232-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-124-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-229-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-123-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 124+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 232+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 123+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 229+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 232 internships & new grad roles  
-🏢 **Top Companies:** 124 elite tech companies hiring  
+🔥 **Current Opportunities:** 229 internships & new grad roles  
+🏢 **Top Companies:** 123 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 7 premium opportunities  
 📅 **Last Updated:** December 22, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1831 (older than 1 week)
+📁 **Archived Opportunities:** 1827 (older than 1 week)
 
 
 ---
@@ -185,14 +185,14 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 208 | 90% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 205 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 19 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Remote in USA, Locations**: 20 opportunities
+- **Remote in USA, Locations**: 18 opportunities
 - **Mountain View, CA**: 16 opportunities
 - **Milpitas, CA**: 13 opportunities
 - **San Jose, CA**: 12 opportunities
@@ -205,7 +205,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 232+ verified internships and new grad roles from 124 top companies.
+✅ **100% Real Opportunities:** 229+ verified internships and new grad roles from 123 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -257,13 +257,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1831 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1827 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1831 roles
-- **🏢 Companies**: 124 companies  
+- **📁 Total Positions**: 1827 roles
+- **🏢 Companies**: 123 companies  
 - **⭐ FAANG+ Opportunities**: 80 positions
 
 ### ⭐ **FAANG+** (80 positions)
@@ -593,7 +593,7 @@ No companies available
 
 <div align="center">
 
-**🎯 232 current opportunities from 124 top companies.**
+**🎯 229 current opportunities from 123 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
