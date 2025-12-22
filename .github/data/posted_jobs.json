@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:31:24.772Z",
+  "lastUpdated": "2025-12-22T10:43:57.917Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9648,14 +9648,69 @@
       "sourceUrl": "https://curriculumassociates.wd5.myworkdayjobs.com/External/job/US-Remote/Psychometric-and-Research-Intern_JR04709",
       "discordThreadId": "1452609451365503028",
       "instanceNumber": 1
+    },
+    {
+      "id": "pony-ai-mle-intern-ml-runtime-optimization-spring-2026-fremont-2025-12-22-1",
+      "jobId": "pony-ai-mle-intern-ml-runtime-optimization-spring-2026-fremont",
+      "company": "pony.ai",
+      "title": "MLE Intern - ML Runtime & Optimization - Spring 2026",
+      "postedToDiscord": "2025-12-22T10:43:35.380Z",
+      "sourceDate": "2025-12-18T23:23:14.000Z",
+      "sourceUrl": "https://apply.workable.com/pony-dot-ai/j/A8F27ED11C/apply",
+      "discordThreadId": "1452612515623206913",
+      "instanceNumber": 1
+    },
+    {
+      "id": "learfield-amplify-marketing-data-intern-irvine-2025-12-22-1",
+      "jobId": "learfield-amplify-marketing-data-intern-irvine",
+      "company": "Learfield Amplify",
+      "title": "Marketing Data Intern",
+      "postedToDiscord": "2025-12-22T10:43:41.980Z",
+      "sourceDate": "2025-12-18T23:33:24.000Z",
+      "sourceUrl": "https://learfield.wd5.myworkdayjobs.com/en-US/Learfield/job/Irvine-CA/Marketing-Data-Intern_R100917-1",
+      "discordThreadId": "1452612543418732571",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-machine-learning-engineer-intern-opportunities-for-university-students-redmond-redmond-2025-12-22-1",
+      "jobId": "microsoft-machine-learning-engineer-intern-opportunities-for-university-students-redmond-redmond",
+      "company": "Microsoft",
+      "title": "Machine Learning Engineer: Intern Opportunities for University Students - Redmond",
+      "postedToDiscord": "2025-12-22T10:43:50.891Z",
+      "sourceDate": "2025-12-18T23:32:55.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
+      "discordThreadId": "1452612571172438046",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-video-recommendation-2026-summer-san-jose-2025-12-22-1",
+      "jobId": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-video-recommendation-2026-summer-san-jose",
+      "company": "TikTok",
+      "title": "General Hire – Machine Learning Engineer Intern - Tiktok-Video Recommendation - 2026 Summer",
+      "postedToDiscord": "2025-12-22T10:43:54.288Z",
+      "sourceDate": "2025-12-18T23:23:54.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7585114089765947701",
+      "discordThreadId": "1452612595101073617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xometry-data-science-intern-north-bethesda-2025-12-22-1",
+      "jobId": "xometry-data-science-intern-north-bethesda",
+      "company": "Xometry",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-22T10:43:57.917Z",
+      "sourceDate": "2025-12-18T23:22:13.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xometry/jobs/5007962007",
+      "discordThreadId": "1452612609965559818",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 877,
+    "totalJobs": 882,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T10:31:24.772Z",
+      "date": "2025-12-22T10:43:57.917Z",
       "archived": 0
     }
   }
