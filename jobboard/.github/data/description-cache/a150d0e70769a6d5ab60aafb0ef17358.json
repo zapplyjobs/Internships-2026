@@ -1,0 +1,16 @@
+{
+  "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer---AI-Driven-IT-Ops---Intern_R106286",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "About the Hiring TeamTencent Overseas IT has the mission to empower Tencent’s rapid global growth with future ready, global IT platforms, applications and services. We are chartered to lead the Overseas IT strategy, architecture, roadmap and execution. Satisfying our internal/external customers and becoming a world class global IT team are our top aspirations.What the Role EntailsJoin Tencent’s Overseas IT team to help build the next-generation AI-driven intelligent operations platform. You’ll work with cutting-edge AI, automation, and enterprise integration technologies in a global, fast-paced environment.● Support internal AI application development with RAG (Retrieval-Augmented Generation) and multi-agent workflows● Assist in building the enterprise knowledge retrieval layer (document cleaning, embedding pipelines, hybrid search)● Contribute to GraphRAG design combining CMDB, dependency topology, and knowledge graph modeling● Help integrate enterprise APIs (ServiceNow, Workday, Microsoft Graph, etc.)● Participate in testing, CI/CD automation, and performance tuningWho We Look For● Master’s student or recent graduate in Computer Science, Information Systems, or related field● Proficient in at least one backend language (Python / Go / Node.js / Java)● Familiar with modern frontend frameworks (Next.js / Vue / React) and TypeScript● Knowledge of databases (MySQL / PostgreSQL / NoSQL) and Git workflows● Understanding or project experience with AI apps, RAG, or agent frameworks● Strong communication skills and ability to collaborate in EnglishNice-to-Haves● Experience with LangChain, LlamaIndex, or Autogen● Familiarity with Kubernetes, Docker, Prometheus, or Grafana● Academic research, open-source, or AI project experienceLocation State(s)US-California-Palo AltoThe expected base pay range for this position in the location(s) listed above is $27.00 to $57.70 per hour. Actual pay may vary depending on job-related knowledge, skills, and experience.\nThis position will be eligible for 1 hour of paid sick leave for every 30 hours worked and up to 13 paid holidays throughout the calendar year. Subject to the terms and conditions of the applicable plans then in effect, full-time interns are also eligible to enroll in the Company-sponsored medical plan.Equal Employment Opportunity at TencentAs an equal opportunity employer, we firmly believe that diverse voices fuel our innovation and allow us to better serve our users and the community. We foster an environment where every employee of Tencent feels supported and inspired to achieve individual and common goals.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer---AI-Driven-IT-Ops---Intern_R106286",
+      "fetchedAt": "2025-12-22T09:30:46.213Z"
+    }
+  },
+  "cachedAt": 1766395846213
+}
