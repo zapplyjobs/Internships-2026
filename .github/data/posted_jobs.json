@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:17:49.588Z",
+  "lastUpdated": "2025-12-22T10:31:24.772Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9593,14 +9593,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/cobot/ea1b59f7-0852-4ab8-944c-e302e63541bc/application",
       "discordThreadId": "1452606032755953796",
       "instanceNumber": 1
+    },
+    {
+      "id": "hearst-kmbc-studio-productions-intern-kansas-city-2025-12-22-1",
+      "jobId": "hearst-kmbc-studio-productions-intern-kansas-city",
+      "company": "Hearst",
+      "title": "KMBC Studio Productions Intern",
+      "postedToDiscord": "2025-12-22T10:31:05.731Z",
+      "sourceDate": "2025-12-19T02:13:18.000Z",
+      "sourceUrl": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2025662",
+      "discordThreadId": "1452609371866398802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "accuweather-forecasting-intern-wichita-2025-12-22-1",
+      "jobId": "accuweather-forecasting-intern-wichita",
+      "company": "AccuWeather",
+      "title": "Forecasting Intern",
+      "postedToDiscord": "2025-12-22T10:31:11.157Z",
+      "sourceDate": "2025-12-19T00:15:12.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7485143",
+      "discordThreadId": "1452609386500460564",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dairyland-power-cooperative-intern-right-of-way-gis-la-crosse-wi-winona-2025-12-22-1",
+      "jobId": "dairyland-power-cooperative-intern-right-of-way-gis-la-crosse-wi-winona",
+      "company": "Dairyland Power Cooperative",
+      "title": "Intern Right of Way GIS - La Crosse - WI",
+      "postedToDiscord": "2025-12-22T10:31:14.736Z",
+      "sourceDate": "2025-12-18T23:35:57.000Z",
+      "sourceUrl": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--Right-of-Way-GIS--La-Crosse--WI-_JR100852",
+      "discordThreadId": "1452609409225330839",
+      "instanceNumber": 1
+    },
+    {
+      "id": "national-renewable-energy-laboratory-graduate-intern-geospatial-data-science-modeling-and-analysis-golden-2025-12-22-1",
+      "jobId": "national-renewable-energy-laboratory-graduate-intern-geospatial-data-science-modeling-and-analysis-golden",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Graduate Intern Geospatial Data Science Modeling and Analysis",
+      "postedToDiscord": "2025-12-22T10:31:21.258Z",
+      "sourceDate": "2025-12-19T02:40:36.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14104",
+      "discordThreadId": "1452609436786098239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "curriculum-associates-psychometric-and-research-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "curriculum-associates-psychometric-and-research-intern-remote-in-usa",
+      "company": "Curriculum Associates",
+      "title": "Psychometric and Research Intern",
+      "postedToDiscord": "2025-12-22T10:31:24.772Z",
+      "sourceDate": "2025-12-18T23:34:01.000Z",
+      "sourceUrl": "https://curriculumassociates.wd5.myworkdayjobs.com/External/job/US-Remote/Psychometric-and-Research-Intern_JR04709",
+      "discordThreadId": "1452609451365503028",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 872,
+    "totalJobs": 877,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T10:17:49.588Z",
+      "date": "2025-12-22T10:31:24.772Z",
       "archived": 0
     }
   }
