@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T18:04:20.905Z",
+  "lastUpdated": "2025-12-22T18:18:52.455Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10088,14 +10088,69 @@
       "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Kilgore-Road/AI---Digital-Manufacturing-Intern_JR00019671-1",
       "discordThreadId": "1452723426015051888",
       "instanceNumber": 1
+    },
+    {
+      "id": "airbnb-strategic-finance-analytics-intern-mba-remote-in-usa-2025-12-22-1",
+      "jobId": "airbnb-strategic-finance-analytics-intern-mba-remote-in-usa",
+      "company": "Airbnb",
+      "title": "Strategic Finance & Analytics Intern - MBA",
+      "postedToDiscord": "2025-12-22T18:18:32.088Z",
+      "sourceDate": "2025-12-19T23:26:01.000Z",
+      "sourceUrl": "https://careers.airbnb.com/positions/7488879?gh_jid=7488879",
+      "discordThreadId": "1452727006558027838",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dematic-analytics-intern-grand-rapids-2025-12-22-1",
+      "jobId": "dematic-analytics-intern-grand-rapids",
+      "company": "Dematic",
+      "title": "Analytics Intern",
+      "postedToDiscord": "2025-12-22T18:18:35.568Z",
+      "sourceDate": "2025-12-19T23:22:17.000Z",
+      "sourceUrl": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/Analytics-Internship_JR-0084074",
+      "discordThreadId": "1452727021116461172",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-software-engineer-intern-opportunities-for-university-students-mountain-view-mountain-view-2025-12-22-1",
+      "jobId": "microsoft-software-engineer-intern-opportunities-for-university-students-mountain-view-mountain-view",
+      "company": "Microsoft",
+      "title": "Software Engineer: Intern Opportunities for University Students - Mountain View",
+      "postedToDiscord": "2025-12-22T18:18:39.050Z",
+      "sourceDate": "2025-12-19T23:22:02.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641981",
+      "discordThreadId": "1452727035926413362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hub-international-data-analyst-intern-cincinnati-2025-12-22-1",
+      "jobId": "hub-international-data-analyst-intern-cincinnati",
+      "company": "HUB International",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2025-12-22T18:18:45.657Z",
+      "sourceDate": "2025-12-19T23:30:48.000Z",
+      "sourceUrl": "https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Cincinnati-OH/Data-Analyst-Intern_R0033685",
+      "discordThreadId": "1452727063151771768",
+      "instanceNumber": 1
+    },
+    {
+      "id": "procter-gamble-p-g-r-d-phd-intern-machine-learning-ai-mason-2025-12-22-1",
+      "jobId": "procter-gamble-p-g-r-d-phd-intern-machine-learning-ai-mason",
+      "company": "Procter & Gamble (P&G)",
+      "title": "R&D PhD Intern - Machine Learning / AI",
+      "postedToDiscord": "2025-12-22T18:18:52.455Z",
+      "sourceDate": "2025-12-19T23:28:07.000Z",
+      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---Machine-Learning---AI_R000142684",
+      "discordThreadId": "1452727091203149864",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 917,
+    "totalJobs": 922,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T18:04:20.905Z",
+      "date": "2025-12-22T18:18:52.455Z",
       "archived": 0
     }
   }
