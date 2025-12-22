@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556649486",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Formulate approaches to solve problems using well defined algorithms and data sources. Incorporate an understanding of product functionality and customer perspective to provide context for those problems. Use data exploration techniques to discover new questions or opportunities within your problem area and propose applicability and limitations of the data. Interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve. Engage with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers. Participate in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results. Currently pursuing a Bachelor&#39;s Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. Must have at least one additional quarter/semester of school remaining following the completion of the internship. Candidate must be enrolled in a full time bachelor&#39;s, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before their internship. Currently pursuing a Master&#39;s Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc. Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#. Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS. Some experience and or project course work with product and service telemetry systems. Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.). Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556649486",
+      "fetchedAt": "2025-12-22T03:24:57.414Z"
+    }
+  },
+  "cachedAt": 1766373897414
+}
