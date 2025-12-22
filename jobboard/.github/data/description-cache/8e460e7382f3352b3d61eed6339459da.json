@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8632",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "We’re seeking an AI Development Intern to support the creation and optimization of our AI initiatives. This role involves hands-on coding, vibe-coding, managing large-scale datasets, and contributing to existing codebases. Ideal candidates are curious, technically sharp, and comfortable working in fast-paced, experimental development environments.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8632",
+      "fetchedAt": "2025-12-22T08:03:41.003Z"
+    }
+  },
+  "cachedAt": 1766390621003
+}

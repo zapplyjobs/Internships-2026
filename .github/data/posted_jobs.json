@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T07:56:25.136Z",
+  "lastUpdated": "2025-12-22T08:04:08.435Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -8988,14 +8988,69 @@
       "sourceUrl": "https://www.weareroku.com/jobs/7460693?gh_jid=7460693",
       "discordThreadId": "1452570445898321981",
       "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-ai-research-intern-wireless-perception-pittsburgh-2025-12-22-1",
+      "jobId": "robert-bosch-venture-capital-ai-research-intern-wireless-perception-pittsburgh",
+      "company": "Robert Bosch Venture Capital",
+      "title": "AI Research Intern - Wireless Perception",
+      "postedToDiscord": "2025-12-22T08:03:51.975Z",
+      "sourceDate": "2025-12-15T23:24:13.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000099047716",
+      "discordThreadId": "1452572320328843452",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roku-software-engineer-intern-austin-2025-12-22-1",
+      "jobId": "roku-software-engineer-intern-austin",
+      "company": "Roku",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T08:03:58.435Z",
+      "sourceDate": "2025-12-15T23:30:59.000Z",
+      "sourceUrl": "https://www.weareroku.com/jobs/7460655?gh_jid=7460655",
+      "discordThreadId": "1452572347486830706",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roku-software-engineer-intern-boston-2025-12-22-1",
+      "jobId": "roku-software-engineer-intern-boston",
+      "company": "Roku",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T08:03:58.443Z",
+      "sourceDate": "2025-12-15T23:30:56.000Z",
+      "sourceUrl": "https://www.weareroku.com/jobs/7460657?gh_jid=7460657",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-intern-machine-learning-security-applied-ml-fault-injection-santa-rosa-2025-12-22-1",
+      "jobId": "keysight-intern-machine-learning-security-applied-ml-fault-injection-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Intern – Machine Learning Security - Applied ML & Fault Injection",
+      "postedToDiscord": "2025-12-22T08:04:01.843Z",
+      "sourceDate": "2025-12-15T23:30:11.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/51102?lang=en-us&icims=1",
+      "discordThreadId": "1452572361357529283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-pittsburgh-2025-12-22-1",
+      "jobId": "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-pittsburgh",
+      "company": "Carnegie Mellon University",
+      "title": "Enabling Mission Capability at Scale Intern",
+      "postedToDiscord": "2025-12-22T08:04:08.435Z",
+      "sourceDate": "2025-12-15T23:30:14.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/EMCS-Intern_2023975",
+      "discordThreadId": "1452572388725231656",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 817,
+    "totalJobs": 822,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T07:56:25.136Z",
+      "date": "2025-12-22T08:04:08.435Z",
       "archived": 0
     }
   }
