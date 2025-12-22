@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T04:34:39.719Z",
+  "lastUpdated": "2025-12-22T04:54:12.499Z",
   "jobs": [
-    {
-      "id": "ember-ai-full-stack-engineering-intern-san-francisco-2025-12-15-1",
-      "jobId": "ember-ai-full-stack-engineering-intern-san-francisco",
-      "company": "Ember AI",
-      "title": "Full Stack Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:49:39.811Z",
-      "sourceDate": "2025-08-29T20:38:33.000Z",
-      "sourceUrl": "https://app.dover.com/apply/Ember%20AI/527d1d2a-dc8e-40ce-af14-788a1ff12b13/?rs=76643084",
-      "discordThreadId": "1449986739623035012",
-      "instanceNumber": 1
-    },
-    {
-      "id": "anvil-software-engineer-intern-summer-2025-new-york-2025-12-15-1",
-      "jobId": "anvil-software-engineer-intern-summer-2025-new-york",
-      "company": "Anvil",
-      "title": "Software Engineer Intern, Summer 2025",
-      "postedToDiscord": "2025-12-15T04:49:41.734Z",
-      "sourceDate": "2025-08-29T20:35:39.000Z",
-      "sourceUrl": "https://jobs.gem.com/joinanvil-com/am9icG9zdDphdmPRq61s6g0NSoCDzFz_",
-      "discordThreadId": "1449986747235569734",
-      "instanceNumber": 1
-    },
-    {
-      "id": "first-national-bank-ai-and-innovation-intern-pittsburgh-2025-12-15-1",
-      "jobId": "first-national-bank-ai-and-innovation-intern-pittsburgh",
-      "company": "First National Bank",
-      "title": "AI and Innovation Intern",
-      "postedToDiscord": "2025-12-15T04:49:43.416Z",
-      "sourceDate": "2025-08-29T20:32:22.000Z",
-      "sourceUrl": "https://fnbcorp.wd501.myworkdayjobs.com/en-US/fnbcorp/job/Pittsburgh-PA/Summer-2026-AI-and-Innovation-Intern_2025-02086",
-      "discordThreadId": "1449986754483454115",
-      "instanceNumber": 1
-    },
-    {
-      "id": "newrez-software-engineering-coppell-2025-12-15-1",
-      "jobId": "newrez-software-engineering-coppell",
-      "company": "Newrez",
-      "title": "Software Engineering",
-      "postedToDiscord": "2025-12-15T04:49:45.249Z",
-      "sourceDate": "2025-08-29T20:19:27.000Z",
-      "sourceUrl": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2026-Summer-Internship---Software-Engineering_R8395",
-      "discordThreadId": "1449986762305703969",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kingland-advanced-software-engineering-intern-ames-2025-12-15-1",
-      "jobId": "kingland-advanced-software-engineering-intern-ames",
-      "company": "Kingland",
-      "title": "Advanced Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:49:46.984Z",
-      "sourceDate": "2025-08-29T20:16:39.000Z",
-      "sourceUrl": "https://recruiting2.ultipro.com/KIN1010KNGL/JobBoard/f915a6d0-9b98-4b5e-992b-83828a3d66d6/OpportunityDetail?opportunityId=f6072d74-9ed1-4eab-9525-8b0551691787",
-      "discordThreadId": "1449986769821896818",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-software-engineering-intern-richardson-2025-12-15-1",
-      "jobId": "qorvo-software-engineering-intern-richardson",
-      "company": "Qorvo",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:49:48.794Z",
-      "sourceDate": "2025-08-29T19:02:18.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75081/1321539500/",
-      "discordThreadId": "1449986777312919593",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-software-engineer-intern-austin-2025-12-15-1",
-      "jobId": "caci-software-engineer-intern-austin",
-      "company": "CACI",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T04:49:50.456Z",
-      "sourceDate": "2025-08-29T15:56:11.000Z",
-      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Software-Engineer-Intern---Summer-2026_316653",
-      "discordThreadId": "1449986784518869004",
-      "instanceNumber": 1
-    },
-    {
-      "id": "verkada-security-software-engineering-intern-san-mateo-2025-12-15-1",
-      "jobId": "verkada-security-software-engineering-intern-san-mateo",
-      "company": "Verkada",
-      "title": "Security Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:49:56.963Z",
-      "sourceDate": "2025-08-29T18:58:46.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4842371007",
-      "discordThreadId": "1449986804533956640",
-      "instanceNumber": 1
-    },
-    {
-      "id": "thomson-reuters-applied-scientist-intern-minneapolis-2025-12-15-1",
-      "jobId": "thomson-reuters-applied-scientist-intern-minneapolis",
-      "company": "Thomson Reuters",
-      "title": "Applied Scientist Intern",
-      "postedToDiscord": "2025-12-15T04:49:58.704Z",
-      "sourceDate": "2025-08-29T17:16:03.000Z",
-      "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Applied-Scientist-Intern---Summer-2026_JREQ194277",
-      "discordThreadId": "1449986818870350046",
-      "instanceNumber": 1
-    },
     {
       "id": "qorvo-software-engineering-intern-apopka-2025-12-15-1",
       "jobId": "qorvo-software-engineering-intern-apopka",
@@ -9395,14 +9296,69 @@
       "sourceUrl": "https://jobs.lever.co/tri/780ce1ec-3c38-4cc2-9293-2ab9860c65ae/apply",
       "discordThreadId": "1452519671873142785",
       "instanceNumber": 1
+    },
+    {
+      "id": "altom-transport-software-development-intern-chicago-2025-12-22-1",
+      "jobId": "altom-transport-software-development-intern-chicago",
+      "company": "Altom Transport",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-22T04:53:55.852Z",
+      "sourceDate": "2025-12-17T23:09:43.000Z",
+      "sourceUrl": "https://apply.workable.com/altom-transport/j/BE9AAEBC87/apply",
+      "discordThreadId": "1452524517770399878",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-r-d-intern-naperville-2025-12-22-1",
+      "jobId": "nokia-r-d-intern-naperville",
+      "company": "Nokia",
+      "title": "R&D Intern",
+      "postedToDiscord": "2025-12-22T04:53:59.293Z",
+      "sourceDate": "2025-12-17T23:06:34.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28670",
+      "discordThreadId": "1452524535818616833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sandisk-intern-firmware-and-software-engineering-irvine-2025-12-22-1",
+      "jobId": "sandisk-intern-firmware-and-software-engineering-irvine",
+      "company": "Sandisk",
+      "title": "Intern, Firmware and Software Engineering",
+      "postedToDiscord": "2025-12-22T04:54:02.768Z",
+      "sourceDate": "2025-12-17T16:29:04.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/35ac1ec2-57ee-47cf-b63f-88726edb677c",
+      "discordThreadId": "1452524550326849750",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fhlbank-atlanta-software-development-intern-atlanta-2025-12-22-1",
+      "jobId": "fhlbank-atlanta-software-development-intern-atlanta",
+      "company": "FHLBank Atlanta",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-22T04:54:06.123Z",
+      "sourceDate": "2025-12-17T16:27:42.000Z",
+      "sourceUrl": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Software-Development-Intern_JR268",
+      "discordThreadId": "1452524564704788634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-data-science-phd-intern-redmond-2025-12-22-1",
+      "jobId": "microsoft-data-science-phd-intern-redmond",
+      "company": "Microsoft",
+      "title": "Data Science PhD Intern",
+      "postedToDiscord": "2025-12-22T04:54:12.498Z",
+      "sourceDate": "2025-12-17T23:09:36.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556649526",
+      "discordThreadId": "1452524591397470350",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 854,
+    "totalJobs": 850,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T04:34:39.719Z",
+      "date": "2025-12-22T04:54:12.499Z",
       "archived": 0
     }
   }
