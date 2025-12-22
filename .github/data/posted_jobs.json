@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T09:00:41.492Z",
+  "lastUpdated": "2025-12-22T09:16:13.873Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9263,14 +9263,69 @@
       "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8635",
       "discordThreadId": "1452586620271198361",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiffany-co-software-development-intern-software-developer-parsippany-troy-hills-2025-12-22-1",
+      "jobId": "tiffany-co-software-development-intern-software-developer-parsippany-troy-hills",
+      "company": "Tiffany & Co.",
+      "title": "Software Development Intern - Software Developer",
+      "postedToDiscord": "2025-12-22T09:15:49.977Z",
+      "sourceDate": "2025-12-15T16:26:36.000Z",
+      "sourceUrl": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/62228",
+      "discordThreadId": "1452590429257207859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-cost-accounting-intern-data-analyst-milpitas-2025-12-22-1",
+      "jobId": "corsair-cost-accounting-intern-data-analyst-milpitas",
+      "company": "Corsair",
+      "title": "Cost Accounting Intern - Data Analyst",
+      "postedToDiscord": "2025-12-22T09:15:56.824Z",
+      "sourceDate": "2025-12-15T23:05:51.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8620",
+      "discordThreadId": "1452590458705412282",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-full-stack-developer-data-ai-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-full-stack-developer-data-ai-intern-milpitas",
+      "company": "Corsair",
+      "title": "Full Stack Developer Data/AI Intern",
+      "postedToDiscord": "2025-12-22T09:16:03.526Z",
+      "sourceDate": "2025-12-15T23:05:45.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8623",
+      "discordThreadId": "1452590487201382430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "takeda-2026-summer-internship-program-machine-learning-research-intern-boston-2025-12-22-1",
+      "jobId": "takeda-2026-summer-internship-program-machine-learning-research-intern-boston",
+      "company": "Takeda",
+      "title": "2026 Summer Internship Program: Machine Learning Research Intern",
+      "postedToDiscord": "2025-12-22T09:16:07.288Z",
+      "sourceDate": "2025-12-15T21:34:46.000Z",
+      "sourceUrl": "https://takeda.wd3.myworkdayjobs.com/external/job/Boston-MA/Machine-Learning-Research-Intern_R0169608",
+      "discordThreadId": "1452590502695276726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "air-products-summer-phd-intern-co-op-chemical-engineering-2026-allentown-2025-12-22-1",
+      "jobId": "air-products-summer-phd-intern-co-op-chemical-engineering-2026-allentown",
+      "company": "Air Products",
+      "title": "Summer PhD Intern/Co-op - Chemical Engineering - 2026",
+      "postedToDiscord": "2025-12-22T09:16:13.872Z",
+      "sourceDate": "2025-12-15T21:30:52.000Z",
+      "sourceUrl": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-PhD-Intern-Co-op---Chemical-Engineering--2026-_JR-2025-18835",
+      "discordThreadId": "1452590531434512436",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 842,
+    "totalJobs": 847,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T09:00:41.492Z",
+      "date": "2025-12-22T09:16:13.873Z",
       "archived": 0
     }
   }

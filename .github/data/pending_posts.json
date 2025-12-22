@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Software Dev AI/ML Coop",
-      "employer_name": "Nokia",
-      "job_city": "Naperville",
-      "job_state": "IL",
-      "job_description": "Join Nokia as a Software Dev AI/ML Co-op and contribute to advancing Virtualization and Cloud Computing technologies! You will work on exciting projects involving Container Technology and Kubernetes while developing AI and ML pipelines. Collaborate with our diverse global R&D team to support our mission of inventing 5G. You'll have the unique opportunity to delve into Data Analytics and Machine Learning, coding in C++ and Python, and implementing models for data pipelines, including LLMs, and LSTM architectures. Be part of shaping the future of connectivity with us!",
-      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27415",
-      "job_posted_at_datetime_utc": "2025-12-15T23:06:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nokia-software-dev-ai-ml-coop-naperville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T08:32:42.604Z",
-    "postedAt": "2025-12-22T09:00:44.506Z"
-  },
-  {
-    "job": {
-      "job_title": "Security Software Developer Co-Op",
-      "employer_name": "Nokia",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "This is a great opportunity to be part of driving innovation within Nokia's Cloud and Network Services Division. You would be part of the Platform Engineering group where your learning and contribution will play an integral role in the Nokia CNS Product & Engineering organization. As a Security Software Developer and a member of the Common Software Foundation team, you will be responsible for the development of reusable security-related components and services for use across the Cloud and Network Services product portfolio. Say YES to CNS!",
-      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28624",
-      "job_posted_at_datetime_utc": "2025-12-15T23:06:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nokia-security-software-developer-co-op-sunnyvale",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T08:32:42.604Z",
-    "postedAt": "2025-12-22T09:00:44.506Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern 2",
-      "employer_name": "Corsair",
-      "job_city": "Milpitas",
-      "job_state": "CA",
-      "job_description": "We are looking for a talented and experienced Data Scientist to join our dynamic team. As a Data Scientist, you will leverage your analytical skills and expertise in machine learning to extract insights from complex datasets and drive data-driven decision-making across our organization. You will collaborate closely with cross-functional teams to develop predictive models, uncover actionable insights, and solve challenging business problems.",
-      "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8638",
-      "job_posted_at_datetime_utc": "2025-12-15T23:06:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "corsair-data-science-intern-2-milpitas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T08:32:42.604Z",
-    "postedAt": "2025-12-22T09:00:44.506Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist Intern",
-      "employer_name": "Corsair",
-      "job_city": "Milpitas",
-      "job_state": "CA",
-      "job_description": "As a Data Scientist Intern, you will explore how data science drives strategic decisions in the gaming industry by working with both market and in-house datasets. This internship offers hands-on experience in exploratory data analysis (EDA), predictive modeling, data visualization and applying advanced AI techniques—including large language models (LLMs)—to uncover trends and generate actionable insights. The ideal candidate is eager to learn, detail-oriented, and passionate about transforming complex data into meaningful business impact.",
-      "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8635",
-      "job_posted_at_datetime_utc": "2025-12-15T23:06:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "corsair-data-scientist-intern-milpitas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T08:32:42.604Z",
-    "postedAt": "2025-12-22T09:00:44.506Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML E-commerce Intern",
-      "employer_name": "Corsair",
-      "job_city": "Milpitas",
-      "job_state": "CA",
-      "job_description": "We’re seeking an AI/ML E-commerce Intern to support the development and optimization of our intelligent ecommerce systems. This role involves hands-on coding, data-driven experimentation, and building scalable AI tools that enhance customer experience and operational efficiency. Ideal candidates are curious, technically sharp, and thrive in fast-paced, experimental environments where innovation meets commerce.",
-      "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8641",
-      "job_posted_at_datetime_utc": "2025-12-15T23:06:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "corsair-ai-ml-e-commerce-intern-milpitas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T08:32:42.604Z",
-    "postedAt": "2025-12-22T09:00:44.506Z"
-  },
-  {
-    "job": {
       "job_title": "Cost Accounting Intern - Data Analyst",
       "employer_name": "Corsair",
       "job_city": "Milpitas",
@@ -794,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T08:50:06.816Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T09:16:16.883Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T08:50:06.816Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T09:16:16.883Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T08:50:06.816Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T09:16:16.883Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T08:50:06.816Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T09:16:16.883Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T08:50:06.816Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T09:16:16.883Z"
   },
   {
     "job": {
@@ -990,11 +890,13 @@
       "job_posted_at_datetime_utc": "2025-12-10T13:48:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "the-washington-post-intern-site-engineering-washington"
+      "id": "the-washington-post-intern-site-engineering-washington",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T09:15:39.813Z",
     "postedAt": null
   },
   {
@@ -1008,11 +910,13 @@
       "job_posted_at_datetime_utc": "2025-12-09T12:54:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rtx-intern-software-engineer-intern-ca-goleta"
+      "id": "rtx-intern-software-engineer-intern-ca-goleta",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T09:15:39.813Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Scottsdale",
       "job_state": "AZ",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is generally required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $25.00 - USD $29.00 /Yr. <h2>Company Overview</h2> <p>At General Dynamics Mission Systems, we rise to the challenge each day to ensure the safety of those that lead, serve, and protect the world we live in. We do this by making the world’s most advanced defense platforms even smarter. Our engineers redefine what’s possible and our manufacturing team brings it to life, building the brains behind the brawn on submarines, ships, combat vehicles, aircraft, satellites, and other advanced systems.</p> <p>&nbsp;</p> <p>We pride ourselves in being a great place to work with this shared sense of purpose, committed to a diverse and exciting employee experience that drives innovation and creates a community where all feel welcome and a part of something amazing.</p> <p>&nbsp;</p> <p>We offer highly competitive benefits and a flexible work environment where contributions are recognized and rewarded. To see more about our benefits, visit https://gdmissionsystems.com/careers/why-work-for-us/benefits</p> <p>&nbsp;</p> <p>General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran</p>",
       "job_apply_link": "https://careers-gdms.icims.com/jobs/69360/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-20T19:53:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-mission-engineer-intern-scottsdale"
+      "id": "general-dynamics-mission-engineer-intern-scottsdale",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T09:15:39.813Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Takeda",
       "job_city": "Vernon Hills",
       "job_state": "IL",
-      "job_description": "Join Takeda in this exciting opportunity.",
+      "job_description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use.  I further attest that all information I submit in my employment application is true to the best of my knowledge.Job DescriptionThe Data Digital & Technology (DD&T) team is responsible for all the Digital Improvements, Operational Efficiencies, and Innovative Solutions at Round Lake Drug Delivery Manufacturing Site. The Team's core purpose is to provide solutions for business  such as Paperless Plant. DD&T investigates use cases from the Manufacturing Business Partners, including Quality, Manufacturing, Manufacturing Science. They build solutions via Agile Program Management, developing solutions in house, working with vendors, and rolling out NorthStar solutions to improve our site operations, and overall meet our commitments to bring our products to the patient.How You Will Contribute:As a Data, Digital, and Technology (DD&T) intern in the pharmaceutical sectorHelp collect, clean, and organize data from manufacturing systemsSupport compliance with industry regulations like GxP and FDA 21 CFR Part 11Assist in using digital tools to improve daily operations and data trackingAutomate simple tasks using tools like Python or Power AutomateCreate basic dashboards and reports using tools like Power BI, Power AutomateHelp write or update standard operating procedures (SOPs)Internship Development Opportunities:The intern will learn about manufacturing digital needs, and how to utilize current process to deliver value added activities to business users.They will develop a deep understanding of networking within various levels of the organization, relationship building, and develop a strong voice of the customer approach to the business adoption of technology.A collaborative and inclusive work environmentThey will be getting the mentorship from experienced technical team and Business key Stakeholders.Job Requirements:This position is fully onsite at the Libertyville office, with occasional travel to the Round Lake Drug Delivery site (approximately a 20-minute drive) as needed.Must be pursuing a bachelor’s degree in a STEM or Business Analyst related discipline (ex. Computer Science, Management Information Systems)Basic understanding of VB Script or Java ScriptFamiliarity with Python or SQLKnowledge of Data visualization tools like Power automate, Power BI and ExcelBasic understanding of AI tools and their applications in business.Familiarity with data analysis and reporting tools.in Microsoft Office Suite (Word, Excel, PowerPoint).Basic understanding of computer skills including MS Office (PowerPoint, Words, Excel)Internet skills including use of e-mails, group messaging and information gatheringHighly reliable and strong team playerFlexible with attention to detailStrong analytical and problem-solving skills.Ability to work in cross-functional teams.Detail-oriented and organized, especially in documentation and reporting.Good communication skills especially when working with non-IT departments.Internship Eligibility  Must be authorized to work in the U.S. on a permanent basis without requiring sponsorship  Must be currently enrolled in a degree program graduating December 2026 or later  The internship program is 10-12 weeks depending on the two start dates (May 26th-August 14th or June 15th- August 21st)   The intern must be able to commit to one of these time frames   Able to work full time 40 hours a week during internship dates   Takeda does not provide a housing stipend or relocation support for the U.S Summer Internship Program    Program Highlights:  Hands-on experience with real projects and responsibilities  Dedicated mentorship program pairing interns with experienced professionals  Networking opportunities with industry professionals and fellow interns  Internship events focused on professional and skills development   Exposure to multiple business areas or departments within a Pharmaceutical Organization     Takeda Compensation and Benefits Summary We understand compensation may be an important factor as you consider an internship opportunity. We are committed to equitable pay for all employees, and we strive to be more transparent with our pay practices. For Location:USA - IL - Round Lake Innovation ParkU.S. Hourly Wage Range:$21.00 - $46.00The estimated hourly range reflects an anticipated range for this position. The actual hourly wage offered will depend on the candidate’s school year/level to be entered following completion of internship.  The actual hourly wage offered will be in accordance with state or local minimum wage requirements for the job location.  U.S. internship benefits vary by location and may include:  Paid sick time Civic Duty paid time off Participation at company volunteer events  Participation at company sponsored special events  Access to on-site fitness center (where available) Commuter Benefit: To offset your work-commute expenses, Takeda provides U.S. employees with a fixed monthly subsidy to be used for either public transportation (transit) or parking.  EEO StatementTakeda is proud in its commitment to creating a diverse workforce and providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, parental status, national origin, age, disability, citizenship status, genetic information or characteristics, marital status, status as a Vietnam era veteran, special disabled veteran, or other protected veteran in accordance with applicable federal, state and local laws, and any other characteristic protected by law.LocationsUSA - IL - Round Lake Innovation ParkWorker TypeEmployeeWorker Sub-TypePaid Intern (Fixed Term) (Trainee)Time TypeFull timeJob ExemptNo",
       "job_apply_link": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---IL---Round-Lake-Innovation-Park/XMLNAME-2026-Summer-Internship-Program--Data-Digital-and-Technology--DD-T--Intern_R0166528",
       "job_posted_at_datetime_utc": "2025-11-07T19:23:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "takeda-2026-summer-internship-program-data-digital-and-technology-intern-dd-t-vernon-hills"
+      "id": "takeda-2026-summer-internship-program-data-digital-and-technology-intern-dd-t-vernon-hills",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T09:15:39.813Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "LinkedIn",
       "job_city": "Mountain View",
       "job_state": "CA",
-      "job_description": "Join LinkedIn in this exciting opportunity.",
+      "job_description": "AI/ML Engineer Intern, Master's - Summer 2026 (Mountain View, CA) Full-timeWorkplace Type: HybridCareer Track & Grade: ICX/XDepartment: EngineeringCompany DescriptionLinkedIn is the world’s largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable insights every day. We’re also committed to providing transformational opportunities for our own employees by investing in their growth. We aspire to create a culture that’s built on trust, care, inclusion, and fun – where everyone can succeed.Join us to transform the way the world works.Job DescriptionOur internship roles will be based in Mountain View, CA. At LinkedIn, our approach to flexible work is centered on trust and optimized for culture, connection, clarity, and the evolving needs of our business. The work location of this role is hybrid, meaning it will be performed both from home and from a LinkedIn office on select days, as determined by the business needs of the team. We are looking for AI interns to work on our massive semi-structured text, graph and user activity data sets. Build highly scalable, highly performant social graph engines, state-of-the-art full-text search engines, and platforms for recommendation and applied data analytics. You will utilize data mining, information retrieval, and machine learning to perfect your strong systems orientation skills. Candidates must be currently enrolled in a master’s degree program, with an expected graduation date of December 2026 or later. Our internships are 12 weeks in length and will have the option of two intern sessions: • May 26th, 2026 - August 14th, 2026 • June 15th, 2026 - September 4th, 2026 Responsibilities: • Work with BIG data, crunching millions of samples for statistical modeling, data mining, recommendation, or search relevance solutions. • Write production quality code and influence the next generation of LinkedIn’s systems.QualificationsBasic Qualifications: • Currently pursuing a M.S. in computer science, statistics, mathematics, electrical engineering, machine learning, or related technical field and returning to the program after the completion of the internship. • Hands-on experience with machine learning, data mining, or statistics. Preferred Qualifications: • Proficient programming skills within large scale projects or professional work experience • Experience or desire to learn Hadoop • Strong command of algorithms and data structures • Proficiency in clustering, collaborative filtering, and classification techniques (Naïve Bayes, SVM, NN, Boosting Methods, etc.) Suggested Skills: • Experience or research in Machine Learning and Deep Learning • Experience working with large data sets and data mining • Strategic thinking and problem-solving capabilities As part of the application process for this role, after an initial qualifications review, candidates are required to successfully complete the HackerRank online code challenge. Instructions for completion of the code challenge will be sent to you if your application is selected to move forward in the process. LinkedIn is committed to fair and equitable compensation practices. The pay range for this role is $57 to $70. Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to skill set, depth of experience, certifications, and specific work location. This may be different in other locations due to differences in the cost of labor. The total compensation package for this position may also include annual performance bonus, stock, benefits and/or other applicable incentive compensation plans. For more information, visit https://careers.linkedin.com/benefits. Additional InformationEqual Opportunity Statement We seek candidates with a wide range of perspectives and backgrounds and we are proud to be an equal opportunity employer. LinkedIn considers qualified applicants without regard to race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.LinkedIn is committed to offering an inclusive and accessible experience for all job seekers, including individuals with disabilities. Our goal is to foster an inclusive and accessible workplace where everyone has the opportunity to be successful.If you need a reasonable accommodation to search for a job opening, apply for a position, or participate in the interview process, connect with us at [email protected] and describe the specific accommodation requested for a disability-related limitation.Reasonable accommodations are modifications or adjustments to the application or hiring process that would enable you to fully participate in that process. Examples of reasonable accommodations include but are not limited to:Documents in alternate formats or read aloud to youHaving interviews in an accessible locationBeing accompanied by a service dogHaving a sign language interpreter present for the interviewA request for an accommodation will be responded to within three business days. However, non-disability related requests, such as following up on an application, will not receive a response.LinkedIn will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by LinkedIn, or (c) consistent with LinkedIn's legal duty to furnish information.San Francisco Fair Chance Ordinance ​Pursuant to the San Francisco Fair Chance Ordinance, LinkedIn will consider for employment qualified applicants with arrest and conviction records. Pay Transparency Policy Statement ​As a federal contractor, LinkedIn follows the Pay Transparency and non-discrimination provisions described at this link: https://lnkd.in/paytransparency. Global Data Privacy Notice for Job Candidates ​Please follow this link to access the document that provides transparency around the way in which LinkedIn handles personal data of employees and job applicants: https://legal.linkedin.com/candidate-portal.I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/LinkedIn3/744000091667804",
       "job_posted_at_datetime_utc": "2025-11-04T23:06:54.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "linkedin-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca-mountain-view"
+      "id": "linkedin-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca-mountain-view",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T09:15:39.813Z",
     "postedAt": null
   },
   {
