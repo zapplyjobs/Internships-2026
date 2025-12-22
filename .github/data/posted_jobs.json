@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T03:57:44.152Z",
+  "lastUpdated": "2025-12-22T04:18:30.243Z",
   "jobs": [
     {
       "id": "tiktok-software-engineer-intern-business-integrity-bs-ms-san-jose-2025-12-15-1",
@@ -9384,14 +9384,69 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Learning---Skill-Development-Data-Analyst_202512-131310",
       "discordThreadId": "1452510378423488573",
       "instanceNumber": 1
+    },
+    {
+      "id": "rolls-royce-tx-s-12-innovations-software-developer-intern-summer-simpsonville-2025-12-22-1",
+      "jobId": "rolls-royce-tx-s-12-innovations-software-developer-intern-summer-simpsonville",
+      "company": "Rolls Royce",
+      "title": "TX-S-12 Innovations Software Developer Intern - Summer",
+      "postedToDiscord": "2025-12-22T04:18:06.598Z",
+      "sourceDate": "2025-12-17T23:18:57.000Z",
+      "sourceUrl": "https://jobs.bmwgroup.com/job/Woodruff-TX-S-12-Innovations-Software-Developer-Intern-(Summer)-Sout/1276052601/?ats=successfactors",
+      "discordThreadId": "1452515506505650278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-manufacturing-software-engineer-intern-boulder-2025-12-22-1",
+      "jobId": "veolia-manufacturing-software-engineer-intern-boulder",
+      "company": "Veolia",
+      "title": "Manufacturing Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T04:18:10.351Z",
+      "sourceDate": "2025-12-17T23:18:14.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099432185",
+      "discordThreadId": "1452515521822986331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-data-science-intern-opportunities-redmond-2025-12-22-1",
+      "jobId": "microsoft-data-science-intern-opportunities-redmond",
+      "company": "Microsoft",
+      "title": "Data Science: Intern Opportunities",
+      "postedToDiscord": "2025-12-22T04:18:17.054Z",
+      "sourceDate": "2025-12-17T23:18:40.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556649486",
+      "discordThreadId": "1452515549774086184",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-capital-project-s-intern-milwaukee-2025-12-22-1",
+      "jobId": "veolia-capital-project-s-intern-milwaukee",
+      "company": "Veolia",
+      "title": "Capital Project's Intern",
+      "postedToDiscord": "2025-12-22T04:18:23.683Z",
+      "sourceDate": "2025-12-17T23:18:20.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099419505",
+      "discordThreadId": "1452515577905283102",
+      "instanceNumber": 1
+    },
+    {
+      "id": "emerson-electric-graduate-data-science-intern-austin-2025-12-22-1",
+      "jobId": "emerson-electric-graduate-data-science-intern-austin",
+      "company": "Emerson Electric",
+      "title": "Graduate Data Science Intern",
+      "postedToDiscord": "2025-12-22T04:18:30.243Z",
+      "sourceDate": "2025-12-17T23:17:48.000Z",
+      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029141",
+      "discordThreadId": "1452515605721645168",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 853,
+    "totalJobs": 858,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T03:57:44.152Z",
+      "date": "2025-12-22T04:18:30.243Z",
       "archived": 0
     }
   }
