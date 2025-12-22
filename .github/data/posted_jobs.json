@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T17:53:53.215Z",
+  "lastUpdated": "2025-12-22T18:04:20.905Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10033,14 +10033,69 @@
       "sourceUrl": "https://armaninollp.wd1.myworkdayjobs.com/en-US/Armanino/job/Century-City-California/Summer-2026---AI-Intern--Century-City-_JR103406",
       "discordThreadId": "1452720802754461868",
       "instanceNumber": 1
+    },
+    {
+      "id": "azuria-gis-intern-layton-2025-12-22-1",
+      "jobId": "azuria-gis-intern-layton",
+      "company": "Azuria Corporation",
+      "title": "GIS Intern",
+      "postedToDiscord": "2025-12-22T18:03:57.275Z",
+      "sourceDate": "2025-12-19T23:35:13.000Z",
+      "sourceUrl": "https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/ITI-Layton-UT/Intern_R-6988",
+      "discordThreadId": "1452723337355854045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-frontend-developer-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-frontend-developer-san-jose",
+      "company": "ASML",
+      "title": "Internship - Frontend Developer",
+      "postedToDiscord": "2025-12-22T18:04:03.854Z",
+      "sourceDate": "2025-12-19T23:41:35.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00327981",
+      "discordThreadId": "1452723364321038408",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-multiple-teams-sunnyvale-2025-12-22-1",
+      "jobId": "general-motors-intern-multiple-teams-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-22T18:04:10.971Z",
+      "sourceDate": "2025-12-19T23:39:16.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--PhD-_JR-202524749",
+      "discordThreadId": "1452723392875724922",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd-sunnyvale-2025-12-22-1",
+      "jobId": "general-motors-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd-sunnyvale",
+      "company": "General Motors",
+      "title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
+      "postedToDiscord": "2025-12-22T18:04:14.920Z",
+      "sourceDate": "2025-12-19T23:39:15.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Autonomous-Vehicle-Engineering--PhD-_JR-202524568",
+      "discordThreadId": "1452723409279516804",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-ai-digital-manufacturing-intern-kalamazoo-2025-12-22-1",
+      "jobId": "zoetis-ai-digital-manufacturing-intern-kalamazoo",
+      "company": "Zoetis",
+      "title": "AI & Digital Manufacturing Intern",
+      "postedToDiscord": "2025-12-22T18:04:20.904Z",
+      "sourceDate": "2025-12-19T23:39:00.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Kilgore-Road/AI---Digital-Manufacturing-Intern_JR00019671-1",
+      "discordThreadId": "1452723426015051888",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 912,
+    "totalJobs": 917,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T17:53:53.215Z",
+      "date": "2025-12-22T18:04:20.905Z",
       "archived": 0
     }
   }
