@@ -7654,5 +7654,104 @@
     "sourceUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MSP-2900-Ames-Crossing-Road/Applied-Scientist-Intern---Summer-2026_JREQ194277",
     "discordThreadId": "1449986818870350046",
     "instanceNumber": 1
+  },
+  {
+    "id": "qorvo-software-engineering-intern-apopka-2025-12-15-1",
+    "jobId": "qorvo-software-engineering-intern-apopka",
+    "company": "Qorvo",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-15T05:03:59.953Z",
+    "sourceDate": "2025-08-29T15:30:12.000Z",
+    "sourceUrl": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern-FL-32703/1321433600/?ats=successfactors",
+    "discordThreadId": "1449990347206688892",
+    "instanceNumber": 1
+  },
+  {
+    "id": "garmin-software-engineer-intern-embedded-olathe-2025-12-15-1",
+    "jobId": "garmin-software-engineer-intern-embedded-olathe",
+    "company": "Garmin",
+    "title": "Software Engineer Intern - Embedded",
+    "postedToDiscord": "2025-12-15T05:04:01.588Z",
+    "sourceDate": "2025-08-29T14:13:49.000Z",
+    "sourceUrl": "https://careers.garmin.com/jobs/16828/job",
+    "discordThreadId": "1449990354395987979",
+    "instanceNumber": 1
+  },
+  {
+    "id": "garmin-software-engineer-intern-web-devops-olathe-2025-12-15-1",
+    "jobId": "garmin-software-engineer-intern-web-devops-olathe",
+    "company": "Garmin",
+    "title": "Software Engineer Intern - Web/DevOps",
+    "postedToDiscord": "2025-12-15T05:04:01.595Z",
+    "sourceDate": "2025-08-29T14:12:45.000Z",
+    "sourceUrl": "https://careers.garmin.com/jobs/16829?lang=en-us",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-seattle-2025-12-15-1",
+    "jobId": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-seattle",
+    "company": "Oracle",
+    "title": "Undergrad Software Engineer Intern – Oracle Cloud Infrastructure (OCI)",
+    "postedToDiscord": "2025-12-15T05:04:03.308Z",
+    "sourceDate": "2025-08-29T08:58:49.000Z",
+    "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996",
+    "discordThreadId": "1449990361455001673",
+    "instanceNumber": 1
+  },
+  {
+    "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-nashville-2025-12-15-1",
+    "jobId": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-nashville",
+    "company": "Oracle",
+    "title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI)",
+    "postedToDiscord": "2025-12-15T05:04:05.046Z",
+    "sourceDate": "2025-08-29T08:57:58.000Z",
+    "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305998",
+    "discordThreadId": "1449990368304173182",
+    "instanceNumber": 1
+  },
+  {
+    "id": "brookfield-asset-management-intern-analytics-modelling-new-york-2025-12-15-1",
+    "jobId": "brookfield-asset-management-intern-analytics-modelling-new-york",
+    "company": "Brookfield Asset Management",
+    "title": "Intern, Analytics Modelling",
+    "postedToDiscord": "2025-12-15T05:04:06.923Z",
+    "sourceDate": "2025-08-29T08:57:07.000Z",
+    "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Intern--Analytics-Modelling_R2045298",
+    "discordThreadId": "1449990375770165354",
+    "instanceNumber": 1
+  },
+  {
+    "id": "drivetime-analytics-intern-dallas-2025-12-15-1",
+    "jobId": "drivetime-analytics-intern-dallas",
+    "company": "DriveTime",
+    "title": "Analytics Intern",
+    "postedToDiscord": "2025-12-15T05:04:08.570Z",
+    "sourceDate": "2025-08-29T00:07:19.000Z",
+    "sourceUrl": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2026-_R13157",
+    "discordThreadId": "1449990383491616779",
+    "instanceNumber": 1
+  },
+  {
+    "id": "altman-solon-summer-data-analyst-intern-boston-2025-12-15-1",
+    "jobId": "altman-solon-summer-data-analyst-intern-boston",
+    "company": "Altman Solon",
+    "title": "Summer Data Analyst Intern",
+    "postedToDiscord": "2025-12-15T05:04:15.772Z",
+    "sourceDate": "2025-08-29T09:24:55.000Z",
+    "sourceUrl": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4662186101",
+    "discordThreadId": "1449990405973086280",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-phd-san-jose-2025-12-15-1",
+    "jobId": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-phd-san-jose",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
+    "postedToDiscord": "2025-12-15T05:04:20.542Z",
+    "sourceDate": "2025-08-28T23:41:03.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
+    "discordThreadId": "1449990433651425463",
+    "instanceNumber": 1
   }
 ]

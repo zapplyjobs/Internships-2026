@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T04:54:12.499Z",
+  "lastUpdated": "2025-12-22T05:06:54.917Z",
   "jobs": [
-    {
-      "id": "qorvo-software-engineering-intern-apopka-2025-12-15-1",
-      "jobId": "qorvo-software-engineering-intern-apopka",
-      "company": "Qorvo",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T05:03:59.953Z",
-      "sourceDate": "2025-08-29T15:30:12.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern-FL-32703/1321433600/?ats=successfactors",
-      "discordThreadId": "1449990347206688892",
-      "instanceNumber": 1
-    },
-    {
-      "id": "garmin-software-engineer-intern-embedded-olathe-2025-12-15-1",
-      "jobId": "garmin-software-engineer-intern-embedded-olathe",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Embedded",
-      "postedToDiscord": "2025-12-15T05:04:01.588Z",
-      "sourceDate": "2025-08-29T14:13:49.000Z",
-      "sourceUrl": "https://careers.garmin.com/jobs/16828/job",
-      "discordThreadId": "1449990354395987979",
-      "instanceNumber": 1
-    },
-    {
-      "id": "garmin-software-engineer-intern-web-devops-olathe-2025-12-15-1",
-      "jobId": "garmin-software-engineer-intern-web-devops-olathe",
-      "company": "Garmin",
-      "title": "Software Engineer Intern - Web/DevOps",
-      "postedToDiscord": "2025-12-15T05:04:01.595Z",
-      "sourceDate": "2025-08-29T14:12:45.000Z",
-      "sourceUrl": "https://careers.garmin.com/jobs/16829?lang=en-us",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-seattle-2025-12-15-1",
-      "jobId": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-seattle",
-      "company": "Oracle",
-      "title": "Undergrad Software Engineer Intern – Oracle Cloud Infrastructure (OCI)",
-      "postedToDiscord": "2025-12-15T05:04:03.308Z",
-      "sourceDate": "2025-08-29T08:58:49.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305996",
-      "discordThreadId": "1449990361455001673",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-nashville-2025-12-15-1",
-      "jobId": "oracle-undergrad-software-engineer-intern-oracle-cloud-infrastructure-oci-nashville",
-      "company": "Oracle",
-      "title": "Undergrad Software Engineer Intern - Oracle Cloud Infrastructure (OCI)",
-      "postedToDiscord": "2025-12-15T05:04:05.046Z",
-      "sourceDate": "2025-08-29T08:57:58.000Z",
-      "sourceUrl": "https://careers.oracle.com/en/sites/jobsearch/job/305998",
-      "discordThreadId": "1449990368304173182",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brookfield-asset-management-intern-analytics-modelling-new-york-2025-12-15-1",
-      "jobId": "brookfield-asset-management-intern-analytics-modelling-new-york",
-      "company": "Brookfield Asset Management",
-      "title": "Intern, Analytics Modelling",
-      "postedToDiscord": "2025-12-15T05:04:06.923Z",
-      "sourceDate": "2025-08-29T08:57:07.000Z",
-      "sourceUrl": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/Intern--Analytics-Modelling_R2045298",
-      "discordThreadId": "1449990375770165354",
-      "instanceNumber": 1
-    },
-    {
-      "id": "drivetime-analytics-intern-dallas-2025-12-15-1",
-      "jobId": "drivetime-analytics-intern-dallas",
-      "company": "DriveTime",
-      "title": "Analytics Intern",
-      "postedToDiscord": "2025-12-15T05:04:08.570Z",
-      "sourceDate": "2025-08-29T00:07:19.000Z",
-      "sourceUrl": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Analytics-Intern--Summer-2026-_R13157",
-      "discordThreadId": "1449990383491616779",
-      "instanceNumber": 1
-    },
-    {
-      "id": "altman-solon-summer-data-analyst-intern-boston-2025-12-15-1",
-      "jobId": "altman-solon-summer-data-analyst-intern-boston",
-      "company": "Altman Solon",
-      "title": "Summer Data Analyst Intern",
-      "postedToDiscord": "2025-12-15T05:04:15.772Z",
-      "sourceDate": "2025-08-29T09:24:55.000Z",
-      "sourceUrl": "https://www.altmansolon.com/careers/student-opportunities?gh_jid=4662186101",
-      "discordThreadId": "1449990405973086280",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-phd-san-jose-2025-12-15-1",
-      "jobId": "bytedance-research-scientist-intern-applied-machine-learning-enterprise-phd-san-jose",
-      "company": "ByteDance",
-      "title": "Research Scientist Intern - Applied Machine Learning-Enterprise - PhD",
-      "postedToDiscord": "2025-12-15T05:04:20.542Z",
-      "sourceDate": "2025-08-28T23:41:03.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7539697151993268488/detail",
-      "discordThreadId": "1449990433651425463",
-      "instanceNumber": 1
-    },
     {
       "id": "marmon-holdings-data-automation-engineer-intern-morton-grove-2025-12-15-1",
       "jobId": "marmon-holdings-data-automation-engineer-intern-morton-grove",
@@ -9351,14 +9252,69 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556649526",
       "discordThreadId": "1452524591397470350",
       "instanceNumber": 1
+    },
+    {
+      "id": "leidos-software-engineer-web-development-intern-wixom-2025-12-22-1",
+      "jobId": "leidos-software-engineer-web-development-intern-wixom",
+      "company": "Leidos",
+      "title": "Software Engineer / Web Development Intern",
+      "postedToDiscord": "2025-12-22T05:06:31.873Z",
+      "sourceDate": "2025-12-17T16:26:09.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Engineer---Web-Development-Intern_R-00172085-1",
+      "discordThreadId": "1452527691013034096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nrg-energy-life-cycle-optimization-intern-princeton-2025-12-22-1",
+      "jobId": "nrg-energy-life-cycle-optimization-intern-princeton",
+      "company": "NRG Energy",
+      "title": "Life Cycle Optimization Intern",
+      "postedToDiscord": "2025-12-22T05:06:38.403Z",
+      "sourceDate": "2025-12-17T16:27:06.000Z",
+      "sourceUrl": "https://careers.nrgenergy.com/nrg/job/Princeton-Life-Cycle-Optimization-Intern-NJ-08540/1350440100/?ats=successfactors",
+      "discordThreadId": "1452527719953727488",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-llm-performance-optimization-redmond-2025-12-22-1",
+      "jobId": "microsoft-research-intern-llm-performance-optimization-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - LLM Performance Optimization",
+      "postedToDiscord": "2025-12-22T05:06:42.086Z",
+      "sourceDate": "2025-12-17T10:19:17.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556643548",
+      "discordThreadId": "1452527734294319344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-apprentice-geospatial-analyst-st-louis-2025-12-22-1",
+      "jobId": "leidos-apprentice-geospatial-analyst-st-louis",
+      "company": "Leidos",
+      "title": "Apprentice Geospatial Analyst",
+      "postedToDiscord": "2025-12-22T05:06:48.444Z",
+      "sourceDate": "2025-12-17T16:26:09.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Apprentice-Geospatial-Analyst_R-00171633-1",
+      "discordThreadId": "1452527762232311920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-data-automation-and-modeling-intern-durham-2025-12-22-1",
+      "jobId": "astrazeneca-data-automation-and-modeling-intern-durham",
+      "company": "AstraZeneca",
+      "title": "Data Automation and Modeling Intern",
+      "postedToDiscord": "2025-12-22T05:06:54.916Z",
+      "sourceDate": "2025-12-17T02:50:55.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
+      "discordThreadId": "1452527788677529705",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 850,
+    "totalJobs": 846,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T04:54:12.499Z",
+      "date": "2025-12-22T05:06:54.917Z",
       "archived": 0
     }
   }
