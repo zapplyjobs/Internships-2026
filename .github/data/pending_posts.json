@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2026",
-      "employer_name": "Fifth Third Bank",
-      "job_city": "Cincinnati",
-      "job_state": "OH",
-      "job_description": "Join Fifth Third Bank in this exciting opportunity.",
-      "job_apply_link": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Summer-2026_R63836",
-      "job_posted_at_datetime_utc": "2025-12-15T23:49:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-summer-2026-cincinnati",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:32:18.737Z",
-    "postedAt": "2025-12-22T07:49:44.016Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Translational Pharmacokinetics/Pharmacodynamics",
-      "employer_name": "Genentech",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "2026 Summer Intern - Translational Pharmacokinetics/PharmacodynamicsDepartment SummaryThis intern position is in the Translational Pharmacokinetics & Pharmacodynamics (tPKPD) Department within Development Sciences. The tPKPD department applies preclinical models (in silico, in vitro, or in vivo) to determine the pharmacokinetics (what the body does to the drug) and/or pharmacodynamics (what the drug does to the body) of therapeutics. The information obtained from such work is often used to help inform the selection of lead molecules, optimize dosing regimens, and understand the PK behavior of different molecular designs as we help advance molecules through stages of research and into early clinical development. The work within the tPKPD department spans a wide range of disease areas, including oncology, immunology, ophthalmology, infectious disease, and neuroscience.This internship position is located in South San Francisco, on-site. The OpportunityThe Mission: Build the AI Agents that Build the Models. Join Genentech’s Modeling and Simulation group to work at the bleeding edge of Generative AI and Systems Pharmacology. While QSP models are essential for clinical trial design and dosing strategies, their development is currently limited by human coding speed. We are changing that. We are developing a novel Agentic Framework capable of reasoning through hypothesized biology and generating complex mechanistic model code automatically. As an intern, you will deploy Large Language Models (LLMs) to solve real-world problems in drug discovery, moving beyond simple prompting to building autonomous scientific software engineers.Key Responsibilities:Architect Advanced Agentic Workflows: Engineer and extend a proprietary multi-agent framework designed to translate natural language into executable mechanistic code. You will focus on improving the agent's reasoning capabilities, context retrieval, and code generation accuracy.Rigorous Benchmarking & Validation: Design a robust evaluation framework to stress-test the AI agents. You will validate generated QSP models against ground-truth data and historical case studies, quantifying the system’s ability to handle complex therapeutic modalities and ensuring mathematical correctness.Tool Democratization & Deployment: Bridge the gap between prototype and product. You will design and deploy intuitive, scalable interfaces (e.g., Dash/Streamlit web apps) that allow M&S scientists to leverage these AI agents in their daily workflows.Scientific Impact & Collaboration: Act as a bridge between fields. You will present your findings to cross-functional teams, synthesizing feedback to refine the agents and demonstrating how autonomous modeling can directly accelerate Genentech’s drug development pipeline.Program HighlightsIntensive 12-weeks, full-time (40 hours per week) paid internship.Program start dates are in May/June 2026. A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You Are (Required) Required Education:Must be pursuing a PhD (enrolled student).Required Majors: Scientific Computing, Computer Science, Bioinformatics, Chemical Engineering, Applied Mathematics, or related fields with a strong focus on computational modeling. Required Skills: Advanced Agentic Systems: Demonstrated experience architecting and building multi-agent systems. You should have deep working knowledge of orchestration frameworks (LangGraph, AutoGen, or similar), managing graph state, memory persistence, and implementing complex tool-calling/function-calling logic.Core Engineering & Python: Elite proficiency in Python with a strong grasp of software engineering best practices (version control/Git, modular code design, testing). You are not just scripting; you are building robust software.LLM Frameworks: Practical experience working with LLM APIs (OpenAI, Anthropic) and integration libraries (LangChain, LlamaIndex). You understand the nuances of prompt engineering vs. fine-tuning vs. RAG.Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Reinforcement Learning: Understanding of RL techniques or self-correction loops to optimize agent performance.Full-Stack Prototyping: Experience building interactive front-ends to showcase your models (e.g., Streamlit, Dash, React) so stakeholders can interact with your agents.Translation Skills: The ability to explain complex AI architectures to non-coding scientific stakeholders.Autonomy: Comfort working in an ambiguous, fast-paced environment where the technology stack (e.g., agent frameworks) is evolving rapidly.Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of California is $50.00 hour. Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Translational-Pharmacokinetics-Pharmacodynamics_202512-131946",
-      "job_posted_at_datetime_utc": "2025-12-15T23:45:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "genentech-intern-translational-pharmacokinetics-pharmacodynamics-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:32:18.737Z",
-    "postedAt": "2025-12-22T07:49:44.016Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Machine Learning Scientist Summer Intern - Biology Research - AI Development",
-      "employer_name": "Genentech",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "2026 Machine Learning Scientist Summer Intern - Biology Research | AI DevelopmentThis internship position is located in South San Francisco, On Site.  Department SummaryAt Genentech Research & Early Development (gRED) we have initiated an exciting journey to bring together and further strengthen our computational talent and capabilities by forming a new, central organization - gRED Computational Sciences Center of Excellence (CS CoE). CS CoE is on a mission to partner across the organization to realize the potential of data, technology and computational approaches that will revolutionize how targets and therapeutics are discovered and developed, ultimately enabling novel treatments for patients across the world.  We stand at the beginning of this exciting journey.BRAID (Biology Research | AI Development) is a department within CS CoE that focuses on developing and applying machine learning methods to impact biological discovery, with the ultimate goal of impacting drug discovery and human health. We collaborate with clinical scientists, biologists, and engineers to advance the drug development pipelines across disease areas. We are searching for a motivated summer intern to work on designing, developing, and interpreting foundation models for biological data. You will join an established team of AI scientists with a common goal of developing our next generation multi-scale foundation models using cutting-edge AI techniques from graph learning and generative modeling. You will develop models and interpretability methods that identify multi-cellular interactions relevant to patient phenotypes that inform trial design, biomarker selection, and target discovery. This internship position is located in South San Francisco, On-Site. The OpportunityYou will lead the development of explainable models and interpretation methods for identifying multivariable features of interest. To benchmark the approach, publicly available datasets with existing supervision can be used for performance evaluation.There will be opportunities to apply the method on novel data collected in the lab, targeting dedicated biological questions.You will produce weekly reports of their progress and compile their findings in a final project report that could be used as a basis for a machine learning conference paper submission.The intern will continuously suggest new experiments and modeling strategies based on previous results.Program HighlightsFull time 12 weeks (40 hours per week) paid internship.Program start dates are in May/June (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship.Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Opportunity to shape the research agenda of the projectWho You AreRequired Education Must be pursuing a PhD (enrolled student). in CS, Computational Biology, Engineering,  Stats, or related field.Required MajorsComputer Science, Computational Biology, Statistics, Engineering, or relevant technical experience.Required skills: Experience with large scale deep learning training infrastructure.Experience with model explainability methods (e.g. SHAP, Integrated Gradients).Excellent academic presentation and writing skillsPreferred Knowledge, Skills, and QualificationsExperience with scRNA-seq and genomics dataRelocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of  California is $50.00 per hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Machine-Learning-Scientist-Summer-Intern---Biology-Research---AI-Development_202512-131795",
-      "job_posted_at_datetime_utc": "2025-12-15T23:45:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "genentech-2026-machine-learning-scientist-summer-intern-biology-research-ai-development-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:32:18.737Z",
-    "postedAt": "2025-12-22T07:49:44.016Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - CSCoE AI for Drug Discovery",
-      "employer_name": "Genentech",
-      "job_city": "San Bruno",
-      "job_state": "CA",
-      "job_description": "2026 Summer Intern - CSCoE AI for Drug DiscoveryDepartment SummaryAt Genentech Machine Learning Drug Discovery (MLDD), Prescient Design, we are revolutionizing drug discovery with ground breaking machine learning techniques.The Engineering team within Prescient Design works on applications and infrastructure that make drug discovery R&D possible. One such paradigm is Lab in the Loop (LITL) which connects the in-silico drug discovery with wet lab evaluations about a particular hypothesis about a new drug candidate. We develop and maintain various software related to Lab in the Loop, as well as various methods and models that enable in-silico drug discovery.We are seeking exceptional interns with a demonstrated background in software development, and a strong interest in implementing novel ideas with efficient and maintainable code. As an intern, you will work alongside engineers and scientists on projects with a real world impact to develop critical software used across Prescient Design, Genentech and Roche.We are particularly interested in candidates who are enthusiastic about data science and engineering.. A background in biology is advantageous but not required for this role.This internship position is located onsite in South San Francisco, CA or New York City, NY on-site.The OpportunityDesign, build, and maintain robust data pipelines (ETL/ELT) to process and integrate large-scale biological and chemical datasets.Collaborate with engineering and scientific teams to translate research ideas into production-ready software tools and infrastructure.Optimize existing models and data workflows for performance, scalability, and maintainability.Design and drive meaningful contributions to existing data platform infrastructure.Participate in code reviews, contribute to documentation, and present project findings to the team.Program HighlightsIntensive 12-weeks full-time (40 hours per week) paid internship.Program start dates are in May 11 or June 1 (Summer)A stipend, based on location, will be provided to help alleviate costs associated with the internship. Ownership of challenging and impactful business-critical projects.Work with some of the most talented people in the biotechnology industry.Who You AreRequired Education Must be pursuing a Bachelor's Degree (enrolled student).Must be pursuing a Master's Degree (enrolled student).Required Majors Computer ScienceBioinformaticsData ScienceStatisticsBioinformatics / Computational BiologyRequired Skills: Strong foundation in machine learning concepts and algorithms.Proficiency in Python programming (e.g., PyTorch, TensorFlow, scikit-learn).Preferred Knowledge, Skills, and QualificationsExcellent communication, collaboration, and interpersonal skills.Complements our culture and the standards that guide our daily behavior & decisions: Integrity, Courage, and Passion.Preferred: Basic understanding of data engineering principles and data pipelines (e.g., ETL/ELT).Preferred: Experience working with large biological or chemical datasets (e.g., genomics, proteomics, small molecules).Preferred: Experience with some database querying language (e.g. SQL)Relocation benefits are not available for this job posting. The expected salary range for this position based on the primary location of  California is $50.00 hour.  Actual pay will be determined based on experience, qualifications, geographic location, and other job-related factors permitted by law. This position also qualifies for paid holiday time off benefits.Genentech is an equal opportunity employer. It is our policy and practice to employ, promote, and otherwise treat any and all employees and applicants on the basis of merit, qualifications, and competence. The company's policy prohibits unlawful discrimination, including but not limited to, discrimination on the basis of Protected Veteran status, individuals with disabilities status, and consistent with all federal, state, or local laws.If you have a disability and need an accommodation in relation to the online application process, please contact us by completing this form Accommodations for Applicants.",
-      "job_apply_link": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CSCoE-AI-for-Drug-Discovery_202512-131719",
-      "job_posted_at_datetime_utc": "2025-12-15T23:45:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "genentech-intern-cscoe-ai-for-drug-discovery-san-bruno",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:32:18.737Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Intern-Computational Fluid Dynamics",
-      "employer_name": "ASML",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "IntroductionASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market, and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.An internship at ASML is a great opportunity to learn about working in a corporate setting and to provide hands on experience solving real world problems in a team environment. We are looking for a candidate who can help develop next generation methods for engineering analysis of Multiphysics problems.Your Assignment:Specific tasks will be tailored to match the education / experience level of the intern and current needs of ASML analysis team, e.g. Reduced Order Modeling (ROM), Machine Learning, uncertainty quantification (UQ), CFD post-processing.Work in a team environment alongside experienced engineers to achieve intern project goals.Document project and present the results to ASML analysis stakeholders.Perform other duties as assigned.Your Profile:Must be pursuing a degree in Engineering, Science or similar discipline. Minimum of Masters degree, PhD, preferred. SkillsKnowledge of computational fluid dynamics.Experience using OpenFOAM/ SnappyHexMesh or StarCCM+ , COMSOL software.Experience in Physics-Informed Neural Network, Machine Learning frameworks .Have strong written and oral communicative skills.Be a demonstrated “team player” with a quality orientation and interpersonal skills.Have strong problem solving skills and the ability to take initiative.Other InformationThis position is located on-site in Enter Location, San Diego, CA .  It requires onsite presence to attend in-person work-related events, trainings and meetings and to further ensure teamwork, collaboration and innovation.A flexible workplace arrangement may be available to employees working in roles conducive to remote work (up to two days a week).Routinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally required to move around the campus.Occasionally lift and/or move up to 20 pounds.Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.Must be willing to work in a clean room environment, wearing coveralls, hoods, booties, safety glasses and gloves for entire duration of shift.While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch.Potential candidates will meet the education and experience requirements provided on the above job description and excel in completing the listed responsibilities for this role.   All candidates receiving an offer of employment must successfully complete a background check band any other tests that may be required.           The current base annual salary range for this role is currently $18.00  -  $56.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.   This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Computational-Fluid-Dynamics-Summer-2026_J-00327711",
-      "job_posted_at_datetime_utc": "2025-12-15T23:36:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-intern-computational-fluid-dynamics-san-diego",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:32:18.737Z",
-    "postedAt": "2025-12-22T07:49:44.016Z"
-  },
-  {
-    "job": {
       "job_title": "Data Engineering Intern",
       "employer_name": "Vera Institute of Justice",
       "job_city": "New Orleans",
@@ -794,10 +694,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T07:56:28.149Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T07:56:28.149Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T07:56:28.149Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T07:56:28.149Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T07:56:28.149Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "Apex Fintech Solutions",
       "job_city": "Portland",
       "job_state": "OR",
-      "job_description": "Join Apex Fintech Solutions in this exciting opportunity.",
+      "job_description": "WHO WE AREApex Fintech Solutions (AFS) powers innovation and the future of digital wealth management by processing millions of transactions daily, to simplify, automate, and facilitate access to financial markets for all. Our robust suite of fintech solutions enables us to support clients such as Stash, Betterment, SoFi, and Webull, and more than 20 million of our clients' customers. Collectively, AFS creates an environment in which companies with the biggest ideas in fintech are empowered to change the world. As a global organization, we have offices in Austin, Dallas, Chicago, New York, Portland, Belfast, and Manila.If you are seeking a fast-paced and entrepreneurial environment where you'll have the opportunity to make an immediate impact, and you have the guts to change everything, this is the place for you. AFS has received a number of prestigious industry awards, including:2021, 2020, 2019, and 2018 Best Wealth Management Company - presented by Fintech Breakthrough Awards2021 Most Innovative Companies - presented by Fast Company2021 Best API & Best Trading Technology - presented by Global Fintech AwardsABOUT THIS ROLEApex Fintech Solutions is looking for a PECP Intern with unbounded potential for a development team on the front lines of Apex's high-volume, high-availability trade clearing suite. We partner with some of the industry's hottest next-generation stock trading products. You'll be at the center of rapidly scaling services that will test your limits.Apex engineering teams are charged with building the services our clients love and are at the heart of our future product innovations. Apex has begun its transformation from on-premise infrastructure to the Cloud (GCP & AWS), and our team is responsible for transforming our products into the next generation clearing platform that will lead our industry for years to come. We are in need of smart, developers to build out our cloud-native (GCP/AWS), event-driven (Apache Kafka), Microservices framework.Have you been waiting on the opportunity to gain hands-on experience in the fintech industry? Now's your chance. What you will do:Design, develop, test, deploy, maintain and improve software.Learn from and apply design techniques and coding standards coached by our Senior Engineers.Build resilient, self-scaling, self-healing services that allow you to sleep through the night.Support the production systems that you build. This includes build, deployment (CI/CD), and monitoring (Grafana, Prometheus, PagerDuty).Writing high-quality, well-tested code. Maintaining high code-quality standards across your team via code reviews.What you can expect:A highly collaborative environment where everyone is focused on outcomes that build momentum for Apex to reach its goals.A culture that values a test-centric approach to software development where 100% unit test coverage is the expectation.End-to-end ownership of what you deploy. From documentation to service-level objectives, your team is ultimately responsible for the health of your products.Contribute to and benefit from a culture of continuous learning. Access to mentors, generous policies regarding attending industry conferences and book reimbursement, regular lunch and learns.Quarterly 2-day hackathons.An environment committed to using the right tool to get the job done.Work that matters.The skills you'll need to succeed: Currently pursuing a BA, BS, MS, PhD degree in Computer Science, Engineering or related technology field0 - 2+ years of experience as a software developer or similar job roles.Ability to learn new technologies (languages, tools, frameworks) quickly.Excellent verbal and written communication skills.Financial services background is a plus.Preferred skills:Have a real passion for software engineering, as demonstrated by previous internships, work experience, projects, or publicationsFamiliarity with application of common design patternsInterested in backed or full stack software developmentEither previous knowledge in financial markets or a strong interest in learning#enginering #intern #part-time​Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.Our RewardsWe offer a robust package of employee perks and benefits, including healthcare benefits (medical, dental and vision, EAP), competitive PTO, 401k match, parental leave, and HSA contribution match. We also provide our employees with a paid subscription to the Calm app and offer generous external learning and tuition reimbursement benefits. At AFS, we offer a hybrid work schedule for most roles that allows employees to have the flexibility of working from home and one of our primary offices.EEO StatementApex Fintech Solutions is an equal opportunity employer that does not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, and gender identity), national origin, age, disability, veteran status, marital status, or any other protected characteristic. Our hiring practices ensure that all qualified applicants receive fair consideration without regard to these characteristics.Disability StatementApex Fintech Solutions is committed to creating an inclusive and accessible workplace for all candidates, including those with disabilities. We are dedicated to ensuring equal employment opportunities and providing reasonable accommodations to qualified individuals with disabilities. If you require reasonable accommodations to participate in the application or interview process, please submit your request via the Candidate Accommodation Requests Form. We will work with you to provide the necessary accommodations to ensure your full participation in our hiring process.",
       "job_apply_link": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Portland-OR/PCEP-Intern_JR104001",
       "job_posted_at_datetime_utc": "2025-12-15T23:23:25.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "apex-fintech-pcep-intern-portland"
+      "id": "apex-fintech-pcep-intern-portland",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T07:55:54.493Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Seagate Technology ",
       "job_city": "Bloomington",
       "job_state": "MN",
-      "job_description": "Join Seagate Technology  in this exciting opportunity.",
+      "job_description": "About our group: Seagate's Wafer Manufacturing Operations Metrology Engineering organization is seeking an Engineering Intern to conduct experimental trials and participate in continuous improvement projects during summer 2026. This position will be located in Seagate’s Bloomington, MN facility. About the role - you will: Develop technical understanding of one or more metrology tools used in the wafer manufacturing process. Perform metrology recipe updates, gage studies & equipment improvement projects to support metrology improvements. This will include process-based experiments, data collection and analysis. Develop software tools as needed to complete projects and assist metrology engineers. About you: Can effectively discuss technical concepts in both written and verbal communication. Must be highly motivated and self-directed. Your experience includes: Statistics and Data Analysis experience using R, Excel, JMP or Python. Practical lab experience. Completed at least one year of a graduate degree in Engineering, Chemistry, Material Science or Physics and returning for classes in Fall 2026. Location: Our Normandale campus spans two suburbs, Edina and Bloomington, and serves as the Recording Head development and manufacturing arm of Seagate. Located in the heart of a bustling community, Seagate offers an on-site café, or if you prefer, you can drive to one of many restaurants just minutes away. Need to grab a gift over lunch time? Shopping is abundant in the area. If working out is your thing, the on-site fully equipped fitness center hosts wellness programs, outdoor activities, tournaments and group workouts. Looking for something more laid back? Reset in one of our meditation rooms, or simply take a walk around our indoor walking path. On-site cultural festivals, celebrations and community volunteer opportunities also abound. The estimated base wage range for this position is $35 - $43/hr. The individual base wage is based on work location and additional factors, including job-related skills, experience, and relevant education or training. Seagate offers comprehensive benefits to its eligible Interns, including, but not limited to, medical, dental, vision, and participation in the employee stock purchase plan. Seagate also offers Interns 12 paid holidays and a minimum of 48 hours of paid sick leave. The benefits for this position are based on a 24 to 40-hour-per-week schedule for a full calendar year and may differ depending on work location and tenure with the Company. Location: Normandale, United States Travel: None",
       "job_apply_link": "https://seagatecareers.com/job/Bloomington-Metrology-Intern-Summer-2026-MN/1349897000/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-15T23:22:27.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "seagate-technology-metrology-intern-summer-2026-bloomington"
+      "id": "seagate-technology-metrology-intern-summer-2026-bloomington",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T07:55:54.493Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "KLA",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join KLA in this exciting opportunity.",
+      "job_description": "Company OverviewKLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.Group/DivisionWith over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA’s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The Broadband Plasma Division (BBP) provides market-leading patterned wafer optical inspection systems for leading-edge IC manufacturing. Logic, foundry, and memory customers depend on BBP products to detect yield-critical defects for process debug and excursion monitoring at advanced process nodes. BBP flagship products include the 29xx and 39xx series which leverage Broadband Plasma technology to capture a wide range of defects with ultimate sensitivity at the optical inspection speeds needed for inline defect monitoring.Job Description/Preferred QualificationsEducation:BS/MS in Computer Science, Data Science, or related field.Skills:Python, ML/DL frameworks (PyTorch/TensorFlow).Familiarity with Agentic AI tools (LangChain, AutoGen) and LLM orchestration.Basic knowledge of MLOps and cloud platforms.Preferred:Coursework or projects in AI agents, model evaluation, or workflow automation.Strong problem-solving and communication skills.Minimum QualificationsRequires less than 1 year of related experienceBase Pay Range: $35.00 - $47.00 per hour based on pursuit of a Bachelors and MastersPrimary Location: USA-CA-Milpitas-KLAKLA’s total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.Interns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.               KLA is proud to be an Equal Opportunity Employer. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us at talent.acquisition@kla.com or at +1-408-352-2808 to request accommodation.Be aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees.  KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA’s Careers website for legitimate job postings.  KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers.  If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.",
       "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern---Model-Evaluation--Scalability---Agentic-AI_2532902",
       "job_posted_at_datetime_utc": "2025-12-15T23:21:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kla-ai-ml-engineering-intern-model-evaluation-scalability-agentic-ai-milpitas"
+      "id": "kla-ai-ml-engineering-intern-model-evaluation-scalability-agentic-ai-milpitas",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T07:55:54.493Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7584179082162653445",
       "job_posted_at_datetime_utc": "2025-12-15T23:21:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-software-engineer-project-intern-lead-ads-2026-start-bs-ms-san-jose"
+      "id": "tiktok-software-engineer-project-intern-lead-ads-2026-start-bs-ms-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T07:55:54.493Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "Micron Technology",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Micron Technology in this exciting opportunity.",
+      "job_description": "Our vision is to transform how the world uses information to enrich life for all. Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.Department IntroMicron’s Silicon Systems AI Group is leading innovations using sophisticated technology to transform silicon-to-systems development. Our mission is to accelerate product innovation by creating new paradigms in AI and demonstrating first-of-its-kind capabilities. This small, agile team collaborates with domain experts and data scientists across Micron and beyond to deliver modern solutions that shape the future of memory technology.Position OverviewAs an AI Research Intern, you will design and implement advanced AI algorithms to improve Micron’s silicon and systems development processes. This role offers the freedom and resources to conduct publishable research while working on real-world projects. You will collaborate with internal teams and external researchers to bring up proof-of-concept demonstrations and transfer technology into production workflows.ResponsibilitiesDesign and implement modern AI algorithms for real-world semiconductor and systems challenges.Rapidly develop and demonstrate proof-of-concept solutions.Collaborate with AI architects, internal product teams, and external research partners.Maintain high-quality documentation and share knowledge within the team.Publish original research and present findings at top-tier conferences.Develop implementation plans to transfer AI technologies to relevant Micron groups.Minimum QualificationsPursuing a Master’s or Ph.D. in Computer Science, Computer Engineering, or related field.Strong theoretical knowledge in AI domains: machine learning, deep learning, reinforcement learning, NLP.Excellent programming skills in Python.Familiarity with ML frameworks such as PyTorch and TensorFlow.Solid mathematical foundation for algorithm development.Strong written and oral communication skills.Preferred QualificationsProven research experience with publications in top-tier ML conferences.Ability to implement and scale AI algorithms for large datasets.Experience with distributed computing and GPU acceleration.Demonstrated ability to work independently and in cross-functional teams.The US base salary range that Micron Technology estimates it could pay for this full-time position is:$31.15 - $37.38 an hourAdditional compensation may include benefits, bonuses and equity.Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target base pay for new hire salaries of the position across all US locations. Within the range, individual pay is determined by work location and additional job-related factors, including knowledge, skills, experience, tenure and relevant education or training. The pay scale is subject to change depending on business needs. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future.  We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget.  Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave.  Additionally, Micron benefits include a robust paid time-off program and paid holidays.  For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.To learn about your  right to work click here.To learn more about Micron, please visit micron.com/careersUS Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at  hrsupport_na@micron.com or 1-800-336-8918 (select option #3)Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.   Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.",
       "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330",
       "job_posted_at_datetime_utc": "2025-12-15T23:21:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "micron-technology-intern-ai-ml-algorithms-silicon-systems-ai-san-jose"
+      "id": "micron-technology-intern-ai-ml-algorithms-silicon-systems-ai-san-jose",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T07:55:54.493Z",
     "postedAt": null
   },
   {
