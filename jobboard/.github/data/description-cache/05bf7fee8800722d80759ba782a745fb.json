@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8635",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "As a Data Scientist Intern, you will explore how data science drives strategic decisions in the gaming industry by working with both market and in-house datasets. This internship offers hands-on experience in exploratory data analysis (EDA), predictive modeling, data visualization and applying advanced AI techniques—including large language models (LLMs)—to uncover trends and generate actionable insights. The ideal candidate is eager to learn, detail-oriented, and passionate about transforming complex data into meaningful business impact.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8635",
+      "fetchedAt": "2025-12-22T08:32:41.084Z"
+    }
+  },
+  "cachedAt": 1766392361084
+}
