@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T17:47:26.915Z",
+  "lastUpdated": "2025-12-22T17:53:53.215Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9978,14 +9978,69 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000099877095",
       "discordThreadId": "1452719182839025737",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-applications-engineer-internship-dallas-2025-12-22-1",
+      "jobId": "asml-applications-engineer-internship-dallas",
+      "company": "ASML",
+      "title": "Applications Engineer Internship",
+      "postedToDiscord": "2025-12-22T17:53:35.857Z",
+      "sourceDate": "2025-12-19T23:41:47.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Applications-Engineer-Internship_J-00330552",
+      "discordThreadId": "1452720730453053602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-algorithm-engineering-intern-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-algorithm-engineering-intern-san-jose",
+      "company": "ASML",
+      "title": "Internship – Algorithm Engineering Intern",
+      "postedToDiscord": "2025-12-22T17:53:39.583Z",
+      "sourceDate": "2025-12-19T23:41:41.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Algorithm-Engineering-Intern_J-00327995",
+      "discordThreadId": "1452720745644818697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-software-engineering-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-software-engineering-san-jose",
+      "company": "ASML",
+      "title": "Internship - Software Engineering",
+      "postedToDiscord": "2025-12-22T17:53:43.058Z",
+      "sourceDate": "2025-12-19T23:41:40.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineering_J-00327848",
+      "discordThreadId": "1452720761100828824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-full-stack-software-engineer-intern-summer-2026-internship-waltham-2025-12-22-1",
+      "jobId": "motorola-full-stack-software-engineer-intern-summer-2026-internship-waltham",
+      "company": "Motorola",
+      "title": "Full Stack Software Engineer Intern – Summer 2026 Internship",
+      "postedToDiscord": "2025-12-22T17:53:49.548Z",
+      "sourceDate": "2025-12-19T23:50:38.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Full-Stack-Software-Engineer-Intern---Summer-2026-Internship_R60172",
+      "discordThreadId": "1452720788489769043",
+      "instanceNumber": 1
+    },
+    {
+      "id": "armanino-summer-2026-ai-intern-century-city-culver-city-2025-12-22-1",
+      "jobId": "armanino-summer-2026-ai-intern-century-city-culver-city",
+      "company": "Armanino",
+      "title": "Summer 2026 – AI Intern - Century City",
+      "postedToDiscord": "2025-12-22T17:53:53.215Z",
+      "sourceDate": "2025-12-19T23:49:13.000Z",
+      "sourceUrl": "https://armaninollp.wd1.myworkdayjobs.com/en-US/Armanino/job/Century-City-California/Summer-2026---AI-Intern--Century-City-_JR103406",
+      "discordThreadId": "1452720802754461868",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 907,
+    "totalJobs": 912,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T17:47:26.915Z",
+      "date": "2025-12-22T17:53:53.215Z",
       "archived": 0
     }
   }
