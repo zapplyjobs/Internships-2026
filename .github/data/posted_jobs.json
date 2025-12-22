@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T05:06:54.917Z",
+  "lastUpdated": "2025-12-22T05:19:16.538Z",
   "jobs": [
     {
       "id": "marmon-holdings-data-automation-engineer-intern-morton-grove-2025-12-15-1",
@@ -9307,14 +9307,69 @@
       "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
       "discordThreadId": "1452527788677529705",
       "instanceNumber": 1
+    },
+    {
+      "id": "fox-fox-technology-intern-program-live-sports-virtual-enhancement-operator-tempe-2025-12-22-1",
+      "jobId": "fox-fox-technology-intern-program-live-sports-virtual-enhancement-operator-tempe",
+      "company": "FOX",
+      "title": "FOX Technology Intern Program - Live Sports Virtual Enhancement Operator",
+      "postedToDiscord": "2025-12-22T05:18:59.774Z",
+      "sourceDate": "2025-12-17T02:46:56.000Z",
+      "sourceUrl": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Summer-and-Fall-2026-FOX-Technology-Internship-Program---Live-Sports-Virtual-Enhancement-Operator_R50030979",
+      "discordThreadId": "1452530829371904042",
+      "instanceNumber": 1
+    },
+    {
+      "id": "factset-buy-side-analytics-intern-charlotte-2025-12-22-1",
+      "jobId": "factset-buy-side-analytics-intern-charlotte",
+      "company": "FactSet",
+      "title": "Buy-Side Analytics Intern",
+      "postedToDiscord": "2025-12-22T05:19:03.413Z",
+      "sourceDate": "2025-12-17T02:44:35.000Z",
+      "sourceUrl": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/United-States-Charlotte-1213-W-Morehead-St-Charlotte/Buy-Side-Analytics-Internship---Charlotte--Summer-2026-_R30677",
+      "discordThreadId": "1452530843846447166",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bose-software-engineer-in-test-intern-co-op-framingham-2025-12-22-1",
+      "jobId": "bose-software-engineer-in-test-intern-co-op-framingham",
+      "company": "Bose",
+      "title": "Software Engineer in Test Intern/Co-op",
+      "postedToDiscord": "2025-12-22T05:19:06.804Z",
+      "sourceDate": "2025-12-17T00:42:36.000Z",
+      "sourceUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Software-Engineer-in-Test-Co-op_R28310",
+      "discordThreadId": "1452530859000205372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "direct-supply-web-development-intern-milwaukee-2025-12-22-1",
+      "jobId": "direct-supply-web-development-intern-milwaukee",
+      "company": "Direct Supply",
+      "title": "Web Development Intern",
+      "postedToDiscord": "2025-12-22T05:19:13.167Z",
+      "sourceDate": "2025-12-17T02:40:28.000Z",
+      "sourceUrl": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Web-Development-Intern_REQ-2025-2286",
+      "discordThreadId": "1452530885894078555",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-product-development-engineer-summer-mountain-view-2025-12-22-1",
+      "jobId": "samsung-research-america-intern-product-development-engineer-summer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Product Development Engineer - Summer",
+      "postedToDiscord": "2025-12-22T05:19:16.538Z",
+      "sourceDate": "2025-12-17T02:20:57.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8335701002",
+      "discordThreadId": "1452530899886280784",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 846,
+    "totalJobs": 851,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T05:06:54.917Z",
+      "date": "2025-12-22T05:19:16.538Z",
       "archived": 0
     }
   }
