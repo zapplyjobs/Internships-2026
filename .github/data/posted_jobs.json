@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T08:50:33.431Z",
+  "lastUpdated": "2025-12-22T09:00:41.492Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9208,14 +9208,69 @@
       "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8637",
       "discordThreadId": "1452584069073211447",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-security-software-developer-co-op-sunnyvale-2025-12-22-1",
+      "jobId": "nokia-security-software-developer-co-op-sunnyvale",
+      "company": "Nokia",
+      "title": "Security Software Developer Co-Op",
+      "postedToDiscord": "2025-12-22T09:00:21.188Z",
+      "sourceDate": "2025-12-15T23:06:46.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28624",
+      "discordThreadId": "1452586534422315120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-ai-ml-e-commerce-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-ai-ml-e-commerce-intern-milpitas",
+      "company": "Corsair",
+      "title": "AI/ML E-commerce Intern",
+      "postedToDiscord": "2025-12-22T09:00:24.648Z",
+      "sourceDate": "2025-12-15T23:06:01.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8641",
+      "discordThreadId": "1452586550306148372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-software-dev-ai-ml-coop-naperville-2025-12-22-1",
+      "jobId": "nokia-software-dev-ai-ml-coop-naperville",
+      "company": "Nokia",
+      "title": "Software Dev AI/ML Coop",
+      "postedToDiscord": "2025-12-22T09:00:31.259Z",
+      "sourceDate": "2025-12-15T23:06:59.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27415",
+      "discordThreadId": "1452586577279586367",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-data-science-intern-2-milpitas-2025-12-22-1",
+      "jobId": "corsair-data-science-intern-2-milpitas",
+      "company": "Corsair",
+      "title": "Data Science Intern 2",
+      "postedToDiscord": "2025-12-22T09:00:34.884Z",
+      "sourceDate": "2025-12-15T23:06:15.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8638",
+      "discordThreadId": "1452586592194793513",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-data-scientist-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-data-scientist-intern-milpitas",
+      "company": "Corsair",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2025-12-22T09:00:41.492Z",
+      "sourceDate": "2025-12-15T23:06:12.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8635",
+      "discordThreadId": "1452586620271198361",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 837,
+    "totalJobs": 842,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T08:50:33.431Z",
+      "date": "2025-12-22T09:00:41.492Z",
       "archived": 0
     }
   }
