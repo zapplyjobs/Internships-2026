@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T05:31:54.491Z",
+  "lastUpdated": "2025-12-22T05:44:57.959Z",
   "jobs": [
-    {
-      "id": "zebra-technologies-2026-summer-internship-software-engineering-handheld-mobile-computer-corporate-and-business-services-ceo-lake-grove-2025-12-15-1",
-      "jobId": "zebra-technologies-2026-summer-internship-software-engineering-handheld-mobile-computer-corporate-and-business-services-ceo-lake-grove",
-      "company": "Zebra Technologies",
-      "title": "2026 Summer Internship - Software Engineering - Handheld Mobile Computer - Corporate and Business Services - CEO",
-      "postedToDiscord": "2025-12-15T05:38:40.755Z",
-      "sourceDate": "2025-08-27T22:07:05.000Z",
-      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343627851934",
-      "discordThreadId": "1449999074743943251",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-intern-software-engineer-embedded-posted-date-orlando-2025-12-15-1",
-      "jobId": "general-dynamics-intern-software-engineer-embedded-posted-date-orlando",
-      "company": "General Dynamics",
-      "title": "Intern Software Engineer - Embedded Posted Date",
-      "postedToDiscord": "2025-12-15T05:38:42.470Z",
-      "sourceDate": "2025-08-27T14:54:07.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job",
-      "discordThreadId": "1449999082205745215",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-software-engineer-intern-conversion-herndon-2025-12-15-1",
-      "jobId": "general-dynamics-software-engineer-intern-conversion-herndon",
-      "company": "General Dynamics",
-      "title": "Software Engineer – Intern Conversion",
-      "postedToDiscord": "2025-12-15T05:38:44.110Z",
-      "sourceDate": "2025-08-27T14:49:06.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job",
-      "discordThreadId": "1449999089193320508",
-      "instanceNumber": 1
-    },
-    {
-      "id": "crowdvolt-full-stack-engineer-intern-new-york-2025-12-15-1",
-      "jobId": "crowdvolt-full-stack-engineer-intern-new-york",
-      "company": "CrowdVolt",
-      "title": "Full-Stack Engineer Intern",
-      "postedToDiscord": "2025-12-15T05:38:45.755Z",
-      "sourceDate": "2025-08-27T14:45:02.000Z",
-      "sourceUrl": "https://www.workatastartup.com/jobs/80516",
-      "discordThreadId": "1449999095996616849",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zebra-software-engineering-handheld-mobile-computer-holtsville-2025-12-15-1",
-      "jobId": "zebra-software-engineering-handheld-mobile-computer-holtsville",
-      "company": "Zebra",
-      "title": "Software Engineering, Handheld Mobile Computer",
-      "postedToDiscord": "2025-12-15T05:38:47.434Z",
-      "sourceDate": "2025-08-27T14:42:06.000Z",
-      "sourceUrl": "https://careers.zebra.com/careers/job/343627851934",
-      "discordThreadId": "1449999103063883869",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vertiv-software-engineering-internship-delaware-2025-12-15-1",
-      "jobId": "vertiv-software-engineering-internship-delaware",
-      "company": "Vertiv",
-      "title": "Software Engineering Internship",
-      "postedToDiscord": "2025-12-15T05:38:49.127Z",
-      "sourceDate": "2025-08-27T14:37:56.000Z",
-      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256957",
-      "discordThreadId": "1449999109745410200",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vertiv-firmware-engineering-internship-delaware-2025-12-15-1",
-      "jobId": "vertiv-firmware-engineering-internship-delaware",
-      "company": "Vertiv",
-      "title": "Firmware Engineering Internship",
-      "postedToDiscord": "2025-12-15T05:38:50.777Z",
-      "sourceDate": "2025-08-27T14:37:01.000Z",
-      "sourceUrl": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256913",
-      "discordThreadId": "1449999116808618127",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zebra-technologies-2026-summer-internship-marketing-data-science-analytics-corporate-and-business-services-ceo-vernon-hills-2025-12-15-1",
-      "jobId": "zebra-technologies-2026-summer-internship-marketing-data-science-analytics-corporate-and-business-services-ceo-vernon-hills",
-      "company": "Zebra Technologies",
-      "title": "2026 Summer Internship - Marketing Data Science & Analytics - Corporate and Business Services - CEO",
-      "postedToDiscord": "2025-12-15T05:38:55.561Z",
-      "sourceDate": "2025-08-27T22:07:04.000Z",
-      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343627924034",
-      "discordThreadId": "1449999136874037258",
-      "instanceNumber": 1
-    },
-    {
-      "id": "aflac-2026-digital-services-intern-columbus-2025-12-15-1",
-      "jobId": "aflac-2026-digital-services-intern-columbus",
-      "company": "Aflac",
-      "title": "2026 Digital Services Intern",
-      "postedToDiscord": "2025-12-15T05:39:00.270Z",
-      "sourceDate": "2025-08-27T16:06:19.000Z",
-      "sourceUrl": "https://careers.aflac.com/job/2026-Digital-Services-Intern-GA-31999/1320691100/?ats=successfactors",
-      "discordThreadId": "1449999156876939477",
-      "instanceNumber": 1
-    },
     {
       "id": "the-hanover-associate-solutions-developer-worcester-2025-12-15-1",
       "jobId": "the-hanover-associate-solutions-developer-worcester",
@@ -9318,14 +9219,69 @@
       "sourceUrl": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Summer-Intern-2026--Statistical-Programming_REQ-27582-1",
       "discordThreadId": "1452534078745219092",
       "instanceNumber": 1
+    },
+    {
+      "id": "factset-buy-side-analytics-internship-chicago-summer-2026-chicago-2025-12-22-1",
+      "jobId": "factset-buy-side-analytics-internship-chicago-summer-2026-chicago",
+      "company": "FactSet",
+      "title": "Buy-Side Analytics Internship - Chicago - Summer 2026",
+      "postedToDiscord": "2025-12-22T05:44:38.380Z",
+      "sourceDate": "2025-12-16T23:50:39.000Z",
+      "sourceUrl": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Chicago-IL-USA/Buy-Side-Analytics-Internship---Chicago--Summer-2026-_R30676",
+      "discordThreadId": "1452537282757267477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "factset-buy-side-analytics-intern-austin-2025-12-22-1",
+      "jobId": "factset-buy-side-analytics-intern-austin",
+      "company": "FactSet",
+      "title": "Buy-Side Analytics Intern",
+      "postedToDiscord": "2025-12-22T05:44:41.736Z",
+      "sourceDate": "2025-12-16T23:50:36.000Z",
+      "sourceUrl": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Austin-TX-USA/Buy-Side-Analytics-Internship---Austin--Summer-2026-_R30674",
+      "discordThreadId": "1452537296883552382",
+      "instanceNumber": 1
+    },
+    {
+      "id": "red-hat-machine-learning-systems-research-intern-boston-2025-12-22-1",
+      "jobId": "red-hat-machine-learning-systems-research-intern-boston",
+      "company": "Red Hat",
+      "title": "Machine Learning Systems Research Intern",
+      "postedToDiscord": "2025-12-22T05:44:48.166Z",
+      "sourceDate": "2025-12-16T23:49:48.000Z",
+      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052661",
+      "discordThreadId": "1452537323958046803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-graduate-network-systems-intern-el-segundo-2025-12-22-1",
+      "jobId": "the-aerospace-graduate-network-systems-intern-el-segundo",
+      "company": "The Aerospace Corporation",
+      "title": "Graduate Network Systems Intern",
+      "postedToDiscord": "2025-12-22T05:44:51.615Z",
+      "sourceDate": "2025-12-16T23:32:29.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Graduate-Network-Systems-Intern_R013900",
+      "discordThreadId": "1452537338172276827",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vistra-intern-maintenance-cleburne-2025-12-22-1",
+      "jobId": "vistra-intern-maintenance-cleburne",
+      "company": "Vistra",
+      "title": "Intern - Maintenance",
+      "postedToDiscord": "2025-12-22T05:44:57.959Z",
+      "sourceDate": "2025-12-16T23:32:43.000Z",
+      "sourceUrl": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Glen-Rose-Texas/Summer-Intern---Comanche-Peak---Maintenance_40014127",
+      "discordThreadId": "1452537364802179106",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 847,
+    "totalJobs": 843,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T05:31:54.491Z",
+      "date": "2025-12-22T05:44:57.959Z",
       "archived": 0
     }
   }
