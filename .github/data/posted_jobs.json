@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T08:33:09.300Z",
+  "lastUpdated": "2025-12-22T08:50:33.431Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9153,14 +9153,69 @@
       "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
       "discordThreadId": "1452579690425356319",
       "instanceNumber": 1
+    },
+    {
+      "id": "moog-intern-it-computer-science-data-management-buffalo-2025-12-22-1",
+      "jobId": "moog-intern-it-computer-science-data-management-buffalo",
+      "company": "Moog ",
+      "title": "Intern – IT Computer Science - Data Management",
+      "postedToDiscord": "2025-12-22T08:50:15.904Z",
+      "sourceDate": "2025-12-15T23:19:36.000Z",
+      "sourceUrl": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Management_R-25-13039",
+      "discordThreadId": "1452583996532723864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-database-software-developer-co-op-sunnyvale-2025-12-22-1",
+      "jobId": "nokia-database-software-developer-co-op-sunnyvale",
+      "company": "Nokia",
+      "title": "Database Software Developer Co-op",
+      "postedToDiscord": "2025-12-22T08:50:19.541Z",
+      "sourceDate": "2025-12-15T23:07:21.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28649",
+      "discordThreadId": "1452584011363913770",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-software-dev-intern-naperville-2025-12-22-1",
+      "jobId": "nokia-software-dev-intern-naperville",
+      "company": "Nokia",
+      "title": "Software Dev Intern",
+      "postedToDiscord": "2025-12-22T08:50:23.262Z",
+      "sourceDate": "2025-12-15T23:07:02.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27418",
+      "discordThreadId": "1452584026454888560",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-bell-labs-ai-ran-research-intern-berkeley-heights-2025-12-22-1",
+      "jobId": "nokia-bell-labs-ai-ran-research-intern-berkeley-heights",
+      "company": "Nokia",
+      "title": "Bell Labs AI-RAN Research Intern",
+      "postedToDiscord": "2025-12-22T08:50:26.671Z",
+      "sourceDate": "2025-12-15T23:07:00.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28730",
+      "discordThreadId": "1452584042326392946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-data-science-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-data-science-intern-milpitas",
+      "company": "Corsair",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-22T08:50:33.430Z",
+      "sourceDate": "2025-12-15T23:15:18.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8637",
+      "discordThreadId": "1452584069073211447",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 832,
+    "totalJobs": 837,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T08:33:09.300Z",
+      "date": "2025-12-22T08:50:33.431Z",
       "archived": 0
     }
   }
