@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Life Cycle Optimization Intern",
-      "employer_name": "NRG Energy",
-      "job_city": "Princeton",
-      "job_state": "NJ",
-      "job_description": "As an NRG employee, we encourage you to take charge of your career and development journey. We invite you to explore exciting opportunities across our businesses. You’ll find that our dynamic work environment provides variety and challenge. Your growth is key to our ongoing success—take the lead in shaping your career development, goals and future! Job Summary: Welcome to NRG and the epicenter of personal power. We’re driven by the idea of a smarter, cleaner, digitally-enhanced energy ecosystem—and the possibilities that brings to the world and to the six million customers we serve. NRG Consumer’s Life Cycle Optimization team use a combination of technical and business skills to help NRG brands achieve their financial and strategic objectives. An Intern Analyst on the Life Cycle Optimization team learns the job while performing hands-on analytics and modeling. Essential Duties/Responsibilities: Learn the job while performing hands-on analytics and modeling Guide business partners to make more profitable decisions based on customer and prospect insights Process large amounts of data using Python and SQL Build predictive models based on frequentist, Bayesian, and machine learning methods Design and analyze experiments Inform and persuade business partners Adhere to our culture of humility, curiosity, and impact Working Conditions: Hybrid 4 days per week in the Houston office Minimum Requirements: Pursuing a bachelor’s degree in a quantitative discipline including but not limited to Statistics, Economics, Business, Math, and Computer Science Some experience programming with statistical software and database languages Preferred Qualifications: Interest in using data science to improve customer experience and business profitability Interest in analyzing retail electricity customer data and electricity consumption data Basic familiarity with Python packages such as NumPy, pandas, scikit-learn, XGBoost, Matplotlib, and lifelines Basic familiarity of methods such as frequentist statistics, Bayesian statistics, forecasting, optimization, causal inference, machine learning, and natural language processing Basic familiarity with data visualization tools like Power BI Ability to collaborate effectively with teammates NRG Energy is committed to a drug and alcohol-free workplace. To the extent permitted by law and any applicable collective bargaining agreement, employees are subject to periodic random drug testing, and post-accident and reasonable suspicion drug and alcohol testing. EOE AA M/F/Vet/Disability. Level, Title and/or Salary may be adjusted based on the applicant's experience or skills. Official description on file with Talent.",
-      "job_apply_link": "https://careers.nrgenergy.com/nrg/job/Princeton-Life-Cycle-Optimization-Intern-NJ-08540/1350440100/?ats=successfactors",
-      "job_posted_at_datetime_utc": "2025-12-17T16:27:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nrg-energy-life-cycle-optimization-intern-princeton",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": "2025-12-22T05:06:57.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer / Web Development Intern",
-      "employer_name": "Leidos",
-      "job_city": "Wixom",
-      "job_state": "MI",
-      "job_description": "Vehicle Information Technology (VIT) is seeking a talented computer science/software engineering major to work in an internship position during the summer of 2026. The successful candidate will work collaboratively with our team of software developers and will be assisting in the transition of VIT legacy software to more updated-modern technologies. Leidos VIT has over 30 years of experience providing both software and hardware solutions for various major automotive customers in multiple installations throughout the US, Canada and Mexico. Our customer OEMs depend on our solutions because of the robust and comprehensive nature of our products.This position will offer a mixture of both onsite and remote work.  Candidates may occasionally be working onsite at Leidos location in Walled Lake, Michigan. Primary ResponsibilitiesWork collaboratively with VIT team to design, develop, troubleshoot and debug new software solution for VIT legacy systems.Support creation and updating of all relevant documentation and specifications for design, development and testing.Use Agile development tools such as Jira, Confluence, and Bitbucket/Git to manage work and collaborate with your team.Develop maintainable code that matches specification.Identify potential roadblocks and develop around them.Own delivery of small parts of system application.Build software solutions which considers the customer first.Basic QualificationsMust be currently enrolled in a bachelor's degree of software engineering or computer engineering degree program.Understanding of software fundamentals: data structures, algorithms, design patterns, etc.Proficiency in at least one general-purpose programming language.Ability to complete tasking independently with minimal direct supervision.Strong communication skills, specifically absence of repeated grammatical and typographical errors.Strong analytical and problem-solving skills (e.g. debugging).Must be a US Citizen.Preferred QualificationsFamiliarity with any of the following: React.js, Node.js, JavaScript/Typescript, HTML/CSS, and SQLFamiliarity with web-based applications, servers, APIs, and databasesWillingness to learn new technologies and adapt to changeInterest in full-stack development – UI/design, database, and backendExperience from previous technical internships or demonstrated personal/school project experienceIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.Original Posting:December 17, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $48,100.00 - $86,950.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-      "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Engineer---Web-Development-Intern_R-00172085-1",
-      "job_posted_at_datetime_utc": "2025-12-17T16:26:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "leidos-software-engineer-web-development-intern-wixom",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": "2025-12-22T05:06:57.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Apprentice Geospatial Analyst",
-      "employer_name": "Leidos",
-      "job_city": "St. Louis",
-      "job_state": "MO",
-      "job_description": "The Software, Simulation, and Systems Engineering (S3E) Portfolio is seeking an Apprentice Geospatial Analyst (AGA) to support contracts centered on GEOINT data production for the National Geospatial Intelligence Agency. The S3E Portfolio provides geospatial intelligence support across a broad number of offices and agencies in the form of geospatial products, analysis, engineering and services.There is potential for this position to be supported remotely. Preference is to be in the Northern, VA or St. Louis, MO vicinity.Primary Responsibilities. The Apprentice GIS Analyst will provide the following:Support in geospatial analysis of satellite imagery to perform feature data extractionInteract daily with supervisors and/or functional peer groupsMust have ArcGIS experience, preferably with ArcGIS Pro, and an understanding of cartographic products, photo interpretation, and vector data editingExperience with Microsoft Office products including ExcelBasic Qualifications:High School Diploma with 0-3 years experienceUS Citizen is required (no dual citizenship, no Green Card)Entry level knowledge of GIS vector data, schema structures, and imagery exploitationESRI products including ArcGIS Pro. Preferred Qualifications:Bachelor's degree in GeographyIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.Original Posting:December 17, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $31,850.00 - $57,575.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-      "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Apprentice-Geospatial-Analyst_R-00171633-1",
-      "job_posted_at_datetime_utc": "2025-12-17T16:26:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "leidos-apprentice-geospatial-analyst-st-louis",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": "2025-12-22T05:06:57.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - LLM Performance Optimization",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Currently enrolled in a PhD program in Computer Science or a related STEM field. At least 1 year of experience with Large Language Model architecture or inference performance optimization. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Demonstrated ability to assess and fix kernel performance bottlenecks for GPUs or other high performance parallel computer architectures. Familiarity with optimizing compiler architecture and intermediate representations (such as LLVMIR or MLIR). Ability to think unconventionally to derive creative and innovative solutions.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556643548",
-      "job_posted_at_datetime_utc": "2025-12-17T10:19:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-research-intern-llm-performance-optimization-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": "2025-12-22T05:06:57.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Automation and Modeling Intern",
-      "employer_name": "AstraZeneca",
-      "job_city": "Durham",
-      "job_state": "NC",
-      "job_description": "We are looking Junior students majoring in engineering, chemistry, data science, or a related field for a 12-week internship role at our Durham, NC site from May 18 2026 to August 7 2026.Position Description:Aggregate, clean, and standardize historical and new delivered dose uniformity (DDU) data, define metadata and data models, and help establish workflows for automated data ingestion and validation.Collaborate with analytical scientists and automation engineers to map test parameters, instrument outputs, and quality controls into a robust, searchable database.Development of simple dashboards or reports, and data integrity checks to enable reproducible analyses and regulatory-ready traceability.Position Requirements:Junior students majoring in engineering, chemistry, data science, or a related fieldCoding skills such as Python or SQL.Enthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.Proficiency in MS Office 365.Candidates must have an expected graduation date after August 2026.US Work Authorization is required at time of application.This role will not be granting CPT support.Ability to report onsite to Durham, NC 5 days per week. This role will not provide relocation assistance.Compensation range: $37-39 per hourDate Posted16-Dec-2025Closing Date08-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
-      "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
-      "job_posted_at_datetime_utc": "2025-12-17T02:50:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "astrazeneca-data-automation-and-modeling-intern-durham",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": "2025-12-22T05:06:57.929Z"
-  },
-  {
-    "job": {
       "job_title": "FOX Technology Intern Program - Live Sports Virtual Enhancement Operator",
       "employer_name": "FOX",
       "job_city": "Tempe",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:53:46.081Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:19:19.550Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:53:46.081Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:19:19.550Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:53:46.081Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:19:19.550Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:53:46.081Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:19:19.550Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:53:46.081Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:19:19.550Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "FactSet",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join FactSet in this exciting opportunity.",
+      "job_description": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant accessto financial data and analytics that investors use to make crucial decisions.  At FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding their expectations.  FactSet creates flexible, open data and software solutions for over 170,000 investment professionals around the world, providing instant anytime, anywhere access to financial data and analytics that investors use to make key investment decisions.As a globally inclusive community unified by the FactSet spirit of going above and beyond for each other, we enable our people to bring their whole selves to work and to join in, be heard, contribute, and grow.FactSet's buy-side solutions continue to be a driving force in how we compete in the FinTech industry. The Analytics Product Specialist team is a group of subject matter experts, combining product and industry knowledge to help ensure customer success and drive retention for our Buy-Side clients.Your ImpactThe Buy-Side Analytics Internship Program introduces interns to FactSet’s solutions, clients, industry, and various teams within our client-facing and product organizations. Our Interns gain insight into our buy-side users and clients, assist in resolving clients’ technical requests, and obtain exposure to high-value, project-based engagements. The program will include opportunities to share new ideas and foster creative thinking to add value and have a lasting impact on the greater team. If you seek a challenging opportunity with long-term career potential at a growing company with a strong corporate culture, the Buy-Side Analytics Internship will be a perfect match for you.What You'll Do:Throughout the program, Buy-Side Analytics Intern will:Take part in an intensive training program that combines classroom sessions with hands-on assignments.Learn about our versatile client base by engaging in a series of learning activities and completing mock client presentations.Be paired with a member of the Analytics Product Specialist team, who will act as your mentor and help you build valuable connections and relationships and learn about FactSet’s suite of solutions.Learn about different teams and shadow Institutional Buy Side professionals to experience project-based engagements such as implementations, solutions optimizations, and other projects designed to create a better user experience for FactSet’s clients.Engage in an independent project and present your findings to the senior management team at the end of your internship.Meet members of the executive and senior management teams by attending the speaker series.What We’re Looking For:Buy-Side Analytics Interns have an interest in Finance and/or FinTech, working in a client focused environment, and a desire to collaborate across teams. We are excited by someone who is enthusiastic, curious, and takes pride in the work they do. Above all, we look for candidates with strong analytical and problem-solving skills, who are excited to join a world-class client service team of subject matter experts.Desire to be client-facing in a support roleExceptional verbal and written communication skillsStrong analytical and critical thinking skillsAbility to build relationships and work on teamsStrong knowledge of Microsoft Office with Excel skillsCurrent juniors (Graduating between December 2026 and May 2027) in good academic standingFactSet’s Internship programs are not eligible for immigration sponsorshipWhat’s In It for You:The opportunity to join a growing firm with a proven track record of success for over 40 years, made up of thoughtful, creative minds that value collaboration and welcome your new ideas to the tableIntensive training program that combines classroom sessions with hands-on assignments and equips you with necessary knowledge and skills to be successful in the programAbility to demonstrate individual achievement and develop versatile skillsets through project-based workA social community dedicated to volunteerism, intramural sports, and team-building eventsBusiness resource groups designed to cultivate an inclusive environment for allThe budgeted amount for this position is $26 an hour.Company Overview:FactSet Research Systems Inc. is a global provider of integrated financial information, analytical applications and industry-leading services for the investment and corporate communities. As a publicly traded company (NYSE:FDS | NASDAQ:FDS) recently added to the S&P 500 index, FactSet delivers superior content, analytics, and flexible technology to help more than 170,000 users see and seize opportunity sooner. For over 40 years, the company has served financial professionals, which include portfolio managers, investment research professionals, investment bankers, risk and performance analysts, wealth advisors and corporate clients.  FactSet gives our clients the edge to outperform with informed insights, workflow solutions across the portfolio lifecycle, and industry-leading support from dedicated specialists.At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process.  All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-Verify.At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process.  All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-VerifyFactSet is an Equal Opportunity Employer – M/F/Veteran/Disability/Sexual Orientation/Gender IdentityCompany Overview: FactSet (NYSE:FDS | NASDAQ:FDS) helps the financial community to see more, think bigger, and work better. Our digital platform and enterprise solutions deliver financial data, analytics, and open technology to more than 8,200 global clients, including over 200,000 individual users. Clients across the buy-side and sell-side, as well as wealth managers, private equity firms, and corporations, achieve more every day with our comprehensive and connected content, flexible next-generation workflow solutions, and client-centric specialized support. As a member of the S&P 500, we are committed to sustainable growth and have been recognized among the Best Places to Work in 2023 by Glassdoor as a Glassdoor Employees’ Choice Award winner. Learn more at www.factset.com and follow us on X and LinkedIn. At FactSet, we celebrate difference of thought, experience, and perspective. Qualified applicants will be considered for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, disability, protected veteran status or other characteristics protected by law. FactSet participates in E-Verify",
       "job_apply_link": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Chicago-IL-USA/Buy-Side-Analytics-Internship---Chicago--Summer-2026-_R30676",
       "job_posted_at_datetime_utc": "2025-12-16T23:50:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "factset-buy-side-analytics-internship-chicago-summer-2026-chicago"
+      "id": "factset-buy-side-analytics-internship-chicago-summer-2026-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:18:50.662Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "FactSet",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join FactSet in this exciting opportunity.",
+      "job_description": "FactSet creates flexible, open data and software solutions for over 200,000 investment professionals worldwide, providing instant accessto financial data and analytics that investors use to make crucial decisions.  At FactSet, our values are the foundation of everything we do. They express how we act and operate, serve as a compass in our decision-making, and play a big role in how we treat each other, our clients, and our communities. We believe that the best ideas can come from anyone, anywhere, at any time, and that curiosity is the key to anticipating our clients’ needs and exceeding their expectations.  FactSet creates flexible, open data and software solutions for over 170,000 investment professionals around the world, providing instant anytime, anywhere access to financial data and analytics that investors use to make key investment decisions.As a globally inclusive community unified by the FactSet spirit of going above and beyond for each other, we enable our people to bring their whole selves to work and to join in, be heard, contribute, and grow.FactSet's buy-side solutions continue to be a driving force in how we compete in the FinTech industry. The Analytics Product Specialist team is a group of subject matter experts, combining product and industry knowledge to help ensure customer success and drive retention for our Buy-Side clients.Your ImpactThe Buy-Side Analytics Internship Program introduces interns to FactSet’s solutions, clients, industry, and various teams within our client-facing and product organizations. Our Interns gain insight into our buy-side users and clients, assist in resolving clients’ technical requests, and obtain exposure to high-value, project-based engagements. The program will include opportunities to share new ideas and foster creative thinking to add value and have a lasting impact on the greater team. If you seek a challenging opportunity with long-term career potential at a growing company with a strong corporate culture, the Buy-Side Analytics Internship will be a perfect match for you.What You'll Do:Throughout the program, Buy-Side Analytics Intern will:Take part in an intensive training program that combines classroom sessions with hands-on assignments.Learn about our versatile client base by engaging in a series of learning activities and completing mock client presentations.Be paired with a member of the Analytics Product Specialist team, who will act as your mentor and help you build valuable connections and relationships and learn about FactSet’s suite of solutions.Learn about different teams and shadow Institutional Buy Side professionals to experience project-based engagements such as implementations, solutions optimizations, and other projects designed to create a better user experience for FactSet’s clients.Engage in an independent project and present your findings to the senior management team at the end of your internship.Meet members of the executive and senior management teams by attending the speaker series.What We’re Looking For:Buy-Side Analytics Interns have an interest in Finance and/or FinTech, working in a client focused environment, and a desire to collaborate across teams. We are excited by someone who is enthusiastic, curious, and takes pride in the work they do. Above all, we look for candidates with strong analytical and problem-solving skills, who are excited to join a world-class client service team of subject matter experts.Desire to be client-facing in a support roleExceptional verbal and written communication skillsStrong analytical and critical thinking skillsAbility to build relationships and work on teamsStrong knowledge of Microsoft Office with Excel skillsCurrent juniors (Graduating between December 26 and May 27 in good academic standingFactSet’s Internship programs are not eligible for immigration sponsorshipWhat’s In It for You:The opportunity to join a growing firm with a proven track record of success for over 40 years, made up of thoughtful, creative minds that value collaboration and welcome your new ideas to the tableIntensive training program that combines classroom sessions with hands-on assignments and equips you with necessary knowledge and skills to be successful in the programAbility to demonstrate individual achievement and develop versatile skillsets through project-based workA social community dedicated to volunteerism, intramural sports, and team-building eventsBusiness resource groups designed to cultivate an inclusive environment for allThe budgeted amount for this position is $26 an hour.Company Overview:FactSet Research Systems Inc. is a global provider of integrated financial information, analytical applications and industry-leading services for the investment and corporate communities. As a publicly traded company (NYSE:FDS | NASDAQ:FDS) recently added to the S&P 500 index, FactSet delivers superior content, analytics, and flexible technology to help more than 170,000 users see and seize opportunity sooner. For over 40 years, the company has served financial professionals, which include portfolio managers, investment research professionals, investment bankers, risk and performance analysts, wealth advisors and corporate clients.  FactSet gives our clients the edge to outperform with informed insights, workflow solutions across the portfolio lifecycle, and industry-leading support from dedicated specialists.At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process.  All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-Verify.At FactSet, we celebrate diversity of thought, experience, and perspective. We are committed to disrupting bias and a transparent hiring process.  All qualified applicants will be considered for employment regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. FactSet participates in E-VerifyFactSet is an Equal Opportunity Employer – M/F/Veteran/Disability/Sexual Orientation/Gender IdentityCompany Overview: FactSet (NYSE:FDS | NASDAQ:FDS) helps the financial community to see more, think bigger, and work better. Our digital platform and enterprise solutions deliver financial data, analytics, and open technology to more than 8,200 global clients, including over 200,000 individual users. Clients across the buy-side and sell-side, as well as wealth managers, private equity firms, and corporations, achieve more every day with our comprehensive and connected content, flexible next-generation workflow solutions, and client-centric specialized support. As a member of the S&P 500, we are committed to sustainable growth and have been recognized among the Best Places to Work in 2023 by Glassdoor as a Glassdoor Employees’ Choice Award winner. Learn more at www.factset.com and follow us on X and LinkedIn. At FactSet, we celebrate difference of thought, experience, and perspective. Qualified applicants will be considered for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, disability, protected veteran status or other characteristics protected by law. FactSet participates in E-Verify",
       "job_apply_link": "https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Austin-TX-USA/Buy-Side-Analytics-Internship---Austin--Summer-2026-_R30674",
       "job_posted_at_datetime_utc": "2025-12-16T23:50:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "factset-buy-side-analytics-intern-austin"
+      "id": "factset-buy-side-analytics-intern-austin",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:18:50.662Z",
     "postedAt": null
   },
   {
@@ -1026,11 +930,13 @@
       "job_posted_at_datetime_utc": "2025-12-16T23:49:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "red-hat-machine-learning-systems-research-intern-boston"
+      "id": "red-hat-machine-learning-systems-research-intern-boston",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:18:50.662Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Vistra",
       "job_city": "Cleburne",
       "job_state": "TX",
-      "job_description": "Join Vistra in this exciting opportunity.",
+      "job_description": "If you have what it takes to become part of the Vistra family and would like to start a promising career with a global leader, take a look at the exciting employment opportunities that are currently available and apply online.Job SummaryWork as part of a team to provide support to ensure reliability, availability, efficiency, and functionality of all equipment, processes and projects.Job DescriptionKey Accountabilities Interface with engineering staff, operations & maintenance groups, and other Vistra personnel to ensure consistent, practical, and effective engineering solutionsRotate through different groups within the engineering department to gain a working knowledge of engineering functional areas.  Shadowing of other departments, to include, but are not limited to Operations, Maintenance, Radiation Protection and ChemistryWill be assigned various engineering projects based on prior experience and courses completedComply with safety policy and procedures to ensure a safe working environmentPossess the ability to work independently on assignments and problem solve with teams and in a dynamic environmentAll other duties as assignedEducation, Experience & Skill RequirementsMust be a U.S. Citizen or Permanent Resident. Students sponsored through Optical Practical Training (OPT) or Curricular Practical Training (CPT) are NOT eligible for this internshipMust be currently enrolled in a 4-year institution of higher education and pursuing a Bachelor of Science or Master’s Degree in engineering, data science, or related disciplineExperience with programming languages, project management, Power BI, or machinery desiredProficient in Microsoft Office programs (Excel, Word, PowerPoint), Access Suite desiredExcellent verbal & written communication skills; presentation skills desiredOfficial transcripts must be received from your school prior to start dateMust be in good academic standing with your schoolJob FamilyGeneral ServicesCompanyVistra Nuclear Operations CompanyLocationsGlen Rose, TexasTexasWe are a company of people committed to:  Exceeding Customer Expectations, Great People, Teamwork, Competitive Spirit and Effective Communication.  If this describes you, then apply today!If you currently work for Vistra or its subsidiaries, please apply via the internal career site. It is the policy of the Company to comply with all employment laws and to afford equal employment opportunity to individuals in all aspects of employment, including in selection for job opportunities, without regard to race, color, religion, sex, sexual orientation, gender identity, pregnancy, national origin, age, disability, genetic information, military service, protected veteran status, or any other consideration protected by federal, state or local laws. If you are an individual with a disability and need assistance submitting an application or would like to request an accommodation, please email us at assistance@vistraenergy.com to make a request.",
       "job_apply_link": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Glen-Rose-Texas/Summer-Intern---Comanche-Peak---Maintenance_40014127",
       "job_posted_at_datetime_utc": "2025-12-16T23:32:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "vistra-intern-maintenance-cleburne"
+      "id": "vistra-intern-maintenance-cleburne",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:18:50.662Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "The Aerospace Corporation",
       "job_city": "El Segundo",
       "job_state": "CA",
-      "job_description": "Join The Aerospace Corporation in this exciting opportunity.",
+      "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.The Aerospace Corporation is hiring a Network Systems Grad Intern position for the Network Systems Department within the Mission Payloads Division (MPD).  Position will be full-time and 100% onsite at our office in El Segundo, CA.Job Summary At the Mission Payloads Division (MPD), we are pioneers in remote sensing systems that guide our country’s space enterprise. Our talented and dynamic people create and flourish in electronics, sensors, radar, artificial intelligence (AI), and advanced data network domains. We boldly advance technology through our research and development and then forward to demonstration and integration.   With innovative laboratories and prototyping, MPD delivers groundbreaking results. We guide our Department of Defense, intelligence community, and civil clients to enhance national productivity and security and tackle the most critical missions.  Bring your intelligence and creative spirit and join us at MPD! Graduate Intern will join the Network Systems Department to support activities related to systems acquisition; from requirement development all the way to validation and verification. The chosen candidate will support our space network modeling and simulation/emulation tool development as well as our post-processing suite of tools. Our academic-like inspiring atmosphere encourages collaboration with and continued learning from our engineers who are leaders in their fields of expertise. We're also ready to learn from you.Work ModelThis position will be located 100% onsite in El Segundo, Ca.What You’ll Be DoingPrototype software for modeling and simulation of future network architectures.Deliver technical briefings to customers and internal team.Participate in the development and improvement of our networking modeling and simulation suite of tools.Participate in development of data analysis and post-processing tools.Collaborate onsite or remotely with our experienced networking engineers.What Corporate Skills You’ll Bring Strong written and oral communication skillsMust work well in a team environment.Possess organizational, time management and project management skills.Demonstrate flexibility and ability to adapt to changing organizational need.Interpersonal skills to coordinate efforts and work with other internal and external organizations.What You Need to be Successful Minimum Requirements:Currently enrolled as a full-time student in a master's degree program in an accredited college/university program in Computer Science, Computer Engineering, Electrical Engineering or related.Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a degree program after completion of the internship. Fluent proficiency in a programming language. Python and C++ preferred.Applied research in analytical, simulation, and/or experimental skills.This position requires the ability to obtain and maintain a U.S. Government security clearance. U.S. citizenship is required to obtain a security clearance. Transcripts required.How You Can Stand Out It would be impressive if you have one or more of these:Active Security Clearance.Modeling and Simulation experience.Advanced algorithms coursework.Completed coursework on Networking Systems. Familiarity with OSI model of networking.Completed coursework on Data Analysis.Project experience in tool development.Experience with Agile task management tools.Temporary housing assistance is not available.  We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business.  The grade-based pay range for this job is listed below.  Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.  (Min - Max)$32.00 - $45.00Pay Basis: HourlyLeadership CompetenciesOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:Operate StrategicallyLead Change   Engage with Impact   Foster Innovation   Deliver Results  Ways We Reward Our Employees During your interview process, our team will provide details of our industry-leading benefits.Benefits vary and are applicable based on Job Type.  A few highlights include:Comprehensive health care and wellness plansPaid holidays, sick time, and vacationStandard and alternate work schedules, including telework options401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hireFlexible spending accountsVariable pay program for exceptional contributionsRelocation assistanceProfessional growth and development programs to help advance your careerEducation assistance programsAn inclusive work environment built on teamwork, flexibility, and respectWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.Equal Opportunity CommitmentThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
       "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Graduate-Network-Systems-Intern_R013900",
       "job_posted_at_datetime_utc": "2025-12-16T23:32:29.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "the-aerospace-graduate-network-systems-intern-el-segundo"
+      "id": "the-aerospace-graduate-network-systems-intern-el-segundo",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:18:50.662Z",
     "postedAt": null
   },
   {
