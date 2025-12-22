@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T08:18:41.021Z",
+  "lastUpdated": "2025-12-22T08:33:09.300Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9098,14 +9098,69 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330",
       "discordThreadId": "1452576049035481178",
       "instanceNumber": 1
+    },
+    {
+      "id": "freddie-mac-software-engineer-and-data-intern-mclean-2025-12-22-1",
+      "jobId": "freddie-mac-software-engineer-and-data-intern-mclean",
+      "company": "Freddie Mac",
+      "title": "Software Engineer and Data Intern",
+      "postedToDiscord": "2025-12-22T08:32:52.156Z",
+      "sourceDate": "2025-12-15T23:20:55.000Z",
+      "sourceUrl": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineering-and-Data-Intern_JR16506",
+      "discordThreadId": "1452579619210395689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-sales-operations-intern-data-analytics-milpitas-2025-12-22-1",
+      "jobId": "corsair-sales-operations-intern-data-analytics-milpitas",
+      "company": "Corsair",
+      "title": "Sales Operations Intern - Data Analytics",
+      "postedToDiscord": "2025-12-22T08:32:55.598Z",
+      "sourceDate": "2025-12-15T23:19:50.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8625",
+      "discordThreadId": "1452579633743794206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-ai-development-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-ai-development-intern-milpitas",
+      "company": "Corsair",
+      "title": "AI Development Intern",
+      "postedToDiscord": "2025-12-22T08:32:59.053Z",
+      "sourceDate": "2025-12-15T23:19:43.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8632",
+      "discordThreadId": "1452579648260280360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-hr-insights-analytics-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-hr-insights-analytics-intern-milpitas",
+      "company": "Corsair",
+      "title": "HR Insights & Analytics Intern",
+      "postedToDiscord": "2025-12-22T08:33:05.609Z",
+      "sourceDate": "2025-12-15T23:19:48.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8631",
+      "discordThreadId": "1452579675712000086",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-reverse-logistics-data-engineer-intern-milpitas-2025-12-22-1",
+      "jobId": "corsair-reverse-logistics-data-engineer-intern-milpitas",
+      "company": "Corsair",
+      "title": "Reverse Logistics Data Engineer Intern",
+      "postedToDiscord": "2025-12-22T08:33:09.299Z",
+      "sourceDate": "2025-12-15T23:19:41.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
+      "discordThreadId": "1452579690425356319",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 827,
+    "totalJobs": 832,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T08:18:41.021Z",
+      "date": "2025-12-22T08:33:09.300Z",
       "archived": 0
     }
   }
