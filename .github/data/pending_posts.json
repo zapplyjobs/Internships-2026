@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Software Development Intern",
-      "employer_name": "Altom Transport",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "Duration: Summer 2026 (Flexible start and end dates) Hours: 40 hours per week (depending on availability) Paid InternshipAbout Us:Altom Transport is a premier petrochemical and hazardous materials carrier committed to safety, innovation, and operationa...",
-      "job_apply_link": "https://apply.workable.com/altom-transport/j/BE9AAEBC87/apply",
-      "job_posted_at_datetime_utc": "2025-12-17T23:09:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "altom-transport-software-development-intern-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:17:56.978Z",
-    "postedAt": "2025-12-22T04:54:15.511Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science PhD Intern",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Formulate approaches to solve problems using well defined algorithms and data sources. Incorporate an understanding of product functionality and customer perspective to provide context for those problems. Use data exploration techniques to discover new questions or opportunities within your problem area and propose applicability and limitations of the data. Interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve. Engage with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers. Participate in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results. Currently pursuing a Doctorate Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. Must have at least one additional quarter/semester of school remaining following the completion of the internship. Candidate must be enrolled in a full time bachelor&#39;s, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before their internship. Ability to submit an official or unofficial academic transcript as part of the evaluation process, if selected for interviews. Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc. Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#. Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS. Some experience and or project course work with product and service telemetry systems. Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.). Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data.",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556649526",
-      "job_posted_at_datetime_utc": "2025-12-17T23:09:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-data-science-phd-intern-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:17:56.978Z",
-    "postedAt": "2025-12-22T04:54:15.511Z"
-  },
-  {
-    "job": {
-      "job_title": "R&D Intern",
-      "employer_name": "Nokia",
-      "job_city": "Naperville",
-      "job_state": "IL",
-      "job_description": "This summer internship offers a meaningful opportunity to begin your journey in the world of advanced connectivity and telecommunications. Over the course of approximately ten weeks, you will gain firsthand exposure to a global technology leader while working alongside experienced professionals who are shaping the future of mobile communications. This program is designed to provide practical, real-world experience in a corporate environment, helping you build foundational skills, explore potential career paths, and contribute to impactful work that influences how people connect worldwide.",
-      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28670",
-      "job_posted_at_datetime_utc": "2025-12-17T23:06:34.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nokia-r-d-intern-naperville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:17:56.978Z",
-    "postedAt": "2025-12-22T04:54:15.511Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern, Firmware and Software Engineering",
-      "employer_name": "Sandisk",
-      "job_city": "Irvine",
-      "job_state": "CA",
-      "job_description": "Summer 2026 Intern, Firmware and Software EngineeringInternSalary Range: 0.00-0.00Job Type (exemption status): Non-Exempt position - Please see related compensation & benefits details belowBusiness Function: Engineering SupportWork Location: Irvine Office--LOC_WDT_USCA01Company DescriptionSandisk understands how people and businesses consume data and we relentlessly innovate to deliver solutions that enable today’s needs and tomorrow’s next big ideas. With a rich history of groundbreaking innovations in Flash and advanced memory technologies, our solutions have become the beating heart of the digital world we’re living in and that we have the power to shape. Sandisk meets people and businesses at the intersection of their aspirations and the moment, enabling them to keep moving and pushing possibility forward. We do this through the balance of our powerhouse manufacturing capabilities and our industry-leading portfolio of products that are recognized globally for innovation, performance and quality. Sandisk has two facilities recognized by the World Economic Forum as part of the Global Lighthouse Network for advanced 4IR innovations. These facilities were also recognized as Sustainability Lighthouses for breakthroughs in efficient operations. With our global reach, we ensure the global supply chain has access to the Flash memory it needs to keep our world moving forward.Job DescriptionWe are seeking a talented and motivated Firmware and Software Engineering Intern to join our dynamic team in Irvine, United States. This internship offers an exciting opportunity to gain hands-on experience in the field of embedded systems and software development while working alongside experienced professionals.Assist in the development and testing of firmware for embedded systemsContribute to software development projects using various programming languagesCollaborate with cross-functional teams to implement new features and resolve issuesParticipate in code reviews and debugging sessionsHelp maintain and improve existing codebaseDocument technical specifications and processesSupport the team in research and prototyping of new technologiesEngage in continuous learning and skill development throughout the internshipQualificationsRequired:Currently pursuing a Bachelor's or Master's degree in Computer Science, Electrical Engineering, Computer Engineering, or a related fieldStrong programming skills in C, C++, and Python, with familiarity in embedded systems and firmware developmentExperience with version control systems, preferably GitBasic understanding of computer architecture and operating systemsKnowledge of debugging tools and techniquesAbility to work effectively in a team environmentExperience or willingness to learn AI-assisted coding and development tools (preferred)Familiarity with microcontroller programming and hardware interfaces (e.g., SPI, I2C, UART)Experience with software development methodologies (e.g., Agile, Scrum)Familiarity with software testing practices and test-driven developmentAbility to manage multiple tasks and prioritize effectively in a fast-paced environmentPassion for technology and staying current with industry trends in embedded systems and software engineeringPreferred:Excellent problem-solving, analytical, and organizational skillsExceptional written and verbal communication skills, including the ability to create effective presentations for management Additional InformationSandisk is committed to providing equal opportunities to all applicants and employees and will not discriminate against any applicant or employee based on their race, color, ancestry, religion (including religious dress and grooming standards), sex (including pregnancy, childbirth or related medical conditions, breastfeeding or related medical conditions), gender (including a person’s gender identity, gender expression, and gender-related appearance and behavior, whether or not stereotypically associated with the person’s assigned sex at birth), age, national origin, sexual orientation, medical condition, marital status (including domestic partnership status), physical disability, mental disability, medical condition, genetic information, protected medical and family care leave, Civil Air Patrol status, military and veteran status, or other legally protected characteristics. We also prohibit harassment of any individual on any of the characteristics listed above. Our non-discrimination policy applies to all aspects of employment. We comply with the laws and regulations set forth in the \"Know Your Rights: Workplace Discrimination is Illegal” poster. Our pay transparency policy is available here.Sandisk thrives on the power and potential of diversity. As a global company, we believe the most effective way to embrace the diversity of our customers and communities is to mirror it from within. We believe the fusion of various perspectives results in the best outcomes for our employees, our company, our customers, and the world around us. We are committed to an inclusive environment where every individual can thrive through a sense of belonging, respect and contribution.Sandisk is committed to offering opportunities to applicants with disabilities and ensuring all candidates can successfully navigate our careers website and our hiring process. Please contact us at [email protected] to advise us of your accommodation request. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.Based on our experience, we anticipate that the application deadline will be 03/16/2026 (3 months from posting), although we reserve the right to close the application process sooner if we hire an applicant for this position before the application deadline. If we are not able to hire someone from this role before the application deadline, we will update this posting with a new anticipated application deadline.#LI-TR1Compensation & Benefits DetailsAn employee’s pay position within the salary range may be based on several factors including but not limited to (1) relevant education; qualifications; certifications; and experience; (2) skills, ability, knowledge of the job; (3) performance, contribution and results; (4) geographic location; (5) shift; (6) internal and external equity; and (7) business and organizational needs.The salary range is what we believe to be the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range and this range is only applicable for jobs to be performed in California, Colorado, New York or remote jobs that can be performed in California, Colorado and New York. This range may be modified in the future.If your position is non-exempt, you are eligible for overtime pay pursuant to company policy and applicable laws. You may also be eligible for shift differential pay, depending on the shift to which you are assigned.You will be eligible to participate in Sandisk's Short-Term Incentive (STI) Plan, which provides incentive awards based on Company and individual performance. Depending on your role and your performance, you may be eligible to participate in our annual Long-Term Incentive (LTI) program, which consists of restricted stock units (RSUs) or cash equivalents, pursuant to the terms of the LTI plan. Please note that not all roles are eligible to participate in the LTI program, and not all roles are eligible for equity under the LTI plan. RSU awards are also available to eligible new hires, subject to Sandisk’s Standard Terms and Conditions for Restricted Stock Unit Awards.We offer a comprehensive package of benefits including paid vacation time; paid sick leave; medical/dental/vision insurance; life, accident and disability insurance; tax-advantaged flexible spending and health savings accounts; employee assistance program; other voluntary benefit programs such as supplemental life and AD&D, legal plan, pet insurance, critical illness, accident and hospital indemnity; tuition reimbursement; transit; the Applause Program; employee stock purchase plan; and the Sandisk Savings 401(k) Plan.Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.I'm interestedI'm interestedPrivacy Policy",
-      "job_apply_link": "https://jobs.smartrecruiters.com/Sandisk/35ac1ec2-57ee-47cf-b63f-88726edb677c",
-      "job_posted_at_datetime_utc": "2025-12-17T16:29:04.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sandisk-intern-firmware-and-software-engineering-irvine",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:17:56.978Z",
-    "postedAt": "2025-12-22T04:54:15.511Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Intern",
-      "employer_name": "FHLBank Atlanta",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Compensation Grade:NE-01BASIC PURPOSE: About the Internship Program: Every year, FHLBank Atlanta welcomes undergraduates and graduates from the country’s leading universities to our nine-week, paid internship program. In addition to gaining real-world business experience in the financial services industry, interns can also take advantage of mentoring opportunities, participate in community involvement projects, and enjoy other benefits the Bank has to offer. Internship duration: June 1, 2026 to July 31, 2026About the Federal Home Loan Bank of Atlanta: Federal Home Loan Bank of Atlanta (FHLBank Atlanta) is a cooperative bank that offers competitively priced financing, community development grants, and other banking services to help member financial institutions make affordable home mortgages and provide economic development credit to neighborhoods and communities. Our products, services, and programs help financial institutions manage daily liquidity, fund mortgages originated for sale in the secondary market, fund loans and investments held in portfolio, improve their asset/liability management, meet community credit needs profitably, cover temporary deposit outflows, and reduce the funding cost of asset growth. FHL Bank Atlanta also serves the economic and housing needs of communities by providing local financial institutions with flexible options for community development initiatives. We contribute 10 percent of our annual net income to the Affordable Housing Program.ESSENTIAL FUNCTIONS:This role is an excellent opportunity to gain hands-on experience in software development alongside a supportive team of professionals.Collaborate with the software delivery team to support the development and maintenance of applications used at the bank.Learn and develop using Java, Spring framework and latest UI frameworks.Use SQL to analyze and manipulate data for various business needs.Demonstrate clear and effective written and verbal communication skills.Work closely with other professionals across teams to achieve project goals.KNOWLEDGE, SKILLS, ABILITIES:  Minimum Qualifications:    Pursuing an undergraduate or graduate degree with an emphasis on Computer Science, Information Technology, Information Systems or related field.Technical Skills:Proficiency in Java, Spring framework, Git and in using development tools like IntelliJ.Basic understanding of databases and SQL programming.Good understanding of data structures and algorithms.Familiarity with REST Webservices.Soft Skills:Strong written and verbal communication skills.Problem-solving abilities, including identifying issues and proposing effective solutions.Team-oriented mindset with the ability to collaborate effectively with diverse professionals.Creativity in developing tools, applications, or innovative approaches to solve problems.Work Location: This individual must reside within commuting distance from our Atlanta, GA office. This position may not be filled in New Jersey, either in-person or remotely.Work Schedule: Onsite with an opportunity to work remote partially.We are an equal opportunity employer.",
-      "job_apply_link": "https://fhlbatl.wd1.myworkdayjobs.com/fhlbatl/job/Atlanta-Georgia/Software-Development-Intern_JR268",
-      "job_posted_at_datetime_utc": "2025-12-17T16:27:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fhlbank-atlanta-software-development-intern-atlanta",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T04:17:56.978Z",
-    "postedAt": "2025-12-22T04:54:15.511Z"
-  },
-  {
-    "job": {
       "job_title": "Life Cycle Optimization Intern",
       "employer_name": "NRG Energy",
       "job_city": "Princeton",
@@ -794,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:06:57.929Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:06:57.929Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:06:57.929Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:06:57.929Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T04:34:13.334Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T05:06:57.929Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "HCSC",
       "job_city": "Richardson",
       "job_state": "TX",
-      "job_description": "Join HCSC in this exciting opportunity.",
+      "job_description": "At HCSC, our employees are the cornerstone of our business and the foundation to our success. We empower employees with curated development plans that foster growth and promote rewarding, fulfilling careers.Join HCSC and be part of a purpose-driven company that will invest in your professional development.Job SummaryThis ten-week paid internship in located in Richardson, TX.What Are Your Responsibilities?  This position is responsible for applying emerging technologies to develop sophisticated desktop applications and database solutions. Working closely with business and technical areas. Designing, testing, and implementing Automation solutions to achieve business objectives by utilizing, Visual Basic, VB.NET, C# and SQL, or any other industry approved software and providing Customer Service support on internally developed applications and processes. This role will also need to:Comply with HIPAA, Diversity Principles, Corporate Integrity, Compliance Program policies and other applicable corporate and departmental policies.  Maintain complete confidentiality of company business.  Maintain communication with management regarding development within areas of assigned responsibilities and perform special projects as required or requested.Create a final internship PowerPoint presentation to share with department leadership covering the internship experience, the assigned project over the course of the summer, including the results along with any solutions or recommendations that can be leveraged by the department in the future. What Do You Need To Be Successful?  Demonstrated interpersonal skills including verbal and written communication Strong analytical skills Knowledge or experience in Visual Basic, VB.NET, C# and SQL Practical, developed PC skills, especially Excel, Word, and Access What Are the Requirements You Must Meet? Pursuing a bachelor’s degree in computer science, information technology, information management, or other related degrees.  Graduation date between December 2026 and June 2027A minimum GPA of 3.0/4.0Availability to work 10 weeks during the summer (June – August)Unrestricted authorization to work in the United States. (Currently, we are not offering this program to students on a visa)What Does the Internship Program Entail? Formal Intern Orientation to build business and industry acumen Challenging real-world hands-on project Weekly networking opportunities among interns and company leaders Professional development workshops Volunteer activities #LI-Hybrid#LI-JT1#hcscinternAre you being referred to one of our roles? If so, ask your connection at HCSC about our Employee Referral process!Pay Transparency Statement:At Health Care Service Corporation, you will be part of an organization committed to offering meaningful benefits to our employees to support their life outside of work. From health and wellness benefits, 401(k) savings plan, pension plan, paid time off, paid parental leave, disability insurance, supplemental life insurance, employee assistance program, paid holidays, tuition reimbursement, plus other incentives, we offer a robust total rewards package for employees.  Learn more about our benefit offerings by visiting https://careers.hcsc.com/totalrewards.The compensation offered will vary depending on your job-related skills, education, knowledge, and experience. This role aligns with an annual incentive bonus plan subject to the terms and the conditions of the plan.HCSC Employment Statement:We are an Equal Opportunity Employment employer dedicated to providing a welcoming environment where the unique differences of our employees are respected and valued. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other legally protected characteristics.Base Pay Range$18.10 - $37.10Exact compensation may vary based on skills, experience, and location.",
       "job_apply_link": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Associate-Automation-Programmer-Intern_R0053163",
       "job_posted_at_datetime_utc": "2025-12-17T00:42:26.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hcsc-early-careers-associate-automation-programmer-intern-richardson"
+      "id": "hcsc-early-careers-associate-automation-programmer-intern-richardson",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:06:22.221Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Applied Materials",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join Applied Materials in this exciting opportunity.",
+      "job_description": "Who We AreApplied Materials is a global leader in materials engineering solutions used to produce virtually every new chip and advanced display in the world. We design, build and service cutting-edge equipment that helps our customers manufacture display and semiconductor chips – the brains of devices we use every day. As the foundation of the global electronics industry, Applied enables the exciting technologies that literally connect our world – like AI and IoT. If you want to push the boundaries of materials science and engineering to create next generation technology, join us to deliver material innovation that changes the world. What We OfferLocation:Santa Clara,CAYou’ll benefit from a supportive work culture that encourages you to learn, develop, and grow your career as you take on challenges and drive innovative solutions for our customers. We empower our team to push the boundaries of what is possible—while learning every day in a supportive leading global company. Visit our Careers website to learn more. At Applied Materials, we care about the health and wellbeing of our employees. We’re committed to providing programs and support that encourage personal and professional growth and care for you at work, at home, or wherever you may go. Learn more about our benefits. Applied Materials’ Plasma Product Modeling (PPM) team in the Silicon Product Group is searching for interns to join our team in summer 2026! The PPM team closely works with the engineering groups in our business units to design the next generation plasma processing tools. The summer interns will be involved in projects related to forward-looking research and development, plasma and plasma – surface interaction model development, understanding the atomic-scale physics at surfaces in contact with plasma, and machine learning methods to accelerate plasma product and process design. Potential projects could include:Understanding and designing new plasma processing systemsUse molecular dynamics simulation to understand fundamental processes at surfaces in contact with plasmaDeveloping new capabilities in our internal plasma and feature scale modelsUse plasma and surface physics models to understand leading-edge plasma etch and deposition experimentsApply in-house plasma models to understand complex plasma behaviorExplore machine learning methods to accelerate how 2-dimensional (2D) and 3D plasma and feature-scale models are developed and usedRequirementsStudent must be pursuing a M.S. or Ph.D. degree in Engineering, Physics, Chemistry, Computer Science, or a related fieldStudent must be in good academic standing at their university, with a GPA of 3.0 or above on a 4.0 scaleProficient in some of the following fields: computational physics, plasma physics, molecular dynamics, plasma chemistry, surface physics, density functional theory, reacting flows, fluid dynamicsKnowledge of machine learning applications will be usefulQuick learner, high degree of flexibility and problem-solving skillsAdditional InformationTime Type:Full timeEmployee Type:Intern / StudentTravel:Yes, 10% of the TimeRelocation Eligible:YesThe salary offered to a selected candidate will be based on multiple factors including location, hire grade, job-related knowledge, skills, experience, and with consideration of internal equity of our current team members. In addition to a comprehensive benefits package, candidates may be eligible for other forms of compensation such as participation in a bonus and a stock award program, as applicable.For all sales roles, the posted salary range is the Target Total Cash (TTC) range for the role, which is the sum of base salary and target bonus amount at 100% goal achievement.Applied Materials is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, creed, sex, sexual orientation, gender identity, age, disability, veteran or military status, or any other basis prohibited by law.In addition, Applied endeavors to make our careers site accessible to all users. If you would like to contact us regarding accessibility of our website or need assistance completing the application process, please contact us via e-mail at Accommodations_Program@amat.com, or by calling our HR Direct Help Line at 877-612-7547, option 1, and following the prompts to speak to an HR Advisor. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.",
       "job_apply_link": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927",
       "job_posted_at_datetime_utc": "2025-12-17T00:10:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "applied-materials-2026-summer-plasma-products-modeling-physicist-scientist-intern-phd-santa-clara-ca-santa-clara"
+      "id": "applied-materials-2026-summer-plasma-products-modeling-physicist-scientist-intern-phd-santa-clara-ca-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:06:22.221Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "KBR",
       "job_city": "Beavercreek",
       "job_state": "OH",
-      "job_description": "Join KBR in this exciting opportunity.",
+      "job_description": "Title:National Security Solutions (NSS) - Software Engineering InternProject OverviewThe purpose of this project is to leverage software development practices to incorporate a new artificial intelligence system into an existing application to reduce repetitive user workflows within the system.Key ResponsibilitiesDesign and implement an AI-powered summarization feature within the Iron Stallion application ecosystem.Develop a modular, reusable backend summarization service capable of handling multiple data types.Integrate summarization capabilities into frontend applications in collaboration with senior software engineers.Implement context-aware summarization logic, adapting outputs based on user interactions.Work within object-oriented software architecture following established development standards and best practices.Collaborate with cross-functional stakeholders including analysts, operators, and developers to ensure mission relevance.Create technical documentation and knowledge transfer materials to support long-term adoption beyond the internship.Learning Outcomes & ImpactThis internship provides hands-on experience designing and integrating AI-powered summarization capabilities within a mission-critical operational platform. The intern will grow their technical skillset by applying machine learning and natural language processing concepts to complex, real-world data while working alongside experienced software engineers in an enterprise environment. Through mentorship and collaborative development, the intern will gain exposure to full-stack system design, scalable services, andproduction-quality code. By embedding AI directly into analyst workflows, the project reduces repetitive analysis tasks, accelerates decision-making, and establishes a reusable foundation for future AI-driven capabilities across the Iron Stallion ecosystem.Minimum QualificationsCurrently pursuing a bachelor’s degree in computer science, Computer Engineering, or a related technical field.Coursework or experience in object-oriented programming (e.g., Java, JavaScript, Python, or similar languages).Familiarity with software development fundamentals, including data structures, algorithms, and system design concepts.Strong analytical, problem solving, and communication skillsPreferred QualificationsExposure to web application development.Exposure to machine learning or artificial intelligence concepts.Prior course or internship work incorporating artificial intelligence features.Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company.  That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
       "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Systems-Engineering-Learning-Coordinator-Intern_R2116573",
       "job_posted_at_datetime_utc": "2025-12-17T00:01:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kbr-national-security-solutions-software-engineering-intern-nss-beavercreek"
+      "id": "kbr-national-security-solutions-software-engineering-intern-nss-beavercreek",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:06:22.221Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Motorola",
       "job_city": "Hoffman Estates",
       "job_state": "IL",
-      "job_description": "Join Motorola in this exciting opportunity.",
+      "job_description": "Company Overview​At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Department OverviewAs a core component of Centralized Managed Support Operations (CMSO), the Design & Tools team drives strategic value by creating and maintaining cutting-edge service design and technology solutions. Our mission is to equip and optimize CMSO's and overall Global Services capabilities, ensuring they consistently deliver superior customer support.Job DescriptionWe're looking for a passionate and talented Machine Learning/AI Intern to join our Design and Tools team. This role will focus on exploring, developing, and deploying AI/ML models that enhance the functionality and user experience of our front office product portfolio. The ideal candidate will bridge the gap between cutting-edge ML research and practical, end user-facing use cases.Key ResponsibilitiesModel Development: Research, design, and implement proof-of-concept Machine Learning models (e.g., classification, prediction, or personalization algorithms) relevant to our tools/design workflow.Data Preparation: Assist in cleaning, transforming, and analyzing internal data sets to be used for model training and validation.Performance Optimization: Evaluate and optimize model performance, size, and inference speed for mobile environments, balancing accuracy with resource constraints.Collaboration: Work closely with software engineers, end users, and product managers to understand requirements and integrate ML features seamlessly into the user experience.Technical Skills:Programming Proficiency: Strong proficiency in Python and familiarity with standard ML libraries (TensorFlow, PyTorch, scikit-learn).ML/AI Fundamentals: Solid understanding of core Machine Learning concepts, algorithms, and model evaluation metrics.Data Analysis: Experience with data manipulation using tools like Pandas and basic SQL.Non-Technical Qualifications:Currently pursuing a degree (Bachelor's or Master's) in Computer Science, Data Science, Electrical Engineering, or a related technical field.Excellent problem-solving skills and intellectual curiosity.Strong verbal and written communication skills to articulate technical concepts to non-technical stakeholders.Target Hourly Base Salary Range: $23.80 - $28.20 USDConsistent with Motorola Solutions values and applicable law, we provide the following information to promote pay transparency and equity. Pay within this range varies and depends on job-related knowledge, skills, and experience. The actual offer will be based on the individual candidate.#LI-DB1Basic RequirementsAll Candidates must be currently pursuing a Bachelor's degree or higher in Computer Science / Engineering, Data Science or an IT related fieldTravel RequirementsUnder 10%Relocation ProvidedNonePosition TypeInternEEO StatementMotorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.",
       "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Machine-Learning-AI-Intern--Summer-2026-Internship-Program-_R59959",
       "job_posted_at_datetime_utc": "2025-12-16T23:55:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "motorola-machine-learning-ai-hoffman-estates"
+      "id": "motorola-machine-learning-ai-hoffman-estates",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:06:22.221Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "Vertex Pharmaceuticals",
       "job_city": "Boston",
       "job_state": "MA",
-      "job_description": "Join Vertex Pharmaceuticals in this exciting opportunity.",
+      "job_description": "Job DescriptionKickstart Your Career at Vertex!Are you ready to make a real impact? At Vertex, our mission is to tackle serious diseases and to change lives, for the better, for the future. Our aim is to give you the skills, insights, and career guidance to be an important part of that future; to turn your potential into progression. As a Vertex intern or co-op, you’ll work on meaningful projects, collaborate with talented teams, and learn from industry leaders. We’re passionate about innovation, inclusion, and supporting your growth—inside and outside the lab. Why Vertex?Real Projects: You’ll work on assignments that make a real impact, not just busy work.Mentorship & Networking: Connect with leaders and peers who want to see you succeed through professional networks, connections, and collaborations that will shape your longer-term career.Flexible & Supportive: We offer flexible work options with Flex @ Vertex and prioritize your wellbeing.Inclusive Culture: Collaboration and inclusion are embedded in everything we do.Career Launchpad: Build skills, explore career paths, and get guidance for your future career. Ready to apply? Submit your application and let’s turn possibilities into reality! Your ImpactThe Vertex Statistical Programming internship program is a multi-week experiential training program for students currently working towards an advanced degree in Computer Science, Statistics, Biostatistics, Data Science, or a related field of study. If you are passionate, collaborative, and growth-minded, an internship at Vertex will help you gain meaningful experience in our biostatistics functional areas and serve as a launchpad for your career.Important Notice Regarding Internship and Co-op InquiriesAt Vertex Pharmaceuticals, we are committed to providing a fair and structured recruitment process for all students interested in internship and co-op opportunities. To ensure consistency and equity, all student applications must go through our Early Talent Acquisition Team.Due to the high volume of interest, we are unable to respond to individual solicitation. Direct solicitation to Vertex employees- including senior leaders via email will result in removal from the recruiting process.We appreciate your enthusiasm and interest in Vertex. To be considered for internship or co-op roles, please apply directly through our official application channels. (https://www.vrtx.com/careers/career-growth-and-opportunities/internships/)Thank you for respecting our process and helping us maintain a fair experience for all candidates.What you will be doing:In this 12-week summer Internship program, the SP intern will work closely with Statistical Programmers and biostatisticians, especially Biometrics AI_working_group for AI and ML in Clinical Trials, such as interactive and automated CSR QC Agent, the biometrics E2E_R_automator APP, etc. The SP intern will also have opportunities to be exposed to the drug development process and daily work of Statistical Programmers or biostatisticians in a fast-paced biotechnology company.Key responsibilities include: · Retrieval-Augmented Generation (RAG) / Tool Calling / Function Calling · Prompt Engineering / Semantic Search / Context Retrieval · LLM Agent / AI Agent / LLM APIs (OpenAI, Azure OpenAI) · Chatbot Development (internal tools) / Embedding Models · R Shiny** This role requires applied LLM systems tied to R-based analytics tools (Shiny app). Focus on models, not usage.· Basic software engineering skills will be a plus, such as the ability to implement key UI features including: File upload/download (Excel, Word, RTF); Dropdown menus, text input fields, editable tables; Dynamic code editor panel (e.g., via {shinyAce}); Workflow navigation (tabs or step-by-step). · (Complementary skills) Knowledge of Clinical Data Flow or Pharma Context, knowledge of data science, SAS, R, or Python, · (Complementary skills) NLP, Semantic Search, Embeddings, APIs, Git/GitHub · Enjoy exploring programming details and learning know technologies · Present research results and learnings to the Statistical Programming department and broader audience at departmental seminars and/or company poster sessions. · Summarize the work for future departmental use and potentially produce a peer-reviewed publication. · Attend seminars and other company activities to enhance the understanding of the drug development process and daily work of either statistical programmers or biostatisticians in a biotechnology company.What you will need to succeed:Currently enrolled in a graduate-level curriculum leading to a Ph.D. in Computer Science, Statistics or Biostatistics or other quantitative science (e.g., data science, etc.)Currently enrolled in a Master degree in Computer science, Statistics or Biostatistics or other quantitative science (e.g., data science, etc.)Be in good academic standing within your graduate program and at your university.Legal authorization to work in the United States, now and in the future. Please note that Vertex does not provide sponsorship for internships or entry level roles within this part of the organization.You must be available to work full-time, 40 hours per week from May – August 2026Preferred Qualifications: Possess a tracked record of accomplishment, including publications, awards, presentations, coding projects. Experience with natural language processing and python is preferred but not required.Have excellent communication, presentation, and leadership skills. Have actual project experience in software development. Demonstrated experience with cross-disciplinary application of statistical methods.Genuine interest in clinical development and regulatory affairs.Program Details: Full-time, paid internship $26.00 – 50.00 USD/hourProgram Dates: May – August 2026At Vertex, we believe that when you feel your best, you can perform at your best. That’s why our US benefits and global well-being resources are designed to support you. • Free 24/7 onsite gym access and free access to group exercise classes• Subsidized commuter benefits- transit and parking• Provided meals—free breakfast daily!• Career development opportunities and events, including C Suite engagement• Social events—both intern-only and company-wide• Location-specific perks and extras!• Recognition of National Intern Day Equal OpportunitiesVertex is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person's race, color, sex, gender identity or expression, age, religion, national origin, ancestry, ethnicity, disability, veteran status, genetic information, sexual orientation, marital status, or any characteristic protected under applicable law. Vertex is an E-Verify Employer in the United States. Vertex will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.Vertex is an E-Verify Employer in the United States. We consider qualified applicants regardless of criminal histories, consistent with legal requirements. Accessibility & AccommodationsWe're focused on attracting, retaining, developing, and advancing our employees. By cultivating a workplace that values diverse experiences, backgrounds, and ideas, we create an environment where every employee can contribute their best. Vertex is committed to offering reasonable accommodations to qualified job applicants with disabilities. Any applicant requiring an accommodation in connection with the hiring process and/or to perform the essential functions of the position for which the applicant has applied should make a request to the recruiter or hiring manager, or contact Talent Acquisition at ApplicationAssistance@vrtx.com. Export Control NoticeThis position may involve access to technology or data that is subject to U.S. export control laws, including the Export Administration Regulations (EAR). As such, employment is contingent upon the applicant's ability to access export-controlled information in accordance with U.S. law. Due to the nature of the work and regulatory requirements, only individuals who qualify as U.S. persons (citizens, permanent residents, asylees, or refugees) are eligible for this position. For this role, Vertex is unable to sponsor non-U.S. persons to apply for an export control license. This job posting is for a temporary role with a third-party agency partner that provides services to Vertex.  The individual selected for this role will be offered the role as an employee of that third-party agency; compensation, medical benefits, fringe benefits and other terms and conditions of employment shall be presented by the third-party agency upon offer. For any questions or concerns, please contact early_talent@vrtx.comPay Range:$0 - $0Disclosure Statement:The range provided is based on what we believe is a reasonable estimate for the base salary pay range for this job at the time of posting. This role is eligible for an annual bonus and annual equity awards. Some roles may also be eligible for overtime pay, in accordance with federal and state requirements. Actual base salary pay will be based on a number of factors, including skills, competencies, experience, and other job-related factors permitted by law.At Vertex, our Total Rewards offerings also include inclusive market-leading benefits to meet our employees wherever they are in their career, financial, family and wellbeing journey while providing flexibility and resources to support their growth and aspirations.  From medical, dental and vision benefits to generous paid time off (including a week-long company shutdown in the Summer and the Winter), educational assistance programs including student loan repayment, a generous commuting subsidy, matching charitable donations, 401(k) and so much more.Flex Designation:Hybrid-Eligible Or On-Site EligibleFlex Eligibility Status:In this Hybrid-Eligible role, you can choose to be designated as: 1.    Hybrid: work remotely up to two days per week; or select2.    On-Site: work five days per week on-site with ad hoc flexibility.Note: The Flex status for this position is subject to Vertex’s Policy on Flex @ Vertex Program and may be changed at any time. #LI-Hybrid Company InformationVertex is a global biotechnology company that invests in scientific innovation. Vertex is committed to equal employment opportunity and non-discrimination for all employees and qualified applicants without regard to a person's race, color, sex, gender identity or expression, age, religion, national origin, ancestry, ethnicity, disability, veteran status, genetic information, sexual orientation, marital status, or any characteristic protected under applicable law. Vertex is an E-Verify Employer in the United States. Vertex will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law. Any applicant requiring an accommodation in connection with the hiring process and/or to perform the essential functions of the position for which the applicant has applied should make a request to the recruiter or hiring manager, or contact Talent Acquisition at ApplicationAssistance@vrtx.com",
       "job_apply_link": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Summer-Intern-2026--Statistical-Programming_REQ-27582-1",
       "job_posted_at_datetime_utc": "2025-12-16T23:53:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "vertex-pharmaceuticals-vertex-summer-intern-2026-statistical-programming-boston"
+      "id": "vertex-pharmaceuticals-vertex-summer-intern-2026-statistical-programming-boston",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T05:06:22.221Z",
     "postedAt": null
   },
   {
