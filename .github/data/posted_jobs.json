@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:43:57.917Z",
+  "lastUpdated": "2025-12-22T10:56:18.978Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9703,14 +9703,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/xometry/jobs/5007962007",
       "discordThreadId": "1452612609965559818",
       "instanceNumber": 1
+    },
+    {
+      "id": "xometry-software-engineer-intern-north-bethesda-2025-12-22-1",
+      "jobId": "xometry-software-engineer-intern-north-bethesda",
+      "company": "Xometry",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T10:55:58.565Z",
+      "sourceDate": "2025-12-18T23:22:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xometry/jobs/5007635007",
+      "discordThreadId": "1452615632238546955",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xometry-product-analytics-intern-north-bethesda-2025-12-22-1",
+      "jobId": "xometry-product-analytics-intern-north-bethesda",
+      "company": "Xometry",
+      "title": "Product Analytics Intern",
+      "postedToDiscord": "2025-12-22T10:56:02.366Z",
+      "sourceDate": "2025-12-18T23:21:59.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xometry/jobs/5007793007",
+      "discordThreadId": "1452615647983960085",
+      "instanceNumber": 1
+    },
+    {
+      "id": "experian-ai-ml-partner-intern-newport-beach-2025-12-22-1",
+      "jobId": "experian-ai-ml-partner-intern-newport-beach",
+      "company": "Experian",
+      "title": "AI/ML Partner Intern",
+      "postedToDiscord": "2025-12-22T10:56:05.804Z",
+      "sourceDate": "2025-12-18T23:21:37.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Experian/744000099626315",
+      "discordThreadId": "1452615663431581726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xometry-machine-learning-intern-north-bethesda-2025-12-22-1",
+      "jobId": "xometry-machine-learning-intern-north-bethesda",
+      "company": "Xometry",
+      "title": "Machine Learning Intern",
+      "postedToDiscord": "2025-12-22T10:56:12.193Z",
+      "sourceDate": "2025-12-18T23:21:56.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/xometry/jobs/5007983007",
+      "discordThreadId": "1452615690505945148",
+      "instanceNumber": 1
+    },
+    {
+      "id": "daimler-truck-product-validation-intern-multiple-teams-portland-2025-12-22-1",
+      "jobId": "daimler-truck-product-validation-intern-multiple-teams-portland",
+      "company": "Daimler Truck",
+      "title": "Product Validation Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-22T10:56:18.978Z",
+      "sourceDate": "2025-12-18T23:21:19.000Z",
+      "sourceUrl": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Product-Validation---Data--Acquisition--Analytics--Science--Intern_DT-16335",
+      "discordThreadId": "1452615717504553103",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 882,
+    "totalJobs": 887,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T10:43:57.917Z",
+      "date": "2025-12-22T10:56:18.978Z",
       "archived": 0
     }
   }
