@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T09:31:27.243Z",
+  "lastUpdated": "2025-12-22T09:46:17.445Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9373,14 +9373,69 @@
       "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---AI-ML-Engineer---Cloud---Developer-Infrastructure--Bachelor-s-_JR-202524333",
       "discordThreadId": "1452594361375264882",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-washington-post-intern-site-engineering-washington-2025-12-22-1",
+      "jobId": "the-washington-post-intern-site-engineering-washington",
+      "company": "The Washington Post",
+      "title": "Intern - Site Engineering",
+      "postedToDiscord": "2025-12-22T09:45:59.753Z",
+      "sourceDate": "2025-12-10T13:48:57.000Z",
+      "sourceUrl": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Site-Engineering_JR-90275632",
+      "discordThreadId": "1452598021698228426",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-intern-software-engineer-intern-ca-goleta-2025-12-22-1",
+      "jobId": "rtx-intern-software-engineer-intern-ca-goleta",
+      "company": "RTX",
+      "title": "Intern – Software Engineer Intern - CA",
+      "postedToDiscord": "2025-12-22T09:46:03.229Z",
+      "sourceDate": "2025-12-09T12:54:04.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA601-Goleta-EW-Bldg-H01-6380-Hollister-Avenue-Building-H01-Goleta-CA-93117-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite---CA-_01810527",
+      "discordThreadId": "1452598036592332883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-engineer-intern-scottsdale-2025-12-22-1",
+      "jobId": "general-dynamics-mission-engineer-intern-scottsdale",
+      "company": "General Dynamics Mission Systems",
+      "title": "Engineer Intern",
+      "postedToDiscord": "2025-12-22T09:46:06.945Z",
+      "sourceDate": "2025-11-20T19:53:14.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69360/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452598051511337070",
+      "instanceNumber": 1
+    },
+    {
+      "id": "takeda-2026-summer-internship-program-data-digital-and-technology-intern-dd-t-vernon-hills-2025-12-22-1",
+      "jobId": "takeda-2026-summer-internship-program-data-digital-and-technology-intern-dd-t-vernon-hills",
+      "company": "Takeda",
+      "title": "2026 Summer Internship Program: Data Digital and Technology – Intern - DD&T",
+      "postedToDiscord": "2025-12-22T09:46:10.530Z",
+      "sourceDate": "2025-11-07T19:23:35.000Z",
+      "sourceUrl": "https://takeda.wd3.myworkdayjobs.com/external/job/USA---IL---Round-Lake-Innovation-Park/XMLNAME-2026-Summer-Internship-Program--Data-Digital-and-Technology--DD-T--Intern_R0166528",
+      "discordThreadId": "1452598066371760162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "linkedin-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca-mountain-view-2025-12-22-1",
+      "jobId": "linkedin-ai-ml-engineer-intern-master-s-summer-2026-mountain-view-ca-mountain-view",
+      "company": "LinkedIn",
+      "title": "AI/ML Engineer Intern - Master's - Summer 2026 - Mountain View - CA",
+      "postedToDiscord": "2025-12-22T09:46:17.444Z",
+      "sourceDate": "2025-11-04T23:06:54.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000091667804",
+      "discordThreadId": "1452598094716993708",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 852,
+    "totalJobs": 857,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T09:31:27.243Z",
+      "date": "2025-12-22T09:46:17.445Z",
       "archived": 0
     }
   }
