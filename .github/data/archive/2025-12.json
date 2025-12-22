@@ -8644,5 +8644,104 @@
     "sourceUrl": "https://jobs.ashbyhq.com/cocodelivery/16c75d81-08af-4d95-8dfe-15fc0516b57a",
     "discordThreadId": "1450026456536191040",
     "instanceNumber": 1
+  },
+  {
+    "id": "seagate-software-engineer-shakopee-2025-12-15-1",
+    "jobId": "seagate-software-engineer-shakopee",
+    "company": "Seagate",
+    "title": "Software Engineer",
+    "postedToDiscord": "2025-12-15T07:41:18.470Z",
+    "sourceDate": "2025-08-20T09:18:40.000Z",
+    "sourceUrl": "https://seagatecareers.com/job/Shakopee-Summer-Intern-Software-Engineer-MN/1318324100",
+    "discordThreadId": "1450029935157837906",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cargill-software-engineer-intern-atlanta-2025-12-15-1",
+    "jobId": "cargill-software-engineer-intern-atlanta",
+    "company": "Cargill",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-15T07:41:20.265Z",
+    "sourceDate": "2025-08-20T09:05:07.000Z",
+    "sourceUrl": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2026-atlanta-ga/23251/85180324464",
+    "discordThreadId": "1450029942535360554",
+    "instanceNumber": 1
+  },
+  {
+    "id": "figma-software-engineering-intern-san-francisco-2025-12-15-1",
+    "jobId": "figma-software-engineering-intern-san-francisco",
+    "company": "Figma",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-15T07:41:21.953Z",
+    "sourceDate": "2025-08-19T21:24:23.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/figma/jobs/5602159004?gh_jid=5602159004",
+    "discordThreadId": "1450029949787312150",
+    "instanceNumber": 1
+  },
+  {
+    "id": "figma-data-science-intern-san-francisco-2025-12-15-1",
+    "jobId": "figma-data-science-intern-san-francisco",
+    "company": "Figma",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2025-12-15T07:41:26.672Z",
+    "sourceDate": "2025-08-20T09:09:01.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/figma/jobs/5614980004",
+    "discordThreadId": "1450029969848668161",
+    "instanceNumber": 1
+  },
+  {
+    "id": "integra-fec-spring-data-analyst-intern-austin-2025-12-15-1",
+    "jobId": "integra-fec-spring-data-analyst-intern-austin",
+    "company": "Integra FEC",
+    "title": "Spring – Data Analyst Intern",
+    "postedToDiscord": "2025-12-15T07:41:28.337Z",
+    "sourceDate": "2025-08-19T23:03:01.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/integra/jobs/4826292008",
+    "discordThreadId": "1450029976907939921",
+    "instanceNumber": 1
+  },
+  {
+    "id": "integra-fec-spring-data-scientist-intern-phd-austin-2025-12-15-1",
+    "jobId": "integra-fec-spring-data-scientist-intern-phd-austin",
+    "company": "Integra FEC",
+    "title": "Spring – Data Scientist Intern - PhD",
+    "postedToDiscord": "2025-12-15T07:41:30.240Z",
+    "sourceDate": "2025-08-19T23:02:59.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/integra/jobs/4823176008",
+    "discordThreadId": "1450029984218353664",
+    "instanceNumber": 1
+  },
+  {
+    "id": "royal-caribbean-group-2026-summer-internship-global-enterprise-technology-miramar-2025-12-15-1",
+    "jobId": "royal-caribbean-group-2026-summer-internship-global-enterprise-technology-miramar",
+    "company": "Royal Caribbean Group",
+    "title": "2026 Summer Internship - Global Enterprise Technology",
+    "postedToDiscord": "2025-12-15T07:41:31.954Z",
+    "sourceDate": "2025-08-19T22:14:08.000Z",
+    "sourceUrl": "https://jobs.royalcaribbeangroup.com/job/Miramar-2026-Summer-Internship-Global-Enterprise-Technology-FL-33132/1315808800/?ats=successfactors",
+    "discordThreadId": "1450029991998787595",
+    "instanceNumber": 1
+  },
+  {
+    "id": "figma-data-engineer-intern-san-francisco-2025-12-15-1",
+    "jobId": "figma-data-engineer-intern-san-francisco",
+    "company": "Figma",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2025-12-15T07:41:33.708Z",
+    "sourceDate": "2025-08-19T21:10:40.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/figma/jobs/5623087004?gh_jid=5623087004",
+    "discordThreadId": "1450029999015858217",
+    "instanceNumber": 1
+  },
+  {
+    "id": "applied-intuition-research-intern-mountain-view-2025-12-15-1",
+    "jobId": "applied-intuition-research-intern-mountain-view",
+    "company": "Applied Intuition",
+    "title": "Research Intern",
+    "postedToDiscord": "2025-12-15T07:41:38.424Z",
+    "sourceDate": "2025-08-19T22:46:34.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/appliedintuition/jobs/4473608005",
+    "discordThreadId": "1450030019240919111",
+    "instanceNumber": 1
   }
 ]
