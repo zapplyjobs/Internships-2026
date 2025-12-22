@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T20:17:47.514Z",
+  "lastUpdated": "2025-12-22T23:16:57.230Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10561,14 +10561,25 @@
       "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/New-York-NY/Research-Scientist---Summer-Intern-2026_319684",
       "discordThreadId": "1452757018048987178",
       "instanceNumber": 1
+    },
+    {
+      "id": "exact-sciences-ai-engineer-intern-genai-summer-2026-madison-2025-12-22-1",
+      "jobId": "exact-sciences-ai-engineer-intern-genai-summer-2026-madison",
+      "company": "Exact Sciences",
+      "title": "AI Engineer Intern - GenAI - Summer 2026",
+      "postedToDiscord": "2025-12-22T23:16:57.230Z",
+      "sourceDate": "2025-11-14T02:29:51.000Z",
+      "sourceUrl": "https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/AI-Engineer-Intern---GenAI_R25-10994",
+      "discordThreadId": "1452802105877200999",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 960,
+    "totalJobs": 961,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T20:17:47.514Z",
+      "date": "2025-12-22T23:16:57.230Z",
       "archived": 0
     }
   }
