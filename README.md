@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-227-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-231-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-122-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 122+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 227+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 122+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 231+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 227 internships & new grad roles  
+🔥 **Current Opportunities:** 231 internships & new grad roles  
 🏢 **Top Companies:** 122 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 7 premium opportunities  
 📅 **Last Updated:** December 22, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1825 (older than 1 week)
+📁 **Archived Opportunities:** 1829 (older than 1 week)
 
 
 ---
@@ -130,12 +130,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Research Intern - Post-Training | Washington, Locations | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 3d |
 | Software Engineer | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 3d |
 
-### 🏢 **Top Tech** (1 position)
+### 🏢 **Top Tech** (3 positions)
 
-#### 🎮 **NVIDIA** (1 position)
+#### 🎮 **NVIDIA** (3 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| AI Factory Digital Twin R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 1h |
+| AI Factory Cooling R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 1h |
 | Performance Engineer | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineering-Intern--Gaming---Winter-2026_JR2009267) | 3d |
 
 ### 🚀 **Startups & Growth** (1 position)
@@ -178,14 +180,14 @@ No companies available
 
 
 #### ☁️ **Enterprise & Cloud** (1 company)
-🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1 position)
+🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (3 positions)
 
 ---
 ### 📈 **Opportunity Type Breakdown**
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 203 | 89% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 207 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 19 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
 
@@ -194,8 +196,8 @@ No companies available
 ### 🌍 **Top Locations**
 - **Remote in USA, Locations**: 17 opportunities
 - **Mountain View, CA**: 16 opportunities
+- **San Jose, CA**: 13 opportunities
 - **Milpitas, CA**: 13 opportunities
-- **San Jose, CA**: 12 opportunities
 - **Austin, TX**: 9 opportunities
 - **San Bruno, CA**: 7 opportunities
 - **Princeton, NJ**: 7 opportunities
@@ -205,7 +207,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 227+ verified internships and new grad roles from 122 top companies.
+✅ **100% Real Opportunities:** 231+ verified internships and new grad roles from 122 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -257,12 +259,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1825 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1829 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1825 roles
+- **📁 Total Positions**: 1829 roles
 - **🏢 Companies**: 122 companies  
 - **⭐ FAANG+ Opportunities**: 80 positions
 
@@ -593,7 +595,7 @@ No companies available
 
 <div align="center">
 
-**🎯 227 current opportunities from 122 top companies.**
+**🎯 231 current opportunities from 122 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
