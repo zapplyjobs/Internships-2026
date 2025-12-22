@@ -7060,5 +7060,104 @@
     "sourceUrl": "https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/XMLNAME-2026-Summer-Internship-Program---Technology_JR1076089",
     "discordThreadId": "1449928681244856442",
     "instanceNumber": 1
+  },
+  {
+    "id": "hewlett-packard-enterprise-software-engineering-intern-fort-collins-2025-12-15-1",
+    "jobId": "hewlett-packard-enterprise-software-engineering-intern-fort-collins",
+    "company": "Hewlett Packard Enterprise",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-15T01:42:10.489Z",
+    "sourceDate": "2025-09-03T05:09:52.000Z",
+    "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Intern--Colorado-_1193616",
+    "discordThreadId": "1449939556425007164",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-software-engineer-intern-summer-and-winter-seattle-2025-12-15-1",
+    "jobId": "stripe-software-engineer-intern-summer-and-winter-seattle",
+    "company": "Stripe",
+    "title": "Software Engineer – Intern - Summer and Winter",
+    "postedToDiscord": "2025-12-15T01:42:12.298Z",
+    "sourceDate": "2025-09-03T03:55:10.000Z",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7210115",
+    "discordThreadId": "1449939563815506176",
+    "instanceNumber": 1
+  },
+  {
+    "id": "brevium-software-engineer-intern-american-fork-2025-12-15-1",
+    "jobId": "brevium-software-engineer-intern-american-fork",
+    "company": "Brevium",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-15T01:42:14.002Z",
+    "sourceDate": "2025-09-03T02:16:52.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/brevium/jobs/4598383006",
+    "discordThreadId": "1449939571424104551",
+    "instanceNumber": 1
+  },
+  {
+    "id": "spacex-software-engineering-internship-co-op-bastrop-2025-12-15-1",
+    "jobId": "spacex-software-engineering-internship-co-op-bastrop",
+    "company": "SpaceX",
+    "title": "Software Engineering Internship/Co-op",
+    "postedToDiscord": "2025-12-15T01:42:15.928Z",
+    "sourceDate": "2025-09-03T01:25:56.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8149155002",
+    "discordThreadId": "1449939578998882489",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-voleon-group-software-engineer-intern-berkeley-2025-12-15-1",
+    "jobId": "the-voleon-group-software-engineer-intern-berkeley",
+    "company": "The Voleon Group",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-15T01:42:17.645Z",
+    "sourceDate": "2025-09-03T00:59:54.000Z",
+    "sourceUrl": "https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0/apply",
+    "discordThreadId": "1449939586620067952",
+    "instanceNumber": 1
+  },
+  {
+    "id": "qualcomm-software-engineering-internship-interim-engineering-intern-sw-san-diego-2025-12-15-1",
+    "jobId": "qualcomm-software-engineering-internship-interim-engineering-intern-sw-san-diego",
+    "company": "Qualcomm",
+    "title": "Software Engineering Internship - Interim Engineering Intern - SW",
+    "postedToDiscord": "2025-12-15T01:42:19.361Z",
+    "sourceDate": "2025-09-03T00:37:32.000Z",
+    "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492798",
+    "discordThreadId": "1449939593909633085",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stripe-phd-machine-learning-engineer-intern-seattle-2025-12-15-1",
+    "jobId": "stripe-phd-machine-learning-engineer-intern-seattle",
+    "company": "Stripe",
+    "title": "PhD Machine Learning Engineer – Intern",
+    "postedToDiscord": "2025-12-15T01:42:24.027Z",
+    "sourceDate": "2025-09-03T03:55:01.000Z",
+    "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7216664",
+    "discordThreadId": "1449939613622862058",
+    "instanceNumber": 1
+  },
+  {
+    "id": "qualcomm-multimedia-engineering-internship-interim-engineering-intern-systems-san-diego-2025-12-15-1",
+    "jobId": "qualcomm-multimedia-engineering-internship-interim-engineering-intern-systems-san-diego",
+    "company": "Qualcomm",
+    "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
+    "postedToDiscord": "2025-12-15T01:42:25.678Z",
+    "sourceDate": "2025-09-03T00:37:35.000Z",
+    "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492868",
+    "discordThreadId": "1449939620497457255",
+    "instanceNumber": 1
+  },
+  {
+    "id": "qualcomm-machine-learning-artificial-intelligence-engineering-internship-interim-engineering-intern-sw-san-diego-2025-12-15-1",
+    "jobId": "qualcomm-machine-learning-artificial-intelligence-engineering-internship-interim-engineering-intern-sw-san-diego",
+    "company": "Qualcomm",
+    "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
+    "postedToDiscord": "2025-12-15T01:42:27.383Z",
+    "sourceDate": "2025-09-03T00:37:31.000Z",
+    "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492802",
+    "discordThreadId": "1449939627208343727",
+    "instanceNumber": 1
   }
 ]
