@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T08:04:08.435Z",
+  "lastUpdated": "2025-12-22T08:18:41.021Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9043,14 +9043,69 @@
       "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/EMCS-Intern_2023975",
       "discordThreadId": "1452572388725231656",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-project-intern-lead-ads-2026-start-bs-ms-san-jose-2025-12-22-1",
+      "jobId": "tiktok-software-engineer-project-intern-lead-ads-2026-start-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Project Intern – Lead Ads - 2026 Start - BS/MS",
+      "postedToDiscord": "2025-12-22T08:18:20.858Z",
+      "sourceDate": "2025-12-15T23:21:36.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7584179082162653445",
+      "discordThreadId": "1452575964717387776",
+      "instanceNumber": 1
+    },
+    {
+      "id": "apex-fintech-pcep-intern-portland-2025-12-22-1",
+      "jobId": "apex-fintech-pcep-intern-portland",
+      "company": "Apex Fintech Solutions",
+      "title": "PCEP Intern",
+      "postedToDiscord": "2025-12-22T08:18:27.239Z",
+      "sourceDate": "2025-12-15T23:23:25.000Z",
+      "sourceUrl": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Portland-OR/PCEP-Intern_JR104001",
+      "discordThreadId": "1452575991665922171",
+      "instanceNumber": 1
+    },
+    {
+      "id": "seagate-technology-metrology-intern-summer-2026-bloomington-2025-12-22-1",
+      "jobId": "seagate-technology-metrology-intern-summer-2026-bloomington",
+      "company": "Seagate Technology ",
+      "title": "Metrology Intern Summer 2026",
+      "postedToDiscord": "2025-12-22T08:18:31.036Z",
+      "sourceDate": "2025-12-15T23:22:27.000Z",
+      "sourceUrl": "https://seagatecareers.com/job/Bloomington-Metrology-Intern-Summer-2026-MN/1349897000/?ats=successfactors",
+      "discordThreadId": "1452576006673272983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-ai-ml-engineering-intern-model-evaluation-scalability-agentic-ai-milpitas-2025-12-22-1",
+      "jobId": "kla-ai-ml-engineering-intern-model-evaluation-scalability-agentic-ai-milpitas",
+      "company": "KLA",
+      "title": "AI/ML Engineering Intern - Model Evaluation - Scalability & Agentic AI",
+      "postedToDiscord": "2025-12-22T08:18:37.558Z",
+      "sourceDate": "2025-12-15T23:21:57.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern---Model-Evaluation--Scalability---Agentic-AI_2532902",
+      "discordThreadId": "1452576034380709960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-ai-ml-algorithms-silicon-systems-ai-san-jose-2025-12-22-1",
+      "jobId": "micron-technology-intern-ai-ml-algorithms-silicon-systems-ai-san-jose",
+      "company": "Micron Technology",
+      "title": "Intern – AI/ML Algorithms - Silicon Systems AI",
+      "postedToDiscord": "2025-12-22T08:18:41.021Z",
+      "sourceDate": "2025-12-15T23:21:35.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330",
+      "discordThreadId": "1452576049035481178",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 822,
+    "totalJobs": 827,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T08:04:08.435Z",
+      "date": "2025-12-22T08:18:41.021Z",
       "archived": 0
     }
   }

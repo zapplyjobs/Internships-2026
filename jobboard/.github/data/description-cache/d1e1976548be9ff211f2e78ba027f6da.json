@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28649",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "As a Database Software Developer Co-Op, this is a great opportunity to gain hands-on experience in Vertex AI-driven software modeling development. As part of this Co-op, you will work closely with experienced professionals to contribute to productize and field support deployment/uses of the Vertex AI based system level fault diagnostics and resolution capabilities for Redis, Valkey, and Cassandra databases. There will be an opportunity to extend support for this capability to other CSF assets.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28649",
+      "fetchedAt": "2025-12-22T08:18:08.749Z"
+    }
+  },
+  "cachedAt": 1766391488750
+}
