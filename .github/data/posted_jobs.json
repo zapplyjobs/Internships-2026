@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T05:44:57.959Z",
+  "lastUpdated": "2025-12-22T05:55:01.370Z",
   "jobs": [
-    {
-      "id": "the-hanover-associate-solutions-developer-worcester-2025-12-15-1",
-      "jobId": "the-hanover-associate-solutions-developer-worcester",
-      "company": "The Hanover",
-      "title": "Associate Solutions Developer",
-      "postedToDiscord": "2025-12-15T05:51:23.450Z",
-      "sourceDate": "2025-08-27T14:34:59.000Z",
-      "sourceUrl": "https://jobs.dayforcehcm.com/en-US/thg/ALLCAREERS/jobs/38827",
-      "discordThreadId": "1450002266756092125",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spectrum-associate-software-developer-maryland-heights-2025-12-15-1",
-      "jobId": "spectrum-associate-software-developer-maryland-heights",
-      "company": "Spectrum",
-      "title": "Associate Software Developer",
-      "postedToDiscord": "2025-12-15T05:51:25.152Z",
-      "sourceDate": "2025-08-27T14:30:21.000Z",
-      "sourceUrl": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-software-developer/4673/85449990864",
-      "discordThreadId": "1450002280718929953",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spectrum-associate-dev-ops-engineer-charlotte-2025-12-15-1",
-      "jobId": "spectrum-associate-dev-ops-engineer-charlotte",
-      "company": "Spectrum",
-      "title": "Associate Dev Ops Engineer",
-      "postedToDiscord": "2025-12-15T05:51:27.011Z",
-      "sourceDate": "2025-08-27T14:29:39.000Z",
-      "sourceUrl": "https://jobs.spectrum.com/job/charlotte/2026-summer-intern-associate-dev-ops-engineer/4673/85279001840",
-      "discordThreadId": "1450002288583250066",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spectrum-associate-dev-ops-engineer-maryland-heights-2025-12-15-1",
-      "jobId": "spectrum-associate-dev-ops-engineer-maryland-heights",
-      "company": "Spectrum",
-      "title": "Associate Dev Ops Engineer",
-      "postedToDiscord": "2025-12-15T05:51:27.018Z",
-      "sourceDate": "2025-08-27T14:26:57.000Z",
-      "sourceUrl": "https://jobs.spectrum.com/job/maryland-heights/2026-summer-intern-associate-dev-ops-engineer/4673/85430606768",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "nuro-systems-engineering-intern-scenario-taxonomy-mountain-view-2025-12-15-1",
-      "jobId": "nuro-systems-engineering-intern-scenario-taxonomy-mountain-view",
-      "company": "Nuro",
-      "title": "Systems Engineering Intern, Scenario Taxonomy",
-      "postedToDiscord": "2025-12-15T05:51:28.735Z",
-      "sourceDate": "2025-08-27T14:03:55.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7169069",
-      "discordThreadId": "1450002295851843677",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nuro-mapping-localization-software-engineering-intern-mountain-view-2025-12-15-1",
-      "jobId": "nuro-mapping-localization-software-engineering-intern-mountain-view",
-      "company": "Nuro",
-      "title": "Mapping & Localization, Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T05:51:30.546Z",
-      "sourceDate": "2025-08-27T14:03:23.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6562194",
-      "discordThreadId": "1450002303577882634",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nuro-software-engineer-performance-intern-mountain-view-2025-12-15-1",
-      "jobId": "nuro-software-engineer-performance-intern-mountain-view",
-      "company": "Nuro",
-      "title": "Software Engineer, Performance - Intern",
-      "postedToDiscord": "2025-12-15T05:51:32.253Z",
-      "sourceDate": "2025-08-27T14:03:02.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6867897",
-      "discordThreadId": "1450002310758531157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zebra-avs-mobile-software-engineer-lincolnshire-2025-12-15-1",
-      "jobId": "zebra-avs-mobile-software-engineer-lincolnshire",
-      "company": "Zebra",
-      "title": "AVS Mobile Software Engineer",
-      "postedToDiscord": "2025-12-15T05:51:33.971Z",
-      "sourceDate": "2025-08-27T14:02:00.000Z",
-      "sourceUrl": "https://careers.zebra.com/careers/job/343627780597",
-      "discordThreadId": "1450002317993709638",
-      "instanceNumber": 1
-    },
-    {
-      "id": "abridge-full-stack-engineering-intern-san-francisco-2025-12-15-1",
-      "jobId": "abridge-full-stack-engineering-intern-san-francisco",
-      "company": "Abridge",
-      "title": "Full Stack Engineering Intern",
-      "postedToDiscord": "2025-12-15T05:51:35.835Z",
-      "sourceDate": "2025-08-27T14:01:21.000Z",
-      "sourceUrl": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
-      "discordThreadId": "1450002325442658347",
-      "instanceNumber": 1
-    },
     {
       "id": "microsoft-data-engineer-intern-redmond-2025-12-15-1",
       "jobId": "microsoft-data-engineer-intern-redmond",
@@ -9274,14 +9175,69 @@
       "sourceUrl": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Glen-Rose-Texas/Summer-Intern---Comanche-Peak---Maintenance_40014127",
       "discordThreadId": "1452537364802179106",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-quincy-2025-12-22-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-quincy",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T05:54:41.423Z",
+      "sourceDate": "2025-12-16T23:30:18.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69797/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452539812115386420",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-intern-engineer-scottsdale-2025-12-22-1",
+      "jobId": "general-dynamics-mission-intern-engineer-scottsdale",
+      "company": "General Dynamics Mission Systems",
+      "title": "Intern Engineer",
+      "postedToDiscord": "2025-12-22T05:54:44.927Z",
+      "sourceDate": "2025-12-16T23:30:14.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69794/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452539826598576138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "empower-intern-software-engineer-hartford-2025-12-22-1",
+      "jobId": "empower-intern-software-engineer-hartford",
+      "company": "Empower",
+      "title": "Intern - Software Engineer",
+      "postedToDiscord": "2025-12-22T05:54:48.308Z",
+      "sourceDate": "2025-12-16T23:25:07.000Z",
+      "sourceUrl": "https://empower.wd12.myworkdayjobs.com/empower/job/CT-Hartford/Summer-2026-Intern---Software-Engineer_R0055190",
+      "discordThreadId": "1452539841211269262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "berkshire-hathaway-energy-intern-data-science-des-moines-2025-12-22-1",
+      "jobId": "berkshire-hathaway-energy-intern-data-science-des-moines",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Intern – Data Science",
+      "postedToDiscord": "2025-12-22T05:54:54.798Z",
+      "sourceDate": "2025-12-16T23:22:33.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004034",
+      "discordThreadId": "1452539867903950975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-machine-learning-engineer-mountain-view-2025-12-22-1",
+      "jobId": "samsung-research-america-intern-machine-learning-engineer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Machine Learning Engineer",
+      "postedToDiscord": "2025-12-22T05:55:01.369Z",
+      "sourceDate": "2025-12-16T23:21:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8337813002",
+      "discordThreadId": "1452539895326310562",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 843,
+    "totalJobs": 839,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T05:44:57.959Z",
+      "date": "2025-12-22T05:55:01.370Z",
       "archived": 0
     }
   }
