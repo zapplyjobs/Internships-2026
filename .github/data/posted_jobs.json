@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T11:29:03.356Z",
+  "lastUpdated": "2025-12-22T17:47:26.915Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9923,14 +9923,69 @@
       "sourceUrl": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Science-Intern_R0029914",
       "discordThreadId": "1452623955255885850",
       "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-clinical-supplies-data-analyst-intern-undergraduate-students-gaithersburg-2025-12-22-1",
+      "jobId": "astrazeneca-clinical-supplies-data-analyst-intern-undergraduate-students-gaithersburg",
+      "company": "AstraZeneca",
+      "title": "Clinical Supplies Data Analyst Intern - Undergraduate Students",
+      "postedToDiscord": "2025-12-22T17:47:05.729Z",
+      "sourceDate": "2025-12-19T19:38:05.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Supplies-Data-Analyst-Intern--Undergraduate-Students_R-242238",
+      "discordThreadId": "1452719094070509645",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roche-intern-data-insights-unit-somerset-county-2025-12-22-1",
+      "jobId": "roche-intern-data-insights-unit-somerset-county",
+      "company": "Roche",
+      "title": "Intern - Data Insights Unit",
+      "postedToDiscord": "2025-12-22T17:47:09.259Z",
+      "sourceDate": "2025-12-19T20:10:07.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Branchburg/XMLNAME-2026-Summer-Intern---Data-Insights-Unit_202512-132013",
+      "discordThreadId": "1452719109404889159",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-intern-cambridge-2025-12-22-1",
+      "jobId": "rtx-intern-cambridge",
+      "company": "RTX",
+      "title": "Intern",
+      "postedToDiscord": "2025-12-22T17:47:16.774Z",
+      "sourceDate": "2025-12-19T22:47:14.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026-Intern---Full-Stack-Developer--Onsite-_01813685",
+      "discordThreadId": "1452719137263718576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-ai-systems-performance-engineering-san-bruno-2025-12-22-1",
+      "jobId": "genentech-intern-ai-systems-performance-engineering-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - AI systems performance engineering",
+      "postedToDiscord": "2025-12-22T17:47:23.292Z",
+      "sourceDate": "2025-12-20T02:30:28.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence---AI-systems-performance-engineering_202512-132499",
+      "discordThreadId": "1452719168427397120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-multi-modal-cyber-physical-sensing-intern-pittsburgh-2025-12-22-1",
+      "jobId": "robert-bosch-venture-capital-multi-modal-cyber-physical-sensing-intern-pittsburgh",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Multi-Modal Cyber-physical sensing Intern",
+      "postedToDiscord": "2025-12-22T17:47:26.914Z",
+      "sourceDate": "2025-12-20T02:26:28.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000099877095",
+      "discordThreadId": "1452719182839025737",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 902,
+    "totalJobs": 907,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T11:29:03.356Z",
+      "date": "2025-12-22T17:47:26.915Z",
       "archived": 0
     }
   }
