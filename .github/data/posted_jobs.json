@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T07:42:06.505Z",
+  "lastUpdated": "2025-12-22T07:49:41.005Z",
   "jobs": [
     {
       "id": "palantir-software-engineer-internship-production-infrastructure-washington-2025-12-15-1",
@@ -8977,14 +8977,69 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000099076986",
       "discordThreadId": "1452566844572700672",
       "instanceNumber": 1
+    },
+    {
+      "id": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-summer-2026-cincinnati-2025-12-22-1",
+      "jobId": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-summer-2026-cincinnati",
+      "company": "Fifth Third Bank",
+      "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2026",
+      "postedToDiscord": "2025-12-22T07:49:27.170Z",
+      "sourceDate": "2025-12-15T23:49:36.000Z",
+      "sourceUrl": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Summer-2026_R63836",
+      "discordThreadId": "1452568692591431681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-translational-pharmacokinetics-pharmacodynamics-san-bruno-2025-12-22-1",
+      "jobId": "genentech-intern-translational-pharmacokinetics-pharmacodynamics-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Translational Pharmacokinetics/Pharmacodynamics",
+      "postedToDiscord": "2025-12-22T07:49:33.701Z",
+      "sourceDate": "2025-12-15T23:45:40.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Translational-Pharmacokinetics-Pharmacodynamics_202512-131946",
+      "discordThreadId": "1452568719875375201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-cscoe-ai-for-drug-discovery-san-bruno-2025-12-22-1",
+      "jobId": "genentech-intern-cscoe-ai-for-drug-discovery-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - CSCoE AI for Drug Discovery",
+      "postedToDiscord": "2025-12-22T07:49:33.709Z",
+      "sourceDate": "2025-12-15T23:45:32.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CSCoE-AI-for-Drug-Discovery_202512-131719",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-2026-machine-learning-scientist-summer-intern-biology-research-ai-development-san-bruno-2025-12-22-1",
+      "jobId": "genentech-2026-machine-learning-scientist-summer-intern-biology-research-ai-development-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Machine Learning Scientist Summer Intern - Biology Research - AI Development",
+      "postedToDiscord": "2025-12-22T07:49:37.131Z",
+      "sourceDate": "2025-12-15T23:45:33.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Machine-Learning-Scientist-Summer-Intern---Biology-Research---AI-Development_202512-131795",
+      "discordThreadId": "1452568734593192030",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-computational-fluid-dynamics-san-diego-2025-12-22-1",
+      "jobId": "asml-intern-computational-fluid-dynamics-san-diego",
+      "company": "ASML",
+      "title": "Intern-Computational Fluid Dynamics",
+      "postedToDiscord": "2025-12-22T07:49:41.004Z",
+      "sourceDate": "2025-12-15T23:36:36.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship--Computational-Fluid-Dynamics-Summer-2026_J-00327711",
+      "discordThreadId": "1452568749738692712",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 816,
+    "totalJobs": 821,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T07:42:06.505Z",
+      "date": "2025-12-22T07:49:41.005Z",
       "archived": 0
     }
   }
