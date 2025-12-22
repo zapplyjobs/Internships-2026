@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556641981",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Applies engineering principles to solve complex problems through sound and creative engineering. Works with appropriate stakeholders to determine user requirements for a feature. Quickly learns new engineering methods and incorporates them into work processes. Seeks feedback and applies internal or industry best practices to improve technical solutions. Demonstrates skill in time management and completing software projects in a cooperative team environment. Reviews current developments and proactively seeks new knowledge that will improve the availability, reliability, efficiency, observability, and performance of products while also driving consistency in monitoring and operations at scale. Enrolled in a full time bachelor&#39;s or master&#39;s program in Computer Science, Engineering, or related field during the academic term immediately before the internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms. Frontend: building UI with TypeScript/JavaScript and a modern framework (e.g., React); strong HTML/CSS fundamentals; accessibility awareness. Backend/services: building in C#, Java, Golang, Kotlin, or C++; designing APIs; working with microservices or infrastructure services; multi‑threaded/concurrent programming. Platform/DevOps: exposure to containers, Kubernetes, CI/CD, and observability (dashboards, alerts, tracing).",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641981",
+      "fetchedAt": "2025-12-22T17:53:26.323Z"
+    }
+  },
+  "cachedAt": 1766426006324
+}
