@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T18:33:20.955Z",
+  "lastUpdated": "2025-12-22T18:51:16.614Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10198,14 +10198,69 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2026_320651",
       "discordThreadId": "1452730735122452581",
       "instanceNumber": 1
+    },
+    {
+      "id": "atlantic-health-pharmacy-intern-data-analytics-morristown-2025-12-22-1",
+      "jobId": "atlantic-health-pharmacy-intern-data-analytics-morristown",
+      "company": "Atlantic Health System",
+      "title": "Pharmacy – Intern - Data Analytics",
+      "postedToDiscord": "2025-12-22T18:50:55.945Z",
+      "sourceDate": "2025-12-19T23:09:06.000Z",
+      "sourceUrl": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24720",
+      "discordThreadId": "1452735159034970194",
+      "instanceNumber": 1
+    },
+    {
+      "id": "field-ai-field-application-engineer-las-vegas-2025-12-22-1",
+      "jobId": "field-ai-field-application-engineer-las-vegas",
+      "company": "Field AI",
+      "title": "Field Application Engineer",
+      "postedToDiscord": "2025-12-22T18:50:59.633Z",
+      "sourceDate": "2025-12-19T23:07:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/field-ai/d02a6b00-c3c7-4ad2-bec9-8ae12c9339dd/apply",
+      "discordThreadId": "1452735173908103221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oracle-phd-applied-scientist-intern-oracle-analytics-seattle-2025-12-22-1",
+      "jobId": "oracle-phd-applied-scientist-intern-oracle-analytics-seattle",
+      "company": "Oracle",
+      "title": "PhD Applied Scientist Intern - Oracle Analytics",
+      "postedToDiscord": "2025-12-22T18:51:03.140Z",
+      "sourceDate": "2025-12-19T23:05:43.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320800",
+      "discordThreadId": "1452735189989199955",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carbon-direct-industrial-decarbonization-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "carbon-direct-industrial-decarbonization-intern-remote-in-usa",
+      "company": "Carbon Direct",
+      "title": "Industrial Decarbonization Intern",
+      "postedToDiscord": "2025-12-22T18:51:09.694Z",
+      "sourceDate": "2025-12-19T23:05:43.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/carbondirect/jobs/5008252007",
+      "discordThreadId": "1452735217075748885",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cme-research-and-product-development-phd-student-intern-chicago-2025-12-22-1",
+      "jobId": "cme-research-and-product-development-phd-student-intern-chicago",
+      "company": "CME Group",
+      "title": "Research and Product Development PhD Student Intern",
+      "postedToDiscord": "2025-12-22T18:51:16.613Z",
+      "sourceDate": "2025-12-19T02:16:58.000Z",
+      "sourceUrl": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
+      "discordThreadId": "1452735245068664862",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 927,
+    "totalJobs": 932,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T18:33:20.955Z",
+      "date": "2025-12-22T18:51:16.614Z",
       "archived": 0
     }
   }
