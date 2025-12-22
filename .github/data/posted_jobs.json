@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T09:46:17.445Z",
+  "lastUpdated": "2025-12-22T09:56:14.933Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9428,14 +9428,69 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000091667804",
       "discordThreadId": "1452598094716993708",
       "instanceNumber": 1
+    },
+    {
+      "id": "tencent-it-application-developer-intern-ai-driven-it-ops-palo-alto-2025-12-22-1",
+      "jobId": "tencent-it-application-developer-intern-ai-driven-it-ops-palo-alto",
+      "company": "Tencent",
+      "title": "IT Application Developer – Intern - AI-Driven IT Ops",
+      "postedToDiscord": "2025-12-22T09:55:54.749Z",
+      "sourceDate": "2025-10-23T15:38:25.000Z",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/IT-Application-Developer---AI-Driven-IT-Ops---Intern_R106286",
+      "discordThreadId": "1452600517690785873",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zebra-internship-flutter-mobile-app-development-corporate-and-business-services-vernon-hills-2025-12-22-1",
+      "jobId": "zebra-internship-flutter-mobile-app-development-corporate-and-business-services-vernon-hills",
+      "company": "Zebra Technologies",
+      "title": "Internship - Flutter Mobile App Development - Corporate and Business Services",
+      "postedToDiscord": "2025-12-22T09:55:58.307Z",
+      "sourceDate": "2025-10-01T11:27:26.000Z",
+      "sourceUrl": "https://zebra.eightfold.ai/careers/job/343635436582",
+      "discordThreadId": "1452600532114870395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-data-science-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-data-science-intern-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-22T09:56:04.926Z",
+      "sourceDate": "2025-11-04T02:31:58.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5927/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452600559885357109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-marketing-data-analyst-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-marketing-data-analyst-intern-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "Marketing Data Analyst Intern",
+      "postedToDiscord": "2025-12-22T09:56:08.308Z",
+      "sourceDate": "2025-09-11T17:37:50.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5925/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452600574754295919",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-technology-intern-summer-2026-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-technology-intern-summer-2026-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "Technology Intern - Summer 2026",
+      "postedToDiscord": "2025-12-22T09:56:14.933Z",
+      "sourceDate": "2025-09-24T01:44:05.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5918/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452600601622876324",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 857,
+    "totalJobs": 862,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T09:46:17.445Z",
+      "date": "2025-12-22T09:56:14.933Z",
       "archived": 0
     }
   }
