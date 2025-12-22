@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T19:18:16.599Z",
+  "lastUpdated": "2025-12-22T19:28:58.652Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10418,14 +10418,69 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job",
       "discordThreadId": "1452742040356913235",
       "instanceNumber": 1
+    },
+    {
+      "id": "dexcom-intern-i-software-test-development-engineering-san-diego-2025-12-22-1",
+      "jobId": "dexcom-intern-i-software-test-development-engineering-san-diego",
+      "company": "Dexcom",
+      "title": "Intern I - Software Test Development Engineering",
+      "postedToDiscord": "2025-12-22T19:28:41.340Z",
+      "sourceDate": "2025-12-22T13:26:13.000Z",
+      "sourceUrl": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/San-Diego-California/Intern-I---Software-Test-Development-Engineering_JR115297",
+      "discordThreadId": "1452744659792040023",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-software-r-d-intern-austin-2025-12-22-1",
+      "jobId": "cadence-software-r-d-intern-austin",
+      "company": "Cadence",
+      "title": "Software R&D Intern",
+      "postedToDiscord": "2025-12-22T19:28:44.873Z",
+      "sourceDate": "2025-12-22T13:22:54.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R52361-1",
+      "discordThreadId": "1452744676124659792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-software-development-engineer-in-test-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-software-development-engineer-in-test-san-jose",
+      "company": "ASML",
+      "title": "Internship - Software Development Engineer in Test",
+      "postedToDiscord": "2025-12-22T19:28:48.402Z",
+      "sourceDate": "2025-12-22T13:22:00.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
+      "discordThreadId": "1452744691052314846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cobot-swe-intern-ai-navigation-controls-undergraduate-santa-clara-2025-12-22-1",
+      "jobId": "cobot-swe-intern-ai-navigation-controls-undergraduate-santa-clara",
+      "company": "CoBot",
+      "title": "SWE Intern, AI, Navigation & Controls (Undergraduate)",
+      "postedToDiscord": "2025-12-22T19:28:55.037Z",
+      "sourceDate": "2025-12-22T13:24:26.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/cobot/86933504-7a8f-46d1-a745-edfe53c47427",
+      "discordThreadId": "1452744718357102602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-ai-research-intern-pittsburgh-2025-12-22-1",
+      "jobId": "robert-bosch-venture-capital-ai-research-intern-pittsburgh",
+      "company": "Robert Bosch Venture Capital",
+      "title": "AI Research Intern",
+      "postedToDiscord": "2025-12-22T19:28:58.652Z",
+      "sourceDate": "2025-12-22T16:22:14.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000100086635",
+      "discordThreadId": "1452744733540745336",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 947,
+    "totalJobs": 952,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T19:18:16.599Z",
+      "date": "2025-12-22T19:28:58.652Z",
       "archived": 0
     }
   }
