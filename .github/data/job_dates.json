@@ -16336,5 +16336,17 @@
     "job_title": "Survey Intern",
     "company": "Westwood",
     "first_seen": "2025-12-22T07:41:22.295Z"
+  },
+  "nvidia-ai-factory-digital-twin-r&d-intern-santa-clara": {
+    "assigned_date": "2025-12-22T10:17:08.836Z",
+    "job_title": "AI Factory Digital Twin R&D Intern",
+    "company": "NVIDIA",
+    "first_seen": "2025-12-22T10:17:08.836Z"
+  },
+  "nvidia-ai-factory-cooling-r&d-intern-santa-clara": {
+    "assigned_date": "2025-12-22T10:17:08.837Z",
+    "job_title": "AI Factory Cooling R&D Intern",
+    "company": "NVIDIA",
+    "first_seen": "2025-12-22T10:17:08.837Z"
   }
 }
