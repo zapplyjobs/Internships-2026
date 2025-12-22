@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Pharmacy – Intern - Data Analytics",
-      "employer_name": "Atlantic Health System",
-      "job_city": "Morristown",
-      "job_state": "NJ",
-      "job_description": "The Accountable Care Organization Team is seeking a Pharmacy (Data Analytics) Intern to support initiatives aimed at improving patient outcomes through advanced data-driven strategies. This role offers hands-on experience in leveraging analytics and emerging technologies (such as AI and predictive analytics) to enhance medication management, monitor clinical metrics, and contribute to value-based care models. The intern will collaborate with clinical teams, participate in patient-facing projects, and gain exposure to innovative healthcare solutions that prioritize safety, quality, and efficiency. Key Responsibilities - Assist in analyzing pharmacy-related data to identify trends and opportunities for improving patient outcomes. - Support projects involving AI-driven tools and vendor solutions for clinical outcome optimization (e.g., blood pressure, A1C management). - Contribute to medication management and pharmacogenomics initiatives. - Participate in patient outreach efforts ...",
-      "job_apply_link": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24720",
-      "job_posted_at_datetime_utc": "2025-12-19T23:09:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "atlantic-health-pharmacy-intern-data-analytics-morristown",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T18:18:22.543Z",
-    "postedAt": "2025-12-22T18:51:19.626Z"
-  },
-  {
-    "job": {
-      "job_title": "Field Application Engineer",
-      "employer_name": "Field AI",
-      "job_city": "Las Vegas",
-      "job_state": "NV",
-      "job_description": "4.5 Field Application Engineer -Intern (Part-time) Las Vegas, NevadaLas Vegas, NVArea 4: Field and Customer Success Team /Part time /On-siteApply for this jobJob Title: Field Application Engineer InternLocation: Las Vegas, Nevada Frequent Nationwide Travel RequiredJob Type: Part-time, 20 hours + per week Who are We? Field AI is transforming how robots interact with the real world. We are building risk-aware, dependable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications. Learn more at https://fieldai.com.$20 - $25 an hourAbout the Job We are looking for a proactive and tech-savvy Field Application Engineer Intern to support the deployment, testing, and client-facing operations of our cutting-edge robotic systems—including drones, quadrupeds, and humanoid robots. This role is ideal for recent graduates who thrive in both technical and operational environments and are ready to travel to project sites around the U.S.You will be based out of our Las Vegas, Nevada location but must be prepared for regular travel. An up-to-date passport and REAL ID (or equivalent documentation) are preferred and may be required for travel and site access. What You’ll Get To Do:● Deploy and operate robotic systems in the field, support testing and data collection. ● Supervise remote operations and assist during client presentations and demos.● Facilitate smooth, clear communication between engineers and non-technical stakeholders.● Document technical issues, test results, and client feedback in detail.● Troubleshoot hardware and software issues and contribute to continuous workflow improvement.● Collaborate with cross-functional teams to iterate on system performance and usability.What You Have:● Bachelor’s degree in Computer Science, Robotics, Electrical Engineering, Mechatronics, or a related technical field.● Strong communication skills—able to translate complex technical topics for various audiences.● Willingness to travel frequently across the country.● Up-to-date passport and valid REAL ID (or equivalent travel documentation) is preferred.● Excellent organizational skills and the ability to work well in team-based environments. The Extras That Set You Apart: ● Hands-on experience with robotics hardware (drones, quadrupeds, humanoids, or similar).● Familiarity with basic electronics, sensors, and robotic subsystems.● Basic coding/scripting skills (Python, C++, or similar).● Prior experience in field testing, remote operations, or client-facing tech roles is a plus.CompensationThe salary range for this role is dependent upon experience. The actual offer for this position will be based on factors such as relevant experience, competencies, certifications, and how well the candidate meets the qualifications outlined above. Part of our compensation package also includes full benefits, equity, and generous time. Field AI Onsite Work PhilosophyAt Field AI, we believe the most effective way to collaborate and solve complex challenges is by working together in person. This is a fully onsite role, and candidates will be expected to work from our Irvine, CA office. In-person engagement is essential to our success, and we offer flexible working hours to support focus and work-life balance. We are dedicated to fostering a diverse and inclusive workplace and encouraging applicants from all backgrounds to apply.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/field-ai/d02a6b00-c3c7-4ad2-bec9-8ae12c9339dd/apply",
-      "job_posted_at_datetime_utc": "2025-12-19T23:07:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "field-ai-field-application-engineer-las-vegas",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T18:18:22.543Z",
-    "postedAt": "2025-12-22T18:51:19.626Z"
-  },
-  {
-    "job": {
-      "job_title": "PhD Applied Scientist Intern - Oracle Analytics",
-      "employer_name": "Oracle",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Intern - Must be enrolled in a university prior to and post internship. Target Internship Duration: May-Aug 2026 or June-Sept 2026.",
-      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320800",
-      "job_posted_at_datetime_utc": "2025-12-19T23:05:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oracle-phd-applied-scientist-intern-oracle-analytics-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T18:18:22.543Z",
-    "postedAt": "2025-12-22T18:51:19.626Z"
-  },
-  {
-    "job": {
-      "job_title": "Industrial Decarbonization Intern",
-      "employer_name": "Carbon Direct",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Join us on the journey to get to net zero Our Mission Enable organizations to reduce, remove, and utilize their emissions with carbon science. We are a purpose-driven carbon management firm dedicated to helping organizations around the world reach their climate goals. We make carbon science accessible and actionable with our team of leading scientists and an end-to-end carbon management platform. Global citizens with global impact Whether a scientist, developer, or carbon markets expert, we are united by our mission to take climate action now. We are experts in our fields, and we act with confidence. We are located across 4 countries and in states all across the U.S. Diverse backgrounds bring diverse perspectives We recognize that teams with diverse backgrounds and different experiences are powerful. Bringing together a variety of individual perspectives enhances how we can effectively address the climate crisis. Together, we are creating an environment where everyone is celebrated, and anyone can succeed. About Carbon Direct Carbon Direct is a science-first organization that combines technology with deep expertise in climate science, data, and policy to deliver actionable climate strategies and high-quality carbon dioxide removal to decarbonize the global economy. We have built a reputation as a trusted arbiter of high-quality strategy for carbon reduction, removal, and utilization throughout value chains, working with leading organizations. Our team of 70+ scientists includes thought leaders who actively contribute to the science of climate mitigation with novel assessment methodologies and public resources to facilitate action. With Carbon Direct, clients can set and equitably deliver on their climate commitments, streamline compliance, and manage risk through transparency and scientific credibility. Carbon Direct has applied its expertise to the completion of: over 600 engineered, hybrid, and nature-based carbon credit project assessments, deep diligence for multi-year off-take agreements, and project co-design engagements; over 150 unique emerging technology diligence reviews; and deep technical diligence de-risking engagements in improved forest management, reforestation, BECCS, and DAC, with commercial strategy support in collaboration with carbon credit developers to ensure that their products are best-in-class. Overview We are seeking motivated energy and climate technology professionals to join our Industrial Decarbonization Intern Program in 2026. Successful candidates will support research, modeling, analysis, and writing tasks that help solve climate change through the management of physical CO2. This internship provides an opportunity to work on cutting-edge solutions for reducing and removing CO2 emissions, including clean fuels, carbon capture and storage, low-carbon building materials, and engineered carbon dioxide removal technologies. Our work environment is fast-paced and collaborative, and the role may involve occasional travel. We value flexibility, curiosity, and the ability to work both independently and as part of a team. A successful candidate is a self-starter who understands the fundamentals of low-carbon energy systems, stays informed about technological developments in climate and sustainability, and is eager to contribute to scalable and equitable climate solutions. Responsibilities: Conduct research, modeling, expert interviews, and data analysis to support industrial decarbonization projects. Assist in research, synthesis, writing, and preparation of presentation materials as directed by team members. Participate in collaborative problem-solving with project teams. Support internal communication and coordination across teams to achieve project goals. Develop and contribute to clear and compelling reports, briefs, and presentations summarizing analytical insights. Manage deadlines through effective time management and communication with mentors and project leads. Get to know Carbon Direct and our science-based approach to decarbonization through 1:1, small group, departmental, and company-wide dialogues. Qualifications: Current graduate student (or recent college graduate) in engineering, chemistry, earth sciences, physics, environmental science, or a related field. Interest in carbon management solutions, including decarbonization and carbon removal technologies. Experience or coursework in one or more of the following: Life Cycle Assessments (LCA) and/or Techno-Economic Assessments (TEA) Carbon markets (voluntary or compliance) and relevant standards Emissions mitigation strategies such as efficiency, electrification, carbon capture and storage, and fuel switching Engineered and hybrid carbon removal solutions (e.g., direct air capture, bioenergy with carbon capture and storage, mineralization) Industrial ecology or chemical engineering principles Electricity generation and grid decarbonization strategies Ability to synthesize findings from scientific and technical reports. Strong problem-solving skills and ability to work independently with limited supervision when necessary. Excellent interpersonal skills and communication with internal teams and external stakeholders. Proficiency in Excel and/or analytical software (e.g., R, GIS, Tableau) preferred. We encourage candidates from diverse backgrounds to apply and look forward to welcoming an enthusiastic intern to our team! Benefits While we love our work, our lives aren’t defined by it. At Carbon Direct, we offer a robust benefits package that considers the whole person, their partners, and their families – and we’re always looking to improve. Our U.S. benefits* include: Comprehensive nationwide medical, dental, and vision coverage. See a preview of our coverage here. Time off as needed: Flexible vacation policy and ten company-wide holidays, plus annual winter break between Christmas and New Year's 16 weeks of fully paid parental and family leave with no tenure requirement Remote-friendly work culture with annual company-wide retreats Reimbursement for your work-from-home setup and monthly work-from-home stipend *Please note that the benefits described apply to U.S.-based employees only. For our international employees, our benefits package varies by each country and its statutory requirements. Equal Opportunity Employer Carbon Direct is an equal opportunity employer and does not discriminate on the basis of race, color, gender, religion, age, sexual orientation, national or ethnic origin, disability, marital status, veteran status, or any other occupationally irrelevant criteria. We adhere rigorously to our equal employment opportunity policies in connection with all employment decisions, including hiring, compensation, and promotion.",
-      "job_apply_link": "https://job-boards.greenhouse.io/carbondirect/jobs/5008252007",
-      "job_posted_at_datetime_utc": "2025-12-19T23:05:43.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "carbon-direct-industrial-decarbonization-intern-remote-in-usa",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T18:18:22.543Z",
-    "postedAt": "2025-12-22T18:51:19.626Z"
-  },
-  {
-    "job": {
-      "job_title": "Research and Product Development PhD Student Intern",
-      "employer_name": "CME Group",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "CME Group is the world’s leading derivatives marketplace — but our fastest-growing frontier is data and analytics. With trillions in notional trading across our markets, CME produces one of the richest financial datasets on the planet: full-depth order books, microstructure signals, volatility surfaces, curve dynamics, order flow distributions, term-structure shifts, and real-time global risk transfer behavior.Through our strategic partnership with Google Cloud Platform (GCP), we now have unmatched compute power to analyze this data at scale and build the next generation of analytics, financial mathematical models, and AI systems.This internship gives you direct access to that ecosystem.About the RoleWe are seeking a PhD student-level intern (20 hours/week, part-time, 1–2 days onsite in Chicago) for a 12-month appointment working directly with the Executive Director leading CME’s Data & Analytics buildout. This is a ground-floor opportunity to contribute to both the modernization of CME’s core analytics and the development of new AI-driven, mathematically rigorous models.The role has three interlocking pillars:1. Rebuilding & Operationalizing CME’s Financial Mathematical ModelsCME has a deep library of proprietary models across asset classes — some long-standing and widely used, others emerging. You will help:Review and where appropriate suggest improvements to analytical models using modern numerical and statistical methodsDocument and validate models in alignment with governance and regulatory standardsWork with technology to prepare models for deployment using GCP infrastructureHelp to document and at times direct conversion of legacy codebases into robust, maintainable analytics librariesEnsure mathematical transparency, reproducibility, and version controlCollaborate with Product, Clearing, Data Science, Index, and Engineering teamsExamples of model domains include:Curve construction & interpolationVolatility modelling (e.g., SABR in depth, SVI, spline surfaces, curve fitting)Option pricing & Greeks (finite-difference / Monte Carlo)Microstructure analytics (order book modeling, liquidity metrics)Risk models (scenario generation, historical VaR, CVaR, distribution modelling)Statistical estimation for high-frequency dataPros:Rare exposure to enterprise-scale quant model developmentHands-on work with real market datasets, not simulated dataOpportunity to improve models used by global financial institutionsCons:High expectations for precision, mathematical clarity, and documentationRequires comfort with governance and validation standards2. Building New Machine Learning, Embedding, and Agent-Based ModelsYou will help shape the next generation of CME’s AI capabilities, including:ML models trained on massive historical market datasetsEmbedding models for numerical, textual, and transactional dataAgent-based systems and agent-communication protocolsMarket microstructure simulations powered by intelligent agentsPredictive analytics and anomaly detection frameworksHybrid models combining financial mathematics with ML architecturesThis work sits at the intersection of quant research and state-of-the-art AI — and will be developed directly on GCP, leveraging tools such as BigQuery, Vertex AI, and large-scale notebooks.Pros:Frontier-level ML exposure with real, large datasetsCreative freedom on prototypesReal influence on CME’s long-term AI strategyCons:Ambiguity: some initiatives start from a blank pageMust be comfortable iterating quickly and defending methodological choices3. Quant Research, Data Engineering, and Cross-Functional CollaborationYou will also:Conduct quantitative research across CME’s datasetsBuild analytical pipelines using Python + GCP toolingDevelop visualizations and explainers for internal and client useSupport monthly and quarterly research themesPresent written and verbal findings to senior leadershipHelp shape best practices for model governance, testing, and production readinessWhat You BringRequiredPhD candidate in mathematics, statistics, physics, engineering, computer science, quantitative finance, econometrics, or a related fieldStrong foundation in financial mathematics (stochastic calculus, derivatives modeling, numerical methods, or equivalent)Proficiency in Python and scientific computing librariesAbility to communicate complex concepts clearly in writingStrong analytical discipline and attention to detailSelf-starter comfortable working across multiple business linesBonusExperience with GCP: BigQuery, Vertex AI, Dataflow, C++Experience with ML, embeddings, or agent-based systemsBackground in market microstructure, derivatives, or high-frequency dataPrior publications, technical reports, or model documentationSchedule & Structure20 hours/week1–2 days onsite12-month internshipFlexible to accommodate academic commitmentsDirect mentorship and collaboration with an Executive Director leading CME’s new Data & Analytics functionThis is not a typical internship — you will be a core contributor to a strategic buildout.Why This Is a Rare Opportunity for a PhD CandidateAccess to one of the deepest financial datasets in existenceAbility to work on both quantitative financial models and cutting-edge AI systemsExperience bringing models into enterprise-scale productionDirect contribution to CME’s next-generation data analytics platformExposure to real governance, validation, and model-risk frameworksA signature line on your CV that signals:“I built models used by global markets.”CME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $23.17--$38.65. Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings. This includes our comprehensive health coverage and a mental health benefit.CME Group: Where Futures are MadeCME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries. And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-opportunity employer, we consider all potential employees without regard to any protected characteristic.Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment process. Learn more here.",
-      "job_apply_link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
-      "job_posted_at_datetime_utc": "2025-12-19T02:16:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cme-research-and-product-development-phd-student-intern-chicago",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T18:18:22.543Z",
-    "postedAt": "2025-12-22T18:51:19.626Z"
-  },
-  {
-    "job": {
       "job_title": "Corporate Data Analytics Intern",
       "employer_name": "Associated Bank",
       "job_city": "Milwaukee",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T18:32:51.752Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:00:35.728Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T18:32:51.752Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:00:35.728Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T18:32:51.752Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:00:35.728Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T18:32:51.752Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:00:35.728Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T18:32:51.752Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T19:00:35.728Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "NVIDIA",
       "job_city": "Santa Clara",
       "job_state": "CA",
-      "job_description": "Join NVIDIA in this exciting opportunity.",
+      "job_description": "NVIDIA’s AI Factories are built to accelerate AI and HPC workloads. At their core the Digital Twin (physics-based model used to design, validate, and operate factories optimized for tokens per watt across GPUs, cooling, power, and control systems. We are seeking a PhD-level intern to support hands-on thermal R&D, simulation, and lab-based validation of data center cooling systems, from CDUs and CRAHs to advanced refrigeration and WHR-integrated systems.What You Will Be Doing:Conduct CFD, FNM, and mechanical design studies for rack-level, room-level, and facility-level cooling architectures.Build and refine CAD models and digital twin components for NVIDIA’s Omniverse platform.Work hands-on in NVIDIA’s Santa Clara thermal labs and CM sites with CDUs, CRAHs, chillers, pumps, HX, and prototype equipment.Set up and run experiments using LabVIEW or similar DAQ tools.Support mechanical build activities, including working with sheet-metal vendor and assembling test fixtures.Assist R&D for single phase liquid cooling, two-phase cooling, liquid-to-liquid systems, and hybrid cooling technologies.Work with the full DCE team across cooling, power, controls, mechanical design and digital twin development.Generate test reports, analyze data, and validate simulations with lab data.What We Need to See:Pursuing PhD in Mechanical Engineering, Thermal/Fluids Engineering, or similar area.Experience with CFD tools (ANSYS Fluent, Cadence, STAR-CCM+) and/or flow network modeling (Flownex).Hands-on experience with lab equipment, fluid loops, testing, and instrumentation.Experience working with CAD (SolidWorks, NX) and working safely and effectively in an R&D lab environment.Experience with LabVIEW, Python, MATLAB, or similar tools.Strong foundation in heat transfer, fluid mechanics, and thermal system design.Ways to Stand Out from the crowd:Experience working with liquid cooling systems (CDUs, CRAHs, Chillers).Background with Omniverse or USD-based digital twin integration.Experience designing/building custom test fixtures or prototypes.Research/publications in data center cooling or advanced thermal management.NVIDIA is widely recognized as one of the technology industry’s most desirable employers, with some of the most forward-thinking and dedicated people in the world. If you’re creative, autonomous, and driven, we want to hear from you!Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 30 USD - 94 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until December 23, 2025.\n\nNVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
       "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351",
       "job_posted_at_datetime_utc": "2025-12-22T10:12:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nvidia-ai-factory-cooling-r-d-intern-santa-clara"
+      "id": "nvidia-ai-factory-cooling-r-d-intern-santa-clara",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T10:17:08.889Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:59:58.734Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Nokia",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join Nokia in this exciting opportunity.",
+      "job_description": "Join Nokia as a key team member in designing and prototyping cutting-edge AI-RAN systems for 5G/6G and beyond. Your role includes hands-on testing, validation, and performance benchmarking, providing invaluable documentation of technical findings for internal publications and demos. This is an exciting opportunity to directly contribute to Nokia's mission of driving the next generation of telecommunications technology.",
       "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28498",
       "job_posted_at_datetime_utc": "2025-12-22T16:22:31.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nokia-cloud-ai-ran-r-d-intern-dallas"
+      "id": "nokia-cloud-ai-ran-r-d-intern-dallas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T17:46:31.942Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:59:58.734Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "ServiceNow",
       "job_city": "Orlando",
       "job_state": "FL",
-      "job_description": "Join ServiceNow in this exciting opportunity.",
+      "job_description": "Technical AI Architect Intern (Master's Degree)InternEmployee Type: Intern (Fixed Term)Region: AMS - North America and CanadaWork Persona: FlexibleCompany DescriptionIt all started in sunny San Diego, California in 2004 when a visionary engineer, Fred Luddy, saw the potential to transform how we work. Fast forward to today — ServiceNow stands as a global market leader, bringing innovative AI-enhanced technology to over 8,100 customers, including 85% of the Fortune 500®. Our intelligent cloud-based platform seamlessly connects people, systems, and processes to empower organizations to find smarter, faster, and better ways to work. But this is just the beginning of our journey. Join us as we pursue our purpose to make the world work better for everyone.Job DescriptionInternship At ServiceNow we're looking for students who want to learn, grow, and take a giant step early in their career, all while making a giant impact. We offer 12-week internship opportunities all over the world across various business functions. Interns will participate in executive speaker series, career development workshops, philanthropic efforts, and team building activities. Additionally, interns will have access to online learnings and a dedicated Summer Coach to further grow their careers with us. What you will doThe Platform & AI Customer Excellence (AI Center of Excellence) team will be responsible for developing, maintaining, and delivering a portfolio of advisory and AI engagements in partnership with our internal teams. As an AI Architect Intern, you will drive customer outcomes for AI technology in support of accounts through supervised hands-on delivery of ServiceNow’s AI capabilities and technical advisory activities. As part of a project team, you will work to provide technical advice and guidance to customers on how to best utilize ServiceNow’s GenAI technologies to achieve their business objectives Collaborate with cross-functional teams, including sales, marketing, and product development, to ensure the successful deployment of ServiceNow’s GenAI solutions Develop and deliver GenAI Impact Accelerators to drive customer outcomes and value realization Stay up to date with industry trends and emerging technologies in the field of GenAI, and apply this knowledge to continuously improve and evolve Product Excellence’s approach to customer success Contribute to thought leadership and point-of-view documents, white papers, knowledge base articles, and other documentation to make information about ServiceNow’s GenAI capabilities more accessible to the broader Impact Delivery organization, customers, and partners QualificationsWho you are:Pursuing a Master's degree in Business, Information Systems, Computer Science, or a similar field and on track to graduate between May to June 2027 Experience in leveraging or critically thinking about how to integrate AI into work processes, decision-making, or problem-solving. This may include using AI-powered tools, automating workflows, analyzing AI-driven insights, or exploring AI’s potential impact on the function or industry.Excellent listening, verbal, and written skills. A passion to continually learn new areas of the Now Platform through instruction and self-training. Proficient in Microsoft Office products and collaboration tools e.g., PowerPoint, SharePoint, Teams. Ability to build meaningful business relationships with ServiceNow customers, prospects, and internal colleagues. An ambitious, creative, goal-oriented, and customer-focused mindset. Ability to think big and deliver projects from conception through completion. Keen attention to detail and the ability to multitask in a self-managed environment. Highly organized and efficient. Ability to handle multiple competing priorities, and ability to adapt in a flexible and fast-paced environment. A basic understanding of Cloud computing and SaaS offerings is a plus. Previous internship experience is a plus. *This role is not eligible for employment-based sponsorship*This role is not eligible for relocationAbout ServiceNow ServiceNow is making the world of work, work better for people. Our cloud-based platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise. We’re growing fast, innovating faster, and making an impact on our customers’ and employees’ lives in significant and important ways. With over ~6,900 customers, we serve approximately 80% of the Fortune 500, and we’re on the 2020 list of FORTUNE World’s Most Admired Companies. ® Learn more on Life at Now Blog Blog and hear from our employees about their experiences working at ServiceNow. Additional InformationWork PersonasWe approach our distributed world of work with flexibility and trust. Work personas (flexible, remote, or required in office) are categories that are assigned to ServiceNow employees depending on the nature of their work and their assigned work location. Learn more here. To determine eligibility for a work persona, ServiceNow may confirm the distance between your primary residence and the closest ServiceNow office using a third-party service.Equal Opportunity EmployerServiceNow is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status, or any other category protected by law. In addition, all qualified applicants with arrest or conviction records will be considered for employment in accordance with legal requirements. AccommodationsWe strive to create an accessible and inclusive experience for all candidates. If you require a reasonable accommodation to complete any part of the application process, or are unable to use this online application and need an alternative method to apply, please contact [email protected] for assistance. Export Control RegulationsFor positions requiring access to controlled technology subject to export control regulations, including the U.S. Export Administration Regulations (EAR), ServiceNow may be required to obtain export control approval from government authorities for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by relevant export control authorities. From Fortune. ©2025 Fortune Media IP Limited. All rights reserved. Used under license. I'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/ServiceNow/03aa9fec-d569-4a57-9aae-67959e48fd74",
       "job_posted_at_datetime_utc": "2025-12-22T13:38:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "servicenow-technical-ai-architect-intern-master-s-degree-orlando"
+      "id": "servicenow-technical-ai-architect-intern-master-s-degree-orlando",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T17:46:31.942Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:59:58.734Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Modernizing Medicine",
       "job_city": "Boca Raton",
       "job_state": "FL",
-      "job_description": "Join Modernizing Medicine in this exciting opportunity.",
+      "job_description": "We are united in our mission to make a positive impact on healthcare. Join Us! South Florida Business Journal, Best Places to Work 2024 Inc. 5000 Fastest-Growing Private Companies in America 2024 2024 Black Book Awards, ranked #1 EHR in 11 Specialties 2024 Spring Digital Health Awards, “Web-based Digital Health” category for EMA Health Records (Gold) 2024 Stevie American Business Award (Silver), New Product and Service: Health Technology Solution (Klara) Who we are: We Are Modernizing Medicine (WAMM)! We’re a team of bright, passionate, and positive problem-solvers on a mission to place doctors and patients at the center of care through an intelligent, specialty-specific cloud platform. Our vision is a world where the software we build increases medical practice success and improves patient outcomes. Founded in 2010 by Daniel Cane and Dr. Michael Sherling, we have grown to over 3400 combined direct and contingent team members serving eleven specialties, and we are just getting started! ModMed's global headquarters is based in Boca Raton, FL, with a growing office in Hyderabad, India, and a robust remote workforce across the US, Chile, and Germany. ModMed is hiring a Cloud Engineer Intern at Modernizing Medicine. You will be an essential part of the team, supporting the core cloud infrastructure to ensure it is secure, scalable, and cost-efficient. This role is focused on helping the team with automation, performance, and reliability initiatives, providing you with hands-on experience in building smarter, cloud-native solutions. Your role: Assist with AWS Infrastructure: Support the engineering team in daily operations, focusing on the security, scalability, and cost optimization of our AWS environment. Monitor & Observe: Help implement and analyze basic metrics using DataDog to ensure system health and aid in proactive issue detection. Support Developer Enablement: Help document and standardize infrastructure components to promote developer self-service through tools like GitOps. Contribute to CI/CD: Assist with the maintenance and testing of CI/CD pipelines utilizing Jenkins, Github, and AWS services for reliable software deployment. Learn Containerization: Contribute to projects involving container orchestration with Kubernetes, learning best practices for improving application efficiency. Explore Cloud Optimization: Assist in resource tuning and analysis to identify opportunities for cloud performance improvement and cost savings. Participate in Troubleshooting: Shadow and assist senior engineers in diagnosing and resolving technical issues across AWS environments. Apply Security Basics: Learn and help apply fundamental security best practices to meet compliance and data protection standards. Stay Informed: Research new cloud technologies and share findings with the team to recommend potential improvements. Collaborate and Learn: Work closely with cross-functional teams to understand business needs and support the building of AWS-based solutions. Skills & Requirements: Currently enrolled in a Bachelor’s/Master’s program in Computer Science, Information Technology, or a related technical field. Coursework or foundational understanding of Cloud Computing or Site Reliability Engineering (SRE) principles. Familiarity with AWS services gained through academic projects, personal use, or coursework. Willingness to learn and basic exposure to technologies like DataDog, Terraform, Kubernetes, and Jenkins. Basic scripting skills in Python, Bash, or another common language. Foundational understanding of networking, cloud security, and CI/CD concepts. Strong communication and collaboration skills to effectively work within an agile team. #LI-SM2 ModMed Benefits Highlight: At ModMed, we believe it’s important to offer a competitive benefits package designed to meet the diverse needs of our growing workforce. Eligible Modernizers can enroll in a wide range of benefits: India Meals & Snacks: Enjoy complimentary office lunches & dinners on select days and healthy snacks delivered to your desk, Insurance Coverage: Comprehensive health, accidental, and life insurance plans, including coverage for family members, all at no cost to employees, Allowances: Annual wellness allowance to support your well-being and productivity, Earned, casual, and sick leaves to maintain a healthy work-life balance, Bereavement leave for difficult times and extended medical leave options, Paid parental leaves, including maternity, paternity, adoption, surrogacy, and abortion leave, Celebration leave to make your special day even more memorable, and company-paid holidays to recharge and unwind. United States Comprehensive medical, dental, and vision benefits 401(k): ModMed provides a matching contribution each payday of 50% of your contribution deferred on up to 6% of your compensation. After one year of employment with ModMed, 100% of any matching contribution you receive is yours to keep. Generous Paid Time Off and Paid Parental Leave programs, Company paid Life and Disability benefits, Flexible Spending Account, and Employee Assistance Programs, Company-sponsored Business Resource & Special Interest Groups that provide engaged and supportive communities within ModMed, Professional development opportunities, including tuition reimbursement programs and unlimited access to LinkedIn Learning, Global presence and in-person collaboration opportunities; dog-friendly HQ (US), Hybrid office-based roles and remote availability for some roles, Weekly catered breakfast and lunch, treadmill workstations, Zen, and wellness rooms within our BRIC headquarters. PHISHING SCAM WARNING: ModMed is among several companies recently made aware of a phishing scam involving imposters posing as hiring managers recruiting via email, text and social media. The imposters are creating misleading email accounts, conducting remote \"interviews,\" and making fake job offers in order to collect personal and financial information from unsuspecting individuals. Please be aware that no job offers will be made from ModMed without a formal interview process, and valid communications from our hiring team will come from our employees with a ModMed email address (first.lastname@modmed.com). Please check senders’ email addresses carefully. Additionally, ModMed will not ask you to purchase equipment or supplies as part of your onboarding process. If you are receiving communications as described above, please report them to the FTC website.",
       "job_apply_link": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236500002",
       "job_posted_at_datetime_utc": "2025-12-22T13:29:18.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "modernizing-medicine-gi-software-engineering-intern-cloud-team-boca-raton"
+      "id": "modernizing-medicine-gi-software-engineering-intern-cloud-team-boca-raton",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T17:46:31.942Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:59:58.734Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Scottsdale",
       "job_state": "AZ",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_description": "var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/careers-gdms.icims.com\\/jobs\\/69376\\/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe>",
       "job_apply_link": "https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job",
       "job_posted_at_datetime_utc": "2025-12-22T13:27:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-mission-intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions-scottsdale"
+      "id": "general-dynamics-mission-intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions-scottsdale",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-22T17:46:31.942Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:59:58.734Z",
     "postedAt": null
   },
   {
