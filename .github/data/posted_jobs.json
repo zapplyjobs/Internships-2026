@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T01:17:51.200Z",
+  "lastUpdated": "2025-12-22T02:01:12.407Z",
   "jobs": [
-    {
-      "id": "hewlett-packard-enterprise-software-engineering-intern-fort-collins-2025-12-15-1",
-      "jobId": "hewlett-packard-enterprise-software-engineering-intern-fort-collins",
-      "company": "Hewlett Packard Enterprise",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T01:42:10.489Z",
-      "sourceDate": "2025-09-03T05:09:52.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Intern--Colorado-_1193616",
-      "discordThreadId": "1449939556425007164",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-software-engineer-intern-summer-and-winter-seattle-2025-12-15-1",
-      "jobId": "stripe-software-engineer-intern-summer-and-winter-seattle",
-      "company": "Stripe",
-      "title": "Software Engineer – Intern - Summer and Winter",
-      "postedToDiscord": "2025-12-15T01:42:12.298Z",
-      "sourceDate": "2025-09-03T03:55:10.000Z",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7210115",
-      "discordThreadId": "1449939563815506176",
-      "instanceNumber": 1
-    },
-    {
-      "id": "brevium-software-engineer-intern-american-fork-2025-12-15-1",
-      "jobId": "brevium-software-engineer-intern-american-fork",
-      "company": "Brevium",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T01:42:14.002Z",
-      "sourceDate": "2025-09-03T02:16:52.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/brevium/jobs/4598383006",
-      "discordThreadId": "1449939571424104551",
-      "instanceNumber": 1
-    },
-    {
-      "id": "spacex-software-engineering-internship-co-op-bastrop-2025-12-15-1",
-      "jobId": "spacex-software-engineering-internship-co-op-bastrop",
-      "company": "SpaceX",
-      "title": "Software Engineering Internship/Co-op",
-      "postedToDiscord": "2025-12-15T01:42:15.928Z",
-      "sourceDate": "2025-09-03T01:25:56.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/spacex/jobs/8149155002",
-      "discordThreadId": "1449939578998882489",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-voleon-group-software-engineer-intern-berkeley-2025-12-15-1",
-      "jobId": "the-voleon-group-software-engineer-intern-berkeley",
-      "company": "The Voleon Group",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T01:42:17.645Z",
-      "sourceDate": "2025-09-03T00:59:54.000Z",
-      "sourceUrl": "https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0/apply",
-      "discordThreadId": "1449939586620067952",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qualcomm-software-engineering-internship-interim-engineering-intern-sw-san-diego-2025-12-15-1",
-      "jobId": "qualcomm-software-engineering-internship-interim-engineering-intern-sw-san-diego",
-      "company": "Qualcomm",
-      "title": "Software Engineering Internship - Interim Engineering Intern - SW",
-      "postedToDiscord": "2025-12-15T01:42:19.361Z",
-      "sourceDate": "2025-09-03T00:37:32.000Z",
-      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492798",
-      "discordThreadId": "1449939593909633085",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stripe-phd-machine-learning-engineer-intern-seattle-2025-12-15-1",
-      "jobId": "stripe-phd-machine-learning-engineer-intern-seattle",
-      "company": "Stripe",
-      "title": "PhD Machine Learning Engineer – Intern",
-      "postedToDiscord": "2025-12-15T01:42:24.027Z",
-      "sourceDate": "2025-09-03T03:55:01.000Z",
-      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7216664",
-      "discordThreadId": "1449939613622862058",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qualcomm-multimedia-engineering-internship-interim-engineering-intern-systems-san-diego-2025-12-15-1",
-      "jobId": "qualcomm-multimedia-engineering-internship-interim-engineering-intern-systems-san-diego",
-      "company": "Qualcomm",
-      "title": "Multimedia Engineering Internship - Interim Engineering Intern - Systems",
-      "postedToDiscord": "2025-12-15T01:42:25.678Z",
-      "sourceDate": "2025-09-03T00:37:35.000Z",
-      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492868",
-      "discordThreadId": "1449939620497457255",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qualcomm-machine-learning-artificial-intelligence-engineering-internship-interim-engineering-intern-sw-san-diego-2025-12-15-1",
-      "jobId": "qualcomm-machine-learning-artificial-intelligence-engineering-internship-interim-engineering-intern-sw-san-diego",
-      "company": "Qualcomm",
-      "title": "Machine Learning & Artificial Intelligence Engineering Internship - Interim Engineering Intern - SW",
-      "postedToDiscord": "2025-12-15T01:42:27.383Z",
-      "sourceDate": "2025-09-03T00:37:31.000Z",
-      "sourceUrl": "https://qualcomm.eightfold.ai/careers/job/446707492802",
-      "discordThreadId": "1449939627208343727",
-      "instanceNumber": 1
-    },
     {
       "id": "hartford-financial-services-operations-analytics-intern-charlotte-2025-12-15-1",
       "jobId": "hartford-financial-services-operations-analytics-intern-charlotte",
@@ -9560,14 +9461,69 @@
       "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Intern--2026-Summer---F135-Program-Digital-Solutions--Onsite-_01812510",
       "discordThreadId": "1452470142666670102",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-optical-product-engineering-san-jose-2025-12-22-1",
+      "jobId": "asml-intern-optical-product-engineering-san-jose",
+      "company": "ASML",
+      "title": "Intern - Optical Product Engineering",
+      "postedToDiscord": "2025-12-22T02:00:54.574Z",
+      "sourceDate": "2025-12-18T02:42:52.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Product-Engineering--_J-00327849",
+      "discordThreadId": "1452480978219171973",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-platform-software-engineer-in-test-san-jose-2025-12-22-1",
+      "jobId": "asml-intern-platform-software-engineer-in-test-san-jose",
+      "company": "ASML",
+      "title": "Intern - Platform Software Engineer In Test",
+      "postedToDiscord": "2025-12-22T02:00:54.592Z",
+      "sourceDate": "2025-12-18T02:42:50.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Platform-Software-Engineer-In-Test_J-00328058",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-intern-ai-algorithm-npu-simulation-spring-summer-mountain-view-2025-12-22-1",
+      "jobId": "samsung-research-america-2026-intern-ai-algorithm-npu-simulation-spring-summer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - AI Algorithm NPU Simulation - Spring/Summer",
+      "postedToDiscord": "2025-12-22T02:01:01.089Z",
+      "sourceDate": "2025-12-18T02:21:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8329802002",
+      "discordThreadId": "1452481006736248852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genmab-external-data-management-intern-princeton-2025-12-22-1",
+      "jobId": "genmab-external-data-management-intern-princeton",
+      "company": "Genmab",
+      "title": "External Data Management Intern",
+      "postedToDiscord": "2025-12-22T02:01:08.789Z",
+      "sourceDate": "2025-12-18T00:14:14.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/External-Data-Management-Intern_R14859-1",
+      "discordThreadId": "1452481033776791552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "roche-2026-summer-intern-contact-center-ai-reshape-indianapolis-2025-12-22-1",
+      "jobId": "roche-2026-summer-intern-contact-center-ai-reshape-indianapolis",
+      "company": "Roche",
+      "title": "2026 Summer Intern - Contact Center - AI Reshape",
+      "postedToDiscord": "2025-12-22T02:01:12.407Z",
+      "sourceDate": "2025-12-17T23:58:35.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2026-Summer-Intern---Contact-Center---AI-Reshape_202512-131762",
+      "discordThreadId": "1452481053573779537",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 869,
+    "totalJobs": 865,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T01:17:51.200Z",
+      "date": "2025-12-22T02:01:12.407Z",
       "archived": 0
     }
   }
