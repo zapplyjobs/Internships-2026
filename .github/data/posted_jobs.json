@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T18:18:52.455Z",
+  "lastUpdated": "2025-12-22T18:33:20.955Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10143,14 +10143,69 @@
       "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---Machine-Learning---AI_R000142684",
       "discordThreadId": "1452727091203149864",
       "instanceNumber": 1
+    },
+    {
+      "id": "field-ai-field-application-engineer-intern-part-time-salt-lake-city-utah-salt-lake-city-2025-12-22-1",
+      "jobId": "field-ai-field-application-engineer-intern-part-time-salt-lake-city-utah-salt-lake-city",
+      "company": "Field AI",
+      "title": "Field Application Engineer-Intern - Part-time - Salt Lake City, Utah",
+      "postedToDiscord": "2025-12-22T18:33:01.165Z",
+      "sourceDate": "2025-12-19T23:17:45.000Z",
+      "sourceUrl": "https://jobs.lever.co/field-ai/92fdfa00-ae00-41fb-8a3e-714125789b39/apply",
+      "discordThreadId": "1452730651383042210",
+      "instanceNumber": 1
+    },
+    {
+      "id": "realtor-com-intern-data-analytics-austin-2025-12-22-1",
+      "jobId": "realtor-com-intern-data-analytics-austin",
+      "company": "Realtor.com",
+      "title": "Intern Data Analytics",
+      "postedToDiscord": "2025-12-22T18:33:04.568Z",
+      "sourceDate": "2025-12-19T23:17:34.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/rdccareers/jobs/7495940003",
+      "discordThreadId": "1452730666390261910",
+      "instanceNumber": 1
+    },
+    {
+      "id": "velera-intern-net-software-engineer-remote-in-usa-2025-12-22-1",
+      "jobId": "velera-intern-net-software-engineer-remote-in-usa",
+      "company": "Velera",
+      "title": "Intern – .NET Software Engineer",
+      "postedToDiscord": "2025-12-22T18:33:08.026Z",
+      "sourceDate": "2025-12-19T23:13:56.000Z",
+      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern---Net-Software-Engineer_8878",
+      "discordThreadId": "1452730680705417267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-software-engineer-intern-milpitas-2025-12-22-1",
+      "jobId": "kla-software-engineer-intern-milpitas",
+      "company": "KLA Corporation",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T18:33:14.535Z",
+      "sourceDate": "2025-12-19T23:16:51.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2532589-2",
+      "discordThreadId": "1452730707783974952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-software-development-engineer-intern-summer-2026-remote-in-usa-2025-12-22-1",
+      "jobId": "caci-software-development-engineer-intern-summer-2026-remote-in-usa",
+      "company": "CACI",
+      "title": "Software Development/Engineer Intern - Summer 2026",
+      "postedToDiscord": "2025-12-22T18:33:20.954Z",
+      "sourceDate": "2025-12-19T23:12:11.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2026_320651",
+      "discordThreadId": "1452730735122452581",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 922,
+    "totalJobs": 927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T18:18:52.455Z",
+      "date": "2025-12-22T18:33:20.955Z",
       "archived": 0
     }
   }
