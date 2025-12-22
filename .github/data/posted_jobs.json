@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-21T23:53:42.046Z",
+  "lastUpdated": "2025-12-22T00:07:03.042Z",
   "jobs": [
-    {
-      "id": "general-dynamics-software-engineering-intern-canonsburg-2025-12-14-1",
-      "jobId": "general-dynamics-software-engineering-intern-canonsburg",
-      "company": "General Dynamics",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-14T23:56:56.450Z",
-      "sourceDate": "2025-09-04T10:55:11.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/67921/software-engineering-intern/job",
-      "discordThreadId": "1449913073069723719",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sps-commerce-software-engineer-intern-talent-pool-minneapolis-2025-12-14-1",
-      "jobId": "sps-commerce-software-engineer-intern-talent-pool-minneapolis",
-      "company": "SPS Commerce",
-      "title": "Software Engineer Intern (Talent Pool)",
-      "postedToDiscord": "2025-12-14T23:56:58.199Z",
-      "sourceDate": "2025-09-04T10:51:21.000Z",
-      "sourceUrl": "https://careers-spscommerce.icims.com/jobs/9793/software-engineer-intern-%28talent-pool%29/job",
-      "discordThreadId": "1449913080560619531",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sps-commerce-software-engineer-intern-talent-pool-rogers-2025-12-14-1",
-      "jobId": "sps-commerce-software-engineer-intern-talent-pool-rogers",
-      "company": "SPS Commerce",
-      "title": "Software Engineer Intern (Talent Pool)",
-      "postedToDiscord": "2025-12-14T23:56:58.205Z",
-      "sourceDate": "2025-09-04T10:50:17.000Z",
-      "sourceUrl": "https://careers-spscommerce.icims.com/jobs/9785/software-engineer-intern-%28talent-pool%29/job",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "servicenow-utg-software-engineer-internships-san-diego-2025-12-14-1",
-      "jobId": "servicenow-utg-software-engineer-internships-san-diego",
-      "company": "ServiceNow",
-      "title": "UTG – Software Engineer Internships",
-      "postedToDiscord": "2025-12-14T23:57:01.661Z",
-      "sourceDate": "2025-09-04T09:56:04.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000079813875",
-      "discordThreadId": "1449913087879548929",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cencora-insite-data-analyst-orange-2025-12-14-1",
-      "jobId": "cencora-insite-data-analyst-orange",
-      "company": "Cencora",
-      "title": "InSite Data Analyst",
-      "postedToDiscord": "2025-12-14T23:57:08.406Z",
-      "sourceDate": "2025-09-04T10:46:36.000Z",
-      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/en-US/Global/job/Orange-CA/InSite-Data-Analyst-Intern_R2515584",
-      "discordThreadId": "1449913115360886786",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bmo-data-analyst-regulatory-data-systems-chicago-2025-12-14-1",
-      "jobId": "bmo-data-analyst-regulatory-data-systems-chicago",
-      "company": "BMO",
-      "title": "Data Analyst, Regulatory Data & Systems",
-      "postedToDiscord": "2025-12-14T23:57:10.062Z",
-      "sourceDate": "2025-09-04T10:45:13.000Z",
-      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Data-Analyst--Regulatory-Data---Systems---Winter-2026--Co-op-Internship----4-Months_R250021478",
-      "discordThreadId": "1449913130845999157",
-      "instanceNumber": 1
-    },
-    {
-      "id": "p-g-data-scientist-masters-degree-internship-cincinnati-2025-12-14-1",
-      "jobId": "p-g-data-scientist-masters-degree-internship-cincinnati",
-      "company": "P&G",
-      "title": "Data Scientist (Masters Degree) Internship",
-      "postedToDiscord": "2025-12-14T23:57:11.717Z",
-      "sourceDate": "2025-09-04T10:42:44.000Z",
-      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
-      "discordThreadId": "1449913137481383977",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hoffman-construction-data-analyst-intern-summer-2026-boise-2025-12-14-1",
-      "jobId": "hoffman-construction-data-analyst-intern-summer-2026-boise",
-      "company": "Hoffman Construction",
-      "title": "Data Analyst Intern Summer 2026",
-      "postedToDiscord": "2025-12-14T23:57:13.676Z",
-      "sourceDate": "2025-09-04T07:51:53.000Z",
-      "sourceUrl": "https://efsp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/969",
-      "discordThreadId": "1449913145421205514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "eluvio-machine-learning-data-science-intern-berkeley-2025-12-14-1",
-      "jobId": "eluvio-machine-learning-data-science-intern-berkeley",
-      "company": "Eluvio",
-      "title": "Machine Learning / Data Science Intern",
-      "postedToDiscord": "2025-12-14T23:57:18.376Z",
-      "sourceDate": "2025-09-04T10:27:05.000Z",
-      "sourceUrl": "https://apply.workable.com/eluvio/j/247DF877DF/apply",
-      "discordThreadId": "1449913165453197546",
-      "instanceNumber": 1
-    },
     {
       "id": "nimblerx-software-engineer-intern-san-carlos-2025-12-15-1",
       "jobId": "nimblerx-software-engineer-intern-san-carlos",
@@ -9692,14 +9593,69 @@
       "sourceUrl": "https://www.flyzipline.com/careers/open-roles?gh_jid=7561786003",
       "discordThreadId": "1452448965466394785",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-researcher-intern-vision-and-graphics-2026-start-san-jose-2025-12-22-1",
+      "jobId": "tiktok-researcher-intern-vision-and-graphics-2026-start-san-jose",
+      "company": "TikTok",
+      "title": "Researcher Intern - Vision and Graphics - 2026 Start",
+      "postedToDiscord": "2025-12-22T00:06:45.742Z",
+      "sourceDate": "2025-12-13T02:18:24.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7528196025854380306",
+      "discordThreadId": "1452452252307423333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-enterprise-institute-housing-center-intern-washington-2025-12-22-1",
+      "jobId": "american-enterprise-institute-housing-center-intern-washington",
+      "company": "American Enterprise Institute",
+      "title": "Housing Center Intern",
+      "postedToDiscord": "2025-12-22T00:06:49.118Z",
+      "sourceDate": "2025-11-04T23:24:19.000Z",
+      "sourceUrl": "https://internships-aei.icims.com/jobs/2538/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452452267595792460",
+      "instanceNumber": 1
+    },
+    {
+      "id": "shure-electrical-engineering-intern-digital-circuitry-lake-grove-2025-12-22-1",
+      "jobId": "shure-electrical-engineering-intern-digital-circuitry-lake-grove",
+      "company": "Shure",
+      "title": "Electrical Engineering Intern - Digital Circuitry",
+      "postedToDiscord": "2025-12-22T00:06:52.552Z",
+      "sourceDate": "2025-09-10T23:31:30.000Z",
+      "sourceUrl": "https://careersus-shure.icims.com/jobs/4422/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452452281743315104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "barry-wehmiller-bi-data-quality-intern-clayton-2025-12-22-1",
+      "jobId": "barry-wehmiller-bi-data-quality-intern-clayton",
+      "company": "Barry-Wehmiller",
+      "title": "BI Data Quality Intern",
+      "postedToDiscord": "2025-12-22T00:06:56.453Z",
+      "sourceDate": "2025-12-18T17:17:29.000Z",
+      "sourceUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/BI-Data-Quality-Intern_R020297-1",
+      "discordThreadId": "1452452296234504264",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-computer-vision-ai-mountain-view-2025-12-22-1",
+      "jobId": "samsung-research-america-intern-computer-vision-ai-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Computer Vision/AI",
+      "postedToDiscord": "2025-12-22T00:07:03.042Z",
+      "sourceDate": "2025-12-13T07:16:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
+      "discordThreadId": "1452452325393170636",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 881,
+    "totalJobs": 877,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-21T23:53:42.046Z",
+      "date": "2025-12-22T00:07:03.042Z",
       "archived": 0
     }
   }
