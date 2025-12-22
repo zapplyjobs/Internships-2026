@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Marketing Data Intern",
-      "employer_name": "Learfield Amplify",
-      "job_city": "Irvine",
-      "job_state": "CA",
-      "job_description": "We are seeking a highly motivated and meticulous individual to join our team as a Marketing Data & Analytics Intern. This role is crucial for combining various data sets to analyze trends, maintaining the integrity of our core datasets and ensuring the accuracy of our marketing and business intelligence reports. The ideal candidate will have a strong commitment to detail and a foundational understanding of data handling and analysis.Our full time 2026 Summer Internship Program is a paid nine-week experience (June 1st, 2026 – July 31st, 2026). You will be responsible for certain tasks your manager will assign you, and you will also be responsible for a summer-long, comprehensive project. The results of your project will be presented to your team at the end of the summer. As a Summer Intern, you will also be provided opportunities for personal and professional development through the program content. This will include different speakers’ series and other professional growth opportunities. The program content will be completely virtual, but you will be expected to report out of the office in which your team is based (details above). You will also have the opportunity to learn more about Learfield through a visit to one of our campus properties in the area as well as cross-departmental interactions during the summer. This Irvine-based role will be a hybrid model with four days in the office (Monday – Thursday) and one remote day on Fridays, unless specific projects demand in-person activity.ResponsibilitiesData Standardization & Integration: Meticulously normalize and integrate data from multiple disparate list sources to establish consistent standards for high-quality input.Insight Generation: Analyze the integrated, unified dataset to generate accurate and comprehensive insights, informing key strategic decisions and market trend reports.Platform List Management: Manage the end-to-end process of formatting and uploading CRM lists to key advertising platforms (e.g., Google Ads, Meta) to facilitate precise user and lookalike targeting.Data Storytelling: Pull benchmarking data, marketplace data and transactional performance data, then collaborate with our client Partner team to build applicable product adoption stories at the client level Collaborate on visuals: Work with our Senior Data Consultant to move captured data insights into digestible presentation visuals and user-friendly dashboardsQualifications: Candidates who are juniors or seniors, with an expected graduation date no later than August 2027.Ability to start work on Monday, June 1st and secure housing for the full nine weeks.Meticulous Attention to Detail: Demonstrated ability to be thorough and precise, especially when reviewing documents and data.Organizational Prowess: Must be detail-oriented with excellent organizational skills, capable of maintaining precision while managing multiple tasks and deadlines.Analytical Commitment: Possesses strong analytical and problem-solving skills, combined with an unwavering commitment to accuracy in work.Proactive Work Ethic: Demonstrates the ability to follow through with duties, requiring minimal micro-management and consistently checking their own work before submission.",
-      "job_apply_link": "https://learfield.wd5.myworkdayjobs.com/en-US/Learfield/job/Irvine-CA/Marketing-Data-Intern_R100917-1",
-      "job_posted_at_datetime_utc": "2025-12-18T23:33:24.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "learfield-amplify-marketing-data-intern-irvine",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:17:20.632Z",
-    "postedAt": "2025-12-22T10:44:00.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer: Intern Opportunities for University Students - Redmond",
-      "employer_name": "Microsoft",
-      "job_city": "Redmond",
-      "job_state": "WA",
-      "job_description": "Implements, tests, and debugs ML pipelines, models, or components as scoped by mentors. Applies software engineering practices (version control, testing, CI/CD) to ML code and data workflows. Collaborates with machine learning engineers, applied scientists, and software engineers to integrate ML models into products or services. Explores tools and frameworks commonly used in ML engineering (e.g., PyTorch, scikit-learn, data processing frameworks). Communicates progress, blockers, and learnings effectively with mentors and teammates. Enrolled in a full time bachelor&#39;s or master&#39;s program in Computer Science, Engineering, or related field during the academic term immediately before the internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms. Foundational knowledge of ML and GenAI concepts (transformer models, supervised learning, evaluation metrics, overfitting/underfitting, regularization, embeddings, tokenizers, etc.). Exposure to data handling (SQL, pandas, data cleaning). Familiarity with agentic frameworks like Semantic Kernel or LangChain and LLM/SLM tools like Ollama. Familiarity with basic software engineering workflows (Git, code reviews, testing).",
-      "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
-      "job_posted_at_datetime_utc": "2025-12-18T23:32:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "microsoft-machine-learning-engineer-intern-opportunities-for-university-students-redmond-redmond",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:17:20.632Z",
-    "postedAt": "2025-12-22T10:44:00.929Z"
-  },
-  {
-    "job": {
-      "job_title": "General Hire – Machine Learning Engineer Intern - Tiktok-Video Recommendation - 2026 Summer",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for (General Hire) Machine Learning Engineer Intern (TikTok- Video Recommendation) - 2026 Summer (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7585114089765947701",
-      "job_posted_at_datetime_utc": "2025-12-18T23:23:54.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-general-hire-machine-learning-engineer-intern-tiktok-video-recommendation-2026-summer-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:17:20.632Z",
-    "postedAt": "2025-12-22T10:44:00.929Z"
-  },
-  {
-    "job": {
-      "job_title": "MLE Intern - ML Runtime & Optimization - Spring 2026",
-      "employer_name": "pony.ai",
-      "job_city": "Fremont",
-      "job_state": "CA",
-      "job_description": "Founded in 2016 in Silicon Valley, Pony.ai has quickly become a global leader in autonomous mobility and is a pioneer in extending autonomous mobility technologies and services at a rapidly expanding footprint of sites around the world. Operating Robot...",
-      "job_apply_link": "https://apply.workable.com/pony-dot-ai/j/A8F27ED11C/apply",
-      "job_posted_at_datetime_utc": "2025-12-18T23:23:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "pony-ai-mle-intern-ml-runtime-optimization-spring-2026-fremont",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:17:20.632Z",
-    "postedAt": "2025-12-22T10:44:00.929Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Xometry",
-      "job_city": "North Bethesda",
-      "job_state": "MD",
-      "job_description": "Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.Are you a driven graduate student eager to make a real impact at a cutting-edge technology company? Xometry's Summer Internship Program offers a unique opportunity to gain hands-on experience and develop advanced skills in the rapidly evolving world of digital manufacturing. We're looking for a passionate and talented Data Science Intern (Master's/PhD) to join our team! What You'll Do: As a Data Science Intern at Xometry, you'll contribute to projects that leverage advanced analytical techniques to optimize our manufacturing processes, improve customer experience, and drive business decisions. You can expect to work in an environment that encourages innovation and provides hands-on experience in applying cutting-edge data science techniques to real-world challenges.You will: Develop and implement advanced statistical models and machine learning algorithms for tasks such as demand forecasting, predictive maintenance, or supply chain optimization. Conduct in-depth data analysis to identify trends, patterns, and insights from large datasets related to manufacturing operations, customer behavior, and market dynamics. Design and execute experiments to evaluate the effectiveness of different data-driven strategies. Collaborate with engineers, product managers, and business stakeholders to understand business needs and translate them into impactful data science solutions. Contribute to the development of data pipelines and infrastructure for data science applications. Communicate complex technical findings clearly and effectively to both technical and non-technical audiences. Potentially contribute to research and publications related to your work. What We’re Looking For: Academic Excellence: Currently enrolled in a Master's or PhD program at an accredited college or university, graduating in December 2026 or May 2027, with a strong academic record. The ideal candidate will be pursuing a Master's or PhD degree in: Data Science, Statistics, Machine Learning, or a related quantitative field. Technical Skills: Strong foundation in statistical modeling, machine learning, and data mining techniques. Proficiency in programming languages (e.g., Python, R) and data visualization tools. Experience with cloud computing platforms (e.g., AWS, Azure, GCP) and big data technologies (e.g., Spark, Hadoop) is highly desirable. Research Experience (PhD candidates): Experience conducting independent research and contributing to publications is a plus. Strong Work Ethic: Ability to work full-time (40 hours/week) during the internship period (June 8 - August 14, 2026). Excellent Communication Skills: Strong verbal and written communication skills, including the ability to explain complex technical concepts clearly and concisely to both technical and non-technical audiences. Problem-Solving Skills: A strong analytical mindset and a passion for problem-solving. Legal Authorization: Ability to provide proof of legal right to work in the United States. Location Requirement: Ability to commute to our Waltham, MA or North Bethesda, MD office to work onsite for at least 3 days a week. Provide Unofficial Transcript The estimated base pay rate for new hires into this role is $35.00 per hour depending on factors such as job-related skills, relevant experience, and location. This is a temporary position. #LI-HybridXometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status. For US based roles: Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.",
-      "job_apply_link": "https://job-boards.greenhouse.io/xometry/jobs/5007962007",
-      "job_posted_at_datetime_utc": "2025-12-18T23:22:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "xometry-data-science-intern-north-bethesda",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:17:20.632Z",
-    "postedAt": "2025-12-22T10:44:00.929Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Xometry",
       "job_city": "North Bethesda",
@@ -794,10 +694,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": "2025-12-22T10:30:56.172Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T10:56:21.990Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": "2025-12-22T10:30:56.172Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T10:56:21.990Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": "2025-12-22T10:30:56.172Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T10:56:21.990Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": "2025-12-22T10:30:56.172Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T10:56:21.990Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T18:59:19.911Z",
     "enrichedAt": "2025-12-22T10:30:56.172Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T10:56:21.990Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "International Mission Board",
       "job_city": "Richmond",
       "job_state": "VA",
-      "job_description": "Join International Mission Board in this exciting opportunity.",
+      "job_description": "The International Mission Board, a nonprofit religious organization based in Richmond, Virginia, is excited to offer internship opportunities for the Summer 2026 Internship Program at our Richmond headquarters!Dates: May 26th to July 31st, 2026Location: Richmond, Virginia Rate: $20.50/hourWe have 16 diverse areas available for interns, as listed below. We seek candidates who are eager for a professional-level experience, with the ability to work independently and collaborate with various teams.This paid internship program offers college students an excellent opportunity to gain valuable work experience directly related to their field of study.We have the following opportunities:Global Security Operations Monitor Intern – You will detect, analyze, and alert others regarding any adverse conditions that could impact personnel or operations. These may range from extreme weather conditions to political instability, crime, terror, or technical failures. The GSOC monitor also collects, analyzes, and summarizes incident and activity data reported by personnel to the GSOC during their shift. Multimedia Intern – You will work across the disciplines of photography, videography, and graphic design to learn from and meaningfully contribute to the Creative Services team. Other duties will include photo and video tagging, file management, and completing skills training as assigned.   IT Project Management Intern – You will assist the Product Management and Strategy team on managing and monitoring IT projects. You will also participate in the planning, implementation, and delivery of IT solutions, and will collaborate closely with business product teams on product improvements. Information Security Analyst Intern – You will play a key role in safeguarding enterprise systems and data in alignment with the organization’s global mission objectives. This role will assist with the implementation and monitoring of security controls to protect information assets across diverse, decentralized, and cross-cultural environments. You will also support incident response activities by identifying, documenting, and analyzing potential security threats and vulnerabilities. In addition, you will collaborate with technical and ministry teams to embed secure practices into systems and workflows, with a strong focus on supporting field operations and advancing global outreach initiatives. Training Intern – You will help create and deliver training resources for personnel while supporting the training team with project-oriented and clerical tasks. You must understand basic learning and communication principles and best practices.  Requirements:Actively enrolled in a four-year collegeAbility to live in Richmond throughout the program’s durationEffective written and verbal communication skills Detail-oriented, results-driven, and the ability to work independently Ability to multitask in a fast-paced environmentIMB’s vision comes from Revelation 7:9-10: “a multitude from every nation, tribe, people and language knowing and worshiping our Lord Jesus Christ.” Our mission is ‌to serve Southern Baptists in carrying out the Great Commission to make disciples of all nations. Fulfilling this vision and mission is a team effort and could not happen without the U.S.-based staff serving on a variety of teams like finance, logistics and church mobilization.Working at the IMB is a call to ministry. It is an opportunity for you to use your gifts and skills to support the global mission and make an eternal impact. If you feel called to utilize your skills in support of this mission and to develop your career, consider the possibility of joining our team this summer. Worker Type: EmployeeIntern (Fixed Term)Time Type:Full time",
       "job_apply_link": "https://golimitless.wd1.myworkdayjobs.com/Staff_External_career_site/job/Richmond-Virginia/XMLNAME-2026-Summer-Internships_R0013756",
       "job_posted_at_datetime_utc": "2025-10-28T16:12:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "international-mission-board-2026-summer-internships-richmond"
+      "id": "international-mission-board-2026-summer-internships-richmond",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T10:55:49.210Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Illumio",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join Illumio in this exciting opportunity.",
+      "job_description": "Onwards Together! Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience. Powered by the Illumio AI Security Graph, our breach containment platform identifies and contains threats across hybrid multi-cloud environments – stopping the spread of attacks before they become disasters. Recognized as a Leader in the Forrester Wave™ for Microsegmentation, Illumio enables Zero Trust, strengthening cyber resilience for the infrastructure, systems, and organizations that keep the world running. This is a 12 week internship program beginning on May 26th 2026 or June 22nd 2026 Location: Onsite 5 day's a week at Headquarters in Sunnyvale, CA Our Team's Vision: Illumio’s Cloud Secure team builds and operates the data backbone that powers our AI-driven Security Graph — a system that maps the world’s most complex cloud environments in real time. We ingest and process petabytes of cloud metadata and network flow logs from AWS, Azure, GCP, and OCI cloud environments using high throughput streaming applications. This data fuels our graph analytics and Zero Trust segmentation engine, giving customers deep visibility and precise control across billions of workloads. Our SaaS platform spans multi-cloud environments and leverages a modern tech stack of Golang, Kafka, Neo4j, Postgres, and advanced data lake technologies that are all containerized and orchestrated at scale. As an intern, you’ll work at the intersection of large-scale data engineering, distributed systems, and cybersecurity analytics, contributing to systems that help secure the world’s most critical workloads. What You'll Do: Design, implement, and test features within large-scale data ingestion and analytics pipelines that handle streaming telemetry across multi-cloud environments Contribute to the AI-powered Security Graph, experimenting with data models and graph queries that enrich cloud visibility Collaborate with engineers to optimize performance, reliability, and cost efficiency across Kafka, Neo4j, and Postgres-backed services Develop dashboards and automation for data health, ingestion latency, and observability metrics Explore new ways to extract insights from flow data, using data lakes and analytics frameworks to uncover behavioral patterns Document and share technical findings and impact metrics with engineering and product teams to support data-driven decision-making Your Tool Kit: Currently enrolled in a full time Bachelor’s or Master’s degree program in Computer Science, Software Engineering, or a related field, with an expected graduation date in Winter 2026/Spring2027 Strong coding skills in Golang, Python, or Java, and an understanding of data structures and distributed system design Curiosity about AI applications in cybersecurity, graph analytics, and streaming data pipelines Familiarity with Kafka, Kubernetes, and cloud services (AWS, Azure, GCP) A growth mindset, strong analytical thinking, and enthusiasm for tackling scale challenges What You'll Gain: Experience operating in multi-cloud, petabyte-scale environments that power real-time cybersecurity analytics Hands-on exposure to streaming data systems, graph databases, and data lake architectures Mentorship from engineers building one of the industry’s most advanced cloud visibility and segmentation platforms A capstone opportunity to design, implement, and demo a project that has a measurable impact on data scale, efficiency, or insight generation Our Commitment: Illumio believes that an environment of unique backgrounds, experiences, viewpoints, and individual contributions drives our success and makes us stronger together. We are dedicated to creating and maintaining a diverse culture and emphasizing inclusion and belonging. #LI-PO #LI-ONSITE All official job offers from our company are extended directly by our recruitment team and will be sent through an official E-Signature document for your review and signature. Please be aware that we do not ask for any personal information in the process of extending offers of employment, such as financial details or social security numbers. Upon acceptance of any offer, we will request such information as part of the onboarding process prior to or on your first day of employment, and only after completing a background check through an authorized third-party vendor. If you receive any communication asking for personal details outside of these processes, please contact us immediately to verify the authenticity of the request. Your security is important to us, and we are committed to a safe and transparent hiring experience. For roles in San Francisco and Los Angeles: Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Illumio will consider for employment qualified applicants with arrest and conviction records.",
       "job_apply_link": "https://jobs.ashbyhq.com/illumio/438be07e-61e0-4e09-82a8-909004e0ef03/application",
       "job_posted_at_datetime_utc": "2025-10-17T03:14:28.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale"
+      "id": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale",
+      "description_platform": "ashby",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T10:55:49.210Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "Mercury Insurance",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Mercury Insurance in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>Position Summary:</strong></p> <p>Mercury Ignite. Your launchpad to a brighter career. Our summer internship program is a 12-week paid internship designed to allow students to gain practical work experience in the Insurance field. The program will be highly collaborative and immersive, with interns working on real business problems that can span multiple business units within the complex insurance landscape. But it won’t be all work! Mercury executives will host virtual lunch-and-learns with a small group of interns to discuss career aspirations, interns will get to meet Mercury people leaders and team members throughout the organization, and there will be a multitude of virtual social events.</p> <p>&nbsp;</p> <h2>Geo-Salary Information</h2> <p><em><strong>An in person interview may be required during the hiring process.&nbsp;</strong></em></p> <h2>Responsibilities</h2> <p><strong>Essential Job Functions:</strong></p> <p>&nbsp;</p> <ul> <li>Pull, cleanse data, develop analytics views to answer key business questions, provide actionable insights to Sales leadership and the field (e.g., business/sales planning, initiative monitoring, territory management, performance analytics, multi-rater, compensation analytics)</li> <li>Analyze sales performance and compensation data to support modeling, forecasting, A/B tests, and post‑program monitoring.</li> <li>Conduct data quality checks and reconcile data across sources to ensure high accuracy and trust in reporting.</li> <li>Support ad‑hoc analyses on topics such as territory planning, new business growth, and channel/agent effectiveness.</li> <li>Translate analytical findings into clear narratives, visuals, and recommendations for business stakeholders.</li> <li>Collaborate with Sales, Product, and Data Science partners to align analytics with business priorities.</li> <li>Prepare a capstone presentation that summarizes methods, insights, and recommendations.</li> </ul> <h2>Qualifications</h2> <p><strong>Education Requirements:</strong></p> <p>&nbsp;</p> <ul> <li>Be legally eligible to work in the U.S</li> <li>Currently pursuing a Bachelor’s degree in Business, Economics, Statistics, Data Science, Analytics, or related field.</li> <li>Able to provide current GPA, as reported by your school. Minimum 3.0 GPA required, 3.5 or higher preferred.</li> <li>Ability to work 40 hours a week, 12-week internship, beginning June 2026.</li> <li>Enrolled student attending a university program with an expected graduation date on or after August 2025</li> <li>Planning to seek full-time employment between December 2026 and September 2027</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Experience:</strong></p> <ul> <li>Junior or Senior standing; coursework in data analysis, statistics, or business analytics.</li> <li>Prior internship, co op, or project experience in analytics, sales operations, or business intelligence.</li> <li>Solid track record of academic excellence.</li> <li>Strong commitment to teamwork, learning and collaboration.</li> </ul> <p><strong>Preferred Skills &amp; Abilities:</strong></p> <p>&nbsp;</p> <ul> <li>Proficiency with Excel/Sheets; familiarity with SQL; comfort with data visualization (Power BI, Retool or Tableau); strong communication and storytelling with data; high attention to detail; desire to learn and take initiative.</li> <li>Experience with A/B testing methods; basic understanding of sales compensation concepts; experience building dashboards; familiarity with sales data.</li> </ul> <p>&nbsp;</p> <h2>Physical Requirements</h2> <p><strong>Physical Actions:</strong>&nbsp;</p> <p>Required job duties are essentially sedentary in nature, consisting of occasional walking, standing, lifting and/or carrying ten pounds maximum.</p> <h2>About the Company</h2> <p>#LI-TG1</p> <h2>Perks and Benefits</h2> <p><strong>Why a Mercury Ignite internship</strong></p> <ul> <li>Obtain practical work experience in your field of interest</li> <li>Network with other interns and industry professionals</li> <li>Receive personalized coaching and mentorship</li> <li>Work on real projects and initiatives</li> <li>Earn a competitive wage</li> </ul> <p>If you’re interested in launching your career with Mercury Insurance - Apply today!</p> <p>&nbsp;</p> <p><strong>Mercury is an equal opportunity employer, committed to the strength of a diverse workforce.</strong></p> <h2>Pay Range</h2>USD $25.00 - USD $25.00 /Hr.",
       "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5924/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-04T20:01:11.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "mercury-insurance-sales-analytics-intern-remote-in-usa"
+      "id": "mercury-insurance-sales-analytics-intern-remote-in-usa",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T10:55:49.210Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Iridium Communications",
       "job_city": "McLean",
       "job_state": "VA",
-      "job_description": "Join Iridium Communications in this exciting opportunity.",
+      "job_description": "<h2>Company Overview</h2> <p>Iridium is an award-winning and innovative satellite communications company with bragging rights to the only network that offers voice and data connectivity anywhere in the world.&nbsp;&nbsp; For over 20 years, Iridium’s unique network and services have supported critical communications needs for individuals, businesses, and the evolving Internet of Things.</p> <p>&nbsp;</p> <p>At Iridium, we understand the importance of staying connected and the limitations of traditional communications networks. People across the globe, including first responders, humanitarians, global militaries, scientific researchers, and lone workers, as well as ships, aircraft and remote operations all rely on Iridium to stay connected. We take our responsibility for providing these essential communications very seriously and pride ourselves on offering a reliable lifeline when needed.&nbsp; Likewise, Iridium is committed to providing an exciting and innovative workplace, where employees are challenged to think outside the box and collaborate on new, bold ideas and solutions.&nbsp; Our talented teams are passionate about their work and the impact our company makes around the world.&nbsp; Iridium fosters an empowering and inclusive culture that allows employees to genuinely be their best selves.&nbsp;&nbsp; We are looking for others who want to join this truly unique company that celebrates our employees and provides the opportunity to truly make a difference in the world.</p> <h2></h2> <h2>What We’re Looking For:</h2> <p>The Iridium Internship Program provides students the opportunity to support teams driving the future of satellite communications. Interns in Software Engineering gain hands-on experience developing, testing, and deploying software that powers Iridium’s satellite network, ground systems, and global products and services. You’ll collaborate with engineers and technical staff to design tools, automate processes, and build applications that enhance performance, reliability, and efficiency across Iridium’s network and connected products and solutions.</p> <p>&nbsp;</p> <p>As an Intern, you’ll begin making an impact on real projects from day one! Come prepared to grow, develop, and learn alongside a team and the leaders of our company. The Iridium Internship&nbsp;program is a 12-week program that runs from May 18,2026 to August 7,2026.&nbsp;</p> <h2>What You’ll Do:</h2> <p>Projects are aligned with your academic background, technical interests, and the needs of our teams, and may include:</p> <ul> <li>Developing new software features and services, and maintaining or enhancing existing applications and libraries</li> <li>Assisting with architecture, design, coding, testing, and documentation within an Agile/Scrum team</li> <li>Participating in daily stand-ups, sprint planning, backlog refinement, and sprint reviews</li> <li>Gathering requirements and collaborating with stakeholders to design effective solutions</li> <li>Ensuring software meets quality standards through unit and integration testing</li> <li>Maintaining and extending key applications, including GUI frameworks, web applications, and Python/C++ utilities for data management and analysis</li> <li>Developing scripts, simulators, or software tools using Python, Java, or C to support testing and analysis</li> <li>Assisting with simulation, emulation, and verifying performance across Iridium satellite devices and transceivers</li> <li>Participating in code reviews and contributing to automation frameworks for Iridium services and devices</li> <li>Developing scalable, high-performance software and leveraging open-source solutions where appropriate</li> </ul> <h2>Skill You'll Gain:</h2> <ul> <li>Hands-on experience developing software that supports Iridium’s satellite communications system and services</li> <li>Knowledge of object-oriented programming and the full software development lifecycle</li> <li>Exposure to RF design, simulation, and evaluation processes</li> <li>Experience collaborating with team members to implement, build, verify, and troubleshoot software</li> <li>Exposure to modern development tools and workflows, including Jira, GitLab, and Confluence</li> <li>Understanding and application of software engineering best practices to create reliable, maintainable code</li> <li>Understanding how products and services are conceptualized, evaluated, and transitioned into operational functionality</li> <li>Participation in an Agile/Scrum development team working with Python, C, C++, and Java</li> </ul> <h2></h2> <h2>What You’ll Need to Succeed:</h2> <ul> <li>Interest in software development, product development, and a strong foundation in software engineering concepts, including object-oriented programming, data structures, and algorithms</li> <li>Strong work ethic, positive attitude, and professional demeanor</li> <li>Excellent verbal and written communication skills</li> <li>Ability to work independently and collaboratively in a team</li> <li>Attention to detail and commitment to high-quality results</li> </ul> <h2>Things You <em>Must</em> Bring to the Table:</h2> <ul> <li>Must be at least 18 years of age</li> <li>Currently enrolled in a bachelor’s or graduate degree program at an accredited academic institution</li> <li>Software Engineering, Computer Science, Information Technology, or Data Science/Applied Mathematics preferred</li> <li>U.S. citizenship required</li> <li>Must be able to work in person at an Iridium location</li> </ul> <h2></h2> <h2>Work Environment:</h2> <p>This position primarily works in an office setting and is largely sedentary with the majority of the position working with a computer. The role typically requires the use of basic office equipment such as a phone, video, computer, keyboard, mouse, and printer.&nbsp;</p> <p>&nbsp;</p> <p><strong>Iridium is an Equal Opportunity Employer, including individuals with disabilities and protected veterans.</strong></p>",
       "job_apply_link": "https://careers-iridium.icims.com/jobs/4753/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-25T08:25:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "iridium-communications-software-engineering-intern-multiple-teams-mclean"
+      "id": "iridium-communications-software-engineering-intern-multiple-teams-mclean",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T10:55:49.210Z",
     "postedAt": null
   },
   {
@@ -1062,11 +970,13 @@
       "job_posted_at_datetime_utc": "2025-11-24T23:17:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kla-ai-ml-engineering-intern-milpitas"
+      "id": "kla-ai-ml-engineering-intern-milpitas",
+      "description_platform": "workday",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-19T19:43:48.065Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T10:55:49.210Z",
     "postedAt": null
   },
   {
