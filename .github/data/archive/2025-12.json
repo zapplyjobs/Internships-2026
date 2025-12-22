@@ -8347,5 +8347,104 @@
     "sourceUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=",
     "discordThreadId": "1450013845887389727",
     "instanceNumber": 1
+  },
+  {
+    "id": "tesla-commercial-ui-software-engineer-energy-engineering-palo-alto-2025-12-15-1",
+    "jobId": "tesla-commercial-ui-software-engineer-energy-engineering-palo-alto",
+    "company": "Tesla",
+    "title": "Commercial UI Software Engineer, Energy Engineering",
+    "postedToDiscord": "2025-12-15T06:57:33.983Z",
+    "sourceDate": "2025-08-25T09:26:13.000Z",
+    "sourceUrl": "https://www.tesla.com/careers/search/job/248805",
+    "discordThreadId": "1450018927542407179",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pennstate-university-science-and-technology-applied-to-navigation-co-op-horsham-2025-12-15-1",
+    "jobId": "pennstate-university-science-and-technology-applied-to-navigation-co-op-horsham",
+    "company": "PennState University",
+    "title": "Science and Technology Applied to Navigation Co-Op",
+    "postedToDiscord": "2025-12-15T06:57:35.676Z",
+    "sourceDate": "2025-08-23T13:39:53.000Z",
+    "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Science-and-Technology-Applied-to-Navigation-Co-Op_REQ_0000067517-1",
+    "discordThreadId": "1450018934404288596",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paypal-software-engineer-intern-san-jose-2025-12-15-1",
+    "jobId": "paypal-software-engineer-intern-san-jose",
+    "company": "PayPal",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-15T06:57:37.371Z",
+    "sourceDate": "2025-08-23T01:20:37.000Z",
+    "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0129980",
+    "discordThreadId": "1450018941811556523",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rtx-software-engineering-co-op-cedar-rapids-2025-12-15-1",
+    "jobId": "rtx-software-engineering-co-op-cedar-rapids",
+    "company": "RTX",
+    "title": "Software Engineering Co-Op",
+    "postedToDiscord": "2025-12-15T06:57:39.125Z",
+    "sourceDate": "2025-08-23T01:20:06.000Z",
+    "sourceUrl": "https://careers.rtx.com/global/en/job/01786610/Software-Engineering-Co-Op-Summer-Fall-2026-Onsite",
+    "discordThreadId": "1450018948925100043",
+    "instanceNumber": 1
+  },
+  {
+    "id": "metronome-software-engineering-intern-san-francisco-2025-12-15-1",
+    "jobId": "metronome-software-engineering-intern-san-francisco",
+    "company": "Metronome",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-15T06:57:40.828Z",
+    "sourceDate": "2025-08-22T22:12:41.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/metronome/jobs/4894044008",
+    "discordThreadId": "1450018956227252289",
+    "instanceNumber": 1
+  },
+  {
+    "id": "adobe-software-engineer-intern-san-jose-2025-12-15-1",
+    "jobId": "adobe-software-engineer-intern-san-jose",
+    "company": "Adobe",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2025-12-15T06:57:42.545Z",
+    "sourceDate": "2025-08-22T19:27:20.000Z",
+    "sourceUrl": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer",
+    "discordThreadId": "1450018963101847646",
+    "instanceNumber": 1
+  },
+  {
+    "id": "empirical-software-engineering-intern-dakota-dunes-2025-12-15-1",
+    "jobId": "empirical-software-engineering-intern-dakota-dunes",
+    "company": "Empirical",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2025-12-15T06:57:44.358Z",
+    "sourceDate": "2025-08-22T19:26:45.000Z",
+    "sourceUrl": "https://careers-empiricalfoods.icims.com/jobs/2972/software-engineering-intern---summer-2026/job",
+    "discordThreadId": "1450018970475303075",
+    "instanceNumber": 1
+  },
+  {
+    "id": "blizzard-ai-localization-intern-irvine-2025-12-15-1",
+    "jobId": "blizzard-ai-localization-intern-irvine",
+    "company": "Blizzard",
+    "title": "AI Localization Intern",
+    "postedToDiscord": "2025-12-15T06:57:48.232Z",
+    "sourceDate": "2025-08-22T13:20:35.000Z",
+    "sourceUrl": "https://activision.wd1.myworkdayjobs.com/en-US/blizzard_external_careers/job/Irvine---Blizzard---Blizzard-Way/AI-Localization-Intern_R025877",
+    "discordThreadId": "1450018979027357715",
+    "instanceNumber": 1
+  },
+  {
+    "id": "motorola-solutions-supply-chain-data-analyst-internship-chicago-2025-12-15-1",
+    "jobId": "motorola-solutions-supply-chain-data-analyst-internship-chicago",
+    "company": "Motorola Solutions",
+    "title": "Supply Chain Data Analyst Internship",
+    "postedToDiscord": "2025-12-15T06:57:53.052Z",
+    "sourceDate": "2025-08-25T08:47:15.000Z",
+    "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2026_R56900",
+    "discordThreadId": "1450019007284645928",
+    "instanceNumber": 1
   }
 ]
