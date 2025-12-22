@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T00:07:03.042Z",
+  "lastUpdated": "2025-12-22T00:45:12.418Z",
   "jobs": [
-    {
-      "id": "nimblerx-software-engineer-intern-san-carlos-2025-12-15-1",
-      "jobId": "nimblerx-software-engineer-intern-san-carlos",
-      "company": "NimbleRx",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T00:33:00.624Z",
-      "sourceDate": "2025-09-04T00:33:55.000Z",
-      "sourceUrl": "https://jobs.lever.co/nimblerx/bcbf8061-689b-4bb2-8a60-2aea223f3830/apply",
-      "discordThreadId": "1449922143822417992",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bae-systems-software-engineering-intern-san-diego-2025-12-15-1",
-      "jobId": "bae-systems-software-engineering-intern-san-diego",
-      "company": "BAE Systems",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T00:33:04.052Z",
-      "sourceDate": "2025-09-03T18:44:17.000Z",
-      "sourceUrl": "https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026",
-      "discordThreadId": "1449922157709627486",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intel-software-engineering-intern-hillsboro-2025-12-15-1",
-      "jobId": "intel-software-engineering-intern-hillsboro",
-      "company": "Intel",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T00:33:05.773Z",
-      "sourceDate": "2025-09-03T18:44:03.000Z",
-      "sourceUrl": "https://intel.wd1.myworkdayjobs.com/en-US/External/details/Software-Engineering----Intern--Bachelor-s_JR0276773?workerSubType=dc8bf79476611087dfde99931439ae75&jobFamilyGroup=dc8bf79476611087d67b36517cf17036",
-      "discordThreadId": "1449922172465315942",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northern-trust-technology-intern-software-development-chicago-2025-12-15-1",
-      "jobId": "northern-trust-technology-intern-software-development-chicago",
-      "company": "Northern Trust",
-      "title": "Technology Intern – Software Development",
-      "postedToDiscord": "2025-12-15T00:33:07.477Z",
-      "sourceDate": "2025-09-03T18:43:48.000Z",
-      "sourceUrl": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Software-Development_R146632-1",
-      "discordThreadId": "1449922179633254585",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-systems-software-engineering-intern-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-systems-software-engineering-intern-santa-clara",
-      "company": "NVIDIA",
-      "title": "Systems Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T00:33:09.417Z",
-      "sourceDate": "2025-09-03T18:42:17.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204",
-      "discordThreadId": "1449922187027808467",
-      "instanceNumber": 1
-    },
-    {
-      "id": "snc-lavalin-cultural-resources-gis-intern-tallahassee-2025-12-15-1",
-      "jobId": "snc-lavalin-cultural-resources-gis-intern-tallahassee",
-      "company": "SNC-Lavalin",
-      "title": "Cultural Resources GIS Intern",
-      "postedToDiscord": "2025-12-15T00:33:14.180Z",
-      "sourceDate": "2025-09-03T23:22:25.000Z",
-      "sourceUrl": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTallahassee3522-Thomasville-Rd/Cultural-Resources-GIS-Intern---Spring-2026_R-137281-1",
-      "discordThreadId": "1449922207332565034",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-ai-ml-intern-hillsboro-2025-12-15-1",
-      "jobId": "qorvo-ai-ml-intern-hillsboro",
-      "company": "Qorvo",
-      "title": "AI/ML Intern",
-      "postedToDiscord": "2025-12-15T00:33:18.913Z",
-      "sourceDate": "2025-09-03T22:43:44.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Hillsboro-AIML-Intern-OR-97124/1322517600/?ats=successfactors",
-      "discordThreadId": "1449922227654103283",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-autonomous-vehicles-and-robotics-intern-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-autonomous-vehicles-and-robotics-intern-santa-clara",
-      "company": "NVIDIA",
-      "title": "Autonomous Vehicles and Robotics Intern",
-      "postedToDiscord": "2025-12-15T00:33:20.606Z",
-      "sourceDate": "2025-09-03T18:45:20.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207",
-      "discordThreadId": "1449922234738016399",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-deep-learning-computer-architecture-intern-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-deep-learning-computer-architecture-intern-santa-clara",
-      "company": "NVIDIA",
-      "title": "Deep Learning Computer Architecture Intern",
-      "postedToDiscord": "2025-12-15T00:33:22.299Z",
-      "sourceDate": "2025-09-03T18:42:34.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
-      "discordThreadId": "1449922241818132502",
-      "instanceNumber": 1
-    },
     {
       "id": "nvidia-deep-learning-intern-santa-clara-2025-12-15-1",
       "jobId": "nvidia-deep-learning-intern-santa-clara",
@@ -9648,14 +9549,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8216250002",
       "discordThreadId": "1452452325393170636",
       "instanceNumber": 1
+    },
+    {
+      "id": "modernizing-medicine-software-architect-intern-boca-raton-2025-12-22-1",
+      "jobId": "modernizing-medicine-software-architect-intern-boca-raton",
+      "company": "Modernizing Medicine",
+      "title": "Software Architect Intern",
+      "postedToDiscord": "2025-12-22T00:44:48.703Z",
+      "sourceDate": "2025-12-18T16:50:45.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8307542002",
+      "discordThreadId": "1452461828901830668",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cintas-data-analytics-intern-mason-2025-12-22-1",
+      "jobId": "cintas-data-analytics-intern-mason",
+      "company": "Cintas",
+      "title": "Data Analytics Intern",
+      "postedToDiscord": "2025-12-22T00:44:52.442Z",
+      "sourceDate": "2025-12-18T16:28:41.000Z",
+      "sourceUrl": "https://careers.cintas.com/job/Mason-Data-Analytics-Intern-OH-45040/1350748200/?ats=successfactors",
+      "discordThreadId": "1452461843271385109",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-andersons-sap-intern-march-2026-perrysburg-2025-12-22-1",
+      "jobId": "the-andersons-sap-intern-march-2026-perrysburg",
+      "company": "The Andersons",
+      "title": "SAP Intern - March 2026",
+      "postedToDiscord": "2025-12-22T00:44:59.158Z",
+      "sourceDate": "2025-12-18T16:51:00.000Z",
+      "sourceUrl": "https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers/job/Maumee-OH/SAP-Intern--March-2026-_R11880",
+      "discordThreadId": "1452461871293792428",
+      "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-technical-intern-gas-operations-gis-edison-2025-12-22-1",
+      "jobId": "public-service-enterprise-technical-intern-gas-operations-gis-edison",
+      "company": "Public Service Enterprise Group",
+      "title": "Technical Intern - Gas Operations GIS",
+      "postedToDiscord": "2025-12-22T00:45:05.889Z",
+      "sourceDate": "2025-12-18T16:11:37.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/Edison-Summer-2026-Technical-Intern-Gas-Operations-GIS-NJ-08817/1350745900/?ats=successfactors",
+      "discordThreadId": "1452461900112859190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cirrus-logic-intern-embedded-machine-learning-engineer-ai-ml-austin-2025-12-22-1",
+      "jobId": "cirrus-logic-intern-embedded-machine-learning-engineer-ai-ml-austin",
+      "company": "Cirrus Logic",
+      "title": "Intern - Embedded Machine Learning Engineer - AI/ML",
+      "postedToDiscord": "2025-12-22T00:45:12.418Z",
+      "sourceDate": "2025-12-18T16:11:37.000Z",
+      "sourceUrl": "https://jobs.eu.lever.co/cirrus/8b0af9a2-6e28-4abf-99cb-8948c0b9414e/apply",
+      "discordThreadId": "1452461927962902610",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 877,
+    "totalJobs": 873,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T00:07:03.042Z",
+      "date": "2025-12-22T00:45:12.418Z",
       "archived": 0
     }
   }
