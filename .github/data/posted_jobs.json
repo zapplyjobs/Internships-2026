@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:04:05.278Z",
+  "lastUpdated": "2025-12-22T10:17:49.588Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9538,14 +9538,69 @@
       "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Impact-Strategy---Analytics-Intern---Summer-2026_JR0135785-1",
       "discordThreadId": "1452602575051558942",
       "instanceNumber": 1
+    },
+    {
+      "id": "collaborative-robotics-ai-research-engineer-seattle-2025-12-22-1",
+      "jobId": "collaborative-robotics-ai-research-engineer-seattle",
+      "company": "Collaborative Robotics",
+      "title": "AI Research Engineer",
+      "postedToDiscord": "2025-12-22T10:17:29.848Z",
+      "sourceDate": "2025-12-19T07:14:48.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/cobot/f0df62d2-d37d-45f8-9c8b-3c786f96757f/application",
+      "discordThreadId": "1452605949369127015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-engineer-intern-ads-data-2026-summer-san-jose-2025-12-22-1",
+      "jobId": "tiktok-data-engineer-intern-ads-data-2026-summer-san-jose",
+      "company": "TikTok",
+      "title": "Data Engineer Intern - Ads Data - 2026 Summer",
+      "postedToDiscord": "2025-12-22T10:17:36.159Z",
+      "sourceDate": "2025-12-19T07:32:55.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7584219416980818229",
+      "discordThreadId": "1452605976686366762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intrinsic-research-intern-mountain-view-2025-12-22-1",
+      "jobId": "intrinsic-research-intern-mountain-view",
+      "company": "Intrinsic",
+      "title": "Research Intern",
+      "postedToDiscord": "2025-12-22T10:17:42.621Z",
+      "sourceDate": "2025-12-19T07:28:15.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5740702004",
+      "discordThreadId": "1452606003156881481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-robotic-process-automation-developer-intern-rpa-parsippany-troy-hills-2025-12-22-1",
+      "jobId": "zoetis-robotic-process-automation-developer-intern-rpa-parsippany-troy-hills",
+      "company": "Zoetis",
+      "title": "Robotic Process Automation Developer Intern - RPA",
+      "postedToDiscord": "2025-12-22T10:17:46.240Z",
+      "sourceDate": "2025-12-19T07:15:26.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Robotic-Process-Automation--RPA--Developer-Intern_JR00019798-2",
+      "discordThreadId": "1452606017371373629",
+      "instanceNumber": 1
+    },
+    {
+      "id": "collaborative-robotics-software-engineer-intern-and-controls-intern-ai-navigation-santa-clara-2025-12-22-1",
+      "jobId": "collaborative-robotics-software-engineer-intern-and-controls-intern-ai-navigation-santa-clara",
+      "company": "Collaborative Robotics",
+      "title": "Software Engineer Intern – And Controls Intern - AI - Navigation",
+      "postedToDiscord": "2025-12-22T10:17:49.588Z",
+      "sourceDate": "2025-12-19T07:14:57.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/cobot/ea1b59f7-0852-4ab8-944c-e302e63541bc/application",
+      "discordThreadId": "1452606032755953796",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 867,
+    "totalJobs": 872,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T10:04:05.278Z",
+      "date": "2025-12-22T10:17:49.588Z",
       "archived": 0
     }
   }

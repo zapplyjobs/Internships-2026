@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Implements, tests, and debugs ML pipelines, models, or components as scoped by mentors. Applies software engineering practices (version control, testing, CI/CD) to ML code and data workflows. Collaborates with machine learning engineers, applied scientists, and software engineers to integrate ML models into products or services. Explores tools and frameworks commonly used in ML engineering (e.g., PyTorch, scikit-learn, data processing frameworks). Communicates progress, blockers, and learnings effectively with mentors and teammates. Enrolled in a full time bachelor&#39;s or master&#39;s program in Computer Science, Engineering, or related field during the academic term immediately before the internship. Must have at least 1 semester/term remaining following the completion of the internship. One year of programming experience in an object-oriented language. Ability to demonstrate an understanding of computer science fundamentals, including data structures and algorithms. Foundational knowledge of ML and GenAI concepts (transformer models, supervised learning, evaluation metrics, overfitting/underfitting, regularization, embeddings, tokenizers, etc.). Exposure to data handling (SQL, pandas, data cleaning). Familiarity with agentic frameworks like Semantic Kernel or LangChain and LLM/SLM tools like Ollama. Familiarity with basic software engineering workflows (Git, code reviews, testing).",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641989",
+      "fetchedAt": "2025-12-22T10:17:15.688Z"
+    }
+  },
+  "cachedAt": 1766398635689
+}
