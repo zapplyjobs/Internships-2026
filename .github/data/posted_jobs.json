@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T02:01:12.407Z",
+  "lastUpdated": "2025-12-22T02:51:54.911Z",
   "jobs": [
-    {
-      "id": "hartford-financial-services-operations-analytics-intern-charlotte-2025-12-15-1",
-      "jobId": "hartford-financial-services-operations-analytics-intern-charlotte",
-      "company": "Hartford Financial Services",
-      "title": "Operations & Analytics Intern",
-      "postedToDiscord": "2025-12-15T02:33:41.203Z",
-      "sourceDate": "2025-09-02T22:35:04.000Z",
-      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Ops-Program-Summer-2026---Operations---Analytics-Intern--Charlotte--_R2522282",
-      "discordThreadId": "1449952520058310686",
-      "instanceNumber": 1
-    },
-    {
-      "id": "p-g-careers-data-scientist-internship-masters-degree-cincinnati-2025-12-15-1",
-      "jobId": "p-g-careers-data-scientist-internship-masters-degree-cincinnati",
-      "company": "P&G Careers",
-      "title": "Data Scientist – Internship - Masters Degree",
-      "postedToDiscord": "2025-12-15T02:33:42.885Z",
-      "sourceDate": "2025-09-02T21:08:21.000Z",
-      "sourceUrl": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Masters-Degree--Internship_R000137918",
-      "discordThreadId": "1449952527226507284",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hartford-financial-services-tech-ops-program-summer-2026-operations-analytics-intern-hartford-2025-12-15-1",
-      "jobId": "hartford-financial-services-tech-ops-program-summer-2026-operations-analytics-intern-hartford",
-      "company": "Hartford Financial Services",
-      "title": "Tech & Ops Program Summer 2026 – Operations & Analytics Intern",
-      "postedToDiscord": "2025-12-15T02:33:47.710Z",
-      "sourceDate": "2025-09-02T22:34:58.000Z",
-      "sourceUrl": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Ops-Program-Summer-2026---Operations---Analytics-Intern--Hartford-_R2522281-1",
-      "discordThreadId": "1449952547413561456",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hntb-technology-intern-summer-2026-sharonville-2025-12-15-1",
-      "jobId": "hntb-technology-intern-summer-2026-sharonville",
-      "company": "HNTB",
-      "title": "Technology Intern - Summer 2026",
-      "postedToDiscord": "2025-12-15T02:33:52.482Z",
-      "sourceDate": "2025-09-02T18:56:45.000Z",
-      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Cleveland-OH/Technology-Intern---Summer-2026_R-27305-1",
-      "discordThreadId": "1449952567420391516",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-phd-autonomous-vehicles-research-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-phd-autonomous-vehicles-research-santa-clara",
-      "company": "NVIDIA",
-      "title": "PhD Autonomous Vehicles Research",
-      "postedToDiscord": "2025-12-15T02:33:57.229Z",
-      "sourceDate": "2025-09-02T15:08:41.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244",
-      "discordThreadId": "1449952587359981691",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-phd-computer-vision-and-deep-learning-research-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-phd-computer-vision-and-deep-learning-research-santa-clara",
-      "company": "NVIDIA",
-      "title": "PhD Computer Vision and Deep Learning Research",
-      "postedToDiscord": "2025-12-15T02:33:58.909Z",
-      "sourceDate": "2025-09-02T15:08:36.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241",
-      "discordThreadId": "1449952594402480249",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-software-engineering-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-software-engineering-santa-clara",
-      "company": "NVIDIA",
-      "title": "Software Engineering",
-      "postedToDiscord": "2025-12-15T02:34:00.601Z",
-      "sourceDate": "2025-09-02T15:08:30.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206",
-      "discordThreadId": "1449952601427804355",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-nvidia-internships-phd-graphics-and-simulation-research-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-nvidia-internships-phd-graphics-and-simulation-research-santa-clara",
-      "company": "NVIDIA",
-      "title": "NVIDIA Internships: PhD Graphics and Simulation Research",
-      "postedToDiscord": "2025-12-15T02:34:02.282Z",
-      "sourceDate": "2025-09-02T15:08:28.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242",
-      "discordThreadId": "1449952608146948137",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-nvidia-2026-internships-phd-generative-ai-research-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-nvidia-2026-internships-phd-generative-ai-research-santa-clara",
-      "company": "NVIDIA",
-      "title": "NVIDIA 2026 Internships: PhD Generative AI Research",
-      "postedToDiscord": "2025-12-15T02:34:04.100Z",
-      "sourceDate": "2025-09-02T15:08:21.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228",
-      "discordThreadId": "1449952615520669747",
-      "instanceNumber": 1
-    },
     {
       "id": "nvidia-internships-deep-learning-santa-clara-2025-12-15-1",
       "jobId": "nvidia-internships-deep-learning-santa-clara",
@@ -9516,14 +9417,69 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2026-Summer-Intern---Contact-Center---AI-Reshape_202512-131762",
       "discordThreadId": "1452481053573779537",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-software-engineer-in-test-mod-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-software-engineer-in-test-mod-san-jose",
+      "company": "ASML",
+      "title": "Internship - Software Engineer In Test - Mod",
+      "postedToDiscord": "2025-12-22T02:51:37.773Z",
+      "sourceDate": "2025-12-17T23:40:50.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00328009",
+      "discordThreadId": "1452493743654703208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-engineering-intern-modeling-simulation-applications-huntsville-2025-12-22-1",
+      "jobId": "leidos-engineering-intern-modeling-simulation-applications-huntsville",
+      "company": "Leidos",
+      "title": "Engineering Intern - Modeling & Simulation Applications",
+      "postedToDiscord": "2025-12-22T02:51:41.135Z",
+      "sourceDate": "2025-12-17T23:33:31.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Engineering-Intern---Modeling---Simulation-Applications-_R-00172342",
+      "discordThreadId": "1452493757806153785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-washington-post-intern-ios-app-development-washington-2025-12-22-1",
+      "jobId": "the-washington-post-intern-ios-app-development-washington",
+      "company": "The Washington Post",
+      "title": "Intern - iOS App Development",
+      "postedToDiscord": "2025-12-22T02:51:44.767Z",
+      "sourceDate": "2025-12-17T23:32:21.000Z",
+      "sourceUrl": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-App-Development_JR-90275642",
+      "discordThreadId": "1452493771714592832",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-ge-vernova-data-scientist-intern-market-customer-insights-summer-2026-cambridge-2025-12-22-1",
+      "jobId": "ge-vernova-ge-vernova-data-scientist-intern-market-customer-insights-summer-2026-cambridge",
+      "company": "GE Vernova",
+      "title": "GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026",
+      "postedToDiscord": "2025-12-22T02:51:51.273Z",
+      "sourceDate": "2025-12-17T23:58:00.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cambridge/GE-Vernova-Data-Scientist-Intern---Market---Customer-Insights---Summer-2026_R5028300-1",
+      "discordThreadId": "1452493799627554989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-optical-imaging-product-engineer-san-jose-2025-12-22-1",
+      "jobId": "asml-intern-optical-imaging-product-engineer-san-jose",
+      "company": "ASML",
+      "title": "Intern - Optical Imaging Product Engineer",
+      "postedToDiscord": "2025-12-22T02:51:54.910Z",
+      "sourceDate": "2025-12-17T23:40:58.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Imaging-Product-Engineer_J-00328141",
+      "discordThreadId": "1452493814789967955",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 865,
+    "totalJobs": 861,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T02:01:12.407Z",
+      "date": "2025-12-22T02:51:54.911Z",
       "archived": 0
     }
   }
