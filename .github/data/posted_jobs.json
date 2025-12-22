@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T10:56:18.978Z",
+  "lastUpdated": "2025-12-22T11:04:22.081Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9758,14 +9758,69 @@
       "sourceUrl": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Product-Validation---Data--Acquisition--Analytics--Science--Intern_DT-16335",
       "discordThreadId": "1452615717504553103",
       "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-summer-2026-technical-intern-transmission-asset-strategy-south-plainfield-2025-12-22-1",
+      "jobId": "public-service-enterprise-summer-2026-technical-intern-transmission-asset-strategy-south-plainfield",
+      "company": "Public Service Enterprise Group",
+      "title": "Summer 2026 – Technical Intern - Transmission Asset Strategy",
+      "postedToDiscord": "2025-12-22T11:03:58.139Z",
+      "sourceDate": "2025-12-18T23:16:33.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/South-Plainfield-Summer-2026-Technical-Intern-Transmission-Asset-Strategy-NJ-07080/1350823500/?ats=successfactors",
+      "discordThreadId": "1452617643629613106",
+      "instanceNumber": 1
+    },
+    {
+      "id": "geosyntec-consultants-environmental-intern-lawrence-township-2025-12-22-1",
+      "jobId": "geosyntec-consultants-environmental-intern-lawrence-township",
+      "company": "Geosyntec Consultants",
+      "title": "Environmental Intern",
+      "postedToDiscord": "2025-12-22T11:04:01.681Z",
+      "sourceDate": "2025-10-31T07:49:33.000Z",
+      "sourceUrl": "https://careers-geosyntec.icims.com/jobs/3889/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452617659131756657",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-capitol-project-s-intern-milwaukee-2025-12-22-1",
+      "jobId": "veolia-capitol-project-s-intern-milwaukee",
+      "company": "Veolia",
+      "title": "Capitol Project's Intern",
+      "postedToDiscord": "2025-12-22T11:04:08.624Z",
+      "sourceDate": "2025-12-16T23:19:25.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238341",
+      "discordThreadId": "1452617687229399060",
+      "instanceNumber": 1
+    },
+    {
+      "id": "integration-innovation-i3-data-management-intern-huntsville-2025-12-22-1",
+      "jobId": "integration-innovation-i3-data-management-intern-huntsville",
+      "company": "Integration Innovation (i3)",
+      "title": "Data Management Intern",
+      "postedToDiscord": "2025-12-22T11:04:15.675Z",
+      "sourceDate": "2025-11-13T00:08:00.000Z",
+      "sourceUrl": "https://careers-i3-corps.icims.com/jobs/4993/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452617716165771319",
+      "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-software-engineer-intern-austin-2025-12-22-1",
+      "jobId": "electronic-arts-software-engineer-intern-austin",
+      "company": "Electronic Arts",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-22T11:04:22.081Z",
+      "sourceDate": "2025-11-05T23:55:14.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211041",
+      "discordThreadId": "1452617745274372147",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 887,
+    "totalJobs": 892,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T10:56:18.978Z",
+      "date": "2025-12-22T11:04:22.081Z",
       "archived": 0
     }
   }
