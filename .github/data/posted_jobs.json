@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T04:18:30.243Z",
+  "lastUpdated": "2025-12-22T04:34:39.719Z",
   "jobs": [
-    {
-      "id": "tiktok-software-engineer-intern-business-integrity-bs-ms-san-jose-2025-12-15-1",
-      "jobId": "tiktok-software-engineer-intern-business-integrity-bs-ms-san-jose",
-      "company": "TikTok",
-      "title": "Software Engineer Intern - Business Integrity - BS/MS",
-      "postedToDiscord": "2025-12-15T04:26:22.986Z",
-      "sourceDate": "2025-08-30T03:02:26.000Z",
-      "sourceUrl": "https://lifeattiktok.com/search/7543420658085185799",
-      "discordThreadId": "1449980880922869801",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pimco-intern-technology-analyst-software-engineering-newport-beach-2025-12-15-1",
-      "jobId": "pimco-intern-technology-analyst-software-engineering-newport-beach",
-      "company": "PIMCO",
-      "title": "Intern - Technology Analyst - Software Engineering",
-      "postedToDiscord": "2025-12-15T04:26:24.858Z",
-      "sourceDate": "2025-08-30T02:15:27.000Z",
-      "sourceUrl": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105630",
-      "discordThreadId": "1449980888359243777",
-      "instanceNumber": 1
-    },
-    {
-      "id": "appian-software-engineering-intern-mclean-2025-12-15-1",
-      "jobId": "appian-software-engineering-intern-mclean",
-      "company": "Appian",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:26:26.542Z",
-      "sourceDate": "2025-08-29T23:47:19.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7201613",
-      "discordThreadId": "1449980895988678767",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cloudflare-software-engineer-intern-austin-2025-12-15-1",
-      "jobId": "cloudflare-software-engineer-intern-austin",
-      "company": "Cloudflare",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T04:26:28.255Z",
-      "sourceDate": "2025-08-29T22:44:54.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7206269",
-      "discordThreadId": "1449980903060410472",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-software-engineer-intern-greensboro-2025-12-15-1",
-      "jobId": "qorvo-software-engineer-intern-greensboro",
-      "company": "Qorvo",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T04:26:30.032Z",
-      "sourceDate": "2025-08-29T22:32:52.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1321603900/?ats=successfactors",
-      "discordThreadId": "1449980909884538942",
-      "instanceNumber": 1
-    },
-    {
-      "id": "emergent-holdings-summer-2026-intern-data-analytics-detroit-2025-12-15-1",
-      "jobId": "emergent-holdings-summer-2026-intern-data-analytics-detroit",
-      "company": "Emergent Holdings ",
-      "title": "Summer 2026 Intern - Data Analytics",
-      "postedToDiscord": "2025-12-15T04:26:31.832Z",
-      "sourceDate": "2025-08-29T22:30:51.000Z",
-      "sourceUrl": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/13229",
-      "discordThreadId": "1449980917467578562",
-      "instanceNumber": 1
-    },
-    {
-      "id": "athelas-software-engineering-intern-mountain-view-2025-12-15-1",
-      "jobId": "athelas-software-engineering-intern-mountain-view",
-      "company": "Athelas",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T04:26:33.735Z",
-      "sourceDate": "2025-08-29T20:41:59.000Z",
-      "sourceUrl": "https://www.athelas.com/careers?ashby_jid=566a84fb-d93e-4177-ac07-3c16d3ae8e8d",
-      "discordThreadId": "1449980925503864947",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hewlett-packard-enterprise-ai-developer-intern-masters-houston-2025-12-15-1",
-      "jobId": "hewlett-packard-enterprise-ai-developer-intern-masters-houston",
-      "company": "Hewlett Packard Enterprise",
-      "title": "AI Developer Intern - Masters",
-      "postedToDiscord": "2025-12-15T04:26:38.538Z",
-      "sourceDate": "2025-08-30T00:29:53.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085",
-      "discordThreadId": "1449980945800232972",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hewlett-packard-enterprise-ai-developer-intern-undergrad-houston-2025-12-15-1",
-      "jobId": "hewlett-packard-enterprise-ai-developer-intern-undergrad-houston",
-      "company": "Hewlett Packard Enterprise",
-      "title": "AI Developer Intern - Undergrad",
-      "postedToDiscord": "2025-12-15T04:26:38.545Z",
-      "sourceDate": "2025-08-30T00:17:28.000Z",
-      "sourceUrl": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "ember-ai-full-stack-engineering-intern-san-francisco-2025-12-15-1",
       "jobId": "ember-ai-full-stack-engineering-intern-san-francisco",
@@ -9439,14 +9340,69 @@
       "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029141",
       "discordThreadId": "1452515605721645168",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-research-and-development-intern-naperville-2025-12-22-1",
+      "jobId": "nokia-research-and-development-intern-naperville",
+      "company": "Nokia",
+      "title": "Research and Development Intern",
+      "postedToDiscord": "2025-12-22T04:34:22.643Z",
+      "sourceDate": "2025-12-17T23:16:35.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28650",
+      "discordThreadId": "1452519600251207692",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-tech-and-digital-gms-data-analytics-solutions-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "zoetis-tech-and-digital-gms-data-analytics-solutions-intern-remote-in-usa",
+      "company": "Zoetis",
+      "title": "Tech and Digital GMS Data & Analytics Solutions Intern",
+      "postedToDiscord": "2025-12-22T04:34:26.129Z",
+      "sourceDate": "2025-12-17T23:13:00.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/Tech-and-Digital-GMS-Data---Analytics-Solutions-Intern_JR00019786",
+      "discordThreadId": "1452519615019352237",
+      "instanceNumber": 1
+    },
+    {
+      "id": "quest-analytics-software-engineer-intern-c-asp-net-overland-park-2025-12-22-1",
+      "jobId": "quest-analytics-software-engineer-intern-c-asp-net-overland-park",
+      "company": "Quest Analytics",
+      "title": "Software Engineer Intern - C# - Asp.Net",
+      "postedToDiscord": "2025-12-22T04:34:32.625Z",
+      "sourceDate": "2025-12-17T23:13:41.000Z",
+      "sourceUrl": "https://jobs.lever.co/questanalytics/65957790-a3b2-4000-882a-86a23a697ee1/apply",
+      "discordThreadId": "1452519642445910027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-ai-engineering-intern-frisco-2025-12-22-1",
+      "jobId": "t-mobile-ai-engineering-intern-frisco",
+      "company": "T-Mobile",
+      "title": "AI Engineering Intern",
+      "postedToDiscord": "2025-12-22T04:34:36.161Z",
+      "sourceDate": "2025-12-17T23:13:37.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/XMLNAME-2026-Summer-AI-Engineering-Intern_REQ340333",
+      "discordThreadId": "1452519657146814634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-human-interactive-driving-intern-platform-research-mountain-view-2025-12-22-1",
+      "jobId": "toyota-research-institute-human-interactive-driving-intern-platform-research-mountain-view",
+      "company": "Toyota Research Institute",
+      "title": "Human Interactive Driving Intern - Platform Research",
+      "postedToDiscord": "2025-12-22T04:34:39.719Z",
+      "sourceDate": "2025-12-17T23:13:04.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/780ce1ec-3c38-4cc2-9293-2ab9860c65ae/apply",
+      "discordThreadId": "1452519671873142785",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 858,
+    "totalJobs": 854,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T04:18:30.243Z",
+      "date": "2025-12-22T04:34:39.719Z",
       "archived": 0
     }
   }

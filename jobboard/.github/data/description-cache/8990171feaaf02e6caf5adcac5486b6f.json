@@ -1,0 +1,26 @@
+{
+  "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Engineer---Web-Development-Intern_R-00172085-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Vehicle Information Technology (VIT) is seeking a talented computer science/software engineering major to work in an internship position during the summer of 2026. The successful candidate will work collaboratively with our team of software developers and will be assisting in the transition of VIT legacy software to more updated-modern technologies. Leidos VIT has over 30 years of experience providing both software and hardware solutions for various major automotive customers in multiple installations throughout the US, Canada and Mexico. Our customer OEMs depend on our solutions because of the robust and comprehensive nature of our products.This position will offer a mixture of both onsite and remote work.  Candidates may occasionally be working onsite at Leidos location in Walled Lake, Michigan. Primary ResponsibilitiesWork collaboratively with VIT team to design, develop, troubleshoot and debug new software solution for VIT legacy systems.Support creation and updating of all relevant documentation and specifications for design, development and testing.Use Agile development tools such as Jira, Confluence, and Bitbucket/Git to manage work and collaborate with your team.Develop maintainable code that matches specification.Identify potential roadblocks and develop around them.Own delivery of small parts of system application.Build software solutions which considers the customer first.Basic QualificationsMust be currently enrolled in a bachelor's degree of software engineering or computer engineering degree program.Understanding of software fundamentals: data structures, algorithms, design patterns, etc.Proficiency in at least one general-purpose programming language.Ability to complete tasking independently with minimal direct supervision.Strong communication skills, specifically absence of repeated grammatical and typographical errors.Strong analytical and problem-solving skills (e.g. debugging).Must be a US Citizen.Preferred QualificationsFamiliarity with any of the following: React.js, Node.js, JavaScript/Typescript, HTML/CSS, and SQLFamiliarity with web-based applications, servers, APIs, and databasesWillingness to learn new technologies and adapt to changeInterest in full-stack development – UI/design, database, and backendExperience from previous technical internships or demonstrated personal/school project experienceIf you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.Original Posting:December 17, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $48,100.00 - $86,950.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
+    "requirements": [
+      "Must be currently enrolled in a bachelor's degree of software engineering or computer engineering degree program."
+    ],
+    "responsibilities": [
+      "Work collaboratively with VIT team to design, develop, troubleshoot and debug new software solution for VIT legacy systems.",
+      "Support creation and updating of all relevant documentation and specifications for design, development and testing.",
+      "Use Agile development tools such as Jira, Confluence, and Bitbucket/Git to manage work and collaborate with your team.",
+      "Develop maintainable code that matches specification.",
+      "Identify potential roadblocks and develop around them.",
+      "Willingness to learn new technologies and adapt to change",
+      "Interest in full-stack development – UI/design, database, and backend"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Walled-Lake-MI/Software-Engineer---Web-Development-Intern_R-00172085-1",
+      "fetchedAt": "2025-12-22T04:33:57.961Z"
+    }
+  },
+  "cachedAt": 1766378037961
+}
