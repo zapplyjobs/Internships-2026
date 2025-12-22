@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Data Engineering Intern",
-      "employer_name": "Vera Institute of Justice",
-      "job_city": "New Orleans",
-      "job_state": "LA",
-      "job_description": "About the team: The Data Engineering Intern for the Research Department’s Central Data Science team at Vera is an opportunity for a college student or recent grad to immerse themselves into working in a data role at a non-profit organization. Their work will support the construction and maintenance of a centralized data ingestion/processing framework and data warehouse to support researchers who work with public and/or large-scale data in national and place-based initiatives. Over the course of their internship, the data engineering intern will focus on an engineering project that is relevant to their interests and experience. This might involve helping to design and manage large-scale data infrastructure systems, creating computational frameworks, designing data models, or building new tools to empower our organization’s researchers or community partners to leverage and improve Vera’s existing repository of data. Depending on their interest, other day-to-day tasks could include exploratory analyses, analytical software development, web scraping, or other related areas of interest. The intern will also participate in all day-to-day team activities, ranging from project planning and execution to code review sessions, pair programming, social activities, and more. They will work directly with a senior data engineer on the team on a range of responsibilities, including data collection, data modelling, automation, building data infrastructure, and ensuring data quality. The Data Engineering intern will learn: To understand the process for data ingestion with variety of sources To build their skills in data modeling Workflow dynamics in a fast-moving team involved in multiple projects at once About the role: 1. Data ingestion Integrate new sources of criminal justice, immigration, and economics data into our internally collected data; clean, transform, organize, ensure quality of production data Refactor existing web scrapers and data processes to new centralized infrastructure and frameworks 2. Central data model construction Contribute code to building a central data model for unrestricted datasets 3. Code review and codebase maintenance Help maintain existing codebase through reviewing requests Coordinate with data science staff to ensure consistency of datasets, naming conventions, code repository structure, etc. What qualifications are we looking for? Required: Demonstrated proficiency working with data collection and processing in Python, with preference for experience using SQL and Python Pandas library. Proficiency developing code collaboratively using GitHub Commitment to advancing racial and gender equity Curiosity about emerging research and advocacy in the criminal justice space and/or immigration spaces Wrestles with creative and concrete ways to use data to shift power and advance equity and inclusion Preferred: Professional, personal or academic engagement with issues of mass incarceration and mass criminalization Experience working with Google Cloud Platform and its tools, including Airflow Knowledge, Skills, & Abilities you'll bring: The current tech stack uses the following technologies and working fluency in the following is required: Python SQL/relational databases Cloud Technology (GCP and/or AWS) GitHub Airflow Docker Location: Please note this role will report to one of our four offices (Brooklyn, New York; Washington, DC; New Orleans, LA; Los Angeles, CA). Vera employees adhere to a hybrid schedule and are in-office on an alternating schedule that generally amounts to 10 days per month. Compensation and Benefits: The compensation range for this position is $17.00 - $25.00. Actual salaries will vary depending on factors including but not limited to experience and performance. The salary range listed is just one component of Vera Institute’s total compensation package for employees. As an employer of choice in our field, supporting Vera staff - both personally and professionally - is a priority. To do this, we invest in the well-being of our staff through other rewards including merit pay, generous paid time off, a comprehensive health insurance plan, student loan repayment benefits, professional development training opportunities and up to $2,000 annual for education costs and fees relevant to Vera work, employer-funded retirement plan, and flexible time. To learn more about Vera’s benefits offerings, click here. Application Process: To receive further consideration for this career opportunity, applicants are asked preliminary questions about logistics, their interest and qualifications. Selected candidates may be required to provide additional details about their experience via a phone screen/form in advance of an invitation for a virtual or in-person interview with the team. Some searches may explore scenarios during the interview process and/or an assessment prior to reference checks and a hiring decision. Applications may also be faxed to: ATTN: People, Place, and Culture / Summer 2026 - Data Engineering Intern, Research CentralVera Institute of Justice34 35th St, Suite 4-2A, Brooklyn, NY 11232Fax: (212) 941-9407Please use only one method (online, mail or fax) of submission.No phone calls, please. Only applicants selected for interviews will be contacted. Vera is an equal opportunity / affirmative action employer. All qualified applicants will be considered for employment without unlawful discrimination based on race, color, creed, national origin, sex, age, disability, marital status, sexual orientation, military status, prior record of arrest or conviction, citizenship status, current employment status, or caregiver status. Vera works to advance justice, particularly racial justice, in an increasingly multicultural country and globally connected world. We value diverse experiences, including with regard to educational background and justice system contact, and depend on a diverse staff to carry out our mission. For more information about Vera, please visit www.vera.org.",
-      "job_apply_link": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4640168005",
-      "job_posted_at_datetime_utc": "2025-12-15T23:34:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "vera-institute-of-justice-data-engineering-intern-new-orleans",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": "2025-12-22T07:56:28.149Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Incarceration & Inequality Project",
-      "employer_name": "Vera Institute of Justice",
-      "job_city": "Brooklyn",
-      "job_state": "NY",
-      "job_description": "About the team: The Incarceration and Inequality Project (IIP) combines research, data science, and strategic communications to explore and document how mass incarceration has impoverished communities and widened racial disparities in income and wealth over the past five decades. Vera is creating a national dataset that includes information on incarceration, community supervision, and economic outcomes from a range of local and federal sources. The project team will use this dataset to produce data-informed products, including policy briefs, research papers, and an online data visualization tool. We are seeking a full-time Graduate level Intern to provide a range of supports for new and ongoing studies, including quantitative analysis, data management, and literature reviews on topics related to mass incarceration, and economic justice. This is an opportunity to join a multidisciplinary team that is addressing policy-focused questions at the intersection of mass incarceration, economic mobility, and racial equity. The IIP Intern will learn: Working with a dynamic team on applied quantitative analysis Managing and analyzing economic data from the census and other sources Reviewing the literature on the intersection of income inequality and criminal legal system contact Conducting research to inform policy briefs and other publications About the role: 1. Background research Reviewing the literature on criminal legal and economic justice topics Producing research summaries Working with members of the research team to develop estimation techniques, based on existing research 2. Data management and exploratory analysis Merging and aggregating administrative datasets Conducting descriptive analysis Producing data visualizations Authoring memos and other internal documents describing results 3. Research methodology Participating in IIP research meetings, discussing research designs and providing feedback on emergent findings Presenting findings to the team What qualifications are we looking for? Currently enrolled in graduate school in economics, sociology, criminology, demography, public policy or a related discipline or equivalent experience Interest in applied social justice research, particularly to advance policy reform and advocacy and issues related to economic inequality and the legal system Excellent written and interpersonal communication skills Familiarity with analyzing quantitative datasets Preferred: Experience with R and/or Python Technical knowledge helpful for this role: Proficient with Microsoft Office Suite or similar software Quantitative analysis software (ie: R, Stata, etc) Location: Please note this role will report to our Brooklyn, NY office. Vera employees adhere to a hybrid schedule and are in-office on an alternating schedule that generally amounts to 10 days per month. Compensation and Benefits: The compensation range for this position is $17.00 - $25.00. Actual salaries will vary depending on factors including but not limited to experience and performance. The salary range listed is just one component of Vera Institute’s total compensation package for employees. As an employer of choice in our field, supporting Vera staff - both personally and professionally - is a priority. To do this, we invest in the well-being of our staff through other rewards including merit pay, generous paid time off, a comprehensive health insurance plan, student loan repayment benefits, professional development training opportunities and up to $2,000 annual for education costs and fees relevant to Vera work, employer-funded retirement plan, and flexible time. To learn more about Vera’s benefits offerings, click here. Application Process: To receive further consideration for this career opportunity, applicants are asked preliminary questions about logistics, their interest and qualifications. Selected candidates may be required to provide additional details about their experience via a phone screen/form in advance of an invitation for a virtual or in-person interview with the team. Some searches may explore scenarios during the interview process and/or an assessment prior to reference checks and a hiring decision. Applications may also be faxed to: ATTN: People, Place, and Culture / Summer 2026 - Research Intern, Incarceration & Inequality ProjectVera Institute of Justice34 35th St, Suite 4-2A, Brooklyn, NY 11232Fax: (212) 941-9407Please use only one method (online, mail or fax) of submission.No phone calls, please. Only applicants selected for interviews will be contacted. Vera is an equal opportunity / affirmative action employer. All qualified applicants will be considered for employment without unlawful discrimination based on race, color, creed, national origin, sex, age, disability, marital status, sexual orientation, military status, prior record of arrest or conviction, citizenship status, current employment status, or caregiver status. Vera works to advance justice, particularly racial justice, in an increasingly multicultural country and globally connected world. We value diverse experiences, including with regard to educational background and justice system contact, and depend on a diverse staff to carry out our mission. For more information about Vera, please visit www.vera.org.",
-      "job_apply_link": "https://job-boards.greenhouse.io/verainstituteofjustice/jobs/4640194005",
-      "job_posted_at_datetime_utc": "2025-12-15T23:34:27.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "vera-institute-of-justice-research-intern-incarceration-inequality-project-brooklyn",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": "2025-12-22T07:56:28.149Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Dropbox",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Join Dropbox in this exciting opportunity.",
-      "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=7449835",
-      "job_posted_at_datetime_utc": "2025-12-15T23:34:06.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "dropbox-software-engineer-intern-remote-in-usa",
-      "description_platform": "greenhouse",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": "2025-12-22T07:56:28.149Z"
-  },
-  {
-    "job": {
-      "job_title": "Accounting Analytics Internship",
-      "employer_name": "Clayton",
-      "job_city": "Maryville",
-      "job_state": "TN",
-      "job_description": "Accounting Data Analytics InternshipAbout the Clayton Internship Program: Clayton offers a multitude of different opportunities through our Summer Internship Program. The Clayton Summer Internship Program challenges students to think critically and analytically within their field of study while allowing them direct, hands-on working experience. The Accounting Data Analytics Intern will take a deep dive behind Oracle’s Account Reconciliation Cloud Service and the Business Intelligence Publisher reporting that feeds it.Internship Program Details:Internships are paid, full-time, hourly positions.Internship dates are May 18th – August 7th 2026Internships include several professional development workshops and opportunities for networking with other interns across Clayton's various lines of business.Interns will facilitate a presentation of their Summer project to Clayton Senior Leadership at the completion of their internship.What you will do:Assist with performing reconciliations in Excel and Oracle’s Account Reconciliation applicationTest reconciliation automations in Oracle systemDaily monitoring of current automationsDeep dive into our Business Intelligence Publisher reporting softwareWhat skills you will learn or develop:Insight into the design and configuration of Oracle’s Account Reconciliation applicationExposure to various Accounting departments in Clayton’s enterprise.Qualifications:Must be a senior or recent graduate of a degree program in Accounting, Business Analytics or related fieldExcellent presentation skills required.Proficient using ExcelAbility to communicate effectively and build strong working relationships at all levels.Prior experience in SQL and reconciliations strongly desired.Perks of Interning at Clayton:Clayton’s internship program offers the opportunity for interns to complete real, value-add work projects while building both interpersonal and technical skillsets. Interns will gain insight into career paths within their chosen field of study, and many have the opportunity to continue employment with Clayton post-internship completion.Clayton’s Home Office campus offers an onsite restaurant, onsite fitness facility with full gym, in-person and virtual workout classes, yoga / barre studio, volleyball and basketball courts, walking paths, and disc golf course.Clayton is proud to have earned spots on the following Forbes lists: America’s Best Employers, America’s Best Employers by State, Best Employers for Diversity, Best Employers for Women.At Clayton, we encourage holistic wellness with physical, nutritional, social, financial, spiritual and occupational programs available online or in-person for team members.Clayton is committed to a diverse and inclusive workplace. Clayton is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.Why Clayton?Full-time team members have the flexibility to create their own health, dental, and vision benefits package. Clayton provides competitive 401K programs, including investment options and company matching for full and part time team members after one year to help our team members achieve their financial goals. Additional benefits include paid parental leave, tuition reimbursement, Employee Assistance Programs, and more.As part of Clayton’s commitment to Opening Doors to a Better Life, Clayton is now providing paid time for Team Members to volunteer to causes that are meaningful to them through the Clayton Impact program.At Clayton, we encourage holistic wellness with physical, nutritional, social, financial, spiritual and occupational programs available online or in-person for team members. Clayton’s Home Office campus offers an onsite restaurant, onsite fitness facility with full gym, in-person and virtual workout classes, yoga / barre studio, volleyball and basketball courts, walking paths, and a disc golf course.Clayton is committed to creating an inclusive workplace. Clayton is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.Compensation Grade Pay Range$21.69 - $27.11Business Unit - B00015HomeTeam",
-      "job_apply_link": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Accounting-Analytics-Internship_JR126841",
-      "job_posted_at_datetime_utc": "2025-12-15T23:32:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "clayton-accounting-analytics-internship-maryville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": "2025-12-22T07:56:28.149Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer",
-      "employer_name": "Roku",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "<div class=\"content-intro\"> <h2>Teamwork makes the stream work.</h2> <p> </p> <h3><strong>Roku is changing how the world watches TV</strong></h3> <p>Roku is the #1 TV streaming platform in the U.S., Canada, and Mexico, and we've set our sights on powering every television in the world. Roku pioneered streaming to the TV. Our mission is to be the TV streaming platform that connects the entire TV ecosystem. We connect consumers to the content they love, enable content publishers to build and monetize large audiences, and provide advertisers unique capabilities to engage consumers.</p> <p>From your first day at Roku, you'll make a valuable - and valued - contribution. We're a fast-growing public company where no one is a bystander. We offer you the opportunity to delight millions of TV streamers around the world while gaining meaningful experience across a variety of disciplines.</p> <p> </p> </div><h3> <strong>Build the future of streaming with real ownership</strong> </h3> <p>Join Roku’s 12-week Graduate Internship and accelerate your growth by solving complex engineering problems that power the world’s leading TV streaming platform. You’ll ship code, learn from senior engineers, and see your work make a visible impact for customers globally. </p> <p> </p> <h3> <strong>Why this program stands out</strong> </h3> <ul> <li> <strong>High-impact work, not side projects.</strong> You’ll be matched to a scoped, production-grade project aligned to real business outcomes. </li> <li> <strong>Clear success metrics.</strong> Define and track <strong>KPIs</strong> with your team, so progress and value are obvious from day one. </li> <li> <strong>Senior mentorship.</strong> A dedicated senior engineer supervises your journey and gives you direct, actionable feedback. </li> <li> <strong>Velocity + autonomy.</strong> Expect rapid iteration, ownership of decisions, and a culture that favors building over bureaucracy. </li> <li> <strong>Tech breadth + depth.</strong> Exposure to <strong>Core OS</strong>, <strong>Cloud Infrastructure</strong>, <strong>Advertising Technology</strong>, <strong>Platform Portability</strong>, <strong>Advanced Development</strong>, and <strong>ML</strong>—with opportunities to go deep where you’re strongest. </li> <li> <strong>Global collaboration.</strong> Partner with experts across the US and internationally (including Cambridge) on cross-functional initiatives. </li> </ul> <p> </p> <h3> <strong>What you’ll be doing</strong> </h3> <ul> <li> <strong>Own a scoped project end-to-end:</strong> design, implement, test, and ship. </li> <li> <strong>Define, agree, and track KPIs</strong> that measure technical and business impact. </li> <li> <strong>Collaborate effectively</strong> across engineering, product, and partner teams to deliver outcomes. </li> <li> <strong>Share learnings</strong> broadly—write, demo, and document insights to level-up others. </li> <li> <strong>Leverage modern tech</strong> including innovative AI applications where relevant to your project. </li> </ul> <p> </p> <h3> <strong>You’ll thrive here if you have</strong> </h3> <ul> <li>Pursuing a <strong>MS preferred</strong> in Computer Science, Computer Engineering, Software Engineering, Mathematics, or a related technical field. </li> <li>Previous development internship experience. </li> <li>Strong fundamentals in <strong>data structures, algorithms, OOD</strong>, and systems design. </li> <li>Practical experience with one or more languages: <strong>C/C++</strong>, <strong>Python</strong>, <strong>Java</strong>, <strong>JavaScript/TypeScript</strong>, <strong>Go</strong>, <strong>Rust</strong>. </li> <li>Familiarity with web technologies (<strong>HTML/CSS</strong>, <strong>React</strong>, <strong>Angular</strong>, <strong>Node.js</strong>) and modern systems/tooling (<strong>Linux</strong>, <strong>Git</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>CI/CD</strong>). </li> <li>Awareness of or experience with generative AI tools (e.g., GitHub Copilot, OpenAI API) for enhancing development productivity. </li> <li>Familiarity with one or more machine learning frameworks like <strong>TensorFlow</strong>,<strong> Tensorflow Lite, TensorflowMicro</strong>, <strong>PyTorch</strong>, or <strong>scikit-learn</strong> through coursework or personal projects. </li> <li>Exposure to <strong>Cloud</strong> (AWS/Azure/GCP), <strong>Machine Learning</strong>, SDK/API design, and integration testing. </li> <li>Comfort with <strong>Agile</strong> and collaborative tools (<strong>JIRA</strong>, <strong>Confluence</strong>, <strong>GitHub</strong>). </li> <li>A builder’s mindset—<strong>creative</strong>, <strong>resilient</strong>, and <strong>proactive</strong> with a bias to ship. </li> <li>Demonstrated “real world” impact: shipped projects, prior internships, notable contributions (e.g., opensource, publications). </li> </ul> <p> </p> <h3> <strong>Program details</strong> </h3> <ul> <li> <strong>Duration:</strong> 12 weeks, Summer 2026 </li> <li> <strong>Locations:</strong> Boston, San Jose, New York, Austin (on-site expectations vary by team) </li> <li> <strong>Project matching:</strong> Based on your skills, interests, and team needs—clearly defined, challenging to complete, and easy to start. </li> <li> <strong>Career visibility:</strong> Understand what full-time life at Roku looks like through mentorship, collaboration, and showcasing your outcomes to engineering leaders and peers. </li> </ul> <p> </p> <p>For Massachusetts only - The estimated hourly rate for this position is between $28 - $62 annually. Compensation packages are based on factors unique to each candidate, including but not limited to skill set, certifications, and specific geographical location. This role is eligible for health insurance, equity awards, life insurance, disability benefits, parental leave, wellness benefits, and paid time off.</p> <p> </p> <h3> <strong>How to apply</strong> </h3> <ul> <li>Submit your resume and a brief note on the impact you want to make this summer. Include links to GitHub, portfolio, publications, or notable projects. </li> <li>Highlight the systems you’ve built, the decisions you owned, and the measurable outcomes you drove. </li> </ul> <p> </p> <p>Ready to build at streaming scale? Let’s talk. </p> <p> </p> <p>#LI-MS4</p><div class=\"content-conclusion\"> <p> </p> <h3><strong>Our Hybrid Work Approach</strong></h3> <p>Roku fosters an inclusive and collaborative environment where teams work in the office Monday through Thursday. Fridays are flexible for remote work except for employees whose roles are required to be in the office five days a week or employees who are in offices with a five day in office policy.</p> <p> </p> <h3><strong>Benefits</strong></h3> <p>Roku is committed to offering a diverse range of benefits as part of our compensation package to support our employees and their families. Our comprehensive benefits include global access to mental health and financial wellness support and resources. Local benefits include statutory and voluntary benefits which may include healthcare (medical, dental, and vision), life, accident, disability, commuter, and retirement options (401(k)/pension). Our employees can take time off work for vacation and other personal reasons to balance their evolving work and life needs. It's important to note that not every benefit is available in all locations or for every role. For details specific to your location, please consult with your recruiter.</p> <p> </p> <h3><strong>Accommodations</strong></h3> <p>Roku welcomes applicants of all backgrounds and provides reasonable accommodations and adjustments in accordance with applicable law. If you require reasonable accommodation at any point in the hiring process, please direct your inquiries to <a href=\"mailto:employeerelations@roku.com?subject=Job%20Application%20Accommodations\">EmployeeRelations@Roku.com</a>.</p> <p> </p> <h3><strong>The Roku Culture</strong></h3> <p>Roku is a great place for people who want to work in a fast-paced environment where everyone is focused on the company's success rather than their own. We try to surround ourselves with people who are great at their jobs, who are easy to work with, and who keep their egos in check. We appreciate a sense of humor. We believe a fewer number of very talented folks can do more for less cost than a larger number of less talented teams. We're independent thinkers with big ideas who act boldly, move fast and accomplish extraordinary things through collaboration and trust. In short, at Roku you'll be part of a company that's changing how the world watches TV. </p> <p>We have a unique culture that we are proud of. We think of ourselves primarily as problem-solvers, which itself is a two-part idea. We come up with the solution, but the solution isn't real until it is built and delivered to the customer. That penchant for action gives us a pragmatic approach to innovation, one that has served us well since 2002. </p> <p>To learn more about Roku, our global footprint, and how we've grown, visit <a href=\"https://www.weareroku.com/factsheet\">https://www.weareroku.com/factsheet</a>.</p> <p>By providing your information, you acknowledge that you want Roku to contact you about job roles, that you have read Roku's <a href=\"https://www.weareroku.com/roku-job-applicant-privacy-notice-for-job-applicants\">Applicant Privacy Notice</a>, and understand that Roku will use your information as described in that notice. If you do not wish to receive any communications from Roku regarding this role or similar roles in the future, you may unsubscribe at any time by emailing <a href=\"mailto:workforceprivacy@roku.com?subject=Unsubscribe%20Request%20\" target=\"_blank\">WorkforcePrivacy@Roku.com</a>.</p> </div>",
-      "job_apply_link": "https://www.weareroku.com/jobs/7460693?gh_jid=7460693",
-      "job_posted_at_datetime_utc": "2025-12-15T23:31:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "roku-software-engineer-boston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T07:41:39.581Z",
-    "postedAt": "2025-12-22T07:56:28.149Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Roku",
       "job_city": "Austin",
@@ -794,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:49:17.873Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T08:04:11.447Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:49:17.873Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T08:04:11.447Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:49:17.873Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T08:04:11.447Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T07:49:17.873Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T08:04:11.447Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "Freddie Mac",
       "job_city": "McLean",
       "job_state": "VA",
-      "job_description": "Join Freddie Mac in this exciting opportunity.",
+      "job_description": "At Freddie Mac, our mission of Making Home Possible is what motivates us, and it’s at the core of everything we do. Since our charter in 1970, we have made home possible for more than 90 million families across the country. Join an organization where your work contributes to a greater purpose.We will accept applications for this position until 2/16/2026.Position Overview:Want to create technology that matters while building your future and your professional network? If you’re getting your degree in Computer Science, Data Analytics or a related technology area and looking to get hands-on, skill-building experience with a leader in the financial technology industry, Freddie Mac’s Software Engineering and Data Internship program is for you! At Freddie Mac, you will do important work to build a better housing finance system and you’ll be part of a team helping to make homeownership and rental housing more accessible and affordable across the nation!Through this internship, you’ll build on the knowledge and skills acquired in your undergraduate education – while getting real-world technology and innovation experience and making lifelong connections. You will work with a dedicated team of data stack developers and analysts who provide design, development, testing and implementation support to the Trading Desks. This role will introduce secondary mortgage market, portfolio management and distressed asset disposition concepts.Our Impact:Freddie Mac’s Investments & Capital Markets Business Technology Office works closely with multiple Capital Markets Trading Desks to automate business processes, provide data analysis and dashboard development as well as technical direction to achieve business objectives.Your Impact:Software and Data Stack DevelopmentParticipate on project teams to develop innovative, high-quality software solutions in an Agile development environment.Sit with the business to understand their needs. Based on the specific need, design and build automated solutions or interactive dashboards/report.Review existing code and reports to provide new features or enhancements. Most of the existing code is SQL, Python, Tableau or Cloud analytics.Where applicable, propose process enhancements or changes to streamline execution and increase business value.Help build enhancements within existing applicationsSupport implementation of software application changesTeamwork and LearningLearn about the company’s business and how the Investments & Captial Markets Business Technology Office delivers business value.Participate in solving design and implementation challenges.Work closely with internal and external partners representing various groups across the organization.Build relationships and learn to connect with customers respectfully in a “partnership” style.Qualifications:Pursuing a Bachelor’s or Master’s degree in Computer Science, Data Analytics or a related technology areaGraduating in December 2026 or May 2027College-level experience with coding practices and languages (such as Python, SQL) and data visualization tools like Tableau.Excellent verbal and written communication skillsPassionate about software engineering and learning new technologiesKeys to Success in this Role:Technology-first approach, outstanding analytical skills, and drive for innovationWillingness to try new things, fail fast and learn fastAbility to work effectively and productively in a team or independentlyOutstanding communication skills, both written and verbalStrong Microsoft Office skillsMust be a teammate and able to work multi-functionallyInterns are paid at a set, non-negotiable hourly rate. The hourly rate for this role is $32/hour.Current Freddie Mac employees please apply through the internal career site.We consider all applicants for all positions without regard to gender, race, color, religion, national origin, age, marital status, veteran status, sexual orientation, gender identity/expression, physical and mental disability, pregnancy, ethnicity, genetic information or any other protected categories under applicable federal, state or local laws. We will ensure that individuals are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.A safe and secure environment is critical to Freddie Mac’s business. This includes employee commitment to our acceptable use policy, applying a vigilance-first approach to work, supporting regulatory mandates, and using best practices to protect Freddie Mac from potential threats and risk. Employees exercise this responsibility by executing against policies and procedures and adhering to privacy & security obligations as required via training programs.CA Applicants:  Qualified applications with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.Notice to External Search Firms: Freddie Mac partners with BountyJobs for contingency search business through outside firms. Resumes received outside the BountyJobs system will be considered unsolicited and Freddie Mac will not be obligated to pay a placement fee. If interested in learning more, please visit www.BountyJobs.com and register with our referral code: MAC.Time-type:Full timeFLSA Status:Non-ExemptFreddie Mac offers a comprehensive total rewards package to include competitive compensation and market-leading benefit programs. Information on these benefit programs is available on our Careers site. This position has an annualized market-based salary range of $54,000 - $82,000 . All interns positions are paid at an hourly rate, which can be found in the body of the job description.",
       "job_apply_link": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Software-Engineering-and-Data-Intern_JR16506",
       "job_posted_at_datetime_utc": "2025-12-15T23:20:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "freddie-mac-software-engineer-and-data-intern-mclean"
+      "id": "freddie-mac-software-engineer-and-data-intern-mclean",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T08:03:42.849Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Corsair",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join Corsair in this exciting opportunity.",
+      "job_description": "CORSAIR is looking for an analytical and creative Sales Ops Intern who is excited about taking data and transforming it into information that quickly leads to enhance decision making with logical and predictable outcomes. Utilize data to redefine the role of Sales Ops to provide a competitive advantage over our competitors. You will be a part of a transformation team defining the future of Sales Operations roles and support within the company.",
       "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8625",
       "job_posted_at_datetime_utc": "2025-12-15T23:19:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corsair-sales-operations-intern-data-analytics-milpitas"
+      "id": "corsair-sales-operations-intern-data-analytics-milpitas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T08:03:42.849Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "Corsair",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join Corsair in this exciting opportunity.",
+      "job_description": "We are seeking a highly motivated and detail-oriented HR Data Analytics Intern to join our Human Resources team. In this role, you will work closely with HR leadership and the HR Operations team to analyze employee data, ensure data integrity, and design dashboards that provide executives with clear visibility into workforce metrics. Ideal candidates are pursuing a degree in Data Science, Statistics, Business Analytics, or a related field, and are passionate about turning large datasets into actionable insights that drive business decisions.",
       "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8631",
       "job_posted_at_datetime_utc": "2025-12-15T23:19:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corsair-hr-insights-analytics-intern-milpitas"
+      "id": "corsair-hr-insights-analytics-intern-milpitas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T08:03:42.849Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Corsair",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join Corsair in this exciting opportunity.",
+      "job_description": "We’re seeking an AI Development Intern to support the creation and optimization of our AI initiatives. This role involves hands-on coding, vibe-coding, managing large-scale datasets, and contributing to existing codebases. Ideal candidates are curious, technically sharp, and comfortable working in fast-paced, experimental development environments.",
       "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8632",
       "job_posted_at_datetime_utc": "2025-12-15T23:19:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corsair-ai-development-intern-milpitas"
+      "id": "corsair-ai-development-intern-milpitas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T08:03:42.849Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "Corsair",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join Corsair in this exciting opportunity.",
+      "job_description": "CORSAIR is seeking a highly motivated Reverse Logistics Data Engineering Intern to help design and automate data solutions that power our returns and serialization processes. This hands-on internship offers experience in building scalable databases, streamlining workflows, and applying AI-driven tools to improve operational efficiency. You’ll gain exposure to reverse logistics and data engineering best practices while contributing to projects that enhance reporting, traceability, and automation across the business.",
       "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
       "job_posted_at_datetime_utc": "2025-12-15T23:19:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corsair-reverse-logistics-data-engineer-intern-milpitas"
+      "id": "corsair-reverse-logistics-data-engineer-intern-milpitas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T08:03:42.849Z",
     "postedAt": null
   },
   {
