@@ -8050,5 +8050,104 @@
     "sourceUrl": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b",
     "discordThreadId": "1450002325442658347",
     "instanceNumber": 1
+  },
+  {
+    "id": "microsoft-data-engineer-intern-redmond-2025-12-15-1",
+    "jobId": "microsoft-data-engineer-intern-redmond",
+    "company": "Microsoft",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2025-12-15T05:59:40.740Z",
+    "sourceDate": "2025-08-27T14:00:07.000Z",
+    "sourceUrl": "https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw",
+    "discordThreadId": "1450004353980170381",
+    "instanceNumber": 1
+  },
+  {
+    "id": "jane-street-cybersecurity-analyst-intern-new-york-2025-12-15-1",
+    "jobId": "jane-street-cybersecurity-analyst-intern-new-york",
+    "company": "Jane Street",
+    "title": "Cybersecurity Analyst Intern",
+    "postedToDiscord": "2025-12-15T05:59:45.545Z",
+    "sourceDate": "2025-08-27T13:59:01.000Z",
+    "sourceUrl": "https://www.janestreet.com/join-jane-street/position/8069279002/",
+    "discordThreadId": "1450004379674480803",
+    "instanceNumber": 1
+  },
+  {
+    "id": "tiktok-software-engineer-intern-ai-applications-san-jose-2025-12-15-1",
+    "jobId": "tiktok-software-engineer-intern-ai-applications-san-jose",
+    "company": "TikTok",
+    "title": "Software Engineer Intern - AI Applications",
+    "postedToDiscord": "2025-12-15T05:59:47.454Z",
+    "sourceDate": "2025-08-27T03:08:19.000Z",
+    "sourceUrl": "https://lifeattiktok.com/search/7540823204350527752",
+    "discordThreadId": "1450004387253715098",
+    "instanceNumber": 1
+  },
+  {
+    "id": "analog-devices-algorithm-engineer-intern-boston-2025-12-15-1",
+    "jobId": "analog-devices-algorithm-engineer-intern-boston",
+    "company": "Analog Devices",
+    "title": "Algorithm Engineer Intern",
+    "postedToDiscord": "2025-12-15T05:59:53.856Z",
+    "sourceDate": "2025-08-27T07:35:44.000Z",
+    "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Algorithm-Engineer-Intern_R255043",
+    "discordThreadId": "1450004407717593244",
+    "instanceNumber": 1
+  },
+  {
+    "id": "analog-devices-machine-learning-intern-boston-2025-12-15-1",
+    "jobId": "analog-devices-machine-learning-intern-boston",
+    "company": "Analog Devices",
+    "title": "Machine Learning Intern",
+    "postedToDiscord": "2025-12-15T05:59:57.196Z",
+    "sourceDate": "2025-08-27T07:35:39.000Z",
+    "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern_R255268",
+    "discordThreadId": "1450004421835620372",
+    "instanceNumber": 1
+  },
+  {
+    "id": "analog-devices-machine-learning-intern-phd-boston-2025-12-15-1",
+    "jobId": "analog-devices-machine-learning-intern-phd-boston",
+    "company": "Analog Devices",
+    "title": "Machine Learning Intern - PhD",
+    "postedToDiscord": "2025-12-15T05:59:57.203Z",
+    "sourceDate": "2025-08-27T07:35:35.000Z",
+    "sourceUrl": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Machine-Learning-Intern--PhD-_R255001",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-san-jose-2025-12-15-1",
+    "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-supply-chain-logistics-san-jose",
+    "company": "ByteDance",
+    "title": "Machine Learning Engineer Intern - E-commerce-Supply Chain & Logistics",
+    "postedToDiscord": "2025-12-15T05:59:58.952Z",
+    "sourceDate": "2025-08-27T03:02:40.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7540409121163839751/detail",
+    "discordThreadId": "1450004435844599939",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-machine-learning-engineer-intern-e-commerce-knowledge-graph-cv-multimodal-nlp-bs-ms-seattle-2025-12-15-1",
+    "jobId": "bytedance-machine-learning-engineer-intern-e-commerce-knowledge-graph-cv-multimodal-nlp-bs-ms-seattle",
+    "company": "ByteDance",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph - CV/Multimodal/NLP - BS/MS",
+    "postedToDiscord": "2025-12-15T06:00:00.630Z",
+    "sourceDate": "2025-08-27T03:02:40.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7543005612200970503/detail",
+    "discordThreadId": "1450004443016724492",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-machine-learning-engineer-intern-global-e-commerce-risk-control-phd-seattle-2025-12-15-1",
+    "jobId": "bytedance-machine-learning-engineer-intern-global-e-commerce-risk-control-phd-seattle",
+    "company": "ByteDance",
+    "title": "Machine Learning Engineer Intern - Global E-commerce Risk Control - PhD",
+    "postedToDiscord": "2025-12-15T06:00:02.481Z",
+    "sourceDate": "2025-08-27T03:02:15.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7535951608832657682/detail",
+    "discordThreadId": "1450004450021216257",
+    "instanceNumber": 1
   }
 ]
