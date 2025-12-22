@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T11:17:32.892Z",
+  "lastUpdated": "2025-12-22T11:29:03.356Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9868,14 +9868,69 @@
       "sourceUrl": "https://careers-iridium.icims.com/jobs/4753/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452621061907677285",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-software-engineer-autonomous-robot-mountain-view-2025-12-22-1",
+      "jobId": "general-motors-intern-software-engineer-autonomous-robot-mountain-view",
+      "company": "General Motors",
+      "title": "Intern - Software Engineer - Autonomous Robot",
+      "postedToDiscord": "2025-12-22T11:28:45.286Z",
+      "sourceDate": "2025-12-19T19:47:29.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--Masters-Degree-_JR-202524731",
+      "discordThreadId": "1452623881654239252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-machine-learning-engineer-map-enhancements-austin-2025-12-22-1",
+      "jobId": "general-motors-intern-machine-learning-engineer-map-enhancements-austin",
+      "company": "General Motors",
+      "title": "Intern - Machine Learning Engineer - Map Enhancements",
+      "postedToDiscord": "2025-12-22T11:28:49.089Z",
+      "sourceDate": "2025-12-19T19:47:18.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--PhD-_JR-202524566",
+      "discordThreadId": "1452623896879694050",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-motors-intern-map-enhancements-austin-2025-12-22-1",
+      "jobId": "general-motors-intern-map-enhancements-austin",
+      "company": "General Motors",
+      "title": "Intern - Map Enhancements",
+      "postedToDiscord": "2025-12-22T11:28:52.533Z",
+      "sourceDate": "2025-12-19T19:47:15.000Z",
+      "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--Masters-_JR-202524669",
+      "discordThreadId": "1452623912599945357",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-fidelity-data-science-intern-oklahoma-city-2025-12-22-1",
+      "jobId": "american-fidelity-data-science-intern-oklahoma-city",
+      "company": "American Fidelity",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-22T11:28:59.267Z",
+      "sourceDate": "2025-12-19T19:46:15.000Z",
+      "sourceUrl": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Science-Intern_JR373",
+      "discordThreadId": "1452623940219437201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "global-partners-data-science-intern-waltham-2025-12-22-1",
+      "jobId": "global-partners-data-science-intern-waltham",
+      "company": "Global Partners",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-22T11:29:03.355Z",
+      "sourceDate": "2025-12-19T19:42:15.000Z",
+      "sourceUrl": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Science-Intern_R0029914",
+      "discordThreadId": "1452623955255885850",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 897,
+    "totalJobs": 902,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T11:17:32.892Z",
+      "date": "2025-12-22T11:29:03.356Z",
       "archived": 0
     }
   }

@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "2026 Summer Internships",
-      "employer_name": "International Mission Board",
-      "job_city": "Richmond",
-      "job_state": "VA",
-      "job_description": "The International Mission Board, a nonprofit religious organization based in Richmond, Virginia, is excited to offer internship opportunities for the Summer 2026 Internship Program at our Richmond headquarters!Dates: May 26th to July 31st, 2026Location: Richmond, Virginia Rate: $20.50/hourWe have 16 diverse areas available for interns, as listed below. We seek candidates who are eager for a professional-level experience, with the ability to work independently and collaborate with various teams.This paid internship program offers college students an excellent opportunity to gain valuable work experience directly related to their field of study.We have the following opportunities:Global Security Operations Monitor Intern – You will detect, analyze, and alert others regarding any adverse conditions that could impact personnel or operations. These may range from extreme weather conditions to political instability, crime, terror, or technical failures. The GSOC monitor also collects, analyzes, and summarizes incident and activity data reported by personnel to the GSOC during their shift. Multimedia Intern – You will work across the disciplines of photography, videography, and graphic design to learn from and meaningfully contribute to the Creative Services team. Other duties will include photo and video tagging, file management, and completing skills training as assigned.   IT Project Management Intern – You will assist the Product Management and Strategy team on managing and monitoring IT projects. You will also participate in the planning, implementation, and delivery of IT solutions, and will collaborate closely with business product teams on product improvements. Information Security Analyst Intern – You will play a key role in safeguarding enterprise systems and data in alignment with the organization’s global mission objectives. This role will assist with the implementation and monitoring of security controls to protect information assets across diverse, decentralized, and cross-cultural environments. You will also support incident response activities by identifying, documenting, and analyzing potential security threats and vulnerabilities. In addition, you will collaborate with technical and ministry teams to embed secure practices into systems and workflows, with a strong focus on supporting field operations and advancing global outreach initiatives. Training Intern – You will help create and deliver training resources for personnel while supporting the training team with project-oriented and clerical tasks. You must understand basic learning and communication principles and best practices.  Requirements:Actively enrolled in a four-year collegeAbility to live in Richmond throughout the program’s durationEffective written and verbal communication skills Detail-oriented, results-driven, and the ability to work independently Ability to multitask in a fast-paced environmentIMB’s vision comes from Revelation 7:9-10: “a multitude from every nation, tribe, people and language knowing and worshiping our Lord Jesus Christ.” Our mission is ‌to serve Southern Baptists in carrying out the Great Commission to make disciples of all nations. Fulfilling this vision and mission is a team effort and could not happen without the U.S.-based staff serving on a variety of teams like finance, logistics and church mobilization.Working at the IMB is a call to ministry. It is an opportunity for you to use your gifts and skills to support the global mission and make an eternal impact. If you feel called to utilize your skills in support of this mission and to develop your career, consider the possibility of joining our team this summer. Worker Type: EmployeeIntern (Fixed Term)Time Type:Full time",
-      "job_apply_link": "https://golimitless.wd1.myworkdayjobs.com/Staff_External_career_site/job/Richmond-Virginia/XMLNAME-2026-Summer-Internships_R0013756",
-      "job_posted_at_datetime_utc": "2025-10-28T16:12:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "international-mission-board-2026-summer-internships-richmond",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:55:49.210Z",
-    "postedAt": "2025-12-22T11:17:35.904Z"
-  },
-  {
-    "job": {
-      "job_title": "Cloud Secure Intern - Data Ingestion - Analytics & Security",
-      "employer_name": "Illumio",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Onwards Together! Illumio is the leader in ransomware and breach containment, redefining how organizations contain cyberattacks and enable operational resilience. Powered by the Illumio AI Security Graph, our breach containment platform identifies and contains threats across hybrid multi-cloud environments – stopping the spread of attacks before they become disasters. Recognized as a Leader in the Forrester Wave™ for Microsegmentation, Illumio enables Zero Trust, strengthening cyber resilience for the infrastructure, systems, and organizations that keep the world running. This is a 12 week internship program beginning on May 26th 2026 or June 22nd 2026 Location: Onsite 5 day's a week at Headquarters in Sunnyvale, CA Our Team's Vision: Illumio’s Cloud Secure team builds and operates the data backbone that powers our AI-driven Security Graph — a system that maps the world’s most complex cloud environments in real time. We ingest and process petabytes of cloud metadata and network flow logs from AWS, Azure, GCP, and OCI cloud environments using high throughput streaming applications. This data fuels our graph analytics and Zero Trust segmentation engine, giving customers deep visibility and precise control across billions of workloads. Our SaaS platform spans multi-cloud environments and leverages a modern tech stack of Golang, Kafka, Neo4j, Postgres, and advanced data lake technologies that are all containerized and orchestrated at scale. As an intern, you’ll work at the intersection of large-scale data engineering, distributed systems, and cybersecurity analytics, contributing to systems that help secure the world’s most critical workloads. What You'll Do: Design, implement, and test features within large-scale data ingestion and analytics pipelines that handle streaming telemetry across multi-cloud environments Contribute to the AI-powered Security Graph, experimenting with data models and graph queries that enrich cloud visibility Collaborate with engineers to optimize performance, reliability, and cost efficiency across Kafka, Neo4j, and Postgres-backed services Develop dashboards and automation for data health, ingestion latency, and observability metrics Explore new ways to extract insights from flow data, using data lakes and analytics frameworks to uncover behavioral patterns Document and share technical findings and impact metrics with engineering and product teams to support data-driven decision-making Your Tool Kit: Currently enrolled in a full time Bachelor’s or Master’s degree program in Computer Science, Software Engineering, or a related field, with an expected graduation date in Winter 2026/Spring2027 Strong coding skills in Golang, Python, or Java, and an understanding of data structures and distributed system design Curiosity about AI applications in cybersecurity, graph analytics, and streaming data pipelines Familiarity with Kafka, Kubernetes, and cloud services (AWS, Azure, GCP) A growth mindset, strong analytical thinking, and enthusiasm for tackling scale challenges What You'll Gain: Experience operating in multi-cloud, petabyte-scale environments that power real-time cybersecurity analytics Hands-on exposure to streaming data systems, graph databases, and data lake architectures Mentorship from engineers building one of the industry’s most advanced cloud visibility and segmentation platforms A capstone opportunity to design, implement, and demo a project that has a measurable impact on data scale, efficiency, or insight generation Our Commitment: Illumio believes that an environment of unique backgrounds, experiences, viewpoints, and individual contributions drives our success and makes us stronger together. We are dedicated to creating and maintaining a diverse culture and emphasizing inclusion and belonging. #LI-PO #LI-ONSITE All official job offers from our company are extended directly by our recruitment team and will be sent through an official E-Signature document for your review and signature. Please be aware that we do not ask for any personal information in the process of extending offers of employment, such as financial details or social security numbers. Upon acceptance of any offer, we will request such information as part of the onboarding process prior to or on your first day of employment, and only after completing a background check through an authorized third-party vendor. If you receive any communication asking for personal details outside of these processes, please contact us immediately to verify the authenticity of the request. Your security is important to us, and we are committed to a safe and transparent hiring experience. For roles in San Francisco and Los Angeles: Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Illumio will consider for employment qualified applicants with arrest and conviction records.",
-      "job_apply_link": "https://jobs.ashbyhq.com/illumio/438be07e-61e0-4e09-82a8-909004e0ef03/application",
-      "job_posted_at_datetime_utc": "2025-10-17T03:14:28.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:55:49.210Z",
-    "postedAt": "2025-12-22T11:17:35.904Z"
-  },
-  {
-    "job": {
-      "job_title": "Sales Analytics Intern",
-      "employer_name": "Mercury Insurance",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "<h2>Overview</h2> <p><strong>Position Summary:</strong></p> <p>Mercury Ignite. Your launchpad to a brighter career. Our summer internship program is a 12-week paid internship designed to allow students to gain practical work experience in the Insurance field. The program will be highly collaborative and immersive, with interns working on real business problems that can span multiple business units within the complex insurance landscape. But it won’t be all work! Mercury executives will host virtual lunch-and-learns with a small group of interns to discuss career aspirations, interns will get to meet Mercury people leaders and team members throughout the organization, and there will be a multitude of virtual social events.</p> <p>&nbsp;</p> <h2>Geo-Salary Information</h2> <p><em><strong>An in person interview may be required during the hiring process.&nbsp;</strong></em></p> <h2>Responsibilities</h2> <p><strong>Essential Job Functions:</strong></p> <p>&nbsp;</p> <ul> <li>Pull, cleanse data, develop analytics views to answer key business questions, provide actionable insights to Sales leadership and the field (e.g., business/sales planning, initiative monitoring, territory management, performance analytics, multi-rater, compensation analytics)</li> <li>Analyze sales performance and compensation data to support modeling, forecasting, A/B tests, and post‑program monitoring.</li> <li>Conduct data quality checks and reconcile data across sources to ensure high accuracy and trust in reporting.</li> <li>Support ad‑hoc analyses on topics such as territory planning, new business growth, and channel/agent effectiveness.</li> <li>Translate analytical findings into clear narratives, visuals, and recommendations for business stakeholders.</li> <li>Collaborate with Sales, Product, and Data Science partners to align analytics with business priorities.</li> <li>Prepare a capstone presentation that summarizes methods, insights, and recommendations.</li> </ul> <h2>Qualifications</h2> <p><strong>Education Requirements:</strong></p> <p>&nbsp;</p> <ul> <li>Be legally eligible to work in the U.S</li> <li>Currently pursuing a Bachelor’s degree in Business, Economics, Statistics, Data Science, Analytics, or related field.</li> <li>Able to provide current GPA, as reported by your school. Minimum 3.0 GPA required, 3.5 or higher preferred.</li> <li>Ability to work 40 hours a week, 12-week internship, beginning June 2026.</li> <li>Enrolled student attending a university program with an expected graduation date on or after August 2025</li> <li>Planning to seek full-time employment between December 2026 and September 2027</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Experience:</strong></p> <ul> <li>Junior or Senior standing; coursework in data analysis, statistics, or business analytics.</li> <li>Prior internship, co op, or project experience in analytics, sales operations, or business intelligence.</li> <li>Solid track record of academic excellence.</li> <li>Strong commitment to teamwork, learning and collaboration.</li> </ul> <p><strong>Preferred Skills &amp; Abilities:</strong></p> <p>&nbsp;</p> <ul> <li>Proficiency with Excel/Sheets; familiarity with SQL; comfort with data visualization (Power BI, Retool or Tableau); strong communication and storytelling with data; high attention to detail; desire to learn and take initiative.</li> <li>Experience with A/B testing methods; basic understanding of sales compensation concepts; experience building dashboards; familiarity with sales data.</li> </ul> <p>&nbsp;</p> <h2>Physical Requirements</h2> <p><strong>Physical Actions:</strong>&nbsp;</p> <p>Required job duties are essentially sedentary in nature, consisting of occasional walking, standing, lifting and/or carrying ten pounds maximum.</p> <h2>About the Company</h2> <p>#LI-TG1</p> <h2>Perks and Benefits</h2> <p><strong>Why a Mercury Ignite internship</strong></p> <ul> <li>Obtain practical work experience in your field of interest</li> <li>Network with other interns and industry professionals</li> <li>Receive personalized coaching and mentorship</li> <li>Work on real projects and initiatives</li> <li>Earn a competitive wage</li> </ul> <p>If you’re interested in launching your career with Mercury Insurance - Apply today!</p> <p>&nbsp;</p> <p><strong>Mercury is an equal opportunity employer, committed to the strength of a diverse workforce.</strong></p> <h2>Pay Range</h2>USD $25.00 - USD $25.00 /Hr.",
-      "job_apply_link": "https://careers-mercuryinsurance.icims.com/jobs/5924/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-04T20:01:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mercury-insurance-sales-analytics-intern-remote-in-usa",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:55:49.210Z",
-    "postedAt": "2025-12-22T11:17:35.904Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern - Multiple Teams",
-      "employer_name": "Iridium Communications",
-      "job_city": "McLean",
-      "job_state": "VA",
-      "job_description": "<h2>Company Overview</h2> <p>Iridium is an award-winning and innovative satellite communications company with bragging rights to the only network that offers voice and data connectivity anywhere in the world.&nbsp;&nbsp; For over 20 years, Iridium’s unique network and services have supported critical communications needs for individuals, businesses, and the evolving Internet of Things.</p> <p>&nbsp;</p> <p>At Iridium, we understand the importance of staying connected and the limitations of traditional communications networks. People across the globe, including first responders, humanitarians, global militaries, scientific researchers, and lone workers, as well as ships, aircraft and remote operations all rely on Iridium to stay connected. We take our responsibility for providing these essential communications very seriously and pride ourselves on offering a reliable lifeline when needed.&nbsp; Likewise, Iridium is committed to providing an exciting and innovative workplace, where employees are challenged to think outside the box and collaborate on new, bold ideas and solutions.&nbsp; Our talented teams are passionate about their work and the impact our company makes around the world.&nbsp; Iridium fosters an empowering and inclusive culture that allows employees to genuinely be their best selves.&nbsp;&nbsp; We are looking for others who want to join this truly unique company that celebrates our employees and provides the opportunity to truly make a difference in the world.</p> <h2></h2> <h2>What We’re Looking For:</h2> <p>The Iridium Internship Program provides students the opportunity to support teams driving the future of satellite communications. Interns in Software Engineering gain hands-on experience developing, testing, and deploying software that powers Iridium’s satellite network, ground systems, and global products and services. You’ll collaborate with engineers and technical staff to design tools, automate processes, and build applications that enhance performance, reliability, and efficiency across Iridium’s network and connected products and solutions.</p> <p>&nbsp;</p> <p>As an Intern, you’ll begin making an impact on real projects from day one! Come prepared to grow, develop, and learn alongside a team and the leaders of our company. The Iridium Internship&nbsp;program is a 12-week program that runs from May 18,2026 to August 7,2026.&nbsp;</p> <h2>What You’ll Do:</h2> <p>Projects are aligned with your academic background, technical interests, and the needs of our teams, and may include:</p> <ul> <li>Developing new software features and services, and maintaining or enhancing existing applications and libraries</li> <li>Assisting with architecture, design, coding, testing, and documentation within an Agile/Scrum team</li> <li>Participating in daily stand-ups, sprint planning, backlog refinement, and sprint reviews</li> <li>Gathering requirements and collaborating with stakeholders to design effective solutions</li> <li>Ensuring software meets quality standards through unit and integration testing</li> <li>Maintaining and extending key applications, including GUI frameworks, web applications, and Python/C++ utilities for data management and analysis</li> <li>Developing scripts, simulators, or software tools using Python, Java, or C to support testing and analysis</li> <li>Assisting with simulation, emulation, and verifying performance across Iridium satellite devices and transceivers</li> <li>Participating in code reviews and contributing to automation frameworks for Iridium services and devices</li> <li>Developing scalable, high-performance software and leveraging open-source solutions where appropriate</li> </ul> <h2>Skill You'll Gain:</h2> <ul> <li>Hands-on experience developing software that supports Iridium’s satellite communications system and services</li> <li>Knowledge of object-oriented programming and the full software development lifecycle</li> <li>Exposure to RF design, simulation, and evaluation processes</li> <li>Experience collaborating with team members to implement, build, verify, and troubleshoot software</li> <li>Exposure to modern development tools and workflows, including Jira, GitLab, and Confluence</li> <li>Understanding and application of software engineering best practices to create reliable, maintainable code</li> <li>Understanding how products and services are conceptualized, evaluated, and transitioned into operational functionality</li> <li>Participation in an Agile/Scrum development team working with Python, C, C++, and Java</li> </ul> <h2></h2> <h2>What You’ll Need to Succeed:</h2> <ul> <li>Interest in software development, product development, and a strong foundation in software engineering concepts, including object-oriented programming, data structures, and algorithms</li> <li>Strong work ethic, positive attitude, and professional demeanor</li> <li>Excellent verbal and written communication skills</li> <li>Ability to work independently and collaboratively in a team</li> <li>Attention to detail and commitment to high-quality results</li> </ul> <h2>Things You <em>Must</em> Bring to the Table:</h2> <ul> <li>Must be at least 18 years of age</li> <li>Currently enrolled in a bachelor’s or graduate degree program at an accredited academic institution</li> <li>Software Engineering, Computer Science, Information Technology, or Data Science/Applied Mathematics preferred</li> <li>U.S. citizenship required</li> <li>Must be able to work in person at an Iridium location</li> </ul> <h2></h2> <h2>Work Environment:</h2> <p>This position primarily works in an office setting and is largely sedentary with the majority of the position working with a computer. The role typically requires the use of basic office equipment such as a phone, video, computer, keyboard, mouse, and printer.&nbsp;</p> <p>&nbsp;</p> <p><strong>Iridium is an Equal Opportunity Employer, including individuals with disabilities and protected veterans.</strong></p>",
-      "job_apply_link": "https://careers-iridium.icims.com/jobs/4753/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-25T08:25:40.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "iridium-communications-software-engineering-intern-multiple-teams-mclean",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T18:59:19.911Z",
-    "enrichedAt": "2025-12-22T10:55:49.210Z",
-    "postedAt": "2025-12-22T11:17:35.904Z"
-  },
-  {
-    "job": {
-      "job_title": "AI/ML Engineering Intern",
-      "employer_name": "KLA",
-      "job_city": "Milpitas",
-      "job_state": "CA",
-      "job_description": "Join KLA in this exciting opportunity.",
-      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern_2532391-1",
-      "job_posted_at_datetime_utc": "2025-11-24T23:17:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kla-ai-ml-engineering-intern-milpitas",
-      "description_platform": "workday",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T19:43:48.065Z",
-    "enrichedAt": "2025-12-22T10:55:49.210Z",
-    "postedAt": "2025-12-22T11:17:35.904Z"
-  },
-  {
-    "job": {
       "job_title": "Intern - Software Engineer - Autonomous Robot",
       "employer_name": "General Motors",
       "job_city": "Mountain View",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T11:29:06.368Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T11:29:06.368Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T11:29:06.368Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T11:29:06.368Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T11:29:06.368Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "Motorola",
       "job_city": "Waltham",
       "job_state": "MA",
-      "job_description": "Join Motorola in this exciting opportunity.",
+      "job_description": "Company Overview​At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future. Department OverviewMissions and Insights team - CAPE Aerial Telepresence provides industry-leading software for remote drone operation, live video streaming, and evidence capture. Learn more at CAPE.com.Job DescriptionThe Missions and Insights team is looking for a Full Stack Engineer intern for our team in Boston.  This is an excellent opportunity to join a small, multidisciplinary team with a critical skillset.  You will directly contribute to the full lifecycle of projects, including https://www.cape.com/ and more.Scope of ResponsibilitiesContribute to frontend (Angular) and backend (Python/Django) architecture, development, and testing.  Perform code reviews and Maintain CI/CD pipelines, production environments, and documentation.Qualifications:Working towards Bachelor's or Master's degree in Computer Science, Computer Engineering, or a related technical disciplineExperience in Python is required, building RESTful APIs and Microservices using Django or Flask.Strong web application development using Angular or React.Experience with relational databases such as Postgres, SQLite, MySQL.Familiarity with Azure, AWS or GCP cloud infrastructure.Experience with Continuous Integration and Continuous Deployment (CI/CD), writing and maintaining unit tests, and environment configuration.Highly self-motivated with a desire to explore new approaches and technologies.Strong written and verbal communication skills.Must be a U.S. CitizenA strong candidate may also experience working with: DevOps (tracking, pipelines) and Git (source control, code reviews).video/data streaming, handling data files, and analytics libraries.clustering, tracking, and pathfinding algorithms or machine learning libraries.This position is subject to working in high security areas governed by the US Department of Justice's \"Criminal Justice Information Services (CJIS) Security Policy\" and therefore requires successfully passing a more stringent fingerprint background check administered by Motorola Solutions Inc. customers.#LI-RS1Basic RequirementsMust be pursuing a Bachelor's, Master's, or Doctoral degree in Software Engineering, Computer Science, or a similar field and graduating December 1st, 2026 or laterMust be a U.S. CitizenMust be able to obtain background clearance as required by government customer.Travel RequirementsUnder 10%Relocation ProvidedNonePosition TypeExperiencedEEO StatementMotorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic. We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please complete this Reasonable Accommodations Form so we can assist you.",
       "job_apply_link": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Full-Stack-Software-Engineer-Intern---Summer-2026-Internship_R60172",
       "job_posted_at_datetime_utc": "2025-12-19T23:50:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "motorola-full-stack-software-engineer-intern-summer-2026-internship-waltham"
+      "id": "motorola-full-stack-software-engineer-intern-summer-2026-internship-waltham",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T11:28:32.564Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Armanino",
       "job_city": "Culver City",
       "job_state": "CA",
-      "job_description": "Join Armanino in this exciting opportunity.",
+      "job_description": "The Opportunity Armanino is proud to be Among the top 20 Largest Firms in the Nation and one of the Best Places to Work. We have a community of resources that are ready and willing to support your ideas, build your skills and expand your professional network. We want you to integrate all aspects of your life with your career. At Armanino, we know you don’t check out of life when you check-in at work. That’s why we’ve created a unique work environment where your passions, work, and family & friends can overlap. We want to help you achieve growth by giving you access to a network of smart and supportive people, willing to listen to your ideas. You will gain hands-on experience working alongside professionals at all levels that will provide you with insight into the field of AI Development. Your internship will give you the same exposure to Armanino as our AI Developer, while participating in interactive and engaging programming. During your time interning with us, you'll also have the opportunity to participate in trainings and activities to boost your skills and engagement. 90% project work / individual work10% internal meetings 100% continued learning Job Responsibilities Support the automation team in scoping, designing, and assisting with the delivery of integration, automation, and data analytics solutions.Learn to identify appropriate technologies and architectures to support evolving project and business needs.Assist in documenting requirements, test plans, and design specifications to ensure clarity and consistency.Contribute to the design and development of automation and data integration workflows under guidance.Participate in testing and validation efforts to help ensure reliability and scalability of solutions.Research and explore emerging technologies that could enhance automation and analytics capabilities.Collaborate with cross-functional teams to help build smarter, more connected systems that support both internal teams and clients.RequirementsMust be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the futurePreferred RequirementsCurrent enrollment in a bachelor's or master’s program in Data Science and/or Artificial Intelligence with a graduation date between December 2026 – August 2027 strongly preferred.“Armanino” is the brand name under which Armanino LLP, Armanino CPA LLP, and Armanino Advisory LLC, independently owned entities, provide professional services in an alternative practice structure in accordance with law, regulations, and professional standards. Armanino LLP and Armanino CPA LLP are licensed independent CPA firms that provide attest services, and Armanino Advisory LLC and its subsidiary entities provide tax, advisory, and business consulting services. Armanino Advisory LLC and its subsidiary entities are not licensed CPA firms.Armanino provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Armanino complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.     Armanino expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Armanino employees to perform their job duties may result in discipline up to and including discharge.   Armanino does not accept unsolicited candidates, referrals, or resumes from any staffing agency, recruiting service, sourcing entity, or third-party paid service at any time. Any referrals, resumes, or candidates submitted to Armanino or any employee or owner of Armanino without a pre-existing agreement signed by both parties covering the submission will be considered the property of Armanino and not subject to any fees or charges. For existing agreements, a role must be approved and open to external search; otherwise, unsolicited and unapproved submittals and referrals will be considered Armanino property and free of fees. In addition, Talent Acquisition is the sole point of contact, and contacting others in our organization without Talent Acquisition’s knowledge will result in termination of contract.    Certain states require us to disclose the pay range and benefits summary for job openings. The compensation range for this position: $32.00/hr. Compensation may vary based on skills, role, and location. Eligible employees at certain levels can participate in a discretionary long-term financial incentive plan, subject to plan participation rules.  Armanino has a robust offering of benefits, including:  Medical, dental, vision Generous PTO plan and paid sick time Flexible work arrangements 401K with Profit Sharing Wellness program Generous parental leave 11 paid holidays For positions based in San Francisco, consistent with the SF Fair Chance Ordinance, an arrest and conviction record will not automatically disqualify a qualified applicant from consideration.     For Individuals who would be working within the City of Los Angeles, Armanino will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring Ordinance  To view our Consumer Notice at Collection for job applicants, please visit: https://www.armanino.com/terms/ccpa-employee-notice/ Uniquely Armanino",
       "job_apply_link": "https://armaninollp.wd1.myworkdayjobs.com/en-US/Armanino/job/Century-City-California/Summer-2026---AI-Intern--Century-City-_JR103406",
       "job_posted_at_datetime_utc": "2025-12-19T23:49:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "armanino-summer-2026-ai-intern-century-city-culver-city"
+      "id": "armanino-summer-2026-ai-intern-century-city-culver-city",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T11:28:32.564Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "ASML",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join ASML in this exciting opportunity.",
+      "job_description": "Introduction to the jobASML US brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, Hillsboro Oregon, Dallas Texas, and Lehi Utah. The Customer Support (CS) Applications organization is responsible for ensuring our customers utilize ASML’s hardware and software products to their maximum value in performance and throughput to meet their needs. Your AssignmentThe goal of the internship is to work in a team environment alongside local experienced engineers, project managers, and leaders to gain insight on the ASML ways of working and our groundbreaking technology.Specific projects will be tailored to match the education/experience level of the intern as well as the interns learning objectives for the summer.Interns will typically be required to document and present their findings as well as making an end of summer presentation to the group about what they achieved during their internship. Past projects have included:Identifying and documenting goals and targets (KPIs).Evaluating current processes and updating documentation to adhere to continuous improvement methodologies (LEAN/6 Sigma).Creating data visualizations to identify potential opportunities for automation (Tableau/Power BI/Python).Collaborating with Engineers from other areas and shifts to identify Best Known Methods (BKMs).Participating in projects to improve performance of the FAB. Education and experienceMust be enrolled in a Masters or PhD program at the time of the internship.Preferred Majors: Physics, Optics, Electronics, Micro-electronics, Mechanical Engineering, Material Science Engineering, Computer Science, Electrical Engineering, Chemical Engineering or IC manufacturing.Minimum 6 months experience with MATLAB, Python, or equivalent data analysis software.You are able to clearly communicate status and progress of a project to the engineering and management team.You thrive in frequent collaboration with our teams and customers.SkillsWorking at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way to do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.  To thrive in this job, you’ll need the following skills: Can observe and respond to people and situations and interact with others encountered in the course of work.   Can learn and apply new information or skills.  Must be able to read and interpret data, information, and documents. Strong customer focus and commitment to customer satisfaction through prioritization, quality, efficiency and professionalism. Ability to complete assignments with attention to detail and high degree of accuracy.  Proven ability to perform effectively in a demanding environment with changing workloads and deadlines.  Result driven-demonstrate ownership and accountability. Identifies bottlenecks and drives improvements. Work independently or as part of a team and follow through on assignments with minimal supervision.  Demonstrate open, clear, concise and professional communication. Ability to establish and maintain cooperative working relationships with manager, co-workers and customer.  Work according to a strict set of procedures within the provided timelines.  Other informationRoutinely required to sit; walk; talk; hear; use hands to keyboard. Occasionally required to move around the campus. Will require domestic travel as part of program closeout and presentationRequired vision to be able to read a computer screenLegal/export license control (see below)Will require domestic travel as part of program closeout and presentationThis position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
       "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Applications-Engineer-Internship_J-00330552",
       "job_posted_at_datetime_utc": "2025-12-19T23:41:47.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "asml-applications-engineer-internship-dallas"
+      "id": "asml-applications-engineer-internship-dallas",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T11:28:32.564Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "ASML",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ASML in this exciting opportunity.",
+      "job_description": "IntroductionASML is seeking a summer intern in Materials Science, Chemistry, Physics, Mechanical Engineering, or a related field, to join the Defectivity Group in the Wilton, CT location.  Within ASML, the Development & Engineering (D&E) sector is responsible for the specification and design of ASML products. The Defectivity group is responsible for creating the perfect environment within the vacuum reticle modules in cutting edge EUV lithography machines. We take many approaches, such as designing the gas flow in vacuum, choosing the correct materials and designing cleanliness processes. As ASML pushes the boundaries of nanotechnology beyond current state of the art, we need to study nanoparticle behavior in new ways. We are looking for someone to help pioneer knowledge in this developing areaJob MissionAs an Algorithm Engineering Intern, you will design, realize, and improve the efficiency of ASML computational lithography software tools.Your AssignmentTo develop major features and improvements for the widely used computational lithography verification softwareTo help boost product performanceTo develop geometry operation libraryTo support module integrationTo build advanced tools for defect inspection and predictionOther duties as assignedNo lab or cleanroom accessEducation and ExperienceCurrently pursing Master Degree  a Master/PhD degree in engineering fieldProgramming with C++Understanding in data structures and algorithmsFamiliar with SQL, UNIX environment and scripting languagesEffective communication skillsProblem solving skillsThe current base annual salary range for this role is currently $18.00  -  $57.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
       "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Algorithm-Engineering-Intern_J-00327995",
       "job_posted_at_datetime_utc": "2025-12-19T23:41:41.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "asml-internship-algorithm-engineering-intern-san-jose"
+      "id": "asml-internship-algorithm-engineering-intern-san-jose",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T11:28:32.564Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "ASML",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ASML in this exciting opportunity.",
+      "job_description": "Introduction to the jobASML US brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.We are currently recruiting for an internship located at our office in San Jose.Your AssignmentBe responsible to turn general requirement definitions into functioning modules.Develop and test the algorithms independently.Analyze and improve software performance and efficiency.Other duties as assigned.Job description subject to change at any time.Education and experienceEducation:Student in pursuing advanced degree in Computer Science, Electrical Engineering, Mathematics, Applied Mathematics, Physics, Applied Physics, or any related engineering or equivalent experiences.Experience:Knowledge of operating system, relational database, concurrent computing,client/server architecture, network protocols, and file system management.Knowledge of software lifecycle and quality engineering methodologyFamiliar with programming languages: Python, C/C++ or shell scriptingSkillsGood numerical analysis and logic thinking skillsExcellent problem solving and trouble shooting skillsAbility to excel in cross functional, team environmentOther informationThis position is located on-site in San Jose, CA. It requires onsite presence to attend in-person work-related events, training courses and meetings and to further ensure teamwork, collaboration, and innovation. Additional responsibilities including: Routinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally required to move around the campus.Occasionally lift and/or move up to 20 pounds.Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.The current base annual salary range for this role is currently $18.00  -  $57.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
       "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineering_J-00327848",
       "job_posted_at_datetime_utc": "2025-12-19T23:41:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "asml-internship-software-engineering-san-jose"
+      "id": "asml-internship-software-engineering-san-jose",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T11:28:32.564Z",
     "postedAt": null
   },
   {
