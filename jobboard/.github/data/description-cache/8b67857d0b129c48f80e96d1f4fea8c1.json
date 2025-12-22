@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Design &amp; evaluate datasets: build high-quality datasets/benchmarks; run ablations to measure impact and improve data effectiveness Advance model training: contribute to pre-training, post-training, and RL for language and multimodal models Develop data infrastructure: extend pipelines for ingest, preprocess, filter, and annotate large, heterogeneous data Data quality &amp; analysis: assess text, image, video, audio, and code data for quality, diversity, and relevance; propose improvements Tooling &amp; workflows: create lightweight tools for dataset auditing, visualization, and versioning to speed iteration Research &amp; collaboration: work with researchers/engineers to push research and product boundaries with measurable impact Currently enrolled in a BS/MS/PhD program in computer science, AI/ML, data science, electrical engineering, or a related field Must have at least one additional quarter/semester of school remaining following the completion of the internship. Candidate must be enrolled in a full time bachelor&#39;s, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before their internship. Effective coding skills in Python and modern data/ML libraries (NumPy, Pandas, PyTorch/JAX/TF) Familiarity with training/evaluating ML models and with basic data-pipeline concepts First-author publication(s) at top-tier AI venues (e.g., NeurIPS, ICML, ICLR, CVPR) or equivalent journals; or demonstrably comparable research impact (e.g., widely used open-source, SOTA results, benchmark wins) Experience with distributed data or training frameworks (Spark, Ray, Beam; PyTorch DDP/FSDP) and cloud ecosystems (Azure; data lakes) Exposure to large-scale, un/semi-structured datasets (images, video, audio, code) Prior work on LLMs, RL/RLHF, post-training, or multimodal models Contributions to open-source tooling or reproducible research Clear communication, self-motivated, curiosity, and a bias for hands-on experimentation",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556626723",
+      "fetchedAt": "2025-12-22T07:18:02.939Z"
+    }
+  },
+  "cachedAt": 1766387882940
+}

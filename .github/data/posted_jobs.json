@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T07:07:02.279Z",
+  "lastUpdated": "2025-12-22T07:18:41.740Z",
   "jobs": [
-    {
-      "id": "amazon-security-engineer-internship-seattle-2025-12-15-1",
-      "jobId": "amazon-security-engineer-internship-seattle",
-      "company": "Amazon",
-      "title": "Security Engineer Internship",
-      "postedToDiscord": "2025-12-15T07:12:39.598Z",
-      "sourceDate": "2025-08-22T13:10:24.000Z",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us",
-      "discordThreadId": "1450022725816160307",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-systems-development-engineer-internship-seattle-2025-12-15-1",
-      "jobId": "amazon-systems-development-engineer-internship-seattle",
-      "company": "Amazon",
-      "title": "Systems Development Engineer Internship",
-      "postedToDiscord": "2025-12-15T07:12:41.401Z",
-      "sourceDate": "2025-08-22T13:08:57.000Z",
-      "sourceUrl": "https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us",
-      "discordThreadId": "1450022732962988144",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ixl-learning-software-engineer-intern-san-mateo-2025-12-15-1",
-      "jobId": "ixl-learning-software-engineer-intern-san-mateo",
-      "company": "IXL Learning",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-15T07:12:44.763Z",
-      "sourceDate": "2025-08-21T14:14:47.000Z",
-      "sourceUrl": "https://www.ixl.com/company/careers?gh_jid=8128629002",
-      "discordThreadId": "1450022740592689234",
-      "instanceNumber": 1
-    },
-    {
-      "id": "al-warren-oil-company-software-developer-bensenville-2025-12-15-1",
-      "jobId": "al-warren-oil-company-software-developer-bensenville",
-      "company": "Al Warren Oil Company",
-      "title": "Software Developer",
-      "postedToDiscord": "2025-12-15T07:12:46.438Z",
-      "sourceDate": "2025-08-21T14:13:49.000Z",
-      "sourceUrl": "https://apply.workable.com/al-warren-oil-company-inc/j/BF3D5FB442/",
-      "discordThreadId": "1450022754752532652",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globus-medical-software-engineer-co-op-methuen-2025-12-15-1",
-      "jobId": "globus-medical-software-engineer-co-op-methuen",
-      "company": "Globus Medical",
-      "title": "Software Engineer Co-Op",
-      "postedToDiscord": "2025-12-15T07:12:50.008Z",
-      "sourceDate": "2025-08-21T14:12:17.000Z",
-      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/en-US/gmed_careers/job/Methuen-MA/Co-Op_JR104162",
-      "discordThreadId": "1450022761681653781",
-      "instanceNumber": 1
-    },
-    {
-      "id": "arch-capital-group-enterprise-document-management-systems-edms-greensboro-2025-12-15-1",
-      "jobId": "arch-capital-group-enterprise-document-management-systems-edms-greensboro",
-      "company": "Arch Capital Group",
-      "title": "Enterprise Document Management Systems - Edms",
-      "postedToDiscord": "2025-12-15T07:12:54.772Z",
-      "sourceDate": "2025-08-22T07:54:31.000Z",
-      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Enterprise-Document-Management-Systems--EDMS--Summer-ntern_R25_722",
-      "discordThreadId": "1450022789590290616",
-      "instanceNumber": 1
-    },
-    {
-      "id": "arch-capital-group-it-servicing-ngs-product-summer-intern-greensboro-2025-12-15-1",
-      "jobId": "arch-capital-group-it-servicing-ngs-product-summer-intern-greensboro",
-      "company": "Arch Capital Group",
-      "title": "IT Servicing NGS Product Summer Intern",
-      "postedToDiscord": "2025-12-15T07:12:56.444Z",
-      "sourceDate": "2025-08-22T01:20:29.000Z",
-      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/IT-Servicing-NGS-Product-Summer-Intern_R25_724",
-      "discordThreadId": "1450022796708020427",
-      "instanceNumber": 1
-    },
-    {
-      "id": "arch-capital-group-online-portals-next-gen-platforms-summer-intern-opng-greensboro-2025-12-15-1",
-      "jobId": "arch-capital-group-online-portals-next-gen-platforms-summer-intern-opng-greensboro",
-      "company": "Arch Capital Group",
-      "title": "Online Portals & Next Gen Platforms – Summer Intern - Opng",
-      "postedToDiscord": "2025-12-15T07:12:58.121Z",
-      "sourceDate": "2025-08-22T01:08:55.000Z",
-      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Online-Portals---Next-Gen--Platforms--OPNG--Summer-Intern_R25_718",
-      "discordThreadId": "1450022803721031784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "relx-data-engineer-intern-alpharetta-2025-12-15-1",
-      "jobId": "relx-data-engineer-intern-alpharetta",
-      "company": "RELX",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2025-12-15T07:13:02.841Z",
-      "sourceDate": "2025-08-21T14:09:12.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-Intern_R99561",
-      "discordThreadId": "1450022823530729654",
-      "instanceNumber": 1
-    },
     {
       "id": "freddie-mac-multifamily-software-development-intern-mclean-2025-12-15-1",
       "jobId": "freddie-mac-multifamily-software-development-intern-mclean",
@@ -9109,14 +9010,69 @@
       "sourceUrl": "https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844",
       "discordThreadId": "1452558019270545469",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-software-quality-assurance-san-jose-2025-12-22-1",
+      "jobId": "asml-internship-software-quality-assurance-san-jose",
+      "company": "ASML",
+      "title": "Internship - Software Quality Assurance",
+      "postedToDiscord": "2025-12-22T07:18:21.909Z",
+      "sourceDate": "2025-12-16T16:26:44.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394",
+      "discordThreadId": "1452560869769875591",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineering-intern-colorado-springs-2025-12-22-1",
+      "jobId": "rtx-software-engineering-intern-colorado-springs",
+      "company": "RTX",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-22T07:18:25.385Z",
+      "sourceDate": "2025-12-16T16:14:36.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO210-9970-Federal-Drive-Colo-Spr-9970-Federal-Drive---Colorado-Springs-CO-80921-USA/Software--Engineering-Intern--Summer-2026---Onsite-_01812633",
+      "discordThreadId": "1452560884051480607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "by-light-professional-it-services-ai-intern-orlando-2025-12-22-1",
+      "jobId": "by-light-professional-it-services-ai-intern-orlando",
+      "company": "By Light Professional IT Services",
+      "title": "AI Intern",
+      "postedToDiscord": "2025-12-22T07:18:31.933Z",
+      "sourceDate": "2025-12-16T16:26:19.000Z",
+      "sourceUrl": "https://jobs-bylight.icims.com/jobs/10698/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452560911297548288",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carnegie-mellon-university-ai-ml-vulnerability-analysis-intern-pittsburgh-2025-12-22-1",
+      "jobId": "carnegie-mellon-university-ai-ml-vulnerability-analysis-intern-pittsburgh",
+      "company": "Carnegie Mellon University",
+      "title": "AI/ML Vulnerability Analysis Intern",
+      "postedToDiscord": "2025-12-22T07:18:35.271Z",
+      "sourceDate": "2025-12-16T16:24:56.000Z",
+      "sourceUrl": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-ML-Vulnerability-Analysis-Intern_2023954",
+      "discordThreadId": "1452560925931339796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "schreiber-foods-software-and-data-intern-green-bay-wi-green-bay-2025-12-22-1",
+      "jobId": "schreiber-foods-software-and-data-intern-green-bay-wi-green-bay",
+      "company": "Schreiber Foods",
+      "title": "Software and Data Intern - Green Bay - WI",
+      "postedToDiscord": "2025-12-22T07:18:41.740Z",
+      "sourceDate": "2025-12-16T16:16:59.000Z",
+      "sourceUrl": "https://schreiberfoods.wd5.myworkdayjobs.com/Schreiber_Careers/job/Green-Bay-WI/Software-and-Data-Intern---Green-Bay--WI---Year-Round_R0033700",
+      "discordThreadId": "1452560952430956668",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 828,
+    "totalJobs": 824,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T07:07:02.279Z",
+      "date": "2025-12-22T07:18:41.740Z",
       "archived": 0
     }
   }
