@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "GE Vernova Data Scientist Intern - Market & Customer Insights - Summer 2026",
-      "employer_name": "GE Vernova",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "Job Description SummaryJob DescriptionProject Overview:Developing and refining enterprise data models that integrate commercial, operational, and financial dataBuilding machine learning–based electrical power outlook forecasts (demand, pricing, and generation patterns)Supporting margin forecasting models to improve profitability insights and decision-making.Internship Outcomes:Contribute to an enterprise data model that connects customer, operations, and financial data for analytics use casesPrototype and evaluate one or more ML models for electrical power outlook forecasting (e.g., load, price, or renewable generation)Assist in enhancing or developing a margin forecasting model (e.g., at deal, product, or portfolio level) with clear performance metricsDocument data definitions, model assumptions, and analytical workflows for handoff to the broader team.Primary Skills Developed:Enterprise Data Modeling:Conceptual, logical, and/or physical data modelingUnderstanding of relational databases, data warehousing concepts, and dimensional modelingMachine Learning & Forecasting:Time series analysis and regression techniquesModel evaluation (e.g., MAE, RMSE, MAPE)Analytics & Visualization:Data exploration, feature engineering, and basic visualization to explain model behaviorTechnical Tools (typical examples):Programming: Python or RData: SQL, familiarity with data warehouses or cloud data platformsML/Analytics libraries: pandas, scikit-learn, statsmodels (or equivalents)Basic Qualifications:Currently pursuing a Bachelor’s or Master’s degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, Economics, or related quantitative field.Minimum GPA of 4.0/5.0.Other Eligibility Requirements:Unrestricted work authorization in US is required for the duration of the internship.Desired Qualifications:Fundamental knowledge of:SQL and at least one programming language (preferably Python or R)Basic statistics (distributions, correlation, hypothesis testing)Introductory machine learning concepts (regression, supervised learning)Ability to work with structured datasets, perform data cleaning, and create reproducible analysesStrong analytical thinking, attention to detail, and ability to communicate findings clearly in written and verbal formBenefits Available to you: Addressing the climate crisis is an urgent global priority, and at GE Vernova, we take our responsibility seriously. That is the singular mission of GE Vernova: to continue electrifying the world while simultaneously working to help decarbonize it. In order to meet this mission, we provide varied, competitive benefits to help support our workforce: Our Culture | GE Vernova (gecareers.com)The pay for this position ranges from $24-36/hr. based on years of undergraduate/graduate field of study completed.This position is also eligible for:Relocation Assistance: Co-op/Interns will be reimbursed for reasonable, proper, and documented expenditures incurred while initially reporting to work and returning to school/home upon completion of the assignment. Employees with a permanent address greater than 50 miles away from the work location are eligible.Housing Allowance: Co-op/Interns employees receive a weekly housing allowance to help off-set living expenses when the co-op/Intern’s permanent residence is at least 50 miles away from the work location.Employee Assistance Program, providing 24/7 confidential assessment, counseling and referral servicesGE Retirement Savings Plan (RSP) after their accumulated service reaches 90 days, and they meet any other eligibility requirements as defined in the plans. (Eligibility occurs on the 1st of the month following the 90th day.)General Electric Company, Ropcor, Inc., their successors, and in some cases their affiliates, each sponsor certain employee benefit plans or programs (i.e., is a Sponsor”). Each Sponsor reserves the right to terminate, amend, suspend, replace, or modify its benefit plans and programs at any time and for any reason, in its sole discretion. No individual has a vested right to any benefit under a Sponsor’s welfare benefit plan or program. This document does not create a contract of employment with any individual.Inclusion At GE Vernova, we believe in the value of your unique identity, background and experiences. We are committed to fostering an inclusive culture, where everyone feels empowered to do their best work because they feel accepted, respected and that they belong.  Click here to learn more: https://jobs.gecareers.com/vernova/global/en/i-d-eThis position will remain open until at least January 5, 2026.",
-      "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Cambridge/GE-Vernova-Data-Scientist-Intern---Market---Customer-Insights---Summer-2026_R5028300-1",
-      "job_posted_at_datetime_utc": "2025-12-17T23:58:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ge-vernova-ge-vernova-data-scientist-intern-market-customer-insights-summer-2026-cambridge",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T01:17:20.641Z",
-    "postedAt": "2025-12-22T02:51:57.924Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Optical Imaging Product Engineer",
-      "employer_name": "ASML",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Introduction to the jobASML/Brion brings together the most creative minds in science and technology to develop computational lithography software to enable customers on the best process window enhancement solution for the next generation HighNA EUV scanner, as well as best process window control solution to mitigate the process variation during the scanner operation, providing holistic solution for advanced nodes in semi-conductor industries. Role and responsibilitiesFeasibility study of advanced imaging for ASML scanner application, including study the imaging impact with illumination, mask correction, aberration, overlay and mirror/lens heating. Design software component to support customer’s request on process window enhancement and process window control for ASML scanner application Perform qualification test, lead wafer validation and generate proof data, provide training slides, user guide and other technical documents. Work with local application engineer to support customer activity, promoting ASML scanner and application adoption.Education and experiencePursuing PhD., or Master’s degree in Optics, EE/ME, Physic with experience in optical design, lithography, semiconductor/EDA industry Solid understanding of Fourier Optics Imaging and Abbe/Hopkin Imaging Theory Knowledge/hands-on experience with Simulation software/technical tools (i.e. Python, Matlab, etc.) Experience with rigorous optical simulation is a plus (FDTD, RCWA) Soft skill requirements (i.e. strong English communication skills – both written and oral, ability to influence, etc.). knowledge of data analytics and machine learning. Knowledge in optimization theory, including Convex optimization theory and gradient based optimization . SkillsKnowledge/hands-on experience with simulation software/technical tools (i.e. python, matlab, etc.) Soft skill requirements (i.e. strong English communication skills – both written and oral, ability to influence, etc.). knowledge of data analytics and machine learning. Solid understanding of imaging theories (Abbe, Hopkins). Direct or indirect experience in OPC (Optical Proximity Correction), including rigorous lithography simulation (Hyperlith, Prolith), RET, and advanced mask technology. Experience in lithography or related fields. Knowledge in EUV lithography and challenges. Knowledge in optimization methodsThe California base annual salary / hourly range for this role is currently $25 - $56/hr. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to, job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring processInclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Imaging-Product-Engineer_J-00328141",
-      "job_posted_at_datetime_utc": "2025-12-17T23:40:58.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-intern-optical-imaging-product-engineer-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T01:17:20.641Z",
-    "postedAt": "2025-12-22T02:51:57.924Z"
-  },
-  {
-    "job": {
-      "job_title": "Internship - Software Engineer In Test - Mod",
-      "employer_name": "ASML",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Introduction to the jobWe are looking for a highly motivated, hands-on technical individual to support our state of the art products. This position will be in our MOD SQA (Software Quality Assurance) organization. The MOD Software Engineer In Test is responsible for designing, creating and writing Test Plan Specification (TPS) for new features, automating the test cases for on-going regression testing with advanced test framework and scripting languages. The team works closely with software developers, marketing, PEG, PL, other SQA teams; therefore this job provides a broad exposure to whole pictures of different products. This job also provides excellent career development opportunities thanks to its wide work scope.Your AssignmentWe are looking for a self-motivated individual with strong technical and communication skills, as well as a deep curiosity about software quality. As a member of the MOD SQA team, you will be responsible for designing, creating, and executing software test plan and test cases in functional, performance, and system integrations testing across a variety of software platforms in assuring high quality of ASML’s world-class product. You are passionate about releasing quality products and ensuring defect free deliveries. You run functional and regression tests to ensure new features meet requirements. You will be challenged with high skill quality testing methodologies in concurrent computing software architecture environment. You will be encouraged to automate the testing flow to improve work efficiency.Education and experienceCurrently pursuing Bachelor or Masters degree in Computer Science, Electrical Engineering, Mathematics.Required technical skills, knowledge and abilities:Knowledge of operating system, relational database, concurrent computing,client/server architectureExperience in Linux/Unix testing environmentKnowledge of software lifecycle and quality engineering methodologyGood numerical analysis and logic thinking skillsHands on experience with one of programming languages: Python, C/C++,  Java, Perl or shell scriptingExcellent problem solving and trouble shooting skillsAbility to excel in cross functional, team environmentFamiliar with GIT(Bitbucket), JIRA, Confluence is a plusSkillsWorking at the cutting edge of tech, you’ll always have new challenges and new problems to solve – and working together is the only way do that. You won’t work in a silo. Instead, you’ll be part of a creative, dynamic work environment where you’ll collaborate with supportive colleagues. There is always space for creative and unique points of view. You’ll have the flexibility and trust to choose how best to tackle tasks and solve problems.Occasionally lift and/or move up to 20 pounds.Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.The California base annual salary / hourly range for this role is currently $25 - $56/hr. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to, job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00328009",
-      "job_posted_at_datetime_utc": "2025-12-17T23:40:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-internship-software-engineer-in-test-mod-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T01:17:20.641Z",
-    "postedAt": "2025-12-22T02:51:57.924Z"
-  },
-  {
-    "job": {
-      "job_title": "Engineering Intern - Modeling & Simulation Applications",
-      "employer_name": "Leidos",
-      "job_city": "Huntsville",
-      "job_state": "AL",
-      "job_description": "Looking for an opportunity to make an impact?  At Leidos, we deliver innovative solutions through the efforts of our diverse and talented people who are dedicated to our customers’ success. We empower our teams, contribute to our communities, and operate sustainable. Everything we do is built on a commitment to do the right thing for our customers, our people, and our community. Our Mission, Vision, and Values guide the way we do business.  Your greatest work is ahead!  Leidos’ Defense Systems, Sensor Systems Analysis & Engineering Portfolio, is seeking a talented engineering intern for modeling & simulation applications with the ability to potentially work multiple projects within the Sensor Systems Analysis and Engineering Portfolio.   You will join a diverse team of junior-to-senior software developers, engineers, and scientists to help create unique solutions for complex problems. Our team solves important problems that make a difference and support our customers in the current and future defense of our nation; primarily in the areas of modeling & simulation, sensor integration, testing, characterization, data analysis, and algorithm development for electro-optical infrared (EO/IR) systems. The ideal candidate will demonstrate exceptional academic performance and enthusiasm toward developing a broad technical capability to support overlapping engineering/scientific/developer disciplines with a particular focus on solving problems. Candidate will be expected to productively contribute to a team environment while communicating effectively to management, technical leads, and coworkers.  Joining our team offers the opportunity to work with experts in their field and grow your career in an area that is appealing to you. You will quickly become an integral member of our team and be given the opportunity to take responsibility for challenging problems of your own. Because of this, we seek team members that are driven and engaged in their work while simultaneously demonstrating high character, given that you will often be working on sensitive and unique problems which require a high degree of trust from our customers.   If this sounds like the kind of environment where you can thrive, keep reading!   Leidos Defense Systems Sector provides a diverse portfolio of systems, solutions, and services covering land, sea, air, space, and cyberspace for customers worldwide. Solutions for Defense include enterprise and mission IT, large-scale intelligence systems, command and control, geospatial and data analytics, cybersecurity, logistics, training, and intelligence analysis and operations support. Our team is solving the world’s toughest security challenges for customers with “can’t fail” missions. To explore and learn more, click here!  Are you ready to make an impact? Share your resume with us today!   ​​Primary Responsibilities. ​Candidate can expect to work closely with a team of engineers and scientists to solve problems in a variety of disciplines to include EO/IR sensor systems, primarily for modeling & simulation purposes. ​Candidate is expected to have a strong academic performance that lends itself towards a technical capability to support overlapping engineering/scientific/developer disciplines.  ​Candidate is also expected to have the ability to work and to communicate effectively within a multidisciplinary team. ​ ​Basic Qualifications.   ​​Candidate must be currently enrolled and a rising junior or senior at the time of the internship in a bachelor’s degree program from an accredited university in mechanical engineering, electrical engineering, engineering physics, physics, software engineering, computer science, or an equivalent engineering or scientific program. ​Experience solving problems with MATLAB/Python/C++ or equivalent. ​Must be a U.S. citizen and able to obtain and maintain a DoW security clearance. ​ ​Preferred Qualifications.  ​​In addition to the qualifications listed above, the ideal candidate should be highly organized, demonstrating the ability to work independently at times due to a fast-paced and highly productive work environment. Because the candidate may fill various project needs, an interest in working multiple programs with intermediate ability in C++, C#, and/or Python is a bonus. ​Preference may be given to candidates with one or more of the following: recent stellar academic performance in physics and/or engineering classes, a SECRET clearance or above; familiarity or interest in EO/IR phenomenology; experience with image processing; experience with GPU programming and/or CUDA programming; experience with developing AI/ML solutions.​   Come break things (in a good way). Then build them smarter.We're the tech company everyone calls when things get weird. We don’t wear capes (they’re a safety hazard), but we do solve high-stakes problems with code, caffeine, and a healthy disregard for “how it’s always been done.”Original Posting:December 17, 2025For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.Pay Range:Pay Range $48,100.00 - $86,950.00The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-      "job_apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/XMLNAME---Engineering-Intern---Modeling---Simulation-Applications-_R-00172342",
-      "job_posted_at_datetime_utc": "2025-12-17T23:33:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "leidos-engineering-intern-modeling-simulation-applications-huntsville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T01:17:20.641Z",
-    "postedAt": "2025-12-22T02:51:57.924Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - iOS App Development",
-      "employer_name": "The Washington Post",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "Join the future of newsWe’re on a mission to deliver riveting storytelling for all of America. At The Washington Post, you’ll help reinvent news. Our work is driven by a deep investigative spirit and enhanced by innovation to bring audiences closer to the stories that matter most.About Our TeamThe Washington Post is powered by the passion and talent of our people. It takes all of us to reinvent news. Beyond our award-winning Newsroom and Opinions teams, we work across many departments, including Brand & Events, Communications, Customer Care, Engineering & Product, Finance, Human Resources, Legal, Marketing & Advertising, Print Operations, and Sales.Why This Role Matters  The Washington Post is looking for a Software Engineer Intern to support our flagship apps engineering team. Under general supervision, you will perform technical analysis, design and development or enhancement of iOS applications and play an integral role in helping deliver increasingly smarter mobile apps to our users. You will participate in all facets of the agile development process and will have the opportunity to contribute to products that will be used by millions of people. We are looking for someone with strong interest in all things mobile and a passion for delivering high quality, solid applications.What Motivates YouYou want to help bring our award-winning journalism to people every day.You are passionate about learning mobile development, growing your skills, and delivering high-quality products.You have opinions about leveraging the latest technology from Google and other solution providers to enhance the news-reading experience.You enjoy collaborating with colleagues across disciplines to solve problems and deliver new functionality.You have opinions about what makes for a good native app experience.You enjoy breaking down complicated problems into distinct workable pieces.How You’ll Support The MissionDesign and develop advanced applications for iOS and related platforms.Collaborate with cross-functional teams to define API contracts, design and ship new features.  Design high-level mobile solutions to meet product requirements and following established development methodologies and standards.Identify, troubleshoot, and solve complex problems.Participate in agile software development practices and peer/code reviews. Unit-test code for robustness, including edge cases, usability and general reliability.The Skills and Experience You Bring It’s okay to not meet 100% of these requirements. We’re primarily looking for people who meet some of these requirements and are motivated to learn new technologies and expand their skill set.Pursuing a bachelor’s degree in computer science, engineering or related technical fieldStrong grasp of computer science fundamentals, operating systems, algorithms, data structure, design principles.Excellent verbal/written communication and collaboration skills.Strong problem-solving skills.Experience working with or prototyping with Apple SDKExperience with Swift. Interns are paid hourly and expected to work 35-40 hours per week. Our internship program is based out of our D.C. office, so you are expected to be on-site for the summer and follow The Washington Post’s in-person work policy. We do not provide housing, but can suggest options upon request. You must be enrolled in a degree-seeking program at the time of submitting this application. We encourage you to apply if you are currently a student, regardless of your background or experience with engineering and/or journalism.Foreign nationals can apply for internships. All work samples must be submitted in English. If selected, the required documentation to verify U.S. work authorization must be provided. The Post is unable to provide visa sponsorship for internships. If you have any questions, please reach out to life@washpost.comWe will review all applications and invite a subset of applicants to the next process, which includes live coding and interviews with team leads.Our program provides a meaningful learning experience for engineers who support The Washington Post's mission. Our interns work directly with our full-time engineers on real production features.Additionally, you'll be invited to exclusive events like our annual intern hackathon and lunch seminars from leaders across the company.This internship is not a guarantee of a job at The Post. We have hired from our internship classes in the past, and we hope to continue this trend in the coming years. Note our internship program is not a binding contract — you can take a full-time job elsewhere or from your (or another!) team at The Post before the internship ends.  Collaboration makes us stronger. That’s why our offices are designed with open layouts, modern technology, and easy access to transportation. With certain exceptions for newsgathering and business travel, we work on-site five days a week.Your story awaits. Apply today! Learn more about The Post at careers.washingtonpost.com.",
-      "job_apply_link": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--iOS-App-Development_JR-90275642",
-      "job_posted_at_datetime_utc": "2025-12-17T23:32:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-washington-post-intern-ios-app-development-washington",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": "2025-12-22T01:17:20.641Z",
-    "postedAt": "2025-12-22T02:51:57.924Z"
-  },
-  {
-    "job": {
       "job_title": "Field Services Data Analytics Intern",
       "employer_name": "TDS",
       "job_city": "Remote in USA",
@@ -794,10 +694,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T02:00:44.746Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T03:25:36.043Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T02:00:44.746Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T03:25:36.043Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T02:00:44.746Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T03:25:36.043Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T02:00:44.746Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T03:25:36.043Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-18T19:16:53.123Z",
     "enrichedAt": "2025-12-22T02:00:44.746Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T03:25:36.043Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "Rolls Royce",
       "job_city": "Simpsonville",
       "job_state": "SC",
-      "job_description": "Join Rolls Royce in this exciting opportunity.",
+      "job_description": "A good student experience is never hands-off. We are dedicated to fostering a dynamic learning environment where students actively engage in practical experiences throughout their time with us. From the beginning, students are entrusted with specific responsibilities, ensuring they play a significant role in their learning journey. As valued team members, students are also encouraged to share and implement their own ideas, enhancing both their personal growth and the collective success of the team. Description: Software development for the battery plant Unreal Engine 5 project including gameplay mechanic development, VR/AR development, 3D data pipeline development, as well as department dashboard support, database development/support, and other innovation projects decided by management. Develops and implements software solutions using Unreal Engine 5 to achieve project goals related to game mechanics, 3D data pipeline development, database connections, and networking. Participates in cross-functional project teams to support software development activities within the department. Assists in the creation and maintenance of user and support documentation for areas of responsibility, ensuring clear communication of software functionalities. Provides technical support to department for resolving issues related to Unreal Engine 5 and other software projects. Develops and optimizes algorithms and systems for automatic control and data management within projects. Supports department targets and goals for project completion, quality assurance, and efficient resource utilization. Understands and applies principles of Agile development and collaborative problem-solving in software projects. Adheres to coding standards and best practices. Adheres to 5S and Safety Standards and Principles. Performs other duties as assigned by management. Develop specified features for Unreal Engine 5 project. Qualifications:​ BA/BS Degree in Computer Science (preferred), Computer Engineering, Electrical Engineering, or similar degree Preferred: Base knowledge of C/C++, problem solving, passion for software development Optional: Unreal Engine 5, Unity, Gadot, Software Version Control (Unity version control/Perforce, Unreal Engine, FactoryVerse/Omniverse PlantCon/IPS systems. Unreal Engine 5 software development (VR/AR) Software architecture and design Project steering Presentation techniques BMW Project work international within the Gen6 Network (TS) Possess a minimum cumulative GPA of 3.0 (not just in major) Have enrolled student status at an accredited four-year college or university in the United States. Completed at least 30 credit hours at time of application. Ability to work full-time on-site (40 hours / week). Transfer students must have a GPA from current university. MUST ATTACH A COPY OF UNOFFICIAL TRANSCRIPT Complete and pass a substance abuse test before the work term. THE WORK TERM DATES ARE May 18th – August 7th, 2026. BMW Manufacturing Company is an equal opportunity employer. It is the policy of BMW MC to provide equal employment opportunity (EEO) to all qualified persons regardless of age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status.",
       "job_apply_link": "https://jobs.bmwgroup.com/job/Woodruff-TX-S-12-Innovations-Software-Developer-Intern-(Summer)-Sout/1276052601/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-12-17T23:18:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "rolls-royce-tx-s-12-innovations-software-developer-intern-summer-simpsonville"
+      "id": "rolls-royce-tx-s-12-innovations-software-developer-intern-summer-simpsonville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T03:25:02.644Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Microsoft",
       "job_city": "Redmond",
       "job_state": "WA",
-      "job_description": "Join Microsoft in this exciting opportunity.",
+      "job_description": "Formulate approaches to solve problems using well defined algorithms and data sources. Incorporate an understanding of product functionality and customer perspective to provide context for those problems. Use data exploration techniques to discover new questions or opportunities within your problem area and propose applicability and limitations of the data. Interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve. Engage with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers. Participate in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results. Currently pursuing a Bachelor&#39;s Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. Must have at least one additional quarter/semester of school remaining following the completion of the internship. Candidate must be enrolled in a full time bachelor&#39;s, masters, MBA, or PhD program in area relevant for the role during the academic term immediately before their internship. Currently pursuing a Master&#39;s Degree in Data Science, Mathematics, Statistics, Econometrics, Economics, Operations Research, Computer Science, or related field. Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc. Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#. Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS. Some experience and or project course work with product and service telemetry systems. Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.). Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data.",
       "job_apply_link": "https://apply.careers.microsoft.com/careers/job/1970393556649486",
       "job_posted_at_datetime_utc": "2025-12-17T23:18:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "microsoft-data-science-intern-opportunities-redmond"
+      "id": "microsoft-data-science-intern-opportunities-redmond",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T03:25:02.644Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "Veolia",
       "job_city": "Milwaukee",
       "job_state": "WI",
-      "job_description": "Join Veolia in this exciting opportunity.",
+      "job_description": "Capital Project's Intern InternContract type: Temporary Work / CasualCompany DescriptionVeolia in North America is the top-ranked environmental company in the United States for three consecutive years, and the country’s largest private water operator and technology provider as well as hazardous waste and pollution treatment leader. It offers a full spectrum of water, waste, and energy management services, including water and wastewater treatment, commercial and hazardous waste collection and disposal, energy consulting and resource recovery. Veolia helps commercial, industrial, healthcare, higher education and municipality customers throughout North America. Headquartered in Boston, Veolia has more than 10,000 employees working at more than 350 locations across North America.Job DescriptionPosition Purpose: Student Exploration and Experience Development (SEED) is a 12-week internship opportunity at Veolia for students to gain hands-on experience in sustainability and ecological transformation. They will work on real-world projects, receive mentorship from industry professionals, and participate in workshops and networking events. The program aims to nurture talent, promote innovation, and foster meaningful connections between students and industry professionals. Overall, the SEED program provides students with the skills, knowledge, and connections needed to make a positive impact in the industry.Program Dates: June 1, 2026 to August 21, 2026.Primary Duties/Responsibilities: Ability to extract, wrangle and harmonize data from various databases (including Snowflake, SAS, HANA, Oracle, Microsoft SQL, Hadoop), by using one or more of the following programming languages, including SAS, SQL, Python, R, Excel (Advanced).Ability to visualize and analyze data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.Develop actionable insights from data using descriptive and basic statistical approaches.Present findings from the analyses to facilitate quick decision making.Develop clear, concise, and effective memos / presentation materials for management.Work individually and collaboratively with key stakeholders, build the relationship, and contribute to decision making.Participate in cross-functional teams and achieve business objectives.Work Environment:Environments vary by internship function from office to field to plant. Our aim is to provide tangible industry job experience to each intern. While we may extend offers to some interns, there is no guarantee of a job offer at the end of the internship.QualificationsEducation/Experience/Background: High School Diploma/GED is required.Working towards a four year degree and you have Junior or Senior status in a related major. Example: If the internship is in electrical engineering, you are a junior working towards an electrical engineering (or similar such as electronics engineering) degree.3.2 Cumulative G.P.A preferred.1+ years of experience in extracting, cleaning, and analyzing the data using one or more of the following programming languages, including SAS, SQL, Python.1+ years of experience in visualizing the data using one or more of the following tools, including Tableau, Power BI, Excel (Advanced), Qlik.1+ years of experience in two or more of the following functions, including Analytics, Customer Insights, Marketing, Finance, Operation, Revenue Management, Pricing.Experience gained through college degree programs and/or certifications is applicable to above skills.Additional InformationWe are an Equal Opportunity Employer! All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, subject to applicable law.Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099419505",
       "job_posted_at_datetime_utc": "2025-12-17T23:18:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "veolia-capital-project-s-intern-milwaukee"
+      "id": "veolia-capital-project-s-intern-milwaukee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T03:25:02.644Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Veolia",
       "job_city": "Boulder",
       "job_state": "CO",
-      "job_description": "Join Veolia in this exciting opportunity.",
+      "job_description": "Manufacturing Software Engineer Intern InternContract type: InternshipCompany DescriptionVeolia is a global leader in environmental services, operating across all five continents with nearly 218,000 employees. Specializing in water, energy, and waste management, Veolia designs and implements innovative solutions for decarbonization, depollution, and resource regeneration, supporting communities and industries in their ecological transformation. Within this framework, Water Tech brings together a dedicated team of experienced professionals committed to tackling the world’s most complex challenges related to water scarcity, quality, productivity, and energy. Together, we pursue a shared mission to create a more sustainable future.Job DescriptionTitle: Quality Engineering InternLocation: Boulder, COSchedule: May - August 2026Nature of work: Your responsibilities will include (but are not limited to); Contributing to the development of manufacturing software applicationsCollaborating with manufacturing software engineers to understand manufacturing needs and requirementsDesigning database complex queriesTroubleshooting and testing software solutionsQualificationsQualificationsRequired Skills:Programming experience in C# and/or VC++ and/or PythonUnderstanding of Relational Database Management Systems (MySQL)Ability to work collaboratively in a team environmentPreferred / Nice-to-have skills:Exposure to manufacturing operations or industrial environmentsKnowledge of SAPFamiliarity with Microsoft Visual Studio or VS CodeExperience with version control using Git and GitHubUnderstanding of software development best practicesEducation: This role is best suited for anyone currently enrolled in a Bachelor of Engineering (BEng) program in Software Engineering, Information Technology or related field. Consideration will also be given to other science-based technical programs and degrees.Additional InformationAt Veolia, we realize diverse teams make smarter decisions, deliver better results, and build stronger communities. We’re an organization that champions diversity and inclusion at every rung of the ladder and are proud to be an equal opportunity workplace. Because our people are our greatest assets, we also offer competitive compensation and benefits that include:Compensation - The salary range is tied to the market for similarly benchmarked roles. The range is not an absolute, but a guide, and offers will be based on the individual candidate’s knowledge, skills, experience, and market conditions, as well as internal peer equity. Depending upon all the preceding considerations for the final selected individual candidate, the offer may be lower or higher than the stated range: $20.70-$23.50/hourThis position is expected to stay open until January 1st, 2025. Please submit your application by this date, to ensure consideration. Disclaimer: The salary, other compensation, and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, subject to applicable law. ****Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization (e.g. H-1B visa) for this opportunity**** Veolia does not accept unsolicited resumes from external recruiting firms. All vendors must have a current and fully executed MSA on file before submitting candidates. Any unsolicited resumes and candidate profiles will be deemed the property of Veolia, and no fee will be due. All your information will be kept confidential according to EEO guidelines.As an inclusive company, Veolia is committed to diversity and gives equal consideration to all applications, without discrimination.Job LocationGoogle Maps requires functional cookies to be enabledSorry, this job has expiredPrivacy Policy",
       "job_apply_link": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099432185",
       "job_posted_at_datetime_utc": "2025-12-17T23:18:14.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "veolia-manufacturing-software-engineer-intern-boulder"
+      "id": "veolia-manufacturing-software-engineer-intern-boulder",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T03:25:02.644Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "Emerson Electric",
       "job_city": "Austin",
       "job_state": "TX",
-      "job_description": "Join Emerson Electric in this exciting opportunity.",
+      "job_description": "Join our advanced analytics team to turn data into actionable insights that drive business decisions. In this role, you’ll partner with stakeholders, explore customer purchasing patterns, and build predictive models using internal and external data. You’ll craft compelling visualizations, compare approaches, and communicate recommendations clearly to both technical and non-technical audiences. We’re looking for someone passionate about data wrangling, machine learning, and emerging AI trends—comfortable with ambiguity and eager to learn in a dynamic, global environment.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25029141",
       "job_posted_at_datetime_utc": "2025-12-17T23:17:48.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "emerson-electric-graduate-data-science-intern-austin"
+      "id": "emerson-electric-graduate-data-science-intern-austin",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-18T19:16:53.123Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T03:25:02.644Z",
     "postedAt": null
   },
   {

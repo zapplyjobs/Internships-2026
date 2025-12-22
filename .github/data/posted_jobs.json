@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T02:51:54.911Z",
+  "lastUpdated": "2025-12-22T03:25:33.031Z",
   "jobs": [
-    {
-      "id": "nvidia-internships-deep-learning-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-internships-deep-learning-santa-clara",
-      "company": "NVIDIA",
-      "title": "Internships: Deep Learning",
-      "postedToDiscord": "2025-12-15T03:13:38.204Z",
-      "sourceDate": "2025-09-02T15:08:14.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208",
-      "discordThreadId": "1449962573351878758",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-nvidia-internships-deep-learning-computer-architecture-santa-clara-2025-12-15-1",
-      "jobId": "nvidia-nvidia-internships-deep-learning-computer-architecture-santa-clara",
-      "company": "NVIDIA",
-      "title": "NVIDIA Internships: Deep Learning Computer Architecture",
-      "postedToDiscord": "2025-12-15T03:13:40.041Z",
-      "sourceDate": "2025-09-02T15:08:14.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202",
-      "discordThreadId": "1449962581270724769",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-data-science-engineer-intern-richardson-2025-12-15-1",
-      "jobId": "qorvo-data-science-engineer-intern-richardson",
-      "company": "Qorvo",
-      "title": "Data Science Engineer Intern",
-      "postedToDiscord": "2025-12-15T03:13:41.778Z",
-      "sourceDate": "2025-09-02T14:39:05.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Richardson-Data-Science-Engineer-Intern-TX-75081/1321946700/?ats=successfactors",
-      "discordThreadId": "1449962588854161429",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cencora-analytics-intern-orlando-2025-12-15-1",
-      "jobId": "cencora-analytics-intern-orlando",
-      "company": "cencora",
-      "title": "Analytics Intern",
-      "postedToDiscord": "2025-12-15T03:13:46.684Z",
-      "sourceDate": "2025-09-02T14:42:01.000Z",
-      "sourceUrl": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/USA--FL--Orlando--Lee-Vista/Analytics-Intern_R2515474",
-      "discordThreadId": "1449962609200861236",
-      "instanceNumber": 1
-    },
-    {
-      "id": "caci-software-quality-engineer-intern-austin-2025-12-15-1",
-      "jobId": "caci-software-quality-engineer-intern-austin",
-      "company": "CACI",
-      "title": "Software Quality Engineer Intern",
-      "postedToDiscord": "2025-12-15T03:13:48.372Z",
-      "sourceDate": "2025-09-02T10:57:48.000Z",
-      "sourceUrl": "https://careers.caci.com/global/en/job/CACIGLOBAL316652EXTERNALENGLOBAL/Software-Quality-Engineer-Intern-Summer-2026",
-      "discordThreadId": "1449962616553209916",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amd-software-engineering-intern-austin-2025-12-15-1",
-      "jobId": "amd-software-engineering-intern-austin",
-      "company": "AMD",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-15T03:13:50.286Z",
-      "sourceDate": "2025-09-02T10:56:45.000Z",
-      "sourceUrl": "https://careers.amd.com/careers-home/jobs/70483/job",
-      "discordThreadId": "1449962623901761638",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-travelers-companies-business-insights-analytics-leadership-development-program-geospatial-intern-bi-a-ldp-hartford-2025-12-15-1",
-      "jobId": "the-travelers-companies-business-insights-analytics-leadership-development-program-geospatial-intern-bi-a-ldp-hartford",
-      "company": "The Travelers Companies",
-      "title": "Business Insights & Analytics Leadership Development Program – Geospatial Intern - BI&a Ldp",
-      "postedToDiscord": "2025-12-15T03:13:51.994Z",
-      "sourceDate": "2025-09-02T07:45:42.000Z",
-      "sourceUrl": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-46550",
-      "discordThreadId": "1449962631602507816",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cambium-learning-data-analyst-intern-remote-in-usa-2025-12-15-1",
-      "jobId": "cambium-learning-data-analyst-intern-remote-in-usa",
-      "company": "Cambium Learning",
-      "title": "Data Analyst Intern",
-      "postedToDiscord": "2025-12-15T03:13:56.893Z",
-      "sourceDate": "2025-09-02T11:12:29.000Z",
-      "sourceUrl": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Intern-SAS-Team-Data-Analyst_REQ-4157",
-      "discordThreadId": "1449962651714060410",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dow-jones-data-analyst-intern-new-york-2025-12-15-1",
-      "jobId": "dow-jones-data-analyst-intern-new-york",
-      "company": "Dow Jones",
-      "title": "Data Analyst Intern",
-      "postedToDiscord": "2025-12-15T03:13:58.620Z",
-      "sourceDate": "2025-09-02T11:11:05.000Z",
-      "sourceUrl": "https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497",
-      "discordThreadId": "1449962659461075015",
-      "instanceNumber": 1
-    },
     {
       "id": "trimble-software-engineering-intern-dayton-2025-12-15-1",
       "jobId": "trimble-software-engineering-intern-dayton",
@@ -9472,14 +9373,69 @@
       "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Optical-Imaging-Product-Engineer_J-00328141",
       "discordThreadId": "1452493814789967955",
       "instanceNumber": 1
+    },
+    {
+      "id": "tds-field-services-data-analytics-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "tds-field-services-data-analytics-intern-remote-in-usa",
+      "company": "TDS",
+      "title": "Field Services Data Analytics Intern",
+      "postedToDiscord": "2025-12-22T03:25:12.498Z",
+      "sourceDate": "2025-12-17T23:30:01.000Z",
+      "sourceUrl": "https://external-telecom-teldta.icims.com/jobs/28450/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452502192941436988",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-software-developer-santa-rosa-2025-12-22-1",
+      "jobId": "keysight-software-developer-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Software Developer",
+      "postedToDiscord": "2025-12-22T03:25:16.483Z",
+      "sourceDate": "2025-12-17T23:29:28.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/51146?lang=en-us&icims=1",
+      "discordThreadId": "1452502208498237624",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-data-engineer-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-data-engineer-intern-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-22T03:25:22.890Z",
+      "sourceDate": "2025-12-17T23:21:23.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5926/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452502237531340823",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genmab-histopathology-imaging-data-science-intern-princeton-2025-12-22-1",
+      "jobId": "genmab-histopathology-imaging-data-science-intern-princeton",
+      "company": "Genmab",
+      "title": "Histopathology Imaging Data Science Intern",
+      "postedToDiscord": "2025-12-22T03:25:29.399Z",
+      "sourceDate": "2025-12-17T23:19:45.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Histopathology-Imaging-Data-Science-Intern_R14684",
+      "discordThreadId": "1452502264496521400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genmab-applied-ai-clinical-technology-innovation-intern-princeton-2025-12-22-1",
+      "jobId": "genmab-applied-ai-clinical-technology-innovation-intern-princeton",
+      "company": "Genmab",
+      "title": "Applied AI & Clinical Technology Innovation Intern",
+      "postedToDiscord": "2025-12-22T03:25:33.031Z",
+      "sourceDate": "2025-12-17T23:19:39.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Applied-AI---Clinical-Technology-Innovation-Intern_R14895-1",
+      "discordThreadId": "1452502279226785855",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 861,
+    "totalJobs": 857,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T02:51:54.911Z",
+      "date": "2025-12-22T03:25:33.031Z",
       "archived": 0
     }
   }
