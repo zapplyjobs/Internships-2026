@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T09:56:14.933Z",
+  "lastUpdated": "2025-12-22T10:04:05.278Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9483,14 +9483,69 @@
       "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5918/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452600601622876324",
       "instanceNumber": 1
+    },
+    {
+      "id": "ge-appliances-software-engineering-co-op-louisville-2025-12-22-1",
+      "jobId": "ge-appliances-software-engineering-co-op-louisville",
+      "company": "GE Appliances",
+      "title": "Software Engineering Co-op",
+      "postedToDiscord": "2025-12-22T10:03:41.964Z",
+      "sourceDate": "2025-08-25T22:43:27.000Z",
+      "sourceUrl": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563",
+      "discordThreadId": "1452602477437517835",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ava-labs-summer-2026-internship-brooklyn-2025-12-22-1",
+      "jobId": "ava-labs-summer-2026-internship-brooklyn",
+      "company": "Ava Labs",
+      "title": "Summer 2026 Internship",
+      "postedToDiscord": "2025-12-22T10:03:48.600Z",
+      "sourceDate": "2025-09-10T23:55:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/avalabs/jobs/5644616004",
+      "discordThreadId": "1452602504306229309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-university-software-developer-intern-honolulu-2025-12-22-1",
+      "jobId": "booz-allen-university-software-developer-intern-honolulu",
+      "company": "Booz Allen",
+      "title": "University – Software Developer Intern",
+      "postedToDiscord": "2025-12-22T10:03:55.274Z",
+      "sourceDate": "2025-08-29T15:16:53.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Software-Developer-Intern_R0225356",
+      "discordThreadId": "1452602532722380881",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fannie-mae-campus-intern-data-science-analytics-and-modeling-program-washington-2025-12-22-1",
+      "jobId": "fannie-mae-campus-intern-data-science-analytics-and-modeling-program-washington",
+      "company": "Fannie Mae",
+      "title": "Campus – Intern - Data Science - Analytics and Modeling Program",
+      "postedToDiscord": "2025-12-22T10:04:01.823Z",
+      "sourceDate": "2025-08-15T23:00:28.000Z",
+      "sourceUrl": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Midtown-Center/Campus---Data-Science--Analytics-and-Modeling-Program--Intern_JR1260",
+      "discordThreadId": "1452602560480280719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mckesson-impact-strategy-analytics-intern-summer-2026-irving-2025-12-22-1",
+      "jobId": "mckesson-impact-strategy-analytics-intern-summer-2026-irving",
+      "company": "McKesson",
+      "title": "Impact Strategy & Analytics Intern - Summer 2026",
+      "postedToDiscord": "2025-12-22T10:04:05.277Z",
+      "sourceDate": "2025-12-18T19:12:34.000Z",
+      "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Impact-Strategy---Analytics-Intern---Summer-2026_JR0135785-1",
+      "discordThreadId": "1452602575051558942",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 862,
+    "totalJobs": 867,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T09:56:14.933Z",
+      "date": "2025-12-22T10:04:05.278Z",
       "archived": 0
     }
   }
