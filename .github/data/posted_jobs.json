@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T19:00:32.714Z",
+  "lastUpdated": "2025-12-22T19:08:54.191Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10308,14 +10308,69 @@
       "sourceUrl": "https://careers-essenmed.icims.com/jobs/1950/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1452737578473361759",
       "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-ai-factory-digital-twin-r-d-intern-santa-clara-2025-12-22-1",
+      "jobId": "nvidia-ai-factory-digital-twin-r-d-intern-santa-clara",
+      "company": "NVIDIA",
+      "title": "AI Factory Digital Twin R&D Intern",
+      "postedToDiscord": "2025-12-22T19:08:30.472Z",
+      "sourceDate": "2025-12-22T10:13:02.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349",
+      "discordThreadId": "1452739581710569657",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alcon-r-d-optics-intern-fort-worth-2025-12-22-1",
+      "jobId": "alcon-r-d-optics-intern-fort-worth",
+      "company": "Alcon",
+      "title": "R&D Optics Intern",
+      "postedToDiscord": "2025-12-22T19:08:37.035Z",
+      "sourceDate": "2025-12-19T23:22:03.000Z",
+      "sourceUrl": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Summer-2025---R-D-Optics-Intern_R-2025-44130",
+      "discordThreadId": "1452739610126979162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tencent-hunyuan-multimodal-algorithm-researcher-intern-omni-modal-palo-alto-2025-12-22-1",
+      "jobId": "tencent-hunyuan-multimodal-algorithm-researcher-intern-omni-modal-palo-alto",
+      "company": "Tencent",
+      "title": "Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal",
+      "postedToDiscord": "2025-12-22T19:08:41.106Z",
+      "sourceDate": "2025-12-22T02:20:10.000Z",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650",
+      "discordThreadId": "1452739625239052482",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-r-d-intern-summer-2026-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-r-d-intern-summer-2026-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "R&D Intern - Summer 2026",
+      "postedToDiscord": "2025-12-22T19:08:47.571Z",
+      "sourceDate": "2025-10-07T20:24:26.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5919/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452739654641254623",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westwood-survey-intern-cherry-hills-village-2025-12-22-1",
+      "jobId": "westwood-survey-intern-cherry-hills-village",
+      "company": "Westwood",
+      "title": "Survey Intern",
+      "postedToDiscord": "2025-12-22T19:08:54.190Z",
+      "sourceDate": "2025-09-10T22:42:15.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7343/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452739682113683498",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 937,
+    "totalJobs": 942,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T19:00:32.714Z",
+      "date": "2025-12-22T19:08:54.191Z",
       "archived": 0
     }
   }
