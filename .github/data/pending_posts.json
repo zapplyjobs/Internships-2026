@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Internship - Frontend Developer",
-      "employer_name": "ASML",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Introduction to the job ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.Job MissionThis intern position is to join the frontend team to apply the top frontend technologies to an industrial level data analytics tool, to enhance its functionality, performance and stability.Your AssignmentDevelop/project experience with TypeScript or JavaScript, could use React functional components and hooks to develop a Web application.Education and experienceCurrently pursing Master Degree with Major of Computer Science, Data Science or related degreeHave experience with data analysis, like data aggregationExperienced with version control systems (e.g., Git).Experience with data analysis, like data aggregation, statistics and etc.Experience with TypeScript or JavaScript,SkillsGood communication skill, quality driven and teamwork.Familiar with the tool chain of web development.Familiar with the tool chain of web development.Familiar with relational database.Familiar with React UI libraries AntD and ECharts a plus.Familiar with Python a plus.The current base annual salary range for this role is currently $18.00  -  $57.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00327981",
-      "job_posted_at_datetime_utc": "2025-12-19T23:41:35.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-internship-frontend-developer-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T17:46:53.244Z",
-    "postedAt": "2025-12-22T18:04:23.916Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Multiple Teams",
-      "employer_name": "General Motors",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.  Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Locations:  Mountain View, California Sunnyvale, California We are seeking highly motivated interns to research, explore, and evaluate cutting-edge AI-driven approaches for robot localization/map construction, perception, motion planning, scenario simulation, and data engineering. The role will involve hands-on experimentation, algorithm development, and integration of multi-modal sensor data to advance autonomous robotic systems.  About the Team:  The Robotics Software team is developing the next generation of autonomous robotic systems, focusing on autonomous mobile robots (AMRs) and intelligent robotic platforms. We develop full-stack robotics capabilities—from perception and planning to control and system integration—bringing innovative, real-world autonomous solutions to the future of the work.  About the Role:  We are looking for a self-motivated intern to prototype the development of AI-driven sense-plan-act architecture that supports the development, testing, and validation of autonomous robotic systems in manufacturing plants. In this role, you will focus on developing camera- and LiDAR-based wheel-drive robotic system, design technical specification, creating and executing test plan, integrating the software with physical and simulation platforms, and enabling teams to accomplish the technical and business objectives.   You will work cross-functionally with experts in autonomy, contributing to system-level validation and the continuous improvement of system robustness and validation workflows. You will focus on one or more of the following areas:   Localization Evaluate and test LiDAR-based localization repositories. Investigate Gaussian splatting localization pipelines and assess feasibility for embedded platforms. Explore machine-learning techniques for feature point correspondence between image frames. Implement and benchmark place recognition algorithms using computer vision. Integrate dynamic object handling into localization workflows. Develop multi-agent map-building and construction processes (offboard). Design sensor fusion strategies for heterogeneous modalities (e.g., 3D LiDAR, 2D LiDAR, monocular camera, IMU, wheel odometer). Apply post-processing optimization algorithms (e.g., factor graph and pose graph).  Data Engineering Create, curate, and manage datasets for training AI models. Ensure data quality and diversity for robust algorithm development.  Simulation  Upgrade the existing simulation environment to support generation of realistic 3D LiDAR data and photorealistic image rendering for advanced perception testing. Design and implement adversarial scenarios to identify potential safety vulnerabilities and enhance overall system robustness.  Perception  Develop perception solutions leveraging joint representation of Bird’s Eye View (BEV) and DETR-based object detection using multi-modality inputs.  Enhance robustness in perception pipelines for dynamic environments.   Motion Planning  Research and implement denoising diffusion-based motion planning algorithms.  Reinforcement learning in simulation engine to improve path generation policy. Evaluate performance and scalability of AI-driven planning approaches in real-world scenarios.  Key Responsibilities: Design and implement high-precision localization methods using camera, LiDAR, wheel encoder and inertial sensors.  Develop scalable and real-time localization module optimized for autonomous robotic systems. Create engineering specifications and test procedures to ensure system compliance. Evaluate and benchmark the performance of systems. Review the state-of-the-art in camera- and LiDAR-based algorithms  Troubleshoot using strong knowledge of probabilistic estimation, sensor fusion, and real-time system implementation.  Adjust and fine-tune system parameters to improve accuracy and robustness  Required Qualifications: Has a Masters Degree and is currently enrolled in a PhD program in Robotics, Computer Science, Electrical/Mechanical Engineering, or related technical fields. Proficiency in C++ or Python. Adhere to continuous development and deployment practices in robotic software development Expertise in one or more of the technical areas:  Camera- and LiDAR-based localization algorithms, statistical estimation theory, and practices such as pose graph and factor graph optimization and implementation. Understanding state-of-the-art solutions in place recognition for addressing loop-closure detection issues. Perception, e.g., feature embedding, object detection, bird’s eye view (BEV) semantic representation Motion path planning algorithms, e.g., Nav2 Simulation engines: e.g., IsaacSim, IsaacLab, and etc.  Dataset curation and annotation tools Experience optimizing algorithm/software to balance performance within resource constraints. Familiarity with ROS2 or other robotics middleware.  Preferred Qualifications: Machine learning knowledge and practice experience.  Proficiency with deep learning frameworks and toolchains like PyTorch and TensorFlow Familiarity with repositories like DETR, BEVformer, BEVfusion, SAMv2, Ceres Library/GTSAM, ORB-SLAM, VINS-Mono, and etc. Experience working with cloud-based data collection and data pipeline systems. AV/ADAS integration or industrial automation experience is a bonus. Graduating between December 2026 and June 2027.  Compensation: The monthly salary range for this role is $10,400 - $12,300 dependent upon class status and degree. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--PhD-_JR-202524749",
-      "job_posted_at_datetime_utc": "2025-12-19T23:39:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-multiple-teams-sunnyvale",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T17:46:53.244Z",
-    "postedAt": "2025-12-22T18:04:23.916Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Machine Learning Engineer-Autonomous Vehicle Engineering - PhD",
-      "employer_name": "General Motors",
-      "job_city": "Sunnyvale",
-      "job_state": "CA",
-      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Location: Sunnyvale, California  About the Team: Offboard perception: Unlike onboard perception, which must run in real time on the AV, offboard perception can leverage larger models, greater compute, and acausal processing to achieve much higher accuracy. These high-accuracy detections support multiple consumers across the organization—for example, powering simulation and generating automated labels used to train onboard models.  About the Role:  As a Machine Learning Engineering Intern, you will work alongside a world-class team of engineers and researchers on impactful AI/ML projects in robotics and advanced manufacturing. You’ll gain hands-on experience contributing to the design, prototyping, and potential deployment of AI systems in real-world industrial settings. This is an excellent opportunity to explore applied research and development while learning from top experts in the field.  What You’ll Do: Collaborate with cross-functional teams to adapt and optimize machine learning models for autonomous vehicle perception, including robotics and computer vision applications. Help build and test components of end-to-end deep learning pipelines that process multimodal sensor data (e.g., cameras, lidars, radars). Assist in developing and evaluating foundation models and transfer learning techniques for use  Participate in translating technical and business requirements into ML prototypes. Gain exposure to the training, deployment, and performance monitoring of machine learning models in production-like environments. Learn how research ideas evolve into real-world applications and contribute to the team's innovation roadmap.  Required Qualifications:  Currently enrolled in a PhD program in Computer Science, Machine Learning, Robotics, or a related STEM field. Availability to work full-time (40 hours per week) during the internship period. Demonstrated coursework, research., or projects in AI/ML. Strong programming skills in Python. Able to work fulltime, 40 hours per week.  Preferred Qualifications: Exposure to deep learning architectures such as Transformers, CNNs, or Diffusion Models. Hands-on experience with one or more machine learning frameworks (e.g., PyTorch, TensorFlow, JAX, or Keras). Experience with robotics, computer vision through projects or research. Familiarity with multimodal learning or working with sensor data. Interest in contributing to publications, open-source projects, or patents. Familiarity with systems programming languages (e.g., C++ or Java) is a plus. Intent to return to degree-program after the completion of the internship. Graduating between December 2026 and June 2027.  Compensation: The monthly salary range for this role is $13,100 per month. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Autonomous-Vehicle-Engineering--PhD-_JR-202524568",
-      "job_posted_at_datetime_utc": "2025-12-19T23:39:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd-sunnyvale",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T17:46:53.244Z",
-    "postedAt": "2025-12-22T18:04:23.916Z"
-  },
-  {
-    "job": {
-      "job_title": "AI & Digital Manufacturing Intern",
-      "employer_name": "Zoetis",
-      "job_city": "Kalamazoo",
-      "job_state": "MI",
-      "job_description": "States considered:MichiganRole Description:The intern will partner closely with the Supply Chain, Manufacturing Operations, and Process Excellence teams to support Industry 4.0 initiatives by identifying manual processes, developing AI-powered automation solutions, and implementing digital tools that enhance manufacturing efficiency, quality, and data-driven decision-making across pharmaceutical production operations.INTERNSHIP TITLE (ALL CAPS AND BOLD)Location: City, StateAI & Digital Manufacturing InternKALAMAZOO, MICHIGANInternship Summary:2-3 SentencesThe intern will partner closely with the Supply Chain, Manufacturing Operations, and Process Excellence teams to support Industry 4.0 initiatives by identifying manual processes, developing AI-powered automation solutions, and implementing digital tools that enhance manufacturing efficiency, quality, and data-driven decision-making across pharmaceutical production operationsInternship Job Duties:~5 Bullet PointsCollaborate with manufacturing, quality, and supply chain teams to identify manual, time-intensive processes across production lines, laboratories, and warehouse operations that are candidates for automation and digitization.Design and develop automation solutions using Python, RPA platforms (e.g., UiPath, Power Automate), AI/ML models, computer vision for quality inspection, and low-code platforms to streamline manufacturing workflows and reduce manual data entry.Analyze manufacturing process workflows, batch records, and production data to identify bottlenecks, inefficiencies, and opportunities for predictive analytics, real-time monitoring, and smart factory technologies.Develop user-friendly documentation, standard operating procedures (SOPs), and training materials for automation solutions to ensure successful adoption by manufacturing personnel and compliance with regulatory requirements.Internship Qualifications:~3-5 Bullet Points, must include specific degree requirements (degree and majors/specializations)Pursuing a Bachelor’s degree in Information Technology, Computer Science, Business, Supply Chain Management, Logistics or related field.Experience with Python programming, data analytics (SQL, Excel, Power BI), AI/ML frameworks (TensorFlow, scikit-learn), RPA tools (UiPath, Power Automate), or manufacturing systems (MES, LIMS, SAP) strongly preferred.Excellent communication skills with the ability to translate technical concepts to manufacturing operators, quality personnel, and cross-functional stakeholders.Strong problem-solving mindset with analytical thinking and attention to detail—critical for pharmaceutical manufacturing environments.Ability to work in a regulated pharmaceutical environment with a focus on data integrity, quality, and compliance (GMP awareness is a plus).Enthusiasm for Industry 4.0, smart manufacturing, and leveraging emerging technologies to drive operational excellence and continuous improvement.Familiarity with IoT sensors, computer vision, predictive maintenance, digital twins, or manufacturing execution systems (MES) is a plus. The following hourly pay rates reflect the anticipated base pay for this position: If the selected candidate is a student pursuing an Associate-level degree: $16.00 per hourIf the selected candidate is a student pursuing an Undergraduate-level degree: $20.00 per hour If the selected candidate is a student pursing a Graduate-level degree: $32.50 per hour If the selected candidate is a student pursuing a Doctorate-level degree: $36.00 per hour  The following hourly pay rates reflect the anticipated base pay for this position if a selected candidate were to be located in California, Connecticut, District of Columbia, Illinois (Chicago area), Massachusetts, New Jersey, New York, Washington (Seattle area): Student pursuing an Associate-level degree: $17.00 per hourStudent pursuing an Undergraduate-level degree: $22.00 per hour Student pursing a Graduate-level degree: $36.40 per hour Student pursuing a Doctorate-level degree: $40.30 per hourFull timeIntern (Trainee)ColleagueAny unsolicited resumes sent to Zoetis from a third party, such as an Agency recruiter, including unsolicited resumes sent to a Zoetis mailing address, fax machine or email address, directly to Zoetis employees, or to Zoetis resume database will be considered Zoetis property. Zoetis will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.Zoetis will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor but does not have the appropriate approvals to be engaged on a search.Zoetis is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status or any other protected classification. Disabled individuals are given an equal opportunity to use our online application system. We offer reasonable accommodations as an alternative if requested by an individual with a disability. Please contact Zoetis Colleague Services at zoetiscolleagueservices@zoetis.com to request an accommodation. Zoetis also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as employment eligibility verification requirements of the Immigration and Nationality Act. All applicants must possess or obtain authorization to work in the US for Zoetis. Zoetis retains sole and exclusive discretion to pursue sponsorship for the acquisition or maintenance of nonimmigrant status and employment eligibility, considering factors such as availability of qualified US workers. Individuals requiring sponsorship must disclose this fact. Please note that Zoetis seeks information related to job applications from candidates for jobs in the U.S. solely via the following: (1) our company website at www.Zoetis.com/careers site, or (2) via email to/from addresses using only the Zoetis domain of “@zoetis.com”. In addition, Zoetis does not use Google Hangout for any recruitment related activities. Any solicitation or request for information related to job applications with Zoetis via any other means and/or utilizing email addresses with any other domain should be disregarded. In addition, Zoetis will never ask candidates to make any type of personal financial investment related to gaining employment with Zoetis.",
-      "job_apply_link": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Kilgore-Road/AI---Digital-Manufacturing-Intern_JR00019671-1",
-      "job_posted_at_datetime_utc": "2025-12-19T23:39:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zoetis-ai-digital-manufacturing-intern-kalamazoo",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T17:46:53.244Z",
-    "postedAt": "2025-12-22T18:04:23.916Z"
-  },
-  {
-    "job": {
-      "job_title": "GIS Intern",
-      "employer_name": "Azuria Corporation",
-      "job_city": "Layton",
-      "job_state": "UT",
-      "job_description": "Twin D, is a subsidiary of Azuria Corporation, who is a leading provider of comprehensive rotational maintenance plans for municipal waste and storm water systems.  Twin D’s business consists of sewer and storm water maintenance, Hydro-excavation, pressure testing, and acoustic testing. Their comprehensive services provide efficient solutions tailored to meet the unique needs of each client.  The company serves customers in Utah, Idaho, Wyoming, Colorado and Arizona and prides itself on the personal touch that has produced strong client relationships for over 30 years.Position SummaryTwin D is seeking a detail-oriented and reliable GIS Intern to join our municipal projects team in Layton Utah. Under the guidance of a GIS professional, the intern will assist with a variety of tasks related to GIS projects.  This position offers a unique opportunity to gain hands on experience in applying GIS technology to real world projects.Position Responsibilities & AccountabilitiesUpdating GIS databases, preparing maps , and performing other GIS related tasks as assigned.Working both independently and under the direction of a GIS specialist to produce viable datasets.Use Microsoft office, acrobat, etc. to transition paper maps to GIS maps Create excel tables for the quality control review.Assist in designing and documenting projects.Qualification Requirements: For the successful performance of this position, an individual must be able to achieve and/or perform the essential duties of the position.  Listed below are representative requirements for job knowledge, skill, and/or ability.  Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions.Experience & Qualifications: Current student or recent graduate in GIS studies or a related fieldBasic knowledge of GIS software, such as ArcGIS online  and Pro is preferredBasic knowledge of cartography principles, digitizing, and data manipulation processes. Strong analytical and problem-solving skillsAbility to work independently and as a teamExcellent attention to detail and organizational skillsEffective written and verbal communication skillsAbility to manage multiple priorities and meet deadlinesOther Skills and AbilitiesWork Environment: Wage: $ hourly.  This is a part-time position (20 hours/week) and therefore non-benefited.Azuria is an Equal Opportunity Employer. Equal opportunity is a sound and just concept to which Azura is firmly bound. Azuria will not engage in discrimination against, or harassment of, any person employed or seeking employment with Azuria on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, non-disqualifying disability, status as a protected veteran or other characteristics protected by law.VEVRAA compliant – priority referral Protected Veterans requested.",
-      "job_apply_link": "https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/ITI-Layton-UT/Intern_R-6988",
-      "job_posted_at_datetime_utc": "2025-12-19T23:35:13.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "azuria-gis-intern-layton",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": "2025-12-22T17:46:53.244Z",
-    "postedAt": "2025-12-22T18:04:23.916Z"
-  },
-  {
-    "job": {
       "job_title": "Data Analyst Intern",
       "employer_name": "HUB International",
       "job_city": "Cincinnati",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T17:53:26.324Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T18:18:55.468Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T17:53:26.324Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T18:18:55.468Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T17:53:26.324Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T18:18:55.468Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T17:53:26.324Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T18:18:55.468Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T17:53:26.324Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T18:18:55.468Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "Atlantic Health System",
       "job_city": "Morristown",
       "job_state": "NJ",
-      "job_description": "Join Atlantic Health System in this exciting opportunity.",
+      "job_description": "The Accountable Care Organization Team is seeking a Pharmacy (Data Analytics) Intern to support initiatives aimed at improving patient outcomes through advanced data-driven strategies. This role offers hands-on experience in leveraging analytics and emerging technologies (such as AI and predictive analytics) to enhance medication management, monitor clinical metrics, and contribute to value-based care models. The intern will collaborate with clinical teams, participate in patient-facing projects, and gain exposure to innovative healthcare solutions that prioritize safety, quality, and efficiency. Key Responsibilities - Assist in analyzing pharmacy-related data to identify trends and opportunities for improving patient outcomes. - Support projects involving AI-driven tools and vendor solutions for clinical outcome optimization (e.g., blood pressure, A1C management). - Contribute to medication management and pharmacogenomics initiatives. - Participate in patient outreach efforts ...",
       "job_apply_link": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/24720",
       "job_posted_at_datetime_utc": "2025-12-19T23:09:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "atlantic-health-pharmacy-intern-data-analytics-morristown"
+      "id": "atlantic-health-pharmacy-intern-data-analytics-morristown",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:18:22.543Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "Field AI",
       "job_city": "Las Vegas",
       "job_state": "NV",
-      "job_description": "Join Field AI in this exciting opportunity.",
+      "job_description": "4.5 Field Application Engineer -Intern (Part-time) Las Vegas, NevadaLas Vegas, NVArea 4: Field and Customer Success Team /Part time /On-siteApply for this jobJob Title: Field Application Engineer InternLocation: Las Vegas, Nevada Frequent Nationwide Travel RequiredJob Type: Part-time, 20 hours + per week Who are We? Field AI is transforming how robots interact with the real world. We are building risk-aware, dependable, and field-ready AI systems that address the most complex challenges in robotics, unlocking the full potential of embodied intelligence. We go beyond typical data-driven approaches or pure transformer-based architectures, and are charting a new course, with already-globally-deployed solutions delivering real-world results and rapidly improving models through real-field applications. Learn more at https://fieldai.com.$20 - $25 an hourAbout the Job We are looking for a proactive and tech-savvy Field Application Engineer Intern to support the deployment, testing, and client-facing operations of our cutting-edge robotic systems—including drones, quadrupeds, and humanoid robots. This role is ideal for recent graduates who thrive in both technical and operational environments and are ready to travel to project sites around the U.S.You will be based out of our Las Vegas, Nevada location but must be prepared for regular travel. An up-to-date passport and REAL ID (or equivalent documentation) are preferred and may be required for travel and site access. What You’ll Get To Do:● Deploy and operate robotic systems in the field, support testing and data collection. ● Supervise remote operations and assist during client presentations and demos.● Facilitate smooth, clear communication between engineers and non-technical stakeholders.● Document technical issues, test results, and client feedback in detail.● Troubleshoot hardware and software issues and contribute to continuous workflow improvement.● Collaborate with cross-functional teams to iterate on system performance and usability.What You Have:● Bachelor’s degree in Computer Science, Robotics, Electrical Engineering, Mechatronics, or a related technical field.● Strong communication skills—able to translate complex technical topics for various audiences.● Willingness to travel frequently across the country.● Up-to-date passport and valid REAL ID (or equivalent travel documentation) is preferred.● Excellent organizational skills and the ability to work well in team-based environments. The Extras That Set You Apart: ● Hands-on experience with robotics hardware (drones, quadrupeds, humanoids, or similar).● Familiarity with basic electronics, sensors, and robotic subsystems.● Basic coding/scripting skills (Python, C++, or similar).● Prior experience in field testing, remote operations, or client-facing tech roles is a plus.CompensationThe salary range for this role is dependent upon experience. The actual offer for this position will be based on factors such as relevant experience, competencies, certifications, and how well the candidate meets the qualifications outlined above. Part of our compensation package also includes full benefits, equity, and generous time. Field AI Onsite Work PhilosophyAt Field AI, we believe the most effective way to collaborate and solve complex challenges is by working together in person. This is a fully onsite role, and candidates will be expected to work from our Irvine, CA office. In-person engagement is essential to our success, and we offer flexible working hours to support focus and work-life balance. We are dedicated to fostering a diverse and inclusive workplace and encouraging applicants from all backgrounds to apply.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/field-ai/d02a6b00-c3c7-4ad2-bec9-8ae12c9339dd/apply",
       "job_posted_at_datetime_utc": "2025-12-19T23:07:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "field-ai-field-application-engineer-las-vegas"
+      "id": "field-ai-field-application-engineer-las-vegas",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:18:22.543Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "Oracle",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_description": "Intern - Must be enrolled in a university prior to and post internship. Target Internship Duration: May-Aug 2026 or June-Sept 2026.",
       "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320800",
       "job_posted_at_datetime_utc": "2025-12-19T23:05:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "oracle-phd-applied-scientist-intern-oracle-analytics-seattle"
+      "id": "oracle-phd-applied-scientist-intern-oracle-analytics-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:18:22.543Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Carbon Direct",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Carbon Direct in this exciting opportunity.",
+      "job_description": "Join us on the journey to get to net zero Our Mission Enable organizations to reduce, remove, and utilize their emissions with carbon science. We are a purpose-driven carbon management firm dedicated to helping organizations around the world reach their climate goals. We make carbon science accessible and actionable with our team of leading scientists and an end-to-end carbon management platform. Global citizens with global impact Whether a scientist, developer, or carbon markets expert, we are united by our mission to take climate action now. We are experts in our fields, and we act with confidence. We are located across 4 countries and in states all across the U.S. Diverse backgrounds bring diverse perspectives We recognize that teams with diverse backgrounds and different experiences are powerful. Bringing together a variety of individual perspectives enhances how we can effectively address the climate crisis. Together, we are creating an environment where everyone is celebrated, and anyone can succeed. About Carbon Direct Carbon Direct is a science-first organization that combines technology with deep expertise in climate science, data, and policy to deliver actionable climate strategies and high-quality carbon dioxide removal to decarbonize the global economy. We have built a reputation as a trusted arbiter of high-quality strategy for carbon reduction, removal, and utilization throughout value chains, working with leading organizations. Our team of 70+ scientists includes thought leaders who actively contribute to the science of climate mitigation with novel assessment methodologies and public resources to facilitate action. With Carbon Direct, clients can set and equitably deliver on their climate commitments, streamline compliance, and manage risk through transparency and scientific credibility. Carbon Direct has applied its expertise to the completion of: over 600 engineered, hybrid, and nature-based carbon credit project assessments, deep diligence for multi-year off-take agreements, and project co-design engagements; over 150 unique emerging technology diligence reviews; and deep technical diligence de-risking engagements in improved forest management, reforestation, BECCS, and DAC, with commercial strategy support in collaboration with carbon credit developers to ensure that their products are best-in-class. Overview We are seeking motivated energy and climate technology professionals to join our Industrial Decarbonization Intern Program in 2026. Successful candidates will support research, modeling, analysis, and writing tasks that help solve climate change through the management of physical CO2. This internship provides an opportunity to work on cutting-edge solutions for reducing and removing CO2 emissions, including clean fuels, carbon capture and storage, low-carbon building materials, and engineered carbon dioxide removal technologies. Our work environment is fast-paced and collaborative, and the role may involve occasional travel. We value flexibility, curiosity, and the ability to work both independently and as part of a team. A successful candidate is a self-starter who understands the fundamentals of low-carbon energy systems, stays informed about technological developments in climate and sustainability, and is eager to contribute to scalable and equitable climate solutions. Responsibilities: Conduct research, modeling, expert interviews, and data analysis to support industrial decarbonization projects. Assist in research, synthesis, writing, and preparation of presentation materials as directed by team members. Participate in collaborative problem-solving with project teams. Support internal communication and coordination across teams to achieve project goals. Develop and contribute to clear and compelling reports, briefs, and presentations summarizing analytical insights. Manage deadlines through effective time management and communication with mentors and project leads. Get to know Carbon Direct and our science-based approach to decarbonization through 1:1, small group, departmental, and company-wide dialogues. Qualifications: Current graduate student (or recent college graduate) in engineering, chemistry, earth sciences, physics, environmental science, or a related field. Interest in carbon management solutions, including decarbonization and carbon removal technologies. Experience or coursework in one or more of the following: Life Cycle Assessments (LCA) and/or Techno-Economic Assessments (TEA) Carbon markets (voluntary or compliance) and relevant standards Emissions mitigation strategies such as efficiency, electrification, carbon capture and storage, and fuel switching Engineered and hybrid carbon removal solutions (e.g., direct air capture, bioenergy with carbon capture and storage, mineralization) Industrial ecology or chemical engineering principles Electricity generation and grid decarbonization strategies Ability to synthesize findings from scientific and technical reports. Strong problem-solving skills and ability to work independently with limited supervision when necessary. Excellent interpersonal skills and communication with internal teams and external stakeholders. Proficiency in Excel and/or analytical software (e.g., R, GIS, Tableau) preferred. We encourage candidates from diverse backgrounds to apply and look forward to welcoming an enthusiastic intern to our team! Benefits While we love our work, our lives aren’t defined by it. At Carbon Direct, we offer a robust benefits package that considers the whole person, their partners, and their families – and we’re always looking to improve. Our U.S. benefits* include: Comprehensive nationwide medical, dental, and vision coverage. See a preview of our coverage here. Time off as needed: Flexible vacation policy and ten company-wide holidays, plus annual winter break between Christmas and New Year's 16 weeks of fully paid parental and family leave with no tenure requirement Remote-friendly work culture with annual company-wide retreats Reimbursement for your work-from-home setup and monthly work-from-home stipend *Please note that the benefits described apply to U.S.-based employees only. For our international employees, our benefits package varies by each country and its statutory requirements. Equal Opportunity Employer Carbon Direct is an equal opportunity employer and does not discriminate on the basis of race, color, gender, religion, age, sexual orientation, national or ethnic origin, disability, marital status, veteran status, or any other occupationally irrelevant criteria. We adhere rigorously to our equal employment opportunity policies in connection with all employment decisions, including hiring, compensation, and promotion.",
       "job_apply_link": "https://job-boards.greenhouse.io/carbondirect/jobs/5008252007",
       "job_posted_at_datetime_utc": "2025-12-19T23:05:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "carbon-direct-industrial-decarbonization-intern-remote-in-usa"
+      "id": "carbon-direct-industrial-decarbonization-intern-remote-in-usa",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:18:22.543Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "CME Group",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join CME Group in this exciting opportunity.",
+      "job_description": "CME Group is the world’s leading derivatives marketplace — but our fastest-growing frontier is data and analytics. With trillions in notional trading across our markets, CME produces one of the richest financial datasets on the planet: full-depth order books, microstructure signals, volatility surfaces, curve dynamics, order flow distributions, term-structure shifts, and real-time global risk transfer behavior.Through our strategic partnership with Google Cloud Platform (GCP), we now have unmatched compute power to analyze this data at scale and build the next generation of analytics, financial mathematical models, and AI systems.This internship gives you direct access to that ecosystem.About the RoleWe are seeking a PhD student-level intern (20 hours/week, part-time, 1–2 days onsite in Chicago) for a 12-month appointment working directly with the Executive Director leading CME’s Data & Analytics buildout. This is a ground-floor opportunity to contribute to both the modernization of CME’s core analytics and the development of new AI-driven, mathematically rigorous models.The role has three interlocking pillars:1. Rebuilding & Operationalizing CME’s Financial Mathematical ModelsCME has a deep library of proprietary models across asset classes — some long-standing and widely used, others emerging. You will help:Review and where appropriate suggest improvements to analytical models using modern numerical and statistical methodsDocument and validate models in alignment with governance and regulatory standardsWork with technology to prepare models for deployment using GCP infrastructureHelp to document and at times direct conversion of legacy codebases into robust, maintainable analytics librariesEnsure mathematical transparency, reproducibility, and version controlCollaborate with Product, Clearing, Data Science, Index, and Engineering teamsExamples of model domains include:Curve construction & interpolationVolatility modelling (e.g., SABR in depth, SVI, spline surfaces, curve fitting)Option pricing & Greeks (finite-difference / Monte Carlo)Microstructure analytics (order book modeling, liquidity metrics)Risk models (scenario generation, historical VaR, CVaR, distribution modelling)Statistical estimation for high-frequency dataPros:Rare exposure to enterprise-scale quant model developmentHands-on work with real market datasets, not simulated dataOpportunity to improve models used by global financial institutionsCons:High expectations for precision, mathematical clarity, and documentationRequires comfort with governance and validation standards2. Building New Machine Learning, Embedding, and Agent-Based ModelsYou will help shape the next generation of CME’s AI capabilities, including:ML models trained on massive historical market datasetsEmbedding models for numerical, textual, and transactional dataAgent-based systems and agent-communication protocolsMarket microstructure simulations powered by intelligent agentsPredictive analytics and anomaly detection frameworksHybrid models combining financial mathematics with ML architecturesThis work sits at the intersection of quant research and state-of-the-art AI — and will be developed directly on GCP, leveraging tools such as BigQuery, Vertex AI, and large-scale notebooks.Pros:Frontier-level ML exposure with real, large datasetsCreative freedom on prototypesReal influence on CME’s long-term AI strategyCons:Ambiguity: some initiatives start from a blank pageMust be comfortable iterating quickly and defending methodological choices3. Quant Research, Data Engineering, and Cross-Functional CollaborationYou will also:Conduct quantitative research across CME’s datasetsBuild analytical pipelines using Python + GCP toolingDevelop visualizations and explainers for internal and client useSupport monthly and quarterly research themesPresent written and verbal findings to senior leadershipHelp shape best practices for model governance, testing, and production readinessWhat You BringRequiredPhD candidate in mathematics, statistics, physics, engineering, computer science, quantitative finance, econometrics, or a related fieldStrong foundation in financial mathematics (stochastic calculus, derivatives modeling, numerical methods, or equivalent)Proficiency in Python and scientific computing librariesAbility to communicate complex concepts clearly in writingStrong analytical discipline and attention to detailSelf-starter comfortable working across multiple business linesBonusExperience with GCP: BigQuery, Vertex AI, Dataflow, C++Experience with ML, embeddings, or agent-based systemsBackground in market microstructure, derivatives, or high-frequency dataPrior publications, technical reports, or model documentationSchedule & Structure20 hours/week1–2 days onsite12-month internshipFlexible to accommodate academic commitmentsDirect mentorship and collaboration with an Executive Director leading CME’s new Data & Analytics functionThis is not a typical internship — you will be a core contributor to a strategic buildout.Why This Is a Rare Opportunity for a PhD CandidateAccess to one of the deepest financial datasets in existenceAbility to work on both quantitative financial models and cutting-edge AI systemsExperience bringing models into enterprise-scale productionDirect contribution to CME’s next-generation data analytics platformExposure to real governance, validation, and model-risk frameworksA signature line on your CV that signals:“I built models used by global markets.”CME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $23.17--$38.65. Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings. This includes our comprehensive health coverage and a mental health benefit.CME Group: Where Futures are MadeCME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries. And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-opportunity employer, we consider all potential employees without regard to any protected characteristic.Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment process. Learn more here.",
       "job_apply_link": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
       "job_posted_at_datetime_utc": "2025-12-19T02:16:58.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "cme-research-and-product-development-phd-student-intern-chicago"
+      "id": "cme-research-and-product-development-phd-student-intern-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T18:18:22.543Z",
     "postedAt": null
   },
   {
