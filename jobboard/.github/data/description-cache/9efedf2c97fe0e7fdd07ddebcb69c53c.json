@@ -1,0 +1,25 @@
+{
+  "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Systems-Engineering-Learning-Coordinator-Intern_R2116573",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Title:National Security Solutions (NSS) - Software Engineering InternProject OverviewThe purpose of this project is to leverage software development practices to incorporate a new artificial intelligence system into an existing application to reduce repetitive user workflows within the system.Key ResponsibilitiesDesign and implement an AI-powered summarization feature within the Iron Stallion application ecosystem.Develop a modular, reusable backend summarization service capable of handling multiple data types.Integrate summarization capabilities into frontend applications in collaboration with senior software engineers.Implement context-aware summarization logic, adapting outputs based on user interactions.Work within object-oriented software architecture following established development standards and best practices.Collaborate with cross-functional stakeholders including analysts, operators, and developers to ensure mission relevance.Create technical documentation and knowledge transfer materials to support long-term adoption beyond the internship.Learning Outcomes & ImpactThis internship provides hands-on experience designing and integrating AI-powered summarization capabilities within a mission-critical operational platform. The intern will grow their technical skillset by applying machine learning and natural language processing concepts to complex, real-world data while working alongside experienced software engineers in an enterprise environment. Through mentorship and collaborative development, the intern will gain exposure to full-stack system design, scalable services, andproduction-quality code. By embedding AI directly into analyst workflows, the project reduces repetitive analysis tasks, accelerates decision-making, and establishes a reusable foundation for future AI-driven capabilities across the Iron Stallion ecosystem.Minimum QualificationsCurrently pursuing a bachelor’s degree in computer science, Computer Engineering, or a related technical field.Coursework or experience in object-oriented programming (e.g., Java, JavaScript, Python, or similar languages).Familiarity with software development fundamentals, including data structures, algorithms, and system design concepts.Strong analytical, problem solving, and communication skillsPreferred QualificationsExposure to web application development.Exposure to machine learning or artificial intelligence concepts.Prior course or internship work incorporating artificial intelligence features.Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company.  That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
+    "requirements": [
+      "Currently pursuing a bachelor’s degree in computer science, Computer Engineering, or a related technical field."
+    ],
+    "responsibilities": [
+      "Develop a modular, reusable backend summarization service capable of handling multiple data types.",
+      "Work within object-oriented software architecture following established development standards and best practices.",
+      "Collaborate with cross-functional stakeholders including analysts, operators, and developers to ensure mission relevance.",
+      "Familiarity with software development fundamentals, including data structures, algorithms, and system design concepts.",
+      "Exposure to web application development.",
+      "We Are a Team of Teams – We have a will to succeed, but we value the achievements of our team of teams over individual accomplishments. Our collective focus makes us a better, stronger, more effective company."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Systems-Engineering-Learning-Coordinator-Intern_R2116573",
+      "fetchedAt": "2025-12-22T05:06:13.879Z"
+    }
+  },
+  "cachedAt": 1766379973879
+}
