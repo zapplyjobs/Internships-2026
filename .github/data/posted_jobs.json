@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T19:35:37.799Z",
+  "lastUpdated": "2025-12-22T19:44:45.350Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10484,14 +10484,69 @@
       "sourceUrl": "https://eswt.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21226",
       "discordThreadId": "1452746407420100618",
       "instanceNumber": 1
+    },
+    {
+      "id": "caci-cloud-software-intern-multiple-teams-hanover-2025-12-22-1",
+      "jobId": "caci-cloud-software-intern-multiple-teams-hanover",
+      "company": "CACI",
+      "title": "Cloud Software Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-22T19:44:21.349Z",
+      "sourceDate": "2025-09-27T01:30:24.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Hanover/Cloud-Software-Intern---Summer-2026_317536",
+      "discordThreadId": "1452748600944627877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "united-therapeutics-intern-health-sciences-data-analyst-silver-spring-2025-12-22-1",
+      "jobId": "united-therapeutics-intern-health-sciences-data-analyst-silver-spring",
+      "company": "United Therapeutics Corporation",
+      "title": "Intern Health Sciences Data Analyst",
+      "postedToDiscord": "2025-12-22T19:44:28.333Z",
+      "sourceDate": "2025-12-22T19:24:15.000Z",
+      "sourceUrl": "https://vhr-unither.wd5.myworkdayjobs.com/External/job/Silver-Spring-MD/Intern---Health-Sciences-Data-Analyst_R04532",
+      "discordThreadId": "1452748631676293252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sarasota-county-gis-intern-on-site-summer-2026-internship-sarasota-2025-12-22-1",
+      "jobId": "sarasota-county-gis-intern-on-site-summer-2026-internship-sarasota",
+      "company": "Sarasota County",
+      "title": "GIS Intern  On-Site Summer 2026 Internship",
+      "postedToDiscord": "2025-12-22T19:44:34.798Z",
+      "sourceDate": "2025-12-22T19:22:43.000Z",
+      "sourceUrl": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Twin-Lakes-Park/GIS-Intern---On-Site-Summer-2026-Internship_R20268",
+      "discordThreadId": "1452748660700872847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-probe-process-manassas-2025-12-22-1",
+      "jobId": "micron-technology-intern-probe-process-manassas",
+      "company": "Micron Technology",
+      "title": "Intern – Probe Process",
+      "postedToDiscord": "2025-12-22T19:44:41.685Z",
+      "sourceDate": "2025-12-22T19:21:47.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128",
+      "discordThreadId": "1452748687980892312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-global-environmental-compliance-boise-2025-12-22-1",
+      "jobId": "micron-technology-intern-global-environmental-compliance-boise",
+      "company": "Micron Technology",
+      "title": "Intern – Global Environmental Compliance",
+      "postedToDiscord": "2025-12-22T19:44:45.350Z",
+      "sourceDate": "2025-12-22T19:21:41.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608",
+      "discordThreadId": "1452748703650676797",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 953,
+    "totalJobs": 958,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T19:35:37.799Z",
+      "date": "2025-12-22T19:44:45.350Z",
       "archived": 0
     }
   }
