@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 122</em></p>
+<p><em>Real-time opportunities from 126</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-232-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-122-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-240-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-126-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 122+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 232+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 126+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 240+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 232 internships & new grad roles  
-🏢 **Top Companies:** 122 elite tech companies hiring  
+🔥 **Current Opportunities:** 240 internships & new grad roles  
+🏢 **Top Companies:** 126 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 7 premium opportunities  
 📅 **Last Updated:** December 22, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1825 (older than 1 week)
+📁 **Archived Opportunities:** 1820 (older than 1 week)
 
 
 ---
@@ -136,8 +136,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| AI Factory Digital Twin R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 1h |
-| AI Factory Cooling R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 1h |
+| AI Factory Digital Twin R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 7h |
+| AI Factory Cooling R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 7h |
 | Performance Engineer | St. Louis, MO | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineering-Intern--Gaming---Winter-2026_JR2009267) | 3d |
 
 ### 🚀 **Startups & Growth** (1 position)
@@ -187,18 +187,18 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 207 | 89% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 20 | 9% | 0-1 years of experience |
-| 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 214 | 89% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 20 | 8% | 0-1 years of experience |
+| 🔴 Early Career         | 6 | 3% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Remote in USA, Locations**: 17 opportunities
+- **Remote in USA, Locations**: 18 opportunities
 - **Mountain View, CA**: 16 opportunities
-- **San Jose, CA**: 13 opportunities
+- **San Jose, CA**: 14 opportunities
 - **Milpitas, CA**: 13 opportunities
-- **Austin, TX**: 9 opportunities
+- **Austin, TX**: 10 opportunities
 - **San Bruno, CA**: 7 opportunities
 - **Princeton, NJ**: 7 opportunities
 - **Pittsburgh, PA**: 6 opportunities
@@ -207,7 +207,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 232+ verified internships and new grad roles from 122 top companies.
+✅ **100% Real Opportunities:** 240+ verified internships and new grad roles from 126 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -259,13 +259,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1825 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1820 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1825 roles
-- **🏢 Companies**: 122 companies  
+- **📁 Total Positions**: 1820 roles
+- **🏢 Companies**: 126 companies  
 - **⭐ FAANG+ Opportunities**: 80 positions
 
 ### ⭐ **FAANG+** (80 positions)
@@ -595,7 +595,7 @@ No companies available
 
 <div align="center">
 
-**🎯 232 current opportunities from 122 top companies.**
+**🎯 240 current opportunities from 126 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

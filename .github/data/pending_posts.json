@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Intern - Software Engineer - Autonomous Robot",
-      "employer_name": "General Motors",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.  Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Locations: Mountain View, CaliforniaWarren, MI We are seeking highly motivated interns to research, explore, and evaluate cutting-edge AI-driven approaches for robot localization/map construction, perception, motion planning, scenario simulation, and data engineering. The role will involve hands-on experimentation, algorithm development, and integration of multi-modal sensor data to advance autonomous robotic systems.  About the Team:  The Robotics Software team is developing the next generation of autonomous robotic systems, focusing on autonomous mobile robots (AMRs) and intelligent robotic platforms. We develop full-stack robotics capabilities—from perception and planning to control and system integration—bringing innovative, real-world autonomous solutions to the future of the work.   Role Overview:  We are looking for a self-motivated intern to prototype the development of AI-driven sense-plan-act architecture that supports the development, testing, and validation of autonomous robotic systems in manufacturing plants. In this role, you will focus on developing camera- and LiDAR-based wheel-drive robotic system, design technical specification, creating and executing test plan, integrating the software with physical and simulation platforms, and enabling teams to accomplish the technical and business objectives.   You will work cross-functionally with experts in autonomy, contributing to system-level validation and the continuous improvement of system robustness and validation workflows.  Localization Evaluate and test LiDAR-based localization repositories. Investigate Gaussian splatting localization pipelines and assess feasibility for embedded platforms. Explore machine-learning techniques for feature point correspondence between image frames. Implement and benchmark place recognition algorithms using computer vision. Integrate dynamic object handling into localization workflows. Develop multi-agent map-building and construction processes (offboard). Design sensor fusion strategies for heterogeneous modalities (e.g., 3D LiDAR, 2D LiDAR, monocular camera, IMU, wheel odometer). Apply post-processing optimization algorithms (e.g., factor graph and pose graph).  Data Engineering Create, curate, and manage datasets for training AI models. Ensure data quality and diversity for robust algorithm development.  Simulation  Upgrade the existing simulation environment to support generation of realistic 3D LiDAR data and photorealistic image rendering for advanced perception testing. Design and implement adversarial scenarios to identify potential safety vulnerabilities and enhance overall system robustness.  Perception  Develop perception solutions leveraging joint representation of Bird’s Eye View (BEV) and DETR-based object detection using multi-modality inputs.  Enhance robustness in perception pipelines for dynamic environments.   Motion Planning  Research and implement denoising diffusion-based motion planning algorithms.  Reinforcement learning in simulation engine to improve path generation policy Evaluate performance and scalability of AI-driven planning approaches in real-world scenarios.   Key Responsibilities Design and implement high-precision localization methods using camera, LiDAR, wheel encoder and inertial sensors.  Develop scalable and real-time localization module optimized for autonomous robotic systems. Create engineering specifications and test procedures to ensure system compliance. Evaluate and benchmark the performance of systems. Review the state-of-the-art in camera- and LiDAR-based algorithms. Troubleshoot using strong knowledge of probabilistic estimation, sensor fusion, and real-time system implementation.  Adjust and fine-tune system parameters to improve accuracy and robustness  Required Qualifications: Currently enrolled in a Masters Degree and completed at least 1 year of Masters in Robotics, Computer Science, Electrical/Mechanical Engineering, or related technical fields. Proficiency in C++ or Python. Adhere to continuous development and deployment practices in robotic software development Expertise in one or more of the technical areas:  Camera- and LiDAR-based localization algorithms, statistical estimation theory, and practices such as pose graph and factor graph optimization and implementation. Understanding state-of-the-art solutions in place recognition for addressing loop-closure detection issues. Perception, e.g., feature embedding, object detection, bird’s eye view (BEV) semantic representation Motion path planning algorithms, e.g., Nav2 Simulation engines: e.g., IsaacSim, IsaacLab, and etc.  Dataset curation and annotation tools Experience optimizing algorithm/software to balance performance within resource constraints. Familiarity with ROS2 or other robotics middleware.  Preferred Qualifications: Machine learning knowledge and practice experience.  Proficiency with deep learning frameworks and toolchains like PyTorch and TensorFlow. Familiarity with repositories like DETR, BEVformer, BEVfusion, SAMv2, Ceres Library/GTSAM, ORB-SLAM, VINS-Mono, and etc. Experience working with cloud-based data collection and data pipeline systems. AV/ADAS integration or industrial automation experience is a bonus Graduating between December 2026 and June 2027.  Compensation: The monthly salary range for this role is $ 7,300 - $10,600 per month. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program. What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--Masters-Degree-_JR-202524731",
-      "job_posted_at_datetime_utc": "2025-12-19T19:47:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-software-engineer-autonomous-robot-mountain-view",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T20:17:14.574Z",
-    "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": "2025-12-22T11:29:06.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Machine Learning Engineer - Map Enhancements",
-      "employer_name": "General Motors",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Job Description  To help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.    Work Arrangement:  Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.    Locations:   Warren, Michigan  Austin, TX  About the Team:  The Production Mapping Software Team plays a pivotal role in the software development of mapping solutions to support AV/ADAS at General Motors. This team is responsible for delivering integrated and tested software for various GM features, including Super Cruise and Adaptive Cruise Control.    About The Role:   In this role, you will be asked to support team objectives by deploying machine learning models and algorithms using cloud compute resources and applying advanced data analytics to tackle complex problems for the Map Enhancements team.  Areas of focus may include developing algorithms, writing software scripts, or performing analytics using vehicle data.    What You’ll Do:  Build and deploy models and algorithms using Databricks Develop scripts to manage data workflows using Python or PySpark Analyze large datasets to discover trends and patterns Present complex information using data visualization techniques Create and maintain technical documentation Complete training, learning, and skills development    Required Qualification:   Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a PhD in computer science or a related field.  Able to work fulltime, 40 hours per week.  Python software skills and experience with ML libraries such as PyTorch or TensorFlow Demonstratable fundamentals in statistical modeling and machine learning frameworks and tools   Preferred Qualifications:   Experience working with cloud infrastructure and high-performance compute systems Experience with geospatial data and analytics Intent to return to degree-program after the completion of the internship.  Graduating between December 2026 and June 2027.    Compensation:  The monthly salary range for this role is $11,100 – $11,400 per month   GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.    What you’ll get from us (Benefits):  Paid US GM Holidays  GM Family First Vehicle Discount Program  Result-based potential for growth within GM   Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--PhD-_JR-202524566",
-      "job_posted_at_datetime_utc": "2025-12-19T19:47:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-machine-learning-engineer-map-enhancements-austin",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T20:17:14.574Z",
-    "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": "2025-12-22T11:29:06.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Map Enhancements",
-      "employer_name": "General Motors",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.    Work Arrangement:  Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.    Locations:   Warren, Michigan  Austin, TX  About the Team:  The Production Mapping Software Team plays a pivotal role in the software development of mapping solutions to support AV/ADAS at General Motors. This team is responsible for delivering integrated and tested software for various GM features, including Super Cruise and Adaptive Cruise Control.    About The Role:   In this role, you will be asked to support team objectives by deploying machine learning models and algorithms using cloud compute resources and applying advanced data analytics to tackle complex problems for the Map Enhancements team.  Areas of focus may include developing algorithms, writing software scripts, or performing analytics using vehicle data.    What You’ll Do:  Build and deploy models and algorithms using Databricks Develop scripts to manage data workflows using Python or PySpark Analyze large datasets to discover trends and patterns Present complex information using data visualization techniques Create and maintain technical documentation Complete training, learning, and skills development    Required Qualification:   Currently enrolled in a full-time, degree-seeking program and in the process of obtaining a Master's degree in computer science or a related field.  Able to work fulltime, 40 hours per week.  Python software skills and experience with ML libraries such as PyTorch or TensorFlow Demonstratable fundamentals in statistical modeling and machine learning frameworks and tools   Preferred Qualifications:   Experience working with cloud infrastructure and high-performance compute systems Experience with geospatial data and analytics Intent to return to degree-program after the completion of the internship.  Graduating between December 2026 and June 2027.    Compensation:  The monthly salary range for this role is $9,100 – $9,400 per month   GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.    What you’ll get from us (Benefits):  Paid US GM Holidays  GM Family First Vehicle Discount Program  Result-based potential for growth within GM   Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
-      "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Map-Enhancements--Masters-_JR-202524669",
-      "job_posted_at_datetime_utc": "2025-12-19T19:47:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-motors-intern-map-enhancements-austin",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T20:17:14.574Z",
-    "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": "2025-12-22T11:29:06.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "American Fidelity",
-      "job_city": "Oklahoma City",
-      "job_state": "OK",
-      "job_description": "Job descriptionPerform various duties to support technical functions of the Enterprise Data & Innovation department. This could include, but is not necessarily limited to: data integration, database design, software programming, software testing, process analysis, requirements, report writing, data analysis, data scrubbing, predictive modeling, business intelligence development, troubleshooting and resolving technical problems, documentation and system administration using on-premise and/or cloud environments.Prepare and deliver reports and presentations to various groups of various sizes to communicate findings and / or recommendationsWork collaboratively with manager, department members and other internsQualificationsMust be graduating December 2026 or after.Basic Data modeling knowledgeStrong collaboration and teamwork skillsProblem solving skillsStrong communication skills (verbal and written)Competent business etiquette and business ethicsStrong experience with MS Productivity Suite (Word, Excel, PowerPoint, etc.)Ability to learn and adapt quickly, especially technologyAbility to analyze and document both business and technical processesBasic business and financial acumenCritical thinking skillsKnowledge of PC hardware and softwareStrong work ethic‎ jd",
-      "job_apply_link": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Data-Science-Intern_JR373",
-      "job_posted_at_datetime_utc": "2025-12-19T19:46:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "american-fidelity-data-science-intern-oklahoma-city",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T20:17:14.574Z",
-    "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": "2025-12-22T11:29:06.368Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Global Partners",
-      "job_city": "Waltham",
-      "job_state": "MA",
-      "job_description": "Job Summary:At Global Partners, business starts with people. Since 1933, we’ve believed in taking care of our customers, our guests, our communities, and each other—and that belief continues to guide us.  The Global Spirit is how we work to fuel that long term commitment to success. As a Fortune 500 company with 90+ years of experience, we’re proud to fuel communities—responsibly and sustainably. We show up every day with grit, passion, and purpose—anticipating needs, building lasting relationships, and creating shared value. Job Description:Additional Job Description:Pay Range:$16.03 - $20.46The pay range for this position is outlined above. The final amount offered at the start of employment is determined based on factors including, but not limited to, experience level, knowledge, skills, abilities and geographic location, and the Company reserves the right to modify base salary at any time, including for reasons related to individual performance, Company or individual department/team performance and market factors.Our Commitments to YouCoins! We offer competitive salaries and opportunities for growth. We have an amazing Talent Development Team who create trainings for growth and job development.Health & Wellness - Medical, Dental, Visions and Life Insurance. Along with additional wellness support.The Road Ahead – We offer 401k and a match component!Professional Development - We provide tuition reimbursement; this benefit is offered after 6 months of service.What to Expect From the Hiring ProcessWe value passion and potential. Please apply if you’re qualified and interested—we’d love to hear from you. A member of our Talent Acquisition team will review your application and may connect you with the hiring manager if your experience is a strong match. Interviews are conducted virtually and in person, depending on the role. We’ll provide more details about next steps if selected to move forward.  Global Partners LP is an equal opportunity employer. We foster a company culture where ideas from all people help us grow, move and thrive. We embrace the diversity of all applicants and do not discriminate against race, color, religion, sex, age, national origin, sexual orientation, gender identity, disability, protected veteran status or any other basis prohibited by federal, state or local law. If you have a disability and need an accommodation to apply, please contact our recruiting department at 781-747-9675 or 781-7GP-WORK.*Disclaimer: At Global Partners, we don't use lie detector tests for any employment decisions. We follow all the rules and regulations, so we need to let you know: In Massachusetts, it's illegal to require or administer a lie detector test as a condition of employment of continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
-      "job_apply_link": "https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/Data-Science-Intern_R0029914",
-      "job_posted_at_datetime_utc": "2025-12-19T19:42:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "global-partners-data-science-intern-waltham",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-19T20:17:14.574Z",
-    "enrichedAt": "2025-12-22T11:03:44.329Z",
-    "postedAt": "2025-12-22T11:29:06.368Z"
-  },
-  {
-    "job": {
       "job_title": "Clinical Supplies Data Analyst Intern - Undergraduate Students",
       "employer_name": "AstraZeneca",
       "job_city": "Gaithersburg",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T20:17:14.574Z",
     "enrichedAt": "2025-12-22T11:17:02.791Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T17:47:29.926Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T21:16:53.776Z",
     "enrichedAt": "2025-12-22T11:17:02.791Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T17:47:29.926Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-19T23:16:46.778Z",
     "enrichedAt": "2025-12-22T11:17:02.791Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T17:47:29.926Z"
   },
   {
     "job": {
@@ -854,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T11:17:02.791Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T17:47:29.926Z"
   },
   {
     "job": {
@@ -874,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-20T19:03:02.462Z",
     "enrichedAt": "2025-12-22T11:17:02.791Z",
-    "postedAt": null
+    "postedAt": "2025-12-22T17:47:29.926Z"
   },
   {
     "job": {
@@ -985,16 +885,18 @@
       "employer_name": "ASML",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ASML in this exciting opportunity.",
+      "job_description": "Introduction to the job ASML US, including its affiliates and subsidiaries, bring together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, Netherlands, and we have 18 office locations around the United States including main offices in Chandler, Arizona, San Jose and San Diego, California, Wilton, Connecticut, and Hillsboro, Oregon.Job MissionThis intern position is to join the frontend team to apply the top frontend technologies to an industrial level data analytics tool, to enhance its functionality, performance and stability.Your AssignmentDevelop/project experience with TypeScript or JavaScript, could use React functional components and hooks to develop a Web application.Education and experienceCurrently pursing Master Degree with Major of Computer Science, Data Science or related degreeHave experience with data analysis, like data aggregationExperienced with version control systems (e.g., Git).Experience with data analysis, like data aggregation, statistics and etc.Experience with TypeScript or JavaScript,SkillsGood communication skill, quality driven and teamwork.Familiar with the tool chain of web development.Familiar with the tool chain of web development.Familiar with relational database.Familiar with React UI libraries AntD and ECharts a plus.Familiar with Python a plus.The current base annual salary range for this role is currently $18.00  -  $57.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
       "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00327981",
       "job_posted_at_datetime_utc": "2025-12-19T23:41:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "asml-internship-frontend-developer-san-jose"
+      "id": "asml-internship-frontend-developer-san-jose",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T17:46:53.244Z",
     "postedAt": null
   },
   {
@@ -1003,16 +905,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from.  Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Locations:  Mountain View, California Sunnyvale, California We are seeking highly motivated interns to research, explore, and evaluate cutting-edge AI-driven approaches for robot localization/map construction, perception, motion planning, scenario simulation, and data engineering. The role will involve hands-on experimentation, algorithm development, and integration of multi-modal sensor data to advance autonomous robotic systems.  About the Team:  The Robotics Software team is developing the next generation of autonomous robotic systems, focusing on autonomous mobile robots (AMRs) and intelligent robotic platforms. We develop full-stack robotics capabilities—from perception and planning to control and system integration—bringing innovative, real-world autonomous solutions to the future of the work.  About the Role:  We are looking for a self-motivated intern to prototype the development of AI-driven sense-plan-act architecture that supports the development, testing, and validation of autonomous robotic systems in manufacturing plants. In this role, you will focus on developing camera- and LiDAR-based wheel-drive robotic system, design technical specification, creating and executing test plan, integrating the software with physical and simulation platforms, and enabling teams to accomplish the technical and business objectives.   You will work cross-functionally with experts in autonomy, contributing to system-level validation and the continuous improvement of system robustness and validation workflows. You will focus on one or more of the following areas:   Localization Evaluate and test LiDAR-based localization repositories. Investigate Gaussian splatting localization pipelines and assess feasibility for embedded platforms. Explore machine-learning techniques for feature point correspondence between image frames. Implement and benchmark place recognition algorithms using computer vision. Integrate dynamic object handling into localization workflows. Develop multi-agent map-building and construction processes (offboard). Design sensor fusion strategies for heterogeneous modalities (e.g., 3D LiDAR, 2D LiDAR, monocular camera, IMU, wheel odometer). Apply post-processing optimization algorithms (e.g., factor graph and pose graph).  Data Engineering Create, curate, and manage datasets for training AI models. Ensure data quality and diversity for robust algorithm development.  Simulation  Upgrade the existing simulation environment to support generation of realistic 3D LiDAR data and photorealistic image rendering for advanced perception testing. Design and implement adversarial scenarios to identify potential safety vulnerabilities and enhance overall system robustness.  Perception  Develop perception solutions leveraging joint representation of Bird’s Eye View (BEV) and DETR-based object detection using multi-modality inputs.  Enhance robustness in perception pipelines for dynamic environments.   Motion Planning  Research and implement denoising diffusion-based motion planning algorithms.  Reinforcement learning in simulation engine to improve path generation policy. Evaluate performance and scalability of AI-driven planning approaches in real-world scenarios.  Key Responsibilities: Design and implement high-precision localization methods using camera, LiDAR, wheel encoder and inertial sensors.  Develop scalable and real-time localization module optimized for autonomous robotic systems. Create engineering specifications and test procedures to ensure system compliance. Evaluate and benchmark the performance of systems. Review the state-of-the-art in camera- and LiDAR-based algorithms  Troubleshoot using strong knowledge of probabilistic estimation, sensor fusion, and real-time system implementation.  Adjust and fine-tune system parameters to improve accuracy and robustness  Required Qualifications: Has a Masters Degree and is currently enrolled in a PhD program in Robotics, Computer Science, Electrical/Mechanical Engineering, or related technical fields. Proficiency in C++ or Python. Adhere to continuous development and deployment practices in robotic software development Expertise in one or more of the technical areas:  Camera- and LiDAR-based localization algorithms, statistical estimation theory, and practices such as pose graph and factor graph optimization and implementation. Understanding state-of-the-art solutions in place recognition for addressing loop-closure detection issues. Perception, e.g., feature embedding, object detection, bird’s eye view (BEV) semantic representation Motion path planning algorithms, e.g., Nav2 Simulation engines: e.g., IsaacSim, IsaacLab, and etc.  Dataset curation and annotation tools Experience optimizing algorithm/software to balance performance within resource constraints. Familiarity with ROS2 or other robotics middleware.  Preferred Qualifications: Machine learning knowledge and practice experience.  Proficiency with deep learning frameworks and toolchains like PyTorch and TensorFlow Familiarity with repositories like DETR, BEVformer, BEVfusion, SAMv2, Ceres Library/GTSAM, ORB-SLAM, VINS-Mono, and etc. Experience working with cloud-based data collection and data pipeline systems. AV/ADAS integration or industrial automation experience is a bonus. Graduating between December 2026 and June 2027.  Compensation: The monthly salary range for this role is $10,400 - $12,300 dependent upon class status and degree. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Autonomous-Robot--PhD-_JR-202524749",
       "job_posted_at_datetime_utc": "2025-12-19T23:39:16.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-multiple-teams-sunnyvale"
+      "id": "general-motors-intern-multiple-teams-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T17:46:53.244Z",
     "postedAt": null
   },
   {
@@ -1021,16 +925,18 @@
       "employer_name": "General Motors",
       "job_city": "Sunnyvale",
       "job_state": "CA",
-      "job_description": "Join General Motors in this exciting opportunity.",
+      "job_description": "Job DescriptionTo help facilitate administration of relocation benefits if you are selected, please apply using the permanent address you would move from. Work Arrangement: Hybrid: This internship is categorized as hybrid. The selected intern is expected to report to the office up to three times per week or as determined by the team.  Location: Sunnyvale, California  About the Team: Offboard perception: Unlike onboard perception, which must run in real time on the AV, offboard perception can leverage larger models, greater compute, and acausal processing to achieve much higher accuracy. These high-accuracy detections support multiple consumers across the organization—for example, powering simulation and generating automated labels used to train onboard models.  About the Role:  As a Machine Learning Engineering Intern, you will work alongside a world-class team of engineers and researchers on impactful AI/ML projects in robotics and advanced manufacturing. You’ll gain hands-on experience contributing to the design, prototyping, and potential deployment of AI systems in real-world industrial settings. This is an excellent opportunity to explore applied research and development while learning from top experts in the field.  What You’ll Do: Collaborate with cross-functional teams to adapt and optimize machine learning models for autonomous vehicle perception, including robotics and computer vision applications. Help build and test components of end-to-end deep learning pipelines that process multimodal sensor data (e.g., cameras, lidars, radars). Assist in developing and evaluating foundation models and transfer learning techniques for use  Participate in translating technical and business requirements into ML prototypes. Gain exposure to the training, deployment, and performance monitoring of machine learning models in production-like environments. Learn how research ideas evolve into real-world applications and contribute to the team's innovation roadmap.  Required Qualifications:  Currently enrolled in a PhD program in Computer Science, Machine Learning, Robotics, or a related STEM field. Availability to work full-time (40 hours per week) during the internship period. Demonstrated coursework, research., or projects in AI/ML. Strong programming skills in Python. Able to work fulltime, 40 hours per week.  Preferred Qualifications: Exposure to deep learning architectures such as Transformers, CNNs, or Diffusion Models. Hands-on experience with one or more machine learning frameworks (e.g., PyTorch, TensorFlow, JAX, or Keras). Experience with robotics, computer vision through projects or research. Familiarity with multimodal learning or working with sensor data. Interest in contributing to publications, open-source projects, or patents. Familiarity with systems programming languages (e.g., C++ or Java) is a plus. Intent to return to degree-program after the completion of the internship. Graduating between December 2026 and June 2027.  Compensation: The monthly salary range for this role is $13,100 per month. GM will provide a one-time lump sum taxable stipend payment to eligible students selected for the 2026 Student Program.  What you’ll get from us (Benefits): Paid US GM Holidays GM Family First Vehicle Discount Program Result-based potential for growth within GM Intern events to network with company leaders and peers \n\nAbout GMOur vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.Why Join Us We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.Benefits OverviewFrom day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources.Non-Discrimination and Equal Employment Opportunities (U.S.)General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.AccommodationsGeneral Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.",
       "job_apply_link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Machine-Learning-Engineer--Autonomous-Vehicle-Engineering--PhD-_JR-202524568",
       "job_posted_at_datetime_utc": "2025-12-19T23:39:15.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-motors-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd-sunnyvale"
+      "id": "general-motors-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd-sunnyvale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T17:46:53.244Z",
     "postedAt": null
   },
   {
@@ -1039,16 +945,18 @@
       "employer_name": "Zoetis",
       "job_city": "Kalamazoo",
       "job_state": "MI",
-      "job_description": "Join Zoetis in this exciting opportunity.",
+      "job_description": "States considered:MichiganRole Description:The intern will partner closely with the Supply Chain, Manufacturing Operations, and Process Excellence teams to support Industry 4.0 initiatives by identifying manual processes, developing AI-powered automation solutions, and implementing digital tools that enhance manufacturing efficiency, quality, and data-driven decision-making across pharmaceutical production operations.INTERNSHIP TITLE (ALL CAPS AND BOLD)Location: City, StateAI & Digital Manufacturing InternKALAMAZOO, MICHIGANInternship Summary:2-3 SentencesThe intern will partner closely with the Supply Chain, Manufacturing Operations, and Process Excellence teams to support Industry 4.0 initiatives by identifying manual processes, developing AI-powered automation solutions, and implementing digital tools that enhance manufacturing efficiency, quality, and data-driven decision-making across pharmaceutical production operationsInternship Job Duties:~5 Bullet PointsCollaborate with manufacturing, quality, and supply chain teams to identify manual, time-intensive processes across production lines, laboratories, and warehouse operations that are candidates for automation and digitization.Design and develop automation solutions using Python, RPA platforms (e.g., UiPath, Power Automate), AI/ML models, computer vision for quality inspection, and low-code platforms to streamline manufacturing workflows and reduce manual data entry.Analyze manufacturing process workflows, batch records, and production data to identify bottlenecks, inefficiencies, and opportunities for predictive analytics, real-time monitoring, and smart factory technologies.Develop user-friendly documentation, standard operating procedures (SOPs), and training materials for automation solutions to ensure successful adoption by manufacturing personnel and compliance with regulatory requirements.Internship Qualifications:~3-5 Bullet Points, must include specific degree requirements (degree and majors/specializations)Pursuing a Bachelor’s degree in Information Technology, Computer Science, Business, Supply Chain Management, Logistics or related field.Experience with Python programming, data analytics (SQL, Excel, Power BI), AI/ML frameworks (TensorFlow, scikit-learn), RPA tools (UiPath, Power Automate), or manufacturing systems (MES, LIMS, SAP) strongly preferred.Excellent communication skills with the ability to translate technical concepts to manufacturing operators, quality personnel, and cross-functional stakeholders.Strong problem-solving mindset with analytical thinking and attention to detail—critical for pharmaceutical manufacturing environments.Ability to work in a regulated pharmaceutical environment with a focus on data integrity, quality, and compliance (GMP awareness is a plus).Enthusiasm for Industry 4.0, smart manufacturing, and leveraging emerging technologies to drive operational excellence and continuous improvement.Familiarity with IoT sensors, computer vision, predictive maintenance, digital twins, or manufacturing execution systems (MES) is a plus. The following hourly pay rates reflect the anticipated base pay for this position: If the selected candidate is a student pursuing an Associate-level degree: $16.00 per hourIf the selected candidate is a student pursuing an Undergraduate-level degree: $20.00 per hour If the selected candidate is a student pursing a Graduate-level degree: $32.50 per hour If the selected candidate is a student pursuing a Doctorate-level degree: $36.00 per hour  The following hourly pay rates reflect the anticipated base pay for this position if a selected candidate were to be located in California, Connecticut, District of Columbia, Illinois (Chicago area), Massachusetts, New Jersey, New York, Washington (Seattle area): Student pursuing an Associate-level degree: $17.00 per hourStudent pursuing an Undergraduate-level degree: $22.00 per hour Student pursing a Graduate-level degree: $36.40 per hour Student pursuing a Doctorate-level degree: $40.30 per hourFull timeIntern (Trainee)ColleagueAny unsolicited resumes sent to Zoetis from a third party, such as an Agency recruiter, including unsolicited resumes sent to a Zoetis mailing address, fax machine or email address, directly to Zoetis employees, or to Zoetis resume database will be considered Zoetis property. Zoetis will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.Zoetis will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor but does not have the appropriate approvals to be engaged on a search.Zoetis is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status or any other protected classification. Disabled individuals are given an equal opportunity to use our online application system. We offer reasonable accommodations as an alternative if requested by an individual with a disability. Please contact Zoetis Colleague Services at zoetiscolleagueservices@zoetis.com to request an accommodation. Zoetis also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as employment eligibility verification requirements of the Immigration and Nationality Act. All applicants must possess or obtain authorization to work in the US for Zoetis. Zoetis retains sole and exclusive discretion to pursue sponsorship for the acquisition or maintenance of nonimmigrant status and employment eligibility, considering factors such as availability of qualified US workers. Individuals requiring sponsorship must disclose this fact. Please note that Zoetis seeks information related to job applications from candidates for jobs in the U.S. solely via the following: (1) our company website at www.Zoetis.com/careers site, or (2) via email to/from addresses using only the Zoetis domain of “@zoetis.com”. In addition, Zoetis does not use Google Hangout for any recruitment related activities. Any solicitation or request for information related to job applications with Zoetis via any other means and/or utilizing email addresses with any other domain should be disregarded. In addition, Zoetis will never ask candidates to make any type of personal financial investment related to gaining employment with Zoetis.",
       "job_apply_link": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Kilgore-Road/AI---Digital-Manufacturing-Intern_JR00019671-1",
       "job_posted_at_datetime_utc": "2025-12-19T23:39:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "zoetis-ai-digital-manufacturing-intern-kalamazoo"
+      "id": "zoetis-ai-digital-manufacturing-intern-kalamazoo",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T17:46:53.244Z",
     "postedAt": null
   },
   {
@@ -1057,16 +965,18 @@
       "employer_name": "Azuria Corporation",
       "job_city": "Layton",
       "job_state": "UT",
-      "job_description": "Join Azuria Corporation in this exciting opportunity.",
+      "job_description": "Twin D, is a subsidiary of Azuria Corporation, who is a leading provider of comprehensive rotational maintenance plans for municipal waste and storm water systems.  Twin D’s business consists of sewer and storm water maintenance, Hydro-excavation, pressure testing, and acoustic testing. Their comprehensive services provide efficient solutions tailored to meet the unique needs of each client.  The company serves customers in Utah, Idaho, Wyoming, Colorado and Arizona and prides itself on the personal touch that has produced strong client relationships for over 30 years.Position SummaryTwin D is seeking a detail-oriented and reliable GIS Intern to join our municipal projects team in Layton Utah. Under the guidance of a GIS professional, the intern will assist with a variety of tasks related to GIS projects.  This position offers a unique opportunity to gain hands on experience in applying GIS technology to real world projects.Position Responsibilities & AccountabilitiesUpdating GIS databases, preparing maps , and performing other GIS related tasks as assigned.Working both independently and under the direction of a GIS specialist to produce viable datasets.Use Microsoft office, acrobat, etc. to transition paper maps to GIS maps Create excel tables for the quality control review.Assist in designing and documenting projects.Qualification Requirements: For the successful performance of this position, an individual must be able to achieve and/or perform the essential duties of the position.  Listed below are representative requirements for job knowledge, skill, and/or ability.  Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions.Experience & Qualifications: Current student or recent graduate in GIS studies or a related fieldBasic knowledge of GIS software, such as ArcGIS online  and Pro is preferredBasic knowledge of cartography principles, digitizing, and data manipulation processes. Strong analytical and problem-solving skillsAbility to work independently and as a teamExcellent attention to detail and organizational skillsEffective written and verbal communication skillsAbility to manage multiple priorities and meet deadlinesOther Skills and AbilitiesWork Environment: Wage: $ hourly.  This is a part-time position (20 hours/week) and therefore non-benefited.Azuria is an Equal Opportunity Employer. Equal opportunity is a sound and just concept to which Azura is firmly bound. Azuria will not engage in discrimination against, or harassment of, any person employed or seeking employment with Azuria on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, non-disqualifying disability, status as a protected veteran or other characteristics protected by law.VEVRAA compliant – priority referral Protected Veterans requested.",
       "job_apply_link": "https://aegion.wd501.myworkdayjobs.com/Aegion_Careers/job/ITI-Layton-UT/Intern_R-6988",
       "job_posted_at_datetime_utc": "2025-12-19T23:35:13.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "azuria-gis-intern-layton"
+      "id": "azuria-gis-intern-layton",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2025-12-20T19:03:02.462Z",
-    "enrichedAt": null,
+    "enrichedAt": "2025-12-22T17:46:53.244Z",
     "postedAt": null
   },
   {
@@ -1534,6 +1444,150 @@
     },
     "status": "pending",
     "addedAt": "2025-12-22T10:17:08.889Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Cloud AI-RAN R&D Intern",
+      "employer_name": "Nokia",
+      "job_city": "Dallas",
+      "job_state": "TX",
+      "job_description": "Join Nokia in this exciting opportunity.",
+      "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28498",
+      "job_posted_at_datetime_utc": "2025-12-22T16:22:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "nokia-cloud-ai-ran-r-d-intern-dallas"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technical AI Architect Intern (Master's Degree)",
+      "employer_name": "ServiceNow",
+      "job_city": "Orlando",
+      "job_state": "FL",
+      "job_description": "Join ServiceNow in this exciting opportunity.",
+      "job_apply_link": "https://jobs.smartrecruiters.com/ServiceNow/03aa9fec-d569-4a57-9aae-67959e48fd74",
+      "job_posted_at_datetime_utc": "2025-12-22T13:38:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "servicenow-technical-ai-architect-intern-master-s-degree-orlando"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GI Software Engineering Intern - Cloud Team",
+      "employer_name": "Modernizing Medicine",
+      "job_city": "Boca Raton",
+      "job_state": "FL",
+      "job_description": "Join Modernizing Medicine in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236500002",
+      "job_posted_at_datetime_utc": "2025-12-22T13:29:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "modernizing-medicine-gi-software-engineering-intern-cloud-team-boca-raton"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern Software and Test Engineer for Space and Embedded Crypto Solutions",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69376/intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions/job",
+      "job_posted_at_datetime_utc": "2025-12-22T13:27:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-intern-software-and-test-engineer-for-space-and-embedded-crypto-solutions-scottsdale"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern I - Software Test Development Engineering",
+      "employer_name": "Dexcom",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "Join Dexcom in this exciting opportunity.",
+      "job_apply_link": "https://dexcom.wd1.myworkdayjobs.com/en-US/dexcom/job/San-Diego-California/Intern-I---Software-Test-Development-Engineering_JR115297",
+      "job_posted_at_datetime_utc": "2025-12-22T13:26:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dexcom-intern-i-software-test-development-engineering-san-diego"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "SWE Intern, AI, Navigation & Controls (Undergraduate)",
+      "employer_name": "CoBot",
+      "job_city": "Santa Clara",
+      "job_state": "CA",
+      "job_description": "Join CoBot in this exciting opportunity.",
+      "job_apply_link": "https://jobs.ashbyhq.com/cobot/86933504-7a8f-46d1-a745-edfe53c47427",
+      "job_posted_at_datetime_utc": "2025-12-22T13:24:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cobot-swe-intern-ai-navigation-controls-undergraduate-santa-clara"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software R&D Intern",
+      "employer_name": "Cadence",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Cadence in this exciting opportunity.",
+      "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R52361-1",
+      "job_posted_at_datetime_utc": "2025-12-22T13:22:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cadence-software-r-d-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - Software Development Engineer in Test",
+      "employer_name": "ASML",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join ASML in this exciting opportunity.",
+      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071",
+      "job_posted_at_datetime_utc": "2025-12-22T13:22:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "asml-internship-software-development-engineer-in-test-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2025-12-22T17:46:31.942Z",
     "enrichedAt": null,
     "postedAt": null
   }
