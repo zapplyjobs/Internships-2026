@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T18:51:16.614Z",
+  "lastUpdated": "2025-12-22T19:00:32.714Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10253,14 +10253,69 @@
       "sourceUrl": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/New-York---300-Vesey-Street/Research-and-Product-Development-PhD-Student-Intern--Part-Time--12-Month-Program-_33597-1",
       "discordThreadId": "1452735245068664862",
       "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-engineer-co-op-allen-2025-12-22-1",
+      "jobId": "motorola-software-engineer-co-op-allen",
+      "company": "Motorola",
+      "title": "Software Engineer – Co-Op",
+      "postedToDiscord": "2025-12-22T19:00:08.409Z",
+      "sourceDate": "2025-09-17T02:56:21.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer---Co-Op_R57669",
+      "discordThreadId": "1452737476304310516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "associated-bank-corporate-data-analytics-intern-milwaukee-2025-12-22-1",
+      "jobId": "associated-bank-corporate-data-analytics-intern-milwaukee",
+      "company": "Associated Bank",
+      "title": "Corporate Data Analytics Intern",
+      "postedToDiscord": "2025-12-22T19:00:16.212Z",
+      "sourceDate": "2025-11-08T16:36:59.000Z",
+      "sourceUrl": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/Milwaukee-111-Kilbourn/Corporate-Intern--Data-Analytics_JR104165",
+      "discordThreadId": "1452737504925974588",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dick-s-sporting-goods-data-analytics-engineering-pittsburgh-2025-12-22-1",
+      "jobId": "dick-s-sporting-goods-data-analytics-engineering-pittsburgh",
+      "company": "Dick's Sporting Goods",
+      "title": "Data Analytics & Engineering",
+      "postedToDiscord": "2025-12-22T19:00:19.569Z",
+      "sourceDate": "2025-09-02T12:53:47.000Z",
+      "sourceUrl": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2026-Internship_202508666",
+      "discordThreadId": "1452737524295274595",
+      "instanceNumber": 1
+    },
+    {
+      "id": "axos-bank-omnichannel-data-solutions-intern-san-diego-2025-12-22-1",
+      "jobId": "axos-bank-omnichannel-data-solutions-intern-san-diego",
+      "company": "Axos Bank",
+      "title": "Omnichannel Data Solutions Intern",
+      "postedToDiscord": "2025-12-22T19:00:26.127Z",
+      "sourceDate": "2025-11-01T10:24:51.000Z",
+      "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Omnichannel-Data-Solutions-Intern---Summer-2026_JR3461",
+      "discordThreadId": "1452737550681636886",
+      "instanceNumber": 1
+    },
+    {
+      "id": "essen-health-care-quality-intern-bronx-2025-12-22-1",
+      "jobId": "essen-health-care-quality-intern-bronx",
+      "company": "Essen Health Care",
+      "title": "Quality Intern",
+      "postedToDiscord": "2025-12-22T19:00:32.714Z",
+      "sourceDate": "2025-09-11T20:05:33.000Z",
+      "sourceUrl": "https://careers-essenmed.icims.com/jobs/1950/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452737578473361759",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 932,
+    "totalJobs": 937,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T18:51:16.614Z",
+      "date": "2025-12-22T19:00:32.714Z",
       "archived": 0
     }
   }
