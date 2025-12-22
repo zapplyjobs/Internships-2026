@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-22T11:04:22.081Z",
+  "lastUpdated": "2025-12-22T11:17:32.892Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -9813,14 +9813,69 @@
       "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/211041",
       "discordThreadId": "1452617745274372147",
       "instanceNumber": 1
+    },
+    {
+      "id": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale-2025-12-22-1",
+      "jobId": "illumio-cloud-secure-intern-data-ingestion-analytics-security-sunnyvale",
+      "company": "Illumio",
+      "title": "Cloud Secure Intern - Data Ingestion - Analytics & Security",
+      "postedToDiscord": "2025-12-22T11:17:12.502Z",
+      "sourceDate": "2025-10-17T03:14:28.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/illumio/438be07e-61e0-4e09-82a8-909004e0ef03/application",
+      "discordThreadId": "1452620975651946599",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-ai-ml-engineering-intern-milpitas-2025-12-22-1",
+      "jobId": "kla-ai-ml-engineering-intern-milpitas",
+      "company": "KLA",
+      "title": "AI/ML Engineering Intern",
+      "postedToDiscord": "2025-12-22T11:17:16.238Z",
+      "sourceDate": "2025-11-24T23:17:07.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-ML-Engineering-Intern_2532391-1",
+      "discordThreadId": "1452620991032328243",
+      "instanceNumber": 1
+    },
+    {
+      "id": "international-mission-board-2026-summer-internships-richmond-2025-12-22-1",
+      "jobId": "international-mission-board-2026-summer-internships-richmond",
+      "company": "International Mission Board",
+      "title": "2026 Summer Internships",
+      "postedToDiscord": "2025-12-22T11:17:22.899Z",
+      "sourceDate": "2025-10-28T16:12:17.000Z",
+      "sourceUrl": "https://golimitless.wd1.myworkdayjobs.com/Staff_External_career_site/job/Richmond-Virginia/XMLNAME-2026-Summer-Internships_R0013756",
+      "discordThreadId": "1452621019201147001",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mercury-insurance-sales-analytics-intern-remote-in-usa-2025-12-22-1",
+      "jobId": "mercury-insurance-sales-analytics-intern-remote-in-usa",
+      "company": "Mercury Insurance",
+      "title": "Sales Analytics Intern",
+      "postedToDiscord": "2025-12-22T11:17:29.435Z",
+      "sourceDate": "2025-10-04T20:01:11.000Z",
+      "sourceUrl": "https://careers-mercuryinsurance.icims.com/jobs/5924/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452621047198388336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "iridium-communications-software-engineering-intern-multiple-teams-mclean-2025-12-22-1",
+      "jobId": "iridium-communications-software-engineering-intern-multiple-teams-mclean",
+      "company": "Iridium Communications",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-22T11:17:32.892Z",
+      "sourceDate": "2025-09-25T08:25:40.000Z",
+      "sourceUrl": "https://careers-iridium.icims.com/jobs/4753/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1452621061907677285",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 892,
+    "totalJobs": 897,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-22T11:04:22.081Z",
+      "date": "2025-12-22T11:17:32.892Z",
       "archived": 0
     }
   }
