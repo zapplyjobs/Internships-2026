@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T09:11:28.960Z",
+  "lastUpdated": "2025-12-23T17:17:17.400Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10869,14 +10869,25 @@
       "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
       "discordThreadId": "1452951723596320791",
       "instanceNumber": 1
+    },
+    {
+      "id": "assa-abloy-mobile-app-developer-intern-kennesaw-2025-12-23-1",
+      "jobId": "assa-abloy-mobile-app-developer-intern-kennesaw",
+      "company": "ASSA ABLOY",
+      "title": "Mobile App Developer Intern",
+      "postedToDiscord": "2025-12-23T17:17:17.399Z",
+      "sourceDate": "2025-12-23T16:19:23.000Z",
+      "sourceUrl": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
+      "discordThreadId": "1453073981811982418",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 988,
+    "totalJobs": 989,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T09:11:28.960Z",
+      "date": "2025-12-23T17:17:17.400Z",
       "archived": 0
     }
   }
