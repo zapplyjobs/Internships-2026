@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T17:41:11.794Z",
+  "lastUpdated": "2025-12-23T17:49:49.339Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10935,14 +10935,36 @@
       "sourceUrl": "https://motional.com/open-positions/?gh_jid=7570086003#/7570086003",
       "discordThreadId": "1453079997865529510",
       "instanceNumber": 1
+    },
+    {
+      "id": "nt-concepts-software-engineer-intern-vienna-2025-12-23-1",
+      "jobId": "nt-concepts-software-engineer-intern-vienna",
+      "company": "NT Concepts",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-23T17:49:45.817Z",
+      "sourceDate": "2025-12-23T17:06:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ntconcepts/jobs/5743018004",
+      "discordThreadId": "1453082153989701704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nt-concepts-data-science-intern-vienna-2025-12-23-1",
+      "jobId": "nt-concepts-data-science-intern-vienna",
+      "company": "NT Concepts",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-23T17:49:49.339Z",
+      "sourceDate": "2025-12-23T17:06:13.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/ntconcepts/jobs/5742629004",
+      "discordThreadId": "1453082168493473953",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 994,
+    "totalJobs": 996,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T17:41:11.794Z",
+      "date": "2025-12-23T17:49:49.339Z",
       "archived": 0
     }
   }
