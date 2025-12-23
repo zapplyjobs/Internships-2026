@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-275-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-276-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-141-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 141+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 275+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 141+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 276+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,7 +71,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 275 internships & new grad roles  
+🔥 **Current Opportunities:** 276 internships & new grad roles  
 🏢 **Top Companies:** 141 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 8 premium opportunities  
 📅 **Last Updated:** December 23, 2025  
@@ -122,14 +122,14 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 17h |
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 18h |
 
 #### 🟦 **Microsoft** (7 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 2d |
-| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 3d |
+| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 3d |
+| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 4d |
 | Data Science: Intern Opportunities | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649486) | 4d |
 | Data Science PhD Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 4d |
 | Research Intern - LLM Performance Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 4d |
@@ -166,8 +166,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 22h |
-| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 22h |
+| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 23h |
+| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 23h |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 4d |
 | Intern – HBM Software Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Software-Engineer_JR82921) | 4d |
 
@@ -195,7 +195,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 248 | 90% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 249 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 22 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
 
@@ -215,7 +215,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 275+ verified internships and new grad roles from 141 top companies.
+✅ **100% Real Opportunities:** 276+ verified internships and new grad roles from 141 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -602,7 +602,7 @@ No companies available
 
 <div align="center">
 
-**🎯 275 current opportunities from 141 top companies.**
+**🎯 276 current opportunities from 141 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
