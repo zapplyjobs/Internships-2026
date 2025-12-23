@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T02:32:35.130Z",
+  "lastUpdated": "2025-12-23T03:15:55.665Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10792,14 +10792,58 @@
       "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sales-Operations-Data-Analyst-Intern--VS-A_R60544",
       "discordThreadId": "1452851337988407487",
       "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-development-intern-west-valley-city-2025-12-23-1",
+      "jobId": "motorola-software-development-intern-west-valley-city",
+      "company": "Motorola",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-23T03:15:45.070Z",
+      "sourceDate": "2025-12-23T00:15:43.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Development-Intern---Summer-2026-Internship--Open-_R60336",
+      "discordThreadId": "1452862201055412245",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-c-software-engineer-summer-2026-internship-west-valley-city-2025-12-23-1",
+      "jobId": "motorola-c-software-engineer-summer-2026-internship-west-valley-city",
+      "company": "Motorola",
+      "title": "C# Software Engineer – Summer 2026 Internship",
+      "postedToDiscord": "2025-12-23T03:15:48.502Z",
+      "sourceDate": "2025-12-23T00:15:42.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/C--Software-Engineer---Summer-2026-Internship_R60312",
+      "discordThreadId": "1452862216104841387",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-software-engineer-summer-2026-internship-westminster-2025-12-23-1",
+      "jobId": "motorola-software-engineer-summer-2026-internship-westminster",
+      "company": "Motorola",
+      "title": "Software Engineer – Summer 2026 Internship",
+      "postedToDiscord": "2025-12-23T03:15:52.118Z",
+      "sourceDate": "2025-12-23T00:15:36.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2026-Internship_R60535",
+      "discordThreadId": "1452862230570733640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vsp-vision-intern-software-engineer-remote-in-usa-2025-12-23-1",
+      "jobId": "vsp-vision-intern-software-engineer-remote-in-usa",
+      "company": "VSP Vision",
+      "title": "Intern - Software Engineer",
+      "postedToDiscord": "2025-12-23T03:15:55.665Z",
+      "sourceDate": "2025-12-23T02:48:40.000Z",
+      "sourceUrl": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8944",
+      "discordThreadId": "1452862245787930864",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 981,
+    "totalJobs": 985,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T02:32:35.130Z",
+      "date": "2025-12-23T03:15:55.665Z",
       "archived": 0
     }
   }
