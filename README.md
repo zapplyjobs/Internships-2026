@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 138</em></p>
+<p><em>Real-time opportunities from 139</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-265-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-138-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-267-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-139-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 138+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 265+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 139+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 267+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 265 internships & new grad roles  
-🏢 **Top Companies:** 138 elite tech companies hiring  
+🔥 **Current Opportunities:** 267 internships & new grad roles  
+🏢 **Top Companies:** 139 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 8 premium opportunities  
 📅 **Last Updated:** December 23, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1800 (older than 1 week)
+📁 **Archived Opportunities:** 1801 (older than 1 week)
 
 
 ---
@@ -122,7 +122,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1h |
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 2h |
 
 #### 🟦 **Microsoft** (7 positions)
 
@@ -166,8 +166,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 6h |
-| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 6h |
+| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 7h |
+| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 7h |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 4d |
 | Intern – HBM Software Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Software-Engineer_JR82921) | 4d |
 
@@ -195,14 +195,14 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 237 | 89% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 239 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 23 | 9% | 0-1 years of experience |
 | 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Remote in USA, Locations**: 18 opportunities
+- **Remote in USA, Locations**: 19 opportunities
 - **Mountain View, CA**: 17 opportunities
 - **San Jose, CA**: 14 opportunities
 - **Milpitas, CA**: 13 opportunities
@@ -215,7 +215,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 265+ verified internships and new grad roles from 138 top companies.
+✅ **100% Real Opportunities:** 267+ verified internships and new grad roles from 139 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -267,13 +267,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1800 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1801 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1800 roles
-- **🏢 Companies**: 138 companies  
+- **📁 Total Positions**: 1801 roles
+- **🏢 Companies**: 139 companies  
 - **⭐ FAANG+ Opportunities**: 79 positions
 
 ### ⭐ **FAANG+** (79 positions)
@@ -602,7 +602,7 @@ No companies available
 
 <div align="center">
 
-**🎯 265 current opportunities from 138 top companies.**
+**🎯 267 current opportunities from 139 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
