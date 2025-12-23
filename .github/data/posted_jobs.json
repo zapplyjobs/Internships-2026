@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T19:43:59.064Z",
+  "lastUpdated": "2025-12-23T23:45:17.578Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10979,14 +10979,47 @@
       "sourceUrl": "https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148",
       "discordThreadId": "1453110897617801227",
       "instanceNumber": 1
+    },
+    {
+      "id": "kla-product-development-engineer-milpitas-2025-12-23-1",
+      "jobId": "kla-product-development-engineer-milpitas",
+      "company": "KLA",
+      "title": "Product Development Engineer",
+      "postedToDiscord": "2025-12-23T23:45:07.524Z",
+      "sourceDate": "2025-12-23T23:10:18.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2533185-1",
+      "discordThreadId": "1453171582439657636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snowflake-data-engineering-intern-summer-2026-menlo-park-2025-12-23-1",
+      "jobId": "snowflake-data-engineering-intern-summer-2026-menlo-park",
+      "company": "Snowflake",
+      "title": "Data Engineering Intern - Summer 2026",
+      "postedToDiscord": "2025-12-23T23:45:14.149Z",
+      "sourceDate": "2025-12-23T23:11:30.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/snowflake/b33f19c8-e57e-4d9f-87d9-ec2e3e3e3a22/application",
+      "discordThreadId": "1453171611502117105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "snowflake-analytics-engineering-intern-menlo-park-2025-12-23-1",
+      "jobId": "snowflake-analytics-engineering-intern-menlo-park",
+      "company": "Snowflake",
+      "title": "Analytics Engineering Intern",
+      "postedToDiscord": "2025-12-23T23:45:17.578Z",
+      "sourceDate": "2025-12-23T23:11:18.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/snowflake/8a958a71-ed09-4122-b72e-f80c2a829566/application",
+      "discordThreadId": "1453171625972334823",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 998,
+    "totalJobs": 1001,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T19:43:59.064Z",
+      "date": "2025-12-23T23:45:17.578Z",
       "archived": 0
     }
   }
