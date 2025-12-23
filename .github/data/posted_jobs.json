@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T03:47:54.109Z",
+  "lastUpdated": "2025-12-23T08:18:08.656Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10847,14 +10847,25 @@
       "sourceUrl": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Longview-TX/Software-Engineer-Computer-Science-Intern_R31071",
       "discordThreadId": "1452870292358565929",
       "instanceNumber": 1
+    },
+    {
+      "id": "oracle-cloud-product-release-intern-remote-in-usa-2025-12-23-1",
+      "jobId": "oracle-cloud-product-release-intern-remote-in-usa",
+      "company": "Oracle",
+      "title": "Cloud Product Release Intern",
+      "postedToDiscord": "2025-12-23T08:18:08.655Z",
+      "sourceDate": "2025-12-23T07:17:57.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
+      "discordThreadId": "1452938300976271442",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 986,
+    "totalJobs": 987,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T03:47:54.109Z",
+      "date": "2025-12-23T08:18:08.656Z",
       "archived": 0
     }
   }
