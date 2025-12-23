@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T01:49:53.033Z",
+  "lastUpdated": "2025-12-23T02:32:35.130Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10737,14 +10737,69 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence_202512-132169",
       "discordThreadId": "1452840592395731037",
       "instanceNumber": 1
+    },
+    {
+      "id": "velera-intern-software-engineer-net-remote-in-usa-2025-12-23-1",
+      "jobId": "velera-intern-software-engineer-net-remote-in-usa",
+      "company": "Velera",
+      "title": "Intern Software Engineer - .Net",
+      "postedToDiscord": "2025-12-23T02:32:17.654Z",
+      "sourceDate": "2025-12-22T23:07:09.000Z",
+      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern-Software-Engineer--Net----REMOTE_8887",
+      "discordThreadId": "1452851264202342421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-multiple-teams-san-bruno-2025-12-23-1",
+      "jobId": "genentech-intern-multiple-teams-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Multiple Teams",
+      "postedToDiscord": "2025-12-23T02:32:24.482Z",
+      "sourceDate": "2025-12-22T23:10:53.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Frontier-Research--Prescient-Design--AI-for-Drug-Discovery-_202512-132170-1",
+      "discordThreadId": "1452851292341928057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amazon-2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-palo-alto-2025-12-23-1",
+      "jobId": "amazon-2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-palo-alto",
+      "company": "Amazon",
+      "title": "2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning",
+      "postedToDiscord": "2025-12-23T02:32:27.929Z",
+      "sourceDate": "2025-12-22T23:07:47.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+      "discordThreadId": "1452851308322361364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "great-american-insurance-company-data-science-intern-great-american-risk-solutions-cincinnati-2025-12-23-1",
+      "jobId": "great-american-insurance-company-data-science-intern-great-american-risk-solutions-cincinnati",
+      "company": "Great American Insurance Company",
+      "title": "Data Science Intern - Great American Risk Solutions",
+      "postedToDiscord": "2025-12-23T02:32:31.542Z",
+      "sourceDate": "2025-12-22T23:06:07.000Z",
+      "sourceUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Science-Intern---Great-American-Risk-Solutions_R8343",
+      "discordThreadId": "1452851323077660736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motorola-sales-operations-data-analyst-intern-chicago-2025-12-23-1",
+      "jobId": "motorola-sales-operations-data-analyst-intern-chicago",
+      "company": "Motorola",
+      "title": "Sales Operations Data Analyst Intern",
+      "postedToDiscord": "2025-12-23T02:32:35.130Z",
+      "sourceDate": "2025-12-23T00:15:55.000Z",
+      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sales-Operations-Data-Analyst-Intern--VS-A_R60544",
+      "discordThreadId": "1452851337988407487",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 976,
+    "totalJobs": 981,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T01:49:53.033Z",
+      "date": "2025-12-23T02:32:35.130Z",
       "archived": 0
     }
   }
