@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T03:15:55.665Z",
+  "lastUpdated": "2025-12-23T03:47:54.109Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10836,14 +10836,25 @@
       "sourceUrl": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8944",
       "discordThreadId": "1452862245787930864",
       "instanceNumber": 1
+    },
+    {
+      "id": "westlake-software-engineer-computer-science-intern-longview-2025-12-23-1",
+      "jobId": "westlake-software-engineer-computer-science-intern-longview",
+      "company": "Westlake",
+      "title": "Software Engineer/Computer Science Intern",
+      "postedToDiscord": "2025-12-23T03:47:54.109Z",
+      "sourceDate": "2025-12-23T02:38:37.000Z",
+      "sourceUrl": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Longview-TX/Software-Engineer-Computer-Science-Intern_R31071",
+      "discordThreadId": "1452870292358565929",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 985,
+    "totalJobs": 986,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T03:15:55.665Z",
+      "date": "2025-12-23T03:47:54.109Z",
       "archived": 0
     }
   }
