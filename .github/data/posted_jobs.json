@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T01:10:11.257Z",
+  "lastUpdated": "2025-12-23T01:49:53.033Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10682,14 +10682,69 @@
       "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Science-Intern---Summer-2026_REQ-9628",
       "discordThreadId": "1452830601643167887",
       "instanceNumber": 1
+    },
+    {
+      "id": "medpace-software-development-co-op-summer-2027-cincinnati-2025-12-23-1",
+      "jobId": "medpace-software-development-co-op-summer-2027-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Software Development Co-Op - Summer 2027",
+      "postedToDiscord": "2025-12-23T01:49:33.225Z",
+      "sourceDate": "2025-12-22T23:14:37.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/11790?lang=en-us&icims=1",
+      "discordThreadId": "1452840508186693672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sarasota-county-public-utilities-intern-water-meter-data-analyst-sarasota-2025-12-23-1",
+      "jobId": "sarasota-county-public-utilities-intern-water-meter-data-analyst-sarasota",
+      "company": "Sarasota County",
+      "title": "Public Utilities Intern - Water Meter Data Analyst",
+      "postedToDiscord": "2025-12-23T01:49:39.703Z",
+      "sourceDate": "2025-12-22T23:13:08.000Z",
+      "sourceUrl": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Bob-Office--Warehouse/Public-Utilities---Water-Meter-Data-Analyst---On-Site-Summer-2026-Internship_R20316",
+      "discordThreadId": "1452840536573477081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datavisor-ai-machine-learning-engineering-intern-mountain-view-2025-12-23-1",
+      "jobId": "datavisor-ai-machine-learning-engineering-intern-mountain-view",
+      "company": "DataVisor",
+      "title": "AI/Machine Learning Engineering Intern",
+      "postedToDiscord": "2025-12-23T01:49:46.207Z",
+      "sourceDate": "2025-12-22T23:12:03.000Z",
+      "sourceUrl": "https://apply.workable.com/datavisor-jobs/j/8EA46581E0/apply",
+      "discordThreadId": "1452840563685724332",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoox-data-governance-intern-san-mateo-2025-12-23-1",
+      "jobId": "zoox-data-governance-intern-san-mateo",
+      "company": "Zoox",
+      "title": "Data Governance Intern",
+      "postedToDiscord": "2025-12-23T01:49:49.627Z",
+      "sourceDate": "2025-12-22T23:11:47.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/e63f6b8f-bd1a-4822-9b61-22576c01f64f/apply",
+      "discordThreadId": "1452840578285834260",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-san-bruno-2025-12-23-1",
+      "jobId": "genentech-intern-san-bruno",
+      "company": "Genentech",
+      "title": "Intern",
+      "postedToDiscord": "2025-12-23T01:49:53.033Z",
+      "sourceDate": "2025-12-22T23:10:54.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence_202512-132169",
+      "discordThreadId": "1452840592395731037",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 971,
+    "totalJobs": 976,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T01:10:11.257Z",
+      "date": "2025-12-23T01:49:53.033Z",
       "archived": 0
     }
   }
