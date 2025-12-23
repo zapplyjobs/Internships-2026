@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T17:17:17.400Z",
+  "lastUpdated": "2025-12-23T17:41:11.794Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10880,14 +10880,69 @@
       "sourceUrl": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
       "discordThreadId": "1453073981811982418",
       "instanceNumber": 1
+    },
+    {
+      "id": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck-2025-12-23-1",
+      "jobId": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
+      "company": "National Information Solutions Cooperative (NISC)",
+      "title": "Software Development Intern",
+      "postedToDiscord": "2025-12-23T17:40:57.704Z",
+      "sourceDate": "2025-12-23T17:17:06.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/nisc/jobs/7493815",
+      "discordThreadId": "1453079938348355785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-intern-ms-phd-motion-planning-and-controls-boston-2025-12-23-1",
+      "jobId": "motional-intern-ms-phd-motion-planning-and-controls-boston",
+      "company": "Motional",
+      "title": "Intern - MS/PhD - Motion Planning and Controls",
+      "postedToDiscord": "2025-12-23T17:41:04.580Z",
+      "sourceDate": "2025-12-23T17:06:48.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7570047003#/7570047003",
+      "discordThreadId": "1453079966521757871",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-intern-ms-phd-behaviors-boston-2025-12-23-1",
+      "jobId": "motional-intern-ms-phd-behaviors-boston",
+      "company": "Motional",
+      "title": "Intern - MS/PhD - Behaviors",
+      "postedToDiscord": "2025-12-23T17:41:04.591Z",
+      "sourceDate": "2025-12-23T17:06:34.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7570040003#/7570040003",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-intern-perception-boston-2025-12-23-1",
+      "jobId": "motional-intern-perception-boston",
+      "company": "Motional",
+      "title": "Intern - Perception",
+      "postedToDiscord": "2025-12-23T17:41:08.297Z",
+      "sourceDate": "2025-12-23T17:06:38.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7570001003#/7570001003",
+      "discordThreadId": "1453079982216712252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "motional-intern-master-of-science-doctor-of-philosophy-infrastructure-boston-2025-12-23-1",
+      "jobId": "motional-intern-master-of-science-doctor-of-philosophy-infrastructure-boston",
+      "company": "Motional",
+      "title": "Intern - Master of Science/Doctor of Philosophy - Infrastructure",
+      "postedToDiscord": "2025-12-23T17:41:11.794Z",
+      "sourceDate": "2025-12-23T17:06:36.000Z",
+      "sourceUrl": "https://motional.com/open-positions/?gh_jid=7570086003#/7570086003",
+      "discordThreadId": "1453079997865529510",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 989,
+    "totalJobs": 994,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T17:17:17.400Z",
+      "date": "2025-12-23T17:41:11.794Z",
       "archived": 0
     }
   }
