@@ -681,22 +681,22 @@
   },
   {
     "job": {
-      "job_title": "Cloud Product Release Intern",
-      "employer_name": "Oracle",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Oracle Product Release is seeking a Summer Intern to join the Cloud Product Release Team. The intern will leverage the Oracle APEX low-code development platform and AI technologies to automate key processes such as test planning, data validation, and item/pricing setup. Responsibilities include developing AI agents, applying prompt engineering and orchestration techniques, and integrating solutions with existing frameworks, CI/CD, and enterprise data sources—all while ensuring security and compliance requirements are met.",
-      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
-      "job_posted_at_datetime_utc": "2025-12-23T07:17:57.000Z",
+      "job_title": "Data Engineer Intern",
+      "employer_name": "Entegris",
+      "job_city": "Chaska",
+      "job_state": "MN",
+      "job_description": "Job Title:Data Engineering Intern - Summer 2026Job Description:Here at Entegris, we use advanced science to enable technologies that transform the world, and we are seeking employees who have the drive to continue the mission.The Role:Our site in Chaska, MN is seeking a/an Data Engineering Intern to join our team for the Summer 2026 season. This assignment is intended to be 12-14 weeks in duration.Our team is looking for a Data Engineer Intern to join our team. The Data Engineer Intern is responsible for designing, implementing and supporting systems for collecting, storing and analyzing data for our big data analytics cloud platform to meet short, medium and long-term digital transformation and enterprise initiatives. The Data Engineer Intern specializes in working in a variety of settings building solutions to collect, manage and convert raw data into usable information for data science and analytical purposes. In this role, you will serve as a technical engineer utilizing tools (e.g., Python), data ingestion, testing, and deployment of data to the Google Cloud Platform to enable our digital transformation strategy and harness the value of data systems strategy, needed to advance manufacturing operational excellence, customer engagement.What You’ll Do:• Work with business experts and IT Business Analysts to understand functional requirements and interact with other cross-functional teams to design, develop, test, and release features.• Analyze and organize raw data into datasets for business needs.• Build data systems and pipelines• Develop algorithms to transform data into useful, actionable information• Interpret trends and patterns• Help provide analytic support with BI and Data Science technologies• Ensure compliance with data governance and security policies• Be a member of Agile Scrum teams with planning, scoping and creation of technical solutions for the new product capabilities, through to continuous delivery to production.• Engage with business stakeholders to understand required capabilities, integrating business knowledge with technical solutions.What We Seek:• Familiar with relevant languages such as Python, R, XML, JSON, and SQL• Familiar with APIs such as REST• Fundamental understanding of data models, data mining and segmentation techniques• Great numerical and analytical skills• Familiar with AI and LLMsDesired Major(s) & Graduation Year:• Pursuing a bachelor’s degree in Engineering, Computer Science or Business discipline• Graduation date of fall 2026 or laterEligibility• Must be a currently enrolled student• Available to work 40 hours a week, M-F (8a-5p) beginning in mid-May/June through August/September.• Must be familiar with the universities requirements to participate in an internship programWhy Work at EntegrisLead. Inspire. Innovate. Define Your Future. Not everyone who works for a global company shares the same background, experiences and perspectives. We leverage the differences of our employees to bring new ideas to the table. Every employee throughout the company is encouraged to share input on projects and initiatives. Our decision-making process is truly a collaborative effort as we realize there are leaders at every level of the organization. We put our values at the core of how we operate as an organization — not just when it’s convenient, but in a lasting and meaningful way. We want the time and energy you spend here to have a positive impact on your life inside and outside of the office.What We OfferOur total rewards package goes above and beyond just a paycheck. Whether you’re looking to build your career, improve your health, or protect your wealth, we offer generous benefits to help you achieve your goals.• Generous 401(K) plan with an impressive employer match• Excellent health packages to fit your needs• Flexible work schedule with paid holidays and sick time• Values-driven culture with colleagues that rally around People, Accountability, Creativity and ExcellenceCompensation: $20-$32 hourly range with actual pay dependent on graduation year and candidate skillset.Entegris does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need Entegris immigration sponsorship (e.g., H1B, TN, STEM OPT, etc.) now or in the future.At Entegris we are committed to providing equal opportunity to all employees and applicants. Our policy is to recruit, hire, train, and reward employees for their individual abilities, achievements, and experience without regard to race, color, religion, sexual orientation, age, national origin, disability, marital or military status.",
+      "job_apply_link": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
+      "job_posted_at_datetime_utc": "2025-12-23T07:30:37.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "oracle-cloud-product-release-intern-remote-in-usa",
-      "description_platform": "generic",
+      "id": "entegris-data-engineer-intern-chaska",
+      "description_platform": "workday",
       "description_success": true
     },
     "status": "posted",
-    "addedAt": "2025-12-23T08:17:58.285Z",
-    "enrichedAt": "2025-12-23T08:17:58.993Z",
-    "postedAt": "2025-12-23T08:18:11.669Z"
+    "addedAt": "2025-12-23T09:11:11.751Z",
+    "enrichedAt": "2025-12-23T09:11:15.860Z",
+    "postedAt": "2025-12-23T09:11:31.974Z"
   }
 ]

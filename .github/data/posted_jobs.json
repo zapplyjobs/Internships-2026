@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T08:18:08.656Z",
+  "lastUpdated": "2025-12-23T09:11:28.960Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10858,14 +10858,25 @@
       "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
       "discordThreadId": "1452938300976271442",
       "instanceNumber": 1
+    },
+    {
+      "id": "entegris-data-engineer-intern-chaska-2025-12-23-1",
+      "jobId": "entegris-data-engineer-intern-chaska",
+      "company": "Entegris",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-23T09:11:28.959Z",
+      "sourceDate": "2025-12-23T07:30:37.000Z",
+      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
+      "discordThreadId": "1452951723596320791",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 987,
+    "totalJobs": 988,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T08:18:08.656Z",
+      "date": "2025-12-23T09:11:28.960Z",
       "archived": 0
     }
   }
