@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T00:42:56.073Z",
+  "lastUpdated": "2025-12-23T01:10:11.257Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -10627,14 +10627,69 @@
       "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Internship---Data-Science-and-Analytics_J-00330133",
       "discordThreadId": "1452823743905796189",
       "instanceNumber": 1
+    },
+    {
+      "id": "mcg-health-software-engineering-intern-seattle-2025-12-23-1",
+      "jobId": "mcg-health-software-engineering-intern-seattle",
+      "company": "MCG Health",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2025-12-23T01:09:47.586Z",
+      "sourceDate": "2025-12-22T23:32:36.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/mcghealth/jobs/8350498002",
+      "discordThreadId": "1452830502791811285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-transportation-data-engineering-intern-mclean-2025-12-23-1",
+      "jobId": "leidos-transportation-data-engineering-intern-mclean",
+      "company": "Leidos",
+      "title": "Transportation Data Engineering Intern",
+      "postedToDiscord": "2025-12-23T01:09:51.044Z",
+      "sourceDate": "2025-12-22T23:28:12.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Data-Engineering-Intern_R-00172390",
+      "discordThreadId": "1452830517568344208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mckesson-compliance-automation-irving-2025-12-23-1",
+      "jobId": "mckesson-compliance-automation-irving",
+      "company": "McKesson",
+      "title": "Compliance Automation",
+      "postedToDiscord": "2025-12-23T01:09:58.174Z",
+      "sourceDate": "2025-12-22T23:34:57.000Z",
+      "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Compliance-Automation-Intern---Summer-2026_JR0136577-1",
+      "discordThreadId": "1452830546072834079",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medpace-data-engineer-intern-cincinnati-2025-12-23-1",
+      "jobId": "medpace-data-engineer-intern-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2025-12-23T01:10:04.586Z",
+      "sourceDate": "2025-12-22T23:33:39.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/11791?lang=en-us&icims=1",
+      "discordThreadId": "1452830574703022265",
+      "instanceNumber": 1
+    },
+    {
+      "id": "entegris-data-science-intern-shakopee-2025-12-23-1",
+      "jobId": "entegris-data-science-intern-shakopee",
+      "company": "Entegris",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-23T01:10:11.257Z",
+      "sourceDate": "2025-12-22T23:23:06.000Z",
+      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Science-Intern---Summer-2026_REQ-9628",
+      "discordThreadId": "1452830601643167887",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 966,
+    "totalJobs": 971,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T00:42:56.073Z",
+      "date": "2025-12-23T01:10:11.257Z",
       "archived": 0
     }
   }
