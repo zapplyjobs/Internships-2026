@@ -1,107 +1,112 @@
 {
   "lastCleanup": null,
-  "lastUpdated": "2025-12-20T23:47:15.007Z",
-  "totalPosts": 885,
+  "lastUpdated": "2025-12-24T03:42:10.747Z",
+  "totalPosts": 1904,
   "channels": {
     "1429365682948145164": {
       "name": "💻・tech-internships",
-      "posts": 242,
-      "lastPost": "2025-12-20T23:47:13.324Z"
+      "posts": 454,
+      "lastPost": "2025-12-24T03:41:58.929Z"
     },
     "1449956267886907402": {
       "name": "💻・remote-usa-int",
-      "posts": 108,
-      "lastPost": "2025-12-20T23:36:33.552Z"
+      "posts": 321,
+      "lastPost": "2025-12-24T01:49:34.714Z"
     },
     "1449956806414700594": {
       "name": "🚌・boston-int",
-      "posts": 18,
-      "lastPost": "2025-12-20T23:16:57.589Z"
+      "posts": 53,
+      "lastPost": "2025-12-24T01:10:12.177Z"
     },
     "1449956348543369464": {
       "name": "🤠・austin-int",
-      "posts": 22,
-      "lastPost": "2025-12-20T20:03:38.133Z"
+      "posts": 57,
+      "lastPost": "2025-12-24T03:08:52.576Z"
     },
     "1446528260627501228": {
       "name": "🤖・ai-internships",
-      "posts": 142,
-      "lastPost": "2025-12-20T23:36:42.293Z"
+      "posts": 300,
+      "lastPost": "2025-12-24T03:42:08.886Z"
     },
     "1449956487584682044": {
       "name": "🌆・chicago-int",
-      "posts": 24,
-      "lastPost": "2025-12-20T23:36:37.116Z"
+      "posts": 49,
+      "lastPost": "2025-12-23T02:32:33.630Z"
     },
     "1449956664458350765": {
       "name": "🌉・san-francisco-int",
-      "posts": 129,
-      "lastPost": "2025-12-20T23:47:15.007Z"
+      "posts": 186,
+      "lastPost": "2025-12-24T03:42:10.747Z"
     },
     "1449956514344472617": {
       "name": "🌧️・seattle-int",
-      "posts": 46,
-      "lastPost": "2025-12-20T21:04:35.130Z"
+      "posts": 52,
+      "lastPost": "2025-12-23T01:09:46.085Z"
     },
     "1446528167362822296": {
       "name": "📈・data-science-internships",
-      "posts": 44,
-      "lastPost": "2025-12-20T20:53:28.486Z"
+      "posts": 131,
+      "lastPost": "2025-12-24T01:49:33.029Z"
     },
     "1449956299793105019": {
       "name": "🗽・new-york-int",
-      "posts": 37,
-      "lastPost": "2025-12-20T19:53:45.943Z"
+      "posts": 52,
+      "lastPost": "2025-12-24T03:08:32.206Z"
     },
     "1449956833165971568": {
       "name": "🦢・los-angeles-int",
-      "posts": 10,
-      "lastPost": "2025-12-20T23:36:44.078Z"
+      "posts": 61,
+      "lastPost": "2025-12-24T03:42:07.016Z"
     },
     "1429366120854585434": {
       "name": "💰・finance-internships",
-      "posts": 2,
-      "lastPost": "2025-12-20T21:34:52.164Z"
+      "posts": 4,
+      "lastPost": "2025-12-22T11:17:19.481Z"
     },
     "1429366524459745401": {
       "name": "📁・human-resources-internships",
-      "posts": 2,
-      "lastPost": "2025-12-19T22:40:06.691Z"
+      "posts": 7,
+      "lastPost": "2025-12-22T19:44:31.584Z"
     },
     "1429365805090607206": {
       "name": "📣・marketing-internships",
-      "posts": 10,
-      "lastPost": "2025-12-20T21:34:44.788Z"
+      "posts": 30,
+      "lastPost": "2025-12-24T03:08:50.911Z"
     },
     "1449956705780895774": {
       "name": "☀️・sunnyvale-int",
-      "posts": 14,
-      "lastPost": "2025-12-20T21:18:13.313Z"
+      "posts": 43,
+      "lastPost": "2025-12-24T01:10:22.131Z"
     },
     "1449956616018460686": {
       "name": "🌄・mountain-view-int",
-      "posts": 5,
-      "lastPost": "2025-12-20T22:53:11.254Z"
+      "posts": 26,
+      "lastPost": "2025-12-24T03:08:38.936Z"
     },
     "1429365752145645670": {
       "name": "💲・sales-internships",
-      "posts": 2,
-      "lastPost": "2025-12-20T19:26:54.908Z"
+      "posts": 11,
+      "lastPost": "2025-12-22T11:04:05.317Z"
     },
     "1449956760352719012": {
       "name": "🏙️・san-bruno-int",
-      "posts": 5,
-      "lastPost": "2025-12-20T21:34:39.827Z"
+      "posts": 22,
+      "lastPost": "2025-12-23T02:32:22.981Z"
     },
     "1429366171840286781": {
       "name": "🩺・healthcare-internships",
-      "posts": 4,
-      "lastPost": "2025-12-20T21:04:47.108Z"
+      "posts": 19,
+      "lastPost": "2025-12-23T19:43:55.804Z"
     },
     "1449956596179271833": {
       "name": "🖥️・redmond-int",
-      "posts": 19,
-      "lastPost": "2025-12-20T23:28:32.296Z"
+      "posts": 24,
+      "lastPost": "2025-12-22T10:43:49.390Z"
+    },
+    "1429366331836207126": {
+      "name": "📊・project-management-internships",
+      "posts": 2,
+      "lastPost": "2025-12-21T19:03:48.133Z"
     }
   }
 }

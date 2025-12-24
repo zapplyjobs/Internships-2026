@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8623",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "YOU WILL: - Develop and enhance internal engineering tools – build dashboards or web apps for product quality tracking, supplier performance, or packaging validation workflows. - Integrate data systems – connect PLM, ERP, and quality databases into unified reporting tools for engineering and supplier metrics. - Automate manual workflows – create scripts or services to automate document control, test data ingestion, or supplier compliance checks. - Collaborate with product engineer and quality teams – gather requirements and translate them into functional, efficient full-stack applications. - Prototype AI-driven or predictive features – explore machine learning integrations for anomaly detection. YOU ARE: - Currently pursuing a degree in Computer Science, Software Engineering, or a related technical field. - Hands-on experience with full-stack technologies – proficiency in JavaScript/TypeScript, React (or Vue), Node.js/Python, and REST or GraphQL APIs. - Familiarity with dat...",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8623",
+      "fetchedAt": "2025-12-22T08:49:52.578Z"
+    }
+  },
+  "cachedAt": 1766393392579
+}
