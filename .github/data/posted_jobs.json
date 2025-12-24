@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-23T23:45:17.578Z",
+  "lastUpdated": "2025-12-24T00:42:39.386Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11012,14 +11012,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/snowflake/8a958a71-ed09-4122-b72e-f80c2a829566/application",
       "discordThreadId": "1453171625972334823",
       "instanceNumber": 1
+    },
+    {
+      "id": "neurocrine-biosciences-epidemiology-real-world-evidence-analytics-intern-san-diego-2025-12-24-1",
+      "jobId": "neurocrine-biosciences-epidemiology-real-world-evidence-analytics-intern-san-diego",
+      "company": "Neurocrine Biosciences",
+      "title": "Epidemiology/Real World Evidence Analytics Intern",
+      "postedToDiscord": "2025-12-24T00:42:19.355Z",
+      "sourceDate": "2025-12-24T00:30:18.000Z",
+      "sourceUrl": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/EPI-RWE-Analytics-Intern_R6330",
+      "discordThreadId": "1453185971968544947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neurocrine-biosciences-commercial-analytics-intern-san-diego-2025-12-24-1",
+      "jobId": "neurocrine-biosciences-commercial-analytics-intern-san-diego",
+      "company": "Neurocrine Biosciences",
+      "title": "Commercial Analytics Intern",
+      "postedToDiscord": "2025-12-24T00:42:22.764Z",
+      "sourceDate": "2025-12-24T00:30:15.000Z",
+      "sourceUrl": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Commercial-Analytics-Intern_R6360",
+      "discordThreadId": "1453185992444870741",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neurocrine-biosciences-supply-chain-data-analytics-san-diego-2025-12-24-1",
+      "jobId": "neurocrine-biosciences-supply-chain-data-analytics-san-diego",
+      "company": "Neurocrine Biosciences",
+      "title": "Supply Chain Data Analytics",
+      "postedToDiscord": "2025-12-24T00:42:29.242Z",
+      "sourceDate": "2025-12-24T00:30:13.000Z",
+      "sourceUrl": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Supply-Chain-Data-Analytics-Intern_R6345",
+      "discordThreadId": "1453186019351462010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neurocrine-biosciences-data-analyst-clinical-solutions-intern-san-diego-2025-12-24-1",
+      "jobId": "neurocrine-biosciences-data-analyst-clinical-solutions-intern-san-diego",
+      "company": "Neurocrine Biosciences",
+      "title": "Data Analyst Clinical Solutions Intern",
+      "postedToDiscord": "2025-12-24T00:42:32.855Z",
+      "sourceDate": "2025-12-24T00:30:08.000Z",
+      "sourceUrl": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/Data-Analyst-Clinical-Solutions-Intern_R6356",
+      "discordThreadId": "1453186033800712385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-equipment-data-analyst-ai-san-jose-2025-12-24-1",
+      "jobId": "asml-intern-equipment-data-analyst-ai-san-jose",
+      "company": "ASML",
+      "title": "Intern - Equipment Data Analyst /AI",
+      "postedToDiscord": "2025-12-24T00:42:39.386Z",
+      "sourceDate": "2025-12-23T23:42:23.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Equipment-Data-Analyst--AI-Machin_J-00330559",
+      "discordThreadId": "1453186061579714592",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1001,
+    "totalJobs": 1006,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-23T23:45:17.578Z",
+      "date": "2025-12-24T00:42:39.386Z",
       "archived": 0
     }
   }
