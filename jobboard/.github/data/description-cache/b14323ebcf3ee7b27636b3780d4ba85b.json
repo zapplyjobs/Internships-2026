@@ -1,0 +1,24 @@
+{
+  "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Responsibilities:  Collaborate on the specification, design, implementation, deployment, and testing of software applications.  Recommend and implement processes following industry best practices for developing, testing, and deploying software.  Prepare and maintain design and specification documentation.  Serve as a technical contact for internal customers.  Model, teach, and apply SEL Values, Principles of Operations, and World Class Manufacturing Principles.  Understand. Create. Simplify.  Other duties as assigned.  Qualifications:  Current student pursuing a degree in computer science or equivalent with at least one year of technical coursework completed Ability to work part time during the school year and full time during the summer Programming experience in C#, Java or equivalent Object Oriented programming language Experience programming in JavaScript, CSS, HTML, Cloud Environments (AWS, Azure, GCS), or Functional Programming is a plus Experience with design or UI/UX is a plus Collaborates in a team environment Ability to learn new skills and assume new responsibilities Excellent writing, documentation, and speaking skills Background check results satisfactory to SEL Negative drug test result(s) Technologies We Use:  C#, JavaScript, Typescript, ReactPostgres, Redis, Message Brokering Git, Docker, KubernetesLocation InformationThis position is located in Charlotte, NC, a vibrant and bustling metropolis located in the heart of North Carolina. As one of the fastest-growing cities in the United States, it seamlessly blends its rich history with a modern and dynamic atmosphere. With an eclectic culinary scene, charming neighborhoods, and a warm southern hospitality, Charlotte exudes a unique charm that captivates residents and visitors alike.Pay Range Data($19.50 - $32.50 per hour)* Our intern pay is determined based on the internship role (the work you would be doing) and your year in school (when you plan to graduate). Talk to your recruiter if you are curious about the rate for your year in school.",
+    "requirements": [
+      "Current student pursuing a degree in computer science or equivalent with at least one year of technical coursework completed",
+      "Ability to work part time during the school year and full time during the summer"
+    ],
+    "responsibilities": [
+      "Collaborate on the specification, design, implementation, deployment, and testing of software applications.",
+      "Recommend and implement processes following industry best practices for developing, testing, and deploying software.",
+      "Collaborates in a team environment",
+      "Ability to learn new skills and assume new responsibilities"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
+      "fetchedAt": "2025-12-24T00:42:04.719Z"
+    }
+  },
+  "cachedAt": 1766536924719
+}
