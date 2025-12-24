@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T08:18:11.318Z",
+  "lastUpdated": "2025-12-24T16:17:45.645Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11298,14 +11298,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
       "discordThreadId": "1453300700325875743",
       "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-software-engineer-intern-palmdale-2025-12-24-1",
+      "jobId": "northrop-grumman-software-engineer-intern-palmdale",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-24T16:17:45.645Z",
+      "sourceDate": "2025-12-24T15:20:21.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175",
+      "discordThreadId": "1453421388051386481",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1027,
+    "totalJobs": 1028,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T08:18:11.318Z",
+      "date": "2025-12-24T16:17:45.645Z",
       "archived": 0
     }
   }
