@@ -1,0 +1,16 @@
+{
+  "url": "https://jobs.ashbyhq.com/Ridealso/32c3647d-90cb-4c24-ab17-e4c29a25a8a8/application",
+  "data": {
+    "success": true,
+    "platform": "ashby",
+    "description": "About ALSO. We’re ALSO, an electric mobility company originally conceived as a part of Rivian. We’re a passionate team of builders, dreamers, doers and innovators, focused on creating entirely new (not to mention, innovative and delightful) vertically integrated, small EVs designed to meet the global mobility challenges of today and tomorrow. Our mission is to inspire everyone to ride ALSO—replacing many local car, truck and SUV miles with ones on vehicles that are more affordable, more enjoyable and 10-50x more efficient. ALSO is seeking a Data Engineering Intern who’s excited to work in a fast-paced startup environment and eager to help build and support the data systems powering the next generation of ALSO vehicles and components. What You Will Do Build a unified data pipeline pulling test, fleet, and lab data from multiple sources. Clean, normalize, and structure datasets so they are reliable for KPI generation. Automate KPI calculations (reliability, durability, environmental performance). Create scalable dashboards that update without manual intervention. Document the workflow so the team can maintain and extend it long-term. What You Will Gain Backend tools experience, Developing efficiencies for real product development by enabling data driven design, visualization tools Vehicle Integration experience, CAN Data Logging, Issue triage and analysis, vehicle test planning What You Will Bring Pursuing a Bachelor’s in Engineering or a related field with an expected graduation date in 2027. Available Summer 2026 Strong problem solving and communication skills Experience with scripting languages Experience with signal and data processing and manipulation What You Will Learn Analyze data, track defects, and drive issues to closure with engineering teams. Resource planning and prioritization Preferred Experience Exposure to data pipelines Exposure with JIRA, Grafana, SIFT or similar tools Previous internship or project work in a startup, automotive, or mobility company. Why ALSO. We’re passionate about helping the world find a better way to get there—wherever it is you’re headed. We’re located in the heart of Silicon Valley and have brought together a world-class team from some of the biggest brands in the technology, automotive, cycling, outdoor recreation and retail spaces. Together we’re working hands-on to imagine, design and build an entirely new solution to a global set of transportation challenges. Perks and Benefits Robust health coverage. Excellent health, dental and vision insurance covered up to 100% by ALSO with FSA &amp; HSA options. One Medical membership and dedicated insurance advocates. Rich fertility and family building benefits with Progyny. Flexible time off. 401(k) match.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "ashby",
+      "url": "https://jobs.ashbyhq.com/Ridealso/32c3647d-90cb-4c24-ab17-e4c29a25a8a8/application",
+      "fetchedAt": "2025-12-21T19:34:07.805Z"
+    }
+  },
+  "cachedAt": 1766345647805
+}

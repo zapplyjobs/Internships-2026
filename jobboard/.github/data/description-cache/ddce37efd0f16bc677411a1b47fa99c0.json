@@ -1,0 +1,25 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Quantitative-Systems-Pharmacology-Modeling-Intern--PhD-Students_R-241829",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking for PhD level students majoring in Biomedical Engineering, Applied Mathematics, Chemical Engineering, or a related discipline for a 12-week internship role in Gaithersburg, MD from May 18th to August 7th.Position Duties:Develop a quantitative systems pharmacology model for an oncology application.Curate literature to identify parameter values and test various modeling scenarios to inform decision-making.Maintain reproducible codebase with version control and transparently communicate modeling analyses.Position Requirements:PhD level students majoring in Biomedical Engineering, Applied Mathematics, Chemical Engineering, or a related discipline.Candidates must have an expected graduation date after August 2026.Strong mathematical background and hands on experience of modeling with ODEs is required.Some coding experience is required, preferably in Python/Julia/MATLAB.Experience of mathematical modeling of biological systems is preferred.Knowledge of systems biology / QSP modeling, control theory is a plus.Ability to report onsite to Gaithersburg, MD 3 days per week. This role will not provide relocation assistance.US Work Authorization is required at time of application.This role will not be providing OPT support.Compensation range: $48 hourly.Date Posted15-Dec-2025Closing Date29-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Candidates must have an expected graduation date after August 2026.",
+      "Strong mathematical background and hands on experience of modeling with ODEs is required.",
+      "Some coding experience is required, preferably in Python/Julia/MATLAB.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "Develop a quantitative systems pharmacology model for an oncology application.",
+      "Ability to report onsite to Gaithersburg, MD 3 days per week. This role will not provide relocation assistance.",
+      "This role will not be providing OPT support."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Quantitative-Systems-Pharmacology-Modeling-Intern--PhD-Students_R-241829",
+      "fetchedAt": "2025-12-22T06:18:16.807Z"
+    }
+  },
+  "cachedAt": 1766384296807
+}

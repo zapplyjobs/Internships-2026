@@ -1,0 +1,25 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Supplies-Data-Analyst-Intern--Undergraduate-Students_R-242238",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking for undergraduate junior and senior level students majoring in Information Systems & Analytics / Data Analytics Engineering, or a related discipline for a 12-week internship role in Gaithersburg, MD from May 18th to August 7th.Position Duties:Improve the IRT setup process.Data analysis for LCS and provide insight for label generation process.Data enrichment and data harmonization.Position Requirements:Undergraduate junior and senior level students majoring in Information Systems & Analytics / Data Analytics Engineering, or a related discipline. Candidates must have an expected graduation date after August 2026.Proficiency in SQL required.Prior agentic AI knowledge required.Proficiency with an object-oriented programming language, such as Python, Swift, Objective C or Java required.Ability to report onsite to Gaithersburg, MD 3-5 days per week. This role will not provide relocation assistance.US Work Authorization is required at time of application.This role will not be providing CPT support.Compensation: $39 hourly.Date Posted19-Dec-2025Closing Date29-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Undergraduate junior and senior level students majoring in Information Systems & Analytics / Data Analytics Engineering, or a related discipline. Candidates must have an expected graduation date after August 2026.",
+      "Proficiency in SQL required.",
+      "Prior agentic AI knowledge required.",
+      "Proficiency with an object-oriented programming language, such as Python, Swift, Objective C or Java required.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "Ability to report onsite to Gaithersburg, MD 3-5 days per week. This role will not provide relocation assistance.",
+      "This role will not be providing CPT support."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Supplies-Data-Analyst-Intern--Undergraduate-Students_R-242238",
+      "fetchedAt": "2025-12-22T11:16:44.589Z"
+    }
+  },
+  "cachedAt": 1766402204590
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10509",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Dive Into Discovery: R&D Software Engineering Internship The R&D Software Engineering team at Hologic in sunny San Diego is all about creating smart software for our cutting-edge diagnostic platforms. As an intern, you won’t just be watching from the sidelines—you’ll roll up your sleeves, join the team, and help us build real solutions that make a difference in healthcare. If you’re curious, creative, and ready to learn, this is your ticket to hands-on tech experience with impact. What you’ll be up to during your 10-12 week adventure: - Get to know our Hologic-specific tech stack and see how our software powers medical innovation. - Work on an internal project that supports one of our existing diagnostic platforms—your code could make a real-world difference! - Collaborate with teammates and learn the ropes of the Software Development Life Cycle (SDLC). - Practice using programming languages like C#, C++, or Java and tools like IDEs and Git. - Share your ideas and contribute ...",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/10509",
+      "fetchedAt": "2025-12-21T22:47:51.520Z"
+    }
+  },
+  "cachedAt": 1766357271520
+}

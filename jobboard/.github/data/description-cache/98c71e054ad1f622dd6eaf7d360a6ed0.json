@@ -1,0 +1,22 @@
+{
+  "url": "https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Full Stack Software Engineer - 2026 Summer InternRemoteEngineering /Intern /RemoteApply for this jobAbout Symmetry SystemsSymmetry Systems is the Data+AI Security company. Our data security posture management platform is engineered specifically to address modern data security and privacy challenges at scale from the data out, providing organizations the ability to innovate with confidence. With total visibility into what data you have, where it lives, who can access it, and how it's being used, Symmetry safeguards your organization's data from misuse, insider threats, and cybercriminals, as well as unintended exposure of sensitive IP and personal information through use of generative AI technologies.Position OverviewWe're seeking a talented and enthusiastic summer intern to join our team - from anywhere in the US. This internship offers a unique opportunity to gain hands-on experience in the rapidly evolving field of data and AI security.ResponsibilitiesAssist in developing and testing new features for our security platformCollaborate with cross-functional teams on data analysis and visualization projectsParticipate in research initiatives related to emerging threats and security trendsSupport documentation efforts for internal and external useContribute to software development tasks under the guidance of senior team membersQualificationsCurrently pursuing a degree in Computer Science, Software Engineering, or a related fieldExperience in software developmentStrong problem-solving and debugging skillsKnowledge of programming languages such as JavaScript, PythonExperience with version control systems like GitlabAbility to work independently and in a teamStrong communication and collaboration skillsDetailsLocation: RemoteDuration: 10-12 weeks (Summer 2026)Symmetry Systems is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "requirements": [
+      "Currently pursuing a degree in Computer Science, Software Engineering, or a related field"
+    ],
+    "responsibilities": [
+      "Assist in developing and testing new features for our security platform",
+      "Contribute to software development tasks under the guidance of senior team members",
+      "Experience in software development"
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/SymmetrySystems/dbca271b-a99b-48ab-83f2-b596a037ad65",
+      "fetchedAt": "2025-12-22T05:54:30.303Z"
+    }
+  },
+  "cachedAt": 1766382870303
+}

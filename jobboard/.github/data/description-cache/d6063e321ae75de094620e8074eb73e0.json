@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8637",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "We are looking for a talented and experienced Data Scientist to join our dynamic team. As a Data Scientist, you will leverage your analytical skills and expertise in machine learning to extract insights from complex datasets and drive data-driven decision-making across our organization. You will collaborate closely with cross-functional teams to develop predictive models, uncover actionable insights, and solve challenging business problems.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8637",
+      "fetchedAt": "2025-12-22T08:18:07.007Z"
+    }
+  },
+  "cachedAt": 1766391487007
+}

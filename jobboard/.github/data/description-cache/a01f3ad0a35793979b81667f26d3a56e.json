@@ -1,0 +1,24 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking Junior students majoring in engineering, chemistry, data science, or a related field for a 12-week internship role at our Durham, NC site from May 18 2026 to August 7 2026.Position Description:Aggregate, clean, and standardize historical and new delivered dose uniformity (DDU) data, define metadata and data models, and help establish workflows for automated data ingestion and validation.Collaborate with analytical scientists and automation engineers to map test parameters, instrument outputs, and quality controls into a robust, searchable database.Development of simple dashboards or reports, and data integrity checks to enable reproducible analyses and regulatory-ready traceability.Position Requirements:Junior students majoring in engineering, chemistry, data science, or a related fieldCoding skills such as Python or SQL.Enthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.Proficiency in MS Office 365.Candidates must have an expected graduation date after August 2026.US Work Authorization is required at time of application.This role will not be granting CPT support.Ability to report onsite to Durham, NC 5 days per week. This role will not provide relocation assistance.Compensation range: $37-39 per hourDate Posted16-Dec-2025Closing Date08-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Candidates must have an expected graduation date after August 2026.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "Collaborate with analytical scientists and automation engineers to map test parameters, instrument outputs, and quality controls into a robust, searchable database.",
+      "Development of simple dashboards or reports, and data integrity checks to enable reproducible analyses and regulatory-ready traceability.",
+      "This role will not be granting CPT support.",
+      "Ability to report onsite to Durham, NC 5 days per week. This role will not provide relocation assistance."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Durham---NC/Data-Automation-and-Modeling-Intern_R-241916",
+      "fetchedAt": "2025-12-22T04:34:13.333Z"
+    }
+  },
+  "cachedAt": 1766378053334
+}

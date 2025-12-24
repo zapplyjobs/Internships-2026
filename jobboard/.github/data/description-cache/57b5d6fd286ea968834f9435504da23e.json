@@ -1,0 +1,25 @@
+{
+  "url": "https://jobs.lever.co/artera/82c93c81-1d5d-4490-9dbc-4c68af88e34f",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Machine Learning Intern (Summer 2026)Remote-USTech – AI /Intern /RemoteApply for this jobAbout Us: Artera is an AI startup that develops medical artificial intelligence tests to personalize therapy for cancer patients. Artera is on a mission to personalize medical decisions for patients and physicians on a global scale.As a Machine Learning Intern at Artera, you will work with a team of machine learning practitioners to develop AI-based biomarkers to support the personalization of cancer therapy. Using digital imagery and clinical data you will design multi-modal computer vision and deep learning models that can prognosticate patient outcomes and predict response to therapy.Essential Responsibilities: Developing novel biomarkers alongside fellow ML engineers, biostatisticians, and scientific directorsDesign and develop innovative computer vision models that predict patient outcomes and responses to therapySupport and optimize our machine learning workflow by enhancing the efficiency of tools, processes, and systems used to develop and deploy AI-based biomarkersAid in the productionalization, launch, and monitoring of machine learning productsResearch and development of machine learning algorithms that expand product capabilitiesContribute to and drive publications in scientific journals and machine learning conferencesEducation and Experience Requirements:2+ years of academic or industry experience using PyTorch or TensorFlowAbility to communicate technical (ML) details to a cross-functional team of non-technical collaborators.Entering the final year of Masters or Phd following the summer of 2026(Preferred but not required) Hands-on experience with vision-language models (VLMs), including training, fine-tuning, or evaluating multimodal models$40 - $45 an hourEqual Employee Opportunity: At Artera, we value bringing together individuals from diverse backgrounds to develop new and innovative solutions for patients and physicians. As an equal opportunity employer, we do not discriminate on the basis of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information gender identity or expression, sexual orientation, marital status, protected veteran status, or any other legally protected characteristic. Apply for this job",
+    "requirements": [
+      "2+ years of academic or industry experience using PyTorch or TensorFlow",
+      "Entering the final year of Masters or Phd following the summer of 2026",
+      "(Preferred but not required) Hands-on experience with vision-language models (VLMs), including training, fine-tuning, or evaluating multimodal models"
+    ],
+    "responsibilities": [
+      "Developing novel biomarkers alongside fellow ML engineers, biostatisticians, and scientific directors",
+      "Design and develop innovative computer vision models that predict patient outcomes and responses to therapy",
+      "Support and optimize our machine learning workflow by enhancing the efficiency of tools, processes, and systems used to develop and deploy AI-based biomarkers",
+      "Research and development of machine learning algorithms that expand product capabilities"
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/artera/82c93c81-1d5d-4490-9dbc-4c68af88e34f",
+      "fetchedAt": "2025-12-21T19:25:51.390Z"
+    }
+  },
+  "cachedAt": 1766345151390
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Job Title Co-op – Healthcare Data Scientist – Cambridge, MAJob Description Co-op – Healthcare Data Scientist – Cambridge, MA – January - August 2026Are you interested in an Internship opportunity with Philips? We welcome individuals who are currently pursuing a graduate (MS) degree to participate in paid intern opportunities. Through this role you will gain meaningful, hands-on experience working for a HealthTech company. Your role: Designing, testing, developing, deploying, maintaining, and improving algorithm software assets building on a solid knowledge of Machine learning/Generative AI technologies.Data Engineering, focusing on feature engineering, querying and analyzing data patterns.Utilizing large cross-country data lake-houses to build relevant insights and algorithms for clinical care and patient management.Designing and developing data analysis and visualizations and supporting customer data analytics processes.You're the right fit if:  MS in Computer Science, Computer Information Systems, Computer Engineering, or related degrees.Strong understanding of data science concepts and methodologies. Experience with machine learning algorithms for classification, regression, clustering, reinforcement learning, dimensionality reduction with expertise in one or more application domains of NLP, image processing, generative AI and time series analysis.Skilled in Python ML frameworks, SQL queries and at least one major programming language such as C#.Preferably: A knowledge of cloud computing and its application in data science- cloud architecture based on Amazon Web Services, leveraging AWS Data pipeline to process and move data using AWS services like EC2, Athena and S3.You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this Office/Remote position.  About Philips We are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others.  Learn more about our business.  Discover our rich and exciting history.  Learn more about our purpose.  Read more about our employee benefits.  If you’re interested in this role and have many, but not all, of the experiences needed, we encourage you to apply. You may still be the right candidate for this or other opportunities at Philips. Learn more about our commitment to diversity and inclusion here. Additional Information US work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future. Company relocation benefits will not be provided for this position.  For this position, you must reside in or within commuting distance to the job posting location. This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates.  Interested candidates are encouraged to apply as soon as possible to ensure consideration.Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.",
+    "requirements": [
+      "MS in Computer Science, Computer Information Systems, Computer Engineering, or related degrees.",
+      "You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this Office/Remote position."
+    ],
+    "responsibilities": [
+      "Designing, testing, developing, deploying, maintaining, and improving algorithm software assets building on a solid knowledge of Machine learning/Generative AI technologies.",
+      "Designing and developing data analysis and visualizations and supporting customer data analytics processes."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US/XMLNAME--Co-op---Healthcare-Data-Scientist---Cambridge--MA_563021",
+      "fetchedAt": "2025-12-21T20:30:14.128Z"
+    }
+  },
+  "cachedAt": 1766349014128
+}

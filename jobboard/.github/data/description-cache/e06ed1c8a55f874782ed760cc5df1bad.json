@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27418",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Join Nokia as a Software Dev Intern and contribute to advancing Virtualization and Cloud Computing technologies! You will work on exciting projects involving Container Technologies and Kubernetes. Collaborate with our diverse global R&D team to support our mission of inventing 5G. You'll have the unique opportunity to delve into a python/c++ development, test script and unit test development as well as gain some exposure on how GenAI tools are used in the industry. Be part of shaping the future of connectivity with us!",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27418",
+      "fetchedAt": "2025-12-22T08:18:10.362Z"
+    }
+  },
+  "cachedAt": 1766391490363
+}

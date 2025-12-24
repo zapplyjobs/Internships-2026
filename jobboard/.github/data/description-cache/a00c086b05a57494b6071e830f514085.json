@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8631",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "We are seeking a highly motivated and detail-oriented HR Data Analytics Intern to join our Human Resources team. In this role, you will work closely with HR leadership and the HR Operations team to analyze employee data, ensure data integrity, and design dashboards that provide executives with clear visibility into workforce metrics. Ideal candidates are pursuing a degree in Data Science, Statistics, Business Analytics, or a related field, and are passionate about turning large datasets into actionable insights that drive business decisions.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8631",
+      "fetchedAt": "2025-12-22T08:03:39.350Z"
+    }
+  },
+  "cachedAt": 1766390619350
+}
