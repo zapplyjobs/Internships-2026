@@ -1,0 +1,20 @@
+{
+  "url": "https://job-boards.greenhouse.io/didi/jobs/7495391",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About the Company DiDi's autonomous driving unit was established in 2016 with the mission of developing Level 4 autonomous driving (AD) technology to make transportation safer and more efficient. In August 2019, the unit became an independent company, DiDi Autonomous Driving, dedicated to advanced AD R&D, product application, and business expansion. We believe integrating AD technology into a shared-mobility fleet will generate immense social value. By leveraging DiDi's specialized technology, operational expertise, and integrated ecosystem, we are positioned to build and operate a highly efficient, user-oriented autonomous fleet. About the RoleWe are seeking an Autonomy System & Safety Engineer (PhD Intern) to join our team. This role is designed for PhD candidates who excel at applying academic rigor to solve real-world engineering challenges. You will help build the critical frameworks that test, validate, and ensure the safety of our autonomous driving system through data analysis, simulation, and systematic problem-solving. What You’ll Do Apply systematic engineering principles to develop and improve processes for evaluating autonomy system safety and performance. Analyze real-world driving data to identify system issues and work with engineering teams to create automated tools for continuous evaluation. Partner with infrastructure and simulation teams to design, implement, and manage simulation tests, developing robust safety metrics and validation protocols. Contribute to the development of a scalable safety evaluation framework to support the expansion of our autonomous vehicle operations. Qualifications Current Ph.D. candidate in Computer Science, Robotics, Electrical Engineering, Mechanical Engineering, Aerospace, or a closely related field. Hands-on project or internship experience (1-3 years) in areas such as autonomous systems, systems engineering, data analysis, or software development for complex systems. Proven technical skills demonstrated through project work, including strong proficiency in Python, SQL, or C++ for data analysis and scripting with large datasets. Relevant graduate-level coursework in subjects like autonomous systems, robotics, computer vision, machine learning, control systems, simulation, or verification & validation. A solid grasp of software development, testing methodologies, and engineering fundamentals. Preferred Qualifications Direct project or internship experience within the autonomous vehicle industry or with other safety-critical robotics/aviation systems. Coursework or project work involving simulation tools (e.g., CARLA, SVL), scenario generation, or developing metrics for autonomous agent/NPC behavior. Project-based experience modeling human or agent behavior in dynamic environments (traffic simulation, game AI, multi-agent systems). A track record of completing substantial, complex technical projects, either independently or as part of a team, that demonstrate practical engineering ability. Compensation: The hourly rate range for this position in the selected city is $46. I acknowledge that prior to submitting this application, I have read and accepted the Privacy Notice for California Residents which is available on https://v.didi.cn/AQnxlBa",
+    "requirements": [
+      "Hands-on project or internship experience (1-3 years) in areas such as autonomous systems, systems engineering, data analysis, or software development for complex systems.",
+      "Direct project or internship experience within the autonomous vehicle industry or with other safety-critical robotics/aviation systems.",
+      "Project-based experience modeling human or agent behavior in dynamic environments (traffic simulation, game AI, multi-agent systems)."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/didi/jobs/7495391",
+      "fetchedAt": "2025-12-24T03:41:47.916Z"
+    }
+  },
+  "cachedAt": 1766547707917
+}

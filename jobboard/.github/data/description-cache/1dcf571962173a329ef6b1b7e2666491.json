@@ -1,0 +1,17 @@
+{
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Oracle Product Release is seeking a Summer Intern to join the Cloud Product Release Team. The intern will leverage the Oracle APEX low-code development platform and AI technologies to automate key processes such as test planning, data validation, and item/pricing setup. Responsibilities include developing AI agents, applying prompt engineering and orchestration techniques, and integrating solutions with existing frameworks, CI/CD, and enterprise data sources—all while ensuring security and compliance requirements are met.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
+      "fetchedAt": "2025-12-23T08:17:58.993Z"
+    }
+  },
+  "cachedAt": 1766477878993
+}

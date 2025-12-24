@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "CORSAIR is seeking a highly motivated Reverse Logistics Data Engineering Intern to help design and automate data solutions that power our returns and serialization processes. This hands-on internship offers experience in building scalable databases, streamlining workflows, and applying AI-driven tools to improve operational efficiency. You’ll gain exposure to reverse logistics and data engineering best practices while contributing to projects that enhance reporting, traceability, and automation across the business.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8626",
+      "fetchedAt": "2025-12-22T08:03:42.848Z"
+    }
+  },
+  "cachedAt": 1766390622848
+}

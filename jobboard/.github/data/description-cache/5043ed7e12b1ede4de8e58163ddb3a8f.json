@@ -1,0 +1,21 @@
+{
+  "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Data Science Intern – Summer & Fall 2026CME Group is seeking a proactive and skilled Data Science Intern for the 2026 Summer and Fall 2026 terms. This role supports the Manager of Data Science in client development analytics, focusing on transforming various data sources into actionable business insights that drive sales initiatives.Key Responsibilities (Principal Accountabilities):Execute data acquisition, ETL (Extract, Transform, Load) processes utilizing tools such as SQL (Big Query) and SAP Business Object.Develop compelling data visualizations using Tableau, Looker, Streamlit, or R Shiny.Perform data processing and develop analytical models.Required Skills and Qualifications:Skills / Software Requirements:Strong proficiency in a scripting language (e.g., Python, R). Proficiency in SQL and Microsoft Excel.Proficiency with Tableau.Experience with cloud service platforms (e.g., GCP, AWS, Azure)Education:Must be currently pursuing a bachelor’s or master’s degree in a quantitative discipline (e.g., Math, Statistics, Data Science, Financial Engineering, Engineering).A finance background is highly advantageous.Internship Details:Timing: May 2026 – December 2026Hours:Summer: 32 hours per weekFall: 16 hours per weekThis is an in-person only positionCME Group is committed to offering a competitive pay package for our employee interns. The pay range typically applicable to our intern roles is $21.10--$35.14. Actual pay offered will be dependent on a wide array of factors including but not limited to: relevant experience, skills, education, location of the internship, and the internship area of focus. Through our benefits program, we offer our employee interns the opportunity to participate in select offerings. This includes our comprehensive health coverage and a mental health benefit.CME Group: Where Futures are MadeCME Group is the world’s leading derivatives marketplace. But who we are goes deeper than that. Here, you can impact markets worldwide. Transform industries. And build a career by shaping tomorrow. We invest in your success and you own it – all while working alongside a team of leading experts who inspire you in ways big and small. Problem solvers, difference makers, trailblazers. Those are our people. And we’re looking for more.At CME Group, we embrace our employees' unique experiences and skills to ensure that everyone’s perspectives are acknowledged and valued. As an equal-opportunity employer, we consider all potential employees without regard to any protected characteristic.Important Notice: Recruitment fraud is on the rise, with scammers using misleading promises of job offers and interviews to solicit money and personal information from job seekers. CME Group adheres to established procedures designed to maintain trust, confidence and security throughout our recruitment process. Learn more here.",
+    "requirements": [
+      "Must be currently pursuing a bachelor’s or master’s degree in a quantitative discipline (e.g., Math, Statistics, Data Science, Financial Engineering, Engineering)."
+    ],
+    "responsibilities": [
+      "Develop compelling data visualizations using Tableau, Looker, Streamlit, or R Shiny.",
+      "Perform data processing and develop analytical models."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Data-Science-Intern---Summer-2026---Fall-2026_33559",
+      "fetchedAt": "2025-12-21T17:44:48.710Z"
+    }
+  },
+  "cachedAt": 1766339088711
+}

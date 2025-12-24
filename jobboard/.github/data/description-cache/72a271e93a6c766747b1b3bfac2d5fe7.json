@@ -1,0 +1,16 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R52361-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Cadence seeks a graduate intern to prototype algorithms that make ECO patches implementable, timing‑robust, and testable. Work spans timing‑aware ECO (slack preservation, CTS integrity, incremental P&R hints) and DFT ECO (scan stitching, lock‑up latches, ICG test‑enable consistency). Must be enrolled in a PhD or 2nd‑year MS with focus on VLSI CAD; strong C++/Python; experience in physical synthesis/DFT/formal equivalence preferred.We’re doing work that matters. Help us solve what others can’t.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN-03/Software-R-D-Intern--Summer_R52361-1",
+      "fetchedAt": "2025-12-22T19:08:13.136Z"
+    }
+  },
+  "cachedAt": 1766430493136
+}
