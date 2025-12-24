@@ -1,0 +1,20 @@
+{
+  "url": "https://jobs.lever.co/zoox/0a53e7a7-bbbf-4834-bcd4-f0372e388dfa",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Enterprise Integration InternFoster City, CAZoox Internships – Information Technology /Internship/Co-op /HybridApply for this jobZoox’s internship program provides hands-on experiences with state of the art technology, mentorship from some of the industry's brightest minds, and the opportunity to play a part in our success. Internships at Zoox are reserved for those who demonstrate outstanding academic performance, activities outside their course work, aptitude, curiosity, and a passion for Zoox's mission.In this Role, You Will...Perform SAP Integration Suite iFlow development, adapter configuration, data transformation, API management, monitoring & troubleshootingConfigure adapters, mappings, and basic error handling in SAP Integration Suite under supervision, including simple transformations (XML/JSON) and content-based routing.Support unit testing, test data preparation, and execution of integration test cases; document test results and defects.Help with creating or updating technical documentation such as interface catalogs, design specs, and monitoring runbooks.Monitor integration jobs and message processing in SAP BTP (message tracking, retries, basic incident analysis) and escalate issues as needed.RequirementsCurrently working towards a B.S., M.S., Ph.D., or advanced degree in a Computer Science/Information Technology programGood academic standingAble to commit to a 12-week internship beginning in May or June of 2026.At least one previous industry internship, co-op, or project completed in a relevant areaAbility to relocate to the Bay Area, California for the duration of the internshipInterns at Zoox may not use any proprietary information they are working on as part of their thesis, any published work with their university, or to be distributed to anyone outside of ZooxQualifications Problem-solving, communication, collaboration, attention to detail, self-directed learningUnderstanding of REST and SOAP web services, HTTP methods, status codes, and common auth mechanisms (OAuth 2.0/basic auth).Familiarity with JSON, XML, XSD, XSLT, XPath/XQuery for data formats and transformations.Basic knowledge of enterprise integration patterns (routing, transformation, messaging) and SOA/microservices concepts.Programming Languages: Java (Intermediate), JavaScript/TypeScript (Basic), JSON/XML (Intermediate), ABAP (Nice-to-have), SQL (Basic)The monthly salary range for this position is $6,500 to $9,500. Compensation will vary based on geographic location and level of education. Additional benefits may include medical insurance, and a housing stipend (relocation assistance will be offered based on eligibility).We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "requirements": [
+      "Currently working towards a B.S., M.S., Ph.D., or advanced degree in a Computer Science/Information Technology program"
+    ],
+    "responsibilities": [
+      "Perform SAP Integration Suite iFlow development, adapter configuration, data transformation, API management, monitoring & troubleshooting"
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/zoox/0a53e7a7-bbbf-4834-bcd4-f0372e388dfa",
+      "fetchedAt": "2025-12-24T03:08:24.431Z"
+    }
+  },
+  "cachedAt": 1766545704431
+}
