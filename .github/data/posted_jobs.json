@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T01:49:36.215Z",
+  "lastUpdated": "2025-12-24T03:08:54.078Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11177,14 +11177,69 @@
       "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Data-Science-Intern_R2116913",
       "discordThreadId": "1453202909964533850",
       "instanceNumber": 1
+    },
+    {
+      "id": "paramount-global-cbs-sports-data-delivery-insights-internship-summer-2026-in-person-fort-lauderdale-fl-fort-lauderdale-2025-12-24-1",
+      "jobId": "paramount-global-cbs-sports-data-delivery-insights-internship-summer-2026-in-person-fort-lauderdale-fl-fort-lauderdale",
+      "company": "Paramount Global",
+      "title": "CBS Sports Data Delivery & Insights Internship - Summer 2026 - In Person-Fort Lauderdale','FL",
+      "postedToDiscord": "2025-12-24T03:08:33.708Z",
+      "sourceDate": "2025-12-24T02:20:47.000Z",
+      "sourceUrl": "https://careers.paramount.com/job/Fort-Lauderdale-CBS-Sports-Data-Delivery-&-Insights-Internship-(Summer-2026,-In-Person-Fort-Lauderdale,-FL)-FL-33309/1351979000/?ats=successfactors",
+      "discordThreadId": "1453222779972358174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-robot-intelligence-mountain-view-2025-12-24-1",
+      "jobId": "samsung-research-america-intern-robot-intelligence-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Robot Intelligence",
+      "postedToDiscord": "2025-12-24T03:08:40.437Z",
+      "sourceDate": "2025-12-24T02:25:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8348787002",
+      "discordThreadId": "1453222807185133604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paramount-global-software-engineering-internships-summer-2026-in-person-la-burbank-2025-12-24-1",
+      "jobId": "paramount-global-software-engineering-internships-summer-2026-in-person-la-burbank",
+      "company": "Paramount Global",
+      "title": "Software Engineering Internships - Summer 2026 - In Person-LA",
+      "postedToDiscord": "2025-12-24T03:08:43.850Z",
+      "sourceDate": "2025-12-24T02:21:00.000Z",
+      "sourceUrl": "https://careers.paramount.com/job/Burbank-Software-Engineering-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351981000/?ats=successfactors",
+      "discordThreadId": "1453222823027019838",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paramount-global-data-intern-burbank-2025-12-24-1",
+      "jobId": "paramount-global-data-intern-burbank",
+      "company": "Paramount Global",
+      "title": "Data Intern",
+      "postedToDiscord": "2025-12-24T03:08:47.700Z",
+      "sourceDate": "2025-12-24T02:20:52.000Z",
+      "sourceUrl": "https://careers.paramount.com/job/Burbank-Data-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351980600/?ats=successfactors",
+      "discordThreadId": "1453222837476266096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-operations-analyst-intern-austin-2025-12-24-1",
+      "jobId": "electronic-arts-operations-analyst-intern-austin",
+      "company": "Electronic Arts",
+      "title": "Operations Analyst Intern",
+      "postedToDiscord": "2025-12-24T03:08:54.077Z",
+      "sourceDate": "2025-12-24T02:17:01.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Operations-Analyst-Intern/211780",
+      "discordThreadId": "1453222865649274942",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1016,
+    "totalJobs": 1021,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T01:49:36.215Z",
+      "date": "2025-12-24T03:08:54.078Z",
       "archived": 0
     }
   }
