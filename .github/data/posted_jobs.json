@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T03:08:54.078Z",
+  "lastUpdated": "2025-12-24T03:42:12.249Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11232,14 +11232,58 @@
       "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Operations-Analyst-Intern/211780",
       "discordThreadId": "1453222865649274942",
       "instanceNumber": 1
+    },
+    {
+      "id": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos-2025-12-24-1",
+      "jobId": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos",
+      "company": "Electronic Arts",
+      "title": "Global Audit Technology Risk Analytics Intern",
+      "postedToDiscord": "2025-12-24T03:41:58.601Z",
+      "sourceDate": "2025-12-24T02:16:59.000Z",
+      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Global-Audit-Technology-Risk-Analytics-Intern/210880",
+      "discordThreadId": "1453231188478132366",
+      "instanceNumber": 1
+    },
+    {
+      "id": "didi-global-motion-planning-engineer-intern-full-time-phd-san-jose-2025-12-24-1",
+      "jobId": "didi-global-motion-planning-engineer-intern-full-time-phd-san-jose",
+      "company": "DiDi Global",
+      "title": "Motion Planning Engineer – Intern/Full-time - PhD",
+      "postedToDiscord": "2025-12-24T03:42:02.140Z",
+      "sourceDate": "2025-12-24T02:47:25.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/didi/jobs/7495381",
+      "discordThreadId": "1453231203829416009",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoox-enterprise-integration-intern-san-mateo-2025-12-24-1",
+      "jobId": "zoox-enterprise-integration-intern-san-mateo",
+      "company": "Zoox",
+      "title": "Enterprise Integration Intern",
+      "postedToDiscord": "2025-12-24T03:42:08.517Z",
+      "sourceDate": "2025-12-24T02:15:16.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/0a53e7a7-bbbf-4834-bcd4-f0372e388dfa/apply",
+      "discordThreadId": "1453231230928818341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "didi-global-autonomy-system-safety-engineer-san-jose-2025-12-24-1",
+      "jobId": "didi-global-autonomy-system-safety-engineer-san-jose",
+      "company": "DiDi Global",
+      "title": "Autonomy System & Safety Engineer",
+      "postedToDiscord": "2025-12-24T03:42:12.248Z",
+      "sourceDate": "2025-12-24T02:47:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/didi/jobs/7495391",
+      "discordThreadId": "1453231245285916876",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1021,
+    "totalJobs": 1025,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T03:08:54.078Z",
+      "date": "2025-12-24T03:42:12.249Z",
       "archived": 0
     }
   }
