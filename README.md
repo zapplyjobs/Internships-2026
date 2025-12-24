@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-300-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-299-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-146-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-8-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 146+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 300+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 146+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 299+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 300 internships & new grad roles  
+🔥 **Current Opportunities:** 299 internships & new grad roles  
 🏢 **Top Companies:** 146 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 8 premium opportunities  
 📅 **Last Updated:** December 24, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1780 (older than 1 week)
+📁 **Archived Opportunities:** 1784 (older than 1 week)
 
 
 ---
@@ -166,7 +166,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 2h |
+| Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 7h |
 | Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 1d |
 | Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 1d |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 5d |
@@ -196,16 +196,16 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 270 | 90% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 269 | 90% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 25 | 8% | 0-1 years of experience |
 | 🔴 Early Career         | 5 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
+- **San Jose, CA**: 19 opportunities
 - **Remote in USA, Locations**: 19 opportunities
 - **Mountain View, CA**: 18 opportunities
-- **San Jose, CA**: 17 opportunities
 - **Milpitas, CA**: 14 opportunities
 - **Austin, TX**: 10 opportunities
 - **Boston, MA**: 9 opportunities
@@ -216,7 +216,7 @@ No companies available
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 300+ verified internships and new grad roles from 146 top companies.
+✅ **100% Real Opportunities:** 299+ verified internships and new grad roles from 146 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -268,12 +268,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1780 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1784 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1780 roles
+- **📁 Total Positions**: 1784 roles
 - **🏢 Companies**: 146 companies  
 - **⭐ FAANG+ Opportunities**: 79 positions
 
@@ -603,7 +603,7 @@ No companies available
 
 <div align="center">
 
-**🎯 300 current opportunities from 146 top companies.**
+**🎯 299 current opportunities from 146 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

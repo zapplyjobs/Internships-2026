@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T03:42:12.249Z",
+  "lastUpdated": "2025-12-24T08:18:11.318Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11276,14 +11276,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/didi/jobs/7495391",
       "discordThreadId": "1453231245285916876",
       "instanceNumber": 1
+    },
+    {
+      "id": "archer-ios-engineer-intern-san-jose-2025-12-24-1",
+      "jobId": "archer-ios-engineer-intern-san-jose",
+      "company": "Archer",
+      "title": "IOS Engineer Intern",
+      "postedToDiscord": "2025-12-24T08:18:04.827Z",
+      "sourceDate": "2025-12-24T07:40:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
+      "discordThreadId": "1453300673130139648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "archer-ai-research-intern-san-jose-2025-12-24-1",
+      "jobId": "archer-ai-research-intern-san-jose",
+      "company": "Archer",
+      "title": "AI Research Intern",
+      "postedToDiscord": "2025-12-24T08:18:11.318Z",
+      "sourceDate": "2025-12-24T07:40:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
+      "discordThreadId": "1453300700325875743",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1025,
+    "totalJobs": 1027,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T03:42:12.249Z",
+      "date": "2025-12-24T08:18:11.318Z",
       "archived": 0
     }
   }
