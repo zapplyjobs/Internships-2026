@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T01:10:33.549Z",
+  "lastUpdated": "2025-12-24T01:49:36.215Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11122,14 +11122,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/snowflake/3f8011fd-91dc-4dc0-ae77-86ac641aff3e/application",
       "discordThreadId": "1453193084119548061",
       "instanceNumber": 1
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-software-engineer-intern-charlotte-2025-12-24-1",
+      "jobId": "schweitzer-engineering-laboratories-software-engineer-intern-charlotte",
+      "company": "Schweitzer Engineering Laboratories",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2025-12-24T01:49:16.134Z",
+      "sourceDate": "2025-10-21T06:21:07.000Z",
+      "sourceUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
+      "discordThreadId": "1453202824677818502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dick-s-sporting-goods-software-engineering-internship-pittsburgh-2025-12-24-1",
+      "jobId": "dick-s-sporting-goods-software-engineering-internship-pittsburgh",
+      "company": "Dick's Sporting Goods",
+      "title": "Software Engineering Internship",
+      "postedToDiscord": "2025-12-24T01:49:19.696Z",
+      "sourceDate": "2025-09-02T08:14:16.000Z",
+      "sourceUrl": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2026-Corporate-Internship_202508673-1",
+      "discordThreadId": "1453202839873781992",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-field-service-engineer-human-machine-interface-hillsboro-2025-12-24-1",
+      "jobId": "asml-intern-field-service-engineer-human-machine-interface-hillsboro",
+      "company": "ASML",
+      "title": "Intern - Field Service Engineer - Human Machine Interface",
+      "postedToDiscord": "2025-12-24T01:49:23.077Z",
+      "sourceDate": "2025-12-24T01:03:29.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship---Field-Service-Engineer---HMI_J-00332439",
+      "discordThreadId": "1453202854830673972",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-thermal-modeling-simulation-boise-2025-12-24-1",
+      "jobId": "micron-technology-intern-thermal-modeling-simulation-boise",
+      "company": "Micron Technology",
+      "title": "Intern – Thermal Modeling & Simulation",
+      "postedToDiscord": "2025-12-24T01:49:29.822Z",
+      "sourceDate": "2025-12-24T00:44:42.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693",
+      "discordThreadId": "1453202881640399046",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-data-science-intern-colorado-springs-2025-12-24-1",
+      "jobId": "kbr-data-science-intern-colorado-springs",
+      "company": "KBR",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2025-12-24T01:49:36.214Z",
+      "sourceDate": "2025-12-24T01:14:35.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Data-Science-Intern_R2116913",
+      "discordThreadId": "1453202909964533850",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1011,
+    "totalJobs": 1016,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T01:10:33.549Z",
+      "date": "2025-12-24T01:49:36.215Z",
       "archived": 0
     }
   }
