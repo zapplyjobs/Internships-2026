@@ -681,106 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Security Research Intern",
-      "employer_name": "Robert Bosch Venture Capital",
-      "job_city": "Pittsburgh",
-      "job_state": "PA",
-      "job_description": "Security Research InternFull-timeLegal Entity: Robert Bosch LLCCompany Description​​​​​​The Bosch Research and Technology Center North America with offices in Sunnyvale, California, Pittsburgh, Pennsylvania and Cambridge, Massachusetts is a part of the global Bosch Group, a company with over 90 billion euro revenue, 400,000 employees worldwide, a very diverse product portfolio, and a history spanning over 125 years. The Research and Technology Center North America provides technologies and system solutions for various Bosch business fields, primarily in the field of artificial intelligence (for example, human-assisted AI, natural language processing, robotics, 3D perception, and AI platform), energy technologies, internet technologies, circuit design, semiconductors and wireless, as well as advanced MEMS design.The Bosch Research and Technology Center in Pittsburgh, PA is focused on the research and development of cutting-edge AI and sensing technologies that will shape the future of the company's products. This position is part of an ambitious effort to design and develop intelligent multi-modal sensing at the intersection of deep learning and signal processing, with diverse application domains ranging from physical security to intelligent and connected vehicles.Job DescriptionWe are looking for highly motivated students to join our research team in developing solutions that apply machine learning/deep learning algorithms and formal methods to security and privacy problems.Example applications include, but are not limited to, utilizing AI and formal methods to analyze software vulnerabilities, modeling of secure systems, automation of security engineering processes, security of generative models, and fine-tuning models for specific security use cases.This internship role will focus on the following responsibilities:Design and development of novel methods/systems, implementation, and evaluation using benchmarks and Bosch data from various security application domains.Technical discussions with the research team towards creation of new ideas and improve upon the existing solutions.Clean, efficient, and well-documented implementation of new methods.Contributions to Bosch IP portfolio.QualificationsMinimum Qualifications:Currently pursuing a PhD degree in Computer Science / Engineering, Electrical Engineering, or Mathematics.Demonstrable experience with applying LLMs and ML/DL techniques to solve real-world problems.Proficient in programming (e.g., Python, C, C++, Java) and use of AI frameworks and libraries (e.g., PyTorch, scikit-learn).Experience with LLMs, model fine tuning, and alignment.Excellent communication skills.Minimum GPA of 3.0Preferred Qualifications:Experience with system security, software vulnerabilities, static code analysis methods, formal methods (e.g., SMT solvers).Established publication record.Good coding practices, ability to write efficient and readable/maintainable code.Good writing and presentation skills.Additional InformationEqual Opportunity Employer, including disability / veterans. *Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date. Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy PolicyImprint",
-      "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000100284086",
-      "job_posted_at_datetime_utc": "2025-12-23T23:28:03.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robert-bosch-venture-capital-security-research-intern-pittsburgh",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-24T00:41:32.283Z",
-    "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": "2025-12-24T01:10:36.564Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 US Software Engineering Internship",
-      "employer_name": "Axon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Your Impact As a Software Engineer Intern, you have foundational computer science knowledge and a strong command of one or more object-oriented programming languages. Your passion is software engineering and coming up with innovative solutions for customer problems. You will grow rapidly by driving high impact features to production with coaching from your veteran teammates.This role will enable you to elevate your skills to the next level. As an intern, you will have regular 1:1s with your mentor, an experienced engineer on your team. You will get career advice through regular meetings with your manager, who is accountable for developing the careers of their reports. As part of your internship, you’ll get visibility by presenting your ideas, vision, and accomplishments to executive leadership.Join Forces in an exciting environment where you use your passion, experience, and analytical skills to help bring new solutions to public safety and leave a positive impact on the world. What You'll Do Owning and driving end-to-end features with Product and Design Working with the latest open source technologies Participating in code reviews and architecture design meetings Ensuring that your code hits a high bar for quality and performance Daily involvement with all team activities, from standup and sprint planning to team morale events Opportunity for on-site agency visits, including ride alongs What You Bring Pursuing graduation in a Computer Science, Engineering, or a related field at a community college, university, or bootcamp Experience in at least one object-oriented language such as Java, Python, Scala, Go, C#, or similar Effective communication and collaboration skills Cultural alignment to Axon Company Values: https://global.axon.com/company/values A previous software development internship Up-to-date knowledge of the latest in software engineering and open source technologies Working knowledge of database technology such as SQL or NoSQL Good Linux/Unix/Mac experience Work LocationThis role is based out of our Boston or Seattle office and follows a hybrid schedule. We rely on in-person collaboration and ask that team members work onsite Tuesdays through Fridays, with the flexibility to work remotely on Mondays, unless there is an approved workplace accommodation. We believe that connection fuels innovation, and our in-office culture is designed to foster meaningful teamwork, mentorship, and shared success. Please Note Strive for a full 12 weeks Semester interns: 27 May 2026 – 14 August 2026 Quarter interns: 9 June 2026 – 28 August 2026 Axon’s hourly pay philosophy is made up of base pay and bonus. The actual hourly pay is dependent upon many factors such as: level, function, training, transferable skills, work experience, business needs, geographic market, and often a combination of all these factors. Our benefits offer an array of options to help support you physically, financially and emotionally through the big milestones and in your everyday life. To see more details on our benefits offerings please visit www.axon.com/careers/benefits.Base Pay Range$45 - $45 USD",
-      "job_apply_link": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7570350003",
-      "job_posted_at_datetime_utc": "2025-12-23T23:21:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "axon-2026-us-software-engineering-internship-boston",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-24T00:41:32.283Z",
-    "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": "2025-12-24T01:10:36.564Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Internship",
-      "employer_name": "Axon",
-      "job_city": "Atlanta",
-      "job_state": "GA",
-      "job_description": "Your Impact As a Software Engineer Intern, you have foundational computer science knowledge and a strong command of one or more object-oriented programming languages. Your passion is software engineering and coming up with innovative solutions for customer problems. You will grow rapidly by driving high impact features to production with coaching from your veteran teammates.This role will enable you to elevate your skills to the next level. As an intern, you will have regular 1:1s with your mentor, an experienced engineer on your team. You will get career advice through regular meetings with your manager, who is accountable for developing the careers of their reports. As part of your internship, you’ll get visibility by presenting your ideas, vision, and accomplishments to executive leadership.Join Forces in an exciting environment where you use your passion, experience, and analytical skills to help bring new solutions to public safety and leave a positive impact on the world. What You'll Do Owning and driving end-to-end features with Product and Design Working with the latest open source technologies Participating in code reviews and architecture design meetings Ensuring that your code hits a high bar for quality and performance Daily involvement with all team activities, from standup and sprint planning to team morale events Opportunity for on-site agency visits, including ride alongs What You Bring Pursuing graduation in a Computer Science, Engineering, or a related field at a community college, university, or bootcamp Experience in at least one object-oriented language such as Java, Python, Scala, Go, C#, or similar Effective communication and collaboration skills Cultural alignment to Axon Company Values: https://global.axon.com/company/values A previous software development internship Up-to-date knowledge of the latest in software engineering and open source technologies Working knowledge of database technology such as SQL or NoSQL Good Linux/Unix/Mac experience Work LocationThis role is based out of our Atlanta office and follows a hybrid schedule. We rely on in-person collaboration and ask that team members work onsite Tuesdays through Fridays, with the flexibility to work remotely on Mondays, unless there is an approved workplace accommodation. We believe that connection fuels innovation, and our in-office culture is designed to foster meaningful teamwork, mentorship, and shared success. Please Note Strive for a full 12 weeks Start date either 5/27/26 or 6/9/26 End date either 8/21/26 or 9/5/26 The starting hourly pay for this role is USD $45. The actual hourly pay is dependent upon many factors such as: level, function, training, transferable skills, work experience, business needs, geographic market, and often a combination of all these factors. Our benefits offer an array of options to help support you physically, financially and emotionally through the big milestones and in your everyday life. To see more details on our benefits offerings please visit http://www.axon.com/careers/benefits.",
-      "job_apply_link": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7570351003",
-      "job_posted_at_datetime_utc": "2025-12-23T23:21:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "axon-software-engineering-internship-atlanta",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-24T00:41:32.283Z",
-    "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": "2025-12-24T01:10:36.564Z"
-  },
-  {
-    "job": {
-      "job_title": "Business Analyst Intern",
-      "employer_name": "Snowflake",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level. Build with Data. Think with AI. Learn with Leaders. Snowflake’s Data, Analytics &amp; AI (DAA) team is opening paid internship roles for Summer 2026. This is an opportunity to work alongside the team that builds AI-ready data foundations, designs enterprise-grade AI systems, and pioneers how organizations transform with data. If you love big questions, clean architecture, sharp thinking, and a team that expects you to run with real responsibility, this is the place. WHAT WE OFFER: Paid, full-time internships in the heart of the software industry Post-internship career opportunities (full-time and/or additional internships) Exposure to a fast-paced, fun and inclusive culture A chance to work with world-class experts on challenging projects Opportunity to provide meaningful contributions to a real system used by customers High level of access to supervisors (manager and mentor), detailed direction without micromanagement, feedback throughout your internship, and a final evaluation WHAT WE EXPECT: Must be actively enrolled in an accredited college/university program during the time of the internship Desired Class Level: Undergraduate, Masters, or PHD Students Desired majors: Computer Science, Data Science, Mathematics, Statistics, Engineering, Business Analytics, Economics, or Similar Fields Start Date: May 11th, May 26th or June 22nd Strong analytical and technical skills Curiosity about how great organizations build with AI A bias for action Integrity and attention to detail Willingness to ask questions Our interns work on meaningful problems that ship. You won’t sit in a corner polishing mock datasets. You’ll help build the systems that Snowflake uses every day. You’ll learn from senior leaders, analytics engineers, product thinkers, data scientists, and AI builders across the company. We take mentorship seriously. It's how we were raised professionally, and we honor that tradition WHAT YOU WILL LEARN / GAIN: Enterprise data platforms Semantic layers Data quality, observability, and lineage Operational and Go-to-Market AI agents Analytics engineering practices Snowflake’s AI offerings (e.g., Snowflake Intelligence, Cortex Search Services, Cortex Analyst) Sigma, Streamlit, Python, SQL, dbt, and more WHAT YOU'LL DO: Build executive-ready dashboards and narratives Analyze patterns across revenue, customer behavior, operations, or product usage Support GTM and strategy functions with insights Help build the foundations of AI-ready BI YOU'RE A GOOD FIT IF: You enjoy storytelling using data You’re comfortable presenting to senior leaders You love connecting dots Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. The following represents the expected range of compensation for this role: The estimated pay range for this role is $30.00 - $34.00 per hour. The successful candidate’s starting hourly rate will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; flexible spending &amp; health savings account; employee assistance program; and other company benefits. Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
-      "job_apply_link": "https://jobs.ashbyhq.com/snowflake/1057da57-34a7-4b76-a113-aa229da46831/application",
-      "job_posted_at_datetime_utc": "2025-12-23T23:18:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "snowflake-business-analyst-intern-menlo-park",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-24T00:41:32.283Z",
-    "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": "2025-12-24T01:10:36.564Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Science Intern",
-      "employer_name": "Snowflake",
-      "job_city": "Menlo Park",
-      "job_state": "CA",
-      "job_description": "Snowflake is about empowering enterprises to achieve their full potential — and people too. With a culture that’s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology — and careers — to the next level. We’re looking for dedicated students who share our passion for ground-breaking technology and want to create a lasting future for you and Snowflake. Build with Data. Think with AI. Learn with Leaders. Snowflake’s Data, Analytics &amp; AI (DAA) team is opening paid internship roles for Summer 2026. This is an opportunity to work alongside the team that builds AI-ready data foundations, designs enterprise-grade AI systems, and pioneers how organizations transform with data. If you love big questions, clean architecture, sharp thinking, and a team that expects you to run with real responsibility, this is the place. WHAT WE OFFER: Paid, full-time internships in the heart of the software industry Post-internship career opportunities (full-time and/or additional internships) Exposure to a fast-paced, fun and inclusive culture A chance to work with world-class experts on challenging projects Opportunity to provide meaningful contributions to a real system used by customers High level of access to supervisors (manager and mentor), detailed direction without micromanagement, feedback throughout your internship, and a final evaluation WHAT WE EXPECT: Must be actively enrolled in an accredited college/university program during the time of the internship Desired Class Level: Undergraduate, Masters, or PHD Students Desired majors: Computer Science, Data Science, Mathematics, Statistics, Engineering, Business Analytics, Economics, or Similar Fields Start Date: May 11th, May 26th or June 22nd Strong analytical and technical skills Curiosity about how great organizations build with AI A bias for action Integrity and attention to detail Willingness to ask questions Our interns work on meaningful problems that ship. You won’t sit in a corner polishing mock datasets. You’ll help build the systems that Snowflake uses every day. You’ll learn from senior leaders, analytics engineers, product thinkers, data scientists, and AI builders across the company. We take mentorship seriously. It's how we were raised professionally, and we honor that tradition. WHAT YOU WILL LEARN / GAIN: Enterprise data platforms Semantic layers Data quality, observability, and lineage Operational and Go-to-Market AI agents Analytics engineering practices Snowflake’s AI offerings (e.g., Snowflake Intelligence, Cortex Search Services, Cortex Analyst) Sigma, Streamlit, Python, SQL, dbt, and more WHAT YOU'LL DO: Build predictive models and evaluate their performance Support development of AI agents using Snowflake Intelligence Partner with domain experts to refine problem framing Analyze patterns in product usage, customer behavior, or operational workflows Contribute to internal research on agent safety, quality, and guardrails YOU'RE A GOOD FIT IF: You love experimentation You’re comfortable with Python, modeling, and statistical thinking You enjoy translating insights into decisions Every Snowflake employee is expected to follow the company’s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company’s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. The following represents the expected range of compensation for this role: The estimated pay range for this role is $36.00 - $40.00 per hour. The successful candidate’s starting hourly rate will be determined based on permissible, non-discriminatory factors such as skills, experience, and geographic location. This role is also eligible for a competitive benefits package that includes: medical, dental, vision, life, and disability insurance; flexible spending &amp; health savings account; employee assistance program; and other company benefits. Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
-      "job_apply_link": "https://jobs.ashbyhq.com/snowflake/3f8011fd-91dc-4dc0-ae77-86ac641aff3e/application",
-      "job_posted_at_datetime_utc": "2025-12-23T23:18:15.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "snowflake-data-science-intern-menlo-park",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2025-12-24T00:41:32.283Z",
-    "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": "2025-12-24T01:10:36.564Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "Schweitzer Engineering Laboratories",
       "job_city": "Charlotte",
@@ -794,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-24T00:41:32.283Z",
     "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": null
+    "postedAt": "2025-12-24T01:49:39.227Z"
   },
   {
     "job": {
@@ -814,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-24T00:41:32.283Z",
     "enrichedAt": "2025-12-24T00:42:08.662Z",
-    "postedAt": null
+    "postedAt": "2025-12-24T01:49:39.227Z"
   },
   {
     "job": {
@@ -834,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-24T01:09:52.802Z",
     "enrichedAt": "2025-12-24T01:10:03.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-24T01:49:39.227Z"
   },
   {
     "job": {
@@ -854,9 +754,29 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2025-12-24T01:09:52.802Z",
     "enrichedAt": "2025-12-24T01:10:03.734Z",
-    "postedAt": null
+    "postedAt": "2025-12-24T01:49:39.227Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "KBR",
+      "job_city": "Colorado Springs",
+      "job_state": "CO",
+      "job_description": "Title:Data Science InternProgram SummaryKBR strives to create a safer, more secure and sustainable world by bringing together the best and brightest to deliver technologies and solutions that help our customers accomplish their most critical missions and objectives. Our Colorado Springs, CO Cygnet Heights office is an integration, development and sustainment facility that provides solutions for our customers with safety and quality at the forefront of our operations.Why Join KBR?· Mentorship from senior engineers· Cutting edge projects, relevant to real world challenges· Work in a collaborative and dynamic team environment· Competitive pay and great company cultureJob SummaryKBR is seeking a Configuration Management (CM) Intern to join our team at our Colorado Springs, CO Cygnet Heights office. The selected candidate will operate under the direct supervision of a CM and support projects around ground-based mobile satellite communication systems and radio frequency engineering. The CM Intern will receive direct mentorship in being able to plan and integrate technical data and structures into a Product Lifecycle Management (PLM) Tool. This position will apply principles and techniques of CM to support engineering and drafting on project.Roles and Responsibilities· Assist in reviewing and preparing data for integration into PLM Tool· Apply CM principles in areas of engineering structures· Validate internal and vendor part numbers· Provide latest versions of documents and drawings for engineering· Review document formatting, spelling and grammar· Communicate and collaborate with other engineering disciplines, manufacturing personnel, management, vendors, customers, and subcontractors.· Support engineering documentation, i.e., drawings, project specifications, procedures, test data and results· Abide by company policies and procedures to complete assigned tasks· Must hold a valid driver’s license and have the ability to obtain a US DOD security clearanceBasic Qualifications· Must be a U.S. citizen and have valid documentation· Must be currently enrolled at, or have recently graduated from, an ABET accredited college or university pursuing a Bachelor’s of Science.Preferred Qualifications· Basic knowledge of Configuration Management and PLM tools· Possess excellent verbal and written communication skills· Able to work a minimum of 20 hours per weekSalary Range: $20-$30/hrThe salary range posted is based on Colorado Springs, CO. The offered rate will be based on the selected candidate’s location, knowledge, skills, abilities, and/or experience, contract affordability, and in consideration of internal parity.KBR BenefitsKBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company.  That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
+      "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Data-Science-Intern_R2116913",
+      "job_posted_at_datetime_utc": "2025-12-24T01:14:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "kbr-data-science-intern-colorado-springs",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-24T01:49:02.776Z",
+    "enrichedAt": "2025-12-24T01:49:06.864Z",
+    "postedAt": "2025-12-24T01:49:39.227Z"
   }
 ]
