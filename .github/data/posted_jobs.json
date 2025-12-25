@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-24T17:37:38.977Z",
+  "lastUpdated": "2025-12-25T00:41:56.225Z",
   "jobs": [
     {
       "id": "american-express-campus-graduate-summer-internship-program-2026-software-engineer-technology-sunrise-2025-12-18-1",
@@ -11331,14 +11331,25 @@
       "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern---ServiceNow-Engineer--REMOTE-_8898",
       "discordThreadId": "1453441488967962875",
       "instanceNumber": 1
+    },
+    {
+      "id": "health-research-hourly-data-analyst-2-intern-albany-2025-12-25-1",
+      "jobId": "health-research-hourly-data-analyst-2-intern-albany",
+      "company": "Health Research",
+      "title": "Hourly Data Analyst 2 - Intern",
+      "postedToDiscord": "2025-12-25T00:41:56.225Z",
+      "sourceDate": "2025-12-24T23:25:12.000Z",
+      "sourceUrl": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Hourly-Data-Analyst-II--Internship-_JR-0001960",
+      "discordThreadId": "1453548268779868202",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1030,
+    "totalJobs": 1031,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-24T17:37:38.977Z",
+      "date": "2025-12-25T00:41:56.225Z",
       "archived": 0
     }
   }
