@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 94</em></p>
+<p><em>Real-time opportunities from 73</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-155-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-94-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-122-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-73-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 94+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 155+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 73+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 122+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 155 internships & new grad roles  
-🏢 **Top Companies:** 94 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 3 premium opportunities  
+🔥 **Current Opportunities:** 122 internships & new grad roles  
+🏢 **Top Companies:** 73 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 2 premium opportunities  
 📅 **Last Updated:** December 26, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1919 (older than 1 week)
+📁 **Archived Opportunities:** 1945 (older than 1 week)
 
 
 ---
@@ -116,7 +116,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (3 positions)
+### ⭐ **FAANG+** (2 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -124,12 +124,11 @@ Connect with fellow students and new grads, get career advice, share internship 
 |------|----------|-----------|-----|
 | 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 3d |
 
-#### 🟦 **Microsoft** (2 positions)
+#### 🟦 **Microsoft** (1 position)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 5d |
-| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 6d |
+| Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 6d |
 
 ### 🏢 **Top Tech** (2 positions)
 
@@ -147,8 +146,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 2d |
-| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 3d |
-| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 3d |
+| Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 4d |
+| Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 4d |
 
 
 
@@ -159,7 +158,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ### 🏢 **Top Hiring Companies**
 
 #### ⭐ **FAANG+** (2 companies)
-🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1 position) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -174,27 +173,27 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 146 | 94% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 8 | 5% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 114 | 93% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 7 | 6% | 0-1 years of experience |
 | 🔴 Early Career         | 1 | 1% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **San Jose, CA**: 11 opportunities
-- **Remote in USA, Locations**: 9 opportunities
+- **San Jose, CA**: 9 opportunities
+- **Remote in USA, Locations**: 8 opportunities
 - **San Diego, CA**: 7 opportunities
-- **Austin, TX**: 6 opportunities
-- **Mountain View, CA**: 5 opportunities
 - **Boston, MA**: 5 opportunities
 - **Chicago, IL**: 4 opportunities
 - **Pittsburgh, PA**: 4 opportunities
+- **Menlo Park, CA**: 4 opportunities
+- **Cincinnati, OH**: 4 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 155+ verified internships and new grad roles from 94 top companies.
+✅ **100% Real Opportunities:** 122+ verified internships and new grad roles from 73 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -246,16 +245,16 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1919 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1945 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1919 roles
-- **🏢 Companies**: 94 companies  
-- **⭐ FAANG+ Opportunities**: 83 positions
+- **📁 Total Positions**: 1945 roles
+- **🏢 Companies**: 73 companies  
+- **⭐ FAANG+ Opportunities**: 84 positions
 
-### ⭐ **FAANG+** (83 positions)
+### ⭐ **FAANG+** (84 positions)
 
 #### 📦 **Amazon** (10 positions)
 
@@ -263,7 +262,7 @@ No companies available
 |------|----------|-----------|-----|
 | Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2w |
-| Amazon Economics Apprenticeship Program - 2-Year Research Positions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions) | 2w |
+| Amazon Economics Apprenticeship Program - 2-Year Research Positions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions) | 3w |
 | 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 3w |
 | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 3w |
 | 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 3w |
@@ -273,10 +272,11 @@ No companies available
 | Systems Development Engineer Internship | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 3w |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (70 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (71 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 1w |
 | Data Science PhD Intern | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 1w |
 | Research Intern - LLM Performance Optimization | Redmond, WA | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 1w |
 | Research Intern - Post-Training | Washington, Locations | [<img src="./image.png" width="100" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 1w |
@@ -432,7 +432,6 @@ No companies available
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Software Engineering Intern | Sunnyvale, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056) | 2w |
-| AI Customer Engagement Analyst Intern | Andover, MA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 2w |
 | HPE Labs - Machine Learning Research Associate | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Machine-Learning-Research-Associate--Intern-_1197755) | 3w |
 | Research Associate Intern - Networking and Distributed Systems Lab | Milpitas, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Research-Associate-Intern--Networking-and-Distributed-Systems-Lab-_1192357) | 3w |
 | AI/ML Intern | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | 3w |
@@ -443,6 +442,7 @@ No companies available
 | Tech Consultant intern | Alpharetta, GA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054) | 3w |
 | AI Developer Intern - Masters | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085) | 3w |
 | AI Developer Intern - Undergrad | Houston, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 3w |
+| AI Customer Engagement Analyst Intern | Andover, MA | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 3w |
 | Cloud Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) | 3w |
 | Firmware Engineer Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern) | 3w |
 | Software Engineering Intern | Spring, TX | [<img src="./image.png" width="100" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961) | 3w |
@@ -491,10 +491,10 @@ No companies available
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 3w |
 | Software Engineering Intern - Digital Manufacturing Automation | Orange, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.rivian.com/jobs/26981?lang=en-us&icims=1) | 3w |
 
-### 🛡️ **Defense & Aerospace** (22 positions)
+### 🛡️ **Defense & Aerospace** (21 positions)
 
 <details>
-<summary><h4>🚗 <strong>Waymo</strong> (22 positions)</h4></summary>
+<summary><h4>🚗 <strong>Waymo</strong> (21 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -507,7 +507,6 @@ No companies available
 | 2026 Summer Intern - MS/PhD - Compute - Compiler | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7340164) | 3w |
 | 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 3w |
 | 2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150) | 3w |
-| 2026 Summer Intern - MS/PhD - Low-bit Model Quantization | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7324907) | 3w |
 | Software Engineering, Fleet Response | San Francisco, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 3w |
 | 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 3w |
 | 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | [<img src="./image.png" width="100" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 3w |
@@ -548,7 +547,7 @@ No companies available
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| IS Salesforce.com Agile Delivery Intern-Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449) | 2w |
+| IS Salesforce.com Agile Delivery Intern-Summer 2026 | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449) | 3w |
 | Software Engineering Intern | Morrisville, NC | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Software-Engineering-Intern--Summer-2026_JR00015149) | 3w |
 | Software Engineering Intern- Summer 2026 | Bartlesville, OK | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 3w |
 | AI Vision Engineer Intern- AI Robotics | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 3w |
@@ -593,7 +592,7 @@ No companies available
 
 <div align="center">
 
-**🎯 155 current opportunities from 94 top companies.**
+**🎯 122 current opportunities from 73 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
