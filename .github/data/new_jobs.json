@@ -28,20 +28,6 @@
     "description_success": true
   },
   {
-    "job_title": "Software Engineering Intern",
-    "employer_name": "Cadence Design Systems",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Basic Requirements:Educational BackgroundPursuing or recently completed a degree in Computer Science, Applied Mathematics,  Data Science, or a related field.Strong foundation in machine learning, deep learning, and natural language processing (NLP) and LLMTechnical SkillsProficiency in Python and experience with frameworks like PyTorch, TensorFlow, SciKit, etc.Basic understanding of Retrieval-Augmented Generation (RAG) and vector databases.Comfortable working with LLM APIs and integrating them into applications.A solid understanding of machine learning concepts (e.g., supervised/unsupervised learning, NLP, computer vision) and algorithms is crucial.Proficiency in Python is essential. C++ also valuable.Problem-Solving & CollaborationAbility to work in a fast-paced research and development environment.Strong analytical thinking and debugging skills.Experience with rapid prototyping in open-source AI/ML projects.We’re doing work that matters. Help us solve what others can’t.",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
-    "job_posted_at_datetime_utc": "2025-12-11T23:55:17.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "cadence-design-systems-software-engineering-intern-san-jose",
-    "description_platform": "workday",
-    "description_success": true
-  },
-  {
     "job_title": "SW Intern Engineer",
     "employer_name": "General Dynamics Mission Systems",
     "job_city": "Dedham",
