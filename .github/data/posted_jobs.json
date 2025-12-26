@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T15:54:33.001Z",
+  "lastUpdated": "2025-12-26T16:03:28.651Z",
   "jobs": [
     {
       "id": "hewlett-packard-hp-software-developer-internship-spring-2025-12-19-1",
@@ -9263,14 +9263,36 @@
       "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
       "discordThreadId": "1454140323067461643",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-cx-ai-automation-internship-denver-2025-12-26-1",
+      "jobId": "gusto-cx-ai-automation-internship-denver",
+      "company": "Gusto",
+      "title": "CX AI & Automation Internship",
+      "postedToDiscord": "2025-12-26T16:03:22.179Z",
+      "sourceDate": "2025-12-26T15:57:32.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7471872",
+      "discordThreadId": "1454142542563119105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto-2025-12-26-1",
+      "jobId": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto",
+      "company": "Stanford Health Care",
+      "title": "Technology & Digital Solutions – Digital Innovation & Software Development Internships (Graduate)",
+      "postedToDiscord": "2025-12-26T16:03:28.651Z",
+      "sourceDate": "2025-12-26T15:55:44.000Z",
+      "sourceUrl": "http://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
+      "discordThreadId": "1454142569939468440",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 842,
+    "totalJobs": 844,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-26T15:54:33.001Z",
+      "date": "2025-12-26T16:03:28.651Z",
       "archived": 0
     }
   }
