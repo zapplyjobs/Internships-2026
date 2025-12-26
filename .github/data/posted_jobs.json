@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T22:54:16.785Z",
+  "lastUpdated": "2025-12-26T23:29:10.832Z",
   "jobs": [
-    {
-      "id": "rocket-mortgage-application-engineer-intern-detroit-2025-12-19-1",
-      "jobId": "rocket-mortgage-application-engineer-intern-detroit",
-      "company": "Rocket Mortgage",
-      "title": "Application Engineer Intern",
-      "postedToDiscord": "2025-12-19T23:04:04.472Z",
-      "sourceDate": "2025-12-11T23:40:26.000Z",
-      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Application-Engineer-Intern---Summer-2026_R-081364",
-      "discordThreadId": "1451711695171879082",
-      "instanceNumber": 1
-    },
-    {
-      "id": "axiom-space-eva-software-engineering-intern-houston-2025-12-19-1",
-      "jobId": "axiom-space-eva-software-engineering-intern-houston",
-      "company": "Axiom Space",
-      "title": "EVA Software Engineering Intern",
-      "postedToDiscord": "2025-12-19T23:04:08.770Z",
-      "sourceDate": "2025-12-11T23:36:07.000Z",
-      "sourceUrl": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/EVA-Software-Engineering-Intern--Summer-2026-_JR100363",
-      "discordThreadId": "1451711716214837382",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-in-usa-2025-12-19-1",
-      "jobId": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-in-usa",
-      "company": "Dropbox",
-      "title": "PhD Systems & AI/ML Research Intern - Summer 2026",
-      "postedToDiscord": "2025-12-19T23:04:12.444Z",
-      "sourceDate": "2025-12-11T23:35:14.000Z",
-      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7462813",
-      "discordThreadId": "1451711734044950570",
-      "instanceNumber": 1
-    },
-    {
-      "id": "conagra-brands-ai-and-automation-internship-summer-2026-omaha-2025-12-19-1",
-      "jobId": "conagra-brands-ai-and-automation-internship-summer-2026-omaha",
-      "company": "Conagra Brands",
-      "title": "AI and Automation Internship - Summer 2026",
-      "postedToDiscord": "2025-12-19T23:04:20.349Z",
-      "sourceDate": "2025-12-12T00:10:43.000Z",
-      "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/AI-and-Automation-Internship----Summer-2026_Req-035761",
-      "discordThreadId": "1451711764646465598",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intapp-it-business-applications-intern-palo-alto-2025-12-19-1",
-      "jobId": "intapp-it-business-applications-intern-palo-alto",
-      "company": "Intapp",
-      "title": "IT Business Applications Intern",
-      "postedToDiscord": "2025-12-19T23:04:26.903Z",
-      "sourceDate": "2025-12-11T23:38:05.000Z",
-      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/IT-Business-Applications-Intern_R2024549-1",
-      "discordThreadId": "1451711795411685417",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nasdaq-data-engineering-intern-denver-2025-12-19-1",
-      "jobId": "nasdaq-data-engineering-intern-denver",
-      "company": "Nasdaq",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2025-12-19T23:04:33.771Z",
-      "sourceDate": "2025-12-11T23:36:58.000Z",
-      "sourceUrl": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/Denver/Data-Engineering-Summer-Intern_R0024505",
-      "discordThreadId": "1451711822544769186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-sw-intern-engineer-dedham-2025-12-19-1",
-      "jobId": "general-dynamics-mission-sw-intern-engineer-dedham",
-      "company": "General Dynamics Mission Systems",
-      "title": "SW Intern Engineer",
-      "postedToDiscord": "2025-12-19T23:18:05.269Z",
-      "sourceDate": "2025-12-11T23:32:23.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1451715228197720296",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uber-2026-phd-software-engineer-intern-autonomous-vehicles-cloud-united-states-sunnyvale-2025-12-19-1",
-      "jobId": "uber-2026-phd-software-engineer-intern-autonomous-vehicles-cloud-united-states-sunnyvale",
-      "company": "Uber",
-      "title": "2026 PhD Software Engineer Intern - Autonomous Vehicles Cloud - United States",
-      "postedToDiscord": "2025-12-19T23:18:09.002Z",
-      "sourceDate": "2025-12-11T23:30:34.000Z",
-      "sourceUrl": "https://university-uber.icims.com/jobs/152174/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1451715242605281493",
-      "instanceNumber": 1
-    },
     {
       "id": "great-american-insurance-company-data-platform-intern-cincinnati-2025-12-20-1",
       "jobId": "great-american-insurance-company-data-platform-intern-cincinnati",
@@ -7591,15 +7503,26 @@
       "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
       "discordThreadId": "1454245950477307936",
       "instanceNumber": 2
+    },
+    {
+      "id": "general-dynamics-mission-sw-intern-engineer-dedham-2025-12-26-2",
+      "jobId": "general-dynamics-mission-sw-intern-engineer-dedham",
+      "company": "General Dynamics Mission Systems",
+      "title": "SW Intern Engineer",
+      "postedToDiscord": "2025-12-26T23:29:10.831Z",
+      "sourceDate": "2025-12-11T23:32:23.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1454254734780403754",
+      "instanceNumber": 2
     }
   ],
   "metadata": {
-    "totalJobs": 690,
+    "totalJobs": 683,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-26T22:54:16.785Z",
-      "archived": 157,
+      "date": "2025-12-26T23:29:10.832Z",
+      "archived": 8,
       "monthsAffected": 1
     }
   }
