@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 71</em></p>
+<p><em>Real-time opportunities from 74</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-120-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-71-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-124-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-74-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 71+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 120+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 74+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 124+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 120 internships & new grad roles  
-🏢 **Top Companies:** 71 elite tech companies hiring  
+🔥 **Current Opportunities:** 124 internships & new grad roles  
+🏢 **Top Companies:** 74 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 2 premium opportunities  
-📅 **Last Updated:** December 26, 2025  
+📅 **Last Updated:** December 27, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1945 (older than 1 week)
+📁 **Archived Opportunities:** 1948 (older than 1 week)
 
 
 ---
@@ -139,12 +139,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 | AI Factory Digital Twin R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 4d |
 | AI Factory Cooling R&D Intern | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 4d |
 
-### 🏭 **Manufacturing & Industrial** (3 positions)
+### 🏭 **Manufacturing & Industrial** (4 positions)
 
-#### 💾 **Micron Technology** (3 positions)
+#### 💾 **Micron Technology** (4 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Intern Computer Engineer - AI/LLM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 1h |
 | Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 2d |
 | Intern – Probe Process | Manassas, VA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Probe-Process-Intern_JR85128) | 4d |
 | Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 4d |
@@ -173,7 +174,7 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 112 | 93% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 116 | 94% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 7 | 6% | 0-1 years of experience |
 | 🔴 Early Career         | 1 | 1% | 1-2 years of experience |
 
@@ -184,16 +185,16 @@ No companies available
 - **Remote in USA, Locations**: 7 opportunities
 - **San Diego, CA**: 7 opportunities
 - **Boston, MA**: 5 opportunities
+- **Mountain View, CA**: 4 opportunities
 - **Chicago, IL**: 4 opportunities
 - **Pittsburgh, PA**: 4 opportunities
 - **Menlo Park, CA**: 4 opportunities
-- **Cincinnati, OH**: 4 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 120+ verified internships and new grad roles from 71 top companies.
+✅ **100% Real Opportunities:** 124+ verified internships and new grad roles from 74 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -245,13 +246,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1945 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1948 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1945 roles
-- **🏢 Companies**: 71 companies  
+- **📁 Total Positions**: 1948 roles
+- **🏢 Companies**: 74 companies  
 - **⭐ FAANG+ Opportunities**: 84 positions
 
 ### ⭐ **FAANG+** (84 positions)
@@ -592,7 +593,7 @@ No companies available
 
 <div align="center">
 
-**🎯 120 current opportunities from 71 top companies.**
+**🎯 124 current opportunities from 74 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -600,6 +601,6 @@ No companies available
 
 ---
 
-**Last Updated:** December 26, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** December 27, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
