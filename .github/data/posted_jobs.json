@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-26T23:29:10.832Z",
+  "lastUpdated": "2025-12-27T00:41:19.289Z",
   "jobs": [
     {
       "id": "great-american-insurance-company-data-platform-intern-cincinnati-2025-12-20-1",
@@ -7514,16 +7514,48 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1454254734780403754",
       "instanceNumber": 2
+    },
+    {
+      "id": "intrinsic-deep-learning-intern-model-optimization-mountain-view-2025-12-27-1",
+      "jobId": "intrinsic-deep-learning-intern-model-optimization-mountain-view",
+      "company": "Intrinsic",
+      "title": "Deep Learning Intern - Model Optimization",
+      "postedToDiscord": "2025-12-27T00:41:08.913Z",
+      "sourceDate": "2025-12-26T23:50:00.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/intrinsicrobotics/jobs/5743849004",
+      "discordThreadId": "1454272845915099137",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-computer-engineer-ai-llm-boise-2025-12-27-1",
+      "jobId": "micron-technology-intern-computer-engineer-ai-llm-boise",
+      "company": "Micron Technology",
+      "title": "Intern Computer Engineer - AI/LLM",
+      "postedToDiscord": "2025-12-27T00:41:12.501Z",
+      "sourceDate": "2025-12-26T23:32:33.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533",
+      "discordThreadId": "1454272860565540910",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aramark-environmental-sustainability-intern-yosemite-mammoth-lakes-2025-12-27-1",
+      "jobId": "aramark-environmental-sustainability-intern-yosemite-mammoth-lakes",
+      "company": "Aramark",
+      "title": "Environmental Sustainability Intern - Yosemite",
+      "postedToDiscord": "2025-12-27T00:41:19.288Z",
+      "sourceDate": "2025-12-26T23:34:05.000Z",
+      "sourceUrl": "https://aramarkcareers.com/UnitedStates/job/Yosemite-Environmental-Sustainability-Intern-Yosemite-CA-95389/1346482500/?ats=successfactors",
+      "discordThreadId": "1454272888352800922",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 683,
+    "totalJobs": 686,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-26T23:29:10.832Z",
-      "archived": 8,
-      "monthsAffected": 1
+      "date": "2025-12-27T00:41:19.289Z",
+      "archived": 0
     }
   }
 }
