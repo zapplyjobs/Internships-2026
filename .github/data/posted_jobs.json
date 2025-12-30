@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T08:49:43.907Z",
+  "lastUpdated": "2025-12-30T17:17:20.634Z",
   "jobs": [
-    {
-      "id": "entegris-data-engineer-intern-chaska-2025-12-23-1",
-      "jobId": "entegris-data-engineer-intern-chaska",
-      "company": "Entegris",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2025-12-23T09:11:28.959Z",
-      "sourceDate": "2025-12-23T07:30:37.000Z",
-      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
-      "discordThreadId": "1452951723596320791",
-      "instanceNumber": 1
-    },
-    {
-      "id": "assa-abloy-mobile-app-developer-intern-kennesaw-2025-12-23-1",
-      "jobId": "assa-abloy-mobile-app-developer-intern-kennesaw",
-      "company": "ASSA ABLOY",
-      "title": "Mobile App Developer Intern",
-      "postedToDiscord": "2025-12-23T17:17:17.399Z",
-      "sourceDate": "2025-12-23T16:19:23.000Z",
-      "sourceUrl": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
-      "discordThreadId": "1453073981811982418",
-      "instanceNumber": 1
-    },
     {
       "id": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck-2025-12-23-1",
       "jobId": "national-information-solutions-cooperative-nisc-software-development-intern-bismarck",
@@ -837,15 +815,27 @@
       "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Technology-Development-Intern_JR25-3790-1",
       "discordThreadId": "1455482965504295056",
       "instanceNumber": 1
+    },
+    {
+      "id": "altera-ai-ml-intern-in-design-automation-san-jose-2025-12-30-1",
+      "jobId": "altera-ai-ml-intern-in-design-automation-san-jose",
+      "company": "Altera Corporation",
+      "title": "AI/ML Intern in Design Automation",
+      "postedToDiscord": "2025-12-30T17:17:20.634Z",
+      "sourceDate": "2025-12-30T17:01:35.000Z",
+      "sourceUrl": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
+      "discordThreadId": "1455610710683025492",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 76,
+    "totalJobs": 75,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-30T08:49:43.907Z",
-      "archived": 0
+      "date": "2025-12-30T17:17:20.634Z",
+      "archived": 2,
+      "monthsAffected": 1
     }
   }
 }
