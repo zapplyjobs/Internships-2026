@@ -4,14 +4,14 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 48</em></p>
+<p><em>Real-time opportunities from 44</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-78-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-48-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-67-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-44-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 48+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 78+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 44+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 67+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 78 internships & new grad roles  
-🏢 **Top Companies:** 48 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 1 premium opportunities  
-📅 **Last Updated:** December 29, 2025  
+🔥 **Current Opportunities:** 67 internships & new grad roles  
+🏢 **Top Companies:** 44 elite tech companies hiring  
+⭐ **FAANG+ Positions:** 0 premium opportunities  
+📅 **Last Updated:** December 30, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1958 (older than 1 week)
+📁 **Archived Opportunities:** 1975 (older than 1 week)
 
 
 ---
@@ -116,21 +116,13 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
 
-### ⭐ **FAANG+** (1 position)
-
-#### 📦 **Amazon** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 6d |
-
 ### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 💾 **Micron Technology** (2 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern Computer Engineer - AI/LLM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 2d |
+| Intern Computer Engineer - AI/LLM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 3d |
 | Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 5d |
 
 
@@ -141,8 +133,8 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ### 🏢 **Top Hiring Companies**
 
-#### ⭐ **FAANG+** (1 company)
-📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1 position)
+#### ⭐ **FAANG+** (0 companies)
+No companies available
 
 
 #### 💰 **Fintech Leaders** (0 companies)
@@ -157,27 +149,27 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 74 | 95% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 4 | 5% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 63 | 94% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 4 | 6% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **San Jose, CA**: 5 opportunities
-- **San Diego, CA**: 5 opportunities
+- **San Jose, CA**: 6 opportunities
+- **Mt Laurel Township, NJ**: 5 opportunities
+- **Boston, MA**: 5 opportunities
+- **San Diego, CA**: 4 opportunities
 - **Menlo Park, CA**: 4 opportunities
-- **Boston, MA**: 4 opportunities
-- **Mt Laurel Township, NJ**: 3 opportunities
-- **Mountain View, CA**: 3 opportunities
-- **Palo Alto, CA**: 3 opportunities
-- **Remote in USA, Locations**: 3 opportunities
+- **Milpitas, CA**: 2 opportunities
+- **Denver, CO**: 2 opportunities
+- **Mountain View, CA**: 2 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 78+ verified internships and new grad roles from 48 top companies.
+✅ **100% Real Opportunities:** 67+ verified internships and new grad roles from 44 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -229,21 +221,22 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1958 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1975 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1958 roles
-- **🏢 Companies**: 48 companies  
-- **⭐ FAANG+ Opportunities**: 85 positions
+- **📁 Total Positions**: 1975 roles
+- **🏢 Companies**: 44 companies  
+- **⭐ FAANG+ Opportunities**: 86 positions
 
-### ⭐ **FAANG+** (85 positions)
+### ⭐ **FAANG+** (86 positions)
 
-#### 📦 **Amazon** (10 positions)
+#### 📦 **Amazon** (11 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1w |
 | Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2w |
 | Amazon Economics Apprenticeship Program - 2-Year Research Positions | Seattle, WA | [<img src="./image.png" width="100" alt="Apply">](https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions) | 3w |
@@ -583,7 +576,7 @@ No companies available
 
 <div align="center">
 
-**🎯 78 current opportunities from 48 top companies.**
+**🎯 67 current opportunities from 44 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -591,6 +584,6 @@ No companies available
 
 ---
 
-**Last Updated:** December 29, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** December 30, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>

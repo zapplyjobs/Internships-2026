@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-29T23:37:38.430Z",
+  "lastUpdated": "2025-12-30T00:43:11.959Z",
   "jobs": [
-    {
-      "id": "granite-construction-generative-ai-intern-aptos-2025-12-23-1",
-      "jobId": "granite-construction-generative-ai-intern-aptos",
-      "company": "Granite Construction",
-      "title": "Generative AI Intern",
-      "postedToDiscord": "2025-12-23T00:42:38.900Z",
-      "sourceDate": "2025-12-22T23:54:13.000Z",
-      "sourceUrl": "https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Generative-AI-Intern_R0000006751",
-      "discordThreadId": "1452823671898116136",
-      "instanceNumber": 1
-    },
-    {
-      "id": "granite-construction-predictive-analytics-intern-aptos-2025-12-23-1",
-      "jobId": "granite-construction-predictive-analytics-intern-aptos",
-      "company": "Granite Construction",
-      "title": "Predictive Analytics Intern",
-      "postedToDiscord": "2025-12-23T00:42:45.440Z",
-      "sourceDate": "2025-12-22T23:53:56.000Z",
-      "sourceUrl": "https://granite.wd1.myworkdayjobs.com/careers/job/Watsonville-California/Predictive-Analytics-Intern_R0000006752",
-      "discordThreadId": "1452823699182063830",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-scion-revenue-analytics-intern-chicago-2025-12-23-1",
-      "jobId": "the-scion-revenue-analytics-intern-chicago",
-      "company": "The Scion Group",
-      "title": "Revenue Analytics Intern",
-      "postedToDiscord": "2025-12-23T00:42:48.914Z",
-      "sourceDate": "2025-12-22T23:45:08.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8347868002",
-      "discordThreadId": "1452823713920712845",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-intern-business-performance-engineering-data-analyst-san-diego-2025-12-23-1",
-      "jobId": "asml-intern-business-performance-engineering-data-analyst-san-diego",
-      "company": "ASML",
-      "title": "Intern - Business Performance Engineering - Data Analyst",
-      "postedToDiscord": "2025-12-23T00:42:52.696Z",
-      "sourceDate": "2025-12-22T23:37:52.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Business-Performance-Engineering---Data-Analyst_J-00330345",
-      "discordThreadId": "1452823728973938718",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-intern-data-science-and-analytics-phoenix-2025-12-23-1",
-      "jobId": "asml-intern-data-science-and-analytics-phoenix",
-      "company": "ASML",
-      "title": "Intern - Data Science and Analytics",
-      "postedToDiscord": "2025-12-23T00:42:56.073Z",
-      "sourceDate": "2025-12-22T23:37:44.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/N-Phoenix-AZ-USA/Internship---Data-Science-and-Analytics_J-00330133",
-      "discordThreadId": "1452823743905796189",
-      "instanceNumber": 1
-    },
     {
       "id": "mcg-health-software-engineering-intern-seattle-2025-12-23-1",
       "jobId": "mcg-health-software-engineering-intern-seattle",
@@ -1013,16 +958,92 @@
       "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2532339",
       "discordThreadId": "1455344026122190869",
       "instanceNumber": 1
+    },
+    {
+      "id": "asm-international-software-engineering-intern-summer-2026-mt-laurel-township-2025-12-30-1",
+      "jobId": "asm-international-software-engineering-intern-summer-2026-mt-laurel-township",
+      "company": "ASM International",
+      "title": "Software Engineering Intern - Summer 2026",
+      "postedToDiscord": "2025-12-30T00:42:45.415Z",
+      "sourceDate": "2025-12-29T23:52:02.000Z",
+      "sourceUrl": "https://www.asm.com/open-vacancies/?gh_jid=4742577101",
+      "discordThreadId": "1455360412450295809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asm-international-software-engineering-intern-summer-2026-phoenix-2025-12-30-1",
+      "jobId": "asm-international-software-engineering-intern-summer-2026-phoenix",
+      "company": "ASM International",
+      "title": "Software Engineering Intern - Summer 2026",
+      "postedToDiscord": "2025-12-30T00:42:45.436Z",
+      "sourceDate": "2025-12-29T23:51:59.000Z",
+      "sourceUrl": "https://www.asm.com/open-vacancies/?gh_jid=4742602101",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "nutanix-software-engineering-intern-undergrad-only-distributed-systems-san-jose-2025-12-30-1",
+      "jobId": "nutanix-software-engineering-intern-undergrad-only-distributed-systems-san-jose",
+      "company": "Nutanix",
+      "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
+      "postedToDiscord": "2025-12-30T00:42:49.022Z",
+      "sourceDate": "2025-12-29T23:22:39.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/oCZfyfw8?nl=1&nl=1&fr=false",
+      "discordThreadId": "1455360428912672838",
+      "instanceNumber": 1
+    },
+    {
+      "id": "antora-energy-heat-to-power-process-validation-intern-thermophotovoltaics-high-temperature-systems-sunnyvale-2025-12-30-1",
+      "jobId": "antora-energy-heat-to-power-process-validation-intern-thermophotovoltaics-high-temperature-systems-sunnyvale",
+      "company": "Antora Energy",
+      "title": "Heat to Power Process Validation Intern - Thermophotovoltaics/High-Temperature Systems",
+      "postedToDiscord": "2025-12-30T00:42:52.451Z",
+      "sourceDate": "2025-12-23T23:28:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/antora/jobs/5743198004",
+      "discordThreadId": "1455360443962101855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "td-bank-2026-summer-internship-program-platforms-technology-data-engineer-mt-laurel-township-2025-12-30-1",
+      "jobId": "td-bank-2026-summer-internship-program-platforms-technology-data-engineer-mt-laurel-township",
+      "company": "TD Bank",
+      "title": "2026 Summer Internship Program - Platforms & Technology - Data Engineer",
+      "postedToDiscord": "2025-12-30T00:42:58.972Z",
+      "sourceDate": "2025-12-29T23:29:37.000Z",
+      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Data-Engineer_R_1464257",
+      "discordThreadId": "1455360471010902147",
+      "instanceNumber": 1
+    },
+    {
+      "id": "trane-business-systems-analyst-intern-winona-2025-12-30-1",
+      "jobId": "trane-business-systems-analyst-intern-winona",
+      "company": "Trane Technologies",
+      "title": "Business Systems Analyst Intern",
+      "postedToDiscord": "2025-12-30T00:43:05.477Z",
+      "sourceDate": "2025-12-29T23:22:58.000Z",
+      "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/2507347",
+      "discordThreadId": "1455360498639044710",
+      "instanceNumber": 1
+    },
+    {
+      "id": "weston-sampson-climate-resiliency-co-op-spring-2026-boston-2025-12-30-1",
+      "jobId": "weston-sampson-climate-resiliency-co-op-spring-2026-boston",
+      "company": "Weston & Sampson",
+      "title": "Climate Resiliency Co-Op - Spring 2026",
+      "postedToDiscord": "2025-12-30T00:43:11.959Z",
+      "sourceDate": "2025-09-11T09:15:43.000Z",
+      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3304/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1455360525709082685",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 92,
+    "totalJobs": 94,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-29T23:37:38.430Z",
-      "archived": 34,
-      "monthsAffected": 1
+      "date": "2025-12-30T00:43:11.959Z",
+      "archived": 0
     }
   }
 }
