@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 0 premium opportunities  
 📅 **Last Updated:** December 30, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1974 (older than 1 week)
+📁 **Archived Opportunities:** 1962 (older than 1 week)
 
 
 ---
@@ -156,8 +156,8 @@ No companies available
 ---
 
 ### 🌍 **Top Locations**
+- **San Jose, CA**: 6 opportunities
 - **Mt Laurel Township, NJ**: 5 opportunities
-- **San Jose, CA**: 5 opportunities
 - **San Diego, CA**: 4 opportunities
 - **Menlo Park, CA**: 4 opportunities
 - **Boston, MA**: 4 opportunities
@@ -221,12 +221,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1974 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1962 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1974 roles
+- **📁 Total Positions**: 1962 roles
 - **🏢 Companies**: 41 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 

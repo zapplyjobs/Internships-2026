@@ -19699,5 +19699,27 @@
     "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
     "discordThreadId": "1452938300976271442",
     "instanceNumber": 1
+  },
+  {
+    "id": "entegris-data-engineer-intern-chaska-2025-12-23-1",
+    "jobId": "entegris-data-engineer-intern-chaska",
+    "company": "Entegris",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2025-12-23T09:11:28.959Z",
+    "sourceDate": "2025-12-23T07:30:37.000Z",
+    "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Engineering-Intern---Summer-2026_REQ-9633",
+    "discordThreadId": "1452951723596320791",
+    "instanceNumber": 1
+  },
+  {
+    "id": "assa-abloy-mobile-app-developer-intern-kennesaw-2025-12-23-1",
+    "jobId": "assa-abloy-mobile-app-developer-intern-kennesaw",
+    "company": "ASSA ABLOY",
+    "title": "Mobile App Developer Intern",
+    "postedToDiscord": "2025-12-23T17:17:17.399Z",
+    "sourceDate": "2025-12-23T16:19:23.000Z",
+    "sourceUrl": "https://assaabloy.jobs2web.com/job/Kennesaw-Mobile-App-Developer-Intern-GA-30144/1278954101/?ats=successfactors",
+    "discordThreadId": "1453073981811982418",
+    "instanceNumber": 1
   }
 ]
