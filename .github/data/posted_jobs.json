@@ -1,238 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-30T00:43:11.959Z",
+  "lastUpdated": "2025-12-30T08:18:13.840Z",
   "jobs": [
-    {
-      "id": "mcg-health-software-engineering-intern-seattle-2025-12-23-1",
-      "jobId": "mcg-health-software-engineering-intern-seattle",
-      "company": "MCG Health",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-23T01:09:47.586Z",
-      "sourceDate": "2025-12-22T23:32:36.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/mcghealth/jobs/8350498002",
-      "discordThreadId": "1452830502791811285",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-transportation-data-engineering-intern-mclean-2025-12-23-1",
-      "jobId": "leidos-transportation-data-engineering-intern-mclean",
-      "company": "Leidos",
-      "title": "Transportation Data Engineering Intern",
-      "postedToDiscord": "2025-12-23T01:09:51.044Z",
-      "sourceDate": "2025-12-22T23:28:12.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/McLean-VA/Transportation-Data-Engineering-Intern_R-00172390",
-      "discordThreadId": "1452830517568344208",
-      "instanceNumber": 1
-    },
-    {
-      "id": "mckesson-compliance-automation-irving-2025-12-23-1",
-      "jobId": "mckesson-compliance-automation-irving",
-      "company": "McKesson",
-      "title": "Compliance Automation",
-      "postedToDiscord": "2025-12-23T01:09:58.174Z",
-      "sourceDate": "2025-12-22T23:34:57.000Z",
-      "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Compliance-Automation-Intern---Summer-2026_JR0136577-1",
-      "discordThreadId": "1452830546072834079",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medpace-data-engineer-intern-cincinnati-2025-12-23-1",
-      "jobId": "medpace-data-engineer-intern-cincinnati",
-      "company": "Medpace, Inc.",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2025-12-23T01:10:04.586Z",
-      "sourceDate": "2025-12-22T23:33:39.000Z",
-      "sourceUrl": "https://careers.medpace.com/jobs/11791?lang=en-us&icims=1",
-      "discordThreadId": "1452830574703022265",
-      "instanceNumber": 1
-    },
-    {
-      "id": "entegris-data-science-intern-shakopee-2025-12-23-1",
-      "jobId": "entegris-data-science-intern-shakopee",
-      "company": "Entegris",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-23T01:10:11.257Z",
-      "sourceDate": "2025-12-22T23:23:06.000Z",
-      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Data-Science-Intern---Summer-2026_REQ-9628",
-      "discordThreadId": "1452830601643167887",
-      "instanceNumber": 1
-    },
-    {
-      "id": "medpace-software-development-co-op-summer-2027-cincinnati-2025-12-23-1",
-      "jobId": "medpace-software-development-co-op-summer-2027-cincinnati",
-      "company": "Medpace, Inc.",
-      "title": "Software Development Co-Op - Summer 2027",
-      "postedToDiscord": "2025-12-23T01:49:33.225Z",
-      "sourceDate": "2025-12-22T23:14:37.000Z",
-      "sourceUrl": "https://careers.medpace.com/jobs/11790?lang=en-us&icims=1",
-      "discordThreadId": "1452840508186693672",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sarasota-county-public-utilities-intern-water-meter-data-analyst-sarasota-2025-12-23-1",
-      "jobId": "sarasota-county-public-utilities-intern-water-meter-data-analyst-sarasota",
-      "company": "Sarasota County",
-      "title": "Public Utilities Intern - Water Meter Data Analyst",
-      "postedToDiscord": "2025-12-23T01:49:39.703Z",
-      "sourceDate": "2025-12-22T23:13:08.000Z",
-      "sourceUrl": "https://scgov.wd5.myworkdayjobs.com/SCGOV/job/Bob-Office--Warehouse/Public-Utilities---Water-Meter-Data-Analyst---On-Site-Summer-2026-Internship_R20316",
-      "discordThreadId": "1452840536573477081",
-      "instanceNumber": 1
-    },
-    {
-      "id": "datavisor-ai-machine-learning-engineering-intern-mountain-view-2025-12-23-1",
-      "jobId": "datavisor-ai-machine-learning-engineering-intern-mountain-view",
-      "company": "DataVisor",
-      "title": "AI/Machine Learning Engineering Intern",
-      "postedToDiscord": "2025-12-23T01:49:46.207Z",
-      "sourceDate": "2025-12-22T23:12:03.000Z",
-      "sourceUrl": "https://apply.workable.com/datavisor-jobs/j/8EA46581E0/apply",
-      "discordThreadId": "1452840563685724332",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zoox-data-governance-intern-san-mateo-2025-12-23-1",
-      "jobId": "zoox-data-governance-intern-san-mateo",
-      "company": "Zoox",
-      "title": "Data Governance Intern",
-      "postedToDiscord": "2025-12-23T01:49:49.627Z",
-      "sourceDate": "2025-12-22T23:11:47.000Z",
-      "sourceUrl": "https://jobs.lever.co/zoox/e63f6b8f-bd1a-4822-9b61-22576c01f64f/apply",
-      "discordThreadId": "1452840578285834260",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-san-bruno-2025-12-23-1",
-      "jobId": "genentech-intern-san-bruno",
-      "company": "Genentech",
-      "title": "Intern",
-      "postedToDiscord": "2025-12-23T01:49:53.033Z",
-      "sourceDate": "2025-12-22T23:10:54.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences-Center-of-Excellence_202512-132169",
-      "discordThreadId": "1452840592395731037",
-      "instanceNumber": 1
-    },
-    {
-      "id": "velera-intern-software-engineer-net-remote-in-usa-2025-12-23-1",
-      "jobId": "velera-intern-software-engineer-net-remote-in-usa",
-      "company": "Velera",
-      "title": "Intern Software Engineer - .Net",
-      "postedToDiscord": "2025-12-23T02:32:17.654Z",
-      "sourceDate": "2025-12-22T23:07:09.000Z",
-      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern-Software-Engineer--Net----REMOTE_8887",
-      "discordThreadId": "1452851264202342421",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-multiple-teams-san-bruno-2025-12-23-1",
-      "jobId": "genentech-intern-multiple-teams-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-23T02:32:24.482Z",
-      "sourceDate": "2025-12-22T23:10:53.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Frontier-Research--Prescient-Design--AI-for-Drug-Discovery-_202512-132170-1",
-      "discordThreadId": "1452851292341928057",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-palo-alto-2025-12-23-1",
-      "jobId": "amazon-2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-palo-alto",
-      "company": "Amazon",
-      "title": "2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning",
-      "postedToDiscord": "2025-12-23T02:32:27.929Z",
-      "sourceDate": "2025-12-22T23:07:47.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
-      "discordThreadId": "1452851308322361364",
-      "instanceNumber": 1
-    },
-    {
-      "id": "great-american-insurance-company-data-science-intern-great-american-risk-solutions-cincinnati-2025-12-23-1",
-      "jobId": "great-american-insurance-company-data-science-intern-great-american-risk-solutions-cincinnati",
-      "company": "Great American Insurance Company",
-      "title": "Data Science Intern - Great American Risk Solutions",
-      "postedToDiscord": "2025-12-23T02:32:31.542Z",
-      "sourceDate": "2025-12-22T23:06:07.000Z",
-      "sourceUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Science-Intern---Great-American-Risk-Solutions_R8343",
-      "discordThreadId": "1452851323077660736",
-      "instanceNumber": 1
-    },
-    {
-      "id": "motorola-sales-operations-data-analyst-intern-chicago-2025-12-23-1",
-      "jobId": "motorola-sales-operations-data-analyst-intern-chicago",
-      "company": "Motorola",
-      "title": "Sales Operations Data Analyst Intern",
-      "postedToDiscord": "2025-12-23T02:32:35.130Z",
-      "sourceDate": "2025-12-23T00:15:55.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Sales-Operations-Data-Analyst-Intern--VS-A_R60544",
-      "discordThreadId": "1452851337988407487",
-      "instanceNumber": 1
-    },
-    {
-      "id": "motorola-software-development-intern-west-valley-city-2025-12-23-1",
-      "jobId": "motorola-software-development-intern-west-valley-city",
-      "company": "Motorola",
-      "title": "Software Development Intern",
-      "postedToDiscord": "2025-12-23T03:15:45.070Z",
-      "sourceDate": "2025-12-23T00:15:43.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Development-Intern---Summer-2026-Internship--Open-_R60336",
-      "discordThreadId": "1452862201055412245",
-      "instanceNumber": 1
-    },
-    {
-      "id": "motorola-c-software-engineer-summer-2026-internship-west-valley-city-2025-12-23-1",
-      "jobId": "motorola-c-software-engineer-summer-2026-internship-west-valley-city",
-      "company": "Motorola",
-      "title": "C# Software Engineer – Summer 2026 Internship",
-      "postedToDiscord": "2025-12-23T03:15:48.502Z",
-      "sourceDate": "2025-12-23T00:15:42.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/C--Software-Engineer---Summer-2026-Internship_R60312",
-      "discordThreadId": "1452862216104841387",
-      "instanceNumber": 1
-    },
-    {
-      "id": "motorola-software-engineer-summer-2026-internship-westminster-2025-12-23-1",
-      "jobId": "motorola-software-engineer-summer-2026-internship-westminster",
-      "company": "Motorola",
-      "title": "Software Engineer – Summer 2026 Internship",
-      "postedToDiscord": "2025-12-23T03:15:52.118Z",
-      "sourceDate": "2025-12-23T00:15:36.000Z",
-      "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2026-Internship_R60535",
-      "discordThreadId": "1452862230570733640",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vsp-vision-intern-software-engineer-remote-in-usa-2025-12-23-1",
-      "jobId": "vsp-vision-intern-software-engineer-remote-in-usa",
-      "company": "VSP Vision",
-      "title": "Intern - Software Engineer",
-      "postedToDiscord": "2025-12-23T03:15:55.665Z",
-      "sourceDate": "2025-12-23T02:48:40.000Z",
-      "sourceUrl": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-8944",
-      "discordThreadId": "1452862245787930864",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westlake-software-engineer-computer-science-intern-longview-2025-12-23-1",
-      "jobId": "westlake-software-engineer-computer-science-intern-longview",
-      "company": "Westlake",
-      "title": "Software Engineer/Computer Science Intern",
-      "postedToDiscord": "2025-12-23T03:47:54.109Z",
-      "sourceDate": "2025-12-23T02:38:37.000Z",
-      "sourceUrl": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Longview-TX/Software-Engineer-Computer-Science-Intern_R31071",
-      "discordThreadId": "1452870292358565929",
-      "instanceNumber": 1
-    },
-    {
-      "id": "oracle-cloud-product-release-intern-remote-in-usa-2025-12-23-1",
-      "jobId": "oracle-cloud-product-release-intern-remote-in-usa",
-      "company": "Oracle",
-      "title": "Cloud Product Release Intern",
-      "postedToDiscord": "2025-12-23T08:18:08.655Z",
-      "sourceDate": "2025-12-23T07:17:57.000Z",
-      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321081",
-      "discordThreadId": "1452938300976271442",
-      "instanceNumber": 1
-    },
     {
       "id": "entegris-data-engineer-intern-chaska-2025-12-23-1",
       "jobId": "entegris-data-engineer-intern-chaska",
@@ -1035,15 +804,38 @@
       "sourceUrl": "https://careers-wseinc.icims.com/jobs/3304/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1455360525709082685",
       "instanceNumber": 1
+    },
+    {
+      "id": "state-street-state-street-investment-management-intern-it-architecture-database-engineering-quincy-2025-12-30-1",
+      "jobId": "state-street-state-street-investment-management-intern-it-architecture-database-engineering-quincy",
+      "company": "State Street",
+      "title": "State Street Investment Management Intern - IT Architecture Database Engineering",
+      "postedToDiscord": "2025-12-30T08:18:07.234Z",
+      "sourceDate": "2025-12-30T07:52:36.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/State-Street-Investment-Management---IT-Architecture-Database-Engineering---Summer-Internship-2026_R-782326",
+      "discordThreadId": "1455475009647677482",
+      "instanceNumber": 1
+    },
+    {
+      "id": "state-street-state-street-investment-management-summer-internship-2026-data-scientist-quincy-2025-12-30-1",
+      "jobId": "state-street-state-street-investment-management-summer-internship-2026-data-scientist-quincy",
+      "company": "State Street",
+      "title": "State Street Investment Management – Summer Internship 2026 - Data Scientist",
+      "postedToDiscord": "2025-12-30T08:18:13.840Z",
+      "sourceDate": "2025-12-30T07:52:38.000Z",
+      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/State-Street-Investment-Management---Data-Scientist----Summer-Internship-2026_R-782327",
+      "discordThreadId": "1455475037829070848",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 94,
+    "totalJobs": 75,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-30T00:43:11.959Z",
-      "archived": 0
+      "date": "2025-12-30T08:18:13.840Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
