@@ -1,10 +1,4 @@
 {
-  "infineon-technologies-internship---manufacturing-operations-project-management-multiple-cities": {
-    "assigned_date": "2025-10-31T19:41:55.248Z",
-    "job_title": "Internship - Manufacturing Operations Project Management",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-10-31T19:41:55.248Z"
-  },
   "amd-2026-undergraduate-software-engineering-intern/co-op-multiple-cities": {
     "assigned_date": "2025-11-01T03:30:50.383Z",
     "job_title": "2026 Undergraduate Software Engineering Intern/Co-op",
@@ -16840,5 +16834,23 @@
     "job_title": "AI/ML Intern in Design Automation",
     "company": "Altera Corporation",
     "first_seen": "2025-12-30T17:17:04.863Z"
+  },
+  "kla-application-engineer-intern-milpitas": {
+    "assigned_date": "2025-12-30T23:44:35.103Z",
+    "job_title": "Application Engineer Intern",
+    "company": "KLA",
+    "first_seen": "2025-12-30T23:44:35.103Z"
+  },
+  "steerbridge-intern-program-vienna": {
+    "assigned_date": "2025-12-30T23:44:35.103Z",
+    "job_title": "Intern Program",
+    "company": "SteerBridge",
+    "first_seen": "2025-12-30T23:44:35.103Z"
+  },
+  "commscope-intern---ims-software-engineering-denver": {
+    "assigned_date": "2025-12-30T23:44:35.106Z",
+    "job_title": "Intern - IMS Software Engineering",
+    "company": "CommScope",
+    "first_seen": "2025-12-30T23:44:35.106Z"
   }
 }
