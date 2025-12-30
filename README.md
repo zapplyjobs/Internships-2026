@@ -76,7 +76,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 ⭐ **FAANG+ Positions:** 0 premium opportunities  
 📅 **Last Updated:** December 30, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1973 (older than 1 week)
+📁 **Archived Opportunities:** 1974 (older than 1 week)
 
 
 ---
@@ -162,8 +162,8 @@ No companies available
 - **Menlo Park, CA**: 4 opportunities
 - **Boston, MA**: 4 opportunities
 - **Quincy, MA**: 2 opportunities
+- **Chicago, IL**: 2 opportunities
 - **Milpitas, CA**: 2 opportunities
-- **Denver, CO**: 2 opportunities
 
 ---
 
@@ -221,12 +221,12 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1973 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1974 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1973 roles
+- **📁 Total Positions**: 1974 roles
 - **🏢 Companies**: 41 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
@@ -505,7 +505,13 @@ No companies available
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (22 positions)
+### 🏭 **Manufacturing & Industrial** (23 positions)
+
+#### ⚗️ **Applied Materials** (1 position)
+
+| Role | Location | Apply Now | Age |
+|------|----------|-----------|-----|
+| 2026 Summer – Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927) | 1w |
 
 #### 💾 **Micron Technology** (9 positions)
 
