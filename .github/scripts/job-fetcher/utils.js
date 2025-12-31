@@ -148,16 +148,16 @@ function getCompanyCareerUrl(companyName) {
 function isJobOlderThanWeek(dateString) {
   if (!dateString) return false;
 
-  // Check if the date is in relative format (e.g., '1d', '2w')
-  const relativeMatch = dateString.match(/^(\d+)([hdwmo])$/i);
+  // Check if the date is in relative format (e.g., '1d', '2w', '1mo')
+  const relativeMatch = dateString.match(/^(\d+)(h|d|w|mo)$/i);
   if (relativeMatch) {
     const value = parseInt(relativeMatch[1]);
     const unit = relativeMatch[2].toLowerCase();
 
-    if (unit === 'd' && value >= 7) return true; // 7 or more days
-    if (unit === 'w') return true; // Any number of weeks is older than a week
-    if (unit === 'mo') return true; // Any number of months is older than a week
-    return false; // Hours ('h') or less than 7 days ('d') are not older than a week
+    if (unit === 'd' && value >= 7) return true;
+    if (unit === 'w') return true;
+    if (unit === 'mo') return true;
+    return false;
   }
 
   // Fallback to absolute date comparison
@@ -845,118 +845,58 @@ async function fetchInternshipData() {
 
   const internships = [];
 
-  // Popular internship tracking repositories and sources
-  const internshipSources = [
-    {
-      name: "AngelList Internships",
-      emogi: "👼",
-      url: "https://wellfound.com/jobs#internships",
-      type: "Job Board",
-      description: "Trending startup internships and entry-level roles",
-    },
-    {
-      name: "LinkedIn Student Jobs",
-      emogi: "🔗",
-      url: "https://www.linkedin.com/jobs/search/?currentJobId=4292794755&geoId=103644278&keywords=software%20engineering%20intern&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true",
-      type: "Platform",
-      description: "New Jobs and professional networking for students",
-    },
-    {
-      name: "Indeed Internships",
-      emogi: "🔵",
-      url: "https://www.indeed.com/jobs?q=software%20engineering%20intern&l=United%20States&from=searchOnDesktopSerp%2Cwhereautocomplete&cf-turnstile-response=0.ZJCZbNXcxcvufJaZndsqVZt_cKlKAHi24tPPk6n9v399nZHXwzLOL8P43R6ir2fKfa6BvndTrPbW_cSnPqQyLnard6MNWqZbqAcRe5Xk6qhevasj90JYORHAWNaztKmx71uUniLoCEo_csEXBvZ8awZ5F6IhXpAJC8gF-R44ir09b9w3x16auEKJdPpnf5UyLmhezEgeMSGRUwbmFNrs5iDWupecoRzbvKgf8EBnzD4k8SJIERx3rCt92k0OksFz7C_X2N4lUEjqiLSb9ZI2J7wUmUMQf2l7keXpf2uMdbIuBkxpUj3cpyiK87Wj5fi-v9yDE9U1Sd8sm-jD6TASVUgF_6KvV3SwMMLErS8fhWNCuiGu3Tk-zk354ovM_cskTBRnaCLVHeUucoHiLJGE61X9NYHCIY4HJMxXlR6BcLdMwSgAIlPqtQVzolpCsrOHWrAD3SAiD7OKFX2rtm3YGTk7pRjDURwg-uia-yoLCWrqOyTI8cfPes4J5VxguGJGqb2A7KVow3x54UjuVBxHPljJ4a_rKTd5qzshvas4FqM35um5CmVTVrQJfuzAZBSp_72nOEwtVpwrfu_Ff39EPAb1c-IVifGhtpPq7ceWOM6_w4s96HAhHiCskNy8BbhcqHCOohxXYWw3o2VFEMdOIUp9SLWv19GpaZAU3rdE--GosWrdamyZ5-nwYRg_FJ3r7cmCCRi8CAKqp4uoTxgYYtSs_eTBleyPOdMU0v0iNskpU5T-hViWduBKcCr5ouXa82fRBt-9zw7aymZdwWVaJRcUiTDrdGtes53XJy2Ub1sAoCEI9UCeEhRJGeO2D1sp2crya84ADsBmSuk4Q0pplaRV_u2fc9gHKfW098qNVxTBcxhXgt8YKoRpVPkMPVLaHePlyHySFqV42xEqjLsMwz7eCb4OyAK-YO22C-V-T1Xg73nDf0fHRT2GAy5TXRdM.5QbZ9QPdwp8M71i25CqN1g.c4b098184b3143ef21e5dad9abb502f3444659952a73cbd8c95694153a14ae72",
-      type: "Job Board",
-      description: "Comprehensive internship search engine",
-    },
-    {
-      name: "Glassdoor Internships",
-      emogi: "🏢",
-      url: "https://www.glassdoor.com/Job/united-states-software-engineer-intern-jobs-SRCH_IL.0,13_IN1_KO14,38.htm",
-      type: "Job Board",
-      description: "Internships with company reviews and salary data",
-    },
-    {
-      name: "University Career Centers",
-      emogi: "🏫",
-      url: "https://www.naceweb.org/tag/internships",
-      type: "Resource",
-      description: "National Association of Colleges and Employers",
-    },
-  ];
+// Popular internship tracking repositories and sources
+    const internshipSources = [
+        {
+            name: 'Wellfound (AngelList)',
+            emogi: '🚀',
+            url: 'https://wellfound.com/jobs',
+            type: 'Job Board',
+            description: 'Startup jobs with salary & equity transparency'
+        },
+        {
+            name: 'LinkedIn Student Jobs',
+            emogi: '🔗',
+            url: 'https://www.linkedin.com/jobs/student-jobs',
+            type: 'Platform',
+            description: 'Professional network for student opportunities'
+        },
+        {
+            name: 'Indeed Internships',
+            emogi: '🔵',
+            url: 'https://www.indeed.com/q-software-engineering-intern-jobs.html',
+            type: 'Job Board',
+            description: 'Comprehensive internship search engine'
+        },
+        {
+            name: 'Glassdoor Internships',
+            emogi: '🏢',
+            url: 'https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm',
+            type: 'Job Board',
+            description: 'Internships with company reviews and salary data'
+        },
+        {
+            name: 'NACE Career Resources',
+            emogi: '🎓',
+            url: 'https://www.naceweb.org/internships',
+            type: 'Resource',
+            description: 'National Association of Colleges and Employers'
+        }
+    ];
 
-  // Add company-specific internship programs
-  const companyInternshipPrograms = [
-    {
-      company: "Google",
-      emogi: "🟢",
-      program: "STEP Internship",
-      url: "https://careers.google.com/students/",
-      deadline: "Various",
-    },
-    {
-      company: "Microsoft",
-      emogi: "🟦",
-      program: "Software Engineering Internship",
-      url: "https://careers.microsoft.com/students",
-      deadline: "Various",
-    },
-    {
-      company: "Meta",
-      emogi: "🔵",
-      program: "Software Engineer Internship",
-      url: "https://www.metacareers.com/careerprograms/students",
-      deadline: "Various",
-    },
-    {
-      company: "Amazon",
-       emogi: "📦",
-      program: "SDE Internship",
-      url: "https://www.amazon.jobs/en/teams/internships-for-students",
-      deadline: "Various",
-    },
-    {
-      company: "Apple",
-      emogi: "🍎",
-      program: "Software Engineering Internship",
-      url: "https://jobs.apple.com/en-us/search?search=software+engineering&sort=relevance&location=united-states-USA&team=internships-STDNT-INTRN",
-      deadline: "Various",
-    },
-    {
-      company: "Netflix",
-      emogi: "🎬",
-      program: "Software Engineering Internship",
-      url: "https://explore.jobs.netflix.net/careers?query=software%20internship&pid=790302560337&domain=netflix.com&sort_by=relevance&triggerGoButton=false",
-      deadline: "Various",
-    },
-    {
-      company: "Tesla",
-      emogi: "⚡",
-      program: "Software Engineering Internship",
-      url: "https://www.tesla.com/careers/search/?query=software%20intern&site=US",
-      deadline: "Various",
-    },
-    {
-      company: "Nvidia",
-       emogi: "🎮",
-      program: "Software Engineering Internship",
-      url: "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=software+intern&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8",
-      deadline: "Various",
-    },
-    {
-      company: "Stripe",
-      emogi: "💳",
-      program: "Software Engineering Internship",
-      url: "https://stripe.com/jobs/search?query=software+intern&remote_locations=North+America--US+Remote&office_locations=North+America--New+York&office_locations=North+America--New+York+Privy+HQ&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Washington+DC",
-      deadline: "Various",
-    },
-    {
-      company: "Coinbase",
-      emogi: "₿",
-      program: "Software Engineering Internship",
-      url: "https://www.coinbase.com/careers/positions?search=software%2520internship",
-      deadline: "Various",
-    },
-  ];
+// Add company-specific internship programs
+    const companyInternshipPrograms = [
+        { company: 'Google', program: 'STEP Internship', url: 'https://buildyourfuture.withgoogle.com/programs/step', deadline: 'Various' },
+        { company: 'Microsoft', program: 'Explore Microsoft Program', url: 'https://careers.microsoft.com/v2/global/en/universityinternship', deadline: 'Various' },
+        { company: 'Meta', program: 'Software Engineer Intern', url: 'https://www.metacareers.com/careerprograms/students', deadline: 'Various' },
+        { company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/en/teams/internships-for-students', deadline: 'Various' },
+        { company: 'Apple', program: 'Engineering & Technology Intern', url: 'https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN', deadline: 'Various' },
+        { company: 'Netflix', program: 'Software Engineer Intern', url: 'https://jobs.netflix.com/careers/internships', deadline: 'Various' },
+        { company: 'Tesla', program: 'Engineering Internship', url: 'https://www.tesla.com/careers/internships', deadline: 'Various' },
+        { company: 'Nvidia', program: 'Ignite & SWE Internship', url: 'https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/', deadline: 'Various' },
+        { company: 'Stripe', program: 'Software Engineer Intern', url: 'https://stripe.com/jobs/university', deadline: 'Various' },
+        { company: 'Coinbase', program: 'Software Engineer Intern', url: 'https://www.coinbase.com/internships', deadline: 'Various' }
+    ];
 
   return {
     sources: internshipSources,
