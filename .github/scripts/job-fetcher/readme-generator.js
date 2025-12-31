@@ -550,5 +550,5 @@ module.exports = {
   generateInternshipSection,
   generateArchivedSection,
   generateReadme,
-  updateReadme, //test
+  updateReadme,
 };
