@@ -25,7 +25,7 @@ function filterJobsByAge(allJobs) {
     }
   });
 
-  console.log(`📅 Filtered: ${currentJobs.length} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
+  console.log(`📅 Filtered: ${displayedJobCount} current (≤7 days), ${archivedJobs.length} archived (>7 days)`);
   return { currentJobs, archivedJobs };
 }
 
@@ -207,7 +207,9 @@ function generateInternshipSection(internshipData) {
   return `
 ---
 
-## 🎓 **Featured Internship Programs 2026**
+## SWE Internships 2026
+
+<img src="images/int-internships.png" alt="Software engineering internships for 2026.">
 
 ### 🏢 **FAANG+ & Elite Tech Internships**
 
@@ -215,8 +217,7 @@ function generateInternshipSection(internshipData) {
 |---------|---------|-----------|
 ${internshipData.companyPrograms
   .map((program) => {
-   
-    return `| ${program.emogi} **${program.company}** | ${program.program} |<a href="${program.url}"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|`;
+    return `| ${program.emogi} **${program.company}** | ${program.program} | [<img src="images/apply.png" width="75" alt="Apply">](${program.url}) |`;
   })
   .join("\n")}
 
@@ -227,7 +228,7 @@ ${internshipData.companyPrograms
 ${internshipData.sources
   .map(
     (source) =>
-      `| **${source.emogi} ${source.name}** | ${source.description} | <a href="${source.url}"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|`
+      `| ${source.emogi} **${source.name}** | ${source.description} | [<img src="images/int-visit.png" width="75" alt="Visit Now">](${source.url}) |`
   )
   .join("\n")}
 
@@ -278,8 +279,24 @@ async function generateReadme(
     day: "numeric",
   });
 
-  const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
-  const faangJobs = currentJobs.filter((job) =>
+  // Calculate actual displayed jobs (only from companies in software.json)
+  const companyNameMap = new Map();
+  Object.entries(companyCategory).forEach(([categoryKey, category]) => {
+    if (Array.isArray(category.companies)) {
+      category.companies.forEach((company) => {
+        companyNameMap.set(company.toLowerCase(), company);
+      });
+    }
+  });
+
+  const displayedJobs = currentJobs.filter(job => {
+    return companyNameMap.has(job.employer_name.toLowerCase());
+  });
+
+  const displayedJobCount = displayedJobs.length;
+  const totalCompanies = [...new Set(displayedJobs.map(j => j.employer_name))].length;
+  
+  const faangJobs = displayedJobs.filter((job) =>
     companies.faang_plus.some((c) => c.name === job.employer_name)
   ).length;
 
@@ -293,7 +310,7 @@ async function generateReadme(
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-${displayedJobCount}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
 ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -322,7 +339,7 @@ ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + f
 
 ---
 
-<p align="center">🚀 Real-time internships from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${currentJobs.length}+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${displayedJobCount}+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -349,7 +366,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
+- 🔥 **Current Positions:** ${displayedJobCount} hot data-focused jobs
 - **🏢 Companies**: ${totalCompanies} companies
 ${faangJobs > 0 ? '- **⭐ FAANG+ Jobs**: ' + faangJobs + ' premium opportunities\n' : ''}- 📅 **Last Updated:** ${currentDate}
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -372,11 +389,11 @@ ${generateJobTable(currentJobs)}
 
 ### 🏢 Top Companies
 
-#### ⭐ FAANG+ (${(() => {
-  const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+${(() => {
+  const faangWithJobs = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (faangWithJobs.length === 0) return '';
+  return `#### ⭐ FAANG+ (${faangWithJobs.length} ${faangWithJobs.length === 1 ? 'company' : 'companies'})
+${faangWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -384,14 +401,15 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### 💰 Fintech Leaders (${(() => {
-  const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const fintechWithJobs = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (fintechWithJobs.length === 0) return '';
+  return `#### 💰 Fintech Leaders (${fintechWithJobs.length} ${fintechWithJobs.length === 1 ? 'company' : 'companies'})
+${fintechWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -399,14 +417,15 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
 
-
-#### ☁️ Enterprise & Cloud (${(() => {
-  const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
-  return `${count} ${count === 1 ? 'company' : 'companies'}`;
-})()})
-${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).map((c, index) => {
+`;
+})()}
+${(() => {
+  const enterpriseWithJobs = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
+  if (enterpriseWithJobs.length === 0) return '';
+  return `#### ☁️ Enterprise & Cloud (${enterpriseWithJobs.length} ${enterpriseWithJobs.length === 1 ? 'company' : 'companies'})
+${enterpriseWithJobs.map((c, index) => {
   const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
   const jobText = totalJobs === 1 ? 'position' : 'positions';
   if (index === 0) {
@@ -414,26 +433,37 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
   } else {
     return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
   }
-}).join(" • ") || "No companies available"}
+}).join(" • ")}
+
+`;
+})()}
 
 ---
+
 ### 📈 Opportunity Type Breakdown
 
-| Level               | Count | Percentage | Description                     |
+${(() => {
+  // Calculate level breakdown from displayed jobs only
+  const levelCounts = { 'Entry-Level': 0, 'Mid-Level': 0, 'Senior': 0 };
+  displayedJobs.forEach(job => {
+    const level = getExperienceLevel(job.job_title, job.job_description);
+    if (levelCounts[level] !== undefined) {
+      levelCounts[level]++;
+    }
+  });
+  
+  const total = displayedJobCount || 1; // Avoid division by zero
+  const entryPct = Math.round((levelCounts['Entry-Level'] / total) * 100);
+  const midPct = Math.round((levelCounts['Mid-Level'] / total) * 100);
+  // Make Senior percentage fill the remainder to ensure 100%
+  const seniorPct = 100 - entryPct - midPct;
+  
+  return `| Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | ${stats?.byLevel["Entry-Level"] || 0} | ${
-    stats
-      ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100)
-      : 0
-  }% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | ${stats?.byLevel["Mid-Level"] || 0} | ${
-    stats
-      ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100)
-      : 0
-  }% | 0-1 years of experience |
-| 🔴 Early Career         | ${stats?.byLevel["Senior"] || 0} | ${
-    stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0
-  }% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | ${levelCounts['Entry-Level']} | ${entryPct}% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | ${levelCounts['Mid-Level']} | ${midPct}% | 0-1 years of experience |
+| 🔴 Early Career         | ${levelCounts['Senior']} | ${seniorPct}% | 1-2 years of experience |`;
+})()}
 
 ---
 
@@ -452,7 +482,7 @@ ${
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** ${currentJobs.length}+ verified internships and new grad roles from ${totalCompanies} top companies.
+✅ **100% Real Opportunities:** ${displayedJobCount}+ verified internships and new grad roles from ${totalCompanies} top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -535,7 +565,7 @@ ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 <div align="center">
 
 **🎯 ${
-    currentJobs.length
+    displayedJobCount
   } current opportunities from ${totalCompanies} top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
@@ -560,10 +590,10 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       stats
     );
     fs.writeFileSync("README.md", readmeContent, "utf8");
-    console.log(`✅ README.md updated with ${currentJobs.length} current opportunities`);
+    console.log(`✅ README.md updated with ${displayedJobCount} current opportunities`);
 
     console.log("\n📊 Summary:");
-    console.log(`- Total current: ${currentJobs.length}`);
+    console.log(`- Total current: ${displayedJobCount}`);
     console.log(`- Archived:      ${archivedJobs.length}`);
     console.log(
       `- Companies:     ${Object.keys(stats?.totalByCompany || {}).length}`
