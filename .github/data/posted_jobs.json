@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T03:20:11.734Z",
+  "lastUpdated": "2025-12-31T17:17:17.860Z",
   "jobs": [
-    {
-      "id": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos-2025-12-24-1",
-      "jobId": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos",
-      "company": "Electronic Arts",
-      "title": "Global Audit Technology Risk Analytics Intern",
-      "postedToDiscord": "2025-12-24T03:41:58.601Z",
-      "sourceDate": "2025-12-24T02:16:59.000Z",
-      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Global-Audit-Technology-Risk-Analytics-Intern/210880",
-      "discordThreadId": "1453231188478132366",
-      "instanceNumber": 1
-    },
-    {
-      "id": "didi-global-motion-planning-engineer-intern-full-time-phd-san-jose-2025-12-24-1",
-      "jobId": "didi-global-motion-planning-engineer-intern-full-time-phd-san-jose",
-      "company": "DiDi Global",
-      "title": "Motion Planning Engineer – Intern/Full-time - PhD",
-      "postedToDiscord": "2025-12-24T03:42:02.140Z",
-      "sourceDate": "2025-12-24T02:47:25.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/didi/jobs/7495381",
-      "discordThreadId": "1453231203829416009",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zoox-enterprise-integration-intern-san-mateo-2025-12-24-1",
-      "jobId": "zoox-enterprise-integration-intern-san-mateo",
-      "company": "Zoox",
-      "title": "Enterprise Integration Intern",
-      "postedToDiscord": "2025-12-24T03:42:08.517Z",
-      "sourceDate": "2025-12-24T02:15:16.000Z",
-      "sourceUrl": "https://jobs.lever.co/zoox/0a53e7a7-bbbf-4834-bcd4-f0372e388dfa/apply",
-      "discordThreadId": "1453231230928818341",
-      "instanceNumber": 1
-    },
-    {
-      "id": "didi-global-autonomy-system-safety-engineer-san-jose-2025-12-24-1",
-      "jobId": "didi-global-autonomy-system-safety-engineer-san-jose",
-      "company": "DiDi Global",
-      "title": "Autonomy System & Safety Engineer",
-      "postedToDiscord": "2025-12-24T03:42:12.248Z",
-      "sourceDate": "2025-12-24T02:47:27.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/didi/jobs/7495391",
-      "discordThreadId": "1453231245285916876",
-      "instanceNumber": 1
-    },
-    {
-      "id": "archer-ios-engineer-intern-san-jose-2025-12-24-1",
-      "jobId": "archer-ios-engineer-intern-san-jose",
-      "company": "Archer",
-      "title": "IOS Engineer Intern",
-      "postedToDiscord": "2025-12-24T08:18:04.827Z",
-      "sourceDate": "2025-12-24T07:40:33.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/archer56/jobs/7565625003",
-      "discordThreadId": "1453300673130139648",
-      "instanceNumber": 1
-    },
-    {
-      "id": "archer-ai-research-intern-san-jose-2025-12-24-1",
-      "jobId": "archer-ai-research-intern-san-jose",
-      "company": "Archer",
-      "title": "AI Research Intern",
-      "postedToDiscord": "2025-12-24T08:18:11.318Z",
-      "sourceDate": "2025-12-24T07:40:31.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/archer56/jobs/7565626003",
-      "discordThreadId": "1453300700325875743",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northrop-grumman-software-engineer-intern-palmdale-2025-12-24-1",
-      "jobId": "northrop-grumman-software-engineer-intern-palmdale",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-24T16:17:45.645Z",
-      "sourceDate": "2025-12-24T15:20:21.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Intern-Software-Engineer_R10217175",
-      "discordThreadId": "1453421388051386481",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bmo-data-analyst-co-op-intern-chicago-2025-12-24-1",
-      "jobId": "bmo-data-analyst-co-op-intern-chicago",
-      "company": "BMO ",
-      "title": "Data Analyst – Co-op/Intern",
-      "postedToDiscord": "2025-12-24T17:16:36.351Z",
-      "sourceDate": "2025-12-24T16:10:50.000Z",
-      "sourceUrl": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Chicago-IL-USA/Data-Analyst--Summer-2026--Co-op-Internship----10-Weeks_R250032685",
-      "discordThreadId": "1453436197593677955",
-      "instanceNumber": 1
-    },
     {
       "id": "velera-intern-servicenow-engineer-remote-in-usa-2025-12-24-1",
       "jobId": "velera-intern-servicenow-engineer-remote-in-usa",
@@ -595,14 +507,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
       "discordThreadId": "1455762416867610810",
       "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-intern-water-operations-washington-2025-12-31-1",
+      "jobId": "dc-water-intern-water-operations-washington",
+      "company": "DC Water",
+      "title": "Intern - Water Operations",
+      "postedToDiscord": "2025-12-31T17:17:00.474Z",
+      "sourceDate": "2025-12-31T16:39:33.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1945",
+      "discordThreadId": "1455973013756575989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-intern-washington-2025-12-31-1",
+      "jobId": "dc-water-intern-washington",
+      "company": "DC Water",
+      "title": "Intern",
+      "postedToDiscord": "2025-12-31T17:17:00.490Z",
+      "sourceDate": "2025-12-31T16:22:26.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1910",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-intern-clean-rivers-washington-2025-12-31-1",
+      "jobId": "dc-water-intern-clean-rivers-washington",
+      "company": "DC Water",
+      "title": "Intern - Clean Rivers",
+      "postedToDiscord": "2025-12-31T17:17:00.491Z",
+      "sourceDate": "2025-12-31T16:22:22.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1934",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-intern-erp-systems-and-controls-erp-systems-and-controls-washington-2025-12-31-1",
+      "jobId": "dc-water-intern-erp-systems-and-controls-erp-systems-and-controls-washington",
+      "company": "DC Water",
+      "title": "Intern ERP Systems and Controls - ERP Systems and Controls",
+      "postedToDiscord": "2025-12-31T17:17:04.330Z",
+      "sourceDate": "2025-12-31T16:22:26.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1915",
+      "discordThreadId": "1455973028407017705",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-016-summer-intern-data-analytics-washington-2025-12-31-1",
+      "jobId": "dc-water-016-summer-intern-data-analytics-washington",
+      "company": "DC Water",
+      "title": "016:Summer Intern - Data Analytics",
+      "postedToDiscord": "2025-12-31T17:17:07.864Z",
+      "sourceDate": "2025-12-31T16:22:24.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1926",
+      "discordThreadId": "1455973044421005394",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-summer-intern-engineering-and-technical-services-planning-washington-2025-12-31-1",
+      "jobId": "dc-water-summer-intern-engineering-and-technical-services-planning-washington",
+      "company": "DC Water",
+      "title": "Summer Intern - Engineering and Technical Services - Planning",
+      "postedToDiscord": "2025-12-31T17:17:11.274Z",
+      "sourceDate": "2025-12-31T16:22:21.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1931",
+      "discordThreadId": "1455973059000274986",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dc-water-082-summer-intern-it-data-and-analytics-washington-2025-12-31-1",
+      "jobId": "dc-water-082-summer-intern-it-data-and-analytics-washington",
+      "company": "DC Water",
+      "title": "082:Summer Intern - IT-Data and Analytics",
+      "postedToDiscord": "2025-12-31T17:17:17.860Z",
+      "sourceDate": "2025-12-31T16:22:23.000Z",
+      "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1919",
+      "discordThreadId": "1455973086049599609",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 54,
+    "totalJobs": 53,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-31T03:20:11.734Z",
+      "date": "2025-12-31T17:17:17.860Z",
       "archived": 0
     }
   }
