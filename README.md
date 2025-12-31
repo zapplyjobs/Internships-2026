@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
 
 <h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 38</em></p>
+<p><em>Real-time opportunities from 35</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-58-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-38-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-47-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-35-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -48,7 +48,7 @@
   
   # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 38+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 58+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+**🚀 Real-time internships and new grad roles from 35+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 47+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
 
 **🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
 
@@ -71,12 +71,12 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ## 📊 **Live Stats**
 
-🔥 **Current Opportunities:** 58 internships & new grad roles  
-🏢 **Top Companies:** 38 elite tech companies hiring  
+🔥 **Current Opportunities:** 47 internships & new grad roles  
+🏢 **Top Companies:** 35 elite tech companies hiring  
 ⭐ **FAANG+ Positions:** 0 premium opportunities  
-📅 **Last Updated:** December 30, 2025  
+📅 **Last Updated:** December 31, 2025  
 🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1976 (older than 1 week)
+📁 **Archived Opportunities:** 1987 (older than 1 week)
 
 
 ---
@@ -122,7 +122,7 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Intern Computer Engineer - AI/LLM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 3d |
+| Intern Computer Engineer - AI/LLM | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 4d |
 | Intern – Thermal Modeling & Simulation | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 6d |
 
 
@@ -149,27 +149,27 @@ No companies available
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 54 | 93% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 3 | 5% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 45 | 96% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 1 | 2% | 0-1 years of experience |
 | 🔴 Early Career         | 1 | 2% | 1-2 years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **San Jose, CA**: 6 opportunities
+- **San Jose, CA**: 5 opportunities
 - **Mt Laurel Township, NJ**: 5 opportunities
-- **San Diego, CA**: 4 opportunities
-- **Menlo Park, CA**: 4 opportunities
-- **Milpitas, CA**: 2 opportunities
 - **Chicago, IL**: 2 opportunities
 - **Quincy, MA**: 2 opportunities
 - **Denver, CO**: 2 opportunities
+- **Mountain View, CA**: 2 opportunities
+- **Boise, ID**: 2 opportunities
+- **Palo Alto, CA**: 2 opportunities
 
 ---
 
 ## 🔮 **Why Students & New Grads Choose Our Platform**
 
-✅ **100% Real Opportunities:** 58+ verified internships and new grad roles from 38 top companies.
+✅ **100% Real Opportunities:** 47+ verified internships and new grad roles from 35 top companies.
 
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 
@@ -221,13 +221,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1976 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1987 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1976 roles
-- **🏢 Companies**: 38 companies  
+- **📁 Total Positions**: 1987 roles
+- **🏢 Companies**: 35 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
@@ -576,7 +576,7 @@ No companies available
 
 <div align="center">
 
-**🎯 58 current opportunities from 38 top companies.**
+**🎯 47 current opportunities from 35 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -584,6 +584,6 @@ No companies available
 
 ---
 
-**Last Updated:** December 30, 2025 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** December 31, 2025 • **Next Update:** Daily at 9 AM UTC
 
 </div>
