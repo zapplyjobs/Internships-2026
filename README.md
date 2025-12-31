@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-40-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
 
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 31+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 40+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 1+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 1+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -64,40 +64,42 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 40 hot data-focused jobs
-- **🏢 Companies**: 31 companies
+- 🔥 **Current Positions:** 1 hot data-focused jobs
+- **🏢 Companies**: 1 companies
 - 📅 **Last Updated:** December 31, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 
 ---
 
-## 🎓 **Featured Internship Programs 2026**
+## SWE Internships 2026
+
+<img src="images/int-internships.png" alt="Software engineering internships for 2026.">
 
 ### 🏢 **FAANG+ & Elite Tech Internships**
 
 | Company | Program | Apply Now |
 |---------|---------|-----------|
-| undefined **Google** | STEP Internship |<a href="https://buildyourfuture.withgoogle.com/programs/step"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Microsoft** | Explore Microsoft Program |<a href="https://careers.microsoft.com/v2/global/en/universityinternship"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Meta** | Software Engineer Intern |<a href="https://www.metacareers.com/careerprograms/students"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Amazon** | SDE Internship |<a href="https://amazon.jobs/en/teams/internships-for-students"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Apple** | Engineering & Technology Intern |<a href="https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Netflix** | Software Engineer Intern |<a href="https://jobs.netflix.com/careers/internships"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Tesla** | Engineering Internship |<a href="https://www.tesla.com/careers/internships"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Nvidia** | Ignite & SWE Internship |<a href="https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Stripe** | Software Engineer Intern |<a href="https://stripe.com/jobs/university"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
-| undefined **Coinbase** | Software Engineer Intern |<a href="https://www.coinbase.com/internships"  target="_blank"><img src="./image.png" width="100" alt="Apply"></a>|
+| 🔵 **Google** | STEP Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://buildyourfuture.withgoogle.com/programs/step) |
+| 🪟 **Microsoft** | Explore Microsoft Program | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.microsoft.com/v2/global/en/universityinternship) |
+| 📘 **Meta** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://www.metacareers.com/careerprograms/students) |
+| 📦 **Amazon** | SDE Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/teams/internships-for-students) |
+| 🍎 **Apple** | Engineering & Technology Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN) |
+| 🎬 **Netflix** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.netflix.com/careers/internships) |
+| ⚡ **Tesla** | Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tesla.com/careers/internships) |
+| 🟢 **Nvidia** | Ignite & SWE Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) |
+| 💳 **Stripe** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/university) |
+| 🪙 **Coinbase** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/internships) |
 
 ### 📚 **Additional Internship & New Grad Resources**
 
 | Platform | Description | Visit Now |
 |----------|-------------|-----------|
-| **🚀 Wellfound (AngelList)** | Startup jobs with salary & equity transparency | <a href="https://wellfound.com/jobs"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🔗 LinkedIn Student Jobs** | Professional network for student opportunities | <a href="https://www.linkedin.com/jobs/student-jobs"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🔵 Indeed Internships** | Comprehensive internship search engine | <a href="https://www.indeed.com/q-software-engineering-intern-jobs.html"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🏢 Glassdoor Internships** | Internships with company reviews and salary data | <a href="https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
-| **🎓 NACE Career Resources** | National Association of Colleges and Employers | <a href="https://www.naceweb.org/internships"  target="_blank"><img src="./image1.png" width="100" alt="Visit Now"></a>|
+| 🚀 **Wellfound (AngelList)** | Startup jobs with salary & equity transparency | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://wellfound.com/jobs) |
+| 🔗 **LinkedIn Student Jobs** | Professional network for student opportunities | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.linkedin.com/jobs/student-jobs) |
+| 🔵 **Indeed Internships** | Comprehensive internship search engine | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.indeed.com/q-software-engineering-intern-jobs.html) |
+| 🏢 **Glassdoor Internships** | Internships with company reviews and salary data | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm) |
+| 🎓 **NACE Career Resources** | National Association of Colleges and Employers | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.naceweb.org/internships) |
 
 
 
@@ -125,25 +127,19 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🏢 Top Companies
 
-#### ⭐ FAANG+ (0 companies)
-No companies available
 
 
-#### 💰 Fintech Leaders (0 companies)
-No companies available
 
-
-#### ☁️ Enterprise & Cloud (0 companies)
-No companies available
 
 ---
+
 ### 📈 Opportunity Type Breakdown
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 39 | 98% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 1 | 100% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
-| 🔴 Early Career         | 1 | 3% | 1-2 years of experience |
+| 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
 
@@ -153,15 +149,15 @@ No companies available
 - **Mountain View, CA**: 2 opportunities
 - **Denver, NC**: 2 opportunities
 - **San Jose, CA**: 2 opportunities
-- **Chicago, IL**: 2 opportunities
 - **Quincy, MA**: 2 opportunities
+- **Chicago, IL**: 2 opportunities
 - **Denver, CO**: 2 opportunities
 
 ---
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 40+ verified internships and new grad roles from 31 top companies.
+✅ **100% Real Opportunities:** 1+ verified internships and new grad roles from 1 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -597,7 +593,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 40 current opportunities from 31 top companies.**
+**🎯 1 current opportunities from 1 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
