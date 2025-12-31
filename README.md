@@ -125,11 +125,6 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### 🏢 Top Companies
-
-
-
-
 
 ---
 
@@ -144,14 +139,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 ---
 
 ### 🌍 Top Locations
-- **Mt Laurel Township, NJ**: 5 opportunities
-- **Chantilly, VA**: 2 opportunities
-- **Mountain View, CA**: 2 opportunities
-- **Denver, NC**: 2 opportunities
-- **San Jose, CA**: 2 opportunities
-- **Quincy, MA**: 2 opportunities
-- **Chicago, IL**: 2 opportunities
-- **Denver, CO**: 2 opportunities
+- **Boise, ID**: 1 opportunity
 
 ---
 
