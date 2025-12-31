@@ -251,6 +251,7 @@ jobs:
       run: node .github/scripts/create-audit-log.js
 
     - name: Check for changes
+      if: always()
       id: verify-changed-files
       run: |
         if [ -n "$(git status --porcelain)" ]; then
@@ -262,7 +263,7 @@ jobs:
         fi
       
     - name: Commit updated job board
-      if: steps.verify-changed-files.outputs.changed == 'true'
+      if: always() && steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
@@ -279,7 +280,7 @@ jobs:
         Next update tomorrow"
         
     - name: 🔄 Pull latest changes
-      if: steps.verify-changed-files.outputs.changed == 'true'
+      if: always() && steps.verify-changed-files.outputs.changed == 'true'
       run: |
           echo "📥 Pulling latest changes with rebase (ours strategy) to avoid conflicts..."
            git fetch origin main
@@ -288,7 +289,7 @@ jobs:
 
 
     - name: 🚀 Push updated changes with retry logic
-      if: steps.verify-changed-files.outputs.changed == 'true'
+      if: always() && steps.verify-changed-files.outputs.changed == 'true'
       run: |
         echo "🚀 Pushing changes with retry logic..."
         for i in 1 2 3; do
