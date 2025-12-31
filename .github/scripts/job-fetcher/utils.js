@@ -884,19 +884,18 @@ async function fetchInternshipData() {
         }
     ];
 
-// Add company-specific internship programs
-    const companyInternshipPrograms = [
-        { company: 'Google', program: 'STEP Internship', url: 'https://buildyourfuture.withgoogle.com/programs/step', deadline: 'Various' },
-        { company: 'Microsoft', program: 'Explore Microsoft Program', url: 'https://careers.microsoft.com/v2/global/en/universityinternship', deadline: 'Various' },
-        { company: 'Meta', program: 'Software Engineer Intern', url: 'https://www.metacareers.com/careerprograms/students', deadline: 'Various' },
-        { company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/en/teams/internships-for-students', deadline: 'Various' },
-        { company: 'Apple', program: 'Engineering & Technology Intern', url: 'https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN', deadline: 'Various' },
-        { company: 'Netflix', program: 'Software Engineer Intern', url: 'https://jobs.netflix.com/careers/internships', deadline: 'Various' },
-        { company: 'Tesla', program: 'Engineering Internship', url: 'https://www.tesla.com/careers/internships', deadline: 'Various' },
-        { company: 'Nvidia', program: 'Ignite & SWE Internship', url: 'https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/', deadline: 'Various' },
-        { company: 'Stripe', program: 'Software Engineer Intern', url: 'https://stripe.com/jobs/university', deadline: 'Various' },
-        { company: 'Coinbase', program: 'Software Engineer Intern', url: 'https://www.coinbase.com/internships', deadline: 'Various' }
-    ];
+const companyInternshipPrograms = [
+    { emogi: '🔵', company: 'Google', program: 'STEP Internship', url: 'https://buildyourfuture.withgoogle.com/programs/step', deadline: 'Various' },
+    { emogi: '🪟', company: 'Microsoft', program: 'Explore Microsoft Program', url: 'https://careers.microsoft.com/v2/global/en/universityinternship', deadline: 'Various' },
+    { emogi: '📘', company: 'Meta', program: 'Software Engineer Intern', url: 'https://www.metacareers.com/careerprograms/students', deadline: 'Various' },
+    { emogi: '📦', company: 'Amazon', program: 'SDE Internship', url: 'https://amazon.jobs/en/teams/internships-for-students', deadline: 'Various' },
+    { emogi: '🍎', company: 'Apple', program: 'Engineering & Technology Intern', url: 'https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN', deadline: 'Various' },
+    { emogi: '🎬', company: 'Netflix', program: 'Software Engineer Intern', url: 'https://jobs.netflix.com/careers/internships', deadline: 'Various' },
+    { emogi: '⚡', company: 'Tesla', program: 'Engineering Internship', url: 'https://www.tesla.com/careers/internships', deadline: 'Various' },
+    { emogi: '🟢', company: 'Nvidia', program: 'Ignite & SWE Internship', url: 'https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/', deadline: 'Various' },
+    { emogi: '💳', company: 'Stripe', program: 'Software Engineer Intern', url: 'https://stripe.com/jobs/university', deadline: 'Various' },
+    { emogi: '🪙', company: 'Coinbase', program: 'Software Engineer Intern', url: 'https://www.coinbase.com/internships', deadline: 'Various' }
+];
 
   return {
     sources: internshipSources,
