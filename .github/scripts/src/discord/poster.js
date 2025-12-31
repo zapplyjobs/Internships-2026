@@ -108,6 +108,35 @@ function generateTags(job) {
   return [...new Set(tags)]; // Remove duplicates
 }
 
+
+/**
+ * Sanitize and validate a URL for Discord embed
+ * Prevents Discord API error 50035 (Invalid Form Body - bad URL)
+ * @param {string} url - Raw URL string
+ * @returns {string|null} Sanitized URL or null if invalid
+ */
+function sanitizeUrl(url) {
+  if (!url || typeof url !== 'string') return null;
+
+  try {
+    let sanitized = url.trim();
+    const urlObj = new URL(sanitized);
+    urlObj.pathname = urlObj.pathname.split('/').map(segment =>
+      encodeURIComponent(decodeURIComponent(segment))
+    ).join('/');
+    return urlObj.toString();
+  } catch (e) {
+    try {
+      const basicSanitized = url.trim().replace(/ /g, '%20');
+      new URL(basicSanitized);
+      return basicSanitized;
+    } catch (e2) {
+      console.warn(`⚠️ Invalid URL could not be sanitized: ${url.substring(0, 100)}...`);
+      return null;
+    }
+  }
+}
+
 /**
  * Build Discord embed for a job posting
  * @param {Object} job - Job object
@@ -128,7 +157,7 @@ function buildJobEmbed(job) {
 
   const embed = new EmbedBuilder()
     .setTitle(title)
-    .setURL(job.job_apply_link)
+    .setURL(sanitizeUrl(job.job_apply_link) || 'https://zapplyjobs.com')
     .setColor(0x00A8E8)
     .addFields(
       { name: '🏢 Company', value: job.employer_name || 'Not specified', inline: true },
