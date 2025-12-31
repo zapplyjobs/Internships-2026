@@ -1,16 +1,4 @@
 {
-  "amd-2026-undergraduate-software-engineering-intern/co-op-multiple-cities": {
-    "assigned_date": "2025-11-01T03:30:50.383Z",
-    "job_title": "2026 Undergraduate Software Engineering Intern/Co-op",
-    "company": "AMD",
-    "first_seen": "2025-11-01T03:30:50.383Z"
-  },
-  "amd-summer-2026-masters-silicon-architect-and-radiation-effects-intern-san-jose": {
-    "assigned_date": "2025-11-01T11:22:37.915Z",
-    "job_title": "Summer 2026 Masters Silicon Architect and Radiation Effects Intern",
-    "company": "AMD",
-    "first_seen": "2025-11-01T11:22:37.915Z"
-  },
   "salesforce-summer-2026-intern---ai-research-palo-alto": {
     "assigned_date": "2025-11-03T01:40:50.472Z",
     "job_title": "Summer 2026 Intern - AI Research",
@@ -16900,5 +16888,47 @@
     "job_title": "Intern - Research Engineer - Mobile Platform and Solutions",
     "company": "Samsung Research America",
     "first_seen": "2025-12-31T03:19:47.356Z"
+  },
+  "dc-water-intern---water-operations-washington": {
+    "assigned_date": "2025-12-31T17:16:40.637Z",
+    "job_title": "Intern - Water Operations",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.637Z"
+  },
+  "dc-water-intern-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "Intern",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
+  },
+  "dc-water-intern-erp-systems-and-controls---erp-systems-and-controls-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "Intern ERP Systems and Controls - ERP Systems and Controls",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
+  },
+  "dc-water-016:summer-intern---data-analytics-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "016:Summer Intern - Data Analytics",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
+  },
+  "dc-water-082:summer-intern---it-data-and-analytics-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "082:Summer Intern - IT-Data and Analytics",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
+  },
+  "dc-water-intern---clean-rivers-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "Intern - Clean Rivers",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
+  },
+  "dc-water-summer-intern---engineering-and-technical-services---planning-washington": {
+    "assigned_date": "2025-12-31T17:16:40.638Z",
+    "job_title": "Summer Intern - Engineering and Technical Services - Planning",
+    "company": "DC Water",
+    "first_seen": "2025-12-31T17:16:40.638Z"
   }
 }

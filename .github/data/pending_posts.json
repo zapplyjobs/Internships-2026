@@ -678,5 +678,145 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern - Water Operations",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, Water Operations will support data analytics efforts related to water operations and operational performance. This role will assist with collecting, analyzing, and interpreting operational data to support reporting, process improvement, and data-driven decision-making. The intern will gain exposure to water operations systems, data tools, and information technology applications while working alongside technical and operational staff.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1945",
+      "job_posted_at_datetime_utc": "2025-12-31T16:39:33.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-intern-water-operations-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": "2025-12-31T17:17:20.865Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, Innovation will engage with our Community of Practice in Artificial Intelligence, gaining first-hand experience in AI technologies within the water sector. The intern will work on developing chatbots, building data constructs, and contributing to generative AI projects. Additionally, there is an opportunity to innovate new capabilities using low-code software tools.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1910",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-intern-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern ERP Systems and Controls - ERP Systems and Controls",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, ERP Systems and Controls will support tasks related to data analysis, data cleanup, employee records management, and documentation for Oracle and HCM systems. The intern will assist with project deliverables and testing in an enterprise resource planning (ERP) systems context.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1915",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-intern-erp-systems-and-controls-erp-systems-and-controls-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": "2025-12-31T17:17:20.865Z"
+  },
+  {
+    "job": {
+      "job_title": "016:Summer Intern - Data Analytics",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, Data Analytics will support data gathering, analysis, formatting, and visualization tasks related to the Potomac Interceptor project. The intern will work with Python, Excel, and Tableau for data analytics.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1926",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:24.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-016-summer-intern-data-analytics-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": "2025-12-31T17:17:20.865Z"
+  },
+  {
+    "job": {
+      "job_title": "082:Summer Intern - IT-Data and Analytics",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, IT-Data and Analytics will support data engineering and data science projects by developing Python applications and SQL scripts. This intern will work with large datasets, helping to develop analytical tools and performing data analysis.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1919",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:23.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-082-summer-intern-it-data-and-analytics-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": "2025-12-31T17:17:20.865Z"
+  },
+  {
+    "job": {
+      "job_title": "Intern - Clean Rivers",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, Clean Rivers will participate in a rotational internship experience supporting three functional areas: Critical Infrastructure Projects, Field & Data Management, and Capital Projects Planning & Construction. Through these rotations, the intern will support planning, permitting, field observations, contractor coordination, data management, and project documentation activities related to DC Water’s capital and operational infrastructure projects. The intern will gain hands-on exposure to the full capital project lifecycle and contribute to reporting, tracking, and presentation materials while working alongside engineers, project managers, construction managers, and field crews.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1934",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-intern-clean-rivers-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Summer Intern - Engineering and Technical Services - Planning",
+      "employer_name": "DC Water",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "The Summer Intern, Engineering and Technical Services (ETS)-Planning will assist with the development and maintenance of dashboards, SharePoint pages, and data analysis for asset management. The role involves collaborating on the design of user interfaces and developing insights based on asset condition data.",
+      "job_apply_link": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1931",
+      "job_posted_at_datetime_utc": "2025-12-31T16:22:21.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "dc-water-summer-intern-engineering-and-technical-services-planning-washington",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2025-12-31T17:16:40.685Z",
+    "enrichedAt": "2025-12-31T17:16:50.759Z",
+    "postedAt": "2025-12-31T17:17:20.865Z"
   }
 ]
