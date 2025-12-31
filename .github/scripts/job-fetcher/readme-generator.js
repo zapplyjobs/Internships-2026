@@ -362,6 +362,17 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ---
 
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+
+---
+
 ## Live Stats
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
@@ -508,6 +519,8 @@ ${(() => {
 
 ## Application Tips That Actually Work
 
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
+
 ### 🔍 **Research Before Applying**
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" or "[Company] internship recruiter" on LinkedIn.
 - **Check program details:** Look for program length, start dates, return offer rates, and housing stipends.
@@ -566,8 +579,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - The README updates automatically via script.
 - Contributions go live at the next daily refresh (9 AM UTC).
 - Questions? Create a miscellaneous issue, and we’ll assist! 🙏
-
----
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
 
