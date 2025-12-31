@@ -19908,5 +19908,60 @@
     "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Equipment-Data-Analyst--AI-Machin_J-00330559",
     "discordThreadId": "1453186061579714592",
     "instanceNumber": 1
+  },
+  {
+    "id": "axon-2026-us-software-engineering-internship-boston-2025-12-24-1",
+    "jobId": "axon-2026-us-software-engineering-internship-boston",
+    "company": "Axon",
+    "title": "2026 US Software Engineering Internship",
+    "postedToDiscord": "2025-12-24T01:10:13.678Z",
+    "sourceDate": "2025-12-23T23:21:22.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7570350003",
+    "discordThreadId": "1453193000237793350",
+    "instanceNumber": 1
+  },
+  {
+    "id": "axon-software-engineering-internship-atlanta-2025-12-24-1",
+    "jobId": "axon-software-engineering-internship-atlanta",
+    "company": "Axon",
+    "title": "Software Engineering Internship",
+    "postedToDiscord": "2025-12-24T01:10:17.262Z",
+    "sourceDate": "2025-12-23T23:21:05.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7570351003",
+    "discordThreadId": "1453193014896754858",
+    "instanceNumber": 1
+  },
+  {
+    "id": "robert-bosch-venture-capital-security-research-intern-pittsburgh-2025-12-24-1",
+    "jobId": "robert-bosch-venture-capital-security-research-intern-pittsburgh",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Security Research Intern",
+    "postedToDiscord": "2025-12-24T01:10:23.631Z",
+    "sourceDate": "2025-12-23T23:28:03.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000100284086",
+    "discordThreadId": "1453193042499731570",
+    "instanceNumber": 1
+  },
+  {
+    "id": "snowflake-business-analyst-intern-menlo-park-2025-12-24-1",
+    "jobId": "snowflake-business-analyst-intern-menlo-park",
+    "company": "Snowflake",
+    "title": "Business Analyst Intern",
+    "postedToDiscord": "2025-12-24T01:10:30.178Z",
+    "sourceDate": "2025-12-23T23:18:16.000Z",
+    "sourceUrl": "https://jobs.ashbyhq.com/snowflake/1057da57-34a7-4b76-a113-aa229da46831/application",
+    "discordThreadId": "1453193069091491995",
+    "instanceNumber": 1
+  },
+  {
+    "id": "snowflake-data-science-intern-menlo-park-2025-12-24-1",
+    "jobId": "snowflake-data-science-intern-menlo-park",
+    "company": "Snowflake",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2025-12-24T01:10:33.548Z",
+    "sourceDate": "2025-12-23T23:18:15.000Z",
+    "sourceUrl": "https://jobs.ashbyhq.com/snowflake/3f8011fd-91dc-4dc0-ae77-86ac641aff3e/application",
+    "discordThreadId": "1453193084119548061",
+    "instanceNumber": 1
   }
 ]
