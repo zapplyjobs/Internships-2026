@@ -257,17 +257,16 @@ async function generateReadme(
   return `<div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/int-heading.png" alt="Internships 2026 - Illustration of people collaborating on internships.">
 
-<h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from ${totalCompanies}</em></p>
+# Internships 2026
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-${faangJobs}-red?style=flat&logo=star)
+${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + faangJobs + '-red?style=flat&logo=star)' : ''}
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -293,64 +292,58 @@ async function generateReadme(
 </div>
 
 ---
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${
-    currentJobs.length
-  }+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+<p align="center">🚀 Real-time internships from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${currentJobs.length}+ fresh opportunities for CS students.</p>
 
-**🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
+<p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
-**🛠 Help us grow! Add new opportunities by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
-
----
-## **Join Our Community**
-
-Connect with fellow students and new grads, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
-
-
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400" alt="Join Discord - Internship & New Grad Hub by Zapply">
-  </a>
-</div>
-
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
 
 ---
 
-## 📊 **Live Stats**
+## Join Our Community
 
-🔥 **Current Opportunities:** ${currentJobs.length} internships & new grad roles  
-🏢 **Top Companies:** ${totalCompanies} elite tech companies hiring  
-⭐ **FAANG+ Positions:** ${faangJobs} premium opportunities  
-📅 **Last Updated:** ${currentDate}  
-🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** ${archivedJobs.length} (older than 1 week)
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+
+Connect with fellow students, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
+
+---
+
+## Live Stats
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
+
+- 🔥 **Current Positions:** ${currentJobs.length} hot data-focused jobs
+- **🏢 Companies**: ${totalCompanies} companies
+${faangJobs > 0 ? '- **⭐ FAANG+ Jobs**: ' + faangJobs + ' premium opportunities\n' : ''}- 📅 **Last Updated:** ${currentDate}
+- 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 ${internshipData ? generateInternshipSection(internshipData) : ""}
 
 ---
 
-## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
+## Fresh Internships 2026
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
 
 ${generateJobTable(currentJobs)}
 
-
 ---
-## **✨ Insights on the Repo**
 
-### 🏢 **Top Hiring Companies**
+## Insights on the Repo
 
-#### ⭐ **FAANG+** (${(() => {
+<img src="images/insights.png" alt="Insights pulled from current listings.">
+
+### 🏢 Top Companies
+
+#### ⭐ FAANG+ (${(() => {
   const count = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
@@ -365,7 +358,7 @@ ${companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name
 }).join(" • ") || "No companies available"}
 
 
-#### 💰 **Fintech Leaders** (${(() => {
+#### 💰 Fintech Leaders (${(() => {
   const count = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
@@ -380,7 +373,7 @@ ${companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name ==
 }).join(" • ") || "No companies available"}
 
 
-#### ☁️ **Enterprise & Cloud** (${(() => {
+#### ☁️ Enterprise & Cloud (${(() => {
   const count = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0).length || 0;
   return `${count} ${count === 1 ? 'company' : 'companies'}`;
 })()})
@@ -395,7 +388,7 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
 }).join(" • ") || "No companies available"}
 
 ---
-### 📈 **Opportunity Type Breakdown**
+### 📈 Opportunity Type Breakdown
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
@@ -415,7 +408,7 @@ ${[...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter
 
 ---
 
-### 🌍 **Top Locations**
+### 🌍 Top Locations
 ${
   stats
     ? Object.entries(stats.byLocation)
@@ -428,55 +421,82 @@ ${
 
 ---
 
-## 🔮 **Why Students & New Grads Choose Our Platform**
+### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** ${
-    currentJobs.length
-  }+ verified internships and new grad roles from ${totalCompanies} top companies.
-
+✅ **100% Real Opportunities:** ${currentJobs.length}+ verified internships and new grad roles from ${totalCompanies} top companies.
+<br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
-
+<br>
 ✅ **Student-Focused:** Smart filtering for CS students, bootcamp grads, and recent graduates.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track companies with strong conversion rates from internship to full-time.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters—apply straight to company career pages for faster response times.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for job hunting between classes or on campus.
 
 ---
 
-## 🚀 **Application Tips for Students & New Grads**
+## Application Tips That Actually Work
 
 ### 🔍 **Research Before Applying**
-
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" or "[Company] internship recruiter" on LinkedIn.
 - **Check program details:** Look for program length, start dates, return offer rates, and housing stipends.
 - **Verify eligibility:** Check for year requirements (rising junior, graduating senior, etc.) and visa sponsorship.
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 **Resume Best Practices for Students**
-
 - **Lead with education:** GPA (if 3.0+), relevant coursework, CS projects, and hackathons.
 - **Quantify projects:** "Built web app with 500+ users" > "Built a website."
 - **Show technical skills:** List programming languages, frameworks, and tools you've actually used.
 - [Read this informative guide on tweaking your resume for internships](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 **Interview Prep for New Grads**
-
 - **Practice coding problems:** Use LeetCode, HackerRank, or similar platforms daily.
 - **Prepare project stories:** Be ready to explain your GitHub repos and course projects in detail.
 - **Ask smart questions:** "What does a typical day look like for interns?" or "How do you support new grads?"
 - [Review this comprehensive interview guide on common questions for students](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
+
 ---
 
-## 📬 **Stay Updated**
+## Become a Contributor
 
-- ⭐ **Star this repo** to bookmark and check daily for new opportunities.
-- 👀 **Watch** to get notified when new internships and roles are posted.
-- 📱 **Bookmark on your phone** for quick access during application season.
-- 🤝 **Become a contributor** and help other students! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ---
 
