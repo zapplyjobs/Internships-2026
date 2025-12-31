@@ -1,117 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T01:17:34.448Z",
+  "lastUpdated": "2025-12-31T03:20:11.734Z",
   "jobs": [
-    {
-      "id": "schweitzer-engineering-laboratories-software-engineer-intern-charlotte-2025-12-24-1",
-      "jobId": "schweitzer-engineering-laboratories-software-engineer-intern-charlotte",
-      "company": "Schweitzer Engineering Laboratories",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-24T01:49:16.134Z",
-      "sourceDate": "2025-10-21T06:21:07.000Z",
-      "sourceUrl": "https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Software-Engineer-Intern_2025-18114",
-      "discordThreadId": "1453202824677818502",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dick-s-sporting-goods-software-engineering-internship-pittsburgh-2025-12-24-1",
-      "jobId": "dick-s-sporting-goods-software-engineering-internship-pittsburgh",
-      "company": "Dick's Sporting Goods",
-      "title": "Software Engineering Internship",
-      "postedToDiscord": "2025-12-24T01:49:19.696Z",
-      "sourceDate": "2025-09-02T08:14:16.000Z",
-      "sourceUrl": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2026-Corporate-Internship_202508673-1",
-      "discordThreadId": "1453202839873781992",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-intern-field-service-engineer-human-machine-interface-hillsboro-2025-12-24-1",
-      "jobId": "asml-intern-field-service-engineer-human-machine-interface-hillsboro",
-      "company": "ASML",
-      "title": "Intern - Field Service Engineer - Human Machine Interface",
-      "postedToDiscord": "2025-12-24T01:49:23.077Z",
-      "sourceDate": "2025-12-24T01:03:29.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/Internship---Field-Service-Engineer---HMI_J-00332439",
-      "discordThreadId": "1453202854830673972",
-      "instanceNumber": 1
-    },
-    {
-      "id": "micron-technology-intern-thermal-modeling-simulation-boise-2025-12-24-1",
-      "jobId": "micron-technology-intern-thermal-modeling-simulation-boise",
-      "company": "Micron Technology",
-      "title": "Intern – Thermal Modeling & Simulation",
-      "postedToDiscord": "2025-12-24T01:49:29.822Z",
-      "sourceDate": "2025-12-24T00:44:42.000Z",
-      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693",
-      "discordThreadId": "1453202881640399046",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-data-science-intern-colorado-springs-2025-12-24-1",
-      "jobId": "kbr-data-science-intern-colorado-springs",
-      "company": "KBR",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2025-12-24T01:49:36.214Z",
-      "sourceDate": "2025-12-24T01:14:35.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Data-Science-Intern_R2116913",
-      "discordThreadId": "1453202909964533850",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paramount-global-cbs-sports-data-delivery-insights-internship-summer-2026-in-person-fort-lauderdale-fl-fort-lauderdale-2025-12-24-1",
-      "jobId": "paramount-global-cbs-sports-data-delivery-insights-internship-summer-2026-in-person-fort-lauderdale-fl-fort-lauderdale",
-      "company": "Paramount Global",
-      "title": "CBS Sports Data Delivery & Insights Internship - Summer 2026 - In Person-Fort Lauderdale','FL",
-      "postedToDiscord": "2025-12-24T03:08:33.708Z",
-      "sourceDate": "2025-12-24T02:20:47.000Z",
-      "sourceUrl": "https://careers.paramount.com/job/Fort-Lauderdale-CBS-Sports-Data-Delivery-&-Insights-Internship-(Summer-2026,-In-Person-Fort-Lauderdale,-FL)-FL-33309/1351979000/?ats=successfactors",
-      "discordThreadId": "1453222779972358174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-research-america-intern-robot-intelligence-mountain-view-2025-12-24-1",
-      "jobId": "samsung-research-america-intern-robot-intelligence-mountain-view",
-      "company": "Samsung Research America",
-      "title": "Intern - Robot Intelligence",
-      "postedToDiscord": "2025-12-24T03:08:40.437Z",
-      "sourceDate": "2025-12-24T02:25:25.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8348787002",
-      "discordThreadId": "1453222807185133604",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paramount-global-software-engineering-internships-summer-2026-in-person-la-burbank-2025-12-24-1",
-      "jobId": "paramount-global-software-engineering-internships-summer-2026-in-person-la-burbank",
-      "company": "Paramount Global",
-      "title": "Software Engineering Internships - Summer 2026 - In Person-LA",
-      "postedToDiscord": "2025-12-24T03:08:43.850Z",
-      "sourceDate": "2025-12-24T02:21:00.000Z",
-      "sourceUrl": "https://careers.paramount.com/job/Burbank-Software-Engineering-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351981000/?ats=successfactors",
-      "discordThreadId": "1453222823027019838",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paramount-global-data-intern-burbank-2025-12-24-1",
-      "jobId": "paramount-global-data-intern-burbank",
-      "company": "Paramount Global",
-      "title": "Data Intern",
-      "postedToDiscord": "2025-12-24T03:08:47.700Z",
-      "sourceDate": "2025-12-24T02:20:52.000Z",
-      "sourceUrl": "https://careers.paramount.com/job/Burbank-Data-Internships-(Summer-2026,-In-Person-LA)-CA-91505/1351980600/?ats=successfactors",
-      "discordThreadId": "1453222837476266096",
-      "instanceNumber": 1
-    },
-    {
-      "id": "electronic-arts-operations-analyst-intern-austin-2025-12-24-1",
-      "jobId": "electronic-arts-operations-analyst-intern-austin",
-      "company": "Electronic Arts",
-      "title": "Operations Analyst Intern",
-      "postedToDiscord": "2025-12-24T03:08:54.077Z",
-      "sourceDate": "2025-12-24T02:17:01.000Z",
-      "sourceUrl": "https://jobs.ea.com/en_US/careers/JobDetail/Operations-Analyst-Intern/211780",
-      "discordThreadId": "1453222865649274942",
-      "instanceNumber": 1
-    },
     {
       "id": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos-2025-12-24-1",
       "jobId": "electronic-arts-global-audit-technology-risk-analytics-intern-san-carlos",
@@ -683,14 +573,36 @@
       "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-and-Software-Engineering-Grad-Intern_R014219",
       "discordThreadId": "1455731564414636129",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-software-implementation-and-integration-intern-chantilly-2025-12-31-1",
+      "jobId": "the-aerospace-software-implementation-and-integration-intern-chantilly",
+      "company": "The Aerospace Corporation",
+      "title": "Software Implementation and Integration Intern",
+      "postedToDiscord": "2025-12-31T03:20:06.805Z",
+      "sourceDate": "2025-12-31T02:43:38.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Software-Implementation-and-Integration-Grad-Intern_R013991",
+      "discordThreadId": "1455762402217033852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-research-engineer-mobile-platform-and-solutions-mountain-view-2025-12-31-1",
+      "jobId": "samsung-research-america-intern-research-engineer-mobile-platform-and-solutions-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Research Engineer - Mobile Platform and Solutions",
+      "postedToDiscord": "2025-12-31T03:20:11.734Z",
+      "sourceDate": "2025-12-31T02:19:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
+      "discordThreadId": "1455762416867610810",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 62,
+    "totalJobs": 54,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-31T01:17:34.448Z",
+      "date": "2025-12-31T03:20:11.734Z",
       "archived": 0
     }
   }
