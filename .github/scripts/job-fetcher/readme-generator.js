@@ -387,57 +387,60 @@ ${generateJobTable(currentJobs)}
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### 🏢 Top Companies
-
 ${(() => {
   const faangWithJobs = companies?.faang_plus?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
-  if (faangWithJobs.length === 0) return '';
-  return `#### ⭐ FAANG+ (${faangWithJobs.length} ${faangWithJobs.length === 1 ? 'company' : 'companies'})
-${faangWithJobs.map((c, index) => {
-  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
-  const jobText = totalJobs === 1 ? 'position' : 'positions';
-  if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
-  } else {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
-  }
-}).join(" • ")}
-
-`;
-})()}
-${(() => {
   const fintechWithJobs = companies?.fintech?.filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
-  if (fintechWithJobs.length === 0) return '';
-  return `#### 💰 Fintech Leaders (${fintechWithJobs.length} ${fintechWithJobs.length === 1 ? 'company' : 'companies'})
-${fintechWithJobs.map((c, index) => {
-  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
-  const jobText = totalJobs === 1 ? 'position' : 'positions';
-  if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
-  } else {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
-  }
-}).join(" • ")}
-
-`;
-})()}
-${(() => {
   const enterpriseWithJobs = [...(companies?.enterprise_saas || []), ...(companies?.top_tech || [])].filter(c => currentJobs.filter(job => job.employer_name === c.name).length > 0) || [];
-  if (enterpriseWithJobs.length === 0) return '';
-  return `#### ☁️ Enterprise & Cloud (${enterpriseWithJobs.length} ${enterpriseWithJobs.length === 1 ? 'company' : 'companies'})
-${enterpriseWithJobs.map((c, index) => {
-  const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
-  const jobText = totalJobs === 1 ? 'position' : 'positions';
-  if (index === 0) {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
-  } else {
-    return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+  
+  // If no companies have jobs in any category, hide the entire section
+  if (faangWithJobs.length === 0 && fintechWithJobs.length === 0 && enterpriseWithJobs.length === 0) return '';
+  
+  let output = '### 🏢 Top Companies\n\n';
+  
+  if (faangWithJobs.length > 0) {
+    output += `#### ⭐ FAANG+ (${faangWithJobs.length} ${faangWithJobs.length === 1 ? 'company' : 'companies'})\n`;
+    output += faangWithJobs.map((c, index) => {
+      const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+      const jobText = totalJobs === 1 ? 'position' : 'positions';
+      if (index === 0) {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+      } else {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+      }
+    }).join(" • ");
+    output += '\n\n';
   }
-}).join(" • ")}
-
-`;
+  
+  if (fintechWithJobs.length > 0) {
+    output += `#### 💰 Fintech Leaders (${fintechWithJobs.length} ${fintechWithJobs.length === 1 ? 'company' : 'companies'})\n`;
+    output += fintechWithJobs.map((c, index) => {
+      const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+      const jobText = totalJobs === 1 ? 'position' : 'positions';
+      if (index === 0) {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+      } else {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+      }
+    }).join(" • ");
+    output += '\n\n';
+  }
+  
+  if (enterpriseWithJobs.length > 0) {
+    output += `#### ☁️ Enterprise & Cloud (${enterpriseWithJobs.length} ${enterpriseWithJobs.length === 1 ? 'company' : 'companies'})\n`;
+    output += enterpriseWithJobs.map((c, index) => {
+      const totalJobs = currentJobs.filter(job => job.employer_name === c.name).length;
+      const jobText = totalJobs === 1 ? 'position' : 'positions';
+      if (index === 0) {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs} ${jobText})`;
+      } else {
+        return `${c.emoji} **[${c.name}](${c.career_url})** (${totalJobs})`;
+      }
+    }).join(" • ");
+    output += '\n\n';
+  }
+  
+  return output;
 })()}
-
 ---
 
 ### 📈 Opportunity Type Breakdown
@@ -468,15 +471,22 @@ ${(() => {
 ---
 
 ### 🌍 Top Locations
-${
-  stats
-    ? Object.entries(stats.byLocation)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 8)
-        .map(([location, count]) => `- **${location}**: ${count} opportunities`)
-        .join("\n")
-    : ""
-}
+${(() => {
+  // Calculate locations from displayed jobs only
+  const locationCounts = {};
+  displayedJobs.forEach(job => {
+    const location = formatLocation(job.job_city, job.job_state);
+    locationCounts[location] = (locationCounts[location] || 0) + 1;
+  });
+  
+  if (Object.keys(locationCounts).length === 0) return 'No location data available';
+  
+  return Object.entries(locationCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([location, count]) => `- **${location}**: ${count} ${Number(count) === 1 ? 'opportunity' : 'opportunities'}`)
+    .join("\n");
+})()}
 
 ---
 
