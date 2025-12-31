@@ -1,17 +1,16 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Jobs" width="200">
+<img src="images/int-heading.png" alt="Internships 2026 - Illustration of people collaborating on internships.">
 
-<h3>💼 New Grad Internship 2025-2026</h3>
-<p><em>Real-time opportunities from 33</em></p>
+# Internships 2026
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-43-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-33-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-0-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-40-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-31-blue?style=flat&logo=building)
+
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,46 +36,38 @@
 </div>
 
 ---
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  # 🎓 New Grad Internship Opportunities 2026 by Zapply
 
-**🚀 Real-time internships and new grad roles from 33+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 43+ fresh opportunities for CS students, recent graduates, and entry-level software engineers.**
+<p align="center">🚀 Real-time internships from 31+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 40+ fresh opportunities for CS students.</p>
 
-**🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.**
+<p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
-**🛠 Help us grow! Add new opportunities by submitting an issue! View CONTRIBUTING steps [here](CONTRIBUTING-GUIDE.md).**
-
----
-## **Join Our Community**
-
-Connect with fellow students and new grads, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students and recent graduates navigating their career journey together!
-
-
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400" alt="Join Discord - Internship & New Grad Hub by Zapply">
-  </a>
-</div>
-
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING-GUIDE.md) here.
 
 ---
 
-## 📊 **Live Stats**
+## Join Our Community
 
-🔥 **Current Opportunities:** 43 internships & new grad roles  
-🏢 **Top Companies:** 33 elite tech companies hiring  
-⭐ **FAANG+ Positions:** 0 premium opportunities  
-📅 **Last Updated:** December 31, 2025  
-🤖 **Next Update:** Tomorrow at 9 AM UTC  
-📁 **Archived Opportunities:** 1994 (older than 1 week)
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+
+Connect with fellow students, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
+
+---
+
+## Live Stats
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
+
+- 🔥 **Current Positions:** 40 hot data-focused jobs
+- **🏢 Companies**: 31 companies
+- 📅 **Last Updated:** December 31, 2025
+- 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 
 ---
@@ -114,7 +105,9 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 ---
 
-## 🎯 **Fresh Opportunities 2026 (posted within 1 week)**
+## Fresh Internships 2026
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -126,93 +119,124 @@ Connect with fellow students and new grads, get career advice, share internship 
 
 
 
+---
+
+## Insights on the Repo
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
+
+### 🏢 Top Companies
+
+#### ⭐ FAANG+ (0 companies)
+No companies available
+
+
+#### 💰 Fintech Leaders (0 companies)
+No companies available
+
+
+#### ☁️ Enterprise & Cloud (0 companies)
+No companies available
 
 ---
-## **✨ Insights on the Repo**
-
-### 🏢 **Top Hiring Companies**
-
-#### ⭐ **FAANG+** (0 companies)
-No companies available
-
-
-#### 💰 **Fintech Leaders** (0 companies)
-No companies available
-
-
-#### ☁️ **Enterprise & Cloud** (0 companies)
-No companies available
-
----
-### 📈 **Opportunity Type Breakdown**
+### 📈 Opportunity Type Breakdown
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 41 | 95% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 1 | 2% | 0-1 years of experience |
-| 🔴 Early Career         | 1 | 2% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 39 | 98% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
+| 🔴 Early Career         | 1 | 3% | 1-2 years of experience |
 
 ---
 
-### 🌍 **Top Locations**
-- **San Jose, CA**: 5 opportunities
+### 🌍 Top Locations
 - **Mt Laurel Township, NJ**: 5 opportunities
 - **Chantilly, VA**: 2 opportunities
 - **Mountain View, CA**: 2 opportunities
 - **Denver, NC**: 2 opportunities
+- **San Jose, CA**: 2 opportunities
 - **Chicago, IL**: 2 opportunities
 - **Quincy, MA**: 2 opportunities
 - **Denver, CO**: 2 opportunities
 
 ---
 
-## 🔮 **Why Students & New Grads Choose Our Platform**
+### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 43+ verified internships and new grad roles from 33 top companies.
-
+✅ **100% Real Opportunities:** 40+ verified internships and new grad roles from 31 top companies.
+<br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
-
+<br>
 ✅ **Student-Focused:** Smart filtering for CS students, bootcamp grads, and recent graduates.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track companies with strong conversion rates from internship to full-time.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters—apply straight to company career pages for faster response times.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for job hunting between classes or on campus.
 
 ---
 
-## 🚀 **Application Tips for Students & New Grads**
+## Application Tips That Actually Work
 
 ### 🔍 **Research Before Applying**
-
 - **Find the hiring manager:** Search "[Company] [Team] engineering manager" or "[Company] internship recruiter" on LinkedIn.
 - **Check program details:** Look for program length, start dates, return offer rates, and housing stipends.
 - **Verify eligibility:** Check for year requirements (rising junior, graduating senior, etc.) and visa sponsorship.
 - [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
 
 ### 📄 **Resume Best Practices for Students**
-
 - **Lead with education:** GPA (if 3.0+), relevant coursework, CS projects, and hackathons.
 - **Quantify projects:** "Built web app with 500+ users" > "Built a website."
 - **Show technical skills:** List programming languages, frameworks, and tools you've actually used.
 - [Read this informative guide on tweaking your resume for internships](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
 
 ### 🎯 **Interview Prep for New Grads**
-
 - **Practice coding problems:** Use LeetCode, HackerRank, or similar platforms daily.
 - **Prepare project stories:** Be ready to explain your GitHub repos and course projects in detail.
 - **Ask smart questions:** "What does a typical day look like for interns?" or "How do you support new grads?"
 - [Review this comprehensive interview guide on common questions for students](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
 
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
+
 ---
 
-## 📬 **Stay Updated**
+## Become a Contributor
 
-- ⭐ **Star this repo** to bookmark and check daily for new opportunities.
-- 👀 **Watch** to get notified when new internships and roles are posted.
-- 📱 **Bookmark on your phone** for quick access during application season.
-- 🤝 **Become a contributor** and help other students! Visit our CONTRIBUTING GUIDE [here](CONTRIBUTING-GUIDE.md).
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ---
 
@@ -220,13 +244,13 @@ No companies available
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1994 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1992 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1994 roles
-- **🏢 Companies**: 33 companies  
+- **📁 Total Positions**: 1992 roles
+- **🏢 Companies**: 31 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
@@ -504,7 +528,7 @@ No companies available
 
 </details>
 
-### 🏭 **Manufacturing & Industrial** (24 positions)
+### 🏭 **Manufacturing & Industrial** (23 positions)
 
 #### ⚗️ **Applied Materials** (1 position)
 
@@ -512,7 +536,7 @@ No companies available
 |------|----------|-----------|-----|
 | 2026 Summer – Plasma Products Modeling Physicist/Scientist Intern - PhD - Santa Clara, CA | Santa Clara, CA | [<img src="./image.png" width="100" alt="Apply">](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer---Plasma-Products-Modeling-Physicist-Scientist-Intern---PhD--Santa-Clara--CA-_R2519927) | 1w |
 
-#### 💾 **Micron Technology** (10 positions)
+#### 💾 **Micron Technology** (9 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -520,7 +544,6 @@ No companies available
 | Intern – Global Environmental Compliance | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Environmental-Engineering-Intern---Global-Environmental-Compliance_JR87608) | 1w |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 1w |
 | Intern – HBM Software Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Software-Engineer_JR82921) | 1w |
-| Intern – AI/DA Engineer | Leander, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---AI-DA-Engineer_JR85118) | 3w |
 | Intern – System Software Engineering | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013) | 3w |
 | Intern Machine Learning Engineer | Richardson, TX | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR85472) | 3w |
 | Intern – DRAM Quality Data Analytics Engineer | Boise, ID | [<img src="./image.png" width="100" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Quality-Data-Analytics-Engineer_JR82845) | 3w |
@@ -576,7 +599,7 @@ No companies available
 
 <div align="center">
 
-**🎯 43 current opportunities from 33 top companies.**
+**🎯 40 current opportunities from 31 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
