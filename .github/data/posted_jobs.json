@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T17:17:17.860Z",
+  "lastUpdated": "2025-12-31T19:16:46.109Z",
   "jobs": [
-    {
-      "id": "velera-intern-servicenow-engineer-remote-in-usa-2025-12-24-1",
-      "jobId": "velera-intern-servicenow-engineer-remote-in-usa",
-      "company": "Velera",
-      "title": "Intern ServiceNow Engineer",
-      "postedToDiscord": "2025-12-24T17:37:38.976Z",
-      "sourceDate": "2025-12-24T16:17:07.000Z",
-      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Intern---ServiceNow-Engineer--REMOTE-_8898",
-      "discordThreadId": "1453441488967962875",
-      "instanceNumber": 1
-    },
     {
       "id": "health-research-hourly-data-analyst-2-intern-albany-2025-12-25-1",
       "jobId": "health-research-hourly-data-analyst-2-intern-albany",
@@ -584,14 +573,36 @@
       "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1919",
       "discordThreadId": "1455973086049599609",
       "instanceNumber": 1
+    },
+    {
+      "id": "7-eleven-software-developer-intern-irving-2025-12-31-1",
+      "jobId": "7-eleven-software-developer-intern-irving",
+      "company": "7-Eleven",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2025-12-31T19:16:39.680Z",
+      "sourceDate": "2025-10-26T04:11:00.000Z",
+      "sourceUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
+      "discordThreadId": "1456003125424165007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "entrust-intern-ai-developer-shakopee-2025-12-31-1",
+      "jobId": "entrust-intern-ai-developer-shakopee",
+      "company": "Entrust",
+      "title": "Intern AI Developer",
+      "postedToDiscord": "2025-12-31T19:16:46.109Z",
+      "sourceDate": "2025-12-31T17:56:33.000Z",
+      "sourceUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Intern-AI-Developer_R003982",
+      "discordThreadId": "1456003152594731109",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 53,
+    "totalJobs": 54,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-31T17:17:17.860Z",
+      "date": "2025-12-31T19:16:46.109Z",
       "archived": 0
     }
   }
