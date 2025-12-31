@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T19:16:46.109Z",
+  "lastUpdated": "2025-12-31T23:37:55.806Z",
   "jobs": [
     {
       "id": "health-research-hourly-data-analyst-2-intern-albany-2025-12-25-1",
@@ -595,14 +595,36 @@
       "sourceUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Intern-AI-Developer_R003982",
       "discordThreadId": "1456003152594731109",
       "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson-2025-12-31-1",
+      "jobId": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson",
+      "company": "Public Service Enterprise Group",
+      "title": "Technical Intern - Centralized Work Planning and Scheduling",
+      "postedToDiscord": "2025-12-31T23:37:49.287Z",
+      "sourceDate": "2025-12-31T23:11:03.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/Clifton-Summer-2026-Technical-Intern-Centralized-Work-Planning-and-Scheduling-NJ-07011/1352771200/?ats=successfactors",
+      "discordThreadId": "1456068848372682762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "perpay-data-science-internship-philadelphia-2025-12-31-1",
+      "jobId": "perpay-data-science-internship-philadelphia",
+      "company": "Perpay",
+      "title": "Data Science Internship",
+      "postedToDiscord": "2025-12-31T23:37:55.806Z",
+      "sourceDate": "2025-09-08T07:00:07.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+      "discordThreadId": "1456068875857694805",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 54,
+    "totalJobs": 56,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-31T19:16:46.109Z",
+      "date": "2025-12-31T23:37:55.806Z",
       "archived": 0
     }
   }
