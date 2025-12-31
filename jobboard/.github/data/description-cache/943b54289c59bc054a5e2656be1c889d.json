@@ -1,0 +1,17 @@
+{
+  "url": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1915",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The Summer Intern, ERP Systems and Controls will support tasks related to data analysis, data cleanup, employee records management, and documentation for Oracle and HCM systems. The intern will assist with project deliverables and testing in an enterprise resource planning (ERP) systems context.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1915",
+      "fetchedAt": "2025-12-31T17:16:44.448Z"
+    }
+  },
+  "cachedAt": 1767201404448
+}
