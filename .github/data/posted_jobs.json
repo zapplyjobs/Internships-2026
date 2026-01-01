@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2025-12-31T23:37:55.806Z",
+  "lastUpdated": "2026-01-01T00:47:52.288Z",
   "jobs": [
-    {
-      "id": "health-research-hourly-data-analyst-2-intern-albany-2025-12-25-1",
-      "jobId": "health-research-hourly-data-analyst-2-intern-albany",
-      "company": "Health Research",
-      "title": "Hourly Data Analyst 2 - Intern",
-      "postedToDiscord": "2025-12-25T00:41:56.225Z",
-      "sourceDate": "2025-12-24T23:25:12.000Z",
-      "sourceUrl": "https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Hourly-Data-Analyst-II--Internship-_JR-0001960",
-      "discordThreadId": "1453548268779868202",
-      "instanceNumber": 1
-    },
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
       "jobId": "veolia-intern-milwaukee",
@@ -617,14 +606,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
       "discordThreadId": "1456068875857694805",
       "instanceNumber": 1
+    },
+    {
+      "id": "scs-engineers-engineering-intern-summer-2026-dayton-2026-01-01-1",
+      "jobId": "scs-engineers-engineering-intern-summer-2026-dayton",
+      "company": "SCS Engineers",
+      "title": "Engineering Intern - Summer 2026",
+      "postedToDiscord": "2026-01-01T00:47:38.929Z",
+      "sourceDate": "2025-10-03T01:53:49.000Z",
+      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1606/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456086420706824313",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cambria-it-developer-intern-shakopee-2026-01-01-1",
+      "jobId": "cambria-it-developer-intern-shakopee",
+      "company": "Cambria",
+      "title": "IT Developer Intern",
+      "postedToDiscord": "2026-01-01T00:47:45.490Z",
+      "sourceDate": "2025-12-31T23:56:16.000Z",
+      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/IT-Developer-Intern_R-102780",
+      "discordThreadId": "1456086448859254784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cambria-data-developer-intern-shakopee-2026-01-01-1",
+      "jobId": "cambria-data-developer-intern-shakopee",
+      "company": "Cambria",
+      "title": "Data Developer Intern",
+      "postedToDiscord": "2026-01-01T00:47:52.288Z",
+      "sourceDate": "2025-12-31T23:56:07.000Z",
+      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/Data-Developer-Intern_R-102779",
+      "discordThreadId": "1456086476340072533",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 56,
+    "totalJobs": 58,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2025-12-31T23:37:55.806Z",
+      "date": "2026-01-01T00:47:52.288Z",
       "archived": 0
     }
   }
