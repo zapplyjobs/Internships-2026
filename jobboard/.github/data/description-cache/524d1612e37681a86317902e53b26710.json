@@ -1,0 +1,17 @@
+{
+  "url": "https://www.keenfootwear.com/careers-list.html?4636771005&gh_jid=4636771005",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": ".spacer-section--template--24398871396516__spacer_yBAkCp { height: 0px; } @media (min-width: 767px) { .spacer-section--template--24398871396516__spacer_yBAkCp { height: 65px; } } .spacer-section--template--24398871396516__spacer_yBAkCp { background: #FFF; }",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.keenfootwear.com/careers-list.html?4636771005&gh_jid=4636771005",
+      "fetchedAt": "2026-01-01T19:44:12.165Z"
+    }
+  },
+  "cachedAt": 1767296652166
+}
