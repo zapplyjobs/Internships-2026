@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T18:18:30.482Z",
+  "lastUpdated": "2026-01-01T18:50:19.745Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -859,14 +859,36 @@
       "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6693211003",
       "discordThreadId": "1456350878545084427",
       "instanceNumber": 1
+    },
+    {
+      "id": "altamira-active-geolocation-operator-apprentice-augusta-2026-01-01-1",
+      "jobId": "altamira-active-geolocation-operator-apprentice-augusta",
+      "company": "Altamira Technologies",
+      "title": "Active Geolocation Operator – Apprentice",
+      "postedToDiscord": "2026-01-01T18:50:13.319Z",
+      "sourceDate": "2025-07-15T15:28:24.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oFKzwfwe?nl=1&nl=1&fr=false",
+      "discordThreadId": "1456358859051499676",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westwood-noise-control-acoustics-intern-noise-control-acoustics-cherry-hills-village-2026-01-01-1",
+      "jobId": "westwood-noise-control-acoustics-intern-noise-control-acoustics-cherry-hills-village",
+      "company": "Westwood",
+      "title": "Noise Control & Acoustics Intern - Noise Control - Acoustics",
+      "postedToDiscord": "2026-01-01T18:50:19.744Z",
+      "sourceDate": "2025-09-30T02:54:15.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7420/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456358886347903048",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 78,
+    "totalJobs": 80,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T18:18:30.482Z",
+      "date": "2026-01-01T18:50:19.745Z",
       "archived": 0
     }
   }
