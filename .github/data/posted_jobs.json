@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T22:17:39.643Z",
+  "lastUpdated": "2026-01-01T22:40:32.316Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1057,14 +1057,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/cmt/jobs/6300371",
       "discordThreadId": "1456411063217160202",
       "instanceNumber": 1
+    },
+    {
+      "id": "intapp-implementation-services-intern-charlotte-2026-01-01-1",
+      "jobId": "intapp-implementation-services-intern-charlotte",
+      "company": "Intapp",
+      "title": "Implementation Services Intern",
+      "postedToDiscord": "2026-01-01T22:40:25.836Z",
+      "sourceDate": "2025-12-11T02:26:32.000Z",
+      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Implementation-Services-Intern_R2024535-1",
+      "discordThreadId": "1456416791432532020",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-warranty-audit-intern-denton-2026-01-01-1",
+      "jobId": "paccar-warranty-audit-intern-denton",
+      "company": "Paccar",
+      "title": "Warranty Audit Intern",
+      "postedToDiscord": "2026-01-01T22:40:32.315Z",
+      "sourceDate": "2025-12-02T23:09:53.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
+      "discordThreadId": "1456416820515962892",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 96,
+    "totalJobs": 98,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T22:17:39.643Z",
+      "date": "2026-01-01T22:40:32.316Z",
       "archived": 0
     }
   }

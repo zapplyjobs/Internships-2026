@@ -17200,5 +17200,17 @@
     "job_title": "Internships",
     "company": "CMTelematics",
     "first_seen": "2026-01-01T22:16:50.772Z"
+  },
+  "intapp-implementation-services-intern-charlotte": {
+    "assigned_date": "2026-01-01T22:40:05.524Z",
+    "job_title": "Implementation Services Intern",
+    "company": "Intapp",
+    "first_seen": "2026-01-01T22:40:05.524Z"
+  },
+  "paccar-warranty-audit-intern-denton": {
+    "assigned_date": "2026-01-01T22:40:05.525Z",
+    "job_title": "Warranty Audit Intern",
+    "company": "Paccar",
+    "first_seen": "2026-01-01T22:40:05.525Z"
   }
 }
