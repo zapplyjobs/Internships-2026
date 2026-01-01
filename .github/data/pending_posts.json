@@ -678,5 +678,45 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "Transportation Planning Intern - Summer 2026",
+      "employer_name": "WSP",
+      "job_city": "Philadelphia",
+      "job_state": "PA",
+      "job_description": "This Opportunity WSP USA hosts hundreds of interns across the United States to gain hands-on, meaningful work experience to enhance their education and professional aptitude. Our interns gain exposure to real projects while working side by side with senior staff. Through our Developing Professionals Network, interns gain mentorship, networking opportunities and lifelong career connections. Our Transportation Planning Team is seeking a Transportation Planning Intern – Summer 2026 to work out of our Philadelphia, PA office. WSP is currently following a hybrid work schedule targeting working on-site or in the office three days a week. This internship will be part of the WSP Summer Internship Program. As a summer intern, you have the opportunity to participate in our 12-week program scheduled to start on May 18th, 2026. The individual start date of the internship may be flexible. Your Impact - Conduct research and literature studies for a variety of transportation and planning p...",
+      "job_apply_link": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76182",
+      "job_posted_at_datetime_utc": "2025-11-22T00:46:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "wsp-transportation-planning-intern-summer-2026-philadelphia",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-01T18:18:10.920Z",
+    "enrichedAt": "2026-01-01T18:18:13.577Z",
+    "postedAt": "2026-01-01T18:18:33.487Z"
+  },
+  {
+    "job": {
+      "job_title": "Design Engineer Intern",
+      "employer_name": "Neuralink",
+      "job_city": "Fremont",
+      "job_state": "CA",
+      "job_description": "About Neuralink: We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: The BCI Applications Team is responsible for building Telepathy.app—software which enables people with paralysis to use computing devices with precision and ease, via thought alone. Our team spans a wide range of disciplines, from neuroscience and machine learning to software engineering and interface design. Job Description: We’re looking for a design engineering intern to conceptualize, prototype, and ship novel computing interfaces tailored for BCI. Our ideal candidate will possess the following qualities: Passion to explore an open-ended, multi-disciplinary, constrained space where design choices are informed by neural structure, model architecture, radio bandwidth, and more. For instance, a slight difference in an animated spring coefficient can change perceptual response time, shifting the alignment of labels and the performance of our decoders. You will actively collaborate with domain experts within and outside the team to understand these constraints and design your way around them An intuitive sense for what level of fidelity to reach for when navigating this space, be it a conversation, a rough sketch, or a testable prototype Excitement to work within and push the boundaries of an entirely new medium of interaction without the traditional sensory feedback of existing physical input devices (e.g., the kinetic friction of glass along the surface of a trackpad, or the resistive pressure of a spring during a keypress) The ability to empathize with and design for people with a sensory experience that differs from your own, and ambition to build something that feels magical, beyond the local minima of that which “works.” You’ll do whatever it might take to deliver that experience, be it a highly optimized vertex shader or a custom property animator, while maintaining an extremely high bar for fluidity and detail throughout A strong point-of-view, without ego—you may occasionally pursue a hunch that not everyone on the team agrees with, but are relentless about testing, deleting, and learning from ideas that don’t work Job Responsibilities: Design, prototype, build, and ship novel computing interfaces for BCI Work with study participants to iterate on and further refine these interfaces Collaborate with domain experts in neuroscience, machine learning, and implant engineering to maximize the precision and fluidity of these interfaces within our constraint-space Required Qualifications: Pursuing a degree in Computer Science, Human-Computer Interaction, or related field; or equivalent experience A portfolio of demonstrated experience designing and shipping features end-to-end (i.e., initial conceptualization → nth prototype → initial release → nth iteration) Proficiency in Apple frameworks (i.e., SwiftUI, UIKit/AppKit, and/or Metal) or an equivalent and transferable stack (i.e., React, Three.js, WebGPU) Familiarity with Objective-C, C, and/or C++ Expected Compensation: The anticipated hourly rate for this position is listed below. California Hourly Flat Rate:$35/Hr USD What We Offer: Full-time employees are eligible for the following benefits listed below. An opportunity to change the world and work with some of the smartest and most talented experts from different fields Growth potential; we rapidly advance team members who have an outsized impact Excellent medical, dental, and vision insurance through a PPO plan Paid holidays Commuter benefits Meals provided Equity (RSUs) *Temporary Employees & Interns excluded 401(k) plan *Interns initially excluded until they work 1,000 hours Parental leave *Temporary Employees & Interns excluded Flexible time off *Temporary Employees & Interns excluded",
+      "job_apply_link": "https://boards.greenhouse.io/neuralink/jobs/6693211003",
+      "job_posted_at_datetime_utc": "2025-08-27T01:38:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "neuralink-design-engineer-intern-fremont",
+      "description_platform": "greenhouse",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-01T18:18:10.920Z",
+    "enrichedAt": "2026-01-01T18:18:13.577Z",
+    "postedAt": "2026-01-01T18:18:33.487Z"
   }
 ]
