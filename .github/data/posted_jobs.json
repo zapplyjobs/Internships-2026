@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T18:50:19.745Z",
+  "lastUpdated": "2026-01-01T19:44:37.936Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -881,14 +881,58 @@
       "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7420/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456358886347903048",
       "instanceNumber": 1
+    },
+    {
+      "id": "textron-high-school-intern-manufacturing-business-independence-2026-01-01-1",
+      "jobId": "textron-high-school-intern-manufacturing-business-independence",
+      "company": "Textron",
+      "title": "High School Intern - Manufacturing - Business",
+      "postedToDiscord": "2026-01-01T19:44:21.198Z",
+      "sourceDate": "2026-01-01T07:17:08.000Z",
+      "sourceUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338472",
+      "discordThreadId": "1456372482100691213",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keen-footwear-fit-technician-intern-portland-2026-01-01-1",
+      "jobId": "keen-footwear-fit-technician-intern-portland",
+      "company": "KEEN Footwear",
+      "title": "Fit Technician Intern",
+      "postedToDiscord": "2026-01-01T19:44:24.760Z",
+      "sourceDate": "2025-12-08T19:58:57.000Z",
+      "sourceUrl": "https://www.keenfootwear.com/careers-list.html?4636771005&gh_jid=4636771005",
+      "discordThreadId": "1456372496990343168",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-quantitative-sciences-statistical-programming-intern-graduate-boston-2026-01-01-1",
+      "jobId": "astrazeneca-quantitative-sciences-statistical-programming-intern-graduate-boston",
+      "company": "AstraZeneca",
+      "title": "Quantitative Sciences & Statistical Programming Intern – Graduate",
+      "postedToDiscord": "2026-01-01T19:44:31.601Z",
+      "sourceDate": "2025-12-17T23:40:33.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1",
+      "discordThreadId": "1456372524127621432",
+      "instanceNumber": 1
+    },
+    {
+      "id": "imeg-sustainability-innovation-intern-naperville-il-madison-2026-01-01-1",
+      "jobId": "imeg-sustainability-innovation-intern-naperville-il-madison",
+      "company": "IMEG",
+      "title": "Sustainability & Innovation Intern - Naperville - IL",
+      "postedToDiscord": "2026-01-01T19:44:37.936Z",
+      "sourceDate": "2025-12-13T11:03:44.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Sustainablity---Innovation-Intern---Naperville--IL--Madison--WI--or-St-Louis--MO_R-15316",
+      "discordThreadId": "1456372552770261105",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 80,
+    "totalJobs": 84,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T18:50:19.745Z",
+      "date": "2026-01-01T19:44:37.936Z",
       "archived": 0
     }
   }

@@ -1,0 +1,23 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking for Master’s students majoring Computer Science, Biostatistics, Data Science, or a related field for a 10-week internship role at our Alexion: AstraZeneca Rare Disease site in Boston-Seaport, MA site from June 1 2026 to August 7 2026.Position Description:Build end-to-end clinical study workflows in R: Design data ingestion, cleaning, analysis, and reporting pipelines, emphasizing reusable, well-documented code.Develop and package reusable R components: Create R packages for standardized data processing, analytics, and visualization to support consistency across studies.Document and communicate: Prepare thorough methodological documentation and user guides for packages, workflows, and automations, and present findings to stakeholders.Position Requirements:Master’s students majoring Computer Science, Biostatistics, Data Science, or a related fieldOpen source programming skills, specifically in R and Python requiredGraphics and data visualization experience preferredEnthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.Candidates must have an expected graduation date after August 2026.US Work Authorization is required at time of application.Ability to report onsite to Boston-Seaport, MA site 3-5 days per week. This role will not provide relocation assistance.Compensation range: $35-$41 per hourDate Posted17-Dec-2025Closing Date08-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Open source programming skills, specifically in R and Python required",
+      "Candidates must have an expected graduation date after August 2026.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "Develop and package reusable R components: Create R packages for standardized data processing, analytics, and visualization to support consistency across studies.",
+      "Ability to report onsite to Boston-Seaport, MA site 3-5 days per week. This role will not provide relocation assistance."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Boston---MA/Quantitative-Sciences---Statistical-Programming-Intern---Graduate_R-242061-1",
+      "fetchedAt": "2026-01-01T19:44:09.527Z"
+    }
+  },
+  "cachedAt": 1767296649527
+}
