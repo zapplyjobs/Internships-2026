@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T00:47:52.288Z",
+  "lastUpdated": "2026-01-01T02:58:28.465Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -639,14 +639,25 @@
       "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/Data-Developer-Intern_R-102779",
       "discordThreadId": "1456086476340072533",
       "instanceNumber": 1
+    },
+    {
+      "id": "amentum-combustion-devices-engineer-intern-huntsville-2026-01-01-1",
+      "jobId": "amentum-combustion-devices-engineer-intern-huntsville",
+      "company": "Amentum",
+      "title": "Combustion Devices Engineer Intern",
+      "postedToDiscord": "2026-01-01T02:58:28.465Z",
+      "sourceDate": "2026-01-01T01:20:56.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Combustion-Devices-Engineer-Intern_R0150972-1",
+      "discordThreadId": "1456119343946661959",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 58,
+    "totalJobs": 59,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T00:47:52.288Z",
+      "date": "2026-01-01T02:58:28.465Z",
       "archived": 0
     }
   }
