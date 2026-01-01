@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T03:36:45.428Z",
+  "lastUpdated": "2026-01-01T07:41:06.081Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -661,14 +661,25 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556655958",
       "discordThreadId": "1456128978581454982",
       "instanceNumber": 1
+    },
+    {
+      "id": "marsh-mclennan-government-health-consulting-informatics-summer-intern-college-program-2026-phoenix-2026-01-01-1",
+      "jobId": "marsh-mclennan-government-health-consulting-informatics-summer-intern-college-program-2026-phoenix",
+      "company": "Marsh & McLennan",
+      "title": "Government Health Consulting Informatics Summer Intern - College Program 2026",
+      "postedToDiscord": "2026-01-01T07:41:06.080Z",
+      "sourceDate": "2025-12-01T16:59:38.000Z",
+      "sourceUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2026_R_332424-1",
+      "discordThreadId": "1456190469863247883",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 60,
+    "totalJobs": 61,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T03:36:45.428Z",
+      "date": "2026-01-01T07:41:06.081Z",
       "archived": 0
     }
   }
