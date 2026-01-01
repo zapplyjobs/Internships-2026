@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T12:19:29.821Z",
+  "lastUpdated": "2026-01-01T13:18:36.069Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -716,14 +716,36 @@
       "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019607-2",
       "discordThreadId": "1456260528312942675",
       "instanceNumber": 1
+    },
+    {
+      "id": "zurich-insurance-zrs-intern-quality-and-compliance-hoffman-estates-2026-01-01-1",
+      "jobId": "zurich-insurance-zrs-intern-quality-and-compliance-hoffman-estates",
+      "company": "Zurich Insurance",
+      "title": "ZRS Intern - Quality and Compliance",
+      "postedToDiscord": "2026-01-01T13:18:29.546Z",
+      "sourceDate": "2025-12-18T23:32:44.000Z",
+      "sourceUrl": "https://www.careers.zurich.com/job/Schaumburg-ZRS-Internship-Quality-and-Compliance-Summer-2026-IL-60159/1348768057/?ats=successfactors",
+      "discordThreadId": "1456275377314861120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-process-control-engineer-intern-boise-2026-01-01-1",
+      "jobId": "micron-technology-process-control-engineer-intern-boise",
+      "company": "Micron Technology",
+      "title": "Process Control Engineer Intern",
+      "postedToDiscord": "2026-01-01T13:18:36.069Z",
+      "sourceDate": "2025-10-31T02:58:48.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132",
+      "discordThreadId": "1456275404380962899",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 65,
+    "totalJobs": 67,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T12:19:29.821Z",
+      "date": "2026-01-01T13:18:36.069Z",
       "archived": 0
     }
   }
