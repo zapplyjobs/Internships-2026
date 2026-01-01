@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T20:17:50.758Z",
+  "lastUpdated": "2026-01-01T20:50:03.709Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -969,14 +969,47 @@
       "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
       "discordThreadId": "1456380911049248798",
       "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-statistics-intern-phd-livingston-2026-01-01-1",
+      "jobId": "abbvie-statistics-intern-phd-livingston",
+      "company": "AbbVie",
+      "title": "Statistics Intern - PhD",
+      "postedToDiscord": "2026-01-01T20:50:03.702Z",
+      "sourceDate": "2025-12-20T09:18:55.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
+      "discordThreadId": "1456389017733038131",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-statistics-intern-phd-waukegan-2026-01-01-1",
+      "jobId": "abbvie-statistics-intern-phd-waukegan",
+      "company": "AbbVie",
+      "title": "Statistics Intern - PhD",
+      "postedToDiscord": "2026-01-01T20:50:03.706Z",
+      "sourceDate": "2025-12-19T19:09:38.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808736",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-statistics-intern-san-bruno-2026-01-01-1",
+      "jobId": "abbvie-statistics-intern-san-bruno",
+      "company": "AbbVie",
+      "title": "Statistics Intern",
+      "postedToDiscord": "2026-01-01T20:50:03.709Z",
+      "sourceDate": "2025-11-14T23:25:54.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808715",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 88,
+    "totalJobs": 91,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T20:17:50.758Z",
+      "date": "2026-01-01T20:50:03.709Z",
       "archived": 0
     }
   }
