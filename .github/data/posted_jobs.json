@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T15:16:37.188Z",
+  "lastUpdated": "2026-01-01T16:18:02.867Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -793,14 +793,47 @@
       "sourceUrl": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Summer-Intern---Global-Technology---Operations_R-4754",
       "discordThreadId": "1456305104599777414",
       "instanceNumber": 1
+    },
+    {
+      "id": "marmon-holdings-engineering-intern-decatur-2026-01-01-1",
+      "jobId": "marmon-holdings-engineering-intern-decatur",
+      "company": "Marmon Holdings",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2026-01-01T16:17:52.593Z",
+      "sourceDate": "2025-12-06T12:41:06.000Z",
+      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Engineering-Intern---Summer-2026_JR0000037704-4",
+      "discordThreadId": "1456320519971275015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "servicenow-digital-technology-associate-data-informatics-analyst-intern-dt-santa-clara-2026-01-01-1",
+      "jobId": "servicenow-digital-technology-associate-data-informatics-analyst-intern-dt-santa-clara",
+      "company": "ServiceNow",
+      "title": "Digital Technology – Associate Data Informatics Analyst Intern - Dt",
+      "postedToDiscord": "2026-01-01T16:17:56.464Z",
+      "sourceDate": "2025-10-26T11:28:45.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000089582236",
+      "discordThreadId": "1456320535033020572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genmab-clinical-pharmacology-and-quantitative-science-intern-programming-computer-science-princeton-2026-01-01-1",
+      "jobId": "genmab-clinical-pharmacology-and-quantitative-science-intern-programming-computer-science-princeton",
+      "company": "Genmab",
+      "title": "Clinical Pharmacology and Quantitative Science Intern - Programming/Computer Science",
+      "postedToDiscord": "2026-01-01T16:18:02.866Z",
+      "sourceDate": "2025-12-17T23:19:40.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Clinical-Pharmacology-and-Quantitative-Science-Intern--Programming-Computer-Science-_R14681",
+      "discordThreadId": "1456320563948818595",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 72,
+    "totalJobs": 75,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T15:16:37.188Z",
+      "date": "2026-01-01T16:18:02.867Z",
       "archived": 0
     }
   }
