@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556655958",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. Research Interns are expected to design algorithms/models and prototype them, conduct experiments, and analyze results. They are encouraged to show initiative throughout the Research Internship and suggest further directions for research. They are expected to document their ideas, and given suitable results, contribute to a paper. Currently enrolled in a PhD program in Computer Science, Operations Research or a related STEM field. At least 3 years of experience in C# or C++ or Python (or similar language). In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Experience in optimization/algorithm design. Experience in machine learning and LLMs (e.g., data curation, post-training, agentic frameworks). Demonstrated ability to run simulations and analyze results. Some knowledge of distributed systems.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556655958",
+      "fetchedAt": "2026-01-01T03:36:33.177Z"
+    }
+  },
+  "cachedAt": 1767238593177
+}
