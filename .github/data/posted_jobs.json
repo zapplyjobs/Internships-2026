@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T22:40:32.316Z",
+  "lastUpdated": "2026-01-01T23:17:20.668Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1079,14 +1079,25 @@
       "sourceUrl": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
       "discordThreadId": "1456416820515962892",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo-2026-01-01-1",
+      "jobId": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo",
+      "company": "The Aerospace Corporation",
+      "title": "2026 Atomic Clocks & Device Physics Graduate Intern",
+      "postedToDiscord": "2026-01-01T23:17:20.668Z",
+      "sourceDate": "2025-11-30T11:51:12.000Z",
+      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
+      "discordThreadId": "1456426083225440468",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 98,
+    "totalJobs": 99,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T22:40:32.316Z",
+      "date": "2026-01-01T23:17:20.668Z",
       "archived": 0
     }
   }
