@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T19:44:37.936Z",
+  "lastUpdated": "2026-01-01T20:17:50.758Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -925,14 +925,58 @@
       "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Sustainablity---Innovation-Intern---Naperville--IL--Madison--WI--or-St-Louis--MO_R-15316",
       "discordThreadId": "1456372552770261105",
       "instanceNumber": 1
+    },
+    {
+      "id": "textron-high-school-intern-data-analytics-independence-2026-01-01-1",
+      "jobId": "textron-high-school-intern-data-analytics-independence",
+      "company": "Textron",
+      "title": "High School Intern - Data Analytics",
+      "postedToDiscord": "2026-01-01T20:17:37.167Z",
+      "sourceDate": "2026-01-01T07:17:03.000Z",
+      "sourceUrl": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=338473",
+      "discordThreadId": "1456380853897793537",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wing-manufacturing-software-test-engineer-intern-palo-alto-2026-01-01-1",
+      "jobId": "wing-manufacturing-software-test-engineer-intern-palo-alto",
+      "company": "Wing",
+      "title": "Manufacturing Software Test Engineer Intern",
+      "postedToDiscord": "2026-01-01T20:17:40.706Z",
+      "sourceDate": "2025-11-14T02:23:36.000Z",
+      "sourceUrl": "https://wing.com/careers/8249812002?gh_jid=8249812002",
+      "discordThreadId": "1456380868301029602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "entegris-research-development-intern-summer-2026-san-luis-obispo-2026-01-01-1",
+      "jobId": "entegris-research-development-intern-summer-2026-san-luis-obispo",
+      "company": "Entegris",
+      "title": "Research & Development Intern - Summer 2026",
+      "postedToDiscord": "2026-01-01T20:17:47.361Z",
+      "sourceDate": "2025-12-23T19:09:00.000Z",
+      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Research---Development-Intern---Summer-2026_REQ-9615",
+      "discordThreadId": "1456380896021319872",
+      "instanceNumber": 1
+    },
+    {
+      "id": "entegris-nanoparticle-research-associate-intern-summer-2026-montgomery-2026-01-01-1",
+      "jobId": "entegris-nanoparticle-research-associate-intern-summer-2026-montgomery",
+      "company": "Entegris",
+      "title": "Nanoparticle Research Associate Intern - Summer 2026",
+      "postedToDiscord": "2026-01-01T20:17:50.758Z",
+      "sourceDate": "2025-12-23T07:30:35.000Z",
+      "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
+      "discordThreadId": "1456380911049248798",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 84,
+    "totalJobs": 88,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T19:44:37.936Z",
+      "date": "2026-01-01T20:17:50.758Z",
       "archived": 0
     }
   }
