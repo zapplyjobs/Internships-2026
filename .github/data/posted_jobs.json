@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T14:17:31.745Z",
+  "lastUpdated": "2026-01-01T15:16:37.188Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -782,14 +782,25 @@
       "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6576326003",
       "discordThreadId": "1456290233761927262",
       "instanceNumber": 1
+    },
+    {
+      "id": "amc-networks-intern-santa-monica-2026-01-01-1",
+      "jobId": "amc-networks-intern-santa-monica",
+      "company": "AMC Networks",
+      "title": "Intern",
+      "postedToDiscord": "2026-01-01T15:16:37.187Z",
+      "sourceDate": "2025-12-24T18:37:11.000Z",
+      "sourceUrl": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Summer-Intern---Global-Technology---Operations_R-4754",
+      "discordThreadId": "1456305104599777414",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 71,
+    "totalJobs": 72,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T14:17:31.745Z",
+      "date": "2026-01-01T15:16:37.188Z",
       "archived": 0
     }
   }
