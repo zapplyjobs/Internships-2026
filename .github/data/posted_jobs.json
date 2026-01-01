@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T10:43:24.130Z",
+  "lastUpdated": "2026-01-01T12:19:29.821Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -694,14 +694,36 @@
       "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7292747",
       "discordThreadId": "1456236347743277138",
       "instanceNumber": 1
+    },
+    {
+      "id": "charter-manufacturing-digital-industry-intern-grafton-2026-01-01-1",
+      "jobId": "charter-manufacturing-digital-industry-intern-grafton",
+      "company": "Charter Manufacturing",
+      "title": "Digital Industry Intern",
+      "postedToDiscord": "2026-01-01T12:19:22.802Z",
+      "sourceDate": "2025-12-13T11:42:20.000Z",
+      "sourceUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Digital-Industry-40-Intern---Summer-2026_R07141",
+      "discordThreadId": "1456260501297303552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-tech-and-digital-intern-process-optimization-automation-developer-parsippany-troy-hills-2026-01-01-1",
+      "jobId": "zoetis-tech-and-digital-intern-process-optimization-automation-developer-parsippany-troy-hills",
+      "company": "Zoetis",
+      "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
+      "postedToDiscord": "2026-01-01T12:19:29.820Z",
+      "sourceDate": "2025-12-04T07:21:45.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019607-2",
+      "discordThreadId": "1456260528312942675",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 63,
+    "totalJobs": 65,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T10:43:24.130Z",
+      "date": "2026-01-01T12:19:29.821Z",
       "archived": 0
     }
   }
