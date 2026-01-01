@@ -127,7 +127,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 6h |
+| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 7h |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -252,13 +252,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1983 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1982 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1983 roles
-- **🏢 Companies**: 32 companies  
+- **📁 Total Positions**: 1982 roles
+- **🏢 Companies**: 33 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
@@ -336,6 +336,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - Microsoft Coreai Speech | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628916) | 2w |
 | Research Intern - Model Optimization and HW Acceleration | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628875) | 2w |
 | Research Intern - Training Methods for LLM Efficiency | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628881) | 2w |
+| Research Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628911) | 2w |
 | Research Intern - Machine Learning and Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628908) | 2w |
 | Research Intern - Microsoft Research Special Projects | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556628925) | 2w |
 | Research Intern - Neural Rendering & Character AI - Applied Science | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621609) | 2w |
@@ -351,7 +352,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - Microsoft Teams | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640715) | 2w |
 | Research Intern - Onedrive and Sharepoint | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640732) | 2w |
 | Research Intern - AI-Driven CPU Optimizations | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640691) | 2w |
-| Research Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640817) | 2w |
 | Research Intern - Multiple Teams | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556640831) | 2w |
 | Research Internship – Computing | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.microsoft.com/en-us/research/academic-program/undergraduate-research-internship-computing/) | 3w |
 | Data Engineer Intern | Redmond, Washington | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1864360/Data-Engineer-Intern:-Internship-Opportunities---Redmond?fbclid=PAZXh0bgNhZW0CMTEAAach0SNotdoUUi2mxRR7ZqIb6z8PKKf2L0NiKky_vQ3mrN2NRN7ZOiD0zIhKrw_aem_8zutlHGTayeEIhsbsSXWJw) | 3w |

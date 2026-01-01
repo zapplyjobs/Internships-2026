@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T08:18:05.806Z",
+  "lastUpdated": "2026-01-01T10:43:24.130Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -683,14 +683,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236611002",
       "discordThreadId": "1456199779540275232",
       "instanceNumber": 1
+    },
+    {
+      "id": "mongodb-2026-security-engineering-intern-seattle-seattle-2026-01-01-1",
+      "jobId": "mongodb-2026-security-engineering-intern-seattle-seattle",
+      "company": "MongoDB",
+      "title": "2026 – Security Engineering Intern - Seattle",
+      "postedToDiscord": "2026-01-01T10:43:24.130Z",
+      "sourceDate": "2025-10-25T15:12:16.000Z",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7292747",
+      "discordThreadId": "1456236347743277138",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 62,
+    "totalJobs": 63,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T08:18:05.806Z",
+      "date": "2026-01-01T10:43:24.130Z",
       "archived": 0
     }
   }

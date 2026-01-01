@@ -678,5 +678,25 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "2026 – Security Engineering Intern - Seattle",
+      "employer_name": "MongoDB",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join MongoDB in this exciting opportunity.",
+      "job_apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7292747",
+      "job_posted_at_datetime_utc": "2025-10-25T15:12:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "mongodb-2026-security-engineering-intern-seattle-seattle",
+      "description_platform": "generic",
+      "description_success": false
+    },
+    "status": "posted",
+    "addedAt": "2026-01-01T10:43:04.807Z",
+    "enrichedAt": "2026-01-01T10:43:14.685Z",
+    "postedAt": "2026-01-01T10:43:27.134Z"
   }
 ]
