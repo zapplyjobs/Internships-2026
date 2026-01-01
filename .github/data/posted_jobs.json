@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T23:17:20.668Z",
+  "lastUpdated": "2026-01-01T23:46:15.510Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1090,14 +1090,36 @@
       "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
       "discordThreadId": "1456426083225440468",
       "instanceNumber": 1
+    },
+    {
+      "id": "scs-engineers-environmental-sustainability-intern-mobile-2026-01-01-1",
+      "jobId": "scs-engineers-environmental-sustainability-intern-mobile",
+      "company": "SCS Engineers",
+      "title": "Environmental Sustainability Intern",
+      "postedToDiscord": "2026-01-01T23:46:08.939Z",
+      "sourceDate": "2025-12-29T23:27:48.000Z",
+      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1640/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456433330986684569",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lhb-climate-solutions-intern-duluth-2026-01-01-1",
+      "jobId": "lhb-climate-solutions-intern-duluth",
+      "company": "LHB",
+      "title": "Climate Solutions Intern",
+      "postedToDiscord": "2026-01-01T23:46:15.509Z",
+      "sourceDate": "2025-11-25T01:02:37.000Z",
+      "sourceUrl": "https://careers-lhbcorp.icims.com/jobs/1904/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1456433359176597707",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 99,
+    "totalJobs": 101,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T23:17:20.668Z",
+      "date": "2026-01-01T23:46:15.510Z",
       "archived": 0
     }
   }
