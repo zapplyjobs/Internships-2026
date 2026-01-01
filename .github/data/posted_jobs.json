@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T07:41:06.081Z",
+  "lastUpdated": "2026-01-01T08:18:05.806Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -672,14 +672,25 @@
       "sourceUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2026_R_332424-1",
       "discordThreadId": "1456190469863247883",
       "instanceNumber": 1
+    },
+    {
+      "id": "modernizing-medicine-security-engineering-intern-boca-raton-2026-01-01-1",
+      "jobId": "modernizing-medicine-security-engineering-intern-boca-raton",
+      "company": "Modernizing Medicine",
+      "title": "Security Engineering Intern",
+      "postedToDiscord": "2026-01-01T08:18:05.805Z",
+      "sourceDate": "2025-11-05T23:18:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236611002",
+      "discordThreadId": "1456199779540275232",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 61,
+    "totalJobs": 62,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T07:41:06.081Z",
+      "date": "2026-01-01T08:18:05.806Z",
       "archived": 0
     }
   }
