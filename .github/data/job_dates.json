@@ -17128,5 +17128,29 @@
     "job_title": "Fit Technician Intern",
     "company": "KEEN Footwear",
     "first_seen": "2026-01-01T19:44:01.127Z"
+  },
+  "textron-high-school-intern---data-analytics-independence": {
+    "assigned_date": "2026-01-01T20:17:09.793Z",
+    "job_title": "High School Intern - Data Analytics",
+    "company": "Textron",
+    "first_seen": "2026-01-01T20:17:09.793Z"
+  },
+  "entegris-research-&-development-intern---summer-2026-san-luis-obispo": {
+    "assigned_date": "2026-01-01T20:17:09.794Z",
+    "job_title": "Research & Development Intern - Summer 2026",
+    "company": "Entegris",
+    "first_seen": "2026-01-01T20:17:09.794Z"
+  },
+  "entegris-nanoparticle-research-associate-intern---summer-2026-montgomery": {
+    "assigned_date": "2026-01-01T20:17:09.794Z",
+    "job_title": "Nanoparticle Research Associate Intern - Summer 2026",
+    "company": "Entegris",
+    "first_seen": "2026-01-01T20:17:09.794Z"
+  },
+  "wing-manufacturing-software-test-engineer-intern-palo-alto": {
+    "assigned_date": "2026-01-01T20:17:09.798Z",
+    "job_title": "Manufacturing Software Test Engineer Intern",
+    "company": "Wing",
+    "first_seen": "2026-01-01T20:17:09.798Z"
   }
 }
