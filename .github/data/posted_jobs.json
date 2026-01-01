@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T13:18:36.069Z",
+  "lastUpdated": "2026-01-01T14:17:31.745Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -738,14 +738,58 @@
       "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132",
       "discordThreadId": "1456275404380962899",
       "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-summer-2026-technical-intern-voice-of-the-customer-team-newark-2026-01-01-1",
+      "jobId": "public-service-enterprise-summer-2026-technical-intern-voice-of-the-customer-team-newark",
+      "company": "Public Service Enterprise Group",
+      "title": "Summer 2026 – Technical Intern - Voice of the Customer Team",
+      "postedToDiscord": "2026-01-01T14:17:15.025Z",
+      "sourceDate": "2025-12-29T23:14:41.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/Newark-Summer-2026-Technical-Intern-Voice-of-the-Customer-Team-NJ-07101/1352389400/?ats=successfactors",
+      "discordThreadId": "1456290164165836822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "certik-security-research-internship-seattle-2026-01-01-1",
+      "jobId": "certik-security-research-internship-seattle",
+      "company": "Certik",
+      "title": "Security Research Internship",
+      "postedToDiscord": "2026-01-01T14:17:18.412Z",
+      "sourceDate": "2025-10-31T02:04:23.000Z",
+      "sourceUrl": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33/apply",
+      "discordThreadId": "1456290178535526410",
+      "instanceNumber": 1
+    },
+    {
+      "id": "public-service-enterprise-technical-intern-outside-plant-distribution-asset-mgmt-edison-2026-01-01-1",
+      "jobId": "public-service-enterprise-technical-intern-outside-plant-distribution-asset-mgmt-edison",
+      "company": "Public Service Enterprise Group",
+      "title": "Technical Intern - Outside Plant Distribution Asset Mgmt",
+      "postedToDiscord": "2026-01-01T14:17:25.192Z",
+      "sourceDate": "2025-12-23T23:26:29.000Z",
+      "sourceUrl": "https://jobs.pseg.com/job/Edison-Summer-2026-Technical-Intern-Outside-Plant-Distribution-Asset-Mgmt-NJ-08817/1351953900/?ats=successfactors",
+      "discordThreadId": "1456290205588914208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "neuralink-robot-optics-intern-fremont-2026-01-01-1",
+      "jobId": "neuralink-robot-optics-intern-fremont",
+      "company": "Neuralink",
+      "title": "Robot Optics Intern",
+      "postedToDiscord": "2026-01-01T14:17:31.745Z",
+      "sourceDate": "2025-05-14T22:33:13.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6576326003",
+      "discordThreadId": "1456290233761927262",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 67,
+    "totalJobs": 71,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T13:18:36.069Z",
+      "date": "2026-01-01T14:17:31.745Z",
       "archived": 0
     }
   }
