@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T08:18:29.802Z",
+  "lastUpdated": "2026-01-02T09:09:37.348Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1321,14 +1321,25 @@
       "sourceUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113322",
       "discordThreadId": "1456562268031680564",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-wireless-systems-research-intern-berkeley-heights-2026-01-02-1",
+      "jobId": "nokia-wireless-systems-research-intern-berkeley-heights",
+      "company": "Nokia",
+      "title": "Wireless Systems Research Intern",
+      "postedToDiscord": "2026-01-02T09:09:37.347Z",
+      "sourceDate": "2025-12-17T02:09:04.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
+      "discordThreadId": "1456575134772232222",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 120,
+    "totalJobs": 121,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T08:18:29.802Z",
+      "date": "2026-01-02T09:09:37.348Z",
       "archived": 0
     }
   }

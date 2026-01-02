@@ -12,5 +12,19 @@
     "id": "agzen--cambridge",
     "description_platform": "generic",
     "description_success": true
+  },
+  {
+    "job_title": "Wireless Systems Research Intern",
+    "employer_name": "Nokia",
+    "job_city": "Berkeley Heights",
+    "job_state": "NJ",
+    "job_description": "This is a great opportunity to contribute to the advancement of Nokia’s next-generation wireless systems. You will work alongside experienced researchers and engineers to support the development of advanced RAN technologies across multiple protocol layers. In this role, you will research, design, develop, and test software modules for Layer 1, Layer 2, and Layer 3, helping ensure that emerging wireless solutions meet the high standards required for performance, reliability, and scalability. Your work will directly support Nokia’s mission to deliver future-ready connectivity solutions.",
+    "job_apply_link": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
+    "job_posted_at_datetime_utc": "2025-12-17T02:09:04.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "nokia-wireless-systems-research-intern-berkeley-heights",
+    "description_platform": "generic",
+    "description_success": true
   }
 ]
