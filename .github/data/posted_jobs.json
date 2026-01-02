@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T14:17:12.353Z",
+  "lastUpdated": "2026-01-02T15:17:25.680Z",
   "jobs": [
     {
       "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
@@ -1365,14 +1365,25 @@
       "sourceUrl": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR101208",
       "discordThreadId": "1456652540497105028",
       "instanceNumber": 1
+    },
+    {
+      "id": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton-2026-01-02-1",
+      "jobId": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton",
+      "company": "Genmab",
+      "title": "AI-Driven Radiomics and Multimodal Biomarker Discovery Intern",
+      "postedToDiscord": "2026-01-02T15:17:25.680Z",
+      "sourceDate": "2025-12-17T23:19:39.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/AI-Driven-Radiomics-and-Multimodal-Biomarker-Discovery-Intern_R14686-1",
+      "discordThreadId": "1456667695876411606",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 124,
+    "totalJobs": 125,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T14:17:12.353Z",
+      "date": "2026-01-02T15:17:25.680Z",
       "archived": 0
     }
   }
