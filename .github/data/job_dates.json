@@ -1,10 +1,4 @@
 {
-  "salesforce-software-engineering-intern-(spain)-us---remote": {
-    "assigned_date": "2025-11-03T20:44:42.820Z",
-    "job_title": "Software Engineering Intern (Spain)",
-    "company": "Salesforce",
-    "first_seen": "2025-11-03T20:44:42.820Z"
-  },
   "salesforce-summer-2026-intern---applied-scientist,-optimization-boston": {
     "assigned_date": "2025-11-07T00:35:37.771Z",
     "job_title": "Summer 2026 Intern - Applied Scientist, Optimization",
@@ -17404,5 +17398,17 @@
     "job_title": "Research Analyst Intern – Early Career - Fuels - Chemicals & Resource Solutions",
     "company": "S&P Global ",
     "first_seen": "2026-01-02T18:49:49.783Z"
+  },
+  "rtx-software-engineer-intern-fort-wayne": {
+    "assigned_date": "2026-01-02T23:44:30.893Z",
+    "job_title": "Software Engineer Intern",
+    "company": "RTX",
+    "first_seen": "2026-01-02T23:44:30.893Z"
+  },
+  "rockwell-automation-co-op-–-software-engineering-mayfield-heights": {
+    "assigned_date": "2026-01-02T23:44:30.903Z",
+    "job_title": "Co-op – Software Engineering",
+    "company": "Rockwell Automation",
+    "first_seen": "2026-01-02T23:44:30.903Z"
   }
 }

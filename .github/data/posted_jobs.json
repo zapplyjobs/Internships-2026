@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T18:49:59.506Z",
+  "lastUpdated": "2026-01-02T23:44:48.075Z",
   "jobs": [
-    {
-      "id": "cadence-design-software-engineering-intern-san-jose-2025-12-26-2",
-      "jobId": "cadence-design-software-engineering-intern-san-jose",
-      "company": "Cadence Design Systems",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2025-12-26T22:54:16.784Z",
-      "sourceDate": "2025-12-11T23:55:17.000Z",
-      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE-10/Software-Engineering-Intern_R52330",
-      "discordThreadId": "1454245950477307936",
-      "instanceNumber": 2
-    },
-    {
-      "id": "general-dynamics-mission-sw-intern-engineer-dedham-2025-12-26-2",
-      "jobId": "general-dynamics-mission-sw-intern-engineer-dedham",
-      "company": "General Dynamics Mission Systems",
-      "title": "SW Intern Engineer",
-      "postedToDiscord": "2025-12-26T23:29:10.831Z",
-      "sourceDate": "2025-12-11T23:32:23.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/69691/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1454254734780403754",
-      "instanceNumber": 2
-    },
     {
       "id": "intrinsic-deep-learning-intern-model-optimization-mountain-view-2025-12-27-1",
       "jobId": "intrinsic-deep-learning-intern-model-optimization-mountain-view",
@@ -1387,6 +1365,28 @@
       "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1",
       "discordThreadId": "1456721188725326057",
       "instanceNumber": 1
+    },
+    {
+      "id": "rtx-software-engineer-intern-fort-wayne-2026-01-02-1",
+      "jobId": "rtx-software-engineer-intern-fort-wayne",
+      "company": "RTX",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-02T23:44:44.765Z",
+      "sourceDate": "2026-01-02T23:15:43.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--IN-_01811048",
+      "discordThreadId": "1456795367021477898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rockwell-automation-co-op-software-engineering-mayfield-heights-2026-01-02-1",
+      "jobId": "rockwell-automation-co-op-software-engineering-mayfield-heights",
+      "company": "Rockwell Automation",
+      "title": "Co-op – Software Engineering",
+      "postedToDiscord": "2026-01-02T23:44:48.075Z",
+      "sourceDate": "2025-09-09T02:33:59.000Z",
+      "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering--May-2026---December-2026-_R25-7377-1",
+      "discordThreadId": "1456795381026258996",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -1394,7 +1394,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T18:49:59.506Z",
+      "date": "2026-01-02T23:44:48.075Z",
       "archived": 0
     }
   }
