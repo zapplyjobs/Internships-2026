@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T00:43:23.923Z",
+  "lastUpdated": "2026-01-02T01:17:38.733Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1134,14 +1134,69 @@
       "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
       "discordThreadId": "1456447738144100499",
       "instanceNumber": 1
+    },
+    {
+      "id": "uline-web-production-intern-waukegan-2026-01-02-1",
+      "jobId": "uline-web-production-intern-waukegan",
+      "company": "Uline",
+      "title": "Web Production Intern",
+      "postedToDiscord": "2026-01-02T01:17:15.420Z",
+      "sourceDate": "2025-12-13T11:07:11.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Web-Production-Internship---Summer-2026_R258555",
+      "discordThreadId": "1456456259510210762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-environmental-planning-intern-raleigh-2026-01-02-1",
+      "jobId": "hntb-environmental-planning-intern-raleigh",
+      "company": "HNTB",
+      "title": "Environmental Planning Intern",
+      "postedToDiscord": "2026-01-02T01:17:22.105Z",
+      "sourceDate": "2025-12-13T15:15:23.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Environmental-Planning-Intern---Summer-2026_R-27426",
+      "discordThreadId": "1456456287310319681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "w-w-grainger-on-site-search-intern-spring-2026-green-bay-2026-01-02-1",
+      "jobId": "w-w-grainger-on-site-search-intern-spring-2026-green-bay",
+      "company": "W.W. Grainger",
+      "title": "On-Site Search Intern - Spring 2026",
+      "postedToDiscord": "2026-01-02T01:17:25.664Z",
+      "sourceDate": "2025-10-22T00:09:57.000Z",
+      "sourceUrl": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-On-Site-Search-Intern-Spring-2026-WI-54301-5160/1336560100/?ats=successfactors",
+      "discordThreadId": "1456456302976045098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande-2026-01-02-1",
+      "jobId": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande",
+      "company": "Lucid Motors",
+      "title": "Intern – SAP Consulting - Summer 2026",
+      "postedToDiscord": "2026-01-02T01:17:32.192Z",
+      "sourceDate": "2025-12-05T13:10:56.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4996727007",
+      "discordThreadId": "1456456330465378344",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corning-characterization-sciences-intern-elmira-2026-01-02-1",
+      "jobId": "corning-characterization-sciences-intern-elmira",
+      "company": "Corning",
+      "title": "Characterization Sciences Intern",
+      "postedToDiscord": "2026-01-02T01:17:38.732Z",
+      "sourceDate": "2025-11-21T08:18:42.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Characterization-Sciences-Intern-Summer-2026-NY-14831/1344650400/?ats=successfactors",
+      "discordThreadId": "1456456357686542438",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 103,
+    "totalJobs": 108,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T00:43:23.923Z",
+      "date": "2026-01-02T01:17:38.733Z",
       "archived": 0
     }
   }
