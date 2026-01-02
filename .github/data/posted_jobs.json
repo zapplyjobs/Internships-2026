@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T09:09:37.348Z",
+  "lastUpdated": "2026-01-02T11:44:40.903Z",
   "jobs": [
-    {
-      "id": "veolia-intern-milwaukee-2025-12-26-1",
-      "jobId": "veolia-intern-milwaukee",
-      "company": "Veolia",
-      "title": "Intern",
-      "postedToDiscord": "2025-12-26T10:17:25.676Z",
-      "sourceDate": "2025-12-16T23:19:17.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099233588",
-      "discordThreadId": "1454055483538149530",
-      "instanceNumber": 1
-    },
-    {
-      "id": "reli-data-and-automation-engineer-intern-norwalk-2025-12-26-1",
-      "jobId": "reli-data-and-automation-engineer-intern-norwalk",
-      "company": "Reli",
-      "title": "Data and Automation Engineer Intern",
-      "postedToDiscord": "2025-12-26T10:42:31.705Z",
-      "sourceDate": "2025-12-26T10:12:23.000Z",
-      "sourceUrl": "https://jobs.lever.co/shopreli/71b22e67-1f91-49c4-b85e-4f40d51649c7/apply",
-      "discordThreadId": "1454061799056998555",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westwood-civil-engineering-intern-mclean-2025-12-26-1",
-      "jobId": "westwood-civil-engineering-intern-mclean",
-      "company": "Westwood",
-      "title": "Civil Engineering Intern",
-      "postedToDiscord": "2025-12-26T10:42:38.196Z",
-      "sourceDate": "2025-11-03T11:50:50.000Z",
-      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7170/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1454061827322417164",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westwood-water-resources-intern-co-op-water-resources-boston-2025-12-26-1",
-      "jobId": "westwood-water-resources-intern-co-op-water-resources-boston",
-      "company": "Westwood",
-      "title": "Water Resources Intern/Co-Op - Water Resources",
-      "postedToDiscord": "2025-12-26T10:42:41.820Z",
-      "sourceDate": "2025-10-02T09:53:19.000Z",
-      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7434/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1454061842308534325",
-      "instanceNumber": 1
-    },
     {
       "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
       "jobId": "aerovironment-software-engineering-intern-hyper-rf-division-germantown",
@@ -1332,15 +1288,27 @@
       "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
       "discordThreadId": "1456575134772232222",
       "instanceNumber": 1
+    },
+    {
+      "id": "appian-associate-consultant-intern-mclean-2026-01-02-1",
+      "jobId": "appian-associate-consultant-intern-mclean",
+      "company": "Appian",
+      "title": "Associate Consultant Intern",
+      "postedToDiscord": "2026-01-02T11:44:40.903Z",
+      "sourceDate": "2025-10-15T05:14:27.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7326021",
+      "discordThreadId": "1456614156739547197",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 121,
+    "totalJobs": 118,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T09:09:37.348Z",
-      "archived": 0
+      "date": "2026-01-02T11:44:40.903Z",
+      "archived": 4,
+      "monthsAffected": 1
     }
   }
 }
