@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T02:24:20.699Z",
+  "lastUpdated": "2026-01-02T03:56:02.699Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1211,14 +1211,36 @@
       "sourceUrl": "https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
       "discordThreadId": "1456473143039230025",
       "instanceNumber": 1
+    },
+    {
+      "id": "neurocrine-biosciences-it-business-partner-commercial-intern-san-diego-2026-01-02-1",
+      "jobId": "neurocrine-biosciences-it-business-partner-commercial-intern-san-diego",
+      "company": "Neurocrine Biosciences",
+      "title": "IT Business Partner Commercial Intern",
+      "postedToDiscord": "2026-01-02T03:55:56.062Z",
+      "sourceDate": "2025-12-24T00:30:07.000Z",
+      "sourceUrl": "https://neurocrine.wd5.myworkdayjobs.com/en-US/Neurocrinecareers/job/US-CA-San-Diego/IT-Business-Partner-Commercial-Intern_R6354",
+      "discordThreadId": "1456496192623083581",
+      "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-energy-materials-intern-carbon-neutral-strategy-mountain-view-2026-01-02-1",
+      "jobId": "toyota-research-institute-energy-materials-intern-carbon-neutral-strategy-mountain-view",
+      "company": "Toyota Research Institute",
+      "title": "Energy & Materials Intern - Carbon Neutral Strategy",
+      "postedToDiscord": "2026-01-02T03:56:02.698Z",
+      "sourceDate": "2025-12-22T23:08:52.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/7091c125-43c4-491e-a642-2e8d59c0a610/apply",
+      "discordThreadId": "1456496219743457481",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 110,
+    "totalJobs": 112,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T02:24:20.699Z",
+      "date": "2026-01-02T03:56:02.699Z",
       "archived": 0
     }
   }
