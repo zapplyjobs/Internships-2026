@@ -260,13 +260,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1927 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1924 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1927 roles
-- **🏢 Companies**: 74 companies  
+- **📁 Total Positions**: 1924 roles
+- **🏢 Companies**: 75 companies  
 - **⭐ FAANG+ Opportunities**: 85 positions
 
 ### ⭐ **FAANG+** (85 positions)

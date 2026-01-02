@@ -658,5 +658,65 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
+      "employer_name": "ByteDance",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "View our opening for Research Scientist Intern, Biomolecular Structure Foundation Models (Seed AI-for-Science) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7537827352539547912/detail",
+      "job_posted_at_datetime_utc": "2025-08-15T20:33:27.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-02T12:59:18.294Z",
+    "enrichedAt": "2026-01-02T12:59:32.288Z",
+    "postedAt": "2026-01-02T12:59:44.917Z"
+  },
+  {
+    "job": {
+      "job_title": "Research Intern - Infrastructure System Lab",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "View our opening for Research Intern (Infrastructure System Lab)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7535609157736745234/detail",
+      "job_posted_at_datetime_utc": "2025-08-09T03:09:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-intern-infrastructure-system-lab-san-jose",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-02T12:59:18.294Z",
+    "enrichedAt": "2026-01-02T12:59:32.288Z",
+    "postedAt": "2026-01-02T12:59:44.917Z"
+  },
+  {
+    "job": {
+      "job_title": "Research Intern - Infrastructure System Lab",
+      "employer_name": "ByteDance",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "View our opening for Research Intern (Infrastructure System Lab)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
+      "job_posted_at_datetime_utc": "2025-08-09T03:09:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-intern-infrastructure-system-lab-seattle",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-02T12:59:18.294Z",
+    "enrichedAt": "2026-01-02T12:59:32.288Z",
+    "postedAt": null
   }
 ]
