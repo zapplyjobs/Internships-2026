@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T17:46:52.978Z",
+  "lastUpdated": "2026-01-02T18:49:59.506Z",
   "jobs": [
     {
       "id": "cadence-design-software-engineering-intern-san-jose-2025-12-26-2",
@@ -1376,14 +1376,25 @@
       "sourceUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-3DI-Simulation-Intern--Summer-2026-_R25-01554",
       "discordThreadId": "1456705307106345105",
       "instanceNumber": 1
+    },
+    {
+      "id": "s-p-global-research-analyst-intern-early-career-fuels-chemicals-resource-solutions-houston-2026-01-02-1",
+      "jobId": "s-p-global-research-analyst-intern-early-career-fuels-chemicals-resource-solutions-houston",
+      "company": "S&P Global ",
+      "title": "Research Analyst Intern – Early Career - Fuels - Chemicals & Resource Solutions",
+      "postedToDiscord": "2026-01-02T18:49:59.506Z",
+      "sourceDate": "2025-12-31T01:21:02.000Z",
+      "sourceUrl": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Houston-TX/Research-Analyst-Intern---Fuels--Chemicals---Resource-Solutions--Early-Career-_320543-1",
+      "discordThreadId": "1456721188725326057",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 125,
+    "totalJobs": 126,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T17:46:52.978Z",
+      "date": "2026-01-02T18:49:59.506Z",
       "archived": 0
     }
   }
