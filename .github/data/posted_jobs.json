@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T04:54:55.413Z",
+  "lastUpdated": "2026-01-02T05:48:13.158Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1266,14 +1266,25 @@
       "sourceUrl": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/LOUISVILLE-KY/XMLNAME-2026-Engineering-Co-Op-Louisville--KY_R-2025030414",
       "discordThreadId": "1456511037296742604",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-foundation-models-prescient-design-san-bruno-2026-01-02-1",
+      "jobId": "genentech-intern-foundation-models-prescient-design-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Foundation Models - Prescient Design",
+      "postedToDiscord": "2026-01-02T05:48:13.158Z",
+      "sourceDate": "2025-12-20T02:30:32.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Foundation-Models--Prescient-Design_202512-132192",
+      "discordThreadId": "1456524449498009673",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 115,
+    "totalJobs": 116,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T04:54:55.413Z",
+      "date": "2026-01-02T05:48:13.158Z",
       "archived": 0
     }
   }
