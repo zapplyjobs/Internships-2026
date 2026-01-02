@@ -61,10 +61,23 @@ function isValidUrl(urlString) {
 }
 
 function sanitizeUrl(urlString) {
-  if (isValidUrl(urlString)) return urlString;
-  // Fallback to Zapply jobs page if URL is invalid
-  console.warn(`⚠️ Invalid URL detected, using fallback: ${urlString}`);
-  return 'https://zapplyjobs.com/jobs';
+  if (!urlString || typeof urlString !== 'string') {
+    console.warn(`⚠️ Empty/invalid URL, using fallback`);
+    return 'https://zapplyjobs.com/jobs';
+  }
+
+  try {
+    // Encode spaces and other problematic characters that Discord rejects
+    const encoded = urlString.replace(/ /g, '%20');
+    const url = new URL(encoded);
+    if (url.protocol !== 'http:' && url.protocol !== 'https:') {
+      throw new Error('Invalid protocol');
+    }
+    return encoded;
+  } catch {
+    console.warn(`⚠️ Invalid URL detected, using fallback: ${urlString}`);
+    return 'https://zapplyjobs.com/jobs';
+  }
 }
 const postLogger = new DiscordPostLogger();
 const jobsExporter = new JobsDataExporter();
