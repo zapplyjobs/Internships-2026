@@ -1,0 +1,17 @@
+{
+  "url": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000IS",
+  "data": {
+    "success": true,
+    "platform": "taleo",
+    "description": "Click the link provided to see the complete job description.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000IS",
+      "fetchedAt": "2026-01-02T04:54:36.034Z"
+    }
+  },
+  "cachedAt": 1767329676034
+}
