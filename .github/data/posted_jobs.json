@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T12:59:41.912Z",
+  "lastUpdated": "2026-01-02T14:17:12.353Z",
   "jobs": [
     {
       "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
@@ -1343,14 +1343,36 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "marmon-holdings-engineering-intern-owensboro-2026-01-02-1",
+      "jobId": "marmon-holdings-engineering-intern-owensboro",
+      "company": "Marmon Holdings",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2026-01-02T14:17:05.796Z",
+      "sourceDate": "2025-12-06T17:36:03.000Z",
+      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
+      "discordThreadId": "1456652512689127435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin-2026-01-02-1",
+      "jobId": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
+      "company": "City of Austin",
+      "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
+      "postedToDiscord": "2026-01-02T14:17:12.352Z",
+      "sourceDate": "2025-11-27T23:43:22.000Z",
+      "sourceUrl": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR101208",
+      "discordThreadId": "1456652540497105028",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 122,
+    "totalJobs": 124,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T12:59:41.912Z",
+      "date": "2026-01-02T14:17:12.353Z",
       "archived": 0
     }
   }
