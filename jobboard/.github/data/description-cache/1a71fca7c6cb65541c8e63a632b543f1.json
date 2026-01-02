@@ -1,0 +1,17 @@
+{
+  "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This is a great opportunity to contribute to the advancement of Nokia’s next-generation wireless systems. You will work alongside experienced researchers and engineers to support the development of advanced RAN technologies across multiple protocol layers. In this role, you will research, design, develop, and test software modules for Layer 1, Layer 2, and Layer 3, helping ensure that emerging wireless solutions meet the high standards required for performance, reliability, and scalability. Your work will directly support Nokia’s mission to deliver future-ready connectivity solutions.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
+      "fetchedAt": "2026-01-02T09:09:30.925Z"
+    }
+  },
+  "cachedAt": 1767344970925
+}
