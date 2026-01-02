@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-01T23:46:15.510Z",
+  "lastUpdated": "2026-01-02T00:43:23.923Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1112,14 +1112,36 @@
       "sourceUrl": "https://careers-lhbcorp.icims.com/jobs/1904/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1456433359176597707",
       "instanceNumber": 1
+    },
+    {
+      "id": "qorvo-digital-strategy-marketing-intern-richardson-2026-01-02-1",
+      "jobId": "qorvo-digital-strategy-marketing-intern-richardson",
+      "company": "Qorvo",
+      "title": "Digital Strategy Marketing Intern",
+      "postedToDiscord": "2026-01-02T00:43:17.208Z",
+      "sourceDate": "2025-11-15T18:36:09.000Z",
+      "sourceUrl": "https://careers.qorvo.com/job/Richardson-Digital-Strategy-Marketing-Intern-TX-75081/1333763900/?ats=successfactors",
+      "discordThreadId": "1456447711376183370",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city-2026-01-02-1",
+      "jobId": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city",
+      "company": "HNTB",
+      "title": "Returning New Grad Part Time Planner I-Summer 2026 – Central Division-For Current/Former HNTB Inter…",
+      "postedToDiscord": "2026-01-02T00:43:23.922Z",
+      "sourceDate": "2025-08-29T15:52:22.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
+      "discordThreadId": "1456447738144100499",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 101,
+    "totalJobs": 103,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-01T23:46:15.510Z",
+      "date": "2026-01-02T00:43:23.923Z",
       "archived": 0
     }
   }
