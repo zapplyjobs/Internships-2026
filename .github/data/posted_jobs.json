@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T03:56:02.699Z",
+  "lastUpdated": "2026-01-02T04:54:55.413Z",
   "jobs": [
     {
       "id": "veolia-intern-milwaukee-2025-12-26-1",
@@ -1233,14 +1233,47 @@
       "sourceUrl": "https://jobs.lever.co/tri/7091c125-43c4-491e-a642-2e8d59c0a610/apply",
       "discordThreadId": "1456496219743457481",
       "instanceNumber": 1
+    },
+    {
+      "id": "accuweather-forecasting-intern-state-college-summer-2026-state-college-2026-01-02-1",
+      "jobId": "accuweather-forecasting-intern-state-college-summer-2026-state-college",
+      "company": "AccuWeather",
+      "title": "Forecasting Intern - State College - Summer 2026",
+      "postedToDiscord": "2026-01-02T04:54:48.151Z",
+      "sourceDate": "2026-01-01T08:05:03.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7485118",
+      "discordThreadId": "1456511007584288867",
+      "instanceNumber": 1
+    },
+    {
+      "id": "equitable-holdings-2026-summer-intern-workplace-solutions-syracuse-2026-01-02-1",
+      "jobId": "equitable-holdings-2026-summer-intern-workplace-solutions-syracuse",
+      "company": "Equitable Holdings",
+      "title": "2026 Summer Intern - Workplace Solutions",
+      "postedToDiscord": "2026-01-02T04:54:51.817Z",
+      "sourceDate": "2025-11-06T23:17:49.000Z",
+      "sourceUrl": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000IS",
+      "discordThreadId": "1456511022226608191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "michelin-2026-engineering-co-op-louisville-ky-louisville-2026-01-02-1",
+      "jobId": "michelin-2026-engineering-co-op-louisville-ky-louisville",
+      "company": "Michelin",
+      "title": "2026 Engineering Co-Op Louisville - KY",
+      "postedToDiscord": "2026-01-02T04:54:55.413Z",
+      "sourceDate": "2025-09-10T01:10:16.000Z",
+      "sourceUrl": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/LOUISVILLE-KY/XMLNAME-2026-Engineering-Co-Op-Louisville--KY_R-2025030414",
+      "discordThreadId": "1456511037296742604",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 112,
+    "totalJobs": 115,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T03:56:02.699Z",
+      "date": "2026-01-02T04:54:55.413Z",
       "archived": 0
     }
   }
