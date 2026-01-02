@@ -228,6 +228,17 @@ jobs:
             echo ""
             echo "Either no new jobs found or all filtered as duplicates."
             exit 0
+          elif grep -q "After data quality filter: 0 jobs" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: All jobs filtered by data quality checks (expected behavior)"
+            echo ""
+            echo "Jobs had invalid data (missing title, company, etc) and were skipped."
+            echo "This prevents posting malformed jobs to Discord."
+            exit 0
+          elif grep -q "📤 Posting 0 jobs" .github/logs/discord-bot.log 2>/dev/null; then
+            echo "✅ SUCCESS: No jobs to post after all filters (expected behavior)"
+            echo ""
+            echo "All jobs were filtered out by various quality checks."
+            exit 0
           else
             # File unchanged but we don't know why - this is suspicious!
             echo "❌❌❌ CRITICAL ERROR: posted_jobs.json was NOT modified! ❌❌❌"
