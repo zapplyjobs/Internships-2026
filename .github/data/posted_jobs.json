@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T15:40:22.755Z",
+  "lastUpdated": "2026-01-02T17:46:52.978Z",
   "jobs": [
-    {
-      "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
-      "jobId": "aerovironment-software-engineering-intern-hyper-rf-division-germantown",
-      "company": "AeroVironment",
-      "title": "Software Engineering Intern – Hyper-RF Division",
-      "postedToDiscord": "2025-12-26T15:54:33.000Z",
-      "sourceDate": "2025-12-26T15:51:38.000Z",
-      "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
-      "discordThreadId": "1454140323067461643",
-      "instanceNumber": 1
-    },
-    {
-      "id": "gusto-cx-ai-automation-internship-denver-2025-12-26-1",
-      "jobId": "gusto-cx-ai-automation-internship-denver",
-      "company": "Gusto",
-      "title": "CX AI & Automation Internship",
-      "postedToDiscord": "2025-12-26T16:03:22.179Z",
-      "sourceDate": "2025-12-26T15:57:32.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7471872",
-      "discordThreadId": "1454142542563119105",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto-2025-12-26-1",
-      "jobId": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto",
-      "company": "Stanford Health Care",
-      "title": "Technology & Digital Solutions – Digital Innovation & Software Development Internships (Graduate)",
-      "postedToDiscord": "2025-12-26T16:03:28.651Z",
-      "sourceDate": "2025-12-26T15:55:44.000Z",
-      "sourceUrl": "http://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
-      "discordThreadId": "1454142569939468440",
-      "instanceNumber": 1
-    },
-    {
-      "id": "leidos-sre-metrics-analyst-intern-bremerton-2025-12-26-1",
-      "jobId": "leidos-sre-metrics-analyst-intern-bremerton",
-      "company": "Leidos",
-      "title": "SRE Metrics Analyst Intern",
-      "postedToDiscord": "2025-12-26T17:16:58.537Z",
-      "sourceDate": "2025-12-26T16:33:41.000Z",
-      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SRE-Metrics-Analyst-Intern_R-00172699-1",
-      "discordThreadId": "1454161066295562371",
-      "instanceNumber": 1
-    },
-    {
-      "id": "stanford-health-care-intern-digital-innovation-software-development-internships-graduate-technology-digital-solutions-palo-alto-2025-12-26-1",
-      "jobId": "stanford-health-care-intern-digital-innovation-software-development-internships-graduate-technology-digital-solutions-palo-alto",
-      "company": "Stanford Health Care",
-      "title": "Intern – Digital Innovation & Software Development Internships – Graduate - Technology & Digital Solutions",
-      "postedToDiscord": "2025-12-26T17:17:05.116Z",
-      "sourceDate": "2025-12-26T16:20:28.000Z",
-      "sourceUrl": "https://stanfordhealthcare.wd5.myworkdayjobs.com/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
-      "discordThreadId": "1454161093130846239",
-      "instanceNumber": 1
-    },
     {
       "id": "cadence-design-software-engineering-intern-san-jose-2025-12-26-2",
       "jobId": "cadence-design-software-engineering-intern-san-jose",
@@ -1387,14 +1332,58 @@
       "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/COLLEGE-INTERN_JR2308",
       "discordThreadId": "1456673472104104193",
       "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-data-science-intern-parsippany-troy-hills-2026-01-02-1",
+      "jobId": "zoetis-data-science-intern-parsippany-troy-hills",
+      "company": "Zoetis",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-02T17:46:39.299Z",
+      "sourceDate": "2026-01-02T16:43:37.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data-Science-Intern_JR00019746",
+      "discordThreadId": "1456705248495140939",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-product-marketing-mba-intern-data-processing-santa-clara-2026-01-02-1",
+      "jobId": "nvidia-product-marketing-mba-intern-data-processing-santa-clara",
+      "company": "NVIDIA",
+      "title": "Product Marketing MBA Intern - Data Processing",
+      "postedToDiscord": "2026-01-02T17:46:42.914Z",
+      "sourceDate": "2025-12-10T08:48:57.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
+      "discordThreadId": "1456705264563781736",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oshkosh-youth-apprentice-engineering-oshkosh-2026-01-02-1",
+      "jobId": "oshkosh-youth-apprentice-engineering-oshkosh",
+      "company": "Oshkosh",
+      "title": "Youth Apprentice - Engineering",
+      "postedToDiscord": "2026-01-02T17:46:49.391Z",
+      "sourceDate": "2025-12-23T19:21:12.000Z",
+      "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Youth-Apprentice---Engineering_R43411",
+      "discordThreadId": "1456705292506239007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tokyo-electron-atg-3di-simulation-intern-summer-2026-austin-2026-01-02-1",
+      "jobId": "tokyo-electron-atg-3di-simulation-intern-summer-2026-austin",
+      "company": "Tokyo Electron",
+      "title": "ATG 3DI Simulation Intern - Summer 2026",
+      "postedToDiscord": "2026-01-02T17:46:52.977Z",
+      "sourceDate": "2025-12-13T12:42:06.000Z",
+      "sourceUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-3DI-Simulation-Intern--Summer-2026-_R25-01554",
+      "discordThreadId": "1456705307106345105",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 126,
+    "totalJobs": 125,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T15:40:22.755Z",
+      "date": "2026-01-02T17:46:52.978Z",
       "archived": 0
     }
   }

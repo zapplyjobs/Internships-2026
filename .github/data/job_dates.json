@@ -17374,5 +17374,29 @@
     "job_title": "College Intern",
     "company": "City of Amarillo",
     "first_seen": "2026-01-02T15:40:11.581Z"
+  },
+  "zoetis-data-science-intern-parsippany-troy-hills": {
+    "assigned_date": "2026-01-02T17:46:09.491Z",
+    "job_title": "Data Science Intern",
+    "company": "Zoetis",
+    "first_seen": "2026-01-02T17:46:09.491Z"
+  },
+  "oshkosh-youth-apprentice---engineering-oshkosh": {
+    "assigned_date": "2026-01-02T17:46:09.492Z",
+    "job_title": "Youth Apprentice - Engineering",
+    "company": "Oshkosh",
+    "first_seen": "2026-01-02T17:46:09.492Z"
+  },
+  "tokyo-electron-atg-3di-simulation-intern---summer-2026-austin": {
+    "assigned_date": "2026-01-02T17:46:09.493Z",
+    "job_title": "ATG 3DI Simulation Intern - Summer 2026",
+    "company": "Tokyo Electron",
+    "first_seen": "2026-01-02T17:46:09.493Z"
+  },
+  "nvidia-product-marketing-mba-intern---data-processing-santa-clara": {
+    "assigned_date": "2026-01-02T17:46:09.494Z",
+    "job_title": "Product Marketing MBA Intern - Data Processing",
+    "company": "NVIDIA",
+    "first_seen": "2026-01-02T17:46:09.494Z"
   }
 }

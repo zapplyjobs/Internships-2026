@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 4+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 4+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 5+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,8 +75,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 4 hot data-focused jobs
-- **🏢 Companies**: 3 companies
+- 🔥 **Current Positions:** 5 hot data-focused jobs
+- **🏢 Companies**: 4 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
 - 📅 **Last Updated:** January 2, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -135,6 +135,14 @@ Connect with fellow students, get career advice, share internship experiences, a
 |------|----------|-------|-----------|-----|
 | Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 1d |
 
+### 🏢 **Top Tech** (1 position)
+
+#### 🎮 **NVIDIA** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 1h |
+
 ### 🏭 **Manufacturing & Industrial** (2 positions)
 
 #### 💾 **Micron Technology** (2 positions)
@@ -157,6 +165,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 #### ⭐ FAANG+ (2 companies)
 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1 position) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
+#### ☁️ Enterprise & Cloud (1 company)
+🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1 position)
+
 
 ---
 
@@ -164,7 +175,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 4 | 100% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 5 | 100% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
@@ -172,6 +183,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🌍 Top Locations
 - **Boise, ID**: 2 opportunities
+- **Santa Clara, CA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
 
@@ -179,7 +191,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 4+ verified internships and new grad roles from 3 top companies.
+✅ **100% Real Opportunities:** 5+ verified internships and new grad roles from 4 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -260,13 +272,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1908 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1905 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1908 roles
-- **🏢 Companies**: 74 companies  
+- **📁 Total Positions**: 1905 roles
+- **🏢 Companies**: 76 companies  
 - **⭐ FAANG+ Opportunities**: 85 positions
 
 ### ⭐ **FAANG+** (85 positions)
@@ -636,7 +648,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 4 current opportunities from 3 top companies.**
+**🎯 5 current opportunities from 4 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
