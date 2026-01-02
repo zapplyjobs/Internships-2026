@@ -48,6 +48,24 @@ const ChannelStatsManager = require('./channel-stats');
 
 // Initialize routing logger, posting logger, and jobs exporter
 const routingLogger = new RoutingLogger();
+
+// URL validation - prevents Discord API errors from malformed URLs
+function isValidUrl(urlString) {
+  if (!urlString || typeof urlString !== 'string') return false;
+  try {
+    const url = new URL(urlString);
+    return url.protocol === 'http:' || url.protocol === 'https:';
+  } catch {
+    return false;
+  }
+}
+
+function sanitizeUrl(urlString) {
+  if (isValidUrl(urlString)) return urlString;
+  // Fallback to Zapply jobs page if URL is invalid
+  console.warn(`⚠️ Invalid URL detected, using fallback: ${urlString}`);
+  return 'https://zapplyjobs.com/jobs';
+}
 const postLogger = new DiscordPostLogger();
 const jobsExporter = new JobsDataExporter();
 const channelStats = new ChannelStatsManager();
@@ -329,7 +347,7 @@ function buildJobEmbed(job) {
 
   const embed = new EmbedBuilder()
     .setTitle(title)
-    .setURL(job.job_apply_link)
+    .setURL(sanitizeUrl(job.job_apply_link))
     .setColor(0x00A8E8)
     .addFields(
       { name: '🏢 Company', value: job.employer_name || 'Not specified', inline: true },
@@ -1099,7 +1117,7 @@ client.on('interactionCreate', async interaction => {
           const tags = generateTags(job);
           jobsEmbed.addFields({
             name: `${index + 1}. ${job.job_title} at ${job.employer_name}`,
-            value: `📍 ${job.job_city}, ${job.job_state}\n🏷️ ${tags.map(t => `#${t}`).join(' ')}\n[Apply Here](${job.job_apply_link})`,
+            value: `📍 ${job.job_city}, ${job.job_state}\n🏷️ ${tags.map(t => `#${t}`).join(' ')}\n[Apply Here](${sanitizeUrl(job.job_apply_link)})`,
             inline: false
           });
         });
