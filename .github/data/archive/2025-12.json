@@ -20227,5 +20227,60 @@
     "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7434/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1454061842308534325",
     "instanceNumber": 1
+  },
+  {
+    "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
+    "jobId": "aerovironment-software-engineering-intern-hyper-rf-division-germantown",
+    "company": "AeroVironment",
+    "title": "Software Engineering Intern – Hyper-RF Division",
+    "postedToDiscord": "2025-12-26T15:54:33.000Z",
+    "sourceDate": "2025-12-26T15:51:38.000Z",
+    "sourceUrl": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367",
+    "discordThreadId": "1454140323067461643",
+    "instanceNumber": 1
+  },
+  {
+    "id": "gusto-cx-ai-automation-internship-denver-2025-12-26-1",
+    "jobId": "gusto-cx-ai-automation-internship-denver",
+    "company": "Gusto",
+    "title": "CX AI & Automation Internship",
+    "postedToDiscord": "2025-12-26T16:03:22.179Z",
+    "sourceDate": "2025-12-26T15:57:32.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7471872",
+    "discordThreadId": "1454142542563119105",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto-2025-12-26-1",
+    "jobId": "stanford-health-care-technology-digital-solutions-digital-innovation-software-development-internships-graduate-palo-alto",
+    "company": "Stanford Health Care",
+    "title": "Technology & Digital Solutions – Digital Innovation & Software Development Internships (Graduate)",
+    "postedToDiscord": "2025-12-26T16:03:28.651Z",
+    "sourceDate": "2025-12-26T15:55:44.000Z",
+    "sourceUrl": "http://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
+    "discordThreadId": "1454142569939468440",
+    "instanceNumber": 1
+  },
+  {
+    "id": "leidos-sre-metrics-analyst-intern-bremerton-2025-12-26-1",
+    "jobId": "leidos-sre-metrics-analyst-intern-bremerton",
+    "company": "Leidos",
+    "title": "SRE Metrics Analyst Intern",
+    "postedToDiscord": "2025-12-26T17:16:58.537Z",
+    "sourceDate": "2025-12-26T16:33:41.000Z",
+    "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SRE-Metrics-Analyst-Intern_R-00172699-1",
+    "discordThreadId": "1454161066295562371",
+    "instanceNumber": 1
+  },
+  {
+    "id": "stanford-health-care-intern-digital-innovation-software-development-internships-graduate-technology-digital-solutions-palo-alto-2025-12-26-1",
+    "jobId": "stanford-health-care-intern-digital-innovation-software-development-internships-graduate-technology-digital-solutions-palo-alto",
+    "company": "Stanford Health Care",
+    "title": "Intern – Digital Innovation & Software Development Internships – Graduate - Technology & Digital Solutions",
+    "postedToDiscord": "2025-12-26T17:17:05.116Z",
+    "sourceDate": "2025-12-26T16:20:28.000Z",
+    "sourceUrl": "https://stanfordhealthcare.wd5.myworkdayjobs.com/shc_external_career_site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Summer-2026-Internship---Technology---Digital-Solutions---Digital-Innovation---Software-Development-Internships--Graduate---Hybrid_R2552420",
+    "discordThreadId": "1454161093130846239",
+    "instanceNumber": 1
   }
 ]
