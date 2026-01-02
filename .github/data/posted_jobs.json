@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T11:44:40.903Z",
+  "lastUpdated": "2026-01-02T12:18:33.920Z",
   "jobs": [
     {
       "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
@@ -1299,16 +1299,26 @@
       "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7326021",
       "discordThreadId": "1456614156739547197",
       "instanceNumber": 1
+    },
+    {
+      "id": "prologis-intern-esg-chicago-2026-01-02-1",
+      "jobId": "prologis-intern-esg-chicago",
+      "company": "Prologis",
+      "title": "Intern – ESG",
+      "postedToDiscord": "2026-01-02T12:18:33.920Z",
+      "sourceDate": "2025-11-01T10:22:50.000Z",
+      "sourceUrl": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Chicago-Illinois/Intern--ESG_R6193",
+      "discordThreadId": "1456622683570704395",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 118,
+    "totalJobs": 119,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T11:44:40.903Z",
-      "archived": 4,
-      "monthsAffected": 1
+      "date": "2026-01-02T12:18:33.920Z",
+      "archived": 0
     }
   }
 }
