@@ -636,10 +636,10 @@ async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
       stats
     );
     fs.writeFileSync("README.md", readmeContent, "utf8");
-    console.log(`✅ README.md updated with ${displayedJobCount} current opportunities`);
+    console.log(`✅ README.md updated with ${currentJobs.length} current opportunities`);
 
     console.log("\n📊 Summary:");
-    console.log(`- Total current: ${displayedJobCount}`);
+    console.log(`- Total current: ${currentJobs.length}`);
     console.log(`- Archived:      ${archivedJobs.length}`);
     console.log(
       `- Companies:     ${Object.keys(stats?.totalByCompany || {}).length}`
