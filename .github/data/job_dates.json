@@ -1,10 +1,4 @@
 {
-  "amd-2026-masters-thermal-engineering-intern/co-op-multiple-cities": {
-    "assigned_date": "2025-11-03T15:21:35.581Z",
-    "job_title": "2026 Masters Thermal Engineering Intern/Co-op",
-    "company": "AMD",
-    "first_seen": "2025-11-03T15:21:35.581Z"
-  },
   "salesforce-software-engineering-intern-(spain)-us---remote": {
     "assigned_date": "2025-11-03T20:44:42.820Z",
     "job_title": "Software Engineering Intern (Spain)",
@@ -17374,5 +17368,11 @@
     "job_title": "AI-Driven Radiomics and Multimodal Biomarker Discovery Intern",
     "company": "Genmab",
     "first_seen": "2026-01-02T15:17:15.580Z"
+  },
+  "city-of-amarillo-college-intern-amarillo": {
+    "assigned_date": "2026-01-02T15:40:11.581Z",
+    "job_title": "College Intern",
+    "company": "City of Amarillo",
+    "first_seen": "2026-01-02T15:40:11.581Z"
   }
 }
