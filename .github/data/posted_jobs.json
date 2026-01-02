@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T12:18:33.920Z",
+  "lastUpdated": "2026-01-02T12:59:41.912Z",
   "jobs": [
     {
       "id": "aerovironment-software-engineering-intern-hyper-rf-division-germantown-2025-12-26-1",
@@ -1310,14 +1310,47 @@
       "sourceUrl": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Chicago-Illinois/Intern--ESG_R6193",
       "discordThreadId": "1456622683570704395",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle-2026-01-02-1",
+      "jobId": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
+      "postedToDiscord": "2026-01-02T12:59:38.234Z",
+      "sourceDate": "2025-08-15T20:33:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7537827352539547912/detail",
+      "discordThreadId": "1456633020256616521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-infrastructure-system-lab-san-jose-2026-01-02-1",
+      "jobId": "bytedance-research-intern-infrastructure-system-lab-san-jose",
+      "company": "ByteDance",
+      "title": "Research Intern - Infrastructure System Lab",
+      "postedToDiscord": "2026-01-02T12:59:41.909Z",
+      "sourceDate": "2025-08-09T03:09:35.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535609157736745234/detail",
+      "discordThreadId": "1456633034857124093",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-intern-infrastructure-system-lab-seattle-2026-01-02-1",
+      "jobId": "bytedance-research-intern-infrastructure-system-lab-seattle",
+      "company": "ByteDance",
+      "title": "Research Intern - Infrastructure System Lab",
+      "postedToDiscord": "2026-01-02T12:59:41.912Z",
+      "sourceDate": "2025-08-09T03:09:35.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 119,
+    "totalJobs": 122,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T12:18:33.920Z",
+      "date": "2026-01-02T12:59:41.912Z",
       "archived": 0
     }
   }
