@@ -1,10 +1,4 @@
 {
-  "salesforce-summer-2026-intern---ai-research-palo-alto": {
-    "assigned_date": "2025-11-03T01:40:50.472Z",
-    "job_title": "Summer 2026 Intern - AI Research",
-    "company": "Salesforce",
-    "first_seen": "2025-11-03T01:40:50.472Z"
-  },
   "infineon-technologies-internship-–-mixed-signal-ic-verification-engineer-multiple-cities": {
     "assigned_date": "2025-11-03T07:03:54.130Z",
     "job_title": "Internship – Mixed Signal IC Verification Engineer",
@@ -17272,5 +17266,11 @@
     "job_title": "On-Site Search Intern - Spring 2026",
     "company": "W.W. Grainger",
     "first_seen": "2026-01-02T01:16:52.026Z"
+  },
+  "amazon-applied-science-intern-seattle": {
+    "assigned_date": "2026-01-02T02:24:14.000Z",
+    "job_title": "Applied Science Intern",
+    "company": "Amazon",
+    "first_seen": "2026-01-02T02:24:14.000Z"
   }
 }

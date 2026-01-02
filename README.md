@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-2-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-1-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 2+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 3+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 3+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 4+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,9 +75,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 3 hot data-focused jobs
-- **🏢 Companies**: 2 companies
-- **⭐ FAANG+ Jobs**: 1 premium opportunities
+- 🔥 **Current Positions:** 4 hot data-focused jobs
+- **🏢 Companies**: 3 companies
+- **⭐ FAANG+ Jobs**: 2 premium opportunities
 - 📅 **Last Updated:** January 2, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -121,7 +121,13 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### ⭐ **FAANG+** (1 position)
+### ⭐ **FAANG+** (2 positions)
+
+#### 📦 **Amazon** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1h |
 
 #### 🟦 **Microsoft** (1 position)
 
@@ -135,7 +141,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 12h |
+| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 13h |
 | Intern Computer Engineer - AI/LLM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 6d |
 
 
@@ -148,8 +154,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🏢 Top Companies
 
-#### ⭐ FAANG+ (1 company)
-🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1 position)
+#### ⭐ FAANG+ (2 companies)
+🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1 position) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 
 ---
@@ -158,7 +164,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 3 | 100% | Summer/Fall programs for students |
+| 🟢 Internships & Co-ops | 4 | 100% | Summer/Fall programs for students |
 | 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
@@ -166,13 +172,14 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🌍 Top Locations
 - **Boise, ID**: 2 opportunities
+- **Seattle, WA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
 
 ---
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 3+ verified internships and new grad roles from 2 top companies.
+✅ **100% Real Opportunities:** 4+ verified internships and new grad roles from 3 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -253,25 +260,24 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1955 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1949 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1955 roles
-- **🏢 Companies**: 65 companies  
-- **⭐ FAANG+ Opportunities**: 86 positions
+- **📁 Total Positions**: 1949 roles
+- **🏢 Companies**: 66 companies  
+- **⭐ FAANG+ Opportunities**: 85 positions
 
-### ⭐ **FAANG+** (86 positions)
+### ⭐ **FAANG+** (85 positions)
 
-#### 📦 **Amazon** (11 positions)
+#### 📦 **Amazon** (10 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1w |
 | Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 2w |
 | Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 2w |
-| Amazon Economics Apprenticeship Program - 2-Year Research Positions | Seattle, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137798/amazon-economics-apprenticeship-program-2-year-research-positions) | 3w |
 | 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 4w |
 | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 4w |
 | 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 4w |
@@ -631,7 +637,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 3 current opportunities from 2 top companies.**
+**🎯 4 current opportunities from 3 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 

@@ -12,5 +12,19 @@
     "id": "agzen--cambridge",
     "description_platform": "generic",
     "description_success": true
+  },
+  {
+    "job_title": "Applied Science Intern",
+    "employer_name": "Amazon",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
+    "job_apply_link": "https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
+    "job_posted_at_datetime_utc": "2025-12-22T23:07:45.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "amazon-applied-science-intern-seattle",
+    "description_platform": "generic",
+    "description_success": true
   }
 ]
