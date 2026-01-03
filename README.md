@@ -127,7 +127,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 23h |
+| Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1d |
 
 #### 🟦 **Microsoft** (1 position)
 
@@ -141,7 +141,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 7h |
+| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 8h |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -182,8 +182,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🌍 Top Locations
 - **Santa Clara, CA**: 1 opportunity
-- **Seattle, WA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
+- **Seattle, WA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 
 ---
@@ -308,7 +308,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - LLM Performance Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 2w |
 | Research Intern - Post-Training | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 2w |
 | Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 2w |
-| Research Intern - Bio Large Language Models | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 2w |
+| Research Intern - Bio Large Language Models | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 3w |
 | Research Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 3w |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 3w |
 | Research Intern - MSR Inclusive Futures Team | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 3w |
