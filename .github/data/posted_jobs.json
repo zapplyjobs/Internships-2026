@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-02T23:44:48.075Z",
+  "lastUpdated": "2026-01-03T00:40:40.286Z",
   "jobs": [
     {
       "id": "intrinsic-deep-learning-intern-model-optimization-mountain-view-2025-12-27-1",
@@ -1387,14 +1387,58 @@
       "sourceUrl": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Co-op--Software-Engineering--May-2026---December-2026-_R25-7377-1",
       "discordThreadId": "1456795381026258996",
       "instanceNumber": 1
+    },
+    {
+      "id": "teledyne-systems-engineering-intern-camarillo-2026-01-03-1",
+      "jobId": "teledyne-systems-engineering-intern-camarillo",
+      "company": "Teledyne",
+      "title": "Systems Engineering Intern",
+      "postedToDiscord": "2026-01-03T00:40:26.335Z",
+      "sourceDate": "2026-01-02T23:46:29.000Z",
+      "sourceUrl": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Camarillo-CA/Systems-Engineering-Intern_REQ32274",
+      "discordThreadId": "1456809380967350428",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-intern-software-engineer-intern-fort-wayne-2026-01-03-1",
+      "jobId": "rtx-intern-software-engineer-intern-fort-wayne",
+      "company": "RTX",
+      "title": "Intern – Software Engineer Intern",
+      "postedToDiscord": "2026-01-03T00:40:29.832Z",
+      "sourceDate": "2026-01-02T23:15:54.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN301-1010-Production-Rd-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--IN-_01812951",
+      "discordThreadId": "1456809396943192258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-backend-software-engineer-intern-tiktok-pgc-ucp-san-jose-2026-01-03-1",
+      "jobId": "tiktok-backend-software-engineer-intern-tiktok-pgc-ucp-san-jose",
+      "company": "TikTok",
+      "title": "Backend Software Engineer Intern - Tiktok-Pgc-Ucp",
+      "postedToDiscord": "2026-01-03T00:40:33.514Z",
+      "sourceDate": "2025-08-08T02:49:22.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533452888360061202",
+      "discordThreadId": "1456809411640164415",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-data-scientist-intern-honolulu-2026-01-03-1",
+      "jobId": "booz-allen-data-scientist-intern-honolulu",
+      "company": "Booz Allen",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-03T00:40:40.285Z",
+      "sourceDate": "2025-09-02T18:42:48.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2026-Summer-Games-Data-Scientist-Intern_R0225534",
+      "discordThreadId": "1456809440039800966",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 126,
+    "totalJobs": 130,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-02T23:44:48.075Z",
+      "date": "2026-01-03T00:40:40.286Z",
       "archived": 0
     }
   }
