@@ -149,7 +149,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 1d |
+| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 2d |
 
 
 
@@ -183,8 +183,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🌍 Top Locations
 - **Santa Clara, CA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
-- **Boise, ID**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
+- **Boise, ID**: 1 opportunity
 
 ---
 
