@@ -133,7 +133,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 1d |
+| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 2d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -182,9 +182,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🌍 Top Locations
 - **Santa Clara, CA**: 1 opportunity
-- **Cambridge, MA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
+- **Cambridge, MA**: 1 opportunity
 
 ---
 
@@ -271,12 +271,12 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1894 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1896 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1894 roles
+- **📁 Total Positions**: 1896 roles
 - **🏢 Companies**: 79 companies  
 - **⭐ FAANG+ Opportunities**: 85 positions
 
