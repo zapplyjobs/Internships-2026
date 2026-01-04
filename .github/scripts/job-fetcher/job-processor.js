@@ -25,7 +25,7 @@ const { convertDateToRelative } = require('../../../jobboard/src/backend/output/
 const { fetchDescriptionsBatch } = require('../../../jobboard/src/backend/services/descriptionFetchers');
 
 // Deduplication logger
-const DeduplicationLogger = require('../deduplication-logger');
+const DeduplicationLogger = require('@zapply/job-board-shared');
 
 // Configuration
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
