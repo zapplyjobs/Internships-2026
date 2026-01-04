@@ -26,6 +26,31 @@
  */
 
 /**
+ * Check if job title is a Software Engineering role (for SWE channel split)
+ * @param {string} title - Job title (lowercase)
+ * @returns {boolean} True if SWE role
+ */
+function isSWERole(title) {
+  // Explicit SWE patterns - must have "software" + "engineer/engineering/developer"
+  const swePatterns = [
+    /\bsoftware engineer/i,
+    /\bsoftware engineering/i,
+    /\bsoftware developer/i,
+    /\bswe\b/i,  // Common abbreviation
+    /\bfull[- ]?stack (engineer|developer)/i,
+    /\bbackend (engineer|developer)/i,
+    /\bfrontend (engineer|developer)/i,
+    /\bweb developer/i,
+    /\bmobile (engineer|developer)/i,
+    /\bios (engineer|developer)/i,
+    /\bandroid (engineer|developer)/i,
+    /\bplatform engineer/i
+  ];
+
+  return swePatterns.some(pattern => pattern.test(title));
+}
+
+/**
  * Check if job title indicates a tech role
  * @param {string} title - Job title (lowercase)
  * @returns {Object|null} Match details or null
@@ -273,6 +298,24 @@ function getJobChannelDetails(job, CHANNEL_CONFIG) {
   }
 
   // ============================================================================
+  // PRIORITY 0.75 (CRITICAL): Software Engineering Roles (if SWE channel configured)
+  // Split from tech-internships to dedicated swe-int channel
+  // ============================================================================
+  if (CHANNEL_CONFIG.swe) {
+    if (isSWERole(title)) {
+      return {
+        channelId: CHANNEL_CONFIG.swe,
+        category: 'swe',
+        matchedKeyword: 'software engineering',
+        matchType: 'swe-specialized',
+        priority: 'CRITICAL',
+        matchedText: title,
+        source: 'title'
+      };
+    }
+  }
+
+  // ============================================================================
   // PRIORITY 1 (HIGHEST): Tech Title Detection (other tech roles)
   // ============================================================================
   const techMatch = isTechRole(title);
@@ -417,5 +460,6 @@ module.exports = {
   isTechRole,
   isNonTechRole,
   isAIRole,
-  isDataScienceRole
+  isDataScienceRole,
+  isSWERole
 };

@@ -93,7 +93,46 @@ function getJobLocationChannel(job) {
     'irvine': 'los-angeles',
     'anaheim': 'los-angeles',
     'burbank': 'los-angeles',
-    'torrance': 'los-angeles'
+    'torrance': 'los-angeles',
+
+    // Dallas Metro Area (new)
+    'dallas': 'dallas',
+    'fort worth': 'dallas',
+    'arlington': 'dallas',
+    'plano': 'dallas',
+    'irving': 'dallas',
+    'frisco': 'dallas',
+    'mckinney': 'dallas',
+    'garland': 'dallas',
+    'richardson': 'dallas',
+    'denton': 'dallas',
+
+    // San Diego Metro Area (new)
+    'san diego': 'san-diego',
+    'chula vista': 'san-diego',
+    'oceanside': 'san-diego',
+    'escondido': 'san-diego',
+    'carlsbad': 'san-diego',
+    'el cajon': 'san-diego',
+    'la jolla': 'san-diego',
+
+    // DC Metro Area (new)
+    'washington': 'dc-metro',
+    'washington dc': 'dc-metro',
+    'washington d.c.': 'dc-metro',
+    'arlington': 'dc-metro',  // VA Arlington (context-dependent, DC takes priority)
+    'alexandria': 'dc-metro',
+    'bethesda': 'dc-metro',
+    'silver spring': 'dc-metro',
+    'reston': 'dc-metro',
+    'tysons': 'dc-metro',
+    'mclean': 'dc-metro',
+    'fairfax': 'dc-metro',
+    'rockville': 'dc-metro',
+    'chantilly': 'dc-metro',
+    'manassas': 'dc-metro',
+    'herndon': 'dc-metro',
+    'sterling': 'dc-metro'
   };
 
   // City abbreviations
@@ -138,6 +177,10 @@ function getJobLocationChannel(job) {
       return LOCATION_CHANNEL_CONFIG['new-york'];
     }
     if (state === 'tx' || state === 'texas') {
+      // Check if Dallas area is mentioned, otherwise default to Austin
+      if (combined.includes('dallas') || combined.includes('fort worth') || combined.includes('plano')) {
+        return LOCATION_CHANNEL_CONFIG['dallas'];
+      }
       return LOCATION_CHANNEL_CONFIG['austin'];
     }
     if (state === 'wa' || state === 'washington') {
@@ -149,6 +192,26 @@ function getJobLocationChannel(job) {
     }
     if (state === 'il' || state === 'illinois') {
       return LOCATION_CHANNEL_CONFIG['chicago'];
+    }
+    if (state === 'dc' || state === 'district of columbia') {
+      return LOCATION_CHANNEL_CONFIG['dc-metro'];
+    }
+    if (state === 'va' || state === 'virginia') {
+      // Northern VA goes to DC metro, but only if DC-area cities mentioned
+      if (combined.includes('arlington') || combined.includes('alexandria') ||
+          combined.includes('reston') || combined.includes('tysons') ||
+          combined.includes('mclean') || combined.includes('fairfax')) {
+        return LOCATION_CHANNEL_CONFIG['dc-metro'];
+      }
+      // Other VA cities fall through to remote-usa
+    }
+    if (state === 'md' || state === 'maryland') {
+      // MD suburbs go to DC metro
+      if (combined.includes('bethesda') || combined.includes('silver spring') ||
+          combined.includes('rockville')) {
+        return LOCATION_CHANNEL_CONFIG['dc-metro'];
+      }
+      // Other MD cities fall through to remote-usa
     }
   }
 
