@@ -33,7 +33,16 @@ const LOCATION_CHANNEL_CONFIG = {
   'sunnyvale': process.env.DISCORD_SUNNYVALE_INT_CHANNEL_ID,
   'san-bruno': process.env.DISCORD_SAN_BRUNO_INT_CHANNEL_ID,
   'boston': process.env.DISCORD_BOSTON_INT_CHANNEL_ID,
-  'los-angeles': process.env.DISCORD_LA_INT_CHANNEL_ID
+  'los-angeles': process.env.DISCORD_LA_INT_CHANNEL_ID,
+  // New city channels (added 2026-01-04)
+  'dallas': process.env.DISCORD_DALLAS_INT_CHANNEL_ID,
+  'san-diego': process.env.DISCORD_SAN_DIEGO_INT_CHANNEL_ID,
+  'dc-metro': process.env.DISCORD_DC_INT_CHANNEL_ID
+};
+
+// Category-specific channel (SWE split from tech-internships)
+const CATEGORY_CHANNEL_CONFIG = {
+  'swe': process.env.DISCORD_SWE_INT_CHANNEL_ID
 };
 
 // Legacy single channel support
@@ -46,6 +55,7 @@ const LOCATION_MODE_ENABLED = Object.values(LOCATION_CHANNEL_CONFIG).some(id => 
 module.exports = {
   CHANNEL_CONFIG,
   LOCATION_CHANNEL_CONFIG,
+  CATEGORY_CHANNEL_CONFIG,
   LEGACY_CHANNEL_ID,
   MULTI_CHANNEL_MODE,
   LOCATION_MODE_ENABLED
