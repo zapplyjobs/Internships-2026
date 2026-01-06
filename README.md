@@ -191,8 +191,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🌍 Top Locations
 - **Boston, MA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
-- **Santa Clara, CA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
+- **Santa Clara, CA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 
 ---
@@ -280,13 +280,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1818 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1809 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1818 roles
-- **🏢 Companies**: 114 companies  
+- **📁 Total Positions**: 1809 roles
+- **🏢 Companies**: 117 companies  
 - **⭐ FAANG+ Opportunities**: 84 positions
 
 ### ⭐ **FAANG+** (84 positions)

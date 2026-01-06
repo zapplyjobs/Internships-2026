@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-kloveair1.icims.com/jobs/2345/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p>Join the Mobile Development team and gain hands-on experience building mobile and TV applications for K-LOVE and related brands!</p> <p>&nbsp;</p> <p>As an intern, you’ll work alongside professional developers to create new features for existing apps, develop apps for new platforms like Samsung TV and learn how to leverage AI in software development. You’ll also complete a capstone project that showcases your contributions and adds to your professional portfolio.</p> <p>&nbsp;</p> <p>Ideal for students pursuing Computer Science, Software Engineering or related fields. Apply today to grow your skills and make an impact within the Ministry!</p> <p>&nbsp;</p> <p>Essential Duties and Responsibilities: </p> <p>· Assist in developing new features for existing mobile and TV apps, such as Verse of the Day and scripture memorization tools.</p> <p>· Participate in creating apps for new platforms (e.g., Samsung TVs Tizen).</p> <p>· Collaborate with professional developers on coding, testing, and deploying applications.</p> <p>· Perform quality assurance testing and contribute to bug fixes and feature improvements.</p> <p>· Engage in a capstone project that showcases your contributions to the team.</p> <p>&nbsp;</p> <p>Required Qualifications: </p> <p>· Currently enrolled in a Computer Science, Software Engineering, or related degree program.</p> <p>· Basic knowledge of programming languages such as Java, Kotlin, Swift, or JavaScript.</p> <p>· Familiarity with mobile app development (iOS/Android) or TV app development.</p> <p>· Strong problem-solving skills and attention to detail.</p> <p>· Ability to work on-site in Franklin, TN for the duration of the internship.</p> <p>&nbsp;</p> <p>Preferred Qualifications: </p> <p>· Experience with AI tools or frameworks in software development.</p> <p>· Previous exposure to cross-platform development environments.</p> <p>· Understanding of UI/UX principles for mobile and TV applications.</p> <p>· Strong portfolio showcasing relevant projects or coursework.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-kloveair1.icims.com/jobs/2345/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2026-01-06T23:39:00.527Z"
+    }
+  },
+  "cachedAt": 1767742740528
+}
