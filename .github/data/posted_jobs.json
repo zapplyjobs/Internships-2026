@@ -1,205 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-03T21:44:18.783Z",
+  "lastUpdated": "2026-01-06T19:11:07.564Z",
   "jobs": [
-    {
-      "id": "western-union-software-engineer-intern-denver-2025-12-29-1",
-      "jobId": "western-union-software-engineer-intern-denver",
-      "company": "Western Union",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2025-12-29T02:55:45.298Z",
-      "sourceDate": "2025-12-29T01:02:23.000Z",
-      "sourceUrl": "https://westernunion.wd5.myworkdayjobs.com/en-US/WesternUnionJobs/job/External-Office-Location-Denver-CO-80237-Contractor-Location/Software-Engineer-Intern_JR0128790",
-      "discordThreadId": "1455031496585773189",
-      "instanceNumber": 1
-    },
-    {
-      "id": "state-street-state-street-enterprise-risk-management-credit-risk-analytics-internship-summer-2026-stamford-2025-12-29-1",
-      "jobId": "state-street-state-street-enterprise-risk-management-credit-risk-analytics-internship-summer-2026-stamford",
-      "company": "State Street",
-      "title": "State Street Enterprise Risk Management – Credit Risk Analytics Internship - Summer 2026",
-      "postedToDiscord": "2025-12-29T08:18:24.650Z",
-      "sourceDate": "2025-12-29T07:57:12.000Z",
-      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/State-Street-Enterprise-Risk-Management---Credit-Risk-Analytics-Internship----Summer-2026_R-782287",
-      "discordThreadId": "1455112695488450631",
-      "instanceNumber": 1
-    },
-    {
-      "id": "iridium-communications-software-engineering-intern-multiple-teams-tempe-2025-12-29-1",
-      "jobId": "iridium-communications-software-engineering-intern-multiple-teams-tempe",
-      "company": "Iridium Communications",
-      "title": "Software Engineering Intern - Multiple Teams",
-      "postedToDiscord": "2025-12-29T08:18:31.081Z",
-      "sourceDate": "2025-10-03T02:41:39.000Z",
-      "sourceUrl": "https://careers-iridium.icims.com/jobs/4758/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1455112722697031712",
-      "instanceNumber": 1
-    },
-    {
-      "id": "td-bank-2026-summer-internship-program-platforms-technology-software-engineer-mt-laurel-township-2025-12-29-1",
-      "jobId": "td-bank-2026-summer-internship-program-platforms-technology-software-engineer-mt-laurel-township",
-      "company": "TD Bank",
-      "title": "2026 Summer Internship Program - Platforms & Technology - Software Engineer",
-      "postedToDiscord": "2025-12-29T18:50:32.756Z",
-      "sourceDate": "2025-12-29T18:21:32.000Z",
-      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Software-Engineer_R_1464236-1",
-      "discordThreadId": "1455271777730302265",
-      "instanceNumber": 1
-    },
-    {
-      "id": "td-bank-2026-summer-internship-program-platforms-technology-business-systems-analyst-mt-laurel-township-2025-12-29-1",
-      "jobId": "td-bank-2026-summer-internship-program-platforms-technology-business-systems-analyst-mt-laurel-township",
-      "company": "TD Bank",
-      "title": "2026 Summer Internship Program - Platforms & Technology - Business Systems Analyst",
-      "postedToDiscord": "2025-12-29T18:50:32.776Z",
-      "sourceDate": "2025-12-29T17:36:59.000Z",
-      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Business-Systems-Analyst_R_1462499",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "td-bank-intern-platforms-technology-data-analyst-mt-laurel-township-2025-12-29-1",
-      "jobId": "td-bank-intern-platforms-technology-data-analyst-mt-laurel-township",
-      "company": "TD Bank",
-      "title": "Intern - Platforms & Technology - Data Analyst",
-      "postedToDiscord": "2025-12-29T18:50:36.357Z",
-      "sourceDate": "2025-12-29T17:37:12.000Z",
-      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Data-Analyst_R_1462567",
-      "discordThreadId": "1455271792179675177",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kla-software-intern-milpitas-2025-12-29-1",
-      "jobId": "kla-software-intern-milpitas",
-      "company": "KLA",
-      "title": "Software Intern",
-      "postedToDiscord": "2025-12-29T23:37:38.429Z",
-      "sourceDate": "2025-11-01T10:06:34.000Z",
-      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Intern_2532339",
-      "discordThreadId": "1455344026122190869",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asm-international-software-engineering-intern-summer-2026-mt-laurel-township-2025-12-30-1",
-      "jobId": "asm-international-software-engineering-intern-summer-2026-mt-laurel-township",
-      "company": "ASM International",
-      "title": "Software Engineering Intern - Summer 2026",
-      "postedToDiscord": "2025-12-30T00:42:45.415Z",
-      "sourceDate": "2025-12-29T23:52:02.000Z",
-      "sourceUrl": "https://www.asm.com/open-vacancies/?gh_jid=4742577101",
-      "discordThreadId": "1455360412450295809",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asm-international-software-engineering-intern-summer-2026-phoenix-2025-12-30-1",
-      "jobId": "asm-international-software-engineering-intern-summer-2026-phoenix",
-      "company": "ASM International",
-      "title": "Software Engineering Intern - Summer 2026",
-      "postedToDiscord": "2025-12-30T00:42:45.436Z",
-      "sourceDate": "2025-12-29T23:51:59.000Z",
-      "sourceUrl": "https://www.asm.com/open-vacancies/?gh_jid=4742602101",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "nutanix-software-engineering-intern-undergrad-only-distributed-systems-san-jose-2025-12-30-1",
-      "jobId": "nutanix-software-engineering-intern-undergrad-only-distributed-systems-san-jose",
-      "company": "Nutanix",
-      "title": "Software Engineering Intern - Undergrad ONLY - Distributed systems",
-      "postedToDiscord": "2025-12-30T00:42:49.022Z",
-      "sourceDate": "2025-12-29T23:22:39.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/oCZfyfw8?nl=1&nl=1&fr=false",
-      "discordThreadId": "1455360428912672838",
-      "instanceNumber": 1
-    },
-    {
-      "id": "antora-energy-heat-to-power-process-validation-intern-thermophotovoltaics-high-temperature-systems-sunnyvale-2025-12-30-1",
-      "jobId": "antora-energy-heat-to-power-process-validation-intern-thermophotovoltaics-high-temperature-systems-sunnyvale",
-      "company": "Antora Energy",
-      "title": "Heat to Power Process Validation Intern - Thermophotovoltaics/High-Temperature Systems",
-      "postedToDiscord": "2025-12-30T00:42:52.451Z",
-      "sourceDate": "2025-12-23T23:28:07.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/antora/jobs/5743198004",
-      "discordThreadId": "1455360443962101855",
-      "instanceNumber": 1
-    },
-    {
-      "id": "td-bank-2026-summer-internship-program-platforms-technology-data-engineer-mt-laurel-township-2025-12-30-1",
-      "jobId": "td-bank-2026-summer-internship-program-platforms-technology-data-engineer-mt-laurel-township",
-      "company": "TD Bank",
-      "title": "2026 Summer Internship Program - Platforms & Technology - Data Engineer",
-      "postedToDiscord": "2025-12-30T00:42:58.972Z",
-      "sourceDate": "2025-12-29T23:29:37.000Z",
-      "sourceUrl": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Summer-Internship-Program---Platforms---Technology---Data-Engineer_R_1464257",
-      "discordThreadId": "1455360471010902147",
-      "instanceNumber": 1
-    },
-    {
-      "id": "trane-business-systems-analyst-intern-winona-2025-12-30-1",
-      "jobId": "trane-business-systems-analyst-intern-winona",
-      "company": "Trane Technologies",
-      "title": "Business Systems Analyst Intern",
-      "postedToDiscord": "2025-12-30T00:43:05.477Z",
-      "sourceDate": "2025-12-29T23:22:58.000Z",
-      "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/2507347",
-      "discordThreadId": "1455360498639044710",
-      "instanceNumber": 1
-    },
-    {
-      "id": "weston-sampson-climate-resiliency-co-op-spring-2026-boston-2025-12-30-1",
-      "jobId": "weston-sampson-climate-resiliency-co-op-spring-2026-boston",
-      "company": "Weston & Sampson",
-      "title": "Climate Resiliency Co-Op - Spring 2026",
-      "postedToDiscord": "2025-12-30T00:43:11.959Z",
-      "sourceDate": "2025-09-11T09:15:43.000Z",
-      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3304/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1455360525709082685",
-      "instanceNumber": 1
-    },
-    {
-      "id": "state-street-state-street-investment-management-intern-it-architecture-database-engineering-quincy-2025-12-30-1",
-      "jobId": "state-street-state-street-investment-management-intern-it-architecture-database-engineering-quincy",
-      "company": "State Street",
-      "title": "State Street Investment Management Intern - IT Architecture Database Engineering",
-      "postedToDiscord": "2025-12-30T08:18:07.234Z",
-      "sourceDate": "2025-12-30T07:52:36.000Z",
-      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/State-Street-Investment-Management---IT-Architecture-Database-Engineering---Summer-Internship-2026_R-782326",
-      "discordThreadId": "1455475009647677482",
-      "instanceNumber": 1
-    },
-    {
-      "id": "state-street-state-street-investment-management-summer-internship-2026-data-scientist-quincy-2025-12-30-1",
-      "jobId": "state-street-state-street-investment-management-summer-internship-2026-data-scientist-quincy",
-      "company": "State Street",
-      "title": "State Street Investment Management – Summer Internship 2026 - Data Scientist",
-      "postedToDiscord": "2025-12-30T08:18:13.840Z",
-      "sourceDate": "2025-12-30T07:52:38.000Z",
-      "sourceUrl": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/State-Street-Investment-Management---Data-Scientist----Summer-Internship-2026_R-782327",
-      "discordThreadId": "1455475037829070848",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ryan-specialty-technology-development-intern-chicago-2025-12-30-1",
-      "jobId": "ryan-specialty-technology-development-intern-chicago",
-      "company": "Ryan Specialty",
-      "title": "Technology Development Intern",
-      "postedToDiscord": "2025-12-30T08:49:43.907Z",
-      "sourceDate": "2025-12-30T07:39:14.000Z",
-      "sourceUrl": "https://ryansg.wd5.myworkdayjobs.com/en-US/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Technology-Development-Intern_JR25-3790-1",
-      "discordThreadId": "1455482965504295056",
-      "instanceNumber": 1
-    },
-    {
-      "id": "altera-ai-ml-intern-in-design-automation-san-jose-2025-12-30-1",
-      "jobId": "altera-ai-ml-intern-in-design-automation-san-jose",
-      "company": "Altera Corporation",
-      "title": "AI/ML Intern in Design Automation",
-      "postedToDiscord": "2025-12-30T17:17:20.634Z",
-      "sourceDate": "2025-12-30T17:01:35.000Z",
-      "sourceUrl": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
-      "discordThreadId": "1455610710683025492",
-      "instanceNumber": 1
-    },
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
       "jobId": "kla-application-engineer-intern-milpitas",
@@ -1398,16 +1200,114 @@
       "sourceUrl": "https://job-boards.greenhouse.io/cellsignalingtechnology79/jobs/4626556006",
       "discordThreadId": "1457127446980595743",
       "instanceNumber": 1
+    },
+    {
+      "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
+      "jobId": "autostore-software-engineering-intern-summer-denver",
+      "company": "Autostore",
+      "title": "Software Engineering Intern - Summer",
+      "postedToDiscord": "2026-01-06T19:10:26.744Z",
+      "sourceDate": "2026-01-06T18:48:40.000Z",
+      "sourceUrl": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Denver-USA/Software-Engineering-Intern_JR102345",
+      "discordThreadId": "1458175888083652813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "grassroots-analytics-data-intern-washington-2026-01-06-1",
+      "jobId": "grassroots-analytics-data-intern-washington",
+      "company": "Grassroots Analytics",
+      "title": "Data Intern",
+      "postedToDiscord": "2026-01-06T19:10:30.244Z",
+      "sourceDate": "2026-01-06T16:46:31.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4629459006",
+      "discordThreadId": "1458175902994137231",
+      "instanceNumber": 1
+    },
+    {
+      "id": "american-electric-power-data-scientist-intern-columbus-2026-01-06-1",
+      "jobId": "american-electric-power-data-scientist-intern-columbus",
+      "company": "American Electric Power",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-06T19:10:36.875Z",
+      "sourceDate": "2026-01-06T17:05:46.000Z",
+      "sourceUrl": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Data-Scientist-Intern_R12909",
+      "discordThreadId": "1458175930173227069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-1-co-op-united-states-boston-2026-01-06-1",
+      "jobId": "cisco-software-engineer-1-co-op-united-states-boston",
+      "company": "Cisco",
+      "title": "Software Engineer 1 – Co-op - United States",
+      "postedToDiscord": "2026-01-06T19:10:40.349Z",
+      "sourceDate": "2026-01-06T16:18:22.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2004856",
+      "discordThreadId": "1458175945361068251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veeam-software-ai-intern-remote-in-usa-2026-01-06-1",
+      "jobId": "veeam-software-ai-intern-remote-in-usa",
+      "company": "Veeam Software",
+      "title": "AI Intern",
+      "postedToDiscord": "2026-01-06T19:10:43.983Z",
+      "sourceDate": "2026-01-06T16:17:11.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4736372101",
+      "discordThreadId": "1458175960112304334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ankura-consulting-university-co-op-construction-disputes-advisory-philadelphia-2026-01-06-1",
+      "jobId": "ankura-consulting-university-co-op-construction-disputes-advisory-philadelphia",
+      "company": "Ankura Consulting Group",
+      "title": "University Co-Op - Construction - Disputes & Advisory",
+      "postedToDiscord": "2026-01-06T19:10:50.557Z",
+      "sourceDate": "2026-01-06T16:50:59.000Z",
+      "sourceUrl": "https://ankura.wd5.myworkdayjobs.com/ankura/job/Philadelphia-PA/University-Co-Op--Construction--Disputes---Advisory_R104490",
+      "discordThreadId": "1458175987778060516",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hntb-technology-intern-boston-2026-01-06-1",
+      "jobId": "hntb-technology-intern-boston",
+      "company": "HNTB",
+      "title": "Technology Intern",
+      "postedToDiscord": "2026-01-06T19:10:54.240Z",
+      "sourceDate": "2026-01-06T16:32:13.000Z",
+      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Chicago-IL/Technology-Intern---Summer-2026_R-28624-2",
+      "discordThreadId": "1458176002965377096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "globus-medical-software-engineer-intern-co-op-salem-2026-01-06-1",
+      "jobId": "globus-medical-software-engineer-intern-co-op-salem",
+      "company": "Globus Medical",
+      "title": "Software Engineer Intern/Co-op",
+      "postedToDiscord": "2026-01-06T19:11:01.038Z",
+      "sourceDate": "2026-01-06T16:45:17.000Z",
+      "sourceUrl": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Co-Op_JR104162",
+      "discordThreadId": "1458176030886854759",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veolia-procurement-intern-milwaukee-2026-01-06-1",
+      "jobId": "veolia-procurement-intern-milwaukee",
+      "company": "Veolia",
+      "title": "Procurement Intern",
+      "postedToDiscord": "2026-01-06T19:11:07.564Z",
+      "sourceDate": "2026-01-06T16:21:53.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238915",
+      "discordThreadId": "1458176059387150448",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 127,
+    "totalJobs": 118,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-03T21:44:18.783Z",
-      "archived": 4,
-      "monthsAffected": 1
+      "date": "2026-01-06T19:11:07.564Z",
+      "archived": 0
     }
   }
 }
