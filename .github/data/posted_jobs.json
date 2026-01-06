@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T19:29:11.817Z",
+  "lastUpdated": "2026-01-06T19:36:57.585Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1497,14 +1497,113 @@
       "sourceUrl": "https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Software-Engineer-Intern_R7508-1",
       "discordThreadId": "1458180607631687903",
       "instanceNumber": 1
+    },
+    {
+      "id": "wurl-full-stack-software-engineer-intern-remote-in-usa-2026-01-06-1",
+      "jobId": "wurl-full-stack-software-engineer-intern-remote-in-usa",
+      "company": "Wurl",
+      "title": "Full Stack Software Engineer Intern",
+      "postedToDiscord": "2026-01-06T19:36:25.898Z",
+      "sourceDate": "2026-01-05T23:39:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/wurljobs/jobs/4629515006",
+      "discordThreadId": "1458182427338997853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ccc-intelligent-software-engineer-intern-workflow-chicago-2026-01-06-1",
+      "jobId": "ccc-intelligent-software-engineer-intern-workflow-chicago",
+      "company": " CCC Intelligent Solutions",
+      "title": "Software Engineer Intern - Workflow",
+      "postedToDiscord": "2026-01-06T19:36:29.835Z",
+      "sourceDate": "2026-01-05T23:37:23.000Z",
+      "sourceUrl": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Summer-2026-Software-Engineer-Intern---Workflow_0014371",
+      "discordThreadId": "1458182442463793427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "otis-worldwide-technical-product-data-management-intern-florence-2026-01-06-1",
+      "jobId": "otis-worldwide-technical-product-data-management-intern-florence",
+      "company": "Otis Worldwide",
+      "title": "Technical Product Data Management Intern",
+      "postedToDiscord": "2026-01-06T19:36:33.357Z",
+      "sourceDate": "2026-01-05T23:35:57.000Z",
+      "sourceUrl": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway/job/OT541-TFP---Florence-SC-1500-Otis-Way-Florence-SC-29501-USA/Technical-Product-Data-Management-Intern_20144170",
+      "discordThreadId": "1458182459022905374",
+      "instanceNumber": 1
+    },
+    {
+      "id": "howard-hughes-medical-institute-hhmi-intern-web-development-hybrid-schedule-bethesda-2026-01-06-1",
+      "jobId": "howard-hughes-medical-institute-hhmi-intern-web-development-hybrid-schedule-bethesda",
+      "company": "Howard Hughes Medical Institute (HHMI)",
+      "title": "Intern – Web Development - Hybrid Schedule",
+      "postedToDiscord": "2026-01-06T19:36:36.774Z",
+      "sourceDate": "2026-01-05T23:35:23.000Z",
+      "sourceUrl": "https://hhmi.wd1.myworkdayjobs.com/external/job/Headquarters/Intern--Web-Development--Hybrid-Schedule-_R-4029-1",
+      "discordThreadId": "1458182473790783681",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-2026-phd-software-engineer-intern-programming-systems-group-united-states-seattle-2026-01-06-1",
+      "jobId": "uber-2026-phd-software-engineer-intern-programming-systems-group-united-states-seattle",
+      "company": "Uber",
+      "title": "2026 PhD Software Engineer Intern - Programming Systems Group - United States",
+      "postedToDiscord": "2026-01-06T19:36:40.301Z",
+      "sourceDate": "2026-01-05T23:32:16.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/152647/",
+      "discordThreadId": "1458182488085237981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lucid-motors-intern-test-engineer-model-based-design-controls-software-engineer-newark-2026-01-06-1",
+      "jobId": "lucid-motors-intern-test-engineer-model-based-design-controls-software-engineer-newark",
+      "company": "Lucid Motors",
+      "title": "Intern Test Engineer - Model Based Design - Controls Software Engineer",
+      "postedToDiscord": "2026-01-06T19:36:43.815Z",
+      "sourceDate": "2026-01-05T23:29:30.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953704007",
+      "discordThreadId": "1458182502949851208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ccc-intelligent-data-science-engineer-internship-summer-2026-chicago-2026-01-06-1",
+      "jobId": "ccc-intelligent-data-science-engineer-internship-summer-2026-chicago",
+      "company": " CCC Intelligent Solutions",
+      "title": "Data Science Engineer Internship - Summer 2026",
+      "postedToDiscord": "2026-01-06T19:36:50.657Z",
+      "sourceDate": "2026-01-05T23:37:16.000Z",
+      "sourceUrl": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship---Summer-2026_0014368",
+      "discordThreadId": "1458182530854289558",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-ai-ml-intern-for-power-analysis-santa-clara-2026-01-06-1",
+      "jobId": "keysight-ai-ml-intern-for-power-analysis-santa-clara",
+      "company": "Keysight Technologies",
+      "title": "AI/ML Intern for Power Analysis",
+      "postedToDiscord": "2026-01-06T19:36:54.064Z",
+      "sourceDate": "2026-01-05T23:34:17.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/51124?lang=en-us&icims=1",
+      "discordThreadId": "1458182546272555275",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-allen-institute-for-ai-software-engineering-intern-ai-for-the-planet-seattle-2026-01-06-1",
+      "jobId": "the-allen-institute-for-ai-software-engineering-intern-ai-for-the-planet-seattle",
+      "company": "The Allen Institute for AI",
+      "title": "Software Engineering Intern - AI for the Planet",
+      "postedToDiscord": "2026-01-06T19:36:57.585Z",
+      "sourceDate": "2026-01-05T23:30:13.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7324837",
+      "discordThreadId": "1458182560256360634",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 136,
+    "totalJobs": 145,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T19:29:11.817Z",
+      "date": "2026-01-06T19:36:57.585Z",
       "archived": 0
     }
   }
