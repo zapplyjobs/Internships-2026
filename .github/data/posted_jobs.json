@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T20:04:15.441Z",
+  "lastUpdated": "2026-01-06T20:17:35.140Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1893,14 +1893,36 @@
       "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2026_317161",
       "discordThreadId": "1458189430513860608",
       "instanceNumber": 1
+    },
+    {
+      "id": "dell-dell-isg-software-engineering-intern-round-rock-2026-01-06-1",
+      "jobId": "dell-dell-isg-software-engineering-intern-round-rock",
+      "company": "Dell Technologies",
+      "title": "Dell ISG Software Engineering Intern",
+      "postedToDiscord": "2026-01-06T20:17:28.692Z",
+      "sourceDate": "2025-08-08T03:50:57.000Z",
+      "sourceUrl": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Dell-ISG-Software-Engineering-Intern_R275421-1",
+      "discordThreadId": "1458192757188333751",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pnc-financial-services-technology-summer-intern-cleveland-2026-01-06-1",
+      "jobId": "pnc-financial-services-technology-summer-intern-cleveland",
+      "company": "PNC Financial Services",
+      "title": "Technology Summer Intern",
+      "postedToDiscord": "2026-01-06T20:17:35.140Z",
+      "sourceDate": "2025-07-29T23:43:40.000Z",
+      "sourceUrl": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Summer-Intern_R196693",
+      "discordThreadId": "1458192784690511873",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 172,
+    "totalJobs": 174,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T20:04:15.441Z",
+      "date": "2026-01-06T20:17:35.140Z",
       "archived": 0
     }
   }
