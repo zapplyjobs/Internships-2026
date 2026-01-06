@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T19:45:48.314Z",
+  "lastUpdated": "2026-01-06T19:54:36.548Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1695,14 +1695,113 @@
       "sourceUrl": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Intelligence-Intern_25968",
       "discordThreadId": "1458184786349916232",
       "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-women-in-science-and-engineering-intern-wise-jacksonville-2026-01-06-1",
+      "jobId": "medtronic-women-in-science-and-engineering-intern-wise-jacksonville",
+      "company": "Medtronic",
+      "title": "Women in Science and Engineering Intern - Wise",
+      "postedToDiscord": "2026-01-06T19:54:05.984Z",
+      "sourceDate": "2026-01-05T16:36:56.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Jacksonville-Florida-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Intern_R56093",
+      "discordThreadId": "1458186874387562651",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-women-in-science-and-engineering-intern-wise-north-haven-2026-01-06-1",
+      "jobId": "medtronic-women-in-science-and-engineering-intern-wise-north-haven",
+      "company": "Medtronic",
+      "title": "Women in Science and Engineering Intern - WISE",
+      "postedToDiscord": "2026-01-06T19:54:05.990Z",
+      "sourceDate": "2026-01-05T16:36:54.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/North-Haven-Connecticut-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56112",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-summer-2026-women-in-science-and-engineering-internship-wise-boston-2026-01-06-1",
+      "jobId": "medtronic-summer-2026-women-in-science-and-engineering-internship-wise-boston",
+      "company": "Medtronic",
+      "title": "Summer 2026 Women in Science and Engineering – Internship - Wise",
+      "postedToDiscord": "2026-01-06T19:54:09.370Z",
+      "sourceDate": "2026-01-05T16:36:55.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Boston-Massachusetts-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56114",
+      "discordThreadId": "1458186888543473847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "velera-delinquency-management-reporting-and-data-analysis-intern-remote-in-usa-2026-01-06-1",
+      "jobId": "velera-delinquency-management-reporting-and-data-analysis-intern-remote-in-usa",
+      "company": "Velera",
+      "title": "Delinquency Management Reporting and Data Analysis Intern",
+      "postedToDiscord": "2026-01-06T19:54:12.688Z",
+      "sourceDate": "2026-01-05T16:19:46.000Z",
+      "sourceUrl": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Delinquency-Management-Reporting-and-Data-Analysis-Intern_8895",
+      "discordThreadId": "1458186902678016024",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-intern-life-cycle-engineer-concord-2026-01-06-1",
+      "jobId": "rtx-intern-life-cycle-engineer-concord",
+      "company": "RTX",
+      "title": "Intern - Life Cycle Engineer",
+      "postedToDiscord": "2026-01-06T19:54:16.152Z",
+      "sourceDate": "2026-01-05T16:17:09.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Summer-Intern---Life-Cycle-Engineer---Onsite_01813196",
+      "discordThreadId": "1458186917068673165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bandwidth-go-to-market-analytics-intern-raleigh-2026-01-06-1",
+      "jobId": "bandwidth-go-to-market-analytics-intern-raleigh",
+      "company": "Bandwidth",
+      "title": "Go to Market Analytics Intern",
+      "postedToDiscord": "2026-01-06T19:54:22.853Z",
+      "sourceDate": "2026-01-05T16:32:33.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/bandwidth/jobs/7485296",
+      "discordThreadId": "1458186944205819907",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gilead-sciences-intern-clinical-data-science-biostatistics-oncology-san-mateo-2026-01-06-1",
+      "jobId": "gilead-sciences-intern-clinical-data-science-biostatistics-oncology-san-mateo",
+      "company": "Gilead Sciences",
+      "title": "Intern – Clinical Data Science - Biostatistics - Oncology",
+      "postedToDiscord": "2026-01-06T19:54:26.548Z",
+      "sourceDate": "2026-01-05T12:19:41.000Z",
+      "sourceUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Clinical-Development---Biostatistics--Oncology_R0048760",
+      "discordThreadId": "1458186959838118234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crowe-d365-erp-technical-intern-public-sector-chicago-2026-01-06-1",
+      "jobId": "crowe-d365-erp-technical-intern-public-sector-chicago",
+      "company": "Crowe",
+      "title": "D365 ERP Technical Intern - Public Sector",
+      "postedToDiscord": "2026-01-06T19:54:30.251Z",
+      "sourceDate": "2025-12-15T23:44:03.000Z",
+      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/D365-ERP-Technical-Intern---Public-Sector_R-48972",
+      "discordThreadId": "1458186975235543091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gilead-sciences-intern-it-san-mateo-2026-01-06-1",
+      "jobId": "gilead-sciences-intern-it-san-mateo",
+      "company": "Gilead Sciences",
+      "title": "Intern – IT",
+      "postedToDiscord": "2026-01-06T19:54:36.548Z",
+      "sourceDate": "2026-01-05T12:20:03.000Z",
+      "sourceUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT---Employee-Experience_R0048423",
+      "discordThreadId": "1458187003102494958",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 154,
+    "totalJobs": 163,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T19:45:48.314Z",
+      "date": "2026-01-06T19:54:36.548Z",
       "archived": 0
     }
   }
