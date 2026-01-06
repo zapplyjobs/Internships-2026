@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-4-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-2-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 4+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 4+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 5+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,10 +75,10 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 4 hot data-focused jobs
-- **🏢 Companies**: 4 companies
+- 🔥 **Current Positions:** 5 hot data-focused jobs
+- **🏢 Companies**: 5 companies
 - **⭐ FAANG+ Jobs**: 2 premium opportunities
-- 📅 **Last Updated:** January 4, 2026
+- 📅 **Last Updated:** January 6, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 
@@ -127,13 +127,13 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 1d |
+| Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 4d |
 
 #### 🟦 **Microsoft** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 2d |
+| Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 5d |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -141,7 +141,15 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 1d |
+| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 4d |
+
+### 💻 **Enterprise Software** (1 position)
+
+#### 🌐 **Cisco** (1 position)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 1h |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
@@ -149,7 +157,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 2d |
+| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 5d |
 
 
 
@@ -164,8 +172,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 #### ⭐ FAANG+ (2 companies)
 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (1 position) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
-#### ☁️ Enterprise & Cloud (1 company)
-🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1 position)
+#### ☁️ Enterprise & Cloud (2 companies)
+🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1)
 
 
 ---
@@ -174,23 +182,24 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 4 | 100% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 0 | 0% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 4 | 80% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 1 | 20% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
 
 ### 🌍 Top Locations
+- **Boston, MA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
-- **Cambridge, MA**: 1 opportunity
 - **Santa Clara, CA**: 1 opportunity
+- **Cambridge, MA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 
 ---
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 4+ verified internships and new grad roles from 4 top companies.
+✅ **100% Real Opportunities:** 5+ verified internships and new grad roles from 5 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -271,34 +280,34 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1895 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1822 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1895 roles
-- **🏢 Companies**: 80 companies  
-- **⭐ FAANG+ Opportunities**: 85 positions
+- **📁 Total Positions**: 1822 roles
+- **🏢 Companies**: 114 companies  
+- **⭐ FAANG+ Opportunities**: 84 positions
 
-### ⭐ **FAANG+** (85 positions)
+### ⭐ **FAANG+** (84 positions)
 
 #### 📦 **Amazon** (10 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 1w |
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 2w |
+| Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 3w |
+| Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 3w |
 | 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 1mo |
 | Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127851/2026-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | 1mo |
 | 2026 Applied Science Internship - Computer Vision - United States | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127856/2026-applied-science-internship-computer-vision-united-states-phd-student-science-recruiting) | 1mo |
 | Applied Science Intern - PhD Student Science Recruiting | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127852/2026-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting) | 1mo |
-| Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 3w |
-| Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 3w |
 | Software Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us) | 1mo |
 | Security Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3059793/security-engineer-internship-2026-us) | 1mo |
 | Systems Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1mo |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (72 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (71 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -308,7 +317,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - LLM Performance Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 2w |
 | Research Intern - Post-Training | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 2w |
 | Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 2w |
-| Research Intern - Bio Large Language Models | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 3w |
 | Research Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 3w |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 3w |
 | Research Intern - MSR Inclusive Futures Team | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 3w |
@@ -390,17 +398,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Software Engineering Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026) | 1mo |
 
-### 🏢 **Top Tech** (23 positions)
+### 🏢 **Top Tech** (22 positions)
 
 <details>
-<summary><h4>🎮 <strong>NVIDIA</strong> (17 positions)</h4></summary>
+<summary><h4>🎮 <strong>NVIDIA</strong> (16 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 1w |
-| AI Factory Cooling R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 1w |
+| AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 2w |
+| AI Factory Cooling R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 2w |
 | Performance Engineer | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineering-Intern--Gaming---Winter-2026_JR2009267) | 2w |
-| Performance Engineering Intern - Deep Learning and HPC - Winter 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Winter-2026_JR2008287) | 3w |
 | AI Compiler Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 3w |
 | Autonomous Vehicles and Robotics Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | 1mo |
 | Deep Learning Computer Architecture Intern | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 1mo |
@@ -463,9 +470,9 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Software Engineering Intern | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056) | 3w |
 | HPE Labs - Machine Learning Research Associate | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Machine-Learning-Research-Associate--Intern-_1197755) | 1mo |
 | Research Associate Intern - Networking and Distributed Systems Lab | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Research-Associate-Intern--Networking-and-Distributed-Systems-Lab-_1192357) | 1mo |
-| Software Engineering Intern | Sunnyvale, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1198056) | 3w |
 | AI/ML Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | 1mo |
 | Hpe Labs – Intern - Emerging Accelerators Research Associate | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Emerging-Accelerators-Research-Associate--Intern-_1192296) | 1mo |
 | HPE Labs - AI Research Lab Research Associate (Intern) | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 1mo |
@@ -473,7 +480,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Tech Consultant intern | Alpharetta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054) | 1mo |
 | AI Developer Intern - Masters | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085) | 1mo |
 | AI Developer Intern - Undergrad | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 1mo |
-| AI Customer Engagement Analyst Intern | Andover, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 4w |
+| AI Customer Engagement Analyst Intern | Andover, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 1mo |
 | Cloud Engineer Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) | 1mo |
 | Firmware Engineer Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern) | 1mo |
 | Software Engineering Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961) | 1mo |
@@ -522,10 +529,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1mo |
 | Software Engineering Intern - Digital Manufacturing Automation | Orange, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/26981?lang=en-us&icims=1) | 1mo |
 
-### 🛡️ **Defense & Aerospace** (21 positions)
+### 🛡️ **Defense & Aerospace** (20 positions)
 
 <details>
-<summary><h4>🚗 <strong>Waymo</strong> (21 positions)</h4></summary>
+<summary><h4>🚗 <strong>Waymo</strong> (20 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -547,7 +554,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineering, Commercialization | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1mo |
 | 2026 Summer Intern - PhD - Perception Semantics | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7258380) | 1mo |
 | Intern - PhD - Machine Learning Engineer - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7252833) | 1mo |
-| 2026 Summer Intern - PhD - Data Science | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7249548) | 1mo |
 | Machine Learning Infra Foundations | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 1mo |
 | 2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) | 1mo |
 
@@ -565,8 +571,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – Thermal Modeling & Simulation | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 1w |
 | Intern Computer Engineer - AI/LLM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 1w |
+| Intern – Thermal Modeling & Simulation | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Thermal-Modeling---Simulation_JR87693) | 1w |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 2w |
 | Intern – System Software Engineering | Richardson, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013) | 1mo |
 | Intern Machine Learning Engineer | Richardson, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR85472) | 1mo |
@@ -579,7 +585,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| IS Salesforce.com Agile Delivery Intern-Summer 2026 | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449) | 4w |
+| IS Salesforce.com Agile Delivery Intern-Summer 2026 | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Salesforcecom-Agile-Delivery-Intern--Summer-2026_JR00015449) | 1mo |
 | Software Engineering Intern | Morrisville, NC | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Software-Engineering-Intern--Summer-2026_JR00015149) | 1mo |
 | Software Engineering Intern- Summer 2026 | Bartlesville, OK | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | 1mo |
 | AI Vision Engineer Intern- AI Robotics | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/San-Jose-California-United-States-of-America/AI-Vision-Engineer-Intern--AI-Robotics--Spring-2026_JR00014185) | 1mo |
@@ -648,7 +654,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 4 current opportunities from 4 top companies.**
+**🎯 5 current opportunities from 5 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
@@ -656,6 +662,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ---
 
-**Last Updated:** January 4, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** January 6, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
