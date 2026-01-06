@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T19:11:07.564Z",
+  "lastUpdated": "2026-01-06T19:18:00.839Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1299,14 +1299,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238915",
       "discordThreadId": "1458176059387150448",
       "instanceNumber": 1
+    },
+    {
+      "id": "nokia-ai-ml-architect-intern-naperville-2026-01-06-1",
+      "jobId": "nokia-ai-ml-architect-intern-naperville",
+      "company": "Nokia",
+      "title": "AI/ML Architect Intern",
+      "postedToDiscord": "2026-01-06T19:17:26.385Z",
+      "sourceDate": "2026-01-06T16:15:58.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29761",
+      "discordThreadId": "1458177647367553237",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-software-developer-intern-naperville-2026-01-06-1",
+      "jobId": "nokia-software-developer-intern-naperville",
+      "company": "Nokia",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2026-01-06T19:17:29.888Z",
+      "sourceDate": "2026-01-06T16:15:50.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29405",
+      "discordThreadId": "1458177663045730438",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avery-dennison-rfid-applications-engineer-co-op-summer-2026-miamisburg-2026-01-06-1",
+      "jobId": "avery-dennison-rfid-applications-engineer-co-op-summer-2026-miamisburg",
+      "company": "Avery Dennison",
+      "title": "RFID Applications Engineer Co-op - Summer 2026",
+      "postedToDiscord": "2026-01-06T19:17:33.706Z",
+      "sourceDate": "2026-01-06T16:12:51.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AveryDennison/744000101862805",
+      "discordThreadId": "1458177677923061905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kaiser-permanente-data-analytics-intern-oakland-2026-01-06-1",
+      "jobId": "kaiser-permanente-data-analytics-intern-oakland",
+      "company": "Kaiser Permanente",
+      "title": "Data Analytics Intern",
+      "postedToDiscord": "2026-01-06T19:17:37.166Z",
+      "sourceDate": "2026-01-06T03:46:52.000Z",
+      "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1399313",
+      "discordThreadId": "1458177693773463653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "intapp-associate-software-engineer-intern-charlotte-2026-01-06-1",
+      "jobId": "intapp-associate-software-engineer-intern-charlotte",
+      "company": "Intapp",
+      "title": "Associate Software Engineer Intern",
+      "postedToDiscord": "2026-01-06T19:17:40.741Z",
+      "sourceDate": "2026-01-06T02:30:28.000Z",
+      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/US-NC-Charlotte/Associate-Software-Engineer-Intern_R2024641-1",
+      "discordThreadId": "1458177708214456515",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nokia-software-developer-ai-ml-intern-co-op-naperville-2026-01-06-1",
+      "jobId": "nokia-software-developer-ai-ml-intern-co-op-naperville",
+      "company": "Nokia",
+      "title": "Software Developer AI/ML Intern/Co-op",
+      "postedToDiscord": "2026-01-06T19:17:47.249Z",
+      "sourceDate": "2026-01-06T16:15:54.000Z",
+      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29741",
+      "discordThreadId": "1458177736253378751",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-cmg-dda-data-science-san-bruno-2026-01-06-1",
+      "jobId": "genentech-intern-cmg-dda-data-science-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - CMG DDA - Data Science",
+      "postedToDiscord": "2026-01-06T19:17:50.703Z",
+      "sourceDate": "2026-01-06T16:14:27.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CMG-DDA---Data-Science_202601-100141-1",
+      "discordThreadId": "1458177750312554561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lucid-motors-intern-machine-learning-engineer-summer-2026-newark-2026-01-06-1",
+      "jobId": "lucid-motors-intern-machine-learning-engineer-summer-2026-newark",
+      "company": "Lucid Motors",
+      "title": "Intern – Machine Learning Engineer - Summer 2026",
+      "postedToDiscord": "2026-01-06T19:17:54.072Z",
+      "sourceDate": "2026-01-06T02:57:24.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4964060007",
+      "discordThreadId": "1458177764933763317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmi-systems-analyst-intern-usps-summer-2026-washington-2026-01-06-1",
+      "jobId": "lmi-systems-analyst-intern-usps-summer-2026-washington",
+      "company": "LMI ",
+      "title": "Systems Analyst Intern - Usps - Summer 2026",
+      "postedToDiscord": "2026-01-06T19:18:00.839Z",
+      "sourceDate": "2026-01-06T07:10:30.000Z",
+      "sourceUrl": "https://careers-lmi.icims.com/jobs/13492/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458177792847122536",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 118,
+    "totalJobs": 127,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T19:11:07.564Z",
+      "date": "2026-01-06T19:18:00.839Z",
       "archived": 0
     }
   }
