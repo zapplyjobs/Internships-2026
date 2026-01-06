@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T19:36:57.585Z",
+  "lastUpdated": "2026-01-06T19:45:48.314Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1596,14 +1596,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7324837",
       "discordThreadId": "1458182560256360634",
       "instanceNumber": 1
+    },
+    {
+      "id": "lucid-motors-intern-api-cloud-microservices-engineer-summer-2026-newark-2026-01-06-1",
+      "jobId": "lucid-motors-intern-api-cloud-microservices-engineer-summer-2026-newark",
+      "company": "Lucid Motors",
+      "title": "Intern – API - Cloud Microservices Engineer - Summer 2026",
+      "postedToDiscord": "2026-01-06T19:45:13.705Z",
+      "sourceDate": "2026-01-05T23:29:30.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4953731007",
+      "discordThreadId": "1458184641466077347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-software-developer-intern-nss-beavercreek-2026-01-06-1",
+      "jobId": "kbr-software-developer-intern-nss-beavercreek",
+      "company": "KBR",
+      "title": "Software Developer Intern - Nss",
+      "postedToDiscord": "2026-01-06T19:45:17.151Z",
+      "sourceDate": "2026-01-05T16:57:45.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS----Software-Developer-Intern_R2117027",
+      "discordThreadId": "1458184656288616583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ithaka-intern-software-engineer-remote-in-usa-2026-01-06-1",
+      "jobId": "ithaka-intern-software-engineer-remote-in-usa",
+      "company": "Ithaka",
+      "title": "Intern Software Engineer",
+      "postedToDiscord": "2026-01-06T19:45:20.860Z",
+      "sourceDate": "2026-01-05T16:38:43.000Z",
+      "sourceUrl": "https://www.ithaka.org/job/4645220005?gh_jid=4645220005",
+      "discordThreadId": "1458184671077859478",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medtronic-summer-2026-women-in-science-and-engineering-internship-wise-memphis-2026-01-06-1",
+      "jobId": "medtronic-summer-2026-women-in-science-and-engineering-internship-wise-memphis",
+      "company": "Medtronic",
+      "title": "Summer 2026 Women in Science and Engineering – Internship - Wise",
+      "postedToDiscord": "2026-01-06T19:45:24.496Z",
+      "sourceDate": "2026-01-05T16:36:58.000Z",
+      "sourceUrl": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Summer-2026-Women-in-Science-and-Engineering--WISE--Internship_R56110",
+      "discordThreadId": "1458184686416171173",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-audit-assurance-intern-data-science-boston-2026-01-06-1",
+      "jobId": "deloitte-audit-assurance-intern-data-science-boston",
+      "company": "Deloitte",
+      "title": "Audit & Assurance Intern - Data Science",
+      "postedToDiscord": "2026-01-06T19:45:31.053Z",
+      "sourceDate": "2026-01-05T23:22:01.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Data-Science-Summer-2026/320061",
+      "discordThreadId": "1458184713998045307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-2026-intern-ai-wireless-research-spring-summer-plano-2026-01-06-1",
+      "jobId": "samsung-research-america-2026-intern-ai-wireless-research-spring-summer-plano",
+      "company": "Samsung Research America",
+      "title": "2026 Intern - AI Wireless Research - Spring/Summer",
+      "postedToDiscord": "2026-01-06T19:45:34.736Z",
+      "sourceDate": "2026-01-05T23:20:22.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8356123002",
+      "discordThreadId": "1458184729097539848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "wex-phd-intern-ai-ml-nlp-engineer-remote-in-usa-2026-01-06-1",
+      "jobId": "wex-phd-intern-ai-ml-nlp-engineer-remote-in-usa",
+      "company": "Wex",
+      "title": "PhD Intern - AI/ML/NLP Engineer",
+      "postedToDiscord": "2026-01-06T19:45:38.250Z",
+      "sourceDate": "2026-01-05T23:19:31.000Z",
+      "sourceUrl": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern---AI-ML-NLP-Engineer_R20300-1",
+      "discordThreadId": "1458184744461402458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ithaka-intern-or-machine-learning-engineering-remote-in-usa-2026-01-06-1",
+      "jobId": "ithaka-intern-or-machine-learning-engineering-remote-in-usa",
+      "company": "Ithaka",
+      "title": "Intern or Machine Learning Engineering",
+      "postedToDiscord": "2026-01-06T19:45:41.794Z",
+      "sourceDate": "2026-01-05T16:38:42.000Z",
+      "sourceUrl": "https://www.ithaka.org/job/4645218005?gh_jid=4645218005",
+      "discordThreadId": "1458184759221031023",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carpenter-technology-business-intelligence-intern-reading-2026-01-06-1",
+      "jobId": "carpenter-technology-business-intelligence-intern-reading",
+      "company": "Carpenter Technology",
+      "title": "Business Intelligence Intern",
+      "postedToDiscord": "2026-01-06T19:45:48.314Z",
+      "sourceDate": "2026-01-05T16:52:06.000Z",
+      "sourceUrl": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Business-Intelligence-Intern_25968",
+      "discordThreadId": "1458184786349916232",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 145,
+    "totalJobs": 154,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T19:36:57.585Z",
+      "date": "2026-01-06T19:45:48.314Z",
       "archived": 0
     }
   }
