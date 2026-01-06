@@ -149,7 +149,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 2h |
+| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 3h |
 
 ### 🏭 **Manufacturing & Industrial** (1 position)
 
