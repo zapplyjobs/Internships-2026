@@ -1,22 +1,4 @@
 {
-  "applied-materials-2026-summer-internship---optical-transceiver-engineer---phd-(santa-clara,-ca)-santa-clara": {
-    "assigned_date": "2025-11-07T22:15:38.278Z",
-    "job_title": "2026 Summer Internship - Optical Transceiver Engineer - PhD (Santa Clara, CA)",
-    "company": "Applied Materials",
-    "first_seen": "2025-11-07T22:15:38.278Z"
-  },
-  "applied-materials-2026-summer-internship---photonics-integrated-circuit-designer---phd-(santa-clara,-ca)-santa-clara": {
-    "assigned_date": "2025-11-07T22:15:38.278Z",
-    "job_title": "2026 Summer Internship - Photonics Integrated Circuit Designer - PhD (Santa Clara, CA)",
-    "company": "Applied Materials",
-    "first_seen": "2025-11-07T22:15:38.278Z"
-  },
-  "applied-materials-2026-summer-internship---photonics-test-engineer---phd-(santa-clara,-ca)-santa-clara": {
-    "assigned_date": "2025-11-07T22:15:38.278Z",
-    "job_title": "2026 Summer Internship - Photonics Test Engineer - PhD (Santa Clara, CA)",
-    "company": "Applied Materials",
-    "first_seen": "2025-11-07T22:15:38.278Z"
-  },
   "salesforce-summer-2026-intern---program-coordinator,-security-technology-operations-san-francisco": {
     "assigned_date": "2025-11-08T17:42:46.013Z",
     "job_title": "Summer 2026 Intern - Program Coordinator, Security Technology Operations",
@@ -17824,5 +17806,41 @@
     "job_title": "Technology Summer Intern",
     "company": "PNC Financial Services",
     "first_seen": "2026-01-06T19:09:14.731Z"
+  },
+  "genentech-2026-summer-intern---gcs-aidd-san-bruno": {
+    "assigned_date": "2026-01-06T23:38:46.690Z",
+    "job_title": "2026 Summer Intern - Gcs Aidd",
+    "company": "Genentech",
+    "first_seen": "2026-01-06T23:38:46.690Z"
+  },
+  "nextera-energy-transmission-energy-systems-analyst-college-intern-denver": {
+    "assigned_date": "2026-01-06T23:38:46.690Z",
+    "job_title": "Transmission Energy Systems Analyst-College Intern",
+    "company": "NextEra Energy",
+    "first_seen": "2026-01-06T23:38:46.690Z"
+  },
+  "zoetis-enterprise-architecture-intern-remote-in-usa": {
+    "assigned_date": "2026-01-06T23:38:46.690Z",
+    "job_title": "Enterprise Architecture Intern",
+    "company": "Zoetis",
+    "first_seen": "2026-01-06T23:38:46.690Z"
+  },
+  "weston-&-sampson-climate-resiliency-co-op-boston": {
+    "assigned_date": "2026-01-06T23:38:46.693Z",
+    "job_title": "Climate Resiliency Co-Op",
+    "company": "Weston & Sampson",
+    "first_seen": "2026-01-06T23:38:46.693Z"
+  },
+  "k-love-mobile/tv-development-intern-franklin": {
+    "assigned_date": "2026-01-06T23:38:46.694Z",
+    "job_title": "Mobile/TV Development Intern",
+    "company": "K-Love",
+    "first_seen": "2026-01-06T23:38:46.694Z"
+  },
+  "lmi--software-engineer-intern---usps---summer-2026-washington": {
+    "assigned_date": "2026-01-06T23:38:46.695Z",
+    "job_title": "Software Engineer Intern - Usps - Summer 2026",
+    "company": "LMI ",
+    "first_seen": "2026-01-06T23:38:46.695Z"
   }
 }

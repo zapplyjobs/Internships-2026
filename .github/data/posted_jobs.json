@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T20:17:35.140Z",
+  "lastUpdated": "2026-01-06T23:39:36.776Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1915,14 +1915,80 @@
       "sourceUrl": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Technology-Summer-Intern_R196693",
       "discordThreadId": "1458192784690511873",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-2026-summer-intern-gcs-aidd-san-bruno-2026-01-06-1",
+      "jobId": "genentech-2026-summer-intern-gcs-aidd-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Summer Intern - Gcs Aidd",
+      "postedToDiscord": "2026-01-06T23:39:08.097Z",
+      "sourceDate": "2026-01-06T23:15:16.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---gCS-AIDD_202512-131689",
+      "discordThreadId": "1458243504147927143",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nextera-energy-transmission-energy-systems-analyst-college-intern-denver-2026-01-06-1",
+      "jobId": "nextera-energy-transmission-energy-systems-analyst-college-intern-denver",
+      "company": "NextEra Energy",
+      "title": "Transmission Energy Systems Analyst-College Intern",
+      "postedToDiscord": "2026-01-06T23:39:15.742Z",
+      "sourceDate": "2026-01-06T23:13:04.000Z",
+      "sourceUrl": "https://jobs.nexteraenergy.com/job/Denver-Transmission-Energy-Systems-Analyst-College-Intern-CO-80234/1353853500/?ats=successfactors",
+      "discordThreadId": "1458243533461782728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "weston-sampson-climate-resiliency-co-op-boston-2026-01-06-1",
+      "jobId": "weston-sampson-climate-resiliency-co-op-boston",
+      "company": "Weston & Sampson",
+      "title": "Climate Resiliency Co-Op",
+      "postedToDiscord": "2026-01-06T23:39:19.829Z",
+      "sourceDate": "2025-12-10T23:11:33.000Z",
+      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3310/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458243553137393747",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoetis-enterprise-architecture-intern-remote-in-usa-2026-01-06-1",
+      "jobId": "zoetis-enterprise-architecture-intern-remote-in-usa",
+      "company": "Zoetis",
+      "title": "Enterprise Architecture Intern",
+      "postedToDiscord": "2026-01-06T23:39:26.460Z",
+      "sourceDate": "2026-01-06T23:07:26.000Z",
+      "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Enterprise-Architecture-Intern_JR00019759-2",
+      "discordThreadId": "1458243582711435345",
+      "instanceNumber": 1
+    },
+    {
+      "id": "k-love-mobile-tv-development-intern-franklin-2026-01-06-1",
+      "jobId": "k-love-mobile-tv-development-intern-franklin",
+      "company": "K-Love",
+      "title": "Mobile/TV Development Intern",
+      "postedToDiscord": "2026-01-06T23:39:33.218Z",
+      "sourceDate": "2025-11-17T23:17:55.000Z",
+      "sourceUrl": "https://careers-kloveair1.icims.com/jobs/2345/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458243611400339566",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmi-software-engineer-intern-usps-summer-2026-washington-2026-01-06-1",
+      "jobId": "lmi-software-engineer-intern-usps-summer-2026-washington",
+      "company": "LMI ",
+      "title": "Software Engineer Intern - Usps - Summer 2026",
+      "postedToDiscord": "2026-01-06T23:39:36.776Z",
+      "sourceDate": "2025-11-10T23:53:41.000Z",
+      "sourceUrl": "https://careers-lmi.icims.com/jobs/13493/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458243626357489861",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 174,
+    "totalJobs": 180,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T20:17:35.140Z",
+      "date": "2026-01-06T23:39:36.776Z",
       "archived": 0
     }
   }
