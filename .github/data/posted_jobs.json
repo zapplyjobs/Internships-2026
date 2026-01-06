@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-06T19:54:36.548Z",
+  "lastUpdated": "2026-01-06T20:04:15.441Z",
   "jobs": [
     {
       "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
@@ -1794,14 +1794,113 @@
       "sourceUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---IT---Employee-Experience_R0048423",
       "discordThreadId": "1458187003102494958",
       "instanceNumber": 1
+    },
+    {
+      "id": "franklin-templeton-undergraduate-digital-technology-intern-san-ramon-2026-01-06-1",
+      "jobId": "franklin-templeton-undergraduate-digital-technology-intern-san-ramon",
+      "company": "Franklin Templeton",
+      "title": "Undergraduate Digital Technology Intern",
+      "postedToDiscord": "2026-01-06T20:03:41.057Z",
+      "sourceDate": "2025-12-05T23:21:56.000Z",
+      "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/San-Ramon-California-United-States-of-America/Digital-Technology---Undergrad-Intern_865672",
+      "discordThreadId": "1458189286498369616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gilead-sciences-intern-r-d-quality-governance-risk-analytics-san-mateo-2026-01-06-1",
+      "jobId": "gilead-sciences-intern-r-d-quality-governance-risk-analytics-san-mateo",
+      "company": "Gilead Sciences",
+      "title": "Intern – R&D Quality - Governance - Risk & Analytics",
+      "postedToDiscord": "2026-01-06T20:03:44.542Z",
+      "sourceDate": "2025-11-10T23:13:51.000Z",
+      "sourceUrl": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---R-D-Quality---Governance--Risk----Analytics_R0048526",
+      "discordThreadId": "1458189300947746980",
+      "instanceNumber": 1
+    },
+    {
+      "id": "susquehanna-international-group-sig-technology-intern-co-op-with-drexel-university-ardmore-2026-01-06-1",
+      "jobId": "susquehanna-international-group-sig-technology-intern-co-op-with-drexel-university-ardmore",
+      "company": "Susquehanna International Group (SIG)",
+      "title": "Technology Intern/Co-op with Drexel University",
+      "postedToDiscord": "2026-01-06T20:03:48.034Z",
+      "sourceDate": "2025-10-31T00:57:34.000Z",
+      "sourceUrl": "https://careers-sig.icims.com/jobs/10445/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458189315225026783",
+      "instanceNumber": 1
+    },
+    {
+      "id": "veeam-software-ai-software-development-engineering-intern-alpharetta-2026-01-06-1",
+      "jobId": "veeam-software-ai-software-development-engineering-intern-alpharetta",
+      "company": "Veeam Software",
+      "title": "AI Software Development Engineering Intern",
+      "postedToDiscord": "2026-01-06T20:03:51.448Z",
+      "sourceDate": "2025-09-17T23:07:53.000Z",
+      "sourceUrl": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4651007101",
+      "discordThreadId": "1458189330135777582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadent-engineering-intern-remote-in-usa-2026-01-06-1",
+      "jobId": "cadent-engineering-intern-remote-in-usa",
+      "company": "Cadent",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2026-01-06T20:03:58.108Z",
+      "sourceDate": "2025-10-31T08:22:56.000Z",
+      "sourceUrl": "https://careers-cadent.icims.com/jobs/1286/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458189357423923261",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xcel-energy-commercial-operations-intern-denver-2026-01-06-1",
+      "jobId": "xcel-energy-commercial-operations-intern-denver",
+      "company": "Xcel Energy",
+      "title": "Commercial Operations Intern",
+      "postedToDiscord": "2026-01-06T20:04:01.729Z",
+      "sourceDate": "2025-09-01T06:46:37.000Z",
+      "sourceUrl": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Commercial-Operations-Intern_JR110218-1",
+      "discordThreadId": "1458189372464562300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "molina-healthcare-it-data-analytics-intern-remote-remote-in-usa-2026-01-06-1",
+      "jobId": "molina-healthcare-it-data-analytics-intern-remote-remote-in-usa",
+      "company": "Molina Healthcare",
+      "title": "IT Data Analytics Intern - Remote",
+      "postedToDiscord": "2026-01-06T20:04:08.411Z",
+      "sourceDate": "2025-10-26T15:03:53.000Z",
+      "sourceUrl": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2034677",
+      "discordThreadId": "1458189400247763067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "momentive-software-developer-intern-2026-manufacturing-execution-systems-software-development-schenectady-2026-01-06-1",
+      "jobId": "momentive-software-developer-intern-2026-manufacturing-execution-systems-software-development-schenectady",
+      "company": "Momentive",
+      "title": "Software Developer Intern 2026 - Manufacturing Execution Systems - Software Development",
+      "postedToDiscord": "2026-01-06T20:04:11.954Z",
+      "sourceDate": "2025-10-08T06:33:07.000Z",
+      "sourceUrl": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Software-Developer-Intern-2026_R8836",
+      "discordThreadId": "1458189415691194461",
+      "instanceNumber": 1
+    },
+    {
+      "id": "caci-software-engineering-intern-downers-grove-2026-01-06-1",
+      "jobId": "caci-software-engineering-intern-downers-grove",
+      "company": "CACI",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-06T20:04:15.440Z",
+      "sourceDate": "2025-09-19T01:54:29.000Z",
+      "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineering-Intern---Summer-2026_317161",
+      "discordThreadId": "1458189430513860608",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 163,
+    "totalJobs": 172,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-06T19:54:36.548Z",
+      "date": "2026-01-06T20:04:15.441Z",
       "archived": 0
     }
   }
