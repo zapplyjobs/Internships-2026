@@ -1,0 +1,19 @@
+{
+  "url": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4629459006",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Grassroots Analytics' mission is to provide innovative data solutions to amplify forward-thinking voices, causes, and people. Grassroots Analytics (“GA”) maintains a detailed database on more than 20 million active American donors, including data on net worth, ideological preferences, political donation history, non-profit donation history, demographics, and contact information. Grassroots Analytics is seeking a Data Intern for the Spring semester of 2026. Job Description: We’re looking for a Data Intern to bridge the gap between data science and data engineering. This role combines model development and evaluation with the design of scalable, observable data systems that make analytics reliable, transparent, and actionable. You’ll work across the data stack to ensure our analytical models and pipelines are accurate, monitored, and well-documented. Responsibilities: Build, audit, and optimize predictive and analytical models for accuracy, stability, and business impact. Design and maintain data pipelines that power analytics, reporting, and modeling workflows. Implement monitoring, observability, and documentation tools to improve data and model reliability. Partner with data scientists to productionize models and ensure reproducibility and performance. Collaborate with analytics, engineering, and product teams to improve the overall data user experience. Develop standards and frameworks for model governance, versioning, and auditability. Contribute to continuous improvement of data quality, metadata, and system scalability. Qualifications: Strong foundation in data science (e.g., model building, evaluation, and statistical analysis). Experience with data engineering tools and workflows (SQL, Airflow, dbt, BigQuery, etc.). Proficiency in Python or similar languages for modeling and automation. Familiarity with monitoring, observability, and documentation practices for data systems. Ability to translate complex analytical processes into reliable, maintainable infrastructure. This internship pays $27/hr plus a relocation stipend for those coming from outside the DMV area. The program will run January 26, 2026-April 17, 2026, with the opportunity to continue into the summer based on performance. This is a full-time, in-office position based in our office in Chinatown at 806 7th St NW, Washington, D.C. 20001.Grassroots Analytics is an equal opportunity employer, committed to providing a diverse, inclusive, and welcoming environment where everyone is empowered to do their best work. Grassroots Analytics does not discriminate on the basis of race, color, religion, gender, gender expression, age, national origin, disability, marital status, sexual orientation, or military status.",
+    "requirements": [
+      "Collaborate with analytics, engineering, and product teams to improve the overall data user experience.",
+      "Experience with data engineering tools and workflows (SQL, Airflow, dbt, BigQuery, etc.)."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/grassrootsanalytics/jobs/4629459006",
+      "fetchedAt": "2026-01-06T19:09:39.075Z"
+    }
+  },
+  "cachedAt": 1767726579076
+}
