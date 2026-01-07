@@ -1,16 +1,4 @@
 {
-  "salesforce-summer-2026-intern---program-coordinator,-security-technology-operations-san-francisco": {
-    "assigned_date": "2025-11-08T17:42:46.013Z",
-    "job_title": "Summer 2026 Intern - Program Coordinator, Security Technology Operations",
-    "company": "Salesforce",
-    "first_seen": "2025-11-08T17:42:46.013Z"
-  },
-  "salesforce-summer-2026-intern---sales-immersion,-financial-services-new-york": {
-    "assigned_date": "2025-11-08T17:42:46.013Z",
-    "job_title": "Summer 2026 Intern - Sales Immersion, Financial Services",
-    "company": "Salesforce",
-    "first_seen": "2025-11-08T17:42:46.013Z"
-  },
   "infineon-technologies-internship--cad-multiple-cities": {
     "assigned_date": "2025-11-11T21:27:35.563Z",
     "job_title": "Internship- CAD",
@@ -18088,5 +18076,29 @@
     "job_title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
     "company": "Toyota Research Institute",
     "first_seen": "2026-01-07T12:59:46.631Z"
+  },
+  "microsoft-software-engineer-applied-ai/ml-intern-washington": {
+    "assigned_date": "2026-01-07T17:45:00.854Z",
+    "job_title": "Software Engineer Applied AI/ML Intern",
+    "company": "Microsoft",
+    "first_seen": "2026-01-07T17:45:00.854Z"
+  },
+  "rolls-royce-bank-data-scientist-intern-salt-lake-city": {
+    "assigned_date": "2026-01-07T17:45:00.855Z",
+    "job_title": "Bank Data Scientist Intern",
+    "company": "Rolls Royce",
+    "first_seen": "2026-01-07T17:45:00.855Z"
+  },
+  "rtx-software-engineer-intern-aurora": {
+    "assigned_date": "2026-01-07T17:45:00.855Z",
+    "job_title": "Software Engineer Intern",
+    "company": "RTX",
+    "first_seen": "2026-01-07T17:45:00.855Z"
+  },
+  "rtx-software-engineering-intern-anaheim": {
+    "assigned_date": "2026-01-07T17:45:00.863Z",
+    "job_title": "Software Engineering Intern",
+    "company": "RTX",
+    "first_seen": "2026-01-07T17:45:00.863Z"
   }
 }
