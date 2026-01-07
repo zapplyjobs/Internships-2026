@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Software Development Engineer Intern",
-      "employer_name": "Amazon",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans",
-      "job_posted_at_datetime_utc": "2026-01-06T23:22:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amazon-software-development-engineer-intern-boston",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Paired Programming Developer - Claims Lab Intern",
-      "employer_name": "Great American Insurance Company",
-      "job_city": "Cincinnati",
-      "job_state": "OH",
-      "job_description": "Be Here. Be Great. Working for a leader in the insurance industry means opportunity for you. Great American Insurance Group's member companies are subsidiaries of American Financial Group. We combine a \"small company\" culture where your ideas will be heard with \"big company\" expertise to help you succeed. With over 30 specialty and property and casualty operations, there are always opportunities here to learn and grow.At Great American, we value and recognize the benefits derived when people with different backgrounds and experiences work together to achieve business results. Our goal is to create a workplace where all employees feel included, empowered, and enabled to perform at their best.P&C IT Services provides professional services to help our business units and corporate functions use technology to create, manage, and optimize information and business processes.  IT Services can include a wide range of activities such as: software development, data management, Cloud services, IT security, network security, technical support, establishing and overseeing access rights, procuring and maintaining equipment or software, managing the infrastructure, and defining security procedures,  The overall goal of IT Services is to provide technology solutions that increase efficiency, reduce costs, and give our company a competitive advantage over our competitors.Our Claims Digital Lab is looking for a paired programming intern to work a hybrid schedule (3 days a week in the office, 2 days remote) out of the Cincinnati office for the summer.Majority of your time with be with spent pairing with full time developers.  They will work closely with full time developers on the team to help design and code web services, web applications, and integrations.  Responsibilities:Develop code for web apps and micro services, maintaining and upgrading existing codebase, writing efficient, reusable, and reliable code.Requirements:Java, JavaScript, MarkLogic, IntelliJ, RabbitMQ, troubleshooting code, strong communications skills needed.Pursuing degree in Computer Science, Computer Engineering, Information Technology. Junior status.Business Unit:Property & Casualty IT ServicesBenefits: We offer competitive benefits packages for full-time and part-time employees*. Full-time employees have access to medical, dental, and vision coverage, wellness plans, parental leave, adoption assistance, and tuition reimbursement. Full-time and eligible part-time employees also enjoy Paid Time Off and paid holidays, a 401(k) plan with company match, an employee stock purchase plan, and commuter benefits. Compensation varies by role, level, and location and is influenced by skills, experience, and business needs. Your recruiter will provide details about benefits and specific compensation ranges during the hiring process. Learn more at http://www.gaig.com/careers. *Excludes seasonal employees and interns.",
-      "job_apply_link": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Paired-Programming-Developer-Claims-Lab-Intern_R8238-1",
-      "job_posted_at_datetime_utc": "2026-01-06T23:21:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "great-american-insurance-company-paired-programming-developer-claims-lab-intern-cincinnati",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Summer Intern - Software Engineering",
-      "employer_name": "Masimo",
-      "job_city": "Irvine",
-      "job_state": "CA",
-      "job_description": "Masimo is looking for summer interns to join our Software Engineering team. We value all of our interns and go the extra mile to make sure you receive a learning experience that fits your career goals. You will become knowledgeable in your assigned area. You will also learn how to work in a professional environment and have ample opportunity to network with department leaders and other employees in the organization. Job Summary: These positions will support phases of the software development lifecycle for our current portfolio and upcoming product releases. Potential Teams: Applicants will be considered for one or more of the following Software Engineering teams. - Instrument Software - Software Solutions - iOS - Cloud & Web Systems - Drivers & Systems Software - UX/UI Design Required Knowledge, Skills and Abilities: - Excellent conceptual, analytical, and problem-solving ability. - Good communication skills, both verbal and written, and the ability to effectively inter...",
-      "job_apply_link": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3588",
-      "job_posted_at_datetime_utc": "2026-01-06T23:20:57.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "masimo-2026-summer-intern-software-engineering-irvine",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Analytics Bachelor Intern",
-      "employer_name": "Kaiser Permanente",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Click the link provided to see the complete job description.",
-      "job_apply_link": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400321",
-      "job_posted_at_datetime_utc": "2026-01-06T23:20:47.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kaiser-permanente-analytics-bachelor-intern-remote-in-usa",
-      "description_platform": "taleo",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern – GIS - La Crosse - WI",
-      "employer_name": "Dairyland Power Cooperative",
-      "job_city": "Winona",
-      "job_state": "MN",
-      "job_description": "INTERN, GIS (La Crosse, WI)Hourly Wage $18.00Learn about Geographic Information Systems (GIS) and assist with GIS projects.The Impact You Will Make in This Role:ESSENTIAL JOB FUNCTIONS:Work in a team environment to learn about GIS and assist with ongoing GIS projects.Duties to include maintaining and implementing functions pertaining to the GIS program under the direction of the GIS team.Your Experience and Expertise:MINIMUM QUALIFICATIONS:Education & Experience:  Completing Sophomore or Junior year of a GIS qualified programorCompleted certification from a qualified GIS program.Skills:  Microsoft Office and ESRI suite of software a must. ACAD experience preferred.Licenses and Certifications:  Valid Driver’s License.Physical Demands: Extended periods of viewing a computer monitor, with extensive keyboard and mouse usage. Requires sitting, standing, walking, lifting (25 lbs.) and bending. Must be able to traverse rough terrain.Environmental Demands:  Individual will work primarily indoors at a computer station with some field work required.Other Job Characteristics:  Ability to communicate effectively with Dairyland employees, Member Cooperatives, and work in a team environment.",
-      "job_apply_link": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--GIS--La-Crosse--WI-_JR100862",
-      "job_posted_at_datetime_utc": "2026-01-06T23:20:37.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "dairyland-power-cooperative-intern-gis-la-crosse-wi-winona",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineer Intern",
-      "employer_name": "Abacus Insights",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "About Us Abacus Insights is changing the way healthcare works for you. We’re on a mission to unlock the power of data so health plans can enable the right care at the right time—making life better for millions of people. No more data silos, no more inefficiencies. Just smarter care, lower costs, and better experiences. Backed by $100M from top VCs, we’re tackling big challenges in an industry that’s ready for change. And while GenAI is still new for many, we’ve already mastered turning complex healthcare data into clear, actionable insights. That’s our superpower—and it’s why we’re leading the way. Abacus, innovation starts with people. We’re bold, curious, and collaborative—because the best ideas come from working together. Ready to make an impact? Join us and let's build the future, together.About the Role Our Data Distribution Engineering team is looking to bring on an experienced Data Engineer to be part of our fast-growing team. We see massive growth in our future and would love for you to be a part of it! You will partner with customers and several internal teams and extract data from the industry leading data platform which is built on highly scalable, flexible and resilient cloud architectures. As a trusted customer advocate, you will have the opportunity to guide a client’s successful adoption of Abacus’s core data management offerings. Your day to day: Work with clients and implementation teams to understand the data distribution requirements. Perform data analysis and data mapping required to produce client output. Build the data distribution extracts and scripts. Optimize the performance of the data extract scripts. Foster a dynamic, high-preforming, and collaborative culture. Guide team members to solve issues and help them to understand any challenges. Spearhead clients’ projects and handle client calls. Constantly think about process enhancements and bring different ideas into table. What you bring to the team: 2+ years of experience working with healthcare data. Understanding and passion for healthcare data and systems – knowledge on Membership, Claims, Provider and other domains. Strong experience writing queries, performing data analysis, data profiling and reporting. Performance optimization experience with understanding of how to fine tune the queries. Experience handling a large volume of data. Ability to communicate with technical and non-technical stakeholders. Ability to seek better analytical solutions to abstract business problems. Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement. Experience, coupled with a willingness, to learn new things Desire to contribute individually, with the ability both to self-direct work and to collaborate with others. Strong SQL Programming skills. Strong project management and organizational skills. What we would like to see, but not required: Experience working with an AWS platform. Experience working with Snowflake. Understanding or experience working for a cloud-based data services provider to large healthcare clients. Compensation: Compensation for this role is based on experience, skills, and location, and includes base salary plus eligibility for performance bonuses and equity grants. What you’ll get in return: Unlimited paid time off – recharge when you need it Work from anywhere – flexibility to fit your life Comprehensive health coverage – multiple plan options to choose from Equity for every employee – share in our success Growth-focused environment – your development matters here Home office setup allowance – one-time support to get you started Monthly cell phone allowance – stay connected with ease #LI-RF1 Our Commitment as an Equal Opportunity Employer As a mission-led technology company helping to drive better healthcare outcomes, Abacus Insights believes that the best innovation and value we can bring to our customers comes from diverse ideas, thoughts, experiences, and perspectives. Therefore, we dedicate resources to building diverse teams and providing equal employment opportunities to all applicants. Abacus prohibits discrimination and harassment regarding race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws. At the heart of who we are is a commitment to continuously and intentionally building an inclusive culture—one that empowers every team member across the globe to do their best work and bring their authentic selves. We carry that same commitment into our hiring process, aiming to create an interview experience where you feel comfortable and confident showcasing your strengths. If there’s anything we can do to support that—big or small—please let us know.",
-      "job_apply_link": "https://boards.greenhouse.io/abacusinsights/jobs/8360098002",
-      "job_posted_at_datetime_utc": "2026-01-06T23:20:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "abacus-insights-data-engineer-intern-remote-in-usa",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Summer 2026: Intern - Engineering",
-      "employer_name": "Catalent",
-      "job_city": "Madison",
-      "job_state": "WI",
-      "job_description": "Catalyst + TalentA Catalent Internship offers you countless opportunities to have direct impact on the health and well-being of millions of people globally!  Your passion for learning coupled with Catalent’s superior technologies will help drive the advancement of medicine in collaboration with leading pharmaceutical, biotech and health care innovators. The Catalent Internship Experience includes:Opportunity to make an impact in the lives of patients all over the world!Experience through hands-on projects that support more superior drug development and delivery technologies than anyone else.  Exposure to top-tier scientists and industry leadersCommitment from dedicated managers and mentors who are advocates for your success and career developmentAccess to collaborative and highly engaged colleagues across the globe excited to share their knowledge and provide you supportThe RoleWith a focus on existing and emerging technologies you will have a chance to participate in development of a system to solve a long-standing business problem. This role combines business strategy, data/analytics, user experience, customer feedback, and emerging technologies to develop long-term solutions.Responsibilities will include:Successful candidate will be able to interface with internal and external stakeholders to accomplish tasksThis person will establish a systemic approach to accomplish short and long-term tasks and be assigned specific action items as part of a project; Strong time management skills will be requiredSuccess in this role relies heavily on the ability to work cross-functionally as well as independentlyThis person must have strong oral and written communication skills to explain concepts clearly and gain alignment from stakeholdersIdeal candidates love to explore new technologies, pilot ideas and take on challengesWorks under the direction of a mentorThe CandidateCurrently enrolled in a College or UniversityMust be an undergraduate student majoring in any of the following: Industrial, Electrical, Bioengineering, Civil, Chemical or related engineering majorEligible to legally work in the United StatesAble to work full time (40 hours/week) for a 10-12-week periodCatalent offers rewarding opportunities to further your career!  Join the global drug development and delivery leader and help us bring over 7,000 life-saving and life-enhancing products to patients around the world. Catalent is an exciting and growing international company where employees work directly with pharma, biopharma and consumer health companies of all sizes to advance new medicines from early development to clinical trials and to the market. Catalent produces more than 70 billion doses per year, and each one will be used by someone who is counting on us. Join us in making a difference. personal initiative. dynamic pace. meaningful work.Visit Catalent Careers to explore career opportunities.Catalent is an Equal Opportunity Employer, including disability and veterans.If you require reasonable accommodation for any part of the application or hiring process due to a disability, you may submit your request by sending an email, and confirming your request for an accommodation and include the job number, title and location to DisabilityAccommodations@catalent.com. This option is reserved for individuals who require accommodation due to a disability. Information received will be processed by a U.S. Catalent employee and then routed to a local recruiter who will provide assistance to ensure appropriate consideration in the application or hiring process.    Notice to Agency and Search Firm Representatives: Catalent Pharma Solutions (Catalent) is not accepting unsolicited resumes from agencies and/or search firms for this job posting. Resumes submitted to any Catalent employee by a third party agency and/or search firm without a valid written & signed search agreement, will become the sole property of Catalent. No fee will be paid if a candidate is hired for this position as a result of an unsolicited agency or search firm referral. Thank you.Important Security Notice to U.S. Job Seekers:Catalent NEVER asks candidates to provide any type of payment, bank details, photocopies of identification, social security number or other highly sensitive personal information during the offer process, and we NEVER do so via email or social media. If you receive any such request, DO NOT respond— it is a fraudulent request. Please forward such requests to spam@catalent.com for us to investigate with local authorities.California Job Seekers can find our California Job Applicant Notice HERE.",
-      "job_apply_link": "https://catalent.wd1.myworkdayjobs.com/external/job/Madison-WI/Summer-2026--Intern---Engineering_0091237",
-      "job_posted_at_datetime_utc": "2025-10-22T06:55:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "catalent-summer-2026-intern-engineering-madison",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Co-Op - XENA Developer Experience",
-      "employer_name": "Johnson & Johnson",
-      "job_city": "Bridgewater Township",
-      "job_state": "NJ",
-      "job_description": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at https://www.jnj.comJob Function: Career ProgramsJob Sub Function: Technology LDPJob Category:Career ProgramAll Job Posting Locations:Raritan, New Jersey, United States of AmericaJob Description:J&J Technology XENA Software Engineering Off Cycle Co-Op – March to September 2026About Innovative Medicine Our expertise in Innovative Medicine is informed and inspired by patients, whose insights fuel our science-based advancements. Visionaries like you work on teams that save lives by developing the medicines of tomorrow. Join us in developing treatments, finding cures, and pioneering the path from lab to life while championing patients every step of the way.Learn more at https://www.jnj.com/innovative-medicineAbout MedTechFueled by innovation at the intersection of biology and technology, we’re developing the next generation of smarter, less invasive, more personalized treatments. Your unique talents will help patients on their journey to wellness. Learn more at https://www.jnj.com/medtechThis is a hybrid role available in Raritan, NJ.We are searching for the best talent for J&J Technology XENA Software Engineering Off Cycle Co-Op – March to September 2026Purpose:Our J&J Technology Co-op Program is comprehensive learning and professional experience in the technology space at one of the world’s leading health care companies. Your application and area of interest will be used to determine which one of our many exciting positions best fits you. Co-op positions are full-time opportunities expecting to last from March 30th, 2026 – September 18th, 2026. This program also works as a feeder pool for our Technology Leadership Development Program (TLDP) for full-time employment upon completion of your degree. If you are selected for a co-op position, you will work directly with your manager as your start date approaches to confirm your exact schedule.As a J&J XENA Software Engineer Co-Op join our XENA Developer Experience team. A successful candidate will support our XENA platform, with a strong focus on engineering solutions such as the Hosted VSCode IDE, contributing to our XENA CLI & SDK, and GenAI related platform and codebases.Responsibilities: Assist in engineering of a Hosted VSCode IDE based solution.Support the development and maintenance of Go (XENA CLI & SDK) & Python (GenAI MCP) based applications.Collaborate with development teams to ensure software delivery processes are efficient and meet compliance standards.Assist in orchestrating automated deployments of applications via a GitOps (ArgoCD) approach.Participate in fixing and resolving build and deployment issues.Perform system and application monitoring to ensure efficient platform performance.Document processes and provide insights for improvements within DevOps lifecycle.Function independently on tasks and collaborate with team members and collaborators to achieve project goals.Skills:Influencing and Impacting Others / Interpersonal UnderstandingExcellent communication, networking, and influencing skillsHigh impact individual with the ability to lead, collaborate, challenge, and influence peers, subordinates and senior management to drive data quality measures and innovative strategies leading to business value/resultsAbility to drive resolution for critical issues by bringing in teams together – both J&J internal and external vendorsA Change Agent with the ability to deal with ambiguityMaintains integrity and trust within and across all organizations and relationshipsCustomer Orientation - Solicit and apply feedback from internal and external customers; Understand customers’ current and future expectations; Respond promptly to customer needs.Required Qualifications Permanent US work authorization without the need for sponsorship now, or in the future (The company does not provide sponsorship for employment visa status. Students currently in the country on CPT, OPT, or STEM OPT require future sponsorship).Have a cumulative GPA of 3.0 or higher, which is reflective of all college coursework.Be currently enrolled and pursuing a bachelor’s or master’s degree, cannot graduate prior to agreed end date.For Bachelor level students, by start date, must be considered a sophomore or above.Ability to work full-time (40 hours a week during regular working business hours) for the full term. Planned dates of March – September 2026Have a passion for a career in technologyPreferred fields include Information Management, Information Technology, Computer Engineering, Management Information Systems, Computer Science, Software Engineering / Development or Data ScienceOur JJT Co-op Program works as a feeder pool to our Technology Leadership Development Program (TLDP) for full-time employment upon completion of your degree. Johnson & Johnson is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, disability, protected veteran status or other characteristics protected by federal, state or local law. We actively seek qualified candidates who are protected veterans and individuals with disabilities as defined under VEVRAA and Section 503 of the Rehabilitation Act. Johnson & Johnson is committed to providing an interview process that is inclusive of our applicants’ needs. If you are an individual with a disability and would like to request an accommodation, please contact us via https://www.jnj.com/contact-us/careers or contact AskGS to be directed to your accommodation resource.#JNJCoOp #JNJUndergraduate #JNJMasters #JNJTechnology #JNJTech  Required Skills:   Preferred Skills:",
-      "job_apply_link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/J-J-Technology-XENA-Software-Engineering-Off-Cycle-Co-Op---March-to-September-2026_R-036152",
-      "job_posted_at_datetime_utc": "2025-10-13T07:22:21.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "johnson-johnson-software-engineering-co-op-xena-developer-experience-bridgewater-township",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "Shure",
-      "job_city": "Morton Grove",
-      "job_state": "IL",
-      "job_description": "<h2>Overview</h2> <p><strong>SUMMER 2026</strong></p> <p>Shure offers a challenging, fun and rewarding summer internship program. The twelve-week program is offered to undergraduate and graduate students. We offer internships with a variety of work arrangements from onsite interns to fully remote in US. Each intern will receive a competitive salary. Additionally, Interns who are asked to relocate to Illinois for onsite internships will receive a housing stipend to cover living expenses. Applications will be collected, reviewed, and selected candidates will be contacted in late fall/early winter.</p> <p>The advanced research team seeks a highly motivated and talented <strong>Software Engineering Intern </strong>to assist in developing cutting-edge software solutions. This internship offers a unique opportunity for you to research, prototype, and demonstrate forward-leaning use cases in next generation technologies such as in machine learning and artificial intelligence - use cases that exceed customers’ expectations by making products smarter, more performant, and more insightful.</p> <p><strong>This Internship can be Remote, Onsite, or Hybrid.</strong></p> <h2>Responsibilities</h2> <ul> <li>Collaborate with DSP engineers and data scientists to design and develop software applications and libraries to support ongoing research initiatives.</li> <li>Assist in implementing, testing, and optimizing experimental software applications and prototypes.</li> <li>Stay up to date with latest advancement in software, AI/ML, and emerging technologies to contribute fresh ideas and insights to the team.</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently pursuing an advanced degree in computer science, computer engineering, or a related field.</li> <li>Must have experience in object-oriented programming in C++.</li> <li>Experience with one or more other programming languages such as Java/Kotlin, Objective-C/Swift, Python, JavaScript, Rust, etc.</li> <li>Familiarity with software development principles, design patterns, and object-oriented design methodology.</li> <li>Basic understanding of signal processing, computer vision, or machine learning</li> <li>Experience with embedded software development, Mac &amp; PC application development, mobile apps, or cloud-based applications and services.</li> <li>Hands-on experience with one or more of the following is a plus: <ul> <li>real-time digital signal processing</li> <li>embedded Linux development</li> <li>deep learning model deployment</li> <li>GPU or hardware accelerators.</li> </ul></li> <li>Creativity and curiosity for future technologies and a passion for realizing new capabilities</li> </ul> <p>&nbsp;</p> <p>Applicants for this position must be currently authorized to work in the United States on a full-time basis. Shure will not sponsor applicants for this position for work visas.</p> <p>&nbsp;</p> <p><strong>WHO WE ARE</strong></p> <p>Shure’s mission is to be the most trusted audio brand worldwide – and for over a century, our Core Values have aligned us to be just that. Founded in 1925, we are a leading global manufacturer of audio equipment known for quality, reliability, and durability. We engineer microphones, headphones, wireless audio systems, conferencing systems, and more. And quality doesn’t stop at our products. Our talented teams strive for perfection and innovate every chance they get. We offer an Associate-first culture, flexible work arrangements, and opportunity for all.</p> <p>&nbsp;</p> <p>Shure is headquartered in United States. We have more than 35 regional sales offices, engineering hubs, distribution centers and manufacturing facilities throughout the Americas, EMEA, and Asia.</p> <p>&nbsp;</p> <p><strong>THE MIX MATTERS</strong>Don’t check off every box in the job requirements? No problem! We recognize that every professional journey is unique and are committed to providing an equitable candidate experience for all prospective Shure Associates. If you’re excited about this role, believe you’ve got the skills to be successful, and share our passion for creating an inclusive, diverse, equitable, and accessible work environment, then apply!</p> <p>&nbsp;</p> <p><strong>PAY TRANSPARENCY</strong></p> <p>Modeled by extensive market analysis and economic best practices, Shure offers competitive intern compensation that is reviewed and adjusted annually by our Total Rewards Team to attract, hire, and retain the industry’s top intern talent. Each internship has an hourly rate which varies from $21-$40 per hour based on job function (Engineering, IT, Business, etc) and year completed in school (Junior, Masters 2nd year, PHD, etc).&nbsp;</p> <p>&nbsp;</p> <p><strong>WE GOT YOU - Our Benefits</strong></p> <p>At Shure, we prioritize the well-being of our associates. Benefits for our interns include retirement savings plans and paid time off, employee discounts, professional development opportunities, and work-life balance initiatives. To learn more, check out our <u>Intern Benefits At A Glance</u></p>",
-      "job_apply_link": "https://careersus-shure.icims.com/jobs/4438/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-09-10T23:31:41.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "shure-software-engineering-intern-morton-grove",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": "2026-01-07T03:55:40.158Z"
-  },
-  {
-    "job": {
       "job_title": "Engineering Intern - Cloudkitchens - Mountain View",
       "employer_name": "CloudKitchens",
       "job_city": "Mountain View",
@@ -854,10 +674,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T03:54:47.220Z",
     "enrichedAt": "2026-01-07T03:54:57.827Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T04:17:04.516Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T03:54:47.220Z",
     "enrichedAt": "2026-01-07T03:54:57.827Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T04:17:04.516Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T03:54:47.220Z",
     "enrichedAt": "2026-01-07T03:54:57.827Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T04:17:04.516Z"
   },
   {
     "job": {
@@ -914,9 +734,9 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T03:54:47.220Z",
     "enrichedAt": "2026-01-07T03:54:57.827Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T04:17:04.516Z"
   }
 ]
