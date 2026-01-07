@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T17:45:32.231Z",
+  "lastUpdated": "2026-01-07T18:18:12.980Z",
   "jobs": [
     {
       "id": "7-eleven-software-developer-intern-irving-2025-12-31-1",
@@ -2278,14 +2278,36 @@
       "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineering--Intern--Summer-2026---Onsite-_01793738",
       "discordThreadId": "1458516907652284537",
       "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-wilton-2026-01-07-1",
+      "jobId": "asml-intern-wilton",
+      "company": "ASML",
+      "title": "Intern",
+      "postedToDiscord": "2026-01-07T18:18:12.975Z",
+      "sourceDate": "2026-01-07T16:37:56.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Computer-Vision-Techniques-for-Optical-Metrology_J-00332429",
+      "discordThreadId": "1458525132573114626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-laser-computational-modeling-scientist-san-diego-2026-01-07-1",
+      "jobId": "asml-intern-laser-computational-modeling-scientist-san-diego",
+      "company": "ASML",
+      "title": "Intern - Laser Computational Modeling Scientist",
+      "postedToDiscord": "2026-01-07T18:18:12.980Z",
+      "sourceDate": "2026-01-07T16:37:45.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Laser-Computational-Modeling-Scientist_J-00331361",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 207,
+    "totalJobs": 209,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T17:45:32.231Z",
+      "date": "2026-01-07T18:18:12.980Z",
       "archived": 0
     }
   }
