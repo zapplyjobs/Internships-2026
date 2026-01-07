@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T08:51:24.896Z",
+  "lastUpdated": "2026-01-07T12:59:55.787Z",
   "jobs": [
     {
       "id": "dc-water-intern-water-operations-washington-2025-12-31-1",
@@ -2300,14 +2300,25 @@
       "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineering-Summer-2026-Intern_R-2025-61975",
       "discordThreadId": "1458382492342943826",
       "instanceNumber": 1
+    },
+    {
+      "id": "toyota-research-institute-human-interactive-driving-intern-human-machine-interaction-research-mountain-view-2026-01-07-1",
+      "jobId": "toyota-research-institute-human-interactive-driving-intern-human-machine-interaction-research-mountain-view",
+      "company": "Toyota Research Institute",
+      "title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
+      "postedToDiscord": "2026-01-07T12:59:55.787Z",
+      "sourceDate": "2025-10-27T14:28:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/tri/3def58e8-1776-42eb-a644-c6aef922aa6a/apply",
+      "discordThreadId": "1458445032213446793",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 209,
+    "totalJobs": 210,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T08:51:24.896Z",
+      "date": "2026-01-07T12:59:55.787Z",
       "archived": 0
     }
   }
