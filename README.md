@@ -150,7 +150,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 17h |
+| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 18h |
 
 ### 🏭 **Manufacturing & Industrial** (2 positions)
 
@@ -159,7 +159,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Intern – Data Science | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694) | 10h |
-| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 5d |
+| Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 6d |
 
 
 
@@ -283,16 +283,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1814 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1812 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1814 roles
+- **📁 Total Positions**: 1812 roles
 - **🏢 Companies**: 133 companies  
-- **⭐ FAANG+ Opportunities**: 85 positions
+- **⭐ FAANG+ Opportunities**: 84 positions
 
-### ⭐ **FAANG+** (85 positions)
+### ⭐ **FAANG+** (84 positions)
 
 #### 📦 **Amazon** (10 positions)
 
@@ -310,7 +310,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Systems Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1mo |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (72 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (71 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -374,7 +374,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - Technology for Religious Empowerment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631718) | 3w |
 | Research Intern - Deep Learning Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637090) | 3w |
 | Research Intern - AI/ML Numerics & Efficiency | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637096) | 3w |
-| Software Engineer: AI/ML Intern Opportunities - MAI for University Students | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631195) | 3w |
 | Research Intern - AIP AI Knowledge Multimodal AI | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637119) | 3w |
 | Research Intern - Interactive Multimodal Futures Group - Situated & Affective Computing | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637105) | 3w |
 | Research Intern - Multimodal Deep Learning for Healthcare | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556637113) | 3w |
