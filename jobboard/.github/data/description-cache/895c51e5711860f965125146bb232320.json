@@ -1,0 +1,22 @@
+{
+  "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Data-Science-Intern_REQ-2025-2802",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Ribbon is looking for a technically strong, energetic, highly collaborative, and passionate candidate to handle designing, developing, and implementing machine learning models to solve intricate problems.  As part of our team, you will be responsible for turnkey software development, which includes requirements discussions, design, coding, unit/feature testing, and working closely with the system architecture and test teams across different geographies. Education and Qualifications:  Currently enrolled in a Computer/Software Engineering, Computer Science/Systems, or equivalent degree programConduct innovative research into Machine Learning and Deep Learning Neural Networks and develop optimal solutions for business problems.Analyze large datasets to extract meaningful patterns and insights.Write clean, maintainable, and performant code across various programming languages and technologies.  Debug, troubleshoot, and resolve software defects and issues on time.Work closely with cross-functional teams, responsible for seamlessly integrating machine learning solutions into existing and new products. Keep abreast of the latest developments in machine learning technologies, such as Generative AI, Generative Adversarial Networks (GAN), Federated Learning, and Synthetic data generation, and incorporate them into Ribbon’s solution to keep the competitive advantages.Build MLOps pipeline as required, continuously evaluate production model performance, and refine algorithms for optimal accuracy and efficiency.Analytical, problem solving and debugging skills.Enthusiastic, hardworking, a self-starter and eager to learn.Excellent written and verbal communication skills.Ability to work with cross-functional teams, stakeholders and being a team player.Work Arrangement:Hybrid role – Work from the office on Monday, Tuesday and Thursday.Please Note:'All qualified applicants will receive consideration for employment without regard to race, age, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, on the basis of disability, or other characteristic protected by applicable law.'US Citizens and all other parties authorized to work in the US are encouraged to apply.",
+    "requirements": [
+      "Currently enrolled in a Computer/Software Engineering, Computer Science/Systems, or equivalent degree program",
+      "Build MLOps pipeline as required, continuously evaluate production model performance, and refine algorithms for optimal accuracy and efficiency."
+    ],
+    "responsibilities": [
+      "Conduct innovative research into Machine Learning and Deep Learning Neural Networks and develop optimal solutions for business problems.",
+      "Keep abreast of the latest developments in machine learning technologies, such as Generative AI, Generative Adversarial Networks (GAN), Federated Learning, and Synthetic data generation, and incorporate them into Ribbon’s solution to keep the competitive advantages."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Data-Science-Intern_REQ-2025-2802",
+      "fetchedAt": "2026-01-07T02:49:14.906Z"
+    }
+  },
+  "cachedAt": 1767754154906
+}
