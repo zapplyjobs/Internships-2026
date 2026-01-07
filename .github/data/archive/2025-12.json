@@ -20667,5 +20667,82 @@
     "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
     "discordThreadId": "1455762416867610810",
     "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-intern-water-operations-washington-2025-12-31-1",
+    "jobId": "dc-water-intern-water-operations-washington",
+    "company": "DC Water",
+    "title": "Intern - Water Operations",
+    "postedToDiscord": "2025-12-31T17:17:00.474Z",
+    "sourceDate": "2025-12-31T16:39:33.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1945",
+    "discordThreadId": "1455973013756575989",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-intern-washington-2025-12-31-1",
+    "jobId": "dc-water-intern-washington",
+    "company": "DC Water",
+    "title": "Intern",
+    "postedToDiscord": "2025-12-31T17:17:00.490Z",
+    "sourceDate": "2025-12-31T16:22:26.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1910",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-intern-clean-rivers-washington-2025-12-31-1",
+    "jobId": "dc-water-intern-clean-rivers-washington",
+    "company": "DC Water",
+    "title": "Intern - Clean Rivers",
+    "postedToDiscord": "2025-12-31T17:17:00.491Z",
+    "sourceDate": "2025-12-31T16:22:22.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1934",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-intern-erp-systems-and-controls-erp-systems-and-controls-washington-2025-12-31-1",
+    "jobId": "dc-water-intern-erp-systems-and-controls-erp-systems-and-controls-washington",
+    "company": "DC Water",
+    "title": "Intern ERP Systems and Controls - ERP Systems and Controls",
+    "postedToDiscord": "2025-12-31T17:17:04.330Z",
+    "sourceDate": "2025-12-31T16:22:26.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1915",
+    "discordThreadId": "1455973028407017705",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-016-summer-intern-data-analytics-washington-2025-12-31-1",
+    "jobId": "dc-water-016-summer-intern-data-analytics-washington",
+    "company": "DC Water",
+    "title": "016:Summer Intern - Data Analytics",
+    "postedToDiscord": "2025-12-31T17:17:07.864Z",
+    "sourceDate": "2025-12-31T16:22:24.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1926",
+    "discordThreadId": "1455973044421005394",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-summer-intern-engineering-and-technical-services-planning-washington-2025-12-31-1",
+    "jobId": "dc-water-summer-intern-engineering-and-technical-services-planning-washington",
+    "company": "DC Water",
+    "title": "Summer Intern - Engineering and Technical Services - Planning",
+    "postedToDiscord": "2025-12-31T17:17:11.274Z",
+    "sourceDate": "2025-12-31T16:22:21.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1931",
+    "discordThreadId": "1455973059000274986",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dc-water-082-summer-intern-it-data-and-analytics-washington-2025-12-31-1",
+    "jobId": "dc-water-082-summer-intern-it-data-and-analytics-washington",
+    "company": "DC Water",
+    "title": "082:Summer Intern - IT-Data and Analytics",
+    "postedToDiscord": "2025-12-31T17:17:17.860Z",
+    "sourceDate": "2025-12-31T16:22:23.000Z",
+    "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1919",
+    "discordThreadId": "1455973086049599609",
+    "instanceNumber": 1
   }
 ]
