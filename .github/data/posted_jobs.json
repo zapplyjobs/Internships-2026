@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T00:43:15.975Z",
+  "lastUpdated": "2026-01-07T02:50:38.161Z",
   "jobs": [
-    {
-      "id": "apollo-global-2026-summer-associate-investment-portfolio-management-analytics-intern-apollo-aligned-alternatives-fund-aaa-el-segundo-2025-12-31-1",
-      "jobId": "apollo-global-2026-summer-associate-investment-portfolio-management-analytics-intern-apollo-aligned-alternatives-fund-aaa-el-segundo",
-      "company": "Apollo Global",
-      "title": "2026 Summer Associate – Investment Portfolio Management & Analytics Intern - Apollo Aligned Alternatives Fund - Aaa",
-      "postedToDiscord": "2025-12-31T01:17:20.998Z",
-      "sourceDate": "2025-12-31T00:32:41.000Z",
-      "sourceUrl": "https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/El-Segundo-California/XMLNAME-2026-Summer-Associate--Investment-Portfolio-Management---Analytics-Intern---Apollo-Aligned-Alternatives-Fund--AAA-_R253919-1",
-      "discordThreadId": "1455731507606978817",
-      "instanceNumber": 1
-    },
-    {
-      "id": "globalfoundries-field-application-engineering-intern-austin-tx-austin-2025-12-31-1",
-      "jobId": "globalfoundries-field-application-engineering-intern-austin-tx-austin",
-      "company": "GlobalFoundries",
-      "title": "Field Application Engineering Intern - Austin - TX",
-      "postedToDiscord": "2025-12-31T01:17:24.480Z",
-      "sourceDate": "2025-12-30T23:50:36.000Z",
-      "sourceUrl": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Sales-Engineering-Intern--Summer-2026-_JR-2502795",
-      "discordThreadId": "1455731522027127001",
-      "instanceNumber": 1
-    },
-    {
-      "id": "commscope-intern-field-application-engineering-denver-2025-12-31-1",
-      "jobId": "commscope-intern-field-application-engineering-denver",
-      "company": "CommScope",
-      "title": "Intern-Field Application Engineering",
-      "postedToDiscord": "2025-12-31T01:17:28.068Z",
-      "sourceDate": "2025-12-30T23:38:23.000Z",
-      "sourceUrl": "https://jobs.commscope.com/job/Catawba-Intern-Field-Application-Engineering-Nort/1352606600/?ats=successfactors",
-      "discordThreadId": "1455731536879030336",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-aerospace-2026-data-and-software-engineering-grad-intern-chantilly-2025-12-31-1",
-      "jobId": "the-aerospace-2026-data-and-software-engineering-grad-intern-chantilly",
-      "company": "The Aerospace Corporation",
-      "title": "2026 Data and Software Engineering Grad Intern",
-      "postedToDiscord": "2025-12-31T01:17:34.448Z",
-      "sourceDate": "2025-12-30T23:38:44.000Z",
-      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Data-and-Software-Engineering-Grad-Intern_R014219",
-      "discordThreadId": "1455731564414636129",
-      "instanceNumber": 1
-    },
     {
       "id": "the-aerospace-software-implementation-and-integration-intern-chantilly-2025-12-31-1",
       "jobId": "the-aerospace-software-implementation-and-integration-intern-chantilly",
@@ -1992,14 +1948,113 @@
       "sourceUrl": "https://jobs.lever.co/dnb/c66c61a1-6121-4ab1-884e-688799660558/apply",
       "discordThreadId": "1458259645633400913",
       "instanceNumber": 1
+    },
+    {
+      "id": "premier-software-engineer-intern-charlotte-2026-01-07-1",
+      "jobId": "premier-software-engineer-intern-charlotte",
+      "company": "Premier",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-07T02:50:00.524Z",
+      "sourceDate": "2026-01-07T00:10:38.000Z",
+      "sourceUrl": "https://premierinc.wd1.myworkdayjobs.com/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008106",
+      "discordThreadId": "1458291540844740609",
+      "instanceNumber": 1
+    },
+    {
+      "id": "unisys-2026-drexel-spring-software-engineer-co-op-ambler-2026-01-07-1",
+      "jobId": "unisys-2026-drexel-spring-software-engineer-co-op-ambler",
+      "company": "Unisys",
+      "title": "2026 Drexel Spring Software Engineer Co-op",
+      "postedToDiscord": "2026-01-07T02:50:04.158Z",
+      "sourceDate": "2026-01-06T23:49:00.000Z",
+      "sourceUrl": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Blue-Bell-PA-United-States-of-America/XMLNAME-2026-Drexel-Spring-Software-Engineer-Co-op_REQ567688",
+      "discordThreadId": "1458291555877130247",
+      "instanceNumber": 1
+    },
+    {
+      "id": "walmart-intern-software-engineer-2-software-engineer-sunnyvale-2026-01-07-1",
+      "jobId": "walmart-intern-software-engineer-2-software-engineer-sunnyvale",
+      "company": "Walmart",
+      "title": "Intern Software Engineer 2 - Software Engineer",
+      "postedToDiscord": "2026-01-07T02:50:10.186Z",
+      "sourceDate": "2026-01-06T23:47:04.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2026-Summer-Intern--Software-Engineer-II_R-2349390",
+      "discordThreadId": "1458291571198918708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ribbon-software-engineering-intern-co-op-cloud-saas-applications-westford-2026-01-07-1",
+      "jobId": "ribbon-software-engineering-intern-co-op-cloud-saas-applications-westford",
+      "company": "Ribbon",
+      "title": "Software Engineering Intern/Co-op - Cloud SaaS Applications",
+      "postedToDiscord": "2026-01-07T02:50:14.059Z",
+      "sourceDate": "2026-01-06T23:40:45.000Z",
+      "sourceUrl": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Software-Engineering-Co-op---Cloud-SaaS-Applications_REQ-2025-2803",
+      "discordThreadId": "1458291596427526269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nex-software-engineer-intern-game-development-san-jose-2026-01-07-1",
+      "jobId": "nex-software-engineer-intern-game-development-san-jose",
+      "company": "Nex",
+      "title": "Software Engineer Intern - Game Development",
+      "postedToDiscord": "2026-01-07T02:50:18.164Z",
+      "sourceDate": "2026-01-06T23:33:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/nex/jobs/5057399008",
+      "discordThreadId": "1458291612760146011",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amentum-software-engineering-intern-houston-2026-01-07-1",
+      "jobId": "amentum-software-engineering-intern-houston",
+      "company": "Amentum",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-07T02:50:21.653Z",
+      "sourceDate": "2026-01-06T23:32:31.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Spring-2026-Internship---Software-Engineering-Intern_R0151253",
+      "discordThreadId": "1458291629738688685",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hewlett-packard-hp-research-intern-audio-and-acoustics-fountain-valley-2026-01-07-1",
+      "jobId": "hewlett-packard-hp-research-intern-audio-and-acoustics-fountain-valley",
+      "company": "Hewlett Packard (HP)",
+      "title": "Research Intern - Audio and Acoustics",
+      "postedToDiscord": "2026-01-07T02:50:28.123Z",
+      "sourceDate": "2026-01-06T23:48:55.000Z",
+      "sourceUrl": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fountain-Valley-California-United-States-of-America/Research-Intern---Audio-and-Acoustics_UNI3568-1",
+      "discordThreadId": "1458291656909389929",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ribbon-data-science-intern-westford-2026-01-07-1",
+      "jobId": "ribbon-data-science-intern-westford",
+      "company": "Ribbon",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-07T02:50:31.617Z",
+      "sourceDate": "2026-01-06T23:40:42.000Z",
+      "sourceUrl": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/Data-Science-Intern_REQ-2025-2802",
+      "discordThreadId": "1458291671245520977",
+      "instanceNumber": 1
+    },
+    {
+      "id": "devon-energy-data-analytics-technology-intern-oklahoma-city-2026-01-07-1",
+      "jobId": "devon-energy-data-analytics-technology-intern-oklahoma-city",
+      "company": "Devon Energy",
+      "title": "Data Analytics Technology Intern",
+      "postedToDiscord": "2026-01-07T02:50:38.161Z",
+      "sourceDate": "2026-01-06T23:46:50.000Z",
+      "sourceUrl": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Data-Analytics-Technology-Intern--_R262",
+      "discordThreadId": "1458291698894639216",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 181,
+    "totalJobs": 186,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T00:43:15.975Z",
+      "date": "2026-01-07T02:50:38.161Z",
       "archived": 0
     }
   }

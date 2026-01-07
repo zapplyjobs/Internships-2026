@@ -1,0 +1,17 @@
+{
+  "url": "https://amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans",
+      "fetchedAt": "2026-01-07T02:49:54.283Z"
+    }
+  },
+  "cachedAt": 1767754194283
+}

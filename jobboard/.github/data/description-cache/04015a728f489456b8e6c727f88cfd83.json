@@ -1,0 +1,22 @@
+{
+  "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "About NewsBreak Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech. Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale. Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence. If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/aboutWhat we do We build a consumer app with a strong focus on product quality and fast iteration. Small team, high ownership, real production impact Responsibilities Build and ship core app experiences end-to-end (screens, state, networking, navigation) Integrate with backend APIs to deliver key user flows (auth, feed, interactions, etc.) Improve performance and reliability: startup time, smooth scrolling, memory usage, crash-free sessions Work closely with product/design/engineering to iterate quickly and make strong trade-offs Help prototype and integrate AI-powered features (scope depends on the project) Requirements App development experience (required): React Native / Flutter / native iOS / native Android — able to ship production-grade screens and integrate APIs Strong fundamentals in software engineering: clean code, modularity, debugging, and Git-based collaboration Solid understanding of mobile/client fundamentals: network requests, caching, async programming, and performance profiling AI/ML knowledge (required): familiar with classic + modern model families and how they’re used in products (e.g., CNN/RNN/Transformer, LLMs, multimodal models). Can reason about capabilities, limitations, and practical integration patterns Strong communication and a “ship-it” mindset in ambiguous, fast-moving environments Preferred Qualifications Experience shipping a 0→1 mobile app or owning a feature end-to-end Familiarity with on-device ML concepts, model inference constraints, or edge optimization Experience with experimentation/metrics, analytics instrumentation, or A/B testing Backend exposure (APIs, databases, caching) is a plus but not required CPRA Privacy Notice for California Candidates",
+    "requirements": [
+      "Build and ship core app experiences end-to-end (screens, state, networking, navigation)",
+      "App development experience (required): React Native / Flutter / native iOS / native Android — able to ship production-grade screens and integrate APIs",
+      "AI/ML knowledge (required): familiar with classic + modern model families and how they’re used in products (e.g., CNN/RNN/Transformer, LLMs, multimodal models). Can reason about capabilities, limitations, and practical integration patterns",
+      "Experience shipping a 0→1 mobile app or owning a feature end-to-end",
+      "Experience with experimentation/metrics, analytics instrumentation, or A/B testing"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
+      "fetchedAt": "2026-01-07T02:49:46.274Z"
+    }
+  },
+  "cachedAt": 1767754186274
+}
