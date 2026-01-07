@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T04:17:01.510Z",
+  "lastUpdated": "2026-01-07T08:51:24.896Z",
   "jobs": [
     {
       "id": "dc-water-intern-water-operations-washington-2025-12-31-1",
@@ -2267,14 +2267,47 @@
       "sourceUrl": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
       "discordThreadId": "1458313439515770932",
       "instanceNumber": 1
+    },
+    {
+      "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
+      "jobId": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia",
+      "company": "Fermilab",
+      "title": "Beam Instrumentation Software Engineering Co-op Position",
+      "postedToDiscord": "2026-01-07T08:51:14.943Z",
+      "sourceDate": "2026-01-07T07:15:39.000Z",
+      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Beam-Instrumentation-Software-Engineering-Co-op-Position_R_008485",
+      "discordThreadId": "1458382449905111060",
+      "instanceNumber": 1
+    },
+    {
+      "id": "southwest-airlines-technical-data-management-summer-2026-intern-dallas-2026-01-07-1",
+      "jobId": "southwest-airlines-technical-data-management-summer-2026-intern-dallas",
+      "company": "Southwest Airlines",
+      "title": "Technical Data Management Summer 2026 Intern",
+      "postedToDiscord": "2026-01-07T08:51:18.456Z",
+      "sourceDate": "2026-01-07T07:15:03.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Technical-Data-Management-Summer-2026-Intern_R-2025-61976",
+      "discordThreadId": "1458382464937365598",
+      "instanceNumber": 1
+    },
+    {
+      "id": "southwest-airlines-data-engineer-intern-dallas-2026-01-07-1",
+      "jobId": "southwest-airlines-data-engineer-intern-dallas",
+      "company": "Southwest Airlines",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2026-01-07T08:51:24.896Z",
+      "sourceDate": "2026-01-07T07:14:56.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineering-Summer-2026-Intern_R-2025-61975",
+      "discordThreadId": "1458382492342943826",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 206,
+    "totalJobs": 209,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T04:17:01.510Z",
+      "date": "2026-01-07T08:51:24.896Z",
       "archived": 0
     }
   }
