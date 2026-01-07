@@ -1,0 +1,17 @@
+{
+  "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Overview: APL Logistics is seeking talented students to join us in our Global Technology organization for a 12-week summer internship in the following functions: • Data Science and Business Intelligence • Product Management and Business Analysis • Software Engineering • AI and Automation Engineering",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
+      "fetchedAt": "2026-01-07T03:54:57.826Z"
+    }
+  },
+  "cachedAt": 1767758097826
+}

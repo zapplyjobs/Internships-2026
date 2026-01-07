@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Spring 2026 Internship - AI and Astronaut Physiology",
-      "employer_name": "Amentum",
-      "job_city": "Houston",
-      "job_state": "TX",
-      "job_description": "Are you passionate about human space exploration, understanding the origins of the universe, and working with a passionate and diverse team to make a difference? If you are, we need you!    We need your talent, teamwork, and energy to help us achieve great things that inspire people all over the globe. We need you to bring creative ideas and diverse backgrounds to help us envision, shape, and deliver systems that will enable the exploration of space while benefiting people here on Earth. We are excited about what we do, and we need you on our team as we take on exciting challenges for NASA’s pursuits in deep space exploration. As NASA’s largest engineering solutions provider working together with NASA at centers across the United States. We are seeking a Spring 2026 Internship - AI and Astronaut Physiology to join the Human works Lab, with a focus on Software Engineering and Artificial Intelligence. The selected intern will support the development of AI and machine learning models designed to enhance NASA's understanding of the human body in space. This work will contribute to the optimization of fitness and conditioning systems, as well as overall astronaut well-being. The lab possesses a substantial repository of data to support the development of AI and machine learning models. During this internship, the focus will be on exploratory data analysis, data provenance, and data curation—including the identification and handling of outliers—to produce clean, well-organized, and reliable datasets. These efforts are essential to facilitate the development of robust models and to support more accurate forecasting and protocol design aimed at sustaining physical and psychological performance in long-duration space missions.This is a temporary role not to exceed 12 weeks.The selected candidate will:Develop and maintain a comprehensive database by integrating existing datasets and organizing newly acquired data.Apply scientific methods to classify, clean, and pre-process data to ensure consistency and usability.Support the design and implementation of protocols for ingesting new data streams.Create Python-based software tools for data analysis and visualization, including the development of interactive dashboards for efficient dataset navigation.Develop supplementary software artifacts to enhance data interpretation and presentation.Prepare clear and thorough documentation, technical reports, and user guides.Collaborate with NASA personnel, cross-functional teams, and departments to gather requirements and communicate findings.Adhere to established guidelines, protocols, and best practices in all project tasks.Perform additional duties as assigned in support of the project's objectives.​Requisition Qualifications:Currently enrolled at an accredited university.Completed at least 45 credit hours.Minimum of 2.8 GPA.Foundational knowledge of Artificial Intelligence and Machine Learning.Comfortable working in a Linux environment.Proficient in Python and commonly used libraries such as Pandas, NumPy, SciPy, and scikit-learn.Familiarity with data storage and retrieval systems, including SQL and file formats like Apache Feather.Self-motivated team player with the ability to adapt in a dynamic, fast-paced environment.Results-driven and committed to completing assigned tasks on time.Strong oral and written communication skills.Ability to organize, prioritize, and manage tasks effectively with minimal supervision.Proficient in Microsoft Office applications.Experienced with collaboration platforms such as Microsoft Teams and Webex.Requisition Preferences:​College Junior or Senior working towards a BS in Computer Science or equivalent.Courses in databases, data structures, scientific computing and data science.Interest in NASA and Space ExplorationExperience in Artificial Intelligence and/or Machine Learning through college coursework or work experience.If you're ready to contribute to groundbreaking work at NASA while expanding your skills in data science and AI, we encourage you to apply and be part of our mission.Why Join Our Team?#CMSInternshipIn addition to exciting career opportunities, we also have:Excellent personal and professional career growth9/80 work schedule (every other Friday off), when applicableOnsite cafeteria (breakfast & lunch)Much, much more!For more information on our partnership with NASA at Johnson Space Center (JSC), please visit www.wehavespaceforyou.comProof of U.S. Citizenship or US Permanent Residency may be a requirement for this position.Must be able to complete a U.S. government background investigation.Management has the prerogative to select at any level for which the position is advertised.       Compensation Details:QA1       The compensation range or hourly rate listed for this position is provided as a good-faith estimate of what the company intends to offer for this role at the time this posting was issued. Actual compensation may vary based on factors such as job responsibilities, education, experience, skills, internal equity, market data, applicable collective bargaining agreements, and relevant laws. Benefits Overview:Our health and welfare benefits are designed to support you and your priorities. Offerings include:Health, dental, and vision insurancePaid time off and holidaysRetirement benefits (including 401(k) matching)Educational reimbursementParental leaveEmployee stock purchase planTax-saving optionsDisability and life insurancePet insurance Note: Benefits may vary based on employment type, location, and applicable agreements. Positions governed by a Collective Bargaining Agreement (CBA), the McNamara-O'Hara Service Contract Act (SCA), or other employment contracts may include different provisions/benefits.       Original Posting:01/06/2026 - Until FilledAmentum anticipates this job requisition will remain open for at least three days, with a closing date no earlier than three days after the original posting. This timeline may change based on business needs.       Amentum is proud to be an Equal Opportunity Employer. Our hiring practices provide equal opportunity for employment without regard to race, sex, sexual orientation, pregnancy (including pregnancy, childbirth, breastfeeding, or medical conditions related to pregnancy, childbirth, or breastfeeding), age, ancestry, United States military or veteran status, color, religion, creed,  marital or domestic partner status, medical condition, genetic information, national origin, citizenship status, low-income status, or mental or physical disability so long as the essential functions of the job can be performed with or without reasonable accommodation, or any other protected category under federal, state, or local law. Learn more about your rights under Federal laws and supplemental language at Labor Laws Posters.",
-      "job_apply_link": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Spring-2026-Internship---AI-and-Astronaut-Physiology_R0151247",
-      "job_posted_at_datetime_utc": "2026-01-06T23:32:31.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amentum-spring-2026-internship-ai-and-astronaut-physiology-houston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Summer 2026 Software Engineer Intern - Santa Clara - CA",
-      "employer_name": "Peraton",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "<h2>Responsibilities</h2> <p>Peraton is seeking a <strong>Summer 2026 Software Engineer Intern</strong>&nbsp;to support our <strong>TMPC program</strong> in Santa Clara, CA.Join our TMPC Software Development Team. You’ll have the opportunity to work in a collaborative, supportive environment with our full-time staff, allowing you to grow your skills and your career while building your software development experience. You’ll work in an Agile software development environment focusing on Information Assurance (IA) and Security to ensure our software and computing environment meet our security requirements. You will support requirements/story development, software architecture and design, and development.&nbsp;This internship is onsite in Santa Clara, CA. We ask that the intern be available to work the duration of the summer (June to August) and commit to working a minimum of 35 hours per week. This program is geared toward technical college students, actively enrolled at a four-year university, who will be rising into their junior or senior years.</p> <h2>Qualifications</h2> <p><strong>Required Qualifications:</strong></p> <p>&nbsp;</p> <ul> <li>HS Diploma and some advanced level training. </li> <li>U.S. Citizenship.</li> <li>Have completed progress toward&nbsp;a bachelor’s degree in computer science, computer engineering, or a related field.</li> <li>Foundational experience in an object-oriented programming language and exposure to software engineering processes.</li> <li>Hands on programming experience through coursework and/or prior internships.</li> <li>Strong analytical and problem-solving skills.</li> <li>Ability to quickly adapt and learn new technologies and concepts.</li> <li>Self-motivated, independent, detail oriented, responsible team-player.</li> <li>Strong written and oral communication skills.</li> </ul> <p><strong>&nbsp;</strong></p> <p><strong>Desired Qualifications:</strong></p> <p>&nbsp;</p> <ul> <li>3.0 and above GPA.</li> <li>Exposure to Agile software development processes.</li> <li>Familiarity with web development frameworks and/or database technologies.</li> </ul> <p>#PeratonIntern</p> <h2>Peraton Overview</h2> <p>Peraton is a next-generation national security company that drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted, highly differentiated solutions and technologies to protect our nation and allies. Peraton operates at the critical nexus between traditional and nontraditional threats across all domains: land, sea, space, air, and cyberspace. The company serves as a valued partner to essential government agencies and supports every branch of the U.S. armed forces. Each day, our employees do the can’t be done by solving the most daunting challenges facing our customers. Visit peraton.com to learn how we’re keeping people around the world safe and secure.</p> <h2>Target Salary Range</h2>The rate / range per hour below represents the typical salary range for this position. Salary is determined by various factors, including but not limited to, the scope and responsibilities of the position, the individual’s experience, education, knowledge, skills, and competencies, as well as geographic location and business and contract considerations. Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. <h2>SCA / Union / Intern Rate or Range</h2>$25.00/hour + <h2>EEO</h2>EEO: Equal opportunity employer, including disability and protected veterans, or other characteristics protected by law.",
-      "job_apply_link": "https://careers-peraton.icims.com/jobs/162553/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2026-01-06T23:30:55.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineering Intern",
-      "employer_name": "T-Mobile",
-      "job_city": "Bellevue",
-      "job_state": "WA",
-      "job_description": "T-Mobile is synonymous with innovation–and you could be part of the team that disrupted an entire industry! We reinvented customer service, brought real 5G to the nation, and now we’re shaping the future of technology in wireless and beyond. Our work is as exciting as it is rewarding, so consider the career opportunity below as your invitation to grow with us, make big things happen with us, above all, #BEYOU with us. Together, we won’t stop!Get hands-on experience, training—and a leg up on a bright future.Learn. Achieve. Build a Career.T-Mobile is revolutionizing the wireless industry for millions of customers nationwide. Working here means rolling up your sleeves and redefining the status quo with a team that has your back every step of the way!This is a 11-week paid learning experience during which you'll be able to connect and network with other interns and leaders within the company. We invite you to come innovate with mentors who will challenge you to develop meaningful skills. You'll contribute your creativity and outstanding ideas, while working alongside T-Mobile employees. We'll give you hands-on projects and the chance to create an immediate impact.What It's Like:Interested in joining a team that makes T-Mobile tick. Curious about how T-Mobile's innovation culture is fueled. Excited to work on systems that see 100's of millions of transactions each day from several million customers. Join us!What You'll Do:You will work on bleeding edge capabilities that revolutionize the way we interact with customers and have a positive impact on their lives.Key Responsibilities:InnovateBuild cool shitHave fun along the wayWhat It Takes:Curious mindset, willingness to pick up new tech, thinks outside the box, self-starter, innovation in your DNA.-At least 18 years of age-Legally authorized to work in the United States-High School Diploma or GED-Must be actively enrolled in a degree program or graduated within the last year-Employees of T-Mobile or Metro by T-Mobile are ineligible for internshipsEmployer does not sponsor work visas for this position. Note that this also applies to individuals who are students in F-1 status who desire sponsorship after they complete their education.Relocation may be provided to program participants who reside more than 50 miles from the internship location.Intern wages range from $20/hour to $40/hour. The successful candidate's actual pay will be based on experience/location.Never stop growing!As part of the T-Mobile team, you know the Un-carrier doesn’t have a corporate ladder–it’s more like a jungle gym of possibilities! We love helping our employees grow in their careers, because it’s that shared drive to aim high that drives our business and our culture forward. By applying for this career opportunity, you’re living our values while investing in your career growth–and we applaud it. You’re unstoppable!T-Mobile USA, Inc. is an Equal Opportunity Employer. All decisions concerning the employment relationship will be made without regard to age, race, ethnicity, color, religion, creed, sex, sexual orientation, gender identity or expression, national origin, religious affiliation, marital status, citizenship status, veteran status, the presence of any physical or mental disability, or any other status or characteristic protected by federal, state, or local law. Discrimination, retaliation or harassment based upon any of these factors is wholly inconsistent with how we do business and will not be tolerated.Talent comes in all forms at the Un-carrier. If you are an individual with a disability and need reasonable accommodation at any point in the application or interview process, please let us know by emailing ApplicantAccommodation@t-mobile.com or calling 1-844-873-9500. Please note, this contact channel is not a means to apply for or inquire about a position and we are unable to respond to non-accommodation related requests.",
-      "job_apply_link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341142",
-      "job_posted_at_datetime_utc": "2026-01-06T23:28:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "t-mobile-software-engineering-intern-bellevue",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Future Talent Program Co-op - Computer Scientist",
-      "employer_name": "Merck",
-      "job_city": "North Wales",
-      "job_state": "PA",
-      "job_description": "Job DescriptionThe Future Talent Program features Cooperative (Co-op) education that lasts up to 6 months and will include one or more projects. These opportunities in our Research and Development Division can provide you with great development and a chance to see if we are the right company for your long-term goals.Nonclinical Drug Safety helps advance high-quality drug candidates into development by defining the nonclinical safety and selectivity of lead compounds. Nonclinical Drug Safety employees evaluate Lead Op candidates and preclinical toxicity of drug development candidates, providing a mechanistic understanding of drug-induced toxicity and assessing implications for human safety. Nonclinical Drug Safety provides collaborative research in animal model development, veterinary medical and animal care, and research facility management. Nonclinical Drug Safety also responds to regulatory questions in support of drug registration.  The Digital Operations and Innovation team within Nonclinical Drug Safety Operations comprises a talented group of data scientists dedicated to leveraging scientific and operational data to reduce administrative burden, improve the findability and accessibility of data, and discover and implement innovative applications of AI to modernize and advance our business.Position Overview: We seek a talented and motivated Co-op Computer Scientist to join our team for a six-month role. This position will contribute to the development of a web-based application that will enable our scientific and business leaders to retrieve critical scientific and operational data, surface similarities and patterns in the data, and generate natural language summaries of the structured and unstructured data being displayed. The ideal candidate will actively participate in regular sprints to develop and refine features in the application, propose new ideas and creative solutions to combine operational and scientific data, and consider the UI and UX impact of design choices. Additionally, there will be opportunities to contribute to the construction and evaluation of unsupervised clustering models and LLMs for integration into the solution.In this role, you will be a valued contributor to a visible and necessary effort aimed at modernizing how nonclinical safety fulfills its critical role in the development of safe medicines for our patients. Your work will help produce stable, reliable, and user-friendly tools that bring data and insight to the scientists at the cutting edge of our field.The ideal candidate will have experience with web frameworks such as DASH and working with both structured and unstructured data. Strong Python coding and documentation skills are essential. Familiarity with AWS services (Redshift, S3, EC2), GitHub Actions, LLMs, and vector databases are an additional advantage.Key Responsibilities:Participate in agile sprints to develop and refine dashboard features based on user feedback from scientists and business leadersBuild data pipelines in Python to integrate structured and unstructured data sources into the application.Design and implement interactive visualizations using DASH to surface patterns and insights in operational and scientific dataContribute to code reviews and maintain documentation using GitHubCollaborate with the team to evaluate and integrate ML models (clustering, LLMs) into the dashboard applicationRequired Qualifications:Must be currently pursuing a bachelor's or master's degree in computer science, Data Science, Software Engineering, or a related fieldMust have strong proficiency in Python programming and code documentationMust have experience working with structured and unstructured dataMust have excellent problem-solving skills and attention to detailMust have effective communication and teamwork abilitiesPreferred Qualifications:Experience with web frameworks (DASH, Streamlit, Flask, or similar)Familiarity with version control using Git/GitHubExperience with AWS services (Redshift, S3, EC2) or other cloud platformsExposure to machine learning concepts, LLMs, or vector databasesPrevious co-op or internship experience in software development or data scienceWhat You'll Gain:Hands-on experience building production applications in a regulated environmentExposure to modern AI/ML technologies, including LLMs and vector databasesAgile development methodology and collaborative software engineering practicesUnderstanding of how data science accelerates drug developmentWhat We Offer:Hands-on experience with cutting-edge AI and cloud technologiesMentorship from experienced data scientists and software engineersCollaborative and inclusive team environmentPotential for future full-time opportunities with the company.Please note that this position may be closed before the posted end date or may remain open longer, at the discretion of the company.Salary range:The salary range for this role is $39,600.00-$105,500.00 USDFTP2026RL2026Required Skills:Preferred Skills:Current Employees apply HERECurrent Contingent Workers apply HEREUS and Puerto Rico Residents Only:Our company is committed to inclusion, ensuring that candidates can engage in a hiring process that exhibits their true capabilities. Please click here if you need an accommodation during the application or hiring process.As an Equal Employment Opportunity Employer, we provide equal opportunities to all employees and applicants for employment and prohibit discrimination on the basis of race, color, age, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or other applicable legally protected characteristics.  As a federal contractor, we comply with all affirmative action requirements for protected veterans and individuals with disabilities.  For more information about personal rights under the U.S. Equal Opportunity Employment laws, visit:EEOC Know Your RightsEEOC GINA Supplement​We are proud to be a company that embraces the value of bringing together, talented, and committed people with diverse experiences, perspectives, skills and backgrounds. The fastest way to breakthrough innovation is when people with diverse ideas, broad experiences, backgrounds, and skills come together in an inclusive environment. We encourage our colleagues to respectfully challenge one another’s thinking and approach problems collectively.Learn more about your rights, including under California, Colorado and other US State ActsU.S. Hybrid Work ModelEffective September 5, 2023, employees in office-based positions in the U.S. will be working a Hybrid work consisting of three total days on-site per week, Monday - Thursday, although the specific days may vary by site or organization, with Friday designated as a remote-working day, unless business critical tasks require an on-site presence.This Hybrid work model does not apply to, and daily in-person attendance is required for, field-based positions; facility-based, manufacturing-based, or research-based positions where the work to be performed is located at a Company site; positions covered by a collective-bargaining agreement (unless the agreement provides for hybrid work); or any other position for which the Company has determined the job requirements cannot be reasonably met working remotely. Please note, this Hybrid work model guidance also does not apply to roles that have been designated as “remote”.San Francisco Residents Only: We will consider qualified applicants with arrest and conviction records for employment in compliance with the San Francisco Fair Chance OrdinanceLos Angeles Residents Only: We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles’ Fair Chance Initiative for Hiring OrdinanceSearch Firm Representatives Please Read Carefully Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company.  No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails. Employee Status: Intern/Co-op (Fixed Term)Relocation:No relocationVISA Sponsorship:NoTravel Requirements:No Travel RequiredFlexible Work Arrangements:Not ApplicableShift:1st - DayValid Driving License:NoHazardous Material(s):n/aJob Posting End Date:01/20/2026*A job posting is effective until 11:59:59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.",
-      "job_apply_link": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Computer-Scientist---Co-Op_R378187",
-      "job_posted_at_datetime_utc": "2026-01-06T23:28:23.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "merck-future-talent-program-co-op-computer-scientist-north-wales",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Internship",
-      "employer_name": "ASML",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Introduction to the jobASML US D&E branch focuses on developing modern computational lithography technology, that enable our most advanced lithography machines working at their best performance and efficiency. The main tasks include develop computational lithographic simulation flow (mask, optics, resist and etch), improve accuracy and speed with wide range of conventional and machine learning optimization algorithms.Your AssignmentTake on research, modeling and simulation of the physical process of lithography.Develop and optimize C/C++ codes and algorithm for computational lithography modeling.Write unit tests for algorithms and modules.Develop machine-learning based models and solutions for image processing, image recognition.  Evaluate pro and cons among solutions and suggest the best solutions to fulfill the requirements.Keep good documentation of design and implementations.Education and experience·        Ph.D. or M.S. in STEM, such as computer science, electric engineering, physics, chemistry, applied mathematics, or related fields.·        Proven work experience in previous research/engineering projects.·        3+ year experience in C++ and/or other object-oriented software development.·        Python/Matlab programming experience (especially in machine learning) is a plus.Required Skills·       Analytical skills for evaluating information carefully and solving complex problems·       Communication skills for technical discussions·       Detail-oriented with the ability to catch minor errors which can result in major problems·       Math skills, including calculus and other advanced mathematics·       Experience in the following fields: image processing, computational geometry, large data application, high performance computing·       Modeling - physical, chemical, and material modeling of lasers, optics, diffusion/reaction, and/or lithography systems·       Simulation - geometry engines, rendering, Fourier optics, RCWA/FDTD, PDE, finite difference.·       Software Development - C++/Python, Linux compute farms, distributed computing over +10k coresOther informationThis position is located on-site in San Jose, CA .  It requires onsite presence to attend in-person work-related events, trainings and meetings and to further ensure teamwork, collaboration and innovation. (Important to insert additional onsite language specific to the role: i.e., inspection, specific training and supervision, etc.)A flexible workplace arrangement is available for remote work up to two days a week.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Algorithm-Engineering-for-Advanced-Computational-Lithograph_J-00327853",
-      "job_posted_at_datetime_utc": "2026-01-06T23:27:49.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-internship-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Wgl – 2026 Summer Intern: Utilities - Data Analytics",
-      "employer_name": "AltaGas",
-      "job_city": "Springfield",
-      "job_state": "VA",
-      "job_description": "Job DescriptionNumber of Positions: 1 Term: 4 months Start Date: May 2026 About the RoleAre you looking for an exciting internship experience this summer? Washington Gas is looking for a Data Analytics Intern to support the Customer Experience team. This internship provides exposure to how data is used to improve customer interactions and business processes. The intern will gain experience working in a collaborative environment and learn how analytics contributes to enhancing service quality and customer satisfaction. Key Responsibilities: Assist with data-related tasks such as organizing, reviewing, and preparing information for analysis. Support team projects by helping with reporting, documentation, and basic research. Learn and apply foundational data analytics concepts under the guidance of experienced professionals. Participate in meetings and contribute ideas to improve customer experience initiatives. What You'll Bring:Currently enrolled in a degree program in Data Analytics, Business, Computer Science, or related field. Interest in data analysis and customer experience strategies. Basic proficiency in Microsoft Office (Excel, Word, PowerPoint). Strong communication skills and willingness to learn. What You’ll Gain: Exposure to real-world applications of data analytics in a customer-focused environment. Professional development and mentorship opportunities. Hands-on experience in a corporate setting within the energy industry. #LI-INTERNSFor Canadian hires: AltaGas hires personnel on the basis of job-related qualifications. All qualified applicants will receive consideration without regard to a person's ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity or expression, age, record of offences, marital status, family status or disability or any other characteristic protected by applicable law.For U.S. hires: WGL/SEMCO/AltaGas offers a total rewards package that includes competitive pay, incentive bonus plans, holiday pay, 401K matching and a wide array of benefits. These benefits including medical, dental and vision coverage are designed to help you and your family stay healthy. We also have paid time off (PTO) to balance the demands of your work and personal life. Available benefits vary depending upon the specifics of the role.U.S. affiliates of AltaGas are committed to equal employment opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. We value and encourage diversity and solicit applications from all qualified applicants without regard to race, ethnicity, religion, gender, age, national origin, marital status, sexual orientation, gender identity, family responsibilities, matriculation, physical or mental disabilities, political affiliation, genetic information, status as a protected veteran or any other characteristic protected by federal, state, or local law.",
-      "job_apply_link": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---2026-Summer-Intern--Utilities--Data-Analytics_R6552",
-      "job_posted_at_datetime_utc": "2026-01-06T23:27:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "altagas-wgl-2026-summer-intern-utilities-data-analytics-springfield",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "AI Development Intern",
-      "employer_name": "NewsBreak",
-      "job_city": "Mountain View",
-      "job_state": "CA",
-      "job_description": "About NewsBreak Founded in 2015, NewsBreak is the Content Intelligence platform shaping the future content economy. With over 40 million monthly active users, our flagship platform delivers highly personalized local news and information powered by advanced AI, recommendation systems, and adtech. Recognized by Fast Company as #32 on the Top Workplaces for Innovators, we're proud to be Great Place to Work® certified and home to a dynamic team of technologists, product innovators, and business leaders who are passionate about solving meaningful challenges at scale. Together, we reached unicorn status in 2021, and we remain committed to continuing this high-growth trajectory with the right team to fulfill our mission: building the infrastructure layer for content intelligence. If you’re inspired to dream big, innovate fast, and make a difference, we’d love to hear from you! For more information, visit www.newsbreak.com/aboutWhat we do We build a consumer app with a strong focus on product quality and fast iteration. Small team, high ownership, real production impact Responsibilities Build and ship core app experiences end-to-end (screens, state, networking, navigation) Integrate with backend APIs to deliver key user flows (auth, feed, interactions, etc.) Improve performance and reliability: startup time, smooth scrolling, memory usage, crash-free sessions Work closely with product/design/engineering to iterate quickly and make strong trade-offs Help prototype and integrate AI-powered features (scope depends on the project) Requirements App development experience (required): React Native / Flutter / native iOS / native Android — able to ship production-grade screens and integrate APIs Strong fundamentals in software engineering: clean code, modularity, debugging, and Git-based collaboration Solid understanding of mobile/client fundamentals: network requests, caching, async programming, and performance profiling AI/ML knowledge (required): familiar with classic + modern model families and how they’re used in products (e.g., CNN/RNN/Transformer, LLMs, multimodal models). Can reason about capabilities, limitations, and practical integration patterns Strong communication and a “ship-it” mindset in ambiguous, fast-moving environments Preferred Qualifications Experience shipping a 0→1 mobile app or owning a feature end-to-end Familiarity with on-device ML concepts, model inference constraints, or edge optimization Experience with experimentation/metrics, analytics instrumentation, or A/B testing Backend exposure (APIs, databases, caching) is a plus but not required CPRA Privacy Notice for California Candidates",
-      "job_apply_link": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
-      "job_posted_at_datetime_utc": "2026-01-06T23:26:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "newsbreak-ai-development-intern-mountain-view",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern – Data Science",
-      "employer_name": "Micron Technology",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "Our vision is to transform how the world uses information to enrich life for all. Micron Technology is a world leader in innovating memory and storage solutions that accelerate the transformation of information into intelligence, inspiring the world to learn, communicate and advance faster than ever.Department IntroWelcome to Micron’s Engineering team, where we focus on building best-in-class solutions that drive innovation and success. Our collaborative environment encourages bold ideas and empowers individuals to make an impact.Position OverviewAs a Data Science Intern, you will work on ground breaking artificial intelligence and machine learning initiatives that enhance product development and optimization. This role is ideal for someone motivated to learn, contribute to real-world projects, and grow in a dynamic, supportive environment.ResponsibilitiesBuild and apply AI and ML solutions to support product development, validation, and optimization.Collaborate with engineering teams to identify domain challenges and develop advanced data analysis methods.Know the latest with emerging data science techniques and apply them to solve complex problems.Engage in mentorship and learning opportunities with industry experts.Minimum QualificationsCurrently pursuing a Bachelor’s, Master’s, or PhD in Data Science, Computer Science, or a related field, or equivalent experience.Knowledge of predictive modeling, statistics, regression analysis, and deep learning through coursework.Proficiency in programming languages such as Python, PyTorch, TensorFlow, or R.Strong written and verbal communication skills in English.Preferred QualificationsExperience developing and deploying data science solutions, including data engineering, ML algorithms, UI/UX, and ML Ops.Familiarity with Large Language Models (LLMs), including fine-tuning, prompt engineering, and performance evaluation.Understanding of agentic AI systems for autonomous workflows and task orchestration.The US base salary range that Micron Technology estimates it could pay for this full-time position is:$46.51 - $55.82 an hourAdditional compensation may include benefits, bonuses and equity.Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target base pay for new hire salaries of the position across all US locations. Within the range, individual pay is determined by work location and additional job-related factors, including knowledge, skills, experience, tenure and relevant education or training. The pay scale is subject to change depending on business needs. Your recruiter can share more about the specific salary range for your preferred location during the hiring process. Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits.As a world leader in the semiconductor industry, Micron is dedicated to your personal wellbeing and professional growth. Micron benefits are designed to help you stay well, provide peace of mind and help you prepare for the future.  We offer a choice of medical, dental and vision plans in all locations enabling team members to select the plans that best meet their family healthcare needs and budget.  Micron also provides benefit programs that help protect your income if you are unable to work due to illness or injury, and paid family leave.  Additionally, Micron benefits include a robust paid time-off program and paid holidays.  For additional information regarding the Benefit programs available, please see the Benefits Guide posted on micron.com/careers/benefits.Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, citizenship status, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.To learn about your  right to work click here.To learn more about Micron, please visit micron.com/careersUS Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at  hrsupport_na@micron.com or 1-800-336-8918 (select option #3)Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.   Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.",
-      "job_apply_link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694",
-      "job_posted_at_datetime_utc": "2026-01-06T23:23:29.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "micron-technology-intern-data-science-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
-      "job_title": "AI-Driven Vehicle Simulation Intern",
-      "employer_name": "Robert Bosch Venture Capital",
-      "job_city": "Southfield",
-      "job_state": "MI",
-      "job_description": "AI-Driven Vehicle Simulation InternFull-timeLegal Entity: Robert Bosch LLCCompany DescriptionWe Are Bosch. At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people’s lives. Our areas of activity are every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility, or industry. Let’s grow together, enjoy more, and inspire each other. Work #LikeABoschReinvent yourself: At Bosch, you will evolve.Discover new directions: At Bosch, you will find your place.Balance your life: At Bosch, your job matches your lifestyle.Celebrate success: At Bosch, we celebrate you.Be yourself: At Bosch, we value values.Shape tomorrow: At Bosch, you change lives.Job DescriptionThis internship will dive deep into data-driven techniques, developing scalable vehicle simulation frameworks tailored for various platforms. You'll gain invaluable cross-functional knowledge in vehicle technologies and drive innovation in simulation and model development. Beyond technical expertise, we're looking for individuals who can clearly communicate complex concepts and thrive in a collaborative, global environment.What You’ll Do:Analyze simulation and test data to uncover key trends and performance indicators for vehicle model behaviorDevelop and verify data-driven models, ensuring their accuracy and performanceUtilize developed models to investigate and predict the impact on powertrain performance and different technologiesGenerate actionable insights through expert post-processing and visualization of resultsShare knowledge effectively, articulating your work and ideas to customers, managers, and key decision-makersProactively provide timely feedback to the team, fostering a culture of continuous improvementQualificationsMinimum Qualifications:Currently pursuing a Bachelors or Masters degree in Computer Science, Electrical Engineering or related technical field Extensive experience applying deep learning techniques to data analysisExperience working in large codebasesFamiliarity with state-of-the-art deep learning models and applicationsClearly demonstrable work experience, project work, or coursework related to machine learningMinimum 3.0 GPAMinimum 18 years of agePreferred Qualifications:Understanding of vehicle dynamics modelingProficiency working with large datasets, including visualizationSenior class standing or graduate preferred Additional InformationEqual Opportunity Employer, including disability / veterans *Bosch adheres to Federal, State, and Local laws regarding drug-testing. Employment is contingent upon the successful completion of a drug screen and background check. Candidates who have been offered the position must pass both screenings before their start date. Job LocationGoogle Maps requires functional cookies to be enabledI'm interestedI'm interestedPrivacy PolicyImprint",
-      "job_apply_link": "https://jobs.smartrecruiters.com/BoschGroup/744000101956885",
-      "job_posted_at_datetime_utc": "2026-01-06T23:22:02.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "robert-bosch-venture-capital-ai-driven-vehicle-simulation-intern-southfield",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-07T02:48:47.668Z",
-    "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": "2026-01-07T03:23:04.411Z"
-  },
-  {
-    "job": {
       "job_title": "Software Development Engineer Intern",
       "employer_name": "Amazon",
       "job_city": "Boston",
@@ -854,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T02:49:54.284Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -914,10 +734,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -934,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -954,10 +774,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -974,10 +794,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -994,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
-    "postedAt": null
+    "postedAt": "2026-01-07T03:55:40.158Z"
   },
   {
     "job": {
@@ -1014,9 +834,89 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-07T02:48:47.668Z",
     "enrichedAt": "2026-01-07T03:22:25.035Z",
+    "postedAt": "2026-01-07T03:55:40.158Z"
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern - Cloudkitchens - Mountain View",
+      "employer_name": "CloudKitchens",
+      "job_city": "Mountain View",
+      "job_state": "CA",
+      "job_description": "Who we are At CloudKitchens, we're building the infrastructure to make food delivery as inexpensive as cooking your own meals (hear about it from our CEO, the founder of Uber here). We are working on robotics, AI, real estate intelligence, and delivery networks to build the future of food. This market is projected to be worth a trillion dollars by 2030, and we are an early market leader with a significant technical edge. You will be solving problems no one has cracked, at scale, and given autonomy to innovate. Check our tech blog to find out more about what we’re building. Check out some of our products: CloudKitchens | Otter | Picnic | Lab37 Who You Are: Actively pursuing a Bachelor's/Master's/PhD in Computer Science, Engineering, or a related technical field Graduating in Fall 2026, Spring/Summer 2027. Must have completed an introductory Computer Science course Have advanced programming experience in one or more application or systems languages (Go, Python, Ruby, Java, Kotlin, C/C++, etc.) A problem-solver who thrives in tackling diverse technical challenges and demonstrates a clear track record of growth and learning A take-charge individual who exhibits ownership and takes pride in writing clean, maintainable, and fun code An engineer who can dive deep into open source software, find issues, and fix them. What you’ll do As an engineering intern at CloudKitchens, you'll be an integral part of building out the state-of-the-art intelligent machine for the food industry. Your role will encompass a diverse range of responsibilities, including: You will build foundational software systems to enable globally scaled kitchen infrastructure and real estate innovations You test software development methodology in an agile environment You provide ongoing maintenance, support, and enhancements in existing systems and platforms You work alongside other engineers to elevate technology and improve systems overall You write, debug, maintain, and test code You design scalable, fault-tolerant architectural systems You develop information systems by designing, developing, and installing software solutions You drive innovation within the team and support CloudKitchens’ technological advancements Why join us Growing market: You’ll be focused on an $80 billion market that’s projected to reach at least $500 billion by 2030 in the US alone. Changing the restaurant industry: You’ll be part of a team that helps restaurants succeed in online food delivery. Collaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow, and achieve your goals, and you’ll work closely with other teams to ensure our customers’ success. World-class talent - you will work with a class of highly skilled, motivated, and experienced engineers with whom you can learn and grow. How to apply Submit your resume to the job site. Please make sure you have your LinkedIn profile and GitHub profile included in the resume. Also include your GPA and grades for relevant courses. Thanks! What else you need to know This role is based in our Mountain View, CA office. We believe that people do their best work when they are together. As a company, we’re in the marketplace of ideas and innovation. When you’re constantly innovating, changing how an industry works, inventing new products and processes - and we are doing all these things - we believe we’re better as a team in person. That’s why all of our teams (except for our field-based roles) are now working from one of our office locations 5 days a week. Looking forward to sharing more about a Career of Substance at CloudKitchens! Job location - in-person, Mountain View, CA, USA Compensation - $70 per hour.",
+      "job_apply_link": "https://job-boards.greenhouse.io/css/jobs/8356100002",
+      "job_posted_at_datetime_utc": "2026-01-07T02:48:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cloudkitchens-engineering-intern-cloudkitchens-mountain-view-mountain-view",
+      "description_platform": "greenhouse",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-07T03:54:47.220Z",
+    "enrichedAt": "2026-01-07T03:54:57.827Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Engineering Intern",
+      "employer_name": "CloudKitchens",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Who we are At CloudKitchens, we're building the infrastructure to make food delivery as inexpensive as cooking your own meals (hear about it from our CEO, the founder of Uber here). We are working on robotics, AI, real estate intelligence, and delivery networks to build the future of food. This market is projected to be worth a trillion dollars by 2030, and we are an early market leader with a significant technical edge. You will be solving problems no one has cracked, at scale, and given autonomy to innovate. Check our tech blog to find out more about what we’re building. Check out some of our products: CloudKitchens | Otter | Picnic | Lab37 Who You Are: Actively pursuing a Bachelor's/Master's/PhD in Computer Science, Engineering, or a related technical field Graduating in Fall 2026, Spring/Summer 2027. Must have completed an introductory Computer Science course Have advanced programming experience in one or more application or systems languages (Go, Python, Ruby, Java, Kotlin, C/C++, etc.) A problem-solver who thrives in tackling diverse technical challenges and demonstrates a clear track record of growth and learning A take-charge individual who exhibits ownership and takes pride in writing clean, maintainable, and fun code An engineer who can dive deep into open source software, find issues, and fix them. What you’ll do As an engineering intern at CloudKitchens, you'll be an integral part of building out the state-of-the-art intelligent machine for the food industry. Your role will encompass a diverse range of responsibilities, including: You will build foundational software systems to enable globally scaled kitchen infrastructure and real estate innovations You test software development methodology in an agile environment You provide ongoing maintenance, support, and enhancements in existing systems and platforms You work alongside other engineers to elevate technology and improve systems overall You write, debug, maintain, and test code You design scalable, fault-tolerant architectural systems You develop information systems by designing, developing, and installing software solutions You drive innovation within the team and support CloudKitchens’ technological advancements Why join us Growing market: You’ll be focused on an $80 billion market that’s projected to reach at least $500 billion by 2030 in the US alone. Changing the restaurant industry: You’ll be part of a team that helps restaurants succeed in online food delivery. Collaborative environment: You will receive support and guidance from experienced colleagues and managers, helping you to learn, grow, and achieve your goals, and you’ll work closely with other teams to ensure our customers’ success. World-class talent - you will work with a class of highly skilled, motivated, and experienced engineers with whom you can learn and grow. How to apply Submit your resume to the job site. Please make sure you have your LinkedIn profile and GitHub profile included in the resume. Also include your GPA and grades for relevant courses. Thanks! What else you need to know This role is based in our Seattle, WA office. We believe that people do their best work when they are together. As a company, we’re in the marketplace of ideas and innovation. When you’re constantly innovating, changing how an industry works, inventing new products and processes - and we are doing all these things - we believe we’re better as a team in person. That’s why all of our teams (except for our field-based roles) are now working from one of our office locations 5 days a week. Looking forward to sharing more about a Career of Substance at CloudKitchens! Job location - in-person, Seattle, WA, USA Compensation - $70 per hour.",
+      "job_apply_link": "https://job-boards.greenhouse.io/css/jobs/8356071002",
+      "job_posted_at_datetime_utc": "2026-01-07T02:48:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "cloudkitchens-engineering-intern-seattle",
+      "description_platform": "greenhouse",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-07T03:54:47.220Z",
+    "enrichedAt": "2026-01-07T03:54:57.827Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Development Intern - Summer 2026",
+      "employer_name": "CACI",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Software Development Intern - Summer 2026Job Category: Intern/Co-opTime Type: Part timeMinimum Clearance Required to Start: NoneEmployee Type: Part-Time On-CallPercentage of Travel Required: NoneType of Travel: None* * *The Opportunity:CACI is hiring a Development Intern to join our growing Financial Management Business Transformation (FMBT) Interfaces, Data Cleanse, and Conversion (ID&C) program. Our staff members implement financial system interfaces, perform complex data cleanse activities, and migrate data from legacy systems to Momentum Financials (a COTS product) across the Department of Veteran Affairs (VA). As in intern, you will have the opportunity to learn about the different aspects of the VA FMBT ID&C program, expand your skillset, partner with experienced technical resources, and collaborate with other summer interns. You will also learn how to successfully work on a remote project team supporting multiple simultaneous wave implementations and customers in various locations. Responsibilities:Participate in eliciting requirements from end-users for interface, data conversion, and/or data cleanse activities. Understand business processes and create process maps as requiredProvide functional support and assist with documenting requirements, detailed design specifications and/or data conversion and cleanse plans, business processes, and user stories based on requirementsAssist with analyzing legacy and target system data. Conduct reconciliation activitiesSupport functional team in working across multiple development efforts to ensure system interfaces and/or data conversion and cleanse decisions are consistent with requirements/expectations/regulations. Work directly with programmers, database administrators, and other technical specialistsCollaborate with other analysts to understand the organization’s business processes and legacy system data and processesProvide functional support for testing. Develop test scenarios and documentation and perform validation testing for interfaces and/or conversion requirements. Monitor, track, and troubleshoot application operation and data, analyzing incidents and working with the technical team to resolve issuesQualifications:Required: Currently enrolled and actively pursuing a Bachelor’s degree in one of the following technical degree programs (or similar): Computer Science, Computer Engineering, or Software Engineering, Business Administration, Management Information Systems, Finance, Accounting, etc.Must have the ability to obtain and pass a Tier 2 MBI background checkMust be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the futureStrong problem-solving, troubleshooting, and written and oral communication skillsAbility to work both independently and collaboratively with a teamSelf-starter, quick to learn and put new skills to useDesired:Previous internship/co-op or other work experience, leadership and teamwork capabilities, interpersonal communication skills, and activities (professional/community/extracurricular)Knowledge of Agile methodologies -________________________________________________________________________________________What You Can Expect: A culture of integrity.At CACI, we place character and innovation at the center of everything we do. As a valued team member, you’ll be part of a high-performing group dedicated to our customer’s missions and driven by a higher purpose – to ensure the safety of our nation. An environment of trust.CACI values the unique contributions that every employee brings to our company and our customers - every day. You’ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality. A focus on continuous growth.Together, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground — in your career and in our legacy. Your potential is limitless. So is ours.Learn more about CACI here.________________________________________________________________________________________Pay Range: There are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits. Learn more here.Since this position can be worked in more than one location, the range shown is the national average for the position.The proposed salary range for this position is: $39,900-$79,900CACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
+      "job_apply_link": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2026_320833",
+      "job_posted_at_datetime_utc": "2026-01-07T02:10:12.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "caci-software-development-intern-summer-2026-remote-in-usa",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-07T03:54:47.220Z",
+    "enrichedAt": "2026-01-07T03:54:57.827Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Apprentice/Intern – Data Science and BI Intern - 1st Shift - Scottsdale",
+      "employer_name": "APL Logistics",
+      "job_city": "Scottsdale",
+      "job_state": "AZ",
+      "job_description": "Overview: APL Logistics is seeking talented students to join us in our Global Technology organization for a 12-week summer internship in the following functions: • Data Science and Business Intelligence • Product Management and Business Analysis • Software Engineering • AI and Automation Engineering",
+      "job_apply_link": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
+      "job_posted_at_datetime_utc": "2026-01-07T02:09:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "apl-logistics-apprentice-intern-data-science-and-bi-intern-1st-shift-scottsdale-scottsdale",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-07T03:54:47.220Z",
+    "enrichedAt": "2026-01-07T03:54:57.827Z",
     "postedAt": null
   }
 ]
