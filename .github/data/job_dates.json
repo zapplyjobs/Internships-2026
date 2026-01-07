@@ -18100,5 +18100,17 @@
     "job_title": "Software Engineering Intern",
     "company": "RTX",
     "first_seen": "2026-01-07T17:45:00.863Z"
+  },
+  "asml-intern-wilton": {
+    "assigned_date": "2026-01-07T18:17:58.583Z",
+    "job_title": "Intern",
+    "company": "ASML",
+    "first_seen": "2026-01-07T18:17:58.583Z"
+  },
+  "asml-intern---laser-computational-modeling-scientist-san-diego": {
+    "assigned_date": "2026-01-07T18:17:58.583Z",
+    "job_title": "Intern - Laser Computational Modeling Scientist",
+    "company": "ASML",
+    "first_seen": "2026-01-07T18:17:58.583Z"
   }
 }
