@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T02:50:38.161Z",
+  "lastUpdated": "2026-01-07T03:23:01.405Z",
   "jobs": [
-    {
-      "id": "the-aerospace-software-implementation-and-integration-intern-chantilly-2025-12-31-1",
-      "jobId": "the-aerospace-software-implementation-and-integration-intern-chantilly",
-      "company": "The Aerospace Corporation",
-      "title": "Software Implementation and Integration Intern",
-      "postedToDiscord": "2025-12-31T03:20:06.805Z",
-      "sourceDate": "2025-12-31T02:43:38.000Z",
-      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2026-Software-Implementation-and-Integration-Grad-Intern_R013991",
-      "discordThreadId": "1455762402217033852",
-      "instanceNumber": 1
-    },
-    {
-      "id": "samsung-research-america-intern-research-engineer-mobile-platform-and-solutions-mountain-view-2025-12-31-1",
-      "jobId": "samsung-research-america-intern-research-engineer-mobile-platform-and-solutions-mountain-view",
-      "company": "Samsung Research America",
-      "title": "Intern - Research Engineer - Mobile Platform and Solutions",
-      "postedToDiscord": "2025-12-31T03:20:11.734Z",
-      "sourceDate": "2025-12-31T02:19:05.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8350395002",
-      "discordThreadId": "1455762416867610810",
-      "instanceNumber": 1
-    },
     {
       "id": "dc-water-intern-water-operations-washington-2025-12-31-1",
       "jobId": "dc-water-intern-water-operations-washington",
@@ -2047,14 +2025,113 @@
       "sourceUrl": "https://wd5.myworkdaysite.com/en-US/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Data-Analytics-Technology-Intern--_R262",
       "discordThreadId": "1458291698894639216",
       "instanceNumber": 1
+    },
+    {
+      "id": "amentum-spring-2026-internship-ai-and-astronaut-physiology-houston-2026-01-07-1",
+      "jobId": "amentum-spring-2026-internship-ai-and-astronaut-physiology-houston",
+      "company": "Amentum",
+      "title": "Spring 2026 Internship - AI and Astronaut Physiology",
+      "postedToDiscord": "2026-01-07T03:22:31.013Z",
+      "sourceDate": "2026-01-06T23:32:31.000Z",
+      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Spring-2026-Internship---AI-and-Astronaut-Physiology_R0151247",
+      "discordThreadId": "1458299722732146791",
+      "instanceNumber": 1
+    },
+    {
+      "id": "merck-future-talent-program-co-op-computer-scientist-north-wales-2026-01-07-1",
+      "jobId": "merck-future-talent-program-co-op-computer-scientist-north-wales",
+      "company": "Merck",
+      "title": "Future Talent Program Co-op - Computer Scientist",
+      "postedToDiscord": "2026-01-07T03:22:34.502Z",
+      "sourceDate": "2026-01-06T23:28:23.000Z",
+      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Computer-Scientist---Co-Op_R378187",
+      "discordThreadId": "1458299736686596275",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-internship-san-jose-2026-01-07-1",
+      "jobId": "asml-internship-san-jose",
+      "company": "ASML",
+      "title": "Internship",
+      "postedToDiscord": "2026-01-07T03:22:38.028Z",
+      "sourceDate": "2026-01-06T23:27:49.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Algorithm-Engineering-for-Advanced-Computational-Lithograph_J-00327853",
+      "discordThreadId": "1458299751178174537",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-data-science-san-jose-2026-01-07-1",
+      "jobId": "micron-technology-intern-data-science-san-jose",
+      "company": "Micron Technology",
+      "title": "Intern – Data Science",
+      "postedToDiscord": "2026-01-07T03:22:41.399Z",
+      "sourceDate": "2026-01-06T23:23:29.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694",
+      "discordThreadId": "1458299765950382101",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-ai-driven-vehicle-simulation-intern-southfield-2026-01-07-1",
+      "jobId": "robert-bosch-venture-capital-ai-driven-vehicle-simulation-intern-southfield",
+      "company": "Robert Bosch Venture Capital",
+      "title": "AI-Driven Vehicle Simulation Intern",
+      "postedToDiscord": "2026-01-07T03:22:44.801Z",
+      "sourceDate": "2026-01-06T23:22:02.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000101956885",
+      "discordThreadId": "1458299779883995314",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara-2026-01-07-1",
+      "jobId": "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara",
+      "company": "Peraton",
+      "title": "Summer 2026 Software Engineer Intern - Santa Clara - CA",
+      "postedToDiscord": "2026-01-07T03:22:51.329Z",
+      "sourceDate": "2026-01-06T23:30:55.000Z",
+      "sourceUrl": "https://careers-peraton.icims.com/jobs/162553/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458299807121543269",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-software-engineering-intern-bellevue-2026-01-07-1",
+      "jobId": "t-mobile-software-engineering-intern-bellevue",
+      "company": "T-Mobile",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-07T03:22:54.615Z",
+      "sourceDate": "2026-01-06T23:28:46.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341142",
+      "discordThreadId": "1458299821734494312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "altagas-wgl-2026-summer-intern-utilities-data-analytics-springfield-2026-01-07-1",
+      "jobId": "altagas-wgl-2026-summer-intern-utilities-data-analytics-springfield",
+      "company": "AltaGas",
+      "title": "Wgl – 2026 Summer Intern: Utilities - Data Analytics",
+      "postedToDiscord": "2026-01-07T03:22:58.002Z",
+      "sourceDate": "2026-01-06T23:27:12.000Z",
+      "sourceUrl": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---2026-Summer-Intern--Utilities--Data-Analytics_R6552",
+      "discordThreadId": "1458299835647131688",
+      "instanceNumber": 1
+    },
+    {
+      "id": "newsbreak-ai-development-intern-mountain-view-2026-01-07-1",
+      "jobId": "newsbreak-ai-development-intern-mountain-view",
+      "company": "NewsBreak",
+      "title": "AI Development Intern",
+      "postedToDiscord": "2026-01-07T03:23:01.405Z",
+      "sourceDate": "2026-01-06T23:26:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
+      "discordThreadId": "1458299849740124212",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 186,
+    "totalJobs": 193,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T02:50:38.161Z",
+      "date": "2026-01-07T03:23:01.405Z",
       "archived": 0
     }
   }

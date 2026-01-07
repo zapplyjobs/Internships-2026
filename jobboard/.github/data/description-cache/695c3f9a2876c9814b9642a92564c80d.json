@@ -1,0 +1,17 @@
+{
+  "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400321",
+  "data": {
+    "success": true,
+    "platform": "taleo",
+    "description": "Click the link provided to see the complete job description.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400321",
+      "fetchedAt": "2026-01-07T03:22:07.379Z"
+    }
+  },
+  "cachedAt": 1767756127380
+}
