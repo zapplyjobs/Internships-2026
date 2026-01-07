@@ -20546,5 +20546,60 @@
     "sourceUrl": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-ML-Intern-in-Design-Automation_R01748",
     "discordThreadId": "1455610710683025492",
     "instanceNumber": 1
+  },
+  {
+    "id": "kla-application-engineer-intern-milpitas-2025-12-30-1",
+    "jobId": "kla-application-engineer-intern-milpitas",
+    "company": "KLA",
+    "title": "Application Engineer Intern",
+    "postedToDiscord": "2025-12-30T23:44:52.966Z",
+    "sourceDate": "2025-12-30T23:16:47.000Z",
+    "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Application-Engineer-Intern_2532180-1",
+    "discordThreadId": "1455708237977489568",
+    "instanceNumber": 1
+  },
+  {
+    "id": "steerbridge-intern-program-vienna-2025-12-30-1",
+    "jobId": "steerbridge-intern-program-vienna",
+    "company": "SteerBridge",
+    "title": "Intern Program",
+    "postedToDiscord": "2025-12-30T23:45:00.585Z",
+    "sourceDate": "2025-12-30T23:16:15.000Z",
+    "sourceUrl": "https://jobs.lever.co/steerbridge/8e04075a-0565-404a-bd25-941a5458df53/apply",
+    "discordThreadId": "1455708266238578856",
+    "instanceNumber": 1
+  },
+  {
+    "id": "commscope-intern-ims-software-engineering-denver-2025-12-30-1",
+    "jobId": "commscope-intern-ims-software-engineering-denver",
+    "company": "CommScope",
+    "title": "Intern - IMS Software Engineering",
+    "postedToDiscord": "2025-12-30T23:45:03.979Z",
+    "sourceDate": "2025-12-10T23:05:34.000Z",
+    "sourceUrl": "https://jobs.commscope.com/job/Catawba-Intern,-IMS-Software-Engineering-Nort/1347995900/?ats=successfactors",
+    "discordThreadId": "1455708283972358311",
+    "instanceNumber": 1
+  },
+  {
+    "id": "draper-simulation-engineering-intern-cambridge-2025-12-31-1",
+    "jobId": "draper-simulation-engineering-intern-cambridge",
+    "company": "Draper",
+    "title": "Simulation Engineering Intern",
+    "postedToDiscord": "2025-12-31T00:42:45.414Z",
+    "sourceDate": "2025-12-30T23:32:22.000Z",
+    "sourceUrl": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern_JR002078",
+    "discordThreadId": "1455722802278826106",
+    "instanceNumber": 1
+  },
+  {
+    "id": "tiktok-backend-software-engineer-intern-tiktok-pgc-monetization-2026-summer-bs-ms-seattle-2025-12-31-1",
+    "jobId": "tiktok-backend-software-engineer-intern-tiktok-pgc-monetization-2026-summer-bs-ms-seattle",
+    "company": "TikTok",
+    "title": "Backend Software Engineer Intern - Tiktok-PGC-Monetization - 2026 Summer - BS/MS",
+    "postedToDiscord": "2025-12-31T00:42:48.919Z",
+    "sourceDate": "2025-08-07T08:16:11.000Z",
+    "sourceUrl": "https://lifeattiktok.com/search/7533096848266709266",
+    "discordThreadId": "1455722816576950365",
+    "instanceNumber": 1
   }
 ]
