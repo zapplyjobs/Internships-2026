@@ -150,7 +150,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 14h |
+| Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 15h |
 
 ### 🏭 **Manufacturing & Industrial** (2 positions)
 
@@ -193,9 +193,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🌍 Top Locations
 - **Boston, MA**: 2 opportunities
 - **San Jose, CA**: 1 opportunity
-- **Seattle, WA**: 1 opportunity
 - **Santa Clara, CA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
+- **Seattle, WA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 
 ---
@@ -283,13 +283,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1815 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1814 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1815 roles
-- **🏢 Companies**: 133 companies  
+- **📁 Total Positions**: 1814 roles
+- **🏢 Companies**: 132 companies  
 - **⭐ FAANG+ Opportunities**: 85 positions
 
 ### ⭐ **FAANG+** (85 positions)
