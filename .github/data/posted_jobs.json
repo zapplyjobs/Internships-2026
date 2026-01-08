@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T01:17:53.420Z",
+  "lastUpdated": "2026-01-08T02:01:12.373Z",
   "jobs": [
     {
       "id": "amentum-combustion-devices-engineer-intern-huntsville-2026-01-01-1",
@@ -2421,14 +2421,102 @@
       "sourceUrl": "https://jobs.lever.co/fehrandpeers/cc301dd2-a165-4d9c-a147-ddfdf06280cc/apply",
       "discordThreadId": "1458630745190043830",
       "instanceNumber": 1
+    },
+    {
+      "id": "first-bank-trust-data-analyst-intern-brookings-2026-01-08-1",
+      "jobId": "first-bank-trust-data-analyst-intern-brookings",
+      "company": "First Bank & Trust",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2026-01-08T02:00:36.631Z",
+      "sourceDate": "2026-01-07T23:06:46.000Z",
+      "sourceUrl": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/Data-Analyst-Intern_R-100625",
+      "discordThreadId": "1458641497317703841",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sherwin-williams-2026-r-d-data-science-co-op-cleveland-seven-hills-2026-01-08-1",
+      "jobId": "sherwin-williams-2026-r-d-data-science-co-op-cleveland-seven-hills",
+      "company": "Sherwin-Williams",
+      "title": "2026 R&D Data Science Co Op-Cleveland",
+      "postedToDiscord": "2026-01-08T02:00:40.897Z",
+      "sourceDate": "2025-10-31T23:03:48.000Z",
+      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2541276",
+      "discordThreadId": "1458641512127529121",
+      "instanceNumber": 1
+    },
+    {
+      "id": "washpost-summer-intern-subscriptions-washington-2026-01-08-1",
+      "jobId": "washpost-summer-intern-subscriptions-washington",
+      "company": "Washpost",
+      "title": "Summer Intern - Subscriptions",
+      "postedToDiscord": "2026-01-08T02:00:47.743Z",
+      "sourceDate": "2026-01-07T23:06:09.000Z",
+      "sourceUrl": "https://washpost.wd5.myworkdayjobs.com/washingtonpostcareers/job/DC-Washington-TWP-Headquarters/Summer-Intern--Subscriptions_JR-90275653",
+      "discordThreadId": "1458641543177961533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-deloitte-consulting-llp-summer-scholar-government-public-services-ai-data-engineering-arlington-2026-01-08-1",
+      "jobId": "deloitte-deloitte-consulting-llp-summer-scholar-government-public-services-ai-data-engineering-arlington",
+      "company": "Deloitte",
+      "title": "Deloitte Consulting LLP – Summer Scholar - Government & Public Services - AI & Data Engineering",
+      "postedToDiscord": "2026-01-08T02:00:54.641Z",
+      "sourceDate": "2025-09-18T23:48:31.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-AI-Data-Engineering/309500",
+      "discordThreadId": "1458641571800027302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmi-ai-engineer-intern-usps-summer-2026-washington-2026-01-08-1",
+      "jobId": "lmi-ai-engineer-intern-usps-summer-2026-washington",
+      "company": "LMI ",
+      "title": "AI Engineer Intern - Usps - Summer 2026",
+      "postedToDiscord": "2026-01-08T02:00:58.051Z",
+      "sourceDate": "2025-10-31T07:25:08.000Z",
+      "sourceUrl": "https://careers-lmi.icims.com/jobs/13491/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458641587528798405",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dun-bradstreet-internship-program-data-analytics-jacksonville-2026-01-08-1",
+      "jobId": "dun-bradstreet-internship-program-data-analytics-jacksonville",
+      "company": "Dun & Bradstreet",
+      "title": "Internship Program - Data & Analytics",
+      "postedToDiscord": "2026-01-08T02:01:01.784Z",
+      "sourceDate": "2025-09-27T22:32:10.000Z",
+      "sourceUrl": "https://jobs.lever.co/dnb/a1b2fa28-5972-48d4-8089-0fcf2259bab0/apply",
+      "discordThreadId": "1458641601881575584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "seagate-technology-data-analyst-intern-global-revenue-operations-longmont-2026-01-08-1",
+      "jobId": "seagate-technology-data-analyst-intern-global-revenue-operations-longmont",
+      "company": "Seagate Technology ",
+      "title": "Data Analyst Intern - Global Revenue Operations",
+      "postedToDiscord": "2026-01-08T02:01:05.634Z",
+      "sourceDate": "2025-09-05T01:43:04.000Z",
+      "sourceUrl": "https://seagatecareers.com/job/Data-Analyst-Intern-Global-Revenue-Operations/1323162400/?ats=successfactors",
+      "discordThreadId": "1458641617727651984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-summer-scholar-government-public-services-software-engineering-arlington-2026-01-08-1",
+      "jobId": "deloitte-summer-scholar-government-public-services-software-engineering-arlington",
+      "company": "Deloitte",
+      "title": "Summer Scholar - Government & Public Services - Software Engineering",
+      "postedToDiscord": "2026-01-08T02:01:12.372Z",
+      "sourceDate": "2025-10-01T21:16:05.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Software-Engineering/309291",
+      "discordThreadId": "1458641646848708801",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 220,
+    "totalJobs": 228,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T01:17:53.420Z",
+      "date": "2026-01-08T02:01:12.373Z",
       "archived": 0
     }
   }
