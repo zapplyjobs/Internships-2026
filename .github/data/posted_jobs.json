@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T02:01:12.373Z",
+  "lastUpdated": "2026-01-08T02:49:02.963Z",
   "jobs": [
     {
       "id": "amentum-combustion-devices-engineer-intern-huntsville-2026-01-01-1",
@@ -2509,14 +2509,25 @@
       "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Summer-Scholar-Software-Engineering/309291",
       "discordThreadId": "1458641646848708801",
       "instanceNumber": 1
+    },
+    {
+      "id": "expedia-machine-learning-science-intern-phd-austin-2026-01-08-1",
+      "jobId": "expedia-machine-learning-science-intern-phd-austin",
+      "company": "Expedia Group",
+      "title": "Machine Learning Science Intern - PhD",
+      "postedToDiscord": "2026-01-08T02:49:02.963Z",
+      "sourceDate": "2025-10-09T18:03:39.000Z",
+      "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585-1",
+      "discordThreadId": "1458653688284446871",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 228,
+    "totalJobs": 229,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T02:01:12.373Z",
+      "date": "2026-01-08T02:49:02.963Z",
       "archived": 0
     }
   }
