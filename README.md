@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 8+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 9+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,7 +75,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 8 hot data-focused jobs
+- 🔥 **Current Positions:** 9 hot data-focused jobs
 - **🏢 Companies**: 5 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
 - 📅 **Last Updated:** January 8, 2026
@@ -153,12 +153,13 @@ Connect with fellow students, get career advice, share internship experiences, a
 |------|----------|-------|-----------|-----|
 | Software Engineer 1 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2004856) | 1d |
 
-### 🏭 **Manufacturing & Industrial** (2 positions)
+### 🏭 **Manufacturing & Industrial** (3 positions)
 
-#### 💾 **Micron Technology** (2 positions)
+#### 💾 **Micron Technology** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Intern IT Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR88210) | 1h |
 | Intern – Data Science | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694) | 21h |
 | Process Control Engineer Intern | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132) | 6d |
 
@@ -185,26 +186,26 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 7 | 88% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 1 | 13% | 0-1 years of experience |
-| 🔴 Early Career         | 0 | -1% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 8 | 89% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 1 | 11% | 0-1 years of experience |
+| 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
 
 ### 🌍 Top Locations
+- **Boise, ID**: 2 opportunities
 - **Boston, MA**: 2 opportunities
 - **Washington, Locations**: 1 opportunity
 - **San Jose, CA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
 - **Santa Clara, CA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
-- **Boise, ID**: 1 opportunity
 
 ---
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 8+ verified internships and new grad roles from 5 top companies.
+✅ **100% Real Opportunities:** 9+ verified internships and new grad roles from 5 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -285,13 +286,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1802 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1811 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1802 roles
-- **🏢 Companies**: 125 companies  
+- **📁 Total Positions**: 1811 roles
+- **🏢 Companies**: 145 companies  
 - **⭐ FAANG+ Opportunities**: 84 positions
 
 ### ⭐ **FAANG+** (84 positions)
@@ -658,7 +659,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 8 current opportunities from 5 top companies.**
+**🎯 9 current opportunities from 5 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
