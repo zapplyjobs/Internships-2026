@@ -75,5 +75,159 @@
     "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236611002",
     "discordThreadId": "1456199779540275232",
     "instanceNumber": 1
+  },
+  {
+    "id": "mongodb-2026-security-engineering-intern-seattle-seattle-2026-01-01-1",
+    "jobId": "mongodb-2026-security-engineering-intern-seattle-seattle",
+    "company": "MongoDB",
+    "title": "2026 – Security Engineering Intern - Seattle",
+    "postedToDiscord": "2026-01-01T10:43:24.130Z",
+    "sourceDate": "2025-10-25T15:12:16.000Z",
+    "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7292747",
+    "discordThreadId": "1456236347743277138",
+    "instanceNumber": 1
+  },
+  {
+    "id": "charter-manufacturing-digital-industry-intern-grafton-2026-01-01-1",
+    "jobId": "charter-manufacturing-digital-industry-intern-grafton",
+    "company": "Charter Manufacturing",
+    "title": "Digital Industry Intern",
+    "postedToDiscord": "2026-01-01T12:19:22.802Z",
+    "sourceDate": "2025-12-13T11:42:20.000Z",
+    "sourceUrl": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Digital-Industry-40-Intern---Summer-2026_R07141",
+    "discordThreadId": "1456260501297303552",
+    "instanceNumber": 1
+  },
+  {
+    "id": "zoetis-tech-and-digital-intern-process-optimization-automation-developer-parsippany-troy-hills-2026-01-01-1",
+    "jobId": "zoetis-tech-and-digital-intern-process-optimization-automation-developer-parsippany-troy-hills",
+    "company": "Zoetis",
+    "title": "Tech and Digital Intern: Process Optimization & Automation Developer",
+    "postedToDiscord": "2026-01-01T12:19:29.820Z",
+    "sourceDate": "2025-12-04T07:21:45.000Z",
+    "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Tech-and-Digital-Intern---Process-Optimization---Automation-Developer_JR00019607-2",
+    "discordThreadId": "1456260528312942675",
+    "instanceNumber": 1
+  },
+  {
+    "id": "zurich-insurance-zrs-intern-quality-and-compliance-hoffman-estates-2026-01-01-1",
+    "jobId": "zurich-insurance-zrs-intern-quality-and-compliance-hoffman-estates",
+    "company": "Zurich Insurance",
+    "title": "ZRS Intern - Quality and Compliance",
+    "postedToDiscord": "2026-01-01T13:18:29.546Z",
+    "sourceDate": "2025-12-18T23:32:44.000Z",
+    "sourceUrl": "https://www.careers.zurich.com/job/Schaumburg-ZRS-Internship-Quality-and-Compliance-Summer-2026-IL-60159/1348768057/?ats=successfactors",
+    "discordThreadId": "1456275377314861120",
+    "instanceNumber": 1
+  },
+  {
+    "id": "micron-technology-process-control-engineer-intern-boise-2026-01-01-1",
+    "jobId": "micron-technology-process-control-engineer-intern-boise",
+    "company": "Micron Technology",
+    "title": "Process Control Engineer Intern",
+    "postedToDiscord": "2026-01-01T13:18:36.069Z",
+    "sourceDate": "2025-10-31T02:58:48.000Z",
+    "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Process-Control_JR83132",
+    "discordThreadId": "1456275404380962899",
+    "instanceNumber": 1
+  },
+  {
+    "id": "public-service-enterprise-summer-2026-technical-intern-voice-of-the-customer-team-newark-2026-01-01-1",
+    "jobId": "public-service-enterprise-summer-2026-technical-intern-voice-of-the-customer-team-newark",
+    "company": "Public Service Enterprise Group",
+    "title": "Summer 2026 – Technical Intern - Voice of the Customer Team",
+    "postedToDiscord": "2026-01-01T14:17:15.025Z",
+    "sourceDate": "2025-12-29T23:14:41.000Z",
+    "sourceUrl": "https://jobs.pseg.com/job/Newark-Summer-2026-Technical-Intern-Voice-of-the-Customer-Team-NJ-07101/1352389400/?ats=successfactors",
+    "discordThreadId": "1456290164165836822",
+    "instanceNumber": 1
+  },
+  {
+    "id": "certik-security-research-internship-seattle-2026-01-01-1",
+    "jobId": "certik-security-research-internship-seattle",
+    "company": "Certik",
+    "title": "Security Research Internship",
+    "postedToDiscord": "2026-01-01T14:17:18.412Z",
+    "sourceDate": "2025-10-31T02:04:23.000Z",
+    "sourceUrl": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33/apply",
+    "discordThreadId": "1456290178535526410",
+    "instanceNumber": 1
+  },
+  {
+    "id": "public-service-enterprise-technical-intern-outside-plant-distribution-asset-mgmt-edison-2026-01-01-1",
+    "jobId": "public-service-enterprise-technical-intern-outside-plant-distribution-asset-mgmt-edison",
+    "company": "Public Service Enterprise Group",
+    "title": "Technical Intern - Outside Plant Distribution Asset Mgmt",
+    "postedToDiscord": "2026-01-01T14:17:25.192Z",
+    "sourceDate": "2025-12-23T23:26:29.000Z",
+    "sourceUrl": "https://jobs.pseg.com/job/Edison-Summer-2026-Technical-Intern-Outside-Plant-Distribution-Asset-Mgmt-NJ-08817/1351953900/?ats=successfactors",
+    "discordThreadId": "1456290205588914208",
+    "instanceNumber": 1
+  },
+  {
+    "id": "neuralink-robot-optics-intern-fremont-2026-01-01-1",
+    "jobId": "neuralink-robot-optics-intern-fremont",
+    "company": "Neuralink",
+    "title": "Robot Optics Intern",
+    "postedToDiscord": "2026-01-01T14:17:31.745Z",
+    "sourceDate": "2025-05-14T22:33:13.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6576326003",
+    "discordThreadId": "1456290233761927262",
+    "instanceNumber": 1
+  },
+  {
+    "id": "amc-networks-intern-santa-monica-2026-01-01-1",
+    "jobId": "amc-networks-intern-santa-monica",
+    "company": "AMC Networks",
+    "title": "Intern",
+    "postedToDiscord": "2026-01-01T15:16:37.187Z",
+    "sourceDate": "2025-12-24T18:37:11.000Z",
+    "sourceUrl": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/job/New-York-NY/Summer-Intern---Global-Technology---Operations_R-4754",
+    "discordThreadId": "1456305104599777414",
+    "instanceNumber": 1
+  },
+  {
+    "id": "marmon-holdings-engineering-intern-decatur-2026-01-01-1",
+    "jobId": "marmon-holdings-engineering-intern-decatur",
+    "company": "Marmon Holdings",
+    "title": "Engineering Intern",
+    "postedToDiscord": "2026-01-01T16:17:52.593Z",
+    "sourceDate": "2025-12-06T12:41:06.000Z",
+    "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Cullman-AL/Engineering-Intern---Summer-2026_JR0000037704-4",
+    "discordThreadId": "1456320519971275015",
+    "instanceNumber": 1
+  },
+  {
+    "id": "servicenow-digital-technology-associate-data-informatics-analyst-intern-dt-santa-clara-2026-01-01-1",
+    "jobId": "servicenow-digital-technology-associate-data-informatics-analyst-intern-dt-santa-clara",
+    "company": "ServiceNow",
+    "title": "Digital Technology – Associate Data Informatics Analyst Intern - Dt",
+    "postedToDiscord": "2026-01-01T16:17:56.464Z",
+    "sourceDate": "2025-10-26T11:28:45.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/ServiceNow/744000089582236",
+    "discordThreadId": "1456320535033020572",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genmab-clinical-pharmacology-and-quantitative-science-intern-programming-computer-science-princeton-2026-01-01-1",
+    "jobId": "genmab-clinical-pharmacology-and-quantitative-science-intern-programming-computer-science-princeton",
+    "company": "Genmab",
+    "title": "Clinical Pharmacology and Quantitative Science Intern - Programming/Computer Science",
+    "postedToDiscord": "2026-01-01T16:18:02.866Z",
+    "sourceDate": "2025-12-17T23:19:40.000Z",
+    "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Clinical-Pharmacology-and-Quantitative-Science-Intern--Programming-Computer-Science-_R14681",
+    "discordThreadId": "1456320563948818595",
+    "instanceNumber": 1
+  },
+  {
+    "id": "obsidian-entertainment-area-designer-intern-area-design-irvine-2026-01-01-1",
+    "jobId": "obsidian-entertainment-area-designer-intern-area-design-irvine",
+    "company": "Obsidian Entertainment",
+    "title": "Area Designer Intern - Area Design",
+    "postedToDiscord": "2026-01-01T17:16:50.030Z",
+    "sourceDate": "2025-10-31T08:08:01.000Z",
+    "sourceUrl": "https://obsidian.applytojob.com/apply/BtnxtlX823/Area-Designer-2026-Summer-Internship",
+    "discordThreadId": "1456335357682389102",
+    "instanceNumber": 1
   }
 ]
