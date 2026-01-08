@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-07T18:18:12.980Z",
+  "lastUpdated": "2026-01-08T00:44:08.396Z",
   "jobs": [
-    {
-      "id": "7-eleven-software-developer-intern-irving-2025-12-31-1",
-      "jobId": "7-eleven-software-developer-intern-irving",
-      "company": "7-Eleven",
-      "title": "Software Developer Intern",
-      "postedToDiscord": "2025-12-31T19:16:39.680Z",
-      "sourceDate": "2025-10-26T04:11:00.000Z",
-      "sourceUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
-      "discordThreadId": "1456003125424165007",
-      "instanceNumber": 1
-    },
-    {
-      "id": "entrust-intern-ai-developer-shakopee-2025-12-31-1",
-      "jobId": "entrust-intern-ai-developer-shakopee",
-      "company": "Entrust",
-      "title": "Intern AI Developer",
-      "postedToDiscord": "2025-12-31T19:16:46.109Z",
-      "sourceDate": "2025-12-31T17:56:33.000Z",
-      "sourceUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Intern-AI-Developer_R003982",
-      "discordThreadId": "1456003152594731109",
-      "instanceNumber": 1
-    },
-    {
-      "id": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson-2025-12-31-1",
-      "jobId": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson",
-      "company": "Public Service Enterprise Group",
-      "title": "Technical Intern - Centralized Work Planning and Scheduling",
-      "postedToDiscord": "2025-12-31T23:37:49.287Z",
-      "sourceDate": "2025-12-31T23:11:03.000Z",
-      "sourceUrl": "https://jobs.pseg.com/job/Clifton-Summer-2026-Technical-Intern-Centralized-Work-Planning-and-Scheduling-NJ-07011/1352771200/?ats=successfactors",
-      "discordThreadId": "1456068848372682762",
-      "instanceNumber": 1
-    },
-    {
-      "id": "perpay-data-science-internship-philadelphia-2025-12-31-1",
-      "jobId": "perpay-data-science-internship-philadelphia",
-      "company": "Perpay",
-      "title": "Data Science Internship",
-      "postedToDiscord": "2025-12-31T23:37:55.806Z",
-      "sourceDate": "2025-09-08T07:00:07.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
-      "discordThreadId": "1456068875857694805",
-      "instanceNumber": 1
-    },
     {
       "id": "scs-engineers-engineering-intern-summer-2026-dayton-2026-01-01-1",
       "jobId": "scs-engineers-engineering-intern-summer-2026-dayton",
@@ -2300,14 +2256,113 @@
       "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Laser-Computational-Modeling-Scientist_J-00331361",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "sanofi-digital-patient-experience-analytics-summer-fall-2026-co-op-cambridge-2026-01-08-1",
+      "jobId": "sanofi-digital-patient-experience-analytics-summer-fall-2026-co-op-cambridge",
+      "company": "Sanofi",
+      "title": "Digital Patient Experience Analytics Summer-Fall 2026 Co-op",
+      "postedToDiscord": "2026-01-08T00:43:27.619Z",
+      "sourceDate": "2026-01-08T00:22:34.000Z",
+      "sourceUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Digital-Patient-Experience-Analytics-Summer-Fall-2026-Co-op_R2833319",
+      "discordThreadId": "1458622082169700572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "qts-software-engineering-intern-ashburn-2026-01-08-1",
+      "jobId": "qts-software-engineering-intern-ashburn",
+      "company": "QTS",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-08T00:43:31.292Z",
+      "sourceDate": "2026-01-07T23:37:21.000Z",
+      "sourceUrl": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2026-Internship--Software-Engineering--Automation-Tool-Design-and-or-Software-Project-Management_R2026-0025",
+      "discordThreadId": "1458622096661020672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "alston-bird-law-firm-developer-intern-atlanta-2026-01-08-1",
+      "jobId": "alston-bird-law-firm-developer-intern-atlanta",
+      "company": "Alston & Bird Law Firm",
+      "title": "Developer Intern",
+      "postedToDiscord": "2026-01-08T00:43:37.947Z",
+      "sourceDate": "2026-01-08T00:10:18.000Z",
+      "sourceUrl": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100783",
+      "discordThreadId": "1458622125001670687",
+      "instanceNumber": 1
+    },
+    {
+      "id": "invesco-summer-2026-real-estate-data-science-intern-dallas-2026-01-08-1",
+      "jobId": "invesco-summer-2026-real-estate-data-science-intern-dallas",
+      "company": "Invesco",
+      "title": "Summer 2026 Real Estate Data Science Intern",
+      "postedToDiscord": "2026-01-08T00:43:41.595Z",
+      "sourceDate": "2026-01-07T23:54:50.000Z",
+      "sourceUrl": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Summer-2026-Real-Estate-Data-Science-Intern_R-12701-1",
+      "discordThreadId": "1458622140377989383",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmi-data-science-intern-usps-summer-2026-washington-2026-01-08-1",
+      "jobId": "lmi-data-science-intern-usps-summer-2026-washington",
+      "company": "LMI ",
+      "title": "Data Science Intern - Usps - Summer 2026",
+      "postedToDiscord": "2026-01-08T00:43:45.217Z",
+      "sourceDate": "2026-01-07T23:34:46.000Z",
+      "sourceUrl": "https://careers-lmi.icims.com/jobs/13490/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458622155183886476",
+      "instanceNumber": 1
+    },
+    {
+      "id": "western-digital-summer-2026-intern-materials-modeling-san-jose-2026-01-08-1",
+      "jobId": "western-digital-summer-2026-intern-materials-modeling-san-jose",
+      "company": "Western Digital",
+      "title": "Summer 2026 Intern - Materials Modeling",
+      "postedToDiscord": "2026-01-08T00:43:51.927Z",
+      "sourceDate": "2026-01-07T23:55:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/WesternDigital/744000102166019",
+      "discordThreadId": "1458622182904168548",
+      "instanceNumber": 1
+    },
+    {
+      "id": "virtru-operations-analytics-intern-washington-2026-01-08-1",
+      "jobId": "virtru-operations-analytics-intern-washington",
+      "company": "Virtru",
+      "title": "Operations & Analytics Intern",
+      "postedToDiscord": "2026-01-08T00:43:58.412Z",
+      "sourceDate": "2026-01-07T23:40:19.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/virtru/jobs/4647103005",
+      "discordThreadId": "1458622211454800022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-aerospace-defense-application-engineer-intern-santa-rosa-2026-01-08-1",
+      "jobId": "keysight-aerospace-defense-application-engineer-intern-santa-rosa",
+      "company": "Keysight Technologies",
+      "title": "Aerospace Defense Application Engineer Intern",
+      "postedToDiscord": "2026-01-08T00:44:01.956Z",
+      "sourceDate": "2026-01-07T23:33:40.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/49694?lang=en-us&icims=1",
+      "discordThreadId": "1458622225941794868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-linux-automation-intern-san-antonio-2026-01-08-1",
+      "jobId": "general-dynamics-mission-linux-automation-intern-san-antonio",
+      "company": "General Dynamics Mission Systems",
+      "title": "Linux Automation Intern",
+      "postedToDiscord": "2026-01-08T00:44:08.395Z",
+      "sourceDate": "2026-01-07T23:34:12.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69447/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458622253137793217",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 209,
+    "totalJobs": 214,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-07T18:18:12.980Z",
+      "date": "2026-01-08T00:44:08.396Z",
       "archived": 0
     }
   }

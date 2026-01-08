@@ -1,0 +1,24 @@
+{
+  "url": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Application-Engineer-Internship_JR100525-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "It's fun to work in a company where people truly BELIEVE in what they're doing!We're committed to bringing passion and customer focus to the business.Peter Millar was founded in 2001 with a single cashmere sweater offered in 24 colors. Based in Raleigh and Durham, North Carolina, the American lifestyle brand has grown to include luxury performance sportswear, seasonal resort and country club apparel, sophisticated classics, casually refined tailored clothing and sartorial accessories.We strive to capture timeless style upgraded with signature innovations, in designs that are in tune with modern life. We embrace working hard, being kind and doing right by our customers, aiming to set a higher standard for the apparel industry.We are seeking an Application Engineer Intern who is excited to learn how business applications and websites are built and improved. In this role, you will help create and maintain internal and customer-facing web features using Microsoft technologies such as C#, .NET, JavaScript, PowerShell, and SQL Server. You will also have the opportunity to learn how web applications integrate with other systems through APIs and automation tools.This position offers hands-on experience in modern .NET development, DevOps practices, and real-world software delivery in a collaborative IT environment.ESSENTIAL FUNCTIONS:Assist with developing and updating web pages, forms, and applications using C#, JavaScript, and .NET 10Help connect applications to databases and APIs to retrieve or send dataSupport troubleshooting and debugging web functionality and UI issuesContribute to code reviews, quality checks, and testing effortsLearn best practices for secure and scalable web developmentHelp document technical changes and update user guidesAssist with website deployments using source control tools like Git/GitHub and automation with GitHub ActionsWork with designers, business analysts, and senior developers to support project goalsCOMPETENCIES:Strong problem-solving and analytical skillsAttention to detail and ability to follow technical instructionsEffective communication and collaboration in a team environmentCuriosity and willingness to learn new technologies and practicesDESIRED EDUCATION AND EXPERIENCE:Working toward a bachelor’s degree in Computer Science, IS/IT, or related fieldBasic understanding of programming concepts or exposure to languages like C# or PythonUnderstanding of object-oriented programming (OOP) principlesSome familiarity with databases and SQL (coursework or personal projects acceptable)Familiarity with .NET 10 (or willingness to learn)Interest in learning how REST APIs, event-based messaging, and cloud services workBONUS SKILLS (Not Required):Experience with ASP.NET MVC, Razor Pages, or BlazorSQL skills (queries, stored procedures)Use of REST APIs or authentication methodsFamiliarity with Azure App Services, GitHub, or CI/CD conceptsInterest in UI/UX design or front-end frameworksInternship Program Overview:This is a paid, in-person internship based in our Raleigh or Durham offices, running from May 18 through August 7, 2026. Interns are paid $18.25 per hour and will gain hands-on experience by being fully integrated into their respective teams. Throughout the internship, participants will complete a capstone project, collaborate cross-functionally, connect with company leaders and executives, and participate in intern lunch-and-learns and other professional development opportunities.If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",
+    "requirements": [
+      "Working toward a bachelor’s degree in Computer Science, IS/IT, or related field"
+    ],
+    "responsibilities": [
+      "Assist with developing and updating web pages, forms, and applications using C#, JavaScript, and .NET 10",
+      "Learn best practices for secure and scalable web development",
+      "Work with designers, business analysts, and senior developers to support project goalsCOMPETENCIES:",
+      "Curiosity and willingness to learn new technologies and practices",
+      "Familiarity with .NET 10 (or willingness to learn)"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Application-Engineer-Internship_JR100525-1",
+      "fetchedAt": "2026-01-08T00:43:08.803Z"
+    }
+  },
+  "cachedAt": 1767832988803
+}
