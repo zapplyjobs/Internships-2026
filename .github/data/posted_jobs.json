@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T02:49:02.963Z",
+  "lastUpdated": "2026-01-08T03:22:37.013Z",
   "jobs": [
-    {
-      "id": "amentum-combustion-devices-engineer-intern-huntsville-2026-01-01-1",
-      "jobId": "amentum-combustion-devices-engineer-intern-huntsville",
-      "company": "Amentum",
-      "title": "Combustion Devices Engineer Intern",
-      "postedToDiscord": "2026-01-01T02:58:28.465Z",
-      "sourceDate": "2026-01-01T01:20:56.000Z",
-      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Combustion-Devices-Engineer-Intern_R0150972-1",
-      "discordThreadId": "1456119343946661959",
-      "instanceNumber": 1
-    },
     {
       "id": "microsoft-research-intern-machine-learning-and-optimization-cambridge-2026-01-01-1",
       "jobId": "microsoft-research-intern-machine-learning-and-optimization-cambridge",
@@ -2520,14 +2509,36 @@
       "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585-1",
       "discordThreadId": "1458653688284446871",
       "instanceNumber": 1
+    },
+    {
+      "id": "sanofi-ai-agent-development-in-non-clinical-biostatistical-research-fall-co-op-cambridge-2026-01-08-1",
+      "jobId": "sanofi-ai-agent-development-in-non-clinical-biostatistical-research-fall-co-op-cambridge",
+      "company": "Sanofi",
+      "title": "AI Agent Development in Non-Clinical Biostatistical Research Fall Co-op",
+      "postedToDiscord": "2026-01-08T03:22:30.349Z",
+      "sourceDate": "2026-01-08T02:32:39.000Z",
+      "sourceUrl": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/AI-Agent-Development-in-Non-Clinical-Biostatistical-Research-Fall-Co-op_R2833533",
+      "discordThreadId": "1458662106936377469",
+      "instanceNumber": 1
+    },
+    {
+      "id": "labcorp-intern-software-engineering-software-engineering-hartford-2026-01-08-1",
+      "jobId": "labcorp-intern-software-engineering-software-engineering-hartford",
+      "company": "LabCorp",
+      "title": "Intern - Software Engineering - Software Engineering",
+      "postedToDiscord": "2026-01-08T03:22:37.012Z",
+      "sourceDate": "2025-10-13T20:30:23.000Z",
+      "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Intern---Software-Engineering_2531675",
+      "discordThreadId": "1458662134773710890",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 229,
+    "totalJobs": 230,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T02:49:02.963Z",
+      "date": "2026-01-08T03:22:37.013Z",
       "archived": 0
     }
   }

@@ -134,8 +134,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 9h |
 | Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 6d |
+| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 9h |
 
 ### 🏢 **Top Tech** (1 position)
 
@@ -195,10 +195,10 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🌍 Top Locations
 - **Boise, ID**: 2 opportunities
 - **Boston, MA**: 2 opportunities
-- **Washington, Locations**: 1 opportunity
-- **San Jose, CA**: 1 opportunity
 - **Santa Clara, CA**: 1 opportunity
 - **Cambridge, MA**: 1 opportunity
+- **Washington, Locations**: 1 opportunity
+- **San Jose, CA**: 1 opportunity
 - **Seattle, WA**: 1 opportunity
 
 ---
@@ -286,13 +286,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1808 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1804 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1808 roles
-- **🏢 Companies**: 143 companies  
+- **📁 Total Positions**: 1804 roles
+- **🏢 Companies**: 144 companies  
 - **⭐ FAANG+ Opportunities**: 84 positions
 
 ### ⭐ **FAANG+** (84 positions)
