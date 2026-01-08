@@ -1,128 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T20:43:31.846Z",
+  "lastUpdated": "2026-01-08T23:39:10.440Z",
   "jobs": [
-    {
-      "id": "abbvie-statistics-intern-phd-livingston-2026-01-01-1",
-      "jobId": "abbvie-statistics-intern-phd-livingston",
-      "company": "AbbVie",
-      "title": "Statistics Intern - PhD",
-      "postedToDiscord": "2026-01-01T20:50:03.702Z",
-      "sourceDate": "2025-12-20T09:18:55.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
-      "discordThreadId": "1456389017733038131",
-      "instanceNumber": 1
-    },
-    {
-      "id": "abbvie-statistics-intern-phd-waukegan-2026-01-01-1",
-      "jobId": "abbvie-statistics-intern-phd-waukegan",
-      "company": "AbbVie",
-      "title": "Statistics Intern - PhD",
-      "postedToDiscord": "2026-01-01T20:50:03.706Z",
-      "sourceDate": "2025-12-19T19:09:38.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808736",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "abbvie-statistics-intern-san-bruno-2026-01-01-1",
-      "jobId": "abbvie-statistics-intern-san-bruno",
-      "company": "AbbVie",
-      "title": "Statistics Intern",
-      "postedToDiscord": "2026-01-01T20:50:03.709Z",
-      "sourceDate": "2025-11-14T23:25:54.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808715",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "kbr-national-security-solutions-intern-positioning-navigation-and-timing-beavercreek-2026-01-01-1",
-      "jobId": "kbr-national-security-solutions-intern-positioning-navigation-and-timing-beavercreek",
-      "company": "KBR",
-      "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
-      "postedToDiscord": "2026-01-01T22:17:13.487Z",
-      "sourceDate": "2025-12-23T19:24:14.000Z",
-      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882",
-      "discordThreadId": "1456410953322332160",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kontoor-brands-intern-consumer-insights-greensboro-2026-01-01-1",
-      "jobId": "kontoor-brands-intern-consumer-insights-greensboro",
-      "company": "Kontoor Brands",
-      "title": "Intern - Consumer Insights",
-      "postedToDiscord": "2026-01-01T22:17:20.051Z",
-      "sourceDate": "2025-12-16T23:05:53.000Z",
-      "sourceUrl": "https://kbi.wd5.myworkdayjobs.com/Kontoor/job/Greensboro-NC/Summer-Intern--Consumer-Insights_R-20251212-0005",
-      "discordThreadId": "1456410980769861754",
-      "instanceNumber": 1
-    },
-    {
-      "id": "s-c-electric-company-manufacturing-intern-manufacturing-greendale-2026-01-01-1",
-      "jobId": "s-c-electric-company-manufacturing-intern-manufacturing-greendale",
-      "company": "S&C Electric Company",
-      "title": "Manufacturing Intern - Manufacturing",
-      "postedToDiscord": "2026-01-01T22:17:26.659Z",
-      "sourceDate": "2025-11-25T08:38:41.000Z",
-      "sourceUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/105781",
-      "discordThreadId": "1456411007957340293",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intuit-summer-2026-fraud-and-risk-intern-mountain-view-2026-01-01-1",
-      "jobId": "intuit-summer-2026-fraud-and-risk-intern-mountain-view",
-      "company": "Intuit",
-      "title": "Summer 2026 Fraud and Risk Intern",
-      "postedToDiscord": "2026-01-01T22:17:33.141Z",
-      "sourceDate": "2025-11-04T02:41:28.000Z",
-      "sourceUrl": "https://jobs.intuit.com/job/mountain-view/summer-2026-master-s-students-fraud-and-risk-intern/27595/88025996768",
-      "discordThreadId": "1456411035929149592",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cmtelematics-internships-cambridge-2026-01-01-1",
-      "jobId": "cmtelematics-internships-cambridge",
-      "company": "CMTelematics",
-      "title": "Internships",
-      "postedToDiscord": "2026-01-01T22:17:39.643Z",
-      "sourceDate": "2025-09-04T05:06:30.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/cmt/jobs/6300371",
-      "discordThreadId": "1456411063217160202",
-      "instanceNumber": 1
-    },
-    {
-      "id": "intapp-implementation-services-intern-charlotte-2026-01-01-1",
-      "jobId": "intapp-implementation-services-intern-charlotte",
-      "company": "Intapp",
-      "title": "Implementation Services Intern",
-      "postedToDiscord": "2026-01-01T22:40:25.836Z",
-      "sourceDate": "2025-12-11T02:26:32.000Z",
-      "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Implementation-Services-Intern_R2024535-1",
-      "discordThreadId": "1456416791432532020",
-      "instanceNumber": 1
-    },
-    {
-      "id": "paccar-warranty-audit-intern-denton-2026-01-01-1",
-      "jobId": "paccar-warranty-audit-intern-denton",
-      "company": "Paccar",
-      "title": "Warranty Audit Intern",
-      "postedToDiscord": "2026-01-01T22:40:32.315Z",
-      "sourceDate": "2025-12-02T23:09:53.000Z",
-      "sourceUrl": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
-      "discordThreadId": "1456416820515962892",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo-2026-01-01-1",
-      "jobId": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo",
-      "company": "The Aerospace Corporation",
-      "title": "2026 Atomic Clocks & Device Physics Graduate Intern",
-      "postedToDiscord": "2026-01-01T23:17:20.668Z",
-      "sourceDate": "2025-11-30T11:51:12.000Z",
-      "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
-      "discordThreadId": "1456426083225440468",
-      "instanceNumber": 1
-    },
     {
       "id": "scs-engineers-environmental-sustainability-intern-mobile-2026-01-01-1",
       "jobId": "scs-engineers-environmental-sustainability-intern-mobile",
@@ -2333,14 +2212,69 @@
       "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/13266804-b931-4b28-a132-40c09e2c4a42",
       "discordThreadId": "1458924088704761866",
       "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
+      "jobId": "micron-technology-intern-it-software-engineer-ea-eps-boise",
+      "company": "Micron Technology",
+      "title": "Intern – IT Software Engineer - Ea Eps",
+      "postedToDiscord": "2026-01-08T23:38:53.446Z",
+      "sourceDate": "2026-01-08T23:24:44.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322",
+      "discordThreadId": "1458968220378599469",
+      "instanceNumber": 1
+    },
+    {
+      "id": "southwest-airlines-operations-engineering-intern-dallas-2026-01-08-1",
+      "jobId": "southwest-airlines-operations-engineering-intern-dallas",
+      "company": "Southwest Airlines",
+      "title": "Operations Engineering Intern",
+      "postedToDiscord": "2026-01-08T23:38:56.801Z",
+      "sourceDate": "2026-01-08T23:18:08.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Engineering-Summer-2026-Intern_R-2025-61959",
+      "discordThreadId": "1458968235008589947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gm-financial-intern-data-architecture-arlington-2026-01-08-1",
+      "jobId": "gm-financial-intern-data-architecture-arlington",
+      "company": "GM financial",
+      "title": "Intern – Data Architecture",
+      "postedToDiscord": "2026-01-08T23:39:00.303Z",
+      "sourceDate": "2026-01-08T23:10:39.000Z",
+      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1550",
+      "discordThreadId": "1458968249021759538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-2-co-op-united-states-boston-2026-01-08-1",
+      "jobId": "cisco-software-engineer-2-co-op-united-states-boston",
+      "company": "Cisco",
+      "title": "Software Engineer 2 – Co-op - United States",
+      "postedToDiscord": "2026-01-08T23:39:06.952Z",
+      "sourceDate": "2026-01-08T23:19:10.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2006070",
+      "discordThreadId": "1458968276653576334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-ai-for-drug-discovery-san-bruno-2026-01-08-1",
+      "jobId": "genentech-intern-ai-for-drug-discovery-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - AI for Drug Discovery",
+      "postedToDiscord": "2026-01-08T23:39:10.439Z",
+      "sourceDate": "2026-01-08T23:14:48.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AI-for-Drug-Discovery_202601-100123",
+      "discordThreadId": "1458968291304542239",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 212,
+    "totalJobs": 206,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T20:43:31.846Z",
+      "date": "2026-01-08T23:39:10.440Z",
       "archived": 0
     }
   }

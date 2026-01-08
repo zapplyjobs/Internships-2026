@@ -361,5 +361,126 @@
     "sourceUrl": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Aurora-IL/Nanoparticle-Research-Associate-Intern---Summer-2026_REQ-9634-1",
     "discordThreadId": "1456380911049248798",
     "instanceNumber": 1
+  },
+  {
+    "id": "abbvie-statistics-intern-phd-livingston-2026-01-01-1",
+    "jobId": "abbvie-statistics-intern-phd-livingston",
+    "company": "AbbVie",
+    "title": "Statistics Intern - PhD",
+    "postedToDiscord": "2026-01-01T20:50:03.702Z",
+    "sourceDate": "2025-12-20T09:18:55.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808696",
+    "discordThreadId": "1456389017733038131",
+    "instanceNumber": 1
+  },
+  {
+    "id": "abbvie-statistics-intern-phd-waukegan-2026-01-01-1",
+    "jobId": "abbvie-statistics-intern-phd-waukegan",
+    "company": "AbbVie",
+    "title": "Statistics Intern - PhD",
+    "postedToDiscord": "2026-01-01T20:50:03.706Z",
+    "sourceDate": "2025-12-19T19:09:38.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808736",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "abbvie-statistics-intern-san-bruno-2026-01-01-1",
+    "jobId": "abbvie-statistics-intern-san-bruno",
+    "company": "AbbVie",
+    "title": "Statistics Intern",
+    "postedToDiscord": "2026-01-01T20:50:03.709Z",
+    "sourceDate": "2025-11-14T23:25:54.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808715",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "kbr-national-security-solutions-intern-positioning-navigation-and-timing-beavercreek-2026-01-01-1",
+    "jobId": "kbr-national-security-solutions-intern-positioning-navigation-and-timing-beavercreek",
+    "company": "KBR",
+    "title": "National Security Solutions Intern - Positioning - Navigation and Timing",
+    "postedToDiscord": "2026-01-01T22:17:13.487Z",
+    "sourceDate": "2025-12-23T19:24:14.000Z",
+    "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/National-Security-Solutions--NSS--Internship---Positioning--Navigation-and-Timing--PNT-_R2116882",
+    "discordThreadId": "1456410953322332160",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kontoor-brands-intern-consumer-insights-greensboro-2026-01-01-1",
+    "jobId": "kontoor-brands-intern-consumer-insights-greensboro",
+    "company": "Kontoor Brands",
+    "title": "Intern - Consumer Insights",
+    "postedToDiscord": "2026-01-01T22:17:20.051Z",
+    "sourceDate": "2025-12-16T23:05:53.000Z",
+    "sourceUrl": "https://kbi.wd5.myworkdayjobs.com/Kontoor/job/Greensboro-NC/Summer-Intern--Consumer-Insights_R-20251212-0005",
+    "discordThreadId": "1456410980769861754",
+    "instanceNumber": 1
+  },
+  {
+    "id": "s-c-electric-company-manufacturing-intern-manufacturing-greendale-2026-01-01-1",
+    "jobId": "s-c-electric-company-manufacturing-intern-manufacturing-greendale",
+    "company": "S&C Electric Company",
+    "title": "Manufacturing Intern - Manufacturing",
+    "postedToDiscord": "2026-01-01T22:17:26.659Z",
+    "sourceDate": "2025-11-25T08:38:41.000Z",
+    "sourceUrl": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/105781",
+    "discordThreadId": "1456411007957340293",
+    "instanceNumber": 1
+  },
+  {
+    "id": "intuit-summer-2026-fraud-and-risk-intern-mountain-view-2026-01-01-1",
+    "jobId": "intuit-summer-2026-fraud-and-risk-intern-mountain-view",
+    "company": "Intuit",
+    "title": "Summer 2026 Fraud and Risk Intern",
+    "postedToDiscord": "2026-01-01T22:17:33.141Z",
+    "sourceDate": "2025-11-04T02:41:28.000Z",
+    "sourceUrl": "https://jobs.intuit.com/job/mountain-view/summer-2026-master-s-students-fraud-and-risk-intern/27595/88025996768",
+    "discordThreadId": "1456411035929149592",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cmtelematics-internships-cambridge-2026-01-01-1",
+    "jobId": "cmtelematics-internships-cambridge",
+    "company": "CMTelematics",
+    "title": "Internships",
+    "postedToDiscord": "2026-01-01T22:17:39.643Z",
+    "sourceDate": "2025-09-04T05:06:30.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/cmt/jobs/6300371",
+    "discordThreadId": "1456411063217160202",
+    "instanceNumber": 1
+  },
+  {
+    "id": "intapp-implementation-services-intern-charlotte-2026-01-01-1",
+    "jobId": "intapp-implementation-services-intern-charlotte",
+    "company": "Intapp",
+    "title": "Implementation Services Intern",
+    "postedToDiscord": "2026-01-01T22:40:25.836Z",
+    "sourceDate": "2025-12-11T02:26:32.000Z",
+    "sourceUrl": "https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Implementation-Services-Intern_R2024535-1",
+    "discordThreadId": "1456416791432532020",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paccar-warranty-audit-intern-denton-2026-01-01-1",
+    "jobId": "paccar-warranty-audit-intern-denton",
+    "company": "Paccar",
+    "title": "Warranty Audit Intern",
+    "postedToDiscord": "2026-01-01T22:40:32.315Z",
+    "sourceDate": "2025-12-02T23:09:53.000Z",
+    "sourceUrl": "https://jobs.paccar.com/job/Denton-2026-Summer-Internship-Warranty-Audit-TX-76205-7864/1272884301/?ats=successfactors",
+    "discordThreadId": "1456416820515962892",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo-2026-01-01-1",
+    "jobId": "the-aerospace-2026-atomic-clocks-device-physics-graduate-intern-el-segundo",
+    "company": "The Aerospace Corporation",
+    "title": "2026 Atomic Clocks & Device Physics Graduate Intern",
+    "postedToDiscord": "2026-01-01T23:17:20.668Z",
+    "sourceDate": "2025-11-30T11:51:12.000Z",
+    "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
+    "discordThreadId": "1456426083225440468",
+    "instanceNumber": 1
   }
 ]
