@@ -18298,5 +18298,41 @@
     "job_title": "Data Analyst Intern",
     "company": "APEX Analytix",
     "first_seen": "2026-01-08T17:18:24.079Z"
+  },
+  "walmart-software-engineer-2-bentonville": {
+    "assigned_date": "2026-01-08T19:39:43.998Z",
+    "job_title": "Software Engineer 2",
+    "company": "Walmart",
+    "first_seen": "2026-01-08T19:39:43.998Z"
+  },
+  "asml-intern-surface-science-wilton": {
+    "assigned_date": "2026-01-08T19:39:43.998Z",
+    "job_title": "Intern Surface Science",
+    "company": "ASML",
+    "first_seen": "2026-01-08T19:39:43.998Z"
+  },
+  "southwest-airlines-data-and-analytics-intern-dallas": {
+    "assigned_date": "2026-01-08T19:39:43.999Z",
+    "job_title": "Data and Analytics Intern",
+    "company": "Southwest Airlines",
+    "first_seen": "2026-01-08T19:39:43.999Z"
+  },
+  "fmc-corporation-r&d-it-intern---python-developer-newark": {
+    "assigned_date": "2026-01-08T19:39:43.999Z",
+    "job_title": "R&D IT Intern - Python Developer",
+    "company": "FMC Corporation",
+    "first_seen": "2026-01-08T19:39:43.999Z"
+  },
+  "autodesk-intern-–-construction-ai-agent-research-boston": {
+    "assigned_date": "2026-01-08T19:39:44.006Z",
+    "job_title": "Intern – Construction AI Agent Research",
+    "company": "Autodesk",
+    "first_seen": "2026-01-08T19:39:44.006Z"
+  },
+  "trustage-it-application-developer-intern-madison": {
+    "assigned_date": "2026-01-08T19:39:44.007Z",
+    "job_title": "IT Application Developer Intern",
+    "company": "TruStage",
+    "first_seen": "2026-01-08T19:39:44.007Z"
   }
 }

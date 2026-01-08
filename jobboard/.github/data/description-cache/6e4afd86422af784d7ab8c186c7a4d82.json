@@ -1,0 +1,21 @@
+{
+  "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Newark-Delaware/R-D-IT-Intern---Python-Developer_R-1289",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "FMC Corporation is a global leader in agricultural sciences, driven by our purpose: Innovation for Agriculture. Solutions for the Planet. We are passionate about the power of science to solve agriculture’s biggest challenges. With one of the most productive and diversified pipelines in the industry, FMC is delivering cutting-edge and next-generation crop protection technologies – including Dodhylex™ active, Isoflex™ active, rimisoxafen, and fluindapyr – to help farmers increase the productivity and resilience of their land. Our employees are at the heart of this innovation. We’re looking for bold thinkers and collaborative doers. At FMC, your ideas matter. From day one, you’ll contribute to meaningful work that drives progress in agriculture, supported by a culture that values integrity, safety, respect, and results. Join us in advancing the future of agriculture. Together, we’re building a more resilient planet – one innovation at a time.FMC Corporation is seeking a Python Developer Intern to join our R&D Information Technology team for Summer 2026. In this role, you will help design and develop Python-based software packages that enhance FMC’s statistical and analytical capabilities used by scientists across our global research organization.You’ll work alongside researchers, data scientists, and IT professionals to implement efficient, well-documented code that supports data-driven innovation in sustainable agriculture.Qualifications:Rising senior pursuing a degree in Computer Science, Data Science, Statistics, or related field.Proficiency in Python and experience with libraries such as pandas, numpy, statsmodels, and scikit-learn.Strong analytical, communication, and collaboration skills.Familiarity with the R programming language or R-based analytical workflows.Ability to work effectively both independently and as part of a collaborative team in a professional R&D environment.Key ResponsibilitiesDesign, develop, and enhance Python-based software packages that support statistical and analytical workflows used by FMC R&D scientists.Collaborate with researchers, statisticians, and IT professionals to translate analytical requirements into practical software tools.What We Offer:A hands-on, impactful internship experience with mentorship from experienced professionals, exposure to real R&D data challenges, and opportunities to contribute to FMC’s scientific innovation.FMC is an equal opportunity employer. We are committed to creating a diverse and inclusive workplace where all individuals are treated with respect and dignity. We do not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, veteran status, or any other legally protected status. Employment decisions at FMC are based on business needs, job requirements, and individual qualifications. We value diversity and strive to ensure that our hiring and employment practices support a work environment that is free from discrimination and harassment.",
+    "requirements": [
+      "Rising senior pursuing a degree in Computer Science, Data Science, Statistics, or related field.",
+      "Collaborate with researchers, statisticians, and IT professionals to translate analytical requirements into practical software tools."
+    ],
+    "responsibilities": [
+      "Design, develop, and enhance Python-based software packages that support statistical and analytical workflows used by FMC R&D scientists."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Newark-Delaware/R-D-IT-Intern---Python-Developer_R-1289",
+      "fetchedAt": "2026-01-08T19:40:01.640Z"
+    }
+  },
+  "cachedAt": 1767901201640
+}
