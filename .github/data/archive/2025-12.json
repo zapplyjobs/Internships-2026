@@ -20744,5 +20744,49 @@
     "sourceUrl": "https://elxb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1919",
     "discordThreadId": "1455973086049599609",
     "instanceNumber": 1
+  },
+  {
+    "id": "7-eleven-software-developer-intern-irving-2025-12-31-1",
+    "jobId": "7-eleven-software-developer-intern-irving",
+    "company": "7-Eleven",
+    "title": "Software Developer Intern",
+    "postedToDiscord": "2025-12-31T19:16:39.680Z",
+    "sourceDate": "2025-10-26T04:11:00.000Z",
+    "sourceUrl": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Software-Developer-Intern_R25_0000008848",
+    "discordThreadId": "1456003125424165007",
+    "instanceNumber": 1
+  },
+  {
+    "id": "entrust-intern-ai-developer-shakopee-2025-12-31-1",
+    "jobId": "entrust-intern-ai-developer-shakopee",
+    "company": "Entrust",
+    "title": "Intern AI Developer",
+    "postedToDiscord": "2025-12-31T19:16:46.109Z",
+    "sourceDate": "2025-12-31T17:56:33.000Z",
+    "sourceUrl": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Intern-AI-Developer_R003982",
+    "discordThreadId": "1456003152594731109",
+    "instanceNumber": 1
+  },
+  {
+    "id": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson-2025-12-31-1",
+    "jobId": "public-service-enterprise-technical-intern-centralized-work-planning-and-scheduling-paterson",
+    "company": "Public Service Enterprise Group",
+    "title": "Technical Intern - Centralized Work Planning and Scheduling",
+    "postedToDiscord": "2025-12-31T23:37:49.287Z",
+    "sourceDate": "2025-12-31T23:11:03.000Z",
+    "sourceUrl": "https://jobs.pseg.com/job/Clifton-Summer-2026-Technical-Intern-Centralized-Work-Planning-and-Scheduling-NJ-07011/1352771200/?ats=successfactors",
+    "discordThreadId": "1456068848372682762",
+    "instanceNumber": 1
+  },
+  {
+    "id": "perpay-data-science-internship-philadelphia-2025-12-31-1",
+    "jobId": "perpay-data-science-internship-philadelphia",
+    "company": "Perpay",
+    "title": "Data Science Internship",
+    "postedToDiscord": "2025-12-31T23:37:55.806Z",
+    "sourceDate": "2025-09-08T07:00:07.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+    "discordThreadId": "1456068875857694805",
+    "instanceNumber": 1
   }
 ]
