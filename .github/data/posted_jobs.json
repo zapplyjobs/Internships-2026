@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T00:44:08.396Z",
+  "lastUpdated": "2026-01-08T01:17:53.420Z",
   "jobs": [
-    {
-      "id": "scs-engineers-engineering-intern-summer-2026-dayton-2026-01-01-1",
-      "jobId": "scs-engineers-engineering-intern-summer-2026-dayton",
-      "company": "SCS Engineers",
-      "title": "Engineering Intern - Summer 2026",
-      "postedToDiscord": "2026-01-01T00:47:38.929Z",
-      "sourceDate": "2025-10-03T01:53:49.000Z",
-      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1606/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456086420706824313",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cambria-it-developer-intern-shakopee-2026-01-01-1",
-      "jobId": "cambria-it-developer-intern-shakopee",
-      "company": "Cambria",
-      "title": "IT Developer Intern",
-      "postedToDiscord": "2026-01-01T00:47:45.490Z",
-      "sourceDate": "2025-12-31T23:56:16.000Z",
-      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/IT-Developer-Intern_R-102780",
-      "discordThreadId": "1456086448859254784",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cambria-data-developer-intern-shakopee-2026-01-01-1",
-      "jobId": "cambria-data-developer-intern-shakopee",
-      "company": "Cambria",
-      "title": "Data Developer Intern",
-      "postedToDiscord": "2026-01-01T00:47:52.288Z",
-      "sourceDate": "2025-12-31T23:56:07.000Z",
-      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Belle-Plaine-MN/Data-Developer-Intern_R-102779",
-      "discordThreadId": "1456086476340072533",
-      "instanceNumber": 1
-    },
     {
       "id": "amentum-combustion-devices-engineer-intern-huntsville-2026-01-01-1",
       "jobId": "amentum-combustion-devices-engineer-intern-huntsville",
@@ -2355,14 +2322,113 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/69447/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458622253137793217",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-general-hire-software-engineer-intern-san-jose-2026-01-08-1",
+      "jobId": "tiktok-general-hire-software-engineer-intern-san-jose",
+      "company": "TikTok",
+      "title": "General Hire – Software Engineer Intern",
+      "postedToDiscord": "2026-01-08T01:17:19.675Z",
+      "sourceDate": "2026-01-07T23:27:56.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7592368550477465909",
+      "discordThreadId": "1458630605460869240",
+      "instanceNumber": 1
+    },
+    {
+      "id": "micron-technology-intern-it-software-engineer-boise-2026-01-08-1",
+      "jobId": "micron-technology-intern-it-software-engineer-boise",
+      "company": "Micron Technology",
+      "title": "Intern IT Software Engineer",
+      "postedToDiscord": "2026-01-08T01:17:22.990Z",
+      "sourceDate": "2026-01-07T23:25:42.000Z",
+      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR88210",
+      "discordThreadId": "1458630619268517899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "formlabs-python-software-intern-cambridge-2026-01-08-1",
+      "jobId": "formlabs-python-software-intern-cambridge",
+      "company": "Formlabs",
+      "title": "Python Software Intern",
+      "postedToDiscord": "2026-01-08T01:17:26.333Z",
+      "sourceDate": "2026-01-07T23:25:09.000Z",
+      "sourceUrl": "https://careers.formlabs.com/job/7520649/apply/?gh_jid=7520649",
+      "discordThreadId": "1458630633491529852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "peter-millar-application-engineer-internship-raleigh-2026-01-08-1",
+      "jobId": "peter-millar-application-engineer-internship-raleigh",
+      "company": "Peter Millar",
+      "title": "Application Engineer Internship",
+      "postedToDiscord": "2026-01-08T01:17:29.827Z",
+      "sourceDate": "2026-01-07T23:18:26.000Z",
+      "sourceUrl": "https://petermillarllc.wd12.myworkdayjobs.com/PMI/job/Research-Triangle-Park-NC/Application-Engineer-Internship_JR100525-1",
+      "discordThreadId": "1458630647588585513",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atpco-software-engineer-reston-2026-01-08-1",
+      "jobId": "atpco-software-engineer-reston",
+      "company": "ATPCO",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-08T01:17:33.316Z",
+      "sourceDate": "2026-01-07T23:16:56.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/ATPCO1/744000102147195",
+      "discordThreadId": "1458630662331437140",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sandisk-software-engineering-intern-milpitas-2026-01-08-1",
+      "jobId": "sandisk-software-engineering-intern-milpitas",
+      "company": "Sandisk",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-08T01:17:36.810Z",
+      "sourceDate": "2026-01-07T23:13:03.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Sandisk/744000102165035",
+      "discordThreadId": "1458630676869025895",
+      "instanceNumber": 1
+    },
+    {
+      "id": "acretrader-data-intern-fayetteville-2026-01-08-1",
+      "jobId": "acretrader-data-intern-fayetteville",
+      "company": "AcreTrader",
+      "title": "Data Intern",
+      "postedToDiscord": "2026-01-08T01:17:43.179Z",
+      "sourceDate": "2026-01-07T23:20:11.000Z",
+      "sourceUrl": "https://ats.rippling.com/acretrader-jobs/jobs/763c6149-4335-4d9d-a8a1-32baedd98e21",
+      "discordThreadId": "1458630704022950120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "collaborative-robotics-software-engineer-intern-ai-navigation-controls-santa-clara-2026-01-08-1",
+      "jobId": "collaborative-robotics-software-engineer-intern-ai-navigation-controls-santa-clara",
+      "company": "Collaborative Robotics",
+      "title": "Software Engineer Intern - AI - Navigation & Controls",
+      "postedToDiscord": "2026-01-08T01:17:49.544Z",
+      "sourceDate": "2026-01-07T23:14:18.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/cobot/86933504-7a8f-46d1-a745-edfe53c47427/application",
+      "discordThreadId": "1458630730937536737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fehr-peers-transportation-internship-summer-2026-long-beach-2026-01-08-1",
+      "jobId": "fehr-peers-transportation-internship-summer-2026-long-beach",
+      "company": "Fehr & Peers",
+      "title": "Transportation Internship - Summer 2026",
+      "postedToDiscord": "2026-01-08T01:17:53.420Z",
+      "sourceDate": "2026-01-07T23:08:46.000Z",
+      "sourceUrl": "https://jobs.lever.co/fehrandpeers/cc301dd2-a165-4d9c-a147-ddfdf06280cc/apply",
+      "discordThreadId": "1458630745190043830",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 214,
+    "totalJobs": 220,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T00:44:08.396Z",
+      "date": "2026-01-08T01:17:53.420Z",
       "archived": 0
     }
   }
