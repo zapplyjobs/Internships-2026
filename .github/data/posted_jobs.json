@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T03:22:37.013Z",
+  "lastUpdated": "2026-01-08T08:50:47.522Z",
   "jobs": [
-    {
-      "id": "microsoft-research-intern-machine-learning-and-optimization-cambridge-2026-01-01-1",
-      "jobId": "microsoft-research-intern-machine-learning-and-optimization-cambridge",
-      "company": "Microsoft",
-      "title": "Research Intern - Machine Learning and Optimization",
-      "postedToDiscord": "2026-01-01T03:36:45.427Z",
-      "sourceDate": "2026-01-01T02:35:17.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556655958",
-      "discordThreadId": "1456128978581454982",
-      "instanceNumber": 1
-    },
-    {
-      "id": "marsh-mclennan-government-health-consulting-informatics-summer-intern-college-program-2026-phoenix-2026-01-01-1",
-      "jobId": "marsh-mclennan-government-health-consulting-informatics-summer-intern-college-program-2026-phoenix",
-      "company": "Marsh & McLennan",
-      "title": "Government Health Consulting Informatics Summer Intern - College Program 2026",
-      "postedToDiscord": "2026-01-01T07:41:06.080Z",
-      "sourceDate": "2025-12-01T16:59:38.000Z",
-      "sourceUrl": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Phoenix---E-Camelback/Government-Health-Consulting-Informatics-Summer-Intern---College-Program-2026_R_332424-1",
-      "discordThreadId": "1456190469863247883",
-      "instanceNumber": 1
-    },
-    {
-      "id": "modernizing-medicine-security-engineering-intern-boca-raton-2026-01-01-1",
-      "jobId": "modernizing-medicine-security-engineering-intern-boca-raton",
-      "company": "Modernizing Medicine",
-      "title": "Security Engineering Intern",
-      "postedToDiscord": "2026-01-01T08:18:05.805Z",
-      "sourceDate": "2025-11-05T23:18:24.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8236611002",
-      "discordThreadId": "1456199779540275232",
-      "instanceNumber": 1
-    },
     {
       "id": "mongodb-2026-security-engineering-intern-seattle-seattle-2026-01-01-1",
       "jobId": "mongodb-2026-security-engineering-intern-seattle-seattle",
@@ -2531,15 +2498,27 @@
       "sourceUrl": "https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Intern---Software-Engineering_2531675",
       "discordThreadId": "1458662134773710890",
       "instanceNumber": 1
+    },
+    {
+      "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
+      "jobId": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston",
+      "company": "Weston & Sampson",
+      "title": "Staff Scientist/Engineering Intern - Summer 2026",
+      "postedToDiscord": "2026-01-08T08:50:47.522Z",
+      "sourceDate": "2025-12-29T11:14:06.000Z",
+      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3311/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458744723505156158",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 230,
+    "totalJobs": 228,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T03:22:37.013Z",
-      "archived": 0
+      "date": "2026-01-08T08:50:47.522Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
