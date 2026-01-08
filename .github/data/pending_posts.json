@@ -658,25 +658,5 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Intern",
-      "employer_name": "APEX Analytix",
-      "job_city": "Greensboro",
-      "job_state": "NC",
-      "job_description": "Position Title: Data Analyst Intern Reports to: Manager, Automation Architect Location: Remote POSITION SUMMARY We are seeking a detail-ori...",
-      "job_apply_link": "https://ats.rippling.com/apexanalytix-careers/jobs/999da522-f122-4560-8e6e-152bc97f9342",
-      "job_posted_at_datetime_utc": "2026-01-08T16:09:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "apex-analytix-data-analyst-intern-greensboro",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-08T17:18:24.126Z",
-    "enrichedAt": "2026-01-08T17:18:24.723Z",
-    "postedAt": "2026-01-08T17:18:33.778Z"
   }
 ]
