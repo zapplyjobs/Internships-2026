@@ -229,5 +229,49 @@
     "sourceUrl": "https://obsidian.applytojob.com/apply/BtnxtlX823/Area-Designer-2026-Summer-Internship",
     "discordThreadId": "1456335357682389102",
     "instanceNumber": 1
+  },
+  {
+    "id": "wsp-transportation-planning-intern-summer-2026-philadelphia-2026-01-01-1",
+    "jobId": "wsp-transportation-planning-intern-summer-2026-philadelphia",
+    "company": "WSP",
+    "title": "Transportation Planning Intern - Summer 2026",
+    "postedToDiscord": "2026-01-01T18:18:23.965Z",
+    "sourceDate": "2025-11-22T00:46:05.000Z",
+    "sourceUrl": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/76182",
+    "discordThreadId": "1456350849147080791",
+    "instanceNumber": 1
+  },
+  {
+    "id": "neuralink-design-engineer-intern-fremont-2026-01-01-1",
+    "jobId": "neuralink-design-engineer-intern-fremont",
+    "company": "Neuralink",
+    "title": "Design Engineer Intern",
+    "postedToDiscord": "2026-01-01T18:18:30.482Z",
+    "sourceDate": "2025-08-27T01:38:12.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/neuralink/jobs/6693211003",
+    "discordThreadId": "1456350878545084427",
+    "instanceNumber": 1
+  },
+  {
+    "id": "altamira-active-geolocation-operator-apprentice-augusta-2026-01-01-1",
+    "jobId": "altamira-active-geolocation-operator-apprentice-augusta",
+    "company": "Altamira Technologies",
+    "title": "Active Geolocation Operator – Apprentice",
+    "postedToDiscord": "2026-01-01T18:50:13.319Z",
+    "sourceDate": "2025-07-15T15:28:24.000Z",
+    "sourceUrl": "https://jobs.jobvite.com/altamiracorps/job/oFKzwfwe?nl=1&nl=1&fr=false",
+    "discordThreadId": "1456358859051499676",
+    "instanceNumber": 1
+  },
+  {
+    "id": "westwood-noise-control-acoustics-intern-noise-control-acoustics-cherry-hills-village-2026-01-01-1",
+    "jobId": "westwood-noise-control-acoustics-intern-noise-control-acoustics-cherry-hills-village",
+    "company": "Westwood",
+    "title": "Noise Control & Acoustics Intern - Noise Control - Acoustics",
+    "postedToDiscord": "2026-01-01T18:50:19.744Z",
+    "sourceDate": "2025-09-30T02:54:15.000Z",
+    "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7420/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1456358886347903048",
+    "instanceNumber": 1
   }
 ]
