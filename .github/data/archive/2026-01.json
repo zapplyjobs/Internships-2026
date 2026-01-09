@@ -724,5 +724,104 @@
     "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
     "discordThreadId": "1456575134772232222",
     "instanceNumber": 1
+  },
+  {
+    "id": "appian-associate-consultant-intern-mclean-2026-01-02-1",
+    "jobId": "appian-associate-consultant-intern-mclean",
+    "company": "Appian",
+    "title": "Associate Consultant Intern",
+    "postedToDiscord": "2026-01-02T11:44:40.903Z",
+    "sourceDate": "2025-10-15T05:14:27.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7326021",
+    "discordThreadId": "1456614156739547197",
+    "instanceNumber": 1
+  },
+  {
+    "id": "prologis-intern-esg-chicago-2026-01-02-1",
+    "jobId": "prologis-intern-esg-chicago",
+    "company": "Prologis",
+    "title": "Intern – ESG",
+    "postedToDiscord": "2026-01-02T12:18:33.920Z",
+    "sourceDate": "2025-11-01T10:22:50.000Z",
+    "sourceUrl": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Chicago-Illinois/Intern--ESG_R6193",
+    "discordThreadId": "1456622683570704395",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle-2026-01-02-1",
+    "jobId": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle",
+    "company": "ByteDance",
+    "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
+    "postedToDiscord": "2026-01-02T12:59:38.234Z",
+    "sourceDate": "2025-08-15T20:33:27.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7537827352539547912/detail",
+    "discordThreadId": "1456633020256616521",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-intern-infrastructure-system-lab-san-jose-2026-01-02-1",
+    "jobId": "bytedance-research-intern-infrastructure-system-lab-san-jose",
+    "company": "ByteDance",
+    "title": "Research Intern - Infrastructure System Lab",
+    "postedToDiscord": "2026-01-02T12:59:41.909Z",
+    "sourceDate": "2025-08-09T03:09:35.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7535609157736745234/detail",
+    "discordThreadId": "1456633034857124093",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-research-intern-infrastructure-system-lab-seattle-2026-01-02-1",
+    "jobId": "bytedance-research-intern-infrastructure-system-lab-seattle",
+    "company": "ByteDance",
+    "title": "Research Intern - Infrastructure System Lab",
+    "postedToDiscord": "2026-01-02T12:59:41.912Z",
+    "sourceDate": "2025-08-09T03:09:35.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "marmon-holdings-engineering-intern-owensboro-2026-01-02-1",
+    "jobId": "marmon-holdings-engineering-intern-owensboro",
+    "company": "Marmon Holdings",
+    "title": "Engineering Intern",
+    "postedToDiscord": "2026-01-02T14:17:05.796Z",
+    "sourceDate": "2025-12-06T17:36:03.000Z",
+    "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
+    "discordThreadId": "1456652512689127435",
+    "instanceNumber": 1
+  },
+  {
+    "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin-2026-01-02-1",
+    "jobId": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
+    "company": "City of Austin",
+    "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
+    "postedToDiscord": "2026-01-02T14:17:12.352Z",
+    "sourceDate": "2025-11-27T23:43:22.000Z",
+    "sourceUrl": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR101208",
+    "discordThreadId": "1456652540497105028",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton-2026-01-02-1",
+    "jobId": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton",
+    "company": "Genmab",
+    "title": "AI-Driven Radiomics and Multimodal Biomarker Discovery Intern",
+    "postedToDiscord": "2026-01-02T15:17:25.680Z",
+    "sourceDate": "2025-12-17T23:19:39.000Z",
+    "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/AI-Driven-Radiomics-and-Multimodal-Biomarker-Discovery-Intern_R14686-1",
+    "discordThreadId": "1456667695876411606",
+    "instanceNumber": 1
+  },
+  {
+    "id": "city-of-amarillo-college-intern-amarillo-2026-01-02-1",
+    "jobId": "city-of-amarillo-college-intern-amarillo",
+    "company": "City of Amarillo",
+    "title": "College Intern",
+    "postedToDiscord": "2026-01-02T15:40:22.755Z",
+    "sourceDate": "2025-12-16T23:27:46.000Z",
+    "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/COLLEGE-INTERN_JR2308",
+    "discordThreadId": "1456673472104104193",
+    "instanceNumber": 1
   }
 ]
