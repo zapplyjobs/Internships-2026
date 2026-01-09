@@ -482,5 +482,49 @@
     "sourceUrl": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Atomic-Clocks---Device-Physics-Graduate-Intern_R014029",
     "discordThreadId": "1456426083225440468",
     "instanceNumber": 1
+  },
+  {
+    "id": "scs-engineers-environmental-sustainability-intern-mobile-2026-01-01-1",
+    "jobId": "scs-engineers-environmental-sustainability-intern-mobile",
+    "company": "SCS Engineers",
+    "title": "Environmental Sustainability Intern",
+    "postedToDiscord": "2026-01-01T23:46:08.939Z",
+    "sourceDate": "2025-12-29T23:27:48.000Z",
+    "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1640/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1456433330986684569",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lhb-climate-solutions-intern-duluth-2026-01-01-1",
+    "jobId": "lhb-climate-solutions-intern-duluth",
+    "company": "LHB",
+    "title": "Climate Solutions Intern",
+    "postedToDiscord": "2026-01-01T23:46:15.509Z",
+    "sourceDate": "2025-11-25T01:02:37.000Z",
+    "sourceUrl": "https://careers-lhbcorp.icims.com/jobs/1904/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1456433359176597707",
+    "instanceNumber": 1
+  },
+  {
+    "id": "qorvo-digital-strategy-marketing-intern-richardson-2026-01-02-1",
+    "jobId": "qorvo-digital-strategy-marketing-intern-richardson",
+    "company": "Qorvo",
+    "title": "Digital Strategy Marketing Intern",
+    "postedToDiscord": "2026-01-02T00:43:17.208Z",
+    "sourceDate": "2025-11-15T18:36:09.000Z",
+    "sourceUrl": "https://careers.qorvo.com/job/Richardson-Digital-Strategy-Marketing-Intern-TX-75081/1333763900/?ats=successfactors",
+    "discordThreadId": "1456447711376183370",
+    "instanceNumber": 1
+  },
+  {
+    "id": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city-2026-01-02-1",
+    "jobId": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city",
+    "company": "HNTB",
+    "title": "Returning New Grad Part Time Planner I-Summer 2026 – Central Division-For Current/Former HNTB Inter…",
+    "postedToDiscord": "2026-01-02T00:43:23.922Z",
+    "sourceDate": "2025-08-29T15:52:22.000Z",
+    "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
+    "discordThreadId": "1456447738144100499",
+    "instanceNumber": 1
   }
 ]
