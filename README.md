@@ -8,8 +8,8 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 9+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 4+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 8+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,8 +75,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 9 hot data-focused jobs
-- **🏢 Companies**: 5 companies
+- 🔥 **Current Positions:** 8 hot data-focused jobs
+- **🏢 Companies**: 4 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
 - 📅 **Last Updated:** January 9, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -134,16 +134,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556657568) | 9h |
-| Research Intern - Undergraduate | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642384) | 16h |
-| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 1d |
-
-### 🏢 **Top Tech** (1 position)
-
-#### 🎮 **NVIDIA** (1 position)
-
-| Role | Location | Level | Apply Now | Age |
-|------|----------|-------|-----------|-----|
-| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 6d |
+| Research Intern - Undergraduate | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642384) | 17h |
+| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 2d |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -151,7 +143,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 2 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2006070) | 17h |
+| Software Engineer 2 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2006070) | 18h |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
 
@@ -159,7 +151,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – IT Software Engineer - Ea Eps | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322) | 17h |
+| Intern – IT Software Engineer - Ea Eps | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322) | 18h |
 | Intern IT Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR88210) | 1d |
 | Intern – Data Science | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694) | 2d |
 
@@ -176,8 +168,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 #### ⭐ FAANG+ (2 companies)
 🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (3 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
-#### ☁️ Enterprise & Cloud (2 companies)
-🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (1)
+#### ☁️ Enterprise & Cloud (1 company)
+🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (1 position)
 
 
 ---
@@ -186,9 +178,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 8 | 89% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 1 | 11% | 0-1 years of experience |
-| 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
+| 🟢 Internships & Co-ops | 7 | 88% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 1 | 13% | 0-1 years of experience |
+| 🔴 Early Career         | 0 | -1% | 1-2 years of experience |
 
 ---
 
@@ -199,13 +191,12 @@ Connect with fellow students, get career advice, share internship experiences, a
 - **Cambridge, MA**: 1 opportunity
 - **Washington, Locations**: 1 opportunity
 - **San Jose, CA**: 1 opportunity
-- **Santa Clara, CA**: 1 opportunity
 
 ---
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 9+ verified internships and new grad roles from 5 top companies.
+✅ **100% Real Opportunities:** 8+ verified internships and new grad roles from 4 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -286,13 +277,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1823 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1826 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1823 roles
-- **🏢 Companies**: 117 companies  
+- **📁 Total Positions**: 1826 roles
+- **🏢 Companies**: 114 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
@@ -406,13 +397,14 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Software Engineering Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026) | 1mo |
 
-### 🏢 **Top Tech** (22 positions)
+### 🏢 **Top Tech** (23 positions)
 
 <details>
-<summary><h4>🎮 <strong>NVIDIA</strong> (16 positions)</h4></summary>
+<summary><h4>🎮 <strong>NVIDIA</strong> (17 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Product Marketing MBA Intern - Data Processing | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573) | 1w |
 | AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 2w |
 | AI Factory Cooling R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 2w |
 | Performance Engineer | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineering-Intern--Gaming---Winter-2026_JR2009267) | 3w |
@@ -661,7 +653,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 9 current opportunities from 5 top companies.**
+**🎯 8 current opportunities from 4 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
