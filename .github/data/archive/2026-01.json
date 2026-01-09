@@ -526,5 +526,27 @@
     "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
     "discordThreadId": "1456447738144100499",
     "instanceNumber": 1
+  },
+  {
+    "id": "uline-web-production-intern-waukegan-2026-01-02-1",
+    "jobId": "uline-web-production-intern-waukegan",
+    "company": "Uline",
+    "title": "Web Production Intern",
+    "postedToDiscord": "2026-01-02T01:17:15.420Z",
+    "sourceDate": "2025-12-13T11:07:11.000Z",
+    "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Web-Production-Internship---Summer-2026_R258555",
+    "discordThreadId": "1456456259510210762",
+    "instanceNumber": 1
+  },
+  {
+    "id": "hntb-environmental-planning-intern-raleigh-2026-01-02-1",
+    "jobId": "hntb-environmental-planning-intern-raleigh",
+    "company": "HNTB",
+    "title": "Environmental Planning Intern",
+    "postedToDiscord": "2026-01-02T01:17:22.105Z",
+    "sourceDate": "2025-12-13T15:15:23.000Z",
+    "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Environmental-Planning-Intern---Summer-2026_R-27426",
+    "discordThreadId": "1456456287310319681",
+    "instanceNumber": 1
   }
 ]
