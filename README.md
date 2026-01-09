@@ -283,7 +283,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1815 roles
-- **🏢 Companies**: 115 companies  
+- **🏢 Companies**: 114 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
