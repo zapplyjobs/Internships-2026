@@ -18490,5 +18490,41 @@
     "job_title": "Comcast Machine Learning Co-op",
     "company": "Comcast",
     "first_seen": "2026-01-09T02:48:42.776Z"
+  },
+  "comcast-data-science-intern/co-op-philadelphia": {
+    "assigned_date": "2026-01-09T04:53:51.237Z",
+    "job_title": "Data Science Intern/Co-op",
+    "company": "Comcast",
+    "first_seen": "2026-01-09T04:53:51.237Z"
+  },
+  "ultima-genomics-system-analytics-intern-fremont": {
+    "assigned_date": "2026-01-09T04:53:51.238Z",
+    "job_title": "System Analytics Intern",
+    "company": "Ultima Genomics",
+    "first_seen": "2026-01-09T04:53:51.238Z"
+  },
+  "bloom-energy-rmcc-data-science-engineering-intern-san-jose": {
+    "assigned_date": "2026-01-09T04:53:51.238Z",
+    "job_title": "RMCC Data Science Engineering Intern",
+    "company": "Bloom Energy",
+    "first_seen": "2026-01-09T04:53:51.238Z"
+  },
+  "cinemark-theatres-data-science-intern-plano": {
+    "assigned_date": "2026-01-09T04:53:51.238Z",
+    "job_title": "Data Science Intern",
+    "company": "Cinemark Theatres",
+    "first_seen": "2026-01-09T04:53:51.238Z"
+  },
+  "scs-engineers-science-or-geology-intern-madison": {
+    "assigned_date": "2026-01-09T04:53:51.247Z",
+    "job_title": "Science or Geology Intern",
+    "company": "SCS Engineers",
+    "first_seen": "2026-01-09T04:53:51.247Z"
+  },
+  "tiktok-software-engineer-intern---recommendation-infrastructure-san-jose": {
+    "assigned_date": "2026-01-09T04:53:51.250Z",
+    "job_title": "Software Engineer Intern - Recommendation Infrastructure",
+    "company": "TikTok",
+    "first_seen": "2026-01-09T04:53:51.250Z"
   }
 }
