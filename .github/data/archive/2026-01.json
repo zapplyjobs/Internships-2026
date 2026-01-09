@@ -548,5 +548,60 @@
     "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Environmental-Planning-Intern---Summer-2026_R-27426",
     "discordThreadId": "1456456287310319681",
     "instanceNumber": 1
+  },
+  {
+    "id": "w-w-grainger-on-site-search-intern-spring-2026-green-bay-2026-01-02-1",
+    "jobId": "w-w-grainger-on-site-search-intern-spring-2026-green-bay",
+    "company": "W.W. Grainger",
+    "title": "On-Site Search Intern - Spring 2026",
+    "postedToDiscord": "2026-01-02T01:17:25.664Z",
+    "sourceDate": "2025-10-22T00:09:57.000Z",
+    "sourceUrl": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-On-Site-Search-Intern-Spring-2026-WI-54301-5160/1336560100/?ats=successfactors",
+    "discordThreadId": "1456456302976045098",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande-2026-01-02-1",
+    "jobId": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande",
+    "company": "Lucid Motors",
+    "title": "Intern – SAP Consulting - Summer 2026",
+    "postedToDiscord": "2026-01-02T01:17:32.192Z",
+    "sourceDate": "2025-12-05T13:10:56.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4996727007",
+    "discordThreadId": "1456456330465378344",
+    "instanceNumber": 1
+  },
+  {
+    "id": "corning-characterization-sciences-intern-elmira-2026-01-02-1",
+    "jobId": "corning-characterization-sciences-intern-elmira",
+    "company": "Corning",
+    "title": "Characterization Sciences Intern",
+    "postedToDiscord": "2026-01-02T01:17:38.732Z",
+    "sourceDate": "2025-11-21T08:18:42.000Z",
+    "sourceUrl": "https://corningjobs.corning.com/job/Corning-Characterization-Sciences-Intern-Summer-2026-NY-14831/1344650400/?ats=successfactors",
+    "discordThreadId": "1456456357686542438",
+    "instanceNumber": 1
+  },
+  {
+    "id": "skyworks-applications-engineer-intern-austin-2026-01-02-1",
+    "jobId": "skyworks-applications-engineer-intern-austin",
+    "company": "Skyworks",
+    "title": "Applications Engineer Intern",
+    "postedToDiscord": "2026-01-02T01:44:16.240Z",
+    "sourceDate": "2025-08-17T09:03:19.000Z",
+    "sourceUrl": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/Applications Engineer Intern",
+    "discordThreadId": "1456463058691162186",
+    "instanceNumber": 1
+  },
+  {
+    "id": "amazon-applied-science-intern-seattle-2026-01-02-1",
+    "jobId": "amazon-applied-science-intern-seattle",
+    "company": "Amazon",
+    "title": "Applied Science Intern",
+    "postedToDiscord": "2026-01-02T02:24:20.699Z",
+    "sourceDate": "2025-12-22T23:07:45.000Z",
+    "sourceUrl": "https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
+    "discordThreadId": "1456473143039230025",
+    "instanceNumber": 1
   }
 ]

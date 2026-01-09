@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T01:17:24.046Z",
+  "lastUpdated": "2026-01-09T02:49:09.816Z",
   "jobs": [
-    {
-      "id": "w-w-grainger-on-site-search-intern-spring-2026-green-bay-2026-01-02-1",
-      "jobId": "w-w-grainger-on-site-search-intern-spring-2026-green-bay",
-      "company": "W.W. Grainger",
-      "title": "On-Site Search Intern - Spring 2026",
-      "postedToDiscord": "2026-01-02T01:17:25.664Z",
-      "sourceDate": "2025-10-22T00:09:57.000Z",
-      "sourceUrl": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-On-Site-Search-Intern-Spring-2026-WI-54301-5160/1336560100/?ats=successfactors",
-      "discordThreadId": "1456456302976045098",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande-2026-01-02-1",
-      "jobId": "lucid-motors-intern-sap-consulting-summer-2026-casa-grande",
-      "company": "Lucid Motors",
-      "title": "Intern – SAP Consulting - Summer 2026",
-      "postedToDiscord": "2026-01-02T01:17:32.192Z",
-      "sourceDate": "2025-12-05T13:10:56.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/lucidmotors/jobs/4996727007",
-      "discordThreadId": "1456456330465378344",
-      "instanceNumber": 1
-    },
-    {
-      "id": "corning-characterization-sciences-intern-elmira-2026-01-02-1",
-      "jobId": "corning-characterization-sciences-intern-elmira",
-      "company": "Corning",
-      "title": "Characterization Sciences Intern",
-      "postedToDiscord": "2026-01-02T01:17:38.732Z",
-      "sourceDate": "2025-11-21T08:18:42.000Z",
-      "sourceUrl": "https://corningjobs.corning.com/job/Corning-Characterization-Sciences-Intern-Summer-2026-NY-14831/1344650400/?ats=successfactors",
-      "discordThreadId": "1456456357686542438",
-      "instanceNumber": 1
-    },
-    {
-      "id": "skyworks-applications-engineer-intern-austin-2026-01-02-1",
-      "jobId": "skyworks-applications-engineer-intern-austin",
-      "company": "Skyworks",
-      "title": "Applications Engineer Intern",
-      "postedToDiscord": "2026-01-02T01:44:16.240Z",
-      "sourceDate": "2025-08-17T09:03:19.000Z",
-      "sourceUrl": "https://careers.skyworksinc.com/job/Austin-Applications-Engineer-Intern-%28May-2026-Aug-2026%29-TX-73301/1317275100/Applications Engineer Intern",
-      "discordThreadId": "1456463058691162186",
-      "instanceNumber": 1
-    },
-    {
-      "id": "amazon-applied-science-intern-seattle-2026-01-02-1",
-      "jobId": "amazon-applied-science-intern-seattle",
-      "company": "Amazon",
-      "title": "Applied Science Intern",
-      "postedToDiscord": "2026-01-02T02:24:20.699Z",
-      "sourceDate": "2025-12-22T23:07:45.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing",
-      "discordThreadId": "1456473143039230025",
-      "instanceNumber": 1
-    },
     {
       "id": "neurocrine-biosciences-it-business-partner-commercial-intern-san-diego-2026-01-02-1",
       "jobId": "neurocrine-biosciences-it-business-partner-commercial-intern-san-diego",
@@ -2366,16 +2311,48 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/68062/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1458993011038879944",
       "instanceNumber": 1
+    },
+    {
+      "id": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston-2026-01-09-1",
+      "jobId": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston",
+      "company": "Red Hat",
+      "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
+      "postedToDiscord": "2026-01-09T02:49:02.350Z",
+      "sourceDate": "2026-01-09T01:42:56.000Z",
+      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520",
+      "discordThreadId": "1459016071175471179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-2026-artificial-intelligence-physical-ai-intern-ai-redondo-beach-ca-sunnyvale-ca-sunnyvale-2026-01-09-1",
+      "jobId": "northrop-grumman-2026-artificial-intelligence-physical-ai-intern-ai-redondo-beach-ca-sunnyvale-ca-sunnyvale",
+      "company": "Northrop Grumman",
+      "title": "2026 Artificial Intelligence – / Physical AI Intern - AI - Redondo Beach CA','Sunnyvale CA",
+      "postedToDiscord": "2026-01-09T02:49:06.195Z",
+      "sourceDate": "2026-01-09T01:42:23.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Artificial-Intelligence--AI----Physical-AI-Intern---Redondo-Beach-CA---Sunnyvale-CA_R10218613",
+      "discordThreadId": "1459016087621472347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "comcast-comcast-machine-learning-co-op-philadelphia-2026-01-09-1",
+      "jobId": "comcast-comcast-machine-learning-co-op-philadelphia",
+      "company": "Comcast",
+      "title": "Comcast Machine Learning Co-op",
+      "postedToDiscord": "2026-01-09T02:49:09.816Z",
+      "sourceDate": "2025-11-07T00:00:49.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R421859",
+      "discordThreadId": "1459016103853559820",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 215,
+    "totalJobs": 213,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-09T01:17:24.046Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-09T02:49:09.816Z",
+      "archived": 0
     }
   }
 }
