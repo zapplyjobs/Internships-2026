@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T00:44:11.062Z",
+  "lastUpdated": "2026-01-09T01:17:24.046Z",
   "jobs": [
-    {
-      "id": "uline-web-production-intern-waukegan-2026-01-02-1",
-      "jobId": "uline-web-production-intern-waukegan",
-      "company": "Uline",
-      "title": "Web Production Intern",
-      "postedToDiscord": "2026-01-02T01:17:15.420Z",
-      "sourceDate": "2025-12-13T11:07:11.000Z",
-      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Web-Production-Internship---Summer-2026_R258555",
-      "discordThreadId": "1456456259510210762",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hntb-environmental-planning-intern-raleigh-2026-01-02-1",
-      "jobId": "hntb-environmental-planning-intern-raleigh",
-      "company": "HNTB",
-      "title": "Environmental Planning Intern",
-      "postedToDiscord": "2026-01-02T01:17:22.105Z",
-      "sourceDate": "2025-12-13T15:15:23.000Z",
-      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Raleigh-NC/Environmental-Planning-Intern---Summer-2026_R-27426",
-      "discordThreadId": "1456456287310319681",
-      "instanceNumber": 1
-    },
     {
       "id": "w-w-grainger-on-site-search-intern-spring-2026-green-bay-2026-01-02-1",
       "jobId": "w-w-grainger-on-site-search-intern-spring-2026-green-bay",
@@ -2322,15 +2300,82 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000102361886",
       "discordThreadId": "1458984651900059792",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-computational-sciences-san-bruno-2026-01-09-1",
+      "jobId": "genentech-intern-computational-sciences-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Computational Sciences",
+      "postedToDiscord": "2026-01-09T01:17:03.156Z",
+      "sourceDate": "2026-01-08T23:15:08.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences_202512-132619",
+      "discordThreadId": "1458992922702905575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-undergraduate-cambridge-2026-01-09-1",
+      "jobId": "microsoft-research-intern-undergraduate-cambridge",
+      "company": "Microsoft",
+      "title": "Research Intern - Undergraduate",
+      "postedToDiscord": "2026-01-09T01:17:06.691Z",
+      "sourceDate": "2026-01-08T23:11:37.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
+      "discordThreadId": "1458992938381213756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "expedia-machine-learning-science-intern-masters-austin-2026-01-09-1",
+      "jobId": "expedia-machine-learning-science-intern-masters-austin",
+      "company": "Expedia Group",
+      "title": "Machine Learning Science Intern - Masters",
+      "postedToDiscord": "2026-01-09T01:17:10.256Z",
+      "sourceDate": "2025-10-09T18:03:39.000Z",
+      "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584-1",
+      "discordThreadId": "1458992953186849031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale-2026-01-09-1",
+      "jobId": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale",
+      "company": "Uber",
+      "title": "2026 PhD Software Engineer Intern - Container Platform - United States",
+      "postedToDiscord": "2026-01-09T01:17:17.028Z",
+      "sourceDate": "2026-01-08T23:13:01.000Z",
+      "sourceUrl": "https://www.uber.com/global/en/careers/list/153349/",
+      "discordThreadId": "1458992980957593742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis-2026-01-09-1",
+      "jobId": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis",
+      "company": "CareBridge",
+      "title": "Engineering Intern - Summer 2026 - Digital Platforms and AI Organization",
+      "postedToDiscord": "2026-01-09T01:17:20.525Z",
+      "sourceDate": "2025-10-08T07:04:03.000Z",
+      "sourceUrl": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Intern--Summer-2026_JR168988-1",
+      "discordThreadId": "1458992996505616538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-intern-engineer-software-engineering-bloomington-2026-01-09-1",
+      "jobId": "general-dynamics-mission-intern-engineer-software-engineering-bloomington",
+      "company": "General Dynamics Mission Systems",
+      "title": "Intern Engineer - Software Engineering",
+      "postedToDiscord": "2026-01-09T01:17:24.045Z",
+      "sourceDate": "2025-09-24T22:43:15.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/68062/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458993011038879944",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 211,
+    "totalJobs": 215,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-09T00:44:11.062Z",
-      "archived": 0
+      "date": "2026-01-09T01:17:24.046Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
