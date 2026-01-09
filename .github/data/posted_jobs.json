@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T10:17:23.073Z",
+  "lastUpdated": "2026-01-09T16:47:34.055Z",
   "jobs": [
-    {
-      "id": "appian-associate-consultant-intern-mclean-2026-01-02-1",
-      "jobId": "appian-associate-consultant-intern-mclean",
-      "company": "Appian",
-      "title": "Associate Consultant Intern",
-      "postedToDiscord": "2026-01-02T11:44:40.903Z",
-      "sourceDate": "2025-10-15T05:14:27.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7326021",
-      "discordThreadId": "1456614156739547197",
-      "instanceNumber": 1
-    },
-    {
-      "id": "prologis-intern-esg-chicago-2026-01-02-1",
-      "jobId": "prologis-intern-esg-chicago",
-      "company": "Prologis",
-      "title": "Intern – ESG",
-      "postedToDiscord": "2026-01-02T12:18:33.920Z",
-      "sourceDate": "2025-11-01T10:22:50.000Z",
-      "sourceUrl": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Chicago-Illinois/Intern--ESG_R6193",
-      "discordThreadId": "1456622683570704395",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle-2026-01-02-1",
-      "jobId": "bytedance-research-scientist-intern-biomolecular-structure-foundation-models-seed-ai-for-science-2026-start-phd-seattle",
-      "company": "ByteDance",
-      "title": "Research Scientist Intern - Biomolecular Structure Foundation Models - Seed AI-for-Science - 2026 Start - PhD",
-      "postedToDiscord": "2026-01-02T12:59:38.234Z",
-      "sourceDate": "2025-08-15T20:33:27.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7537827352539547912/detail",
-      "discordThreadId": "1456633020256616521",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-research-intern-infrastructure-system-lab-san-jose-2026-01-02-1",
-      "jobId": "bytedance-research-intern-infrastructure-system-lab-san-jose",
-      "company": "ByteDance",
-      "title": "Research Intern - Infrastructure System Lab",
-      "postedToDiscord": "2026-01-02T12:59:41.909Z",
-      "sourceDate": "2025-08-09T03:09:35.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7535609157736745234/detail",
-      "discordThreadId": "1456633034857124093",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-research-intern-infrastructure-system-lab-seattle-2026-01-02-1",
-      "jobId": "bytedance-research-intern-infrastructure-system-lab-seattle",
-      "company": "ByteDance",
-      "title": "Research Intern - Infrastructure System Lab",
-      "postedToDiscord": "2026-01-02T12:59:41.912Z",
-      "sourceDate": "2025-08-09T03:09:35.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7535609211549813000/detail",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "marmon-holdings-engineering-intern-owensboro-2026-01-02-1",
-      "jobId": "marmon-holdings-engineering-intern-owensboro",
-      "company": "Marmon Holdings",
-      "title": "Engineering Intern",
-      "postedToDiscord": "2026-01-02T14:17:05.796Z",
-      "sourceDate": "2025-12-06T17:36:03.000Z",
-      "sourceUrl": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Ferdinand-IN/Engineering-Intern---Summer-2026_JR0000037706-5",
-      "discordThreadId": "1456652512689127435",
-      "instanceNumber": 1
-    },
-    {
-      "id": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin-2026-01-02-1",
-      "jobId": "city-of-austin-internship-graduate-systems-planning-for-water-wastewater-reclaimed-water-austin-water-austin",
-      "company": "City of Austin",
-      "title": "Internship – Graduate - Systems Planning for Water/Wastewater/Reclaimed Water - Austin Water",
-      "postedToDiscord": "2026-01-02T14:17:12.352Z",
-      "sourceDate": "2025-11-27T23:43:22.000Z",
-      "sourceUrl": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Graduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR101208",
-      "discordThreadId": "1456652540497105028",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton-2026-01-02-1",
-      "jobId": "genmab-ai-driven-radiomics-and-multimodal-biomarker-discovery-intern-princeton",
-      "company": "Genmab",
-      "title": "AI-Driven Radiomics and Multimodal Biomarker Discovery Intern",
-      "postedToDiscord": "2026-01-02T15:17:25.680Z",
-      "sourceDate": "2025-12-17T23:19:39.000Z",
-      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/AI-Driven-Radiomics-and-Multimodal-Biomarker-Discovery-Intern_R14686-1",
-      "discordThreadId": "1456667695876411606",
-      "instanceNumber": 1
-    },
-    {
-      "id": "city-of-amarillo-college-intern-amarillo-2026-01-02-1",
-      "jobId": "city-of-amarillo-college-intern-amarillo",
-      "company": "City of Amarillo",
-      "title": "College Intern",
-      "postedToDiscord": "2026-01-02T15:40:22.755Z",
-      "sourceDate": "2025-12-16T23:27:46.000Z",
-      "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/COLLEGE-INTERN_JR2308",
-      "discordThreadId": "1456673472104104193",
-      "instanceNumber": 1
-    },
     {
       "id": "zoetis-data-science-intern-parsippany-troy-hills-2026-01-02-1",
       "jobId": "zoetis-data-science-intern-parsippany-troy-hills",
@@ -2311,14 +2212,69 @@
       "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50553/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1459128902852018299",
       "instanceNumber": 1
+    },
+    {
+      "id": "medpace-business-intelligence-internship-summer-2026-cincinnati-2026-01-09-1",
+      "jobId": "medpace-business-intelligence-internship-summer-2026-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Business Intelligence Internship - Summer 2026",
+      "postedToDiscord": "2026-01-09T16:47:12.763Z",
+      "sourceDate": "2026-01-09T16:22:37.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/12212?lang=en-us&icims=1",
+      "discordThreadId": "1459227006448304304",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tive-software-engineer-co-op-boston-2026-01-09-1",
+      "jobId": "tive-software-engineer-co-op-boston",
+      "company": "Tive",
+      "title": "Software Engineer Co-op",
+      "postedToDiscord": "2026-01-09T16:47:19.403Z",
+      "sourceDate": "2026-01-09T16:12:54.000Z",
+      "sourceUrl": "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
+      "discordThreadId": "1459227033442717758",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chick-fil-a-digital-transformation-and-technology-undergraduate-co-op-atlanta-2026-01-09-1",
+      "jobId": "chick-fil-a-digital-transformation-and-technology-undergraduate-co-op-atlanta",
+      "company": "Chick-fil-A",
+      "title": "Digital Transformation and Technology Undergraduate Co-op",
+      "postedToDiscord": "2026-01-09T16:47:22.747Z",
+      "sourceDate": "2025-10-31T02:23:41.000Z",
+      "sourceUrl": "https://careers-chickfila.icims.com/jobs/19008/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1459227048592674856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-algorithm-research-intern-milpitas-2026-01-09-1",
+      "jobId": "kla-algorithm-research-intern-milpitas",
+      "company": "KLA Corporation",
+      "title": "Algorithm Research Intern",
+      "postedToDiscord": "2026-01-09T16:47:30.474Z",
+      "sourceDate": "2026-01-09T16:10:14.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Research-Intern_2533331-1",
+      "discordThreadId": "1459227075679359038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-national-tax-services-international-tax-llm-senior-associate-national-tax-services-washington-2026-01-09-1",
+      "jobId": "pricewaterhousecoopers-pwc-national-tax-services-international-tax-llm-senior-associate-national-tax-services-washington",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "National Tax Services – International Tax LLM Senior Associate - National Tax Services",
+      "postedToDiscord": "2026-01-09T16:47:34.055Z",
+      "sourceDate": "2025-09-06T00:44:24.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/National-Tax-Services---International-Tax-LLM-Senior-Associate---Summer-2026_657583WD",
+      "discordThreadId": "1459227094843129992",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 210,
+    "totalJobs": 206,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-09T10:17:23.073Z",
+      "date": "2026-01-09T16:47:34.055Z",
       "archived": 0
     }
   }
