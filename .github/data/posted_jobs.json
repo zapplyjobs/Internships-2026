@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T08:18:04.845Z",
+  "lastUpdated": "2026-01-09T09:44:20.726Z",
   "jobs": [
-    {
-      "id": "rolls-royce-quality-process-digitalization-intern-summer-2026-greenville-2026-01-02-1",
-      "jobId": "rolls-royce-quality-process-digitalization-intern-summer-2026-greenville",
-      "company": "Rolls Royce",
-      "title": "Quality Process Digitalization Intern - Summer 2026",
-      "postedToDiscord": "2026-01-02T08:18:13.180Z",
-      "sourceDate": "2025-12-12T07:28:11.000Z",
-      "sourceUrl": "https://jobs.bmwgroup.com/job/Greenville-Quality-Process-Digitalization-Intern-(Summer-2026)-Sout/1275356101/?ats=successfactors",
-      "discordThreadId": "1456562198091665419",
-      "instanceNumber": 1
-    },
-    {
-      "id": "westinghouse-electric-company-1-c-commercial-engineering-intern-grove-city-2026-01-02-1",
-      "jobId": "westinghouse-electric-company-1-c-commercial-engineering-intern-grove-city",
-      "company": "Westinghouse Electric Company",
-      "title": "1&C Commercial Engineering Intern",
-      "postedToDiscord": "2026-01-02T08:18:19.762Z",
-      "sourceDate": "2025-12-10T23:13:28.000Z",
-      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-I&C-Commercial-Engineering-Intern-Summer-2026-NC/1348880500/?ats=successfactors",
-      "discordThreadId": "1456562226084446239",
-      "instanceNumber": 1
-    },
-    {
-      "id": "respec-student-engineering-intern-geology-hydrogeology-doylestown-2026-01-02-1",
-      "jobId": "respec-student-engineering-intern-geology-hydrogeology-doylestown",
-      "company": "RESPEC",
-      "title": "Student Engineering Intern-Geology - Hydrogeology",
-      "postedToDiscord": "2026-01-02T08:18:23.246Z",
-      "sourceDate": "2025-10-30T07:01:52.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/RESPECInc/744000090599504",
-      "discordThreadId": "1456562240919437507",
-      "instanceNumber": 1
-    },
-    {
-      "id": "grant-thornton-tax-technology-intern-philadelphia-2026-01-02-1",
-      "jobId": "grant-thornton-tax-technology-intern-philadelphia",
-      "company": "Grant Thornton",
-      "title": "Tax Technology Intern",
-      "postedToDiscord": "2026-01-02T08:18:29.802Z",
-      "sourceDate": "2025-09-12T03:37:49.000Z",
-      "sourceUrl": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/113322",
-      "discordThreadId": "1456562268031680564",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nokia-wireless-systems-research-intern-berkeley-heights-2026-01-02-1",
-      "jobId": "nokia-wireless-systems-research-intern-berkeley-heights",
-      "company": "Nokia",
-      "title": "Wireless Systems Research Intern",
-      "postedToDiscord": "2026-01-02T09:09:37.347Z",
-      "sourceDate": "2025-12-17T02:09:04.000Z",
-      "sourceUrl": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28470",
-      "discordThreadId": "1456575134772232222",
-      "instanceNumber": 1
-    },
     {
       "id": "appian-associate-consultant-intern-mclean-2026-01-02-1",
       "jobId": "appian-associate-consultant-intern-mclean",
@@ -2344,15 +2289,26 @@
       "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556657568",
       "discordThreadId": "1459098878795055248",
       "instanceNumber": 1
+    },
+    {
+      "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
+      "jobId": "comcast-comcast-data-scientist-co-op-philadelphia",
+      "company": "Comcast",
+      "title": "Comcast Data Scientist Co-op",
+      "postedToDiscord": "2026-01-09T09:44:20.726Z",
+      "sourceDate": "2025-11-07T00:00:48.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R421666",
+      "discordThreadId": "1459120588105973811",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 213,
+    "totalJobs": 209,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-09T08:18:04.845Z",
-      "archived": 4,
+      "date": "2026-01-09T09:44:20.726Z",
+      "archived": 5,
       "monthsAffected": 1
     }
   }
