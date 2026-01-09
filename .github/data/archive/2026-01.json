@@ -823,5 +823,49 @@
     "sourceUrl": "https://amarillo.wd5.myworkdayjobs.com/amarillo_external_career_site/job/Simms-Municipal-Building/COLLEGE-INTERN_JR2308",
     "discordThreadId": "1456673472104104193",
     "instanceNumber": 1
+  },
+  {
+    "id": "zoetis-data-science-intern-parsippany-troy-hills-2026-01-02-1",
+    "jobId": "zoetis-data-science-intern-parsippany-troy-hills",
+    "company": "Zoetis",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2026-01-02T17:46:39.299Z",
+    "sourceDate": "2026-01-02T16:43:37.000Z",
+    "sourceUrl": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/Data-Science-Intern_JR00019746",
+    "discordThreadId": "1456705248495140939",
+    "instanceNumber": 1
+  },
+  {
+    "id": "nvidia-product-marketing-mba-intern-data-processing-santa-clara-2026-01-02-1",
+    "jobId": "nvidia-product-marketing-mba-intern-data-processing-santa-clara",
+    "company": "NVIDIA",
+    "title": "Product Marketing MBA Intern - Data Processing",
+    "postedToDiscord": "2026-01-02T17:46:42.914Z",
+    "sourceDate": "2025-12-10T08:48:57.000Z",
+    "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--Data-Processing---Summer-2026_JR2008573",
+    "discordThreadId": "1456705264563781736",
+    "instanceNumber": 1
+  },
+  {
+    "id": "oshkosh-youth-apprentice-engineering-oshkosh-2026-01-02-1",
+    "jobId": "oshkosh-youth-apprentice-engineering-oshkosh",
+    "company": "Oshkosh",
+    "title": "Youth Apprentice - Engineering",
+    "postedToDiscord": "2026-01-02T17:46:49.391Z",
+    "sourceDate": "2025-12-23T19:21:12.000Z",
+    "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Youth-Apprentice---Engineering_R43411",
+    "discordThreadId": "1456705292506239007",
+    "instanceNumber": 1
+  },
+  {
+    "id": "tokyo-electron-atg-3di-simulation-intern-summer-2026-austin-2026-01-02-1",
+    "jobId": "tokyo-electron-atg-3di-simulation-intern-summer-2026-austin",
+    "company": "Tokyo Electron",
+    "title": "ATG 3DI Simulation Intern - Summer 2026",
+    "postedToDiscord": "2026-01-02T17:46:52.977Z",
+    "sourceDate": "2025-12-13T12:42:06.000Z",
+    "sourceUrl": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-MET-15/ATG-3DI-Simulation-Intern--Summer-2026-_R25-01554",
+    "discordThreadId": "1456705307106345105",
+    "instanceNumber": 1
   }
 ]

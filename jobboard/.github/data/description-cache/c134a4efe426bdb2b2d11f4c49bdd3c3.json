@@ -1,0 +1,17 @@
+{
+  "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600075",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This position is a comprehensive 12 week internship learning experience in Protective Coatings Group R&D. The individual will collaborate closely with Chemists and Scientists to integrate data science into R&D processes, contributing to the design of better-performing paints.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600075",
+      "fetchedAt": "2026-01-09T18:18:28.941Z"
+    }
+  },
+  "cachedAt": 1767982708941
+}

@@ -133,7 +133,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556657568) | 9h |
+| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556657568) | 10h |
 | Research Intern - Undergraduate | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642384) | 17h |
 | Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 2d |
 
@@ -277,13 +277,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1826 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1821 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1826 roles
-- **🏢 Companies**: 114 companies  
+- **📁 Total Positions**: 1821 roles
+- **🏢 Companies**: 118 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)

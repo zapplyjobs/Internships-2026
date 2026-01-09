@@ -1,0 +1,20 @@
+{
+  "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4853796007",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Founded in 1999, Geneva Trading is a premier global principal trading firm with strategically located offices in Chicago, Dublin, and London. Our relentless focus on trading excellence combined with technological innovation has equipped us with a best-in-class proprietary trading platform, enabling us to compete at the highest levels in the global markets. Rooted in a culture of integrity, collaboration, and an unwavering passion for progress, we foster an environment of personal and professional excellence. Our nimble organizational structure and entrepreneurial spirit attract top-tier talent with a passion for innovation, laying the foundation and driving our consistent success in the industry. Geneva Trading is looking for a curious and motivated PMO Data Engineering Intern to join our Project Management Office this summer. This internship is designed for students who want hands-on experience building real data tools that support how teams plan, track, and make decisions. You’ll work with real operational data and help turn it into insights that leadership can use, all while learning in a fast-paced, collaborative trading environment. What You’ll Work On Data Pipelines: Help build scripts that pull data from internal systems and APIs, then clean and organize it for analysis. Data Modeling: Learn how to structure raw data into clear, easy-to-use relational models that support reporting and trend analysis. Scenario Analysis: Assist in creating “what-if” models to explore how changes in staffing or resources could impact team goals. Dashboards & Insights: Work closely with the Director of PMO to turn data into dashboards and visuals that tell a clear story. Production Experience: Gain exposure to writing clean, reliable code with best practices around testing, documentation, and maintainability. What We’re Looking For Python Experience: Hands-on experience using Python, especially Pandas and NumPy, for data analysis and transformation. Data Basics: Understanding of how relational databases work (tables, keys, basic normalization). SQL Skills: Ability to write queries to pull and combine data from different sources. Student Status: Currently enrolled in a Master’s or PhD program in Data Science, IT, Computer Engineering, or a related quantitative field. Eagerness to Learn: You enjoy building things, asking questions, and taking ownership of a project from start to finish. Nice to Have (Not Required) Experience working with REST APIs or JSON/CSV data Familiarity with Git or version control tools Compensation: Hourly Range: $35-40/hr The final hourly rate will be dependent on the successful candidate's skills, experience, education, and qualifications. This role is a temporary position and therefore is not eligible for Geneva Trading’s full-time employee benefits program. Application expected to close: 2/27/2026 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "requirements": [
+      "Production Experience: Gain exposure to writing clean, reliable code with best practices around testing, documentation, and maintainability.",
+      "Python Experience: Hands-on experience using Python, especially Pandas and NumPy, for data analysis and transformation.",
+      "Experience working with REST APIs or JSON/CSV data"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/4853796007",
+      "fetchedAt": "2026-01-09T18:18:32.052Z"
+    }
+  },
+  "cachedAt": 1767982712052
+}
