@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-09T04:54:32.492Z",
+  "lastUpdated": "2026-01-09T08:18:04.845Z",
   "jobs": [
-    {
-      "id": "accuweather-forecasting-intern-state-college-summer-2026-state-college-2026-01-02-1",
-      "jobId": "accuweather-forecasting-intern-state-college-summer-2026-state-college",
-      "company": "AccuWeather",
-      "title": "Forecasting Intern - State College - Summer 2026",
-      "postedToDiscord": "2026-01-02T04:54:48.151Z",
-      "sourceDate": "2026-01-01T08:05:03.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/accuweather/jobs/7485118",
-      "discordThreadId": "1456511007584288867",
-      "instanceNumber": 1
-    },
-    {
-      "id": "equitable-holdings-2026-summer-intern-workplace-solutions-syracuse-2026-01-02-1",
-      "jobId": "equitable-holdings-2026-summer-intern-workplace-solutions-syracuse",
-      "company": "Equitable Holdings",
-      "title": "2026 Summer Intern - Workplace Solutions",
-      "postedToDiscord": "2026-01-02T04:54:51.817Z",
-      "sourceDate": "2025-11-06T23:17:49.000Z",
-      "sourceUrl": "https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000IS",
-      "discordThreadId": "1456511022226608191",
-      "instanceNumber": 1
-    },
-    {
-      "id": "michelin-2026-engineering-co-op-louisville-ky-louisville-2026-01-02-1",
-      "jobId": "michelin-2026-engineering-co-op-louisville-ky-louisville",
-      "company": "Michelin",
-      "title": "2026 Engineering Co-Op Louisville - KY",
-      "postedToDiscord": "2026-01-02T04:54:55.413Z",
-      "sourceDate": "2025-09-10T01:10:16.000Z",
-      "sourceUrl": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/LOUISVILLE-KY/XMLNAME-2026-Engineering-Co-Op-Louisville--KY_R-2025030414",
-      "discordThreadId": "1456511037296742604",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-foundation-models-prescient-design-san-bruno-2026-01-02-1",
-      "jobId": "genentech-intern-foundation-models-prescient-design-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Foundation Models - Prescient Design",
-      "postedToDiscord": "2026-01-02T05:48:13.158Z",
-      "sourceDate": "2025-12-20T02:30:32.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Foundation-Models--Prescient-Design_202512-132192",
-      "discordThreadId": "1456524449498009673",
-      "instanceNumber": 1
-    },
     {
       "id": "rolls-royce-quality-process-digitalization-intern-summer-2026-greenville-2026-01-02-1",
       "jobId": "rolls-royce-quality-process-digitalization-intern-summer-2026-greenville",
@@ -2377,15 +2333,27 @@
       "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1651/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1459047656130216082",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
+      "jobId": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond",
+      "company": "Microsoft",
+      "title": "Software Engineer – Top Secret: Internship Opportunities - Ctj",
+      "postedToDiscord": "2026-01-09T08:18:04.844Z",
+      "sourceDate": "2026-01-09T07:12:27.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556657568",
+      "discordThreadId": "1459098878795055248",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 216,
+    "totalJobs": 213,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-09T04:54:32.492Z",
-      "archived": 0
+      "date": "2026-01-09T08:18:04.845Z",
+      "archived": 4,
+      "monthsAffected": 1
     }
   }
 }
