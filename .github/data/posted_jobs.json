@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-08T23:39:10.440Z",
+  "lastUpdated": "2026-01-09T00:44:11.062Z",
   "jobs": [
-    {
-      "id": "scs-engineers-environmental-sustainability-intern-mobile-2026-01-01-1",
-      "jobId": "scs-engineers-environmental-sustainability-intern-mobile",
-      "company": "SCS Engineers",
-      "title": "Environmental Sustainability Intern",
-      "postedToDiscord": "2026-01-01T23:46:08.939Z",
-      "sourceDate": "2025-12-29T23:27:48.000Z",
-      "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1640/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456433330986684569",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lhb-climate-solutions-intern-duluth-2026-01-01-1",
-      "jobId": "lhb-climate-solutions-intern-duluth",
-      "company": "LHB",
-      "title": "Climate Solutions Intern",
-      "postedToDiscord": "2026-01-01T23:46:15.509Z",
-      "sourceDate": "2025-11-25T01:02:37.000Z",
-      "sourceUrl": "https://careers-lhbcorp.icims.com/jobs/1904/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1456433359176597707",
-      "instanceNumber": 1
-    },
-    {
-      "id": "qorvo-digital-strategy-marketing-intern-richardson-2026-01-02-1",
-      "jobId": "qorvo-digital-strategy-marketing-intern-richardson",
-      "company": "Qorvo",
-      "title": "Digital Strategy Marketing Intern",
-      "postedToDiscord": "2026-01-02T00:43:17.208Z",
-      "sourceDate": "2025-11-15T18:36:09.000Z",
-      "sourceUrl": "https://careers.qorvo.com/job/Richardson-Digital-Strategy-Marketing-Intern-TX-75081/1333763900/?ats=successfactors",
-      "discordThreadId": "1456447711376183370",
-      "instanceNumber": 1
-    },
-    {
-      "id": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city-2026-01-02-1",
-      "jobId": "hntb-returning-new-grad-part-time-planner-i-summer-2026-central-division-for-current-former-hntb-inter-kansas-city",
-      "company": "HNTB",
-      "title": "Returning New Grad Part Time Planner I-Summer 2026 – Central Division-For Current/Former HNTB Inter…",
-      "postedToDiscord": "2026-01-02T00:43:23.922Z",
-      "sourceDate": "2025-08-29T15:52:22.000Z",
-      "sourceUrl": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Kansas-City-MO/Returning-New-Grad-Part-Time-Planner-I-Summer-2026--Central-Division--For-Current-Former-HNTB-Interns-Only_R-27253",
-      "discordThreadId": "1456447738144100499",
-      "instanceNumber": 1
-    },
     {
       "id": "uline-web-production-intern-waukegan-2026-01-02-1",
       "jobId": "uline-web-production-intern-waukegan",
@@ -2267,14 +2223,113 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AI-for-Drug-Discovery_202601-100123",
       "discordThreadId": "1458968291304542239",
       "instanceNumber": 1
+    },
+    {
+      "id": "wellsky-software-engineer-intern-summer-2026-overland-park-2026-01-09-1",
+      "jobId": "wellsky-software-engineer-intern-summer-2026-overland-park",
+      "company": "WellSky",
+      "title": "Software Engineer Intern - Summer 2026",
+      "postedToDiscord": "2026-01-09T00:43:39.593Z",
+      "sourceDate": "2026-01-08T23:42:03.000Z",
+      "sourceUrl": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Software-Engineer-Intern---Summer-2026_JR4297",
+      "discordThreadId": "1458984520412958954",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-ai-data-visualization-phd-intern-qt-c-calabasas-2026-01-09-1",
+      "jobId": "keysight-ai-data-visualization-phd-intern-qt-c-calabasas",
+      "company": "Keysight Technologies",
+      "title": "AI Data Visualization – PhD Intern - Qt/C++",
+      "postedToDiscord": "2026-01-09T00:43:43.429Z",
+      "sourceDate": "2026-01-08T23:35:00.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/50017?lang=en-us&icims=1",
+      "discordThreadId": "1458984535340617983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-intern-administrative-data-analytics-chantilly-2026-01-09-1",
+      "jobId": "general-dynamics-mission-intern-administrative-data-analytics-chantilly",
+      "company": "General Dynamics Mission Systems",
+      "title": "Intern Administrative / Data Analytics",
+      "postedToDiscord": "2026-01-09T00:43:46.911Z",
+      "sourceDate": "2026-01-08T23:34:56.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69938/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1458984550838440122",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zscaler-api-platform-developer-tooling-intern-san-jose-2026-01-09-1",
+      "jobId": "zscaler-api-platform-developer-tooling-intern-san-jose",
+      "company": "Zscaler",
+      "title": "API Platform & Developer Tooling Intern",
+      "postedToDiscord": "2026-01-09T00:43:50.632Z",
+      "sourceDate": "2026-01-08T23:21:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015497007",
+      "discordThreadId": "1458984564981501953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-machine-learning-phd-intern-calabasas-2026-01-09-1",
+      "jobId": "keysight-machine-learning-phd-intern-calabasas",
+      "company": "Keysight Technologies",
+      "title": "Machine Learning PhD Intern",
+      "postedToDiscord": "2026-01-09T00:43:57.048Z",
+      "sourceDate": "2026-01-08T23:35:12.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/50018?lang=en-us&icims=1",
+      "discordThreadId": "1458984593804759172",
+      "instanceNumber": 1
+    },
+    {
+      "id": "keysight-machine-learning-architecture-systems-phd-intern-calabasas-2026-01-09-1",
+      "jobId": "keysight-machine-learning-architecture-systems-phd-intern-calabasas",
+      "company": "Keysight Technologies",
+      "title": "Machine Learning Architecture Systems-PhD Intern",
+      "postedToDiscord": "2026-01-09T00:44:00.566Z",
+      "sourceDate": "2026-01-08T23:31:08.000Z",
+      "sourceUrl": "https://jobs.keysight.com/jobs/50016?lang=en-us&icims=1",
+      "discordThreadId": "1458984607771787299",
+      "instanceNumber": 1
+    },
+    {
+      "id": "str-cyber-emulation-engineer-burlington-2026-01-09-1",
+      "jobId": "str-cyber-emulation-engineer-burlington",
+      "company": "STR",
+      "title": "Cyber Emulation Engineer",
+      "postedToDiscord": "2026-01-09T00:44:04.045Z",
+      "sourceDate": "2026-01-08T23:27:11.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4643134006",
+      "discordThreadId": "1458984622703640679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zscaler-data-engineer-intern-san-jose-2026-01-09-1",
+      "jobId": "zscaler-data-engineer-intern-san-jose",
+      "company": "Zscaler",
+      "title": "Data Engineer Intern",
+      "postedToDiscord": "2026-01-09T00:44:07.564Z",
+      "sourceDate": "2026-01-08T23:21:54.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015437007",
+      "discordThreadId": "1458984637224452106",
+      "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-computational-materials-science-intern-belmont-2026-01-09-1",
+      "jobId": "robert-bosch-venture-capital-computational-materials-science-intern-belmont",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Computational Materials Science Intern",
+      "postedToDiscord": "2026-01-09T00:44:11.062Z",
+      "sourceDate": "2026-01-08T23:21:37.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000102361886",
+      "discordThreadId": "1458984651900059792",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 206,
+    "totalJobs": 211,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-08T23:39:10.440Z",
+      "date": "2026-01-09T00:44:11.062Z",
       "archived": 0
     }
   }
