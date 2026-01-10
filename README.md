@@ -133,7 +133,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 18h |
+| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 19h |
 | Research Intern - Undergraduate | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642384) | 1d |
 | Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 2d |
 
@@ -151,7 +151,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – AI & Data - Technology | McLean, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334) | 2h |
+| Intern – AI & Data - Technology | McLean, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334) | 3h |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
 
