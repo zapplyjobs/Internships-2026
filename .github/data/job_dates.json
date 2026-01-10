@@ -18754,5 +18754,29 @@
     "job_title": "Summer 2026 Technology Internship",
     "company": "Nationwide",
     "first_seen": "2026-01-10T00:41:59.344Z"
+  },
+  "leidos-software-developer-bethesda": {
+    "assigned_date": "2026-01-10T02:00:06.516Z",
+    "job_title": "Software Developer",
+    "company": "Leidos",
+    "first_seen": "2026-01-10T02:00:06.516Z"
+  },
+  "leidos-technical-intern-remote-in-usa": {
+    "assigned_date": "2026-01-10T02:00:06.516Z",
+    "job_title": "Technical Intern",
+    "company": "Leidos",
+    "first_seen": "2026-01-10T02:00:06.516Z"
+  },
+  "genentech-research-intern---braid-san-bruno": {
+    "assigned_date": "2026-01-10T02:00:06.517Z",
+    "job_title": "Research Intern - Braid",
+    "company": "Genentech",
+    "first_seen": "2026-01-10T02:00:06.517Z"
+  },
+  "typeface-ml-engineer-intern-palo-alto": {
+    "assigned_date": "2026-01-10T02:00:06.521Z",
+    "job_title": "ML Engineer Intern",
+    "company": "Typeface",
+    "first_seen": "2026-01-10T02:00:06.521Z"
   }
 }

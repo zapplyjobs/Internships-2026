@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-10T01:17:36.878Z",
+  "lastUpdated": "2026-01-10T02:00:55.496Z",
   "jobs": [
     {
       "id": "cell-signaling-technology-automation-intern-peabody-2026-01-03-1",
@@ -2432,14 +2432,91 @@
       "sourceUrl": "https://careers-lmi.icims.com/jobs/13506/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1459355452713205915",
       "instanceNumber": 1
+    },
+    {
+      "id": "legrand-intern-carlsbad-2026-01-10-1",
+      "jobId": "legrand-intern-carlsbad",
+      "company": "Legrand",
+      "title": "Intern",
+      "postedToDiscord": "2026-01-10T02:00:27.963Z",
+      "sourceDate": "2026-01-07T23:32:35.000Z",
+      "sourceUrl": "https://jobs-legrand.icims.com/jobs/9722/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1459366237283811470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-technical-intern-remote-in-usa-2026-01-10-1",
+      "jobId": "leidos-technical-intern-remote-in-usa",
+      "company": "Leidos",
+      "title": "Technical Intern",
+      "postedToDiscord": "2026-01-10T02:00:31.527Z",
+      "sourceDate": "2026-01-09T23:46:06.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00173312",
+      "discordThreadId": "1459366251469209847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nextdoor-software-engineer-intern-multiple-teams-dallas-2026-01-10-1",
+      "jobId": "nextdoor-software-engineer-intern-multiple-teams-dallas",
+      "company": "Nextdoor",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2026-01-10T02:00:38.052Z",
+      "sourceDate": "2025-09-23T14:55:31.000Z",
+      "sourceUrl": "https://about.nextdoor.com/careers-list/?gh_jid=6978035",
+      "discordThreadId": "1459366279281381619",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nationwide-summer-2026-technology-internship-des-moines-2026-01-10-1",
+      "jobId": "nationwide-summer-2026-technology-internship-des-moines",
+      "company": "Nationwide",
+      "title": "Summer 2026 Technology Internship",
+      "postedToDiscord": "2026-01-10T02:00:41.952Z",
+      "sourceDate": "2025-09-02T13:26:41.000Z",
+      "sourceUrl": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2026-Technology-Internship_94309",
+      "discordThreadId": "1459366293898789047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-software-developer-bethesda-2026-01-10-1",
+      "jobId": "leidos-software-developer-bethesda",
+      "company": "Leidos",
+      "title": "Software Developer",
+      "postedToDiscord": "2026-01-10T02:00:45.502Z",
+      "sourceDate": "2026-01-09T23:46:08.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00173305-1",
+      "discordThreadId": "1459366310206242958",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-research-intern-braid-san-bruno-2026-01-10-1",
+      "jobId": "genentech-research-intern-braid-san-bruno",
+      "company": "Genentech",
+      "title": "Research Intern - Braid",
+      "postedToDiscord": "2026-01-10T02:00:51.975Z",
+      "sourceDate": "2026-01-09T23:18:23.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/California/XMLNAME-2026-Summer-Research-Intern--LLM-and-Generative-AI---BRAID_202601-100223",
+      "discordThreadId": "1459366337418629375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "typeface-ml-engineer-intern-palo-alto-2026-01-10-1",
+      "jobId": "typeface-ml-engineer-intern-palo-alto",
+      "company": "Typeface",
+      "title": "ML Engineer Intern",
+      "postedToDiscord": "2026-01-10T02:00:55.496Z",
+      "sourceDate": "2025-11-20T16:42:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/typeface/jobs/4986825007",
+      "discordThreadId": "1459366352497152090",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 221,
+    "totalJobs": 228,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-10T01:17:36.878Z",
+      "date": "2026-01-10T02:00:55.496Z",
       "archived": 0
     }
   }
