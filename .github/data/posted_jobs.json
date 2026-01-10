@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-10T00:43:57.027Z",
+  "lastUpdated": "2026-01-10T01:17:36.878Z",
   "jobs": [
     {
       "id": "cell-signaling-technology-automation-intern-peabody-2026-01-03-1",
@@ -2333,14 +2333,113 @@
       "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Visualization-Intern_R106460",
       "discordThreadId": "1459346980923904093",
       "instanceNumber": 1
+    },
+    {
+      "id": "national-renewable-energy-laboratory-graduate-phd-student-machine-learning-applications-for-cyber-physical-power-system-operations-int-year-round-golden-2026-01-10-1",
+      "jobId": "national-renewable-energy-laboratory-graduate-phd-student-machine-learning-applications-for-cyber-physical-power-system-operations-int-year-round-golden",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Graduate PhD Student – Machine Learning Applications for Cyber-Physical Power System Operations Int… - Year-Round",
+      "postedToDiscord": "2026-01-10T01:17:02.557Z",
+      "sourceDate": "2026-01-09T23:43:25.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate-PhD-Student--Year-Round--Machine-Learning-Applications-for-Cyber-Physical-Power-System-Operations-Intern_R14109",
+      "discordThreadId": "1459355308605575249",
+      "instanceNumber": 1
+    },
+    {
+      "id": "barry-wehmiller-data-science-intern-green-bay-2026-01-10-1",
+      "jobId": "barry-wehmiller-data-science-intern-green-bay",
+      "company": "Barry-Wehmiller",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-10T01:17:06.140Z",
+      "sourceDate": "2026-01-09T23:37:36.000Z",
+      "sourceUrl": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Green-Bay-WI/Data-Science-Intern_R020470-1",
+      "discordThreadId": "1459355323822379081",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-dosage-form-design-and-development-intern-gaithersburg-2026-01-10-1",
+      "jobId": "astrazeneca-dosage-form-design-and-development-intern-gaithersburg",
+      "company": "AstraZeneca",
+      "title": "Dosage Form Design and Development Intern",
+      "postedToDiscord": "2026-01-10T01:17:09.648Z",
+      "sourceDate": "2026-01-09T23:35:18.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Dosage-Form-Design-and-Development-Intern---Gaithersburg--MD_R-242836",
+      "discordThreadId": "1459355338787520656",
+      "instanceNumber": 1
+    },
+    {
+      "id": "typeface-software-engineer-intern-palo-alto-2026-01-10-1",
+      "jobId": "typeface-software-engineer-intern-palo-alto",
+      "company": "Typeface",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-10T01:17:13.025Z",
+      "sourceDate": "2026-01-09T23:27:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/typeface/jobs/4986848007",
+      "discordThreadId": "1459355353304268912",
+      "instanceNumber": 1
+    },
+    {
+      "id": "adobe-intern-data-analytics-san-jose-2026-01-10-1",
+      "jobId": "adobe-intern-data-analytics-san-jose",
+      "company": "Adobe",
+      "title": "Intern - Data Analytics",
+      "postedToDiscord": "2026-01-10T01:17:16.576Z",
+      "sourceDate": "2026-01-09T23:19:18.000Z",
+      "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Data-Analytics_R158557",
+      "discordThreadId": "1459355367556251944",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cox-business-intelligence-analytics-intern-atlanta-2026-01-10-1",
+      "jobId": "cox-business-intelligence-analytics-intern-atlanta",
+      "company": "Cox",
+      "title": "Business Intelligence & Analytics Intern",
+      "postedToDiscord": "2026-01-10T01:17:23.339Z",
+      "sourceDate": "2026-01-09T23:36:08.000Z",
+      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence---Analytics-Intern--Summer-2026---Mission--KS---Atlanta--GA_R202566800",
+      "discordThreadId": "1459355395314159658",
+      "instanceNumber": 1
+    },
+    {
+      "id": "southwest-airlines-software-engineer-summer-2026-internships-dallas-2026-01-10-1",
+      "jobId": "southwest-airlines-software-engineer-summer-2026-internships-dallas",
+      "company": "Southwest Airlines",
+      "title": "Software Engineer Summer 2026 Internships",
+      "postedToDiscord": "2026-01-10T01:17:29.867Z",
+      "sourceDate": "2026-01-09T23:20:01.000Z",
+      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Software-Engineer-Summer-2026-Internships_R-2026-63180",
+      "discordThreadId": "1459355423579832321",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nordstrom-software-engineer-intern-seattle-2026-01-10-1",
+      "jobId": "nordstrom-software-engineer-intern-seattle",
+      "company": "Nordstrom",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-10T01:17:33.392Z",
+      "sourceDate": "2026-01-09T23:17:39.000Z",
+      "sourceUrl": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Software-Engineer---Corporate-Internship_R-809510-1",
+      "discordThreadId": "1459355438226214953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lmi-space-systems-software-development-intern-summer-2026-colorado-springs-2026-01-10-1",
+      "jobId": "lmi-space-systems-software-development-intern-summer-2026-colorado-springs",
+      "company": "LMI ",
+      "title": "Space Systems Software Development Intern - Summer 2026",
+      "postedToDiscord": "2026-01-10T01:17:36.877Z",
+      "sourceDate": "2026-01-09T23:15:55.000Z",
+      "sourceUrl": "https://careers-lmi.icims.com/jobs/13506/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1459355452713205915",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 212,
+    "totalJobs": 221,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-10T00:43:57.027Z",
+      "date": "2026-01-10T01:17:36.878Z",
       "archived": 0
     }
   }

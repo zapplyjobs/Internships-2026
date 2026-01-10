@@ -1,0 +1,17 @@
+{
+  "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978035",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "✖ About Leadership Board of Directors Advisory Boards Nextdoor Foundation Newsroom Press Releases Media Assets Blog Investor Relations Businesses Local Businesses Large Brands Public Agencies Partners Local News Publishers Public Agencies Resources Community Guidelines Anti-racism Resources Research Studies Crisis Resources Policy Hub Careers hbspt.cta._relativeUrls=true;hbspt.cta.load(5713048, 'd9afe76a-5c05-4256-a04a-b5ce6c31ae91', {\"useNewLoader\":\"true\",\"region\":\"na1\"});",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978035",
+      "fetchedAt": "2026-01-10T01:16:50.944Z"
+    }
+  },
+  "cachedAt": 1768007810945
+}
