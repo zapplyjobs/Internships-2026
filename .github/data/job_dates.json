@@ -1,16 +1,4 @@
 {
-  "infineon-technologies-internship--cad-multiple-cities": {
-    "assigned_date": "2025-11-11T21:27:35.563Z",
-    "job_title": "Internship- CAD",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-11T21:27:35.563Z"
-  },
-  "amd-summer-2026-phd-dsp-and-ml-engineer-intern-san-jose": {
-    "assigned_date": "2025-11-12T11:38:00.313Z",
-    "job_title": "Summer 2026 PhD DSP and ML Engineer Intern",
-    "company": "AMD",
-    "first_seen": "2025-11-12T11:38:00.313Z"
-  },
   "infineon-technologies-internship---digital-functional-verification-methodology-lexington": {
     "assigned_date": "2025-11-12T16:20:40.677Z",
     "job_title": "Internship - Digital Functional Verification Methodology",
@@ -18784,5 +18772,17 @@
     "job_title": "Staff Scientist/Engineering Intern - Spring 2026",
     "company": "Weston & Sampson",
     "first_seen": "2026-01-10T19:43:33.881Z"
+  },
+  "woven-machine-learning-intern---vehicle-perception-palo-alto": {
+    "assigned_date": "2026-01-11T15:16:45.411Z",
+    "job_title": "Machine Learning Intern - Vehicle Perception",
+    "company": "Woven",
+    "first_seen": "2026-01-11T15:16:45.411Z"
+  },
+  "woven-machine-learning-intern---autolabeling-palo-alto": {
+    "assigned_date": "2026-01-11T15:16:45.412Z",
+    "job_title": "Machine Learning Intern - Autolabeling",
+    "company": "Woven",
+    "first_seen": "2026-01-11T15:16:45.412Z"
   }
 }
