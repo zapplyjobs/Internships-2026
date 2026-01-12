@@ -12,33 +12,5 @@
     "id": "agzen--cambridge",
     "description_platform": "generic",
     "description_success": true
-  },
-  {
-    "job_title": "LLM/ML PhD",
-    "employer_name": "Cadence Design Systems",
-    "job_city": "San Jose",
-    "job_state": "CA",
-    "job_description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Job DescriptionAt Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. If you are an engineer who enjoys an exciting, fast-moving environment and daily technical challenges as much as we do, the team will be a great fit for you. We are looking for an LLM/ML developer who will be a key contributor in building a scalable and resilient data analytics/ML platform.  Key Qualifications Advanced experience working with LLM/ML/big data, such as Langchain, Spark, etc. Able to translate requirements into both high-level and detailed architectures Solid experience about architecture design, performance tuning In-depth understanding of data structures, algorithms, and distributed systems Development experience in Python, C++Solid understanding of database fundamentals, with high proficiency in SQL Enthusiastic, highly motivated, and able to work collaboratively In-depth understanding of various technologies and frameworks with ability to combine into practical solutions Education & Experience  Currently enrolled as PhD in Computer Science or related fieldWe’re doing work that matters. Help us solve what others can’t.",
-    "job_apply_link": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-PhD-Intern--Summer-2026-_R52691-1",
-    "job_posted_at_datetime_utc": "2026-01-12T01:06:59.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "cadence-design-llm-ml-phd-san-jose",
-    "description_platform": "workday",
-    "description_success": true
-  },
-  {
-    "job_title": "Performance Engineer - Gaming",
-    "employer_name": "NVIDIA",
-    "job_city": "St. Louis",
-    "job_state": "MO",
-    "job_description": "NVIDIA is a worldwide technology company headquartered in Santa Clara, California. NVIDIA manufactures graphics processing units (GPUs), as well as system on a chip units (SOCs) for the expanding markets. Our work in visual computing, the art and science of computer graphics, has led to thousands of patented inventions, breakthrough technologies, deep industry relationships and a globally recognized brand. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers inventions such as artificial intelligence and autonomous cars.You would join the team responsible for the maintenance, development, and execution of Desktop Gaming Performance testing in Linux and Windows environments for the world's fastest, power efficient GPUs. This job involves various challenges such as working on pre-production hardware, Gaming software and other emerging technologies. What you’ll be doing:Analyze the data to draft reports and charts to visualize the resultsWork with product development engineers to tune our products for maximum performance and help define the next generation GPUsStudy and analyze the performance on various computing platforms including graphics, CPU, memory, storage, networking, etc.Develop, implement and maintain automation tools to improve testing efficiencyTest standard and custom Gaming applications on a wide variety of systems including desktop, ProVis, and virtualized platformsWhat we need to see:Pursuing a Bachelor’s degree in Computer Science or similar program areaStrong knowledge and interest in PC gamesExperience using Python and other programming languagesKnowledge or experience in AI development  Ways to stand out from the crowd:Automation experienceInterest in AI gamingWorking knowledge of operating systems and PC buildingNVIDIA is widely considered to be one of the technology world's most desirable employers. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until January 13, 2026.This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-    "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
-    "job_posted_at_datetime_utc": "2025-12-18T07:16:57.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "nvidia-performance-engineer-gaming-st-louis",
-    "description_platform": "workday",
-    "description_success": true
   }
 ]
