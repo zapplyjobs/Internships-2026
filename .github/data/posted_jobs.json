@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T08:18:49.809Z",
+  "lastUpdated": "2026-01-12T11:39:08.457Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -2641,14 +2641,36 @@
       "sourceUrl": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Data-Strategy-Engineering-Intern_JR14492",
       "discordThreadId": "1460186231731388634",
       "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-llm-ml-phd-san-jose-2026-01-12-1",
+      "jobId": "cadence-design-llm-ml-phd-san-jose",
+      "company": "Cadence Design Systems",
+      "title": "LLM/ML PhD",
+      "postedToDiscord": "2026-01-12T11:39:05.140Z",
+      "sourceDate": "2026-01-12T01:06:59.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-PhD-Intern--Summer-2026-_R52691-1",
+      "discordThreadId": "1460236626801463409",
+      "instanceNumber": 1
+    },
+    {
+      "id": "nvidia-performance-engineer-gaming-st-louis-2026-01-12-1",
+      "jobId": "nvidia-performance-engineer-gaming-st-louis",
+      "company": "NVIDIA",
+      "title": "Performance Engineer - Gaming",
+      "postedToDiscord": "2026-01-12T11:39:08.457Z",
+      "sourceDate": "2025-12-18T07:16:57.000Z",
+      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
+      "discordThreadId": "1460236641519272089",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 240,
+    "totalJobs": 242,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-12T08:18:49.809Z",
+      "date": "2026-01-12T11:39:08.457Z",
       "archived": 0
     }
   }

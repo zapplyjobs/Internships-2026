@@ -1,0 +1,22 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "NVIDIA is a worldwide technology company headquartered in Santa Clara, California. NVIDIA manufactures graphics processing units (GPUs), as well as system on a chip units (SOCs) for the expanding markets. Our work in visual computing, the art and science of computer graphics, has led to thousands of patented inventions, breakthrough technologies, deep industry relationships and a globally recognized brand. Our work opens up new universes to explore, enables amazing creativity and discovery, and powers inventions such as artificial intelligence and autonomous cars.You would join the team responsible for the maintenance, development, and execution of Desktop Gaming Performance testing in Linux and Windows environments for the world's fastest, power efficient GPUs. This job involves various challenges such as working on pre-production hardware, Gaming software and other emerging technologies. What you’ll be doing:Analyze the data to draft reports and charts to visualize the resultsWork with product development engineers to tune our products for maximum performance and help define the next generation GPUsStudy and analyze the performance on various computing platforms including graphics, CPU, memory, storage, networking, etc.Develop, implement and maintain automation tools to improve testing efficiencyTest standard and custom Gaming applications on a wide variety of systems including desktop, ProVis, and virtualized platformsWhat we need to see:Pursuing a Bachelor’s degree in Computer Science or similar program areaStrong knowledge and interest in PC gamesExperience using Python and other programming languagesKnowledge or experience in AI development  Ways to stand out from the crowd:Automation experienceInterest in AI gamingWorking knowledge of operating systems and PC buildingNVIDIA is widely considered to be one of the technology world's most desirable employers. Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until January 13, 2026.This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "requirements": [
+      "Pursuing a Bachelor’s degree in Computer Science or similar program area"
+    ],
+    "responsibilities": [
+      "Work with product development engineers to tune our products for maximum performance and help define the next generation GPUs",
+      "Develop, implement and maintain automation tools to improve testing efficiency",
+      "Knowledge or experience in AI development"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
+      "fetchedAt": "2026-01-12T11:38:59.278Z"
+    }
+  },
+  "cachedAt": 1768217939278
+}
