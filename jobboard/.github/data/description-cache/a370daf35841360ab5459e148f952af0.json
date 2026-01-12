@@ -1,0 +1,17 @@
+{
+  "url": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Generate:Biomedicines to Initiate Global Phase 3 Studies of GB-0895, a Long-Acting Anti-TSLP Antibody for Severe Asthma",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
+      "fetchedAt": "2026-01-12T17:12:48.868Z"
+    }
+  },
+  "cachedAt": 1768237968868
+}
