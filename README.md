@@ -142,7 +142,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 7h |
+| Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 8h |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -302,13 +302,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1782 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1762 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1782 roles
-- **🏢 Companies**: 137 companies  
+- **📁 Total Positions**: 1762 roles
+- **🏢 Companies**: 135 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
