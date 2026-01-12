@@ -158,7 +158,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Finance & Data Analytics Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/10xgenomics/jobs/7516617) | 7h |
+| Finance & Data Analytics Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/10xgenomics/jobs/7516617) | 8h |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
 
