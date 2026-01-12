@@ -1,0 +1,20 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-PhD-Intern--Summer-2026-_R52691-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.Job DescriptionAt Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. If you are an engineer who enjoys an exciting, fast-moving environment and daily technical challenges as much as we do, the team will be a great fit for you. We are looking for an LLM/ML developer who will be a key contributor in building a scalable and resilient data analytics/ML platform.  Key Qualifications Advanced experience working with LLM/ML/big data, such as Langchain, Spark, etc. Able to translate requirements into both high-level and detailed architectures Solid experience about architecture design, performance tuning In-depth understanding of data structures, algorithms, and distributed systems Development experience in Python, C++Solid understanding of database fundamentals, with high proficiency in SQL Enthusiastic, highly motivated, and able to work collaboratively In-depth understanding of various technologies and frameworks with ability to combine into practical solutions Education & Experience  Currently enrolled as PhD in Computer Science or related fieldWe’re doing work that matters. Help us solve what others can’t.",
+    "requirements": [
+      "Able to translate requirements into both high-level and detailed architectures"
+    ],
+    "responsibilities": [
+      "Development experience in Python, C++"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-PhD-Intern--Summer-2026-_R52691-1",
+      "fetchedAt": "2026-01-12T11:38:53.161Z"
+    }
+  },
+  "cachedAt": 1768217933162
+}
