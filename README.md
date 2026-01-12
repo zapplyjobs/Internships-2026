@@ -210,12 +210,12 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🌍 Top Locations
 - **Boise, ID**: 2 opportunities
 - **Boston, MA**: 2 opportunities
-- **St. Louis, MO**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
 - **McLean, VA**: 1 opportunity
 - **Redmond, WA**: 1 opportunity
 - **Washington, Locations**: 1 opportunity
 - **San Jose, CA**: 1 opportunity
+- **St. Louis, MO**: 1 opportunity
 
 ---
 
@@ -308,7 +308,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ### **Archived Opportunity Stats**
 - **📁 Total Positions**: 1748 roles
-- **🏢 Companies**: 135 companies  
+- **🏢 Companies**: 136 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (86 positions)
