@@ -18874,5 +18874,17 @@
     "job_title": "Data Analytics Intern",
     "company": "Group 1001",
     "first_seen": "2026-01-12T17:12:48.241Z"
+  },
+  "rocket-mortgage-data-engineer-intern-detroit": {
+    "assigned_date": "2026-01-12T18:18:02.204Z",
+    "job_title": "Data Engineer Intern",
+    "company": "Rocket Mortgage",
+    "first_seen": "2026-01-12T18:18:02.204Z"
+  },
+  "general-dynamics-mission-systems-software-engineering-intern-bremerton": {
+    "assigned_date": "2026-01-12T18:18:02.205Z",
+    "job_title": "Software Engineering Intern",
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2026-01-12T18:18:02.205Z"
   }
 }
