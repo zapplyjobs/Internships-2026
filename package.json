@@ -12,7 +12,7 @@
     "axios": "^1.13.2",
     "cheerio": "^1.1.2",
     "discord.js": "^14.25.1",
-    "puppeteer": "^24.34.0"
+    "puppeteer": "^24.35.0"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
