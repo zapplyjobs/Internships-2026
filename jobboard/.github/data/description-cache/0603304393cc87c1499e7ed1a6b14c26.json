@@ -1,0 +1,17 @@
+{
+  "url": "https://careers-pittohio.icims.com/jobs/3303/job?mobile=true&needsRedirect=false",
+  "data": {
+    "success": true,
+    "platform": "icims",
+    "description": "<h2>Overview</h2> <p><strong>PITT OHIO</strong>, a $900 million, high service, highly profitable, transportation solutions provider offering SUPPLY CHAIN, GROUND, LTL and TRUCKLOAD services is seeking an&nbsp;<strong>Analytics Engineer Intern</strong>. This internship position is located at our corporate headquarters in the Strip District area of Pittsburgh, PA.</p> <h2>Responsibilities</h2> <p>• Develop/maintain KPI reports within PowerBI • Build ML Predictive Models within Python• Querying data within SQL• Data analysis• Cross functional communication• Support the other Engineers in the department• Other duties as required</p> <p>• Assist the team with other reporting and project requirements</p> <p>&nbsp;</p> <h2>Qualifications</h2> <p>• Must be majoring in Industrial Engineering, Data Science, Business Intelligence, Computer Science, and/or another Engineering/Analytical related discipline• Completed at least Sophomore year at a University/College</p> <p>• Minimum GPA of at least 3.0• Must be competent and proficient in Microsoft Office Software products• Knowledge of Microsoft PowerBI or another Business Intelligence software• Experience with SQL and Python• Strong analytical and problem-solving skills• Excellent communication and interpersonal skills• Ability to work collaboratively with cross-functional teams• Proficiency in data analysis and process improvement tools• Outstanding time management and organizational skills• Persuasive presentation skills• Fluent command in the English language is required to efficiently communicate with internal and external customers</p> <p>&nbsp;</p> <p>PITT OHIO is an Equal Employment Opportunity (EEO) employer and welcomes all qualified applicants. Applicants will receive fair and impartial consideration without regard to race, sex, color, religion, national origin, age, disability, veteran status, genetic data, religion or other legally protected status.</p>",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://careers-pittohio.icims.com/jobs/3303/job?mobile=true&needsRedirect=false",
+      "fetchedAt": "2026-01-12T08:18:16.016Z"
+    }
+  },
+  "cachedAt": 1768205896016
+}

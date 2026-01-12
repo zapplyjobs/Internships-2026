@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T02:55:59.113Z",
+  "lastUpdated": "2026-01-12T08:18:49.809Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -2575,14 +2575,80 @@
       "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HOR32-Wilsonville-OR-27300-SW-Parkway---Wilsonville-OR-97070-9215-USA/Software-Engineering-Co-Op--Summer-Fall-2026---Onsite-_01794184",
       "discordThreadId": "1460104984766185708",
       "instanceNumber": 1
+    },
+    {
+      "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
+      "jobId": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison",
+      "company": "Arrowhead Pharmaceuticals",
+      "title": "Intern - Digital Workplace AI",
+      "postedToDiscord": "2026-01-12T08:18:29.941Z",
+      "sourceDate": "2026-01-12T07:37:04.000Z",
+      "sourceUrl": "https://arrowheadpharma.com/careers/?gh_jid=5021314007",
+      "discordThreadId": "1460186146347684039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "comcast-comcast-ai-research-intern-philadelphia-2026-01-12-1",
+      "jobId": "comcast-comcast-ai-research-intern-philadelphia",
+      "company": "Comcast",
+      "title": "Comcast AI Research Intern",
+      "postedToDiscord": "2026-01-12T08:18:36.565Z",
+      "sourceDate": "2026-01-12T07:31:00.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AI-Research-Intern_R427018",
+      "discordThreadId": "1460186175502549032",
+      "instanceNumber": 1
+    },
+    {
+      "id": "comcast-comcast-ai-research-intern-washington-2026-01-12-1",
+      "jobId": "comcast-comcast-ai-research-intern-washington",
+      "company": "Comcast",
+      "title": "Comcast AI Research Intern",
+      "postedToDiscord": "2026-01-12T08:18:36.568Z",
+      "sourceDate": "2026-01-12T07:30:56.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Comcast-AI-Research-Intern_R425982",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "pitt-ohio-analytics-engineer-pittsburgh-2026-01-12-1",
+      "jobId": "pitt-ohio-analytics-engineer-pittsburgh",
+      "company": "Pitt Ohio",
+      "title": "Analytics Engineer",
+      "postedToDiscord": "2026-01-12T08:18:43.113Z",
+      "sourceDate": "2026-01-12T07:26:24.000Z",
+      "sourceUrl": "https://careers-pittohio.icims.com/jobs/3303/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460186202740101427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auto-club-business-technology-intern-remote-in-usa-2026-01-12-1",
+      "jobId": "auto-club-business-technology-intern-remote-in-usa",
+      "company": "Auto Club Group ",
+      "title": "Business Technology Intern",
+      "postedToDiscord": "2026-01-12T08:18:46.521Z",
+      "sourceDate": "2026-01-12T07:24:40.000Z",
+      "sourceUrl": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Business-Technology-Intern_JR14476",
+      "discordThreadId": "1460186217629880352",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auto-club-data-strategy-engineering-intern-remote-in-usa-2026-01-12-1",
+      "jobId": "auto-club-data-strategy-engineering-intern-remote-in-usa",
+      "company": "Auto Club Group ",
+      "title": "Data Strategy Engineering Intern",
+      "postedToDiscord": "2026-01-12T08:18:49.809Z",
+      "sourceDate": "2026-01-12T07:24:37.000Z",
+      "sourceUrl": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Data-Strategy-Engineering-Intern_JR14492",
+      "discordThreadId": "1460186231731388634",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 234,
+    "totalJobs": 240,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-12T02:55:59.113Z",
+      "date": "2026-01-12T08:18:49.809Z",
       "archived": 0
     }
   }
