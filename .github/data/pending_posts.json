@@ -658,5 +658,85 @@
     "addedAt": "2025-12-13T03:10:32.971Z",
     "enrichedAt": "2025-12-21T23:17:45.725Z",
     "postedAt": "2025-12-21T23:36:52.893Z"
+  },
+  {
+    "job": {
+      "job_title": "Machine Learning Intern",
+      "employer_name": "Generate Biomedicines",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Generate:Biomedicines to Initiate Global Phase 3 Studies of GB-0895, a Long-Acting Anti-TSLP Antibody for Severe Asthma",
+      "job_apply_link": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
+      "job_posted_at_datetime_utc": "2026-01-12T16:34:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "generate-biomedicines-machine-learning-intern-cambridge",
+      "description_platform": "generic",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-12T17:12:48.285Z",
+    "enrichedAt": "2026-01-12T17:13:06.376Z",
+    "postedAt": "2026-01-12T17:13:29.949Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Analyst – Emerging Category Intern",
+      "employer_name": "The Coca-Cola Company",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Location(s):United States of AmericaCity/Cities:AtlantaTravel Required:00% - 25%Relocation Provided:NoJob Posting End Date:January 23, 2026Shift:Job Description Summary: Candidates are encouraged to apply to 3 or fewer internship roles during a given internship recruiting cyclePosition Overview (2-3 sentences):As a Summer Data Analyst Intern on the ARTD (Alcohol Ready to Drink) Global Development and Innovation team, you will support the team by analyzing consumer, market, product, and supply chain data to inform strategic decision‑making and innovation within the global ARTD category. You will assist with gathering, cleaning, analyzing, and visualizing data to improve how insights are generated and shared across the team. In addition to innovation and consumer analytics, the intern will also support supply chain by helping with shipment creation, extracting and analyzing delivery performance data at a lane level, and presenting findings to stakeholders. This role will work closely with cross‑functional partners across product development, supply chain, and analytics, offering hands‑on exposure to how data supports both innovation and operational performance in a fast‑paced environment. Function Related Activities/Key Responsibilities: (Top 5-8 core responsibilities):Collect, clean, and organize consumer, market, sales, and product data from internal and external sources to support analysis and reporting. Analyze performance trends within the ARTD category. Build and maintain basic dashboards, charts, and visualizations that communicate insights clearly. Assist with consumer insights analysis by summarizing survey data, concept tests, or usage & attitude research. Document analytical processes, assumptions, and findings to promote consistency, clarity, and knowledge sharing. Prepare concise summaries and presentations translating data into insights, learnings, and recommendations for internal stakeholders. Education Requirements:Must be currently pursuing a Bachelor's or Master's degree in Data Science/Analytics, Statistics, Business Analytics, Marketing Analytics, Economics, Computer Science, or related field or have graduated from their degree program no earlier than December 2025. Related Work Experience:Supply chain experience is a plusExperience conducting analysis for large organizations is a plusFunctional Skills:Data cleaning and preparationData analysis and visualization (Tableau, Power BI, Excel)Translating data into insight and recommendationsProblem-solving mindsetComfort with ambiguityAble to work with evolving questions and incomplete dataCompensation:Monthly Salary (undergraduate): $4,506Monthly Salary (graduate): $6,066Location: Atlanta, GeorgiaDates of Internship: May 18 - July 31, 2026Skills:Our Purpose and Growth Culture:We are taking deliberate action to nurture an inclusive culture that is grounded in our company purpose, to refresh the world and make a difference. We act with a growth mindset, take an expansive approach to what’s possible and believe in continuous learning to improve our business and ourselves. We focus on four key behaviors – curious, empowered, inclusive and agile – and value how we work as much as what we achieve. We believe that our culture is one of the reasons our company continues to thrive after 130+ years. Visit Our Purpose and Vision to learn more about these behaviors and how you can bring them to life in your next role at Coca-Cola.We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class. When we collect your personal information as part of a job application or offer of employment, we do so in accordance with industry standards and best practices and in compliance with applicable privacy laws.",
+      "job_apply_link": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Analyst--Emerging-Category-Intern_R-133380",
+      "job_posted_at_datetime_utc": "2026-01-12T16:28:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-coca-cola-company-data-analyst-emerging-category-intern-atlanta",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-12T17:12:48.285Z",
+    "enrichedAt": "2026-01-12T17:13:06.376Z",
+    "postedAt": "2026-01-12T17:13:29.949Z"
+  },
+  {
+    "job": {
+      "job_title": "CPS Data Science Intern",
+      "employer_name": "The Coca-Cola Company",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Location(s):United States of AmericaCity/Cities:AtlantaTravel Required:00% - 25%Relocation Provided:NoJob Posting End Date:January 23, 2026Shift:Job Description Summary: Candidates are encouraged to apply to 3 or fewer internship roles during a given internship recruiting cycleWe’re seeking a Data Science Intern to apply analytics, machine learning, and automation to real-world manufacturing challenges. You’ll help improve efficiency, optimize inventory, and support sustainability across our global CPS network while gaining hands-on experience and mentorship in a collaborative environment.Function Related Activities/Key Responsibilities: Partner with CPS Data Engineers, Manufacturing, and GDI teams to understand business problems and translate them into analytical solutions.Collect, clean, and analyze large datasets from multiple sources (SAP, Azure Data Lake, Power BI, etc.).Develop and test machine learning or optimization models to support initiatives such as Kit Optimization, Complexity Analysis, and Inventory Benchmarking.Build clear visualizations and dashboards to communicate findings and recommendations to stakeholders.Support automation and scaling of analytics workflows in Databricks and Azure environments.Document methodologies, datasets, and models to ensure reproducibility and knowledge sharing.Present insights and recommendations to the Data Science and Manufacturing leadership teams.Education Requirements:Must be currently pursuing a Bachelor's or Master's degree or have graduated from their degree program no earlier than December 2025 in Data Science, Computer Science, Statistics, Industrial Engineering, or a related quantitative field.Related Work Experience:Strong programming skills in Python (pandas, scikit-learn, PySpark) or SQL.Experience with data visualization tools such as Power BI, Tableau, or matplotlib.Able to understand various data structures and common methods in data transformation.Familiarity with machine learning concepts, statistical analysis, and model evaluation techniques.Understanding of Azure Databricks, cloud-based data systems, or version control tools (GitHub, Azure DevOps) is a plus.Strong analytical mindset, attention to detail, and curiosity to explore data-driven insights.Excellent communication skills and ability to work collaboratively in a team environmentMonthly Salary (undergraduate): $4,506Monthly Salary (graduate): $6,066Dates of Internship: May 18 - July 31, 2026Location: Atlanta, GeorgiaSkills:Our Purpose and Growth Culture:We are taking deliberate action to nurture an inclusive culture that is grounded in our company purpose, to refresh the world and make a difference. We act with a growth mindset, take an expansive approach to what’s possible and believe in continuous learning to improve our business and ourselves. We focus on four key behaviors – curious, empowered, inclusive and agile – and value how we work as much as what we achieve. We believe that our culture is one of the reasons our company continues to thrive after 130+ years. Visit Our Purpose and Vision to learn more about these behaviors and how you can bring them to life in your next role at Coca-Cola.We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or local protected class. When we collect your personal information as part of a job application or offer of employment, we do so in accordance with industry standards and best practices and in compliance with applicable privacy laws.",
+      "job_apply_link": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CPS-Data-Science-Intern_R-133297",
+      "job_posted_at_datetime_utc": "2026-01-12T16:28:02.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "the-coca-cola-company-cps-data-science-intern-atlanta",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-12T17:12:48.285Z",
+    "enrichedAt": "2026-01-12T17:13:06.376Z",
+    "postedAt": "2026-01-12T17:13:29.949Z"
+  },
+  {
+    "job": {
+      "job_title": "Data Analytics Intern",
+      "employer_name": "Group 1001",
+      "job_city": "Zionsville",
+      "job_state": "IN",
+      "job_description": "Group 1001 is a consumer-centric, technology-driven family of insurance companies on a mission to deliver outstanding value and operational performance by combining financial strength and stability with deep insurance expertise and a can-do culture. Group1001’s culture emphasizes the importance of collaboration, communication, core business focus, risk management, and striving for outcomes. This goal extends to how we hire and onboard our most valuable assets – our employees.Why This Role Matters: Group 1001 is looking for a college student to join us as a Data Analytics Intern at our Zionsville, IN, corporate office. The internship will run from May 18 to August 7, 2026. The Data Analytics Intern will support on-going enterprise data platform modernization efforts by working on the Data Solution Services team to operationalize analytics through data domains as we transition to a modern data platform.How You'll Contribute: Assist with data onboarding to Snowflake and data quality validation (profiling, cleansing, reconciliation) to ensure trusted, well-documented datasets.Support data governance practices by updating data catalogs, lineage, and metadata to improve discoverability and compliance.Enable user adoption by creating how-to guides, running demos, capturing feedback, and implementing a reusable new user on-boarding processBuild dashboards and analytical reports using SigmaWhat We’re Looking For:Undergraduate students completing their sophomore or junior year pursuing a degree in Data Science, Statistics, Computer Science, Management Information Systems; or completed coursework related to data analytics or information systemsAvailability to work full-time hours over the summer.Familiarity with Insurance industry is idealAbility to clearly articulate complex information to others.Detail oriented with strong focus on quality of deliverables.Demonstrated ability to proactively identify and solve problems and issues of all types.Ability to prioritize and meet deadlines.Ownership and accountability for deliverables.Ability to work independently and with a team.Strong written and communication skills.Ability to establish positive relationships and work effectively with any department.Familiar with Microsoft Suite (Word, Excel, Outlook, Teams, PowerPoint)Benefits Highlights:  Employees who meet benefit eligibility guidelines and work 30 hours or more weekly, have the ability to enroll in Group 1001’s benefits package. Employees (and their families) are eligible to participate in the Company’s comprehensive health, dental, and vision insurance plan options.  Employees are also eligible for Basic and Supplemental Life Insurance, Short and Long-Term Disability. All employees (regardless of hours worked) have immediate access to the Company’s Employee Assistance Program and wellness programs—no enrollment is required.  Employees may also participate in the Company’s 401K plan, with matching contributions by the Company.  Group 1001, and its affiliated companies, is strongly committed to providing a supportive work environment where employee differences are valued. Diversity is an essential ingredient in making Group 1001 a welcoming place to work and is fundamental in building a high-performance team. Diversity embodies all the differences that make us unique individuals.  All employees share the responsibility for maintaining a workplace culture of dignity, respect, understanding and appreciation of individual and group differences.#LI-ES1",
+      "job_apply_link": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Data-Analytics-Intern_R25_0716",
+      "job_posted_at_datetime_utc": "2026-01-12T16:26:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "group-1001-data-analytics-intern-zionsville",
+      "description_platform": "workday",
+      "description_success": true
+    },
+    "status": "posted",
+    "addedAt": "2026-01-12T17:12:48.285Z",
+    "enrichedAt": "2026-01-12T17:13:06.376Z",
+    "postedAt": "2026-01-12T17:13:29.949Z"
   }
 ]
