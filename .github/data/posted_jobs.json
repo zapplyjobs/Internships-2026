@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T00:41:07.326Z",
+  "lastUpdated": "2026-01-13T01:06:16.569Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -2905,14 +2905,113 @@
       "sourceUrl": "https://hhmi.wd1.myworkdayjobs.com/external/job/Headquarters/Science-Strategy---Data-Intern_R-4064",
       "discordThreadId": "1460433432323690518",
       "instanceNumber": 1
+    },
+    {
+      "id": "robert-bosch-venture-capital-sales-team-data-science-intern-southfield-2026-01-13-1",
+      "jobId": "robert-bosch-venture-capital-sales-team-data-science-intern-southfield",
+      "company": "Robert Bosch Venture Capital",
+      "title": "Sales Team Data Science Intern",
+      "postedToDiscord": "2026-01-13T01:05:39.340Z",
+      "sourceDate": "2026-01-12T23:22:30.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000103123800",
+      "discordThreadId": "1460439605991182503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genentech-2026-summer-intern-genentech-gred-computational-sciences-center-of-excellence-san-bruno-2026-01-13-1",
+      "jobId": "genentech-2026-summer-intern-genentech-gred-computational-sciences-center-of-excellence-san-bruno",
+      "company": "Genentech",
+      "title": "2026 Summer Intern - Genentech Gred Computational Sciences - Center of Excellence",
+      "postedToDiscord": "2026-01-13T01:05:42.956Z",
+      "sourceDate": "2026-01-12T23:15:37.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Genentech-gRED-Computational-Sciences---Center-of-Excellence_202601-100479-1",
+      "discordThreadId": "1460439622122340414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-product-development-engineer-intern-milpitas-2026-01-13-1",
+      "jobId": "kla-product-development-engineer-intern-milpitas",
+      "company": "KLA Corporation",
+      "title": "Product Development Engineer Intern",
+      "postedToDiscord": "2026-01-13T01:05:46.537Z",
+      "sourceDate": "2026-01-12T23:13:36.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineering-Intern_2633673-1",
+      "discordThreadId": "1460439636760334396",
+      "instanceNumber": 1
+    },
+    {
+      "id": "amcor-maintenance-systems-analytics-intern-lawrence-2026-01-13-1",
+      "jobId": "amcor-maintenance-systems-analytics-intern-lawrence",
+      "company": "Amcor",
+      "title": "Maintenance Systems & Analytics Intern",
+      "postedToDiscord": "2026-01-13T01:05:53.044Z",
+      "sourceDate": "2026-01-12T23:21:53.000Z",
+      "sourceUrl": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Lawrence-KS/Maintenance-Systems---Analytics-Intern---Summer-2026_REQ_84473",
+      "discordThreadId": "1460439664421896445",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-summer-2026-intern-warranty-data-analyst-kirkland-2026-01-13-1",
+      "jobId": "paccar-summer-2026-intern-warranty-data-analyst-kirkland",
+      "company": "Paccar",
+      "title": "Summer 2026 Intern - Warranty Data Analyst",
+      "postedToDiscord": "2026-01-13T01:05:56.501Z",
+      "sourceDate": "2026-01-12T23:18:33.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Kirkland-Summer-2026-Intern-Warranty-Data-Analyst-WA-98033/1282631801/?ats=successfactors",
+      "discordThreadId": "1460439679110348994",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rtx-crypto-software-engineering-intern-el-segundo-2026-01-13-1",
+      "jobId": "rtx-crypto-software-engineering-intern-el-segundo",
+      "company": "RTX",
+      "title": "Crypto Software Engineering Intern",
+      "postedToDiscord": "2026-01-13T01:06:03.025Z",
+      "sourceDate": "2026-01-12T23:14:16.000Z",
+      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HCA45-Fullerton-CA-Bldg-675-1801-West-Hughes-Drive-Building-675-Fullerton-CA-92834-USA/Crypto-Software-Engineering-Intern-Summer-2026--Onsite-_01811252",
+      "discordThreadId": "1460439706293764226",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ciena-jira-automation-intern-with-ai-gai-insights-remote-in-usa-2026-01-13-1",
+      "jobId": "ciena-jira-automation-intern-with-ai-gai-insights-remote-in-usa",
+      "company": "Ciena",
+      "title": "JIRA Automation Intern with AI/GAI Insights",
+      "postedToDiscord": "2026-01-13T01:06:06.496Z",
+      "sourceDate": "2026-01-12T23:06:20.000Z",
+      "sourceUrl": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/JIRA-Automation-Intern-with-AI-GAI-Insights_R029750",
+      "discordThreadId": "1460439720998994033",
+      "instanceNumber": 1
+    },
+    {
+      "id": "toll-brothers-web-development-intern-ambler-2026-01-13-1",
+      "jobId": "toll-brothers-web-development-intern-ambler",
+      "company": "Toll Brothers",
+      "title": "Web Development Intern",
+      "postedToDiscord": "2026-01-13T01:06:10.085Z",
+      "sourceDate": "2025-11-25T03:47:22.000Z",
+      "sourceUrl": "https://jobs-tollbrothers.icims.com/jobs/24248/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460439735536455833",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westwood-survey-intern-mclean-2026-01-13-1",
+      "jobId": "westwood-survey-intern-mclean",
+      "company": "Westwood",
+      "title": "Survey Intern",
+      "postedToDiscord": "2026-01-13T01:06:16.569Z",
+      "sourceDate": "2025-12-17T16:34:34.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7163/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460439763315064973",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 264,
+    "totalJobs": 273,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T00:41:07.326Z",
+      "date": "2026-01-13T01:06:16.569Z",
       "archived": 0
     }
   }
