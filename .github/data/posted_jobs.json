@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T14:53:40.730Z",
+  "lastUpdated": "2026-01-13T16:05:01.591Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3356,14 +3356,25 @@
       "sourceUrl": "https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us",
       "discordThreadId": "1460647985623994618",
       "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-collaboration-automation-intern-grove-city-2026-01-13-1",
+      "jobId": "westinghouse-electric-company-collaboration-automation-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Collaboration Automation Intern",
+      "postedToDiscord": "2026-01-13T16:05:01.591Z",
+      "sourceDate": "2025-12-10T23:12:11.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
+      "discordThreadId": "1460665940856537130",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 305,
+    "totalJobs": 306,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T14:53:40.730Z",
+      "date": "2026-01-13T16:05:01.591Z",
       "archived": 0
     }
   }
