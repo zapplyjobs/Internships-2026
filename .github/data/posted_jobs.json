@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-12T23:16:27.319Z",
+  "lastUpdated": "2026-01-13T00:41:07.326Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -2806,14 +2806,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157825",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-data-scientist-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-13T00:40:30.191Z",
+      "sourceDate": "2026-01-12T23:29:30.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Scientist-Intern_R-133158-1",
+      "discordThreadId": "1460433276706754664",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-global-marketing-generative-ai-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-global-marketing-generative-ai-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Global Marketing Generative AI Intern",
+      "postedToDiscord": "2026-01-13T00:40:33.848Z",
+      "sourceDate": "2026-01-12T23:29:25.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Global-Marketing-Generative-AI-Intern_R-133476",
+      "discordThreadId": "1460433292229738760",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-information-operational-technology-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-information-operational-technology-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Information / Operational Technology Intern",
+      "postedToDiscord": "2026-01-13T00:40:37.524Z",
+      "sourceDate": "2026-01-12T23:29:21.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Information---Operational-Technology-Intern_R-133345",
+      "discordThreadId": "1460433307316518935",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-global-development-innovation-digital-capability-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-global-development-innovation-digital-capability-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Global Development & Innovation – Digital Capability Intern",
+      "postedToDiscord": "2026-01-13T00:40:40.922Z",
+      "sourceDate": "2026-01-12T23:29:21.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Global-Development---Innovation--Digital-Capability-Intern_R-133453",
+      "discordThreadId": "1460433322508419113",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cambria-salesforce-ai-analyst-eden-prairie-2026-01-13-1",
+      "jobId": "cambria-salesforce-ai-analyst-eden-prairie",
+      "company": "Cambria",
+      "title": "Salesforce AI Analyst",
+      "postedToDiscord": "2026-01-13T00:40:44.524Z",
+      "sourceDate": "2026-01-12T23:26:08.000Z",
+      "sourceUrl": "https://cambria.wd1.myworkdayjobs.com/cambria_careers/job/Eden-Prairie-MN/Salesforce-AI-Analyst-Intern_R-102765",
+      "discordThreadId": "1460433336857268429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-it-operations-analytics-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-it-operations-analytics-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "IT Operations & Analytics Intern",
+      "postedToDiscord": "2026-01-13T00:40:53.554Z",
+      "sourceDate": "2026-01-12T23:29:16.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/IT-Intern_R-130606-1",
+      "discordThreadId": "1460433369237029096",
+      "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-summer-2026-software-development-engineer-internship-bellevue-2026-01-13-1",
+      "jobId": "t-mobile-summer-2026-software-development-engineer-internship-bellevue",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Software Development Engineer Internship",
+      "postedToDiscord": "2026-01-13T00:40:57.077Z",
+      "sourceDate": "2026-01-12T23:25:31.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2026-Software-Development-Engineer-Internship_REQ342323",
+      "discordThreadId": "1460433389944307854",
+      "instanceNumber": 1
+    },
+    {
+      "id": "legend-biotech-master-data-management-governance-intern-bridgewater-township-2026-01-13-1",
+      "jobId": "legend-biotech-master-data-management-governance-intern-bridgewater-township",
+      "company": "Legend Biotech",
+      "title": "Master Data Management & Governance Intern",
+      "postedToDiscord": "2026-01-13T00:41:03.655Z",
+      "sourceDate": "2026-01-12T23:26:40.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/legendcareers/jobs/4632787005",
+      "discordThreadId": "1460433417286979686",
+      "instanceNumber": 1
+    },
+    {
+      "id": "howard-hughes-medical-institute-hhmi-science-strategy-data-intern-bethesda-2026-01-13-1",
+      "jobId": "howard-hughes-medical-institute-hhmi-science-strategy-data-intern-bethesda",
+      "company": "Howard Hughes Medical Institute (HHMI)",
+      "title": "Science Strategy & Data Intern",
+      "postedToDiscord": "2026-01-13T00:41:07.325Z",
+      "sourceDate": "2026-01-12T23:23:06.000Z",
+      "sourceUrl": "https://hhmi.wd1.myworkdayjobs.com/external/job/Headquarters/Science-Strategy---Data-Intern_R-4064",
+      "discordThreadId": "1460433432323690518",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 255,
+    "totalJobs": 264,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-12T23:16:27.319Z",
+      "date": "2026-01-13T00:41:07.326Z",
       "archived": 0
     }
   }
