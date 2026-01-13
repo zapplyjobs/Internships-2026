@@ -78,7 +78,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 - 🔥 **Current Positions:** 10 hot data-focused jobs
 - **🏢 Companies**: 7 companies
 - **⭐ FAANG+ Jobs**: 3 premium opportunities
-- 📅 **Last Updated:** January 12, 2026
+- 📅 **Last Updated:** January 13, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 
@@ -166,7 +166,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Finance & Data Analytics Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/10xgenomics/jobs/7516617) | 20h |
+| Finance & Data Analytics Intern | Pleasanton, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/10xgenomics/jobs/7516617) | 21h |
 
 ### 🏭 **Manufacturing & Industrial** (3 positions)
 
@@ -681,6 +681,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ---
 
-**Last Updated:** January 12, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** January 13, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
