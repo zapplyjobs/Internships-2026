@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T11:39:10.244Z",
+  "lastUpdated": "2026-01-13T13:00:26.188Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3290,14 +3290,58 @@
       "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Software-Developer_R2502588",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "commvault-technical-enablement-intern-shrewsbury-2026-01-13-1",
+      "jobId": "commvault-technical-enablement-intern-shrewsbury",
+      "company": "Commvault",
+      "title": "Technical Enablement Intern",
+      "postedToDiscord": "2026-01-13T13:00:12.499Z",
+      "sourceDate": "2026-01-13T07:19:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/commvault/jobs/5051679008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-coca-cola-company-marketing-technology-engineering-intern-atlanta-2026-01-13-1",
+      "jobId": "the-coca-cola-company-marketing-technology-engineering-intern-atlanta",
+      "company": "The Coca-Cola Company",
+      "title": "Marketing Technology Engineering Intern",
+      "postedToDiscord": "2026-01-13T13:00:19.032Z",
+      "sourceDate": "2026-01-12T23:29:24.000Z",
+      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Marketing-Technology-Engineering-Intern_R-133431",
+      "discordThreadId": "1460619457608159433",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-walt-disney-company-software-engineering-intern-summer-2026-orlando-2026-01-13-1",
+      "jobId": "the-walt-disney-company-software-engineering-intern-summer-2026-orlando",
+      "company": "The Walt Disney Company",
+      "title": "Software Engineering Intern - Summer 2026",
+      "postedToDiscord": "2026-01-13T13:00:22.467Z",
+      "sourceDate": "2026-01-13T02:20:11.000Z",
+      "sourceUrl": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Summer-2026_10135702-1",
+      "discordThreadId": "1460619472049012766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "civil-environmental-consultants-solid-waste-engineering-intern-remote-in-usa-2026-01-13-1",
+      "jobId": "civil-environmental-consultants-solid-waste-engineering-intern-remote-in-usa",
+      "company": "Civil & Environmental Consultants",
+      "title": "Solid Waste Engineering Intern",
+      "postedToDiscord": "2026-01-13T13:00:26.187Z",
+      "sourceDate": "2025-12-26T23:12:57.000Z",
+      "sourceUrl": "https://careers-cecinc.icims.com/jobs/5970/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460619486821617676",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 299,
+    "totalJobs": 303,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T11:39:10.244Z",
+      "date": "2026-01-13T13:00:26.188Z",
       "archived": 0
     }
   }
