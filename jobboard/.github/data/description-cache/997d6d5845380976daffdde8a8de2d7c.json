@@ -1,0 +1,23 @@
+{
+  "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "The NVIDIA Math Libraries team is seeking interns in the area of quantum computing software development. We have extended NVIDIA's accelerated computing platform that has revolutionized HPC and AI, with the cuQuantum SDK. This exciting product helps researchers and framework builders in Quantum Computing (QC) tackle larger problems faster and increase the pace of innovation.During this internship you will work closely with engineering and research teams across NVIDIA to help design, develop, and optimize software to accelerate different elements of QC workflows. Ideal candidates will have a curiosity about developing proof-of-concept implementations quickly and a willingness to iterate on those. Are you passionate about groundbreaking technology? If so, we would love to learn more about you!What you'll be doing:Assist with software engineering activities around proof-of-concept development of creative and innovative algorithms.Collaborate with team members and specialists from other teams to understand software use cases and requirementsHelp productize new functionality through design, development, debugging, testing, and documentation under the mentorship of senior engineers on your teamAnalyze the performance of GPU or CPU implementations and find opportunities for algorithmic or implementation improvementsPresent your results and findings throughout your internshipWhat we need to see:Pursuing a M.S. or Ph.D. degree in Computer Science, Applied Math, Physics, or other related science or engineering fieldExperience with quantum algorithms, programming systems, or hybrid classical/quantum computationsStrong software development skills with C++ and PythonStrong fundamentals in algorithms and numerical methods, particularly linear algebraGood teamwork, communication, and documentation skillsWays to stand out from the crowd:Experience with Tensor Networks or State Vector or Quantum Error Correction methods for Quantum Circuit SimulationsParallel programming experience using multi-threadingCUDA C++ programming experienceNVIDIA offers highly competitive salaries and a comprehensive benefits package. We have some of the most forward-thinking and hardworking people in the world working for us to provide capabilities which could not be imagined even a few years ago. If you're creative and love building the next generation of technologies that will be used throughout the world and have a real passion for technology, we want to hear from you.Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until January 16, 2026.This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "requirements": [
+      "Collaborate with team members and specialists from other teams to understand software use cases and requirements",
+      "Pursuing a M.S. or Ph.D. degree in Computer Science, Applied Math, Physics, or other related science or engineering field"
+    ],
+    "responsibilities": [
+      "Assist with software engineering activities around proof-of-concept development of creative and innovative algorithms.",
+      "Help productize new functionality through design, development, debugging, testing, and documentation under the mentorship of senior engineers on your team",
+      "Strong software development skills with C++ and Python"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1",
+      "fetchedAt": "2026-01-13T02:31:16.592Z"
+    }
+  },
+  "cachedAt": 1768271476592
+}
