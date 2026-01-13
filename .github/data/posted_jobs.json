@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T16:05:01.591Z",
+  "lastUpdated": "2026-01-13T18:19:46.649Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3367,14 +3367,36 @@
       "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
       "discordThreadId": "1460665940856537130",
       "instanceNumber": 1
+    },
+    {
+      "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
+      "jobId": "visa-software-engineer-highlands-ranch",
+      "company": "Visa",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-13T18:19:39.950Z",
+      "sourceDate": "2026-01-13T16:18:00.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103273985",
+      "discordThreadId": "1460699823849345210",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-manufacturing-engineering-data-analytics-intern-columbus-2026-01-13-1",
+      "jobId": "paccar-manufacturing-engineering-data-analytics-intern-columbus",
+      "company": "Paccar",
+      "title": "Manufacturing Engineering Data Analytics Intern",
+      "postedToDiscord": "2026-01-13T18:19:46.649Z",
+      "sourceDate": "2026-01-13T16:17:46.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Fall-2026-MS-39701/1282953201/?ats=successfactors",
+      "discordThreadId": "1460699851749851217",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 306,
+    "totalJobs": 308,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T16:05:01.591Z",
+      "date": "2026-01-13T18:19:46.649Z",
       "archived": 0
     }
   }
