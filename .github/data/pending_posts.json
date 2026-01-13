@@ -678,25 +678,5 @@
     "addedAt": "2026-01-13T11:47:16.544Z",
     "enrichedAt": "2026-01-13T11:47:27.885Z",
     "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Cloud Support Engineer Internship",
-      "employer_name": "Amazon",
-      "job_city": "Herdon",
-      "job_state": "VA",
-      "job_description": "×HomeTeamsLocationsJob categoriesMy careerMy applicationsMy profileAccount securitySettingsSign outResourcesAccommodationsBenefitsInclusive experiencesHow We HireLeadership principlesWorking at AmazonFAQ",
-      "job_apply_link": "https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us",
-      "job_posted_at_datetime_utc": "2026-01-13T13:58:42.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "amazon-cloud-support-engineer-internship-herdon",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-13T13:59:42.564Z",
-    "enrichedAt": "2026-01-13T13:59:43.429Z",
-    "postedAt": "2026-01-13T14:53:43.738Z"
   }
 ]
