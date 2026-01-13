@@ -694,9 +694,9 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T09:15:14.600Z",
     "enrichedAt": "2026-01-13T09:15:21.283Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T11:39:13.250Z"
   }
 ]
