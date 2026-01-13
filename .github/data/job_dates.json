@@ -19288,5 +19288,29 @@
     "job_title": "Software Engineer – Intern",
     "company": "Visa",
     "first_seen": "2026-01-13T20:43:21.873Z"
+  },
+  "assetmark-data-intern-charlotte": {
+    "assigned_date": "2026-01-13T23:44:34.997Z",
+    "job_title": "Data Intern",
+    "company": "AssetMark",
+    "first_seen": "2026-01-13T23:44:34.997Z"
+  },
+  "zoox-reliability-data-intern-san-mateo": {
+    "assigned_date": "2026-01-13T23:44:34.998Z",
+    "job_title": "Reliability Data Intern",
+    "company": "Zoox",
+    "first_seen": "2026-01-13T23:44:34.998Z"
+  },
+  "nutanix-software-engineering-intern---c++---linux-durham": {
+    "assigned_date": "2026-01-13T23:44:35.002Z",
+    "job_title": "Software Engineering Intern - C++ - Linux",
+    "company": "Nutanix",
+    "first_seen": "2026-01-13T23:44:35.002Z"
+  },
+  "rtx-summer-2026:-network-research-intern---onsite-cambridge": {
+    "assigned_date": "2026-01-13T23:44:35.003Z",
+    "job_title": "Summer 2026: Network Research Intern - Onsite",
+    "company": "RTX",
+    "first_seen": "2026-01-13T23:44:35.003Z"
   }
 }
