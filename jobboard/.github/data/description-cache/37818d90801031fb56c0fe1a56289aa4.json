@@ -1,0 +1,16 @@
+{
+  "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Software-Engineer-Intern--Compilers----Summer-2026_R52507-2",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.You will be a member of the TIE compiler (TC) team at the Compute System Group (CSG) of Cadence. Tensilica Instruction Extension (TIE) is a proprietary language that allows customers to extend the Tensilica processors with custom instructions, coprocessors and hardware accelerators, allowing them to increase application specific performance and efficiency by orders of magnitude, while maintaining ease of programmability through a fully generated tool-chain. The TIE compiler translates TIE into efficient Verilog HDL implementation and generates libraries used by the software tool chain.instructions, coprocessors and hardware accelerators, allowing them to increase application specific performance and efficiency by orders of magnitude, while maintaining ease of programmability through a fully generated tool-chain. The TIE compiler translates TIE into efficient Verilog HDL implementation and generates libraries used by the software tool chain.Fine tune open source LLM to design TIE codepilot (to generate new Instruction description in TIE language from natural language description)Qualifications:• Currently enrolled in BS or MS majoring in CE, CS, EECS, or equivalent.• Proficiency in programming languages such as Python, C/C++.• Strong understanding computer architecture and experience working with processor ISA is a big plus• Experience with compiler design, language translation, or similar domain-specific tool development is a big plus.• Knowledge of natural language processing (NLP) techniques and experience with language models is a big plus.• Ability to work collaboratively in a team environment and communicate effectively.We’re doing work that matters. Help us solve what others can’t.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Software-Engineer-Intern--Compilers----Summer-2026_R52507-2",
+      "fetchedAt": "2026-01-13T01:46:17.683Z"
+    }
+  },
+  "cachedAt": 1768268777684
+}
