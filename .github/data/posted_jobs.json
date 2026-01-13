@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T01:47:43.159Z",
+  "lastUpdated": "2026-01-13T02:32:09.337Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3103,14 +3103,113 @@
       "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7527921",
       "discordThreadId": "1460450192997351444",
       "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-systems-engineering-intern-graduate-level-wayzata-2026-01-13-1",
+      "jobId": "northrop-grumman-systems-engineering-intern-graduate-level-wayzata",
+      "company": "Northrop Grumman",
+      "title": "Systems Engineering Intern Graduate Level",
+      "postedToDiscord": "2026-01-13T02:31:28.485Z",
+      "sourceDate": "2026-01-12T23:33:34.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2026-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10218983",
+      "discordThreadId": "1460461203456266584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "rocket-mortgage-salesforce-software-engineering-intern-detroit-2026-01-13-1",
+      "jobId": "rocket-mortgage-salesforce-software-engineering-intern-detroit",
+      "company": "Rocket Mortgage",
+      "title": "Salesforce Software Engineering Intern",
+      "postedToDiscord": "2026-01-13T02:31:35.124Z",
+      "sourceDate": "2026-01-12T23:32:31.000Z",
+      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Salesforce-Software-Engineering-Intern---Summer-2026_R-081500",
+      "discordThreadId": "1460461231000256737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sailpoint-software-engineer-intern-net-austin-2026-01-13-1",
+      "jobId": "sailpoint-software-engineer-intern-net-austin",
+      "company": "SailPoint",
+      "title": "Software Engineer Intern - .Net",
+      "postedToDiscord": "2026-01-13T02:31:38.609Z",
+      "sourceDate": "2026-01-12T23:30:02.000Z",
+      "sourceUrl": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/United-States/Software-Engineer-Intern--NET-_R011634",
+      "discordThreadId": "1460461246707929185",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vanguard-application-engineer-co-op-malvern-2026-01-13-1",
+      "jobId": "vanguard-application-engineer-co-op-malvern",
+      "company": "Vanguard",
+      "title": "Application Engineer Co-op",
+      "postedToDiscord": "2026-01-13T02:31:42.378Z",
+      "sourceDate": "2025-11-05T09:18:06.000Z",
+      "sourceUrl": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
+      "discordThreadId": "1460461261199507537",
+      "instanceNumber": 1
+    },
+    {
+      "id": "red-hat-software-engineer-intern-global-engineering-python-golang-boston-2026-01-13-1",
+      "jobId": "red-hat-software-engineer-intern-global-engineering-python-golang-boston",
+      "company": "Red Hat",
+      "title": "Software Engineer Intern - Global Engineering - Python/Golang",
+      "postedToDiscord": "2026-01-13T02:31:45.800Z",
+      "sourceDate": "2025-11-01T10:20:46.000Z",
+      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer-Intern_R-050437",
+      "discordThreadId": "1460461276953313417",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mckesson-technology-intern-columbus-2026-01-13-1",
+      "jobId": "mckesson-technology-intern-columbus",
+      "company": "McKesson",
+      "title": "Technology Intern",
+      "postedToDiscord": "2026-01-13T02:31:52.484Z",
+      "sourceDate": "2026-01-12T23:30:53.000Z",
+      "sourceUrl": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern_JR0139548-1",
+      "discordThreadId": "1460461304211837051",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ptc-ai-research-development-intern-san-ramon-2026-01-13-1",
+      "jobId": "ptc-ai-research-development-intern-san-ramon",
+      "company": "PTC",
+      "title": "AI Research & Development Intern",
+      "postedToDiscord": "2026-01-13T02:31:59.081Z",
+      "sourceDate": "2026-01-12T23:30:48.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/AI-Research---Development-Intern_JR111444",
+      "discordThreadId": "1460461332351422485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "usaa-data-analytics-intern-future-leaders-program-san-antonio-2026-01-13-1",
+      "jobId": "usaa-data-analytics-intern-future-leaders-program-san-antonio",
+      "company": "USAA",
+      "title": "Data & Analytics Intern - Future Leaders Program",
+      "postedToDiscord": "2026-01-13T02:32:02.837Z",
+      "sourceDate": "2026-01-12T23:30:15.000Z",
+      "sourceUrl": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data---Analytics-Intern--Future-Leaders-Program-_R0114640",
+      "discordThreadId": "1460461346960314652",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-aerospace-digital-technology-co-op-livonia-2026-01-13-1",
+      "jobId": "ge-aerospace-digital-technology-co-op-livonia",
+      "company": "GE Aerospace",
+      "title": "Digital Technology Co-op",
+      "postedToDiscord": "2026-01-13T02:32:09.336Z",
+      "sourceDate": "2025-07-25T03:20:01.000Z",
+      "sourceUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1",
+      "discordThreadId": "1460461375372394528",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 282,
+    "totalJobs": 291,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T01:47:43.159Z",
+      "date": "2026-01-13T02:32:09.337Z",
       "archived": 0
     }
   }
