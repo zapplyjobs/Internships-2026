@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T01:06:16.569Z",
+  "lastUpdated": "2026-01-13T01:47:43.159Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3004,14 +3004,113 @@
       "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7163/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1460439763315064973",
       "instanceNumber": 1
+    },
+    {
+      "id": "westwood-environmental-intern-midlothian-2026-01-13-1",
+      "jobId": "westwood-environmental-intern-midlothian",
+      "company": "Westwood",
+      "title": "Environmental Intern",
+      "postedToDiscord": "2026-01-13T01:47:05.867Z",
+      "sourceDate": "2025-11-17T23:22:46.000Z",
+      "sourceUrl": "https://careers-westwoodps.icims.com/jobs/7613/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460450035740184729",
+      "instanceNumber": 1
+    },
+    {
+      "id": "m-t-bank-technology-intern-program-buffalo-2026-01-13-1",
+      "jobId": "m-t-bank-technology-intern-program-buffalo",
+      "company": "M&T Bank",
+      "title": "Technology Intern Program",
+      "postedToDiscord": "2026-01-13T01:47:09.324Z",
+      "sourceDate": "2026-01-12T23:34:54.000Z",
+      "sourceUrl": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R78761",
+      "discordThreadId": "1460450050923823155",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cms-energy-intern-co-op-applications-analytics-1-jackson-2026-01-13-1",
+      "jobId": "cms-energy-intern-co-op-applications-analytics-1-jackson",
+      "company": "CMS Energy",
+      "title": "Intern/Co-Op-Applications & Analytics 1",
+      "postedToDiscord": "2026-01-13T01:47:16.112Z",
+      "sourceDate": "2025-09-09T17:25:19.000Z",
+      "sourceUrl": "https://careers.consumersenergy.com/job/JACKSON-InternCo-Op-Applications-&-Analytics-1-MI/1324380700/?ats=successfactors",
+      "discordThreadId": "1460450078362697815",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tencent-ai-software-engineer-intern-palo-alto-2026-01-13-1",
+      "jobId": "tencent-ai-software-engineer-intern-palo-alto",
+      "company": "Tencent",
+      "title": "AI Software Engineer Intern",
+      "postedToDiscord": "2026-01-13T01:47:19.426Z",
+      "sourceDate": "2026-01-12T23:43:44.000Z",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/AI-Software-Engineer-Intern_R106673",
+      "discordThreadId": "1460450093743477041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-business-intelligence-intern-chicago-chicago-2026-01-13-1",
+      "jobId": "jones-lang-lasalle-jll-business-intelligence-intern-chicago-chicago",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Business Intelligence Intern - Chicago",
+      "postedToDiscord": "2026-01-13T01:47:22.973Z",
+      "sourceDate": "2026-01-12T23:37:59.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Intelligence-Summer-2026-Internship---Chicago_REQ478977",
+      "discordThreadId": "1460450107731349534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-software-engineer-intern-compilers-san-jose-2026-01-13-1",
+      "jobId": "cadence-design-software-engineer-intern-compilers-san-jose",
+      "company": "Cadence Design Systems",
+      "title": "Software Engineer Intern - Compilers",
+      "postedToDiscord": "2026-01-13T01:47:26.513Z",
+      "sourceDate": "2026-01-12T23:35:36.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Software-Engineer-Intern--Compilers----Summer-2026_R52507-2",
+      "discordThreadId": "1460450122788769878",
+      "instanceNumber": 1
+    },
+    {
+      "id": "prudential-financial-pgim-quantitative-solutions-investment-technology-associate-intern-mba-masters-newark-2026-01-13-1",
+      "jobId": "prudential-financial-pgim-quantitative-solutions-investment-technology-associate-intern-mba-masters-newark",
+      "company": "Prudential Financial",
+      "title": "PGIM: Quantitative Solutions – Investment Technology Associate Intern - MBA/Masters",
+      "postedToDiscord": "2026-01-13T01:47:33.258Z",
+      "sourceDate": "2026-01-12T23:38:04.000Z",
+      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2026-Quantitative-Solutions--Investment-Technology-Summer-Associate-Internship--MBA-Masters-_R-122963-1",
+      "discordThreadId": "1460450150165119110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-data-science-engineer-intern-summer-2026-remote-in-usa-2026-01-13-1",
+      "jobId": "dropbox-data-science-engineer-intern-summer-2026-remote-in-usa",
+      "company": "Dropbox",
+      "title": "Data Science Engineer Intern - Summer 2026",
+      "postedToDiscord": "2026-01-13T01:47:39.767Z",
+      "sourceDate": "2026-01-12T23:36:51.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7527941",
+      "discordThreadId": "1460450178116096165",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-data-science-intern-summer-2026-remote-in-usa-2026-01-13-1",
+      "jobId": "dropbox-data-science-intern-summer-2026-remote-in-usa",
+      "company": "Dropbox",
+      "title": "Data Science Intern - Summer 2026",
+      "postedToDiscord": "2026-01-13T01:47:43.158Z",
+      "sourceDate": "2026-01-12T23:36:19.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=7527921",
+      "discordThreadId": "1460450192997351444",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 273,
+    "totalJobs": 282,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T01:06:16.569Z",
+      "date": "2026-01-13T01:47:43.159Z",
       "archived": 0
     }
   }
