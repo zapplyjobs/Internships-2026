@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T03:10:57.231Z",
+  "lastUpdated": "2026-01-13T03:46:45.614Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3268,14 +3268,25 @@
       "sourceUrl": "https://officejobs-truemfg.icims.com/jobs/2673/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1460471139292676259",
       "instanceNumber": 1
+    },
+    {
+      "id": "t-mobile-summer-2026-software-engineering-internship-bellevue-2026-01-13-1",
+      "jobId": "t-mobile-summer-2026-software-engineering-internship-bellevue",
+      "company": "T-Mobile",
+      "title": "Summer 2026 Software Engineering Internship",
+      "postedToDiscord": "2026-01-13T03:46:45.613Z",
+      "sourceDate": "2026-01-13T02:24:22.000Z",
+      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341138",
+      "discordThreadId": "1460480150360821774",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 297,
+    "totalJobs": 298,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T03:10:57.231Z",
+      "date": "2026-01-13T03:46:45.614Z",
       "archived": 0
     }
   }
