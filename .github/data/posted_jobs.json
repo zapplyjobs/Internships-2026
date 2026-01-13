@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T14:11:53.924Z",
+  "lastUpdated": "2026-01-13T14:53:40.730Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3345,14 +3345,25 @@
       "sourceUrl": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/San-Mateo-California-United-States-of-America/Business-Analytics-Intern---Spring-2026-Hybrid_R1523189",
       "discordThreadId": "1460637471728734241",
       "instanceNumber": 1
+    },
+    {
+      "id": "amazon-cloud-support-engineer-internship-herdon-2026-01-13-1",
+      "jobId": "amazon-cloud-support-engineer-internship-herdon",
+      "company": "Amazon",
+      "title": "Cloud Support Engineer Internship",
+      "postedToDiscord": "2026-01-13T14:53:40.730Z",
+      "sourceDate": "2026-01-13T13:58:42.000Z",
+      "sourceUrl": "https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us",
+      "discordThreadId": "1460647985623994618",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 304,
+    "totalJobs": 305,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T14:11:53.924Z",
+      "date": "2026-01-13T14:53:40.730Z",
       "archived": 0
     }
   }
