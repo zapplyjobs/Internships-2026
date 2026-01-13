@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T13:00:26.188Z",
+  "lastUpdated": "2026-01-13T14:11:53.924Z",
   "jobs": [
     {
       "id": "autostore-software-engineering-intern-summer-denver-2026-01-06-1",
@@ -3334,14 +3334,25 @@
       "sourceUrl": "https://careers-cecinc.icims.com/jobs/5970/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1460619486821617676",
       "instanceNumber": 1
+    },
+    {
+      "id": "iqvia-business-analytics-intern-spring-2026-san-mateo-2026-01-13-1",
+      "jobId": "iqvia-business-analytics-intern-spring-2026-san-mateo",
+      "company": "IQVIA",
+      "title": "Business Analytics Intern - Spring 2026",
+      "postedToDiscord": "2026-01-13T14:11:53.924Z",
+      "sourceDate": "2026-01-12T23:33:05.000Z",
+      "sourceUrl": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/San-Mateo-California-United-States-of-America/Business-Analytics-Intern---Spring-2026-Hybrid_R1523189",
+      "discordThreadId": "1460637471728734241",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 303,
+    "totalJobs": 304,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T13:00:26.188Z",
+      "date": "2026-01-13T14:11:53.924Z",
       "archived": 0
     }
   }
