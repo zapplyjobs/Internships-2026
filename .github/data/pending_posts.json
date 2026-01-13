@@ -674,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T17:18:51.766Z",
     "enrichedAt": "2026-01-13T17:19:05.351Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T18:52:03.143Z"
   },
   {
     "job": {
@@ -694,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T17:18:51.766Z",
     "enrichedAt": "2026-01-13T17:19:05.351Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T18:52:03.143Z"
   },
   {
     "job": {
@@ -734,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T17:18:51.766Z",
     "enrichedAt": "2026-01-13T17:19:05.351Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T18:52:03.143Z"
   },
   {
     "job": {
@@ -754,10 +754,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T17:18:51.766Z",
     "enrichedAt": "2026-01-13T17:19:05.351Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T18:52:03.143Z"
   },
   {
     "job": {
@@ -774,9 +774,9 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-13T17:18:51.766Z",
     "enrichedAt": "2026-01-13T17:19:05.351Z",
-    "postedAt": null
+    "postedAt": "2026-01-13T18:52:03.143Z"
   }
 ]
