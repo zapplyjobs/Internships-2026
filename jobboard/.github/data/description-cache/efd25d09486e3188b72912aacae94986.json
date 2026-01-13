@@ -1,0 +1,19 @@
+{
+  "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "DREXEL AND RIT STUDENTS ONLYVanguard is a digital-first company that invests significantly in technology to enable our business goals. Our growth has led to an increased need for talented software engineers and technology leaders. We are looking for highly motivated and passionate co-op students to join full stack teams that will deliver business outcomes rapidly.Most project teams follow agile methodologies like Scrum and Kanban; some are adopting LEAN principles. We are building Angular web applications and RESTful micro-services using Java hosted on the AWS cloud. We work on a continuous delivery pipeline using Bamboo and run automated tests using Junit, Protractor, Jasmine, and Selenium.This is an exciting 6-month co-op opportunity that begins in January and runs through July. You’ll gain hands-on experience in a dynamic, fast-paced environment, working alongside talented engineers and contributing to impactful projects from day one.Qualifications:Pursuing a degree in a related field or the equivalent combination of training and experience0–3 years of developer experienceGood written and oral communication skillsGood analysis and problem-solving skillsSpecial FactorsSponsorshipVanguard is not offering visa sponsorship for this position.About VanguardAt Vanguard, we don't just have a mission—we're on a mission.To work for the long-term financial wellbeing of our clients. To lead through product and services that transform our clients' lives. To learn and develop our skills as individuals and as a team. From Malvern to Melbourne, our mission drives us forward and inspires us to be our best.How We WorkVanguard has implemented a hybrid working model for the majority of our crew members, designed to capture the benefits of enhanced flexibility while enabling in-person learning, collaboration, and connection. We believe our mission-driven and highly collaborative culture is a critical enabler to support long-term client outcomes and enrich the employee experience.",
+    "requirements": [
+      "Pursuing a degree in a related field or the equivalent combination of training and experience",
+      "0–3 years of developer experience"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/XMLNAME-2026-Spring-Summer-Application-Engineer-Co-op---PA_171551",
+      "fetchedAt": "2026-01-13T01:46:51.524Z"
+    }
+  },
+  "cachedAt": 1768268811524
+}
