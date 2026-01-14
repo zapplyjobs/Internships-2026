@@ -1,10 +1,4 @@
 {
-  "salesforce-summer-2026-intern---software-engineer-san-francisco": {
-    "assigned_date": "2025-11-15T10:25:45.991Z",
-    "job_title": "Summer 2026 Intern - Software Engineer",
-    "company": "Salesforce",
-    "first_seen": "2025-11-15T10:25:45.991Z"
-  },
   "salesforce-ai-forward-deployed-engineer-(early-career)-bellevue": {
     "assigned_date": "2025-11-15T21:13:57.032Z",
     "job_title": "AI Forward Deployed Engineer (Early Career)",
@@ -19726,5 +19720,41 @@
     "job_title": "Member of Technical Staff Intern (Fall 2025)",
     "company": "a37",
     "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "uline-financial-data-analyst-internship---summer-2026-pleasant-prairie": {
+    "assigned_date": "2026-01-14T14:44:37.442Z",
+    "job_title": "Financial Data Analyst Internship - Summer 2026",
+    "company": "Uline",
+    "first_seen": "2026-01-14T14:44:37.442Z"
+  },
+  "charles-schwab-model-risk-oversight-research-and-development-lone-tree": {
+    "assigned_date": "2026-01-14T14:44:37.444Z",
+    "job_title": "Model Risk Oversight-Research and Development",
+    "company": "Charles Schwab",
+    "first_seen": "2026-01-14T14:44:37.444Z"
+  },
+  "clayton-marketing-analytics-intern-maryville": {
+    "assigned_date": "2026-01-14T14:44:37.445Z",
+    "job_title": "Marketing Analytics Intern",
+    "company": "Clayton",
+    "first_seen": "2026-01-14T14:44:37.445Z"
+  },
+  "westinghouse-electric-company-independent-verification-&-validation-intern-grove-city": {
+    "assigned_date": "2026-01-14T14:44:37.446Z",
+    "job_title": "Independent Verification & Validation Intern",
+    "company": "Westinghouse Electric Company",
+    "first_seen": "2026-01-14T14:44:37.446Z"
+  },
+  "benjamin-moore-data-science-&-analytics-intern-mahwah": {
+    "assigned_date": "2026-01-14T14:44:37.447Z",
+    "job_title": "Data Science & Analytics Intern",
+    "company": "Benjamin Moore",
+    "first_seen": "2026-01-14T14:44:37.447Z"
+  },
+  "aerotek-sales-intern-overland-park": {
+    "assigned_date": "2026-01-14T14:44:37.448Z",
+    "job_title": "Sales Intern",
+    "company": "Aerotek",
+    "first_seen": "2026-01-14T14:44:37.448Z"
   }
 }
