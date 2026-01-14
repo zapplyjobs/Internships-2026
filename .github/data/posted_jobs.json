@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T15:18:28.062Z",
+  "lastUpdated": "2026-01-14T15:43:36.616Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
@@ -3037,14 +3037,36 @@
       "sourceUrl": "https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903",
       "discordThreadId": "1461016612655333623",
       "instanceNumber": 1
+    },
+    {
+      "id": "uline-financial-data-analyst-internship-summer-2026-pleasant-prairie-2026-01-14-1",
+      "jobId": "uline-financial-data-analyst-internship-summer-2026-pleasant-prairie",
+      "company": "Uline",
+      "title": "Financial Data Analyst Internship - Summer 2026",
+      "postedToDiscord": "2026-01-14T15:43:30.197Z",
+      "sourceDate": "2026-01-14T12:20:33.000Z",
+      "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R260525",
+      "discordThreadId": "1461022912390758423",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clayton-marketing-analytics-intern-maryville-2026-01-14-1",
+      "jobId": "clayton-marketing-analytics-intern-maryville",
+      "company": "Clayton",
+      "title": "Marketing Analytics Intern",
+      "postedToDiscord": "2026-01-14T15:43:36.615Z",
+      "sourceDate": "2025-12-20T01:45:21.000Z",
+      "sourceUrl": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Consumer-Insights-Intern_JR126944",
+      "discordThreadId": "1461022939460931595",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 276,
+    "totalJobs": 278,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T15:18:28.062Z",
+      "date": "2026-01-14T15:43:36.616Z",
       "archived": 0
     }
   }
