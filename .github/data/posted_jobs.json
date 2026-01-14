@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:10:58.202Z",
+  "lastUpdated": "2026-01-14T07:19:27.975Z",
   "jobs": [
     {
       "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
@@ -2795,14 +2795,113 @@
       "sourceUrl": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-25-13375",
       "discordThreadId": "1460893930013855857",
       "instanceNumber": 1
+    },
+    {
+      "id": "cultivarium-computer-vision-and-machine-learning-intern-watertown-2026-01-14-1",
+      "jobId": "cultivarium-computer-vision-and-machine-learning-intern-watertown",
+      "company": "Cultivarium",
+      "title": "Computer Vision and Machine Learning Intern",
+      "postedToDiscord": "2026-01-14T07:18:52.371Z",
+      "sourceDate": "2025-08-05T07:14:43.000Z",
+      "sourceUrl": "https://jobs.lever.co/convergentresearch/ae2f38c7-804e-45e0-b4c5-b5c666698d30",
+      "discordThreadId": "1460895918328119379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "capital-one-technology-internship-program-summer-2026-mclean-2026-01-14-1",
+      "jobId": "capital-one-technology-internship-program-summer-2026-mclean",
+      "company": "Capital One",
+      "title": "Technology Internship Program - Summer 2026",
+      "postedToDiscord": "2026-01-14T07:18:55.867Z",
+      "sourceDate": "2025-08-04T18:06:23.000Z",
+      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2026_R218710-1",
+      "discordThreadId": "1460895932475375658",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reality-defender-computer-vision-intern-global-remote-2026-01-14-1",
+      "jobId": "reality-defender-computer-vision-intern-global-remote",
+      "company": "Reality Defender",
+      "title": "Computer Vision Intern",
+      "postedToDiscord": "2026-01-14T07:18:57.581Z",
+      "sourceDate": "2025-07-30T14:56:47.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440",
+      "discordThreadId": "1460895947314954425",
+      "instanceNumber": 1
+    },
+    {
+      "id": "new-york-life-technology-analyst-intern-new-york-2026-01-14-1",
+      "jobId": "new-york-life-technology-analyst-intern-new-york",
+      "company": "New York Life",
+      "title": "Technology Analyst Intern",
+      "postedToDiscord": "2026-01-14T07:19:04.088Z",
+      "sourceDate": "2025-08-05T02:26:33.000Z",
+      "sourceUrl": "https://careers.newyorklife.com/careers?query=%23Techcampus&location=any&pid=30149944&domain=newyorklife.com&sort_by=relevance",
+      "discordThreadId": "1460895966935650393",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bmw-product-development-telematics-connecteddrive-services-woodcliff-lake-2026-01-14-1",
+      "jobId": "bmw-product-development-telematics-connecteddrive-services-woodcliff-lake",
+      "company": "BMW Group",
+      "title": "Product Development - Telematics & ConnectedDrive Services",
+      "postedToDiscord": "2026-01-14T07:19:10.514Z",
+      "sourceDate": "2025-07-30T19:17:53.000Z",
+      "sourceUrl": "https://www.bmwgroup.jobs/us/en/jobfinder/job-description-copy.161921.html",
+      "discordThreadId": "1460895994227986514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tencent-cloud-media-services-intern-palo-alto-2026-01-14-1",
+      "jobId": "tencent-cloud-media-services-intern-palo-alto",
+      "company": "Tencent",
+      "title": "Cloud Media Services Intern",
+      "postedToDiscord": "2026-01-14T07:19:14.244Z",
+      "sourceDate": "2025-07-30T19:12:31.000Z",
+      "sourceUrl": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781",
+      "discordThreadId": "1460896008736084052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hitachi-research-internship-ai-agents-for-industrial-applications-santa-clara-2026-01-14-1",
+      "jobId": "hitachi-research-internship-ai-agents-for-industrial-applications-santa-clara",
+      "company": "Hitachi",
+      "title": "Research Internship – AI Agents for Industrial Applications",
+      "postedToDiscord": "2026-01-14T07:19:17.891Z",
+      "sourceDate": "2025-07-30T14:55:03.000Z",
+      "sourceUrl": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Santa-Clara-California-United-States/Research-Internship---AI-Agents-for-Industrial-Applications_R0100758",
+      "discordThreadId": "1460896024573907110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datavisor-software-engineer-mountain-view-2026-01-14-1",
+      "jobId": "datavisor-software-engineer-mountain-view",
+      "company": "Datavisor",
+      "title": "Software Engineer",
+      "postedToDiscord": "2026-01-14T07:19:21.340Z",
+      "sourceDate": "2025-07-29T14:54:32.000Z",
+      "sourceUrl": "https://apply.workable.com/datavisor-jobs/j/8C50D4D8CC/",
+      "discordThreadId": "1460896039430127709",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asana-data-science-intern-san-francisco-2026-01-14-1",
+      "jobId": "asana-data-science-intern-san-francisco",
+      "company": "Asana",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-14T07:19:27.975Z",
+      "sourceDate": "2025-07-30T17:53:17.000Z",
+      "sourceUrl": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
+      "discordThreadId": "1460896066537918576",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 254,
+    "totalJobs": 263,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T07:10:58.202Z",
+      "date": "2026-01-14T07:19:27.975Z",
       "archived": 0
     }
   }
