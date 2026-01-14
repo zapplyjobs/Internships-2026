@@ -28,34 +28,6 @@
     "description_success": true
   },
   {
-    "job_title": "ML Intern",
-    "employer_name": "Tower Research Capital",
-    "job_city": "New York",
-    "job_state": "NY",
-    "job_description": "Join Tower Research Capital in this exciting opportunity.",
-    "job_apply_link": "https://boards.greenhouse.io/embed/job_app?token=6651908&gh_src=be8ebc4b1",
-    "job_posted_at_datetime_utc": "2025-07-07T23:45:42.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "tower-research-capital-ml-intern-new-york",
-    "description_platform": "greenhouse",
-    "description_success": false
-  },
-  {
-    "job_title": "Global Operations Development Summer Analyst Program",
-    "employer_name": "Bank of America",
-    "job_city": "Charlotte",
-    "job_state": "North Carolina",
-    "job_description": "We're Sorry The page you are looking for cannot be found. Please try our homepage, or visit: Job Search",
-    "job_apply_link": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
-    "job_posted_at_datetime_utc": "2025-07-07T23:44:47.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "bank-of-america-global-operations-development-summer-analyst-program-charlotte",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Member of Technical Staff Intern (Winter 2025)",
     "employer_name": "a37",
     "job_city": "San Francisco",
