@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T08:18:09.691Z",
+  "lastUpdated": "2026-01-14T08:32:30.881Z",
   "jobs": [
     {
       "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
@@ -3015,14 +3015,25 @@
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations",
       "discordThreadId": "1460910837865779285",
       "instanceNumber": 1
+    },
+    {
+      "id": "morgan-stanley-2026-technology-summer-analyst-program-new-york-2026-01-14-1",
+      "jobId": "morgan-stanley-2026-technology-summer-analyst-program-new-york",
+      "company": "Morgan Stanley",
+      "title": "2026 Technology Summer Analyst Program",
+      "postedToDiscord": "2026-01-14T08:32:30.881Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://morganstanley.tal.net/vx/candidate/apply/19159",
+      "discordThreadId": "1460914450532925545",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 274,
+    "totalJobs": 275,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T08:18:09.691Z",
+      "date": "2026-01-14T08:32:30.881Z",
       "archived": 0
     }
   }
