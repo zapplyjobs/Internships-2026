@@ -134,7 +134,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 5d |
-| Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 13h |
+| Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 14h |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -214,9 +214,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 - **Boise, ID**: 2 opportunities
 - **Herdon, VA**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
-- **St. Louis, MO**: 1 opportunity
 - **McLean, VA**: 1 opportunity
 - **Boston, MA**: 1 opportunity
+- **St. Louis, MO**: 1 opportunity
 
 ---
 
@@ -303,13 +303,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1795 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1796 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1795 roles
-- **🏢 Companies**: 154 companies  
+- **📁 Total Positions**: 1796 roles
+- **🏢 Companies**: 155 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (88 positions)
