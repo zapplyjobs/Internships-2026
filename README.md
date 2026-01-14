@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 12+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 11+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,9 +75,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 12 hot data-focused jobs
+- 🔥 **Current Positions:** 11 hot data-focused jobs
 - **🏢 Companies**: 7 companies
-- **⭐ FAANG+ Jobs**: 4 premium opportunities
+- **⭐ FAANG+ Jobs**: 3 premium opportunities
 - 📅 **Last Updated:** January 14, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -121,7 +121,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### ⭐ **FAANG+** (4 positions)
+### ⭐ **FAANG+** (3 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -129,12 +129,11 @@ Connect with fellow students, get career advice, share internship experiences, a
 |------|----------|-------|-----------|-----|
 | Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 1d |
 
-#### 🟦 **Microsoft** (3 positions)
+#### 🟦 **Microsoft** (2 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 5d |
-| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 6d |
 | Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 10h |
 
 ### 🏢 **Top Tech** (3 positions)
@@ -191,7 +190,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🏢 Top Companies
 
 #### ⭐ FAANG+ (2 companies)
-🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (3 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 #### ☁️ Enterprise & Cloud (2 companies)
 🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (3)
@@ -203,8 +202,8 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 9 | 75% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 3 | 25% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 8 | 73% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 3 | 27% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
@@ -223,7 +222,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 12+ verified internships and new grad roles from 7 top companies.
+✅ **100% Real Opportunities:** 11+ verified internships and new grad roles from 7 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -304,16 +303,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1797 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1798 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1797 roles
+- **📁 Total Positions**: 1798 roles
 - **🏢 Companies**: 156 companies  
-- **⭐ FAANG+ Opportunities**: 87 positions
+- **⭐ FAANG+ Opportunities**: 88 positions
 
-### ⭐ **FAANG+** (87 positions)
+### ⭐ **FAANG+** (88 positions)
 
 #### 📦 **Amazon** (12 positions)
 
@@ -333,10 +332,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Systems Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1mo |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (72 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (73 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 1w |
 | Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 1w |
 | Data Science PhD Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 3w |
 | Research Intern - LLM Performance Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 3w |
@@ -672,7 +672,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 12 current opportunities from 7 top companies.**
+**🎯 11 current opportunities from 7 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
