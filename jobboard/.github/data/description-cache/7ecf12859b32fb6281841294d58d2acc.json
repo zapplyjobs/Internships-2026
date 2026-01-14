@@ -1,0 +1,21 @@
+{
+  "url": "https://job-boards.greenhouse.io/minitab/jobs/7588696003",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Software Engineering Intern Job Overview: Perform basic to intermediate software tasks to help support the production of high-quality software products. This includes collaborating on a project team using an agile software development process to help plan and produce software that meets Minitab design and coding standards. Skills/Qualifications Familiarity with web development technologies such as HTML/CSS, JavaScript/ES6/JQuery and knowledge of web framework such as React.js, Angular, Node.js or VueJS Knowledge of C++, C#, and/or Python Experience with source control systems such as Git Experience with Docker or Kubernetes is a plus Familiarity with testing frameworks and the ability to write and maintain unit tests Ability and initiative to work effectively both independently and as a member of a development team Ability to solve basic technical problems MUST be available to work onsite at our Minitab Corporate Headquarters in State College, PA. Remote work is not an option for this position. Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. This position is ineligible for visa sponsorship. To be considered for this role, you must be legally authorized to work in the United States and not require sponsorship for employment now or in the future.",
+    "requirements": [
+      "Familiarity with web development technologies such as HTML/CSS, JavaScript/ES6/JQuery and knowledge of web framework such as React.js, Angular, Node.js or VueJS",
+      "Knowledge of C++, C#, and/or Python",
+      "Experience with source control systems such as Git",
+      "Experience with Docker or Kubernetes is a plus"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/minitab/jobs/7588696003",
+      "fetchedAt": "2026-01-14T02:01:19.256Z"
+    }
+  },
+  "cachedAt": 1768356079256
+}
