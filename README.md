@@ -78,7 +78,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 - 🔥 **Current Positions:** 12 hot data-focused jobs
 - **🏢 Companies**: 7 companies
 - **⭐ FAANG+ Jobs**: 4 premium opportunities
-- 📅 **Last Updated:** January 13, 2026
+- 📅 **Last Updated:** January 14, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
 
@@ -127,7 +127,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 9h |
+| Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 10h |
 | Software Development Engineer Intern | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans) | 6d |
 
 #### 🟦 **Microsoft** (2 positions)
@@ -680,6 +680,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 ---
 
-**Last Updated:** January 13, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** January 14, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
