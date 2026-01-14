@@ -2099,5 +2099,49 @@
     "sourceUrl": "https://careersus-shure.icims.com/jobs/4438/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1458308052351455276",
     "instanceNumber": 1
+  },
+  {
+    "id": "cloudkitchens-engineering-intern-cloudkitchens-mountain-view-mountain-view-2026-01-07-1",
+    "jobId": "cloudkitchens-engineering-intern-cloudkitchens-mountain-view-mountain-view",
+    "company": "CloudKitchens",
+    "title": "Engineering Intern - Cloudkitchens - Mountain View",
+    "postedToDiscord": "2026-01-07T04:16:47.725Z",
+    "sourceDate": "2026-01-07T02:48:01.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/css/jobs/8356100002",
+    "discordThreadId": "1458313380732342384",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cloudkitchens-engineering-intern-seattle-2026-01-07-1",
+    "jobId": "cloudkitchens-engineering-intern-seattle",
+    "company": "CloudKitchens",
+    "title": "Engineering Intern",
+    "postedToDiscord": "2026-01-07T04:16:51.145Z",
+    "sourceDate": "2026-01-07T02:48:00.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/css/jobs/8356071002",
+    "discordThreadId": "1458313396163313726",
+    "instanceNumber": 1
+  },
+  {
+    "id": "caci-software-development-intern-summer-2026-remote-in-usa-2026-01-07-1",
+    "jobId": "caci-software-development-intern-summer-2026-remote-in-usa",
+    "company": "CACI",
+    "title": "Software Development Intern - Summer 2026",
+    "postedToDiscord": "2026-01-07T04:16:54.984Z",
+    "sourceDate": "2026-01-07T02:10:12.000Z",
+    "sourceUrl": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2026_320833",
+    "discordThreadId": "1458313410629472350",
+    "instanceNumber": 1
+  },
+  {
+    "id": "apl-logistics-apprentice-intern-data-science-and-bi-intern-1st-shift-scottsdale-scottsdale-2026-01-07-1",
+    "jobId": "apl-logistics-apprentice-intern-data-science-and-bi-intern-1st-shift-scottsdale-scottsdale",
+    "company": "APL Logistics",
+    "title": "Apprentice/Intern – Data Science and BI Intern - 1st Shift - Scottsdale",
+    "postedToDiscord": "2026-01-07T04:17:01.510Z",
+    "sourceDate": "2026-01-07T02:09:09.000Z",
+    "sourceUrl": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
+    "discordThreadId": "1458313439515770932",
+    "instanceNumber": 1
   }
 ]
