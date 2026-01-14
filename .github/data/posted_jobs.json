@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T02:54:59.891Z",
+  "lastUpdated": "2026-01-14T03:33:23.510Z",
   "jobs": [
-    {
-      "id": "amentum-spring-2026-internship-ai-and-astronaut-physiology-houston-2026-01-07-1",
-      "jobId": "amentum-spring-2026-internship-ai-and-astronaut-physiology-houston",
-      "company": "Amentum",
-      "title": "Spring 2026 Internship - AI and Astronaut Physiology",
-      "postedToDiscord": "2026-01-07T03:22:31.013Z",
-      "sourceDate": "2026-01-06T23:32:31.000Z",
-      "sourceUrl": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Spring-2026-Internship---AI-and-Astronaut-Physiology_R0151247",
-      "discordThreadId": "1458299722732146791",
-      "instanceNumber": 1
-    },
-    {
-      "id": "merck-future-talent-program-co-op-computer-scientist-north-wales-2026-01-07-1",
-      "jobId": "merck-future-talent-program-co-op-computer-scientist-north-wales",
-      "company": "Merck",
-      "title": "Future Talent Program Co-op - Computer Scientist",
-      "postedToDiscord": "2026-01-07T03:22:34.502Z",
-      "sourceDate": "2026-01-06T23:28:23.000Z",
-      "sourceUrl": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Computer-Scientist---Co-Op_R378187",
-      "discordThreadId": "1458299736686596275",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-internship-san-jose-2026-01-07-1",
-      "jobId": "asml-internship-san-jose",
-      "company": "ASML",
-      "title": "Internship",
-      "postedToDiscord": "2026-01-07T03:22:38.028Z",
-      "sourceDate": "2026-01-06T23:27:49.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Algorithm-Engineering-for-Advanced-Computational-Lithograph_J-00327853",
-      "discordThreadId": "1458299751178174537",
-      "instanceNumber": 1
-    },
-    {
-      "id": "micron-technology-intern-data-science-san-jose-2026-01-07-1",
-      "jobId": "micron-technology-intern-data-science-san-jose",
-      "company": "Micron Technology",
-      "title": "Intern – Data Science",
-      "postedToDiscord": "2026-01-07T03:22:41.399Z",
-      "sourceDate": "2026-01-06T23:23:29.000Z",
-      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694",
-      "discordThreadId": "1458299765950382101",
-      "instanceNumber": 1
-    },
-    {
-      "id": "robert-bosch-venture-capital-ai-driven-vehicle-simulation-intern-southfield-2026-01-07-1",
-      "jobId": "robert-bosch-venture-capital-ai-driven-vehicle-simulation-intern-southfield",
-      "company": "Robert Bosch Venture Capital",
-      "title": "AI-Driven Vehicle Simulation Intern",
-      "postedToDiscord": "2026-01-07T03:22:44.801Z",
-      "sourceDate": "2026-01-06T23:22:02.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000101956885",
-      "discordThreadId": "1458299779883995314",
-      "instanceNumber": 1
-    },
-    {
-      "id": "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara-2026-01-07-1",
-      "jobId": "peraton-summer-2026-software-engineer-intern-santa-clara-ca-santa-clara",
-      "company": "Peraton",
-      "title": "Summer 2026 Software Engineer Intern - Santa Clara - CA",
-      "postedToDiscord": "2026-01-07T03:22:51.329Z",
-      "sourceDate": "2026-01-06T23:30:55.000Z",
-      "sourceUrl": "https://careers-peraton.icims.com/jobs/162553/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458299807121543269",
-      "instanceNumber": 1
-    },
-    {
-      "id": "t-mobile-software-engineering-intern-bellevue-2026-01-07-1",
-      "jobId": "t-mobile-software-engineering-intern-bellevue",
-      "company": "T-Mobile",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-07T03:22:54.615Z",
-      "sourceDate": "2026-01-06T23:28:46.000Z",
-      "sourceUrl": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2026-Software-Engineering-Internship_REQ341142",
-      "discordThreadId": "1458299821734494312",
-      "instanceNumber": 1
-    },
-    {
-      "id": "altagas-wgl-2026-summer-intern-utilities-data-analytics-springfield-2026-01-07-1",
-      "jobId": "altagas-wgl-2026-summer-intern-utilities-data-analytics-springfield",
-      "company": "AltaGas",
-      "title": "Wgl – 2026 Summer Intern: Utilities - Data Analytics",
-      "postedToDiscord": "2026-01-07T03:22:58.002Z",
-      "sourceDate": "2026-01-06T23:27:12.000Z",
-      "sourceUrl": "https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---2026-Summer-Intern--Utilities--Data-Analytics_R6552",
-      "discordThreadId": "1458299835647131688",
-      "instanceNumber": 1
-    },
-    {
-      "id": "newsbreak-ai-development-intern-mountain-view-2026-01-07-1",
-      "jobId": "newsbreak-ai-development-intern-mountain-view",
-      "company": "NewsBreak",
-      "title": "AI Development Intern",
-      "postedToDiscord": "2026-01-07T03:23:01.405Z",
-      "sourceDate": "2026-01-06T23:26:05.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
-      "discordThreadId": "1458299849740124212",
-      "instanceNumber": 1
-    },
     {
       "id": "amazon-software-development-engineer-intern-boston-2026-01-07-1",
       "jobId": "amazon-software-development-engineer-intern-boston",
@@ -2762,6 +2663,105 @@
       "sourceUrl": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2026-Summer-Corporate-Internship-Program--Technology-Space_R-009603",
       "discordThreadId": "1460829511099748455",
       "instanceNumber": 1
+    },
+    {
+      "id": "at-t-technology-development-program-intern-2026-dallas-2026-01-14-1",
+      "jobId": "at-t-technology-development-program-intern-2026-dallas",
+      "company": "AT&T",
+      "title": "Technology Development Program Intern - 2026",
+      "postedToDiscord": "2026-01-14T03:32:49.203Z",
+      "sourceDate": "2026-01-13T23:20:09.000Z",
+      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTCollegeSpecialInvite/job/Dallas-Texas/Technology-Development-Program-Intern--2026-_R-80658-1",
+      "discordThreadId": "1460839028948729932",
+      "instanceNumber": 1
+    },
+    {
+      "id": "paccar-intern-advanced-technology-burlington-2026-01-14-1",
+      "jobId": "paccar-intern-advanced-technology-burlington",
+      "company": "Paccar",
+      "title": "Intern - Advanced Technology",
+      "postedToDiscord": "2026-01-14T03:32:52.713Z",
+      "sourceDate": "2026-01-13T23:19:41.000Z",
+      "sourceUrl": "https://jobs.paccar.com/job/Mount-Vernon-Summer-Internship-2026-Advanced-Technology-WA-98273-9671/1283039201/?ats=successfactors",
+      "discordThreadId": "1460839044522053825",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-computer-vision-robotics-intern-westminster-2026-01-14-1",
+      "jobId": "parsons-computer-vision-robotics-intern-westminster",
+      "company": "Parsons",
+      "title": "Computer Vision / Robotics Intern",
+      "postedToDiscord": "2026-01-14T03:32:56.391Z",
+      "sourceDate": "2026-01-13T23:19:32.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision---Robotics-Intern---Summer-2026_R176218-1",
+      "discordThreadId": "1460839059835584585",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-software-development-intern-summer-2026-westminster-2026-01-14-1",
+      "jobId": "parsons-software-development-intern-summer-2026-westminster",
+      "company": "Parsons",
+      "title": "Software Development Intern - Summer 2026",
+      "postedToDiscord": "2026-01-14T03:33:00.000Z",
+      "sourceDate": "2026-01-13T23:19:25.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Software-Development-Intern---Summer-2026_R176219-2",
+      "discordThreadId": "1460839074909655236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stantec-hydrogeology-intern-environmental-services-wayzata-2026-01-14-1",
+      "jobId": "stantec-hydrogeology-intern-environmental-services-wayzata",
+      "company": "Stantec",
+      "title": "Hydrogeology Intern - Environmental Services",
+      "postedToDiscord": "2026-01-14T03:33:06.709Z",
+      "sourceDate": "2026-01-13T23:20:03.000Z",
+      "sourceUrl": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1003653",
+      "discordThreadId": "1460839102390730854",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medpace-clinical-informatics-intern-fall-2026-cincinnati-2026-01-14-1",
+      "jobId": "medpace-clinical-informatics-intern-fall-2026-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Clinical Informatics Intern - Fall 2026",
+      "postedToDiscord": "2026-01-14T03:33:13.359Z",
+      "sourceDate": "2026-01-13T23:18:39.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/12448?lang=en-us&icims=1",
+      "discordThreadId": "1460839130824184067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "medpace-clinical-informatics-intern-cincinnati-2026-01-14-1",
+      "jobId": "medpace-clinical-informatics-intern-cincinnati",
+      "company": "Medpace, Inc.",
+      "title": "Clinical Informatics Intern",
+      "postedToDiscord": "2026-01-14T03:33:13.363Z",
+      "sourceDate": "2026-01-13T23:18:37.000Z",
+      "sourceUrl": "https://careers.medpace.com/jobs/12447?lang=en-us&icims=1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "enfra-engineering-intern-emerging-technologies-salt-lake-city-2026-01-14-1",
+      "jobId": "enfra-engineering-intern-emerging-technologies-salt-lake-city",
+      "company": "ENFRA",
+      "title": "Engineering Intern - Emerging Technologies",
+      "postedToDiscord": "2026-01-14T03:33:16.976Z",
+      "sourceDate": "2026-01-13T23:10:52.000Z",
+      "sourceUrl": "https://careers-enfra.icims.com/jobs/9054/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460839145717895404",
+      "instanceNumber": 1
+    },
+    {
+      "id": "legrand-digital-analytics-intern-farmington-2026-01-14-1",
+      "jobId": "legrand-digital-analytics-intern-farmington",
+      "company": "Legrand",
+      "title": "Digital Analytics Intern",
+      "postedToDiscord": "2026-01-14T03:33:23.510Z",
+      "sourceDate": "2026-01-13T23:13:44.000Z",
+      "sourceUrl": "https://jobs-legrand.icims.com/jobs/9717/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1460839173949886740",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -2769,7 +2769,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T02:54:59.891Z",
+      "date": "2026-01-14T03:33:23.510Z",
       "archived": 0
     }
   }

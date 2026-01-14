@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "Obsidian Security",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Founded in 2017, Obsidian Security was created to close a critical gap: securing the SaaS applications where modern business happens—platforms like Microsoft 365, Salesforce, and hundreds more. Backed by top investors including Greylock, Norwest Venture Partners, and IVP, we’ve built a complete SaaS security platform to reduce risk, detect and respond to threats, and prevent breaches at the source. Our team includes leaders who helped define the categories of endpoint and identity security at CrowdStrike, Okta, Cylance, and Carbon Black. Now, we’re transforming how SaaS is secured—in the era of agentic AI. Today, Obsidian is trusted by global enterprises like Snowflake, T-Mobile, and Pure Storage. We protect more than 200 organizations across North America, Europe, the Middle East, Southeast Asia, Australia, and New Zealand—including many of the world’s largest Fortune 1000 and Global 2000 companies. With strong global momentum, a growing partner ecosystem including SentinelOne, Databricks, and Google Cloud, and a major fundraise on the horizon, we’re scaling quickly toward long-term growth and IPO readiness. Join us as we define the future of SaaS security!We are looking for a Software Engineer Intern (Full-stack) to join our growing engineering team for the Summer of 2026. As a full-stack engineer intern, you’ll be working across the entire stack to develop, deploy, and optimize cutting-edge security solutions. You will collaborate closely with product, security, and engineering teams to design, build, and maintain scalable and reliable software. This is an exciting opportunity for someone looking to make a direct impact in a fast-paced, dynamic environment. About the Role: Full-Stack Development: Design, build, and maintain both front-end and back-end components for our SaaS security platform. Security Focus: Work on security-related features, integrating cutting-edge security protocols, and building tools that help secure our customers’ data and infrastructure. Collaboration: Work closely with other engineers, product managers, and designers to deliver high-quality features and enhance the platform's security. System Design: Participate in high-level system design and architecture discussions for new features and products. Problem Solving: Identify technical issues and implement solutions to improve the performance, scalability, and security of the platform. Continuous Improvement: Drive continuous improvement in code quality, testing, and deployment processes. Innovation: Stay updated on security trends, technologies, and best practices, and contribute ideas to the development of new security features. Key Qualifications: 0-2 years of experience in software development. Solid understanding of distributed systems, databases, and computational complexity. Excellent learning skills, creativity, and the ability to work both independently and collaboratively. Strong analytical skills and a data-driven approach to problem-solving. Solid coding skills. Fluency with either Python 3 or Go is a must. Experiences with some frontend frameworks and fluency with TypeScript. Ability to work in a fast-paced environment. Bonus Points: Familiarity with Cloud Security concepts and technologies. Experiences with Cloud Platforms / Kubernetes. Experiences with testing frameworks. Experiences with SaaS platforms. Experienced in Data engineering with a focus on data pipeline optimization. Hourly Rate Range: $20-$25 per hourEmployee Benefits Our competitive benefits packages are designed to support our employees' well-being, both at work and at home. Our US based employees enjoy: Competitive compensation with equity and 401k Comprehensive healthcare with dental and vision coverage Flexible paid time off and paid holiday time off 12 weeks of new parent or family leave Personal and professional development resources For more details on our US benefits, or for information on our international benefits, please see here. Pay Transparancy Please note that the base pay range is a guideline and for candidates who receive an offer, the base pay will vary based on factors such as work location, as well as the knowledge, skills and experience of the candidate. In addition to a competitive base salary, this position is eligible for equity awards and may be eligible for sales commission or incentive compensation based on the role or function within the company. At Obsidian, we are proud to be an equal-opportunity employer. We value diversity and hire for talent, passion, and compassion. In compliance with federal law, all persons hired will be required to submit satisfactory proof of identity and legal authorization. If you have a need that requires accommodation, please contact accommodations@obsidiansecurity.com Information collected and processed as part of any job applications you choose to submit is subject to Obsidian’s Applicant Privacy Policy.Base Salary Range$20 - $25 USD",
-      "job_apply_link": "https://job-boards.greenhouse.io/obsidiansecurity/jobs/4788725008",
-      "job_posted_at_datetime_utc": "2026-01-13T23:34:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "obsidian-security-software-engineer-intern-palo-alto",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Performance Engineering Intern - Deep Learning and HPC - Summer 2026",
-      "employer_name": "NVIDIA",
-      "job_city": "Santa Clara",
-      "job_state": "CA",
-      "job_description": "NVIDIA builds the most advanced data center GPUs in world that are utilized in a growing number of computing areas ranging from life sciences to deep learning to quantum chemistry. NVIDIA strives to deliver the best possible performance, which allows researchers and scientists to do more world-changing work than ever before. We are now looking for a Performance Engineer Intern focused on Deep Learning (DL) & High-Performance Computing (HPC) applications to join our diverse team.Our team is responsible for generating benchmark data across a rapidly growing catalog of Deep Learning & HPC frameworks/applications on Nvidia and as well as competitive products. The data that we collect drives marketing/sales collaterals as well as engineering studies for current and future products. In some instances, we’ll write scripts that improve the team’s ability to gather data through automation and designing efficient processes for testing a wide variety of applications and hardware. You will have the opportunity to work with multi-functional teams and in a dynamic environment where multiple projects will be active at once and priorities may shift frequently.Preferred duration of the internship: 8 months minimumWhat you’ll be doing:Plan and execute GPU performance benchmarking across a wide range of HPC and DL frameworks and applicationsAggregate, analyze, and generate written and visual reports with the testing data for internal sales, marketing, SW, and HW teamsDevelop Python scripts to automate the testing of DL & HPC-focused applicationsWork with internal engineering team to debug performance issuesLearn to use the latest applications in the fields of Deep Learning and HPCAssist with the development of tools and processes that improve our ability to perform automated testingWhat we need to see:Pursuing bachelors degree in Computer Engineering, Computer Science or related technical fieldExcellent programming and debugging skills in a scripting language such as Python or Unix shellAdvanced knowledge using Linux based systems (Ubuntu and CentOS strongly preferred)Proficient in compiling software from source code, including debugging errors encounteredExcellent English verbal and written interpersonal skills to improve collaboration with coworkersExcellent data analysis skills and the ability to summarize findings in a written reportFamiliarity using a container platform such as Docker or SingularityWays to stand out from the crowd:Experience using a GPU-enabled deep learning framework such as TensorFlow, PyTorch, MXNet, or TensorRTExperience using GPU-enabled HPC applications such as LAMMPS, GROMACS, Amber, RTM, etc…Experience with GPU/CPU benchmarking on cloud solutions from AWS, GCP, AzureGPU programming experience in CUDA, OpenACC, or OpenCLFamiliarity with software compilers such as GNU, Intel Composer, or PGI with previous experience with computer clusters, Slurm, Kubernetes.We have some of the most forward thinking and hardworking people in the world working for us and our best-in-class engineering teams are rapidly growing. We are building a team that will help shape the future of data center computing. If you are passionate about new technologies, care about improving efficiency and quality, and want to be at the forefront of AI & HPC, we would love for you to join us.Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.\nYou will also be eligible for Intern benefits. ​Applications for this job will be accepted at least until January 17, 2026.This posting is for an existing vacancy. NVIDIA uses AI tools in its recruiting processes.NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
-      "job_apply_link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830",
-      "job_posted_at_datetime_utc": "2026-01-13T23:33:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "nvidia-performance-engineering-intern-deep-learning-and-hpc-summer-2026-santa-clara",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - Energy Engineer",
-      "employer_name": "ICF International",
-      "job_city": "Reston",
-      "job_state": "VA",
-      "job_description": "2026 Summer Intern, Energy Engineer Are you a student seeking experience with energy analytics, forecasting, and research that shapes future energy efficiency programs? Do you have strong communication skills, enjoy working with data, and want to learn how to turn technical insights into actionable strategies? Do you thrive in collaborative teams where you help connect research, modeling, and reporting to deliver quality outcomes? If so, then you have found the perfect internship!  Join us as a 2026 Summer Intern to support our growing portfolio of work with utility companies. You will help build and validate datasets, test tools that estimate savings, and contribute to research that informs portfolio planning and measure development. Working closely with consultants and engineers, you will support standardized QA processes, document assumptions, and assist in creating clear summaries of projected impacts. Your work will help utilities plan cost effective programs, improve grid reliability, and deliver equitable savings for customers including underserved communities.This is an entry-level, 10-week, full time internship that begins in early June 2026. The work may be fully remote from any U.S. location or hybrid from an ICF office depending on individual's location. At this time, we are unable to provide relocation nor housing assistance. Key Responsibilities  Developing and improving standardized quality assurance processes for potential study modelsTesting and refining AI agents developed to improve potential study measure processesSupporting emerging technology research, improving cost and savings estimates, and identifying new opportunities for potential studies and pilot programsInterpretation, collation, and input of technical reference document data into cloud-based platforms and/or active ICF projectsExpanding research and knowledge base for key focus areas (e.g., data centers, measure costs) across the teamBasic Qualifications By start date, a minimum of 30 completed college-level credit hours is required, preferably in engineering, building science, or related fieldMust be able to pass any required background check(s), which may include drug screening Candidate must be a US citizen, reside in the U.S., be authorized to work in the U.S., and all work must be performed in the U.S. per contract requirementsPreferred Skills/Qualifications Demonstrates trustworthiness and upholds the highest ethical standardsAbility to work independently and as part of a team in a fast-paced environmentA completed bachelor’s degree plus enrollment verification in a Master’s degree program within mechanical engineering or similar disciplineStrong quantitative and analytical skills, including knowledge of basic programmingA passion for the energy industry, with specific interest in energy efficiency and distributed energy resources.Advanced proficiency in utilizing Microsoft Excel for organizing and processing data, creating tools, and conducting analysisExperience with energy modeling tools (e.g., OpenStudio, EnergyPlus)Ensures that information flows effectively to othersIdentifies, collects, and analyzes the information needed to solve a problem effectivelyStrong writing and communication skills, and ability to organize written work in a manner that is clear, easy to follow, and tailored for the intended audienceWorking at ICFICF is a global advisory and technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting-edge technology to help clients solve their most complex challenges, navigate change, and shape the future.We can only solve the world's toughest challenges by building a workplace that allows everyone to thrive. We are an equal opportunity employer. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO policy.We will consider for employment qualified applicants with arrest and conviction records. Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation, please email Candidateaccommodation@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.  Read more about workplace discrimination rights or our benefit offerings which are included in the Transparency in (Benefits) Coverage Act.  Candidate AI Usage PolicyAt ICF, we are committed to ensuring a fair interview process for all candidates based on their own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) tools to generate or assist with responses during interviews (whether in-person or virtual) is not permitted. This policy is in place to maintain the integrity and authenticity of the interview process.  However, we understand that some candidates may require accommodation that involves the use of AI. If such an accommodation is needed, candidates are instructed to contact us in advance at candidateaccommodation@icf.com. We are dedicated to providing the necessary support to ensure that all candidates have an equal opportunity to succeed.   Pay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position. The pay range for this position based on full-time employment is:$34,564.00 - $58,758.00Nationwide Remote Office (US99)",
-      "job_apply_link": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Mechanical-Engineer_R2502939",
-      "job_posted_at_datetime_utc": "2026-01-13T23:30:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "icf-international-intern-energy-engineer-reston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern - Draper UT",
-      "employer_name": "Cox",
-      "job_city": "Draper",
-      "job_state": "UT",
-      "job_description": "CompanyCox EnterprisesJob Family GroupBusiness OperationsJob ProfileIntern - TechnicalManagement LevelIndividual ContributorFlexible Work Option Hybrid - Ability to work remotely part of the weekTravel %Yes, 5% of the timeWork ShiftCompensationHourly base pay rate is $24.23 - $36.35/hour. The hourly base rate may vary within the anticipated range based on factors such as the ultimate location of the position and the selected candidate’s knowledge, skills, and abilities. Position may be eligible for additional compensation that may include commission (annual, monthly, etc.) and/or an incentive program.Job DescriptionWe encourage candidates to apply to no more than three internship opportunities within a 90-day period. Our recruiting team will review your application and ensure you are considered for the opportunities that best align with your skills and interests.There’s something really inspiring about the idea of innovators teaming up to build something incredible. If you agree, then you might be a perfect fit for a tech job at Cox!Across the Cox family of businesses (Cox Enterprises, Cox Communications and Cox Automotive), we’re looking for Software Development Interns to join our team and learn from the best. Ready to collaborate with us and work at a great company that truly cares about you and your future? Keep reading!What’s In It For You?We value your time and potential. At Cox, you’ll be exposed to meaningful and challenging work.You won’t be left alone to figure things out. You’ll have a team of supporters (plus an assigned program mentor) who will show you the ropes, guide you to excellence and cheer you on.You’ll experience real accountability to develop your professional skills.You’ll expand your network and professional toolbox through exposure to senior leaders.You’ll help us build a bold future that is sustainable, accessible and inclusive.What You’ll DoYou’ll develop and manage enterprise platforms, deployment pipelines, security and quality monitoring. You’ll also develop tools to automate tasks and maintain new and existing infrastructure platforms on public and private clouds. Responsibilities will include:Developing automation for infrastructure provisioning and procedures, configuration management and ongoing support processes to be used across all environments.Documenting new development, procedures or test plans as needed.Helping develop and following best practices, security and engineering standards.Building tools and pipelines needed to facilitate continuous integration and delivery of software to all environments.Automating code packaging, code deployment and configuration management processes to be used across all environments.Soliciting feedback from delivery and operations teams about continuous integration and delivery challenges and working with them to identify opportunities to optimize software engineering throughput and quality.Tracking system and service performance continuously in all environments and escalates to the appropriate team.Leverage AI tools to assist in productivity, testing, and automationWho You AreInquisitive. Logical. Dependable. These are just a few words that describe you. You love a good challenge and are happiest when you’re solving problems. You have the following qualifications:Currently a college student pursuing a BA/BS degree in computer science or a related field, including classes related to software development, systems, networking and security.A passion for technology, reverse engineering and writing code to create solutions and fix problems.A collaborative attitude and the ability to clearly articulate thoughts and processes with both verbal and written communication in one-on-one and group settings.Experience with Windows and Linux systems, containers and databases.Experience with source code, build, deploy, orchestration and configuration management tools.Experience in writing code and scripts in at least one high-level programming language.An eye to identify and a desire to resolve insufficiencies and manual activities via automation.Familiarity with public cloud architecture and technologies, preferably AWS.Familiarity with Agile concepts and processes (Scrum and Kanban).An interest in building and continuously improving secure and resilient applications at scale.An interest in gathering data and measuring the progress on what makes applications perform.Familiarity with AI tools that assist in producing, testing, and automating tasks in software development and deployment.Don’t miss out on the first steps toward your future. Apply today!Intern/Co-Op sessions are considered temporary employment. No full-time employment commitments are made. However, depending on our business needs, some interns may be considered for a full-time position following the conclusion of the session conditioned upon the intern graduating from their academic program and being available to commence full-time employment at a specified time.Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship.BenefitsBenefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page.About UsAs our primary divisions Cox Automotive and Cox Communications drive new waves of innovation, Cox Enterprises is entering spaces like cleantech, healthcare, esports and more. We're a family business guided by a legacy of bold innovation that’s driven by those who want to make their mark. Benefits of working at Cox may include health care insurance (medical, dental, vision), retirement planning (401(k)), and paid days off (sick leave, parental leave, flexible vacation/wellness days, and/or PTO). For more details on what benefits you may be offered, visit our benefits page. Cox is an Equal Employment Opportunity employer – All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law. Cox provides reasonable accommodations when requested by a qualified applicant or employee with disability, unless such accommodations would cause an undue hardship.Applicants must currently be authorized to work in the United States for any employer without current or future sponsorship. No OPT, CPT, STEM/OPT or visa sponsorship now or in future.",
-      "job_apply_link": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern--Draper--UT---Summer-2026_R202671816",
-      "job_posted_at_datetime_utc": "2026-01-13T23:29:26.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "cox-software-engineer-intern-draper-ut-draper",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Battery Test Lab Intern",
-      "employer_name": "The Aerospace Corporation",
-      "job_city": "El Segundo",
-      "job_state": "CA",
-      "job_description": "The Aerospace Corporation is the trusted partner to the nation’s space programs, solving the hardest problems and providing unmatched technical expertise. As the operator of a federally funded research and development center (FFRDC), we are broadly engaged across all aspects of space— delivering innovative solutions that span satellite, launch, ground, and cyber systems for defense, civil and commercial customers. When you join our team, you’ll be part of a special collection of problem solvers, thought leaders, and innovators. Join us and take your place in space.Physical Sciences Laboratories (PSL) supports the effective and timely development and operation of national security systems through scientific research and the application of advanced technologies. PSL has more than 150 specialized laboratories used to test, analyze, and troubleshoot virtually every aspect of rocket and satellite system design, development, construction, deployment, and operation. The expertise of the laboratories’ technical staff allows PSL to stay abreast of new technological developments and program support issues associated with rapidly evolving space systems. The qualified candidate will become part of the Physical Sciences Laboratories, Energy Technology Department, Battery Test Lab, supporting the test and evaluation of spacecraft cells and batteries for flight programs. Work will involve hands-on, battery-related laboratory work to support designing and building custom test stations for space vehicle battery testing. An overall goal in this work is to develop innovative solutions to streamline battery testing, and to improve the battery test life cycle.The selected candidate will be required to work full-time, on-site at our facility in El Segundo, CA.What You’ll Be Doing You will work with an interdisciplinary team of engineers, scientists, and technicians in the Battery Test Lab with a focus on ongoing material, electrochemical, electrical engineering, and data science research areas.You will apply standard techniques and procedures to carry out a series of prescribed scientific and/or engineering tasks, including:Creating new battery cell tests and experimentsFabricating custom test hardware and cablingAssembling/soldering printed circuit boardsPerforming cycle tests on various battery technologiesYou will also assist in innovating new testing solutions, including:Developing new battery health diagnostic toolsSupporting the team on project designs, test protocols, and experimental validationsPerforming analysis on battery test data to evaluate performance and identify improvementsDeveloping interface/communication codes for measurement & test equipmentYou will have the opportunity to develop and deploy robust data science analytical pipelinesDevelop code to effectively handle high volumes of test dataInvestigate actionable trends across test conditionsIntegrate cutting-edge AI/ML tools to enhance battery performance analysisReceive hands-on training and mentorship to enhance your skills in material science, electrochemistry, electrical engineering, and data scienceDuties, responsibilities and activities may change, or new ones may be assigned as needed Training and mentorship will be provided What Corporate Skills You’ll Bring Strong written and oral communication skills Must work well in a team environment Possess organizational, time management and project management skills Demonstrate flexibility and ability to adapt to changing organizational need Interpersonal skills to coordinate efforts and work with other internal and external organizations What You Need to be Successful Minimum Requirements: Currently enrolled full-time in an accredited college/university program pursuing a Bachelor’s degree in Electrical Engineering, Computer Engineering, Mechanical Engineering, Materials Science Engineering, Data Science, Statistics, or related disciplineSophomore class standing completed by internship start date Availability to work full-time for a minimum of 10 weeks outside of university term and ability to return to a Bachelor's degree program full-time after completion of the internshipMinimum GPA of 3.0  Experience operating in a laboratory environmentExperience with developing, troubleshooting, and executing software programs/scripts (for example for data analysis, modeling, or hardware interface/control) using Python, MATLAB, or other high-level programming languageThis position requires ability to obtain and maintain a security clearance, which is issued by the US government. U.S citizenship is required to obtain a security clearanceTranscriptsHow You Can Stand Out  It would be impressive if you have one or more of these: GPA 3.5 or higher  Active security clearance Prior exposure to battery research and modeling effortsExperience with the use of electrical test equipment and data acquisition systemsExperience in developing electrical schematics and/or printed circuit board layoutsExperience with software control of measurement & test equipmentExperience with Lithium-ion battery testing/charge controlTemporary housing assistance is not available. We offer a competitive compensation package where you’ll be rewarded based on your performance and recognized for the value you bring to our business.  The grade-based pay range for this job is listed below.  Individual salaries within that range are determined through a wide variety of factors including but not limited to education, experience, knowledge and skills.(Min - Max)$26.00 - $30.00Pay Basis: HourlyLeadership CompetenciesOur leadership philosophy is simple: every employee, regardless of level and role, can demonstrate leadership. At Aerospace, our commitment is our people. To cultivate our talent and ensure that we have a strong pipeline of future leaders, we want individuals who:Operate StrategicallyLead Change   Engage with Impact   Foster Innovation   Deliver Results  Ways We Reward Our Employees During your interview process, our team will provide details of our industry-leading benefits.Benefits vary and are applicable based on Job Type.  A few highlights include:Comprehensive health care and wellness plansPaid holidays, sick time, and vacationStandard and alternate work schedules, including telework options401(k) Plan — Employees receive a total company-paid benefit of 8%, 10%, or 12% of eligible compensation based on years of service and matching contributions; employees are immediately eligible and vested in the plan upon hireFlexible spending accountsVariable pay program for exceptional contributionsRelocation assistanceProfessional growth and development programs to help advance your careerEducation assistance programsAn inclusive work environment built on teamwork, flexibility, and respectWe are all unique, from various backgrounds and all walks of life, yet one thing bonds all of us to each other—the belief that we can make a difference. This core belief empowers us to do our best work at The Aerospace Corporation.Equal Opportunity CommitmentThe Aerospace Corporation is an equal opportunity employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, age, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender, gender identity or expression, color, religion, genetic information, marital status, ancestry, national origin, protected veteran status, physical disability, medical condition, mental disability, or disability status and any other characteristic protected by state or federal law. If you’re an individual with a disability or a disabled veteran who needs assistance using our online job search and application tools or need reasonable accommodation to complete the job application process, please contact us by phone at 310.336.5432 or by email at peoplemangmnt.mailbox@aero.org . You can also review Know Your Rights: Workplace Discrimination is Illegal.",
-      "job_apply_link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Battery-Test-Lab-Undergraduate-Intern_R014302",
-      "job_posted_at_datetime_utc": "2026-01-13T23:29:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "the-aerospace-battery-test-lab-intern-el-segundo",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning PhD Intern - Economics",
-      "employer_name": "Instacart",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "Get a Taste of Instacart @Instacart @Instacart Tech Blog Taste of Instacart Blog Instacart News Instacart is a hybrid remote team. Most of our roles are open to in-office, flex, or remote work. Learn more about our flexible approach to where we work. No matter what you bring to the potluck, there’s a seat at the table for you. We celebrate the unique and diverse paths, perspectives and experiences that you may bring to Instacart. Accommodations & Accessibility At Instacart, we strive to create an accessible and inclusive experience for all candidates. If you need assistance submitting an application through our career site due to a disability, please submit an Accommodations Request Form and someone from our team will reach out soon to see how we may be able to assist. Equal Opportunity Instacart is an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, color, creed, religion, national origin, age, sex and gender, gender expression and gender identity, sexual orientation, marital status, ancestry, physical or mental disability, military and veteran status, or any other characteristic protected by law. For Colorado applicants, pursuant to the Colorado Job Application Fairness Act, you may omit or redact information identifying age, date of birth, and/or dates of attendance at or graduation from an educational institution in your resume and/or application. Candidate Privacy Policy",
-      "job_apply_link": "https://instacart.careers/job/?gh_jid=7532267",
-      "job_posted_at_datetime_utc": "2026-01-13T23:28:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "instacart-machine-learning-phd-intern-economics-remote-in-usa",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "2026 Summer Corporate Internship Program - Technology Space",
-      "employer_name": "Finra",
-      "job_city": "North Bethesda",
-      "job_state": "MD",
-      "job_description": "We Work to Protect Investors. Join our Team.2026 Summer Internship ProgramFINRA is dedicated to providing you with an internship opportunity to gain knowledge and experience in the securities industry with an employer that places a high value on the professional and personal growth of our employees. If you would like to contribute to our important mission and work collegially in a professional organization that values intelligence, integrity and initiative, then consider an Internship with FINRA.Essential Job Functions:This Intern will work with FINRA’s cutting-edge technical teams gaining hands-on experience in projects that may include:Developing an understanding of FINRA technology approaches, tools and methodologies.Participating in project team meetings and provide status updates, as appropriate.Effectively communicating activities and findings in both oral and written formats.Education/Experience Requirements:Enrolled in the final two years of a Bachelor's Degree in Technology Management, Business Management, Computer Science (CS) Engineering, or related disciplineDemonstrated ability to learn new concepts/techniques and apply knowledgeAbility to maintain focus and develop proficiency in new skills rapidlyHands-on development experience with SQL/Python/Similar3x week in office (Rockville, MD)For work that is performed in CA, CO, New York, NY and WA, the chart below outlines the proposed salary range for the corresponding location. In addition to location, actual compensation is based on various factors, including but not limited to, the candidate’s skill set, level of experience, education, and internal peer compensation comparisons. CA: Minimum Hourly Rate $25.00, Maximum Hourly Rate $34.00CO/HI/MN/VT*: Minimum Hourly Rate $23.00, Maximum Hourly Rate $32.00IL*: Minimum Hourly Rate $23.00, Maximum Hourly Rate $32.00Jersey City, NJ/NYC, NY: Minimum Hourly Rate $25.00, Maximum Hourly Rate $34.00MA/WA: Minimum Hourly Rate $23.00, Maximum Hourly Rate $32.00MD/Washington, DC: Minimum Hourly Rate $25.00, Maximum Hourly Rate $34.00NJ: Minimum Hourly Rate $25.00, Maximum Hourly Rate $34.00NY: Minimum Hourly Rate $25.00, Maximum Hourly Rate $34.00 #LI-DNITo be considered for this position, please submit an application. Applications are accepted on an ongoing basis.The information provided above has been designed to indicate the general nature and level of work of the position. It is not a comprehensive inventory of all duties, responsibilities and qualifications required.Please note: If the “Apply Now” button on a job board posting does not take you directly to the FINRA Careers site, enter www.finra.org/careers into your browser to reach our site directly.FINRA strives to make our career site accessible to all users. If you need a disability-related accommodation for completing the application process, please contact FINRA's Employee Relations team at 240.386.4865 or by email at EmployeeRelations@finra.org. Please note that this process is exclusively for inquiries regarding application accommodations. Employees may be eligible for a discretionary bonus in addition to base pay. Non-exempt employees are also eligible for overtime pay in accordance with federal, state, or local law. As part of its dedication to employee wellness, FINRA provides comprehensive health, dental and vision insurance. Additional insurance includes basic life, accidental death and dismemberment, supplemental life, spouse/domestic partner and dependent life, and spouse/domestic partner and dependent accidental death and dismemberment, short- and long-term disability, long-term care, business travel accident, disability and legal. FINRA offers immediate participation and vesting in a 401(k) plan with company match and eligibility for participation in an additional FINRA-funded retirement contribution, tuition reimbursement, commuter benefits, and other benefits that support employee wellness, such as adoption assistance, backup family care, surrogacy benefits, employee assistance, and wellness programs.Time Off and Paid Leave*FINRA encourages its employees to focus on their health and wellness in many ways, including through a generous time-off program of 15 days of paid time off, 5 personal days and 9 sick days, unless otherwise required by law (all pro-rated in the first year). Additionally, we are proud to support our communities by providing two volunteer service days (based on full-time schedule). Other paid leave includes military leave, jury duty leave, bereavement leave, voting and election official leave for federal, state or local primary and general elections, care of a family member leave (available after 90 days of employment); and childbirth and parental leave (available after 90 days of employment). Full-time employees receive nine paid holidays.*Based on full-time scheduleImportant InformationFINRA’s Code of Conduct imposes restrictions on employees’ investments and requires financial disclosures that are uniquely related to our role as a securities regulator. FINRA employees are required to disclose to FINRA all brokerage accounts that they maintain, and those in which they control trading or have a financial interest (including any trust account of which they are a trustee or beneficiary and all accounts of a spouse, domestic partner or minor child who lives with the employee) and to authorize their broker-dealers to provide FINRA with duplicate statements for all of those accounts. All of those accounts are subject to the Code’s investment and securities account restrictions, and new employees must comply with those investment restrictions—including disposing of any security issued by a company on FINRA’s Prohibited Company List or obtaining a written waiver from their Executive Vice President—by the date they begin employment with FINRA. Employees may only maintain securities accounts that must be disclosed to FINRA at one or more securities firms that provide an electronic feed (e-feed) of data to FINRA, and must move securities accounts from other securities firms to a firm that provides an e-feed within three months of beginning employment.You can read more about these restrictions here.As standard practice, employees must also execute FINRA’s Employee Confidentiality and Invention Assignment Agreement without qualification or modification and comply with the company’s policy on nepotism.Search Firm RepresentativesPlease be advised that FINRA is not seeking assistance or accepting unsolicited resumes from search firms for this employment opportunity. Regardless of past practice, a valid written agreement and task order must be in place before any resumes are submitted to FINRA. All resumes submitted by search firms to any employee at FINRA without a valid written agreement and task order in place will be deemed the sole property of FINRA and no fee will be paid in the event that person is hired by FINRA.FINRA strives to make our career site accessible to all users. If you need a disability-related accommodation for completing the application process, please contact FINRA's Employee Relations team at 240.386.4865 or by email at EmployeeRelations@finra.org. Please note that this process is exclusively for inquiries regarding application accommodations.All qualified applicants will receive consideration for employment without regard to age, citizenship status, color, disability, marital status, national origin, race, religion, sex, veteran status or any other classification protected by federal, state, or local laws.FINRA abides by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.FINRA abides by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified protected veterans.©2025 FINRA. All rights reserved. FINRA is a registered trademark of the Financial Industry Regulatory Authority, Inc.",
-      "job_apply_link": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/XMLNAME-2026-Summer-Corporate-Internship-Program--Technology-Space_R-009603",
-      "job_posted_at_datetime_utc": "2026-01-13T23:25:11.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "finra-2026-summer-corporate-internship-program-technology-space-north-bethesda",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Failure Analysis Data Intern",
-      "employer_name": "Bloom Energy",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "This is a 10-week internship starting June 8 or 15 and is fully on-site at the listed office location.Company OverviewAt Bloom Energy, our vision for a world powered by clean, reliable, and affordable energy is more than just a dream—we’re making it a reality. For over two decades, we’ve been at the forefront of the global energy transition, pioneering solutions that empower critical industries to thrive in a rapidly digitizing, energy-intensive world. From revolutionizing power for AI-driven data centers to ensuring resilience for hospitals, electric grids, manufacturing facilities, and utilities, our solid oxide fuel cell (SOFC) and solid oxide electrolyzer (SOEC) technologies are redefining what’s possible by delivering energy abundance for all. With more than 30,000 fuel cell modules deployed worldwide, we are the trusted partner for Fortune 100 companies and innovators alike. Our cutting-edge solutions enable unparalleled “time-to-power” capabilities, reliability, and sustainability, ensuring our customers remain ahead in a world where soaring energy demand and intensifying energy scarcity are rapidly becoming the new norm. At Bloom, we thrive on collaboration, bold thinking, and relentless innovation. We believe that, together, we can create a brighter, more sustainable future while tackling the most pressing challenges of the 21st century.The Quality and Reliability department is looking for a Failure Analysis Data Intern to join its world class team.  This individual should be a dynamic professional who is looking for a rewarding future in one of today’s most exciting technologies.Location: This position will be based in ­­­­ San Jose, CA.Role and ResponsibilitiesSupport the Failure Analysis Team from Quality Organization.Perform troubleshooting of the failed component(s) to determine the root cause(s).Perform Testing and instrumentation of the test setup to validate the failures.Data collection and data Mining from the sensors.Minimum QualificationsCurrently a student earning a Bachelor’s or Master’s degree in Computer Science, Software engineering, Electrical engineering, Data Science, Statistics or related or a related disciplineMust be graduating between spring 2026 and summer 2027Desired QualificationsMaster’s degree preferredDevelops and systematically analyzes statistical data to determine standardsPython - Data Analysis/Visualization, AutomationProficient with Python/R/Java/Go or similar language – (Prefer Python)Experience with algorithm development and implementation (Python desired)Familiarity with NoSQL databases like MongoDB, Hadoop and REST APIsConducts RCCAs, prescribes CA and PA as necessary to prevent recurrence and verifies/validates effectivenessStrong independent problem-solving skillsExcellent verbal and written communication skills.Ability to operate under minimal supervisionProficiency in the application of DOEs and ANOVAProficiency in MS Office Suite: Word, Excel, PowerPoint, DatabasesHands on approach to get things doneVisa Sponsorship  Bloom Energy is unable to provide VISA sponsorship to interns or new grad hires on an F-1, J-1 or other visa for this position, regardless of CPT or OPT status.EOE StatementBloom Energy is an equal opportunity employer and makes employment decisions on the basis of merit. We are committed to compliance with all applicable laws providing equal employment opportunities. All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin, protected veteran status, or on the basis of disability. Bloom Energy makes reasonable accommodation, consistent with applicable laws, for the known physical or mental limitations of an otherwise qualified applicant or employee with a disability, who can perform the essential job functions, unless undue hardship would result.Salary Statement with pay rangeBloom Energy is committed to fair and equitable compensation practices. The total compensation for this position is based on various factors including, but not limited to, relevant skills and experience.The pay range for this position $36-50 per hourSalary Ranges:$45.75 - $50.00",
-      "job_apply_link": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Failure-Analysis-Data-Intern_JR-21216",
-      "job_posted_at_datetime_utc": "2026-01-13T23:23:10.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bloom-energy-failure-analysis-data-intern-san-jose",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - AI Algorithm Design for 6G - Summer",
-      "employer_name": "Samsung Research America",
-      "job_city": "Plano",
-      "job_state": "TX",
-      "job_description": "Lab Summary: The Standards & Mobility Innovation (SMI) team is committed to developing technologies that enable ubiquitous access to information and provide immersive multimedia experiences for mobility users. Our research focuses on: Wireless standards and technology including Wi-Fi, 5G, LTE-A, IoT RF & fast prototyping of 5G and IEEE 802 wireless systems and/or use cases Multimedia standards and technology including VR, HDR, All-IP delivery. Position Summary: Join the SMI team of Samsung Research America in Plano, Texas to contribute to 6G wireless AI (artificial intelligence) algorithm & system design, IPR development and proof-of concept design. Position Responsibilities: The research intern will contribute to some of the followings: 6G wireless communication AI algorithm design and simulations 6G Air interface / fronthaul interface design towards 3GPP / O-RAN standards Technical documentation, e.g., technical report, development specifications, etc. Patent and IPR generation Required Skills: Currently pursuing a PhD Sound technical background in signal processing, AI & machine learning (ML), wireless communication systems and algorithms Hands-on coding skills (e.g., Matlab, Python, C/C++) Ability to clearly define high level requirements and criteria to be used in the evaluation of air interface technology alternatives Have knowledge / experiences on some of the followings: Artificial intelligence and machine learning (AI/ML) algorithms and software tools Advanced radio access technologies such as MIMO, OFDM, OFDMA, Single Carrier FDMA, physical/MAC layers, etc. Simulation of cellular network technologies, to derive tradeoffs and to predict performance in diverse channel conditions Multiple antenna (MIMO) and beamforming technologies and digital signal processing Excellent verbal and written communication skills to effectively represent the derived results and technical concepts developed in the course of the work Ability to work within Samsung in cross-functional, cross-divisional teams Our total rewards programs are designed to motivate and engage exceptional talent. The hourly pay rate range for roles at this level is listed below, but may be higher or lower in other states due to geographic differentials in the labor market. Within the hourly pay rate range, individual rates depend on a number of factors—including the role’s function and location as well as the individual’s knowledge, skills, experience, education and training. This is part of our comprehensive compensation package with annual bonus eligibility and generous benefits to help you live life well.Hourly Pay Rate Range$44 - $59 USDAdditional Information Disclosure of Trade Secrets Samsung has a strict policy on trade secrets. In applying to Samsung and progressing through the recruitment process, you must not disclose any trade secrets of a current or previous employer. Essential Job Functions This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, and frequently operate standard office equipment, such as telephones and computers. Samsung Research America is committed to complying with all Federal, State and local laws related to the employment of qualified individuals with disabilities. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact the recruiter or email sratalent@samsung.com. Equal Employment Opportunity At Samsung, we believe that innovation and growth are driven by an inclusive culture and a diverse workforce. We aim to create a global team where everyone belongs and has equal opportunities, inspiring our talent to be their true selves. Together, we are building a better tomorrow for our customers, partners, and communities. Samsung Research America is committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law. For more information regarding protection from discrimination under Federal law for applicants and employees, please refer to this link: Pay Transparency",
-      "job_apply_link": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8364722002",
-      "job_posted_at_datetime_utc": "2026-01-13T23:20:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "samsung-research-america-research-intern-ai-algorithm-design-for-6g-summer-plano",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": "2026-01-14T02:55:02.896Z"
-  },
-  {
-    "job": {
       "job_title": "Technology Development Program Intern - 2026",
       "employer_name": "AT&T",
       "job_city": "Dallas",
@@ -854,10 +674,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:02:12.298Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -914,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -934,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -954,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -994,10 +814,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -1014,10 +834,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T02:00:45.658Z",
     "enrichedAt": "2026-01-14T02:54:15.882Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T03:33:26.516Z"
   },
   {
     "job": {
@@ -1045,16 +865,18 @@
       "employer_name": "Parsons",
       "job_city": "Bluemont",
       "job_state": "VA",
-      "job_description": "Join Parsons in this exciting opportunity.",
+      "job_description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next! At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. Job Description:Parsons is looking for an amazingly talented Intern to join our team! In this role you will get to working closely with our Identity Solutions team. This internship provides an opportunity for hands-on experience working on challenging projects alongside experienced professionals. You will have access to training resources and mentorship from senior engineers throughout your internship. What You'll Be Doing:- Collaborate with the team to design and develop new software features- Write clean and efficient code using modern programming languages such as Java or Python- Participate in code reviews and testing activities- Debug issues reported by customers or internal stakeholders- Contribute to documentation efforts for new features or enhancements- Stay up-to-date with emerging trends in software developmentWhat Required Skills You'll Bring:- Currently pursuing a Bachelor's or Master's degree in Computer Science or related field- Strong understanding of object-oriented programming concepts- Experience with one or more programming languages such as Java or Python - Familiarity with web application development frameworks such as Spring Boot or Django is a plus- Knowledge of database systems such as MySQL or Oracle is desirable- Excellent problem-solving skills and attention to detail - Ability to work collaboratively in a team environment- Must graduate after September 1, 2026 Security Clearance Requirement:NoneThis position is part of our Federal Solutions team.The Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.Salary Range: $21.88 - $38.27We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as 401K!Parsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.We truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!Parsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to https://www.parsons.com/fraudulent-recruitment/.",
       "job_apply_link": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US-WV---Summit-Point/Identity-Solutions---Intern-Summer-2026_R174371-1",
       "job_posted_at_datetime_utc": "2025-11-10T23:25:23.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "parsons-identity-solutions-intern-bluemont"
+      "id": "parsons-identity-solutions-intern-bluemont",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-14T03:32:42.614Z",
     "postedAt": null
   },
   {
@@ -1063,16 +885,18 @@
       "employer_name": "Sherwin-Williams",
       "job_city": "Cleveland",
       "job_state": "OH",
-      "job_description": "Join Sherwin-Williams in this exciting opportunity.",
+      "job_description": "The R&D Engineering Co-op position is for our Product Engineering Group focused in the Commercialization Engineering or Process Engineering",
       "job_apply_link": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
       "job_posted_at_datetime_utc": "2025-10-15T21:51:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland"
+      "id": "sherwin-williams-2026-r-d-product-engineering-co-op-cleveland",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-14T03:32:42.614Z",
     "postedAt": null
   },
   {
@@ -1081,16 +905,58 @@
       "employer_name": "Northrop Grumman",
       "job_city": "Boulder",
       "job_state": "CO",
-      "job_description": "Join Northrop Grumman in this exciting opportunity.",
+      "job_description": "RELOCATION ASSISTANCE: Relocation assistance may be availableCLEARANCE TYPE: SecretTRAVEL: NoDescriptionAt Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.Northrop Grumman is a space pioneer, supporting government, civil and commercial customers in solving their biggest challenges. Our forward-leaning, innovative spirit is backed by a legacy of expertise that began at the dawn of the space age. Our mission experience in space runs deep, we know our customers well, and our capabilities are unmatched. This is what allows us to provide reliable, agile and affordable space solutions to best serve our customers.From defending freedom to advancing human discovery, we are defining what is possible in space every day.An internship at Northrop Grumman is unique. Sure, you’ll learn new skills, explore our enterprise, network with experts, connect with thought leaders, and finish with a resume that opens doors. But you’ll gain something even more valuable: pride in what you’ve done. Join us and launch your career. We’ll support you with training, employee resource groups, and our shared vision of global security.Northrop Grumman is seeking Systems/Software  for an internship opportunity. This position will be located at our Space Sector in Boulder, CO.The qualified candidate will become part of Northrop Grumman’s Missile Defense Systems.Roles and Responsibilities•  Translate requirements into actionable software tasks•  Analyze running software in order to report problems and/or fix them•  Document software and user interfaces for contract-deliverable documents•  Collaborating with senior leadersBasic QualificationsA candidate must meet ALL of the below criteria. The candidate must:Be a student who is enrolled full-time and pursuing an undergraduate or graduate degree from an accredited college/university and will be enrolled full time in Fall 2026Be majoring in STEM (Science, Technology, Engineering or Math) degreeBe available to work full-time (40 hours per week) for at least 10 weeks during summer 2026.Be able to obtain and maintain a U.S. Government security clearance (U.S. citizenship is a pre-requisite) as well as Program Special access within a reasonable period of time, as determined by the company to meet its business needs (U.S. citizenship is a pre-requisite)Experience with C/C++Preferred Qualifications:  Have an overall cumulative GPA of 3.00/4.0 or higherExperience with pythonExperience with AgileExperience with LinuxExperience with Object Oriented Programming Primary Level Salary Range: $1.00 - $1.00The above salary range represents a general guideline; however, Northrop Grumman considers a number of factors when determining base salary offers such as the scope and responsibilities of the position and the candidate's experience, education, skills and current market conditions.Depending on the position, employees may be eligible for overtime, shift differential, and a discretionary bonus in addition to base pay. Annual bonuses are designed to reward individual contributions as well as allow employees to share in company results. Employees in Vice President or Director positions may be eligible for Long Term Incentives. In addition, Northrop Grumman provides a variety of benefits including health insurance coverage, life and disability insurance, savings plan, Company paid holidays and paid time off (PTO) for vacation and/or personal business.The application period for the job is estimated to be 20 days from the job posting date. However, this timeline may be shortened or extended depending on business needs and the availability of qualified candidates.Northrop Grumman is an Equal Opportunity Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO and pay transparency statement, please visit http://www.northropgrumman.com/EEO. U.S. Citizenship is required for all positions with a government clearance and certain other restricted positions.",
       "job_apply_link": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2026-Systems-Software-Intern-Boulder-CO_R10211112",
       "job_posted_at_datetime_utc": "2025-10-15T03:25:02.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder"
+      "id": "northrop-grumman-2026-systems-software-intern-boulder-co-boulder",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-14T02:00:45.658Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-14T03:32:42.614Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Operations Intern",
+      "employer_name": "Prime",
+      "job_city": "Downers Grove",
+      "job_state": "IL",
+      "job_description": "<h2>Overview</h2> <p></p> <p>&nbsp;</p> <p>An internship at Prime will allow you to gain marketable skills and learn about all aspects of Dispatch, customer service, technology, key department training, and sales.</p> <h2>Responsibilities</h2> <p>&nbsp;</p> <ul> <li>Assist fleet managers and operations personnel, as well as various support activities.</li> <li>Tracking location and status of loads.</li> <li>Providing assistance to customers with delivery and pick-up appointment times.</li> <li>Performs administrative and clerical duties to support full-time staff.</li> <li>Provide information to customers, drivers and dispatchers throughout the day.</li> <li>Complete continuing training as directed by management.</li> <li>Practice Company Core Values.</li> <li>Performs related work as required.</li> </ul> <p>&nbsp;</p> <h2>Qualifications</h2> <p><strong>QUALIFICATIONS REQUIRED: </strong></p> <p>Any combination of education, training, and experience providing the following knowledge, skills, and abilities.</p> <p>&nbsp;</p> <p><strong>Knowledge</strong></p> <p>Basic knowledge of trucking/transportation industry preferred, but not required.</p> <p>&nbsp;</p> <p><strong>Abilities</strong></p> <p>Excellent written and verbal communication skills, strong organizational and conflict resolution skills, and the ability to execute logical decisions quickly.&nbsp; Ability to multitask in dynamic, fast-paced, team oriented environment.&nbsp; Good computer and keyboarding skills with the ability to accurately type at 40 WPM. &nbsp;Proficient in Excel, Word, and Outlook.&nbsp; Flexible schedule with the ability to work at least 25-30 hours per week, and up to 12 hour shifts; Prime will work around class schedules. Ability to work evenings and weekends are required.</p> <p>&nbsp;</p> <p><strong>Experience, Education, and Training</strong></p> <p>Must be enrolled in a 4-year college or university with a major in Supply Chain Management or other business related field. Applicants must be enrolled at least at a junior level.</p> <p>&nbsp;</p> <p><strong>Physical Requirements</strong></p> <p>Must be able to sit a majority of your shift. Must be able to multitask and handle potentially a large volume of phone calls and correspondence. Must be able to communicate both written and verbally.</p> <p>&nbsp;</p> <p><strong>Working Environment</strong></p> <p>Primarily indoors with heating and cooling regulated in a general office environment.</p> <p>&nbsp;</p> <p><strong>Licensing/Certification</strong></p> <p>None required.</p> <p>&nbsp;</p> <p><strong>Miscellaneous Requirements</strong></p> <p>Requests for time off (Holidays, school breaks, etc.) will require advance approval based on department needs. Minimum of two consecutive semester’s commitment is required.</p>",
+      "job_apply_link": "https://careers-primeinc.icims.com/jobs/4915/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-05T03:34:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "prime-operations-intern-downers-grove",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-14T03:32:29.325Z",
+    "enrichedAt": "2026-01-14T03:32:42.614Z",
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Internship - Summer 2026",
+      "employer_name": "IDEMIA",
+      "job_city": "Reston",
+      "job_state": "VA",
+      "job_description": "<h2>Overview</h2> <p>IDEMIA is the global leader in identity and security. Our mission is to create a safe and simple future where identity verification is indisputable, and only you can assert your identity. We are a distributed company leveraging the latest technologies to deliver world-class products in the private and public sectors of finance, telecom, identity, security, retail, sports entertainment, commercial, government, and IoT. We use a variety of technologies and approaches to deliver quality product and services to government agencies and technology companies. IDEMIA is a made up of a group of 14,000 diverse people from different nationalities, speaking over 20 different languages. Together, our solutions impact the everyday lives of citizens and nations. In this ever-changing world, protecting your identity is paramount. Join the team that is ensuring one person - one identity.</p> <h2>Responsibilities</h2> <p>We are seeking a talented and enthusiastic Software Engineer Intern to join our team. As a Software Engineer Intern, you will work closely with our development team to design, develop, and maintain software applications with a focus on low-code, drag-and-drop interface environments. This internship will provide you with hands-on experience in software engineering and an opportunity to contribute to real-world projects that simplify digital transformation by streamlining data and task automation and improving data quality and governance.</p> <p>&nbsp;</p> <p><strong>Key Responsibilities</strong></p> <ul> <li>Assist in the design, development, and testing of low-code applications using drag-and-drop interface environments.</li> <li>Write clean, maintainable, and efficient code to enhance data and task automation.</li> <li>Collaborate with team members to gather requirements and provide technical solutions that improve data quality and governance.</li> <li>Participate in code reviews and provide constructive feedback.</li> <li>Debug and resolve software defects and issues.</li> <li>Contribute to the documentation of software features and functionality.</li> <li>Stay up-to-date with the latest industry trends and technologies related to low-code development.</li> </ul> <h2>Qualifications</h2> <p><strong>Required Qualifications</strong></p> <ul> <li>Currently pursuing a degree in Computer Science, Software Engineering, or a related field.</li> <li>Strong understanding of programming languages such as Java, Python, C++, or similar.</li> <li>Familiarity with low-code development platforms and drag-and-drop interface environments such as Boomi.</li> <li>Excellent problem-solving and analytical skills.</li> <li>Strong communication and teamwork abilities.</li> <li>Ability to work independently and manage multiple tasks effectively.</li> </ul> <p>&nbsp;</p> <p><strong>Preferred Qualifications</strong></p> <ul> <li>Experience with low-code development platforms such as Microsoft Power Apps, OutSystems, or similar.</li> <li>Knowledge of database systems and SQL.</li> <li>Previous internship or project experience in software development.</li> </ul>",
+      "job_apply_link": "https://uscareers-idemia.icims.com/jobs/8294/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-03T06:12:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "idemia-software-engineer-internship-summer-2026-reston",
+      "description_platform": "icims",
+      "description_success": true
+    },
+    "status": "enriched",
+    "addedAt": "2026-01-14T03:32:29.325Z",
+    "enrichedAt": "2026-01-14T03:32:42.614Z",
     "postedAt": null
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The R&D Engineering Co-op position is for our Product Engineering Group focused in the Commercialization Engineering or Process Engineering",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/2540039",
+      "fetchedAt": "2026-01-14T03:32:35.627Z"
+    }
+  },
+  "cachedAt": 1768361555627
+}
