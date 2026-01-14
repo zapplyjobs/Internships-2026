@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:54:21.097Z",
+  "lastUpdated": "2026-01-14T08:18:09.691Z",
   "jobs": [
     {
       "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
@@ -2993,14 +2993,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749908007?gh_jid=4749908007",
       "discordThreadId": "1460904846679871488",
       "instanceNumber": 1
+    },
+    {
+      "id": "bnp-paribas-technology-analyst-intern-jersey-city-2026-01-14-1",
+      "jobId": "bnp-paribas-technology-analyst-intern-jersey-city",
+      "company": "BNP Paribas",
+      "title": "Technology Analyst Intern",
+      "postedToDiscord": "2026-01-14T08:18:03.090Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "http://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+      "discordThreadId": "1460910809541513236",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bank-of-america-cybersecurity-intern-charlotte-2026-01-14-1",
+      "jobId": "bank-of-america-cybersecurity-intern-charlotte",
+      "company": "Bank of America",
+      "title": "Cybersecurity Intern",
+      "postedToDiscord": "2026-01-14T08:18:09.691Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12944/global-technology-summer-analyst-2026-cybersecurity-analyst-multiple-locations",
+      "discordThreadId": "1460910837865779285",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 272,
+    "totalJobs": 274,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T07:54:21.097Z",
+      "date": "2026-01-14T08:18:09.691Z",
       "archived": 0
     }
   }
