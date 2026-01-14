@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T17:19:55.321Z",
+  "lastUpdated": "2026-01-14T18:33:29.876Z",
   "jobs": [
-    {
-      "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
-      "jobId": "microsoft-software-engineer-applied-ai-ml-intern-washington",
-      "company": "Microsoft",
-      "title": "Software Engineer Applied AI/ML Intern",
-      "postedToDiscord": "2026-01-07T17:45:18.037Z",
-      "sourceDate": "2026-01-07T16:32:37.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556641992",
-      "discordThreadId": "1458516855294525624",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rolls-royce-bank-data-scientist-intern-salt-lake-city-2026-01-07-1",
-      "jobId": "rolls-royce-bank-data-scientist-intern-salt-lake-city",
-      "company": "Rolls Royce",
-      "title": "Bank Data Scientist Intern",
-      "postedToDiscord": "2026-01-07T17:45:21.940Z",
-      "sourceDate": "2026-01-07T16:30:40.000Z",
-      "sourceUrl": "https://jobs.bmwgroup.com/job/Salt-Lake-City-Intern,-Bank-Data-Scientist-2-Utah/1281090001/?ats=successfactors",
-      "discordThreadId": "1458516863649841391",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rtx-software-engineer-intern-aurora-2026-01-07-1",
-      "jobId": "rtx-software-engineer-intern-aurora",
-      "company": "RTX",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2026-01-07T17:45:28.608Z",
-      "sourceDate": "2026-01-07T16:17:46.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO106-16470-East-Hughes-DriveAurora-16470-East-Hughes-Drive-Building-S77-Aurora-CO-80011-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--CO-_01813965",
-      "discordThreadId": "1458516892451995906",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rtx-software-engineering-intern-anaheim-2026-01-07-1",
-      "jobId": "rtx-software-engineering-intern-anaheim",
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-07T17:45:32.231Z",
-      "sourceDate": "2025-09-16T23:17:36.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineering--Intern--Summer-2026---Onsite-_01793738",
-      "discordThreadId": "1458516907652284537",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-intern-wilton-2026-01-07-1",
-      "jobId": "asml-intern-wilton",
-      "company": "ASML",
-      "title": "Intern",
-      "postedToDiscord": "2026-01-07T18:18:12.975Z",
-      "sourceDate": "2026-01-07T16:37:56.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Computer-Vision-Techniques-for-Optical-Metrology_J-00332429",
-      "discordThreadId": "1458525132573114626",
-      "instanceNumber": 1
-    },
-    {
-      "id": "asml-intern-laser-computational-modeling-scientist-san-diego-2026-01-07-1",
-      "jobId": "asml-intern-laser-computational-modeling-scientist-san-diego",
-      "company": "ASML",
-      "title": "Intern - Laser Computational Modeling Scientist",
-      "postedToDiscord": "2026-01-07T18:18:12.980Z",
-      "sourceDate": "2026-01-07T16:37:45.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Laser-Computational-Modeling-Scientist_J-00331361",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "sanofi-digital-patient-experience-analytics-summer-fall-2026-co-op-cambridge-2026-01-08-1",
       "jobId": "sanofi-digital-patient-experience-analytics-summer-fall-2026-co-op-cambridge",
@@ -3136,15 +3070,27 @@
       "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
       "discordThreadId": "1461047176582135942",
       "instanceNumber": 1
+    },
+    {
+      "id": "brunswick-software-engineering-intern-fond-du-lac-2026-01-14-1",
+      "jobId": "brunswick-software-engineering-intern-fond-du-lac",
+      "company": "Brunswick",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-14T18:33:29.876Z",
+      "sourceDate": "2025-09-02T18:50:51.000Z",
+      "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427",
+      "discordThreadId": "1461065691850604687",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 285,
+    "totalJobs": 280,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T17:19:55.321Z",
-      "archived": 0
+      "date": "2026-01-14T18:33:29.876Z",
+      "archived": 6,
+      "monthsAffected": 1
     }
   }
 }
