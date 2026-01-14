@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.paccar.com/job/Mount-Vernon-Summer-Internship-2026-Advanced-Technology-WA-98273-9671/1283039201/?ats=successfactors",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Requisition Summary The PACCAR Summer Internship Program provides an opportunity to learn about PACCAR through a work assignment in our Advanced Technologies team. Each intern will be integrated into division and department meetings, activities and events to ensure an understanding of PACCAR and our truck brands Kenworth, Peterbilt and DAF. You will have the opportunity to make a meaningful contribution to our dynamic organization, while enhancing your resume. At the end of your internship, you have the opportunity to present your accomplishments to your fellow interns and senior management. PACCAR interns have a great deal of visibility within our company. Don’t miss out on an exciting opportunity! The PACCAR Technical Center is a state-of-the-art facility dedicated to the development and validation of emerging technologies such as vehicle electrification and autonomous driving systems. The PACCAR Technical Center is located in scenic Mt. Vernon, Washington, north of Seattle and south of Vancouver, British Columbia. Job Functions / Responsibilities The intern will work within the Advanced Technology team and contribute to the development of a Level 4 (L4) Advanced Driver-Assistance System. More specifically, the intern will focus on Machine learning based durability driver vehicle diagnostics. During the internship, the student will set up an approach for replacing one of the main functions of the driver (such as hearing, seeing, or feeling a truck response) with a set of sensors and signal monitoring processes, leveraging Machine Learning. The solution will be tested in collaboration with the Advanced Engineering team and the Advanced Technology team at the PACCAR Technical Center.Qualifications Willingness to work in cross-functional teams. Experience with machine learning desired. Experience with programming (Python, Matlab, etc.). Experience doing data postprocessing and data analysis. Hands-on, not afraid to work with sensors and trucks. Education Junior or higher standing toward an engineering degree PACCAR Benefits Undergraduate Students: $25.00/hour Graduate Students: $30.00/hour ​​​​​​Competitive salary and 401k with up to a 5% company match Medical, dental, and vision plans for you and your family Flexible spending accounts (FSA) and health savings accounts (HSA) EAP services: including wellness plans, estate planning, financial counseling, and more Global Fortune 500 company with a wide array of growth, training, and development opportunities Work alongside experienced goal-oriented colleagues recognized as experts in their field",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://jobs.paccar.com/job/Mount-Vernon-Summer-Internship-2026-Advanced-Technology-WA-98273-9671/1283039201/?ats=successfactors",
+      "fetchedAt": "2026-01-14T02:54:00.351Z"
+    }
+  },
+  "cachedAt": 1768359240351
+}
