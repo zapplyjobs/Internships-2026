@@ -19516,5 +19516,215 @@
     "job_title": "Mission Software – Internship - Python",
     "company": "Varda Space Industries",
     "first_seen": "2026-01-14T06:18:18.074Z"
+  },
+  "agzen-ai/ml/data-intern-cambridge": {
+    "assigned_date": "2026-01-14T07:05:58.404Z",
+    "job_title": "AI/ML/Data Intern",
+    "company": "AgZen",
+    "first_seen": "2026-01-14T07:05:58.404Z"
+  },
+  "goldman-sachs-corporate-and-workplace-solutions---summer-analyst-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Corporate and Workplace Solutions - Summer Analyst",
+    "company": "Goldman Sachs",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "connectprep-data-analyst-internship-westport": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Analyst Internship",
+    "company": "ConnectPrep",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "capital-one-current-master's---data-science-internship-mclean": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Current Master's - Data Science Internship",
+    "company": "Capital One",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "microsoft-data-science-redmond": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Science",
+    "company": "Microsoft",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "samsung-nlp-mountain-view": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "NLP",
+    "company": "Samsung",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "databricks-data-science-intern-mountain-view": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Science Intern",
+    "company": "Databricks",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "moog-artificial-intelligence-buffalo": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Artificial Intelligence",
+    "company": "Moog",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "borgwarner-data-science-intern-auburn-hills": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Science Intern",
+    "company": "BorgWarner",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "cultivarium-computer-vision-and-machine-learning-intern-watertown": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Computer Vision and Machine Learning Intern",
+    "company": "Cultivarium",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "new-york-life-technology-analyst-intern-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Technology Analyst Intern",
+    "company": "New York Life",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "capital-one-technology-internship-program---summer-2026-mclean": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Technology Internship Program - Summer 2026",
+    "company": "Capital One",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "bmw-group-product-development---telematics-&-connecteddrive-services-woodcliff-lake": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Product Development - Telematics & ConnectedDrive Services",
+    "company": "BMW Group",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "tencent-cloud-media-services-intern-palo-alto": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Cloud Media Services Intern",
+    "company": "Tencent",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "asana-data-science-intern-san-francisco": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Science Intern",
+    "company": "Asana",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "reality-defender-computer-vision-intern-global-remote": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Computer Vision Intern",
+    "company": "Reality Defender",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "hitachi-research-internship-–-ai-agents-for-industrial-applications-santa-clara": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Research Internship – AI Agents for Industrial Applications",
+    "company": "Hitachi",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "datavisor-software-engineer-mountain-view": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Software Engineer",
+    "company": "Datavisor",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "genworth-it-development-program-intern-richmond": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "IT Development Program Intern",
+    "company": "Genworth",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "a37-fullstack/mle-intern-san-francisco": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Fullstack/MLE Intern",
+    "company": "a37",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "kearney&co-data-analytics-internship-alexandria": {
+    "assigned_date": "2026-01-14T07:05:58.408Z",
+    "job_title": "Data Analytics Internship",
+    "company": "Kearney&Co",
+    "first_seen": "2026-01-14T07:05:58.408Z"
+  },
+  "blackrock-2026-summer-intern-atlanta": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "2026 Summer Intern",
+    "company": "Blackrock",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "bnp-paribas-summer-analyst-intern-jersey-city": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Summer Analyst Intern",
+    "company": "BNP Paribas",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "d.-e.-shaw-fundamental-research-analyst-intern-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Fundamental Research Analyst Intern",
+    "company": "D. E. Shaw",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "jane-street-tools-&-compilers-research-and-development-intern-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Tools & Compilers Research and Development Intern",
+    "company": "Jane Street",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "transmarket-group-devops/sre-intern-chicago": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "DevOps/SRE Intern",
+    "company": "TransMarket Group",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "abbott-it-intern-waukegan": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "IT Intern",
+    "company": "Abbott",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "bnp-paribas-technology-analyst-intern-jersey-city": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Technology Analyst Intern",
+    "company": "BNP Paribas",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "bank-of-america-cybersecurity-intern-charlotte": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Cybersecurity Intern",
+    "company": "Bank of America",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "morgan-stanley-2026-technology-summer-analyst-program-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "2026 Technology Summer Analyst Program",
+    "company": "Morgan Stanley",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "citadel-securities-launch-intern-miami": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Launch Intern",
+    "company": "Citadel Securities",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "tower-research-capital-ml-intern-new-york": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "ML Intern",
+    "company": "Tower Research Capital",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "bank-of-america-global-operations-development-summer-analyst-program-charlotte": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Global Operations Development Summer Analyst Program",
+    "company": "Bank of America",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "a37-member-of-technical-staff-intern-(winter-2025)-san-francisco": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Member of Technical Staff Intern (Winter 2025)",
+    "company": "a37",
+    "first_seen": "2026-01-14T07:05:58.409Z"
+  },
+  "a37-member-of-technical-staff-intern-(fall-2025)-san-francisco": {
+    "assigned_date": "2026-01-14T07:05:58.409Z",
+    "job_title": "Member of Technical Staff Intern (Fall 2025)",
+    "company": "a37",
+    "first_seen": "2026-01-14T07:05:58.409Z"
   }
 }

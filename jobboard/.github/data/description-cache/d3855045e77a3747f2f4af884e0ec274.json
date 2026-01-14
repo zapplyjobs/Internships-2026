@@ -1,0 +1,17 @@
+{
+  "url": "https://higher.gs.com/roles/150598",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "About the program Our Summer Analyst Program is a nine to ten week summer internship for students pursuing a bachelors / graduate degree. You will be fully immersed in our day-to-day activities. As a participant, you will: Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firmReceive training designed to help you succeedHave the opportunity to work on real responsibilities alongside fellow interns and our people Submitting Your Application Each applicant has the opportunity to apply to up to 4 separate business / location combinations in any given recruiting year. Any additional application will be auto withdrawn. In order to apply to an additional opportunity, you must withdraw a current application that has not been turned down.A single applicant should not create multiple email addresses to apply to additional opportunities About the division Corporate and Workplace Solutions delivers solutions that maximize the efficiency and productivity of our people. Our work enables our people every day, providing innovative workplace settings, tools and amenities to deliver on behalf of our clients. The remit of our team is to make sure every single aspect of workplace is created and delivered in a professional and safe manner. Our teams include Workplace Experience, the Office of Global Security, Chief Operating Officer, CWS Engineering and Regional Office Leadership. Our people come from a range of disciplines, including management, finance, hospitality, engineering, real estate, international relations, political science, law enforcement, security, communications and the arts and sciences. If you’re achievement-oriented, creative, at your best in a diverse team environment, challenged by managing multiple projects and motivated by tangible results, we invite you to consider joining our team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://higher.gs.com/roles/150598",
+      "fetchedAt": "2026-01-14T07:05:59.876Z"
+    }
+  },
+  "cachedAt": 1768374359876
+}

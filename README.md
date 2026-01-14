@@ -8,9 +8,9 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-12-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -37,7 +37,7 @@
 
 ---
 
-<p align="center">🚀 Real-time internships from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 11+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 7+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 12+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -75,9 +75,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 11 hot data-focused jobs
+- 🔥 **Current Positions:** 12 hot data-focused jobs
 - **🏢 Companies**: 7 companies
-- **⭐ FAANG+ Jobs**: 3 premium opportunities
+- **⭐ FAANG+ Jobs**: 4 premium opportunities
 - 📅 **Last Updated:** January 14, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 
@@ -121,20 +121,21 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### ⭐ **FAANG+** (3 positions)
+### ⭐ **FAANG+** (4 positions)
 
 #### 📦 **Amazon** (1 position)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 16h |
+| Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 17h |
 
-#### 🟦 **Microsoft** (2 positions)
+#### 🟦 **Microsoft** (3 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 4d |
 | Software Engineer Applied AI/ML Intern | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641992) | 6d |
+| Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 1h |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -142,7 +143,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Performance Engineering Intern - Deep Learning and HPC - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830) | 4h |
+| Performance Engineering Intern - Deep Learning and HPC - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830) | 5h |
 | Quantum Computing Software Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1) | 1d |
 | Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 1d |
 
@@ -190,7 +191,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 ### 🏢 Top Companies
 
 #### ⭐ FAANG+ (2 companies)
-🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
+🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (3 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
 
 #### ☁️ Enterprise & Cloud (2 companies)
 🌐 **[Cisco](https://jobs.cisco.com/jobs/SearchJobs)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (3)
@@ -202,19 +203,19 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Level               | Count | Percentage | Description                     |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 9 | 82% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 2 | 18% | 0-1 years of experience |
+| 🟢 Internships & Co-ops | 9 | 75% | Summer/Fall programs for students |
+| 🟡 New Grad Roles | 3 | 25% | 0-1 years of experience |
 | 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
 
 ---
 
 ### 🌍 Top Locations
 - **Santa Clara, CA**: 2 opportunities
+- **Redmond, WA**: 2 opportunities
 - **Boise, ID**: 2 opportunities
 - **Herdon, VA**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
 - **McLean, VA**: 1 opportunity
-- **Redmond, WA**: 1 opportunity
 - **Boston, MA**: 1 opportunity
 - **Washington, Locations**: 1 opportunity
 
@@ -222,7 +223,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ### 🔮 Why Students & New Grads Choose Our Platform
 
-✅ **100% Real Opportunities:** 11+ verified internships and new grad roles from 7 top companies.
+✅ **100% Real Opportunities:** 12+ verified internships and new grad roles from 7 top companies.
 <br>
 ✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
 <br>
@@ -303,13 +304,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1825 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1812 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1825 roles
-- **🏢 Companies**: 123 companies  
+- **📁 Total Positions**: 1812 roles
+- **🏢 Companies**: 150 companies  
 - **⭐ FAANG+ Opportunities**: 87 positions
 
 ### ⭐ **FAANG+** (87 positions)
@@ -472,7 +473,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | AI Engineer Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=) | 1mo |
 
-### 💻 **Enterprise Software** (21 positions)
+### 💻 **Enterprise Software** (20 positions)
 
 #### 🌐 **Cisco** (8 positions)
 
@@ -487,7 +488,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | AI Machine Learning Engineer 2 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000461) | 1mo |
 | AI Machine Learning Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000454) | 1mo |
 
-#### 🖥️ **Hewlett Packard Enterprise** (13 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (12 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -502,10 +503,9 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | AI Developer Intern - Undergrad | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 1mo |
 | AI Customer Engagement Analyst Intern | Andover, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 1mo |
 | Cloud Engineer Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192969EXTERNALENUS/Cloud-Engineer-Intern) | 1mo |
-| Firmware Engineer Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hpe.com/us/en/job/HPE1US1192958EXTERNALENUS/Firmware-Engineer-Intern) | 1mo |
 | Software Engineering Intern | Spring, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineering-Intern_1192961) | 1mo |
 
-### 🚀 **Startups & Growth** (17 positions)
+### 🚀 **Startups & Growth** (16 positions)
 
 #### 🛡️ **BAE Systems** (12 positions)
 
@@ -524,7 +524,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineering Intern | San Diego, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 1mo |
 | Software Engineering CO-OP | San Diego, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026) | 1mo |
 
-#### ⚙️ **General Dynamics** (5 positions)
+#### ⚙️ **General Dynamics** (4 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -532,7 +532,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Intern Software Engineer - Embedded Posted Date | Orlando, FL | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/67794/intern-software-engineer---embedded/job) | 1mo |
 | Software Engineer – Intern Conversion | Herndon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/67789/software-engineer-%e2%80%93-intern-conversion/job) | 1mo |
 | Intern Engineer | Fort Wayne, IN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://gdmissionsystems.com/careers/intern-engineer-ft-wayne-in-usa-2025-66946-opportunity) | 1mo |
-| Embedded Software Engineering Co-Op | Scottsdale, AZ | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers-gdms.icims.com/jobs/67268/embedded-software-engineering-co-op/job?mobile=false&width=1117&height=500&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420) | 1mo |
 
 ### 🛒 **Consumer & E-Commerce** (7 positions)
 
@@ -674,7 +673,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 <div align="center">
 
-**🎯 11 current opportunities from 7 top companies.**
+**🎯 12 current opportunities from 7 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
