@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T08:32:30.881Z",
+  "lastUpdated": "2026-01-14T14:12:27.996Z",
   "jobs": [
-    {
-      "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
-      "jobId": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia",
-      "company": "Fermilab",
-      "title": "Beam Instrumentation Software Engineering Co-op Position",
-      "postedToDiscord": "2026-01-07T08:51:14.943Z",
-      "sourceDate": "2026-01-07T07:15:39.000Z",
-      "sourceUrl": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Beam-Instrumentation-Software-Engineering-Co-op-Position_R_008485",
-      "discordThreadId": "1458382449905111060",
-      "instanceNumber": 1
-    },
-    {
-      "id": "southwest-airlines-technical-data-management-summer-2026-intern-dallas-2026-01-07-1",
-      "jobId": "southwest-airlines-technical-data-management-summer-2026-intern-dallas",
-      "company": "Southwest Airlines",
-      "title": "Technical Data Management Summer 2026 Intern",
-      "postedToDiscord": "2026-01-07T08:51:18.456Z",
-      "sourceDate": "2026-01-07T07:15:03.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Technical-Data-Management-Summer-2026-Intern_R-2025-61976",
-      "discordThreadId": "1458382464937365598",
-      "instanceNumber": 1
-    },
-    {
-      "id": "southwest-airlines-data-engineer-intern-dallas-2026-01-07-1",
-      "jobId": "southwest-airlines-data-engineer-intern-dallas",
-      "company": "Southwest Airlines",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2026-01-07T08:51:24.896Z",
-      "sourceDate": "2026-01-07T07:14:56.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineering-Summer-2026-Intern_R-2025-61975",
-      "discordThreadId": "1458382492342943826",
-      "instanceNumber": 1
-    },
-    {
-      "id": "toyota-research-institute-human-interactive-driving-intern-human-machine-interaction-research-mountain-view-2026-01-07-1",
-      "jobId": "toyota-research-institute-human-interactive-driving-intern-human-machine-interaction-research-mountain-view",
-      "company": "Toyota Research Institute",
-      "title": "Human Interactive Driving Intern - Human-Machine Interaction Research",
-      "postedToDiscord": "2026-01-07T12:59:55.787Z",
-      "sourceDate": "2025-10-27T14:28:51.000Z",
-      "sourceUrl": "https://jobs.lever.co/tri/3def58e8-1776-42eb-a644-c6aef922aa6a/apply",
-      "discordThreadId": "1458445032213446793",
-      "instanceNumber": 1
-    },
     {
       "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
       "jobId": "microsoft-software-engineer-applied-ai-ml-intern-washington",
@@ -3026,14 +2982,36 @@
       "sourceUrl": "https://morganstanley.tal.net/vx/candidate/apply/19159",
       "discordThreadId": "1460914450532925545",
       "instanceNumber": 1
+    },
+    {
+      "id": "tower-research-capital-ml-intern-new-york-2026-01-14-1",
+      "jobId": "tower-research-capital-ml-intern-new-york",
+      "company": "Tower Research Capital",
+      "title": "ML Intern",
+      "postedToDiscord": "2026-01-14T14:12:24.494Z",
+      "sourceDate": "2025-07-07T23:45:42.000Z",
+      "sourceUrl": "https://boards.greenhouse.io/embed/job_app?token=6651908&gh_src=be8ebc4b1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bank-of-america-global-operations-development-summer-analyst-program-charlotte-2026-01-14-1",
+      "jobId": "bank-of-america-global-operations-development-summer-analyst-program-charlotte",
+      "company": "Bank of America",
+      "title": "Global Operations Development Summer Analyst Program",
+      "postedToDiscord": "2026-01-14T14:12:27.996Z",
+      "sourceDate": "2025-07-07T23:44:47.000Z",
+      "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
+      "discordThreadId": "1461000002683015301",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 275,
+    "totalJobs": 273,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T08:32:30.881Z",
+      "date": "2026-01-14T14:12:27.996Z",
       "archived": 0
     }
   }

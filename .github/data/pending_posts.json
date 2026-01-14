@@ -694,10 +694,10 @@
       "description_platform": "greenhouse",
       "description_success": false
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T07:05:58.442Z",
     "enrichedAt": "2026-01-14T07:32:39.765Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T14:12:40.616Z"
   },
   {
     "job": {
@@ -714,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-14T07:05:58.442Z",
     "enrichedAt": "2026-01-14T07:32:39.765Z",
-    "postedAt": null
+    "postedAt": "2026-01-14T14:12:40.616Z"
   },
   {
     "job": {
