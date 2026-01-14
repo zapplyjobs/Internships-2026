@@ -1736,5 +1736,71 @@
     "sourceUrl": "https://careers-lmi.icims.com/jobs/13493/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1458243626357489861",
     "instanceNumber": 1
+  },
+  {
+    "id": "asml-intern-d4c-server-san-jose-2026-01-07-1",
+    "jobId": "asml-intern-d4c-server-san-jose",
+    "company": "ASML",
+    "title": "Intern - D4C Server",
+    "postedToDiscord": "2026-01-07T00:42:49.353Z",
+    "sourceDate": "2026-01-06T23:27:39.000Z",
+    "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---D4C-server_J-00327870",
+    "discordThreadId": "1458259530981838871",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kaiser-permanente-reporting-and-data-analytics-master-27s-intern-pasadena-2026-01-07-1",
+    "jobId": "kaiser-permanente-reporting-and-data-analytics-master-27s-intern-pasadena",
+    "company": "Kaiser Permanente",
+    "title": "Reporting and Data Analytics Master%27s Intern",
+    "postedToDiscord": "2026-01-07T00:42:55.755Z",
+    "sourceDate": "2026-01-06T23:20:14.000Z",
+    "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400648",
+    "discordThreadId": "1458259560883159040",
+    "instanceNumber": 1
+  },
+  {
+    "id": "zscaler-marketing-data-scientist-intern-san-jose-2026-01-07-1",
+    "jobId": "zscaler-marketing-data-scientist-intern-san-jose",
+    "company": "Zscaler",
+    "title": "Marketing Data Scientist Intern",
+    "postedToDiscord": "2026-01-07T00:43:02.577Z",
+    "sourceDate": "2026-01-06T23:16:29.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015430007",
+    "discordThreadId": "1458259588729012244",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bytedance-camera-and-computer-vision-development-intern-pico-2026-summer-phd-san-jose-2026-01-07-1",
+    "jobId": "bytedance-camera-and-computer-vision-development-intern-pico-2026-summer-phd-san-jose",
+    "company": "ByteDance",
+    "title": "Camera and Computer Vision Development Intern - Pico - 2026 Summer','PhD",
+    "postedToDiscord": "2026-01-07T00:43:08.980Z",
+    "sourceDate": "2026-01-06T23:15:31.000Z",
+    "sourceUrl": "https://jobs.bytedance.com/en/position/7592046406739921205/detail",
+    "discordThreadId": "1458259616457687130",
+    "instanceNumber": 1
+  },
+  {
+    "id": "at-t-data-science-intern-plano-2026-01-07-1",
+    "jobId": "at-t-data-science-intern-plano",
+    "company": "AT&T",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2026-01-07T00:43:12.579Z",
+    "sourceDate": "2025-11-28T03:03:45.000Z",
+    "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTCollegeSpecialInvite/job/Plano-Texas/Data-Science-Internship_R-82840",
+    "discordThreadId": "1458259631309717514",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dun-bradstreet-2026-summer-internship-program-technology-jacksonville-2026-01-07-1",
+    "jobId": "dun-bradstreet-2026-summer-internship-program-technology-jacksonville",
+    "company": "Dun & Bradstreet",
+    "title": "2026 Summer Internship Program - Technology",
+    "postedToDiscord": "2026-01-07T00:43:15.974Z",
+    "sourceDate": "2025-09-04T23:42:34.000Z",
+    "sourceUrl": "https://jobs.lever.co/dnb/c66c61a1-6121-4ab1-884e-688799660558/apply",
+    "discordThreadId": "1458259645633400913",
+    "instanceNumber": 1
   }
 ]
