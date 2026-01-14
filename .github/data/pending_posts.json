@@ -661,46 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Launch Intern",
-      "employer_name": "Citadel Securities",
-      "job_city": "Miami",
-      "job_state": "FL",
-      "job_description": "<div>The Launch Internship is an eleven-week paid internship program for students aspiring to be engineers and seeking an opportunity learn about the finance industry. </div><div><br /></div><div>As a Launch Intern, you will join us in a premier destination of learning and mentorship. During the 11-week program, you will be immersed in the finance industry, collaborating with experienced engineers on projects that have impact on our firms and global capital markets. You will have the opportunity to network and socialize with peers and even connect with senior leaders at Citadel Securities. </div><div><br /></div><div>At Citadel Securities, our engineers work in small teams to turn the best ideas into high-performing and resilient technology. With short development cycles, work rapidly goes into production. As an engineer, you can create systems architectures, develop platforms and build web frameworks. You’ll have access to state-of-the-art tools and apply innovative techniques including distributed computing, natural language processing, machine learning and more.</div><div><br /></div><div><br /></div><div><b>Your Objectives:</b></div><ul><li>Aid in creating technological tools that bring investing and trading strategies to life </li><li>Work on high-performance, large data research platforms </li><li>Collaborate in small teams to help build the future of finance </li><li>Be immersed in the industry and see how tech is applied in finance </li><li>Learn and grow personally and professionally through project work and curated development programming </li></ul><div><br /></div><div><b>Your Skills &amp; Talents:</b></div><ul><li>Currently a sophomore pursuing a bachelor’s degree in Computer Science, Computer Engineering, or STEM related field</li><li>Intermediate proficiency in at least one coding language </li><li>Ability to communicate effectively in a collaborative, complex and highly technical team environment </li><li>Intellectual curiosity and passion for solving challenging problems using technology </li></ul><div><br /></div><div>Because Citadel Securities is committed to an inclusive, respectful workplace culture, all candidates are welcome to apply. Candidates who have an ability to bring a diverse perspective to the firm as a result of their adaptability, cultural fluency, resilience, and life experiences are strongly encouraged to apply.</div><div><br /></div><div>Opportunities available in Miami, New York.</div><br><div><br/> <i><br/> In accordance with applicable law, the base salary range for this role is $4,300 to $4,800 per week.</i></div>",
-      "job_apply_link": "https://www.citadelsecurities.com/careers/details/launch-intern-us/",
-      "job_posted_at_datetime_utc": "2025-07-08T01:38:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "citadel-securities-launch-intern-miami",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-14T07:05:58.442Z",
-    "enrichedAt": "2026-01-14T07:32:39.765Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Member of Technical Staff Intern (Winter 2025)",
-      "employer_name": "a37",
-      "job_city": "San Francisco",
-      "job_state": "CA",
-      "job_description": "a37 is an AI research and product lab training fully autonomous DevOps engineers. Today’s DevOps landscape is a patchwork of disconnected, hard-to-manage tools. The resulting operational tax causes org wide issues: heightened security risk, rising cloud spend, and slower release cycles. The rise of AI software engineering agents has exacerbated these issues, causing more stress on DevOps teams than ever before. This isn't just inefficient—it's unsustainable. The current approach to DevOps will inevitably collapse under its own weight. Our team is a tight-knit group of second time technical founders with deep experience across AI and infrastructure. We work to win.",
-      "job_apply_link": "https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903",
-      "job_posted_at_datetime_utc": "2025-06-18T00:04:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "a37-member-of-technical-staff-intern-winter-2025-san-francisco",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-14T07:05:58.442Z",
-    "enrichedAt": "2026-01-14T07:32:39.765Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Member of Technical Staff Intern (Fall 2025)",
       "employer_name": "a37",
       "job_city": "San Francisco",
@@ -792,26 +752,6 @@
       "job_posted_at": "1h",
       "id": "westinghouse-electric-company-independent-verification-validation-intern-grove-city",
       "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-14T14:44:37.491Z",
-    "enrichedAt": "2026-01-14T14:44:53.077Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data Science & Analytics Intern",
-      "employer_name": "Benjamin Moore",
-      "job_city": "Mahwah",
-      "job_state": "NJ",
-      "job_description": "<h2>Overview</h2> <h3>This is a unique opportunity to gain broad, hands-on experience across Data Science and Advanced Analytics, while working on high-impact projects with visibility to key business stakeholders.&nbsp;The Data Science &amp; Analytics Intern will support both technical model development and business analytics, translating complex business problems into data-driven insights, models, and compelling narratives. This role is designed for candidates who can operate at the intersection of analytics, data science, and business communication.&nbsp;During recruitment, we are seeking candidates with a strong quantitative foundation who can flex between exploratory analytics, statistical modeling, machine learning, and clear storytelling for business audiences. Interns may be deployed across multiple areas of the analytics and data science team based on project needs.&nbsp;</h3> <h3>Reporting Structure</h3> <h3>The Data Science &amp; Analytics Intern will report to the Data Analytics Manager within Financial Planning and Analysis Department.</h3> <p>Click here to see how you can paint your future!</p> <p>&nbsp;</p> <h3>&nbsp;</h3> <h2>Responsibilities</h2> <ul> <li>Perform quantitative and exploratory analysis across business and financial domains, including data mining, statistical analysis, and model development</li> <li>Translate ambiguous business questions into structured analytical approaches, data pipelines, and model frameworks</li> <li>Generate and test hypotheses using appropriate statistical, econometric, or experimental designs and extract actionable insights</li> <li>Develop, train, evaluate, and maintain predictive and machine learning models (regression, classification, clustering, time series, etc.)</li> <li>Support the design and development of Generative AI solutions and AI agents using Large Language Models (LLMs)</li> <li>Assist in building end-to-end data pipelines, from data ingestion and preparation to modeling, validation, and deployment</li> <li>Produce analytical reports, dashboards, and visualizations that highlight trends, drivers, and performance against KPIs</li> <li>Convert technical findings into clear, business-ready narratives and recommendations for senior leadership</li> <li>Partner with business stakeholders to present insights, answer questions, and support decision-making</li> <li>Document methodologies, assumptions, results, and recommendations to ensure transparency and reusability</li> <li>Identify opportunities for process improvement, automation, and advanced analytics across the organization</li> <li>Demonstrate willingness to learn new tools, technologies, and techniques in a rapidly evolving analytics environment</li> </ul> <h2>Qualifications</h2> <ul> <li>Currently pursuing a <strong>BA/BS or MS</strong> in Economics, Statistics, Data Science, Computer Science, Mathematics, or another quantitative discipline</li> <li>Strong foundation in statistics, econometrics, experimental design, and analytical problem-solving</li> <li>Ability to flex between <strong>Data Science (modeling, ML, AI)</strong> and <strong>Analytics (EDA, reporting, insights)</strong> based on business needs</li> <li>Proficiency in <strong>Python or R</strong>, with experience using libraries such as pandas, scikit-learn, TensorFlow, PyTorch, PySpark, or similar</li> <li>Experience with data querying and manipulation using <strong>SQL</strong></li> <li>Familiarity with cloud and data platforms such as <strong>Azure ML, Snowflake, or Google Analytics</strong></li> </ul> <p><strong>Compensation Philosophy</strong></p> <p>At Benjamin Moore, our brand represents excellence, and we strive to provide a comprehensive total rewards package to match. In addition to a competitive base salary, every exempt and non-exempt role in our organization is eligible for a performance-based annual raise and bonus in recognition of their efforts that contribute to the success of our organization. We conduct regular pay audits using external market data and internal comparisons to ensure our employees are compensated fairly and equitably.</p> <p>&nbsp;</p> <p>The salary range listed herein refers to the amount the Company is willing to pay at the time of posting. The actual salary offer will be carefully considered based on a wide range of factors, including your skills, qualifications, experience, job location, and other relevant factors.</p> <p>&nbsp;</p> <p>In addition to our monetary compensation package, Benjamin Moore provides a full range of benefits that are personalized to support you physically, financially, and emotionally, through both the big milestones and in your everyday life.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Benefits include, but are not limited to, the following:</p> <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medical/Dental/Vision</p> <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 401 (k) match</p> <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PTO starting at 3 weeks' vacation + (7) paid holidays and (5) personal days</p> <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Employer-paid life insurance</p> <p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuition reimbursement</p> <p>&nbsp;</p> <p>You can view the complete benefits package by clicking the following link:&nbsp;</p> <p>&nbsp;</p> <p>https://www.benjaminmoore.com/en-us/benjamin-moore-careers?targetid=row-benefits-summary</p> <p>&nbsp;</p> <p><strong>Engagement, Inclusion + Social Impact</strong></p> <p>At Benjamin Moore, we don't just accept difference — we celebrate it, support it, and thrive because it benefits our employees, customers, and community. We remain steadfast in our commitment to cultivating an environment where all are provided the tools and opportunities to thrive in the workplace. Our efforts allow each of us to authentically live our corporate values of Openness, Integrity, Community, Excellence, and Safety.</p> <p>Our Social Impact initiatives, including strategic partnerships, in-kind donations, and volunteerism, further amplify our ability to positively impact the lives of our stakeholders. We believe that fostering a culture of inclusion and belonging is the right thing to do&nbsp;and essential for our continued success.</p> <p>&nbsp;</p> <p><strong>Student Loan Repayment Assistance Program</strong></p> <p>Benjamin Moore provides Student Loan Repayment Assistance Program to support eligible active employees who graduated from an accredited post-secondary educational institution. The Repayment Program is intended to contribute to reducing employee's student loans. The Company follows all rules and regulations concerning the taxability of student loan repayments provided under applicable law.</p> <p>&nbsp;</p> <p><strong>EOE</strong></p> <p>Benjamin Moore is an equal-opportunity employer that is committed to a culture of inclusion and belonging. We do not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, disability, national origin, veteran status, or any other basis covered by appropriate law. Our commitment to these principles means all employment decisions are made based on qualifications, merit, and business needs</p> <p>&nbsp;</p> <h2>Pay Range </h2>USD $18.00 - USD $20.00 /Yr.",
-      "job_apply_link": "https://careers-benjaminmoore.icims.com/jobs/2224/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-11-20T19:21:08.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "benjamin-moore-data-science-analytics-intern-mahwah",
-      "description_platform": "icims",
       "description_success": true
     },
     "status": "enriched",
