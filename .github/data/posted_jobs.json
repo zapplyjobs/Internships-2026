@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T15:55:15.433Z",
+  "lastUpdated": "2026-01-14T17:19:55.321Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
@@ -3070,14 +3070,80 @@
       "sourceUrl": "https://careers-aerotek.icims.com/jobs/13003/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461025869920207023",
       "instanceNumber": 1
+    },
+    {
+      "id": "a37-member-of-technical-staff-intern-fall-2025-san-francisco-2026-01-14-1",
+      "jobId": "a37-member-of-technical-staff-intern-fall-2025-san-francisco",
+      "company": "a37",
+      "title": "Member of Technical Staff Intern (Fall 2025)",
+      "postedToDiscord": "2026-01-14T17:19:27.793Z",
+      "sourceDate": "2025-06-17T23:54:41.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/a37/98b9fa73-1a6d-4aca-b1e0-67bb078f0265",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "charles-schwab-model-risk-oversight-research-and-development-lone-tree-2026-01-14-1",
+      "jobId": "charles-schwab-model-risk-oversight-research-and-development-lone-tree",
+      "company": "Charles Schwab",
+      "title": "Model Risk Oversight-Research and Development",
+      "postedToDiscord": "2026-01-14T17:19:31.272Z",
+      "sourceDate": "2026-01-09T23:09:01.000Z",
+      "sourceUrl": "https://career-schwab.icims.com/jobs/114753/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461047076291874898",
+      "instanceNumber": 1
+    },
+    {
+      "id": "westinghouse-electric-company-independent-verification-validation-intern-grove-city-2026-01-14-1",
+      "jobId": "westinghouse-electric-company-independent-verification-validation-intern-grove-city",
+      "company": "Westinghouse Electric Company",
+      "title": "Independent Verification & Validation Intern",
+      "postedToDiscord": "2026-01-14T17:19:37.845Z",
+      "sourceDate": "2025-12-10T23:12:42.000Z",
+      "sourceUrl": "https://careers.westinghousenuclear.com/job/Warrendale-Independent-Verification-&-Validation-Intern-Summer-2026-OR/1321306900/?ats=successfactors",
+      "discordThreadId": "1461047103676616744",
+      "instanceNumber": 1
+    },
+    {
+      "id": "scientific-research-software-developer-intern-north-charleston-2026-01-14-1",
+      "jobId": "scientific-research-software-developer-intern-north-charleston",
+      "company": "Scientific Research Corporation",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2026-01-14T17:19:44.539Z",
+      "sourceDate": "2026-01-08T23:34:02.000Z",
+      "sourceUrl": "https://careers-scires.icims.com/jobs/10745/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461047131434647612",
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-johnson-technology-2026-summer-internship-new-hope-2026-01-14-1",
+      "jobId": "johnson-johnson-technology-2026-summer-internship-new-hope",
+      "company": "Johnson & Johnson",
+      "title": "Technology 2026 Summer Internship",
+      "postedToDiscord": "2026-01-14T17:19:51.820Z",
+      "sourceDate": "2025-08-25T06:46:49.000Z",
+      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2026-Summer-Internship_R-029613",
+      "discordThreadId": "1461047159880155167",
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-johnson-technology-fall-co-op-new-hope-2026-01-14-1",
+      "jobId": "johnson-johnson-technology-fall-co-op-new-hope",
+      "company": "Johnson & Johnson",
+      "title": "Technology Fall Co-Op",
+      "postedToDiscord": "2026-01-14T17:19:55.321Z",
+      "sourceDate": "2025-08-25T06:46:47.000Z",
+      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/US174-NJ-New-Brunswick---410-George-St/Technology-2026-Fall-Co-Op_R-029591",
+      "discordThreadId": "1461047176582135942",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 279,
+    "totalJobs": 285,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T15:55:15.433Z",
+      "date": "2026-01-14T17:19:55.321Z",
       "archived": 0
     }
   }
