@@ -2000,5 +2000,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/newsbreak/jobs/4638840006",
     "discordThreadId": "1458299849740124212",
     "instanceNumber": 1
+  },
+  {
+    "id": "amazon-software-development-engineer-intern-boston-2026-01-07-1",
+    "jobId": "amazon-software-development-engineer-intern-boston",
+    "company": "Amazon",
+    "title": "Software Development Engineer Intern",
+    "postedToDiscord": "2026-01-07T03:55:03.831Z",
+    "sourceDate": "2026-01-06T23:22:00.000Z",
+    "sourceUrl": "https://amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans",
+    "discordThreadId": "1458307912450572309",
+    "instanceNumber": 1
+  },
+  {
+    "id": "great-american-insurance-company-paired-programming-developer-claims-lab-intern-cincinnati-2026-01-07-1",
+    "jobId": "great-american-insurance-company-paired-programming-developer-claims-lab-intern-cincinnati",
+    "company": "Great American Insurance Company",
+    "title": "Paired Programming Developer - Claims Lab Intern",
+    "postedToDiscord": "2026-01-07T03:55:07.165Z",
+    "sourceDate": "2026-01-06T23:21:49.000Z",
+    "sourceUrl": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Application-Paired-Programming-Developer-Claims-Lab-Intern_R8238-1",
+    "discordThreadId": "1458307927311126764",
+    "instanceNumber": 1
+  },
+  {
+    "id": "masimo-2026-summer-intern-software-engineering-irvine-2026-01-07-1",
+    "jobId": "masimo-2026-summer-intern-software-engineering-irvine",
+    "company": "Masimo",
+    "title": "2026 Summer Intern - Software Engineering",
+    "postedToDiscord": "2026-01-07T03:55:10.618Z",
+    "sourceDate": "2026-01-06T23:20:57.000Z",
+    "sourceUrl": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3588",
+    "discordThreadId": "1458307941248667691",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kaiser-permanente-analytics-bachelor-intern-remote-in-usa-2026-01-07-1",
+    "jobId": "kaiser-permanente-analytics-bachelor-intern-remote-in-usa",
+    "company": "Kaiser Permanente",
+    "title": "Analytics Bachelor Intern",
+    "postedToDiscord": "2026-01-07T03:55:14.029Z",
+    "sourceDate": "2026-01-06T23:20:47.000Z",
+    "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400321",
+    "discordThreadId": "1458307956121665619",
+    "instanceNumber": 1
+  },
+  {
+    "id": "dairyland-power-cooperative-intern-gis-la-crosse-wi-winona-2026-01-07-1",
+    "jobId": "dairyland-power-cooperative-intern-gis-la-crosse-wi-winona",
+    "company": "Dairyland Power Cooperative",
+    "title": "Intern – GIS - La Crosse - WI",
+    "postedToDiscord": "2026-01-07T03:55:17.377Z",
+    "sourceDate": "2026-01-06T23:20:37.000Z",
+    "sourceUrl": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/Intern--GIS--La-Crosse--WI-_JR100862",
+    "discordThreadId": "1458307970134835411",
+    "instanceNumber": 1
+  },
+  {
+    "id": "catalent-summer-2026-intern-engineering-madison-2026-01-07-1",
+    "jobId": "catalent-summer-2026-intern-engineering-madison",
+    "company": "Catalent",
+    "title": "Summer 2026: Intern - Engineering",
+    "postedToDiscord": "2026-01-07T03:55:20.730Z",
+    "sourceDate": "2025-10-22T06:55:22.000Z",
+    "sourceUrl": "https://catalent.wd1.myworkdayjobs.com/external/job/Madison-WI/Summer-2026--Intern---Engineering_0091237",
+    "discordThreadId": "1458307984189821001",
+    "instanceNumber": 1
+  },
+  {
+    "id": "johnson-johnson-software-engineering-co-op-xena-developer-experience-bridgewater-township-2026-01-07-1",
+    "jobId": "johnson-johnson-software-engineering-co-op-xena-developer-experience-bridgewater-township",
+    "company": "Johnson & Johnson",
+    "title": "Software Engineering Co-Op - XENA Developer Experience",
+    "postedToDiscord": "2026-01-07T03:55:24.095Z",
+    "sourceDate": "2025-10-13T07:22:21.000Z",
+    "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/J-J-Technology-XENA-Software-Engineering-Off-Cycle-Co-Op---March-to-September-2026_R-036152",
+    "discordThreadId": "1458307997817114739",
+    "instanceNumber": 1
+  },
+  {
+    "id": "abacus-insights-data-engineer-intern-remote-in-usa-2026-01-07-1",
+    "jobId": "abacus-insights-data-engineer-intern-remote-in-usa",
+    "company": "Abacus Insights",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2026-01-07T03:55:30.602Z",
+    "sourceDate": "2026-01-06T23:20:18.000Z",
+    "sourceUrl": "https://boards.greenhouse.io/abacusinsights/jobs/8360098002",
+    "discordThreadId": "1458308024836948113",
+    "instanceNumber": 1
+  },
+  {
+    "id": "shure-software-engineering-intern-morton-grove-2026-01-07-1",
+    "jobId": "shure-software-engineering-intern-morton-grove",
+    "company": "Shure",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2026-01-07T03:55:37.151Z",
+    "sourceDate": "2025-09-10T23:31:41.000Z",
+    "sourceUrl": "https://careersus-shure.icims.com/jobs/4438/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1458308052351455276",
+    "instanceNumber": 1
   }
 ]
