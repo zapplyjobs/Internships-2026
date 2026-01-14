@@ -1,10 +1,4 @@
 {
-  "salesforce-ai-forward-deployed-engineer-(early-career)-bellevue": {
-    "assigned_date": "2025-11-15T21:13:57.032Z",
-    "job_title": "AI Forward Deployed Engineer (Early Career)",
-    "company": "Salesforce",
-    "first_seen": "2025-11-15T21:13:57.032Z"
-  },
   "micron-technology-intern---dry-etch-process-development-boise": {
     "assigned_date": "2025-11-17T13:05:26.219Z",
     "job_title": "Intern - Dry Etch Process Development",
@@ -19780,5 +19774,23 @@
     "job_title": "Software Engineering Intern",
     "company": "Brunswick",
     "first_seen": "2026-01-14T18:18:24.214Z"
+  },
+  "fifth-third-bank-software-engineer-co-op---enterprise-finance-applications---fall-2026-cincinnati": {
+    "assigned_date": "2026-01-14T21:17:10.176Z",
+    "job_title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
+    "company": "Fifth Third Bank",
+    "first_seen": "2026-01-14T21:17:10.176Z"
+  },
+  "fifth-third-bank-enterprise-data-office-college-co-op---fall-2026---cincinnati-cincinnati": {
+    "assigned_date": "2026-01-14T21:17:10.176Z",
+    "job_title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
+    "company": "Fifth Third Bank",
+    "first_seen": "2026-01-14T21:17:10.176Z"
+  },
+  "jones-lang-lasalle-(jll)-technology-analyst-intern-phoenix": {
+    "assigned_date": "2026-01-14T21:17:10.176Z",
+    "job_title": "Technology Analyst Intern",
+    "company": "Jones Lang LaSalle (JLL)",
+    "first_seen": "2026-01-14T21:17:10.176Z"
   }
 }
