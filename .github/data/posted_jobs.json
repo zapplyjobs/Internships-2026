@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T14:12:27.996Z",
+  "lastUpdated": "2026-01-14T15:18:28.062Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
@@ -3004,14 +3004,47 @@
       "sourceUrl": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
       "discordThreadId": "1461000002683015301",
       "instanceNumber": 1
+    },
+    {
+      "id": "citadel-securities-launch-intern-miami-2026-01-14-1",
+      "jobId": "citadel-securities-launch-intern-miami",
+      "company": "Citadel Securities",
+      "title": "Launch Intern",
+      "postedToDiscord": "2026-01-14T15:18:18.184Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://www.citadelsecurities.com/careers/details/launch-intern-us/",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "benjamin-moore-data-science-analytics-intern-mahwah-2026-01-14-1",
+      "jobId": "benjamin-moore-data-science-analytics-intern-mahwah",
+      "company": "Benjamin Moore",
+      "title": "Data Science & Analytics Intern",
+      "postedToDiscord": "2026-01-14T15:18:21.702Z",
+      "sourceDate": "2025-11-20T19:21:08.000Z",
+      "sourceUrl": "https://careers-benjaminmoore.icims.com/jobs/2224/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461016584972668931",
+      "instanceNumber": 1
+    },
+    {
+      "id": "a37-member-of-technical-staff-intern-winter-2025-san-francisco-2026-01-14-1",
+      "jobId": "a37-member-of-technical-staff-intern-winter-2025-san-francisco",
+      "company": "a37",
+      "title": "Member of Technical Staff Intern (Winter 2025)",
+      "postedToDiscord": "2026-01-14T15:18:28.062Z",
+      "sourceDate": "2025-06-18T00:04:51.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/a37/17ccb1e3-1a46-4a58-b446-ddb544d8b903",
+      "discordThreadId": "1461016612655333623",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 273,
+    "totalJobs": 276,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T14:12:27.996Z",
+      "date": "2026-01-14T15:18:28.062Z",
       "archived": 0
     }
   }
