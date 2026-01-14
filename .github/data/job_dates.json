@@ -19756,5 +19756,23 @@
     "job_title": "Sales Intern",
     "company": "Aerotek",
     "first_seen": "2026-01-14T14:44:37.448Z"
+  },
+  "scientific-research-corporation-software-developer-intern-north-charleston": {
+    "assigned_date": "2026-01-14T17:19:12.071Z",
+    "job_title": "Software Developer Intern",
+    "company": "Scientific Research Corporation",
+    "first_seen": "2026-01-14T17:19:12.071Z"
+  },
+  "johnson-&-johnson-technology-2026-summer-internship-new-hope": {
+    "assigned_date": "2026-01-14T17:19:12.079Z",
+    "job_title": "Technology 2026 Summer Internship",
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-01-14T17:19:12.079Z"
+  },
+  "johnson-&-johnson-technology-fall-co-op-new-hope": {
+    "assigned_date": "2026-01-14T17:19:12.079Z",
+    "job_title": "Technology Fall Co-Op",
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-01-14T17:19:12.079Z"
   }
 }
