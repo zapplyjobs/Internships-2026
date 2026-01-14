@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T15:43:36.616Z",
+  "lastUpdated": "2026-01-14T15:55:15.433Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-applied-ai-ml-intern-washington-2026-01-07-1",
@@ -3059,14 +3059,25 @@
       "sourceUrl": "https://claytonhomes.wd1.myworkdayjobs.com/ClaytonCareers/job/Maryville-TN/Consumer-Insights-Intern_JR126944",
       "discordThreadId": "1461022939460931595",
       "instanceNumber": 1
+    },
+    {
+      "id": "aerotek-sales-intern-overland-park-2026-01-14-1",
+      "jobId": "aerotek-sales-intern-overland-park",
+      "company": "Aerotek",
+      "title": "Sales Intern",
+      "postedToDiscord": "2026-01-14T15:55:15.433Z",
+      "sourceDate": "2025-11-18T23:18:42.000Z",
+      "sourceUrl": "https://careers-aerotek.icims.com/jobs/13003/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461025869920207023",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 278,
+    "totalJobs": 279,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T15:43:36.616Z",
+      "date": "2026-01-14T15:55:15.433Z",
       "archived": 0
     }
   }
