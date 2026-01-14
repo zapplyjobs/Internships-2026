@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-13T23:45:11.973Z",
+  "lastUpdated": "2026-01-14T02:02:52.949Z",
   "jobs": [
-    {
-      "id": "asml-intern-d4c-server-san-jose-2026-01-07-1",
-      "jobId": "asml-intern-d4c-server-san-jose",
-      "company": "ASML",
-      "title": "Intern - D4C Server",
-      "postedToDiscord": "2026-01-07T00:42:49.353Z",
-      "sourceDate": "2026-01-06T23:27:39.000Z",
-      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---D4C-server_J-00327870",
-      "discordThreadId": "1458259530981838871",
-      "instanceNumber": 1
-    },
-    {
-      "id": "kaiser-permanente-reporting-and-data-analytics-master-27s-intern-pasadena-2026-01-07-1",
-      "jobId": "kaiser-permanente-reporting-and-data-analytics-master-27s-intern-pasadena",
-      "company": "Kaiser Permanente",
-      "title": "Reporting and Data Analytics Master%27s Intern",
-      "postedToDiscord": "2026-01-07T00:42:55.755Z",
-      "sourceDate": "2026-01-06T23:20:14.000Z",
-      "sourceUrl": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1400648",
-      "discordThreadId": "1458259560883159040",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zscaler-marketing-data-scientist-intern-san-jose-2026-01-07-1",
-      "jobId": "zscaler-marketing-data-scientist-intern-san-jose",
-      "company": "Zscaler",
-      "title": "Marketing Data Scientist Intern",
-      "postedToDiscord": "2026-01-07T00:43:02.577Z",
-      "sourceDate": "2026-01-06T23:16:29.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015430007",
-      "discordThreadId": "1458259588729012244",
-      "instanceNumber": 1
-    },
-    {
-      "id": "bytedance-camera-and-computer-vision-development-intern-pico-2026-summer-phd-san-jose-2026-01-07-1",
-      "jobId": "bytedance-camera-and-computer-vision-development-intern-pico-2026-summer-phd-san-jose",
-      "company": "ByteDance",
-      "title": "Camera and Computer Vision Development Intern - Pico - 2026 Summer','PhD",
-      "postedToDiscord": "2026-01-07T00:43:08.980Z",
-      "sourceDate": "2026-01-06T23:15:31.000Z",
-      "sourceUrl": "https://jobs.bytedance.com/en/position/7592046406739921205/detail",
-      "discordThreadId": "1458259616457687130",
-      "instanceNumber": 1
-    },
-    {
-      "id": "at-t-data-science-intern-plano-2026-01-07-1",
-      "jobId": "at-t-data-science-intern-plano",
-      "company": "AT&T",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-07T00:43:12.579Z",
-      "sourceDate": "2025-11-28T03:03:45.000Z",
-      "sourceUrl": "https://att.wd1.myworkdayjobs.com/ATTCollegeSpecialInvite/job/Plano-Texas/Data-Science-Internship_R-82840",
-      "discordThreadId": "1458259631309717514",
-      "instanceNumber": 1
-    },
-    {
-      "id": "dun-bradstreet-2026-summer-internship-program-technology-jacksonville-2026-01-07-1",
-      "jobId": "dun-bradstreet-2026-summer-internship-program-technology-jacksonville",
-      "company": "Dun & Bradstreet",
-      "title": "2026 Summer Internship Program - Technology",
-      "postedToDiscord": "2026-01-07T00:43:15.974Z",
-      "sourceDate": "2025-09-04T23:42:34.000Z",
-      "sourceUrl": "https://jobs.lever.co/dnb/c66c61a1-6121-4ab1-884e-688799660558/apply",
-      "discordThreadId": "1458259645633400913",
-      "instanceNumber": 1
-    },
     {
       "id": "premier-software-engineer-intern-charlotte-2026-01-07-1",
       "jobId": "premier-software-engineer-intern-charlotte",
@@ -2729,14 +2663,113 @@
       "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026--Network-Research-Intern--Onsite-_01803759",
       "discordThreadId": "1460781747523555480",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
+      "jobId": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Applied AI Engineer - Agents & Evaluation",
+      "postedToDiscord": "2026-01-14T02:02:18.130Z",
+      "sourceDate": "2026-01-13T23:47:09.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---DDC---Applied-AI-Engineer---Agents---Evaluation_202601-100648",
+      "discordThreadId": "1460816250619039795",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-technology-and-business-intelligence-intern-charlotte-2026-01-14-1",
+      "jobId": "jones-lang-lasalle-jll-technology-and-business-intelligence-intern-charlotte",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Technology and Business Intelligence Intern",
+      "postedToDiscord": "2026-01-14T02:02:21.473Z",
+      "sourceDate": "2026-01-13T23:41:03.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Technology-and-Business-Intelligence-Summer-2026-Internship---Charlotte--NC_REQ478660-1",
+      "discordThreadId": "1460816264959234191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "donaldson-company-ai-data-science-intern-innovative-business-technology-bloomington-2026-01-14-1",
+      "jobId": "donaldson-company-ai-data-science-intern-innovative-business-technology-bloomington",
+      "company": "Donaldson Company",
+      "title": "AI & Data Science Intern - Innovative Business Technology",
+      "postedToDiscord": "2026-01-14T02:02:25.087Z",
+      "sourceDate": "2026-01-13T23:39:13.000Z",
+      "sourceUrl": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/AI---Data-Science-Intern---Innovative-Business-Technology_JR-25170",
+      "discordThreadId": "1460816279131914250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "audax-ai-engineer-business-solutions-co-op-boston-2026-01-14-1",
+      "jobId": "audax-ai-engineer-business-solutions-co-op-boston",
+      "company": "Audax Group",
+      "title": "AI Engineer – Business Solutions Co-Op",
+      "postedToDiscord": "2026-01-14T02:02:28.719Z",
+      "sourceDate": "2026-01-13T23:37:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649017005",
+      "discordThreadId": "1460816294805901495",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lexisnexis-risk-data-scientist-intern-alpharetta-2026-01-14-1",
+      "jobId": "lexisnexis-risk-data-scientist-intern-alpharetta",
+      "company": "LexisNexis Risk Solutions",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-14T02:02:32.114Z",
+      "sourceDate": "2026-01-13T23:34:17.000Z",
+      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Data-Scientist-Intern_R106461",
+      "discordThreadId": "1460816309632897045",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-security-research-engineer-mountain-view-2026-01-14-1",
+      "jobId": "samsung-research-america-intern-security-research-engineer-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Intern - Security Research Engineer",
+      "postedToDiscord": "2026-01-14T02:02:38.800Z",
+      "sourceDate": "2026-01-13T23:40:00.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8356208002",
+      "discordThreadId": "1460816335977058514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "minitab-software-engineering-intern-state-college-2026-01-14-1",
+      "jobId": "minitab-software-engineering-intern-state-college",
+      "company": "Minitab",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-14T02:02:42.409Z",
+      "sourceDate": "2026-01-13T23:35:35.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/minitab/jobs/7588696003",
+      "discordThreadId": "1460816351571611841",
+      "instanceNumber": 1
+    },
+    {
+      "id": "leidos-software-developer-database-admin-intern-c-remote-in-usa-2026-01-14-1",
+      "jobId": "leidos-software-developer-database-admin-intern-c-remote-in-usa",
+      "company": "Leidos",
+      "title": "Software Developer – Database Admin Intern - C#",
+      "postedToDiscord": "2026-01-14T02:02:46.055Z",
+      "sourceDate": "2026-01-13T23:35:19.000Z",
+      "sourceUrl": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Developer--C----Database-Admin-Intern_R-00173539",
+      "discordThreadId": "1460816366620643360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "audax-data-engineer-business-solutions-co-op-boston-2026-01-14-1",
+      "jobId": "audax-data-engineer-business-solutions-co-op-boston",
+      "company": "Audax Group",
+      "title": "Data Engineer – Business Solutions Co-Op",
+      "postedToDiscord": "2026-01-14T02:02:52.949Z",
+      "sourceDate": "2026-01-13T23:37:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/audaxgroup/jobs/4649036005",
+      "discordThreadId": "1460816395574054998",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 248,
+    "totalJobs": 251,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-13T23:45:11.973Z",
+      "date": "2026-01-14T02:02:52.949Z",
       "archived": 0
     }
   }
