@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T18:33:29.876Z",
+  "lastUpdated": "2026-01-14T21:17:40.749Z",
   "jobs": [
     {
       "id": "sanofi-digital-patient-experience-analytics-summer-fall-2026-co-op-cambridge-2026-01-08-1",
@@ -3081,16 +3081,48 @@
       "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Software-Engineering-Intern_JR-047427",
       "discordThreadId": "1461065691850604687",
       "instanceNumber": 1
+    },
+    {
+      "id": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati-2026-01-14-1",
+      "jobId": "fifth-third-bank-software-engineer-co-op-enterprise-finance-applications-fall-2026-cincinnati",
+      "company": "Fifth Third Bank",
+      "title": "Software Engineer Co-op - Enterprise Finance Applications - Fall 2026",
+      "postedToDiscord": "2026-01-14T21:17:30.413Z",
+      "sourceDate": "2026-01-14T16:37:57.000Z",
+      "sourceUrl": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-op---Enterprise-Finance-Applications---Fall-2026_R63536",
+      "discordThreadId": "1461106967069331490",
+      "instanceNumber": 1
+    },
+    {
+      "id": "jones-lang-lasalle-jll-technology-analyst-intern-phoenix-2026-01-14-1",
+      "jobId": "jones-lang-lasalle-jll-technology-analyst-intern-phoenix",
+      "company": "Jones Lang LaSalle (JLL)",
+      "title": "Technology Analyst Intern",
+      "postedToDiscord": "2026-01-14T21:17:34.202Z",
+      "sourceDate": "2026-01-14T16:36:31.000Z",
+      "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Technology-Analyst-Summer-2026-Internship_REQ478662",
+      "discordThreadId": "1461106982114169105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "fifth-third-bank-enterprise-data-office-college-co-op-fall-2026-cincinnati-cincinnati-2026-01-14-1",
+      "jobId": "fifth-third-bank-enterprise-data-office-college-co-op-fall-2026-cincinnati-cincinnati",
+      "company": "Fifth Third Bank",
+      "title": "Enterprise Data Office College Co-op - Fall 2026 - Cincinnati",
+      "postedToDiscord": "2026-01-14T21:17:40.749Z",
+      "sourceDate": "2026-01-14T16:37:52.000Z",
+      "sourceUrl": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Enterprise-Data-Office-College-Co-op---Fall-2026---Cincinnati_R64382",
+      "discordThreadId": "1461107010421522587",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 280,
+    "totalJobs": 283,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T18:33:29.876Z",
-      "archived": 6,
-      "monthsAffected": 1
+      "date": "2026-01-14T21:17:40.749Z",
+      "archived": 0
     }
   }
 }
