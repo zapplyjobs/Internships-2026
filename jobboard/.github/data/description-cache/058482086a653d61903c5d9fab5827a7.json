@@ -1,0 +1,17 @@
+{
+  "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "We're Sorry The page you are looking for cannot be found. Please try our homepage, or visit: Job Search",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://careers.bankofamerica.com/en-us/students/job-detail/12924/global-operations-development-summer-analyst-program-2026-multiple-locations",
+      "fetchedAt": "2026-01-14T07:32:37.217Z"
+    }
+  },
+  "cachedAt": 1768375957217
+}

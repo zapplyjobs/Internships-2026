@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-14T07:19:27.975Z",
+  "lastUpdated": "2026-01-14T07:33:17.026Z",
   "jobs": [
     {
       "id": "fermilab-beam-instrumentation-software-engineering-co-op-position-batavia-2026-01-07-1",
@@ -2894,14 +2894,91 @@
       "sourceUrl": "https://asana.com/jobs/apply/7078152?gh_jid=7078152",
       "discordThreadId": "1460896066537918576",
       "instanceNumber": 1
+    },
+    {
+      "id": "genworth-it-development-program-intern-richmond-2026-01-14-1",
+      "jobId": "genworth-it-development-program-intern-richmond",
+      "company": "Genworth",
+      "title": "IT Development Program Intern",
+      "postedToDiscord": "2026-01-14T07:32:46.557Z",
+      "sourceDate": "2025-07-29T13:58:28.000Z",
+      "sourceUrl": "https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08",
+      "discordThreadId": "1460899416238985377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "a37-fullstack-mle-intern-san-francisco-2026-01-14-1",
+      "jobId": "a37-fullstack-mle-intern-san-francisco",
+      "company": "a37",
+      "title": "Fullstack/MLE Intern",
+      "postedToDiscord": "2026-01-14T07:32:53.364Z",
+      "sourceDate": "2025-07-23T19:01:49.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/a37/f457c131-1471-464a-9d23-5a9f94714c92",
+      "discordThreadId": "1460899443925712982",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kearney-co-data-analytics-internship-alexandria-2026-01-14-1",
+      "jobId": "kearney-co-data-analytics-internship-alexandria",
+      "company": "Kearney&Co",
+      "title": "Data Analytics Internship",
+      "postedToDiscord": "2026-01-14T07:32:59.847Z",
+      "sourceDate": "2025-07-22T09:52:33.000Z",
+      "sourceUrl": "https://careers.kearneyco.com/jobs/4822?lang=en-us",
+      "discordThreadId": "1460899472853958782",
+      "instanceNumber": 1
+    },
+    {
+      "id": "blackrock-2026-summer-intern-atlanta-2026-01-14-1",
+      "jobId": "blackrock-2026-summer-intern-atlanta",
+      "company": "Blackrock",
+      "title": "2026 Summer Intern",
+      "postedToDiscord": "2026-01-14T07:33:03.421Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB",
+      "discordThreadId": "1460899487148146709",
+      "instanceNumber": 1
+    },
+    {
+      "id": "d-e-shaw-fundamental-research-analyst-intern-new-york-2026-01-14-1",
+      "jobId": "d-e-shaw-fundamental-research-analyst-intern-new-york",
+      "company": "D. E. Shaw",
+      "title": "Fundamental Research Analyst Intern",
+      "postedToDiscord": "2026-01-14T07:33:07.128Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://www.deshaw.com/careers/fundamental-research-analyst-intern-new-york-summer-2026-5378",
+      "discordThreadId": "1460899501865959600",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbott-it-intern-waukegan-2026-01-14-1",
+      "jobId": "abbott-it-intern-waukegan",
+      "company": "Abbott",
+      "title": "IT Intern",
+      "postedToDiscord": "2026-01-14T07:33:10.578Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://www.jobs.abbott/us/en/job/ABLAUS31121333ENUSEXTERNAL/2026-IT-Intern",
+      "discordThreadId": "1460899517799862457",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bnp-paribas-summer-analyst-intern-jersey-city-2026-01-14-1",
+      "jobId": "bnp-paribas-summer-analyst-intern-jersey-city",
+      "company": "BNP Paribas",
+      "title": "Summer Analyst Intern",
+      "postedToDiscord": "2026-01-14T07:33:17.025Z",
+      "sourceDate": "2025-07-08T01:38:46.000Z",
+      "sourceUrl": "https://group.bnpparibas/en/careers/job-offer/2026-summer-analyst-internship-technology",
+      "discordThreadId": "1460899545121816853",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 263,
+    "totalJobs": 270,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-14T07:19:27.975Z",
+      "date": "2026-01-14T07:33:17.026Z",
       "archived": 0
     }
   }
