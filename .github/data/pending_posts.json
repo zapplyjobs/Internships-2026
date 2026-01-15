@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Machine Learning Operations Intern",
-      "employer_name": "Group 1001",
-      "job_city": "Zionsville",
-      "job_state": "IN",
-      "job_description": "Group 1001 is a consumer-centric, technology-driven family of insurance companies on a mission to deliver outstanding value and operational performance by combining financial strength and stability with deep insurance expertise and a can-do culture. Group1001’s culture emphasizes the importance of collaboration, communication, core business focus, risk management, and striving for outcomes. This goal extends to how we hire and onboard our most valuable assets – our employees.Why This Role Matters: In this role, you will be a part of the “Automation Pod”, which helps to improve day-to-day insurance operations for Group1001’s affiliated companies. AI and Machine Learning are critical components of that goal, seeking to automate or augment repetitive tasks such as document processing, information retrieval, and call center inquiries. You will have the opportunity to work closely with our customers to understand their needs and rapidly deliver solutions. In stark contrast with other MLOps teams across the industry, we release new features weekly. Your impact will be immediately measurable through our key performance indicators relating to those automation initiatives. The internship will take place at the corporate office in Zionsville, Indiana, from May 18 to August 7, 2026.How You'll Contribute: You will develop expertise using Large Language Models (LLMs) to extract information from scanned documentsYou will learn about RAG (Retrieval-Augmented Generation) and LLM grounding as we build AI assistantsYou will learn MLOps best-practices as we work to make our AI platforms more efficient and reliableYou will learn how to take an idea through development, review, testing, and production deployment stagesYou will master CI/CD patterns using Git / GitLab to automate version control and model evaluationsYou will refine your knowledge of Python, writing production-ready code that is readable and reliableYou will refine your knowledge of SQL, working with our operations data in Snowflake and PostgresWhat We’re Looking For:Undergraduate students completing their sophomore or junior year preferred, pursuing Computer Science, Mathematics, or Information Technology Majors.Availability of working full-time hours over the summer.Familiarity with Insurance industry is idealAbility to clearly articulate complex information to others.Detail oriented with strong focus on quality of deliverables.Demonstrated ability to proactively identify and solve problems and issues of all types.Ability to prioritize and meet deadlines.Ownership and accountability for deliverables.Benefits Highlights:  Employees who meet benefit eligibility guidelines and work 30 hours or more weekly, have the ability to enroll in Group 1001’s benefits package. Employees (and their families) are eligible to participate in the Company’s comprehensive health, dental, and vision insurance plan options.  Employees are also eligible for Basic and Supplemental Life Insurance, Short and Long-Term Disability. All employees (regardless of hours worked) have immediate access to the Company’s Employee Assistance Program and wellness programs—no enrollment is required.  Employees may also participate in the Company’s 401K plan, with matching contributions by the Company.  Group 1001, and its affiliated companies, is strongly committed to providing a supportive work environment where employee differences are valued. Diversity is an essential ingredient in making Group 1001 a welcoming place to work and is fundamental in building a high-performance team. Diversity embodies all the differences that make us unique individuals.  All employees share the responsibility for maintaining a workplace culture of dignity, respect, understanding and appreciation of individual and group differences.#LI-ES1",
-      "job_apply_link": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Machine-Learning-Operations-Intern_R26_0002",
-      "job_posted_at_datetime_utc": "2026-01-15T02:24:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "group-1001-machine-learning-operations-intern-zionsville",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T10:18:21.523Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "OCI GenAI PhD Applied Scientist – Full-time Intern Conversion - OCI GenAI Team",
       "employer_name": "Oracle",
       "job_city": "San Carlos",
@@ -1045,16 +1025,18 @@
       "employer_name": "Atlassian",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Atlassian in this exciting opportunity.",
+      "job_description": "Company Open and close the navigation menu Customers Careers Investors Events Blog Contact Customers Careers Investors Events Blog Contact { \"type\":\"imkt.components.Navbar\", \"params\": { \"hasCharlie\":\"true\" } } var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/campus-americas.icims.com\\/jobs\\/20906\\/machine-learning-engineer%2c-2026-graduate-u.s.\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> Join the Atlassian Talent Community Don’t see an exact role match? No problem! Join our Talent Community and stay up-to-date on company and careers updates relevant to your career. Join now",
       "job_apply_link": "https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job",
       "job_posted_at_datetime_utc": "2025-10-31T02:59:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "atlassian-machine-learning-engineer-seattle"
+      "id": "atlassian-machine-learning-engineer-seattle",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T15:58:41.085Z",
     "postedAt": null
   },
   {
