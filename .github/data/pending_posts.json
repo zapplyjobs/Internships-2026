@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Digital Technology Senior Analyst",
-      "employer_name": "NTT Data",
-      "job_city": "Charlotte",
-      "job_state": "NC",
-      "job_description": "Join NTT Data in this exciting opportunity.",
-      "job_apply_link": "https://nttdata.eightfold.ai/careers/job/563327925798139",
-      "job_posted_at_datetime_utc": "2025-10-01T20:10:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ntt-data-digital-technology-senior-analyst-charlotte",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Technology Rotational Development Program",
       "employer_name": "Arrowstreet Capital",
       "job_city": "Boston",
@@ -712,26 +692,6 @@
       "job_posted_at": "1h",
       "id": "booz-allen-data-scientist-data-scientist-washington",
       "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "General Dynamics Mission Systems",
-      "job_city": "Oak Ridge",
-      "job_state": "TN",
-      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is generally required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for an Engineering Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Engineering Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.</p> <p>&nbsp;</p> <p>#LI-Hybrid&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $29.00 - USD $29.00 /Hr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
-      "job_apply_link": "https://careers-gdms.icims.com/jobs/70184/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-12-17T16:23:53.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "general-dynamics-mission-software-engineer-intern-oak-ridge",
-      "description_platform": "icims",
       "description_success": true
     },
     "status": "enriched",
@@ -1045,16 +1005,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Graduate (Infrastructure System Lab)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7537468056051403026/detail",
       "job_posted_at_datetime_utc": "2025-10-31T02:26:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-san-jose"
+      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:55:07.664Z",
     "postedAt": null
   },
   {
@@ -1068,11 +1030,13 @@
       "job_posted_at_datetime_utc": "2025-10-31T01:28:50.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "fulton-bank-it-business-enablement-intern-franklin"
+      "id": "fulton-bank-it-business-enablement-intern-franklin",
+      "description_platform": "icims",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:55:07.664Z",
     "postedAt": null
   },
   {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T21:48:22.223Z",
+  "lastUpdated": "2026-01-15T21:55:24.759Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3532,14 +3532,47 @@
       "sourceUrl": "https://careers-gdms.icims.com/jobs/70184/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461477122383282430",
       "instanceNumber": 1
+    },
+    {
+      "id": "arrowstreet-capital-technology-rotational-development-program-boston-2026-01-15-1",
+      "jobId": "arrowstreet-capital-technology-rotational-development-program-boston",
+      "company": "Arrowstreet Capital",
+      "title": "Technology Rotational Development Program",
+      "postedToDiscord": "2026-01-15T21:55:14.500Z",
+      "sourceDate": "2026-01-12T16:29:00.000Z",
+      "sourceUrl": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
+      "discordThreadId": "1461478851002630347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avis-budget-accelerate-business-insights-analyst-post-graduation-opportunity-parsippany-troy-hills-2026-01-15-1",
+      "jobId": "avis-budget-accelerate-business-insights-analyst-post-graduation-opportunity-parsippany-troy-hills",
+      "company": "Avis Budget Group",
+      "title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
+      "postedToDiscord": "2026-01-15T21:55:17.936Z",
+      "sourceDate": "2025-12-13T15:34:16.000Z",
+      "sourceUrl": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
+      "discordThreadId": "1461478865971970367",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-data-scientist-data-scientist-washington-2026-01-15-1",
+      "jobId": "booz-allen-data-scientist-data-scientist-washington",
+      "company": "Booz Allen",
+      "title": "Data Scientist - Data Scientist",
+      "postedToDiscord": "2026-01-15T21:55:24.759Z",
+      "sourceDate": "2026-01-05T23:15:36.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0228796",
+      "discordThreadId": "1461478893172166839",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 321,
+    "totalJobs": 324,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T21:48:22.223Z",
+      "date": "2026-01-15T21:55:24.759Z",
       "archived": 0
     }
   }
