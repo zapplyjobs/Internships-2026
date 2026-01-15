@@ -3558,5 +3558,41 @@
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Engineering Intern",
+      "employer_name": "Auctane",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Auctane in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/auctane/jobs/7485078003",
+      "job_posted_at_datetime_utc": "2026-01-15T16:19:48.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "auctane-data-engineering-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T16:50:14.101Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Prolith Applications",
+      "employer_name": "KLA",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join KLA in this exciting opportunity.",
+      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/PROLITH-Applications-Intern_2633688-1",
+      "job_posted_at_datetime_utc": "2026-01-15T16:15:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "kla-prolith-applications-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T16:50:14.101Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
