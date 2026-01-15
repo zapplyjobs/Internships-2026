@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T17:37:43.048Z",
+  "lastUpdated": "2026-01-15T18:36:40.283Z",
   "jobs": [
     {
       "id": "walmart-software-engineer-2-bentonville-2026-01-08-1",
@@ -3323,14 +3323,36 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/Intuitive/744000103595905",
       "discordThreadId": "1461414043435667537",
       "instanceNumber": 1
+    },
+    {
+      "id": "ptc-pricing-data-and-analytics-intern-boston-2026-01-15-1",
+      "jobId": "ptc-pricing-data-and-analytics-intern-boston",
+      "company": "PTC",
+      "title": "Pricing Data and Analytics Intern",
+      "postedToDiscord": "2026-01-15T18:36:30.581Z",
+      "sourceDate": "2026-01-13T16:32:50.000Z",
+      "sourceUrl": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Pricing-Data-and-Analytics-Intern_JR111449",
+      "discordThreadId": "1461428839694602385",
+      "instanceNumber": 1
+    },
+    {
+      "id": "astera-labs-performance-analysis-engineer-intern-san-jose-2026-01-15-1",
+      "jobId": "astera-labs-performance-analysis-engineer-intern-san-jose",
+      "company": "Astera Labs",
+      "title": "Performance Analysis Engineer Intern",
+      "postedToDiscord": "2026-01-15T18:36:40.283Z",
+      "sourceDate": "2026-01-15T00:24:51.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4649807005",
+      "discordThreadId": "1461428880270164000",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 302,
+    "totalJobs": 304,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T17:37:43.048Z",
+      "date": "2026-01-15T18:36:40.283Z",
       "archived": 0
     }
   }
