@@ -212,10 +212,10 @@ Connect with fellow students, get career advice, share internship experiences, a
 - **Redmond, WA**: 2 opportunities
 - **Herdon, VA**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
+- **St. Louis, MO**: 1 opportunity
 - **McLean, VA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 - **Boston, MA**: 1 opportunity
-- **St. Louis, MO**: 1 opportunity
 
 ---
 
@@ -340,9 +340,9 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineer: Intern Opportunities for University Students - Mountain View | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641981) | 3w |
 | Machine Learning Engineer: Intern Opportunities for University Students - Redmond | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641989) | 3w |
 | Data Science PhD Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556649526) | 3w |
+| Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 3w |
 | Research Intern - LLM Performance Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 3w |
 | Research Intern - Post-Training | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 3w |
-| Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 3w |
 | Research Intern - Bio Large Language Models | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 1mo |
 | Research Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 1mo |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 1mo |
