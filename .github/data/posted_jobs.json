@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T06:54:39.596Z",
+  "lastUpdated": "2026-01-15T07:06:38.251Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
@@ -2894,14 +2894,113 @@
       "sourceUrl": "https://lifeattiktok.com/search/7595305817516165381",
       "discordThreadId": "1461252212528251013",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-frontend-software-engineer-intern-ads-measurement-signal-and-privacy-san-jose-2026-01-15-1",
+      "jobId": "tiktok-frontend-software-engineer-intern-ads-measurement-signal-and-privacy-san-jose",
+      "company": "TikTok",
+      "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
+      "postedToDiscord": "2026-01-15T07:06:05.756Z",
+      "sourceDate": "2026-01-15T00:07:33.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7595306554946193717",
+      "discordThreadId": "1461255088688599104",
+      "instanceNumber": 1
+    },
+    {
+      "id": "boston-properties-engineering-intern-boston-2026-01-15-1",
+      "jobId": "boston-properties-engineering-intern-boston",
+      "company": "Boston Properties",
+      "title": "Engineering Intern",
+      "postedToDiscord": "2026-01-15T07:06:09.134Z",
+      "sourceDate": "2026-01-15T00:06:47.000Z",
+      "sourceUrl": "https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26007",
+      "discordThreadId": "1461255105096716379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ford-motor-company-student-worker-program-vehicle-access-system-engineering-dearborn-2026-01-15-1",
+      "jobId": "ford-motor-company-student-worker-program-vehicle-access-system-engineering-dearborn",
+      "company": "Ford Motor Company",
+      "title": "Student Worker Program - Vehicle Access System Engineering",
+      "postedToDiscord": "2026-01-15T07:06:13.333Z",
+      "sourceDate": "2026-01-15T00:04:58.000Z",
+      "sourceUrl": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/57247",
+      "discordThreadId": "1461255119046840556",
+      "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-part-time-student-software-engineer-champaign-il-technology-ca-urbana-2026-01-15-1",
+      "jobId": "john-deere-part-time-student-software-engineer-champaign-il-technology-ca-urbana",
+      "company": "John Deere",
+      "title": "Part-Time Student - Software Engineer - Champaign IL Technology CA",
+      "postedToDiscord": "2026-01-15T07:06:16.808Z",
+      "sourceDate": "2026-01-14T23:38:46.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137478547780",
+      "discordThreadId": "1461255136855720088",
+      "instanceNumber": 1
+    },
+    {
+      "id": "legrand-software-developer-intern-carlsbad-2026-01-15-1",
+      "jobId": "legrand-software-developer-intern-carlsbad",
+      "company": "Legrand",
+      "title": "Software Developer Intern",
+      "postedToDiscord": "2026-01-15T07:06:20.341Z",
+      "sourceDate": "2025-11-15T07:27:59.000Z",
+      "sourceUrl": "https://jobs-legrand.icims.com/jobs/9755/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461255151875526667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-machine-learning-engineer-intern-ads-measurement-signal-and-privacy-bs-ms-san-jose-2026-01-15-1",
+      "jobId": "tiktok-machine-learning-engineer-intern-ads-measurement-signal-and-privacy-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS",
+      "postedToDiscord": "2026-01-15T07:06:27.214Z",
+      "sourceDate": "2026-01-15T00:07:28.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7595307123552028981",
+      "discordThreadId": "1461255179839213704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoox-technical-program-management-intern-ai-tools-development-san-mateo-2026-01-15-1",
+      "jobId": "zoox-technical-program-management-intern-ai-tools-development-san-mateo",
+      "company": "Zoox",
+      "title": "Technical Program Management Intern - AI Tools Development",
+      "postedToDiscord": "2026-01-15T07:06:31.024Z",
+      "sourceDate": "2026-01-15T00:04:30.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/4770d734-9d08-4eae-abb5-6002495ca147/apply",
+      "discordThreadId": "1461255195156549806",
+      "instanceNumber": 1
+    },
+    {
+      "id": "abbvie-2026-business-technology-solutions-extern-vernon-hills-2026-01-15-1",
+      "jobId": "abbvie-2026-business-technology-solutions-extern-vernon-hills",
+      "company": "AbbVie",
+      "title": "2026 Business Technology Solutions Extern",
+      "postedToDiscord": "2026-01-15T07:06:34.442Z",
+      "sourceDate": "2026-01-12T00:56:35.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AbbVie/3743990010808539",
+      "discordThreadId": "1461255211162013871",
+      "instanceNumber": 1
+    },
+    {
+      "id": "aig-early-career-gen-ai-data-engineering-analyst-atlanta-2026-01-15-1",
+      "jobId": "aig-early-career-gen-ai-data-engineering-analyst-atlanta",
+      "company": "AIG",
+      "title": "Early Career - Gen AI - Data Engineering Analyst",
+      "postedToDiscord": "2026-01-15T07:06:38.251Z",
+      "sourceDate": "2025-11-23T09:44:45.000Z",
+      "sourceUrl": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609",
+      "discordThreadId": "1461255225384894516",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 263,
+    "totalJobs": 272,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T06:54:39.596Z",
+      "date": "2026-01-15T07:06:38.251Z",
       "archived": 0
     }
   }
