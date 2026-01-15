@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T19:54:57.287Z",
+  "lastUpdated": "2026-01-15T20:56:20.614Z",
   "jobs": [
-    {
-      "id": "the-federal-reserve-research-department-business-outlook-survey-intern-philadelphia-2026-01-08-1",
-      "jobId": "the-federal-reserve-research-department-business-outlook-survey-intern-philadelphia",
-      "company": "The Federal Reserve System",
-      "title": "Research Department – Business Outlook Survey Intern",
-      "postedToDiscord": "2026-01-08T20:43:21.183Z",
-      "sourceDate": "2026-01-08T19:42:34.000Z",
-      "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Research-department---Business-Outlook-Survey-Summer-Intern_R-0000030959",
-      "discordThreadId": "1458924045558091905",
-      "instanceNumber": 1
-    },
-    {
-      "id": "ramboll-intern-air-quality-denver-2026-01-08-1",
-      "jobId": "ramboll-intern-air-quality-denver",
-      "company": "Ramboll",
-      "title": "Intern – Air Quality",
-      "postedToDiscord": "2026-01-08T20:43:28.077Z",
-      "sourceDate": "2026-01-08T16:29:24.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/Ramboll3/744000102284825",
-      "discordThreadId": "1458924073089368124",
-      "instanceNumber": 1
-    },
-    {
-      "id": "apex-analytix-data-science-intern-greensboro-2026-01-08-1",
-      "jobId": "apex-analytix-data-science-intern-greensboro",
-      "company": "APEX Analytix",
-      "title": "Data Science Intern",
-      "postedToDiscord": "2026-01-08T20:43:31.846Z",
-      "sourceDate": "2026-01-08T16:09:26.000Z",
-      "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/13266804-b931-4b28-a132-40c09e2c4a42",
-      "discordThreadId": "1458924088704761866",
-      "instanceNumber": 1
-    },
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
       "jobId": "micron-technology-intern-it-software-engineer-ea-eps-boise",
@@ -3411,14 +3378,80 @@
       "sourceUrl": "https://careers-markon.icims.com/jobs/7860/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461448580706467984",
       "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-data-analyst-graduate-bs-ms-seattle-2026-01-15-1",
+      "jobId": "tiktok-data-analyst-graduate-bs-ms-seattle",
+      "company": "TikTok",
+      "title": "Data Analyst Graduate - BS/MS",
+      "postedToDiscord": "2026-01-15T20:55:56.998Z",
+      "sourceDate": "2025-10-31T09:18:17.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533314525736782088",
+      "discordThreadId": "1461463928013066252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hippocratic-ai-agent-deployment-engineer-residency-program-palo-alto-2026-01-15-1",
+      "jobId": "hippocratic-ai-agent-deployment-engineer-residency-program-palo-alto",
+      "company": "Hippocratic AI",
+      "title": "Agent Deployment Engineer – Residency Program",
+      "postedToDiscord": "2026-01-15T20:56:03.872Z",
+      "sourceDate": "2025-11-04T02:38:33.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/Hippocratic%20AI/964acae6-87cf-46f2-8591-9ffc34e7c128/application",
+      "discordThreadId": "1461463957519990905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "atlassian-machine-learning-engineer-seattle-2026-01-15-1",
+      "jobId": "atlassian-machine-learning-engineer-seattle",
+      "company": "Atlassian",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-15T20:56:07.348Z",
+      "sourceDate": "2025-10-31T02:59:51.000Z",
+      "sourceUrl": "https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job",
+      "discordThreadId": "1461463973563207810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-development-engineer-graduate-sdn-traffic-intelligence-control-2026-start-phd-san-jose-2026-01-15-1",
+      "jobId": "bytedance-software-development-engineer-graduate-sdn-traffic-intelligence-control-2026-start-phd-san-jose",
+      "company": "ByteDance",
+      "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
+      "postedToDiscord": "2026-01-15T20:56:13.788Z",
+      "sourceDate": "2025-10-31T12:06:38.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
+      "discordThreadId": "1461464000729448587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-software-engineer-graduate-multiple-teams-san-jose-2026-01-15-1",
+      "jobId": "bytedance-software-engineer-graduate-multiple-teams-san-jose",
+      "company": "ByteDance",
+      "title": "Software Engineer Graduate - Multiple Teams",
+      "postedToDiscord": "2026-01-15T20:56:17.228Z",
+      "sourceDate": "2025-10-31T10:49:36.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538132567862774034/detail",
+      "discordThreadId": "1461464015245938861",
+      "instanceNumber": 1
+    },
+    {
+      "id": "eaton-product-engineer-early-talent-engineering-asheville-2026-01-15-1",
+      "jobId": "eaton-product-engineer-early-talent-engineering-asheville",
+      "company": "Eaton Corporation",
+      "title": "Product Engineer - Early Talent - Engineering",
+      "postedToDiscord": "2026-01-15T20:56:20.614Z",
+      "sourceDate": "2025-10-31T00:08:17.000Z",
+      "sourceUrl": "https://eaton.eightfold.ai/careers/job/687225796770",
+      "discordThreadId": "1461464029695574222",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 310,
+    "totalJobs": 313,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T19:54:57.287Z",
+      "date": "2026-01-15T20:56:20.614Z",
       "archived": 0
     }
   }
