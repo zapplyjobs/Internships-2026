@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T07:47:40.740Z",
+  "lastUpdated": "2026-01-15T07:54:59.700Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
@@ -3125,14 +3125,113 @@
       "sourceUrl": "https://lifeattiktok.com/search/7572665884037826869",
       "discordThreadId": "1461265555234488432",
       "instanceNumber": 1
+    },
+    {
+      "id": "major-league-baseball-video-technology-associate-allentown-2026-01-15-1",
+      "jobId": "major-league-baseball-video-technology-associate-allentown",
+      "company": "Major League Baseball",
+      "title": "Video & Technology Associate",
+      "postedToDiscord": "2026-01-15T07:54:20.591Z",
+      "sourceDate": "2025-11-18T08:40:22.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/philliesbaseballoperations/jobs/7327636003",
+      "discordThreadId": "1461267232813486111",
+      "instanceNumber": 1
+    },
+    {
+      "id": "major-league-baseball-fellow-baseball-strategist-baltimore-2026-01-15-1",
+      "jobId": "major-league-baseball-fellow-baseball-strategist-baltimore",
+      "company": "Major League Baseball",
+      "title": "Fellow Baseball Strategist",
+      "postedToDiscord": "2026-01-15T07:54:27.032Z",
+      "sourceDate": "2025-11-08T16:53:09.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5703204004",
+      "discordThreadId": "1461267259321483338",
+      "instanceNumber": 1
+    },
+    {
+      "id": "detroit-lions-football-information-associate-detroit-2026-01-15-1",
+      "jobId": "detroit-lions-football-information-associate-detroit",
+      "company": "Detroit Lions",
+      "title": "Football Information Associate",
+      "postedToDiscord": "2026-01-15T07:54:33.429Z",
+      "sourceDate": "2025-11-05T23:42:47.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/detroitlions/jobs/4626251005",
+      "discordThreadId": "1461267286664151162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-health-ai-scholar-digital-health-mountain-view-2026-01-15-1",
+      "jobId": "samsung-research-america-health-ai-scholar-digital-health-mountain-view",
+      "company": "Samsung Research America",
+      "title": "Health AI Scholar - Digital Health",
+      "postedToDiscord": "2026-01-15T07:54:36.835Z",
+      "sourceDate": "2025-10-03T07:51:39.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
+      "discordThreadId": "1461267300823863400",
+      "instanceNumber": 1
+    },
+    {
+      "id": "enova-software-engineer-intern-co-op-multiple-teams-chicago-2026-01-15-1",
+      "jobId": "enova-software-engineer-intern-co-op-multiple-teams-chicago",
+      "company": "Enova",
+      "title": "Software Engineer Intern/Co-op - Multiple Teams",
+      "postedToDiscord": "2026-01-15T07:54:40.118Z",
+      "sourceDate": "2025-09-25T05:03:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/enova/jobs/7270805",
+      "discordThreadId": "1461267314908594421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "celonis-associate-value-engineer-management-consulting-for-ai-implementation-orbit-program-raleigh-2026-01-15-1",
+      "jobId": "celonis-associate-value-engineer-management-consulting-for-ai-implementation-orbit-program-raleigh",
+      "company": "Celonis",
+      "title": "Associate Value Engineer - Management Consulting for AI Implementation - Orbit Program",
+      "postedToDiscord": "2026-01-15T07:54:43.469Z",
+      "sourceDate": "2025-06-25T01:31:46.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6620073003?gh_jid=6620073003",
+      "discordThreadId": "1461267328434962528",
+      "instanceNumber": 1
+    },
+    {
+      "id": "appian-associate-application-engineer-mclean-2026-01-15-1",
+      "jobId": "appian-associate-application-engineer-mclean",
+      "company": "Appian",
+      "title": "Associate Application Engineer",
+      "postedToDiscord": "2026-01-15T07:54:49.759Z",
+      "sourceDate": "2025-09-24T02:26:05.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/appian/jobs/7272543",
+      "discordThreadId": "1461267355064602626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avis-budget-accelerate-transformation-engineer-intern-parsippany-troy-hills-2026-01-15-1",
+      "jobId": "avis-budget-accelerate-transformation-engineer-intern-parsippany-troy-hills",
+      "company": "Avis Budget Group",
+      "title": "Accelerate Transformation Engineer Intern",
+      "postedToDiscord": "2026-01-15T07:54:53.141Z",
+      "sourceDate": "2025-09-11T00:25:53.000Z",
+      "sourceUrl": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate-TransformationEngineer-Intern---Summer-2026_R0180713",
+      "discordThreadId": "1461267368977104971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "core-one-software-developer-1-vienna-2026-01-15-1",
+      "jobId": "core-one-software-developer-1-vienna",
+      "company": "Core One",
+      "title": "Software Developer 1",
+      "postedToDiscord": "2026-01-15T07:54:59.699Z",
+      "sourceDate": "2025-07-14T18:55:52.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
+      "discordThreadId": "1461267395812266091",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 284,
+    "totalJobs": 293,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T07:47:40.740Z",
+      "date": "2026-01-15T07:54:59.700Z",
       "archived": 0
     }
   }
