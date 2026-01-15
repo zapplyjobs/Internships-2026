@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "D365 Consulting Intern - Summer 2026",
-      "employer_name": "RSM",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "We are the leading provider of professional services to the middle market globally, our purpose is to instill confidence in a world of change, empowering our clients and people to realize their full potential. Our exceptional people are the key to our unrivaled, culture and talent experience and our ability to be compelling to our clients. You’ll find an environment that inspires and empowers you to thrive both personally and professionally. There’s no one like you and that’s why there’s nowhere like RSM.As a D365 Consulting Intern you will be a valued member of the Business Applications team using a defined project methodology to develop and implement various modules of D365 . Your development and technical skills in D365 will allow you to work in confidence and ensure your success, as well as the success of your projects.  Responsibilities: Assist in the design and development in Microsoft D365, including aspects of the core, advanced solutions and industry specific solutions Installation, configuration, support, and documentation of D365 Ability to work closely with functional consultants to translate user requirements into functional specifications then into technical deployment Providing onsite and offsite consulting services and support to D365 clients  Basic Qualifications: 90 credit hours completed Pursuing a Bachelor’s degree in Accounting, MIS, Computer Science, Supply Chain, Systems Engineering, or related business field Ability to interface with clients both in person and remotely Knowledge of technical and business writing Ability to learn new business processes or applications very quickly Ability to travel A minimum 3.0 GPA is preferred  Preferred Qualifications:  Ability to express ideas clearly, concisely in understandable form, both orally and in writing Ability to establish and maintain effective working relationships Strong organizational and communication skills Experience with SQL Server preferably with some knowledge of SSRS, SSAS, and SSIS Experience and demonstrated knowledge of Visio, Microsoft Project, and Microsoft Office suite Motivated to work in a fast-paced environment Client focused and team oriented At RSM, we offer a competitive benefits and compensation package for all our people. We offer flexibility in your schedule, empowering you to balance life’s demands, while also maintaining your ability to serve clients. Learn more about our total rewards at https://rsmus.com/careers/working-at-rsm/benefits.All applicants will receive consideration for employment as RSM does not tolerate discrimination and/or harassment based on race; color; creed; sincerely held religious beliefs, practices or observances; sex (including pregnancy or disabilities related to nursing); gender; sexual orientation; HIV Status; national origin; ancestry; familial or marital status; age; physical or mental disability; citizenship; political affiliation; medical condition (including family and medical leave); domestic violence victim status; past, current or prospective service in the US uniformed service; US Military/Veteran status; pre-disposing genetic characteristics or any other characteristic protected under applicable federal, state or local law. Accommodation for applicants with disabilities is available upon request in connection with the recruitment process and/or employment/partnership. RSM is committed to providing equal opportunity and reasonable accommodation for people with disabilities. If you require a reasonable accommodation to complete an application, interview, or otherwise participate in the recruiting process, please call us at 800-274-3978 or send us an email at careers@rsmus.com.RSM does not intend to hire entry-level candidates who require sponsorship now or in the future. This includes individuals who will one day request or require RSM to file or complete immigration-related forms or prepare letters on their behalf in order for them to obtain or continue their work authorization.RSM will consider for employment qualified applicants with arrest or conviction records. For those living in California or applying to a position in California, please click here for additional information.At RSM, an employee’s pay at any point in their career is intended to reflect their experiences, performance, and skills for their current role. The salary range (or starting rate for interns and associates) for this role represents numerous factors considered in the hiring decisions including, but not limited to, education, skills, work experience, certifications, location, etc. As such, pay for the successful candidate(s) could fall anywhere within the stated range.Compensation Range: $35 - $41 per hour",
-      "job_apply_link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
-      "job_posted_at_datetime_utc": "2026-01-15T12:09:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "rsm-d365-consulting-intern-summer-2026-seattle",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T13:54:28.819Z",
-    "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern",
       "employer_name": "UiPath",
       "job_city": "Bellevue",
@@ -694,10 +674,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -714,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -734,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -754,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -774,10 +754,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:42:08.381Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -794,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:42:08.381Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -814,10 +794,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T22:42:08.381Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -834,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -854,10 +834,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:40:11.619Z"
   },
   {
     "job": {
@@ -1045,16 +1025,18 @@
       "employer_name": "Corsair",
       "job_city": "Milpitas",
       "job_state": "CA",
-      "job_description": "Join Corsair in this exciting opportunity.",
+      "job_description": "Join CORSAIR’s E-Commerce and Data teams to apply AI and data-driven methods to real-world digital commerce problems. In this role, you will support analysis, experimentation, and intelligent automation initiatives across customer segmentation, content intelligence, and platform optimization. You will work closely with data, engineering, marketing, and e-commerce stakeholders to turn data into actionable insights and scalable solutions. This role emphasizes applied analytics and AI use cases within modern e-commerce tooling, experimentation platforms, and content ecosystems.",
       "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
       "job_posted_at_datetime_utc": "2025-12-23T02:27:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "corsair-data-scientist-e-commerce-milpitas"
+      "id": "corsair-data-scientist-e-commerce-milpitas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:39:25.462Z",
     "postedAt": null
   },
   {

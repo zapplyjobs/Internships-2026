@@ -1,0 +1,17 @@
+{
+  "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Join CORSAIR’s E-Commerce and Data teams to apply AI and data-driven methods to real-world digital commerce problems. In this role, you will support analysis, experimentation, and intelligent automation initiatives across customer segmentation, content intelligence, and platform optimization. You will work closely with data, engineering, marketing, and e-commerce stakeholders to turn data into actionable insights and scalable solutions. This role emphasizes applied analytics and AI use cases within modern e-commerce tooling, experimentation platforms, and content ecosystems.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
+      "fetchedAt": "2026-01-15T23:39:25.462Z"
+    }
+  },
+  "cachedAt": 1768520365462
+}
