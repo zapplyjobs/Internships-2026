@@ -674,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": "2026-01-15T14:31:37.005Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -694,10 +694,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": "2026-01-15T19:34:14.209Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -734,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -754,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -774,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -834,10 +834,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T21:17:54.589Z"
   },
   {
     "job": {
@@ -3196,6 +3196,186 @@
     },
     "status": "pending",
     "addedAt": "2026-01-15T16:50:14.101Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Scientist Intern",
+      "employer_name": "Geotab",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_description": "Join Geotab in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5018105008",
+      "job_posted_at_datetime_utc": "2026-01-15T16:41:26.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "geotab-data-scientist-intern-atlanta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "ETDP Intern - Software Engineering",
+      "employer_name": "Highmark Health",
+      "job_city": "Pittsburgh",
+      "job_state": "PA",
+      "job_description": "Join Highmark Health in this exciting opportunity.",
+      "job_apply_link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+      "job_posted_at_datetime_utc": "2026-01-15T16:29:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "highmark-health-etdp-intern-software-engineering-pittsburgh"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "ETDP Associate - Software Engineer",
+      "employer_name": "Highmark Health",
+      "job_city": "Pittsburgh",
+      "job_state": "PA",
+      "job_description": "Join Highmark Health in this exciting opportunity.",
+      "job_apply_link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J269570",
+      "job_posted_at_datetime_utc": "2026-01-15T16:29:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "highmark-health-etdp-associate-software-engineer-pittsburgh"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineering Intern",
+      "employer_name": "Auctane",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Auctane in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/auctane/jobs/7485087003",
+      "job_posted_at_datetime_utc": "2026-01-15T16:19:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "auctane-software-engineering-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer 1",
+      "employer_name": "Markon",
+      "job_city": "Odenton",
+      "job_state": "MD",
+      "job_description": "Join Markon in this exciting opportunity.",
+      "job_apply_link": "https://careers-markon.icims.com/jobs/8010/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-15T00:11:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "markon-software-engineer-1-odenton"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Web Applications/Communications",
+      "employer_name": "BorgWarner",
+      "job_city": "Auburn Hills",
+      "job_state": "MI",
+      "job_description": "Join BorgWarner in this exciting opportunity.",
+      "job_apply_link": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Applications-Communications-Intern--Year-Round-_R2025-4462",
+      "job_posted_at_datetime_utc": "2025-11-14T23:48:03.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "borgwarner-web-applications-communications-auburn-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "ETDP Intern - Data Analytics",
+      "employer_name": "Highmark Health",
+      "job_city": "Pittsburgh",
+      "job_state": "PA",
+      "job_description": "Join Highmark Health in this exciting opportunity.",
+      "job_apply_link": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Data-Analytics_J270028",
+      "job_posted_at_datetime_utc": "2025-09-17T19:22:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "highmark-health-etdp-intern-data-analytics-pittsburgh"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Cloud and Data Engineering Summer Intern",
+      "employer_name": "Arch Capital Group",
+      "job_city": "Raleigh",
+      "job_state": "NC",
+      "job_description": "Join Arch Capital Group in this exciting opportunity.",
+      "job_apply_link": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Raleigh-NC-United-States-of-America/Technology-Summer-Intern_R25_866",
+      "job_posted_at_datetime_utc": "2025-09-11T23:29:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "arch-capital-cloud-and-data-engineering-summer-intern-raleigh"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Spring 2026: Retail Excellence Systems & Analytics Co-op - January through June",
+      "employer_name": "SharkNinja",
+      "job_city": "Needham",
+      "job_state": "MA",
+      "job_description": "Join SharkNinja in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4595872006",
+      "job_posted_at_datetime_utc": "2025-09-03T02:07:37.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "sharkninja-spring-2026-retail-excellence-systems-analytics-co-op-january-through-june-needham"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern - Python",
+      "employer_name": "Akuna Capital",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Akuna Capital in this exciting opportunity.",
+      "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+      "job_posted_at_datetime_utc": "2025-07-14T18:40:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "akuna-capital-software-engineer-intern-python-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": null,
     "postedAt": null
   }
