@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T07:06:38.251Z",
+  "lastUpdated": "2026-01-15T07:18:28.520Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
@@ -2993,14 +2993,47 @@
       "sourceUrl": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609",
       "discordThreadId": "1461255225384894516",
       "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-ai-ml-data-intern-mclean-2026-01-15-1",
+      "jobId": "booz-allen-ai-ml-data-intern-mclean",
+      "company": "Booz Allen",
+      "title": "AI/ML/Data Intern",
+      "postedToDiscord": "2026-01-15T07:18:15.593Z",
+      "sourceDate": "2025-10-22T00:17:06.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Financial-Applications-Intern_R0228525",
+      "discordThreadId": "1461258151931416576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "trane-software-engineering-intern-winona-2026-01-15-1",
+      "jobId": "trane-software-engineering-intern-winona",
+      "company": "Trane Technologies",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-15T07:18:22.062Z",
+      "sourceDate": "2025-10-13T23:11:26.000Z",
+      "sourceUrl": "https://careers.tranetechnologies.com/global/en/job/2503981",
+      "discordThreadId": "1461258179022295100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clorox-sales-customer-analytics-intern-bentonville-2026-01-15-1",
+      "jobId": "clorox-sales-customer-analytics-intern-bentonville",
+      "company": "Clorox",
+      "title": "Sales & Customer Analytics Intern",
+      "postedToDiscord": "2026-01-15T07:18:28.520Z",
+      "sourceDate": "2025-09-04T15:24:03.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Pleasanton-CA---USA/Sales---Customer-Analytics-Intern_19730",
+      "discordThreadId": "1461258206096658494",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 272,
+    "totalJobs": 275,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T07:06:38.251Z",
+      "date": "2026-01-15T07:18:28.520Z",
       "archived": 0
     }
   }
