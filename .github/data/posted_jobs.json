@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T07:54:59.700Z",
+  "lastUpdated": "2026-01-15T08:03:29.004Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
@@ -3224,14 +3224,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/coreone/jobs/6603161002",
       "discordThreadId": "1461267395812266091",
       "instanceNumber": 1
+    },
+    {
+      "id": "celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-raleigh-2026-01-15-1",
+      "jobId": "celonis-associate-value-engineer-ai-driven-data-science-analytics-orbit-program-raleigh",
+      "company": "Celonis",
+      "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+      "postedToDiscord": "2026-01-15T08:03:29.003Z",
+      "sourceDate": "2025-06-25T01:20:16.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6620068003?gh_jid=6620068003",
+      "discordThreadId": "1461269532202110998",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 293,
+    "totalJobs": 294,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T07:54:59.700Z",
+      "date": "2026-01-15T08:03:29.004Z",
       "archived": 0
     }
   }
