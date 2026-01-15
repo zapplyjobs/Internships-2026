@@ -302,13 +302,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1813 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1812 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1813 roles
-- **🏢 Companies**: 159 companies  
+- **📁 Total Positions**: 1812 roles
+- **🏢 Companies**: 175 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (88 positions)
@@ -472,7 +472,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | AI Engineer Intern | Austin, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=) | 1mo |
 
-### 💻 **Enterprise Software** (20 positions)
+### 💻 **Enterprise Software** (19 positions)
 
 #### 🌐 **Cisco** (8 positions)
 
@@ -487,7 +487,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | AI Machine Learning Engineer 2 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000461) | 1mo |
 | AI Machine Learning Engineer 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000454) | 1mo |
 
-#### 🖥️ **Hewlett Packard Enterprise** (12 positions)
+#### 🖥️ **Hewlett Packard Enterprise** (11 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -497,7 +497,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | AI/ML Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | 1mo |
 | Hpe Labs – Intern - Emerging Accelerators Research Associate | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Emerging-Accelerators-Research-Associate--Intern-_1192296) | 1mo |
 | HPE Labs - AI Research Lab Research Associate (Intern) | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | 1mo |
-| Tech Consultant intern | Alpharetta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Alpharetta-Georgia-United-States-of-America/Tech-Consultant-intern_1193054) | 1mo |
 | AI Developer Intern - Masters | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Masters-_1193085) | 1mo |
 | AI Developer Intern - Undergrad | Houston, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/AI-Developer-Intern--Undergrad-_1193066) | 1mo |
 | AI Customer Engagement Analyst Intern | Andover, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Andover-Massachusetts-United-States-of-America/AI-Customer-Engagement-Analyst-Intern_1192735) | 1mo |
