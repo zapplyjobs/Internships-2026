@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T20:56:20.614Z",
+  "lastUpdated": "2026-01-15T21:17:51.580Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3444,14 +3444,80 @@
       "sourceUrl": "https://eaton.eightfold.ai/careers/job/687225796770",
       "discordThreadId": "1461464029695574222",
       "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-student-quality-analytics-data-and-analytics-ames-2026-01-15-1",
+      "jobId": "john-deere-student-quality-analytics-data-and-analytics-ames",
+      "company": "John Deere",
+      "title": "Student - Quality Analytics - Data and Analytics",
+      "postedToDiscord": "2026-01-15T21:17:18.749Z",
+      "sourceDate": "2025-11-07T18:03:20.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137477670658",
+      "discordThreadId": "1461469304125132943",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cox-data-analytics-intern-summer-2026-atlanta-2026-01-15-1",
+      "jobId": "cox-data-analytics-intern-summer-2026-atlanta",
+      "company": "Cox",
+      "title": "Data Analytics Intern - Summer 2026",
+      "postedToDiscord": "2026-01-15T21:17:22.037Z",
+      "sourceDate": "2025-09-06T00:34:41.000Z",
+      "sourceUrl": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Analytics-Intern---Summer-2026--Atlanta_R202566839",
+      "discordThreadId": "1461469320671395913",
+      "instanceNumber": 1
+    },
+    {
+      "id": "whatnot-software-engineer-intern-multiple-teams-seattle-2026-01-15-1",
+      "jobId": "whatnot-software-engineer-intern-multiple-teams-seattle",
+      "company": "WhatNot",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "postedToDiscord": "2026-01-15T21:17:31.602Z",
+      "sourceDate": "2025-10-04T06:46:46.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-graduate-software-engineer-edge-platform-san-jose-2026-01-15-1",
+      "jobId": "bytedance-graduate-software-engineer-edge-platform-san-jose",
+      "company": "ByteDance",
+      "title": "Graduate Software Engineer - Edge Platform",
+      "postedToDiscord": "2026-01-15T21:17:38.189Z",
+      "sourceDate": "2025-08-15T21:21:17.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538120693880834322/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "castleton-commodities-international-genai-internship-houston-2026-01-15-1",
+      "jobId": "castleton-commodities-international-genai-internship-houston",
+      "company": "Castleton Commodities International",
+      "title": "GenAI Internship",
+      "postedToDiscord": "2026-01-15T21:17:44.976Z",
+      "sourceDate": "2025-07-29T02:03:59.000Z",
+      "sourceUrl": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Houston-TX/GenAI-Internship--Summer-2026-_R1102",
+      "discordThreadId": "1461469415882100932",
+      "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-part-time-student-data-analytics-ames-2026-01-15-1",
+      "jobId": "john-deere-part-time-student-data-analytics-ames",
+      "company": "John Deere",
+      "title": "Part-Time Student - Data Analytics",
+      "postedToDiscord": "2026-01-15T21:17:51.579Z",
+      "sourceDate": "2025-12-21T16:14:03.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137469617377",
+      "discordThreadId": "1461469444005040362",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 313,
+    "totalJobs": 319,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T20:56:20.614Z",
+      "date": "2026-01-15T21:17:51.580Z",
       "archived": 0
     }
   }
