@@ -1344,5 +1344,419 @@
     "addedAt": "2026-01-15T10:17:15.659Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technology Rotational Development Program",
+      "employer_name": "Arrowstreet Capital",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Arrowstreet Capital in this exciting opportunity.",
+      "job_apply_link": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
+      "job_posted_at_datetime_utc": "2026-01-12T16:29:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "arrowstreet-capital-technology-rotational-development-program-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Scientist - Data Scientist",
+      "employer_name": "Booz Allen",
+      "job_city": "Washington",
+      "job_state": "DC",
+      "job_description": "Join Booz Allen in this exciting opportunity.",
+      "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0228796",
+      "job_posted_at_datetime_utc": "2026-01-05T23:15:36.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "booz-allen-data-scientist-data-scientist-washington"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Part-Time Student - Data Analytics",
+      "employer_name": "John Deere",
+      "job_city": "Ames",
+      "job_state": "IA",
+      "job_description": "Join John Deere in this exciting opportunity.",
+      "job_apply_link": "https://johndeere.eightfold.ai/careers/job/137469617377",
+      "job_posted_at_datetime_utc": "2025-12-21T16:14:03.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "john-deere-part-time-student-data-analytics-ames"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Oak Ridge",
+      "job_state": "TN",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/70184/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-12-17T16:23:53.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-software-engineer-intern-oak-ridge"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Engineer Trainee",
+      "employer_name": "FocusKPI",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join FocusKPI in this exciting opportunity.",
+      "job_apply_link": "https://focuskpi.applytojob.com/apply/zKNpMdj8VU/AI-Engineer-Trainee-Remote",
+      "job_posted_at_datetime_utc": "2025-12-16T16:13:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "focuskpi-ai-engineer-trainee-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
+      "employer_name": "Avis Budget Group",
+      "job_city": "Parsippany-Troy Hills",
+      "job_state": "NJ",
+      "job_description": "Join Avis Budget Group in this exciting opportunity.",
+      "job_apply_link": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
+      "job_posted_at_datetime_utc": "2025-12-13T15:34:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "avis-budget-accelerate-business-insights-analyst-post-graduation-opportunity-parsippany-troy-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research",
+      "employer_name": "GE Vernova",
+      "job_city": "Schenectady",
+      "job_state": "NY",
+      "job_description": "Join GE Vernova in this exciting opportunity.",
+      "job_apply_link": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Software-defined-Networking-and-IPv6-for-Secure-Distributed-Energy-Resources-Research-Intern---Summer-2026_R5022672-1",
+      "job_posted_at_datetime_utc": "2025-12-13T10:52:15.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "ge-vernova-software-defined-networking-and-ipv6-for-secure-distributed-energy-resources-research-schenectady"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Analyst - Government & Public Services - Software Engineering",
+      "employer_name": "Deloitte",
+      "job_city": "Nashville",
+      "job_state": "TN",
+      "job_description": "Join Deloitte in this exciting opportunity.",
+      "job_apply_link": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Analyst-Software-Engineering/309208",
+      "job_posted_at_datetime_utc": "2026-01-07T23:22:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "deloitte-analyst-government-public-services-software-engineering-nashville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "2026 Sophomore Summit: Software Engineer",
+      "employer_name": "Walmart",
+      "job_city": "Bentonville",
+      "job_state": "AR",
+      "job_description": "Join Walmart in this exciting opportunity.",
+      "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Sophomore-Summit--Software-Engineer_R-2374409",
+      "job_posted_at_datetime_utc": "2026-01-07T09:07:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "walmart-2026-sophomore-summit-software-engineer-bentonville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Oracle Pathways Software School Intern",
+      "employer_name": "Oracle",
+      "job_city": "Nashville",
+      "job_state": "TN",
+      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
+      "job_posted_at_datetime_utc": "2025-12-03T23:32:35.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "oracle-oracle-pathways-software-school-intern-nashville"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Design Student",
+      "employer_name": "Daktronics",
+      "job_city": "Brookings",
+      "job_state": "SD",
+      "job_description": "Join Daktronics in this exciting opportunity.",
+      "job_apply_link": "https://careers-daktronics.icims.com/jobs/7156/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-11-30T16:43:40.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "daktronics-software-design-student-brookings"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT - Data & Analytics",
+      "employer_name": "Huntsman",
+      "job_city": "The Woodlands",
+      "job_state": "TX",
+      "job_description": "Join Huntsman in this exciting opportunity.",
+      "job_apply_link": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
+      "job_posted_at_datetime_utc": "2025-11-30T09:25:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "huntsman-it-data-analytics-the-woodlands"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "University Data Scientist - Data Scientist",
+      "employer_name": "Booz Allen",
+      "job_city": "McLean",
+      "job_state": "VA",
+      "job_description": "Join Booz Allen in this exciting opportunity.",
+      "job_apply_link": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081",
+      "job_posted_at_datetime_utc": "2025-11-27T23:11:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "booz-allen-university-data-scientist-data-scientist-mclean"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Working in Technology - Wit - Data Science",
+      "employer_name": "William Blair",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join William Blair in this exciting opportunity.",
+      "job_apply_link": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
+      "job_posted_at_datetime_utc": "2025-11-27T02:14:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "william-blair-working-in-technology-wit-data-science-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Accelerate Postgraduate Opportunity - Deployed Transformation Engineer",
+      "employer_name": "Avis Budget Group",
+      "job_city": "Parsippany-Troy Hills",
+      "job_state": "NJ",
+      "job_description": "Join Avis Budget Group in this exciting opportunity.",
+      "job_apply_link": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer--Post-Graduate-Opportunity-_R0182038",
+      "job_posted_at_datetime_utc": "2025-11-23T10:44:52.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "avis-budget-accelerate-postgraduate-opportunity-deployed-transformation-engineer-parsippany-troy-hills"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Futurefocus Tech 2026",
+      "employer_name": "Optiver",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_description": "Join Optiver in this exciting opportunity.",
+      "job_apply_link": "https://optiver.com/working-at-optiver/career-opportunities/8286208002/?gh_jid=8286208002",
+      "job_posted_at_datetime_utc": "2025-11-12T23:51:13.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "optiver-futurefocus-tech-2026-chicago"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist in Generative AI for Science",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7481431143423428872/detail",
+      "job_posted_at_datetime_utc": "2025-10-31T09:14:34.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-scientist-in-generative-ai-for-science-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Undergrad Software Engineer - Oracle Health and Analytics",
+      "employer_name": "Oracle",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/306138",
+      "job_posted_at_datetime_utc": "2025-10-31T12:53:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "oracle-undergrad-software-engineer-oracle-health-and-analytics-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist Graduate - Infrastructure System Lab",
+      "employer_name": "ByteDance",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
+      "job_posted_at_datetime_utc": "2025-10-31T09:14:18.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Research Scientist Graduate - Infrastructure System Lab",
+      "employer_name": "ByteDance",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_apply_link": "https://jobs.bytedance.com/en/position/7537468056051403026/detail",
+      "job_posted_at_datetime_utc": "2025-10-31T02:26:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Business Enablement Intern",
+      "employer_name": "Fulton Bank",
+      "job_city": "Franklin",
+      "job_state": "MA",
+      "job_description": "Join Fulton Bank in this exciting opportunity.",
+      "job_apply_link": "https://careers-fult.icims.com/jobs/22987/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-31T01:28:50.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "fulton-bank-it-business-enablement-intern-franklin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Apprentice Engineer",
+      "employer_name": "Hines",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Hines in this exciting opportunity.",
+      "job_apply_link": "https://careers-hines.icims.com/jobs/13412/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-10-17T04:14:43.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "hines-apprentice-engineer-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Graduate Software Engineer - Data-Search-Tiktok.US",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7515280815460403474",
+      "job_posted_at_datetime_utc": "2025-08-07T08:17:51.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tiktok-graduate-software-engineer-data-search-tiktok-us-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T12:19:30.778Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
