@@ -2594,5 +2594,71 @@
     "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/999da522-f122-4560-8e6e-152bc97f9342",
     "discordThreadId": "1458872494839824577",
     "instanceNumber": 1
+  },
+  {
+    "id": "walmart-software-engineer-2-bentonville-2026-01-08-1",
+    "jobId": "walmart-software-engineer-2-bentonville",
+    "company": "Walmart",
+    "title": "Software Engineer 2",
+    "postedToDiscord": "2026-01-08T19:40:17.189Z",
+    "sourceDate": "2026-01-08T19:19:12.000Z",
+    "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Summer-Intern--Software-Engineering-II--Bentonville-_R-2354856",
+    "discordThreadId": "1458908174311755827",
+    "instanceNumber": 1
+  },
+  {
+    "id": "asml-intern-surface-science-wilton-2026-01-08-1",
+    "jobId": "asml-intern-surface-science-wilton",
+    "company": "ASML",
+    "title": "Intern Surface Science",
+    "postedToDiscord": "2026-01-08T19:40:23.733Z",
+    "sourceDate": "2026-01-08T19:05:30.000Z",
+    "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship--Surface-Science--Forensics---Defect-Control-Summer-2026_J-00332800",
+    "discordThreadId": "1458908201050312726",
+    "instanceNumber": 1
+  },
+  {
+    "id": "southwest-airlines-data-and-analytics-intern-dallas-2026-01-08-1",
+    "jobId": "southwest-airlines-data-and-analytics-intern-dallas",
+    "company": "Southwest Airlines",
+    "title": "Data and Analytics Intern",
+    "postedToDiscord": "2026-01-08T19:40:30.860Z",
+    "sourceDate": "2026-01-08T19:01:31.000Z",
+    "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-and-Analytics-Summer-2026-Internships_R-2025-61963",
+    "discordThreadId": "1458908228552229070",
+    "instanceNumber": 1
+  },
+  {
+    "id": "autodesk-intern-construction-ai-agent-research-boston-2026-01-08-1",
+    "jobId": "autodesk-intern-construction-ai-agent-research-boston",
+    "company": "Autodesk",
+    "title": "Intern – Construction AI Agent Research",
+    "postedToDiscord": "2026-01-08T19:40:34.365Z",
+    "sourceDate": "2025-09-24T02:07:00.000Z",
+    "sourceUrl": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Intern--Construction-AI-Agent-Research_25WD91971-1",
+    "discordThreadId": "1458908245765914822",
+    "instanceNumber": 1
+  },
+  {
+    "id": "trustage-it-application-developer-intern-madison-2026-01-08-1",
+    "jobId": "trustage-it-application-developer-intern-madison",
+    "company": "TruStage",
+    "title": "IT Application Developer Intern",
+    "postedToDiscord": "2026-01-08T19:40:38.094Z",
+    "sourceDate": "2025-09-02T22:42:47.000Z",
+    "sourceUrl": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT-Application-Developer-Intern--Hybrid-_R-011321",
+    "discordThreadId": "1458908260819140690",
+    "instanceNumber": 1
+  },
+  {
+    "id": "fmc-r-d-it-intern-python-developer-newark-2026-01-08-1",
+    "jobId": "fmc-r-d-it-intern-python-developer-newark",
+    "company": "FMC Corporation",
+    "title": "R&D IT Intern - Python Developer",
+    "postedToDiscord": "2026-01-08T19:40:44.803Z",
+    "sourceDate": "2026-01-08T19:01:00.000Z",
+    "sourceUrl": "https://fmc.wd12.myworkdayjobs.com/FMC/job/Newark-Delaware/R-D-IT-Intern---Python-Developer_R-1289",
+    "discordThreadId": "1458908288325386396",
+    "instanceNumber": 1
   }
 ]
