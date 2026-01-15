@@ -1686,5 +1686,95 @@
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Developer Internship - Summer 2026",
+      "employer_name": "Uline",
+      "job_city": "Kenosha",
+      "job_state": "WI",
+      "job_description": "Join Uline in this exciting opportunity.",
+      "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R260582",
+      "job_posted_at_datetime_utc": "2026-01-15T12:17:01.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "uline-software-developer-internship-summer-2026-kenosha"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T13:54:28.819Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Business Intelligence Developer Intern",
+      "employer_name": "Uline",
+      "job_city": "Kenosha",
+      "job_state": "WI",
+      "job_description": "Join Uline in this exciting opportunity.",
+      "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R260590",
+      "job_posted_at_datetime_utc": "2026-01-15T12:17:00.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "uline-business-intelligence-developer-intern-kenosha"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T13:54:28.819Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "D365 Consulting Intern - Summer 2026",
+      "employer_name": "RSM",
+      "job_city": "Seattle",
+      "job_state": "WA",
+      "job_description": "Join RSM in this exciting opportunity.",
+      "job_apply_link": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
+      "job_posted_at_datetime_utc": "2026-01-15T12:09:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "rsm-d365-consulting-intern-summer-2026-seattle"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T13:54:28.819Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Software Engineer - Launchpad",
+      "employer_name": "Lowe's ",
+      "job_city": "Charlotte",
+      "job_state": "NC",
+      "job_description": "Join Lowe's  in this exciting opportunity.",
+      "job_apply_link": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02373164",
+      "job_posted_at_datetime_utc": "2026-01-13T23:44:54.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "lowe-s-associate-software-engineer-launchpad-charlotte"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T13:54:28.819Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Associate Data Engineering - Launchpad",
+      "employer_name": "Lowe's ",
+      "job_city": "Charlotte",
+      "job_state": "NC",
+      "job_description": "Join Lowe's  in this exciting opportunity.",
+      "job_apply_link": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02367710",
+      "job_posted_at_datetime_utc": "2026-01-06T23:55:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "lowe-s-associate-data-engineering-launchpad-charlotte"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-15T13:54:28.819Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
