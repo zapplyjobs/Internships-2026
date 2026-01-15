@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T15:44:45.155Z",
+  "lastUpdated": "2026-01-15T17:21:42.112Z",
   "jobs": [
-    {
-      "id": "apex-analytix-data-analyst-intern-greensboro-2026-01-08-1",
-      "jobId": "apex-analytix-data-analyst-intern-greensboro",
-      "company": "APEX Analytix",
-      "title": "Data Analyst Intern",
-      "postedToDiscord": "2026-01-08T17:18:30.768Z",
-      "sourceDate": "2026-01-08T16:09:39.000Z",
-      "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/999da522-f122-4560-8e6e-152bc97f9342",
-      "discordThreadId": "1458872494839824577",
-      "instanceNumber": 1
-    },
     {
       "id": "walmart-software-engineer-2-bentonville-2026-01-08-1",
       "jobId": "walmart-software-engineer-2-bentonville",
@@ -3312,6 +3301,17 @@
       "sourceUrl": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Machine-Learning-Operations-Intern_R26_0002",
       "discordThreadId": "1461385614837420155",
       "instanceNumber": 1
+    },
+    {
+      "id": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos-2026-01-15-1",
+      "jobId": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos",
+      "company": "Oracle",
+      "title": "OCI GenAI PhD Applied Scientist – Full-time Intern Conversion - OCI GenAI Team",
+      "postedToDiscord": "2026-01-15T17:21:42.112Z",
+      "sourceDate": "2026-01-15T02:09:30.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/304057",
+      "discordThreadId": "1461410012986343466",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -3319,8 +3319,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T15:44:45.155Z",
-      "archived": 0
+      "date": "2026-01-15T17:21:42.112Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
