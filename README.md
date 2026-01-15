@@ -213,9 +213,9 @@ Connect with fellow students, get career advice, share internship experiences, a
 - **Herdon, VA**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
 - **McLean, VA**: 1 opportunity
+- **St. Louis, MO**: 1 opportunity
 - **Boise, ID**: 1 opportunity
 - **Boston, MA**: 1 opportunity
-- **St. Louis, MO**: 1 opportunity
 
 ---
 
@@ -302,13 +302,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1815 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1813 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1815 roles
-- **🏢 Companies**: 141 companies  
+- **📁 Total Positions**: 1813 roles
+- **🏢 Companies**: 150 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (88 positions)
