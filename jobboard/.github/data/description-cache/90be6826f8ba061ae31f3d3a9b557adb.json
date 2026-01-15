@@ -1,0 +1,17 @@
+{
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Nashville Software School Students: Candidates who are alumni (or are graduating by January 2026) from the Nashville Software School Software Developer Bootcamp are encouraged to apply for a professional internship.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
+      "fetchedAt": "2026-01-15T21:04:04.418Z"
+    }
+  },
+  "cachedAt": 1768511044419
+}
