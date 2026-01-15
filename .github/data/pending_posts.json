@@ -681,26 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Performance Analysis Engineer Intern",
-      "employer_name": "Astera Labs",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": ".Astera Labs (NASDAQ: ALAB) provides rack-scale AI infrastructure through purpose-built connectivity solutions. By collaborating with hyperscalers and ecosystem partners, Astera Labs enables organizations to unlock the full potential of modern AI. Astera Labs’ Intelligent Connectivity Platform integrates CXL®, Ethernet, NVLink, PCIe®, and UALink™ semiconductor-based technologies with the company’s COSMOS software suite to unify diverse components into cohesive, flexible systems that deliver end-to-end scale-up, and scale-out connectivity. The company’s custom connectivity solutions business complements its standards-based portfolio, enabling customers to deploy tailored architectures to meet their unique infrastructure requirements. Discover more at www.asteralabs.com. About the Role We are seeking a Performance Analysis Engineer to drive system-level performance optimization across large-scale AI training and inference environments. In this role, you will analyze, profile, and optimize distributed workloads running on high-density accelerator clusters, working across the full stack, from ML frameworks and communication libraries to network fabrics and hardware architecture. You will play a critical role in ensuring that next-generation AI workloads achieve near-peak hardware efficiency, while directly influencing software architecture, infrastructure design, and future silicon and networking roadmaps. Job Duties Cluster-Scale Performance Profiling Execute and profile state-of-the-art training and inference workloads (e.g., LLMs, diffusion models) across large-scale accelerator clusters. Identify and resolve bottlenecks across compute, memory bandwidth, and interconnect latency that impact end-to-end Job Completion Time (JCT). Collective Library Optimization Tune and optimize distributed communication backends such as NCCL, RCCL, and MPI. Improve efficiency of collective operations including All-Reduce, All-to-All, Reduce-Scatter, and broadcast to minimize synchronization overhead. Network Fabric Analysis Conduct deep-dive analysis of network performance, diagnosing issues such as packet loss, congestion, head-of-line blocking, and tail latency. Partner with infrastructure teams to improve network behavior under real-world AI workloads. Advanced Load Balancing & Traffic Optimization Design and implement intelligent load-balancing strategies and traffic-shaping algorithms. Prevent network and compute “hot spots” in high-density AI clusters and improve workload fairness and throughput. PyTorch Stack Optimization Leverage advanced PyTorch capabilities including DistributedDataParallel (DDP), Fully Sharded Data Parallel (FSDP), and torch.compile. Optimize execution graphs, runtime traces, and memory usage for maximum hardware efficiency. GPU & Accelerator Utilization Apply best practices in kernel fusion, mixed-precision execution (FP16/FP8/INT8), and memory management. Reduce idle “bubble” time and drive sustained peak FLOPS utilization during training and inference. Performance Modeling & Benchmarking Build automated benchmarking suites and performance regression tests. Develop quantitative models to predict how architectural changes (e.g., attention mechanisms, batch sizes, parallelism strategies) scale across different cluster topologies. Hardware–Software Co-Design Collaborate closely with systems, infrastructure, and silicon teams to translate performance findings into actionable requirements. Influence the design of next-generation AI accelerators, NICs, and interconnects. Requirements & Qualifications Education:Bachelor’s, Master’s, or PhD in Computer Engineering, Electrical Engineering or a related field. Hands-on experience optimizing distributed ML workloads across multi-node accelerator clusters. Strong understanding of data parallelism, model parallelism, and pipeline parallelism. Deep knowledge of GPU or accelerator architectures, including compute units, memory hierarchies, and interconnects (PCIe, NVLink, or equivalents). Experience working with NCCL, RCCL, MPI, or similar collective communication frameworks. Strong understanding of high-performance networking (Ethernet, InfiniBand, RoCE) and their impact on distributed workloads. PyTorch & ML Systems Proficiency Advanced experience with PyTorch, including distributed training internals and execution tracing. Ability to diagnose and optimize framework-level and runtime bottlenecks. Comfortable debugging issues across software, firmware, and hardware boundaries. Strong proficiency in Python and C/C++. Experience building performance analysis tools, automation, and benchmarking frameworks. Ability to clearly communicate complex performance findings to cross-functional teams. Comfortable working in fast-moving, ambiguous environments. We know that creativity and innovation happen more often when teams include diverse ideas, backgrounds, and experiences, and we actively encourage everyone with relevant experience to apply, including people of color, LGBTQ+ and non-binary people, veterans, parents, and individuals with disabilities.",
-      "job_apply_link": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4649807005",
-      "job_posted_at_datetime_utc": "2026-01-15T00:24:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "astera-labs-performance-analysis-engineer-intern-san-jose",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T10:18:21.523Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Software Engineering Intern",
       "employer_name": "Johnson Controls",
       "job_city": "Milwaukee",
@@ -711,26 +691,6 @@
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
       "id": "johnson-controls-software-engineering-intern-milwaukee",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T10:18:21.523Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Pricing Data and Analytics Intern",
-      "employer_name": "PTC",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Our world is transforming, and PTC is leading the way. Our software brings the physical and digital worlds together, enabling companies to improve operations, create better products, and empower people in all aspects of their business. Our people make all the difference in our success. Today, we are a global team of nearly 7,000 and our main objective is to create opportunities for our team members to explore, learn, and grow – all while seeing their ideas come to life and celebrating the differences that make us who we are and the work we do possible.  In this role, you will provide key data management and analytics capabilities to the Pricing and Packaging team. You will be defining and building a reporting capability and providing valuable insights to support critical pricing and go-to-market decisionsThe candidate must be comfortable in an agile team while collaborating with many departments and stakeholders to solve shared business problems. The candidate must be a self-starter, multi-tasker and work well under pressure to meet ongoing and overlapping deadlines within short time constraints. Successful individuals in this role will crave empowerment and ownership, have exceptionally high intellectual curiosity, can unwind complex situations and develop a storyline with clear messages and recommendations. We have a dynamic and impactful team that needs another piece of the puzzle.Be proactive. Take initiative. Drive improvement. Build new capabilities, improve the ability to visualize complex problems, tell a better story with the data to drive better decision makingMain Duties:· Organize to process data, automate reports, build models, establish repeatable metric-based reporting· Work with pricing and data analytics team to conceptualize and develop ad hoc reports and alerts, and identify areas of commercial opportunity· Support critical go-to-market pricing and price management processes, better enabling our continued business model transition· Analyze data and derive insights that will inform revenue management practices, pricing strategy, and other business decisions· Collaborate with our data scientist to establish and maintain measurement infrastructure· Developing and maintaining a robust dashboard and reporting environmentQualifications & Skillset:· Strong excel skills including knowledge of pivot tables, VLOOKUP’s, and knowledge of macros preferred. Working with large amounts of data from various sources· Power BI and other reporting packages a very strong plus. Visualization or deal-management/assessment, Examples include: pricing waterfalls, scatterplots, time series analysis, corridor analysis, variance and realization rates· Crisp attention to detail and the ability to manage multi-step process validations· Ability to learn, adapt, and process· Demonstrated skill in the ability to manage multiple requests at the same time in a seamless manner· Good oral and written communication skills, demonstrated ability to execute and prioritize· Ability to multi-task and prioritize work across multiple product lines, geographies, and channels· Demonstrated skills in understanding and correcting data discrepancies, identifying data anomalies, and root cause analysis· High interpersonal orientation with desire to spend significant time interacting with others. Must have strong sense of urgencyPTC carefully considers a wide variety of factors when determining compensation. The anticipated average hourly rate for this position is $32/hour.  This rate reflects a good-faith estimate of compensation at the time of posting. Actual compensation may vary based on a candidate's major, degree currently being pursued and location.  At PTC, we believe in the power of diverse ideas and perspectives. As a global company that values and respects all identities, cultures, and perspectives, we strive to create an inclusive PTC for ALL through an environment where everyone feels like they belong and are empowered to bring their true, authentic selves to work. Proud to be an Equal Opportunity Employer, we welcome applicants from all backgrounds and hire without regard to race, national origin, religion, age, color, ethnicity, ancestry, marital status, sex (including pregnancy), sexual orientation, gender identity, gender expression, genetic information, disability, veteran status, or any other characteristic protected by local, state, or federal laws, rules, or regulations. It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.PTC endeavors to make ptc.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact PTC's Talent Acquisition team at TalentAcquisition@ptc.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.  Life at PTC is about more than working with today’s most cutting-edge technologies to transform the physical world. It’s about showing up as you are and working alongside some of today’s most talented industry leaders to transform the world around you. If you share our passion for problem-solving through innovation, you’ll likely become just as passionate about the PTC experience as we are. Are you ready to explore your next career move with us?We respect the privacy rights of individuals and are committed to handling Personal Information responsibly and in accordance with all applicable privacy and data protection laws. Review our Privacy Policy here.\"",
-      "job_apply_link": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Pricing-Data-and-Analytics-Intern_JR111449",
-      "job_posted_at_datetime_utc": "2026-01-13T16:32:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ptc-pricing-data-and-analytics-intern-boston",
       "description_platform": "workday",
       "description_success": true
     },
@@ -1045,16 +1005,18 @@
       "employer_name": "TikTok",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Data Analyst Graduate (TikTok Shop Governance & Experience) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7533314525736782088",
       "job_posted_at_datetime_utc": "2025-10-31T09:18:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-data-analyst-graduate-bs-ms-seattle"
+      "id": "tiktok-data-analyst-graduate-bs-ms-seattle",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T18:55:05.075Z",
     "postedAt": null
   },
   {
@@ -1063,16 +1025,18 @@
       "employer_name": "Eaton Corporation",
       "job_city": "Asheville",
       "job_state": "NC",
-      "job_description": "Join Eaton Corporation in this exciting opportunity.",
+      "job_description": "These positions can be based in one of our manufacturing locations in either Asheville, NC, Fayetteville, NC, Greenwood, SC, or Portland, OR, and will offer relocation assistance. The Product Engineer (often internally referred to as a Custom Order Engineer or COE) is primarily responsible for providing electrical and mechanical design and documentation support for power distribution or control product lines. This includes, but is not limited to engineering designs, collaborating with application engineers and manufacturing associates, utilization of design automation software, and producing/maintaining manufacturing documentation. The annual salary for this role is $75,000 a year. This position offers a one-time $6,000 signing bonus. Bachelor&#39;s degree in electrical or mechanical engineering from an accredited institution with a graduation before August 2026 Minimum overall cumulative GPA of 2.8 Minimum of one internship or co-op experience or an equivalent of 3 months of related experience completed at the time of this application Degree in electrical engineering Minimum overall cumulative GPA of 3.2 or higher Knowledge of power distribution products (LV and MV Switchgear, Panelboards and Switchboards, Motor Control Centers, etc.) Position Criteria: Strong analytical, computer, writing, presentation and customer service skills Ability to communicate technical information to customers and manufacturing Knowledge of the fundamentals of electrical and mechanical engineering earlytalent We aspire to ensure the safety, health and wellbeing of our employees. We do this by helping all our employees maximize their physical, financial and emotional wellbeing, both at work and at home. Consult with plant and field sales engineers in interpreting and defining new equipment applications. Develop a variety of complex drawings and bills-of-material based upon established product designs, which provides sufficient detail to accurately convey the purchaser&#39;s equipment application. Coordinate mechanical and electrical interfaces with other products. Advise Drafting/Design, Manufacturing, and Purchasing - when required - in interpreting information for the accurate production of equipment in accordance with the purchaser&#39;s requirements. Manage purchaser onsite visits to approve and/or release equipment for shipping. Manage Manufacturing and Engineering Change Notices. Demonstrate advanced computer skills with ability to learn required software (Bid Manager, AutoCAD, Design Automation, MAPICS). Consult with Quality in resolving issues after the equipment is shipped, when required. Conduct special development/application projects of a complex nature. Conduct technical training guidance and seminars, as required. Analyze needs and recommend revisions to Department Policies and Procedures.",
       "job_apply_link": "https://eaton.eightfold.ai/careers/job/687225796770",
       "job_posted_at_datetime_utc": "2025-10-31T00:08:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "eaton-product-engineer-early-talent-engineering-asheville"
+      "id": "eaton-product-engineer-early-talent-engineering-asheville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T18:55:05.075Z",
     "postedAt": null
   },
   {
