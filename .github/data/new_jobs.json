@@ -14,34 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Java Software Engineer - Oracle Health and Analytics",
-    "employer_name": "Oracle",
-    "job_city": "Kansas City",
-    "job_state": "MO",
-    "job_description": "FTE - Intended for students graduating with their Bachelor's, Master’s, or Doctorate’s degree by, or have graduated within 12 months of cohort start date in June/July 2026. Target Start Date: early-June or mid-July 2026.",
-    "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
-    "job_posted_at_datetime_utc": "2025-11-21T09:58:51.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "oracle-java-software-engineer-oracle-health-and-analytics-kansas-city",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Reverse Engineer",
-    "employer_name": "Markon",
-    "job_city": "Odenton",
-    "job_state": "MD",
-    "job_description": "<h2>Overview</h2> <p>Eager to join a team where your skills are valued, your growth is nurtured, and your impact is profound? Look no further than Markon, a premier consulting firm deeply dedicated to advancing our nation's most critical missions.</p> <p>&nbsp;</p> <p>At Markon, we don't just offer jobs – we offer opportunities for personal and professional transformation. Empowering our employees to lead, innovate, and excel, we foster an environment where new ideas are not just welcomed but celebrated. As a perennial Washington Post Top Workplace, we prioritize the well-being and success of our team members, ensuring they can bring their best selves to work.</p> <p>&nbsp;</p> <p>Headquartered in Falls Church, Virginia, Markon has garnered national recognition for our unwavering dedication to excellence in serving the intelligence community, as well as federal civilian and defense agencies. Our growing reach extends across 17 states, 116 countries, and 5 continents, where our team of dynamic professionals collaborates to deliver unparalleled program and project management services.</p> <p>&nbsp;</p> <p>Markon values people and the tremendous impact each individual can make – which is why we’re consistently recognized as one of the best places to work in federal government consulting. Here, you can help solve the nation’s most important challenges, surrounded by colleagues who help you grow, advance, and succeed. We are deeply dedicated to what matters – bringing out the best in each other to advance our clients’ missions.Join us and make a meaningful impact.</p> <p>&nbsp;</p> <p>Markon is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, national origin, age, protected veteran status, or disability status. This job posting will remain open until the position is filled.</p> <p>&nbsp;</p> <p><strong>Benefits Offered</strong>: Medical, Dental, Vision, Life Insurance, Short-Term Disability, Long-Term Disability, 401(k) match, Flexible Spending Accounts, EAP, Training and Tuition Assistance, Paid Time Off, and Holidays</p> <p>&nbsp;</p> <h2>Description</h2> <p>Markon's partner company is looking for multiple Reverse Engineering Developers for our Fort Meade Customer.</p> <h2>Responsibilities</h2> <p>The candidate will be responsible for performing reverse engineer research on highly complex software applications. </p> <ul> <li>Static and dynamic analysis, including reverse engineering and kernel debugging. </li> <li>Research results and create written reports.</li> <li>work alongside some of the world's best reverse engineers, learning unique skills and exploring challenging problems every day.</li> </ul> <h2>Qualifications</h2> <p><strong>Required:</strong></p> <ul> <li><strong>TS/SCI FS Polygraph with this client is required.</strong></li> <li><p>A Bachelor’s degree in STEM or Computer Science.</p></li> <li>Years of experience required: <ul> <li>Level 1 - Bachelor's of Science and 2+ years of relevant experience.</li> <li>Level 2 - Bachelor's of Science and 6+ years of relevant experience.</li> <li>Level 3 - Bachelor's of Science and 8+ years of relevant experience.</li> </ul></li> <li>Experience with Assembly, C/C++, or Python.</li> <li><p>Knowledge of common binary executable formats (PE, ELF, etc.)</p></li> <li><p>Experience with CNO development, malware analysis, forensic analysis, and/or Windows/*nix internals</p></li> <li><p>Experience with IDA Pro, Ghidra, or similar binary analysis tool </p></li> <li><p>Experience with analyzing user-mode binaries and kernel-mode drivers</p></li> <li><p>Experience with Wireshark or similar and network protocols</p></li> </ul> <h2>Salary Range</h2>USD $110,000.00 - USD $250,000.00 /Yr.The Markon pay range for this position is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",
-    "job_apply_link": "https://careers-markon.icims.com/jobs/7860/job?mobile=true&needsRedirect=false",
-    "job_posted_at_datetime_utc": "2025-11-12T00:35:20.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "markon-reverse-engineer-odenton",
-    "description_platform": "icims",
-    "description_success": true
-  },
-  {
     "job_title": "Student - Quality Analytics - Data and Analytics",
     "employer_name": "John Deere",
     "job_city": "Ames",
@@ -138,5 +110,33 @@
     "id": "eaton-product-engineer-early-talent-engineering-asheville",
     "description_platform": "generic",
     "description_success": true
+  },
+  {
+    "job_title": "Software Engineer Intern - Multiple Teams",
+    "employer_name": "WhatNot",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "🚀 Join the Future of Commerce with Whatnot! Whatnot is the largest live shopping platform in North America and Europe to buy, sell, and discover the things you love. We’re re-defining e-commerce by blending community, shopping, and entertainment into a community just for you. As a remote co-located team, we’re inspired by innovation and anchored in our values . With hubs in the US, UK, Germany, Ireland, and Poland, we’re building the future of online marketplaces –together. From fashion, beauty, and electronics to collectibles like trading cards, comic books, and even live plants, our live auctions have something for everyone. And we’re just getting started! As one of the fastest growing marketplaces , we’re looking for bold, forward-thinking problem solvers across all functional areas. Check out the latest Whatnot updates on our news and engineering blogs and join us as we enable anyone to turn their passion into a business, and bring people together through commerce. 💻 Role We are looking for intellectually curious, highly motivated individuals to join us for a 12-16 week hybrid internship during Summer 2026. Our interns work in cross-functional multidisciplinary teams enabling you to directly impact the direction of our platform. Your code and ideas will contribute to solving some of the most complex technical challenges we face today and define future engineering initiatives. Some sample projects you might work on are: Building new features for users in our live-streams Implementing growth tactics and strategies to scale our buyer and seller flows Building systems at scale that help us deliver a high trust marketplace experience By the end of your internship, you will have contributed to one of the fastest growing marketplaces ever while gaining core industry skills of project ideation, management and collaboration. We offer flexibility to work from home or from one of our global office hubs, and we value in-person time for planning, problem-solving, and connection. Team members in this role must live within commuting distance of our New York City, Los Angeles, San Francisco or Seattle hub. 👋 You Curious about who thrives at Whatnot? We’ve found that embodying a low ego, growth mindset, and high-impact drive goes a long way here. As our next Engineering Intern you should have some industry software engineering experience, plus Pursuing a degree in computer science or other related major graduating in Dec 2026 or by Summer 2027 Problem solver and out-of-the-box thinker Willing to take risks and build product and systems for 1M+ users Ability to pick up on new technologies quickly 🎁 Benefits $150/month dogfooding budget We expect all employees to actively use the product! $150/month wifi/phone reimbursement 💛 EOE Whatnot is proud to be an Equal Opportunity Employer. We value diversity, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, parental status, disability status, or any other status protected by local law. We believe that our work is better and our company culture is improved when we encourage, support, and respect the different skills and experiences represented within our workforce.",
+    "job_apply_link": "https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7/application",
+    "job_posted_at_datetime_utc": "2025-10-04T06:46:46.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "whatnot-software-engineer-intern-multiple-teams-seattle",
+    "description_platform": "ashby",
+    "description_success": true
+  },
+  {
+    "job_title": "Digital Technology Senior Analyst",
+    "employer_name": "NTT Data",
+    "job_city": "Charlotte",
+    "job_state": "NC",
+    "job_description": "Join NTT Data in this exciting opportunity.",
+    "job_apply_link": "https://nttdata.eightfold.ai/careers/job/563327925798139",
+    "job_posted_at_datetime_utc": "2025-10-01T20:10:59.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "ntt-data-digital-technology-senior-analyst-charlotte",
+    "description_platform": "generic",
+    "description_success": false
   }
 ]
