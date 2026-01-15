@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T08:03:29.004Z",
+  "lastUpdated": "2026-01-15T13:21:54.665Z",
   "jobs": [
-    {
-      "id": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston-2026-01-08-1",
-      "jobId": "weston-sampson-staff-scientist-engineering-intern-summer-2026-boston",
-      "company": "Weston & Sampson",
-      "title": "Staff Scientist/Engineering Intern - Summer 2026",
-      "postedToDiscord": "2026-01-08T08:50:47.522Z",
-      "sourceDate": "2025-12-29T11:14:06.000Z",
-      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3311/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458744723505156158",
-      "instanceNumber": 1
-    },
     {
       "id": "apex-analytix-data-analyst-intern-greensboro-2026-01-08-1",
       "jobId": "apex-analytix-data-analyst-intern-greensboro",
@@ -3235,14 +3224,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/celonis/jobs/6620068003?gh_jid=6620068003",
       "discordThreadId": "1461269532202110998",
       "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-software-college-intern-palatine-2026-01-15-1",
+      "jobId": "northrop-grumman-software-college-intern-palatine",
+      "company": "Northrop Grumman",
+      "title": "Software College Intern",
+      "postedToDiscord": "2026-01-15T13:21:41.174Z",
+      "sourceDate": "2026-01-15T07:27:20.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Software-College-Intern---Rolling-Meadows-IL_R10219490",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-software-engineer-intern-global-site-reliability-engineer-san-jose-2026-01-15-1",
+      "jobId": "tiktok-software-engineer-intern-global-site-reliability-engineer-san-jose",
+      "company": "TikTok",
+      "title": "Software Engineer Intern - Global Site Reliability Engineer",
+      "postedToDiscord": "2026-01-15T13:21:44.533Z",
+      "sourceDate": "2026-01-15T02:17:21.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7536042624604997896",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "icf-international-intern-renewable-energy-remote-in-usa-2026-01-15-1",
+      "jobId": "icf-international-intern-renewable-energy-remote-in-usa",
+      "company": "ICF International",
+      "title": "Intern - Renewable Energy",
+      "postedToDiscord": "2026-01-15T13:21:51.083Z",
+      "sourceDate": "2026-01-15T07:26:05.000Z",
+      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Renewable-Energy--Remote-_R2600120",
+      "discordThreadId": "1461349652644499518",
+      "instanceNumber": 1
+    },
+    {
+      "id": "icf-international-2026-summer-intern-grid-modeling-analytics-remote-in-usa-2026-01-15-1",
+      "jobId": "icf-international-2026-summer-intern-grid-modeling-analytics-remote-in-usa",
+      "company": "ICF International",
+      "title": "2026 Summer Intern - Grid Modeling & Analytics",
+      "postedToDiscord": "2026-01-15T13:21:54.665Z",
+      "sourceDate": "2026-01-15T07:25:59.000Z",
+      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Modeling---Analytics_R2600129",
+      "discordThreadId": "1461349666812592300",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 294,
+    "totalJobs": 297,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T08:03:29.004Z",
+      "date": "2026-01-15T13:21:54.665Z",
       "archived": 0
     }
   }
