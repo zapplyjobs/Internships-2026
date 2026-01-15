@@ -661,46 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Technology Rotational Development Program",
-      "employer_name": "Arrowstreet Capital",
-      "job_city": "Boston",
-      "job_state": "MA",
-      "job_description": "Program DescriptionThe Technology Rotational Development Program is an eighteen-month program consisting of rotations with various technology teams supporting all aspects of our investment process, including research, portfolio management, trading, investment data, investor account management. As a member of the program, you will be introduced to a wide range of technologies, systems and processes critical to the firm’s success. You will also have the opportunity to participate in networking events with senior leadership to learn more about the firm’s history, culture and values.In the first few weeks of employment, you and your cohort will attend introductory sessions led by our technology leaders. The leaders provide an overview of their team, technology stack and opportunities within their respective teams for you and your fellow rotational employees to consider.  After the conclusion of those introductory sessions, you will commence the rotation portion of the program and receive role-specific training and exposure to all aspects of software design, development and deployment. You will also gain a valuable understanding of investment data processing techniques, data modeling, scalable computing environments, analytics, and high-performance system design using AWS services. Arrowstreet leverages both Windows and Linux platforms, allowing for exposure to a wide range of technologies, including Spark, Python, C#, SQL and JavaScript/Typescript, in addition to all of the underlying AWS technologies that we leverage to take advantage of elasticity and scalability of cloud deployments. Upon conclusion of the Technology Rotational Development Program, you will have the opportunity to join a team that closely aligns with your skills and interests.QualificationsA bachelor’s degree in computer science, software engineering, computer engineering, information technology, mathematics, data science, or electrical engineering upon graduation in May/June 2026. Demonstrated academic success and achievement.Applied technology experience through prior internships and academic projects.Demonstrated interest in a software engineering career path and programming experienceAbility to thrive in a fast-paced environmentStrong communication, collaboration, and interpersonal skillsMotivation, curiosity, enthusiasm, and passion for technologyThe base salary range for this position is $100,000 - $125,000 per year.Arrowstreet Capital operates a robust talent acquisition program, and we also seek to compensate and reward our employees competitively within our industry and in line with our merit-based culture. Our approach to total compensation includes base salaries and annual discretionary bonuses, as well as a robust benefits package. The determination of a successful candidate’s base salary placement within the listed range will vary based on the candidate’s relevant experience and qualifications (which may also include relevant certifications, credentials and other education), the job responsibilities and scope, the commensurate resulting level of the position and other relevant factors. The listed range is also an estimate, and additional information regarding base salary and other elements of total compensation offered by Arrowstreet Capital to successful applicants will be communicated during the recruitment process.  Arrowstreet Capital is a Boston-based systematic investment firm that manages global equity portfolios for institutional investors around the world. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, ancestry, genetic information, age, pregnancy, medical condition, disability, veteran or military status, marital status or any other characteristic protected by federal, state, or local law.Arrowstreet Capital is committed to working with and providing reasonable accommodations for qualified individuals with disabilities and disabled veterans. If you need a reasonable accommodation for any part of the employment process due to a disability, contact us to discuss the nature of your request and contact information.",
-      "job_apply_link": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
-      "job_posted_at_datetime_utc": "2026-01-12T16:29:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "arrowstreet-capital-technology-rotational-development-program-boston",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Data Scientist - Data Scientist",
-      "employer_name": "Booz Allen",
-      "job_city": "Washington",
-      "job_state": "DC",
-      "job_description": "University, Data ScientistThe Opportunity: Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open-up new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global issues. Across private and public sectors from fraud detection to cancer research, to national intelligence, you know the answers are in the data.  We have an opportunity for you to use your analytical skills to improve our business. You’ll work closely with your customer to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle. You’ll apply analytical skills and use the right combination of tools and frameworks to turn that set of disparate data points into tangible answers to help clients make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good.Join us. The world can’t wait.  You Have:  Experience with machine learning, data mining, statistics, or graph algorithms in academic or internship environmentsExperience using R, Perl, Python, SAS, or SPSS for data analysisExperience in data gathering and analytical workKnowledge of an object-oriented language, including Java, C++, C#, or PythonAbility to obtain a Secret clearanceScheduled to obtain a Bachelor's degree by Spring 2026 or Summer 2026Nice If You Have:  Possession of excellent problem-solving skillsScheduled to obtain a Master’s degree in CS, Data Science, Computer Engineering, Systems Engineering, or a related field by Spring 2026Clearance:  Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.CompensationAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $62,000.00 to $141,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.Identity StatementAs part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.Work ModelOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.Commitment to Non-DiscriminationAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
-      "job_apply_link": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0228796",
-      "job_posted_at_datetime_utc": "2026-01-05T23:15:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "booz-allen-data-scientist-data-scientist-washington",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T19:34:14.210Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "AI Engineer Trainee",
       "employer_name": "FocusKPI",
       "job_city": "Remote in USA",
@@ -717,26 +677,6 @@
     "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T19:54:47.326Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Accelerate - Business Insights Analyst - Post Graduation Opportunity",
-      "employer_name": "Avis Budget Group",
-      "job_city": "Parsippany-Troy Hills",
-      "job_state": "NJ",
-      "job_description": "Want to accelerate your career? Join a team of driven people, performing with purpose.  At Avis Budget Group, we are proud to be a performance driven organization. Our 21,000+ employees encourage each other to be at their best through outstanding leadership, training and tools and rewards.  As a participant of our ABG Accelerate internship program you will be encouraged to explore different areas of our business to grow both personally and professionally to jump start a rewarding career. *This role is for DEC 2025 or MAY/JUNE 2026 grads ONLY*What you’ll do:Engage with business teams to understand challenges, provide thought leadership, and identify how advanced analytics solutions could be leveragedDraw conclusions and make actionable recommendations based on analysisHelp better leverage, utilize, and instill advanced analytics solutions throughout the organizationDesign and develop advanced analytics solutionsEnsure that advanced analytics solutions are practical and effective based on expertise and experienceDevelop processes and tools to measure and monitor solution performance and value achievementContinually improve existing analytical based solutionsWhat we’re looking for:Bachelor’s / Master's degree in Business Analytics, Data Engineering, Data Science, Econometrics, Statistics or related fieldInternship experience delivering analytical solutions or equivalent combination of education and relevant internship experience in data analytic type roles.Experience with database queries (e.g., Oracle, SQLServer) and at least one programming language (e.g. Python or R)Knowledge of BI tools (e.g., Tableau, Power BI)Ability to think strategically and identify critical success factors when developing solutionsStrong communication, organization, and time management skillsAbility to work effectively in a team oriented, high demand, and fast paced environmentThe annual starting salary for this position is between $60,000 – $85,000.Factors that may affect starting pay within this range include geography/market, skills, education, work experience, and other qualifications of the successful candidate.Who we are:Here at Avis Budget Group, you will be joining a team of 25,000 driven people, performing with purpose. Together, we’re moving the future of transportation forward with our innovative, customer-focused solutions.Our culture is performance driven, where we encourage and support each other to be at our best through leadership, training, tools, and rewards.We are proud to make a positive difference to the lives of our colleagues, customers, and communities where we operate.Avis Budget Group is an Equal Opportunity Employer – Qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran or any other category protected by applicable law.This advertisement does not constitute a promise or guarantee of employment. This advertisement describes the general nature and level of this position only. Essential functions and responsibilities may change as business needs require. The compensation and benefits information is accurate as of the date of this posting. The Company reserves the right to modify this information at any time, with or without notice, subject to applicable law. This position may be with any affiliate of Avis Budget Group.ParsippanyNew JerseyUnited States of America",
-      "job_apply_link": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Business-Insights-Analyst--Post-Graduation-Opportunity-_R0181082",
-      "job_posted_at_datetime_utc": "2025-12-13T15:34:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "avis-budget-accelerate-business-insights-analyst-post-graduation-opportunity-parsippany-troy-hills",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T20:03:26.020Z",
     "postedAt": null
   },
   {
@@ -1045,16 +985,18 @@
       "employer_name": "Hines",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Hines in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p>When you join Hines, you will embark on a career journey fueled by vision and guided by leaders who set the standards of our industry. Our legacy is rooted in innovation and excellence, earning us a spot on Fast Company’s esteemed annual list of the World’s Most Innovative Companies, as well as recognition as one of U.S. News &amp; World Report’s Best Companies to Work For in 2024. Discover endless opportunities to grow and make your mark at Hines.</p> <h2>Responsibilities</h2> <p>As an Apprentice Engineer with Hines, you will assist in the operation and maintenance of various building systems and equipment of each property and become knowledgeable about engineering field responsibilities. Responsibilities include, but are not limited to:</p> <p>&nbsp;</p> <ul> <li><p>Assist with performing preventive maintenance and repairs on all mechanical, electrical, plumbing and HVAC systems including, but not limited to pumps, chillers, boilers, air compressors and air handling units.</p></li> <li><p>Make adjustments and changes to HVAC and related equipment in order to maintain established operating criteria within the guidelines set forth by the Supervisor.&nbsp;</p></li> <li><p>Perform general repairs, maintenance and replacement of building components including, but not limited to: building fixtures and appliances, plumbing and electrical.</p></li> <li><p>Participate in the water treatment chemical programs established in the property.</p></li> <li><p>Maintain operation logs and files, where appropriate, to include, but not limited to: central plant operations, chemical consumption logs and other equipment or operation inspection logs specific to the property.</p></li> <li><p>Apply basic knowledge and skills in HVAC distribution and controls in order to make adjustments and/or corrective actions to resolve work orders.</p></li> <li><p>Provide prompt and courteous response to tenant requests within the guidelines set forth by Hines.</p></li> <li><p>Maintain ethical, professional, and courteous relations with contractors and tenants.</p></li> <li><p>Establish and maintain a cooperative working relationship with the entire operation staff and perform as a team member.</p></li> <li><p>Participate and learn all current Hines and property emergency procedures including but not limited to:</p> <ul> <li><p>Assist with directing building occupants with evacuations</p></li> <li><p>Assist with bomb searches</p></li> <li><p>Assist with life safety system alarms</p></li> <li><p>Assist emergency authorities and response teams</p></li> </ul></li> <li><p>Develop understanding and usage of fire alarm and life safety systems at assigned property</p></li> <li><p>Adhere to all Hines and property policies and procedures and perform all duties in a safe manner.</p></li> <li><p>Actively participate in required training activities and seminars.</p></li> </ul> <h2>Qualifications</h2> <p>Minimum Requirements include:</p> <p>&nbsp;</p> <ul> <li>High school diploma or equivalent from an accredited institution.</li> <li>One year of related experience preferred.</li> <li><p>Related trade certifications preferred.</p></li> <li><p>Continually develop building engineering and related knowledge.</p></li> <li><p>Interact with employees, visitors and contractors with poise and diplomacy.</p></li> <li><p>Develop sufficient computer skills to effectively administer required engineering programs.</p></li> <li><p>Read and understand a variety of instructions, including equipment instruction manuals, furnished in written, oral, or schedule form.</p></li> <li><p>Understand correct usage of power tools (pneumatic, electric or engine drive), drill motors, saws, grinder, and impact wrenches, etc.</p></li> <li><p>Compute basic mathematical equations.</p></li> <li><p>Communicate effectively both verbally and in writing.</p></li> <li><p>Maintain calm demeanor in emergency situations.</p></li> <li><p>Understand and apply correct usage of all personal safety equipment.</p></li> <li><p>When applicable, obtain required city and/or government licenses or permits (i.e., Boiler Operating Permit, State Maintenance Electrician’s License, EPA CFC Universal Certification Technician certificate, etc.).</p></li> <li><p>Work indoors approximately 80% of the time and outdoors approximately 20% of the time.</p></li> <li><p>Use olfactory, auditory, and visual senses.</p></li> <li><p>Work standing all day.</p></li> <li><p>Ability to lift 25 lbs. or more.</p></li> <li><p>Climb up and down stairs and ladders.</p></li> <li><p>Access remote work areas and confined spaces (i.e., crawl spaces, roofs).</p></li> <li><p>Use full range of manual dexterity (i.e., sitting, squatting, bending, kneeling, walking, and lifting).</p></li> <li><p>Meet the shift working requirements of the assigned property; shifts may include early mornings, late evenings, weekends, and some holidays.</p></li> <li><p>Work overtime as business needs deem appropriate.</p></li> </ul> <h2>Closing</h2> <p>At Hines, we strive for excellence as a leading global real estate investment manager, driven by our by our belief that real estate is fundamentally about people. Our diverse portfolio spans $93.2 billion¹ of assets across such property types as living, office, retail, mixed-use, logistics and life science projects – all designed to enhance value, connection and inspiration. Our strategic approach integrates local expertise with global knowledge, taking calculated risks aligned with our convictions to exceed expectations and tailor solutions to our clients' needs.</p> <p>While our projects are renowned for enhancing cities and pioneering sustainable practices, we recognize that the true driving force behind Hines' success is our 5,000 dedicated employees in 30 countries who draw on our 65-year history to build the world forward. This is why we prioritize investing in our people, offering comprehensive training, competitive compensation, robust benefits and generous vacation packages. By centering our focus on the growth and wellbeing of our team, we cultivate an inclusive environment where everyone, including our clients, can thrive.</p> <p>Hines is proud to be named to Fast Company’s prestigious annual list of the World’s Most Innovative Companies for 2024. ¹Includes both the global Hines organization and RIA AUM as of December 31, 2023.</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><em>We are an equal opportunity employer and support workforce diversity.</em></p> <p>&nbsp;</p> <p><em>No calls or emails from third parties at this time please.</em></p>",
       "job_apply_link": "https://careers-hines.icims.com/jobs/13412/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-10-17T04:14:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "hines-apprentice-engineer-remote-in-usa"
+      "id": "hines-apprentice-engineer-remote-in-usa",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T22:03:26.047Z",
     "postedAt": null
   },
   {
@@ -1063,16 +1005,18 @@
       "employer_name": "TikTok",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_description": "View our opening for Engineer Graduate: (Software Engineer Graduate - Data-Search-TikTok.US - San Jose) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
       "job_apply_link": "https://lifeattiktok.com/search/7515280815460403474",
       "job_posted_at_datetime_utc": "2025-08-07T08:17:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "tiktok-graduate-software-engineer-data-search-tiktok-us-san-jose"
+      "id": "tiktok-graduate-software-engineer-data-search-tiktok-us-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T22:03:26.047Z",
     "postedAt": null
   },
   {
@@ -1081,16 +1025,18 @@
       "employer_name": "Uline",
       "job_city": "Kenosha",
       "job_state": "WI",
-      "job_description": "Join Uline in this exciting opportunity.",
+      "job_description": "Software Developer InternshipPaid Internship - Summer 2026Corporate Headquarters12575 Uline Drive, Pleasant Prairie, WI 53158Ready to boost your technical skills and kick-start your career? Join Uline as a 2026 Software Developer Intern! You'll get hands-on experience working alongside IT experts to develop custom software solutions for our growing North American company!A 2025 Handshake Early Talent Award-winning company!Position ResponsibilitiesParticipate in full stack application design and development.Collaborate in an Agile Scrum team to develop software using technologies like Java, Angular, C#, .NET, JPA and SQL.Troubleshoot and resolve software-related issues and maintain code using unit testing.Use GIT to track source code changes.Work with business analysts to gather requirements.Minimum RequirementsThis full-time, 12-week internship is open to Junior-status college students only.Pursuing a bachelor’s degree in IT, Computer Science or a related field with two semesters of programming experience.Strong collaboration and communication skills.Benefits of a Uline InternshipGain professional work experience by executing meaningful business projects.Work with a dedicated mentor assigned specifically to you.Live nearby in complementary housing for out-of-town interns.Join a positive and collaborative in-person work environment.Earn competitive pay over summer and the potential to join Uline full-time upon graduation.Intern Perks\"Lunch and Learn\" sessions to expand your business and industry knowledge.Outings and networking events with interns across all departments.On-site café with meals prepared fresh by executive chefs.First-class fitness center with sauna and walking trails.About UlineUline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 9,000 employees across 14 locations.Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.EEO/AA Employer/Vet/Disabled#LI-MW3#CORP(#IN-PPIN3)Our employees make the difference and we are committed to offering exceptional benefits and perks!  Explore Uline.jobs to learn more!",
       "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R260582",
       "job_posted_at_datetime_utc": "2026-01-15T12:17:01.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "uline-software-developer-internship-summer-2026-kenosha"
+      "id": "uline-software-developer-internship-summer-2026-kenosha",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T13:54:28.819Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T22:03:26.047Z",
     "postedAt": null
   },
   {
