@@ -20416,5 +20416,623 @@
     "job_title": "Associate Data Engineering - Launchpad",
     "company": "Lowe's ",
     "first_seen": "2026-01-15T13:54:28.764Z"
+  },
+  "uipath-software-engineer-intern-bellevue": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Software Engineer Intern",
+    "company": "UiPath",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "university-of-virginia-student-data-associate-charlottesville": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Student Data Associate",
+    "company": "University of Virginia",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "pennstate-university-research-assistant-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Research Assistant",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "sdsu-research-foundation-graduate-student-san-diego": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Graduate Student",
+    "company": "SDSU Research Foundation",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "texas-a&m-international-university-undergraduate-research-assistant---mseip-engineering-laredo": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Undergraduate Research Assistant - MSEIP-Engineering",
+    "company": "Texas A&M International University",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "deloitte-deloitte-consulting-llp---government-&-public-services-gilbert": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Deloitte Consulting LLP - Government & Public Services",
+    "company": "Deloitte",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "ohio-state-university-student-assistant-software-developer-columbus": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Student Assistant Software Developer",
+    "company": "Ohio State University",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "parsons-engineer-/-pt-opportunity-centreville": {
+    "assigned_date": "2026-01-15T15:17:37.545Z",
+    "job_title": "Engineer / PT opportunity",
+    "company": "Parsons",
+    "first_seen": "2026-01-15T15:17:37.545Z"
+  },
+  "crowe-data-analytics-developer-chicago": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Data Analytics Developer",
+    "company": "Crowe",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "sherwin-williams-leadership-development-program-r&d-greensboro": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Leadership Development Program R&D",
+    "company": "Sherwin-Williams",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "grid-ai-prompt-engineer-seattle": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "AI Prompt Engineer",
+    "company": "Grid",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "emerson-electric-software-solutions-development-program---software-development-program-elyria": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Software Solutions Development Program - Software Development Program",
+    "company": "Emerson Electric",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "franklin-templeton-investment-operations-fort-lauderdale": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Investment Operations",
+    "company": "Franklin Templeton",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "capital-one-manager-–-data-scientist---velocity-black---remote-eligible-mclean": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Manager – Data Scientist - Velocity Black - Remote-Eligible",
+    "company": "Capital One",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "pennstate-university-physics-department---research-support---ultrahigh-energy-neutrinos-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Physics Department - Research Support - Ultrahigh Energy Neutrinos",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "franklin-templeton-fund-administration-&-oversight-rancho-cordova": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Fund Administration & Oversight",
+    "company": "Franklin Templeton",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "franklin-templeton-investment-management-data-science-baltimore": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Investment Management Data Science",
+    "company": "Franklin Templeton",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "brookhaven-lab-student-assistant---lightshowai---temporary/part-time-shirley": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Student Assistant - Lightshowai - Temporary/Part-time",
+    "company": "Brookhaven Lab",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "corsair-data-scientist---e-commerce-milpitas": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Data Scientist - E-commerce",
+    "company": "Corsair",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "university-of-virginia-research-computing-assistant-charlottesville": {
+    "assigned_date": "2026-01-15T15:17:37.546Z",
+    "job_title": "Research Computing Assistant",
+    "company": "University of Virginia",
+    "first_seen": "2026-01-15T15:17:37.546Z"
+  },
+  "zoox-labeling-technician-san-mateo": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Labeling Technician",
+    "company": "Zoox",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-graduate-research-assistant-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Graduate Research Assistant",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "university-of-texas---austin-postdoctoral-fellow---transmission-electron-microscopy-austin": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Postdoctoral Fellow - Transmission Electron Microscopy",
+    "company": "University of Texas - Austin",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "centific-student-worker-remote-in-usa": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Student Worker",
+    "company": "Centific",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-research-assistant-in-fair-lab---prof.-hadi-hosseini-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-part-time-research-data-collection-and-analysis-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Part-Time Research Data Collection and Analysis",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-part-time-research-assistant---public-health-sciences-hershey": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Part time Research Assistant - Public Health Sciences",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-research-associate-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Research Associate",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "sierra-nevada-corporation-military-fellowship-program:-software-engineer-southern-pines": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Military Fellowship Program: Software Engineer",
+    "company": "Sierra Nevada Corporation",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "texas-a&m-international-university-graduate-research-assistant---engineering-nsf-cap-laredo": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Graduate Research Assistant - Engineering NSF CAP",
+    "company": "Texas A&M International University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-student-researcher-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Student Researcher",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "hewlett-packard-enterprise-post-doc-research-associate---networking-and-distributed-systems-lab-milpitas": {
+    "assigned_date": "2026-01-15T15:17:37.547Z",
+    "job_title": "Post Doc Research Associate - Networking and Distributed Systems Lab",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-01-15T15:17:37.547Z"
+  },
+  "pennstate-university-tai-ai-project-research-assistant-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.548Z",
+    "job_title": "Tai AI Project Research Assistant",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.548Z"
+  },
+  "ge-vernova-ge-vernova-safe-human-robot-interaction-and-planning---summer-2026-schenectady": {
+    "assigned_date": "2026-01-15T15:17:37.548Z",
+    "job_title": "GE Vernova Safe Human Robot Interaction and Planning - Summer 2026",
+    "company": "GE Vernova",
+    "first_seen": "2026-01-15T15:17:37.548Z"
+  },
+  "argonne-national-laboratory-graduate-research-aide---nuclear-engineering-woodridge": {
+    "assigned_date": "2026-01-15T15:17:37.548Z",
+    "job_title": "Graduate Research Aide - Nuclear Engineering",
+    "company": "Argonne National Laboratory",
+    "first_seen": "2026-01-15T15:17:37.548Z"
+  },
+  "link-target-digital-network-analyst-all-levels-odenton": {
+    "assigned_date": "2026-01-15T15:17:37.548Z",
+    "job_title": "Target Digital Network Analyst All Levels",
+    "company": "Link",
+    "first_seen": "2026-01-15T15:17:37.548Z"
+  },
+  "pennstate-university-part-time-–-student---undergraduate-reading": {
+    "assigned_date": "2026-01-15T15:17:37.548Z",
+    "job_title": "Part Time – Student - Undergraduate",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.548Z"
+  },
+  "pennstate-university-ist-graduate-assistant---dr.-calacci-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "IST Graduate Assistant - Dr. Calacci",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-research-assistant---chart-understanding-project-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Research Assistant - Chart Understanding Project",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-undergraduate-researcher-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Undergraduate Researcher",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-part-time-smeal---computer-science-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Part time Smeal - Computer Science",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-part-time-grad-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Part-Time Grad",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "sdsu-research-foundation-niwc-senior-san-diego": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Niwc Senior",
+    "company": "SDSU Research Foundation",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "voya-financial-student---data-analytics-atlanta": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Student - Data Analytics",
+    "company": "Voya Financial",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-cse-part-time-researcher-rui-zhang-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "CSE Part-Time Researcher-Rui Zhang",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-pt-research-assistant/programmer---recendes-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "PT Research Assistant/Programmer - Recendes",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-undergraduate-research-assistant-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Undergraduate Research Assistant",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-part-time-research-associate-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Part-Time Research Associate",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "the-wharton-school-geospatial-research-assistant---wharton-impact-philadelphia": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Geospatial Research Assistant - Wharton Impact",
+    "company": "The Wharton School",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "texas-a&m-international-university-undergraduate-research-assistant---urda-caprock-integrity-laredo": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Undergraduate Research Assistant - URDA Caprock Integrity",
+    "company": "Texas A&M International University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-part-time-undergraduate-researcher-narayanan-group-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Part-Time Undergraduate Researcher Narayanan Group",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "northrop-grumman-software-engineer/principal-software-engineer-aurora": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Software Engineer/Principal Software Engineer",
+    "company": "Northrop Grumman",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "pennstate-university-part-time-research-assistants-statistics-state-college": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Part-Time Research Assistants-Statistics",
+    "company": "PennState University",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "metalenz-computational-imaging-engineer-intern-boston": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Computational Imaging Engineer Intern",
+    "company": "Metalenz",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "primetals-technologies-associate-–-engineering-document-control-lake-mary": {
+    "assigned_date": "2026-01-15T15:17:37.549Z",
+    "job_title": "Associate – Engineering Document Control",
+    "company": "Primetals Technologies",
+    "first_seen": "2026-01-15T15:17:37.549Z"
+  },
+  "berkshire-hathaway-energy-sys-&-development-analyst-senior-des-moines": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "Sys & Development Analyst Senior",
+    "company": "Berkshire Hathaway Energy",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "university-of-virginia-ccl-digital-humanities-and-engagement-sra---student-wage-charlottesville": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "CCL Digital Humanities and Engagement SRA - Student Wage",
+    "company": "University of Virginia",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "exxonmobil-analytical-science:-optical-spectroscopist-houston": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "Analytical Science: Optical Spectroscopist",
+    "company": "ExxonMobil",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "exxonmobil-chromatography-scientist---gc-&-hyphenated-techniques-houston": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "Chromatography Scientist - GC & Hyphenated Techniques",
+    "company": "ExxonMobil",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "oracle-software-engineer-intern---oracle-retail-burlington": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "Software Engineer Intern - Oracle Retail",
+    "company": "Oracle",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "lawrence-berkeley-national-laboratory-computing-sciences-intern-berkeley": {
+    "assigned_date": "2026-01-15T15:17:37.550Z",
+    "job_title": "Computing Sciences Intern",
+    "company": "Lawrence Berkeley National Laboratory",
+    "first_seen": "2026-01-15T15:17:37.550Z"
+  },
+  "bytedance-student-researcher---multiple-teams-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Multiple Teams",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "bytedance-student-researcher---seed-vision---multimodal-joint-modeling-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Seed Vision - Multimodal Joint Modeling",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "bytedance-student-researcher---seed-llm---scientific-coding-agent-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Seed LLM - Scientific Coding Agent",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "bytedance-student-researcher---seed-vision---world-models-for-video-generation-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Seed Vision - World Models for Video Generation",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "bytedance-student-researcher---multiple-teams-seattle": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Multiple Teams",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "bytedance-student-researcher---seed-vision-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.551Z",
+    "job_title": "Student Researcher - Seed Vision",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.551Z"
+  },
+  "zoox-part-time-software-engineer---6-month-contract-san-mateo": {
+    "assigned_date": "2026-01-15T15:17:37.552Z",
+    "job_title": "Part-Time Software Engineer - 6-month Contract",
+    "company": "Zoox",
+    "first_seen": "2026-01-15T15:17:37.552Z"
+  },
+  "bytedance-student-researcher---video-compression-standard---2026-start-san-diego": {
+    "assigned_date": "2026-01-15T15:17:37.553Z",
+    "job_title": "Student Researcher - Video Compression Standard - 2026 Start",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.553Z"
+  },
+  "bytedance-student-researcher---seed-multimodality-&-world-model---rl-+-streaming-video-understanding-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.553Z",
+    "job_title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.553Z"
+  },
+  "bytedance-student-researcher---seed-vision---multimodal-video-generation-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.553Z",
+    "job_title": "Student Researcher - Seed Vision - Multimodal Video Generation",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.553Z"
+  },
+  "suno-software-engineering-internship-cambridge": {
+    "assigned_date": "2026-01-15T15:17:37.553Z",
+    "job_title": "Software Engineering Internship",
+    "company": "Suno",
+    "first_seen": "2026-01-15T15:17:37.553Z"
+  },
+  "bytedance-student-researcher---multimedia-streaming---2026-start','phd-san-diego": {
+    "assigned_date": "2026-01-15T15:17:37.554Z",
+    "job_title": "Student Researcher - Multimedia Streaming - 2026 Start','PhD",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.554Z"
+  },
+  "bytedance-student-researcher-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.555Z",
+    "job_title": "Student Researcher",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.555Z"
+  },
+  "bytedance-student-researcher---seed-vision---ai-platform-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.555Z",
+    "job_title": "Student Researcher - Seed Vision - AI Platform",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.555Z"
+  },
+  "bytedance-student-researcher---infrastructure---inference-seattle": {
+    "assigned_date": "2026-01-15T15:17:37.555Z",
+    "job_title": "Student Researcher - Infrastructure - Inference",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.555Z"
+  },
+  "ag-technologies-java-was-training-and-placement-chesterfield": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java WAS Training and Placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-java-training-and-placemnt-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java training and placemnt",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-java-networking-training-and-placement-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java Networking Training and Placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-java/was-training-chesterfield": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java/WAS Training",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-java/obiee/salesforce-training-and-placement-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java/OBIEE/Salesforce training and placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-free-training-and-placement-on-java/obiee/salesforce-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Free training and placement on Java/OBIEE/Salesforce",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-obiee/sccm/microstrategy-training-cum-placement-chesterfield": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "OBIEE/SCCM/Microstrategy training cum placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-weblogic-training-and-placement-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "WebLogic Training and Placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "kanshe-infotech-data-science-training-lexington": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Data Science Training",
+    "company": "Kanshe Infotech",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-training-and-placement-on-java/j2ee/hadoop-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Training and Placement on Java/J2EE/Hadoop",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "kanshe-infotech-generative-ai-training-raleigh": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Generative AI Training",
+    "company": "Kanshe Infotech",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-java-training-and-placement-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Java Training and Placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-free-training-and-placement-weblogic/devops/java-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "Free Training and Placement Weblogic/Devops/Java",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-obiee/salesforce/networking-training-and-placement-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "OBIEE/Salesforce/Networking training and placement",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "prosidian-consulting-gis-specialist---technician---levels-1-and-2-washington": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "GIS Specialist - Technician - Levels 1 and 2",
+    "company": "Prosidian Consulting",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-etl-informatica/obiee-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "ETL Informatica/OBIEE",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "ag-technologies-obiee/-etl/-java-job-opportunity-for-opt/cpt-dallas": {
+    "assigned_date": "2026-01-15T15:17:37.556Z",
+    "job_title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
+    "company": "AG Technologies",
+    "first_seen": "2026-01-15T15:17:37.556Z"
+  },
+  "bytedance-student-researcher---seed-vision---long-range-video-generation-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---seed-llm-horizon---async-agent-&-proactive-agent-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Seed LLM Horizon - Async Agent & Proactive Agent",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---seed-llm---code-generation-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Seed LLM - Code Generation",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---seed-llm-horizon---memory-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Seed LLM Horizon - Memory",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---llm-post-training---agent-&-reinforcement-learning-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---seed-llm-post-training---reward-modeling-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---multimodal-interaction-&-world-model---rl-focused-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Multimodal Interaction & World Model - RL Focused",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "bytedance-student-researcher---multimodal-interaction-&-world-model---unified-model-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
+    "company": "ByteDance",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "n1-research-intern-oakland": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Research Intern",
+    "company": "N1",
+    "first_seen": "2026-01-15T15:17:37.557Z"
+  },
+  "chipstack-research-intern---ph.d-san-jose": {
+    "assigned_date": "2026-01-15T15:17:37.557Z",
+    "job_title": "Research Intern - Ph.D",
+    "company": "ChipStack",
+    "first_seen": "2026-01-15T15:17:37.557Z"
   }
 }
