@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T22:55:15.807Z",
+  "lastUpdated": "2026-01-15T23:04:01.067Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3752,14 +3752,69 @@
       "sourceUrl": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R260590",
       "discordThreadId": "1461493956339826884",
       "instanceNumber": 1
+    },
+    {
+      "id": "optiver-futurefocus-tech-2026-chicago-2026-01-15-1",
+      "jobId": "optiver-futurefocus-tech-2026-chicago",
+      "company": "Optiver",
+      "title": "Futurefocus Tech 2026",
+      "postedToDiscord": "2026-01-15T23:03:44.297Z",
+      "sourceDate": "2025-11-12T23:51:13.000Z",
+      "sourceUrl": "https://optiver.com/working-at-optiver/career-opportunities/8286208002/?gh_jid=8286208002",
+      "discordThreadId": "1461496089344741377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oracle-undergrad-software-engineer-oracle-health-and-analytics-seattle-2026-01-15-1",
+      "jobId": "oracle-undergrad-software-engineer-oracle-health-and-analytics-seattle",
+      "company": "Oracle",
+      "title": "Undergrad Software Engineer - Oracle Health and Analytics",
+      "postedToDiscord": "2026-01-15T23:03:50.797Z",
+      "sourceDate": "2025-10-31T12:53:19.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/306138",
+      "discordThreadId": "1461496116259324067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "hines-apprentice-engineer-remote-in-usa-2026-01-15-1",
+      "jobId": "hines-apprentice-engineer-remote-in-usa",
+      "company": "Hines",
+      "title": "Apprentice Engineer",
+      "postedToDiscord": "2026-01-15T23:03:54.174Z",
+      "sourceDate": "2025-10-17T04:14:43.000Z",
+      "sourceUrl": "https://careers-hines.icims.com/jobs/13412/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461496130956431724",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lowe-s-associate-software-engineer-launchpad-charlotte-2026-01-15-1",
+      "jobId": "lowe-s-associate-software-engineer-launchpad-charlotte",
+      "company": "Lowe's ",
+      "title": "Associate Software Engineer - Launchpad",
+      "postedToDiscord": "2026-01-15T23:03:57.696Z",
+      "sourceDate": "2026-01-13T23:44:54.000Z",
+      "sourceUrl": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02373164",
+      "discordThreadId": "1461496145158344825",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lowe-s-associate-data-engineering-launchpad-charlotte-2026-01-15-1",
+      "jobId": "lowe-s-associate-data-engineering-launchpad-charlotte",
+      "company": "Lowe's ",
+      "title": "Associate Data Engineering - Launchpad",
+      "postedToDiscord": "2026-01-15T23:04:01.067Z",
+      "sourceDate": "2026-01-06T23:55:09.000Z",
+      "sourceUrl": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02367710",
+      "discordThreadId": "1461496159863574540",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 341,
+    "totalJobs": 346,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T22:55:15.807Z",
+      "date": "2026-01-15T23:04:01.067Z",
       "archived": 0
     }
   }

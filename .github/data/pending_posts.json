@@ -674,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:30:18.053Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:04:26.397Z"
   },
   {
     "job": {
@@ -694,70 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T21:30:18.053Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Graduate - Infrastructure System Lab",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Research Scientist Graduate (Infrastructure System Lab)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537470720265029906/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T09:14:18.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
     "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:30:18.053Z",
-    "postedAt": "2026-01-15T22:55:18.814Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Scientist Graduate - Infrastructure System Lab",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Research Scientist Graduate (Infrastructure System Lab)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7537468056051403026/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T02:26:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-graduate-infrastructure-system-lab-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T21:55:07.664Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "IT Business Enablement Intern",
-      "employer_name": "Fulton Bank",
-      "job_city": "Franklin",
-      "job_state": "MA",
-      "job_description": "Join Fulton Bank in this exciting opportunity.",
-      "job_apply_link": "https://careers-fult.icims.com/jobs/22987/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-10-31T01:28:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "fulton-bank-it-business-enablement-intern-franklin",
-      "description_platform": "icims",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T21:55:07.664Z",
-    "postedAt": "2026-01-15T22:55:18.814Z"
+    "postedAt": "2026-01-15T23:04:26.397Z"
   },
   {
     "job": {
@@ -774,70 +714,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": "2026-01-15T22:03:26.047Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Graduate Software Engineer - Data-Search-Tiktok.US",
-      "employer_name": "TikTok",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Engineer Graduate: (Software Engineer Graduate - Data-Search-TikTok.US - San Jose) - 2026 Start (PhD) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7515280815460403474",
-      "job_posted_at_datetime_utc": "2025-08-07T08:17:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-graduate-software-engineer-data-search-tiktok-us-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
     "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T22:03:26.047Z",
-    "postedAt": "2026-01-15T22:55:18.814Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Developer Internship - Summer 2026",
-      "employer_name": "Uline",
-      "job_city": "Kenosha",
-      "job_state": "WI",
-      "job_description": "Software Developer InternshipPaid Internship - Summer 2026Corporate Headquarters12575 Uline Drive, Pleasant Prairie, WI 53158Ready to boost your technical skills and kick-start your career? Join Uline as a 2026 Software Developer Intern! You'll get hands-on experience working alongside IT experts to develop custom software solutions for our growing North American company!A 2025 Handshake Early Talent Award-winning company!Position ResponsibilitiesParticipate in full stack application design and development.Collaborate in an Agile Scrum team to develop software using technologies like Java, Angular, C#, .NET, JPA and SQL.Troubleshoot and resolve software-related issues and maintain code using unit testing.Use GIT to track source code changes.Work with business analysts to gather requirements.Minimum RequirementsThis full-time, 12-week internship is open to Junior-status college students only.Pursuing a bachelor’s degree in IT, Computer Science or a related field with two semesters of programming experience.Strong collaboration and communication skills.Benefits of a Uline InternshipGain professional work experience by executing meaningful business projects.Work with a dedicated mentor assigned specifically to you.Live nearby in complementary housing for out-of-town interns.Join a positive and collaborative in-person work environment.Earn competitive pay over summer and the potential to join Uline full-time upon graduation.Intern Perks\"Lunch and Learn\" sessions to expand your business and industry knowledge.Outings and networking events with interns across all departments.On-site café with meals prepared fresh by executive chefs.First-class fitness center with sauna and walking trails.About UlineUline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 9,000 employees across 14 locations.Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.EEO/AA Employer/Vet/Disabled#LI-MW3#CORP(#IN-PPIN3)Our employees make the difference and we are committed to offering exceptional benefits and perks!  Explore Uline.jobs to learn more!",
-      "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Developer-Internship---Summer-2026_R260582",
-      "job_posted_at_datetime_utc": "2026-01-15T12:17:01.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uline-software-developer-internship-summer-2026-kenosha",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T13:54:28.819Z",
-    "enrichedAt": "2026-01-15T22:03:26.047Z",
-    "postedAt": "2026-01-15T22:55:18.814Z"
-  },
-  {
-    "job": {
-      "job_title": "Business Intelligence Developer Intern",
-      "employer_name": "Uline",
-      "job_city": "Kenosha",
-      "job_state": "WI",
-      "job_description": "Business Intelligence Developer InternshipPaid Internship - Summer 2026Corporate Headquarters12575 Uline Drive, Pleasant Prairie, WI 53158Ready to boost your skills and kick-start your career? Join Uline as a 2026 Business Intelligence Developer Intern! You’ll gain hands-on experience and work with professionals at a company that recognizes hard work and values people. With our growth and stability, your career possibilities are endless!A 2025 Handshake Early Talent Award-winning company!Position ResponsibilitiesCollaborate with senior Business Intelligence Developer professionals on data integrations, reports and advanced analytics.Work with business partners to understand their needs and provide actionable solutions.Use tools like Informatica, Python and Microsoft's BI Stack to develop solutions.Keep documentation up to date, including requirements, designs and user guides.Minimum RequirementsThis full-time, 12-week internship is open to Junior-status college students only.Pursuing a bachelor’s or master’s degree in IT, data science or a related field.Strong analytical, problem-solving and critical thinking skills.Experience using Python and SQL.Benefits of a Uline InternshipGain professional work experience by executing meaningful business projects.Work with a dedicated mentor assigned specifically to you.Live nearby in complementary housing for out-of-town interns.Join a positive and collaborative in-person work environment.Earn competitive pay over summer and the potential to join Uline full-time upon graduation.Intern Perks\"Lunch and Learn\" sessions to expand your business and industry knowledge.Outings and networking events with interns across all departments.On-site café with meals prepared fresh by executive chefs.First-class fitness center with sauna and walking trails.About UlineUline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 9,000 employees across 14 locations.Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.EEO/AA Employer/Vet/Disabled#LI-MW3#CORP(#IN-PPIN3)#ZR-HQINOur employees make the difference and we are committed to offering exceptional benefits and perks!  Explore Uline.jobs to learn more!",
-      "job_apply_link": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2026_R260590",
-      "job_posted_at_datetime_utc": "2026-01-15T12:17:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "uline-business-intelligence-developer-intern-kenosha",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T13:54:28.819Z",
-    "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": "2026-01-15T22:55:18.814Z"
+    "postedAt": "2026-01-15T23:04:26.397Z"
   },
   {
     "job": {
@@ -874,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T13:54:28.819Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:04:26.397Z"
   },
   {
     "job": {
@@ -894,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T13:54:28.819Z",
     "enrichedAt": "2026-01-15T22:30:21.829Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T23:04:26.397Z"
   },
   {
     "job": {
@@ -1045,16 +925,18 @@
       "employer_name": "Parsons",
       "job_city": "Centreville",
       "job_state": "VA",
-      "job_description": "Join Parsons in this exciting opportunity.",
+      "job_description": "In a world of possibilities, pursue one with endless opportunities. Imagine Next! At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential. Unleash your talent and redefine what’s possible. Job Description:Parsons Special Programs and Systems group is hiring cleared software engineers to develop specialized software within a first-class team of developers, computer scientists, and cyber specialists. Specifically, you will have the opportunity to:Part-time Engineer opportunity ideal for studentParticipate in or lead design and code reviewsCreate real-time/stream/batch processing softwareDevelop scalable, web-based data visualization and analytic platforms using Java, Spring, servlets, Extract Transform Load (ETL) pipelines, microservices, message brokers, and scalable databases (Hadoop, Elasticsearch, PostgreSQL)Build and deploy software using Python, Gradle, Docker, Vagrant, Ansible, Maven, Gitlab, and/or Bash.Learn about new software and hardware technology platformsRequired Qualifications:Active Top Secret SCI clearanceWork in person in Centreville, VA OR Charlotte, NCWorking towards a degree in computer science, computer engineering, software engineering, or a related disciplineJava, C++, or JavaScript development skillsDesired Qualifications:Active polygraphExperience working in a Linux development environmentKnowledge of networking concepts including the OSI modelDevOps experience with Jenkins, Gitlab, Gradle, CMake, Zabbix, and/or VagrantC++ experience with Boost, TBB, and/or DPDKVirtual machine and/or containerization experience with VMWare, Libvirt, Docker, and/or PodmanDeployment script experience with Ansible or SaltOperational Linux skills with technology such as SNMP, NTP, Systemd, Cron, DNF, and/or Git.Structured Query Language (SQL) experience for example with MySQL or PostgreSQLNoSQL experience for example with Hadoop, Elasticsearch, or MongoDBSpring Boot experienceScripting experience for example with Python, Bash, or ShellFront-end (full-stack) development experience with Angular and Material-UI using TypeScriptSecurity Clearance Requirement:An active Top Secret SCI security clearance is required for this position.​This position is part of our Federal Solutions team.The Federal Solutions segment delivers resources to our US government customers that ensure the success of missions around the globe. Our intelligent employees drive the state of the art as they provide services and solutions in the areas of defense, security, intelligence, infrastructure, and environmental. We promote a culture of excellence and close-knit teams that take pride in delivering, protecting, and sustaining our nation's most critical assets, from Earth to cyberspace. Throughout the company, our people are anticipating what’s next to deliver the solutions our customers need now.Salary Range: $35.05 - $61.35We value our employees and want our employees to take care of their overall wellbeing, which is why we offer best-in-class benefits such as medical, dental, vision, paid time off, 401(k), life insurance, flexible work schedules, and holidays to fit your busy lifestyle!Parsons is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, veteran status or any other protected status.We truly invest and care about our employee’s wellbeing and provide endless growth opportunities as the sky is the limit, so aim for the stars! Imagine next and join the Parsons quest—APPLY TODAY!Parsons is aware of fraudulent recruitment practices. To learn more about recruitment fraud and how to report it, please refer to https://www.parsons.com/fraudulent-recruitment/.",
       "job_apply_link": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineer---PT--opportunity_R176071-1",
       "job_posted_at_datetime_utc": "2026-01-06T23:19:24.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "parsons-engineer-pt-opportunity-centreville"
+      "id": "parsons-engineer-pt-opportunity-centreville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
@@ -1063,16 +945,18 @@
       "employer_name": "Crowe",
       "job_city": "Chicago",
       "job_state": "IL",
-      "job_description": "Join Crowe in this exciting opportunity.",
+      "job_description": "Your Journey at Crowe Starts Here:At Crowe, you can build a meaningful and rewarding career. With real flexibility to balance work with life moments, you’re trusted to deliver results and make an impact. We embrace you for who you are, care for your well-being, and nurture your career. Everyone has equitable access to opportunities for career growth and leadership. Over our 80-year history, delivering excellent service through innovation has been a core part of our DNA across our audit, tax, and consulting groups. That’s why we continuously invest in innovative ideas, such as AI-enabled insights and technology-powered solutions, to enhance our services. Join us at Crowe and embark on a career where you can help shape the future of our industry.Job Description:As a Data Analytics Developer in Crowe’s Consulting Practice, your role will focus on designing and implementing data visualization and reporting solutions that empower stakeholders to make informed, data-driven decisions. You will interpret complex data requests, analyze business needs, and retrieve data using SQL or other query tools, while leveraging platforms like Power BI, Tableau, and similar technologies to translate insights into intuitive visual stories.   At Crowe, we encourage you to take initiative, experiment with new data tools, and deliver solutions that create measurable value for our clients. You’ll play a key role in shaping analytics-driven strategies that support operational performance and enhance visibility across the business. Crowe fosters a collaborative, insight-driven culture where your analytical mindset and creativity will have immediate and lasting impact.   Responsibilities:Design, build, test and maintain data pipelines, data integration, ETL processes and data management delivery within a global data lake and data warehouse environment within the Microsoft Azure Cloud Solutions. Participate in the use of Agile practices to elicit and refine requirements through an iterative process of planning, defining acceptance criteria, prioritizing, developing and delivering enterprise data asset solutions. Develop robust, scalable solutions for collecting & analyzing large data sets. Design logical data models and their physical schema design. Continuously deliver and improve prioritized data assets that enable the growth of analytics, reporting and visualization solutions. Identify project risks and impediments, notify leadership, and pro-actively work with other members of the team to complete assigned tasks as defined by project scope and timeliness. Identify data quality issues and support data governance initiative by participating in necessary activities including data profiling.Has a passion for data, reporting and analytics   Skills & Requirements: Experience with Data Visualization tools such as PowerBI, Tableau or Qlikview Experience with SQL (Microsoft, Oracle, PL-SQL, MySQL etc.), including the creation of complex views, stored procedures, functions and/or packages Ability to analyze complex data structures Understanding of dimension modelling and data warehouse concepts. Understanding of ETL concepts and familiar with one of the ETL tools such as SSIS, Talend, Informatica etc. Experience with the end users and business teams on analytics needs High comfort level working on multiple simultaneous assignments and dealing with assignment priority changes   Education:Currently pursuing a bachelor’s or master’s degree in:  Computer Science Informatics, with development experience We expect the candidate to uphold Crowe’s values of Care, Trust, Courage, and Stewardship. These values define who we are. We expect all of our people to act ethically and with integrity at all times.In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire. Crowe is not sponsoring for work authorization at this time.The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Crowe, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $62,000 - $100,000 per year.Our Benefits:Your exceptional people experience starts here. At Crowe, we know that great people are what makes a great firm. We care about our people and offer employees a comprehensive total rewards package. Learn more about what working at Crowe can mean for you!How You Can Grow:We will nurture your talent in an inclusive culture that values diversity. You will have the chance to meet on a consistent basis with your Career Coach that will guide you in your career goals and aspirations. Learn more about where talent can prosper!More about Crowe:Crowe (www.crowe.com) is one of the largest public accounting, consulting and technology firms in the United States. Crowe uses its deep industry expertise to provide audit services to public and private entities while also helping clients reach their goals with tax, advisory, risk and performance services. Crowe is recognized by many organizations as one of the country's best places to work. Crowe serves clients worldwide as an independent member of Crowe Global, one of the largest global accounting networks in the world. The network consists of more than 200 independent accounting and advisory services firms in more than 130 countries around the world.Crowe LLP provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, sexual orientation, gender identity or expression, genetics, national origin, disability or protected veteran status, or any other characteristic protected by federal, state or local laws.Crowe LLP does not accept unsolicited candidates, referrals or resumes from any staffing agency, recruiting service, sourcing entity or any other third-party paid service at any time. Any referrals, resumes or candidates submitted to Crowe, or any employee or owner of Crowe without a pre-existing agreement signed by both parties covering the submission will be considered the property of Crowe, and free of charge.Crowe will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws.Please visit our webpage to see notices of the various state and local Ban-the-Box laws and Fair Chance Ordinances, where applicable.",
       "job_apply_link": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer_R-50129",
       "job_posted_at_datetime_utc": "2026-01-05T23:39:10.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "crowe-data-analytics-developer-chicago"
+      "id": "crowe-data-analytics-developer-chicago",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
@@ -1081,16 +965,18 @@
       "employer_name": "Sherwin-Williams",
       "job_city": "Greensboro",
       "job_state": "NC",
-      "job_description": "Join Sherwin-Williams in this exciting opportunity.",
+      "job_description": "Sherwin-Williams is seeking motivated individuals who have a drive for research & development to join our R&D Leadership Development Program. This training program is designed to develop key skills and experience that will lead to a role in the Chemist track within our Performance Coatings Group, supporting one of our technical divisions which include Automotive, Coil, Industrial Wood, General Industrial, Packaging or Protective and Marine.",
       "job_apply_link": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600056",
       "job_posted_at_datetime_utc": "2026-01-05T23:24:51.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sherwin-williams-leadership-development-program-r-d-greensboro"
+      "id": "sherwin-williams-leadership-development-program-r-d-greensboro",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
@@ -1099,16 +985,18 @@
       "employer_name": "Grid",
       "job_city": "Seattle",
       "job_state": "WA",
-      "job_description": "Join Grid in this exciting opportunity.",
+      "job_description": "AI Prompt EngineerSeattle, WashingtonEngineering /Part Time /On-siteApply for this jobAbout usToday’s financial system is built to favor those with money. Grid’s mission is to level that playing field by building financial products that help users better manage their financial future. The Grid app lets users access cash, build credit, spend money, optimize their taxes, and lots, lots more.Grid is a fast-growing team that’s deeply passionate about making a difference in the lives of millions. We’re solving huge problems and believe that every team member has a big role to play. Come join our growing team in Seattle!The Role We're looking for a curious and detail-oriented Prompt Engineer Intern to join our engineering team during the semester. In this role, you'll help design, test, and optimize prompts for our backend AI agent that powers automated financial services and decision-making systems within the Grid platform. You'll create prompts that enable reliable, accurate automated financial operations.This is a hands-on technical role where you'll blend deep understanding of large language model behavior with systematic engineering practices to build prompts that deliver consistent, high-quality outputs for backend financial processing and web scraping. We prefer candidates who can start immediately.The teamWe're focused on serving our users above all else all while building a robust business. To this end, Grid's team members experience high levels of autonomy and ownership, and as a company we value curiosity, learning and growth.At Grid, you'll be surrounded by a team that is motivated, mission-driven and pragmatic.What you'll do:Design and optimize prompts for our backend AI agent that powers automated financial processing and decision-making systemsConduct rigorous experiments to evaluate prompt performance, measuring accuracy, consistency, and reliability metrics across different data inputsCollaborate with engineering and ML teams to implement prompt strategies within production backend systems and APIsDevelop comprehensive testing frameworks and maintain versioned prompt libraries with detailed performance documentationResearch advanced prompt engineering techniques and conduct statistical analysis on system outputs to optimize model behaviorWhat we're looking for:Currently pursuing a degree in Computer ScienceHands-on experience with large language models (GPT, Claude, etc.)Strong technical writing and analytical skills with attention to precision and systematic testing methodologiesDetail-oriented approach to documentation, performance measurement, and systematic experimentation in a fast-paced startup environmentAbility to work out of our Seattle officeWhat you'll gainDirect mentorship from experienced engineers and ML researchers with real-world experience building production AI systemsDeep technical understanding of prompt engineering for backend financial automation and exposure to enterprise-scale AI infrastructureExperience with performance optimization, testing frameworks, and AI system reliability in a production fintech environmentCompetitive internship compensation$35 - $50 an hourTo keep things simple, at Grid we're looking for people that want to change the world for the better and have the boldness to tackle complex problems with creative solutions.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
       "job_apply_link": "https://jobs.lever.co/Grid/8a35b0c0-5c28-4f49-8d07-2c65a5ea6af3/apply",
       "job_posted_at_datetime_utc": "2026-01-05T23:16:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "grid-ai-prompt-engineer-seattle"
+      "id": "grid-ai-prompt-engineer-seattle",
+      "description_platform": "lever",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
@@ -1117,16 +1005,18 @@
       "employer_name": "Emerson Electric",
       "job_city": "Elyria",
       "job_state": "OH",
-      "job_description": "Join Emerson Electric in this exciting opportunity.",
+      "job_description": "The Software Solutions Development Program (SDP) is a unique three-year rotational program designed to develop future technology leaders who can bridge business needs and technical solutions. This program provides hands-on experience in software development while emphasizing strategy, collaboration, system design, and stakeholder engagement. The program is a great fit for candidates interested in the impact of technology decisions and curious about product strategy, process, and people – not just code.",
       "job_apply_link": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25030712",
       "job_posted_at_datetime_utc": "2026-01-05T16:27:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "emerson-electric-software-solutions-development-program-software-development-program-elyria"
+      "id": "emerson-electric-software-solutions-development-program-software-development-program-elyria",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
@@ -1135,16 +1025,18 @@
       "employer_name": "Franklin Templeton",
       "job_city": "Fort Lauderdale",
       "job_state": "FL",
-      "job_description": "Join Franklin Templeton in this exciting opportunity.",
+      "job_description": "At Franklin Templeton, we’re advancing our industry forward by developing new and innovative ways to help our clients achieve their investment goals. Our dynamic firm spans asset management, wealth management and fintech, offering many ways to help investors make progress toward their goals. Talented teams working around the globe bring expertise that’s both broad and unique. And our welcoming, respectful and inclusive culture provides opportunities to help you reach your potential while helping our clients reach theirs.Come join us in delivering better outcomes for our clients around the world!2026 Undergraduate Summer Intern – Job Posting Department Title: Undergrad Intern – FTT Investment Operations Please read before applying:Start Date: All interns must start in office and in person on May 4, 2026.Anticipated End Date: August 14, 2026 – All interns must be in office and in person on their last day to return equipment. Interns must be located in the same location throughout the duration of their internship and are prohibited from returning laptop/equipment to a different office location or shipping their equipment back. Position Summary: Our department, Franklin Templeton Technology (FTT) Investment Operations is responsible for supporting Investment Operations (FTS) back office systems. This area specifically deals with the system and platform architecture and digital transformation.We are a team of architects and analysts who work on full stack application development, real time data integration and Data and Analytics in the cloud. We work closely with the investment teams and other business teams to understand and map their business processes to the Front to Back Investment Operations system currently being implemented at Franklin.Team Culture:Our team is comprised of senior technologists playing Architect and Lead Analyst Roles. We interact with the business on one hand a number of technology departments on the other to formulate solutions that meets Investment Operations business needs. Areas include Real Time Data Integration, Data and Analytics, Algorithm Driven applications etc.Key Responsibilities Can Include:Data AnalysisData ModelingSolution DesignCoding and testingIdeal Qualifications:Currently pursuing major in Economics, Computer Science, Computer Engineering, Data Science, Information Management or related fieldSome familiarity with Databases and programming languages (Python/Java)Good communication skillsAn intern in this department can expect to learn:Business Functions – Performance and AttributionAnalytical skillsReal life software developmentSoftware Development Life CycleSpecific languages (Python)Ready to make moves? Apply today! Please be sure to attach your resume when submitting your application. Applications submitted without a resume will not be considered.Due to the high volume of applications we receive, we may not be able to respond to each applicant individually. If you're interested in more than one internship, we encourage you to apply to all positions that align with your interests.This is a full-time internship where students will work approximately 35 (dependent on state/location) hours per week and earn competitive hourly pay of $24 (dependent on location and function) USD per hour. There are several factors taken into consideration in making compensation decisions including but not limited to location, job-related knowledge, skills, and experience. At Franklin Templeton, we apply a total reward philosophy where all aspects of compensation and benefits are taken into consideration in determining compensation. At Franklin Templeton, we’re advancing our industry forward by developing new and innovative ways to help our clients achieve their investment goals. Our dynamic firm spans asset management, wealth management, and fintech, offering many ways to help investors make progress toward their goals. Our talented teams working around the globe bring expertise that’s both broad and unique. From our welcoming, inclusive, and flexible culture to our global and diverse business, we provide opportunities to help you reach your potential while helping our clients reach theirs.Experience our welcoming culture and reach your professional and personal potential!Our culture is shaped by the variety of perspectives and experiences brought by talent from around the world. Regardless of your interests, lifestyle, or background, there’s a place for you at Franklin Templeton. We provide employees with the tools, resources, and learning opportunities to help them excel in their career and personal life.Franklin Templeton is an Equal Opportunity Employer. We are committed to providing equal employment opportunities to all applicants and employees, and we evaluate qualified applicants without regard to ancestry, age, color, disability, genetic information, gender, gender identity, or gender expression, marital status, medical condition, military or veteran status, national origin, race, religion, sex, sexual orientation, and any other basis protected by federal, state, or local law, ordinance, or regulation. If you believe that you need an accommodation or adjustment to search for or apply for one of our positions, please send an email to accommodations@franklintempleton.com. In your email, please include the accommodation or adjustment you are requesting, the job title, and the job number you are applying for. It may take up to three business days to receive a response to your request. Please note that only accommodation requests will receive a response.",
       "job_apply_link": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ft-Lauderdale-Florida-United-States-of-America/FTT-Investment-Operations_866076",
       "job_posted_at_datetime_utc": "2026-01-05T16:26:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "franklin-templeton-investment-operations-fort-lauderdale"
+      "id": "franklin-templeton-investment-operations-fort-lauderdale",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T23:03:37.459Z",
     "postedAt": null
   },
   {
