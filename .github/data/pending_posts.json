@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "OCI GenAI PhD Applied Scientist – Full-time Intern Conversion - OCI GenAI Team",
-      "employer_name": "Oracle",
-      "job_city": "San Carlos",
-      "job_state": "CA",
-      "job_description": "**This FTE conversion requisition is ONLY for current Oracle OCI PhD interns to be rehired for full-time roles** Intended for students graduating with their Doctorate degree by, or have graduated within, 12 months of cohort start date in June/July 2026. Target Start Date: early-June or mid-July 2026 Location: This position is fully in office at our Seattle, WA or Redwood Shores, CA hub. Oracle Generative AI Service is an exciting team in Oracle Cloud Infrastructure. We are delivering innovative services at the intersection of artificial intelligence and cloud infrastructure. In Generative AI Service team, you will build and operate massive-scale cloud services leveraging state of art machine learning technologies.",
-      "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/304057",
-      "job_posted_at_datetime_utc": "2026-01-15T02:09:30.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T10:18:21.523Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Summer Intern - Supervision Regulation & Credit - Gen AI",
       "employer_name": "The Federal Reserve System",
       "job_city": "Philadelphia",
@@ -1045,16 +1025,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Software Development Engineer Graduate (SDN Traffic Intelligence & Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
       "job_posted_at_datetime_utc": "2025-10-31T12:06:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-graduate-sdn-traffic-intelligence-control-2026-start-phd-san-jose"
+      "id": "bytedance-software-development-engineer-graduate-sdn-traffic-intelligence-control-2026-start-phd-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T17:37:32.984Z",
     "postedAt": null
   },
   {

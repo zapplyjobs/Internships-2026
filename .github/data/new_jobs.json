@@ -14,20 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "OCI GenAI PhD Applied Scientist – Full-time Intern Conversion - OCI GenAI Team",
-    "employer_name": "Oracle",
-    "job_city": "San Carlos",
-    "job_state": "CA",
-    "job_description": "**This FTE conversion requisition is ONLY for current Oracle OCI PhD interns to be rehired for full-time roles** Intended for students graduating with their Doctorate degree by, or have graduated within, 12 months of cohort start date in June/July 2026. Target Start Date: early-June or mid-July 2026 Location: This position is fully in office at our Seattle, WA or Redwood Shores, CA hub. Oracle Generative AI Service is an exciting team in Oracle Cloud Infrastructure. We are delivering innovative services at the intersection of artificial intelligence and cloud infrastructure. In Generative AI Service team, you will build and operate massive-scale cloud services leveraging state of art machine learning technologies.",
-    "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/304057",
-    "job_posted_at_datetime_utc": "2026-01-15T02:09:30.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "oracle-oci-genai-phd-applied-scientist-full-time-intern-conversion-oci-genai-team-san-carlos",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Summer Intern - Supervision Regulation & Credit - Gen AI",
     "employer_name": "The Federal Reserve System",
     "job_city": "Philadelphia",
@@ -138,5 +124,19 @@
     "id": "deloitte-solution-analyst-multiple-teams-gilbert",
     "description_platform": "generic",
     "description_success": true
+  },
+  {
+    "job_title": "BNY Analyst Program-Engineering - Developer - Early Talent and University Programs",
+    "employer_name": "The Bank of New York Mellon",
+    "job_city": "Pittsburgh",
+    "job_state": "PA",
+    "job_description": "Join The Bank of New York Mellon in this exciting opportunity.",
+    "job_apply_link": "https://bnymellon.eightfold.ai/careers/job/37999987",
+    "job_posted_at_datetime_utc": "2026-01-07T09:53:57.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "the-bank-of-new-york-mellon-bny-analyst-program-engineering-developer-early-talent-and-university-programs-pittsburgh",
+    "description_platform": "generic",
+    "description_success": false
   }
 ]
