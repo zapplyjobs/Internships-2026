@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T22:17:38.388Z",
+  "lastUpdated": "2026-01-15T22:30:38.435Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3653,14 +3653,47 @@
       "sourceUrl": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
       "discordThreadId": "1461484486175752333",
       "instanceNumber": 1
+    },
+    {
+      "id": "focuskpi-ai-engineer-trainee-remote-in-usa-2026-01-15-1",
+      "jobId": "focuskpi-ai-engineer-trainee-remote-in-usa",
+      "company": "FocusKPI",
+      "title": "AI Engineer Trainee",
+      "postedToDiscord": "2026-01-15T22:30:28.335Z",
+      "sourceDate": "2025-12-16T16:13:31.000Z",
+      "sourceUrl": "https://focuskpi.applytojob.com/apply/zKNpMdj8VU/AI-Engineer-Trainee-Remote",
+      "discordThreadId": "1461487716175974554",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-scientist-in-generative-ai-for-science-san-jose-2026-01-15-1",
+      "jobId": "bytedance-research-scientist-in-generative-ai-for-science-san-jose",
+      "company": "ByteDance",
+      "title": "Research Scientist in Generative AI for Science",
+      "postedToDiscord": "2026-01-15T22:30:31.933Z",
+      "sourceDate": "2025-10-31T09:14:34.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7481431143423428872/detail",
+      "discordThreadId": "1461487732084703262",
+      "instanceNumber": 1
+    },
+    {
+      "id": "avis-budget-accelerate-postgraduate-opportunity-deployed-transformation-engineer-parsippany-troy-hills-2026-01-15-1",
+      "jobId": "avis-budget-accelerate-postgraduate-opportunity-deployed-transformation-engineer-parsippany-troy-hills",
+      "company": "Avis Budget Group",
+      "title": "Accelerate Postgraduate Opportunity - Deployed Transformation Engineer",
+      "postedToDiscord": "2026-01-15T22:30:38.434Z",
+      "sourceDate": "2025-11-23T10:44:52.000Z",
+      "sourceUrl": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer--Post-Graduate-Opportunity-_R0182038",
+      "discordThreadId": "1461487759976829072",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 332,
+    "totalJobs": 335,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T22:17:38.388Z",
+      "date": "2026-01-15T22:30:38.435Z",
       "archived": 0
     }
   }
