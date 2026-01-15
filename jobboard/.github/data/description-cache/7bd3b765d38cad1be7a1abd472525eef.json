@@ -1,0 +1,17 @@
+{
+  "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "FTE - Intended for students graduating with their Bachelor's, Master’s, or Doctorate’s degree by, or have graduated within 12 months of cohort start date in June/July 2026. Target Start Date: early-June or mid-July 2026.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
+      "fetchedAt": "2026-01-15T13:38:57.929Z"
+    }
+  },
+  "cachedAt": 1768484337929
+}
