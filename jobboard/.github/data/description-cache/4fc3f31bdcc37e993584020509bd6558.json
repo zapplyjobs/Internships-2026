@@ -1,0 +1,26 @@
+{
+  "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Machine-Learning-Operations-Intern_R26_0002",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Group 1001 is a consumer-centric, technology-driven family of insurance companies on a mission to deliver outstanding value and operational performance by combining financial strength and stability with deep insurance expertise and a can-do culture. Group1001’s culture emphasizes the importance of collaboration, communication, core business focus, risk management, and striving for outcomes. This goal extends to how we hire and onboard our most valuable assets – our employees.Why This Role Matters: In this role, you will be a part of the “Automation Pod”, which helps to improve day-to-day insurance operations for Group1001’s affiliated companies. AI and Machine Learning are critical components of that goal, seeking to automate or augment repetitive tasks such as document processing, information retrieval, and call center inquiries. You will have the opportunity to work closely with our customers to understand their needs and rapidly deliver solutions. In stark contrast with other MLOps teams across the industry, we release new features weekly. Your impact will be immediately measurable through our key performance indicators relating to those automation initiatives. The internship will take place at the corporate office in Zionsville, Indiana, from May 18 to August 7, 2026.How You'll Contribute: You will develop expertise using Large Language Models (LLMs) to extract information from scanned documentsYou will learn about RAG (Retrieval-Augmented Generation) and LLM grounding as we build AI assistantsYou will learn MLOps best-practices as we work to make our AI platforms more efficient and reliableYou will learn how to take an idea through development, review, testing, and production deployment stagesYou will master CI/CD patterns using Git / GitLab to automate version control and model evaluationsYou will refine your knowledge of Python, writing production-ready code that is readable and reliableYou will refine your knowledge of SQL, working with our operations data in Snowflake and PostgresWhat We’re Looking For:Undergraduate students completing their sophomore or junior year preferred, pursuing Computer Science, Mathematics, or Information Technology Majors.Availability of working full-time hours over the summer.Familiarity with Insurance industry is idealAbility to clearly articulate complex information to others.Detail oriented with strong focus on quality of deliverables.Demonstrated ability to proactively identify and solve problems and issues of all types.Ability to prioritize and meet deadlines.Ownership and accountability for deliverables.Benefits Highlights:  Employees who meet benefit eligibility guidelines and work 30 hours or more weekly, have the ability to enroll in Group 1001’s benefits package. Employees (and their families) are eligible to participate in the Company’s comprehensive health, dental, and vision insurance plan options.  Employees are also eligible for Basic and Supplemental Life Insurance, Short and Long-Term Disability. All employees (regardless of hours worked) have immediate access to the Company’s Employee Assistance Program and wellness programs—no enrollment is required.  Employees may also participate in the Company’s 401K plan, with matching contributions by the Company.  Group 1001, and its affiliated companies, is strongly committed to providing a supportive work environment where employee differences are valued. Diversity is an essential ingredient in making Group 1001 a welcoming place to work and is fundamental in building a high-performance team. Diversity embodies all the differences that make us unique individuals.  All employees share the responsibility for maintaining a workplace culture of dignity, respect, understanding and appreciation of individual and group differences.#LI-ES1",
+    "requirements": [
+      "Undergraduate students completing their sophomore or junior year preferred, pursuing Computer Science, Mathematics, or Information Technology Majors."
+    ],
+    "responsibilities": [
+      "You will develop expertise using Large Language Models (LLMs) to extract information from scanned documents",
+      "You will learn about RAG (Retrieval-Augmented Generation) and LLM grounding as we build AI assistants",
+      "You will learn MLOps best-practices as we work to make our AI platforms more efficient and reliable",
+      "You will learn how to take an idea through development, review, testing, and production deployment stages",
+      "You will master CI/CD patterns using Git / GitLab to automate version control and model evaluations",
+      "You will refine your knowledge of Python, writing production-ready code that is readable and reliable",
+      "You will refine your knowledge of SQL, working with our operations data in Snowflake and Postgres"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Machine-Learning-Operations-Intern_R26_0002",
+      "fetchedAt": "2026-01-15T10:17:31.375Z"
+    }
+  },
+  "cachedAt": 1768472251375
+}
