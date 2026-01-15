@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T19:46:50.549Z",
+  "lastUpdated": "2026-01-15T19:54:57.287Z",
   "jobs": [
     {
       "id": "the-federal-reserve-research-department-business-outlook-survey-intern-philadelphia-2026-01-08-1",
@@ -3389,16 +3389,37 @@
       "sourceUrl": "https://www.williamblair.com/Careers/job-description?gh_jid=4960398007",
       "discordThreadId": "1461446539233857598",
       "instanceNumber": 1
+    },
+    {
+      "id": "oracle-java-software-engineer-oracle-health-and-analytics-kansas-city-2026-01-15-1",
+      "jobId": "oracle-java-software-engineer-oracle-health-and-analytics-kansas-city",
+      "company": "Oracle",
+      "title": "Java Software Engineer - Oracle Health and Analytics",
+      "postedToDiscord": "2026-01-15T19:54:53.924Z",
+      "sourceDate": "2025-11-21T09:58:51.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/316172",
+      "discordThreadId": "1461448565934260356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "markon-reverse-engineer-odenton-2026-01-15-1",
+      "jobId": "markon-reverse-engineer-odenton",
+      "company": "Markon",
+      "title": "Reverse Engineer",
+      "postedToDiscord": "2026-01-15T19:54:57.286Z",
+      "sourceDate": "2025-11-12T00:35:20.000Z",
+      "sourceUrl": "https://careers-markon.icims.com/jobs/7860/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461448580706467984",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 308,
+    "totalJobs": 310,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T19:46:50.549Z",
-      "archived": 6,
-      "monthsAffected": 1
+      "date": "2026-01-15T19:54:57.287Z",
+      "archived": 0
     }
   }
 }
