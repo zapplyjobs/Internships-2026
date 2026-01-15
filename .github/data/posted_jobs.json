@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T21:55:24.759Z",
+  "lastUpdated": "2026-01-15T22:17:38.388Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3565,14 +3565,102 @@
       "sourceUrl": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0228796",
       "discordThreadId": "1461478893172166839",
       "instanceNumber": 1
+    },
+    {
+      "id": "walmart-2026-sophomore-summit-software-engineer-bentonville-2026-01-15-1",
+      "jobId": "walmart-2026-sophomore-summit-software-engineer-bentonville",
+      "company": "Walmart",
+      "title": "2026 Sophomore Summit: Software Engineer",
+      "postedToDiscord": "2026-01-15T22:17:07.365Z",
+      "sourceDate": "2026-01-07T09:07:56.000Z",
+      "sourceUrl": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Sophomore-Summit--Software-Engineer_R-2374409",
+      "discordThreadId": "1461484358035701976",
+      "instanceNumber": 1
+    },
+    {
+      "id": "daktronics-software-design-student-brookings-2026-01-15-1",
+      "jobId": "daktronics-software-design-student-brookings",
+      "company": "Daktronics",
+      "title": "Software Design Student",
+      "postedToDiscord": "2026-01-15T22:17:11.077Z",
+      "sourceDate": "2025-11-30T16:43:40.000Z",
+      "sourceUrl": "https://careers-daktronics.icims.com/jobs/7156/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461484372199739596",
+      "instanceNumber": 1
+    },
+    {
+      "id": "booz-allen-university-data-scientist-data-scientist-mclean-2026-01-15-1",
+      "jobId": "booz-allen-university-data-scientist-data-scientist-mclean",
+      "company": "Booz Allen",
+      "title": "University Data Scientist - Data Scientist",
+      "postedToDiscord": "2026-01-15T22:17:14.425Z",
+      "sourceDate": "2025-11-27T23:11:43.000Z",
+      "sourceUrl": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081",
+      "discordThreadId": "1461484387735699459",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ge-vernova-software-defined-networking-and-ipv6-for-secure-distributed-energy-resources-research-schenectady-2026-01-15-1",
+      "jobId": "ge-vernova-software-defined-networking-and-ipv6-for-secure-distributed-energy-resources-research-schenectady",
+      "company": "GE Vernova",
+      "title": "Software-defined Networking and IPv6 for Secure Distributed Energy Resources Research",
+      "postedToDiscord": "2026-01-15T22:17:20.939Z",
+      "sourceDate": "2025-12-13T10:52:15.000Z",
+      "sourceUrl": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Software-defined-Networking-and-IPv6-for-Secure-Distributed-Energy-Resources-Research-Intern---Summer-2026_R5022672-1",
+      "discordThreadId": "1461484414704816323",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-analyst-government-public-services-software-engineering-nashville-2026-01-15-1",
+      "jobId": "deloitte-analyst-government-public-services-software-engineering-nashville",
+      "company": "Deloitte",
+      "title": "Analyst - Government & Public Services - Software Engineering",
+      "postedToDiscord": "2026-01-15T22:17:24.336Z",
+      "sourceDate": "2026-01-07T23:22:39.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Analyst-Software-Engineering/309208",
+      "discordThreadId": "1461484429439406133",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oracle-oracle-pathways-software-school-intern-nashville-2026-01-15-1",
+      "jobId": "oracle-oracle-pathways-software-school-intern-nashville",
+      "company": "Oracle",
+      "title": "Oracle Pathways Software School Intern",
+      "postedToDiscord": "2026-01-15T22:17:27.851Z",
+      "sourceDate": "2025-12-03T23:32:35.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
+      "discordThreadId": "1461484443847102638",
+      "instanceNumber": 1
+    },
+    {
+      "id": "huntsman-it-data-analytics-the-woodlands-2026-01-15-1",
+      "jobId": "huntsman-it-data-analytics-the-woodlands",
+      "company": "Huntsman",
+      "title": "IT - Data & Analytics",
+      "postedToDiscord": "2026-01-15T22:17:31.455Z",
+      "sourceDate": "2025-11-30T09:25:22.000Z",
+      "sourceUrl": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
+      "discordThreadId": "1461484458216525899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "william-blair-working-in-technology-wit-data-science-chicago-2026-01-15-1",
+      "jobId": "william-blair-working-in-technology-wit-data-science-chicago",
+      "company": "William Blair",
+      "title": "Working in Technology - Wit - Data Science",
+      "postedToDiscord": "2026-01-15T22:17:38.388Z",
+      "sourceDate": "2025-11-27T02:14:55.000Z",
+      "sourceUrl": "https://www.williamblair.com/Careers/job-description?gh_jid=4960393007",
+      "discordThreadId": "1461484486175752333",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 324,
+    "totalJobs": 332,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T21:55:24.759Z",
+      "date": "2026-01-15T22:17:38.388Z",
       "archived": 0
     }
   }

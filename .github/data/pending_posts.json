@@ -694,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T20:03:26.020Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -714,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -734,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -754,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -774,10 +774,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -794,10 +794,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -814,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:04:16.143Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
@@ -834,10 +834,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T12:19:30.778Z",
     "enrichedAt": "2026-01-15T21:30:18.053Z",
-    "postedAt": null
+    "postedAt": "2026-01-15T22:17:41.395Z"
   },
   {
     "job": {
