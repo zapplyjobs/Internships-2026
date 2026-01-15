@@ -1,0 +1,22 @@
+{
+  "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5742975004",
+  "data": {
+    "success": true,
+    "platform": "greenhouse",
+    "description": "Title: Data Scientist Fellow Reports To: Assistant GM, Analytics Department: Baseball Analytics Job Type: Part-time, seasonal, hourly Job SummaryThis position is responsible for creating and analyzing baseball datasets through the use of advanced statistical techniques, with the goal of building and maintaining interpretable predictive models and player valuation frameworks to aid in the decision-making of Baseball Operations executives. Primary Responsibilities Identify, diagnose and resolve data quality issues. Work with end users to understand modeling needs. Design, analyze, test and implement interpretable predictive models using R or Python. Work with users and developers to create usable tools for the customers. Evaluate, recommend and integrate new data sources (internal and 3rd party external data sources). Complete ad-hoc reports or small studies as assigned throughout the year. Execute SQL database queries to filter, clean and prepare data from existing database. Qualifications Required: Deep passion for baseball and baseball analytics. Understanding of statistics and statistical models. Strong written and oral communication and presentation skills. Excellent interpersonal skills and the ability to work well with staff members of all levels. Desired: Currently enrolled in or completed bachelor’s Degree in Statistics, Analytics, Operations Research, Mathematics, Computer Science, or equivalent. Experience with SQL. Experience with R or Python and pragmatic mathematical modeling. Experience with statistical analyses, data mining techniques, and working with large datasets. The anticipated hourly rate for this role is $20/hour. This information is being provided in accordance with the Maryland Equal Pay for Equal Work - Wage Range Transparency law. DISCLAIMER: The statements herein are intended to describe the general nature and level of work being performed by the employee in this position. The duties listed do not represent an exhaustive list of all responsibilities, duties, and skills required of a person in this position. EQUAL OPPORTUNITY STATEMENT: The Baltimore Orioles are an Equal Opportunity Employer. It is the policy of the Baltimore Orioles to ensure equal employment opportunity without discrimination or harassment on the basis of race (including hair textures, afro hairstyles, or protective hairstyles), color, national origin or ancestry, religion or creed, gender or sex (including pregnancy), age, disability, citizenship status, marital status, veteran’s status, genetic predisposition or carrier status, gender identity, sexual orientation, or any other characteristic protected by law.",
+    "requirements": [
+      "Complete ad-hoc reports or small studies as assigned throughout the year.",
+      "Currently enrolled in or completed bachelor’s Degree in Statistics, Analytics, Operations Research, Mathematics, Computer Science, or equivalent.",
+      "Experience with SQL.",
+      "Experience with R or Python and pragmatic mathematical modeling.",
+      "Experience with statistical analyses, data mining techniques, and working with large datasets."
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5742975004",
+      "fetchedAt": "2026-01-15T07:46:40.835Z"
+    }
+  },
+  "cachedAt": 1768463200835
+}
