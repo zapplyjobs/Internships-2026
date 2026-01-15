@@ -1,0 +1,18 @@
+{
+  "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-Data-Associate--Federal-Work-Study---Student-Wage-_R0079458-1",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "***** Federal Work Study Students Only*****This position will remain open for applications for up to 30 days from the posting date. However, please note that the position may be filled before the 30-day period ends if a suitable candidate is selected. Interested applicants are encouraged to apply as soon as possible, as the posting may close early once the hiring process is complete.University Annual Giving in the Office of Engagement is seeking a detail-oriented and motivated work study student employee to join our Direct Marketing team. This role is ideal for someone with strong and practical SQL and Excel skills, and an interest in supporting initiatives that enhance donor engagement and campaign performance. We offer a congenial, remote-first learning environment and welcome the opportunity to employ talented University of Virginia students who want to learn more about data-driven marketing strategies within the fundraising and higher education sectors.Perform specialized office support functions or services that require some training, skill, or experience.  Duties include providing customer service and specific information, data entry and use of standard office software programs & systems, work within established guidelines and policies.  Limited supervision is provided; ability to perform a wide range of duties.Key ResponsibilitiesUpdate views weekly using SQL for appeal code tracking and analysisBuild and maintain audience segmentation queries in Snowflake for direct mail, email, social media, and text campaignsAssist in data validation for campaigns, including verifying donor records within Salesforce AscendInvestigate and troubleshoot data issues by analyzing query logic and applying problem-solving skillsDocument query logic and maintain clear workflows for repeatable processesQualificationsCurrently pursuing a degree in Data Science, Business Analytics, Information Systems, Computer Science, or related fieldSolid understanding of relational database concepts and ability to write SQL queries involving joins, CTEs, and conditional filteringComfortable troubleshooting query results and explaining logic clearlyAbility to format and organize large datasets in Excel for AB testing and campaign requests while maintaining data integrityStrong attention to detail and ability to manage multiple tasks independentlyEligibilityApplicants must be a current UVA undergraduate or graduate student eligible for student employment and work study. This posting is for the spring 2026 semester.A resume and one academic reference is required to apply. Rate of pay$19/hour for up to 20 hours a week; a minimum of 10 hours a week. The University of Virginia is an equal opportunity employer. All interested persons are encouraged to apply, including veterans and individuals with disabilities. Click here to read more about UVA’s commitment to non-discrimination and equal opportunity employment.",
+    "requirements": [
+      "Currently pursuing a degree in Data Science, Business Analytics, Information Systems, Computer Science, or related field"
+    ],
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-Data-Associate--Federal-Work-Study---Student-Wage-_R0079458-1",
+      "fetchedAt": "2026-01-15T22:30:14.066Z"
+    }
+  },
+  "cachedAt": 1768516214066
+}
