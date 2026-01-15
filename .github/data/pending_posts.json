@@ -681,126 +681,6 @@
   },
   {
     "job": {
-      "job_title": "Agent Deployment Engineer – Residency Program",
-      "employer_name": "Hippocratic AI",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "About Us Hippocratic AI is the leading generative AI company in healthcare. We have the only system that can have safe, autonomous, clinical conversations with patients. We have trained our own LLMs as part of our Polaris constellation, resulting in a system with over 99.9% accuracy. Why Join Our Team Reinvent healthcare with AI that puts safety first. We’re building the world’s first healthcare‑only, safety‑focused LLM — a breakthrough platform designed to transform patient outcomes at a global scale. This is category creation. Work with the people shaping the future. Hippocratic AI was co‑founded by CEO Munjal Shah and a team of physicians, hospital leaders, AI pioneers, and researchers from institutions like El Camino Health, Johns Hopkins, Washington University in St. Louis, Stanford, Google, Meta, Microsoft, and NVIDIA. Backed by the world’s leading healthcare and AI investors. We recently raised a $126M Series C at a $3.5B valuation, led by Avenir Growth, bringing total funding to $404M with participation from CapitalG, General Catalyst, a16z, Kleiner Perkins, Premji Invest, UHS, Cincinnati Children’s, WellSpan Health, John Doerr, Rick Klausner, and others. Build alongside the best in healthcare and AI. Join experts who’ve spent their careers improving care, advancing science, and building world‑changing technologies — ensuring our platform is powerful, trusted, and truly transformative. Location Requirement We believe the best ideas happen together. To support fast collaboration and a strong team culture, this role is expected to be in our Palo Alto office five days a week, unless otherwise specified. About the Role Join Hippocratic AI’s Agent Deployment Engineering Residency as a Junior Agent Deployment Engineer. You’ll help build and tune the conversation layer that powers safe, fully autonomous clinical dialogues—combining Python-driven tooling with advanced prompting to orchestrate agentic workflows. This is an on-site role in Palo Alto, CA, with an initial 3-month term, $55/hour, and top performers will be offered extensions or full-time roles. What You’ll Do Design, implement, and iterate prompting strategies within our state-of-the-art conversation planning layer to enable end-to-end agentic workflows. Partner with Product, Engineering, Model, and Deployment Architecture teams to deliver autonomous, patient-oriented clinical conversations that meet safety and quality bars. Author and maintain reusable prompt patterns, guards, and fallbacks to improve reliability, clinical safety, and user experience. Run targeted experiments (A/Bs and offline evals), analyze outputs, and use findings to optimize prompts, flows, and tooling. Contribute lightweight Python utilities and configs that instrument, evaluate, and ship agents quickly and safely. What You Bring Must- Have: Bachelor’s in Computer Science, Computer Engineering, or related field (or equivalent coursework/projects). Proficiency with Python and comfort building small tools/CLI scripts. Hands-on LLM prompting experience (e.g., ChatGPT, Claude) in professional or personal projects. Strong problem-solving skills and a willingness to learn in a fast-moving environment. Nice-to-Have: Backend project experience (personal, academic, or internship). Exposure to databases and RESTful APIs. Foundational understanding of AI/ML concepts—or a strong desire to learn. Familiarity with modern web frameworks (e.g., Flask, Django, or Spring Boot). Awareness of data privacy and security best practices in regulated settings (healthcare a plus). Please be aware of recruitment scams impersonating Hippocratic AI. All recruiting communication will come from @ hippocraticai.com email addresses. We will never request payment or sensitive personal information during the hiring process.",
-      "job_apply_link": "https://jobs.ashbyhq.com/Hippocratic%20AI/964acae6-87cf-46f2-8591-9ffc34e7c128/application",
-      "job_posted_at_datetime_utc": "2025-11-04T02:38:33.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "hippocratic-ai-agent-deployment-engineer-residency-program-palo-alto",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T15:04:43.076Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
-      "job_title": "Machine Learning Engineer",
-      "employer_name": "Atlassian",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "Company Open and close the navigation menu Customers Careers Investors Events Blog Contact Customers Careers Investors Events Blog Contact { \"type\":\"imkt.components.Navbar\", \"params\": { \"hasCharlie\":\"true\" } } var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/campus-americas.icims.com\\/jobs\\/20906\\/machine-learning-engineer%2c-2026-graduate-u.s.\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> Join the Atlassian Talent Community Don’t see an exact role match? No problem! Join our Talent Community and stay up-to-date on company and careers updates relevant to your career. Join now",
-      "job_apply_link": "https://campus-americas.icims.com/jobs/20906/machine-learning-engineer%2c-2026-graduate-u.s./job",
-      "job_posted_at_datetime_utc": "2025-10-31T02:59:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "atlassian-machine-learning-engineer-seattle",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T15:58:41.085Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control - 2026 Start PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Development Engineer Graduate (SDN Traffic Intelligence & Control) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T12:06:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-development-engineer-graduate-sdn-traffic-intelligence-control-2026-start-phd-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T17:37:32.984Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Graduate - Multiple Teams",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Software Engineer Graduate (Metadata Storage)- 2026 Start (PHD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538132567862774034/detail",
-      "job_posted_at_datetime_utc": "2025-10-31T10:49:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-software-engineer-graduate-multiple-teams-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T17:52:30.060Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Analyst Graduate - BS/MS",
-      "employer_name": "TikTok",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Data Analyst Graduate (TikTok Shop Governance & Experience) - 2026 Start (BS/MS) and learn more about what it's like to work at TikTok!",
-      "job_apply_link": "https://lifeattiktok.com/search/7533314525736782088",
-      "job_posted_at_datetime_utc": "2025-10-31T09:18:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "tiktok-data-analyst-graduate-bs-ms-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T18:55:05.075Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
-      "job_title": "Product Engineer - Early Talent - Engineering",
-      "employer_name": "Eaton Corporation",
-      "job_city": "Asheville",
-      "job_state": "NC",
-      "job_description": "These positions can be based in one of our manufacturing locations in either Asheville, NC, Fayetteville, NC, Greenwood, SC, or Portland, OR, and will offer relocation assistance. The Product Engineer (often internally referred to as a Custom Order Engineer or COE) is primarily responsible for providing electrical and mechanical design and documentation support for power distribution or control product lines. This includes, but is not limited to engineering designs, collaborating with application engineers and manufacturing associates, utilization of design automation software, and producing/maintaining manufacturing documentation. The annual salary for this role is $75,000 a year. This position offers a one-time $6,000 signing bonus. Bachelor&#39;s degree in electrical or mechanical engineering from an accredited institution with a graduation before August 2026 Minimum overall cumulative GPA of 2.8 Minimum of one internship or co-op experience or an equivalent of 3 months of related experience completed at the time of this application Degree in electrical engineering Minimum overall cumulative GPA of 3.2 or higher Knowledge of power distribution products (LV and MV Switchgear, Panelboards and Switchboards, Motor Control Centers, etc.) Position Criteria: Strong analytical, computer, writing, presentation and customer service skills Ability to communicate technical information to customers and manufacturing Knowledge of the fundamentals of electrical and mechanical engineering earlytalent We aspire to ensure the safety, health and wellbeing of our employees. We do this by helping all our employees maximize their physical, financial and emotional wellbeing, both at work and at home. Consult with plant and field sales engineers in interpreting and defining new equipment applications. Develop a variety of complex drawings and bills-of-material based upon established product designs, which provides sufficient detail to accurately convey the purchaser&#39;s equipment application. Coordinate mechanical and electrical interfaces with other products. Advise Drafting/Design, Manufacturing, and Purchasing - when required - in interpreting information for the accurate production of equipment in accordance with the purchaser&#39;s requirements. Manage purchaser onsite visits to approve and/or release equipment for shipping. Manage Manufacturing and Engineering Change Notices. Demonstrate advanced computer skills with ability to learn required software (Bid Manager, AutoCAD, Design Automation, MAPICS). Consult with Quality in resolving issues after the equipment is shipped, when required. Conduct special development/application projects of a complex nature. Conduct technical training guidance and seminars, as required. Analyze needs and recommend revisions to Department Policies and Procedures.",
-      "job_apply_link": "https://eaton.eightfold.ai/careers/job/687225796770",
-      "job_posted_at_datetime_utc": "2025-10-31T00:08:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "eaton-product-engineer-early-talent-engineering-asheville",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T10:17:15.659Z",
-    "enrichedAt": "2026-01-15T18:55:05.075Z",
-    "postedAt": "2026-01-15T20:56:30.212Z"
-  },
-  {
-    "job": {
       "job_title": "Software Engineer Intern - Multiple Teams",
       "employer_name": "WhatNot",
       "job_city": "Seattle",
@@ -1045,16 +925,18 @@
       "employer_name": "Deloitte",
       "job_city": "Nashville",
       "job_state": "TN",
-      "job_description": "Join Deloitte in this exciting opportunity.",
+      "job_description": "<p><font face=\"verdana\" size=\"2\"></font></p><div style=\"display: inline;\"><font face=\"arial\" style=\"\" size=\"3\"> </font><p style=\"font-family: verdana; font-size: small;\"></p><div style=\"display: inline;\"><font face=\"arial\" size=\"3\"> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"> <meta name=\"ProgId\" content=\"Word.Document\"> <meta name=\"Generator\" content=\"Microsoft Word 15\"> <meta name=\"Originator\" content=\"Microsoft Word 15\"> <style> </style> <p style=\"line-height: normal; margin-bottom: 0in;\"></p><div style=\"display: inline;\"> <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"> <meta name=\"ProgId\" content=\"Word.Document\"> <meta name=\"Generator\" content=\"Microsoft Word 15\"> <meta name=\"Originator\" content=\"Microsoft Word 15\"> <style> </style> <p style=\"\">Are you ready to go beyond your potential and reach something greater? At Deloitte, we believe in more than just growth—we believe in exponential possibilities. Here, your unique talents and ambitions are amplified by the power of our collaborative teams, innovative thinking, and mentorship. When you join Deloitte, you don’t just build a career—you unlock unlimited opportunities, shaping your future and the world around you. Take the power of you and put it to the power of Deloitte. Reach your exponential!</p><p style=\"\"><strong>Work You’ll Do</strong></p><p style=\"\">As an Analyst in our Government &amp; Public Services practice, you will be an integral member of a client service team, collaborating with diverse and talented team members to help solve multidimensional problems, improve performance, and generate value for our clients. You can capitalize on our cross-industry presence to find your niche and build your individual brand within the organization. This person should have strong analytical and critical thinking skills with the ability to solve complex problems and communicate findings.</p><p style=\"\">While a career in consulting is dynamic and evolving, we look for people who will perform in specific areas, grow those related skills, and deliver exceptional results to our clients. We recognize that you have unique skills, experiences, and interests, so we divide the broad scope of the Analyst role into skills-based profiles in order to best align each Analyst with a focus area. Setting our people up for success is our highest priority. We are currently recruiting Software Engineering Analysts whose skills and interests align with the below description:<br><br></p><p style=\"\"><strong>Software Engineering Analyst</strong></p><ul style=\"\"><li>This Analyst applies software engineering expertise to design, build, and maintain scalable, secure solutions that address complex business challenges. Collaborates across multidisciplinary teams to deliver high-quality applications, integrating emerging technologies such as cloud to drive innovation. Demonstrates curiosity and creativity while continuously improving development practices, ensuring reliability, performance, and user-centric design. Contributes to code reviews, automation, and best practices, fostering a culture of technical excellence and ongoing learning.</li><li><u>Majors</u>: Computer Engineering/Science, Software Engineering, Majors with heavy computer languages</li></ul><p style=\"\">&nbsp;</p><p style=\"\"><strong>The Team</strong></p><p style=\"\">Our professionals will be able to maintain the specialization they have built to date in certain areas while also learning how it connects to broader issues in the market. We are committed to continuously supporting our professionals as they build skills in either one specific part of our business or across the business – our Portfolio is structured to facilitate this learning. Engagement teams at Deloitte drive value for our clients but also understand the importance of developing resources and contributing to the communities in which we work. We make it our business to take issue to impact, both within and beyond a client setting.</p><p style=\"\"><strong>Required Qualifications</strong></p><ul style=\"\"><li>Current enrollment in a full-time Bachelor’s Degree with a target graduation date by Spring/Summer 2026 in these or related areas of study:<ul><li>Computer Engineering/Science, Software Engineering, Majors with heavy computer languages</li></ul></li><li>Must be legally authorized to work in the United States without the need for employer sponsorship now or at any time in the future</li><li>Ability to obtain a U.S. Security Clearance</li><li>Strong academic track record (3.0 cumulative GPA required, 3.4 cumulative GPA preferred)</li><li>Ability to travel up to 50%, on average, based on the work you do and the clients and industries/sectors you serve</li><li>Must live within a commutable distance to your assigned office (e.g. 100-mile radius) with the ability to commute daily, if required, upon start date</li><li>Candidates must be at least 18 years of age at the time of employment</li></ul><p style=\"\">&nbsp;</p><p style=\"\">The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs.&nbsp; The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled.&nbsp; At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case.&nbsp; A reasonable estimate of the current range is $95,000 - $98,000.</p><p style=\"\"><br></p><p style=\"\"><strong>Information for applicants with a need for Accommodation</strong></p><p style=\"\"><a href=\"https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\" data-mce-href=\"https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\" style=\"\">https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html</a></p></div></font></div><p style=\"font-family: verdana; font-size: small;\"></p> </div><p><a href=\"https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\" data-mce-href=\"https://www2.deloitte.com/us/en/pages/careers/articles/join-deloitte-assistance-for-disabled-applicants.html\"><font face=\"verdana\" size=\"2\"></font></a></p>",
       "job_apply_link": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Analyst-Software-Engineering/309208",
       "job_posted_at_datetime_utc": "2026-01-07T23:22:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "deloitte-analyst-government-public-services-software-engineering-nashville"
+      "id": "deloitte-analyst-government-public-services-software-engineering-nashville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
@@ -1063,16 +945,18 @@
       "employer_name": "Walmart",
       "job_city": "Bentonville",
       "job_state": "AR",
-      "job_description": "Join Walmart in this exciting opportunity.",
+      "job_description": "Position Summary...What you'll do...IMMIGRATION SPONSORSHIP IS NOT AVAILABILE FOR THIS ROLE.The Sophomore Summit is a three-day event at our Home Office in Northwest Arkansas, offering insights into careers, culture, and connections at the Fortune 1 company. Invited students will get a deeper look into life at Walmart and interview for a 2027 internship. During the summit, you'll-Connect with leaders, associates, and former interns.-Network in both formal settings and fun social events.-Explore career paths across areas of the business.-Experience our brand-new campus, including wellness spaces like the Walton family whole health & fitness. WALMART GLOBAL TECH TRACK: SWE/ AI/ML Engineer About the RoleWalmart Global Tech is building AI systems that operate at massive scale—powering search, personalization, demand forecasting, supply chain optimization, and intelligent automation across the world’s largest retailer. We are looking for students with strong foundations in machine learning, deep learning, and software engineering who want to build production-grade AI models with real-world impact. What You’ll DoDesign, train, and evaluate machine learning models using large-scale datasetsApply deep learning techniques to structured and unstructured data (text, images, time series)Partner with engineers and product teams to deploy models into productionPerform error analysis, feature engineering, and model optimizationContribute to scalable ML pipelines and MLOps workflows Minimum QualificationsGraduating December 2027- August 2028Undergrad Enrolled in CS, EE, Math, Stats, or related fieldStrong programming skills in Python (experience with Java/Scala a plus)Solid understanding of machine learning fundamentalsExperience implementing ML models from scratch or using frameworksCoursework or projects demonstrating applied AI skills IMMIGRATION SPONSORSHIP IS NOT AVAILABLE FOR THIS ROLE #ECTECHㅤㅤㅤㅤ‎ Minimum Qualifications...Outlined below are the required minimum qualifications for this position. If none are listed, there are no minimum qualifications. Preferred Qualifications...Outlined below are the optional preferred qualifications for this position. If none are listed, there are no preferred qualifications.Primary Location...1901 Se 10Th Street, Bentonville, AR 72716-0001, United States of AmericaWalmart and its subsidiaries are committed to maintaining a drug-free workplace and has a no tolerance policy regarding the use of illegal drugs and alcohol on the job. This policy applies to all employees and aims to create a safe and productive work environment.",
       "job_apply_link": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Sophomore-Summit--Software-Engineer_R-2374409",
       "job_posted_at_datetime_utc": "2026-01-07T09:07:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "walmart-2026-sophomore-summit-software-engineer-bentonville"
+      "id": "walmart-2026-sophomore-summit-software-engineer-bentonville",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
@@ -1081,16 +965,18 @@
       "employer_name": "Oracle",
       "job_city": "Nashville",
       "job_state": "TN",
-      "job_description": "Join Oracle in this exciting opportunity.",
+      "job_description": "Nashville Software School Students: Candidates who are alumni (or are graduating by January 2026) from the Nashville Software School Software Developer Bootcamp are encouraged to apply for a professional internship.",
       "job_apply_link": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087",
       "job_posted_at_datetime_utc": "2025-12-03T23:32:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "oracle-oracle-pathways-software-school-intern-nashville"
+      "id": "oracle-oracle-pathways-software-school-intern-nashville",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
@@ -1099,16 +985,18 @@
       "employer_name": "Daktronics",
       "job_city": "Brookings",
       "job_state": "SD",
-      "job_description": "Join Daktronics in this exciting opportunity.",
+      "job_description": "<h2>Position Summary</h2> <p>Join Daktronics and be part of a team that creates cutting-edge digital LED display technology and audio systems. Experience the thrill of working on projects that bring excitement to sports events, attract customers worldwide, and guide people in their daily lives.</p> <p>&nbsp;</p> <p>At Daktronics, you’ll engage in meaningful work and have the chance to grow both personally and professionally. Our internships and student positions offer hands-on experience, mentorship, and the opportunity to develop a deep understanding of our products and industry practices.</p> <p>&nbsp;</p> <p>You’ll have a mentor who will challenge you to find solutions, take initiative and develop a strong understanding of Daktronics products, practices, and procedures. We are committed to providing the resources and mentorship necessary to thrive in your position, ensuring you feel supported and are successful.</p> <p>&nbsp;</p> <p></p> <p>&nbsp;</p> <p><strong>What will the work look like for me?</strong></p> <p>We will expose you to multiple facets of the software world. You will experience a professional business environment where you can sharpen your problem solving and testing skills, grow in your coding abilities, and participate in agile processes. With your academic growth in the classroom, we seek to provide multiple experiences during your student career at Daktronics, which may mean rotating to different job responsibilities. &nbsp;</p> <p>&nbsp;</p> <ul> <li>Finding and reporting software deficiencies. &nbsp;</li> <li>Assist in manual testing of software. &nbsp;</li> <li>Track test results and quality metrics. &nbsp;</li> <li>Become proficient in the use of testing tools and methodologies. &nbsp;</li> <li>Work with users and Daktronics personnel to answer questions and resolve problem. &nbsp;</li> <li>Create automated test scripts for regression testing. </li> <li>Create automated tests from approved 3rd party tools.</li> <li>Leverage AI (Artificial Intelligence) tools in managing test cases and testing solutions. &nbsp;</li> <li>Develop, debug, and maintain software applications using Microsoft Visual Studio. &nbsp;</li> <li>Develop and support software applications using development languages like C#, C++, JavaScript, etc. and other software development tools like Salesforce, Azure, Angular, and other cloud-based services. &nbsp;</li> <li>Work within a development team to solve problems. &nbsp;</li> <li>Write unit tests for new code and existing code. &nbsp;</li> <li>Complete quality work in a timely manner. &nbsp;</li> <li>Assist in the development of software product requirements and design documentation. &nbsp;</li> <li>Perform other duties as needed or assigned. &nbsp;</li> </ul> <p><strong>When will I work?</strong></p> <p>Applicants should be available to work approximately 15 hours per week (maximum of 20 hours per week) during the academic year and up to 40 hours per week during the summer.</p> <p>&nbsp;</p> <p><strong>Where is this opportunity located?</strong>&nbsp;</p> <p>Position primarily located in Brookings, South Dakota, with limited availability to work from a U.S. based home office or Rapid City, SD Daktronics campus. </p> <p>&nbsp;</p> <p><strong>What are the pay and perks?</strong></p> <p>The typical hiring range for this position is $24.00 to $26.00 per hour based on the location of the candidate. The actual offer will consider a wide range of factors, including relevant education, experiences, location, and applicable local legislation. </p> <p>&nbsp;</p> <p>Students with GPA of 3.5 and above may be eligible for a $500 Academic Excellence Reward for each spring and fall semester completed while employed.&nbsp; Additional conditions may apply. </p> <p>&nbsp;</p> <p>This position is eligible for a subset of our company benefits including employee discount program, employee assistance program, community donation program, unpaid time off, 401(k), Employee Stock Purchase Plan, leaves, disability and accommodations. Information about Daktronics benefits can be found on our website Career Opportunities (daktronics.com) (https://www.daktronics.com/en-us/employment/careers). This information is intended to&nbsp;be a general overview and may be modified by Daktronics at any time.</p> <h2>Qualifications</h2> <p><strong>To be considered for Software Design Student, we require the following:</strong></p> <p><strong>Academic Requirements</strong>:</p> <ul> <li>The preferred applicant will be a student registered in at least 12 credits.</li> <li>Applicants must be currently enrolled in an accredited Bachelor’s degree program in Computer Science, Software Engineering, Computer Engineering, or a related degree.</li> <li>The preferred applicant will be in their sophomore or junior year of school.</li> <li>Only strong academic performers will be considered and must maintain an acceptable GPA, with preference to 3.0 GPA or greater. </li> <li><strong>Unofficial transcripts or web transcripts must be submitted with application.</strong></li> </ul> <p><strong>Other Requirements:&nbsp;</strong></p> <ul> <li>Good oral and written communication skills, good organizational skills, self-motivation.</li> <li>Good problem solving and critical thinking skills. <ul> <li>Regularly and reliably work scheduled hours. </li> </ul></li> <li>Fluent in English, both written and verbal.</li> <li>Applicants must be 18 years of age or older</li> <li>Daktronics does not sponsor, renew, or extend immigration visas for this position.</li> </ul> <p><strong>Desired traits</strong></p> <ul> <li>Object oriented programming knowledge is required. Knowledge of C++, C#, and/or Java preferred, but other object-oriented languages are acceptable. &nbsp;</li> <li>Knowledge of the Microsoft.Net Framework and Visual Studio. &nbsp;</li> <li>Knowledge of GIT or other source control software.&nbsp;</li> <li>Good oral and written communication skills, ability to communicate complex technical concepts.</li> <li>Shown ability to work collaboratively on projects or with a partner/team.</li> </ul> <p><strong>Ready to make an impact? Apply now and start your journey with Daktronics. </strong></p> <p></p> <p>&nbsp;</p> <p>Daktronics is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or other characteristics protected by law.</p>",
       "job_apply_link": "https://careers-daktronics.icims.com/jobs/7156/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-30T16:43:40.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "daktronics-software-design-student-brookings"
+      "id": "daktronics-software-design-student-brookings",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
@@ -1117,16 +1005,18 @@
       "employer_name": "Huntsman",
       "job_city": "The Woodlands",
       "job_state": "TX",
-      "job_description": "Join Huntsman in this exciting opportunity.",
+      "job_description": "Job Description:IT - Data & Analytics Internship (The Woodlands, Texas)Huntsman is now searching for a IT - Data & Analytics Intern located at our global headquarters in The Woodlands, TX. This internship is for Summer 2026.Our summer intern program is tailored to individuals who are currently enrolled full-time students at an accredited four-year college or university. The internship runs from May to August - dependent on the school calendar. The goal of the Huntsman Intern Program is to provide a structured program that will equip interns with the skills and experience to help prepare for a successful career.As an IT - Data & Analytics Intern, you will:Support the team in providing, timely, accurate, and insightful reporting as well as maintaining hardware, software, and other systemsAssist with troubleshooting issues and perform analysis to understand user needs and requirementsOrganize and maintain IT resources, such as databases, networks, and serversAssist in the development and improvement of software applications and systemsExcellent computer skills; especially proficient in Excel and PowerPoint are required to assist with day-to-day business functionsKnowledge of building dashboards in Power BI is a plus and will be utilized for reporting and analysisWork cross-functionally with other functional team members on pricing excellence and profit improvement projectsWhat are we looking for in the ideal Candidate?A full-time college student at the Sophomore, Junior, Senior or Master level by the end of Spring 2026Must be currently enrolled at an accredited university seeking a bachelor’s or master’s degreeMust have a 3.0 or higher GPAMust be Authorized to work in the U.S. without sponsorshipIndependent self-starter with high level of confidence and energyStrong analytical and conceptual thinking skillsAdditional Locations:",
       "job_apply_link": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/IT---Data---Analytics_J-018964-1",
       "job_posted_at_datetime_utc": "2025-11-30T09:25:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "huntsman-it-data-analytics-the-woodlands"
+      "id": "huntsman-it-data-analytics-the-woodlands",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
@@ -1135,16 +1025,18 @@
       "employer_name": "Booz Allen",
       "job_city": "McLean",
       "job_state": "VA",
-      "job_description": "Join Booz Allen in this exciting opportunity.",
+      "job_description": "University - Data ScientistThe Opportunity:  Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global issues. Across private and public sectors—from fraud detection, to cancer research, to national intelligence—you know the answers are in the data.  We have an opportunity for you to use your analytical skills to improve our business. You’ll work closely with your customer to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle. You’ll apply analytical skills and use the right combination of tools and frameworks to turn that set of disparate data points into tangible answers to help clients make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good.Join us. The world can’t wait.  You Have:   Experience with machine learning, data mining, statistics, or graph algorithms in academic or internship environments Experience using R, Perl, Python, SAS, or SPSS for data analysis Knowledge of an object-oriented language, including Java, C++, C#, or Python Ability to leverage expertise in data gathering and analytical work Ability to obtain a Secret clearance Scheduled to obtain a Bachelor's degree by Winter 2025 or Spring/Summer 2026 Nice If You Have:  Possession of excellent problem-solving skillsPursuing a degree in Computer Science, Data Science, Computer Engineering, Systems Engineering, or a related field preferredClearance:  Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.CompensationAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $62,000.00 to $141,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.Identity StatementAs part of the application process, you are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.Work ModelOur people-first culture prioritizes the benefits of flexibility and collaboration, whether that happens in person or remotely.If this position is listed as remote or hybrid, you’ll periodically work from a Booz Allen or client site facility.If this position is listed as onsite, you’ll work with colleagues and clients in person, as needed for the specific role.Commitment to Non-DiscriminationAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
       "job_apply_link": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Data-Scientist_R0223081",
       "job_posted_at_datetime_utc": "2025-11-27T23:11:43.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "booz-allen-university-data-scientist-data-scientist-mclean"
+      "id": "booz-allen-university-data-scientist-data-scientist-mclean",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T12:19:30.778Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-15T21:04:16.143Z",
     "postedAt": null
   },
   {
