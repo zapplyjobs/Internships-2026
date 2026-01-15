@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:29:51.814Z",
+  "lastUpdated": "2026-01-15T23:40:08.611Z",
   "jobs": [
-    {
-      "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
-      "jobId": "micron-technology-intern-it-software-engineer-ea-eps-boise",
-      "company": "Micron Technology",
-      "title": "Intern – IT Software Engineer - Ea Eps",
-      "postedToDiscord": "2026-01-08T23:38:53.446Z",
-      "sourceDate": "2026-01-08T23:24:44.000Z",
-      "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322",
-      "discordThreadId": "1458968220378599469",
-      "instanceNumber": 1
-    },
-    {
-      "id": "southwest-airlines-operations-engineering-intern-dallas-2026-01-08-1",
-      "jobId": "southwest-airlines-operations-engineering-intern-dallas",
-      "company": "Southwest Airlines",
-      "title": "Operations Engineering Intern",
-      "postedToDiscord": "2026-01-08T23:38:56.801Z",
-      "sourceDate": "2026-01-08T23:18:08.000Z",
-      "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Engineering-Summer-2026-Intern_R-2025-61959",
-      "discordThreadId": "1458968235008589947",
-      "instanceNumber": 1
-    },
-    {
-      "id": "gm-financial-intern-data-architecture-arlington-2026-01-08-1",
-      "jobId": "gm-financial-intern-data-architecture-arlington",
-      "company": "GM financial",
-      "title": "Intern – Data Architecture",
-      "postedToDiscord": "2026-01-08T23:39:00.303Z",
-      "sourceDate": "2026-01-08T23:10:39.000Z",
-      "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1550",
-      "discordThreadId": "1458968249021759538",
-      "instanceNumber": 1
-    },
-    {
-      "id": "cisco-software-engineer-2-co-op-united-states-boston-2026-01-08-1",
-      "jobId": "cisco-software-engineer-2-co-op-united-states-boston",
-      "company": "Cisco",
-      "title": "Software Engineer 2 – Co-op - United States",
-      "postedToDiscord": "2026-01-08T23:39:06.952Z",
-      "sourceDate": "2026-01-08T23:19:10.000Z",
-      "sourceUrl": "https://careers.cisco.com/global/en/job/2006070",
-      "discordThreadId": "1458968276653576334",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-ai-for-drug-discovery-san-bruno-2026-01-08-1",
-      "jobId": "genentech-intern-ai-for-drug-discovery-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - AI for Drug Discovery",
-      "postedToDiscord": "2026-01-08T23:39:10.439Z",
-      "sourceDate": "2026-01-08T23:14:48.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AI-for-Drug-Discovery_202601-100123",
-      "discordThreadId": "1458968291304542239",
-      "instanceNumber": 1
-    },
     {
       "id": "wellsky-software-engineer-intern-summer-2026-overland-park-2026-01-09-1",
       "jobId": "wellsky-software-engineer-intern-summer-2026-overland-park",
@@ -3818,14 +3763,113 @@
       "sourceUrl": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
       "discordThreadId": "1461502664075509912",
       "instanceNumber": 1
+    },
+    {
+      "id": "uipath-software-engineer-intern-bellevue-2026-01-15-1",
+      "jobId": "uipath-software-engineer-intern-bellevue",
+      "company": "UiPath",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-15T23:39:31.493Z",
+      "sourceDate": "2026-01-11T17:27:26.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/uipath/18034904-7114-4efc-884b-66caf1adc1f3/application",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-research-assistant-state-college-2026-01-15-1",
+      "jobId": "pennstate-university-research-assistant-state-college",
+      "company": "PennState University",
+      "title": "Research Assistant",
+      "postedToDiscord": "2026-01-15T23:39:35.101Z",
+      "sourceDate": "2026-01-09T16:03:51.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1",
+      "discordThreadId": "1461505109967114347",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sdsu-research-foundation-graduate-student-san-diego-2026-01-15-1",
+      "jobId": "sdsu-research-foundation-graduate-student-san-diego",
+      "company": "SDSU Research Foundation",
+      "title": "Graduate Student",
+      "postedToDiscord": "2026-01-15T23:39:38.561Z",
+      "sourceDate": "2026-01-08T23:14:20.000Z",
+      "sourceUrl": "https://careers-sdsurf.icims.com/jobs/19865/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461505124684927101",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-of-virginia-student-data-associate-charlottesville-2026-01-15-1",
+      "jobId": "university-of-virginia-student-data-associate-charlottesville",
+      "company": "University of Virginia",
+      "title": "Student Data Associate",
+      "postedToDiscord": "2026-01-15T23:39:44.977Z",
+      "sourceDate": "2026-01-09T23:03:48.000Z",
+      "sourceUrl": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Student-Data-Associate--Federal-Work-Study---Student-Wage-_R0079458-1",
+      "discordThreadId": "1461505152119738491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ohio-state-university-student-assistant-software-developer-columbus-2026-01-15-1",
+      "jobId": "ohio-state-university-student-assistant-software-developer-columbus",
+      "company": "Ohio State University",
+      "title": "Student Assistant Software Developer",
+      "postedToDiscord": "2026-01-15T23:39:51.425Z",
+      "sourceDate": "2026-01-07T23:20:01.000Z",
+      "sourceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Student-Assistant-Software-Developer_R143031-1",
+      "discordThreadId": "1461505179189776414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "texas-a-m-international-university-undergraduate-research-assistant-mseip-engineering-laredo-2026-01-15-1",
+      "jobId": "texas-a-m-international-university-undergraduate-research-assistant-mseip-engineering-laredo",
+      "company": "Texas A&M International University",
+      "title": "Undergraduate Research Assistant - MSEIP-Engineering",
+      "postedToDiscord": "2026-01-15T23:39:55.106Z",
+      "sourceDate": "2026-01-08T23:02:57.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--MSEIP--Engineering-_R-090042",
+      "discordThreadId": "1461505193526038648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "parsons-engineer-pt-opportunity-centreville-2026-01-15-1",
+      "jobId": "parsons-engineer-pt-opportunity-centreville",
+      "company": "Parsons",
+      "title": "Engineer / PT opportunity",
+      "postedToDiscord": "2026-01-15T23:39:58.639Z",
+      "sourceDate": "2026-01-06T23:19:24.000Z",
+      "sourceUrl": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineer---PT--opportunity_R176071-1",
+      "discordThreadId": "1461505209095159971",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crowe-data-analytics-developer-chicago-2026-01-15-1",
+      "jobId": "crowe-data-analytics-developer-chicago",
+      "company": "Crowe",
+      "title": "Data Analytics Developer",
+      "postedToDiscord": "2026-01-15T23:40:02.038Z",
+      "sourceDate": "2026-01-05T23:39:10.000Z",
+      "sourceUrl": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer_R-50129",
+      "discordThreadId": "1461505223615840440",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-deloitte-consulting-llp-government-public-services-gilbert-2026-01-15-1",
+      "jobId": "deloitte-deloitte-consulting-llp-government-public-services-gilbert",
+      "company": "Deloitte",
+      "title": "Deloitte Consulting LLP - Government & Public Services",
+      "postedToDiscord": "2026-01-15T23:40:08.611Z",
+      "sourceDate": "2026-01-07T23:22:42.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-US-Delivery-Center-Solution-Analyst-Software-Engineering-Solutions/312560",
+      "discordThreadId": "1461505250585219146",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 347,
+    "totalJobs": 351,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T23:29:51.814Z",
+      "date": "2026-01-15T23:40:08.611Z",
       "archived": 0
     }
   }

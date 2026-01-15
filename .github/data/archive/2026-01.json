@@ -2693,5 +2693,60 @@
     "sourceUrl": "https://ats.rippling.com/apexanalytix-careers/jobs/13266804-b931-4b28-a132-40c09e2c4a42",
     "discordThreadId": "1458924088704761866",
     "instanceNumber": 1
+  },
+  {
+    "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
+    "jobId": "micron-technology-intern-it-software-engineer-ea-eps-boise",
+    "company": "Micron Technology",
+    "title": "Intern – IT Software Engineer - Ea Eps",
+    "postedToDiscord": "2026-01-08T23:38:53.446Z",
+    "sourceDate": "2026-01-08T23:24:44.000Z",
+    "sourceUrl": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322",
+    "discordThreadId": "1458968220378599469",
+    "instanceNumber": 1
+  },
+  {
+    "id": "southwest-airlines-operations-engineering-intern-dallas-2026-01-08-1",
+    "jobId": "southwest-airlines-operations-engineering-intern-dallas",
+    "company": "Southwest Airlines",
+    "title": "Operations Engineering Intern",
+    "postedToDiscord": "2026-01-08T23:38:56.801Z",
+    "sourceDate": "2026-01-08T23:18:08.000Z",
+    "sourceUrl": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Engineering-Summer-2026-Intern_R-2025-61959",
+    "discordThreadId": "1458968235008589947",
+    "instanceNumber": 1
+  },
+  {
+    "id": "gm-financial-intern-data-architecture-arlington-2026-01-08-1",
+    "jobId": "gm-financial-intern-data-architecture-arlington",
+    "company": "GM financial",
+    "title": "Intern – Data Architecture",
+    "postedToDiscord": "2026-01-08T23:39:00.303Z",
+    "sourceDate": "2026-01-08T23:10:39.000Z",
+    "sourceUrl": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1550",
+    "discordThreadId": "1458968249021759538",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cisco-software-engineer-2-co-op-united-states-boston-2026-01-08-1",
+    "jobId": "cisco-software-engineer-2-co-op-united-states-boston",
+    "company": "Cisco",
+    "title": "Software Engineer 2 – Co-op - United States",
+    "postedToDiscord": "2026-01-08T23:39:06.952Z",
+    "sourceDate": "2026-01-08T23:19:10.000Z",
+    "sourceUrl": "https://careers.cisco.com/global/en/job/2006070",
+    "discordThreadId": "1458968276653576334",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-intern-ai-for-drug-discovery-san-bruno-2026-01-08-1",
+    "jobId": "genentech-intern-ai-for-drug-discovery-san-bruno",
+    "company": "Genentech",
+    "title": "Intern - AI for Drug Discovery",
+    "postedToDiscord": "2026-01-08T23:39:10.439Z",
+    "sourceDate": "2026-01-08T23:14:48.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---AI-for-Drug-Discovery_202601-100123",
+    "discordThreadId": "1458968291304542239",
+    "instanceNumber": 1
   }
 ]
