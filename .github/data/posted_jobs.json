@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T14:18:18.530Z",
+  "lastUpdated": "2026-01-15T14:56:58.687Z",
   "jobs": [
     {
       "id": "apex-analytix-data-analyst-intern-greensboro-2026-01-08-1",
@@ -3290,14 +3290,25 @@
       "sourceUrl": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Solutions---Analyst-Intern_JR3549",
       "discordThreadId": "1461363861083918501",
       "instanceNumber": 1
+    },
+    {
+      "id": "genentech-intern-translational-safety-computational-toxicology-san-bruno-2026-01-15-1",
+      "jobId": "genentech-intern-translational-safety-computational-toxicology-san-bruno",
+      "company": "Genentech",
+      "title": "Intern - Translational Safety - Computational Toxicology",
+      "postedToDiscord": "2026-01-15T14:56:58.686Z",
+      "sourceDate": "2026-01-15T00:15:16.000Z",
+      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Translational-Safety--Computational-Toxicology-_202601-100628",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 299,
+    "totalJobs": 300,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T14:18:18.530Z",
+      "date": "2026-01-15T14:56:58.687Z",
       "archived": 0
     }
   }
