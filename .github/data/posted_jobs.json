@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T18:36:40.283Z",
+  "lastUpdated": "2026-01-15T19:20:35.029Z",
   "jobs": [
     {
       "id": "walmart-software-engineer-2-bentonville-2026-01-08-1",
@@ -3345,14 +3345,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4649807005",
       "discordThreadId": "1461428880270164000",
       "instanceNumber": 1
+    },
+    {
+      "id": "the-federal-reserve-summer-intern-supervision-regulation-credit-gen-ai-philadelphia-2026-01-15-1",
+      "jobId": "the-federal-reserve-summer-intern-supervision-regulation-credit-gen-ai-philadelphia",
+      "company": "The Federal Reserve System",
+      "title": "Summer Intern - Supervision Regulation & Credit - Gen AI",
+      "postedToDiscord": "2026-01-15T19:20:01.302Z",
+      "sourceDate": "2026-01-15T02:04:55.000Z",
+      "sourceUrl": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Summer-Intern--Supervision-Regulation---Credit--Gen-AI_R-0000031054-1",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-part-time-student-data-analytics-davenport-2026-01-15-1",
+      "jobId": "john-deere-part-time-student-data-analytics-davenport",
+      "company": "John Deere",
+      "title": "Part Time Student - Data & Analytics",
+      "postedToDiscord": "2026-01-15T19:20:04.682Z",
+      "sourceDate": "2026-01-07T07:11:34.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137477706337",
+      "discordThreadId": "1461439803576029184",
+      "instanceNumber": 1
+    },
+    {
+      "id": "john-deere-part-time-student-data-analytics-grimes-2026-01-15-1",
+      "jobId": "john-deere-part-time-student-data-analytics-grimes",
+      "company": "John Deere",
+      "title": "Part Time Student - Data Analytics",
+      "postedToDiscord": "2026-01-15T19:20:04.687Z",
+      "sourceDate": "2025-12-19T16:13:29.000Z",
+      "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137477212714",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-controls-software-engineering-intern-milwaukee-2026-01-15-1",
+      "jobId": "johnson-controls-software-engineering-intern-milwaukee",
+      "company": "Johnson Controls",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-15T19:20:11.191Z",
+      "sourceDate": "2026-01-15T00:24:21.000Z",
+      "sourceUrl": "https://jci.wd5.myworkdayjobs.com/JCI/job/Milwaukee-Wisconsin-United-States-of-America/Software-Engineering-Intern_WD30258854",
+      "discordThreadId": "1461439830658519120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-bank-of-new-york-mellon-bny-analyst-program-engineering-developer-early-talent-and-university-programs-pittsburgh-2026-01-15-1",
+      "jobId": "the-bank-of-new-york-mellon-bny-analyst-program-engineering-developer-early-talent-and-university-programs-pittsburgh",
+      "company": "The Bank of New York Mellon",
+      "title": "BNY Analyst Program-Engineering - Developer - Early Talent and University Programs",
+      "postedToDiscord": "2026-01-15T19:20:14.853Z",
+      "sourceDate": "2026-01-07T09:53:57.000Z",
+      "sourceUrl": "https://bnymellon.eightfold.ai/careers/job/37999987",
+      "discordThreadId": "1461439844944183489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-solution-analyst-government-public-services-ai-data-engineering-solutions-gilbert-2026-01-15-1",
+      "jobId": "deloitte-solution-analyst-government-public-services-ai-data-engineering-solutions-gilbert",
+      "company": "Deloitte",
+      "title": "Solution Analyst - Government & Public Services - AI & Data Engineering Solutions",
+      "postedToDiscord": "2026-01-15T19:20:21.364Z",
+      "sourceDate": "2026-01-07T23:22:50.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-US-Delivery-Center-Solution-Analyst-AI-Data-Engineering-Solutions/312436",
+      "discordThreadId": "1461439873209864387",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-deloitte-consulting-llp-government-public-services-analyst-ai-data-engineering-nashville-2026-01-15-1",
+      "jobId": "deloitte-deloitte-consulting-llp-government-public-services-analyst-ai-data-engineering-nashville",
+      "company": "Deloitte",
+      "title": "Deloitte Consulting LLP - Government & Public Services - Analyst,AI & Data Engineering",
+      "postedToDiscord": "2026-01-15T19:20:24.859Z",
+      "sourceDate": "2026-01-07T23:36:12.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-Analyst-AI-Data-Engineering/309149",
+      "discordThreadId": "1461439887604711718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cotiviti-intern-generative-ai-developer-remote-in-usa-2026-01-15-1",
+      "jobId": "cotiviti-intern-generative-ai-developer-remote-in-usa",
+      "company": "Cotiviti",
+      "title": "Intern – Generative AI Developer",
+      "postedToDiscord": "2026-01-15T19:20:28.481Z",
+      "sourceDate": "2025-12-12T23:24:14.000Z",
+      "sourceUrl": "https://careers-cotiviti.icims.com/jobs/17532/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461439902620061874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "deloitte-solution-analyst-multiple-teams-gilbert-2026-01-15-1",
+      "jobId": "deloitte-solution-analyst-multiple-teams-gilbert",
+      "company": "Deloitte",
+      "title": "Solution Analyst - Multiple Teams",
+      "postedToDiscord": "2026-01-15T19:20:35.028Z",
+      "sourceDate": "2026-01-07T23:22:48.000Z",
+      "sourceUrl": "https://apply.deloitte.com/en_US/careers/JobDetail/Deloitte-Consulting-LLP-Government-Public-Services-US-Delivery-Center-Solution-Analyst-Tech-Package-Solutions/312562",
+      "discordThreadId": "1461439930331828285",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 304,
+    "totalJobs": 313,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T18:36:40.283Z",
+      "date": "2026-01-15T19:20:35.029Z",
       "archived": 0
     }
   }
