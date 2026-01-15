@@ -133,7 +133,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 5d |
+| Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 6d |
 | Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 1d |
 
 ### 🏢 **Top Tech** (3 positions)
@@ -211,11 +211,11 @@ Connect with fellow students, get career advice, share internship experiences, a
 - **Santa Clara, CA**: 2 opportunities
 - **Redmond, WA**: 2 opportunities
 - **Herdon, VA**: 1 opportunity
-- **St. Louis, MO**: 1 opportunity
 - **Pleasanton, CA**: 1 opportunity
 - **McLean, VA**: 1 opportunity
-- **Boston, MA**: 1 opportunity
 - **Boise, ID**: 1 opportunity
+- **Boston, MA**: 1 opportunity
+- **St. Louis, MO**: 1 opportunity
 
 ---
 
