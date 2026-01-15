@@ -19792,5 +19792,131 @@
     "job_title": "Technology Analyst Intern",
     "company": "Jones Lang LaSalle (JLL)",
     "first_seen": "2026-01-14T21:17:10.176Z"
+  },
+  "intapp-data-ai-intern-palo-alto": {
+    "assigned_date": "2026-01-15T06:53:04.567Z",
+    "job_title": "Data AI Intern",
+    "company": "Intapp",
+    "first_seen": "2026-01-15T06:53:04.567Z"
+  },
+  "peraton-generative-ai-engineering-intern-–-graduate-remote-in-usa": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Generative AI Engineering Intern – Graduate",
+    "company": "Peraton",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "intermountain-healthcare-analytics-intern-murray": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Analytics Intern",
+    "company": "Intermountain Healthcare",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "toyota-research-institute-energy-&-materials-intern-mountain-view": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Energy & Materials Intern",
+    "company": "Toyota Research Institute",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "paccar-data-analyst-intern-fall-2026-columbus": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Data Analyst Intern Fall 2026",
+    "company": "Paccar",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "paccar-robotic-process-automation-intern-columbus": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Robotic Process Automation Intern",
+    "company": "Paccar",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "paccar-data-analyst-intern-summer-2026-columbus": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Data Analyst Intern Summer 2026",
+    "company": "Paccar",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "paccar-data-engineering-intern-summer-2026-columbus": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Data Engineering Intern Summer 2026",
+    "company": "Paccar",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "tiktok-software-engineer-intern---ads-measurement-signal-and-privacy-san-jose": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
+    "company": "TikTok",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "tiktok-frontend-software-engineer-intern---ads-measurement-signal-and-privacy-san-jose": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
+    "company": "TikTok",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "tiktok-machine-learning-engineer-intern---ads-measurement-signal-and-privacy---bs/ms-san-jose": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Machine Learning Engineer Intern - Ads Measurement Signal and Privacy - BS/MS",
+    "company": "TikTok",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "boston-properties-engineering-intern-boston": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Engineering Intern",
+    "company": "Boston Properties",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "ford-motor-company-student-worker-program---vehicle-access-system-engineering-dearborn": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Student Worker Program - Vehicle Access System Engineering",
+    "company": "Ford Motor Company",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "zoox-technical-program-management-intern---ai-tools-development-san-mateo": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Technical Program Management Intern - AI Tools Development",
+    "company": "Zoox",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "john-deere-part-time-student---software-engineer---champaign-il-technology-ca-urbana": {
+    "assigned_date": "2026-01-15T06:53:04.568Z",
+    "job_title": "Part-Time Student - Software Engineer - Champaign IL Technology CA",
+    "company": "John Deere",
+    "first_seen": "2026-01-15T06:53:04.568Z"
+  },
+  "abbvie-2026-business-technology-solutions-extern-vernon-hills": {
+    "assigned_date": "2026-01-15T06:53:04.569Z",
+    "job_title": "2026 Business Technology Solutions Extern",
+    "company": "AbbVie",
+    "first_seen": "2026-01-15T06:53:04.569Z"
+  },
+  "aig-early-career---gen-ai---data-engineering-analyst-atlanta": {
+    "assigned_date": "2026-01-15T06:53:04.573Z",
+    "job_title": "Early Career - Gen AI - Data Engineering Analyst",
+    "company": "AIG",
+    "first_seen": "2026-01-15T06:53:04.573Z"
+  },
+  "legrand-software-developer-intern-carlsbad": {
+    "assigned_date": "2026-01-15T06:53:04.573Z",
+    "job_title": "Software Developer Intern",
+    "company": "Legrand",
+    "first_seen": "2026-01-15T06:53:04.573Z"
+  },
+  "booz-allen-ai/ml/data-intern-mclean": {
+    "assigned_date": "2026-01-15T06:53:04.575Z",
+    "job_title": "AI/ML/Data Intern",
+    "company": "Booz Allen",
+    "first_seen": "2026-01-15T06:53:04.575Z"
+  },
+  "trane-technologies-software-engineering-intern-winona": {
+    "assigned_date": "2026-01-15T06:53:04.575Z",
+    "job_title": "Software Engineering Intern",
+    "company": "Trane Technologies",
+    "first_seen": "2026-01-15T06:53:04.575Z"
+  },
+  "clorox-sales-&-customer-analytics-intern-bentonville": {
+    "assigned_date": "2026-01-15T06:53:04.577Z",
+    "job_title": "Sales & Customer Analytics Intern",
+    "company": "Clorox",
+    "first_seen": "2026-01-15T06:53:04.577Z"
   }
 }

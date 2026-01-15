@@ -1,0 +1,17 @@
+{
+  "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/57247",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "This student worker role is focused on improving how our system engineering documentation is created, kept current, and consumed across teams.Your mission will be to build lightweight, practical “documentation generation” and “documentation verification” tools that reduce manual effort and help teams quickly find accurate, up-to-date system information—primarily by deriving documentation from existing sources of truth. You’ll work closely with a systems engineering mentor to define a scoped project, iterate with real users, and deliver something that can be adopted by engineers. This is a great fit for someone who enjoys turning messy real-world information into clear, navigable views (static sites, diagrams, reports) and who is motivated to make tools that others actually use.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/57247",
+      "fetchedAt": "2026-01-15T06:53:38.014Z"
+    }
+  },
+  "cachedAt": 1768460018014
+}
