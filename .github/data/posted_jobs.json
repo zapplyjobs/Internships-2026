@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T21:17:51.580Z",
+  "lastUpdated": "2026-01-15T21:48:22.223Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3510,14 +3510,36 @@
       "sourceUrl": "https://johndeere.eightfold.ai/careers/job/137469617377",
       "discordThreadId": "1461469444005040362",
       "instanceNumber": 1
+    },
+    {
+      "id": "ntt-data-digital-technology-senior-analyst-charlotte-2026-01-15-1",
+      "jobId": "ntt-data-digital-technology-senior-analyst-charlotte",
+      "company": "NTT Data",
+      "title": "Digital Technology Senior Analyst",
+      "postedToDiscord": "2026-01-15T21:48:18.791Z",
+      "sourceDate": "2025-10-01T20:10:59.000Z",
+      "sourceUrl": "https://nttdata.eightfold.ai/careers/job/563327925798139",
+      "discordThreadId": "1461477107979784376",
+      "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-software-engineer-intern-oak-ridge-2026-01-15-1",
+      "jobId": "general-dynamics-mission-software-engineer-intern-oak-ridge",
+      "company": "General Dynamics Mission Systems",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-15T21:48:22.223Z",
+      "sourceDate": "2025-12-17T16:23:53.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/70184/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461477122383282430",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 319,
+    "totalJobs": 321,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T21:17:51.580Z",
+      "date": "2026-01-15T21:48:22.223Z",
       "archived": 0
     }
   }
