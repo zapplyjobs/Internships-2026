@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:04:01.067Z",
+  "lastUpdated": "2026-01-15T23:29:51.814Z",
   "jobs": [
     {
       "id": "micron-technology-intern-it-software-engineer-ea-eps-boise-2026-01-08-1",
@@ -3807,14 +3807,25 @@
       "sourceUrl": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02367710",
       "discordThreadId": "1461496159863574540",
       "instanceNumber": 1
+    },
+    {
+      "id": "rsm-d365-consulting-intern-summer-2026-seattle-2026-01-15-1",
+      "jobId": "rsm-d365-consulting-intern-summer-2026-seattle",
+      "company": "RSM",
+      "title": "D365 Consulting Intern - Summer 2026",
+      "postedToDiscord": "2026-01-15T23:29:51.813Z",
+      "sourceDate": "2026-01-15T12:09:25.000Z",
+      "sourceUrl": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Seattle/D365-Consulting-Intern---Summer-2026_JR111185",
+      "discordThreadId": "1461502664075509912",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 346,
+    "totalJobs": 347,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T23:04:01.067Z",
+      "date": "2026-01-15T23:29:51.814Z",
       "archived": 0
     }
   }
