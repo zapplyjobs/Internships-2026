@@ -674,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -694,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -714,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -754,10 +754,10 @@
       "description_platform": "lever",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -774,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -794,10 +794,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:22:34.785Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {
@@ -834,10 +834,10 @@
       "description_platform": "ashby",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:32:14.922Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T06:18:53.373Z"
   },
   {
     "job": {

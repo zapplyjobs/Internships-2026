@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:47:57.719Z",
+  "lastUpdated": "2026-01-16T06:18:50.366Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4203,14 +4203,113 @@
       "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
       "discordThreadId": "1461597809060089929",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-llm-scientific-coding-agent-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-llm-scientific-coding-agent-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed LLM - Scientific Coding Agent",
+      "postedToDiscord": "2026-01-16T06:18:26.514Z",
+      "sourceDate": "2025-10-31T12:15:07.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7541089305306188039/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "zoox-part-time-software-engineer-6-month-contract-san-mateo-2026-01-16-1",
+      "jobId": "zoox-part-time-software-engineer-6-month-contract-san-mateo",
+      "company": "Zoox",
+      "title": "Part-Time Software Engineer - 6-month Contract",
+      "postedToDiscord": "2026-01-16T06:18:29.866Z",
+      "sourceDate": "2025-10-17T10:06:54.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
+      "discordThreadId": "1461605499999879220",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-vision-world-models-for-video-generation-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-vision-world-models-for-video-generation-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Vision - World Models for Video Generation",
+      "postedToDiscord": "2026-01-16T06:18:36.552Z",
+      "sourceDate": "2025-10-31T10:56:14.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533025787470874888/detail",
+      "discordThreadId": "1461605527430889533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-vision-multimodal-video-generation-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-vision-multimodal-video-generation-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
+      "postedToDiscord": "2026-01-16T06:18:36.556Z",
+      "sourceDate": "2025-09-16T04:21:49.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7549296431607302418/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-multiple-teams-seattle-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-multiple-teams-seattle",
+      "company": "ByteDance",
+      "title": "Student Researcher - Multiple Teams",
+      "postedToDiscord": "2026-01-16T06:18:40.028Z",
+      "sourceDate": "2025-10-31T00:16:52.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7535220842087991570/detail",
+      "discordThreadId": "1461605542429462735",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-vision-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-vision-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Vision",
+      "postedToDiscord": "2026-01-16T06:18:40.032Z",
+      "sourceDate": "2025-10-30T23:59:29.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7541107923394087176/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-video-compression-standard-2026-start-san-diego-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-video-compression-standard-2026-start-san-diego",
+      "company": "ByteDance",
+      "title": "Student Researcher - Video Compression Standard - 2026 Start",
+      "postedToDiscord": "2026-01-16T06:18:43.537Z",
+      "sourceDate": "2025-09-19T05:59:27.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7538674634397813010/detail",
+      "discordThreadId": "1461605557118177311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-multimodality-world-model-rl-streaming-video-understanding-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-multimodality-world-model-rl-streaming-video-understanding-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
+      "postedToDiscord": "2026-01-16T06:18:46.983Z",
+      "sourceDate": "2025-09-16T04:21:52.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7549329038884768007/detail",
+      "discordThreadId": "1461605571806367785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "suno-software-engineering-internship-cambridge-2026-01-16-1",
+      "jobId": "suno-software-engineering-internship-cambridge",
+      "company": "Suno",
+      "title": "Software Engineering Internship",
+      "postedToDiscord": "2026-01-16T06:18:50.366Z",
+      "sourceDate": "2025-09-11T22:37:43.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53/application",
+      "discordThreadId": "1461605586281169123",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 382,
+    "totalJobs": 391,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T05:47:57.719Z",
+      "date": "2026-01-16T06:18:50.366Z",
       "archived": 0
     }
   }
