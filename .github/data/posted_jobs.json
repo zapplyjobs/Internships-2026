@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T01:17:54.400Z",
+  "lastUpdated": "2026-01-16T02:01:09.403Z",
   "jobs": [
     {
       "id": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston-2026-01-09-1",
@@ -3818,14 +3818,25 @@
       "sourceUrl": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Computing-Assistant--Student-Wage-_R0079054",
       "discordThreadId": "1461529853097545913",
       "instanceNumber": 1
+    },
+    {
+      "id": "zoox-labeling-technician-san-mateo-2026-01-16-1",
+      "jobId": "zoox-labeling-technician-san-mateo",
+      "company": "Zoox",
+      "title": "Labeling Technician",
+      "postedToDiscord": "2026-01-16T02:01:09.403Z",
+      "sourceDate": "2025-12-16T23:16:19.000Z",
+      "sourceUrl": "https://jobs.lever.co/zoox/453a8027-4429-4a5a-b7d8-efd984acf3da/apply",
+      "discordThreadId": "1461540738251886716",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 347,
+    "totalJobs": 348,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T01:17:54.400Z",
+      "date": "2026-01-16T02:01:09.403Z",
       "archived": 0
     }
   }
