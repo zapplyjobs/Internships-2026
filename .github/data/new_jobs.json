@@ -14,20 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Part-Time Research Assistants-Statistics",
-    "employer_name": "PennState University",
-    "job_city": "State College",
-    "job_state": "PA",
-    "job_description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants.Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants. JOB DESCRIPTION AND POSITION REQUIREMENTS:The Department of Statistics seeks to hire undergraduate and masters students as part-time Research Assistants during Summer 2024.  The successful candidates will provide assistance with statistical research mainly focused on statistical data privacy. Hours, wages and anticipated periods of employment will vary. Applications will be received and reviewed as the need arises.The Pennsylvania State University is committed to and accountable for advancing diversity, equity, and inclusion in all of its forms. We embrace individual uniqueness, foster a culture of inclusion that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity, and engage all individuals to help them thrive. We value inclusion as a core strength and an essential element of our public service mission.CAMPUS SECURITY CRIME STATISTICS: Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here.Employment with the University will require successful completion of background check(s) in accordance with University policies. EEO IS THE LAWPenn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.Federal Contractors Labor Law PosterPA State Labor Law PosterAffirmative ActionPenn State PoliciesCopyright InformationHotlinesUniversity Park, PA",
-    "job_apply_link": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
-    "job_posted_at_datetime_utc": "2025-11-22T11:47:32.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "pennstate-university-part-time-research-assistants-statistics-state-college",
-    "description_platform": "workday",
-    "description_success": true
-  },
-  {
     "job_title": "Student Researcher - Seed LLM - Scientific Coding Agent",
     "employer_name": "ByteDance",
     "job_city": "San Jose",
@@ -137,6 +123,20 @@
     "job_posted_at": "1h",
     "id": "bytedance-student-researcher-seed-vision-multimodal-video-generation-san-jose",
     "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Software Engineering Internship",
+    "employer_name": "Suno",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_description": "About Suno Suno is a music company built to amplify imagination. Powered by the world’s most advanced AI music model, Suno offers an unparalleled creative platform that includes Suno Studio, a breakthrough generative audio workstation. From shower-singers to aspiring songwriters to seasoned artists, Suno empowers a global community to create, share, and discover music—unlocking the joy of musical expression for all. Check out our Suno version of the job here! About the Internship We’re seeking software engineering interns who are passionate about music and technology. You’ll have the opportunity to work alongside our founding team on real projects that impact Suno’s product. This role offers hands-on experience across a wide range of technical and design challenges as we build the future of music creation. This role will be based in our Cambridge, Massachusetts office and will work during the summer of 2026. What You’ll Do Collaborate with engineers to build Suno’s apps for creating, exploring, and listening to music Help design and optimize services for handling consumer traffic, data, and user engagement Contribute to systems that are performant, scalable, and easy to observe Assist with optimizing the performance, joy, beauty, and feel of our products What You’ll Need Coursework towards a Bachelor’s, Master’s, or PhD degree in a technical field Cumulative GPA above 3.7 Experience with or coursework in backend or full-stack development A willingness to learn and take ownership of projects, with the support of our team Familiarity with distributed systems, databases, or web technologies (e.g., Postgres, Redis, React) is a plus A love for music and curiosity about music technology Additional Notes: Applicants must be eligible to work in the US. Suno is proud to be an Equal Opportunity Employer. We consider qualified applicants without regard to race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, genetic information, veteran status, or any other legally protected basis under provincial, federal, state, and local laws, regulations, or ordinances. We will also consider qualified applicants with criminal histories in a manner consistent with the requirements of state and local laws, including the Massachusetts Fair Chance in Employment Act, NYC Fair Chance Act, LA City Fair Chance Ordinance, and San Francisco Fair Chance Ordinance.",
+    "job_apply_link": "https://jobs.ashbyhq.com/suno/35b8b187-b136-4bf6-af4d-b28ff892dc53/application",
+    "job_posted_at_datetime_utc": "2025-09-11T22:37:43.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "suno-software-engineering-internship-cambridge",
+    "description_platform": "ashby",
     "description_success": true
   }
 ]
