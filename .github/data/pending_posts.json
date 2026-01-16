@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Student Worker",
-      "employer_name": "Centific",
-      "job_city": "Remote in USA",
-      "job_state": "Locations",
-      "job_description": "About CentificAt Centific, people are at the center of our culture.We constantly seek out opportunities for people to enhance their skills,and emphasize work-life balance for all our employees.We believe that competition can bring out the very best in people– from our annual creative film and speech contests to our weekly office game tournaments,we mix work and play to engage our people and help our clients succeed.About JobOverviewResearch Student Workers (contractor) at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized scientists and engineers. Our researchers and engineers pursue innovation in a range of scientific and technical disciplines to help solve complex challenges in diverse fields, including computing, healthcare, economics, and the environment.The Knowledge and Language team at Azure Cognitive Services Research is on a mission to advance the state of the art in NLP and Knowledge research and deliver towards our company vision for how intelligent cloud and intelligent edge will shape the next phase of innovation. The team includes top researchers from across Microsoft to create a center of excellence.We are looking for exceptional student workers to work on cutting edge research in Natural Language Understanding & Generation, Knowledge Graph, Pre-trained Language Models and Multimodal research.The mission of our team is to make fundamental contributions to advancing the state-of-the-art in AI technology. To this end, we conduct research on forward-looking topics such as text summarization, pre-trained models and dialogues. Our research has contributed, and will continue contributing, to various Microsoft products, such as Microsoft Teams, Office, Bing, Cortana, and Xbox as well as third party applications through the Microsoft Azure Cognitive Services.Student workers are expected to utilize and design state-of-the-art results in deep learning in NLP and implement models using required frameworks.ResponsibilitiesStudent workers put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world’s best researchers, interns learn, collaborate, and network for life. Students not only advance their own careers, but they also contribute to exciting research and development strides. During the period, students are paired with mentors and expected to collaborate with other students and researchers, present findings, and contribute to the vibrant life of the community.Roles/Openings:Data Scientist: PythonResearch and develop audio/speech/NLP/vision algorithms with PythonRun training jobs and analyze the results and special cases, fixing bugsOptimize algorithms and models for speed and accuracy on target hardwareSoftware Engineer, C# or JavaBuild up prototypes, exploring new ideas/open source toolsPreferred Qualifications for Data ScientistMust be accepted or currently enrolled in a Master or PhD program in Computer Science or related STEM field. 1+ year of experience in NLP or multimodal research with hands-on deep learning experience. Excellent communication and writing skills. Experience with Python is a must. Preferred Qualifications for Software Engineering BSc or MSc degree in Computer Science or related STEM field. Excellent communication and writing skills. Experience with C# or JavaJoin a growing company using technology to help tackle enterprises’ toughest challenges.",
-      "job_apply_link": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Part-time-student-worker_JR100994",
-      "job_posted_at_datetime_utc": "2025-12-13T15:10:16.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "centific-student-worker-remote-in-usa",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
       "employer_name": "PennState University",
       "job_city": "State College",
@@ -694,10 +674,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -714,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -734,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -754,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -774,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T00:06:14.251Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -794,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T01:17:02.580Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -814,10 +794,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T02:01:02.979Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -834,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T02:01:02.979Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -854,10 +834,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T02:01:02.979Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T04:17:42.333Z"
   },
   {
     "job": {
@@ -1045,16 +1025,18 @@
       "employer_name": "SDSU Research Foundation",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join SDSU Research Foundation in this exciting opportunity.",
+      "job_description": "<h2>Overview</h2> <p><strong>This position has been budgeted for $18.90 per hour and is non-negotiable.</strong></p> <p>&nbsp;</p> <p>The C2P Modernization (Mod) Project is responsible for development of a modernized C2P system that supports Navy ships and limited shore sites around the world. C2P Mod’s initial product is being developed the current plan is for the project to continue to develop and integrate new capabilities in support of emerging US Navy requirements. The project technologies as a basis for development methodology, whereby software developers will create components that will provide functionality for the component and/or system.</p> <p>&nbsp;</p> <h2>Responsibilities</h2> <p><strong>TECHNICAL REQUIREMENTS:</strong></p> <ul> <li>Investigation, analysis, and evaluation of technology to include, open source software, vendor products, academia, industry research, and Government software and systems.</li> <li>Installing and integrating software applications and hardware components. Resolving workstation hardware and software challenges.</li> <li>Performing software cycle support to include requirements, design, development, integration, testing, deployment, and documentation.</li> <li>Producing reports on industry trends to include software and systems methodologies, security systems, and future technologies.</li> <li>Conducting software testing via manual and automated methods.</li> <li>Assisting in reviewing and documenting engineering best practices.</li> </ul> <p>&nbsp;</p> <h2>Qualifications</h2> <p>Undergraduate Student 3: Must have course work in the discipline requested on the task order Statement of Work. The student must be at the Senior level and have experience in 100% of the task requirements and be able to accomplish 90% of the work independently.</p> <p><strong>Minimum Qualifications</strong></p> <ul> <li>Undergraduate Level 3: Information Systems, Computer Science (CS), Computer Engineering (CE), Electrical Engineering (EE) major (rising Junior or Senior).</li> <li>Proficient with a business productivity suite e.g. Microsoft Office.</li> <li>Basic working knowledge of a software development process.</li> <li>Working knowledge of computer hardware.</li> <li>Working knowledge of the Windows (i.e. Win 10, Win 7) and RedHat Operating Systems.</li> </ul> <p>&nbsp;</p> <p><strong>Required Course Work</strong></p> <ul> <li>CS 150 Introductory Computer Programming</li> <li>COMPE 160 Introduction to Computer Programming</li> </ul> <p>&nbsp;</p> <p><strong>Desired Course Work</strong></p> <ul> <li>CS 160 Intermediate Computer Programming</li> <li>CS 210 Data Structures</li> <li>CS 240 Computer Organization</li> <li>COMPE 260 Data Structures and Object-Oriented Programming in C++</li> <li>COMPE 271 Computer Organization</li> <li>COMPE 361 Advanced Programming</li> </ul> <p>&nbsp;</p> <p><strong>Desired Qualifications</strong></p> <ul> <li>Basic working knowledge of computer and networking protocols and communications theory and applications.</li> <li>Basic knowledge of automated software test tools and test management framework such as Test Complete and Test Rail, respectively.</li> <li>Basic working knowledge of document repositories to include Atlassian confluence.</li> <li>Basic working knowledge of task management systems to include Atlassian JIRA.</li> <li>Basic working knowledge of Cloud-based development environment using Bitbucket, Jenkins, and NEXUS tools.</li> <li>Ability to develop decision analysis documentation based on software test findings.</li> <li>Working knowledge of at least one programming language and demonstrates the ability to develop and compile source code, preferably C++.</li> </ul> <p>&nbsp;</p> <p><strong>Additional Applicant Information</strong></p> <ul> <li>This position will require the employee to obtain and maintain a DoD Secret security clearance.</li> <li>Due to the regulations established by the Department of Defense, only US Citizens may qualify.</li> <li>This is a student position and is limited to working 20 hours per week.</li> <li>This position will remain open until filled.</li> <li>Candidate must reside in California and live within a commutable distance from SDSU at time of hire.</li> <li>Job offer is contingent upon satisfactory clearance based on background check results (including a criminal record check).</li> <li>San Diego State University Research Foundation is an equal opportunity employer. Consistent with California law and federal civil rights laws, SDSU Research Foundation provides equal opportunity in employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin or any other categories protected by federal or state law. &nbsp;</li> <li>Employment decisions are based on an individual’s qualifications as they relate to the job under consideration. Our commitment to equal opportunity means ensuring that every employee has equal access to resources and support.&nbsp;</li> <li>SDSU Research Foundation complies with Titles VI and VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, the California Equity in Higher Education Act, California’s Proposition 209 (Art. I, Section 31 of the California Constitution), and other applicable state and federal anti-discrimination laws including grant or contract terms and conditions related to funded program activities. Further the SDSU Research Foundation maintains a Nondiscrimination Policy that prohibits discriminatory preferential treatment, segregation based on race or any other protected status, and all forms of unlawful discrimination, harassment, and retaliation in all programs, policies, and practices. &nbsp;</li> <li>SDSU Research Foundation makes all employment decisions including, but not limited to, applicant screening, hiring, promotion, demotion, compensation, benefits, disciplinary actions, and terminations on the basis of merit. &nbsp;</li> </ul> <p>&nbsp;</p>",
       "job_apply_link": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-11-26T22:58:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sdsu-research-foundation-niwc-senior-san-diego"
+      "id": "sdsu-research-foundation-niwc-senior-san-diego",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T04:16:55.599Z",
     "postedAt": null
   },
   {
@@ -2872,6 +2854,24 @@
     },
     "status": "pending",
     "addedAt": "2026-01-16T03:54:36.084Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Data Analyst & BI",
+      "employer_name": "Stanley Black & Decker",
+      "job_city": "Towson",
+      "job_state": "MD",
+      "job_description": "Join Stanley Black & Decker in this exciting opportunity.",
+      "job_apply_link": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2026_REQ-1000043205",
+      "job_posted_at_datetime_utc": "2026-01-16T02:34:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "stanley-black-decker-intern-data-analyst-bi-towson"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T04:16:55.268Z",
     "enrichedAt": null,
     "postedAt": null
   }
