@@ -1,0 +1,16 @@
+{
+  "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "APPLICATION INSTRUCTIONS:CURRENT PENN STATE EMPLOYEE (faculty, staff, technical service, or student), please login to Workday to complete the internal application process. Please do not apply here, apply internally through Workday. CURRENT PENN STATE STUDENT (not employed previously at the university) and seeking employment with Penn State, please login to Workday to complete the student application process. Please do not apply here, apply internally through Workday.If you are NOT a current employee or student, please click “Apply” and complete the application process for external applicants.Approval of remote and hybrid work is not guaranteed regardless of work location. For additional information on remote work at Penn State, see Notice to Out of State Applicants. JOB DESCRIPTION AND POSITION REQUIREMENTS:In this research project, the selected student will work on building a controllable summarization system for scientific papers. This job will include annotated evaluation data for this project and testing existing large language models.The Pennsylvania State University is committed to and accountable for advancing diversity, equity, inclusion, and sustainability in all of its forms. We embrace individual uniqueness, foster a culture of inclusion that supports both broad and specific diversity initiatives, leverage the educational and institutional benefits of diversity in society and nature, and engage all individuals to help them thrive. We value inclusion as a core strength and an essential element of our public service mission.CAMPUS SECURITY CRIME STATISTICS: Pursuant to the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act and the Pennsylvania Act of 1988, Penn State publishes a combined Annual Security and Annual Fire Safety Report (ASR). The ASR includes crime statistics and institutional policies concerning campus security, such as those concerning alcohol and drug use, crime prevention, the reporting of crimes, sexual assault, and other matters. The ASR is available for review here.Employment with the University will require successful completion of background check(s) in accordance with University policies. EEO IS THE LAWPenn State is an equal opportunity, affirmative action employer, and is committed to providing employment opportunities to all qualified applicants without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If you are unable to use our online application process due to an impairment or disability, please contact 814-865-1473.Federal Contractors Labor Law PosterPA State Labor Law PosterAffirmative ActionPenn State PoliciesCopyright InformationHotlinesUniversity Park, PA",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929",
+      "fetchedAt": "2026-01-16T04:33:03.167Z"
+    }
+  },
+  "cachedAt": 1768537983167
+}
