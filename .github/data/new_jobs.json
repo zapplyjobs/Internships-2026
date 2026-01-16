@@ -14,20 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Leadership Development Program R&D",
-    "employer_name": "Sherwin-Williams",
-    "job_city": "Greensboro",
-    "job_state": "NC",
-    "job_description": "Sherwin-Williams is seeking motivated individuals who have a drive for research & development to join our R&D Leadership Development Program. This training program is designed to develop key skills and experience that will lead to a role in the Chemist track within our Performance Coatings Group, supporting one of our technical divisions which include Automotive, Coil, Industrial Wood, General Industrial, Packaging or Protective and Marine.",
-    "job_apply_link": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600056",
-    "job_posted_at_datetime_utc": "2026-01-05T23:24:51.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "sherwin-williams-leadership-development-program-r-d-greensboro",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "AI Prompt Engineer",
     "employer_name": "Grid",
     "job_city": "Seattle",
@@ -137,6 +123,20 @@
     "job_posted_at": "1h",
     "id": "brookhaven-lab-student-assistant-lightshowai-temporary-part-time-shirley",
     "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Data Scientist - E-commerce",
+    "employer_name": "Corsair",
+    "job_city": "Milpitas",
+    "job_state": "CA",
+    "job_description": "Join CORSAIR’s E-Commerce and Data teams to apply AI and data-driven methods to real-world digital commerce problems. In this role, you will support analysis, experimentation, and intelligent automation initiatives across customer segmentation, content intelligence, and platform optimization. You will work closely with data, engineering, marketing, and e-commerce stakeholders to turn data into actionable insights and scalable solutions. This role emphasizes applied analytics and AI use cases within modern e-commerce tooling, experimentation platforms, and content ecosystems.",
+    "job_apply_link": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
+    "job_posted_at_datetime_utc": "2025-12-23T02:27:17.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "corsair-data-scientist-e-commerce-milpitas",
+    "description_platform": "generic",
     "description_success": true
   }
 ]
