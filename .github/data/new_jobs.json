@@ -14,20 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Labeling Technician",
-    "employer_name": "Zoox",
-    "job_city": "San Mateo",
-    "job_state": "CA",
-    "job_description": "Labeling TechnicianFoster City, CASoftware – Calibration, Localization & Mapping /Contract /HybridApply for this jobZoox's Cartography team is responsible for building, curating, and maintaining high-definition road networks. This includes expanding our geofence, validating the accuracy of annotated data, and responding to “world change” events to ensure our maps remain up to date.As a Labeling Technician (3-month contract), you'll play a key role in creating and validating semantic road network data, ensuring map content aligns with real-world geometry, and collaborating with cross-functional teams to maintain the integrity of our mapping system. We're looking for detail-oriented, analytical students who excel at precision work and can thrive in a fast-paced, collaborative environment.In this role, you will: Create and maintain Zoox’s semantic road network data.Ensure our map content aligns with road geometry and adheres to established content requirements.Validate road network data for accuracy, correctness, and consistency with real-world conditions.Meet deadlines and contribute to high-stakes company goals.Collaborate cross-functionally to troubleshoot and resolve mapping-related issues.Qualifications: Strong attention to detail and commitment to data accuracyExcellent time management and communication skills with the ability to meet critical deadlinesStrong problem-solving skills and the ability to interpret spatial dataTeam-oriented with the ability to work independently and collaborativelyActively enrolled in a 2-year or 4-year college program pursuing a certificate or degree in a related fieldBonus Qualifications:Work or school experience in data labeling, annotation, or quality assuranceExperience with mapping, cartography, or map content validationPassion for autonomous vehicle technology and geospatial dataCompensation$30 per hour. This is a contract position and employment for this position will be through a vendor contracted with Zoox. The hourly pay range is posted and you will be eligible for a benefits package as offered by the vendor.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-    "job_apply_link": "https://jobs.lever.co/zoox/453a8027-4429-4a5a-b7d8-efd984acf3da/apply",
-    "job_posted_at_datetime_utc": "2025-12-16T23:16:19.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "zoox-labeling-technician-san-mateo",
-    "description_platform": "lever",
-    "description_success": true
-  },
-  {
     "job_title": "Graduate Research Assistant",
     "employer_name": "PennState University",
     "job_city": "State College",
@@ -136,6 +122,20 @@
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
     "id": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines",
+    "description_platform": "workday",
+    "description_success": true
+  },
+  {
+    "job_title": "Graduate Research Assistant - Engineering NSF CAP",
+    "employer_name": "Texas A&M International University",
+    "job_city": "Laredo",
+    "job_state": "TX",
+    "job_description": "Job TitleGraduate Research Assistant (Engineering- NSF-CAP)AgencyTexas A&M International UniversityDepartmentSchool Of EngineeringProposed Minimum Salary$18.50 hourlyJob LocationLaredo, TexasJob TypeStudent WorkerJob DescriptionJob SummaryThe Research Assistant will work at the AI institute under the supervision of the center director and will be responsible for assisting in running and managing ongoing activities organized by the center and research projects.Essential Duties and ResponsibilitiesResearch and collect data through complex techniques and procedures.Assist with data management and perform basic statistical analyses.Develop assessment and evaluation tools.Other related duties as assigned.Minimum RequirementsBachelor's degree.Enrolled at least half-time, 3 credit hours per semester for graduates.Maintain a TAMIU overall GPA of 3.0 for graduate students.Must meet all other requirements as stated in TAMIU’s Satisfactory Academic Progress Policy (SAPP).Preferred Experience and EducationPrior experience in AI and Machine learning applications in engineering.Data management and data analysis experience.Strong computer science and mathematics background.Knowledge, Skills, and Abilities Proficiency in use of personal computer workstation with common software applications.Ability to organize and multitask functions to ensure compliance with deadlines.Outstanding customer service skills.Excellent interpersonal relationship and communication skills.Problem analysis and problem-solving skills.Ability to learn and use multiple software programs.Physical Requirements The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.Other RequirementsPosition requires on campus, face-to-face interactions.Position requires maintaining a regular schedule of attendance on campus and in the workplace.Work schedules are created by the department based on departmental needs but ensure it does not conflict with class schedule.Promptly complete all required training.Submit time sheet biweekly.Some evening and weekend work may be required.Subject to funding and/or need.Pay of Rate: $18.50/hour for up to 15 hours weeklyAll positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check.Equal Opportunity/Veterans/Disability Employer.",
+    "job_apply_link": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
+    "job_posted_at_datetime_utc": "2025-12-13T11:04:06.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo",
     "description_platform": "workday",
     "description_success": true
   }

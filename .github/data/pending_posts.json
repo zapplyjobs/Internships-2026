@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Labeling Technician",
-      "employer_name": "Zoox",
-      "job_city": "San Mateo",
-      "job_state": "CA",
-      "job_description": "Labeling TechnicianFoster City, CASoftware – Calibration, Localization & Mapping /Contract /HybridApply for this jobZoox's Cartography team is responsible for building, curating, and maintaining high-definition road networks. This includes expanding our geofence, validating the accuracy of annotated data, and responding to “world change” events to ensure our maps remain up to date.As a Labeling Technician (3-month contract), you'll play a key role in creating and validating semantic road network data, ensuring map content aligns with real-world geometry, and collaborating with cross-functional teams to maintain the integrity of our mapping system. We're looking for detail-oriented, analytical students who excel at precision work and can thrive in a fast-paced, collaborative environment.In this role, you will: Create and maintain Zoox’s semantic road network data.Ensure our map content aligns with road geometry and adheres to established content requirements.Validate road network data for accuracy, correctness, and consistency with real-world conditions.Meet deadlines and contribute to high-stakes company goals.Collaborate cross-functionally to troubleshoot and resolve mapping-related issues.Qualifications: Strong attention to detail and commitment to data accuracyExcellent time management and communication skills with the ability to meet critical deadlinesStrong problem-solving skills and the ability to interpret spatial dataTeam-oriented with the ability to work independently and collaborativelyActively enrolled in a 2-year or 4-year college program pursuing a certificate or degree in a related fieldBonus Qualifications:Work or school experience in data labeling, annotation, or quality assuranceExperience with mapping, cartography, or map content validationPassion for autonomous vehicle technology and geospatial dataCompensation$30 per hour. This is a contract position and employment for this position will be through a vendor contracted with Zoox. The hourly pay range is posted and you will be eligible for a benefits package as offered by the vendor.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/zoox/453a8027-4429-4a5a-b7d8-efd984acf3da/apply",
-      "job_posted_at_datetime_utc": "2025-12-16T23:16:19.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "zoox-labeling-technician-san-mateo",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Graduate Research Assistant",
       "employer_name": "PennState University",
       "job_city": "State College",
@@ -1045,16 +1025,18 @@
       "employer_name": "Argonne National Laboratory",
       "job_city": "Woodridge",
       "job_state": "IL",
-      "job_description": "Join Argonne National Laboratory in this exciting opportunity.",
+      "job_description": "The Nuclear Science and Engineering (NSE) Division is seeking a flexible number of summer interns to support ongoing NSE programs and projects. The NSE division and its predecessors at Argonne National Laboratory pioneered the application of nuclear fission for energy generation and maintained world-leading capabilities for developing innovative reactor and fuel cycle systems. Areas of in-depth expertise include reactor and fuel cycle physics, thermal hydraulics, fuels and materials development, radiochemistry and nuclear-chemical engineering, structural mechanics, nuclear nonproliferation, security, and safeguards.The candidate is expected to support R&D staff members to perform computational analysis or experimental work under general guidance and produce documents describing the results of development work, analyses, and investigations.Knowledge and experience with the following: Strong knowledge of mathematics, physics, and engineering principles.Knowledge of nuclear engineering principles, theories, and practices. · Knowledge in one or more of the specialized area of nuclear engineering, such as reactor physics, thermal-hydraulics, fuels and materials, structural mechanics, etc.Strong skills in the use of computers and the analysis of computational or experimental results. Ability to work both independently and in a team setting. Skilled in oral and written communications and presentations at all levels of the organization. A successful candidate must be able to model Argonne’s Core Values: Impact, Safety, Respect, Integrity, and Teamwork.Education and Experience RequirementsMust be currently enrolled full-time at an accredited institution and have completed at least one semester of schooling by the start of the program.Must be 18 years or older at the time the appointment begins.Must possess a cumulative GPA of 3.0 on a 4.0 scale. If accepting an offer, must pass a screening drug test.Studying nuclear, mechanical, chemical engineering, computational science, or similar fields.Provide (2) professional reference and academic advisor contact information (if/when selected).Job FamilyGraduate Student EmploymentJob ProfileResearch Aide Technical - PhDWorker TypeEmployeeTime TypeFull timeScheduled Weekly Hours40Pay Rate TypeThe expected hiring range for this position is $26.17 - $45.54.Please note that the pay range information is a general guideline only. The pay offered to a selected candidate will be determined based on factors such as, but not limited to, the scope and responsibilities of the position, the qualifications of the selected candidate, business considerations, internal equity, and external market pay for comparable jobs. Additionally, comprehensive benefits are part of the total rewards package.Click here to view Argonne employee benefits!EEO InformationAs an equal employment opportunity employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a safe and welcoming workplace that fosters collaborative scientific discovery and innovation. Argonne encourages everyone to apply for employment. Argonne is committed to nondiscrimination and considers all qualified applicants for employment without regard to any characteristic protected by law.Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Sponsored or Affiliated Activities, as defined and detailed in United States Department of Energy Order 486.1A. You will be asked to disclose any such participation in the application phase for review by Argonne's Legal Department.   All Argonne offers for appointments in the student employment category are contingent upon a background check that includes an assessment of criminal conviction history conducted on an individualized and case-by-case basis.  Please be advised that Argonne positions require upon hire (or may require in the future) for the individual be to obtain a government access authorization that involves additional background check requirements.  Failure to obtain or maintain such government access authorization could result in the withdrawal of a job offer or future termination of employment.",
       "job_apply_link": "https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Graduate-Research-Aide---Nuclear-Engineering_419425",
       "job_posted_at_datetime_utc": "2025-12-07T05:46:04.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "argonne-national-laboratory-graduate-research-aide-nuclear-engineering-woodridge"
+      "id": "argonne-national-laboratory-graduate-research-aide-nuclear-engineering-woodridge",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T02:50:07.283Z",
     "postedAt": null
   },
   {
@@ -2800,6 +2782,78 @@
     },
     "status": "pending",
     "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analytics Intern - Part-time days",
+      "employer_name": "Clorox",
+      "job_city": "Olathe",
+      "job_state": "KS",
+      "job_description": "Join Clorox in this exciting opportunity.",
+      "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Spring-Hill-KS---USA/Data-Analytics-Intern--Part-time-days-_20760",
+      "job_posted_at_datetime_utc": "2026-01-15T23:46:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "clorox-data-analytics-intern-part-time-days-olathe"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T02:50:02.986Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Configuration Management Intern Engineer",
+      "employer_name": "General Dynamics Mission Systems",
+      "job_city": "Pittsfield",
+      "job_state": "MA",
+      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_apply_link": "https://careers-gdms.icims.com/jobs/69533/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2026-01-15T23:25:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "general-dynamics-mission-configuration-management-intern-engineer-pittsfield"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T02:50:02.986Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Heat to Power Characterization Intern - Thermophotovoltaic/High-Temperature Systems",
+      "employer_name": "Antora Energy",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Antora Energy in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/antora/jobs/5764948004",
+      "job_posted_at_datetime_utc": "2026-01-15T23:21:08.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "antora-energy-heat-to-power-characterization-intern-thermophotovoltaic-high-temperature-systems-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T02:50:02.986Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Mechanical Engineering Intern",
+      "employer_name": "Steel Dynamics",
+      "job_city": "Remote in USA",
+      "job_state": "Locations",
+      "job_description": "Join Steel Dynamics in this exciting opportunity.",
+      "job_apply_link": "https://careers-steeldynamics.icims.com/jobs/6552/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-11T17:30:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "steel-dynamics-mechanical-engineering-intern-remote-in-usa"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T02:50:02.986Z",
     "enrichedAt": null,
     "postedAt": null
   }

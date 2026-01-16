@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T02:01:09.403Z",
+  "lastUpdated": "2026-01-16T02:50:17.193Z",
   "jobs": [
-    {
-      "id": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston-2026-01-09-1",
-      "jobId": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston",
-      "company": "Red Hat",
-      "title": "Machine Learning Systems Research Intern - PhD - Summer 2026",
-      "postedToDiscord": "2026-01-09T02:49:02.350Z",
-      "sourceDate": "2026-01-09T01:42:56.000Z",
-      "sourceUrl": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Machine-Learning-Systems-Research-Intern--PhD--Summer-2026_R-052520",
-      "discordThreadId": "1459016071175471179",
-      "instanceNumber": 1
-    },
-    {
-      "id": "northrop-grumman-2026-artificial-intelligence-physical-ai-intern-ai-redondo-beach-ca-sunnyvale-ca-sunnyvale-2026-01-09-1",
-      "jobId": "northrop-grumman-2026-artificial-intelligence-physical-ai-intern-ai-redondo-beach-ca-sunnyvale-ca-sunnyvale",
-      "company": "Northrop Grumman",
-      "title": "2026 Artificial Intelligence – / Physical AI Intern - AI - Redondo Beach CA','Sunnyvale CA",
-      "postedToDiscord": "2026-01-09T02:49:06.195Z",
-      "sourceDate": "2026-01-09T01:42:23.000Z",
-      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Artificial-Intelligence--AI----Physical-AI-Intern---Redondo-Beach-CA---Sunnyvale-CA_R10218613",
-      "discordThreadId": "1459016087621472347",
-      "instanceNumber": 1
-    },
-    {
-      "id": "comcast-comcast-machine-learning-co-op-philadelphia-2026-01-09-1",
-      "jobId": "comcast-comcast-machine-learning-co-op-philadelphia",
-      "company": "Comcast",
-      "title": "Comcast Machine Learning Co-op",
-      "postedToDiscord": "2026-01-09T02:49:09.816Z",
-      "sourceDate": "2025-11-07T00:00:49.000Z",
-      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R421859",
-      "discordThreadId": "1459016103853559820",
-      "instanceNumber": 1
-    },
     {
       "id": "comcast-data-science-intern-co-op-philadelphia-2026-01-09-1",
       "jobId": "comcast-data-science-intern-co-op-philadelphia",
@@ -3829,14 +3796,36 @@
       "sourceUrl": "https://jobs.lever.co/zoox/453a8027-4429-4a5a-b7d8-efd984acf3da/apply",
       "discordThreadId": "1461540738251886716",
       "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-graduate-research-assistant-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-graduate-research-assistant-state-college",
+      "company": "PennState University",
+      "title": "Graduate Research Assistant",
+      "postedToDiscord": "2026-01-16T02:50:13.682Z",
+      "sourceDate": "2025-12-13T19:36:01.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Graduate-Research-Assistant-w--Dr-Rajtmajer_REQ_0000070406-1",
+      "discordThreadId": "1461553087226314863",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-of-texas-austin-postdoctoral-fellow-transmission-electron-microscopy-austin-2026-01-16-1",
+      "jobId": "university-of-texas-austin-postdoctoral-fellow-transmission-electron-microscopy-austin",
+      "company": "University of Texas - Austin",
+      "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
+      "postedToDiscord": "2026-01-16T02:50:17.193Z",
+      "sourceDate": "2025-12-13T18:40:38.000Z",
+      "sourceUrl": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
+      "discordThreadId": "1461553101935870168",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 348,
+    "totalJobs": 347,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T02:01:09.403Z",
+      "date": "2026-01-16T02:50:17.193Z",
       "archived": 0
     }
   }
