@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:06:39.469Z",
+  "lastUpdated": "2026-01-16T07:19:18.313Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4467,14 +4467,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
       "discordThreadId": "1461617616773976107",
       "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-training-and-placement-dallas-2026-01-16-1",
+      "jobId": "ag-java-training-and-placement-dallas",
+      "company": "AG Technologies",
+      "title": "Java Training and Placement",
+      "postedToDiscord": "2026-01-16T07:18:44.466Z",
+      "sourceDate": "2025-08-12T10:42:40.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103866458",
+      "discordThreadId": "1461620660836106424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-free-training-and-placement-weblogic-devops-java-dallas-2026-01-16-1",
+      "jobId": "ag-free-training-and-placement-weblogic-devops-java-dallas",
+      "company": "AG Technologies",
+      "title": "Free Training and Placement Weblogic/Devops/Java",
+      "postedToDiscord": "2026-01-16T07:18:47.937Z",
+      "sourceDate": "2025-08-12T10:40:25.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/113276373",
+      "discordThreadId": "1461620675293872159",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-obiee-salesforce-networking-training-and-placement-dallas-2026-01-16-1",
+      "jobId": "ag-obiee-salesforce-networking-training-and-placement-dallas",
+      "company": "AG Technologies",
+      "title": "OBIEE/Salesforce/Networking training and placement",
+      "postedToDiscord": "2026-01-16T07:18:51.417Z",
+      "sourceDate": "2025-08-12T10:39:59.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/112846510",
+      "discordThreadId": "1461620689806295061",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-etl-informatica-obiee-dallas-2026-01-16-1",
+      "jobId": "ag-etl-informatica-obiee-dallas",
+      "company": "AG Technologies",
+      "title": "ETL Informatica/OBIEE",
+      "postedToDiscord": "2026-01-16T07:18:55.051Z",
+      "sourceDate": "2025-08-12T08:35:12.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/104213106",
+      "discordThreadId": "1461620704536694824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-obiee-etl-java-job-opportunity-for-opt-cpt-dallas-2026-01-16-1",
+      "jobId": "ag-obiee-etl-java-job-opportunity-for-opt-cpt-dallas",
+      "company": "AG Technologies",
+      "title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
+      "postedToDiscord": "2026-01-16T07:18:58.480Z",
+      "sourceDate": "2025-08-12T08:28:30.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
+      "discordThreadId": "1461620719669743698",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-vision-long-range-video-generation-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-vision-long-range-video-generation-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Vision - Long-Range Video Generation",
+      "postedToDiscord": "2026-01-16T07:19:01.930Z",
+      "sourceDate": "2025-08-02T03:14:57.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
+      "discordThreadId": "1461620733951082497",
+      "instanceNumber": 1
+    },
+    {
+      "id": "prosidian-consulting-gis-specialist-technician-levels-1-and-2-washington-2026-01-16-1",
+      "jobId": "prosidian-consulting-gis-specialist-technician-levels-1-and-2-washington",
+      "company": "Prosidian Consulting",
+      "title": "GIS Specialist - Technician - Levels 1 and 2",
+      "postedToDiscord": "2026-01-16T07:19:08.316Z",
+      "sourceDate": "2025-08-12T09:42:28.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/prosidianconsulting/743999987474433",
+      "discordThreadId": "1461620761080103087",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-llm-horizon-async-agent-proactive-agent-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-llm-horizon-async-agent-proactive-agent-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed LLM Horizon - Async Agent & Proactive Agent",
+      "postedToDiscord": "2026-01-16T07:19:14.882Z",
+      "sourceDate": "2025-08-02T03:14:52.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533024844121180434/detail",
+      "discordThreadId": "1461620788003078359",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-llm-code-generation-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-llm-code-generation-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed LLM - Code Generation",
+      "postedToDiscord": "2026-01-16T07:19:18.313Z",
+      "sourceDate": "2025-08-02T03:14:49.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533023925020035336/detail",
+      "discordThreadId": "1461620802775547994",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 406,
+    "totalJobs": 415,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T07:06:39.469Z",
+      "date": "2026-01-16T07:19:18.313Z",
       "archived": 0
     }
   }
