@@ -1,95 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T17:42:15.218Z",
+  "lastUpdated": "2026-01-16T18:33:04.655Z",
   "jobs": [
-    {
-      "id": "carpenter-technology-digital-technologies-intern-reading-2026-01-09-1",
-      "jobId": "carpenter-technology-digital-technologies-intern-reading",
-      "company": "Carpenter Technology",
-      "title": "Digital Technologies Intern",
-      "postedToDiscord": "2026-01-09T18:18:37.890Z",
-      "sourceDate": "2026-01-09T17:41:12.000Z",
-      "sourceUrl": "https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Digital-Technologies-Intern_26019",
-      "discordThreadId": "1459250013006725131",
-      "instanceNumber": 1
-    },
-    {
-      "id": "geico-ai-applied-research-machine-learning-internship-phd-palo-alto-2026-01-09-1",
-      "jobId": "geico-ai-applied-research-machine-learning-internship-phd-palo-alto",
-      "company": "Geico",
-      "title": "AI Applied Research & Machine Learning Internship - PhD",
-      "postedToDiscord": "2026-01-09T18:18:41.251Z",
-      "sourceDate": "2026-01-09T17:27:17.000Z",
-      "sourceUrl": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/AI-Applied-Research---Machine-Learning-Internship--PhD-_R0061930",
-      "discordThreadId": "1459250026747400504",
-      "instanceNumber": 1
-    },
-    {
-      "id": "astrazeneca-machine-learning-and-a-1-intern-undergraduate-students-gaithersburg-2026-01-09-1",
-      "jobId": "astrazeneca-machine-learning-and-a-1-intern-undergraduate-students-gaithersburg",
-      "company": "AstraZeneca",
-      "title": "Machine Learning and a.1. Intern - Undergraduate Students",
-      "postedToDiscord": "2026-01-09T18:18:45.227Z",
-      "sourceDate": "2026-01-09T16:40:06.000Z",
-      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Machine-Learning-and-AI-Intern---Undergraduate-Students_R-243182",
-      "discordThreadId": "1459250041071079521",
-      "instanceNumber": 1
-    },
-    {
-      "id": "pine-rest-intern-master-s-level-social-worker-inpatient-and-php-grand-rapids-2026-01-09-1",
-      "jobId": "pine-rest-intern-master-s-level-social-worker-inpatient-and-php-grand-rapids",
-      "company": "Pine Rest",
-      "title": "Intern – Master's Level Social Worker - Inpatient and PHP",
-      "postedToDiscord": "2026-01-09T18:18:51.895Z",
-      "sourceDate": "2026-01-09T17:29:26.000Z",
-      "sourceUrl": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Intern---Master-s-Level-Social-Worker--Inpatient-and-PHP_JR103945",
-      "discordThreadId": "1459250070502379768",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lmi-power-platform-intern-summer-2026-vienna-2026-01-09-1",
-      "jobId": "lmi-power-platform-intern-summer-2026-vienna",
-      "company": "LMI ",
-      "title": "Power Platform Intern - Summer 2026",
-      "postedToDiscord": "2026-01-09T18:18:55.234Z",
-      "sourceDate": "2026-01-09T16:56:36.000Z",
-      "sourceUrl": "https://careers-lmi.icims.com/jobs/13504/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459250085555863587",
-      "instanceNumber": 1
-    },
-    {
-      "id": "sherwin-williams-r-d-data-science-intern-cleveland-2026-01-09-1",
-      "jobId": "sherwin-williams-r-d-data-science-intern-cleveland",
-      "company": "Sherwin-Williams",
-      "title": "R&D Data Science Intern",
-      "postedToDiscord": "2026-01-09T18:19:01.999Z",
-      "sourceDate": "2026-01-09T16:23:45.000Z",
-      "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600075",
-      "discordThreadId": "1459250112982155440",
-      "instanceNumber": 1
-    },
-    {
-      "id": "w-r-berkley-data-analytics-glen-allen-2026-01-09-1",
-      "jobId": "w-r-berkley-data-analytics-glen-allen",
-      "company": "W.R. Berkley",
-      "title": "Data Analytics",
-      "postedToDiscord": "2026-01-09T18:19:05.553Z",
-      "sourceDate": "2025-10-31T00:51:04.000Z",
-      "sourceUrl": "https://careers-berkley.icims.com/jobs/13401/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459250128408809624",
-      "instanceNumber": 1
-    },
-    {
-      "id": "geneva-trading-pmo-data-engineering-intern-chicago-2026-01-09-1",
-      "jobId": "geneva-trading-pmo-data-engineering-intern-chicago",
-      "company": "Geneva Trading",
-      "title": "PMO Data Engineering Intern",
-      "postedToDiscord": "2026-01-09T18:19:08.873Z",
-      "sourceDate": "2025-09-03T22:23:13.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/genevatrading/jobs/4853796007",
-      "discordThreadId": "1459250142971429079",
-      "instanceNumber": 1
-    },
     {
       "id": "manulife-financial-summer-intern-2026-business-technology-analyst-boston-2026-01-10-1",
       "jobId": "manulife-financial-summer-intern-2026-business-technology-analyst-boston",
@@ -5160,16 +5072,59 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
       "discordThreadId": "1461777572948869175",
       "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-ui-obiee-etl-training-opportunity-for-opt-dallas-2026-01-16-1",
+      "jobId": "ag-java-ui-obiee-etl-training-opportunity-for-opt-dallas",
+      "company": "AG Technologies",
+      "title": "Java/UI/ OBIEE/ETL training opportunity for OPT",
+      "postedToDiscord": "2026-01-16T18:32:47.753Z",
+      "sourceDate": "2025-08-14T18:09:39.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103941299",
+      "discordThreadId": "1461790291416584430",
+      "instanceNumber": 1
+    },
+    {
+      "id": "crest-industries-cis-cs-internship-alexandria-2026-01-16-1",
+      "jobId": "crest-industries-cis-cs-internship-alexandria",
+      "company": "Crest Industries",
+      "title": "CIS/CS Internship",
+      "postedToDiscord": "2026-01-16T18:32:54.440Z",
+      "sourceDate": "2026-01-16T15:14:51.000Z",
+      "sourceUrl": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488/apply",
+      "discordThreadId": "1461790319799701721",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ernst-young-jd-llm-intern-tax-indirect-tax-salt-transactions-boston-2026-01-16-1",
+      "jobId": "ernst-young-jd-llm-intern-tax-indirect-tax-salt-transactions-boston",
+      "company": "Ernst & Young",
+      "title": "JD/LLM Intern - Tax - Indirect Tax - SALT Transactions",
+      "postedToDiscord": "2026-01-16T18:33:01.320Z",
+      "sourceDate": "2025-09-08T22:41:31.000Z",
+      "sourceUrl": "https://eyglobal.yello.co/jobs/ud_-ROVTKuPRxpHjv5WxXQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "discordThreadId": "1461790347519852728",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ernst-young-intern-tax-itts-transaction-tax-advisory-jd-llm-summer-2026-boston-2026-01-16-1",
+      "jobId": "ernst-young-intern-tax-itts-transaction-tax-advisory-jd-llm-summer-2026-boston",
+      "company": "Ernst & Young",
+      "title": "Intern - Tax - Itts - Transaction Tax Advisory - Jd LLM - Summer 2026",
+      "postedToDiscord": "2026-01-16T18:33:04.655Z",
+      "sourceDate": "2025-09-09T00:05:47.000Z",
+      "sourceUrl": "https://eyglobal.yello.co/jobs/Vn0auTRiuN4HgdckGhrUZA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "discordThreadId": "1461790363613397103",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 469,
+    "totalJobs": 465,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T17:42:15.218Z",
-      "archived": 5,
-      "monthsAffected": 1
+      "date": "2026-01-16T18:33:04.655Z",
+      "archived": 0
     }
   }
 }
