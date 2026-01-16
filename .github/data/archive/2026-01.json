@@ -3012,5 +3012,27 @@
     "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556657568",
     "discordThreadId": "1459098878795055248",
     "instanceNumber": 1
+  },
+  {
+    "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
+    "jobId": "comcast-comcast-data-scientist-co-op-philadelphia",
+    "company": "Comcast",
+    "title": "Comcast Data Scientist Co-op",
+    "postedToDiscord": "2026-01-09T09:44:20.726Z",
+    "sourceDate": "2025-11-07T00:00:48.000Z",
+    "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R421666",
+    "discordThreadId": "1459120588105973811",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lennox-international-data-analytics-intern-columbia-2026-01-09-1",
+    "jobId": "lennox-international-data-analytics-intern-columbia",
+    "company": "Lennox International",
+    "title": "Data Analytics Intern",
+    "postedToDiscord": "2026-01-09T10:17:23.073Z",
+    "sourceDate": "2025-10-30T15:41:24.000Z",
+    "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50553/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1459128902852018299",
+    "instanceNumber": 1
   }
 ]
