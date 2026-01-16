@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:18:31.856Z",
+  "lastUpdated": "2026-01-16T08:32:31.351Z",
   "jobs": [
     {
       "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
@@ -4984,14 +4984,36 @@
       "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Spring-Hill-KS---USA/Data-Analytics-Intern--Part-time-days-_20760",
       "discordThreadId": "1461635707108982824",
       "instanceNumber": 1
+    },
+    {
+      "id": "nutanix-digital-transformation-analyst-san-jose-2026-01-16-1",
+      "jobId": "nutanix-digital-transformation-analyst-san-jose",
+      "company": "Nutanix",
+      "title": "Digital Transformation Analyst",
+      "postedToDiscord": "2026-01-16T08:32:24.956Z",
+      "sourceDate": "2026-01-15T23:10:20.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/om7QyfwB?nl=1&nl=1&fr=false",
+      "discordThreadId": "1461639200980865117",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sikich-netsuite-data-science-ai-intern-marlborough-2026-01-16-1",
+      "jobId": "sikich-netsuite-data-science-ai-intern-marlborough",
+      "company": "Sikich",
+      "title": "Netsuite Data Science/AI Intern",
+      "postedToDiscord": "2026-01-16T08:32:31.351Z",
+      "sourceDate": "2026-01-15T23:09:39.000Z",
+      "sourceUrl": "https://jobs.jobvite.com/sikichcareers/job/oTejzfwJ?nl=1&nl=1&fr=false",
+      "discordThreadId": "1461639228772323502",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 453,
+    "totalJobs": 455,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T08:18:31.856Z",
+      "date": "2026-01-16T08:32:31.351Z",
       "archived": 0
     }
   }
