@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Leadership Development Program R&D",
-      "employer_name": "Sherwin-Williams",
-      "job_city": "Greensboro",
-      "job_state": "NC",
-      "job_description": "Sherwin-Williams is seeking motivated individuals who have a drive for research & development to join our R&D Leadership Development Program. This training program is designed to develop key skills and experience that will lead to a role in the Chemist track within our Performance Coatings Group, supporting one of our technical divisions which include Automotive, Coil, Industrial Wood, General Industrial, Packaging or Protective and Marine.",
-      "job_apply_link": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600056",
-      "job_posted_at_datetime_utc": "2026-01-05T23:24:51.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sherwin-williams-leadership-development-program-r-d-greensboro",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "AI Prompt Engineer",
       "employer_name": "Grid",
       "job_city": "Seattle",
@@ -1045,16 +1025,18 @@
       "employer_name": "Sierra Nevada Corporation",
       "job_city": "Southern Pines",
       "job_state": "NC",
-      "job_description": "Join Sierra Nevada Corporation in this exciting opportunity.",
+      "job_description": "SNC's Military Fellowship Program partners with programs such as SkillBridge and Hiring Our Heroes to provide fellowship opportunities to service members transitioning to the civilian workforce. These fellowships include up to six months of on-the-job industry training for eligible service members. During this time, participants gain valuable work experience in the civilian sector and build professional networks as they prepare for their transition to full-time civilian work.NOTE: You must be currently serving on active duty to be eligible for this fellowship program. This program is not for veterans who have already separated from the military.SNC's TRAX software plays an integral part in bridging battlefield communication gaps for Military and Coalition Partners, effectively eliminating any proprietary interfaces and protocols, allowing commanders to receive a sound common operating picture of their battle space. This position will work as part of a larger Agile software development team to rapidly provide operational capabilities to the field.The Mission Solutions and Technologies (MST) business area provides affordable, turn-key command/control, communications, integrated ISR, force protection and security solutions worldwide. The MST team has a long legacy of supporting the Department of Defense, Department of Homeland Security, commercial and international customers with years of experience in platform operations, engineering and full lifecycle management across domains – air, land, sea, space and cyber.Responsibilities:Works as part of a larger Agile software development team to rapidly provide operational capabilities to the fieldDevelops software that is heavily used DoD wide and by US Special Operations Forces (SOF) with a high demand for additional featuresDesigns, develops, documents, tests and debugs applications software and systems that contain logical and mathematical solutionsDefine software/and or system architecture, design software modules, and produce associated documentation per corporate or customer standardsEnsures software standards are metWrite and test software modules and integrate with other software and/or hardware componentsQualifications You Must Have:Currently serving as active duty military and be eligible to participate in the DoD SkillBridge programBachelor's of Science degree in Computer Science, Software Engineering or other related discipline and typically 0-2 years of relevant experienceBasic knowledge of Computer Aided Engineering toolsConceptual understanding of engineering principles and practicesFamiliarity working in multi-disciplinary teamsThe ability to obtain and maintain a Top Secret U.S. Security Clearance is required Qualifications We Prefer:Understanding of industry standard software languages such as C, C#, C++, HTML, Java, Python, and BashExperience with software tools for requirements tracking, code reviews, static analysis, library and artifact repository, and automated buildKnowledge of software development methodologies such as Agile/Scrum, Waterfall, and SpiralFamiliarity with data structures This posting will be open for application for a minimum of 5 days and may be extended based on business needs.IMPORTANT NOTICE: This position requires the ability to obtain and maintain a Top Secret U.S. Security Clearance. U.S. Citizenship status is required as this position needs an active U.S. Security Clearance for employment. Non-U.S. Citizens may not be eligible to obtain a security clearance. The Department of Defense Consolidated Adjudications Facility (DoD CAF), a federal government agency, handles the adjudicative aspects of the security clearance eligibility process for industry applicants. Adjudicative factors which affect the outcome of the eligibility determination include, but are not limited to, allegiance to the U.S., foreign influence, foreign preference, criminal conduct, security violations and illegal drug use.Learn more about the background check process for Security Clearances. SNC is a global leader in aerospace and national security committed to moving the American Dream forward. We’re known and respected for our mission and execution focus, agility, and disruptive and rapid innovation. We provide leading edge technologies and transformative solutions that support our nation’s most critical security needs. If you are mission-focused, thrive in collaborative environments, and want to make our country stronger with state-of-the-art technologies that safeguard freedom, join our team!SNC is an Equal Opportunity Employer committed to an environment free of discrimination.  Employment decisions are made based on merit without regard to race, color, age, religion, sex, national origin, disability, status as a protected veteran or other characteristics protected by law.",
       "job_apply_link": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
       "job_posted_at_datetime_utc": "2025-12-13T11:07:00.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines"
+      "id": "sierra-nevada-military-fellowship-program-software-engineer-southern-pines",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T00:06:14.251Z",
     "postedAt": null
   },
   {
