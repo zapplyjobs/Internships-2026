@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T18:33:04.655Z",
+  "lastUpdated": "2026-01-16T23:39:26.623Z",
   "jobs": [
     {
       "id": "manulife-financial-summer-intern-2026-business-technology-analyst-boston-2026-01-10-1",
@@ -5116,14 +5116,69 @@
       "sourceUrl": "https://eyglobal.yello.co/jobs/Vn0auTRiuN4HgdckGhrUZA?job_board_id=c1riT--B2O-KySgYWsZO1Q",
       "discordThreadId": "1461790363613397103",
       "instanceNumber": 1
+    },
+    {
+      "id": "ernst-young-intern-multiple-teams-philadelphia-2026-01-16-1",
+      "jobId": "ernst-young-intern-multiple-teams-philadelphia",
+      "company": "Ernst & Young",
+      "title": "Intern - Multiple Teams",
+      "postedToDiscord": "2026-01-16T23:39:09.228Z",
+      "sourceDate": "2026-01-16T23:13:52.000Z",
+      "sourceUrl": "https://eyglobal.yello.co/jobs/T0Bg8IQwVApd_jkZYeWf3g?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+      "discordThreadId": "1461867389263282206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-algorithm-engineering-image-processing-ann-arbor-2026-01-16-1",
+      "jobId": "kla-algorithm-engineering-image-processing-ann-arbor",
+      "company": "KLA",
+      "title": "Algorithm Engineering - Image Processing",
+      "postedToDiscord": "2026-01-16T23:39:12.672Z",
+      "sourceDate": "2026-01-16T23:13:02.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern--Image-Processing-_2531393-2",
+      "discordThreadId": "1461867404224368670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-software-engineering-intern-norridge-2026-01-16-1",
+      "jobId": "pricewaterhousecoopers-pwc-software-engineering-intern-norridge",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-16T23:39:16.435Z",
+      "sourceDate": "2026-01-16T23:11:28.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Software-Engineering---Summer-2027-Internship_695991WD-1",
+      "discordThreadId": "1461867418623152129",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-ai-engineering-data-scientist-intern-norridge-2026-01-16-1",
+      "jobId": "pricewaterhousecoopers-pwc-ai-engineering-data-scientist-intern-norridge",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "AI Engineering/Data Scientist Intern",
+      "postedToDiscord": "2026-01-16T23:39:19.922Z",
+      "sourceDate": "2026-01-16T23:11:21.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/AI-Engineering-Data-Scientist---Summer-2027-Internship_695987WD-1",
+      "discordThreadId": "1461867434469228767",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pricewaterhousecoopers-pwc-tax-technology-innovation-intern-washington-2026-01-16-1",
+      "jobId": "pricewaterhousecoopers-pwc-tax-technology-innovation-intern-washington",
+      "company": "PricewaterhouseCoopers (PwC)",
+      "title": "Tax Technology & Innovation Intern",
+      "postedToDiscord": "2026-01-16T23:39:26.623Z",
+      "sourceDate": "2025-09-09T02:27:48.000Z",
+      "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Technology---Innovation-Intern---Summer-2026_664001WD",
+      "discordThreadId": "1461867461728145671",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 465,
+    "totalJobs": 470,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T18:33:04.655Z",
+      "date": "2026-01-16T23:39:26.623Z",
       "archived": 0
     }
   }
