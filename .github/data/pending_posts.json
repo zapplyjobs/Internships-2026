@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Java training and placemnt",
-      "employer_name": "AG Technologies",
-      "job_city": "Dallas",
-      "job_state": "TX",
-      "job_description": "Java training and placemntCompany DescriptionAG Technologies was founded as a software solutions company in 2008 & has its corporate headquarters at Chesterfield, Missouri with branches within the US and India. Over the years the organization has expanded into various market segments & activities including \"Consultancy services\" of technical personnel in large and multi-national organizations. Over the last five years, our client base of Fortune 100 companies has expanded dramaticallyJob DescriptionSkills: C++,Java QualificationsMaster's and Bachelor'sAdditional Informationif you have any questions please contact to basha AT agsoftco.com I'm interestedI'm interested",
-      "job_apply_link": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
-      "job_posted_at_datetime_utc": "2025-08-14T18:14:12.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ag-java-training-and-placemnt-dallas",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Java Networking Training and Placement",
       "employer_name": "AG Technologies",
       "job_city": "Dallas",
@@ -694,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -714,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -734,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -754,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T05:55:30.318Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -774,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T06:33:39.576Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -794,10 +774,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T06:33:39.576Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -814,10 +794,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T06:33:39.576Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -834,10 +814,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T06:33:39.576Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -854,10 +834,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-16T06:33:39.576Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:06:42.476Z"
   },
   {
     "job": {
@@ -1045,16 +1025,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher [Seed LLM Horizon – Memory, Personalization & Evolving Agent] - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
       "job_posted_at_datetime_utc": "2025-07-31T02:45:07.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-llm-horizon-memory-san-jose"
+      "id": "bytedance-student-researcher-seed-llm-horizon-memory-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:05:57.986Z",
     "postedAt": null
   },
   {

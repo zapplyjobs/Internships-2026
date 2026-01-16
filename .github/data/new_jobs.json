@@ -14,20 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Java training and placemnt",
-    "employer_name": "AG Technologies",
-    "job_city": "Dallas",
-    "job_state": "TX",
-    "job_description": "Java training and placemntCompany DescriptionAG Technologies was founded as a software solutions company in 2008 & has its corporate headquarters at Chesterfield, Missouri with branches within the US and India. Over the years the organization has expanded into various market segments & activities including \"Consultancy services\" of technical personnel in large and multi-national organizations. Over the last five years, our client base of Fortune 100 companies has expanded dramaticallyJob DescriptionSkills: C++,Java QualificationsMaster's and Bachelor'sAdditional Informationif you have any questions please contact to basha AT agsoftco.com I'm interestedI'm interested",
-    "job_apply_link": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
-    "job_posted_at_datetime_utc": "2025-08-14T18:14:12.000Z",
-    "job_employment_type": "FULLTIME",
-    "job_posted_at": "1h",
-    "id": "ag-java-training-and-placemnt-dallas",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Java Networking Training and Placement",
     "employer_name": "AG Technologies",
     "job_city": "Dallas",
@@ -136,6 +122,20 @@
     "job_employment_type": "FULLTIME",
     "job_posted_at": "1h",
     "id": "ag-training-and-placement-on-java-j2ee-hadoop-dallas",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Generative AI Training",
+    "employer_name": "Kanshe Infotech",
+    "job_city": "Raleigh",
+    "job_state": "NC",
+    "job_description": "Generative AI TrainingFull-timeCompany DescriptionKanshe Infotech – Houston, TX Kanshe Infotech is committed and noticed in the Information Technology industry as a company with exceptional talent and expertise in the area of software development and solutions.The company is formed by a group of people with extensive industry experience and wide ranging domain expertise with a vision to create a cost effective, high value solution provisions comparable to the big consulting companies.The mission of our company is to be an industry leader by offering innovative technology solutions that will give companies the edge to succeed in today’s competitive environment.We work with large fortune 100 clients and are looking to add consultants to our team in the following technologies based on the career choice of the individual and also position with our clients.Job DescriptionJob DescriptionOur Training Features:· You will receive top quality instruction that is famous for Online IT training.· Trainees will receive immediate response to any training related queries, either technical or otherwise. We advise our trainees not to wait till the next class to seek answers to any technical issue.· Training sessions are conducted by real-time instructor with real-time examples.· Every training session is recorded and posted to the batch after each weekend class.· We are offering online training on Generative AI.. Provide OPT Stem Ext.: Guidance and support for applying for the 24-month OPT STEM extension Help with OPT Employment letter: Help with drafting and obtaining OPT employment letters that meet USCIS requirements.· We provide training in technology of your choice.· Good online training virtual class room environment.· Highly qualified and experienced trainers.· Professional environment.· Special interview training· Training for skill enhancement.· Study material and Lab material provided.· E-Verified company.If you are interested or if you know anyone looking for a change, please feel free to call or email me for details or questions. I look forward to seeing resumes from you or your known and highly recommended candidates.Thanks Additional InformationNoI'm interestedI'm interested",
+    "job_apply_link": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
+    "job_posted_at_datetime_utc": "2025-08-12T20:04:22.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "kanshe-infotech-generative-ai-training-raleigh",
     "description_platform": "generic",
     "description_success": true
   }
