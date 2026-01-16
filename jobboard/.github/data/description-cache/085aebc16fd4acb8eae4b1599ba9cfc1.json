@@ -1,0 +1,23 @@
+{
+  "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Information-Science-Intern_R-243812",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "We are looking for Sophomore and Junior students majoring in Computer Science, Information Sciences, Engineering, Data science for a 12-week internship role at our site in Gaithersburg, MD from May 18 2026 to August 7 2026.Position Description: Data sourcing and preparation: Identify, ingest, and clean structured and unstructured datasets; document data lineage, assumptions, and quality checks.Reproducible workflows: Use Git, notebooks, and code review to ensure version control, documentation, and repeatable analyses.Stakeholder collaboration: Gather requirements, validate use cases, and iterate on findings with internal and external partners.  Position Requirements:Sophomore and Junior students majoring in Computer Science, Information Sciences, Engineering, Data science, or a related field.Candidates must have an expected graduation date after August 2026.Programming proficiency in at least one programming language (for e.g. Python, R, SQL): Data manipulation, analysis, and basic modeling using clean, well-documented code.Data visualization experience preferable (Tableau, Power BI, similar): Build intuitive dashboards and charts tailored to stakeholder needs.ETL understanding: Extract, transform, and load data from multiple sources into analytics-ready structures and storage.Machine Learning and AI Familiarity preferredBasic level of Database knowledge: Work with relational databases and write efficient SQL for data retrieval, joins, and performance-aware queriesEnthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.US Work Authorization is required at time of application.This role will not be providing CPTAbility to report onsite to Gaithersburg, MD site 3 days per week. This role will not provide relocation assistance.Compensation range: $37-$39 per hourDate Posted15-Jan-2026Closing Date29-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
+    "requirements": [
+      "Stakeholder collaboration: Gather requirements, validate use cases, and iterate on findings with internal and external partners.",
+      "Candidates must have an expected graduation date after August 2026.",
+      "US Work Authorization is required at time of application."
+    ],
+    "responsibilities": [
+      "This role will not be providing CPT",
+      "Ability to report onsite to Gaithersburg, MD site 3 days per week. This role will not provide relocation assistance."
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Clinical-Information-Science-Intern_R-243812",
+      "fetchedAt": "2026-01-16T14:44:21.110Z"
+    }
+  },
+  "cachedAt": 1768574661110
+}
