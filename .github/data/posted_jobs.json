@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:54:52.892Z",
+  "lastUpdated": "2026-01-16T08:04:42.089Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4863,14 +4863,113 @@
       "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Light-Technologies_J-00331949",
       "discordThreadId": "1461629756075409480",
       "instanceNumber": 1
+    },
+    {
+      "id": "astrazeneca-ai-insights-innovator-graduate-level-gaithersburg-2026-01-16-1",
+      "jobId": "astrazeneca-ai-insights-innovator-graduate-level-gaithersburg",
+      "company": "AstraZeneca",
+      "title": "AI Insights Innovator - Graduate Level",
+      "postedToDiscord": "2026-01-16T08:04:02.126Z",
+      "sourceDate": "2026-01-15T23:24:45.000Z",
+      "sourceUrl": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/AI-Insights-Innovator-Intern--Graduate-Level-_R-243814",
+      "discordThreadId": "1461632059062747158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "xpo-tech-program-intern-3-full-stack-engineering-portland-2026-01-16-1",
+      "jobId": "xpo-tech-program-intern-3-full-stack-engineering-portland",
+      "company": "XPO",
+      "title": "Tech Program Intern 3 - Full Stack Engineering",
+      "postedToDiscord": "2026-01-16T08:04:05.595Z",
+      "sourceDate": "2026-01-15T23:17:28.000Z",
+      "sourceUrl": "https://jobs.xpo.com/job/Portland-Tech-Program-Intern-III-(Full-Stack-Engineering)-OR-97209/1356661800/?ats=successfactors",
+      "discordThreadId": "1461632074095001822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "savannah-river-national-laboratory-technical-undergraduate-intern-synthesis-characterization-metals-north-augusta-2026-01-16-1",
+      "jobId": "savannah-river-national-laboratory-technical-undergraduate-intern-synthesis-characterization-metals-north-augusta",
+      "company": "Savannah River National Laboratory",
+      "title": "Technical Undergraduate Intern - Synthesis & Characterization - Metals",
+      "postedToDiscord": "2026-01-16T08:04:08.996Z",
+      "sourceDate": "2026-01-15T23:15:16.000Z",
+      "sourceUrl": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1917",
+      "discordThreadId": "1461632088087466217",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chs-data-analyst-intern-cottage-grove-2026-01-16-1",
+      "jobId": "chs-data-analyst-intern-cottage-grove",
+      "company": "CHS",
+      "title": "Data Analyst Intern",
+      "postedToDiscord": "2026-01-16T08:04:15.691Z",
+      "sourceDate": "2026-01-15T23:18:58.000Z",
+      "sourceUrl": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1356653600/?ats=successfactors",
+      "discordThreadId": "1461632115866079295",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corning-data-science-intern-austin-2026-01-16-1",
+      "jobId": "corning-data-science-intern-austin",
+      "company": "Corning",
+      "title": "Data Science Intern",
+      "postedToDiscord": "2026-01-16T08:04:19.177Z",
+      "sourceDate": "2026-01-15T23:17:30.000Z",
+      "sourceUrl": "https://corningjobs.corning.com/job/Austin-Data-Science-Intern-Summer-2026-TX-78726/1356689800/?ats=successfactors",
+      "discordThreadId": "1461632130827292797",
+      "instanceNumber": 1
+    },
+    {
+      "id": "space-dynamics-laboratory-scientific-software-engineering-intern-albuquerque-2026-01-16-1",
+      "jobId": "space-dynamics-laboratory-scientific-software-engineering-intern-albuquerque",
+      "company": "Space Dynamics Laboratory",
+      "title": "Scientific Software Engineering Intern",
+      "postedToDiscord": "2026-01-16T08:04:22.615Z",
+      "sourceDate": "2026-01-15T23:15:07.000Z",
+      "sourceUrl": "https://spacedynamicslaboratory.applytojob.com/apply/bJQ9qGYTaN/Scientific-Software-Engineering-Intern",
+      "discordThreadId": "1461632145393975296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anglogold-ashanti-intern-operational-technology-greenwood-village-2026-01-16-1",
+      "jobId": "anglogold-ashanti-intern-operational-technology-greenwood-village",
+      "company": "AngloGold Ashanti",
+      "title": "Intern – Operational Technology",
+      "postedToDiscord": "2026-01-16T08:04:29.010Z",
+      "sourceDate": "2026-01-15T23:18:14.000Z",
+      "sourceUrl": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Intern,-Operational-Technology-CO-80111/1283978401/?ats=successfactors",
+      "discordThreadId": "1461632172497567786",
+      "instanceNumber": 1
+    },
+    {
+      "id": "delta-dental-internship-knowledge-science-east-lansing-2026-01-16-1",
+      "jobId": "delta-dental-internship-knowledge-science-east-lansing",
+      "company": "Delta Dental",
+      "title": "Internship - Knowledge Science",
+      "postedToDiscord": "2026-01-16T08:04:35.453Z",
+      "sourceDate": "2026-01-15T23:16:57.000Z",
+      "sourceUrl": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101118",
+      "discordThreadId": "1461632199047778458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "commonwealth-of-massachusetts-programmer-analyst-intern-boston-2026-01-16-1",
+      "jobId": "commonwealth-of-massachusetts-programmer-analyst-intern-boston",
+      "company": "Commonwealth of Massachusetts",
+      "title": "Programmer Analyst Intern",
+      "postedToDiscord": "2026-01-16T08:04:42.089Z",
+      "sourceDate": "2026-01-15T23:12:25.000Z",
+      "sourceUrl": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260000AH",
+      "discordThreadId": "1461632226520338476",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 442,
+    "totalJobs": 451,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T07:54:52.892Z",
+      "date": "2026-01-16T08:04:42.089Z",
       "archived": 0
     }
   }
