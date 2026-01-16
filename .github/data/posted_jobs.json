@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:19:55.660Z",
+  "lastUpdated": "2026-01-16T05:22:48.172Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4071,14 +4071,47 @@
       "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/Dinan-Hall/Geospatial-Research-Assistant--Wharton-Impact-_JR00112547-1",
       "discordThreadId": "1461590760179896383",
       "instanceNumber": 1
+    },
+    {
+      "id": "voya-financial-student-data-analytics-atlanta-2026-01-16-1",
+      "jobId": "voya-financial-student-data-analytics-atlanta",
+      "company": "Voya Financial",
+      "title": "Student - Data Analytics",
+      "postedToDiscord": "2026-01-16T05:22:41.273Z",
+      "sourceDate": "2025-11-23T09:13:06.000Z",
+      "sourceUrl": "https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Atlanta-GA/Summer-Student---Data-Analytics_JR0031913",
+      "discordThreadId": "1461591454580478066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "primetals-associate-engineering-document-control-lake-mary-2026-01-16-1",
+      "jobId": "primetals-associate-engineering-document-control-lake-mary",
+      "company": "Primetals Technologies",
+      "title": "Associate – Engineering Document Control",
+      "postedToDiscord": "2026-01-16T05:22:44.775Z",
+      "sourceDate": "2025-11-18T23:37:40.000Z",
+      "sourceUrl": "https://mhicareers.com/job/Lake-Mary-Associate,-Engineering-Document-Control-FL-32746/1268770801/?ats=successfactors",
+      "discordThreadId": "1461591469067604103",
+      "instanceNumber": 1
+    },
+    {
+      "id": "berkshire-hathaway-energy-sys-development-analyst-senior-des-moines-2026-01-16-1",
+      "jobId": "berkshire-hathaway-energy-sys-development-analyst-senior-des-moines",
+      "company": "Berkshire Hathaway Energy",
+      "title": "Sys & Development Analyst Senior",
+      "postedToDiscord": "2026-01-16T05:22:48.172Z",
+      "sourceDate": "2025-11-17T23:11:37.000Z",
+      "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003914",
+      "discordThreadId": "1461591484129218695",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 370,
+    "totalJobs": 373,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T05:19:55.660Z",
+      "date": "2026-01-16T05:22:48.172Z",
       "archived": 0
     }
   }
