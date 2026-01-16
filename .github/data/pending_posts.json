@@ -661,106 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Student Researcher - Multimedia Streaming - 2026 Start','PhD",
-      "employer_name": "ByteDance",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher(Multimedia Streaming) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538291329349699848/detail",
-      "job_posted_at_datetime_utc": "2025-09-04T04:03:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-multimedia-streaming-2026-start-phd-san-diego",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:32:14.922Z",
-    "postedAt": "2026-01-16T06:34:18.148Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher(Video Quality Analysis&Coding Strategy) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
-      "job_posted_at_datetime_utc": "2025-08-22T12:17:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": "2026-01-16T06:34:18.148Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - Seed Vision - AI Platform",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [Seed Vision – AI Platform] – 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7541091941166532872/detail",
-      "job_posted_at_datetime_utc": "2025-08-22T01:32:00.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-vision-ai-platform-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": "2026-01-16T06:34:18.148Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - Infrastructure - Inference",
-      "employer_name": "ByteDance",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "View our opening for Student Researcher (Seed - Infra - Inference) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7540125997414287623/detail",
-      "job_posted_at_datetime_utc": "2025-08-19T23:59:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-infrastructure-inference-seattle",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": "2026-01-16T06:34:18.148Z"
-  },
-  {
-    "job": {
-      "job_title": "Java WAS Training and Placement",
-      "employer_name": "AG Technologies",
-      "job_city": "Chesterfield",
-      "job_state": "MO",
-      "job_description": "Java/WAS training and placementCompany DescriptionAG Technologies was founded as a software solutions company in 2008 & has its corporate headquarters at Chesterfield, Missouri with branches within the US and India. Over the years the organization has expanded into various market segments & activities including \"Consultancy services\" of technical personnel in large and multi-national organizations. Over the last five years, our client base of Fortune 100 companies has expanded dramaticallyJob DescriptionSkills Required:C++,Unix,SQLQualificationsBachelor /Master of computer science Additional Informationif you have any questions please contact to 214-295-4212I'm interestedI'm interested",
-      "job_apply_link": "https://jobs.smartrecruiters.com/AGTechnologies1/101894009",
-      "job_posted_at_datetime_utc": "2025-08-14T18:14:14.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "ag-java-was-training-and-placement-chesterfield",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T05:47:49.403Z",
-    "postedAt": "2026-01-16T06:34:18.148Z"
-  },
-  {
-    "job": {
       "job_title": "Java training and placemnt",
       "employer_name": "AG Technologies",
       "job_city": "Dallas",
@@ -1045,16 +945,18 @@
       "employer_name": "AG Technologies",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join AG Technologies in this exciting opportunity.",
+      "job_description": "ETL Informatica/OBIEE training and placementFull-timeCompany DescriptionAG Technologies was founded as a software solutions company in 2008 & has its corporate headquarters at Chesterfield, Missouri with branches within the US and India. Over the years the organization has expanded into various market segments & activities including \"Consultancy services\" of technical personnel in large and multi-national organizations. Over the last five years, our client base of Fortune 100 companies has expanded dramaticallyJob DescriptionJob Description: Knowledge in C, C++, Java, .NET and other programming languages will be helpful. Experience in object-oriented coding design is a plus. Knowledge in Relational Database Management System (RDBMS) knowledge and experience (Oracle, DB2, SQL, Sybase, and MySQL) will be helpful. All applicants must be authorized to work in the United States. QualificationsMaster's Degree in computer science and Electrical computer engineering Additional Informationif you have any questions please contact to Basha at 214-295-4212I'm interestedI'm interested",
       "job_apply_link": "https://jobs.smartrecruiters.com/AGTechnologies1/104213106",
       "job_posted_at_datetime_utc": "2025-08-12T08:35:12.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ag-etl-informatica-obiee-dallas"
+      "id": "ag-etl-informatica-obiee-dallas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T06:52:53.548Z",
     "postedAt": null
   },
   {
@@ -1063,16 +965,18 @@
       "employer_name": "AG Technologies",
       "job_city": "Dallas",
       "job_state": "TX",
-      "job_description": "Join AG Technologies in this exciting opportunity.",
+      "job_description": "OBIEE/ ETL/ Java job opportunity for OPT/CPTFull-timeCompany DescriptionAG Technologies was founded as a software solutions company in 2008 & has its corporate headquarters at Chesterfield, Missouri with branches within the US and India. Over the years the organization has expanded into various market segments & activities including \"Consultancy services\" of technical personnel in large and multi-national organizations. Over the last five years, our client base of Fortune 100 companies has expanded dramaticallyJob DescriptionJob Description: Knowledge in C, C++, Java, .NET ,QA,BA and other programming languages will be helpful. Experience in object-oriented coding design is a plus. Knowledge in Relational Database Management System (RDBMS) knowledge and experience (Oracle, DB2, SQL, Sybase, and MySQL) will be helpful. All applicants must be authorized to work in the United States. QualificationsMaster's DegreeAdditional Informationif you have any questions please contact to Basha at 214-295-4212I'm interestedI'm interested",
       "job_apply_link": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
       "job_posted_at_datetime_utc": "2025-08-12T08:28:30.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "ag-obiee-etl-java-job-opportunity-for-opt-cpt-dallas"
+      "id": "ag-obiee-etl-java-job-opportunity-for-opt-cpt-dallas",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T06:52:53.548Z",
     "postedAt": null
   },
   {
@@ -1081,16 +985,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher [Seed Vision – Long-Range Video Generation] – 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533027329703282951/detail",
       "job_posted_at_datetime_utc": "2025-08-02T03:14:57.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-vision-long-range-video-generation-san-jose"
+      "id": "bytedance-student-researcher-seed-vision-long-range-video-generation-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T06:52:53.548Z",
     "postedAt": null
   },
   {
@@ -1099,16 +1005,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher [Seed LLM Horizon – Async Agent & Proactive Agent] - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533024844121180434/detail",
       "job_posted_at_datetime_utc": "2025-08-02T03:14:52.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-llm-horizon-async-agent-proactive-agent-san-jose"
+      "id": "bytedance-student-researcher-seed-llm-horizon-async-agent-proactive-agent-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T06:52:53.548Z",
     "postedAt": null
   },
   {
@@ -1117,16 +1025,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher [Seed LLM - Code Generation] – 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7533023925020035336/detail",
       "job_posted_at_datetime_utc": "2025-08-02T03:14:49.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-llm-code-generation-san-jose"
+      "id": "bytedance-student-researcher-seed-llm-code-generation-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T06:52:53.548Z",
     "postedAt": null
   },
   {
