@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T09:12:28.561Z",
+  "lastUpdated": "2026-01-16T11:46:13.512Z",
   "jobs": [
-    {
-      "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
-      "jobId": "comcast-comcast-data-scientist-co-op-philadelphia",
-      "company": "Comcast",
-      "title": "Comcast Data Scientist Co-op",
-      "postedToDiscord": "2026-01-09T09:44:20.726Z",
-      "sourceDate": "2025-11-07T00:00:48.000Z",
-      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Data-Scientist-Co-op_R421666",
-      "discordThreadId": "1459120588105973811",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lennox-international-data-analytics-intern-columbia-2026-01-09-1",
-      "jobId": "lennox-international-data-analytics-intern-columbia",
-      "company": "Lennox International",
-      "title": "Data Analytics Intern",
-      "postedToDiscord": "2026-01-09T10:17:23.073Z",
-      "sourceDate": "2025-10-30T15:41:24.000Z",
-      "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50553/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459128902852018299",
-      "instanceNumber": 1
-    },
     {
       "id": "medpace-business-intelligence-internship-summer-2026-cincinnati-2026-01-09-1",
       "jobId": "medpace-business-intelligence-internship-summer-2026-cincinnati",
@@ -5127,6 +5105,28 @@
       "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979",
       "discordThreadId": "1461649282728726666",
       "instanceNumber": 1
+    },
+    {
+      "id": "atlassian-ai-researcher-2026-graduate-u-s-phd-seattle-2026-01-16-1",
+      "jobId": "atlassian-ai-researcher-2026-graduate-u-s-phd-seattle",
+      "company": "Atlassian",
+      "title": "AI Researcher – 2026 Graduate U.S - PhD",
+      "postedToDiscord": "2026-01-16T11:46:06.822Z",
+      "sourceDate": "2025-12-10T01:08:42.000Z",
+      "sourceUrl": "https://campus-americas.icims.com/jobs/20910/ai-researcher-%28phd%29%2c-2026-graduate-u.s./job",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-issue-discovery-operation-intern-tiktok-product-content-ecosystem-2026-summer-bs-ms-san-jose-2026-01-16-1",
+      "jobId": "tiktok-issue-discovery-operation-intern-tiktok-product-content-ecosystem-2026-summer-bs-ms-san-jose",
+      "company": "TikTok",
+      "title": "Issue Discovery Operation Intern - Tiktok-Product-Content Ecosystem - 2026 Summer - BS/MS",
+      "postedToDiscord": "2026-01-16T11:46:13.512Z",
+      "sourceDate": "2025-08-08T03:03:21.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7533096917765802258",
+      "discordThreadId": "1461687974616891544",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -5134,7 +5134,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T09:12:28.561Z",
+      "date": "2026-01-16T11:46:13.512Z",
       "archived": 0
     }
   }

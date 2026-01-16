@@ -674,10 +674,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T10:03:23.908Z",
     "enrichedAt": "2026-01-16T10:03:24.500Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T11:46:16.520Z"
   },
   {
     "job": {
@@ -694,9 +694,9 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T11:37:57.107Z",
     "enrichedAt": "2026-01-16T11:37:59.219Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T11:46:16.520Z"
   }
 ]
