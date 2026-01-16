@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:04:42.089Z",
+  "lastUpdated": "2026-01-16T08:18:31.856Z",
   "jobs": [
-    {
-      "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
-      "jobId": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond",
-      "company": "Microsoft",
-      "title": "Software Engineer – Top Secret: Internship Opportunities - Ctj",
-      "postedToDiscord": "2026-01-09T08:18:04.844Z",
-      "sourceDate": "2026-01-09T07:12:27.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556657568",
-      "discordThreadId": "1459098878795055248",
-      "instanceNumber": 1
-    },
     {
       "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
       "jobId": "comcast-comcast-data-scientist-co-op-philadelphia",
@@ -4962,14 +4951,47 @@
       "sourceUrl": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260000AH",
       "discordThreadId": "1461632226520338476",
       "instanceNumber": 1
+    },
+    {
+      "id": "commonwealth-of-massachusetts-gaming-system-development-intern-quincy-2026-01-16-1",
+      "jobId": "commonwealth-of-massachusetts-gaming-system-development-intern-quincy",
+      "company": "Commonwealth of Massachusetts",
+      "title": "Gaming System Development Intern",
+      "postedToDiscord": "2026-01-16T08:18:24.317Z",
+      "sourceDate": "2026-01-15T23:12:22.000Z",
+      "sourceUrl": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260000AB",
+      "discordThreadId": "1461635674519244984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "legrand-operations-engineering-intern-ardmore-2026-01-16-1",
+      "jobId": "legrand-operations-engineering-intern-ardmore",
+      "company": "Legrand",
+      "title": "Operations Engineering Intern",
+      "postedToDiscord": "2026-01-16T08:18:28.332Z",
+      "sourceDate": "2025-09-11T12:07:19.000Z",
+      "sourceUrl": "https://jobs-legrand.icims.com/jobs/9594/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461635692194168927",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clorox-data-analytics-intern-part-time-days-olathe-2026-01-16-1",
+      "jobId": "clorox-data-analytics-intern-part-time-days-olathe",
+      "company": "Clorox",
+      "title": "Data Analytics Intern - Part-time days",
+      "postedToDiscord": "2026-01-16T08:18:31.856Z",
+      "sourceDate": "2026-01-15T23:46:46.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Spring-Hill-KS---USA/Data-Analytics-Intern--Part-time-days-_20760",
+      "discordThreadId": "1461635707108982824",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 451,
+    "totalJobs": 453,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T08:04:42.089Z",
+      "date": "2026-01-16T08:18:31.856Z",
       "archived": 0
     }
   }
