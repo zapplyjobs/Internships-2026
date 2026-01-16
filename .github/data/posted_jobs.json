@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:32:31.351Z",
+  "lastUpdated": "2026-01-16T08:50:07.959Z",
   "jobs": [
     {
       "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
@@ -5006,14 +5006,25 @@
       "sourceUrl": "https://jobs.jobvite.com/sikichcareers/job/oTejzfwJ?nl=1&nl=1&fr=false",
       "discordThreadId": "1461639228772323502",
       "instanceNumber": 1
+    },
+    {
+      "id": "wec-energy-power-generation-data-analyst-intern-milwaukee-2026-01-16-1",
+      "jobId": "wec-energy-power-generation-data-analyst-intern-milwaukee",
+      "company": "WEC Energy Group",
+      "title": "Power Generation Data Analyst Intern",
+      "postedToDiscord": "2026-01-16T08:50:07.958Z",
+      "sourceDate": "2025-08-19T17:39:55.000Z",
+      "sourceUrl": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
+      "discordThreadId": "1461643660033654993",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 455,
+    "totalJobs": 456,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T08:32:31.351Z",
+      "date": "2026-01-16T08:50:07.959Z",
       "archived": 0
     }
   }
