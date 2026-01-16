@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T11:46:13.512Z",
+  "lastUpdated": "2026-01-16T15:04:26.717Z",
   "jobs": [
     {
       "id": "medpace-business-intelligence-internship-summer-2026-cincinnati-2026-01-09-1",
@@ -5127,14 +5127,25 @@
       "sourceUrl": "https://lifeattiktok.com/search/7533096917765802258",
       "discordThreadId": "1461687974616891544",
       "instanceNumber": 1
+    },
+    {
+      "id": "icf-international-grid-planning-intern-grid-planning-reston-2026-01-16-1",
+      "jobId": "icf-international-grid-planning-intern-grid-planning-reston",
+      "company": "ICF International",
+      "title": "Grid Planning Intern - Grid Planning",
+      "postedToDiscord": "2026-01-16T15:04:26.717Z",
+      "sourceDate": "2026-01-15T07:25:56.000Z",
+      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Grid-Planning_R2600130",
+      "discordThreadId": "1461737858162491433",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 466,
+    "totalJobs": 467,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T11:46:13.512Z",
+      "date": "2026-01-16T15:04:26.717Z",
       "archived": 0
     }
   }
