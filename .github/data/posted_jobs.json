@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:43:58.067Z",
+  "lastUpdated": "2026-01-16T07:54:52.892Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4764,14 +4764,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4595872006",
       "discordThreadId": "1461627008571277459",
       "instanceNumber": 1
+    },
+    {
+      "id": "akuna-capital-software-engineer-intern-python-chicago-2026-01-16-1",
+      "jobId": "akuna-capital-software-engineer-intern-python-chicago",
+      "company": "Akuna Capital",
+      "title": "Software Engineer Intern - Python",
+      "postedToDiscord": "2026-01-16T07:54:14.161Z",
+      "sourceDate": "2025-07-14T18:40:05.000Z",
+      "sourceUrl": "https://www.akunacapital.com/job-details?gh_jid=7055471",
+      "discordThreadId": "1461629593139286036",
+      "instanceNumber": 1
+    },
+    {
+      "id": "philips-intern-gpu-software-development-cambridge-2026-01-16-1",
+      "jobId": "philips-intern-gpu-software-development-cambridge",
+      "company": "Philips",
+      "title": "Intern GPU Software Development",
+      "postedToDiscord": "2026-01-16T07:54:17.506Z",
+      "sourceDate": "2026-01-15T23:42:39.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--GPU-Software-Development--Cambridge--MA-Summer-2026_572194",
+      "discordThreadId": "1461629607349583904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "mongodb-gtm-engineering-intern-palo-alto-2026-01-16-1",
+      "jobId": "mongodb-gtm-engineering-intern-palo-alto",
+      "company": "MongoDB",
+      "title": "GTM Engineering Intern",
+      "postedToDiscord": "2026-01-16T07:54:20.861Z",
+      "sourceDate": "2026-01-15T23:30:09.000Z",
+      "sourceUrl": "https://www.mongodb.com/careers/job/?gh_jid=7335935",
+      "discordThreadId": "1461629621781921883",
+      "instanceNumber": 1
+    },
+    {
+      "id": "webster-bank-it-intern-data-engineering-stamford-2026-01-16-1",
+      "jobId": "webster-bank-it-intern-data-engineering-stamford",
+      "company": "Webster Bank",
+      "title": "IT Intern – Data Engineering",
+      "postedToDiscord": "2026-01-16T07:54:26.465Z",
+      "sourceDate": "2026-01-15T23:27:05.000Z",
+      "sourceUrl": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/CT-Stamford-HQ/IT-Intern---Data-Engineering_R26_0000000041",
+      "discordThreadId": "1461629644615717002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge-2026-01-16-1",
+      "jobId": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge",
+      "company": "Biogen",
+      "title": "Co-op 2\n02\n02\n02\n02\n02\n02\n02\n0",
+      "postedToDiscord": "2026-01-16T07:54:33.043Z",
+      "sourceDate": "2026-01-15T23:39:38.000Z",
+      "sourceUrl": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Decision---Quality-Analytics-Innovation_REQ22295",
+      "discordThreadId": "1461629672738525250",
+      "instanceNumber": 1
+    },
+    {
+      "id": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden-2026-01-16-1",
+      "jobId": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Undergraduate/Post-Undergraduate – Intern - Summer",
+      "postedToDiscord": "2026-01-16T07:54:36.542Z",
+      "sourceDate": "2026-01-15T23:31:36.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Post-Undergraduate--Summer--Intern---Computational-Modeling-of-Catalytic-Bioenergy-Processes_R14091",
+      "discordThreadId": "1461629687121051832",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kbr-software-engineer-intern-sioux-falls-2026-01-16-1",
+      "jobId": "kbr-software-engineer-intern-sioux-falls",
+      "company": "KBR",
+      "title": "Software Engineer Intern",
+      "postedToDiscord": "2026-01-16T07:54:39.948Z",
+      "sourceDate": "2026-01-15T23:30:46.000Z",
+      "sourceUrl": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2117627",
+      "discordThreadId": "1461629701477896214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "olsson-gis-student-internship-kansas-city-2026-01-16-1",
+      "jobId": "olsson-gis-student-internship-kansas-city",
+      "company": "Olsson",
+      "title": "GIS Student Internship",
+      "postedToDiscord": "2026-01-16T07:54:46.490Z",
+      "sourceDate": "2026-01-15T23:39:17.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/olsson/jobs/5072492008",
+      "discordThreadId": "1461629728619499678",
+      "instanceNumber": 1
+    },
+    {
+      "id": "asml-intern-euv-light-technologies-san-diego-2026-01-16-1",
+      "jobId": "asml-intern-euv-light-technologies-san-diego",
+      "company": "ASML",
+      "title": "Intern - EUV Light Technologies",
+      "postedToDiscord": "2026-01-16T07:54:52.892Z",
+      "sourceDate": "2026-01-15T23:26:56.000Z",
+      "sourceUrl": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Light-Technologies_J-00331949",
+      "discordThreadId": "1461629756075409480",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 433,
+    "totalJobs": 442,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T07:43:58.067Z",
+      "date": "2026-01-16T07:54:52.892Z",
       "archived": 0
     }
   }
