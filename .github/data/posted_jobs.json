@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T16:03:58.066Z",
+  "lastUpdated": "2026-01-16T16:17:52.114Z",
   "jobs": [
     {
       "id": "medpace-business-intelligence-internship-summer-2026-cincinnati-2026-01-09-1",
@@ -5193,14 +5193,25 @@
       "sourceUrl": "https://jobs.ashbyhq.com/elicit/e04136b7-57e5-44d5-9a7c-cced3e2cb0f8/application",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "ag-free-training-and-placement-for-opt-students-chesterfield-2026-01-16-1",
+      "jobId": "ag-free-training-and-placement-for-opt-students-chesterfield",
+      "company": "AG Technologies",
+      "title": "Free training and placement for OPT students",
+      "postedToDiscord": "2026-01-16T16:17:52.113Z",
+      "sourceDate": "2025-08-14T18:10:36.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/103273865",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 472,
+    "totalJobs": 473,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T16:03:58.066Z",
+      "date": "2026-01-16T16:17:52.114Z",
       "archived": 0
     }
   }

@@ -674,30 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
-    "addedAt": "2026-01-16T14:44:05.821Z",
-    "enrichedAt": "2026-01-16T14:44:44.719Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "ML Research Resident",
-      "employer_name": "Elicit",
-      "job_city": "Oakland",
-      "job_state": "CA",
-      "job_description": "Elicit is building a research agent that can use an unlimited amount of test-time compute while keeping its reasoning transparent and verifiable. The residency Transformers do a fixed amount of computation per token, and the quality of work degrades rapidly when they are applied iteratively. As research resident, you'll work with us for 3 months on developing computational procedures (operators) that can reliably improve a knowledge state over thousands of iterations. What is a knowledge state? A knowledge state consists of structured information - for example, a scientific paper might be represented as a set of claims supported by evidence and connected through logical reasoning; this might be combined with scratchpads, evergreen “notes to self”, search trees, and other information. What counts as improvement? Like scientists, we want LLMs to make genuine progress in understanding - separating inferences from raw evidence, finding connections between ideas, building clearer explanations, and identifying gaps in reasoning. But unlike typical ML systems that are often trained to do “whatever works”, we need improvements that are epistemically sound - each step should make the knowledge state more useful while remaining human-readable. An improvement might reorganize information to better answer a question, find an implicit assumption in an argument, or connect evidence across multiple sources. As research resident, your work will focus on designing and testing improvement operators that maintain stability over 1000+ iterations while making genuine progress. You'll start with simple cases (e.g., shallow refactoring of scientific papers) and demonstrate reliable iteration before scaling to more complex reasoning tasks. Developing systems that perform legible reasoning over long horizons addresses core challenges in AI transparency and scalable reasoning. About you Strong candidates will have experience with LLMs, good intuitions about what makes reasoning systematic and verifiable, and care about AI transparency. The best applicants will additionally have a strong software engineering background and concrete examples of how they've applied this background to come up with novel abstractions that push the frontiers of automated reasoning. Logistics 3-month contract role Compensation: $12-15k/month depending on experience Location: In-person (Oakland) or remote (US) Potential of full-time offer for exceptional candidates",
-      "job_apply_link": "https://jobs.ashbyhq.com/elicit/e04136b7-57e5-44d5-9a7c-cced3e2cb0f8/application",
-      "job_posted_at_datetime_utc": "2025-10-31T10:46:25.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "elicit-ml-research-resident-oakland",
-      "description_platform": "ashby",
-      "description_success": true
-    },
     "status": "posted",
     "addedAt": "2026-01-16T14:44:05.821Z",
     "enrichedAt": "2026-01-16T14:44:44.719Z",
-    "postedAt": "2026-01-16T16:04:04.356Z"
+    "postedAt": "2026-01-16T16:17:58.317Z"
   },
   {
     "job": {
