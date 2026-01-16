@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:19:18.313Z",
+  "lastUpdated": "2026-01-16T07:32:43.199Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4566,14 +4566,113 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7533023925020035336/detail",
       "discordThreadId": "1461620802775547994",
       "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-llm-horizon-memory-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-llm-horizon-memory-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed LLM Horizon - Memory",
+      "postedToDiscord": "2026-01-16T07:32:11.888Z",
+      "sourceDate": "2025-07-31T02:45:07.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
+      "discordThreadId": "1461624046465585309",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-llm-post-training-agent-reinforcement-learning-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-llm-post-training-agent-reinforcement-learning-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
+      "postedToDiscord": "2026-01-16T07:32:15.360Z",
+      "sourceDate": "2025-07-30T15:25:59.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
+      "discordThreadId": "1461624061590376551",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-llm-post-training-reward-modeling-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-llm-post-training-reward-modeling-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
+      "postedToDiscord": "2026-01-16T07:32:19.048Z",
+      "sourceDate": "2025-07-30T15:25:56.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7532650246078892306/detail",
+      "discordThreadId": "1461624076337680469",
+      "instanceNumber": 1
+    },
+    {
+      "id": "chipstack-research-intern-ph-d-san-jose-2026-01-16-1",
+      "jobId": "chipstack-research-intern-ph-d-san-jose",
+      "company": "ChipStack",
+      "title": "Research Intern - Ph.D",
+      "postedToDiscord": "2026-01-16T07:32:22.766Z",
+      "sourceDate": "2025-07-25T04:54:22.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/chipstack/f7101544-d308-4049-a649-32a6b009be2a/application",
+      "discordThreadId": "1461624092133298311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auctane-data-engineering-intern-austin-2026-01-16-1",
+      "jobId": "auctane-data-engineering-intern-austin",
+      "company": "Auctane",
+      "title": "Data Engineering Intern",
+      "postedToDiscord": "2026-01-16T07:32:26.437Z",
+      "sourceDate": "2026-01-15T16:19:48.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/auctane/jobs/7485078003",
+      "discordThreadId": "1461624107689971836",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-multimodal-interaction-world-model-rl-focused-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-multimodal-interaction-world-model-rl-focused-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Multimodal Interaction & World Model - RL Focused",
+      "postedToDiscord": "2026-01-16T07:32:33.188Z",
+      "sourceDate": "2025-07-26T02:51:52.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
+      "discordThreadId": "1461624135460589580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-multimodal-interaction-world-model-unified-model-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-multimodal-interaction-world-model-unified-model-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
+      "postedToDiscord": "2026-01-16T07:32:33.194Z",
+      "sourceDate": "2025-07-26T02:41:50.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7529663530619324679/detail",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "n1-research-intern-oakland-2026-01-16-1",
+      "jobId": "n1-research-intern-oakland",
+      "company": "N1",
+      "title": "Research Intern",
+      "postedToDiscord": "2026-01-16T07:32:36.632Z",
+      "sourceDate": "2025-07-25T23:02:32.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application",
+      "discordThreadId": "1461624151138762947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kla-prolith-applications-austin-2026-01-16-1",
+      "jobId": "kla-prolith-applications-austin",
+      "company": "KLA",
+      "title": "Prolith Applications",
+      "postedToDiscord": "2026-01-16T07:32:43.198Z",
+      "sourceDate": "2026-01-15T16:15:17.000Z",
+      "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/PROLITH-Applications-Intern_2633688-1",
+      "discordThreadId": "1461624178426777611",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 415,
+    "totalJobs": 424,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T07:19:18.313Z",
+      "date": "2026-01-16T07:32:43.199Z",
       "archived": 0
     }
   }
