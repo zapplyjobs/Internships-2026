@@ -12,5 +12,19 @@
     "id": "agzen--cambridge",
     "description_platform": "generic",
     "description_success": true
+  },
+  {
+    "job_title": "AI Researcher – 2026 Graduate U.S - PhD",
+    "employer_name": "Atlassian",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_description": "Company Open and close the navigation menu Customers Careers Investors Events Blog Contact Customers Careers Investors Events Blog Contact { \"type\":\"imkt.components.Navbar\", \"params\": { \"hasCharlie\":\"true\" } } var useAutoScrolling = false; if (window.addEventListener) { window.addEventListener('message', icims_handlePostMessage, false); } else if (window.attachEvent) { window.attachEvent('onmessage', icims_handlePostMessage); } function icims_handlePostMessage(event) { // If this is not a message from an icims domain, ignore it. if (event.origin.indexOf('icims.com') == -1) return; var data = event.data; if (typeof data === \"string\") { try { data = ICIMS.jsonDecode(data); } catch(e) { data = event.data; } } try { if (data && data.height && !isNaN(data.height)) { document.getElementById('icims_content_iframe').height = parseInt(data.height); } else if ((data && 'x' in data && 'y' in data && !isNaN(parseInt(data.x)) && !isNaN(parseInt(data.y)))) { top.scrollTo(parseInt(data.x), parseInt(data.y)); } else if(data && data.pageTitle){ window.document.title = data.pageTitle; } } catch (e) {} } function getCookie(name) { var match = document.cookie.match(name + '=(.*?)(;|$)'); if (match) return unescape(match[1]); else return \"\"; } function updateUrl(url) { try { history.replaceState({}, '', url); } catch (e) {} } icimsAddOnload(function() { var icimsFrame = document.createElement('iframe'); var iFrameHeight = 500; icimsFrame.id = 'icims_content_iframe'; icimsFrame.name = 'icims_content_iframe'; icimsFrame.src = 'https:\\/\\/campus-americas.icims.com\\/jobs\\/20910\\/ai-researcher-%28phd%29%2c-2026-graduate-u.s.\\/job?in_iframe=1'; icimsFrame.setAttribute('style', 'width: 100%;border: none;margin: 0px'); iFrameHeight = 500; icimsFrame.setAttribute('height', iFrameHeight); icimsFrame.setAttribute('title', 'iCIMS Content iFrame'); icimsFrame.onload=function() { try { window.parent.parent.scrollTo(0,0); } catch (e) {} }; document.getElementById('icims_iframe_span').appendChild(icimsFrame); try { var height = getCookie('cookie_icims_iframe_content_height'); if (height > 0 && typeof style !== 'undefined') style.height = height + 'px'; } catch(e) {} document.getElementById('icims_content_iframe').onreadystatechange = function() { try{ if ('interactive' == this.readyState) { window.scroll(1,1); } } catch(e) {} }; try { var height = 0; if (navigator.userAgent.indexOf(\"Firefox\")!=-1) height = document.body.offsetHeight + 16; else height = document.body.scrollHeight; document.cookie=\"cookie_icims_iframe_content_height=\"+height+\";SameSite=Strict;Secure;path=/;\"; } catch(e) {} }); <iframe src=\"https://campus-americas.icims.com/jobs/20910/ai-researcher-%28phd%29%2c-2026-graduate-u.s./job?in_iframe=1\" id=\"noscript_icims_content_iframe\" name=\"noscript_icims_content_iframe\" title=\"Noscript iCIMS Content iFrame\" style=\"width:100%;\" height=\"500\"></iframe> Join the Atlassian Talent Community Don’t see an exact role match? No problem! Join our Talent Community and stay up-to-date on company and careers updates relevant to your career. Join now",
+    "job_apply_link": "https://campus-americas.icims.com/jobs/20910/ai-researcher-%28phd%29%2c-2026-graduate-u.s./job",
+    "job_posted_at_datetime_utc": "2025-12-10T01:08:42.000Z",
+    "job_employment_type": "FULLTIME",
+    "job_posted_at": "1h",
+    "id": "atlassian-ai-researcher-2026-graduate-u-s-phd-seattle",
+    "description_platform": "icims",
+    "description_success": true
   }
 ]
