@@ -2586,5 +2586,401 @@
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern GPU Software Development",
+      "employer_name": "Philips",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Join Philips in this exciting opportunity.",
+      "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--GPU-Software-Development--Cambridge--MA-Summer-2026_572194",
+      "job_posted_at_datetime_utc": "2026-01-15T23:42:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "philips-intern-gpu-software-development-cambridge"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Co-op 2\n02\n02\n02\n02\n02\n02\n02\n0",
+      "employer_name": "Biogen",
+      "job_city": "Cambridge",
+      "job_state": "MA",
+      "job_description": "Join Biogen in this exciting opportunity.",
+      "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Decision---Quality-Analytics-Innovation_REQ22295",
+      "job_posted_at_datetime_utc": "2026-01-15T23:39:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GIS Student Internship",
+      "employer_name": "Olsson",
+      "job_city": "Kansas City",
+      "job_state": "MO",
+      "job_description": "Join Olsson in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5072492008",
+      "job_posted_at_datetime_utc": "2026-01-15T23:39:17.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "olsson-gis-student-internship-kansas-city"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Undergraduate/Post-Undergraduate – Intern - Summer",
+      "employer_name": "National Renewable Energy Laboratory",
+      "job_city": "Golden",
+      "job_state": "CO",
+      "job_description": "Join National Renewable Energy Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Post-Undergraduate--Summer--Intern---Computational-Modeling-of-Catalytic-Bioenergy-Processes_R14091",
+      "job_posted_at_datetime_utc": "2026-01-15T23:31:36.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Software Engineer Intern",
+      "employer_name": "KBR",
+      "job_city": "Sioux Falls",
+      "job_state": "SD",
+      "job_description": "Join KBR in this exciting opportunity.",
+      "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2117627",
+      "job_posted_at_datetime_utc": "2026-01-15T23:30:46.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "kbr-software-engineer-intern-sioux-falls"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "GTM Engineering Intern",
+      "employer_name": "MongoDB",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_description": "Join MongoDB in this exciting opportunity.",
+      "job_apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7335935",
+      "job_posted_at_datetime_utc": "2026-01-15T23:30:09.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "mongodb-gtm-engineering-intern-palo-alto"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "IT Intern – Data Engineering",
+      "employer_name": "Webster Bank",
+      "job_city": "Stamford",
+      "job_state": "CT",
+      "job_description": "Join Webster Bank in this exciting opportunity.",
+      "job_apply_link": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/CT-Stamford-HQ/IT-Intern---Data-Engineering_R26_0000000041",
+      "job_posted_at_datetime_utc": "2026-01-15T23:27:05.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "webster-bank-it-intern-data-engineering-stamford"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern - EUV Light Technologies",
+      "employer_name": "ASML",
+      "job_city": "San Diego",
+      "job_state": "CA",
+      "job_description": "Join ASML in this exciting opportunity.",
+      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Light-Technologies_J-00331949",
+      "job_posted_at_datetime_utc": "2026-01-15T23:26:56.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "asml-intern-euv-light-technologies-san-diego"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "AI Insights Innovator - Graduate Level",
+      "employer_name": "AstraZeneca",
+      "job_city": "Gaithersburg",
+      "job_state": "MD",
+      "job_description": "Join AstraZeneca in this exciting opportunity.",
+      "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/AI-Insights-Innovator-Intern--Graduate-Level-_R-243814",
+      "job_posted_at_datetime_utc": "2026-01-15T23:24:45.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "astrazeneca-ai-insights-innovator-graduate-level-gaithersburg"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Analyst Intern",
+      "employer_name": "CHS",
+      "job_city": "Cottage Grove",
+      "job_state": "MN",
+      "job_description": "Join CHS in this exciting opportunity.",
+      "job_apply_link": "https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Analyst-Intern-MN-55077-1721/1356653600/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-15T23:18:58.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "chs-data-analyst-intern-cottage-grove"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Intern – Operational Technology",
+      "employer_name": "AngloGold Ashanti",
+      "job_city": "Greenwood Village",
+      "job_state": "CO",
+      "job_description": "Join AngloGold Ashanti in this exciting opportunity.",
+      "job_apply_link": "https://careers.anglogoldashanti.com/job/Greenwood-Village-Intern,-Operational-Technology-CO-80111/1283978401/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-15T23:18:14.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "anglogold-ashanti-intern-operational-technology-greenwood-village"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Data Science Intern",
+      "employer_name": "Corning",
+      "job_city": "Austin",
+      "job_state": "TX",
+      "job_description": "Join Corning in this exciting opportunity.",
+      "job_apply_link": "https://corningjobs.corning.com/job/Austin-Data-Science-Intern-Summer-2026-TX-78726/1356689800/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-15T23:17:30.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "corning-data-science-intern-austin"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Tech Program Intern 3 - Full Stack Engineering",
+      "employer_name": "XPO",
+      "job_city": "Portland",
+      "job_state": "OR",
+      "job_description": "Join XPO in this exciting opportunity.",
+      "job_apply_link": "https://jobs.xpo.com/job/Portland-Tech-Program-Intern-III-(Full-Stack-Engineering)-OR-97209/1356661800/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2026-01-15T23:17:28.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "xpo-tech-program-intern-3-full-stack-engineering-portland"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Internship - Knowledge Science",
+      "employer_name": "Delta Dental",
+      "job_city": "East Lansing",
+      "job_state": "MI",
+      "job_description": "Join Delta Dental in this exciting opportunity.",
+      "job_apply_link": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Knowledge-Science_JR101118",
+      "job_posted_at_datetime_utc": "2026-01-15T23:16:57.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "delta-dental-internship-knowledge-science-east-lansing"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Technical Undergraduate Intern - Synthesis & Characterization - Metals",
+      "employer_name": "Savannah River National Laboratory",
+      "job_city": "North Augusta",
+      "job_state": "SC",
+      "job_description": "Join Savannah River National Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1917",
+      "job_posted_at_datetime_utc": "2026-01-15T23:15:16.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "savannah-river-national-laboratory-technical-undergraduate-intern-synthesis-characterization-metals-north-augusta"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Scientific Software Engineering Intern",
+      "employer_name": "Space Dynamics Laboratory",
+      "job_city": "Albuquerque",
+      "job_state": "NM",
+      "job_description": "Join Space Dynamics Laboratory in this exciting opportunity.",
+      "job_apply_link": "https://spacedynamicslaboratory.applytojob.com/apply/bJQ9qGYTaN/Scientific-Software-Engineering-Intern",
+      "job_posted_at_datetime_utc": "2026-01-15T23:15:07.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "space-dynamics-laboratory-scientific-software-engineering-intern-albuquerque"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Programmer Analyst Intern",
+      "employer_name": "Commonwealth of Massachusetts",
+      "job_city": "Boston",
+      "job_state": "MA",
+      "job_description": "Join Commonwealth of Massachusetts in this exciting opportunity.",
+      "job_apply_link": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260000AH",
+      "job_posted_at_datetime_utc": "2026-01-15T23:12:25.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "commonwealth-of-massachusetts-programmer-analyst-intern-boston"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Gaming System Development Intern",
+      "employer_name": "Commonwealth of Massachusetts",
+      "job_city": "Quincy",
+      "job_state": "MA",
+      "job_description": "Join Commonwealth of Massachusetts in this exciting opportunity.",
+      "job_apply_link": "https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260000AB",
+      "job_posted_at_datetime_utc": "2026-01-15T23:12:22.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "commonwealth-of-massachusetts-gaming-system-development-intern-quincy"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Digital Transformation Analyst",
+      "employer_name": "Nutanix",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join Nutanix in this exciting opportunity.",
+      "job_apply_link": "https://jobs.jobvite.com/nutanix/job/om7QyfwB?nl=1&nl=1&fr=false",
+      "job_posted_at_datetime_utc": "2026-01-15T23:10:20.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "nutanix-digital-transformation-analyst-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Netsuite Data Science/AI Intern",
+      "employer_name": "Sikich",
+      "job_city": "Marlborough",
+      "job_state": "MA",
+      "job_description": "Join Sikich in this exciting opportunity.",
+      "job_apply_link": "https://jobs.jobvite.com/sikichcareers/job/oTejzfwJ?nl=1&nl=1&fr=false",
+      "job_posted_at_datetime_utc": "2026-01-15T23:09:39.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "sikich-netsuite-data-science-ai-intern-marlborough"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Operations Engineering Intern",
+      "employer_name": "Legrand",
+      "job_city": "Ardmore",
+      "job_state": "PA",
+      "job_description": "Join Legrand in this exciting opportunity.",
+      "job_apply_link": "https://jobs-legrand.icims.com/jobs/9594/job?mobile=true&needsRedirect=false",
+      "job_posted_at_datetime_utc": "2025-09-11T12:07:19.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "legrand-operations-engineering-intern-ardmore"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Power Generation Data Analyst Intern",
+      "employer_name": "WEC Energy Group",
+      "job_city": "Milwaukee",
+      "job_state": "WI",
+      "job_description": "Join WEC Energy Group in this exciting opportunity.",
+      "job_apply_link": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
+      "job_posted_at_datetime_utc": "2025-08-19T17:39:55.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "wec-energy-power-generation-data-analyst-intern-milwaukee"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T00:43:43.687Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]

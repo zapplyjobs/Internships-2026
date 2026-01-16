@@ -1,40 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-15T23:54:06.269Z",
+  "lastUpdated": "2026-01-16T00:43:50.190Z",
   "jobs": [
-    {
-      "id": "wellsky-software-engineer-intern-summer-2026-overland-park-2026-01-09-1",
-      "jobId": "wellsky-software-engineer-intern-summer-2026-overland-park",
-      "company": "WellSky",
-      "title": "Software Engineer Intern - Summer 2026",
-      "postedToDiscord": "2026-01-09T00:43:39.593Z",
-      "sourceDate": "2026-01-08T23:42:03.000Z",
-      "sourceUrl": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Software-Engineer-Intern---Summer-2026_JR4297",
-      "discordThreadId": "1458984520412958954",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keysight-ai-data-visualization-phd-intern-qt-c-calabasas-2026-01-09-1",
-      "jobId": "keysight-ai-data-visualization-phd-intern-qt-c-calabasas",
-      "company": "Keysight Technologies",
-      "title": "AI Data Visualization – PhD Intern - Qt/C++",
-      "postedToDiscord": "2026-01-09T00:43:43.429Z",
-      "sourceDate": "2026-01-08T23:35:00.000Z",
-      "sourceUrl": "https://jobs.keysight.com/jobs/50017?lang=en-us&icims=1",
-      "discordThreadId": "1458984535340617983",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-intern-administrative-data-analytics-chantilly-2026-01-09-1",
-      "jobId": "general-dynamics-mission-intern-administrative-data-analytics-chantilly",
-      "company": "General Dynamics Mission Systems",
-      "title": "Intern Administrative / Data Analytics",
-      "postedToDiscord": "2026-01-09T00:43:46.911Z",
-      "sourceDate": "2026-01-08T23:34:56.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/69938/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458984550838440122",
-      "instanceNumber": 1
-    },
     {
       "id": "zscaler-api-platform-developer-tooling-intern-san-jose-2026-01-09-1",
       "jobId": "zscaler-api-platform-developer-tooling-intern-san-jose",
@@ -3873,15 +3840,27 @@
       "sourceUrl": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2600056",
       "discordThreadId": "1461508763881308232",
       "instanceNumber": 1
+    },
+    {
+      "id": "grid-ai-prompt-engineer-seattle-2026-01-16-1",
+      "jobId": "grid-ai-prompt-engineer-seattle",
+      "company": "Grid",
+      "title": "AI Prompt Engineer",
+      "postedToDiscord": "2026-01-16T00:43:50.190Z",
+      "sourceDate": "2026-01-05T23:16:07.000Z",
+      "sourceUrl": "https://jobs.lever.co/Grid/8a35b0c0-5c28-4f49-8d07-2c65a5ea6af3/apply",
+      "discordThreadId": "1461521279214551185",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 352,
+    "totalJobs": 350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-15T23:54:06.269Z",
-      "archived": 0
+      "date": "2026-01-16T00:43:50.190Z",
+      "archived": 3,
+      "monthsAffected": 1
     }
   }
 }
