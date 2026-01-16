@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T06:52:59.409Z",
+  "lastUpdated": "2026-01-16T07:06:39.469Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4368,14 +4368,113 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
       "discordThreadId": "1461614180879831165",
       "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-networking-training-and-placement-dallas-2026-01-16-1",
+      "jobId": "ag-java-networking-training-and-placement-dallas",
+      "company": "AG Technologies",
+      "title": "Java Networking Training and Placement",
+      "postedToDiscord": "2026-01-16T07:06:04.365Z",
+      "sourceDate": "2025-08-14T18:13:15.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102049244",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-was-training-chesterfield-2026-01-16-1",
+      "jobId": "ag-java-was-training-chesterfield",
+      "company": "AG Technologies",
+      "title": "Java/WAS Training",
+      "postedToDiscord": "2026-01-16T07:06:07.852Z",
+      "sourceDate": "2025-08-14T18:12:35.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/102091028",
+      "discordThreadId": "1461617486960267419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-obiee-salesforce-training-and-placement-dallas-2026-01-16-1",
+      "jobId": "ag-java-obiee-salesforce-training-and-placement-dallas",
+      "company": "AG Technologies",
+      "title": "Java/OBIEE/Salesforce training and placement",
+      "postedToDiscord": "2026-01-16T07:06:11.228Z",
+      "sourceDate": "2025-08-14T18:09:14.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/104283899",
+      "discordThreadId": "1461617501745185034",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-free-training-and-placement-on-java-obiee-salesforce-dallas-2026-01-16-1",
+      "jobId": "ag-free-training-and-placement-on-java-obiee-salesforce-dallas",
+      "company": "AG Technologies",
+      "title": "Free training and placement on Java/OBIEE/Salesforce",
+      "postedToDiscord": "2026-01-16T07:06:14.751Z",
+      "sourceDate": "2025-08-14T18:08:35.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/105608940",
+      "discordThreadId": "1461617515917742174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-obiee-sccm-microstrategy-training-cum-placement-chesterfield-2026-01-16-1",
+      "jobId": "ag-obiee-sccm-microstrategy-training-cum-placement-chesterfield",
+      "company": "AG Technologies",
+      "title": "OBIEE/SCCM/Microstrategy training cum placement",
+      "postedToDiscord": "2026-01-16T07:06:18.479Z",
+      "sourceDate": "2025-08-14T18:08:18.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/108357454",
+      "discordThreadId": "1461617530887213128",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-weblogic-training-and-placement-dallas-2026-01-16-1",
+      "jobId": "ag-weblogic-training-and-placement-dallas",
+      "company": "AG Technologies",
+      "title": "WebLogic Training and Placement",
+      "postedToDiscord": "2026-01-16T07:06:22.250Z",
+      "sourceDate": "2025-08-14T18:06:28.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/113047155",
+      "discordThreadId": "1461617546909323317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "ag-training-and-placement-on-java-j2ee-hadoop-dallas-2026-01-16-1",
+      "jobId": "ag-training-and-placement-on-java-j2ee-hadoop-dallas",
+      "company": "AG Technologies",
+      "title": "Training and Placement on Java/J2EE/Hadoop",
+      "postedToDiscord": "2026-01-16T07:06:25.725Z",
+      "sourceDate": "2025-08-12T23:49:11.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/85457676",
+      "discordThreadId": "1461617562138710027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kanshe-infotech-data-science-training-lexington-2026-01-16-1",
+      "jobId": "kanshe-infotech-data-science-training-lexington",
+      "company": "Kanshe Infotech",
+      "title": "Data Science Training",
+      "postedToDiscord": "2026-01-16T07:06:32.247Z",
+      "sourceDate": "2025-08-13T21:53:48.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/KansheInfotech/744000066239385",
+      "discordThreadId": "1461617589397622946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "kanshe-infotech-generative-ai-training-raleigh-2026-01-16-1",
+      "jobId": "kanshe-infotech-generative-ai-training-raleigh",
+      "company": "Kanshe Infotech",
+      "title": "Generative AI Training",
+      "postedToDiscord": "2026-01-16T07:06:39.469Z",
+      "sourceDate": "2025-08-12T20:04:22.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/KansheInfotech/744000072092977",
+      "discordThreadId": "1461617616773976107",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 397,
+    "totalJobs": 406,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T06:52:59.409Z",
+      "date": "2026-01-16T07:06:39.469Z",
       "archived": 0
     }
   }
