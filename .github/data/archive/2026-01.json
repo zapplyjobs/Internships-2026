@@ -3034,5 +3034,60 @@
     "sourceUrl": "https://uscareers-lennox.icims.com/jobs/50553/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1459128902852018299",
     "instanceNumber": 1
+  },
+  {
+    "id": "medpace-business-intelligence-internship-summer-2026-cincinnati-2026-01-09-1",
+    "jobId": "medpace-business-intelligence-internship-summer-2026-cincinnati",
+    "company": "Medpace, Inc.",
+    "title": "Business Intelligence Internship - Summer 2026",
+    "postedToDiscord": "2026-01-09T16:47:12.763Z",
+    "sourceDate": "2026-01-09T16:22:37.000Z",
+    "sourceUrl": "https://careers.medpace.com/jobs/12212?lang=en-us&icims=1",
+    "discordThreadId": "1459227006448304304",
+    "instanceNumber": 1
+  },
+  {
+    "id": "tive-software-engineer-co-op-boston-2026-01-09-1",
+    "jobId": "tive-software-engineer-co-op-boston",
+    "company": "Tive",
+    "title": "Software Engineer Co-op",
+    "postedToDiscord": "2026-01-09T16:47:19.403Z",
+    "sourceDate": "2026-01-09T16:12:54.000Z",
+    "sourceUrl": "https://ats.rippling.com/tive-careers/jobs/e7ed0c47-bf2e-4105-a793-e48dc0e0f710",
+    "discordThreadId": "1459227033442717758",
+    "instanceNumber": 1
+  },
+  {
+    "id": "chick-fil-a-digital-transformation-and-technology-undergraduate-co-op-atlanta-2026-01-09-1",
+    "jobId": "chick-fil-a-digital-transformation-and-technology-undergraduate-co-op-atlanta",
+    "company": "Chick-fil-A",
+    "title": "Digital Transformation and Technology Undergraduate Co-op",
+    "postedToDiscord": "2026-01-09T16:47:22.747Z",
+    "sourceDate": "2025-10-31T02:23:41.000Z",
+    "sourceUrl": "https://careers-chickfila.icims.com/jobs/19008/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1459227048592674856",
+    "instanceNumber": 1
+  },
+  {
+    "id": "kla-algorithm-research-intern-milpitas-2026-01-09-1",
+    "jobId": "kla-algorithm-research-intern-milpitas",
+    "company": "KLA Corporation",
+    "title": "Algorithm Research Intern",
+    "postedToDiscord": "2026-01-09T16:47:30.474Z",
+    "sourceDate": "2026-01-09T16:10:14.000Z",
+    "sourceUrl": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Research-Intern_2533331-1",
+    "discordThreadId": "1459227075679359038",
+    "instanceNumber": 1
+  },
+  {
+    "id": "pricewaterhousecoopers-pwc-national-tax-services-international-tax-llm-senior-associate-national-tax-services-washington-2026-01-09-1",
+    "jobId": "pricewaterhousecoopers-pwc-national-tax-services-international-tax-llm-senior-associate-national-tax-services-washington",
+    "company": "PricewaterhouseCoopers (PwC)",
+    "title": "National Tax Services – International Tax LLM Senior Associate - National Tax Services",
+    "postedToDiscord": "2026-01-09T16:47:34.055Z",
+    "sourceDate": "2025-09-06T00:44:24.000Z",
+    "sourceUrl": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/National-Tax-Services---International-Tax-LLM-Senior-Associate---Summer-2026_657583WD",
+    "discordThreadId": "1459227094843129992",
+    "instanceNumber": 1
   }
 ]

@@ -734,9 +734,9 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T17:01:17.818Z",
     "enrichedAt": "2026-01-16T17:01:30.872Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T17:42:30.878Z"
   }
 ]
