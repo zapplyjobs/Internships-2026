@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T06:34:01.631Z",
+  "lastUpdated": "2026-01-16T06:52:59.409Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4357,14 +4357,25 @@
       "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/101894009",
       "discordThreadId": "1461609408269254741",
       "instanceNumber": 1
+    },
+    {
+      "id": "ag-java-training-and-placemnt-dallas-2026-01-16-1",
+      "jobId": "ag-java-training-and-placemnt-dallas",
+      "company": "AG Technologies",
+      "title": "Java training and placemnt",
+      "postedToDiscord": "2026-01-16T06:52:59.409Z",
+      "sourceDate": "2025-08-14T18:14:12.000Z",
+      "sourceUrl": "https://jobs.smartrecruiters.com/AGTechnologies1/101597821",
+      "discordThreadId": "1461614180879831165",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 396,
+    "totalJobs": 397,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T06:34:01.631Z",
+      "date": "2026-01-16T06:52:59.409Z",
       "archived": 0
     }
   }
