@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Niwc Senior",
-      "employer_name": "SDSU Research Foundation",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "<h2>Overview</h2> <p><strong>This position has been budgeted for $18.90 per hour and is non-negotiable.</strong></p> <p>&nbsp;</p> <p>The C2P Modernization (Mod) Project is responsible for development of a modernized C2P system that supports Navy ships and limited shore sites around the world. C2P Mod’s initial product is being developed the current plan is for the project to continue to develop and integrate new capabilities in support of emerging US Navy requirements. The project technologies as a basis for development methodology, whereby software developers will create components that will provide functionality for the component and/or system.</p> <p>&nbsp;</p> <h2>Responsibilities</h2> <p><strong>TECHNICAL REQUIREMENTS:</strong></p> <ul> <li>Investigation, analysis, and evaluation of technology to include, open source software, vendor products, academia, industry research, and Government software and systems.</li> <li>Installing and integrating software applications and hardware components. Resolving workstation hardware and software challenges.</li> <li>Performing software cycle support to include requirements, design, development, integration, testing, deployment, and documentation.</li> <li>Producing reports on industry trends to include software and systems methodologies, security systems, and future technologies.</li> <li>Conducting software testing via manual and automated methods.</li> <li>Assisting in reviewing and documenting engineering best practices.</li> </ul> <p>&nbsp;</p> <h2>Qualifications</h2> <p>Undergraduate Student 3: Must have course work in the discipline requested on the task order Statement of Work. The student must be at the Senior level and have experience in 100% of the task requirements and be able to accomplish 90% of the work independently.</p> <p><strong>Minimum Qualifications</strong></p> <ul> <li>Undergraduate Level 3: Information Systems, Computer Science (CS), Computer Engineering (CE), Electrical Engineering (EE) major (rising Junior or Senior).</li> <li>Proficient with a business productivity suite e.g. Microsoft Office.</li> <li>Basic working knowledge of a software development process.</li> <li>Working knowledge of computer hardware.</li> <li>Working knowledge of the Windows (i.e. Win 10, Win 7) and RedHat Operating Systems.</li> </ul> <p>&nbsp;</p> <p><strong>Required Course Work</strong></p> <ul> <li>CS 150 Introductory Computer Programming</li> <li>COMPE 160 Introduction to Computer Programming</li> </ul> <p>&nbsp;</p> <p><strong>Desired Course Work</strong></p> <ul> <li>CS 160 Intermediate Computer Programming</li> <li>CS 210 Data Structures</li> <li>CS 240 Computer Organization</li> <li>COMPE 260 Data Structures and Object-Oriented Programming in C++</li> <li>COMPE 271 Computer Organization</li> <li>COMPE 361 Advanced Programming</li> </ul> <p>&nbsp;</p> <p><strong>Desired Qualifications</strong></p> <ul> <li>Basic working knowledge of computer and networking protocols and communications theory and applications.</li> <li>Basic knowledge of automated software test tools and test management framework such as Test Complete and Test Rail, respectively.</li> <li>Basic working knowledge of document repositories to include Atlassian confluence.</li> <li>Basic working knowledge of task management systems to include Atlassian JIRA.</li> <li>Basic working knowledge of Cloud-based development environment using Bitbucket, Jenkins, and NEXUS tools.</li> <li>Ability to develop decision analysis documentation based on software test findings.</li> <li>Working knowledge of at least one programming language and demonstrates the ability to develop and compile source code, preferably C++.</li> </ul> <p>&nbsp;</p> <p><strong>Additional Applicant Information</strong></p> <ul> <li>This position will require the employee to obtain and maintain a DoD Secret security clearance.</li> <li>Due to the regulations established by the Department of Defense, only US Citizens may qualify.</li> <li>This is a student position and is limited to working 20 hours per week.</li> <li>This position will remain open until filled.</li> <li>Candidate must reside in California and live within a commutable distance from SDSU at time of hire.</li> <li>Job offer is contingent upon satisfactory clearance based on background check results (including a criminal record check).</li> <li>San Diego State University Research Foundation is an equal opportunity employer. Consistent with California law and federal civil rights laws, SDSU Research Foundation provides equal opportunity in employment without unlawful discrimination or preferential treatment based on race, sex, color, ethnicity, or national origin or any other categories protected by federal or state law. &nbsp;</li> <li>Employment decisions are based on an individual’s qualifications as they relate to the job under consideration. Our commitment to equal opportunity means ensuring that every employee has equal access to resources and support.&nbsp;</li> <li>SDSU Research Foundation complies with Titles VI and VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, the California Equity in Higher Education Act, California’s Proposition 209 (Art. I, Section 31 of the California Constitution), and other applicable state and federal anti-discrimination laws including grant or contract terms and conditions related to funded program activities. Further the SDSU Research Foundation maintains a Nondiscrimination Policy that prohibits discriminatory preferential treatment, segregation based on race or any other protected status, and all forms of unlawful discrimination, harassment, and retaliation in all programs, policies, and practices. &nbsp;</li> <li>SDSU Research Foundation makes all employment decisions including, but not limited to, applicant screening, hiring, promotion, demotion, compensation, benefits, disciplinary actions, and terminations on the basis of merit. &nbsp;</li> </ul> <p>&nbsp;</p>",
-      "job_apply_link": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
-      "job_posted_at_datetime_utc": "2025-11-26T22:58:45.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "sdsu-research-foundation-niwc-senior-san-diego",
-      "description_platform": "icims",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T04:16:55.599Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Student - Data Analytics",
       "employer_name": "Voya Financial",
       "job_city": "Atlanta",
@@ -1045,16 +1025,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Student Researcher (Seed - Infra - Inference) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7548881454182385938/detail",
       "job_posted_at_datetime_utc": "2025-10-31T12:53:35.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-multiple-teams-san-jose"
+      "id": "bytedance-student-researcher-multiple-teams-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T05:16:54.971Z",
     "postedAt": null
   },
   {
