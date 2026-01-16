@@ -332,8 +332,6 @@ ${faangJobs > 0 ? '![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-' + f
 
 </div>
 
----
-
 <p align="center">🚀 Real-time internships from ${totalCompanies}+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with ${displayedJobCount}+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
@@ -434,8 +432,6 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ${archivedJobs.length > 0 ? generateArchivedSection(archivedJobs, stats) : ""}
-
----
 
 <div align="center">
 
