@@ -2946,5 +2946,60 @@
     "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Machine-Learning-Co-op_R421859",
     "discordThreadId": "1459016103853559820",
     "instanceNumber": 1
+  },
+  {
+    "id": "comcast-data-science-intern-co-op-philadelphia-2026-01-09-1",
+    "jobId": "comcast-data-science-intern-co-op-philadelphia",
+    "company": "Comcast",
+    "title": "Data Science Intern/Co-op",
+    "postedToDiscord": "2026-01-09T04:54:15.251Z",
+    "sourceDate": "2026-01-09T02:48:26.000Z",
+    "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Data-Science-Co-op_R421636",
+    "discordThreadId": "1459047583556309017",
+    "instanceNumber": 1
+  },
+  {
+    "id": "ultima-genomics-system-analytics-intern-fremont-2026-01-09-1",
+    "jobId": "ultima-genomics-system-analytics-intern-fremont",
+    "company": "Ultima Genomics",
+    "title": "System Analytics Intern",
+    "postedToDiscord": "2026-01-09T04:54:18.705Z",
+    "sourceDate": "2026-01-09T02:25:06.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5753504004",
+    "discordThreadId": "1459047598487896191",
+    "instanceNumber": 1
+  },
+  {
+    "id": "bloom-energy-rmcc-data-science-engineering-intern-san-jose-2026-01-09-1",
+    "jobId": "bloom-energy-rmcc-data-science-engineering-intern-san-jose",
+    "company": "Bloom Energy",
+    "title": "RMCC Data Science Engineering Intern",
+    "postedToDiscord": "2026-01-09T04:54:22.208Z",
+    "sourceDate": "2026-01-09T02:22:45.000Z",
+    "sourceUrl": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Data-Science-Engineering-Intern_JR-20827",
+    "discordThreadId": "1459047613079752808",
+    "instanceNumber": 1
+  },
+  {
+    "id": "cinemark-theatres-data-science-intern-plano-2026-01-09-1",
+    "jobId": "cinemark-theatres-data-science-intern-plano",
+    "company": "Cinemark Theatres",
+    "title": "Data Science Intern",
+    "postedToDiscord": "2026-01-09T04:54:25.878Z",
+    "sourceDate": "2026-01-09T02:13:19.000Z",
+    "sourceUrl": "https://cinemark.wd1.myworkdayjobs.com/cinemark/job/CORP---Cinemark-Service-Center-Plano-TX/Data-Science-Intern_R34561",
+    "discordThreadId": "1459047628015665317",
+    "instanceNumber": 1
+  },
+  {
+    "id": "scs-engineers-science-or-geology-intern-madison-2026-01-09-1",
+    "jobId": "scs-engineers-science-or-geology-intern-madison",
+    "company": "SCS Engineers",
+    "title": "Science or Geology Intern",
+    "postedToDiscord": "2026-01-09T04:54:32.492Z",
+    "sourceDate": "2025-09-11T23:51:27.000Z",
+    "sourceUrl": "https://careers-scsengineers.icims.com/jobs/1651/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1459047656130216082",
+    "instanceNumber": 1
   }
 ]
