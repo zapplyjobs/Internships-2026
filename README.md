@@ -152,7 +152,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Post Doc Research Associate - Networking and Distributed Systems Lab | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Post-Doc-Research-Associate--Networking-and-Distributed-Systems-Lab-_1192363-2) | 8h |
+| Post Doc Research Associate - Networking and Distributed Systems Lab | Milpitas, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Milpitas-California-United-States-of-America/Post-Doc-Research-Associate--Networking-and-Distributed-Systems-Lab-_1192363-2) | 9h |
 
 ### 🚀 **Startups & Growth** (1 position)
 
@@ -160,7 +160,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Intern – AI & Data - Technology | McLean, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334) | 5d |
+| Intern – AI & Data - Technology | McLean, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334) | 6d |
 
 ### 🏥 **Healthcare & Life Sciences** (1 position)
 
@@ -293,13 +293,13 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1810 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1802 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1810 roles
-- **🏢 Companies**: 212 companies  
+- **📁 Total Positions**: 1802 roles
+- **🏢 Companies**: 221 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
 ### ⭐ **FAANG+** (88 positions)
