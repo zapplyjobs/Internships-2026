@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T09:00:44.809Z",
+  "lastUpdated": "2026-01-16T09:12:28.561Z",
   "jobs": [
     {
       "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
@@ -5116,14 +5116,25 @@
       "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Business-Operations-and-Analytics-Intern---US-Market-Commercial_R15254-1",
       "discordThreadId": "1461646331595587677",
       "instanceNumber": 1
+    },
+    {
+      "id": "prudential-financial-prudential-2026-global-technology-operations-internship-program-newark-2026-01-16-1",
+      "jobId": "prudential-financial-prudential-2026-global-technology-operations-internship-program-newark",
+      "company": "Prudential Financial",
+      "title": "Prudential: 2026 Global Technology & Operations – Internship Program",
+      "postedToDiscord": "2026-01-16T09:12:28.560Z",
+      "sourceDate": "2026-01-16T07:34:53.000Z",
+      "sourceUrl": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979",
+      "discordThreadId": "1461649282728726666",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 465,
+    "totalJobs": 466,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T09:00:44.809Z",
+      "date": "2026-01-16T09:12:28.561Z",
       "archived": 0
     }
   }
