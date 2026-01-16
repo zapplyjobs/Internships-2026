@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Software Engineer Intern - Python",
-      "employer_name": "Akuna Capital",
-      "job_city": "Chicago",
-      "job_state": "IL",
-      "job_description": "About Akuna: Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions, and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies, and mathematical models. Our Founding Partners first conceptualized Akuna in their hometown of Sydney. They opened the firm’s first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, Singapore, and London. What you’ll do as a Software Engineer Intern on the Python Team at Akuna: We are seeking Software Engineer Interns to join our innovative and growing technology team for our 10-week Akunacademy internship program. In this role you will work alongside our trading and software team to design and implement elegant solutions to complex and interesting problems. Software Engineer Interns at Akuna have the opportunity to use cutting-edge technology while working on high performance/low latency systems. We offer a team-based approach to trading and software engineering, believing that productive integration of the two groups is vital for success in this industry. Akuna loves Software Engineering interns who are self-starters and have the ability to problem solve and think outside of the box. We value innovation and hard work, and want you to make an impact in the firm. Whether you are interested in trading infrastructure, algorithms, exchange gateways, performance engineering, hardware, data capture and analysis or front-end user interfaces, there’s work to be done. If you are excited to jump in and make a difference, Akuna could be the place for you. Requirements for this role: Pursuing a Bachelors, Masters, or Ph.D. in technical field – Computer Science/Engineering, Math, Physics, or equivalent Must graduate by August 2027 Major GPA of 3.5 or above Legal authorization to work in the U.S. is required on the first day of employment including F-1 students using OPT or STEM Qualities that make great candidates: Strong programming skills in Object Oriented Python Development Demonstrated experience with distributed systems Strong analytic and problem-solving skills Ability to communicate with the trading team, obtain requirements, find solutions, and implement them in a clean and concise way Create an easily understood and testable codebase that can change as quickly as market conditions require The ability to react quickly and accurately to rapidly changing market conditions, including the ability to quickly and accurately respond and/or solve math and coding problems are essential functions of the role Passion for innovation and building systems from the ground up Ability to adapt to an ever-changing environment Self-starter attitude with the ability to work independently **Resumes must be submitted in PDF format. In addition to technical skillsets, Akuna values the unique perspectives people can bring to the table to collaboratively solve complex problems and drive Akuna forward. We want all groups to feel empowered to apply, even if you don’t meet every qualification. We welcome your application and encourage you to take the first steps toward your future with us! *Please note: By submitting an application to this role, you are indicating this is your top preference and acknowledge you will not be considered for other Quant and/or Tech roles at Akuna this recruiting season. This acknowledgement does not limit applications to Trading roles - in addition to this role, you may apply to any Trader roles of interest. In accordance with Illinois Equal Pay Act, the minimum annualized base salary starts at $130,000. Exact compensation offered may vary based on many factors including, but not limited to, the candidate’s experience, qualifications, and skill set. The minimum base salary herein was determined in good faith by Akuna Capital LLC.",
-      "job_apply_link": "https://www.akunacapital.com/job-details?gh_jid=7055471",
-      "job_posted_at_datetime_utc": "2025-07-14T18:40:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "akuna-capital-software-engineer-intern-python-chicago",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T21:17:11.784Z",
-    "enrichedAt": "2026-01-16T07:32:05.137Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern GPU Software Development",
-      "employer_name": "Philips",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "Job TitleIntern- GPU Software Development, Cambridge, MA-Summer 2026Job DescriptionAre you interested in an Internship opportunity with Philips? We welcome individuals who are currently pursuing an undergraduate (BS), graduate (MS) and/or PhD to participate in 3 month paid intern opportunities at our site in Cambridge. Through this role you will gain meaningful, hands-on experience working for a HealthTech company.Your role:Job Responsibilities:Analyze, design, test, code, debug, modify, deploy, integrate, and maintain system software enhancements, test environments, and/or new software in a GPU environment.Utilize state-of-the-art technologies and best practices to deliver high-quality solutions.Interact with users and product owners to define requirements and implement necessary modifications. Stay current with technical developments and industry practices through literature, courses, training, technical contacts, and competitive analysis.Conduct research on emerging technologies and methodologies to support innovation and continuous improvement. Participate in team meetings, contribute ideas, and collaborate effectively to achieve design and development goals.Prepare and present technical reports and findings for internal stakeholders with clarity and precision. Maintain organized documentation of code, processes, and project artifacts to ensure compliance and accessibility.You're the right fit if: Currently pursuing a BA, Master’s degree or PhD in Electrical Engineering, Computer Science, Mechanical Engineering, Mathematics, Physics, or a related field.Strong programming skills in MATLAB, Python, C++, and CUDA.Ability to work independently, take responsibility, and manage tasks with minimal supervision. Excellent critical thinking skills and willingness to embrace new and challenging problems.You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this position.How we work togetherWe believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations.This is an office roleAbout PhilipsWe are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others.Learn more about our business.Discover our rich and exciting history.Learn more about our purpose.Learn more about our culture.Philips Transparency DetailsThe hourly pay range for this position is Bachelor Candidates: $25.00 to $28.00, Masters/PhD Candidates: $33.00-45.00, plus eligible overtime. The actual base pay offered may vary within the posted ranges depending on multiple factors including job-related knowledge/skills, experience, business needs, geographical location, and internal equity.    Details about our benefits can be found here. At Philips, it is not typical for an individual to be hired at or near the top end of the range for their role and compensation decisions are dependent upon the facts and circumstances of each case. Additional InformationUS work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future.This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates.  Interested candidates are encouraged to apply as soon as possible to ensure consideration.Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.",
-      "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--GPU-Software-Development--Cambridge--MA-Summer-2026_572194",
-      "job_posted_at_datetime_utc": "2026-01-15T23:42:39.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "philips-intern-gpu-software-development-cambridge",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "Co-op 2\n02\n02\n02\n02\n02\n02\n02\n0",
-      "employer_name": "Biogen",
-      "job_city": "Cambridge",
-      "job_state": "MA",
-      "job_description": "About the Role:  This application is for a 6-month student role from July - December 2026. Resume review begins in January 2026.  Biogen’s Decision & Quality Analytics Innovation (DQAI) team is part of the Research Development & Medical (RDM) organization. The vision of the DQAI team is to drive data-driven insights from trusted data, and our team mission is to maximize the quality, efficiency and application of analytics across RDM Portfolio and Quality Management Systems through improved data and metrics management, optimization opportunities, identification of compliance risk, and enhanced business analytics application. Specifically, the DQAI team has four major focus areas:  Data Management​ Advanced Analytics​ Business Intelligence​ Metrics Management (Performance Measurement)​   What You’ll Do: Leverage modern AI assistants (Azure OpenAI / Copilot, GenAI-powered BI, etc.) to accelerate data exploration, automate repetitive tasks, and enhance insight storytelling. Analyze complex data from various sources to identify trends, gaps, risks, and opportunities. Work with senior staff to translate business questions into analytical problems and convert analytical outputs into actionable recommendations. Apply statistical and machine learning techniques to uncover root causes, patterns, and predictive indicators. Deliver concise insight summaries, written reports, and presentations that highlight implications and recommendations.  Work with data engineering and governance teams to ensure data readiness and integrity for analytics. Support initiatives to accelerate insight discovery from portfolio analytics modeling. Develop and prototype data visualizations and dashboards. Participate in skill-building and capability-enhancement initiatives within the DQAI team.  Example projects may include: Support development of custom-tailored strategic analytics solutions to answer complex questions from senior leadership.  Pioneer new approaches for displaying data to engage stakeholders.  Perform quality control functions to ensure the integrity of the team’s work.   Who You Are:  You are a tech- and AI-forward problem solver who thrives on exploration and rapid iteration in a fun, collaborative team. You partner seamlessly with business stakeholders and our embedded AI developers to turn needs into analytics products and automation. Here are some of the core characteristics we’re looking for:  Strong analytical and critical thinking skills with a proven track record of turning data into strategic insights. Proficiency in data analysis tools and languages (e.g., Python, R). Experience applying advanced analytics, such as statistical modeling, clustering, or NLP, to real-world business challenges. Exceptional written and verbal communication skills, including the ability to synthesize complex findings for non-technical stakeholders. Ability to work collaboratively in a cross-functional environment and lead analytics initiatives from concept to insight delivery.  To participate in the Biogen Internship or Co-op Program, students must meet the following eligibility criteria: Legal authorization to work in the U.S. At least 18 years of age prior to the scheduled start date. Be currently enrolled in an accredited community college, college, university or skills program/apprenticeship.  Education Requirements  Currently pursuing a Master’s degree in Data Science, Statistics, Bioinformatics, Computer Science, Computational Biology, or related field Job Level: InternshipAdditional InformationThe base compensation range for this role is: $29.00-$29.00The actual hourly wage offered will consider the candidate’s current academic level and degree candidacy, inclusive of Associate, Bachelor’s, Master’s, JD, MD, PhD and MBA programs. It will comply with state or local minimum wage requirements specific to the job location.In addition to compensation, Biogen offers a range of benefits designed to support our educational employees, including, but not limited to: Company paid holidays Commuter benefits Employee Resource Groups participation80 hours of sick time per calendar yearWhy Biogen?We are a global team with a commitment to excellence, and a pioneering spirit. As a mid-sized biotechnology company, we provide the stability and resources of a well-established business while fostering an environment where individual contributions make a significant impact. Our team encompasses some of the most talented and passionate achievers who have unparalleled opportunities for learning, growth, and expanding their skills. Above all, we work together to deliver life-changing medicines, with every role playing a vital part in our mission. Caring Deeply. Achieving Excellence. Changing Lives.At Biogen, we are committed to building on our culture of inclusion and belonging that reflects the communities where we operate and the patients we serve. We know that diverse backgrounds, cultures, and perspectives make us a stronger and more innovative company, and we are focused on building teams where every employee feels empowered and inspired. Read on to learn more about our DE&I efforts.All qualified applicants will receive consideration for employment without regard to sex, gender identity or expression, sexual orientation, marital status, race, color, national origin, ancestry, ethnicity, religion, age, veteran status, disability, genetic information or any other basis protected by federal, state or local law. Biogen is an E-Verify Employer in the United States.",
-      "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Decision---Quality-Analytics-Innovation_REQ22295",
-      "job_posted_at_datetime_utc": "2026-01-15T23:39:38.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "GIS Student Internship",
-      "employer_name": "Olsson",
-      "job_city": "Kansas City",
-      "job_state": "MO",
-      "job_description": "Company Description We are Olsson. We engineer and design solutions that improve the world around us. As a company, we promise to always be responsive, transparent, and focused on results – for our people, our clients, and our company. We’re a people-centric firm, so it’s no surprise our greatest asset is our people. The impact this creates is an environment that encourages our people to grow and be creative with their talents. This approach builds a culture that is uniquely Olsson. It allows us to grow our people as we grow our business. This, in turn, creates a lasting impact on the world around us.Job Description As a GIS student intern with our Applied Technology team, you will perform meaningful, hands-on, real-world work that will transform your classroom experience and help you envision your future career. You’ll get an introduction to Olsson's culture that will help you evaluate our firm as a career choice and be part of a team working with a variety of programs, including but not limited to Esri and Autodesk products. You will work with technology experts to support internal GIS users by compiling data from external sources and assisting with GIS processes. Candidates will bring attention to detail as well as the ability to adhere to corporate policies to ensure data integrity and security. We are looking for a student intern to start in May and work 40 hours per week during the summer, with the potential to continue working into the school year. This internship can be based out of either our Lincoln, NE; North Kansas City, MO; Oklahoma City, OK; Omaha, NE; or Springfield, MO office locations. Qualifications You are passionate about: Working collaboratively with others. Having ownership in the work you do. Using your talents to positively affect communities. You bring to the team: Strong communication skills Ability to contribute and work well on a team Pursuing a degree in GIS One to two years of college coursework in GIS Proficiency with ArcGIS Pro Experience with ArcGIS Online applications (Dashboards, Field Maps, Experience Builder, Survey123) Experience with Microsoft 365 products Familiarity with coordinate systems, map projections, standard cartographic methods, theories, and principles Knowledge of coding languages Preferred languages include Python (ArcPy) JavaScript (ArcGIS API for JavaScript), Arcade, and SQL Some experience using AutoCAD/Civil 3D preferred #LI-DNI Additional Information Olsson specializes in engineering and design, client advisory services, planning, field services, and environmental. Improving the world has been our mindset from the very beginning, back when Olsson first opened for business in 1956. And it will be our mindset for years to come. As an Olsson employee, you will: Receive a competitive 401(k) match Be empowered to build your career with tailored development paths Have the possibility for flexible work arrangements Engage in work that has a positive impact on communities Participate in a wellness program promoting balanced lifestyles In addition, full-time employees will receive our traditional benefits package (health care, vision, dental, paid time off, etc.) and the opportunity to participate in a bonus system that rewards performance. Olsson is an Equal Opportunity Employer. We encourage qualified minority, female, veteran, and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment or any employee because of race, color, religion, national origin, sex, sexual orientation, gender identity, gender, disability, age, military status, or other protected status. Olsson understands the importance of privacy and is committed to protecting job applicants’ personal information. Pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act (collectively, the “CCPA”), this notice explains Olsson’s practices regarding the collection, use, and disclosure of personal information for job applicants residing in California. Please read this Notice carefully to understand our privacy practices. For more information about the types of information we collect and how we use it in connection with your general access and use of our website, please review our general California Privacy Notice here.",
-      "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5072492008",
-      "job_posted_at_datetime_utc": "2026-01-15T23:39:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "olsson-gis-student-internship-kansas-city",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "Undergraduate/Post-Undergraduate – Intern - Summer",
-      "employer_name": "National Renewable Energy Laboratory",
-      "job_city": "Golden",
-      "job_state": "CO",
-      "job_description": "Posting TitleUndergraduate/Post-Undergraduate (Summer) Intern – Computational Modeling of Catalytic Bioenergy Processes.LocationCO - Golden.Position TypeIntern (Fixed Term).Hours Per Week40.Working at NLRNLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development.Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced, secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth.At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to support your career and well-being.Job DescriptionThe Computational Modeling group in the BEST directorate at the National Laboratory of the Rockies (NLR) is seeking an summer undergraduate or post-undergraduate research intern to perform computational modeling and data analysis to enable optimization and scale-up of catalytic bioenergy processes.The intern will work closely with other computational scientists and experimentalists to perform, analyze, and validate simulations of biomass and other feedstocks undergoing catalytic and thermochemical conversion processes using process scale models.Responsibilities include:Performing simulations using high-fidelity Computational Fluid Dynamics (CFD) and reduced order models of transport and reactive processes within catalytic reactor systemsImplementing kinetic schemes into reduced order models and performing optimization routines to fit kinetic parametersAnalyzing validation experimentsProgramming scripts to analyze results from simulationsProviding regular written and oral progress updates at project meetingsWorking safely and independently in a laboratory settingPlanning and executing research in collaboration with other researchersContributing to the creation of technical reports and peer-reviewed publicationWorking effectively in a large, multidisciplinary, multi-institutional team of engineers and scientists.The successful candidate will:Engage with a multi-disciplinary team of scientists across multiple national laboratoriesGain experience in a range of computational modeling and data analysis techniques, including FEM/FVM and reduced order modeling using software packages that are relevant to the fieldDevelop practical research skills through industrially relevant applications of computational models for chemical processesContribute to high-impact energy researchMaintain professionalism and an environment of mutual respect in all communication and interactions with fellow staff and collaborators .Basic QualificationsMinimum of a 3.0 cumulative grade point average.Undergraduate: Must be enrolled as a full-time student in a bachelor’s degree program from an accredited institution. Post Undergraduate: Earned a bachelor’s degree within the past 12 months. Eligible for an internship period of up to one year.Graduate: Must be enrolled as a full-time student in a master’s degree program from an accredited institution. Post Graduate: Earned a master’s degree within the past 12 months. Eligible for an internship period of up to one year.Graduate + PhD: Completed master’s degree and enrolled as PhD student from an accredited institution. Please Note:• Applicants are responsible for uploading official or unofficial school transcripts, as part of the application process.• If selected for position, a letter of recommendation will be required as part of the hiring process.• Must meet educational requirements prior to employment start date.* Must meet educational requirements prior to employment start date.Additional Required QualificationsCurrently enrolled in or recently graduated from a bachelor’s degree program in Computer Science, Chemical Engineering, or a related fieldDemonstrated programming skills in Python and libraries such as: SciPy, Matplotlib, NumPyStrong motivation to contribute to high-impact researchDemonstrated ability to collaborate and work efficiently within a teamExcellent writing and communications skills, with the ability to present technical results to a wide audiencePreferred QualificationsCurrent junior or senior level student or recent graduate of a bachelor’s degree in Computer Science, Chemical Engineering, or a related fieldFamiliarity with Linux environments and high-performance computingKnowledge of or experience using FEM and/or FVM software including OpenFOAM, MFIX, COMSOL, Fluent, or similar (CFD packages)Knowledge of or experience with performing and analyzing reactor-scale simulationsKnowledge of or experience with catalytic processes (modeling or experimental)Knowledge/experience with machine learning i.e. tensor flow/PyTorch.Job Application Submission WindowThe anticipated closing window for application submission is up to 30 days and may be extended as needed.Annual Salary Range (based on full-time 40 hours per week)Job Profile: / Annual Salary Range: $34,800 - $55,700NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required travel (if any), external market and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions.Benefits SummaryBenefits include medical, dental, and vision insurance; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NLR employees may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be eligible for relocation expense reimbursement. Internships projected to be less than 20 hours per week are not eligible for medical, dental, or vision benefits.* Based on eligibility rulesBadging RequirementNLR is subject to Department of Energy (DOE) access restrictions. All employees must also be able to obtain and maintain a federal Personal Identity Verification (PIV) card as required by Homeland Security Presidential Directive 12 (HSPD-12), which includes a favorable background investigation. Intern assignments extending beyond six months will be subject to this requirement.Drug Free WorkplaceNLR is committed to maintaining a drug-free workplace in accordance with the federal Drug-Free Workplace Act and complies with federal laws prohibiting the possession and use of illegal drugs. Under federal law, marijuana remains an illegal drug.If you are offered employment at NLR, you must pass a pre-employment drug test prior to commencing employment. Unless prohibited by state or local law, the pre-employment drug test will include marijuana. If you test positive on the pre-employment drug test, your offer of employment may be withdrawn.Submission GuidelinesPlease note that in order to be considered an applicant for any position at NLR you must submit an application form for each position for which you believe you are qualified. Applications are not kept on file for future positions. Please include a cover letter and resume with each position application..Equal Opportunity EmployerAll qualified applicants will receive consideration for employment without regard basis of age (40 and over), color, disability, gender identity, genetic information, marital status, domestic partner status, military or veteran status, national origin/ancestry, race, religion, creed, sex (including pregnancy, childbirth, breastfeeding), sexual orientation, and any other applicable status protected by federal, state, or local laws.Reasonable Accommodations E-Verify www.dhs.gov/E-Verify For information about right to work, click here for English or here for Spanish.E-Verify is a registered trademark of the U.S. Department of Homeland Security. This business uses E-Verify in its hiring practices to achieve a lawful workforce.",
-      "job_apply_link": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Post-Undergraduate--Summer--Intern---Computational-Modeling-of-Catalytic-Bioenergy-Processes_R14091",
-      "job_posted_at_datetime_utc": "2026-01-15T23:31:36.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "Software Engineer Intern",
-      "employer_name": "KBR",
-      "job_city": "Sioux Falls",
-      "job_state": "SD",
-      "job_description": "Title:Software Engineer InternBELONG. CONNECT. GROW. with KBR.About UsAt KBR, we deliver science, technology, and engineering solutions that help our customers accomplish their most critical missions.Join us at the Earth Resources Observation and Science (EROS) Center and help shape the future of Earth science data systems. As part of our mission-driven team, you’ll contribute to projects that make a global impact, supporting research, innovation, and technology that empower scientists and decision-makers worldwide.Position OverviewThis summer-based internship is open to juniors, seniors, and graduate students pursuing a career in software development. You will work on-site at the EROS Center near Sioux Falls, South Dakota, and gain real-world experience in software engineering. Candidate must have three years of continuous residency in the U.S. for issuance of a Government Security credential.Why You’ll Love This Role• Work on meaningful projects that support Earth science and sustainability• Collaborate with experienced engineers and mentors who are passionate about innovation• Gain hands-on experience with cutting-edge technologies in software development• Be part of a team that values curiosity, creativity, and continuous learningWhat You’ll Gain• Practical experience with modern software development tools and methodologies• Exposure to cloud technologies and data systems• Mentorship from experienced engineers and opportunities for professional growth• Insight into government contracting and mission-critical IT operationsCore Responsibilities• Design and implement tasks required in the development of software products• Communicate and coordinate activities and technical status with your mentor, supervisor, Project Lead, and other team members• Ensure all software activities are conducted in accordance with standards and best practices• Support software planning including requirements definition, activity identification, and estimating• Perform and document preliminary and detailed design of software components• Implement software from detailed designs• Develop and conduct software testing• Document the testing effort through generation of test plans, procedures, and reports• Submit, analyze, and manage configuration change requests in accordance with CM processes• Participate in code reviewsEducation & Skills• Working towards a Bachelor’s degree in Computer Science, Math, Engineering, or equivalentRequired Skills• Excellent interpersonal, organizational, and communication skills• Ability to work independently as well as part of a team• Knowledge of the Software Development Life Cycle• Experience using Python and C/C++• Experience interfacing with database systems• Unix/Linux experienceDesired SkillsThis internship is designed to help you learn. Prior experience in all skills is not expected.• Postgres experience• Experience with remote sensing, digital image/signal processing techniques, and basic geography concepts such as map projections• Experience with AWS Cloud Services (S3, EC2, EKS, ECR, Lambda)• Experience with CI/CD• Experience with Infrastructure as Code• Experience with Artificial Intelligence for software code generation and documentationSpecial RequirementsThree years of continuous residency in the US for issuance of a Government Security credential. The candidate must be able to obtain and maintain a national agency check and background investigation after hiring to obtain a badge for government facility access and user account.Experience and/or education in lieu of these qualifications will be reviewed for applicability.KBR partners with several other companies to fulfill its requirements as a government contractor. The selected subcontracting companies align their benefits as closely as possible to those above.KBR CultureAt KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.KBR BenefitsKBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.Click here to learn more: KBR Benefits#LI-EM2Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company.  That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
-      "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2117627",
-      "job_posted_at_datetime_utc": "2026-01-15T23:30:46.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kbr-software-engineer-intern-sioux-falls",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "GTM Engineering Intern",
-      "employer_name": "MongoDB",
-      "job_city": "Palo Alto",
-      "job_state": "CA",
-      "job_description": "Join MongoDB in this exciting opportunity.",
-      "job_apply_link": "https://www.mongodb.com/careers/job/?gh_jid=7335935",
-      "job_posted_at_datetime_utc": "2026-01-15T23:30:09.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "mongodb-gtm-engineering-intern-palo-alto",
-      "description_platform": "generic",
-      "description_success": false
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "IT Intern – Data Engineering",
-      "employer_name": "Webster Bank",
-      "job_city": "Stamford",
-      "job_state": "CT",
-      "job_description": "If you’re looking for a meaningful career, you’ll find it here at Webster. Founded in 1935, our focus has always been to put people first--doing whatever we can to help individuals, families, businesses and our colleagues achieve their financial goals. As a leading commercial bank, we remain passionate about serving our clients and supporting our communities. Integrity, Collaboration, Accountability, Agility, Respect, Excellence are Webster’s values, these set us apart as a bank and as an employer.  Come join our team where you can expand your career potential, benefit from our robust development opportunities, and enjoy meaningful work!Data Engineering InternIf you're looking for an exciting opportunity to gain real-world work experience, Webster Bank's internship program delivers! High performing students entering their junior or senior year of undergraduate studies will have the opportunity to work side-by-side with Webster/HSA colleagues to gain valuable experience, knowledge, and skills. This internship program is designed to create a pipeline of candidates who may become Webster’s next generation of leaders.As an intern at Webster Bank/HSA Bank, you will experience an unforgettable summer of learning, networking, and fun, while gaining valuable experience that directly complements classroom studies. Every internship opportunity is structured to provide you with a meaningful experience, broad exposure to our corporate functions, and opportunities for mentorship and networking. Webster's internship will be demanding & rewarding, and prepare you for your career ahead.  Summer Intern Program duration: June 1 – August 7, 2026.IT Summer Internship – Data EngineeringParticipate in systems analysis and design working sessions.Develop data flow diagrams based on understanding of systems.Work with the teams to gather details on new system design and data integration processes.Analyze data sets to identify patterns and insights.Perform basic python programming for processing data sets.Work with teams across the org to fulfil ad hoc process/report requests.Write SQL statements to extract data for reportingLocation:  Stamford, CTParticipation Benefits Include:Networking and social events with other internsOpportunities to meet with business professionals, leaders and early career professionalsMentor assigned to help guide your experience at Webster Bank/HSA BankFuture opportunities to interview for full-time positions post-graduationEducation, Skills, and Experience Requirements for Interns:Current undergraduate rising Junior or Senior enrolled in an accredited college or university who is pursuing a degree in related field and has an interest in the banking/financial services industryResourceful, enthusiastic, and proactiveHighly organizedDemonstrated strong attention to detailExperience creating and delivering presentationsStrong written and verbal communication skillsSelf-motivated with a strong work ethicAbility to learn quickly and solve problemsStrong analytical skillsCollaborative and inclusive team playerProficient in Word, Excel, PowerPointLegally eligible to work in the U.S.The estimated hourly range for this position is $21.00/hour USD to $23.00/hour USD. Actual salary may vary up or down depending on job-related factors which may include knowledge, skills, experience, and location.#LI-FO1#LI-HybridWebster Financial Corporation and its subsidiaries (“Webster”) are equal opportunity employers that are committed to sustaining an inclusive environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, marital status, national origin, ancestry, citizenship, sex, sexual orientation, gender identity and/or expression, physical or mental disability, protected veteran status, or any other characteristic protected by law.",
-      "job_apply_link": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/CT-Stamford-HQ/IT-Intern---Data-Engineering_R26_0000000041",
-      "job_posted_at_datetime_utc": "2026-01-15T23:27:05.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "webster-bank-it-intern-data-engineering-stamford",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
-      "job_title": "Intern - EUV Light Technologies",
-      "employer_name": "ASML",
-      "job_city": "San Diego",
-      "job_state": "CA",
-      "job_description": "IntroductionASML US, LP brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. As the world’s leading semiconductor lithography machine (the machine that makes computer chips) manufacturer, ASML enables chip manufacturers to make cheaper, faster chips, thereby enabling all the technology you use today. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ, San Jose, CA and San Diego, CA. We are currently recruiting for internships located at our office in San Diego, CA (EUV laser source creation).  This internship offers a unique and exciting opportunity to join a dynamic and innovative Technology Development team, focused on conceiving and demonstrating the technologies required for next generations of high-power extreme ultraviolet (EUV) light sources. The EUV source technology development team is responsible for identifying system-level operating points for stable EUV production generated from laser produced plasmas and helps to chart the path to  increase EUV power to meet the future needs of the Lithography industry. If you like extreme challenges and want to help bring the next generation of technology to the world, then start your adventure and join ASML.Internship Goals and Objectives:We are looking for an enthusiastic and curious intern to support various research and technology development activities, including data analysis and visualization, modeling and test execution.Your AssignmentThe summer 2026 project will focus on research topics around simulations of EUV-generating laser-produced plasmas (LPPs) by enhancing existing models, executing such for various input conditions, and post processing the output data.The intern is expected to drive infrastructure set-up for radiation hydrodynamics and atomic emission codes, develop a workflow for running simulations and post-processing simulation outputs, and connect these codes to existing models.The intern will work in a team environment alongside experienced engineers and scientists, while having ownership over their project.Specific tasks will be tailored to match the education and experience level of the intern as well as the intern’s learning objectives for the summer.A goal of the internship is for you to learn about working in a corporate setting and to provide hands on experience solving real world problems in a team environment.Interns will typically be required to document and present their findings as well as making an end of summer presentation to the group about what they achieved during their internship.Your Profile:Actively studying towards a degree in Physics, Optics, Engineering, or computer science with a minimum of two years completed.Matlab and/or Python experience, modelling skills, C++ experience is a plus.Background in light-matter interaction or plasma physics strongly preferred.Possess strong ownership characteristics and commitment to achieving results on timeHave strong written and oral communicative skillsBe a demonstrated “team player” with a quality orientation and interpersonal skillsHave strong problem solving skills and the ability to take initiative with little guidanceBe willing to accept feedback from a variety of stakeholdersThe current base annual salary range for this role is currently $18.00  -  $56.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
-      "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Light-Technologies_J-00331949",
-      "job_posted_at_datetime_utc": "2026-01-15T23:26:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "asml-intern-euv-light-technologies-san-diego",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": "2026-01-16T07:54:55.900Z"
-  },
-  {
-    "job": {
       "job_title": "AI Insights Innovator - Graduate Level",
       "employer_name": "AstraZeneca",
       "job_city": "Gaithersburg",
@@ -854,10 +674,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:43:19.334Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -914,10 +734,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -934,10 +754,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -954,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -974,10 +794,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -994,10 +814,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -1014,10 +834,10 @@
       "description_platform": "taleo",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-16T00:43:43.687Z",
     "enrichedAt": "2026-01-16T07:54:07.928Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T08:04:45.097Z"
   },
   {
     "job": {
@@ -1045,16 +865,18 @@
       "employer_name": "Nutanix",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join Nutanix in this exciting opportunity.",
+      "job_description": "Hungry, Humble, Honest, with Heart.Digital Transformation Analyst Intern The OpportunityAre you an analytical thinker passionate about process optimization and digital transformation, eager to make a tangible impact in a dynamic tech environment? If so, joining our Digital Workplace Experience team as an IT Business Process Intern will provide you with the invaluable opportunity to enhance core IT processes, work alongside industry leaders, and gain hands-on experience in consulting and automation strategies, all while directly benefiting from our mission to support Nutanix employees and contribute to our broader organizational goals. About the TeamDigital Workplace experience team comprises IT Applications, End User Computing, Unified Communications, Service Management, Software Asset Management, and the Global Operations team. This team is a critical internal support function within Nutanix. While the team has an indirect impact on external Nutanix customers, its core mission is to provide direct support to employees worldwide. The team manages a wide variety of essential functions, including providing and managing employee-facing applications (such as Zoom, Microsoft Office, and Slack), managing and delivering employee laptops using internal tools, deploying technology in conference rooms across Nutanix offices, and overseeing help desk employees at various sites.The team is widely distributed geographically, spanning across the US, EMEA, APAC, and India. The team operates with a mix of hybrid and remote employees. The average tenure for team members is relatively high, standing at around four years or more. The work culture is outcome-driven, which is how the hiring manager describes their own management style. When working with the hiring manager, interns can expect daily 15-minute syncs. Your RoleAnalyze and document current core IT processes related to IT operations.Identify optimization opportunities and propose new digital transformation workflows to reduce costs and improve efficiency.Identify how AI and Automations can be leveraged in the proposed workflows.Develop detailed process maps and write business justification proposals for significant process changes.Collaborate with team members in daily syncs to align on project objectives and share progress updates.Engage in change management initiatives, providing insights on the impact of proposed process changes on employees.Present final proposals and documented automation workflows to leadership and Subject Matter Experts (SMEs). What You Will BringApplicants must be authorized to work in the US without requiring current or future sponsorship for an employment visa, such as an F-1, H-1B, or TN visa.Currently pursuing or recently completed a degree in Business Administration, Information Technology, or a related field.Strong analytical skills with experience in data analysis and process documentation.Familiarity with IT Tools and technologies related to collaboration, communication, and data analysis.Familiarity with process mapping and modeling methodologies.Knowledge of digital transformation concepts and cost optimization strategies.Excellent communication skills, with the ability to present proposals effectively.Proactive, self-motivated, and able to work collaboratively in a distributed team environment. Work ArrangementHybrid: This role operates in a hybrid capacity, blending the benefits of remote work with the advantages of in-person collaboration. In locations where our workplace policy applies (i.e., San Jose, Durham, Mexico City, Bangalore, Pune, Hoofddorp, Belgrade, Barcelona, Singapore, Sydney, and Tokyo), employees are expected to work onsite a minimum of 3 days per week to foster collaboration, team alignment, and access to in-office resources. Workplace type may vary based on location and team requirements. Please speak with your recruiter for details. Additional team-specific guidance and norms will be provided by your manager. The pay range for this position at commencement of employment is expected to be between USD $ 26 and USD $ 36 per hour.However, base pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements, including a sign-on bonus, restricted stock units, and discretionary awards in addition to a full range of medical, financial, and/or other benefits (including 401(k) eligibility and various paid time off benefits, such as vacation, sick time, and parental leave), dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.If hired, employee will be in an “at-will position” and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation program) at any time, including for reasons related to individual performance, Company or individual department/team performance, and market factors. Our application deadline is 40 days from the date of posting. In good faith, the posting may be removed prior to this date if the position is filled or extended in good faith. --",
       "job_apply_link": "https://jobs.jobvite.com/nutanix/job/om7QyfwB?nl=1&nl=1&fr=false",
       "job_posted_at_datetime_utc": "2026-01-15T23:10:20.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "nutanix-digital-transformation-analyst-san-jose"
+      "id": "nutanix-digital-transformation-analyst-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1063,16 +885,18 @@
       "employer_name": "Sikich",
       "job_city": "Marlborough",
       "job_state": "MA",
-      "job_description": "Join Sikich in this exciting opportunity.",
+      "job_description": "Description NetSuite Data Science/AI Intern (US - Boston) What to expect when you join Sikich Team members at Sikich have a lot in common while also being part of a rich and varied group of contributors, creating a distinct and thriving culture. Chief among our commonalities is a desire for growth and a shared unity of purpose in our professional lives. We believe that through diverse perspectives, challenging the status quo and rewarding action, we accelerate innovation and drive growth – for our clients, for ourselves and for our communities. The professional services landscape continues to evolve. For Sikich, this means we have an opportunity to further cement our leadership position in this industry and continue to grow our organization in increasingly exciting ways. This growth is meaningful for every team member at our company because larger companies simply see more interesting client opportunities and can attract impressively talented individuals like you. Through a dedicated focus on key business priorities and intentionally creating a rewarding employee experience, Sikich has developed into a highly regarded provider of professional services and a sought-after employer of choice.Do you want to work with other skilled and agile practitioners who thrive on challenge and growth? We believe everyone has untapped potential. That’s why we lead with vision and act fast, pairing deep expertise with practical solutions. Our teams cut through complexity and deliver real impact. It's our hope that you find more than just a job. At Sikich, you'll find optimism, clear insights and genuine warmth, without egos. Are you ready to grow with us? Position Summary We are seeking a motivated Intern, passionate about AI, to join our NetSuite Implementation Practice. In this role, you will collaborate with experienced consultants and technologists to develop and deploy AI-driven solutions that enhance the effectiveness, efficiency, and intelligence of our NetSuite implementations for clients across industries. What will you do in this role? Design, prototype, and test machine learning models to automate data migration, optimize business processes, and generate actionable insights from client data.Assist in building AI tools for data cleansing, predictive analytics, anomaly detection, and workflow optimization within the NetSuite ecosystem.Collaborate cross-functionally to translate business requirements into technical solutions using Python, SQL, and cloud-based AI services.Work with our NetSuite consultants to identify opportunities for AI integration within ERP workflows and processes.Partner with consultants to test AI tools in real client scenarios and gather feedback on effectivenessCreate templates and prompts and present to consulting teamDocument methodologies, results, and best practices for knowledge sharing and continuous improvement.What do you need to succeed in this role? Currently enrolled in an undergraduate or graduate program in a Data Science, Computer Science, Business Analytics/ Information systems, or a related field Experience using industry leading LLMs such as ChatGPT, Claude or Gemini. Understanding of machine learning concepts, algorithms, and data analysis techniques.Experience with Python or similar programming languages; familiarity with data visualization libraries is a plus.Knowledge of SQL and relational databases; exposure to ERP systems (especially NetSuite) is a plus but not required.Strong analytical, problem-solving, and communication skills.Enthusiasm for learning new technologies an In addition, specific skills/experience required are as follows: Values driven – You embody and model absolute integrity and servant leadership and you have a bias for action and continuous innovation. Uncompromising problem solver – You see opportunities in every business challenge and can develop, articulate and implement solutions. Collaboration – You are a relationship builder across all levels of the organization and across all business units. Instills trust – You do what you say, without ego, and you follow through on commitments consistently and credibly. Impact & influence – You are relentlessly focused on making a difference and can gain support for ideas, proposals and solutions. You get others to act, with or without formal authority, to advance initiatives and objectives. About Sikich Sikich offers the public and private sectors a diverse platform of professional services across consulting, technology and compliance. Highly specialized and hands-on teams deliver integrated solutions rooted in deep industry experience. Our approach is strategically and thoughtfully designed to help our clients, teams and communities accelerate success. Sikich has approximately 2,000 team members and operates across North America, EMEA and APAC. Sikich Total Rewards Our team members enjoy expansive benefits ranging from competitive compensation and insurance options to wellness programs and a flexible time off policy, to name only a few. Sikich also takes pride in prioritizing team members’ health, total wellbeing and time spent with family, friends and in the pursuit of personal goals, hobbies, and endeavors. Some examples of our many benefits: Sikich maintains a Flexible Time Off (FTO) Policy. We encourage every full-time employee, as your role permits, to utilize paid time off (personal time, mental/physical health care, vacation, sick leave, etc.). Waiting for time off to accrue is common at other companies. At Sikich, you do not have to wait for this benefit to kick in. FTO is activated on your first day with our organization.Sikich will also recognize paid holidays during the year and strives to permit employees to have time off the last week of the calendar year when client and project work permits. Sikich offers a comprehensive wellness program to engage, challenge and empower team members to take responsibility for their wellbeing. Activities can be tracked through our wellness provider to obtain gift cards and other rewards.We also offer:Flexible work arrangementsHealth, dental, vision, life, and accident/death/disability insurance optionsHSA employer contributionNine (9) paid holidays annually.A robust paid Parental Bonding Leave program covering birth, adoption, and foster children. 401(k) with employer contributionsCPA bonus with four (4) paid exam days & four (4) paid study days.Tuition reimbursementGenerous employee referral bonus programClient referral bonus programPet insuranceFORCE – Sikich community volunteer program enabling each team member to use up to four hours of paid time annually to volunteer and make a difference in their local communities. Want to learn more? Visit our Careers website or Glassdoor profile. Sikich is an Equal Opportunity Employer M/F/D/V Sikich currently practices in an alternative practice structure in accordance with the AICPA Professional Code of Conduct and applicable law, regulations, and professional standards. Sikich CPA LLC is a licensed CPA firm that provides audit and attest services to its clients. Sikich LLC has a contractual arrangement with Sikich CPA LLC under which Sikich LLC provides Sikich CPA LLC with professional and support personnel and other services to support Sikich CPA LLC’s performance of its professional services, and Sikich CPA LLC shares certain client information with Sikich LLC with respect to the provision of such services.",
       "job_apply_link": "https://jobs.jobvite.com/sikichcareers/job/oTejzfwJ?nl=1&nl=1&fr=false",
       "job_posted_at_datetime_utc": "2026-01-15T23:09:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "sikich-netsuite-data-science-ai-intern-marlborough"
+      "id": "sikich-netsuite-data-science-ai-intern-marlborough",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1081,16 +905,18 @@
       "employer_name": "Legrand",
       "job_city": "Ardmore",
       "job_state": "PA",
-      "job_description": "Join Legrand in this exciting opportunity.",
+      "job_description": "<h2>Position Description</h2> <p><strong>At&nbsp;a Glance</strong></p> <p>&nbsp;</p> <p><strong>Legrand&nbsp;</strong>has an exciting opportunity for a <strong>Operations Engineering Intern</strong> to join the <strong>Electrical Wiring Systems&nbsp;Team</strong> in <strong>Mascoutah, IL</strong>. The Operations Engineering Intern will develop, implement, maintain, and improve manufacturing/ Logistics processes required to meet the needs of the operation for both existing and new processes. Assure processes support organizational goals for safety, quality, delivery, inventory, and cost.</p> <p>&nbsp;</p> <p><strong>What Will You Do?</strong></p> <ul> <li>Develop new, or improve existing, standard work for Production and Logistics operations.</li> <li>Under supervision, utilize Lean manufacturing tools, such as Single-Piece Flow, 5-S, Visual Management Systems and Set Up Reductions.</li> <li>Analyze production and logistics processes, and work with the management team to improve and standardize those processes.</li> <li>Update existing standardize work to match latest changes.</li> <li>Support plant safety culture with continuous improvement activities that will result in reduction of potential injuries.</li> <li>Develop and implement appropriate metrics to measure and monitor plant's continuous improvement efforts.</li> <li>Performs technical assignments of simple to moderate complexity under supervision.</li> <li>Working independently or in a group setting as needed based on the assigned project.</li> </ul> <h2>Qualifications</h2> <p><strong>Education:</strong> Pursuing a BS degree in Engineering (Mechanical/Manufacturing, Industrial or equivalent)</p> <p>&nbsp;</p> <p><strong>Preferred Skills:</strong></p> <ul> <li>Knowledge of manufacturing and distribution processes.</li> <li>Commitment to health and safety standards.</li> <li>Working knowledge of Microsoft Word, Excel, Outlook and PowerPoint</li> <li>Project management skills and Problem-solving ability</li> <li>Understanding of lean manufacturing tools and concepts</li> <li>Teamwork skills</li> </ul> <h2>Company Info</h2> <p><strong>About Legrand</strong></p> <p>Legrand is the global specialist in electrical and digital building infrastructures. Our comprehensive offering of solutions for residential, commercial, and data center markets makes us a benchmark for customers worldwide. We harness technological and societal trends with lasting impacts on buildings with the purpose of improving life by transforming the spaces where people live, work, and meet with electrical and digital infrastructures and connected solutions that are simple, innovative, and sustainable. Legrand is a global, publicly traded company listed on the Euronext (Legrand SA EPA: LR). For more information, visit www.legrandgroup.com/en</p> <p>&nbsp;</p> <p><strong>About Legrand North and Central America</strong></p> <p>Legrand, North &amp; Central America (LNCA) is a leader in the AV, Lighting &amp; Controls, Electrical, and Data Center markets. LNCA offers comprehensive medical, dental, and vision coverage, as well as distinctive benefits like a high employer 401K match, paid time off (PTO) and holiday pay, short-term and long-term disability benefit plans, above-benchmark paid maternity and parental leave, bonus opportunities in accordance with the Company’s incentive plans, paid time off to volunteer, and an active/growing Employee Resource Group network. For more information, visit legrand.us&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p><strong>About Legrand’s Electrical Wiring Systems Division</strong></p> <p>Legrand’s Electrical Wiring Systems (EWS) division provides the most complete line of residential, commercial, and industrial electrical wiring devices in the world.&nbsp; Through commitment to innovation and quality, EWS maintains the position of industry leader in wire and cable management and wiring devices categories, specializing in raceways, flexible floor, open space and outdoor power solutions, wire mesh cable trays and systems, and designer switches and outlets. With this comprehensive offering, EWS serves a range of exciting vertical markets, including commercial office and commercial interior, data centers, education, healthcare, hospitality, manufacturing, mixed-use developments and residential.&nbsp; For more information, visit&nbsp;legrand.us/electrical wiring devices<strong>&nbsp;</strong>&nbsp;</p> <p>&nbsp;</p> <p>&nbsp;</p> <p>http://www.legrand.us</p> <p>http://www.youtube.com/legrandna</p> <p>http://www.linkedin.com/company/44580</p> <p>http://twitter.com/legrandNA</p> <p>&nbsp;</p> <p>Equal Opportunity Employer</p>",
       "job_apply_link": "https://jobs-legrand.icims.com/jobs/9594/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-11T12:07:19.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "legrand-operations-engineering-intern-ardmore"
+      "id": "legrand-operations-engineering-intern-ardmore",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1099,16 +925,18 @@
       "employer_name": "WEC Energy Group",
       "job_city": "Milwaukee",
       "job_state": "WI",
-      "job_description": "Join WEC Energy Group in this exciting opportunity.",
+      "job_description": "We Energies, a subsidiary of WEC Energy Group, is seeking a Power Generation Data Analyst Intern in our Milwaukee, Wisconsin location. WEC Energy Group is seeking a Data Analyst Intern starting May 2025. This position is located in Milwaukee, Wisconsin within the Operational Excellence and Innovation Task Force. This position offers flexibility for a hybrid work arrangement (remote/on-site) with time spent in the office. The starting hourly rate for this position is $22.00 with paid company holidays. This internship is full-time during the Summer of 2026 with the potential to work part-time during the fall/school year. About Us WEC Energy Group is one of the nation’s largest electric generation and distribution and natural gas delivery holding companies serving 4.7 million customers across the Midwest. We are committed to providing clean, reliable, and affordable energy in an environmentally sustainable manner. Customers are the heart of our business, and we work every day to help grow and support communities where we provide vital energy services. As a Fortune 500 company, we value and develop our employees who are making a difference in a mission that matters. We don’t just offer a job; we provide fulfilling careers where safety and well-being are paramount. Join our team and experience first-hand our commitment to your success. We offer competitive pay and benefits to recognize your hard work and dedication. If you’re talented, energetic and ready for a career with a future, we want you on our team. We are powered by a diverse and inclusive workforce fueled by the pride in what we do. If you're driven by the passion to change lives, this is the place for you.Job Summary Energize your career in a progressive work environment through our intern program, which gives you a chance to gain professional experience while enrolled in college, along with competitive pay. Join the Operational Excellence and Innovation Task Force to work on initiatives across WEC Energy Group that drive continuous improvement in our operations and centralized business processes. Learn about aspects of field operations, electric and gas distribution, power generation, customer service, supply chain and more. Use your data science and data analysis skills to help the team discover and analyze opportunities and make them a reality. Help the team make data driven decisions and visualize data and metrics to improve operations and effectiveness. Work on innovative solutions that drive efficiency, effectiveness and ease in our business. Job Responsibilities Some or all of the below based on the candidate’s background/skills: Perform data collection, data mining, data cleaning, ETL, and organization of data from a variety of sources including relational databases Perform data analysis and potentially data engineering Help develop data visualizations, metrics and live dashboard Potentially create new ways for operations to collect, analyze, display and use data Collaborate with team members, IT and various work groups as needed Alternate between remote and office work as needed (hybrid setting) Minimum Qualifications High School Diploma, GED, or HSED Current pursuit of a Bachelor’s degree or higher in Data Science, Data Analytics or related degree with a graduation date after June 2026. Minimum GPA of 2.8 Preferred Qualifications Experience working in a hybrid setting Experience with SQL, Python Experience with Power BI Experience writing code, programs, and/or algorithms End Date: 03/13/2026 Pay Range Minimum: $22.00 Pay Range Maximum: $26.24 The pay range reflects the minimum and maximum for the position at the time of posting and may be modified in the future. The starting salary/pay within the pay range will be based on several factors, as applicable, but not limited to, relevant education, qualifications, certifications, experience, skills, geographic location, shift, travel requirements, collective bargaining agreements, and business and organizational needs. At WEC Energy Group, it is not typical for an individual to be hired at or near the top of the range for their role. WEC Energy Group benefits We reserve the right to modify the application deadline or discontinue accepting applications for any position if deemed necessary. Applications will be reviewed on a rolling basis, with interviews commencing after submission for qualified candidates. Learn more at Careers Legal authorization to work in the United States is required. We will not sponsor for Employment visas, now or in the future, for this job opening. WEC Energy Group and its subsidiaries are Equal Opportunity Employers. As a result, all qualified applicants will receive equal employment opportunity without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status or any other protected status. The Company also complies with all applicable federal, state and local laws that require it to take affirmative action. EEO/AA policies and statements",
       "job_apply_link": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
       "job_posted_at_datetime_utc": "2025-08-19T17:39:55.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "wec-energy-power-generation-data-analyst-intern-milwaukee"
+      "id": "wec-energy-power-generation-data-analyst-intern-milwaukee",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1117,16 +945,18 @@
       "employer_name": "Clorox",
       "job_city": "Olathe",
       "job_state": "KS",
-      "job_description": "Join Clorox in this exciting opportunity.",
+      "job_description": "Clorox is the place that’s committed to growth – for our people and our brands. Guided by our purpose and values, and with people at the center of everything we do, we believe every one of us can make a positive impact on consumers, communities, and teammates. Join our team. #CloroxIsThePlace Your role at Clorox: We are looking for a Data Analytics Intern to support our manufacturing operations by analyzing production data, identifying trends, and providing actionable insights to improve efficiency, quality, and cost performance. This role will work closely with operations, quality, and supply chain teams to leverage data for continuous improvement. Schedule: Flexible Part-time days specific hours would be discussed and agreed upon when offered to candidate Hourly Compensation $20 per hour In this role, you will: · Collect, clean, and organize data from production systems, ERP, and quality control databases. · Analyze manufacturing KPIs such as throughput, downtime, scrap rates, and cycle times. · Develop dashboards and reports using tools like Excel, Power BI, or Tableau to monitor plant performance. · Assist in root cause analysis for production issues using statistical methods. · Support predictive analytics projects (e.g., machine maintenance, demand forecasting). · Document findings and present insights to operations and leadership teams. What we look for: · Currently pursuing a degree in Data Analytics, Industrial Engineering, Statistics, Computer Science, or related field. · Basic knowledge of SQL, Python, or R for data manipulation and analysis. · Familiarity with data visualization tools (Power BI, Tableau, or similar). · Strong analytical and problem-solving skills with attention to detail. · Ability to work collaboratively in a fast-paced manufacturing environment. Preferred Skills · Understanding of Lean Manufacturing and Six Sigma principles. · Experience with ERP systems (SAP, Oracle, or similar). · Knowledge of manufacturing processes and operational KPIs. Benefits · Hands-on experience with real production data and continuous improvement projects. · Exposure to advanced analytics in a manufacturing setting. · Mentorship from experienced operations and data professionals. Our values-based culture connects to our purpose and empowers people to be their best, professionally and personally. We serve a diverse consumer base which is why we believe teams that reflect our consumers bring fresh perspectives, drive innovation, and help us stay attuned to the world around us. That’s why we foster an inclusive culture where every person can feel respected, valued, and fully able to participate, and ultimately able to thrive. Learn more. Benefits we offer to help you be well and thrive: Competitive compensation Generous 401(k) program in the US and similar programs in international Health benefits and programs that support both your physical and mental well-being Flexible work environment, depending on your role Meaningful opportunities to keep learning and growing Half-day Fridays, depending on your location Please apply directly to our job postings and do not submit your resume to any person via text message. Clorox does not conduct text-based interviews and encourages you to be cautious of anyone posing as a Clorox recruiter via unsolicited texts during these uncertain times. To all recruitment agencies: Clorox (and its brand families) does not accept agency resumes. Please do not forward resumes to Clorox employees, including any members of our leadership team. Clorox is not responsible for any fees related to unsolicited resumes. Who we are. We champion people to be well and thrive every single day. We’re proud to be in every corner of homes, schools, and offices—making daily life simpler and easier through our beloved brands. Working with us, you’ll join a team of passionate problem solvers and relentless innovators fueled by curiosity, growth, and progress. We relish taking on new, interesting challenges that allow our people to collaborate and thrive at work. And most importantly, we care about each other as multifaceted, whole humans. Join us as we reimagine what’s possible and work with purpose to make a difference in the world. This is the place where doing the right thing matters. Doing the right thing is the compass that guides every decision we make—and we’re proud to be globally recognized and awarded for our continuous corporate responsibility efforts. Clorox is a signatory of the United Nations Global Compact and the Ellen MacArthur Foundation's New Plastics Economy Global Commitment. The Clorox Company and its Foundation prioritize giving back to the communities we call home and contribute millions annually in combined cash grants, product donations, and cause-marketing. For more information, visit TheCloroxCompany.com and follow us on social media at @CloroxCo. Our commitment to diversity, inclusion, and equal employment opportunity. We seek out and celebrate diverse backgrounds and experiences. We’re always looking for fresh perspectives, a desire to bring your best, and a nonstop drive to keep growing and learning. Learn more about our Inclusion, Diversity, Equity, and Allyship (IDEA) journey here. The Clorox Company and its subsidiaries are an EEO/AA/Minorities/Women/LGBT/Protected Veteran/Disabled employer. Learn more to Know Your Rights. Clorox is committed to providing reasonable accommodations for qualified applicants with disabilities and disabled veterans during the hiring and interview process. If you need assistance or accommodations due to a disability, please contact us at people@clorox.com. Please note: this inbox is reserved for individuals with disabilities in need of assistance and is not a means of inquiry about positions/application statuses.",
       "job_apply_link": "https://wd1.myworkdaysite.com/recruiting/clorox/Clorox/job/Spring-Hill-KS---USA/Data-Analytics-Intern--Part-time-days-_20760",
       "job_posted_at_datetime_utc": "2026-01-15T23:46:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "clorox-data-analytics-intern-part-time-days-olathe"
+      "id": "clorox-data-analytics-intern-part-time-days-olathe",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T02:50:02.986Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1135,16 +965,18 @@
       "employer_name": "General Dynamics Mission Systems",
       "job_city": "Pittsfield",
       "job_state": "MA",
-      "job_description": "Join General Dynamics Mission Systems in this exciting opportunity.",
+      "job_description": "<h2>Basic Qualifications </h2> <p>Candidates should demonstrate a thorough understanding of engineering technology.&nbsp; Engineering Interns must be enrolled in an accredited degree program in Computer Engineering, Systems Engineering, Software Engineering, Electrical Engineering, Mechanical Engineering or other related scientific or technical discipline with a preference for a standing of a sophomore or higher.&nbsp;&nbsp;</p> <p>&nbsp;</p> <p>Due to the nature of work performed within our facilities, U.S. citizenship is required.</p> <h2>Responsibilities for this Position</h2> <p><strong>REPRESENTATIVE DUTIES AND TASKS:</strong></p> <p>&nbsp;</p> <p>Apply your classroom-learned skills to a program supporting the defense of our country. GDMS has an immediate opening for a Configuration Management Intern to join our team. The position provides an opportunity to work on projects that support some of our nation’s fundamental defense services. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p> <p>&nbsp;</p> <p>The selected candidate will work with collaborative teams on various technical projects associated with our core mission. In addition to receiving a competitive wage, the Configuration Management Intern will enhance their skill set by working among a talented and technically accomplished group of colleagues. Interns will also enjoy a flexible work environment where contributions are recognized and rewarded.&nbsp; Come join our team and:</p> <p>&nbsp;</p> <ul> <li>Assist in the development and implementation of configuration and data management policies, procedures, and tools.</li> <li>Support the identification, control, and tracking of configuration items (CIs) and related documentation.</li> <li>Help maintain accurate records of configuration changes, including version control and change history.</li> <li>Collaborate with cross-functional teams to ensure data integrity and consistency throughout the project lifecycle.</li> <li>Participate in configuration control board (CCB) meetings, documenting decisions and tracking action items.</li> <li>Perform data entry and updates in configuration and data management databases and tools.</li> <li>Assist in the preparation and maintenance of configuration management plans, reports, and audits.</li> <li>Contribute to process improvement initiatives to enhance the efficiency and effectiveness of configuration and data management activities.</li> </ul> <p><strong>DETAILED QUALIFICATIONS:</strong></p> <p>&nbsp;</p> <ul> <li>Strong attention to detail and organizational skills.</li> <li>Excellent written and verbal communication skills.</li> <li>Ability to work both independently and as part of a team.</li> <li>Proficiency with Microsoft Office Suite (Word, Excel, PowerPoint).</li> <li>Basic understanding of configuration and data management principles and practices is a plus.</li> <li>Experience with configuration and data management tools and software (e.g., Git, EWM, Windchill, JIRA, Confluence) is desirable but not required.</li> </ul> <p><strong>BENEFITS:</strong></p> <p>&nbsp;</p> <ul> <li>Gain practical experience in configuration and data management within a leading defense and aerospace company.</li> <li>Work on real-world projects and contribute to the success of the organization.</li> <li>Mentorship and guidance from experienced professionals in the field.</li> <li>Potential for future career opportunities within General Dynamics Mission Systems.</li> </ul> <p>&nbsp;</p> <h2>Salary Note</h2>This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. <h2>Combined Salary Range</h2>USD $22.00 - USD $24.00 /Yr. <h2>Company Overview</h2> <p>General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 12,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high-performance team!</p> <p>Equal Opportunity Employer / Individuals with Disabilities / Protected Veterans</p>",
       "job_apply_link": "https://careers-gdms.icims.com/jobs/69533/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2026-01-15T23:25:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "general-dynamics-mission-configuration-management-intern-engineer-pittsfield"
+      "id": "general-dynamics-mission-configuration-management-intern-engineer-pittsfield",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T02:50:02.986Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1158,11 +990,13 @@
       "job_posted_at_datetime_utc": "2026-01-15T23:21:08.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "antora-energy-heat-to-power-characterization-intern-thermophotovoltaic-high-temperature-systems-san-jose"
+      "id": "antora-energy-heat-to-power-characterization-intern-thermophotovoltaic-high-temperature-systems-san-jose",
+      "description_platform": "greenhouse",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T02:50:02.986Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1171,16 +1005,18 @@
       "employer_name": "Steel Dynamics",
       "job_city": "Remote in USA",
       "job_state": "Locations",
-      "job_description": "Join Steel Dynamics in this exciting opportunity.",
+      "job_description": "<h2>Division</h2>Steel Dynamics <h2>Overview</h2> <p><strong>What Does Steel Dynamics Do?</strong></p> <p>Steel Dynamics is a leading industrial metals solutions company that produces lower-carbon, high-quality steel products primarily from recycled scrap. Operating through a circular manufacturing model, the company manufactures a wide range of steel products including flat roll, structural, and long products for industries such as construction, automotive, energy, and manufacturing. In addition to steel production, Steel Dynamics operates metals recycling facilities, steel fabrication plants, and aluminum production operations, serving customers across North America with a focus on innovation, efficiency, and sustainability.</p> <p>&nbsp;</p> <p><strong>What Makes This Internship Different?</strong>Steel Dynamics’ mechanical engineering internships stand out from those at other companies because they offer a true balance of office-based engineering work and hands-on industrial experience. Interns are not limited to observing from a distance, they actively work alongside operators and maintenance teams on the production floor, applying engineering principles directly to equipment, systems, and processes. This approach allows interns to design solutions, test them in real-world conditions, and see the immediate impact of their work. By combining technical analysis, CAD design, and process improvement projects with practical mechanical maintenance, Steel Dynamics provides interns with a unique opportunity to develop both engineering expertise and practical skills that are highly valued in the industry.</p> <p>&nbsp;</p> <p><strong>Internship Location</strong></p> <p>This internship is located at the Steel Dynamics Butler Flat Roll Division located in Butler, IN, in the Cold Mill Department. This internship will take place during the Summer 2026 term.</p> <p>&nbsp;</p> <p><strong>Internship Benefits</strong></p> <ul> <li><strong>Furnished Housing Free of Cost</strong> <ul> <li>Provided for interns living more than 50 miles from their work site, including essential furnishings to ensure a comfortable stay during the internship.</li> </ul></li> <li><strong>401(k) &amp; Company Match</strong> <ul> <li>Eligibility to participate in the company 401(k) plan with a 10–50% company match that vests immediately.</li> </ul></li> <li><strong>Employee Discounts</strong> <ul> <li>Access to discounts on hotels, vehicles, and other goods and services through Steel Dynamics’ nationwide partner network.</li> </ul></li> <li><strong>Employee Assistance Program</strong> <ul> <li>Up to five free visits per issue, per year for counseling, legal advice, financial guidance, and other daily living resources.</li> </ul></li> <li><strong>Intern Extravaganza</strong> <ul> <li>A two-day event at company headquarters featuring facility tours, networking with company leaders, cultural immersion, and connecting with other interns from across the country.</li> </ul></li> <li><strong>Competitive Pay</strong> <ul> <li>Competitive hourly wages for all internship positions, rewarding the value interns bring to the company.</li> </ul></li> </ul> <p></p> <h2>Responsibilities</h2> <p><strong>What Are My Responsibilities as a Mechanical Engineering Intern at Steel Dynamics?</strong></p> <ul> <li>Support operations and projects using engineering principles in both office and industrial settings</li> <li>Conduct experiments, analyze data, and prepare reports on findings</li> <li>Collaborate with engineers and operations staff to improve processes and resolve issues</li> <li>Identify trends, recommend improvements, and develop trials based on operational needs</li> <li>Work hands-on with mechanical systems and maintenance tasks alongside operators</li> </ul> <h2>Qualifications</h2> <p><strong>What Qualifications Do I Need?</strong></p> <ul> <li><p>Enrolled in a degree program in Mechanical Engineering</p></li> <li><p>GPA of 2.7 or higher preferred</p></li> <li><p>Strong mechanical aptitude with maintenance knowledge</p></li> <li><p>Comfortable performing hands-on work in an industrial environment</p></li> <li><p>Able to communicate and collaborate effectively with operators</p></li> </ul> <p><strong>Examples of Projects Steel Dynamics Mechanical Engineering Interns Have Completed</strong></p> <ul> <li>Analyze and improve water treatment facility components by evaluating pumps, piping systems, filtration units, and energy recovery equipment; conduct system diagnostics, efficiency testing, and CAD modeling for design upgrades; assist in implementing automated monitoring technologies to enhance operational reliability.</li> <li>Replace and redesign scrap car generators to improve power efficiency, including selecting upgraded components, working with vendors, and overseeing installation to minimize downtime and improve energy use.</li> <li>Design and fabricate simplified slag doors using CAD software and collaborate with external fabricators to produce parts; develop and install a custom slag chute to reduce buildup on the melt deck, improving safety and operational flow.</li> <li>Install platform walkways to improve accessibility and operator safety; perform measurements and thermal expansion calculations to ensure structural integrity over time and prevent cracking or misalignment.</li> <li>Build and modify scrap chutes to eliminate recurring clogging issues; identify and address mechanical causes such as chute lip design; research and recommend safer lubricants like liquid graphite to replace hydraulic fluid, reducing fire risk and improving environmental safety.</li> <li>Conduct research and development (R&amp;D) on equipment improvements, such as sourcing and testing new wheels for rotary hearth furnaces, evaluating more accessible designs for machinery components, and collaborating with maintenance teams for installation and testing.</li> <li>Assist in predictive maintenance initiatives by collecting and analyzing vibration, temperature, and performance data on rotating equipment to identify early signs of wear or failure, and recommending corrective actions.</li> <li>Support process optimization projects by monitoring production equipment, identifying bottlenecks, and implementing mechanical adjustments or redesigns to improve throughput and efficiency.</li> <li>Develop tooling and fixtures for maintenance and production teams to improve repair efficiency, reduce changeover time, and enhance operator ergonomics.</li> <li>Collaborate with operations teams to implement mechanical upgrades that improve workplace safety, reduce maintenance downtime, and extend equipment lifespan.</li> </ul> <p><em><strong>Steel Dynamics, Inc., and all affiliated entities are equal opportunity employers.&nbsp;</strong></em></p>",
       "job_apply_link": "https://careers-steeldynamics.icims.com/jobs/6552/job?mobile=true&needsRedirect=false",
       "job_posted_at_datetime_utc": "2025-09-11T17:30:22.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "steel-dynamics-mechanical-engineering-intern-remote-in-usa"
+      "id": "steel-dynamics-mechanical-engineering-intern-remote-in-usa",
+      "description_platform": "icims",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T02:50:02.986Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1189,16 +1025,18 @@
       "employer_name": "ByteDance",
       "job_city": "San Jose",
       "job_state": "CA",
-      "job_description": "Join ByteDance in this exciting opportunity.",
+      "job_description": "View our opening for Research Scientist Intern (Security for AI) - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
       "job_apply_link": "https://jobs.bytedance.com/en/position/7595676762475415861/detail",
       "job_posted_at_datetime_utc": "2026-01-16T02:14:03.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "bytedance-research-scientist-intern-security-for-ai-2026-start-san-jose"
+      "id": "bytedance-research-scientist-intern-security-for-ai-2026-start-san-jose",
+      "description_platform": "generic",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T03:22:54.342Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T08:03:55.733Z",
     "postedAt": null
   },
   {
@@ -1270,6 +1108,24 @@
     },
     "status": "pending",
     "addedAt": "2026-01-16T07:31:36.541Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Business Operations and Analytics Intern - US Market Commercial",
+      "employer_name": "Genmab",
+      "job_city": "Princeton",
+      "job_state": "NJ",
+      "job_description": "Join Genmab in this exciting opportunity.",
+      "job_apply_link": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Business-Operations-and-Analytics-Intern---US-Market-Commercial_R15254-1",
+      "job_posted_at_datetime_utc": "2026-01-16T07:27:51.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "genmab-business-operations-and-analytics-intern-us-market-commercial-princeton"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T08:03:31.143Z",
     "enrichedAt": null,
     "postedAt": null
   }
