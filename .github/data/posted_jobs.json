@@ -1,139 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T00:43:50.190Z",
+  "lastUpdated": "2026-01-16T01:17:54.400Z",
   "jobs": [
-    {
-      "id": "zscaler-api-platform-developer-tooling-intern-san-jose-2026-01-09-1",
-      "jobId": "zscaler-api-platform-developer-tooling-intern-san-jose",
-      "company": "Zscaler",
-      "title": "API Platform & Developer Tooling Intern",
-      "postedToDiscord": "2026-01-09T00:43:50.632Z",
-      "sourceDate": "2026-01-08T23:21:47.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015497007",
-      "discordThreadId": "1458984564981501953",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keysight-machine-learning-phd-intern-calabasas-2026-01-09-1",
-      "jobId": "keysight-machine-learning-phd-intern-calabasas",
-      "company": "Keysight Technologies",
-      "title": "Machine Learning PhD Intern",
-      "postedToDiscord": "2026-01-09T00:43:57.048Z",
-      "sourceDate": "2026-01-08T23:35:12.000Z",
-      "sourceUrl": "https://jobs.keysight.com/jobs/50018?lang=en-us&icims=1",
-      "discordThreadId": "1458984593804759172",
-      "instanceNumber": 1
-    },
-    {
-      "id": "keysight-machine-learning-architecture-systems-phd-intern-calabasas-2026-01-09-1",
-      "jobId": "keysight-machine-learning-architecture-systems-phd-intern-calabasas",
-      "company": "Keysight Technologies",
-      "title": "Machine Learning Architecture Systems-PhD Intern",
-      "postedToDiscord": "2026-01-09T00:44:00.566Z",
-      "sourceDate": "2026-01-08T23:31:08.000Z",
-      "sourceUrl": "https://jobs.keysight.com/jobs/50016?lang=en-us&icims=1",
-      "discordThreadId": "1458984607771787299",
-      "instanceNumber": 1
-    },
-    {
-      "id": "str-cyber-emulation-engineer-burlington-2026-01-09-1",
-      "jobId": "str-cyber-emulation-engineer-burlington",
-      "company": "STR",
-      "title": "Cyber Emulation Engineer",
-      "postedToDiscord": "2026-01-09T00:44:04.045Z",
-      "sourceDate": "2026-01-08T23:27:11.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4643134006",
-      "discordThreadId": "1458984622703640679",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zscaler-data-engineer-intern-san-jose-2026-01-09-1",
-      "jobId": "zscaler-data-engineer-intern-san-jose",
-      "company": "Zscaler",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2026-01-09T00:44:07.564Z",
-      "sourceDate": "2026-01-08T23:21:54.000Z",
-      "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015437007",
-      "discordThreadId": "1458984637224452106",
-      "instanceNumber": 1
-    },
-    {
-      "id": "robert-bosch-venture-capital-computational-materials-science-intern-belmont-2026-01-09-1",
-      "jobId": "robert-bosch-venture-capital-computational-materials-science-intern-belmont",
-      "company": "Robert Bosch Venture Capital",
-      "title": "Computational Materials Science Intern",
-      "postedToDiscord": "2026-01-09T00:44:11.062Z",
-      "sourceDate": "2026-01-08T23:21:37.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000102361886",
-      "discordThreadId": "1458984651900059792",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-computational-sciences-san-bruno-2026-01-09-1",
-      "jobId": "genentech-intern-computational-sciences-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - Computational Sciences",
-      "postedToDiscord": "2026-01-09T01:17:03.156Z",
-      "sourceDate": "2026-01-08T23:15:08.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences_202512-132619",
-      "discordThreadId": "1458992922702905575",
-      "instanceNumber": 1
-    },
-    {
-      "id": "microsoft-research-intern-undergraduate-cambridge-2026-01-09-1",
-      "jobId": "microsoft-research-intern-undergraduate-cambridge",
-      "company": "Microsoft",
-      "title": "Research Intern - Undergraduate",
-      "postedToDiscord": "2026-01-09T01:17:06.691Z",
-      "sourceDate": "2026-01-08T23:11:37.000Z",
-      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
-      "discordThreadId": "1458992938381213756",
-      "instanceNumber": 1
-    },
-    {
-      "id": "expedia-machine-learning-science-intern-masters-austin-2026-01-09-1",
-      "jobId": "expedia-machine-learning-science-intern-masters-austin",
-      "company": "Expedia Group",
-      "title": "Machine Learning Science Intern - Masters",
-      "postedToDiscord": "2026-01-09T01:17:10.256Z",
-      "sourceDate": "2025-10-09T18:03:39.000Z",
-      "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584-1",
-      "discordThreadId": "1458992953186849031",
-      "instanceNumber": 1
-    },
-    {
-      "id": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale-2026-01-09-1",
-      "jobId": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale",
-      "company": "Uber",
-      "title": "2026 PhD Software Engineer Intern - Container Platform - United States",
-      "postedToDiscord": "2026-01-09T01:17:17.028Z",
-      "sourceDate": "2026-01-08T23:13:01.000Z",
-      "sourceUrl": "https://www.uber.com/global/en/careers/list/153349/",
-      "discordThreadId": "1458992980957593742",
-      "instanceNumber": 1
-    },
-    {
-      "id": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis-2026-01-09-1",
-      "jobId": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis",
-      "company": "CareBridge",
-      "title": "Engineering Intern - Summer 2026 - Digital Platforms and AI Organization",
-      "postedToDiscord": "2026-01-09T01:17:20.525Z",
-      "sourceDate": "2025-10-08T07:04:03.000Z",
-      "sourceUrl": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Intern--Summer-2026_JR168988-1",
-      "discordThreadId": "1458992996505616538",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-intern-engineer-software-engineering-bloomington-2026-01-09-1",
-      "jobId": "general-dynamics-mission-intern-engineer-software-engineering-bloomington",
-      "company": "General Dynamics Mission Systems",
-      "title": "Intern Engineer - Software Engineering",
-      "postedToDiscord": "2026-01-09T01:17:24.045Z",
-      "sourceDate": "2025-09-24T22:43:15.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/68062/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1458993011038879944",
-      "instanceNumber": 1
-    },
     {
       "id": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston-2026-01-09-1",
       "jobId": "red-hat-machine-learning-systems-research-intern-phd-summer-2026-boston",
@@ -3851,16 +3719,114 @@
       "sourceUrl": "https://jobs.lever.co/Grid/8a35b0c0-5c28-4f49-8d07-2c65a5ea6af3/apply",
       "discordThreadId": "1461521279214551185",
       "instanceNumber": 1
+    },
+    {
+      "id": "emerson-electric-software-solutions-development-program-software-development-program-elyria-2026-01-16-1",
+      "jobId": "emerson-electric-software-solutions-development-program-software-development-program-elyria",
+      "company": "Emerson Electric",
+      "title": "Software Solutions Development Program - Software Development Program",
+      "postedToDiscord": "2026-01-16T01:17:09.240Z",
+      "sourceDate": "2026-01-05T16:27:19.000Z",
+      "sourceUrl": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25030712",
+      "discordThreadId": "1461529663783567441",
+      "instanceNumber": 1
+    },
+    {
+      "id": "franklin-templeton-investment-operations-fort-lauderdale-2026-01-16-1",
+      "jobId": "franklin-templeton-investment-operations-fort-lauderdale",
+      "company": "Franklin Templeton",
+      "title": "Investment Operations",
+      "postedToDiscord": "2026-01-16T01:17:15.919Z",
+      "sourceDate": "2026-01-05T16:26:19.000Z",
+      "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ft-Lauderdale-Florida-United-States-of-America/FTT-Investment-Operations_866076",
+      "discordThreadId": "1461529691738472604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "corsair-data-scientist-e-commerce-milpitas-2026-01-16-1",
+      "jobId": "corsair-data-scientist-e-commerce-milpitas",
+      "company": "Corsair",
+      "title": "Data Scientist - E-commerce",
+      "postedToDiscord": "2026-01-16T01:17:21.299Z",
+      "sourceDate": "2025-12-23T02:27:17.000Z",
+      "sourceUrl": "https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8654",
+      "discordThreadId": "1461529706884108412",
+      "instanceNumber": 1
+    },
+    {
+      "id": "capital-one-manager-data-scientist-velocity-black-remote-eligible-mclean-2026-01-16-1",
+      "jobId": "capital-one-manager-data-scientist-velocity-black-remote-eligible-mclean",
+      "company": "Capital One",
+      "title": "Manager – Data Scientist - Velocity Black - Remote-Eligible",
+      "postedToDiscord": "2026-01-16T01:17:27.820Z",
+      "sourceDate": "2026-01-03T07:18:42.000Z",
+      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Scientist---Velocity-Black--Remote-Eligible-_R226868-2",
+      "discordThreadId": "1461529742338687027",
+      "instanceNumber": 1
+    },
+    {
+      "id": "franklin-templeton-investment-management-data-science-baltimore-2026-01-16-1",
+      "jobId": "franklin-templeton-investment-management-data-science-baltimore",
+      "company": "Franklin Templeton",
+      "title": "Investment Management Data Science",
+      "postedToDiscord": "2026-01-16T01:17:31.400Z",
+      "sourceDate": "2025-12-31T23:44:56.000Z",
+      "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/USA-BAL1201-Baltimore/Investment-Management-Data-Science_866040",
+      "discordThreadId": "1461529756788064371",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brookhaven-lab-student-assistant-lightshowai-temporary-part-time-shirley-2026-01-16-1",
+      "jobId": "brookhaven-lab-student-assistant-lightshowai-temporary-part-time-shirley",
+      "company": "Brookhaven Lab",
+      "title": "Student Assistant - Lightshowai - Temporary/Part-time",
+      "postedToDiscord": "2026-01-16T01:17:34.843Z",
+      "sourceDate": "2025-12-30T23:21:44.000Z",
+      "sourceUrl": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Student-Assistant---LightshowAI-Temporary-Part-time-_JR102215",
+      "discordThreadId": "1461529771765665822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-physics-department-research-support-ultrahigh-energy-neutrinos-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-physics-department-research-support-ultrahigh-energy-neutrinos-state-college",
+      "company": "PennState University",
+      "title": "Physics Department - Research Support - Ultrahigh Energy Neutrinos",
+      "postedToDiscord": "2026-01-16T01:17:41.313Z",
+      "sourceDate": "2026-01-01T07:04:33.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Department-of-Physics---Part-Time-Research-Support---Ultrahigh-Energy-Neutrinos_REQ_0000063697-1",
+      "discordThreadId": "1461529798961528955",
+      "instanceNumber": 1
+    },
+    {
+      "id": "franklin-templeton-fund-administration-oversight-rancho-cordova-2026-01-16-1",
+      "jobId": "franklin-templeton-fund-administration-oversight-rancho-cordova",
+      "company": "Franklin Templeton",
+      "title": "Fund Administration & Oversight",
+      "postedToDiscord": "2026-01-16T01:17:47.767Z",
+      "sourceDate": "2025-12-31T23:45:02.000Z",
+      "sourceUrl": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Stamford-Connecticut-United-States-of-America/US-Fund-Admin---Oversight_866036",
+      "discordThreadId": "1461529825763135602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-of-virginia-research-computing-assistant-charlottesville-2026-01-16-1",
+      "jobId": "university-of-virginia-research-computing-assistant-charlottesville",
+      "company": "University of Virginia",
+      "title": "Research Computing Assistant",
+      "postedToDiscord": "2026-01-16T01:17:54.399Z",
+      "sourceDate": "2025-12-20T23:49:52.000Z",
+      "sourceUrl": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Research-Computing-Assistant--Student-Wage-_R0079054",
+      "discordThreadId": "1461529853097545913",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 350,
+    "totalJobs": 347,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T00:43:50.190Z",
-      "archived": 3,
-      "monthsAffected": 1
+      "date": "2026-01-16T01:17:54.400Z",
+      "archived": 0
     }
   }
 }

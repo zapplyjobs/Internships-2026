@@ -661,26 +661,6 @@
   },
   {
     "job": {
-      "job_title": "AI Prompt Engineer",
-      "employer_name": "Grid",
-      "job_city": "Seattle",
-      "job_state": "WA",
-      "job_description": "AI Prompt EngineerSeattle, WashingtonEngineering /Part Time /On-siteApply for this jobAbout usToday’s financial system is built to favor those with money. Grid’s mission is to level that playing field by building financial products that help users better manage their financial future. The Grid app lets users access cash, build credit, spend money, optimize their taxes, and lots, lots more.Grid is a fast-growing team that’s deeply passionate about making a difference in the lives of millions. We’re solving huge problems and believe that every team member has a big role to play. Come join our growing team in Seattle!The Role We're looking for a curious and detail-oriented Prompt Engineer Intern to join our engineering team during the semester. In this role, you'll help design, test, and optimize prompts for our backend AI agent that powers automated financial services and decision-making systems within the Grid platform. You'll create prompts that enable reliable, accurate automated financial operations.This is a hands-on technical role where you'll blend deep understanding of large language model behavior with systematic engineering practices to build prompts that deliver consistent, high-quality outputs for backend financial processing and web scraping. We prefer candidates who can start immediately.The teamWe're focused on serving our users above all else all while building a robust business. To this end, Grid's team members experience high levels of autonomy and ownership, and as a company we value curiosity, learning and growth.At Grid, you'll be surrounded by a team that is motivated, mission-driven and pragmatic.What you'll do:Design and optimize prompts for our backend AI agent that powers automated financial processing and decision-making systemsConduct rigorous experiments to evaluate prompt performance, measuring accuracy, consistency, and reliability metrics across different data inputsCollaborate with engineering and ML teams to implement prompt strategies within production backend systems and APIsDevelop comprehensive testing frameworks and maintain versioned prompt libraries with detailed performance documentationResearch advanced prompt engineering techniques and conduct statistical analysis on system outputs to optimize model behaviorWhat we're looking for:Currently pursuing a degree in Computer ScienceHands-on experience with large language models (GPT, Claude, etc.)Strong technical writing and analytical skills with attention to precision and systematic testing methodologiesDetail-oriented approach to documentation, performance measurement, and systematic experimentation in a fast-paced startup environmentAbility to work out of our Seattle officeWhat you'll gainDirect mentorship from experienced engineers and ML researchers with real-world experience building production AI systemsDeep technical understanding of prompt engineering for backend financial automation and exposure to enterprise-scale AI infrastructureExperience with performance optimization, testing frameworks, and AI system reliability in a production fintech environmentCompetitive internship compensation$35 - $50 an hourTo keep things simple, at Grid we're looking for people that want to change the world for the better and have the boldness to tackle complex problems with creative solutions.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
-      "job_apply_link": "https://jobs.lever.co/Grid/8a35b0c0-5c28-4f49-8d07-2c65a5ea6af3/apply",
-      "job_posted_at_datetime_utc": "2026-01-05T23:16:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "grid-ai-prompt-engineer-seattle",
-      "description_platform": "lever",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
-  },
-  {
-    "job": {
       "job_title": "Software Solutions Development Program - Software Development Program",
       "employer_name": "Emerson Electric",
       "job_city": "Elyria",
@@ -694,10 +674,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -714,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:03:37.459Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -734,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:17:46.463Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -754,10 +734,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:17:46.463Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -774,10 +754,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:17:46.463Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -794,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:17:46.463Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -814,10 +794,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:17:46.463Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -834,10 +814,10 @@
       "description_platform": "generic",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:39:25.462Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -854,10 +834,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T15:17:37.600Z",
     "enrichedAt": "2026-01-15T23:48:27.055Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T01:17:57.407Z"
   },
   {
     "job": {
@@ -1045,16 +1025,18 @@
       "employer_name": "Texas A&M International University",
       "job_city": "Laredo",
       "job_state": "TX",
-      "job_description": "Join Texas A&M International University in this exciting opportunity.",
+      "job_description": "Job TitleGraduate Research Assistant (Engineering- NSF-CAP)AgencyTexas A&M International UniversityDepartmentSchool Of EngineeringProposed Minimum Salary$18.50 hourlyJob LocationLaredo, TexasJob TypeStudent WorkerJob DescriptionJob SummaryThe Research Assistant will work at the AI institute under the supervision of the center director and will be responsible for assisting in running and managing ongoing activities organized by the center and research projects.Essential Duties and ResponsibilitiesResearch and collect data through complex techniques and procedures.Assist with data management and perform basic statistical analyses.Develop assessment and evaluation tools.Other related duties as assigned.Minimum RequirementsBachelor's degree.Enrolled at least half-time, 3 credit hours per semester for graduates.Maintain a TAMIU overall GPA of 3.0 for graduate students.Must meet all other requirements as stated in TAMIU’s Satisfactory Academic Progress Policy (SAPP).Preferred Experience and EducationPrior experience in AI and Machine learning applications in engineering.Data management and data analysis experience.Strong computer science and mathematics background.Knowledge, Skills, and Abilities Proficiency in use of personal computer workstation with common software applications.Ability to organize and multitask functions to ensure compliance with deadlines.Outstanding customer service skills.Excellent interpersonal relationship and communication skills.Problem analysis and problem-solving skills.Ability to learn and use multiple software programs.Physical Requirements The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.Other RequirementsPosition requires on campus, face-to-face interactions.Position requires maintaining a regular schedule of attendance on campus and in the workplace.Work schedules are created by the department based on departmental needs but ensure it does not conflict with class schedule.Promptly complete all required training.Submit time sheet biweekly.Some evening and weekend work may be required.Subject to funding and/or need.Pay of Rate: $18.50/hour for up to 15 hours weeklyAll positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check.Equal Opportunity/Veterans/Disability Employer.",
       "job_apply_link": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
       "job_posted_at_datetime_utc": "2025-12-13T11:04:06.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo"
+      "id": "texas-a-m-international-university-graduate-research-assistant-engineering-nsf-cap-laredo",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T01:17:02.580Z",
     "postedAt": null
   },
   {
