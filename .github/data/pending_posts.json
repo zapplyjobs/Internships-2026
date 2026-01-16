@@ -661,186 +661,6 @@
   },
   {
     "job": {
-      "job_title": "Student Researcher - Seed LLM Horizon - Memory",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [Seed LLM Horizon – Memory, Personalization & Evolving Agent] - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7533025573287954695/detail",
-      "job_posted_at_datetime_utc": "2025-07-31T02:45:07.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-llm-horizon-memory-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:05:57.986Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - LLM Post Training - Agent & Reinforcement Learning",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [LLM Post Training – Agent & Reinforcement Learning] - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7532653875506989320/detail",
-      "job_posted_at_datetime_utc": "2025-07-30T15:25:59.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-llm-post-training-agent-reinforcement-learning-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - Seed LLM Post Training - Reward Modeling",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [Seed LLM Post Training – Reward Modeling] - 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7532650246078892306/detail",
-      "job_posted_at_datetime_utc": "2025-07-30T15:25:56.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-seed-llm-post-training-reward-modeling-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - Multimodal Interaction & World Model - RL Focused",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [Seed – Multimodal Interaction & World Model - RL Focused] – 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7529661012351420690/detail",
-      "job_posted_at_datetime_utc": "2025-07-26T02:51:52.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-multimodal-interaction-world-model-rl-focused-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Student Researcher - Multimodal Interaction & World Model - Unified Model",
-      "employer_name": "ByteDance",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "View our opening for Student Researcher [Seed – Multimodal Interaction & World Model - Unified Model] – 2026 Start (PhD) and learn more about what it's like to work at ByteDance!",
-      "job_apply_link": "https://jobs.bytedance.com/en/position/7529663530619324679/detail",
-      "job_posted_at_datetime_utc": "2025-07-26T02:41:50.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "bytedance-student-researcher-multimodal-interaction-world-model-unified-model-san-jose",
-      "description_platform": "generic",
-      "description_success": true
-    },
-    "status": "enriched",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": null
-  },
-  {
-    "job": {
-      "job_title": "Research Intern",
-      "employer_name": "N1",
-      "job_city": "Oakland",
-      "job_state": "CA",
-      "job_description": "About N1: N1 is the first hyper-performant and horizontally scalable blockchain network designed to enable trustless computing at internet scale. N1 is comprised of a team spanning backgrounds from Harvard, CMU, DFINITY, VMWare, Galaxy Digital, and more, and is backed by top-tier institutions like Founders Fund, Kraken Ventures, SALT, Amber Group, and more. Position Overview: Join N1 as a Research Intern and contribute to shaping the future of decentralized computing at internet scale. This role offers the flexibility to focus on market and product-based research or technical research —whichever aligns best with your skills and interests. For market and product-focused interns, you’ll dive deep into market landscapes, track industry trends, and assess competitor strategies to support data-driven decision-making. For technical research-focused interns, you’ll explore cutting edge distributed system design, and assist in a curated research project that aligns with your interest. This is a unique opportunity to gain hands-on experience in blockchain research, refine your analytical skills, and make a meaningful impact on N1’s mission to build the future of trustless computing. Requirements: Undergraduate student (or equivalent level) with a strong drive for learning through doing Excellent research and analytical skills, with the ability to gather and interpret data from multiple sources Strong interest in learning more about blockchain systems, and financial systems Ability to work both independently and collaboratively in a fast-paced environment Excellent written and verbal communication skills",
-      "job_apply_link": "https://jobs.ashbyhq.com/n1/f40a263f-dc1a-4d67-81ed-2ba3c893567c/application",
-      "job_posted_at_datetime_utc": "2025-07-25T23:02:32.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "n1-research-intern-oakland",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Research Intern - Ph.D",
-      "employer_name": "ChipStack",
-      "job_city": "San Jose",
-      "job_state": "CA",
-      "job_description": "About Us Chips are at the center of today's tech-driven world. But how we design them has not changed in decades, while their complexity and specialization have skyrocketed due to increasing performance demands from applications like AI. We want to change that. Our team is small, technical, and fast-moving. We’ve built and shipped at the intersection of AI, EDA, and systems software, with deep roots at companies like Qualcomm, Nvidia, Google, Meta, and the Allen Institute for AI. We’re backed by top investors including Khosla Ventures, Cerberus, and Clear Ventures, and already deployed with 10+ innovative customers—from Fortune 100s to cutting-edge AI silicon startups. About This Role This role offers a unique opportunity to be part of the founding team at ChipStack, where we are reinventing how modern silicon chips are designed. You will work alongside highly experienced chip designers who have built complex chips, ML scientists who have led training LLMs at large organizations, and top-notch software engineers. This is not your typical internship. Here, you will work on novel problems, build solutions, and ship to real customers. While we will try our best to publish your work in conferences towards the end, the key goal of this internship will be to build something very valuable that end customers enjoy using. If you have an urge to \"build and ship\" AI technologies along with really smart people, this is for you. Note: This role is in-person in San Jose/Seattle. About You You want to work at a startup because you love being at the center of all the dynamism it offers. You are willing to put in the hours and go the extra mile to ensure every customer has an exceptional experience. You are self-motivated with a sense of urgency and can operate independently without much guidance. You are not afraid of difficult problems and enjoy venturing into areas you have not explored before. This Role We’re looking for a strong researcher with a drive to build real products. Ideally, you are pursuing a Ph.D. or an M.S. and working with leading research groups at your university. The successful candidate will be involved in all parts of the company and influence the product’s trajectory significantly. What's needed Strong research background and publications in one of the following areas: Fundamental/applied research in AI/ML, chip design and computer architecture, systems and software engineering, or related areas. We welcome anyone with related backgrounds with an appetite to learn chip design + AI to apply. Strong proficiency in Python Solid understanding of cloud services and containerized applications, with some exposure to building high-quality software development practices Strong analytical and problem-solving skills Good communication skills and the ability to work directly with customers What's good to have Prior experience in building LLM-based applications Exposure to chip design fundamentals (via coursework or elsewhere) Experience at an early-stage startup Experience in developing IDE plugins (e.g., VSCode) Our Culture Culture fit is important for anyone joining an early-stage team. Below are our core tenets. Challenge status quo : We are innovators who can challenge the status quo and push forward our vision of the world. Strong opinions, loosely held : We are low on ego, but high on collaboration. We are okay to be wrong and are always open to learning. Ship fast, ship quality : We ruthlessly prioritize what matters. We build a few things, but at lightning speed with high quality. Proud of our craft : Attention to detail is in our DNA. We take pride in what we build and ensure they exceed the high standards of the semiconductor industry.",
-      "job_apply_link": "https://jobs.ashbyhq.com/chipstack/f7101544-d308-4049-a649-32a6b009be2a/application",
-      "job_posted_at_datetime_utc": "2025-07-25T04:54:22.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "chipstack-research-intern-ph-d-san-jose",
-      "description_platform": "ashby",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T15:17:37.600Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Data Engineering Intern",
-      "employer_name": "Auctane",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "About us At Auctane, we are united by a passion to help businesses deliver — whatever their size, wherever they are, and however they operate. We make it possible for businesses to meet the ever-changing requirements of their industry and customer expectations. Auctane products enable hundreds of thousands of businesses to annually mail and ship billions of items — over $200 billion worth — to recipients around the globe. The Auctane family of mailing and shipping software products includes ShipStation, Stamps.com, ShipStation API, Metapack, GlobalPost, and Packlink. Our partners include Amazon, UPS, USPS, eBay, BigCommerce, Shopify, WooCommerce, and Walmart. Our values Win as One. Delight Customers. Deliver Great Outcomes. About the role This is an internship role within the Engineering department. 2026 Auctane Summer Internship Program: Please read before applying Eligibility: Must be currently enrolled in an accredited undergraduate or graduate university program. Students graduating in May 2026 are not eligible for the program Duration: Paid, 9-week internship Schedule: 40 hours per week, with the exception of the week of July 4th. Program Dates: June 9, 2026 — First day of onsite orientation August 13, 2026 — Final day of the program Location: Hybrid role based in Austin, TX In-office: Tuesday, Wednesday, Thursday Remote: Monday and Friday Interviews: Interviews will be conducted on a rolling basis through March 31st What will you be doing? Collaborating with a team of data scientists to complete AI and machine learning projects Writing code and contributing to software projects Participating in code reviews and pair programming sessions Learning and using new technologies and programming languages as needed Solving technical problems and debugging issues Participating in meetings and project planning sessions Gaining exposure to and learning about different aspects of the software development lifecycle What are we looking for? Currently enrolled in a bachelor's or master's degree program in Computer Science or a related field Proficiency in Python programming Strong problem-solving and communication skills A passion for learning and staying up-to-date with the latest software development trends and technologies What will make you stand out? Located in or near the Austin, Texas area Evidence of your proficiency in one or more areas of the technical stack below Familiarity with AI development tools, a plus The Tech Python Nice to have: PyTorch, Polars, Airflow SQL Git AWS/GCP BigQuery/Redshift Vertex AI/Sagemaker Claude Code What do we offer? 🏠 We are a hybrid company. All team members at Auctane in Austin come into the office Tuesdays, Wednesdays and Thursdays. 🏟️ Company events, we work hard, play hard! We do our best every day, even at our regular team-building events. 🏢 Attractive office space in the heart of central Austin, Texas (free drinks, snacks…). 🍽Indulge in weekly catered lunches at our office – a delicious perk to fuel your work. 🏋🏾‍♀️Fitness center in the office with Tonal Mirrors, Pelotons, free weights, etc. 💪🏽We offer gym discounts to help you stay fit and healthy! 💜 An inclusive, casual and upbeat work environment. The personality and opinions of each of our team members are important and valid; we aim to offer all employees a safe environment where they can be themselves and thrive. Additional Position Duties: (The following is a list of what all employees, except those with medical accommodation, may be regularly required to do.) Sit for prolonged periods of time Utilize wrist and hands for a prolonged period of time Walk short distances Stand for short periods Speaking and conversing with others Lift up to 25lbs without assistance up to chest height Equal Opportunity Employer/Veterans/Disabled If you are based in California, we encourage you to read this important information about the ShipStation Privacy Policy for California residents linked here.",
-      "job_apply_link": "https://job-boards.greenhouse.io/auctane/jobs/7485078003",
-      "job_posted_at_datetime_utc": "2026-01-15T16:19:48.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "auctane-data-engineering-intern-austin",
-      "description_platform": "greenhouse",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T16:50:14.101Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
-      "job_title": "Prolith Applications",
-      "employer_name": "KLA",
-      "job_city": "Austin",
-      "job_state": "TX",
-      "job_description": "Company OverviewKLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world’s leading technology providers to accelerate the delivery of tomorrow’s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us.Group/DivisionEnabling the movement toward advanced chip design, KLA's Measurement, Analytics and Control group (MACH) is looking for the best and brightest research scientists, software engineers, application development engineers and senior product technology process engineers to join our team. The MACH team's mission is to collaborate with our customers to innovate technologies and solutions that detect and control highly complex process variations—at their source—rather than compensate for them at later stages of the manufacturing process. With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Our MACH team develops leading-edge solutions for patterning process analytics and control technologies, thereby providing customers with critical insight at the feature level, field level and cross-wafer analysis. Our teams also develop advanced modeling simulation, data analytics and process control modeling technologies. As a member of the MACH team, you’ll be joining the most sophisticated and successful process-control company in the semiconductor industry--working across functions to solve the most complex technical problems in the digital age.Job Description/Preferred QualificationsKey ResponsibilitiesProduct Development: Characterization of next generation state-of-the art semiconductor productsprocesses. This includes designing test plans, performing data analysis, publishing results and recommendations in the form of applications notes and best known methods.Understanding in-house SW Data Analysis tool and perform analysis of customer data.Perform problem diagnosis and problem resolution for characterization, demos, or field projects. Makes presentations on all aspects of products/resultsWorks on complex problems where analysis of situations or data requires an in-depth evaluation of various factors.Collate training materials, and assist with documentation of different data into standardized formatDesired QualificationsAbility to perform complex data analysis using combination of Excel, Matlab, Python, JMP or other data-analysis tools.Understanding of Semiconductor Manufacturing Processes, particularly photolithographyMust have excellent communication, organizational, analytical, and interpersonal skills. Candidate must be self-driven, and a strong team player.Understands and relates standard engineering principles, concepts and techniques to immediate work assignments.Proficient in the English language.Proficient in computer applications for data presentation and analysis.Ability to effectively convey ideas through oral and written communications.Ability to multitask in a constantly changing work environment.Understanding of complex optical systems and/or materials science is a plusMinimum QualificationsCurrently pursuing a BS, MS or PhD Degree in one of the following fields; Microelectronics, Electrical Engineering, Chemical Engineering, Physics, Imaging Science, Material Science(or close equivalent) with an expected graduation in December 2026 - June 2027. Requires less than 1 year of related experience​Base Pay Range: $28.00 - $46.00 per hour based on pursuit of a Bachelor’s, Master’s, or Ph.D.Primary Location: USA-TX-Austin-KLAKLA’s total rewards package for employees may also include participation in performance incentive programs and eligibility for additional benefits including but not limited to: medical, dental, vision, life, and other voluntary benefits, 401(K) including company matching, employee stock purchase program (ESPP), student debt assistance, tuition reimbursement program, development and career growth opportunities and programs, financial planning benefits, wellness benefits including an employee assistance program (EAP), paid time off and paid company holidays, and family care and bonding leave.Interns are eligible for some of the benefits listed. Our pay ranges are determined by role, level, and location. The range displayed reflects the pay for this position in the primary location identified in this posting. Actual pay depends on several factors, including state minimum pay wage rates, location, job-related skills, experience, and relevant education level or training. We are committed to complying with all applicable federal and state minimum wage requirements where applicable. If applicable, your recruiter can share more about the specific pay range for your preferred location during the hiring process.               KLA is proud to be an Equal Opportunity Employer. We will ensure that qualified individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us at talent.acquisition@kla.com or at +1-408-352-2808 to request accommodation.Be aware of potentially fraudulent job postings or suspicious recruiting activity by persons that are currently posing as KLA employees.  KLA never asks for any financial compensation to be considered for an interview, to become an employee, or for equipment. Further, KLA does not work with any recruiters or third parties who charge such fees either directly or on behalf of KLA. Please ensure that you have searched KLA’s Careers website for legitimate job postings.  KLA follows a recruiting process that involves multiple interviews in person or on video conferencing with our hiring managers.  If you are concerned that a communication, an interview, an offer of employment, or that an employee is not legitimate, please send an email to talent.acquisition@kla.com to confirm the person you are communicating with is an employee. We take your privacy very seriously and confidentially handle your information.",
-      "job_apply_link": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/PROLITH-Applications-Intern_2633688-1",
-      "job_posted_at_datetime_utc": "2026-01-15T16:15:17.000Z",
-      "job_employment_type": "FULLTIME",
-      "job_posted_at": "1h",
-      "id": "kla-prolith-applications-austin",
-      "description_platform": "workday",
-      "description_success": true
-    },
-    "status": "posted",
-    "addedAt": "2026-01-15T16:50:14.101Z",
-    "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": "2026-01-16T07:32:46.207Z"
-  },
-  {
-    "job": {
       "job_title": "Data Scientist Intern",
       "employer_name": "Geotab",
       "job_city": "Atlanta",
@@ -854,10 +674,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:18:37.952Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -874,10 +694,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -894,10 +714,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -914,10 +734,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -934,10 +754,10 @@
       "description_platform": "icims",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -954,10 +774,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -994,10 +814,10 @@
       "description_platform": "workday",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -1014,10 +834,10 @@
       "description_platform": "greenhouse",
       "description_success": true
     },
-    "status": "enriched",
+    "status": "posted",
     "addedAt": "2026-01-15T21:17:11.784Z",
     "enrichedAt": "2026-01-16T07:32:05.136Z",
-    "postedAt": null
+    "postedAt": "2026-01-16T07:44:01.077Z"
   },
   {
     "job": {
@@ -1045,16 +865,18 @@
       "employer_name": "Philips",
       "job_city": "Cambridge",
       "job_state": "MA",
-      "job_description": "Join Philips in this exciting opportunity.",
+      "job_description": "Job TitleIntern- GPU Software Development, Cambridge, MA-Summer 2026Job DescriptionAre you interested in an Internship opportunity with Philips? We welcome individuals who are currently pursuing an undergraduate (BS), graduate (MS) and/or PhD to participate in 3 month paid intern opportunities at our site in Cambridge. Through this role you will gain meaningful, hands-on experience working for a HealthTech company.Your role:Job Responsibilities:Analyze, design, test, code, debug, modify, deploy, integrate, and maintain system software enhancements, test environments, and/or new software in a GPU environment.Utilize state-of-the-art technologies and best practices to deliver high-quality solutions.Interact with users and product owners to define requirements and implement necessary modifications. Stay current with technical developments and industry practices through literature, courses, training, technical contacts, and competitive analysis.Conduct research on emerging technologies and methodologies to support innovation and continuous improvement. Participate in team meetings, contribute ideas, and collaborate effectively to achieve design and development goals.Prepare and present technical reports and findings for internal stakeholders with clarity and precision. Maintain organized documentation of code, processes, and project artifacts to ensure compliance and accessibility.You're the right fit if: Currently pursuing a BA, Master’s degree or PhD in Electrical Engineering, Computer Science, Mechanical Engineering, Mathematics, Physics, or a related field.Strong programming skills in MATLAB, Python, C++, and CUDA.Ability to work independently, take responsibility, and manage tasks with minimal supervision. Excellent critical thinking skills and willingness to embrace new and challenging problems.You must be able to successfully perform the following minimum Physical, Cognitive and Environmental job requirements with or without accommodation for this position.How we work togetherWe believe that we are better together than apart. For our office-based teams, this means working in-person at least 3 days per week. Onsite roles require full-time presence in the company’s facilities. Field roles are most effectively done outside of the company’s main facilities, generally at the customers’ or suppliers’ locations.This is an office roleAbout PhilipsWe are a health technology company. We built our entire company around the belief that every human matters, and we won't stop until everybody everywhere has access to the quality healthcare that we all deserve. Do the work of your life to help improve the lives of others.Learn more about our business.Discover our rich and exciting history.Learn more about our purpose.Learn more about our culture.Philips Transparency DetailsThe hourly pay range for this position is Bachelor Candidates: $25.00 to $28.00, Masters/PhD Candidates: $33.00-45.00, plus eligible overtime. The actual base pay offered may vary within the posted ranges depending on multiple factors including job-related knowledge/skills, experience, business needs, geographical location, and internal equity.    Details about our benefits can be found here. At Philips, it is not typical for an individual to be hired at or near the top end of the range for their role and compensation decisions are dependent upon the facts and circumstances of each case. Additional InformationUS work authorization is a precondition of employment. The company will not consider candidates who require sponsorship for a work-authorized visa, now or in the future.This requisition is expected to stay active for 45 days but may close earlier if a successful candidate is selected or business necessity dictates.  Interested candidates are encouraged to apply as soon as possible to ensure consideration.Philips is an Equal Employment and Opportunity Employer including Disability/Vets and maintains a drug-free workplace.",
       "job_apply_link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern--GPU-Software-Development--Cambridge--MA-Summer-2026_572194",
       "job_posted_at_datetime_utc": "2026-01-15T23:42:39.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "philips-intern-gpu-software-development-cambridge"
+      "id": "philips-intern-gpu-software-development-cambridge",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1063,16 +885,18 @@
       "employer_name": "Biogen",
       "job_city": "Cambridge",
       "job_state": "MA",
-      "job_description": "Join Biogen in this exciting opportunity.",
+      "job_description": "About the Role:  This application is for a 6-month student role from July - December 2026. Resume review begins in January 2026.  Biogen’s Decision & Quality Analytics Innovation (DQAI) team is part of the Research Development & Medical (RDM) organization. The vision of the DQAI team is to drive data-driven insights from trusted data, and our team mission is to maximize the quality, efficiency and application of analytics across RDM Portfolio and Quality Management Systems through improved data and metrics management, optimization opportunities, identification of compliance risk, and enhanced business analytics application. Specifically, the DQAI team has four major focus areas:  Data Management​ Advanced Analytics​ Business Intelligence​ Metrics Management (Performance Measurement)​   What You’ll Do: Leverage modern AI assistants (Azure OpenAI / Copilot, GenAI-powered BI, etc.) to accelerate data exploration, automate repetitive tasks, and enhance insight storytelling. Analyze complex data from various sources to identify trends, gaps, risks, and opportunities. Work with senior staff to translate business questions into analytical problems and convert analytical outputs into actionable recommendations. Apply statistical and machine learning techniques to uncover root causes, patterns, and predictive indicators. Deliver concise insight summaries, written reports, and presentations that highlight implications and recommendations.  Work with data engineering and governance teams to ensure data readiness and integrity for analytics. Support initiatives to accelerate insight discovery from portfolio analytics modeling. Develop and prototype data visualizations and dashboards. Participate in skill-building and capability-enhancement initiatives within the DQAI team.  Example projects may include: Support development of custom-tailored strategic analytics solutions to answer complex questions from senior leadership.  Pioneer new approaches for displaying data to engage stakeholders.  Perform quality control functions to ensure the integrity of the team’s work.   Who You Are:  You are a tech- and AI-forward problem solver who thrives on exploration and rapid iteration in a fun, collaborative team. You partner seamlessly with business stakeholders and our embedded AI developers to turn needs into analytics products and automation. Here are some of the core characteristics we’re looking for:  Strong analytical and critical thinking skills with a proven track record of turning data into strategic insights. Proficiency in data analysis tools and languages (e.g., Python, R). Experience applying advanced analytics, such as statistical modeling, clustering, or NLP, to real-world business challenges. Exceptional written and verbal communication skills, including the ability to synthesize complex findings for non-technical stakeholders. Ability to work collaboratively in a cross-functional environment and lead analytics initiatives from concept to insight delivery.  To participate in the Biogen Internship or Co-op Program, students must meet the following eligibility criteria: Legal authorization to work in the U.S. At least 18 years of age prior to the scheduled start date. Be currently enrolled in an accredited community college, college, university or skills program/apprenticeship.  Education Requirements  Currently pursuing a Master’s degree in Data Science, Statistics, Bioinformatics, Computer Science, Computational Biology, or related field Job Level: InternshipAdditional InformationThe base compensation range for this role is: $29.00-$29.00The actual hourly wage offered will consider the candidate’s current academic level and degree candidacy, inclusive of Associate, Bachelor’s, Master’s, JD, MD, PhD and MBA programs. It will comply with state or local minimum wage requirements specific to the job location.In addition to compensation, Biogen offers a range of benefits designed to support our educational employees, including, but not limited to: Company paid holidays Commuter benefits Employee Resource Groups participation80 hours of sick time per calendar yearWhy Biogen?We are a global team with a commitment to excellence, and a pioneering spirit. As a mid-sized biotechnology company, we provide the stability and resources of a well-established business while fostering an environment where individual contributions make a significant impact. Our team encompasses some of the most talented and passionate achievers who have unparalleled opportunities for learning, growth, and expanding their skills. Above all, we work together to deliver life-changing medicines, with every role playing a vital part in our mission. Caring Deeply. Achieving Excellence. Changing Lives.At Biogen, we are committed to building on our culture of inclusion and belonging that reflects the communities where we operate and the patients we serve. We know that diverse backgrounds, cultures, and perspectives make us a stronger and more innovative company, and we are focused on building teams where every employee feels empowered and inspired. Read on to learn more about our DE&I efforts.All qualified applicants will receive consideration for employment without regard to sex, gender identity or expression, sexual orientation, marital status, race, color, national origin, ancestry, ethnicity, religion, age, veteran status, disability, genetic information or any other basis protected by federal, state or local law. Biogen is an E-Verify Employer in the United States.",
       "job_apply_link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Cambridge-MA/Co-op--Decision---Quality-Analytics-Innovation_REQ22295",
       "job_posted_at_datetime_utc": "2026-01-15T23:39:38.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge"
+      "id": "biogen-co-op-2-02-02-02-02-02-02-02-0-cambridge",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1081,16 +905,18 @@
       "employer_name": "Olsson",
       "job_city": "Kansas City",
       "job_state": "MO",
-      "job_description": "Join Olsson in this exciting opportunity.",
+      "job_description": "Company Description We are Olsson. We engineer and design solutions that improve the world around us. As a company, we promise to always be responsive, transparent, and focused on results – for our people, our clients, and our company. We’re a people-centric firm, so it’s no surprise our greatest asset is our people. The impact this creates is an environment that encourages our people to grow and be creative with their talents. This approach builds a culture that is uniquely Olsson. It allows us to grow our people as we grow our business. This, in turn, creates a lasting impact on the world around us.Job Description As a GIS student intern with our Applied Technology team, you will perform meaningful, hands-on, real-world work that will transform your classroom experience and help you envision your future career. You’ll get an introduction to Olsson's culture that will help you evaluate our firm as a career choice and be part of a team working with a variety of programs, including but not limited to Esri and Autodesk products. You will work with technology experts to support internal GIS users by compiling data from external sources and assisting with GIS processes. Candidates will bring attention to detail as well as the ability to adhere to corporate policies to ensure data integrity and security. We are looking for a student intern to start in May and work 40 hours per week during the summer, with the potential to continue working into the school year. This internship can be based out of either our Lincoln, NE; North Kansas City, MO; Oklahoma City, OK; Omaha, NE; or Springfield, MO office locations. Qualifications You are passionate about: Working collaboratively with others. Having ownership in the work you do. Using your talents to positively affect communities. You bring to the team: Strong communication skills Ability to contribute and work well on a team Pursuing a degree in GIS One to two years of college coursework in GIS Proficiency with ArcGIS Pro Experience with ArcGIS Online applications (Dashboards, Field Maps, Experience Builder, Survey123) Experience with Microsoft 365 products Familiarity with coordinate systems, map projections, standard cartographic methods, theories, and principles Knowledge of coding languages Preferred languages include Python (ArcPy) JavaScript (ArcGIS API for JavaScript), Arcade, and SQL Some experience using AutoCAD/Civil 3D preferred #LI-DNI Additional Information Olsson specializes in engineering and design, client advisory services, planning, field services, and environmental. Improving the world has been our mindset from the very beginning, back when Olsson first opened for business in 1956. And it will be our mindset for years to come. As an Olsson employee, you will: Receive a competitive 401(k) match Be empowered to build your career with tailored development paths Have the possibility for flexible work arrangements Engage in work that has a positive impact on communities Participate in a wellness program promoting balanced lifestyles In addition, full-time employees will receive our traditional benefits package (health care, vision, dental, paid time off, etc.) and the opportunity to participate in a bonus system that rewards performance. Olsson is an Equal Opportunity Employer. We encourage qualified minority, female, veteran, and disabled candidates to apply and be considered for open positions. We do not discriminate against any applicant for employment or any employee because of race, color, religion, national origin, sex, sexual orientation, gender identity, gender, disability, age, military status, or other protected status. Olsson understands the importance of privacy and is committed to protecting job applicants’ personal information. Pursuant to the California Consumer Privacy Act, as amended by the California Privacy Rights Act (collectively, the “CCPA”), this notice explains Olsson’s practices regarding the collection, use, and disclosure of personal information for job applicants residing in California. Please read this Notice carefully to understand our privacy practices. For more information about the types of information we collect and how we use it in connection with your general access and use of our website, please review our general California Privacy Notice here.",
       "job_apply_link": "https://job-boards.greenhouse.io/olsson/jobs/5072492008",
       "job_posted_at_datetime_utc": "2026-01-15T23:39:17.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "olsson-gis-student-internship-kansas-city"
+      "id": "olsson-gis-student-internship-kansas-city",
+      "description_platform": "greenhouse",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1099,16 +925,18 @@
       "employer_name": "National Renewable Energy Laboratory",
       "job_city": "Golden",
       "job_state": "CO",
-      "job_description": "Join National Renewable Energy Laboratory in this exciting opportunity.",
+      "job_description": "Posting TitleUndergraduate/Post-Undergraduate (Summer) Intern – Computational Modeling of Catalytic Bioenergy Processes.LocationCO - Golden.Position TypeIntern (Fixed Term).Hours Per Week40.Working at NLRNLR is located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for energy systems research and development.Join the National Laboratory of the Rockies (NLR), where world-class scientists, engineers, and experts are accelerating energy innovation through breakthrough research and systems integration. From our mission to our collaborative culture, NLR stands out in the research community for its commitment to an affordable and secure energy future. Spanning foundational science to applied systems engineering and analysis, we focus on solving complex challenges to deliver advanced, secure, reliable, and cost-effective energy solutions. Our work helps strengthen U.S. industries, support job creation, and promote national economic growth.At NLR, you'll find a mission-driven environment supported by state-of-the-art facilities, multidisciplinary research teams, and strong collaborations with industry, academia, and other national laboratories. We offer robust professional development opportunities, and a competitive benefits package designed to support your career and well-being.Job DescriptionThe Computational Modeling group in the BEST directorate at the National Laboratory of the Rockies (NLR) is seeking an summer undergraduate or post-undergraduate research intern to perform computational modeling and data analysis to enable optimization and scale-up of catalytic bioenergy processes.The intern will work closely with other computational scientists and experimentalists to perform, analyze, and validate simulations of biomass and other feedstocks undergoing catalytic and thermochemical conversion processes using process scale models.Responsibilities include:Performing simulations using high-fidelity Computational Fluid Dynamics (CFD) and reduced order models of transport and reactive processes within catalytic reactor systemsImplementing kinetic schemes into reduced order models and performing optimization routines to fit kinetic parametersAnalyzing validation experimentsProgramming scripts to analyze results from simulationsProviding regular written and oral progress updates at project meetingsWorking safely and independently in a laboratory settingPlanning and executing research in collaboration with other researchersContributing to the creation of technical reports and peer-reviewed publicationWorking effectively in a large, multidisciplinary, multi-institutional team of engineers and scientists.The successful candidate will:Engage with a multi-disciplinary team of scientists across multiple national laboratoriesGain experience in a range of computational modeling and data analysis techniques, including FEM/FVM and reduced order modeling using software packages that are relevant to the fieldDevelop practical research skills through industrially relevant applications of computational models for chemical processesContribute to high-impact energy researchMaintain professionalism and an environment of mutual respect in all communication and interactions with fellow staff and collaborators .Basic QualificationsMinimum of a 3.0 cumulative grade point average.Undergraduate: Must be enrolled as a full-time student in a bachelor’s degree program from an accredited institution. Post Undergraduate: Earned a bachelor’s degree within the past 12 months. Eligible for an internship period of up to one year.Graduate: Must be enrolled as a full-time student in a master’s degree program from an accredited institution. Post Graduate: Earned a master’s degree within the past 12 months. Eligible for an internship period of up to one year.Graduate + PhD: Completed master’s degree and enrolled as PhD student from an accredited institution. Please Note:• Applicants are responsible for uploading official or unofficial school transcripts, as part of the application process.• If selected for position, a letter of recommendation will be required as part of the hiring process.• Must meet educational requirements prior to employment start date.* Must meet educational requirements prior to employment start date.Additional Required QualificationsCurrently enrolled in or recently graduated from a bachelor’s degree program in Computer Science, Chemical Engineering, or a related fieldDemonstrated programming skills in Python and libraries such as: SciPy, Matplotlib, NumPyStrong motivation to contribute to high-impact researchDemonstrated ability to collaborate and work efficiently within a teamExcellent writing and communications skills, with the ability to present technical results to a wide audiencePreferred QualificationsCurrent junior or senior level student or recent graduate of a bachelor’s degree in Computer Science, Chemical Engineering, or a related fieldFamiliarity with Linux environments and high-performance computingKnowledge of or experience using FEM and/or FVM software including OpenFOAM, MFIX, COMSOL, Fluent, or similar (CFD packages)Knowledge of or experience with performing and analyzing reactor-scale simulationsKnowledge of or experience with catalytic processes (modeling or experimental)Knowledge/experience with machine learning i.e. tensor flow/PyTorch.Job Application Submission WindowThe anticipated closing window for application submission is up to 30 days and may be extended as needed.Annual Salary Range (based on full-time 40 hours per week)Job Profile: / Annual Salary Range: $34,800 - $55,700NLR takes into consideration a candidate’s education, training, and experience, expected quality and quantity of work, required travel (if any), external market and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions.Benefits SummaryBenefits include medical, dental, and vision insurance; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NLR employees may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be eligible for relocation expense reimbursement. Internships projected to be less than 20 hours per week are not eligible for medical, dental, or vision benefits.* Based on eligibility rulesBadging RequirementNLR is subject to Department of Energy (DOE) access restrictions. All employees must also be able to obtain and maintain a federal Personal Identity Verification (PIV) card as required by Homeland Security Presidential Directive 12 (HSPD-12), which includes a favorable background investigation. Intern assignments extending beyond six months will be subject to this requirement.Drug Free WorkplaceNLR is committed to maintaining a drug-free workplace in accordance with the federal Drug-Free Workplace Act and complies with federal laws prohibiting the possession and use of illegal drugs. Under federal law, marijuana remains an illegal drug.If you are offered employment at NLR, you must pass a pre-employment drug test prior to commencing employment. Unless prohibited by state or local law, the pre-employment drug test will include marijuana. If you test positive on the pre-employment drug test, your offer of employment may be withdrawn.Submission GuidelinesPlease note that in order to be considered an applicant for any position at NLR you must submit an application form for each position for which you believe you are qualified. Applications are not kept on file for future positions. Please include a cover letter and resume with each position application..Equal Opportunity EmployerAll qualified applicants will receive consideration for employment without regard basis of age (40 and over), color, disability, gender identity, genetic information, marital status, domestic partner status, military or veteran status, national origin/ancestry, race, religion, creed, sex (including pregnancy, childbirth, breastfeeding), sexual orientation, and any other applicable status protected by federal, state, or local laws.Reasonable Accommodations E-Verify www.dhs.gov/E-Verify For information about right to work, click here for English or here for Spanish.E-Verify is a registered trademark of the U.S. Department of Homeland Security. This business uses E-Verify in its hiring practices to achieve a lawful workforce.",
       "job_apply_link": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Post-Undergraduate--Summer--Intern---Computational-Modeling-of-Catalytic-Bioenergy-Processes_R14091",
       "job_posted_at_datetime_utc": "2026-01-15T23:31:36.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden"
+      "id": "national-renewable-energy-laboratory-undergraduate-post-undergraduate-intern-summer-golden",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1117,16 +945,18 @@
       "employer_name": "KBR",
       "job_city": "Sioux Falls",
       "job_state": "SD",
-      "job_description": "Join KBR in this exciting opportunity.",
+      "job_description": "Title:Software Engineer InternBELONG. CONNECT. GROW. with KBR.About UsAt KBR, we deliver science, technology, and engineering solutions that help our customers accomplish their most critical missions.Join us at the Earth Resources Observation and Science (EROS) Center and help shape the future of Earth science data systems. As part of our mission-driven team, you’ll contribute to projects that make a global impact, supporting research, innovation, and technology that empower scientists and decision-makers worldwide.Position OverviewThis summer-based internship is open to juniors, seniors, and graduate students pursuing a career in software development. You will work on-site at the EROS Center near Sioux Falls, South Dakota, and gain real-world experience in software engineering. Candidate must have three years of continuous residency in the U.S. for issuance of a Government Security credential.Why You’ll Love This Role• Work on meaningful projects that support Earth science and sustainability• Collaborate with experienced engineers and mentors who are passionate about innovation• Gain hands-on experience with cutting-edge technologies in software development• Be part of a team that values curiosity, creativity, and continuous learningWhat You’ll Gain• Practical experience with modern software development tools and methodologies• Exposure to cloud technologies and data systems• Mentorship from experienced engineers and opportunities for professional growth• Insight into government contracting and mission-critical IT operationsCore Responsibilities• Design and implement tasks required in the development of software products• Communicate and coordinate activities and technical status with your mentor, supervisor, Project Lead, and other team members• Ensure all software activities are conducted in accordance with standards and best practices• Support software planning including requirements definition, activity identification, and estimating• Perform and document preliminary and detailed design of software components• Implement software from detailed designs• Develop and conduct software testing• Document the testing effort through generation of test plans, procedures, and reports• Submit, analyze, and manage configuration change requests in accordance with CM processes• Participate in code reviewsEducation & Skills• Working towards a Bachelor’s degree in Computer Science, Math, Engineering, or equivalentRequired Skills• Excellent interpersonal, organizational, and communication skills• Ability to work independently as well as part of a team• Knowledge of the Software Development Life Cycle• Experience using Python and C/C++• Experience interfacing with database systems• Unix/Linux experienceDesired SkillsThis internship is designed to help you learn. Prior experience in all skills is not expected.• Postgres experience• Experience with remote sensing, digital image/signal processing techniques, and basic geography concepts such as map projections• Experience with AWS Cloud Services (S3, EC2, EKS, ECR, Lambda)• Experience with CI/CD• Experience with Infrastructure as Code• Experience with Artificial Intelligence for software code generation and documentationSpecial RequirementsThree years of continuous residency in the US for issuance of a Government Security credential. The candidate must be able to obtain and maintain a national agency check and background investigation after hiring to obtain a badge for government facility access and user account.Experience and/or education in lieu of these qualifications will be reviewed for applicability.KBR partners with several other companies to fulfill its requirements as a government contractor. The selected subcontracting companies align their benefits as closely as possible to those above.KBR CultureAt KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.KBR BenefitsKBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.Click here to learn more: KBR Benefits#LI-EM2Belong, Connect and Grow at KBRAt KBR, we are passionate about our people and our Zero Harm culture.  These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company.  That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together. KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",
       "job_apply_link": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2117627",
       "job_posted_at_datetime_utc": "2026-01-15T23:30:46.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "kbr-software-engineer-intern-sioux-falls"
+      "id": "kbr-software-engineer-intern-sioux-falls",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1140,11 +970,13 @@
       "job_posted_at_datetime_utc": "2026-01-15T23:30:09.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "mongodb-gtm-engineering-intern-palo-alto"
+      "id": "mongodb-gtm-engineering-intern-palo-alto",
+      "description_platform": "generic",
+      "description_success": false
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1153,16 +985,18 @@
       "employer_name": "Webster Bank",
       "job_city": "Stamford",
       "job_state": "CT",
-      "job_description": "Join Webster Bank in this exciting opportunity.",
+      "job_description": "If you’re looking for a meaningful career, you’ll find it here at Webster. Founded in 1935, our focus has always been to put people first--doing whatever we can to help individuals, families, businesses and our colleagues achieve their financial goals. As a leading commercial bank, we remain passionate about serving our clients and supporting our communities. Integrity, Collaboration, Accountability, Agility, Respect, Excellence are Webster’s values, these set us apart as a bank and as an employer.  Come join our team where you can expand your career potential, benefit from our robust development opportunities, and enjoy meaningful work!Data Engineering InternIf you're looking for an exciting opportunity to gain real-world work experience, Webster Bank's internship program delivers! High performing students entering their junior or senior year of undergraduate studies will have the opportunity to work side-by-side with Webster/HSA colleagues to gain valuable experience, knowledge, and skills. This internship program is designed to create a pipeline of candidates who may become Webster’s next generation of leaders.As an intern at Webster Bank/HSA Bank, you will experience an unforgettable summer of learning, networking, and fun, while gaining valuable experience that directly complements classroom studies. Every internship opportunity is structured to provide you with a meaningful experience, broad exposure to our corporate functions, and opportunities for mentorship and networking. Webster's internship will be demanding & rewarding, and prepare you for your career ahead.  Summer Intern Program duration: June 1 – August 7, 2026.IT Summer Internship – Data EngineeringParticipate in systems analysis and design working sessions.Develop data flow diagrams based on understanding of systems.Work with the teams to gather details on new system design and data integration processes.Analyze data sets to identify patterns and insights.Perform basic python programming for processing data sets.Work with teams across the org to fulfil ad hoc process/report requests.Write SQL statements to extract data for reportingLocation:  Stamford, CTParticipation Benefits Include:Networking and social events with other internsOpportunities to meet with business professionals, leaders and early career professionalsMentor assigned to help guide your experience at Webster Bank/HSA BankFuture opportunities to interview for full-time positions post-graduationEducation, Skills, and Experience Requirements for Interns:Current undergraduate rising Junior or Senior enrolled in an accredited college or university who is pursuing a degree in related field and has an interest in the banking/financial services industryResourceful, enthusiastic, and proactiveHighly organizedDemonstrated strong attention to detailExperience creating and delivering presentationsStrong written and verbal communication skillsSelf-motivated with a strong work ethicAbility to learn quickly and solve problemsStrong analytical skillsCollaborative and inclusive team playerProficient in Word, Excel, PowerPointLegally eligible to work in the U.S.The estimated hourly range for this position is $21.00/hour USD to $23.00/hour USD. Actual salary may vary up or down depending on job-related factors which may include knowledge, skills, experience, and location.#LI-FO1#LI-HybridWebster Financial Corporation and its subsidiaries (“Webster”) are equal opportunity employers that are committed to sustaining an inclusive environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, marital status, national origin, ancestry, citizenship, sex, sexual orientation, gender identity and/or expression, physical or mental disability, protected veteran status, or any other characteristic protected by law.",
       "job_apply_link": "https://websteronline.wd12.myworkdayjobs.com/WebsterExternalCareerSite/job/CT-Stamford-HQ/IT-Intern---Data-Engineering_R26_0000000041",
       "job_posted_at_datetime_utc": "2026-01-15T23:27:05.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "webster-bank-it-intern-data-engineering-stamford"
+      "id": "webster-bank-it-intern-data-engineering-stamford",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1171,16 +1005,18 @@
       "employer_name": "ASML",
       "job_city": "San Diego",
       "job_state": "CA",
-      "job_description": "Join ASML in this exciting opportunity.",
+      "job_description": "IntroductionASML US, LP brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world’s leading chipmakers - to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. As the world’s leading semiconductor lithography machine (the machine that makes computer chips) manufacturer, ASML enables chip manufacturers to make cheaper, faster chips, thereby enabling all the technology you use today. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ, San Jose, CA and San Diego, CA. We are currently recruiting for internships located at our office in San Diego, CA (EUV laser source creation).  This internship offers a unique and exciting opportunity to join a dynamic and innovative Technology Development team, focused on conceiving and demonstrating the technologies required for next generations of high-power extreme ultraviolet (EUV) light sources. The EUV source technology development team is responsible for identifying system-level operating points for stable EUV production generated from laser produced plasmas and helps to chart the path to  increase EUV power to meet the future needs of the Lithography industry. If you like extreme challenges and want to help bring the next generation of technology to the world, then start your adventure and join ASML.Internship Goals and Objectives:We are looking for an enthusiastic and curious intern to support various research and technology development activities, including data analysis and visualization, modeling and test execution.Your AssignmentThe summer 2026 project will focus on research topics around simulations of EUV-generating laser-produced plasmas (LPPs) by enhancing existing models, executing such for various input conditions, and post processing the output data.The intern is expected to drive infrastructure set-up for radiation hydrodynamics and atomic emission codes, develop a workflow for running simulations and post-processing simulation outputs, and connect these codes to existing models.The intern will work in a team environment alongside experienced engineers and scientists, while having ownership over their project.Specific tasks will be tailored to match the education and experience level of the intern as well as the intern’s learning objectives for the summer.A goal of the internship is for you to learn about working in a corporate setting and to provide hands on experience solving real world problems in a team environment.Interns will typically be required to document and present their findings as well as making an end of summer presentation to the group about what they achieved during their internship.Your Profile:Actively studying towards a degree in Physics, Optics, Engineering, or computer science with a minimum of two years completed.Matlab and/or Python experience, modelling skills, C++ experience is a plus.Background in light-matter interaction or plasma physics strongly preferred.Possess strong ownership characteristics and commitment to achieving results on timeHave strong written and oral communicative skillsBe a demonstrated “team player” with a quality orientation and interpersonal skillsHave strong problem solving skills and the ability to take initiative with little guidanceBe willing to accept feedback from a variety of stakeholdersThe current base annual salary range for this role is currently $18.00  -  $56.00. Pay scales are determined by role, level, location and alignment with market data. Individual pay is determined through interviews and an assessment of several factors that that are unique to each candidate, including but not limited to job-related skills, relevant education and experience, certifications, abilities of the candidate and pay relative to other team members. Our recruiters can share more information about our bonus program, benefits and equity during the hiring process.This position requires access to controlled technology, as defined in the United States Export Administration Regulations (15 C.F.R. § 730, et seq.). Qualified candidates must be legally authorized to access such controlled technology prior to beginning work. Business demands may require ASML to proceed with candidates who are immediately eligible to access controlled technology.Inclusion and diversityASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company.Need to know more about applying for a job at ASML? Read our frequently asked questions.Request an AccommodationASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities.  An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to USHR_Accommodation@asml.com to initiate the company’s reasonable accommodation process.Please note: This email address is solely intended to provide a method for applicants to initiate ASML’s process to request accommodation(s). Any recruitment questions should be directed to the designated Talent Acquisition member for the position.",
       "job_apply_link": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---EUV-Light-Technologies_J-00331949",
       "job_posted_at_datetime_utc": "2026-01-15T23:26:56.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "asml-intern-euv-light-technologies-san-diego"
+      "id": "asml-intern-euv-light-technologies-san-diego",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {
@@ -1189,16 +1025,18 @@
       "employer_name": "AstraZeneca",
       "job_city": "Gaithersburg",
       "job_state": "MD",
-      "job_description": "Join AstraZeneca in this exciting opportunity.",
+      "job_description": "We are looking for Master's students majoring Computer Science or a related field 12-week internship role at our site in Gaithersburg, MD from May 18 2026 to August 7 2026.Position Description: Build information repository: Collect and organize insight summaries, including full context of the projects from Breast MDx team membersDesign: Develop and socialize product concept, collect user needs and requirements from a broader MDx team to inform prototype designBuild prototype data productTest basic functionalities: develop simple test cases and work with selected stakeholders to verify accuracy and functionalitySummarize the project and present to the organization stakeholdersPosition Requirements:Master's students majoring Computer Science or a related field Candidates must have an expected graduation date after August 2026.RequiredData/AI Literacy: Understanding of how AI-powered search or chat tools work; understanding limitations, responsible use, and prompting; willingness to learn quickly Rapid Prototyping: Demonstrated experience in assembling a working prototype, comfort using available platforms, templates, or low-code tools to demonstrate valueUser-Centered Product Thinking: Demonstrated experience in translating needs into simple, useful concepts; prioritizing must-haves vs. nice-to-haves; documenting basic requirements and success criteriaPreferredProject Management & Ownership: Planning a 12 week roadmap, managing tasks and milestones, and keeping stakeholders updated; delivering on time with a concise demo and documentationEnthusiasm for collaboration, cross-functional projects, public speaking, and presentation design.US Work Authorization is required at time of application.Ability to report onsite to Gaithersburg, MD site 3 days per week. This role will not provide relocation assistance.Compensation range: $37-$41 per hourDate Posted15-Jan-2026Closing Date28-Jan-2026Our mission is to build an inclusive environment where equal employment opportunities are available to all applicants and employees. In furtherance of that mission, we welcome and consider applications from all qualified candidates, regardless of their protected characteristics. If you have a disability or special need that requires accommodation, please complete the corresponding section in the application form.",
       "job_apply_link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/AI-Insights-Innovator-Intern--Graduate-Level-_R-243814",
       "job_posted_at_datetime_utc": "2026-01-15T23:24:45.000Z",
       "job_employment_type": "FULLTIME",
       "job_posted_at": "1h",
-      "id": "astrazeneca-ai-insights-innovator-graduate-level-gaithersburg"
+      "id": "astrazeneca-ai-insights-innovator-graduate-level-gaithersburg",
+      "description_platform": "workday",
+      "description_success": true
     },
-    "status": "pending",
+    "status": "enriched",
     "addedAt": "2026-01-16T00:43:43.687Z",
-    "enrichedAt": null,
+    "enrichedAt": "2026-01-16T07:43:19.334Z",
     "postedAt": null
   },
   {

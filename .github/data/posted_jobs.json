@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T07:32:43.199Z",
+  "lastUpdated": "2026-01-16T07:43:58.067Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4665,14 +4665,113 @@
       "sourceUrl": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/PROLITH-Applications-Intern_2633688-1",
       "discordThreadId": "1461624178426777611",
       "instanceNumber": 1
+    },
+    {
+      "id": "geotab-data-scientist-intern-atlanta-2026-01-16-1",
+      "jobId": "geotab-data-scientist-intern-atlanta",
+      "company": "Geotab",
+      "title": "Data Scientist Intern",
+      "postedToDiscord": "2026-01-16T07:43:26.349Z",
+      "sourceDate": "2026-01-15T16:41:26.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5018105008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "highmark-health-etdp-intern-software-engineering-pittsburgh-2026-01-16-1",
+      "jobId": "highmark-health-etdp-intern-software-engineering-pittsburgh",
+      "company": "Highmark Health",
+      "title": "ETDP Intern - Software Engineering",
+      "postedToDiscord": "2026-01-16T07:43:33.517Z",
+      "sourceDate": "2026-01-15T16:29:52.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Software-Engineering_J270031",
+      "discordThreadId": "1461626904930156673",
+      "instanceNumber": 1
+    },
+    {
+      "id": "highmark-health-etdp-intern-data-analytics-pittsburgh-2026-01-16-1",
+      "jobId": "highmark-health-etdp-intern-data-analytics-pittsburgh",
+      "company": "Highmark Health",
+      "title": "ETDP Intern - Data Analytics",
+      "postedToDiscord": "2026-01-16T07:43:33.522Z",
+      "sourceDate": "2025-09-17T19:22:39.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Intern---Data-Analytics_J270028",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "highmark-health-etdp-associate-software-engineer-pittsburgh-2026-01-16-1",
+      "jobId": "highmark-health-etdp-associate-software-engineer-pittsburgh",
+      "company": "Highmark Health",
+      "title": "ETDP Associate - Software Engineer",
+      "postedToDiscord": "2026-01-16T07:43:37.246Z",
+      "sourceDate": "2026-01-15T16:29:35.000Z",
+      "sourceUrl": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J269570",
+      "discordThreadId": "1461626921228959962",
+      "instanceNumber": 1
+    },
+    {
+      "id": "auctane-software-engineering-intern-austin-2026-01-16-1",
+      "jobId": "auctane-software-engineering-intern-austin",
+      "company": "Auctane",
+      "title": "Software Engineering Intern",
+      "postedToDiscord": "2026-01-16T07:43:40.642Z",
+      "sourceDate": "2026-01-15T16:19:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/auctane/jobs/7485087003",
+      "discordThreadId": "1461626936286646284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "markon-software-engineer-1-odenton-2026-01-16-1",
+      "jobId": "markon-software-engineer-1-odenton",
+      "company": "Markon",
+      "title": "Software Engineer 1",
+      "postedToDiscord": "2026-01-16T07:43:44.206Z",
+      "sourceDate": "2026-01-15T00:11:39.000Z",
+      "sourceUrl": "https://careers-markon.icims.com/jobs/8010/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461626950723567677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "borgwarner-web-applications-communications-auburn-hills-2026-01-16-1",
+      "jobId": "borgwarner-web-applications-communications-auburn-hills",
+      "company": "BorgWarner",
+      "title": "Web Applications/Communications",
+      "postedToDiscord": "2026-01-16T07:43:47.902Z",
+      "sourceDate": "2025-11-14T23:48:03.000Z",
+      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Web-Applications-Communications-Intern--Year-Round-_R2025-4462",
+      "discordThreadId": "1461626965248446607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "arch-capital-cloud-and-data-engineering-summer-intern-raleigh-2026-01-16-1",
+      "jobId": "arch-capital-cloud-and-data-engineering-summer-intern-raleigh",
+      "company": "Arch Capital Group",
+      "title": "Cloud and Data Engineering Summer Intern",
+      "postedToDiscord": "2026-01-16T07:43:54.456Z",
+      "sourceDate": "2025-09-11T23:29:31.000Z",
+      "sourceUrl": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Raleigh-NC-United-States-of-America/Technology-Summer-Intern_R25_866",
+      "discordThreadId": "1461626993744285698",
+      "instanceNumber": 1
+    },
+    {
+      "id": "sharkninja-spring-2026-retail-excellence-systems-analytics-co-op-january-through-june-needham-2026-01-16-1",
+      "jobId": "sharkninja-spring-2026-retail-excellence-systems-analytics-co-op-january-through-june-needham",
+      "company": "SharkNinja",
+      "title": "Spring 2026: Retail Excellence Systems & Analytics Co-op - January through June",
+      "postedToDiscord": "2026-01-16T07:43:58.067Z",
+      "sourceDate": "2025-09-03T02:07:37.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4595872006",
+      "discordThreadId": "1461627008571277459",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 424,
+    "totalJobs": 433,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T07:32:43.199Z",
+      "date": "2026-01-16T07:43:58.067Z",
       "archived": 0
     }
   }
