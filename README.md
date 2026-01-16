@@ -12,26 +12,6 @@
 ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
 ![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
-![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
-
-<!-- Row 2: Repository Stats -->
-![GitHub stars](https://img.shields.io/github/stars/zapplyjobs/New-Grad-Internships?style=flat&logo=github&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/zapplyjobs/New-Grad-Internships?style=flat&logo=github&color=blue)
-![Last commit](https://img.shields.io/github/last-commit/zapplyjobs/New-Grad-Internships?style=flat&color=red)
-![Contributors](https://img.shields.io/github/contributors/zapplyjobs/New-Grad-Internships?style=flat&color=green)
-
-<!-- Row 3: Workflow Health -->
-![Update Jobs](https://img.shields.io/github/actions/workflow/status/zapplyjobs/New-Grad-Internships/update-jobs.yml?style=flat&label=job-updates&logo=github-actions&logoColor=white)
-
-<!-- Row 4: Community & Links (for-the-badge style) -->
-[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
-[![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply-jobs.vercel.app/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UswBsduwcD)
-[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
-[![Report Issue](https://img.shields.io/badge/Report_Issue-Bug_Tracker-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zapplyjobs/New-Grad-Internships/issues)
-
-<!-- Zapply extension badge - add when extension launches -->
-<!-- [![Zapply Extension](https://img.shields.io/badge/Extension-Apply_Faster-4F46E5?style=for-the-badge&logo=chrome&logoColor=white)](https://zapply-extension-url) -->
 
 </div>
 
@@ -46,74 +26,70 @@
 
 ---
 
-## Join Our Community
+## Website & Autofill Extension
 
-<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+<img src="images/zapply.png" alt="Apply to jobs in seconds with Zapply.">
 
-Connect with fellow students, get career advice, share internship experiences, and stay updated on the latest opportunities. Join our community of CS students navigating their career journey together!
+Explore Zapply's website and check out:
+
+- Our chrome extension that auto-fills your job applications in seconds.
+- A dedicated job board with the latest jobs for various types of roles.
+- User account providing multiple profiles for different resume roles.
+- Job application tracking with streaks to unlock commitment awards.
+
+Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
 
-## Alerts
+## Explore Around
 
-<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+<img src="images/connect.png" alt="Explore Around">
 
-**Don't miss new opportunities!**  
-- 🌟 **Star this repo** to get updates on your GitHub dashboard.
-- 👁️ **Watch** for instant notifications on new jobs.
-- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+Check out what we're doing on our socials, join our community to connect with fellow job seekers, get career advice, keep a lookout for free templates, and stay updated on the latest opportunities.
 
----
-
-## Live Stats
-
-<img src="images/stats.png" alt="Real-time counts of roles and companies.">
-
-- 🔥 **Current Positions:** 9 hot data-focused jobs
-- **🏢 Companies**: 6 companies
-- **⭐ FAANG+ Jobs**: 3 premium opportunities
-- 📅 **Last Updated:** January 16, 2026
-- 🤖 **Next Update:** Tomorrow at 9 AM UTC
-
+<p align="center">
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/socials-discord.png" alt="Discord" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/socials-instagram.png" alt="Instagram" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/socials-tiktok.png" alt="TikTok" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/zapply-jobs/"><img src="images/socials-linkedin.png" alt="LinkedIn" height="50"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/socials-reddit.png" alt="Reddit" height="50"></a>
+</p>
 
 ---
 
-## SWE Internships 2026
+## More Resources
 
-<img src="images/int-internships.png" alt="Software engineering internships for 2026.">
-
-### 🏢 **FAANG+ & Elite Tech Internships**
-
-| Company | Program | Apply Now |
-|---------|---------|-----------|
-| 🔵 **Google** | STEP Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://buildyourfuture.withgoogle.com/programs/step) |
-| 🪟 **Microsoft** | Explore Microsoft Program | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.microsoft.com/v2/global/en/universityinternship) |
-| 📘 **Meta** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://www.metacareers.com/careerprograms/students) |
-| 📦 **Amazon** | SDE Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/teams/internships-for-students) |
-| 🍎 **Apple** | Engineering & Technology Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN) |
-| 🎬 **Netflix** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.netflix.com/careers/internships) |
-| ⚡ **Tesla** | Engineering Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tesla.com/careers/internships) |
-| 🟢 **Nvidia** | Ignite & SWE Internship | [<img src="images/apply.png" width="75" alt="Apply">](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/) |
-| 💳 **Stripe** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/university) |
-| 🪙 **Coinbase** | Software Engineer Intern | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/internships) |
-
-### 📚 **Additional Internship & New Grad Resources**
-
-| Platform | Description | Visit Now |
-|----------|-------------|-----------|
-| 🚀 **Wellfound (AngelList)** | Startup jobs with salary & equity transparency | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://wellfound.com/jobs) |
-| 🔗 **LinkedIn Student Jobs** | Professional network for student opportunities | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.linkedin.com/jobs/student-jobs) |
-| 🔵 **Indeed Internships** | Comprehensive internship search engine | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.indeed.com/q-software-engineering-intern-jobs.html) |
-| 🏢 **Glassdoor Internships** | Internships with company reviews and salary data | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.glassdoor.com/Job/software-engineering-intern-jobs-SRCH_KO0,27.htm) |
-| 🎓 **NACE Career Resources** | National Association of Colleges and Employers | [<img src="images/int-visit.png" width="75" alt="Visit Now">](https://www.naceweb.org/internships) |
-
-
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
+</p>
 
 ---
 
@@ -134,7 +110,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Software Engineer – Top Secret: Internship Opportunities - Ctj | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556654056) | 6d |
-| Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 1d |
+| Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 1d |
 
 ### 🏢 **Top Tech** (3 positions)
 
@@ -144,7 +120,7 @@ Connect with fellow students, get career advice, share internship experiences, a
 |------|----------|-------|-----------|-----|
 | Performance Engineering Intern - Deep Learning and HPC - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830) | 2d |
 | Quantum Computing Software Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1) | 3d |
-| Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 3d |
+| Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 3d |
 
 ### 💻 **Enterprise Software** (1 position)
 
@@ -174,120 +150,20 @@ Connect with fellow students, get career advice, share internship experiences, a
 
 ---
 
-## Insights on the Repo
-
-<img src="images/insights.png" alt="Insights pulled from current listings.">
-
-### 🏢 Top Companies
-
-#### ⭐ FAANG+ (2 companies)
-🟦 **[Microsoft](https://jobs.careers.microsoft.com/global/en/search)** (2 positions) • 📦 **[Amazon](https://amazon.jobs/en-gb/search)** (1)
-
-#### ☁️ Enterprise & Cloud (2 companies)
-🖥️ **[Hewlett Packard Enterprise](https://hpe.wd5.myworkdayjobs.com/WFMathpe)** (1 position) • 🎮 **[NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)** (3)
-
-
----
-
-### 📈 Opportunity Type Breakdown
-
-| Level               | Count | Percentage | Description                     |
-|---------------------|-------|------------|-----------------------------------|
-| 🟢 Internships & Co-ops | 7 | 78% | Summer/Fall programs for students |
-| 🟡 New Grad Roles | 2 | 22% | 0-1 years of experience |
-| 🔴 Early Career         | 0 | 0% | 1-2 years of experience |
-
----
-
-### 🌍 Top Locations
-- **Santa Clara, CA**: 2 opportunities
-- **Redmond, WA**: 2 opportunities
-- **Herdon, VA**: 1 opportunity
-- **Pleasanton, CA**: 1 opportunity
-- **McLean, VA**: 1 opportunity
-- **St. Louis, MO**: 1 opportunity
-- **Milpitas, CA**: 1 opportunity
-
----
-
-### 🔮 Why Students & New Grads Choose Our Platform
-
-✅ **100% Real Opportunities:** 9+ verified internships and new grad roles from 6 top companies.
-<br>
-✅ **Fresh Daily Updates:** Live data from Google, Amazon, Meta, and more refreshed every 10 minutes automatically.
-<br>
-✅ **Student-Focused:** Smart filtering for CS students, bootcamp grads, and recent graduates.
-<br>
-✅ **Intern-to-FTE Pipeline:** Track companies with strong conversion rates from internship to full-time.
-<br>
-✅ **Direct Applications:** Skip recruiters—apply straight to company career pages for faster response times.
-<br>
-✅ **Mobile-Optimized:** Perfect mobile experience for job hunting between classes or on campus.
-
----
-
-## Application Tips That Actually Work
-
-<img src="images/tips.png" alt="No fluff — just strategies that help.">
-
-### 🔍 **Research Before Applying**
-- **Find the hiring manager:** Search "[Company] [Team] engineering manager" or "[Company] internship recruiter" on LinkedIn.
-- **Check program details:** Look for program length, start dates, return offer rates, and housing stipends.
-- **Verify eligibility:** Check for year requirements (rising junior, graduating senior, etc.) and visa sponsorship.
-- [Use this 100% ATS-compliant and job-targeted resume template](https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx).
-
-### 📄 **Resume Best Practices for Students**
-- **Lead with education:** GPA (if 3.0+), relevant coursework, CS projects, and hackathons.
-- **Quantify projects:** "Built web app with 500+ users" > "Built a website."
-- **Show technical skills:** List programming languages, frameworks, and tools you've actually used.
-- [Read this informative guide on tweaking your resume for internships](https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e).
-
-### 🎯 **Interview Prep for New Grads**
-- **Practice coding problems:** Use LeetCode, HackerRank, or similar platforms daily.
-- **Prepare project stories:** Be ready to explain your GitHub repos and course projects in detail.
-- **Ask smart questions:** "What does a typical day look like for interns?" or "How do you support new grads?"
-- [Review this comprehensive interview guide on common questions for students](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0).
-
-<p align="center">
-  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
-</p>
-
----
-
 ## Become a Contributor
 
-<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+<img src="images/contributor.png" alt="Become a Contributor">
 
-Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
+Add new jobs to our listings keeping in mind the following:
 
-### Contributing Guide
-#### 🎯 Roles We Accept
 - Located in the US, Canada, or Remote.
-- Not already in our database.
-- Currently accepting applications.
+- Openings are currently accepting applications and not older than 1 week.
+- Create a new issue to submit different job positions.
+- Update a job by submitting an issue with the job URL and required changes.
 
-#### 🚀 How to Add Jobs
-1. Create a new issue.
-2. Select the "New Job" template.
-3. Fill out and submit the form.
-   > Submit separate issues for each position, even from the same company.
+Our team reviews within 24-48 hours and approved jobs are added to the main list!
 
-#### ✏️ How to Update Jobs
-1. Copy the job URL to edit.
-2. Create a new issue.
-3. Select the "Edit Job" template.
-4. Paste the URL and describe changes.
-
-#### ⚡ What Happens Next
-- Our team reviews within 24-48 hours.
-- Approved jobs are added to the main list.
-- The README updates automatically via script.
-- Contributions go live at the next daily refresh (9 AM UTC).
-- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
+Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 
 ---
@@ -302,7 +178,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 - **🏢 Companies**: 225 companies  
 - **⭐ FAANG+ Opportunities**: 88 positions
 
-### ⭐ **FAANG+** (88 positions)
+### ⭐ **FAANG+** (86 positions)
 
 #### 📦 **Amazon** (12 positions)
 
@@ -322,7 +198,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Systems Development Engineer Internship | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amazon.jobs/en/jobs/3062254/systems-development-engineer-internship-2026-us) | 1mo |
 
 <details>
-<summary><h4>🟦 <strong>Microsoft</strong> (73 positions)</h4></summary>
+<summary><h4>🟦 <strong>Microsoft</strong> (71 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -333,12 +209,11 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - LLM Performance Optimization | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556643548) | 4w |
 | Research Intern - Machine Learning and Optimization | Cambridge, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556655958) | 2w |
 | Research Intern - Post-Training | Washington, Locations | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556626723) | 4w |
-| Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 4w |
+| Software Engineer | Redmond, WA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641809) | 4w |
 | Research Intern - Bio Large Language Models | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556642373) | 1mo |
 | Research Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556641879) | 1mo |
 | Research Intern - Extended Perception Interaction Cognition - Epic | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631767) | 1mo |
 | Research Intern - MSR Inclusive Futures Team | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631751) | 1mo |
-| Research Intern - AI Systems & Architecture | Redmond, WA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631742) | 1mo |
 | Research Intern - Office of Applied Research | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556636970) | 1mo |
 | Research Intern - AI Frameworks - Network Systems and Tools | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639524) | 1mo |
 | Research Intern - Environmental Policy/Public Policy | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556639557) | 1mo |
@@ -366,7 +241,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Research Intern - Networking Research Group | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622023) | 1mo |
 | Research Intern - Cloud Reliability and Efficiency | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621787) | 1mo |
 | Research Intern - Artificial Intelligence | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556622017) | 1mo |
-| Research Intern - AI Inference Architecture | Cambridge, MA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631736) | 1mo |
 | Research Intern - AI Agents & Reasoning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621722) | 1mo |
 | Research Intern - Computer Vision Algorithms | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556621721) | 1mo |
 | Research Intern | Kitsap County, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556631728) | 1mo |
@@ -415,9 +289,9 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Software Engineering Intern | Atlanta, GA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026) | 1mo |
 
-### 🏢 **Top Tech** (21 positions)
+### 🏢 **Top Tech** (18 positions)
 
-#### 🎮 **NVIDIA** (15 positions)
+#### 🎮 **NVIDIA** (12 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -425,17 +299,14 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 3w |
 | AI Compiler Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 1mo |
 | Autonomous Vehicles and Robotics Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | 1mo |
-| Deep Learning Computer Architecture Intern | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 1mo |
 | Systems Software Engineering Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Systems-Software-Engineering_JR2003204) | 1mo |
 | Deep Learning Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 1mo |
-| Computer Architecture Intern | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Computer-Architecture_JR2003201-1) | 1mo |
-| PhD Autonomous Vehicles Research | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244) | 1mo |
-| PhD Computer Vision and Deep Learning Research | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241) | 1mo |
-| Software Engineering | Santa Clara, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206) | 1mo |
+| PhD Autonomous Vehicles Research | Santa Clara, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Autonomous-Vehicles-Research_JR2003244) | 1mo |
+| PhD Computer Vision and Deep Learning Research | Santa Clara, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Computer-Vision-and-Deep-Learning-Research_JR2003241) | 1mo |
+| Software Engineering | Santa Clara, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Software-Engineering-_JR2003206) | 1mo |
 | NVIDIA Internships: PhD Graphics and Simulation Research | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Graphics-and-Simulation-Research_JR2003242) | 1mo |
 | NVIDIA 2026 Internships: PhD Generative AI Research | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228) | 1mo |
 | Internships: Deep Learning | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning_JR2003208) | 1mo |
-| NVIDIA Internships: Deep Learning Computer Architecture | Santa Clara, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2026-Internships--Deep-Learning-Computer-Architecture_JR2003202) | 1mo |
 
 #### 🔷 **Intel** (1 position)
 
@@ -455,7 +326,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 |------|----------|-------|-----------|-----|
 | Summer 2025 Intern - Software Engineer (Security/Government) | Bellevue, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | 1mo |
 | Intern - AI Research | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---Palo-Alto/Summer-2026-Intern---AI-Research_JR313214-2) | 1mo |
-| Salesforce AI Research | Palo Alto, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422) | 1mo |
+| Salesforce AI Research | Palo Alto, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Salesforce-AI-Research-Intern---Summer-2025_JR268422) | 1mo |
 
 #### 🔵 **IBM** (1 position)
 
@@ -469,8 +340,8 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer 2 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2006070) | 1w |
-| Software Engineer 2 | San Jose, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001164) | 1mo |
+| Software Engineer 2 – Co-op - United States | Boston, MA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2006070) | 1w |
+| Software Engineer 2 | San Jose, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001164) | 1mo |
 | AI Research Scientist 1 - Intern | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2002885) | 1mo |
 | AI Research Scientist PhD – Intern - United States | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2000473) | 1mo |
 | Software Engineer Data/AI/Intelligent Systems PhD Intern | Boston, MA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001487) | 1mo |
@@ -509,10 +380,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Engineering Intern II, Summer 2026 | Nashua, NH | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118008BREXTERNAL/Software-Engineering-Intern-II-Summer-2026) | 1mo |
 | Software Engineering Intern III, Summer 2026 | Nashua, NH | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118009BREXTERNAL/Software-Engineering-Intern-III-Summer-2026) | 1mo |
 | Software Engineering Intern IV, Summer 2026 | Nashua, NH | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | 1mo |
-| Software or Computer Engineering Co-op | Sterling Heights, MI | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op) | 1mo |
+| Software or Computer Engineering Co-op | Sterling Heights, MI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US116202BREXTERNAL/Software-or-Computer-Engineering-Co-op) | 1mo |
 | Software or Computer Engineering Intern | Sterling Heights, MI | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115987BREXTERNAL/Software-or-Computer-Engineering-Intern-Summer-2026) | 1mo |
 | Software Engineering Intern | San Diego, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115385BREXTERNAL/Software-Engineering-Intern-Summer-2026) | 1mo |
-| Software Engineering CO-OP | San Diego, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026) | 1mo |
+| Software Engineering CO-OP | San Diego, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.baesystems.com/global/en/job/BAE1US115639BREXTERNAL/Software-Engineering-CO-OP-Summer-Fall-2026) | 1mo |
 
 #### ⚙️ **General Dynamics** (4 positions)
 
@@ -537,10 +408,10 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | Software Automation Engineering Intern - Summer 2026 | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27482?lang=en-us&icims=1) | 1mo |
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1mo |
 
-### 🛡️ **Defense & Aerospace** (20 positions)
+### 🛡️ **Defense & Aerospace** (19 positions)
 
 <details>
-<summary><h4>🚗 <strong>Waymo</strong> (20 positions)</h4></summary>
+<summary><h4>🚗 <strong>Waymo</strong> (19 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -552,17 +423,16 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 | 2026 Summer Intern - MS/PhD - Software Engineer - Predictive Planner Research | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357510) | 1mo |
 | 2026 Summer Intern - MS/PhD - Compute - Compiler | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7340164) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Planning/Prediction | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7357493) | 1mo |
-| 2026 Summer Intern, MS/PhD, ML Architecture, Software Engineer | Mountain View, CA | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-architecture-software-engineer-mountain-view-california-united-states?gh_jid=7340150) | 1mo |
-| Software Engineering, Fleet Response | San Francisco, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1mo |
+| Software Engineering, Fleet Response | San Francisco, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 1mo |
 | Intern - Research - Multimodal Large Language Models | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7298453) | 1mo |
 | Intern - Research - 3D/4D Scene Reconstruction and Understanding | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7280172) | 1mo |
 | Intern - Research - Perception Foundation Models | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7274784) | 1mo |
-| Software Engineering, Commercialization | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1mo |
+| Software Engineering, Commercialization | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1mo |
 | 2026 Summer Intern - PhD - Perception Semantics | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7258380) | 1mo |
 | Intern - PhD - Machine Learning Engineer - Simulation | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7252833) | 1mo |
-| Machine Learning Infra Foundations | Mountain View, CA | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 1mo |
+| Machine Learning Infra Foundations | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-machine-learning-infra-foundations-mountain-view-california-united-states) | 1mo |
 | 2026 Summer Intern - PhD - Perception - Computer Vision/Deep Learning | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7235071) | 1mo |
 
 </details>
@@ -611,7 +481,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Software Engineer Co-op | Huntsville, AL | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 1mo |
+| Software Engineer Co-op | Huntsville, AL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.siemens.com/careers/job/563156132037214) | 1mo |
 
 #### 📡 **Analog Devices** (4 positions)
 
@@ -626,7 +496,7 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare) | 1mo |
+| Co-Op - Bachelors Software Eng (Fall 2025) | Mason, OH | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.honeywell.com/en/sites/Honeywell/job/109972/?utm_medium=jobshare) | 1mo |
 
 
 
@@ -635,30 +505,6 @@ Add new jobs! See the [contributing guide](CONTRIBUTING-GUIDE.md).
 ---
 
 
-
-## More Resources
-
-<p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2026"><img src="images/repo-dsj.png" alt="Data Science Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Hardware-Engineering-Jobs-2026"><img src="images/repo-hej.png" alt="Hardware Engineering Jobs" height="40"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/New-Grad-Nursing-Jobs-2026"><img src="images/repo-nsj.png" alt="Nursing Jobs" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/resume-samples-2026"><img src="images/repo-rss.png" alt="Resume Samples" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/interview-handbook-2026"><img src="images/repo-ihb.png" alt="Interview Handbook" height="40"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/zapplyjobs/Research-Internships-for-Undergraduates"><img src="images/repo-rifu.png" alt="Research Internships" height="40"></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
-</p>
 
 ---
 
