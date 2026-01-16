@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:33:01.652Z",
+  "lastUpdated": "2026-01-16T05:47:57.719Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4192,14 +4192,25 @@
       "sourceUrl": "https://jobs.bytedance.com/en/position/7541089305176443144/detail",
       "discordThreadId": "1461594057418735709",
       "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-part-time-research-assistants-statistics-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-part-time-research-assistants-statistics-state-college",
+      "company": "PennState University",
+      "title": "Part-Time Research Assistants-Statistics",
+      "postedToDiscord": "2026-01-16T05:47:57.719Z",
+      "sourceDate": "2025-11-22T11:47:32.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Assistants-Statistics_REQ_0000055596-1",
+      "discordThreadId": "1461597809060089929",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 381,
+    "totalJobs": 382,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T05:33:01.652Z",
+      "date": "2026-01-16T05:47:57.719Z",
       "archived": 0
     }
   }
