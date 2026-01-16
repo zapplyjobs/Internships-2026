@@ -1,0 +1,23 @@
+{
+  "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b",
+  "data": {
+    "success": true,
+    "platform": "lever",
+    "description": "Part-Time Software Engineer (6-month Contract)Foster City, CASystem Design and Mission Assurance – Systems Engineering - Safety /Contract /HybridApply for this jobZoox is on an ambitious journey to develop a full-stack autonomous mobility solution for cities — and the System Design and Mission Assurance (SDMA) team plays a foundational role in making it happen. We’re responsible for constructing the safety case and fail-operational design for our autonomous robotaxis before they hit public roads.We’re looking for a part-time Full Stack Software Engineer (approximately 20 hours per week, starting for 6 months) to join the team and gain hands-on, real-world experience building the tools and automation that drive Zoox’s safety metrics. This role is an excellent opportunity for local students who want to apply classroom learning to cutting-edge autonomous vehicle technology.Under the mentorship of a senior engineer, you’ll collaborate with PMs and engineers to design, develop, and enhance applications used in Zoox’s safety evaluation processes.In this role, you will: Help develop and implement scalable applications to automate the generation of Zoox’s safety metrics.Collaborate with software engineers and PMs to build and test new features.Improve existing tools by optimizing latency, CPU/memory usage, and database queries.Qualifications:Exposure to SQL, Spark, JavaScript/TypeScript, HTML, CSS, or Python.Experience with a Front-End UI Framework (e.g., Vue, React, Svelte) or a web framework (e.g., Flask, FastAPI).Comfortable using Google Suite or Microsoft Office; willing to learn tools like JIRA or Confluence.Strong written and verbal communication skills.Actively enrolled in a 2-year or 4-year college program pursuing a degree or certificate in Software Engineering, Computer Science, Systems Engineering, Mechanical Engineering, Electrical Engineering, or a related field.Bonus Qualifications:Familiarity with a low-level language such as Java, Kotlin, C, C++, or Rust.Understanding of low-level Linux system protocols, firmware, or ECUs.Experience or interest in using AI-assisted development tools such as Cursor IDE, GitHub Copilot, or Claude Code.Compensation$30 per hour. This is a contract position and employment for this position will be through a vendor contracted with Zoox. The hourly pay range is posted and you will be eligible for a benefits package as offered by the vendor.We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.Apply for this job",
+    "requirements": [
+      "Actively enrolled in a 2-year or 4-year college program pursuing a degree or certificate in Software Engineering, Computer Science, Systems Engineering, Mechanical Engineering, Electrical Engineering, or a related field."
+    ],
+    "responsibilities": [
+      "Help develop and implement scalable applications to automate the generation of Zoox’s safety metrics.",
+      "Collaborate with software engineers and PMs to build and test new features.",
+      "Comfortable using Google Suite or Microsoft Office; willing to learn tools like JIRA or Confluence.",
+      "Experience or interest in using AI-assisted development tools such as Cursor IDE, GitHub Copilot, or Claude Code."
+    ],
+    "metadata": {
+      "source": "lever-puppeteer",
+      "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b",
+      "fetchedAt": "2026-01-16T05:22:25.970Z"
+    }
+  },
+  "cachedAt": 1768540945970
+}

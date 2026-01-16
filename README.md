@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <p align="center">🚀 Real-time internships from 6+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 9+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
@@ -505,8 +503,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 
-
----
 
 <div align="center">
 
