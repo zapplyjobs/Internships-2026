@@ -2781,5 +2781,137 @@
     "sourceUrl": "https://careers-gdms.icims.com/jobs/69938/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1458984550838440122",
     "instanceNumber": 1
+  },
+  {
+    "id": "zscaler-api-platform-developer-tooling-intern-san-jose-2026-01-09-1",
+    "jobId": "zscaler-api-platform-developer-tooling-intern-san-jose",
+    "company": "Zscaler",
+    "title": "API Platform & Developer Tooling Intern",
+    "postedToDiscord": "2026-01-09T00:43:50.632Z",
+    "sourceDate": "2026-01-08T23:21:47.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015497007",
+    "discordThreadId": "1458984564981501953",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-machine-learning-phd-intern-calabasas-2026-01-09-1",
+    "jobId": "keysight-machine-learning-phd-intern-calabasas",
+    "company": "Keysight Technologies",
+    "title": "Machine Learning PhD Intern",
+    "postedToDiscord": "2026-01-09T00:43:57.048Z",
+    "sourceDate": "2026-01-08T23:35:12.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/50018?lang=en-us&icims=1",
+    "discordThreadId": "1458984593804759172",
+    "instanceNumber": 1
+  },
+  {
+    "id": "keysight-machine-learning-architecture-systems-phd-intern-calabasas-2026-01-09-1",
+    "jobId": "keysight-machine-learning-architecture-systems-phd-intern-calabasas",
+    "company": "Keysight Technologies",
+    "title": "Machine Learning Architecture Systems-PhD Intern",
+    "postedToDiscord": "2026-01-09T00:44:00.566Z",
+    "sourceDate": "2026-01-08T23:31:08.000Z",
+    "sourceUrl": "https://jobs.keysight.com/jobs/50016?lang=en-us&icims=1",
+    "discordThreadId": "1458984607771787299",
+    "instanceNumber": 1
+  },
+  {
+    "id": "str-cyber-emulation-engineer-burlington-2026-01-09-1",
+    "jobId": "str-cyber-emulation-engineer-burlington",
+    "company": "STR",
+    "title": "Cyber Emulation Engineer",
+    "postedToDiscord": "2026-01-09T00:44:04.045Z",
+    "sourceDate": "2026-01-08T23:27:11.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4643134006",
+    "discordThreadId": "1458984622703640679",
+    "instanceNumber": 1
+  },
+  {
+    "id": "zscaler-data-engineer-intern-san-jose-2026-01-09-1",
+    "jobId": "zscaler-data-engineer-intern-san-jose",
+    "company": "Zscaler",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2026-01-09T00:44:07.564Z",
+    "sourceDate": "2026-01-08T23:21:54.000Z",
+    "sourceUrl": "https://job-boards.greenhouse.io/zscaler/jobs/5015437007",
+    "discordThreadId": "1458984637224452106",
+    "instanceNumber": 1
+  },
+  {
+    "id": "robert-bosch-venture-capital-computational-materials-science-intern-belmont-2026-01-09-1",
+    "jobId": "robert-bosch-venture-capital-computational-materials-science-intern-belmont",
+    "company": "Robert Bosch Venture Capital",
+    "title": "Computational Materials Science Intern",
+    "postedToDiscord": "2026-01-09T00:44:11.062Z",
+    "sourceDate": "2026-01-08T23:21:37.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/BoschGroup/744000102361886",
+    "discordThreadId": "1458984651900059792",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-intern-computational-sciences-san-bruno-2026-01-09-1",
+    "jobId": "genentech-intern-computational-sciences-san-bruno",
+    "company": "Genentech",
+    "title": "Intern - Computational Sciences",
+    "postedToDiscord": "2026-01-09T01:17:03.156Z",
+    "sourceDate": "2026-01-08T23:15:08.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Computational-Sciences_202512-132619",
+    "discordThreadId": "1458992922702905575",
+    "instanceNumber": 1
+  },
+  {
+    "id": "microsoft-research-intern-undergraduate-cambridge-2026-01-09-1",
+    "jobId": "microsoft-research-intern-undergraduate-cambridge",
+    "company": "Microsoft",
+    "title": "Research Intern - Undergraduate",
+    "postedToDiscord": "2026-01-09T01:17:06.691Z",
+    "sourceDate": "2026-01-08T23:11:37.000Z",
+    "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556642384",
+    "discordThreadId": "1458992938381213756",
+    "instanceNumber": 1
+  },
+  {
+    "id": "expedia-machine-learning-science-intern-masters-austin-2026-01-09-1",
+    "jobId": "expedia-machine-learning-science-intern-masters-austin",
+    "company": "Expedia Group",
+    "title": "Machine Learning Science Intern - Masters",
+    "postedToDiscord": "2026-01-09T01:17:10.256Z",
+    "sourceDate": "2025-10-09T18:03:39.000Z",
+    "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---Masters---2026---Austin--San-Jose_R-98584-1",
+    "discordThreadId": "1458992953186849031",
+    "instanceNumber": 1
+  },
+  {
+    "id": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale-2026-01-09-1",
+    "jobId": "uber-2026-phd-software-engineer-intern-container-platform-united-states-sunnyvale",
+    "company": "Uber",
+    "title": "2026 PhD Software Engineer Intern - Container Platform - United States",
+    "postedToDiscord": "2026-01-09T01:17:17.028Z",
+    "sourceDate": "2026-01-08T23:13:01.000Z",
+    "sourceUrl": "https://www.uber.com/global/en/careers/list/153349/",
+    "discordThreadId": "1458992980957593742",
+    "instanceNumber": 1
+  },
+  {
+    "id": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis-2026-01-09-1",
+    "jobId": "carebridge-engineering-intern-summer-2026-digital-platforms-and-ai-organization-indianapolis",
+    "company": "CareBridge",
+    "title": "Engineering Intern - Summer 2026 - Digital Platforms and AI Organization",
+    "postedToDiscord": "2026-01-09T01:17:20.525Z",
+    "sourceDate": "2025-10-08T07:04:03.000Z",
+    "sourceUrl": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Intern--Summer-2026_JR168988-1",
+    "discordThreadId": "1458992996505616538",
+    "instanceNumber": 1
+  },
+  {
+    "id": "general-dynamics-mission-intern-engineer-software-engineering-bloomington-2026-01-09-1",
+    "jobId": "general-dynamics-mission-intern-engineer-software-engineering-bloomington",
+    "company": "General Dynamics Mission Systems",
+    "title": "Intern Engineer - Software Engineering",
+    "postedToDiscord": "2026-01-09T01:17:24.045Z",
+    "sourceDate": "2025-09-24T22:43:15.000Z",
+    "sourceUrl": "https://careers-gdms.icims.com/jobs/68062/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1458993011038879944",
+    "instanceNumber": 1
   }
 ]
