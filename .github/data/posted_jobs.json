@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T08:50:07.959Z",
+  "lastUpdated": "2026-01-16T09:00:44.809Z",
   "jobs": [
     {
       "id": "comcast-comcast-data-scientist-co-op-philadelphia-2026-01-09-1",
@@ -5017,14 +5017,113 @@
       "sourceUrl": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Power-Generation-Data-Analyst-Intern-WI-53203/1318168900/?ats=successfactors",
       "discordThreadId": "1461643660033654993",
       "instanceNumber": 1
+    },
+    {
+      "id": "general-dynamics-mission-configuration-management-intern-engineer-pittsfield-2026-01-16-1",
+      "jobId": "general-dynamics-mission-configuration-management-intern-engineer-pittsfield",
+      "company": "General Dynamics Mission Systems",
+      "title": "Configuration Management Intern Engineer",
+      "postedToDiscord": "2026-01-16T09:00:06.890Z",
+      "sourceDate": "2026-01-15T23:25:46.000Z",
+      "sourceUrl": "https://careers-gdms.icims.com/jobs/69533/job?mobile=true&needsRedirect=false",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "antora-energy-heat-to-power-characterization-intern-thermophotovoltaic-high-temperature-systems-san-jose-2026-01-16-1",
+      "jobId": "antora-energy-heat-to-power-characterization-intern-thermophotovoltaic-high-temperature-systems-san-jose",
+      "company": "Antora Energy",
+      "title": "Heat to Power Characterization Intern - Thermophotovoltaic/High-Temperature Systems",
+      "postedToDiscord": "2026-01-16T09:00:10.674Z",
+      "sourceDate": "2026-01-15T23:21:08.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/antora/jobs/5764948004",
+      "discordThreadId": "1461646187252944907",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-research-scientist-intern-security-for-ai-2026-start-san-jose-2026-01-16-1",
+      "jobId": "bytedance-research-scientist-intern-security-for-ai-2026-start-san-jose",
+      "company": "ByteDance",
+      "title": "Research Scientist Intern - Security for AI - 2026 Start",
+      "postedToDiscord": "2026-01-16T09:00:14.117Z",
+      "sourceDate": "2026-01-16T02:14:03.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7595676762475415861/detail",
+      "discordThreadId": "1461646202838712473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "tiktok-frontend-engineer-intern-san-jose-2026-01-16-1",
+      "jobId": "tiktok-frontend-engineer-intern-san-jose",
+      "company": "TikTok",
+      "title": "Frontend Engineer Intern",
+      "postedToDiscord": "2026-01-16T09:00:17.649Z",
+      "sourceDate": "2026-01-16T02:17:31.000Z",
+      "sourceUrl": "https://lifeattiktok.com/search/7595733632086591797",
+      "discordThreadId": "1461646217091223603",
+      "instanceNumber": 1
+    },
+    {
+      "id": "steel-dynamics-mechanical-engineering-intern-remote-in-usa-2026-01-16-1",
+      "jobId": "steel-dynamics-mechanical-engineering-intern-remote-in-usa",
+      "company": "Steel Dynamics",
+      "title": "Mechanical Engineering Intern",
+      "postedToDiscord": "2026-01-16T09:00:24.144Z",
+      "sourceDate": "2025-09-11T17:30:22.000Z",
+      "sourceUrl": "https://careers-steeldynamics.icims.com/jobs/6552/job?mobile=true&needsRedirect=false",
+      "discordThreadId": "1461646244706259071",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-backend-software-engineer-intern-san-mateo-2026-01-16-1",
+      "jobId": "verkada-backend-software-engineer-intern-san-mateo",
+      "company": "Verkada",
+      "title": "Backend Software Engineer Intern",
+      "postedToDiscord": "2026-01-16T09:00:30.579Z",
+      "sourceDate": "2026-01-16T02:30:38.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5026094007",
+      "discordThreadId": "1461646271667503206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-ml-for-electricity-infrastructure-planning-redmond-2026-01-16-1",
+      "jobId": "microsoft-research-intern-ai-ml-for-electricity-infrastructure-planning-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI/ML for Electricity Infrastructure Planning",
+      "postedToDiscord": "2026-01-16T09:00:34.825Z",
+      "sourceDate": "2026-01-16T07:17:50.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556734896",
+      "discordThreadId": "1461646286414676175",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stanley-black-decker-intern-data-analyst-bi-towson-2026-01-16-1",
+      "jobId": "stanley-black-decker-intern-data-analyst-bi-towson",
+      "company": "Stanley Black & Decker",
+      "title": "Intern – Data Analyst & BI",
+      "postedToDiscord": "2026-01-16T09:00:41.359Z",
+      "sourceDate": "2026-01-16T02:34:16.000Z",
+      "sourceUrl": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2026_REQ-1000043205",
+      "discordThreadId": "1461646316378656852",
+      "instanceNumber": 1
+    },
+    {
+      "id": "genmab-business-operations-and-analytics-intern-us-market-commercial-princeton-2026-01-16-1",
+      "jobId": "genmab-business-operations-and-analytics-intern-us-market-commercial-princeton",
+      "company": "Genmab",
+      "title": "Business Operations and Analytics Intern - US Market Commercial",
+      "postedToDiscord": "2026-01-16T09:00:44.808Z",
+      "sourceDate": "2026-01-16T07:27:51.000Z",
+      "sourceUrl": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Princeton/Business-Operations-and-Analytics-Intern---US-Market-Commercial_R15254-1",
+      "discordThreadId": "1461646331595587677",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 456,
+    "totalJobs": 465,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T08:50:07.959Z",
+      "date": "2026-01-16T09:00:44.809Z",
       "archived": 0
     }
   }
