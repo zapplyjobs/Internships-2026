@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:22:48.172Z",
+  "lastUpdated": "2026-01-16T05:33:01.652Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -4104,14 +4104,102 @@
       "sourceUrl": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003914",
       "discordThreadId": "1461591484129218695",
       "instanceNumber": 1
+    },
+    {
+      "id": "metalenz-computational-imaging-engineer-intern-boston-2026-01-16-1",
+      "jobId": "metalenz-computational-imaging-engineer-intern-boston",
+      "company": "Metalenz",
+      "title": "Computational Imaging Engineer Intern",
+      "postedToDiscord": "2026-01-16T05:32:27.640Z",
+      "sourceDate": "2025-11-20T19:15:58.000Z",
+      "sourceUrl": "https://jobs.ashbyhq.com/metalenz/2c1b45cc-1af4-4743-9e49-f00c64ef16d2/application",
+      "discordThreadId": "1461593913931468853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "university-of-virginia-ccl-digital-humanities-and-engagement-sra-student-wage-charlottesville-2026-01-16-1",
+      "jobId": "university-of-virginia-ccl-digital-humanities-and-engagement-sra-student-wage-charlottesville",
+      "company": "University of Virginia",
+      "title": "CCL Digital Humanities and Engagement SRA - Student Wage",
+      "postedToDiscord": "2026-01-16T05:32:34.269Z",
+      "sourceDate": "2025-11-17T16:07:45.000Z",
+      "sourceUrl": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/CCL-Digital-Humanities-and-Engagement-SRA--Student-Wage-_R0078089-1",
+      "discordThreadId": "1461593941542572158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "exxonmobil-analytical-science-optical-spectroscopist-houston-2026-01-16-1",
+      "jobId": "exxonmobil-analytical-science-optical-spectroscopist-houston",
+      "company": "ExxonMobil",
+      "title": "Analytical Science: Optical Spectroscopist",
+      "postedToDiscord": "2026-01-16T05:32:40.957Z",
+      "sourceDate": "2025-11-15T18:37:59.000Z",
+      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Analytical-Science-Optical-Spectroscopist-TX-77001/1332540700/?ats=successfactors",
+      "discordThreadId": "1461593969656987759",
+      "instanceNumber": 1
+    },
+    {
+      "id": "exxonmobil-chromatography-scientist-gc-hyphenated-techniques-houston-2026-01-16-1",
+      "jobId": "exxonmobil-chromatography-scientist-gc-hyphenated-techniques-houston",
+      "company": "ExxonMobil",
+      "title": "Chromatography Scientist - GC & Hyphenated Techniques",
+      "postedToDiscord": "2026-01-16T05:32:44.434Z",
+      "sourceDate": "2025-11-15T18:36:04.000Z",
+      "sourceUrl": "https://jobs.exxonmobil.com/ExxonMobil/job/Houston-Chromatography-Scientist-(GC-&-Hyphenated-Techniques)-TX-77001/1332539100/?ats=successfactors",
+      "discordThreadId": "1461593984756613150",
+      "instanceNumber": 1
+    },
+    {
+      "id": "oracle-software-engineer-intern-oracle-retail-burlington-2026-01-16-1",
+      "jobId": "oracle-software-engineer-intern-oracle-retail-burlington",
+      "company": "Oracle",
+      "title": "Software Engineer Intern - Oracle Retail",
+      "postedToDiscord": "2026-01-16T05:32:51.138Z",
+      "sourceDate": "2025-11-13T00:14:46.000Z",
+      "sourceUrl": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315209",
+      "discordThreadId": "1461594011931508737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "lawrence-berkeley-national-laboratory-computing-sciences-intern-berkeley-2026-01-16-1",
+      "jobId": "lawrence-berkeley-national-laboratory-computing-sciences-intern-berkeley",
+      "company": "Lawrence Berkeley National Laboratory",
+      "title": "Computing Sciences Intern",
+      "postedToDiscord": "2026-01-16T05:32:54.534Z",
+      "sourceDate": "2025-11-04T23:19:53.000Z",
+      "sourceUrl": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105449",
+      "discordThreadId": "1461594027433394301",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-multiple-teams-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-multiple-teams-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Multiple Teams",
+      "postedToDiscord": "2026-01-16T05:32:58.283Z",
+      "sourceDate": "2025-10-31T12:53:35.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7548881454182385938/detail",
+      "discordThreadId": "1461594041639502011",
+      "instanceNumber": 1
+    },
+    {
+      "id": "bytedance-student-researcher-seed-vision-multimodal-joint-modeling-san-jose-2026-01-16-1",
+      "jobId": "bytedance-student-researcher-seed-vision-multimodal-joint-modeling-san-jose",
+      "company": "ByteDance",
+      "title": "Student Researcher - Seed Vision - Multimodal Joint Modeling",
+      "postedToDiscord": "2026-01-16T05:33:01.651Z",
+      "sourceDate": "2025-10-31T12:40:14.000Z",
+      "sourceUrl": "https://jobs.bytedance.com/en/position/7541089305176443144/detail",
+      "discordThreadId": "1461594057418735709",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 373,
+    "totalJobs": 381,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T05:22:48.172Z",
+      "date": "2026-01-16T05:33:01.652Z",
       "archived": 0
     }
   }
