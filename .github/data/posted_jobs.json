@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-16T05:06:39.058Z",
+  "lastUpdated": "2026-01-16T05:19:55.660Z",
   "jobs": [
     {
       "id": "microsoft-software-engineer-top-secret-internship-opportunities-ctj-redmond-2026-01-09-1",
@@ -3983,16 +3983,103 @@
       "sourceUrl": "https://careers-sdsurf.icims.com/jobs/18659/job?mobile=true&needsRedirect=false",
       "discordThreadId": "1461587418661781618",
       "instanceNumber": 1
+    },
+    {
+      "id": "texas-a-m-international-university-undergraduate-research-assistant-urda-caprock-integrity-laredo-2026-01-16-1",
+      "jobId": "texas-a-m-international-university-undergraduate-research-assistant-urda-caprock-integrity-laredo",
+      "company": "Texas A&M International University",
+      "title": "Undergraduate Research Assistant - URDA Caprock Integrity",
+      "postedToDiscord": "2026-01-16T05:19:22.272Z",
+      "sourceDate": "2025-11-23T08:08:33.000Z",
+      "sourceUrl": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Undergraduate-Research-Assistant--URDA--Caprock-Integrity-_R-087931",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "northrop-grumman-software-engineer-principal-software-engineer-aurora-2026-01-16-1",
+      "jobId": "northrop-grumman-software-engineer-principal-software-engineer-aurora",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer/Principal Software Engineer",
+      "postedToDiscord": "2026-01-16T05:19:25.668Z",
+      "sourceDate": "2025-11-22T11:55:36.000Z",
+      "sourceUrl": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME--DoD-SkillBridge--Software-Engineer-Principal-Software-Engineer_R10198108",
+      "discordThreadId": "1461590634757619794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-cse-part-time-researcher-rui-zhang-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-cse-part-time-researcher-rui-zhang-state-college",
+      "company": "PennState University",
+      "title": "CSE Part-Time Researcher-Rui Zhang",
+      "postedToDiscord": "2026-01-16T05:19:32.140Z",
+      "sourceDate": "2025-11-23T08:23:41.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher--Rui-Zhang_REQ_0000055929",
+      "discordThreadId": "1461590661680730375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-undergraduate-research-assistant-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-undergraduate-research-assistant-state-college",
+      "company": "PennState University",
+      "title": "Undergraduate Research Assistant",
+      "postedToDiscord": "2026-01-16T05:19:35.616Z",
+      "sourceDate": "2025-11-23T08:22:40.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Research-Assistant_REQ_0000068035-1",
+      "discordThreadId": "1461590676096421899",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-part-time-research-associate-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-part-time-research-associate-state-college",
+      "company": "PennState University",
+      "title": "Part-Time Research Associate",
+      "postedToDiscord": "2026-01-16T05:19:39.131Z",
+      "sourceDate": "2025-11-23T08:22:16.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Associate_REQ_0000058270-2",
+      "discordThreadId": "1461590690986459358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-part-time-undergraduate-researcher-narayanan-group-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-part-time-undergraduate-researcher-narayanan-group-state-college",
+      "company": "PennState University",
+      "title": "Part-Time Undergraduate Researcher Narayanan Group",
+      "postedToDiscord": "2026-01-16T05:19:42.527Z",
+      "sourceDate": "2025-11-22T12:40:28.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Undergraduate-Researcher-Narayanan-Group_REQ_0000056170-1",
+      "discordThreadId": "1461590705460744255",
+      "instanceNumber": 1
+    },
+    {
+      "id": "pennstate-university-pt-research-assistant-programmer-recendes-state-college-2026-01-16-1",
+      "jobId": "pennstate-university-pt-research-assistant-programmer-recendes-state-college",
+      "company": "PennState University",
+      "title": "PT Research Assistant/Programmer - Recendes",
+      "postedToDiscord": "2026-01-16T05:19:49.082Z",
+      "sourceDate": "2025-11-23T08:23:31.000Z",
+      "sourceUrl": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/PT-Research-Assistant-Programmer---Recendes_REQ_0000062857-2",
+      "discordThreadId": "1461590732669325397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "the-wharton-school-geospatial-research-assistant-wharton-impact-philadelphia-2026-01-16-1",
+      "jobId": "the-wharton-school-geospatial-research-assistant-wharton-impact-philadelphia",
+      "company": "The Wharton School",
+      "title": "Geospatial Research Assistant - Wharton Impact",
+      "postedToDiscord": "2026-01-16T05:19:55.660Z",
+      "sourceDate": "2025-11-23T08:08:50.000Z",
+      "sourceUrl": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/Dinan-Hall/Geospatial-Research-Assistant--Wharton-Impact-_JR00112547-1",
+      "discordThreadId": "1461590760179896383",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 362,
+    "totalJobs": 370,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-16T05:06:39.058Z",
-      "archived": 5,
-      "monthsAffected": 1
+      "date": "2026-01-16T05:19:55.660Z",
+      "archived": 0
     }
   }
 }
