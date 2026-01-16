@@ -2838,5 +2838,41 @@
     "addedAt": "2026-01-16T03:22:54.342Z",
     "enrichedAt": null,
     "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Backend Software Engineer Intern",
+      "employer_name": "Verkada",
+      "job_city": "San Mateo",
+      "job_state": "CA",
+      "job_description": "Join Verkada in this exciting opportunity.",
+      "job_apply_link": "https://job-boards.greenhouse.io/verkada/jobs/5026094007",
+      "job_posted_at_datetime_utc": "2026-01-16T02:30:38.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "verkada-backend-software-engineer-intern-san-mateo"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T03:54:36.084Z",
+    "enrichedAt": null,
+    "postedAt": null
+  },
+  {
+    "job": {
+      "job_title": "Frontend Engineer Intern",
+      "employer_name": "TikTok",
+      "job_city": "San Jose",
+      "job_state": "CA",
+      "job_description": "Join TikTok in this exciting opportunity.",
+      "job_apply_link": "https://lifeattiktok.com/search/7595733632086591797",
+      "job_posted_at_datetime_utc": "2026-01-16T02:17:31.000Z",
+      "job_employment_type": "FULLTIME",
+      "job_posted_at": "1h",
+      "id": "tiktok-frontend-engineer-intern-san-jose"
+    },
+    "status": "pending",
+    "addedAt": "2026-01-16T03:54:36.084Z",
+    "enrichedAt": null,
+    "postedAt": null
   }
 ]
