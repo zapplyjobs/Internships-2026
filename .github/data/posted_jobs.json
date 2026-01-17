@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T09:18:13.694Z",
+  "lastUpdated": "2026-01-17T10:04:15.660Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6997,14 +6997,36 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7458517?gh_jid=7458517",
       "discordThreadId": "1462013118942285996",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-strategic-telecom-sourcing-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-strategic-telecom-sourcing-remote-us",
+      "company": "samsara",
+      "title": "Director, Strategic Telecom Sourcing",
+      "postedToDiscord": "2026-01-17T10:04:12.108Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7068331?gh_jid=7068331",
+      "discordThreadId": "1462024695342825625",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-account-development-representative-outbound-phoenix-arizona-united-states-2026-01-17-1",
+      "jobId": "samsara-enterprise-account-development-representative-outbound-phoenix-arizona-united-states",
+      "company": "samsara",
+      "title": "Enterprise Account Development Representative - Outbound",
+      "postedToDiscord": "2026-01-17T10:04:15.660Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6606593?gh_jid=6606593",
+      "discordThreadId": "1462024702989172736",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 636,
+    "totalJobs": 638,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T09:18:13.694Z",
+      "date": "2026-01-17T10:04:15.660Z",
       "archived": 0
     }
   }
