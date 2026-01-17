@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T18:33:06.982Z",
+  "lastUpdated": "2026-01-17T18:56:36.512Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7503,14 +7503,25 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266685?gh_jid=7266685",
       "discordThreadId": "1462152760588767284",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-louisville-ky-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-louisville-ky",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T18:56:36.512Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306",
+      "discordThreadId": "1462158679938826526",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 682,
+    "totalJobs": 683,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T18:33:06.982Z",
+      "date": "2026-01-17T18:56:36.512Z",
       "archived": 0
     }
   }
