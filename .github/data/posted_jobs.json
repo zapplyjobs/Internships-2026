@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:19:04.560Z",
+  "lastUpdated": "2026-01-17T07:30:56.441Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6106,14 +6106,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4940356007",
       "discordThreadId": "1461983139638546536",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-greater-atlanta-area-atlanta-ga-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-greater-atlanta-area-atlanta-ga-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Greater Atlanta Area",
+      "postedToDiscord": "2026-01-17T07:30:26.511Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4086572007",
+      "discordThreadId": "1461986000397013181",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-mid-west-sled-chicago-il-united-states-detroit-mi-united-states-minneapolis-mn-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-mid-west-sled-chicago-il-united-states-detroit-mi-united-states-minneapolis-mn-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Mid-West, SLED",
+      "postedToDiscord": "2026-01-17T07:30:30.021Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4351374007",
+      "discordThreadId": "1461986007397175329",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-northeast-baltimore-ma-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-northeast-baltimore-ma-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Northeast",
+      "postedToDiscord": "2026-01-17T07:30:36.763Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4567322007",
+      "discordThreadId": "1461986029039915069",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-rocky-mountains-denver-co-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-rocky-mountains-denver-co-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Rocky Mountains",
+      "postedToDiscord": "2026-01-17T07:30:38.690Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5001585007",
+      "discordThreadId": "1461986051072725057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-southeast-atlanta-ga-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-southeast-atlanta-ga-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southeast",
+      "postedToDiscord": "2026-01-17T07:30:40.526Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4847421007",
+      "discordThreadId": "1461986058668478570",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-national-channel-sales-manager-convergint-east-atlanta-ga-united-states-2026-01-17-1",
+      "jobId": "verkada-national-channel-sales-manager-convergint-east-atlanta-ga-united-states",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-17T07:30:56.441Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945720007",
+      "discordThreadId": "1461986126003704039",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 555,
+    "totalJobs": 561,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T07:19:04.560Z",
+      "date": "2026-01-17T07:30:56.441Z",
       "archived": 0
     }
   }
