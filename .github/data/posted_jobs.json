@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:37:44.860Z",
+  "lastUpdated": "2026-01-17T21:46:04.102Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8526,14 +8526,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266465?gh_jid=7266465",
       "discordThreadId": "1462199223939502171",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-workforce-management-planning-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-workforce-management-planning-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Workforce Management Planning Analyst",
+      "postedToDiscord": "2026-01-17T21:45:37.222Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7371877?gh_jid=7371877",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-solutions-integration-engineer-iii-remote-chicago-2026-01-17-1",
+      "jobId": "samsara-solutions-integration-engineer-iii-remote-chicago",
+      "company": "samsara",
+      "title": "Solutions Integration Engineer III",
+      "postedToDiscord": "2026-01-17T21:45:41.068Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7298858?gh_jid=7298858",
+      "discordThreadId": "1462201220285468847",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-ai-machine-learning-engineer-supply-chain-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-ai-machine-learning-engineer-supply-chain-remote-us",
+      "company": "samsara",
+      "title": "Sr. AI/Machine Learning Engineer - Supply Chain",
+      "postedToDiscord": "2026-01-17T21:45:42.829Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266407?gh_jid=7266407",
+      "discordThreadId": "1462201236437860437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-specialist-seller-core-enterprise-remote-us-2026-01-17-1",
+      "jobId": "samsara-specialist-seller-core-enterprise-remote-us",
+      "company": "samsara",
+      "title": "Specialist Seller - Core, Enterprise",
+      "postedToDiscord": "2026-01-17T21:45:50.593Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7449097?gh_jid=7449097",
+      "discordThreadId": "1462201256570519743",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-specialist-seller-enterprise-remote-us-2026-01-17-1",
+      "jobId": "samsara-specialist-seller-enterprise-remote-us",
+      "company": "samsara",
+      "title": "Specialist Seller - Enterprise",
+      "postedToDiscord": "2026-01-17T21:45:50.602Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7292081?gh_jid=7292081",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-specialist-seller-mid-market-remote-us-2026-01-17-1",
+      "jobId": "samsara-specialist-seller-mid-market-remote-us",
+      "company": "samsara",
+      "title": "Specialist Seller, Mid-Market",
+      "postedToDiscord": "2026-01-17T21:45:54.028Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7409548?gh_jid=7409548",
+      "discordThreadId": "1462201276170502235",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-analyst-gtm-business-operations-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-analyst-gtm-business-operations-remote-us",
+      "company": "samsara",
+      "title": "Sr. Analyst, GTM Business Operations",
+      "postedToDiscord": "2026-01-17T21:45:57.624Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7514890?gh_jid=7514890",
+      "discordThreadId": "1462201291080990741",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-campaign-operations-manager-lifecycle-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-campaign-operations-manager-lifecycle-remote-us",
+      "company": "samsara",
+      "title": "Sr. Campaign Operations Manager - Lifecycle",
+      "postedToDiscord": "2026-01-17T21:46:02.409Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7423800?gh_jid=7423800",
+      "discordThreadId": "1462201318625251380",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-customer-marketing-manager-references-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-customer-marketing-manager-references-remote-us",
+      "company": "samsara",
+      "title": "Sr. Customer Marketing Manager - References",
+      "postedToDiscord": "2026-01-17T21:46:04.102Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7424884?gh_jid=7424884",
+      "discordThreadId": "1462201326053097695",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 775,
+    "totalJobs": 784,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T21:37:44.860Z",
+      "date": "2026-01-17T21:46:04.102Z",
       "archived": 0
     }
   }
