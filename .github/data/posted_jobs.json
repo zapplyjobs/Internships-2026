@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T15:54:18.556Z",
+  "lastUpdated": "2026-01-17T16:04:19.838Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7118,14 +7118,36 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7543335?gh_jid=7543335",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-sales-commissions-phoenix-arizona-united-states-2026-01-17-1",
+      "jobId": "samsara-director-sales-commissions-phoenix-arizona-united-states",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-17T16:04:16.250Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7412433?gh_jid=7412433",
+      "discordThreadId": "1462115309644288010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-select-customer-success-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-enterprise-select-customer-success-manager-remote-us",
+      "company": "samsara",
+      "title": "Enterprise Select Customer Success Manager",
+      "postedToDiscord": "2026-01-17T16:04:19.837Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7484250?gh_jid=7484250",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 647,
+    "totalJobs": 649,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T15:54:18.556Z",
+      "date": "2026-01-17T16:04:19.838Z",
       "archived": 0
     }
   }
