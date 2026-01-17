@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:45:43.160Z",
+  "lastUpdated": "2026-01-17T07:54:54.751Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6370,14 +6370,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-solutions-engineer-salt-lake-city-ut-united-states-2026-01-17-1",
+      "jobId": "verkada-solutions-engineer-salt-lake-city-ut-united-states",
+      "company": "verkada",
+      "title": "Solutions Engineer",
+      "postedToDiscord": "2026-01-17T07:54:23.107Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087164007",
+      "discordThreadId": "1461992025598459964",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-solutions-engineering-manager-select-territory-tempe-az-united-states-2026-01-17-1",
+      "jobId": "verkada-solutions-engineering-manager-select-territory-tempe-az-united-states",
+      "company": "verkada",
+      "title": "Solutions Engineering Manager, Select & Territory",
+      "postedToDiscord": "2026-01-17T07:54:26.594Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185105007",
+      "discordThreadId": "1461992033202868304",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-sr-tradeshow-and-event-marketing-manager-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states-san-mateo-ca-united-states-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-sr-tradeshow-and-event-marketing-manager-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states-san-mateo-ca-united-states-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Sr. Tradeshow and Event Marketing Manager",
+      "postedToDiscord": "2026-01-17T07:54:33.205Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990280007",
+      "discordThreadId": "1461992060562182235",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-strategic-account-executive-corp-atlanta-ga-united-states-florida-united-states-2026-01-17-1",
+      "jobId": "verkada-strategic-account-executive-corp-atlanta-ga-united-states-florida-united-states",
+      "company": "verkada",
+      "title": "Strategic Account Executive (Corp)",
+      "postedToDiscord": "2026-01-17T07:54:38.003Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4701504007",
+      "discordThreadId": "1461992088403972118",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-tradeshow-associate-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states-san-mateo-ca-united-states-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-tradeshow-associate-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-phoenix-az-united-states-salt-lake-city-ut-united-states-san-mateo-ca-united-states-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Tradeshow Associate",
+      "postedToDiscord": "2026-01-17T07:54:41.516Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4990284007",
+      "discordThreadId": "1461992095723290726",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-director-virtual-first-remote-us-all-locations-2026-01-17-1",
+      "jobId": "dropbox-director-virtual-first-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Director, Virtual First",
+      "postedToDiscord": "2026-01-17T07:54:46.305Z",
+      "sourceDate": "2026-01-16T13:37:33-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7436829?gh_jid=7436829",
+      "discordThreadId": "1461992122948386889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-executive-assistant-go-to-market-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-executive-assistant-go-to-market-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Executive Assistant, Go to Market",
+      "postedToDiscord": "2026-01-17T07:54:49.864Z",
+      "sourceDate": "2026-01-16T13:14:37-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7276285?gh_jid=7276285",
+      "discordThreadId": "1461992130716373067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-full-stack-product-software-engineer-remote-us-select-locations-2026-01-17-1",
+      "jobId": "dropbox-senior-full-stack-product-software-engineer-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Full Stack Product Software Engineer",
+      "postedToDiscord": "2026-01-17T07:54:54.751Z",
+      "sourceDate": "2026-01-16T13:25:55-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7536346?gh_jid=7536346",
+      "discordThreadId": "1461992158314631169",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 579,
+    "totalJobs": 587,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T07:45:43.160Z",
+      "date": "2026-01-17T07:54:54.751Z",
       "archived": 0
     }
   }
