@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T16:31:24.306Z",
+  "lastUpdated": "2026-01-17T17:04:37.119Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7162,14 +7162,47 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266206?gh_jid=7266206",
       "discordThreadId": "1462122131319034058",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-hardware-solutions-firmware-engineer-san-francisco-ca-united-states-2026-01-17-1",
+      "jobId": "samsara-hardware-solutions-firmware-engineer-san-francisco-ca-united-states",
+      "company": "samsara",
+      "title": "Hardware Solutions Firmware Engineer",
+      "postedToDiscord": "2026-01-17T17:04:25.728Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266419?gh_jid=7266419",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-accounts-receivable-operations-remote-us-2026-01-17-1",
+      "jobId": "samsara-manager-accounts-receivable-operations-remote-us",
+      "company": "samsara",
+      "title": "Manager, Accounts Receivable Operations",
+      "postedToDiscord": "2026-01-17T17:04:33.762Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7393952?gh_jid=7393952",
+      "discordThreadId": "1462130475412885685",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-enterprise-customer-success-remote-us-2026-01-17-1",
+      "jobId": "samsara-manager-enterprise-customer-success-remote-us",
+      "company": "samsara",
+      "title": "Manager, Enterprise Customer Success",
+      "postedToDiscord": "2026-01-17T17:04:37.119Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7343043?gh_jid=7343043",
+      "discordThreadId": "1462130489618862257",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 651,
+    "totalJobs": 654,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T16:31:24.306Z",
+      "date": "2026-01-17T17:04:37.119Z",
       "archived": 0
     }
   }
