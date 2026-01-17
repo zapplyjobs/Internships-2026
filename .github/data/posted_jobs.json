@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:29:45.197Z",
+  "lastUpdated": "2026-01-17T21:37:44.860Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8438,14 +8438,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7306934?gh_jid=7306934",
       "discordThreadId": "1462197213018198268",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-performance-marketing-manager-paid-media-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-performance-marketing-manager-paid-media-remote-us",
+      "company": "samsara",
+      "title": "Senior Performance Marketing Manager - Paid Media",
+      "postedToDiscord": "2026-01-17T21:37:22.660Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7373346?gh_jid=7373346",
+      "discordThreadId": "1462199138719502491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-staff-software-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-staff-software-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Staff Software Engineer",
+      "postedToDiscord": "2026-01-17T21:37:27.413Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266697?gh_jid=7266697",
+      "discordThreadId": "1462199158671802399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineer-full-stack-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-software-engineer-full-stack-safety-remote-us",
+      "company": "samsara",
+      "title": "Software Engineer, Full Stack - Safety",
+      "postedToDiscord": "2026-01-17T21:37:29.257Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7362937?gh_jid=7362937",
+      "discordThreadId": "1462199165726752985",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineer-ii-fleet-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-software-engineer-ii-fleet-safety-remote-us",
+      "company": "samsara",
+      "title": "Software Engineer II, Fleet Safety",
+      "postedToDiscord": "2026-01-17T21:37:31.247Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7276275?gh_jid=7276275",
+      "discordThreadId": "1462199174165692692",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineer-ii-mobile-platform-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-software-engineer-ii-mobile-platform-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Software Engineer II - Mobile Platform",
+      "postedToDiscord": "2026-01-17T21:37:34.660Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7312588?gh_jid=7312588",
+      "discordThreadId": "1462199182130675965",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineer-ii-new-product-remote-us-2026-01-17-1",
+      "jobId": "samsara-software-engineer-ii-new-product-remote-us",
+      "company": "samsara",
+      "title": "Software Engineer II, New Product",
+      "postedToDiscord": "2026-01-17T21:37:36.397Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7210161?gh_jid=7210161",
+      "discordThreadId": "1462199196429062184",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-software-engineer-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-software-engineer-safety-remote-us",
+      "company": "samsara",
+      "title": "Software Engineer - Safety",
+      "postedToDiscord": "2026-01-17T21:37:38.202Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7296895?gh_jid=7296895",
+      "discordThreadId": "1462199203798188105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-systems-epm-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-systems-epm-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior Systems EPM",
+      "postedToDiscord": "2026-01-17T21:37:44.860Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266465?gh_jid=7266465",
+      "discordThreadId": "1462199223939502171",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 767,
+    "totalJobs": 775,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T21:29:45.197Z",
+      "date": "2026-01-17T21:37:44.860Z",
       "archived": 0
     }
   }
