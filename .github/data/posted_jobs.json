@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T05:50:44.925Z",
+  "lastUpdated": "2026-01-17T06:19:30.082Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5666,14 +5666,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7484052?gh_jid=7484052",
       "discordThreadId": "1461960911932620810",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-data-science-manager-safety-remote-u-s-2026-01-17-1",
+      "jobId": "discord-data-science-manager-safety-remote-u-s",
+      "company": "discord",
+      "title": "Data Science Manager, Safety",
+      "postedToDiscord": "2026-01-17T06:18:58.832Z",
+      "sourceDate": "2026-01-16T15:47:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8174001002",
+      "discordThreadId": "1461968016500723752",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-forward-deployed-engineer-atlanta-ga-austin-tx-boston-ma-chicago-il-new-york-city-ny-seattle-wa-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-17-1",
+      "jobId": "anthropic-forward-deployed-engineer-atlanta-ga-austin-tx-boston-ma-chicago-il-new-york-city-ny-seattle-wa-san-francisco-ca-new-york-city-ny-washington-dc",
+      "company": "anthropic",
+      "title": "Forward Deployed Engineer",
+      "postedToDiscord": "2026-01-17T06:19:05.347Z",
+      "sourceDate": "2026-01-16T15:25:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "discordThreadId": "1461968036616737006",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-vendor-performance-manager-north-america-salt-lake-city-ut-2026-01-17-1",
+      "jobId": "reddit-vendor-performance-manager-north-america-salt-lake-city-ut",
+      "company": "reddit",
+      "title": "Vendor Performance Manager, North America",
+      "postedToDiscord": "2026-01-17T06:19:07.026Z",
+      "sourceDate": "2026-01-16T14:58:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7545290",
+      "discordThreadId": "1461968051120373953",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-product-security-data-platforms-seattle-2026-01-17-1",
+      "jobId": "stripe-software-engineer-product-security-data-platforms-seattle",
+      "company": "stripe",
+      "title": "Software Engineer, Product Security Data Platforms",
+      "postedToDiscord": "2026-01-17T06:19:13.457Z",
+      "sourceDate": "2026-01-16T15:23:40-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7545459",
+      "discordThreadId": "1461968071005835285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-design-systems-san-francisco-bay-area-2026-01-17-1",
+      "jobId": "discord-staff-software-engineer-design-systems-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer, Design Systems",
+      "postedToDiscord": "2026-01-17T06:19:16.879Z",
+      "sourceDate": "2026-01-16T14:40:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8370535002",
+      "discordThreadId": "1461968085073526950",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-grc-lead-new-york-new-york-united-states-2026-01-17-1",
+      "jobId": "brex-senior-grc-lead-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior GRC Lead",
+      "postedToDiscord": "2026-01-17T06:19:23.506Z",
+      "sourceDate": "2026-01-16T15:02:45-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8378840002?gh_jid=8378840002",
+      "discordThreadId": "1461968112768516241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-grc-lead-san-francisco-california-united-states-2026-01-17-1",
+      "jobId": "brex-senior-grc-lead-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior GRC Lead",
+      "postedToDiscord": "2026-01-17T06:19:23.512Z",
+      "sourceDate": "2026-01-16T15:02:44-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8378792002?gh_jid=8378792002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-workforce-management-program-manager-denver-co-chicago-il-las-vegas-nv-phoenix-az-san-francisco-ca-new-york-ny-2026-01-17-1",
+      "jobId": "gusto-workforce-management-program-manager-denver-co-chicago-il-las-vegas-nv-phoenix-az-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Workforce Management Program Manager",
+      "postedToDiscord": "2026-01-17T06:19:30.081Z",
+      "sourceDate": "2026-01-16T14:41:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522730",
+      "discordThreadId": "1461968140098338992",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 515,
+    "totalJobs": 523,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T05:50:44.925Z",
+      "date": "2026-01-17T06:19:30.082Z",
       "archived": 0
     }
   }
