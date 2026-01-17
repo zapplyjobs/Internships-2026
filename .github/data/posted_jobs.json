@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T17:29:51.279Z",
+  "lastUpdated": "2026-01-17T17:37:48.703Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7305,14 +7305,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266381?gh_jid=7266381",
       "discordThreadId": "1462136847219163361",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-i-customer-success-atlanta-georgia-united-states-2026-01-17-1",
+      "jobId": "samsara-manager-i-customer-success-atlanta-georgia-united-states",
+      "company": "samsara",
+      "title": "Manager I, Customer Success",
+      "postedToDiscord": "2026-01-17T17:37:46.937Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7487344?gh_jid=7487344",
+      "discordThreadId": "1462138834966810817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-i-customer-success-remote-us-2026-01-17-1",
+      "jobId": "samsara-manager-i-customer-success-remote-us",
+      "company": "samsara",
+      "title": "Manager I, Customer Success",
+      "postedToDiscord": "2026-01-17T17:37:46.944Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7482694?gh_jid=7482694",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-san-antonio-tx-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-san-antonio-tx",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.667Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056794?gh_jid=6056794",
+      "discordThreadId": "1462138850003386449",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-dallas-tx-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-dallas-tx",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.673Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056795?gh_jid=6056795",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-houston-texas-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-houston-texas",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.679Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056799?gh_jid=6056799",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-chicago-il-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-chicago-il",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.684Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056800?gh_jid=6056800",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-baltimore-md-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-baltimore-md",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.690Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056802?gh_jid=6056802",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-denver-co-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-denver-co",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.698Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056804?gh_jid=6056804",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-salt-lake-city-ut-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-salt-lake-city-ut",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:37:48.703Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6157504?gh_jid=6157504",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 664,
+    "totalJobs": 673,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T17:29:51.279Z",
+      "date": "2026-01-17T17:37:48.703Z",
       "archived": 0
     }
   }
