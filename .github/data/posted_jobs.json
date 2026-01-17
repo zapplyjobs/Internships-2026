@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:32:00.856Z",
+  "lastUpdated": "2026-01-17T20:41:31.316Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8086,14 +8086,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7363083?gh_jid=7363083",
       "discordThreadId": "1462182689363984519",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-data-platform-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-data-platform-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Data Platform Engineer",
+      "postedToDiscord": "2026-01-17T20:41:08.341Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266657?gh_jid=7266657",
+      "discordThreadId": "1462184985711612005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-mobile-software-engineer-ble-connectivity-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-mobile-software-engineer-ble-connectivity-remote-us",
+      "company": "samsara",
+      "title": "Senior Mobile Software Engineer - BLE / Connectivity",
+      "postedToDiscord": "2026-01-17T20:41:10.043Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266447?gh_jid=7266447",
+      "discordThreadId": "1462184993114558484",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-mobile-software-engineer-routing-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-mobile-software-engineer-routing-remote-us",
+      "company": "samsara",
+      "title": "Senior Mobile Software Engineer - Routing\t",
+      "postedToDiscord": "2026-01-17T20:41:10.050Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7170973?gh_jid=7170973",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-principal-product-manager-safety-ai-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-principal-product-manager-safety-ai-remote-us",
+      "company": "samsara",
+      "title": "Senior/Principal Product Manager - Safety AI",
+      "postedToDiscord": "2026-01-17T20:41:11.782Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266577?gh_jid=7266577",
+      "discordThreadId": "1462184999980634134",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-manager-go-to-market-onboarding-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-manager-go-to-market-onboarding-remote-us",
+      "company": "samsara",
+      "title": "Senior Manager, Go-to-Market Onboarding",
+      "postedToDiscord": "2026-01-17T20:41:16.602Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7283904?gh_jid=7283904",
+      "discordThreadId": "1462185020700622952",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-manager-procure-to-pay-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-manager-procure-to-pay-remote-us",
+      "company": "samsara",
+      "title": "Senior Manager, Procure to Pay",
+      "postedToDiscord": "2026-01-17T20:41:20.022Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7485318?gh_jid=7485318",
+      "discordThreadId": "1462185027415703746",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-manager-recruiting-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-manager-recruiting-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior Manager, Recruiting",
+      "postedToDiscord": "2026-01-17T20:41:26.563Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7338972?gh_jid=7338972",
+      "discordThreadId": "1462185055152767252",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-marketing-ai-data-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-marketing-ai-data-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Marketing AI Data Engineer",
+      "postedToDiscord": "2026-01-17T20:41:31.315Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710",
+      "discordThreadId": "1462185082461884589",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 735,
+    "totalJobs": 743,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T20:32:00.856Z",
+      "date": "2026-01-17T20:41:31.316Z",
       "archived": 0
     }
   }
