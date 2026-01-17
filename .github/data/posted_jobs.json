@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T06:34:12.057Z",
+  "lastUpdated": "2026-01-17T06:51:33.688Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5853,14 +5853,69 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8378704002?gh_jid=8378704002",
       "discordThreadId": "1461971838866296955",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-channel-development-representative-south-east-tampa-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-channel-development-representative-south-east-tampa-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Channel Development Representative, South East (Tampa)",
+      "postedToDiscord": "2026-01-17T06:51:22.803Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950605007",
+      "discordThreadId": "1461976170185752777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-channel-development-representative-west-phoenix-phoenix-az-united-states-2026-01-17-1",
+      "jobId": "verkada-channel-development-representative-west-phoenix-phoenix-az-united-states",
+      "company": "verkada",
+      "title": "Channel Development Representative, West (Phoenix) ",
+      "postedToDiscord": "2026-01-17T06:51:24.595Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5020484007",
+      "discordThreadId": "1461976177555013662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-channel-development-representative-west-salt-lake-city-salt-lake-city-ut-united-states-2026-01-17-1",
+      "jobId": "verkada-channel-development-representative-west-salt-lake-city-salt-lake-city-ut-united-states",
+      "company": "verkada",
+      "title": "Channel Development Representative, West (Salt Lake City)",
+      "postedToDiscord": "2026-01-17T06:51:26.312Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5008900007",
+      "discordThreadId": "1461976184949837868",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-channel-marketing-associate-remote-boston-ma-united-states-chicago-il-united-states-columbus-oh-united-states-los-angeles-ca-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-tempe-az-united-states-texas-united-states-2026-01-17-1",
+      "jobId": "verkada-channel-marketing-associate-remote-boston-ma-united-states-chicago-il-united-states-columbus-oh-united-states-los-angeles-ca-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-tempe-az-united-states-texas-united-states",
+      "company": "verkada",
+      "title": "Channel Marketing Associate (Remote)",
+      "postedToDiscord": "2026-01-17T06:51:29.830Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4984340007",
+      "discordThreadId": "1461976192159842514",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-communications-manager-new-york-city-ny-united-states-san-mateo-ca-united-states-2026-01-17-1",
+      "jobId": "verkada-communications-manager-new-york-city-ny-united-states-san-mateo-ca-united-states",
+      "company": "verkada",
+      "title": "Communications Manager",
+      "postedToDiscord": "2026-01-17T06:51:33.687Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872410007",
+      "discordThreadId": "1461976207288569867",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 532,
+    "totalJobs": 537,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T06:34:12.057Z",
+      "date": "2026-01-17T06:51:33.688Z",
       "archived": 0
     }
   }
