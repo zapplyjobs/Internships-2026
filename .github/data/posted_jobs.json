@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:41:31.316Z",
+  "lastUpdated": "2026-01-17T20:49:41.245Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8174,14 +8174,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7510710?gh_jid=7510710",
       "discordThreadId": "1462185082461884589",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-program-manager-gtm-partner-programs-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-program-manager-gtm-partner-programs-remote-us",
+      "company": "samsara",
+      "title": "Senior Program Manager, GTM Partner Programs",
+      "postedToDiscord": "2026-01-17T20:49:10.231Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7336578?gh_jid=7336578",
+      "discordThreadId": "1462186998897836066",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-program-manager-i-transformational-sales-programs-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-program-manager-i-transformational-sales-programs-remote-us",
+      "company": "samsara",
+      "title": "Senior Program Manager I - Transformational Sales Programs",
+      "postedToDiscord": "2026-01-17T20:49:14.011Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7248154?gh_jid=7248154",
+      "discordThreadId": "1462187014324490333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-program-manager-sales-engineering-new-products-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-program-manager-sales-engineering-new-products-remote-us",
+      "company": "samsara",
+      "title": "Senior Program Manager, Sales Engineering (New Products)",
+      "postedToDiscord": "2026-01-17T20:49:16.022Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7300691?gh_jid=7300691",
+      "discordThreadId": "1462187030116044862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-program-manager-sales-engineering-operations-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-program-manager-sales-engineering-operations-remote-us",
+      "company": "samsara",
+      "title": "Senior Program Manager, Sales Engineering (Operations)",
+      "postedToDiscord": "2026-01-17T20:49:19.485Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7516868?gh_jid=7516868",
+      "discordThreadId": "1462187038538207296",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-quality-automation-engineer-firmware-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-quality-automation-engineer-firmware-remote-us",
+      "company": "samsara",
+      "title": "Senior Quality Automation Engineer - Firmware",
+      "postedToDiscord": "2026-01-17T20:49:24.262Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266461?gh_jid=7266461",
+      "discordThreadId": "1462187065805373551",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-sales-operations-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-sales-operations-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Sales Operations Analyst",
+      "postedToDiscord": "2026-01-17T20:49:31.165Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7392259?gh_jid=7392259",
+      "discordThreadId": "1462187086336626940",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-sales-performance-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-sales-performance-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Sales Performance Analyst",
+      "postedToDiscord": "2026-01-17T20:49:37.676Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7396368?gh_jid=7396368",
+      "discordThreadId": "1462187114853830809",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-sales-quality-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-sales-quality-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Sales Quality Analyst",
+      "postedToDiscord": "2026-01-17T20:49:41.245Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7371641?gh_jid=7371641",
+      "discordThreadId": "1462187129517117552",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 743,
+    "totalJobs": 751,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T20:41:31.316Z",
+      "date": "2026-01-17T20:49:41.245Z",
       "archived": 0
     }
   }
