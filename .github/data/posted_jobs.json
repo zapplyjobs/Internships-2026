@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T18:56:36.512Z",
+  "lastUpdated": "2026-01-17T19:17:18.651Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7514,14 +7514,69 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7201306?gh_jid=7201306",
       "discordThreadId": "1462158679938826526",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-mid-market-ct-mt-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-mid-market-ct-mt-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer - Mid-Market, CT/MT",
+      "postedToDiscord": "2026-01-17T19:17:01.489Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7187197?gh_jid=7187197",
+      "discordThreadId": "1462163809895583910",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-mid-market-et-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-mid-market-et-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer - Mid-Market, ET",
+      "postedToDiscord": "2026-01-17T19:17:04.907Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7187159?gh_jid=7187159",
+      "discordThreadId": "1462163825083154656",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-mid-market-pt-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-mid-market-pt-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer - Mid-Market, PT",
+      "postedToDiscord": "2026-01-17T19:17:08.350Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7187219?gh_jid=7187219",
+      "discordThreadId": "1462163839629005105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-mid-market-remote-us-pt-mt-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-mid-market-remote-us-pt-mt-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer, Mid-Market- Remote US PT/MT",
+      "postedToDiscord": "2026-01-17T19:17:11.917Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7180403?gh_jid=7180403",
+      "discordThreadId": "1462163853826592956",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-ii-specialist-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-ii-specialist-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer II - Specialist",
+      "postedToDiscord": "2026-01-17T19:17:18.651Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6782502?gh_jid=6782502",
+      "discordThreadId": "1462163881471512749",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 683,
+    "totalJobs": 688,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T18:56:36.512Z",
+      "date": "2026-01-17T19:17:18.651Z",
       "archived": 0
     }
   }
