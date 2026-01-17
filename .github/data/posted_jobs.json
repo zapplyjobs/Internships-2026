@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:18:48.884Z",
+  "lastUpdated": "2026-01-17T20:32:00.856Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -7998,14 +7998,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7344108?gh_jid=7344108",
       "discordThreadId": "1462179360755810376",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-firmware-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-firmware-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Firmware Engineer",
+      "postedToDiscord": "2026-01-17T20:31:37.129Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7402091?gh_jid=7402091",
+      "discordThreadId": "1462182590248386571",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-hardware-reliability-engineer-san-francisco-ca-united-states-2026-01-17-1",
+      "jobId": "samsara-senior-hardware-reliability-engineer-san-francisco-ca-united-states",
+      "company": "samsara",
+      "title": "Senior Hardware Reliability Engineer",
+      "postedToDiscord": "2026-01-17T20:31:40.742Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7460051?gh_jid=7460051",
+      "discordThreadId": "1462182597680431164",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-hardware-systems-engineer-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-hardware-systems-engineer-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior Hardware Systems Engineer",
+      "postedToDiscord": "2026-01-17T20:31:44.343Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291574?gh_jid=7291574",
+      "discordThreadId": "1462182612587122808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-hardware-systems-engineer-san-francisco-ca-united-states-2026-01-17-1",
+      "jobId": "samsara-senior-hardware-systems-engineer-san-francisco-ca-united-states",
+      "company": "samsara",
+      "title": "Senior Hardware Systems Engineer",
+      "postedToDiscord": "2026-01-17T20:31:44.351Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7274312?gh_jid=7274312",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-it-network-engineer-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-it-network-engineer-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior IT Network Engineer",
+      "postedToDiscord": "2026-01-17T20:31:47.741Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7375781?gh_jid=7375781",
+      "discordThreadId": "1462182627296542829",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-knowledge-management-specialist-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-knowledge-management-specialist-remote-us",
+      "company": "samsara",
+      "title": "Senior Knowledge Management Specialist",
+      "postedToDiscord": "2026-01-17T20:31:54.430Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7406599?gh_jid=7406599",
+      "discordThreadId": "1462182654597271613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-machine-learning-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-machine-learning-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Machine Learning Engineer",
+      "postedToDiscord": "2026-01-17T20:31:59.144Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471",
+      "discordThreadId": "1462182682552434907",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-manager-computer-vision-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-manager-computer-vision-remote-us",
+      "company": "samsara",
+      "title": "Senior Manager, Computer Vision",
+      "postedToDiscord": "2026-01-17T20:32:00.856Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7363083?gh_jid=7363083",
+      "discordThreadId": "1462182689363984519",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 727,
+    "totalJobs": 735,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T20:18:48.884Z",
+      "date": "2026-01-17T20:32:00.856Z",
       "archived": 0
     }
   }
