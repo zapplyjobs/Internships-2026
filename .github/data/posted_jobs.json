@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T03:40:15.362Z",
+  "lastUpdated": "2026-01-17T04:06:48.557Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5292,14 +5292,25 @@
       "sourceUrl": "https://careers.cisco.com/global/en/job/2001145",
       "discordThreadId": "1461928065209733246",
       "instanceNumber": 1
+    },
+    {
+      "id": "national-renewable-energy-laboratory-graduate-intern-golden-2026-01-17-1",
+      "jobId": "national-renewable-energy-laboratory-graduate-intern-golden",
+      "company": "National Renewable Energy Laboratory",
+      "title": "Graduate Intern",
+      "postedToDiscord": "2026-01-17T04:06:48.557Z",
+      "sourceDate": "2026-01-16T23:33:56.000Z",
+      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-month--Intern---AI-Data-Center-Workloads-Characterization---Simulation_R14103",
+      "discordThreadId": "1461934747306692689",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 481,
+    "totalJobs": 482,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T03:40:15.362Z",
+      "date": "2026-01-17T04:06:48.557Z",
       "archived": 0
     }
   }
