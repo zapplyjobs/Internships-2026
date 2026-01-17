@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:28:02.509Z",
+  "lastUpdated": "2026-01-17T19:34:22.684Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7657,14 +7657,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7396367?gh_jid=7396367",
       "discordThreadId": "1462166583077109998",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-ii-enterprise-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-ii-enterprise-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer II, Enterprise",
+      "postedToDiscord": "2026-01-17T19:34:17.899Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7516927?gh_jid=7516927",
+      "discordThreadId": "1462168164606410853",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-atlanta-ga-atlanta-ga-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-atlanta-ga-atlanta-ga",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Atlanta, GA",
+      "postedToDiscord": "2026-01-17T19:34:22.640Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392563?gh_jid=6392563",
+      "discordThreadId": "1462168184894263521",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-austin-tx-austin-tx-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-austin-tx-austin-tx",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Austin, TX",
+      "postedToDiscord": "2026-01-17T19:34:22.646Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567223?gh_jid=6567223",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-baltimore-md-baltimore-md-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-baltimore-md-baltimore-md",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Baltimore, MD",
+      "postedToDiscord": "2026-01-17T19:34:22.652Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567263?gh_jid=6567263",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-boston-ma-boston-ma-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-boston-ma-boston-ma",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Boston, MA",
+      "postedToDiscord": "2026-01-17T19:34:22.658Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567240?gh_jid=6567240",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-charlotte-nc-charlotte-nc-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-charlotte-nc-charlotte-nc",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Charlotte, NC",
+      "postedToDiscord": "2026-01-17T19:34:22.664Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392559?gh_jid=6392559",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-columbia-sc-columbia-sc-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-columbia-sc-columbia-sc",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Columbia, SC",
+      "postedToDiscord": "2026-01-17T19:34:22.669Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392569?gh_jid=6392569",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-dallas-tx-dallas-tx-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-dallas-tx-dallas-tx",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Dallas, TX",
+      "postedToDiscord": "2026-01-17T19:34:22.679Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567202?gh_jid=6567202",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-hartford-ct-hartford-ct-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-hartford-ct-hartford-ct",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Hartford, CT",
+      "postedToDiscord": "2026-01-17T19:34:22.684Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567247?gh_jid=6567247",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 696,
+    "totalJobs": 705,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T19:28:02.509Z",
+      "date": "2026-01-17T19:34:22.684Z",
       "archived": 0
     }
   }
