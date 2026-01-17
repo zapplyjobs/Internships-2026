@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:19:11.653Z",
+  "lastUpdated": "2026-01-17T08:33:05.885Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6656,14 +6656,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-atlanta-ga-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-atlanta-ga",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:33:00.167Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605601?gh_jid=6605601",
+      "discordThreadId": "1462001744228651203",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-columbus-oh-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-columbus-oh",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:33:00.174Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605602?gh_jid=6605602",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-phoenix-ar-phoenix-arizona-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-phoenix-ar-phoenix-arizona",
+      "company": "samsara",
+      "title": "Account Executive, Commercial - (Phoenix, AR)",
+      "postedToDiscord": "2026-01-17T08:33:00.180Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6602157?gh_jid=6602157",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-portland-or-portland-or-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-portland-or-portland-or",
+      "company": "samsara",
+      "title": "Account Executive, Commercial - (Portland, OR)",
+      "postedToDiscord": "2026-01-17T08:33:00.186Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6602158?gh_jid=6602158",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-est-cst-remote-houston-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-est-cst-remote-houston",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-17T08:33:01.976Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245542?gh_jid=7245542",
+      "discordThreadId": "1462001751803822281",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-est-cst-remote-austin-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-est-cst-remote-austin",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-17T08:33:01.981Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245543?gh_jid=7245543",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-est-cst-remote-us-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-est-cst-remote-us",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (EST/CST)",
+      "postedToDiscord": "2026-01-17T08:33:01.987Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245559?gh_jid=7245559",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-mst-pst-san-francisco-ca-united-states-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-mst-pst-san-francisco-ca-united-states",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-17T08:33:05.878Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245609?gh_jid=7245609",
+      "discordThreadId": "1462001759626203177",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-mst-pst-remote-us-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-mst-pst-remote-us",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-17T08:33:05.885Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245627?gh_jid=7245627",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 605,
+    "totalJobs": 614,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T08:19:11.653Z",
+      "date": "2026-01-17T08:33:05.885Z",
       "archived": 0
     }
   }
