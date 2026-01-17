@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:49:41.245Z",
+  "lastUpdated": "2026-01-17T21:17:52.168Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8262,14 +8262,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7371641?gh_jid=7371641",
       "discordThreadId": "1462187129517117552",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-sales-strategy-manager-new-product-remote-chicago-2026-01-17-1",
+      "jobId": "samsara-senior-sales-strategy-manager-new-product-remote-chicago",
+      "company": "samsara",
+      "title": "Senior Sales Strategy Manager, New Product",
+      "postedToDiscord": "2026-01-17T21:17:34.455Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7461793?gh_jid=7461793",
+      "discordThreadId": "1462194147946401997",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-security-operations-engineer-i-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-security-operations-engineer-i-remote-us",
+      "company": "samsara",
+      "title": "Senior Security Operations Engineer I",
+      "postedToDiscord": "2026-01-17T21:17:39.158Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7383850?gh_jid=7383850",
+      "discordThreadId": "1462194175037673482",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-connected-workflows-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-connected-workflows-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior Software Engineer, Connected Workflows",
+      "postedToDiscord": "2026-01-17T21:17:42.704Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266361?gh_jid=7266361",
+      "discordThreadId": "1462194182440620143",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-connectivity-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-connectivity-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer - Connectivity",
+      "postedToDiscord": "2026-01-17T21:17:44.819Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7496573?gh_jid=7496573",
+      "discordThreadId": "1462194197858746419",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-fleet-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-fleet-safety-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer, Fleet Safety",
+      "postedToDiscord": "2026-01-17T21:17:46.836Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266473?gh_jid=7266473",
+      "discordThreadId": "1462194206411067708",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-full-stack-vehicle-data-platform-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-full-stack-vehicle-data-platform-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer, Full-Stack - Vehicle Data Platform",
+      "postedToDiscord": "2026-01-17T21:17:48.555Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266689?gh_jid=7266689",
+      "discordThreadId": "1462194214203949178",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-i-external-platform-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-i-external-platform-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer I - External Platform",
+      "postedToDiscord": "2026-01-17T21:17:50.247Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7210180?gh_jid=7210180",
+      "discordThreadId": "1462194221535461566",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-ii-external-platform-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-ii-external-platform-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer II - External Platform",
+      "postedToDiscord": "2026-01-17T21:17:52.168Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7210188?gh_jid=7210188",
+      "discordThreadId": "1462194228447674461",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 751,
+    "totalJobs": 759,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T20:49:41.245Z",
+      "date": "2026-01-17T21:17:52.168Z",
       "archived": 0
     }
   }
