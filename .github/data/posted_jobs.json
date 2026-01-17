@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:46:04.102Z",
+  "lastUpdated": "2026-01-17T22:18:34.050Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8625,14 +8625,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7424884?gh_jid=7424884",
       "discordThreadId": "1462201326053097695",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-enterprise-renewals-account-executive-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-sr-enterprise-renewals-account-executive-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Sr Enterprise Renewals Account Executive",
+      "postedToDiscord": "2026-01-17T22:18:05.580Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7482951?gh_jid=7482951",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-gtm-business-operations-manager-renewals-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-gtm-business-operations-manager-renewals-remote-us",
+      "company": "samsara",
+      "title": "Sr. GTM Business Operations Manager - Renewals",
+      "postedToDiscord": "2026-01-17T22:18:09.109Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7492122?gh_jid=7492122",
+      "discordThreadId": "1462209392379428951",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-instructional-designer-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-instructional-designer-remote-us",
+      "company": "samsara",
+      "title": "Sr. Instructional Designer",
+      "postedToDiscord": "2026-01-17T22:18:12.525Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7493710?gh_jid=7493710",
+      "discordThreadId": "1462209407273140436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-pipeline-programs-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-pipeline-programs-manager-remote-us",
+      "company": "samsara",
+      "title": "Sr. Pipeline Programs Manager",
+      "postedToDiscord": "2026-01-17T22:18:14.306Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7409505?gh_jid=7409505",
+      "discordThreadId": "1462209421638893777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-machine-learning-firmware-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-machine-learning-firmware-engineer-remote-us",
+      "company": "samsara",
+      "title": "Sr. Machine Learning Firmware Engineer",
+      "postedToDiscord": "2026-01-17T22:18:19.074Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266451?gh_jid=7266451",
+      "discordThreadId": "1462209441771294832",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-manager-campaign-operations-team-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-manager-campaign-operations-team-remote-us",
+      "company": "samsara",
+      "title": "Sr. Manager, Campaign Operations Team",
+      "postedToDiscord": "2026-01-17T22:18:23.926Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7421437?gh_jid=7421437",
+      "discordThreadId": "1462209461715210436",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-product-marketing-manager-frontline-experience-recognition-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-product-marketing-manager-frontline-experience-recognition-remote-us",
+      "company": "samsara",
+      "title": "Sr. Product Marketing Manager - Frontline Experience & Recognition",
+      "postedToDiscord": "2026-01-17T22:18:25.643Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7374027?gh_jid=7374027",
+      "discordThreadId": "1462209469067825322",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-product-marketing-manager-ii-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-product-marketing-manager-ii-remote-us",
+      "company": "samsara",
+      "title": "Sr. Product Marketing Manager II",
+      "postedToDiscord": "2026-01-17T22:18:27.406Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7296182?gh_jid=7296182",
+      "discordThreadId": "1462209476852715610",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-program-manager-i-customer-success-programs-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-program-manager-i-customer-success-programs-remote-us",
+      "company": "samsara",
+      "title": "Sr. Program Manager I - Customer Success Programs",
+      "postedToDiscord": "2026-01-17T22:18:34.050Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266641?gh_jid=7266641",
+      "discordThreadId": "1462209496972656640",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 784,
+    "totalJobs": 793,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T21:46:04.102Z",
+      "date": "2026-01-17T22:18:34.050Z",
       "archived": 0
     }
   }
