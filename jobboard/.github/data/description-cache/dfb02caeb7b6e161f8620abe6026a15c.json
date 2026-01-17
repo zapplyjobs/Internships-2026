@@ -1,0 +1,17 @@
+{
+  "url": "https://www.samsara.com/company/careers/roles/7327165?gh_jid=7327165",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Samsara’s Compensation Philosophy: Samsara’s compensation program is designed to deliver Total Direct Compensation (based on role, level, and geography) that is at or above market. We do this through our base salary + bonus/variable + restricted stock unit awards (RSUs) for eligible roles. For eligible roles, a new hire RSU award may be awarded at the time of hire, and additional RSU refresh grants may be awarded annually.We pay for performance, and top performers in eligible roles may receive above-market equity refresh awards which allow employees to achieve higher market.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "html-selectors",
+      "url": "https://www.samsara.com/company/careers/roles/7327165?gh_jid=7327165",
+      "fetchedAt": "2026-01-17T20:48:57.020Z"
+    }
+  },
+  "cachedAt": 1768682937020
+}
