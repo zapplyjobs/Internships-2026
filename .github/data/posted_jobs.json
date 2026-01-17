@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T23:29:56.826Z",
+  "lastUpdated": "2026-01-17T23:46:02.012Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9065,14 +9065,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532242",
       "discordThreadId": "1462227461088481557",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-ios-software-engineer-ad-formats-chicago-il-2026-01-17-1",
+      "jobId": "reddit-ios-software-engineer-ad-formats-chicago-il",
+      "company": "reddit",
+      "title": "iOS Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-17T23:45:47.510Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414842",
+      "discordThreadId": "1462231448248385649",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-chicago-il-2026-01-17-1",
+      "jobId": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-chicago-il",
+      "company": "reddit",
+      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+      "postedToDiscord": "2026-01-17T23:45:51.399Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512046",
+      "discordThreadId": "1462231462550966316",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-san-francisco-ca",
+      "company": "reddit",
+      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+      "postedToDiscord": "2026-01-17T23:45:51.408Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414834",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-manager-mid-market-sales-client-account-executives-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-manager-mid-market-sales-client-account-executives-san-francisco-ca",
+      "company": "reddit",
+      "title": "Manager, Mid-Market Sales (Client Account Executives)",
+      "postedToDiscord": "2026-01-17T23:45:54.851Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7524948",
+      "discordThreadId": "1462231478854484105",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-android-engineer-apps-platform-performance-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-senior-android-engineer-apps-platform-performance-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Android Engineer, Apps Platform (Performance)",
+      "postedToDiscord": "2026-01-17T23:45:58.542Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7370711",
+      "discordThreadId": "1462231493395878032",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-account-manager-large-customer-sales-gaming-tech-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-senior-client-account-manager-large-customer-sales-gaming-tech-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (Gaming & Tech)",
+      "postedToDiscord": "2026-01-17T23:46:02.011Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
+      "discordThreadId": "1462231508793426017",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 824,
+    "totalJobs": 830,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T23:29:56.826Z",
+      "date": "2026-01-17T23:46:02.012Z",
       "archived": 0
     }
   }
