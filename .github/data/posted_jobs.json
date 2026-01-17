@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:33:05.885Z",
+  "lastUpdated": "2026-01-17T08:45:58.907Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6755,14 +6755,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7245627?gh_jid=7245627",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-mid-market-mst-pst-phoenix-arizona-united-states-2026-01-17-1",
+      "jobId": "samsara-account-executive-mid-market-mst-pst-phoenix-arizona-united-states",
+      "company": "samsara",
+      "title": "Account Executive, Mid Market (MST/PST)",
+      "postedToDiscord": "2026-01-17T08:45:35.361Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7245617?gh_jid=7245617",
+      "discordThreadId": "1462004904095645766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-business-operations-manager-gtm-remote-us-2026-01-17-1",
+      "jobId": "samsara-business-operations-manager-gtm-remote-us",
+      "company": "samsara",
+      "title": "Business Operations Manager - GTM ",
+      "postedToDiscord": "2026-01-17T08:45:38.862Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7271233?gh_jid=7271233",
+      "discordThreadId": "1462004919128166411",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-ai-self-service-program-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-ai-self-service-program-manager-remote-us",
+      "company": "samsara",
+      "title": "AI Self-Service Program Manager",
+      "postedToDiscord": "2026-01-17T08:45:45.312Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7388702?gh_jid=7388702",
+      "discordThreadId": "1462004946437144608",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-associate-product-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-associate-product-manager-remote-us",
+      "company": "samsara",
+      "title": "Associate Product Manager",
+      "postedToDiscord": "2026-01-17T08:45:50.609Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7232630?gh_jid=7232630",
+      "discordThreadId": "1462004973549260821",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-core-enterprise-account-executive-est-cst-remote-remote-us-2026-01-17-1",
+      "jobId": "samsara-core-enterprise-account-executive-est-cst-remote-remote-us",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote",
+      "postedToDiscord": "2026-01-17T08:45:55.428Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/5979842?gh_jid=5979842",
+      "discordThreadId": "1462004995816685572",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-core-enterprise-account-executive-est-cst-remote-austin-tx-austin-tx-2026-01-17-1",
+      "jobId": "samsara-core-enterprise-account-executive-est-cst-remote-austin-tx-austin-tx",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Austin, TX",
+      "postedToDiscord": "2026-01-17T08:45:58.888Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685496?gh_jid=6685496",
+      "discordThreadId": "1462005003274424383",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-core-enterprise-account-executive-est-cst-remote-chicago-il-chicago-il-2026-01-17-1",
+      "jobId": "samsara-core-enterprise-account-executive-est-cst-remote-chicago-il-chicago-il",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Chicago, IL",
+      "postedToDiscord": "2026-01-17T08:45:58.895Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685493?gh_jid=6685493",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-core-enterprise-account-executive-est-cst-remote-dallas-tx-dallas-tx-2026-01-17-1",
+      "jobId": "samsara-core-enterprise-account-executive-est-cst-remote-dallas-tx-dallas-tx",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Dallas, TX",
+      "postedToDiscord": "2026-01-17T08:45:58.901Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685497?gh_jid=6685497",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-core-enterprise-account-executive-est-cst-remote-houston-tx-houston-texas-2026-01-17-1",
+      "jobId": "samsara-core-enterprise-account-executive-est-cst-remote-houston-tx-houston-texas",
+      "company": "samsara",
+      "title": "Core Enterprise Account Executive EST/CST - Remote - Houston, TX",
+      "postedToDiscord": "2026-01-17T08:45:58.906Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 614,
+    "totalJobs": 623,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T08:33:05.885Z",
+      "date": "2026-01-17T08:45:58.907Z",
       "archived": 0
     }
   }
