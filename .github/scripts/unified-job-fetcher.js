@@ -1,17 +1,17 @@
 /**
- * Unified Job Fetcher
- * Orchestrates job collection from all configured sources
+ * Unified Job Fetcher - Internships ONLY
+ *
+ * IMPORTANT: This repo uses SimplifyJobs ONLY
+ * ATS platforms (Greenhouse/Lever/Ashby) return ALL jobs including senior roles
+ * We need internship-specific aggregators, not general job boards
  *
  * Sources:
- * 1. API-based companies (legacy - currently disabled)
- * 2. Primary data source (aggregator)
- * 3. ATS platforms (Greenhouse, Lever, Ashby, Workable)
+ * 1. SimplifyJobs (internship aggregator)
  */
 
 const { getCompanies } = require('../../jobboard/src/backend/config/companies.js');
 const { fetchAPIJobs, fetchExternalJobsData } = require('../../jobboard/src/backend/services/apiService.js');
 const { generateJobId, isUSOnlyJob } = require('./job-fetcher/utils.js');
-const { fetchAllATSJobs } = require('./job-fetcher/sources');
 
 /**
  * Delay helper for rate limiting
@@ -74,30 +74,11 @@ async function fetchAllJobs() {
     console.error(`❌ Primary data source failed:`, error.message);
   }
 
-  // === Part 3: Fetch from ATS platforms (Greenhouse, Lever, Ashby, Workable) ===
-  console.log('\n📡 Fetching from ATS platforms...');
-
-  try {
-    const { jobs: atsJobs, stats: atsStats } = await fetchAllATSJobs({ delayMs: 500 });
-
-    // Normalize ATS jobs to match expected format
-    const normalizedATSJobs = atsJobs.map(job => ({
-      // Map to legacy format expected by downstream processors
-      job_title: job.title,
-      employer_name: job.company_name,
-      job_city: job.location,
-      job_apply_link: job.url,
-      job_posted_at_datetime_utc: job.posted_at,
-      job_description: job.description,
-      // Keep original fields for reference
-      ...job
-    }));
-
-    allJobs.push(...normalizedATSJobs);
-    console.log(`📊 After ATS sources: ${allJobs.length} jobs total`);
-  } catch (error) {
-    console.error(`❌ ATS sources failed:`, error.message);
-  }
+  // === Part 3: ATS platforms DISABLED for Internships ===
+  // NOTE: Greenhouse/Lever/Ashby APIs return ALL jobs (including senior positions)
+  // They do NOT filter to internships only - that's why we only use SimplifyJobs
+  // which specifically aggregates internship postings
+  console.log('\n⏭️ Skipping ATS platforms (returns all jobs, not internships-only)...');
 
   // === Part 4: Filter to US-only jobs ===
   console.log('\n🇺🇸 Filtering to US-only jobs...');
