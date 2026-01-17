@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T04:35:33.270Z",
+  "lastUpdated": "2026-01-17T04:51:11.338Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5457,14 +5457,91 @@
       "sourceUrl": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-platform-security-san-francisco-bay-area-or-remote-2026-01-17-1",
+      "jobId": "discord-staff-software-engineer-platform-security-san-francisco-bay-area-or-remote",
+      "company": "discord",
+      "title": "Staff Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-17T04:50:39.839Z",
+      "sourceDate": "2026-01-16T18:39:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8177912002",
+      "discordThreadId": "1461945783472357389",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-recruiting-manager-product-management-design-san-francisco-nyc-chicago-2026-01-17-1",
+      "jobId": "stripe-technical-recruiting-manager-product-management-design-san-francisco-nyc-chicago",
+      "company": "stripe",
+      "title": "Technical Recruiting Manager, Product Management + Design ",
+      "postedToDiscord": "2026-01-17T04:50:43.546Z",
+      "sourceDate": "2026-01-16T18:38:08-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7452605",
+      "discordThreadId": "1461945798278512640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-southern-california-local-higher-education-los-angeles-ca-united-states-orange-county-ca-united-states-san-diego-ca-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-southern-california-local-higher-education-los-angeles-ca-united-states-orange-county-ca-united-states-san-diego-ca-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Southern California - Local, Higher Education)",
+      "postedToDiscord": "2026-01-17T04:50:50.670Z",
+      "sourceDate": "2026-01-16T19:01:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977081007",
+      "discordThreadId": "1461945826409578579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-commercial-counsel-gtm-san-francisco-ca-new-york-city-ny-2026-01-17-1",
+      "jobId": "anthropic-commercial-counsel-gtm-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Commercial Counsel, GTM",
+      "postedToDiscord": "2026-01-17T04:50:54.160Z",
+      "sourceDate": "2026-01-16T18:44:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
+      "discordThreadId": "1461945843761287341",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-program-manager-responsible-scaling-policy-san-francisco-ca-new-york-city-ny-2026-01-17-1",
+      "jobId": "anthropic-program-manager-responsible-scaling-policy-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Program Manager, Responsible Scaling Policy",
+      "postedToDiscord": "2026-01-17T04:51:00.898Z",
+      "sourceDate": "2026-01-16T19:00:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073388008",
+      "discordThreadId": "1461945871259275427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-counsel-safety-san-francisco-ca-new-york-city-ny-2026-01-17-1",
+      "jobId": "anthropic-product-counsel-safety-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Product Counsel, Safety",
+      "postedToDiscord": "2026-01-17T04:51:07.755Z",
+      "sourceDate": "2026-01-16T18:44:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074045008",
+      "discordThreadId": "1461945899516428533",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-research-scientist-vision-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-17-1",
+      "jobId": "anthropic-research-engineer-research-scientist-vision-new-york-city-ny-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Research Engineer / Research Scientist, Vision",
+      "postedToDiscord": "2026-01-17T04:51:11.338Z",
+      "sourceDate": "2026-01-16T18:29:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
+      "discordThreadId": "1461945915689402452",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 496,
+    "totalJobs": 503,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T04:35:33.270Z",
+      "date": "2026-01-17T04:51:11.338Z",
       "archived": 0
     }
   }
