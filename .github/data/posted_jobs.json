@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T03:06:28.889Z",
+  "lastUpdated": "2026-01-17T03:40:15.362Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5248,14 +5248,58 @@
       "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Data-Analyst---Learning---Skill-Development_202601-100850",
       "discordThreadId": "1461919564773196003",
       "instanceNumber": 1
+    },
+    {
+      "id": "microsoft-research-intern-ai-evaluation-and-alignment-redmond-2026-01-17-1",
+      "jobId": "microsoft-research-intern-ai-evaluation-and-alignment-redmond",
+      "company": "Microsoft",
+      "title": "Research Intern - AI Evaluation and Alignment",
+      "postedToDiscord": "2026-01-17T03:40:01.743Z",
+      "sourceDate": "2026-01-17T02:18:04.000Z",
+      "sourceUrl": "https://apply.careers.microsoft.com/careers/job/1970393556735254",
+      "discordThreadId": "1461928008041365505",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-backend-platform-systems-2-intern-hillsboro-2026-01-17-1",
+      "jobId": "cisco-software-engineer-backend-platform-systems-2-intern-hillsboro",
+      "company": "Cisco",
+      "title": "Software Engineer Backend/Platform Systems 2 - Intern",
+      "postedToDiscord": "2026-01-17T03:40:05.288Z",
+      "sourceDate": "2026-01-17T02:15:11.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001121",
+      "discordThreadId": "1461928022470037515",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsung-research-america-intern-ai-wireless-research-berkeley-heights-2026-01-17-1",
+      "jobId": "samsung-research-america-intern-ai-wireless-research-berkeley-heights",
+      "company": "Samsung Research America",
+      "title": "Intern - AI Wireless Research",
+      "postedToDiscord": "2026-01-17T03:40:11.953Z",
+      "sourceDate": "2026-01-17T02:24:30.000Z",
+      "sourceUrl": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8371393002",
+      "discordThreadId": "1461928049917562995",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cisco-software-engineer-full-stack-application-development-2-intern-united-states-hillsboro-2026-01-17-1",
+      "jobId": "cisco-software-engineer-full-stack-application-development-2-intern-united-states-hillsboro",
+      "company": "Cisco",
+      "title": "Software Engineer Full Stack & Application Development 2 – Intern - United States",
+      "postedToDiscord": "2026-01-17T03:40:15.362Z",
+      "sourceDate": "2026-01-17T02:15:09.000Z",
+      "sourceUrl": "https://careers.cisco.com/global/en/job/2001145",
+      "discordThreadId": "1461928065209733246",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 477,
+    "totalJobs": 481,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T03:06:28.889Z",
+      "date": "2026-01-17T03:40:15.362Z",
       "archived": 0
     }
   }

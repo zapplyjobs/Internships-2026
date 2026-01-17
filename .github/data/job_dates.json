@@ -21610,5 +21610,35 @@
     "job_title": "Intern - Data Analyst - Learning & Skill Development",
     "company": "Genentech",
     "first_seen": "2026-01-17T03:05:53.149Z"
+  },
+  "samsung-research-america-intern---ai-wireless-research-berkeley-heights": {
+    "assigned_date": "2026-01-17T03:39:45.575Z",
+    "job_title": "Intern - AI Wireless Research",
+    "company": "Samsung Research America",
+    "first_seen": "2026-01-17T03:39:45.575Z"
+  },
+  "microsoft-research-intern---ai-evaluation-and-alignment-redmond": {
+    "assigned_date": "2026-01-17T03:39:45.576Z",
+    "job_title": "Research Intern - AI Evaluation and Alignment",
+    "company": "Microsoft",
+    "first_seen": "2026-01-17T03:39:45.576Z"
+  },
+  "cisco-software-engineer-backend/platform-systems-2---intern-hillsboro": {
+    "assigned_date": "2026-01-17T03:39:45.576Z",
+    "job_title": "Software Engineer Backend/Platform Systems 2 - Intern",
+    "company": "Cisco",
+    "first_seen": "2026-01-17T03:39:45.576Z"
+  },
+  "cisco-software-engineer-full-stack-&-application-development-2-–-intern---united-states-hillsboro": {
+    "assigned_date": "2026-01-17T03:39:45.576Z",
+    "job_title": "Software Engineer Full Stack & Application Development 2 – Intern - United States",
+    "company": "Cisco",
+    "first_seen": "2026-01-17T03:39:45.576Z"
+  },
+  "william-blair-working-in-technology-(wit)-data-science-chicago": {
+    "assigned_date": "2026-01-17T03:39:45.579Z",
+    "job_title": "Working in Technology (WiT) Data Science",
+    "company": "William Blair",
+    "first_seen": "2026-01-17T03:39:45.579Z"
   }
 }

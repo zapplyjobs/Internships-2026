@@ -1,0 +1,17 @@
+{
+  "url": "https://apply.careers.microsoft.com/careers/job/1970393556735254",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Research Interns put inquiry and theory into practice. Alongside fellow doctoral candidates and some of the world&#39;s best researchers, Research Interns learn, collaborate, and network for life. Research Interns not only advance their own careers, but they also contribute to exciting research and development strides. During the 12-week internship, Research Interns are paired with mentors and expected to collaborate with other Research Interns and researchers, present findings, and contribute to the vibrant life of the community. Research internships are available in all areas of research, and are offered year-round, though they typically begin in the summer. We are looking for candidates with proficient intellectual curiosity and passion to solve real-world problems using machine learning. Co-developing a research project in collaboration with the supervisor and research mentors. Designing and implementing machine learning approaches, including training and fine-tuning using real-world datasets. Developing evaluation frameworks and benchmarking methods to assess model quality, robustness, and generalization. Presentation and communication of research findings Currently enrolled in a PhD program in Statistics, Computer Science, Physics, Operations Research, or a related technical field. At least 1 year of hands-on experience working on LLM-related projects (e.g., prompt engineering, building and evaluating LLM-based systems, rewards modeling etc.). At least 1 year of experience coding in Python. In addition to the qualifications below, you&#39;ll need to submit a minimum of two reference letters for this position as well as a cover letter and any relevant work or research samples. After you submit your application, a request for letters may be sent to your list of references on your behalf. Note that reference letters cannot be requested until after you have submitted your application, and furthermore, that they might not be automatically requested for all candidates. You may wish to alert your letter writers in advance, so they will be ready to submit your letter. Prior experience in reward models for large language models or LLM-as-a-Judge. Strong experience with deep learning frameworks (e.g., PyTorch, TensorFlow) and familiarity with software engineering best practices (e.g. git). Experience with LLM post-training and evaluation or LLM-based judge systems. Research experience demonstrated through publications or projects. Ability to work independently in ambiguous or rapidly evolving situations and collaborate effectively across disciplines.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735254",
+      "fetchedAt": "2026-01-17T03:39:47.925Z"
+    }
+  },
+  "cachedAt": 1768621187925
+}
