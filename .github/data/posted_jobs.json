@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T22:18:34.050Z",
+  "lastUpdated": "2026-01-17T22:31:01.885Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8724,14 +8724,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266641?gh_jid=7266641",
       "discordThreadId": "1462209496972656640",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-revenue-tools-product-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-revenue-tools-product-manager-remote-us",
+      "company": "samsara",
+      "title": "Sr. Revenue Tools Product Manager",
+      "postedToDiscord": "2026-01-17T22:30:27.693Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7374114?gh_jid=7374114",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-sales-operations-and-strategy-analyst-atlanta-georgia-united-states-2026-01-17-1",
+      "jobId": "samsara-sr-sales-operations-and-strategy-analyst-atlanta-georgia-united-states",
+      "company": "samsara",
+      "title": "Sr. Sales Operations and Strategy Analyst",
+      "postedToDiscord": "2026-01-17T22:30:34.178Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7492120?gh_jid=7492120",
+      "discordThreadId": "1462212517496619142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-systems-analyst-customer-success-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-systems-analyst-customer-success-remote-us",
+      "company": "samsara",
+      "title": "Sr Systems Analyst - Customer Success",
+      "postedToDiscord": "2026-01-17T22:30:37.745Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7309300?gh_jid=7309300",
+      "discordThreadId": "1462212532386267320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-software-engineer-ii-connected-equipment-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-software-engineer-ii-connected-equipment-remote-us",
+      "company": "samsara",
+      "title": "Sr. Software Engineer II - Connected Equipment",
+      "postedToDiscord": "2026-01-17T22:30:42.493Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7430244?gh_jid=7430244",
+      "discordThreadId": "1462212559980593202",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-staff-mobile-engineer-mobile-platform-remote-us-2026-01-17-1",
+      "jobId": "samsara-staff-mobile-engineer-mobile-platform-remote-us",
+      "company": "samsara",
+      "title": "Staff Mobile Engineer - Mobile Platform",
+      "postedToDiscord": "2026-01-17T22:30:44.188Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266713?gh_jid=7266713",
+      "discordThreadId": "1462212567085613187",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-staff-software-engineer-iam-remote-us-2026-01-17-1",
+      "jobId": "samsara-staff-software-engineer-iam-remote-us",
+      "company": "samsara",
+      "title": "Staff Software Engineer, IAM",
+      "postedToDiscord": "2026-01-17T22:30:45.961Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266715?gh_jid=7266715",
+      "discordThreadId": "1462212574408871998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sr-workday-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-sr-workday-analyst-remote-us",
+      "company": "samsara",
+      "title": "Sr Workday Analyst",
+      "postedToDiscord": "2026-01-17T22:30:50.714Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7433424?gh_jid=7433424",
+      "discordThreadId": "1462212594092867635",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-staff-accountant-sec-financial-reporting-remote-us-2026-01-17-1",
+      "jobId": "samsara-staff-accountant-sec-financial-reporting-remote-us",
+      "company": "samsara",
+      "title": "Staff Accountant - SEC Financial Reporting",
+      "postedToDiscord": "2026-01-17T22:30:57.112Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7312744?gh_jid=7312744",
+      "discordThreadId": "1462212613873209437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-staff-machine-learning-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-staff-machine-learning-engineer-remote-us",
+      "company": "samsara",
+      "title": "Staff Machine Learning Engineer",
+      "postedToDiscord": "2026-01-17T22:31:01.885Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357",
+      "discordThreadId": "1462212641111019764",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 793,
+    "totalJobs": 802,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T22:18:34.050Z",
+      "date": "2026-01-17T22:31:01.885Z",
       "archived": 0
     }
   }
