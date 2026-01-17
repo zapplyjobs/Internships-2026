@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T14:30:11.477Z",
+  "lastUpdated": "2026-01-17T15:38:59.009Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7052,14 +7052,69 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6606592?gh_jid=6606592",
       "discordThreadId": "1462091625923608638",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-core-sales-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-enterprise-core-sales-engineer-remote-us",
+      "company": "samsara",
+      "title": "Enterprise Core Sales Engineer",
+      "postedToDiscord": "2026-01-17T15:38:51.819Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7368115?gh_jid=7368115",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-customer-success-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-enterprise-customer-success-manager-remote-us",
+      "company": "samsara",
+      "title": "Enterprise Customer Success Manager",
+      "postedToDiscord": "2026-01-17T15:38:55.281Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7156222?gh_jid=7156222",
+      "discordThreadId": "1462108923170656593",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-customer-success-manager-public-sector-remote-us-2026-01-17-1",
+      "jobId": "samsara-enterprise-customer-success-manager-public-sector-remote-us",
+      "company": "samsara",
+      "title": "Enterprise Customer Success Manager - Public Sector",
+      "postedToDiscord": "2026-01-17T15:38:55.289Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7481333?gh_jid=7481333",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-implementation-consultant-remote-us-2026-01-17-1",
+      "jobId": "samsara-enterprise-implementation-consultant-remote-us",
+      "company": "samsara",
+      "title": "Enterprise Implementation Consultant",
+      "postedToDiscord": "2026-01-17T15:38:59.001Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7487342?gh_jid=7487342",
+      "discordThreadId": "1462108937355657379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-enterprise-implementation-consultant-philadelphia-pennsylvania-united-states-2026-01-17-1",
+      "jobId": "samsara-enterprise-implementation-consultant-philadelphia-pennsylvania-united-states",
+      "company": "samsara",
+      "title": "Enterprise Implementation Consultant",
+      "postedToDiscord": "2026-01-17T15:38:59.009Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266711?gh_jid=7266711",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 641,
+    "totalJobs": 646,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T14:30:11.477Z",
+      "date": "2026-01-17T15:38:59.009Z",
       "archived": 0
     }
   }
