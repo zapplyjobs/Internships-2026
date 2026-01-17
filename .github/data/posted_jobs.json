@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T04:20:27.904Z",
+  "lastUpdated": "2026-01-17T04:35:33.270Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5380,14 +5380,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8375488002",
       "discordThreadId": "1461938183481852139",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-staff-mobile-platform-engineer-ios-denver-co-san-francisco-ca-new-york-ny-2026-01-17-1",
+      "jobId": "gusto-senior-staff-mobile-platform-engineer-ios-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Senior Staff Mobile Platform Engineer, iOS",
+      "postedToDiscord": "2026-01-17T04:35:13.685Z",
+      "sourceDate": "2026-01-16T19:33:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7289988",
+      "discordThreadId": "1461941899328753783",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-product-core-experiences-platform-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-2026-01-17-1",
+      "jobId": "gusto-head-of-product-core-experiences-platform-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Head of Product, Core Experiences Platform",
+      "postedToDiscord": "2026-01-17T04:35:20.092Z",
+      "sourceDate": "2026-01-16T19:33:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7443426",
+      "discordThreadId": "1461941926315163719",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-field-marketing-manager-enterprise-sled-east-new-york-city-ny-united-states-philadelphia-pa-united-states-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-field-marketing-manager-enterprise-sled-east-new-york-city-ny-united-states-philadelphia-pa-united-states-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Senior Field Marketing Manager (Enterprise SLED East)",
+      "postedToDiscord": "2026-01-17T04:35:26.651Z",
+      "sourceDate": "2026-01-16T19:29:47-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5018825007",
+      "discordThreadId": "1461941953292665038",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-e-commerce-salt-lake-city-utah-united-states-2026-01-17-1",
+      "jobId": "brex-account-executive-e-commerce-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-17T04:35:33.254Z",
+      "sourceDate": "2026-01-16T19:14:22-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379352002?gh_jid=8379352002",
+      "discordThreadId": "1461941980392325302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-e-commerce-seattle-washington-united-states-2026-01-17-1",
+      "jobId": "brex-account-executive-e-commerce-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-17T04:35:33.260Z",
+      "sourceDate": "2026-01-16T19:14:21-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379350002?gh_jid=8379350002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-e-commerce-san-francisco-california-united-states-2026-01-17-1",
+      "jobId": "brex-account-executive-e-commerce-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-17T04:35:33.266Z",
+      "sourceDate": "2026-01-16T19:14:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8379349002?gh_jid=8379349002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-e-commerce-new-york-new-york-united-states-2026-01-17-1",
+      "jobId": "brex-account-executive-e-commerce-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Account Executive, E-Commerce ",
+      "postedToDiscord": "2026-01-17T04:35:33.270Z",
+      "sourceDate": "2026-01-16T19:13:59-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8377510002?gh_jid=8377510002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 489,
+    "totalJobs": 496,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T04:20:27.904Z",
+      "date": "2026-01-17T04:35:33.270Z",
       "archived": 0
     }
   }
