@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T22:31:01.885Z",
+  "lastUpdated": "2026-01-17T22:41:08.067Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8823,14 +8823,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357",
       "discordThreadId": "1462212641111019764",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-strategic-customer-success-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-strategic-customer-success-manager-remote-us",
+      "company": "samsara",
+      "title": "Strategic Customer Success Manager",
+      "postedToDiscord": "2026-01-17T22:40:38.497Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7398075?gh_jid=7398075",
+      "discordThreadId": "1462215050549923843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-value-architect-remote-us-2026-01-17-1",
+      "jobId": "samsara-value-architect-remote-us",
+      "company": "samsara",
+      "title": "Value Architect",
+      "postedToDiscord": "2026-01-17T22:40:41.842Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7288947?gh_jid=7288947",
+      "discordThreadId": "1462215066752520458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-lead-counsel-nyc-new-york-new-york-usa-2026-01-17-1",
+      "jobId": "datadog-lead-counsel-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Lead Counsel - NYC",
+      "postedToDiscord": "2026-01-17T22:40:45.274Z",
+      "sourceDate": "2026-01-16T09:56:45-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7523806/?gh_jid=7523806",
+      "discordThreadId": "1462215080774074411",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-lead-counsel-district-of-columbia-usa-remote-2026-01-17-1",
+      "jobId": "datadog-lead-counsel-district-of-columbia-usa-remote",
+      "company": "datadog",
+      "title": "Lead Counsel",
+      "postedToDiscord": "2026-01-17T22:40:45.282Z",
+      "sourceDate": "2026-01-16T09:56:44-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7538558/?gh_jid=7538558",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-manager-revenue-accounting-denver-co-san-francisco-ca-new-york-ny-2026-01-17-1",
+      "jobId": "gusto-senior-manager-revenue-accounting-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Senior Manager, Revenue Accounting",
+      "postedToDiscord": "2026-01-17T22:40:48.590Z",
+      "sourceDate": "2026-01-15T23:54:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6821046",
+      "discordThreadId": "1462215094929981705",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-technical-program-manager-security-remote-us-2026-01-17-1",
+      "jobId": "samsara-technical-program-manager-security-remote-us",
+      "company": "samsara",
+      "title": "Technical Program Manager - Security",
+      "postedToDiscord": "2026-01-17T22:40:53.435Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7363282?gh_jid=7363282",
+      "discordThreadId": "1462215122377248788",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-corporate-strategy-san-francisco-new-york-city-2026-01-17-1",
+      "jobId": "stripe-corporate-strategy-san-francisco-new-york-city",
+      "company": "stripe",
+      "title": "Corporate Strategy",
+      "postedToDiscord": "2026-01-17T22:40:56.753Z",
+      "sourceDate": "2026-01-16T10:15:41-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6696826",
+      "discordThreadId": "1462215129503502449",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-university-recruiter-phoenix-arizona-united-states-2026-01-17-1",
+      "jobId": "samsara-university-recruiter-phoenix-arizona-united-states",
+      "company": "samsara",
+      "title": "University Recruiter",
+      "postedToDiscord": "2026-01-17T22:41:01.587Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7488083?gh_jid=7488083",
+      "discordThreadId": "1462215156305236174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-engineer-economic-research-san-francisco-ca-2026-01-17-1",
+      "jobId": "anthropic-data-engineer-economic-research-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Data Engineer, Economic Research",
+      "postedToDiscord": "2026-01-17T22:41:08.067Z",
+      "sourceDate": "2026-01-16T10:41:04-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
+      "discordThreadId": "1462215176290959596",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 802,
+    "totalJobs": 811,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T22:31:01.885Z",
+      "date": "2026-01-17T22:41:08.067Z",
       "archived": 0
     }
   }
