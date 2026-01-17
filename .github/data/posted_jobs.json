@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T04:51:11.338Z",
+  "lastUpdated": "2026-01-17T05:08:49.561Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5534,14 +5534,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074217008",
       "discordThreadId": "1461945915689402452",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-solutions-engineer-remote-california-remote-colorado-remote-oregon-remote-washington-2026-01-17-1",
+      "jobId": "stripe-technical-solutions-engineer-remote-california-remote-colorado-remote-oregon-remote-washington",
+      "company": "stripe",
+      "title": "Technical Solutions Engineer",
+      "postedToDiscord": "2026-01-17T05:08:43.182Z",
+      "sourceDate": "2026-01-16T21:52:02-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7404437",
+      "discordThreadId": "1461950335018078229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-solutions-engineer-ca-remote-british-columbia-2026-01-17-1",
+      "jobId": "stripe-technical-solutions-engineer-ca-remote-british-columbia",
+      "company": "stripe",
+      "title": "Technical Solutions Engineer",
+      "postedToDiscord": "2026-01-17T05:08:43.190Z",
+      "sourceDate": "2026-01-16T21:36:48-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7377101",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-principal-revenue-analyst-san-francisco-ca-2026-01-17-1",
+      "jobId": "gusto-senior-principal-revenue-analyst-san-francisco-ca",
+      "company": "gusto",
+      "title": "Senior Principal Revenue Analyst",
+      "postedToDiscord": "2026-01-17T05:08:49.560Z",
+      "sourceDate": "2026-01-16T18:24:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7365755",
+      "discordThreadId": "1461950354714394761",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 503,
+    "totalJobs": 506,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T04:51:11.338Z",
+      "date": "2026-01-17T05:08:49.561Z",
       "archived": 0
     }
   }
