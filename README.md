@@ -8,14 +8,14 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-4-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![FAANG+ Jobs](https://img.shields.io/badge/FAANG+_Jobs-5-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time internships from 5+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 8+ fresh opportunities for CS students.</p>
+<p align="center">🚀 Real-time internships from 6+ top companies like Google, Meta, Amazon, and Microsoft. Updated every 10 minutes with 11+ fresh opportunities for CS students.</p>
 
 <p align="center">🎯 Includes summer internships, fall co-ops, and new graduate programs from tech giants, unicorn startups, and fast-growing companies.</p>
 
@@ -95,7 +95,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 <img src="images/insights.png" alt="Insights pulled from current listings.">
 
-### ⭐ **FAANG+** (4 positions)
+### ⭐ **FAANG+** (5 positions)
 
 #### 📦 **Amazon** (1 position)
 
@@ -103,12 +103,13 @@ Check out what we're doing on our socials, join our community to connect with fe
 |------|----------|-------|-----------|-----|
 | Cloud Support Engineer Internship | Herdon, VA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us) | 3d |
 
-#### 🟦 **Microsoft** (3 positions)
+#### 🟦 **Microsoft** (4 positions)
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 2h |
-| Research Intern - AI/ML for Electricity Infrastructure Planning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556734896) | 19h |
+| Research Intern - AI Evaluation and Alignment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 1h |
+| Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 3h |
+| Research Intern - AI/ML for Electricity Infrastructure Planning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556734896) | 20h |
 | Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 2d |
 
 ### 🏢 **Top Tech** (2 positions)
@@ -120,7 +121,14 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Performance Engineering Intern - Deep Learning and HPC - Summer 2026 | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Deep-Learning-and-HPC----Summer-2026_JR2009830) | 3d |
 | Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 4d |
 
-### 💻 **Enterprise Software** (1 position)
+### 💻 **Enterprise Software** (3 positions)
+
+#### 🌐 **Cisco** (2 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Software Engineer Backend/Platform Systems 2 - Intern | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001121) | 1h |
+| Software Engineer Full Stack & Application Development 2 – Intern - United States | Hillsboro, OR | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cisco.com/global/en/job/2001145) | 1h |
 
 #### 🖥️ **Hewlett Packard Enterprise** (1 position)
 
@@ -159,13 +167,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1805 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1800 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1805 roles
-- **🏢 Companies**: 224 companies  
+- **📁 Total Positions**: 1800 roles
+- **🏢 Companies**: 222 companies  
 - **⭐ FAANG+ Opportunities**: 87 positions
 
 ### ⭐ **FAANG+** (85 positions)
@@ -501,7 +509,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 8 current opportunities from 5 top companies.**
+**🎯 11 current opportunities from 6 top companies.**
 
 **Found this helpful? Give it a ⭐ to support fellow students!**
 
