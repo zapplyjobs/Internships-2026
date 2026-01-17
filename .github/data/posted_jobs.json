@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T17:46:00.941Z",
+  "lastUpdated": "2026-01-17T18:33:06.982Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7415,14 +7415,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7387072?gh_jid=7387072",
       "discordThreadId": "1462140907498504244",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-public-sector-major-account-executive-remote-denver-2026-01-17-1",
+      "jobId": "samsara-public-sector-major-account-executive-remote-denver",
+      "company": "samsara",
+      "title": "Public Sector Major Account Executive",
+      "postedToDiscord": "2026-01-17T18:32:38.144Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6493990?gh_jid=6493990",
+      "discordThreadId": "1462152647191560379",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-regional-sales-manager-enterprise-core-public-sector-remote-us-2026-01-17-1",
+      "jobId": "samsara-regional-sales-manager-enterprise-core-public-sector-remote-us",
+      "company": "samsara",
+      "title": "Regional Sales Manager, Enterprise - Core, Public Sector",
+      "postedToDiscord": "2026-01-17T18:32:41.496Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7428567?gh_jid=7428567",
+      "discordThreadId": "1462152653902450905",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-renewal-account-executive-remote-us-2026-01-17-1",
+      "jobId": "samsara-renewal-account-executive-remote-us",
+      "company": "samsara",
+      "title": "Renewal Account Executive",
+      "postedToDiscord": "2026-01-17T18:32:45.459Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7534067?gh_jid=7534067",
+      "discordThreadId": "1462152676602024098",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-enablement-manager-gtm-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-enablement-manager-gtm-remote-us",
+      "company": "samsara",
+      "title": "Sales Enablement Manager - GTM",
+      "postedToDiscord": "2026-01-17T18:32:49.033Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7428482?gh_jid=7428482",
+      "discordThreadId": "1462152684886032526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-enablement-manager-renewals-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-enablement-manager-renewals-remote-us",
+      "company": "samsara",
+      "title": "Sales Enablement Manager - Renewals",
+      "postedToDiscord": "2026-01-17T18:32:49.039Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266683?gh_jid=7266683",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-new-grad-software-engineering-san-francisco-ca-united-states-2026-01-17-1",
+      "jobId": "samsara-new-grad-software-engineering-san-francisco-ca-united-states",
+      "company": "samsara",
+      "title": "(New Grad) Software Engineering",
+      "postedToDiscord": "2026-01-17T18:32:55.667Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
+      "discordThreadId": "1462152713113571519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-oem-installation-partnerships-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-oem-installation-partnerships-manager-remote-us",
+      "company": "samsara",
+      "title": "OEM Installation Partnerships Manager",
+      "postedToDiscord": "2026-01-17T18:33:00.479Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7372260?gh_jid=7372260",
+      "discordThreadId": "1462152740670148761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-program-manager-ii-customer-success-programs-remote-us-2026-01-17-1",
+      "jobId": "samsara-program-manager-ii-customer-success-programs-remote-us",
+      "company": "samsara",
+      "title": "Program Manager II - Customer Success Programs",
+      "postedToDiscord": "2026-01-17T18:33:06.981Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266685?gh_jid=7266685",
+      "discordThreadId": "1462152760588767284",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 674,
+    "totalJobs": 682,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T17:46:00.941Z",
+      "date": "2026-01-17T18:33:06.982Z",
       "archived": 0
     }
   }
