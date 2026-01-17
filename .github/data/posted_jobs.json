@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T09:04:58.883Z",
+  "lastUpdated": "2026-01-17T09:18:13.694Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6975,14 +6975,36 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6779651?gh_jid=6779651",
       "discordThreadId": "1462009791609045134",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-sales-engineering-mid-market-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-sales-engineering-mid-market-remote-us",
+      "company": "samsara",
+      "title": "Director, Sales Engineering - Mid Market",
+      "postedToDiscord": "2026-01-17T09:18:10.343Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7426614?gh_jid=7426614",
+      "discordThreadId": "1462013111505522916",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-specialist-enterprise-select-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-specialist-enterprise-select-remote-us",
+      "company": "samsara",
+      "title": "Director, Specialist - Enterprise Select",
+      "postedToDiscord": "2026-01-17T09:18:13.694Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7458517?gh_jid=7458517",
+      "discordThreadId": "1462013118942285996",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 634,
+    "totalJobs": 636,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T09:04:58.883Z",
+      "date": "2026-01-17T09:18:13.694Z",
       "archived": 0
     }
   }
