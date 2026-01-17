@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:34:22.684Z",
+  "lastUpdated": "2026-01-17T19:54:02.016Z",
   "jobs": [
-    {
-      "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
-      "jobId": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston",
-      "company": "Weston & Sampson",
-      "title": "Staff Scientist/Engineering Intern - Spring 2026",
-      "postedToDiscord": "2026-01-10T19:43:40.799Z",
-      "sourceDate": "2025-09-11T16:28:22.000Z",
-      "sourceUrl": "https://careers-wseinc.icims.com/jobs/3312/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1459633802207826043",
-      "instanceNumber": 1
-    },
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
       "jobId": "woven-machine-learning-intern-vehicle-perception-palo-alto",
@@ -7756,14 +7745,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6567247?gh_jid=6567247",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-houston-tx-houston-texas-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-houston-tx-houston-texas",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Houston, TX",
+      "postedToDiscord": "2026-01-17T19:54:01.959Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567205?gh_jid=6567205",
+      "discordThreadId": "1462173130935111856",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-jacksonville-fl-jacksonville-fl-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-jacksonville-fl-jacksonville-fl",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Jacksonville, FL",
+      "postedToDiscord": "2026-01-17T19:54:01.971Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567232?gh_jid=6567232",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-miami-fl-miami-fl-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-miami-fl-miami-fl",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Miami, FL",
+      "postedToDiscord": "2026-01-17T19:54:01.977Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392574?gh_jid=6392574",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-nashville-tn-nashville-tn-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-nashville-tn-nashville-tn",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Nashville, TN",
+      "postedToDiscord": "2026-01-17T19:54:01.983Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392556?gh_jid=6392556",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-orlando-fl-orlando-fl-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-orlando-fl-orlando-fl",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Orlando, FL",
+      "postedToDiscord": "2026-01-17T19:54:01.990Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567224?gh_jid=6567224",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-philadelphia-pa-philadelphia-pa-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-philadelphia-pa-philadelphia-pa",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Philadelphia, PA",
+      "postedToDiscord": "2026-01-17T19:54:01.996Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567252?gh_jid=6567252",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-providence-ri-providence-ri-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-providence-ri-providence-ri",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Providence, RI",
+      "postedToDiscord": "2026-01-17T19:54:02.002Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567249?gh_jid=6567249",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-raleigh-nc-raleigh-nc-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-raleigh-nc-raleigh-nc",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Raleigh, NC",
+      "postedToDiscord": "2026-01-17T19:54:02.010Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392562?gh_jid=6392562",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-richmond-va-richmond-va-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-richmond-va-richmond-va",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Richmond, VA",
+      "postedToDiscord": "2026-01-17T19:54:02.016Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567273?gh_jid=6567273",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 705,
+    "totalJobs": 713,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T19:34:22.684Z",
+      "date": "2026-01-17T19:54:02.016Z",
       "archived": 0
     }
   }
