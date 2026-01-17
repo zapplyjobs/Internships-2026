@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T22:41:08.067Z",
+  "lastUpdated": "2026-01-17T22:55:07.423Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8922,14 +8922,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071132008",
       "discordThreadId": "1462215176290959596",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-android-software-engineer-ad-formats-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-android-software-engineer-ad-formats-san-francisco-ca",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-17T22:55:07.406Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
+      "discordThreadId": "1462218697421885500",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-android-software-engineer-ad-formats-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-android-software-engineer-ad-formats-new-york-city-ny",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-17T22:55:07.415Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-android-software-engineer-ad-formats-chicago-il-2026-01-17-1",
+      "jobId": "reddit-android-software-engineer-ad-formats-chicago-il",
+      "company": "reddit",
+      "title": "Android Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-17T22:55:07.422Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 811,
+    "totalJobs": 814,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T22:41:08.067Z",
+      "date": "2026-01-17T22:55:07.423Z",
       "archived": 0
     }
   }
