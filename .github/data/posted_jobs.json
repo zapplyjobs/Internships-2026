@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:54:54.751Z",
+  "lastUpdated": "2026-01-17T08:05:09.248Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6458,14 +6458,113 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7536346?gh_jid=7536346",
       "discordThreadId": "1461992158314631169",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T08:04:35.669Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949028007",
+      "discordThreadId": "1461994595368829071",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sr-staff-software-engineer-gusto-pro-denver-co-san-francisco-ca-new-york-ny-2026-01-17-1",
+      "jobId": "gusto-sr-staff-software-engineer-gusto-pro-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Sr Staff Software Engineer, Gusto Pro",
+      "postedToDiscord": "2026-01-17T08:04:39.777Z",
+      "sourceDate": "2026-01-16T12:14:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7528860",
+      "discordThreadId": "1461994602281173015",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-workforce-management-scheduling-team-lead-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-chicago-il-los-angeles-ca-seattle-wa-2026-01-17-1",
+      "jobId": "gusto-workforce-management-scheduling-team-lead-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-chicago-il-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Workforce Management Scheduling Team Lead",
+      "postedToDiscord": "2026-01-17T08:04:46.232Z",
+      "sourceDate": "2026-01-16T12:28:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7517166",
+      "discordThreadId": "1461994632329298026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-security-risk-compliance-cloud-data-centers-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc-2026-01-17-1",
+      "jobId": "anthropic-security-risk-compliance-cloud-data-centers-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc",
+      "company": "anthropic",
+      "title": "Security Risk & Compliance, Cloud & Data Centers",
+      "postedToDiscord": "2026-01-17T08:04:52.719Z",
+      "sourceDate": "2026-01-16T12:08:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070425008",
+      "discordThreadId": "1461994659139289201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-demand-generation-marketing-manager-public-sector-district-of-columbia-usa-remote-2026-01-17-1",
+      "jobId": "datadog-senior-demand-generation-marketing-manager-public-sector-district-of-columbia-usa-remote",
+      "company": "datadog",
+      "title": "Senior Demand Generation Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-17T08:04:59.518Z",
+      "sourceDate": "2026-01-16T12:07:15-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7536400/?gh_jid=7536400",
+      "discordThreadId": "1461994686955786301",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-demand-generation-marketing-manager-public-sector-new-york-new-york-usa-san-francisco-california-usa-2026-01-17-1",
+      "jobId": "datadog-senior-demand-generation-marketing-manager-public-sector-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Demand Generation Marketing Manager (Public Sector)",
+      "postedToDiscord": "2026-01-17T08:04:59.525Z",
+      "sourceDate": "2026-01-16T12:01:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7528341/?gh_jid=7528341",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sales-associate-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote-2026-01-17-1",
+      "jobId": "gusto-sales-associate-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote",
+      "company": "gusto",
+      "title": "Sales Associate",
+      "postedToDiscord": "2026-01-17T08:05:06.008Z",
+      "sourceDate": "2026-01-16T12:00:08-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6670374",
+      "discordThreadId": "1461994714759692463",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-development-representative-intern-phoenix-arizona-2026-01-17-1",
+      "jobId": "samsara-account-development-representative-intern-phoenix-arizona",
+      "company": "samsara",
+      "title": "Account Development Representative Intern",
+      "postedToDiscord": "2026-01-17T08:05:09.242Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169366?gh_jid=7169366",
+      "discordThreadId": "1461994729855258694",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-development-representative-intern-atlanta-ga-2026-01-17-1",
+      "jobId": "samsara-account-development-representative-intern-atlanta-ga",
+      "company": "samsara",
+      "title": "Account Development Representative Intern ",
+      "postedToDiscord": "2026-01-17T08:05:09.248Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 587,
+    "totalJobs": 596,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T07:54:54.751Z",
+      "date": "2026-01-17T08:05:09.248Z",
       "archived": 0
     }
   }
