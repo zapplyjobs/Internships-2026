@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T17:17:36.826Z",
+  "lastUpdated": "2026-01-17T17:29:51.279Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7228,14 +7228,91 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6605429?gh_jid=6605429",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-of-account-development-phoenix-arizona-united-states-2026-01-17-1",
+      "jobId": "samsara-manager-of-account-development-phoenix-arizona-united-states",
+      "company": "samsara",
+      "title": "Manager of Account Development",
+      "postedToDiscord": "2026-01-17T17:29:35.827Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7285924?gh_jid=7285924",
+      "discordThreadId": "1462136774389399843",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-boston-ma-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-boston-ma",
+      "company": "samsara",
+      "title": " Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:29:39.592Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6056801?gh_jid=6056801",
+      "discordThreadId": "1462136790470365277",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-charleston-wv-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-charleston-wv",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:29:39.599Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7201309?gh_jid=7201309",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-charleston-sc-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-charleston-sc",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:29:39.605Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7090153?gh_jid=7090153",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-mid-market-account-executive-pubsec-remote-us-2026-01-17-1",
+      "jobId": "samsara-mid-market-account-executive-pubsec-remote-us",
+      "company": "samsara",
+      "title": "Mid-Market Account Executive - PubSec",
+      "postedToDiscord": "2026-01-17T17:29:39.611Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/5868716?gh_jid=5868716",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-ii-shipping-and-receiving-logistics-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-manager-ii-shipping-and-receiving-logistics-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Manager II, Shipping and Receiving Logistics",
+      "postedToDiscord": "2026-01-17T17:29:46.340Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266313?gh_jid=7266313",
+      "discordThreadId": "1462136818295247031",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-manager-software-engineering-remote-us-2026-01-17-1",
+      "jobId": "samsara-manager-software-engineering-remote-us",
+      "company": "samsara",
+      "title": "Manager, Software Engineering",
+      "postedToDiscord": "2026-01-17T17:29:51.279Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266381?gh_jid=7266381",
+      "discordThreadId": "1462136847219163361",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 657,
+    "totalJobs": 664,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T17:17:36.826Z",
+      "date": "2026-01-17T17:29:51.279Z",
       "archived": 0
     }
   }
