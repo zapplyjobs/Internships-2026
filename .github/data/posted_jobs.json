@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:56:50.041Z",
+  "lastUpdated": "2026-01-17T09:04:58.883Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6887,14 +6887,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7480095?gh_jid=7480095",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-sales-commissions-atlanta-georgia-united-states-2026-01-17-1",
+      "jobId": "samsara-director-sales-commissions-atlanta-georgia-united-states",
+      "company": "samsara",
+      "title": "Director, Sales Commissions",
+      "postedToDiscord": "2026-01-17T09:04:29.290Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291576?gh_jid=7291576",
+      "discordThreadId": "1462009667835269184",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-digital-experience-specialist-remote-us-2026-01-17-1",
+      "jobId": "samsara-digital-experience-specialist-remote-us",
+      "company": "samsara",
+      "title": "Digital Experience Specialist",
+      "postedToDiscord": "2026-01-17T09:04:34.027Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7282925?gh_jid=7282925",
+      "discordThreadId": "1462009687938695211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-deal-desk-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-deal-desk-remote-us",
+      "company": "samsara",
+      "title": "Director, Deal Desk",
+      "postedToDiscord": "2026-01-17T09:04:35.847Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7206315?gh_jid=7206315",
+      "discordThreadId": "1462009695362355292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-customer-lifecycle-marketing-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-customer-lifecycle-marketing-remote-us",
+      "company": "samsara",
+      "title": "Director, Customer Lifecycle Marketing",
+      "postedToDiscord": "2026-01-17T09:04:40.641Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7340144?gh_jid=7340144",
+      "discordThreadId": "1462009715528568915",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-of-sec-reporting-compliance-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-of-sec-reporting-compliance-remote-us",
+      "company": "samsara",
+      "title": "Director of SEC Reporting & Compliance",
+      "postedToDiscord": "2026-01-17T09:04:44.229Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7290226?gh_jid=7290226",
+      "discordThreadId": "1462009722923126956",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-of-engineering-and-routing-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-of-engineering-and-routing-remote-us",
+      "company": "samsara",
+      "title": "Director of Engineering and Routing",
+      "postedToDiscord": "2026-01-17T09:04:49.067Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7292482?gh_jid=7292482",
+      "discordThreadId": "1462009750714847326",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-product-management-vehicle-platform-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-product-management-vehicle-platform-remote-us",
+      "company": "samsara",
+      "title": "Director, Product Management - Vehicle Platform",
+      "postedToDiscord": "2026-01-17T09:04:53.971Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7277654?gh_jid=7277654",
+      "discordThreadId": "1462009771237576889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-director-product-video-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-director-product-video-safety-remote-us",
+      "company": "samsara",
+      "title": "Director, Product - Video Safety",
+      "postedToDiscord": "2026-01-17T09:04:58.882Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6779651?gh_jid=6779651",
+      "discordThreadId": "1462009791609045134",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 626,
+    "totalJobs": 634,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T08:56:50.041Z",
+      "date": "2026-01-17T09:04:58.883Z",
       "archived": 0
     }
   }
