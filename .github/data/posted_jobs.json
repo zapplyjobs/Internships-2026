@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T23:46:02.012Z",
+  "lastUpdated": "2026-01-17T23:54:33.300Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9131,14 +9131,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7426344",
       "discordThreadId": "1462231508793426017",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-account-manager-mid-market-goods-acquisitions-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-senior-client-account-manager-mid-market-goods-acquisitions-san-francisco-ca",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods - Acquisitions)",
+      "postedToDiscord": "2026-01-17T23:54:12.149Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531469",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-partner-large-customer-sales-alcohol-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-senior-client-partner-large-customer-sales-alcohol-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Alcohol)",
+      "postedToDiscord": "2026-01-17T23:54:15.753Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7367778",
+      "discordThreadId": "1462233579181576294",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-partner-large-customer-sales-finance-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-senior-client-partner-large-customer-sales-finance-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Finance)",
+      "postedToDiscord": "2026-01-17T23:54:19.242Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7536129",
+      "discordThreadId": "1462233594146721874",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-ios-software-engineer-ios-platform-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-senior-ios-software-engineer-ios-platform-san-francisco-ca",
+      "company": "reddit",
+      "title": "Senior iOS Software Engineer, iOS Platform",
+      "postedToDiscord": "2026-01-17T23:54:22.761Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348117",
+      "discordThreadId": "1462233608835174648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-ios-software-engineer-ios-platform-los-angeles-ca-2026-01-17-1",
+      "jobId": "reddit-senior-ios-software-engineer-ios-platform-los-angeles-ca",
+      "company": "reddit",
+      "title": "Senior iOS Software Engineer, iOS Platform",
+      "postedToDiscord": "2026-01-17T23:54:22.769Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348119",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-manager-large-customer-sales-tech-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-senior-manager-large-customer-sales-tech-san-francisco-ca",
+      "company": "reddit",
+      "title": "Senior Manager, Large Customer Sales (Tech)",
+      "postedToDiscord": "2026-01-17T23:54:26.256Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7540782",
+      "discordThreadId": "1462233623922217204",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-software-engineer-android-test-engineering-chicago-il-2026-01-17-1",
+      "jobId": "reddit-senior-software-engineer-android-test-engineering-chicago-il",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-17T23:54:29.862Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488991",
+      "discordThreadId": "1462233638241304689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-software-engineer-android-test-engineering-los-angeles-ca-2026-01-17-1",
+      "jobId": "reddit-senior-software-engineer-android-test-engineering-los-angeles-ca",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-17T23:54:29.869Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-staff-software-engineer-storage-seattle-wa-2026-01-17-1",
+      "jobId": "reddit-staff-software-engineer-storage-seattle-wa",
+      "company": "reddit",
+      "title": "Staff Software Engineer, Storage",
+      "postedToDiscord": "2026-01-17T23:54:33.300Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
+      "discordThreadId": "1462233653571485859",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 830,
+    "totalJobs": 839,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T23:46:02.012Z",
+      "date": "2026-01-17T23:54:33.300Z",
       "archived": 0
     }
   }
