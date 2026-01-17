@@ -1,0 +1,21 @@
+{
+  "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Reverse-Engineer-Intern_HR101960",
+  "data": {
+    "success": true,
+    "platform": "workday",
+    "description": "Unique opportunity to analyze and find vulnerabilities in non-traditional, complex systems. The ideal candidate is a curious engineer or scientist who enjoys diving into the details of how things work, why they work that way, and how they will fail. This role requires knowledge in a wide array of engineering and computing disciplines and an aptitude for deep-dive analytical thinking. Duties include using static and dynamic analysis tools to facilitate reverse engineering and vulnerability analysis efforts. This includes examining software for known and new vulnerabilities, reverse engineering software to understand the impact of vulnerabilities on the operation of the system, creating custom static and dynamic analysis tools for automated analysis, developing tools to analyze and inject datalink messages and other communication protocols, and documenting identified vulnerabilities and their impact in detail.Required SkillsCurrently pursuing a Bachelor's degree in Electrical or Computer EngineeringUS citizenship with the ability to obtain and maintain a security clearanceRequired ExperienceExperience applicable to analyzing, reverse engineering, and vulnerability analysis of software, hardware, and communicationsDesired QualificationsExperience or familiarity with any of the following:Master’s degree in Electrical or Computer EngineeringRadar systemsMachine Learning / Artificial IntelligenceData FusionReverse engineeringVulnerability analysisProgramming languages such as C, C++, or PythonSoftware reverse engineering tools like Ghidra, IDA Pro, Kali, OllyDbg and WiresharkDeveloping custom software and hardware tools to assist in performing reverse engineering and vulnerability analysisWeapon system design or analysisUS Intelligence Community or DoD contractingActive TS/SCI ClearanceEOE/Minorities/Females/Vet/Disabled",
+    "requirements": [
+      "Currently pursuing a Bachelor's degree in Electrical or Computer Engineering",
+      "Master’s degree in Electrical or Computer Engineering"
+    ],
+    "responsibilities": [
+      "Developing custom software and hardware tools to assist in performing reverse engineering and vulnerability analysis"
+    ],
+    "metadata": {
+      "source": "workday-puppeteer",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Reverse-Engineer-Intern_HR101960",
+      "fetchedAt": "2026-01-17T01:09:18.333Z"
+    }
+  },
+  "cachedAt": 1768612158333
+}
