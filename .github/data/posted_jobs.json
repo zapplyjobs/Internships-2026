@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T20:04:44.010Z",
+  "lastUpdated": "2026-01-17T20:18:48.884Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -7943,14 +7943,69 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7438445?gh_jid=7438445",
       "discordThreadId": "1462175824240185516",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-customer-lifecycle-marketing-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-customer-lifecycle-marketing-manager-remote-us",
+      "company": "samsara",
+      "title": "Senior Customer Lifecycle Marketing Manager",
+      "postedToDiscord": "2026-01-17T20:18:31.701Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7372842?gh_jid=7372842",
+      "discordThreadId": "1462179295807013135",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-customer-success-quality-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-customer-success-quality-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Customer Success Quality Analyst",
+      "postedToDiscord": "2026-01-17T20:18:38.375Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7373807?gh_jid=7373807",
+      "discordThreadId": "1462179315851460628",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-data-analyst-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-data-analyst-remote-us",
+      "company": "samsara",
+      "title": "Senior Data Analyst",
+      "postedToDiscord": "2026-01-17T20:18:41.866Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7386898?gh_jid=7386898",
+      "discordThreadId": "1462179331064205415",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-data-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-data-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior Data Engineer",
+      "postedToDiscord": "2026-01-17T20:18:45.451Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266281?gh_jid=7266281",
+      "discordThreadId": "1462179345916363048",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-data-scientist-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-data-scientist-remote-us",
+      "company": "samsara",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-17T20:18:48.883Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7344108?gh_jid=7344108",
+      "discordThreadId": "1462179360755810376",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 722,
+    "totalJobs": 727,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T20:04:44.010Z",
+      "date": "2026-01-17T20:18:48.884Z",
       "archived": 0
     }
   }
