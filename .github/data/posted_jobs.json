@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T06:51:33.688Z",
+  "lastUpdated": "2026-01-17T07:08:50.108Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5908,14 +5908,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4872410007",
       "discordThreadId": "1461976207288569867",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-territory-mid-market-philadelphia-pa-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-territory-mid-market-philadelphia-pa-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-17T07:08:37.717Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103490007",
+      "discordThreadId": "1461980510996795392",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-territory-mid-market-austin-tx-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-territory-mid-market-austin-tx-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-17T07:08:37.723Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087046007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-territory-mid-market-tempe-az-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-territory-mid-market-tempe-az-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-17T07:08:37.728Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4135236007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-territory-mid-market-new-york-city-ny-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-territory-mid-market-new-york-city-ny-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-17T07:08:37.732Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4103493007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-chicago-sled-chicago-il-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-chicago-sled-chicago-il-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Chicago - SLED)",
+      "postedToDiscord": "2026-01-17T07:08:41.190Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4998116007",
+      "discordThreadId": "1461980518261194803",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-colorado-sled-denver-co-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-colorado-sled-denver-co-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Colorado - SLED)",
+      "postedToDiscord": "2026-01-17T07:08:42.907Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4977098007",
+      "discordThreadId": "1461980532815433881",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-corporate-manufacturing-east-boston-ma-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-corporate-manufacturing-east-boston-ma-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Corporate/Manufacturing - East)",
+      "postedToDiscord": "2026-01-17T07:08:46.679Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4680763007",
+      "discordThreadId": "1461980539912323124",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-houston-sled-houston-tx-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-houston-sled-houston-tx-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Houston - SLED)",
+      "postedToDiscord": "2026-01-17T07:08:48.448Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4410381007",
+      "discordThreadId": "1461980555884367935",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-account-executive-kansas-sled-kansas-city-mo-united-states-nebraska-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-account-executive-kansas-sled-kansas-city-mo-united-states-nebraska-united-states",
+      "company": "verkada",
+      "title": "Enterprise Account Executive (Kansas - SLED)",
+      "postedToDiscord": "2026-01-17T07:08:50.107Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4978267007",
+      "discordThreadId": "1461980563131994307",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 537,
+    "totalJobs": 546,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T06:51:33.688Z",
+      "date": "2026-01-17T07:08:50.108Z",
       "archived": 0
     }
   }
