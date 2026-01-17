@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T04:06:48.557Z",
+  "lastUpdated": "2026-01-17T04:20:27.904Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5303,14 +5303,91 @@
       "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-month--Intern---AI-Data-Center-Workloads-Characterization---Simulation_R14103",
       "discordThreadId": "1461934747306692689",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-compute-transactions-partnerships-san-francisco-ca-2026-01-17-1",
+      "jobId": "anthropic-compute-transactions-partnerships-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Compute Transactions & Partnerships",
+      "postedToDiscord": "2026-01-17T04:19:59.120Z",
+      "sourceDate": "2026-01-16T21:35:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986778008",
+      "discordThreadId": "1461938063327629487",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-territory-mid-market-salt-lake-city-ut-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-territory-mid-market-salt-lake-city-ut-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Territory (Mid-Market)",
+      "postedToDiscord": "2026-01-17T04:20:00.911Z",
+      "sourceDate": "2026-01-16T20:33:49-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087051007",
+      "discordThreadId": "1461938077659304061",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-content-technologist-temporary-remote-u-s-2026-01-17-1",
+      "jobId": "discord-content-technologist-temporary-remote-u-s",
+      "company": "discord",
+      "title": "Content Technologist (Temporary)",
+      "postedToDiscord": "2026-01-17T04:20:07.500Z",
+      "sourceDate": "2026-01-16T21:23:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8378561002",
+      "discordThreadId": "1461938097834037375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-research-scientist-audio-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-17-1",
+      "jobId": "anthropic-research-engineer-research-scientist-audio-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Research Engineer/Research Scientist, Audio",
+      "postedToDiscord": "2026-01-17T04:20:14.172Z",
+      "sourceDate": "2026-01-16T20:58:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074815008",
+      "discordThreadId": "1461938126271283352",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-applied-ai-engineer-startups-san-francisco-ca-new-york-city-ny-2026-01-17-1",
+      "jobId": "anthropic-applied-ai-engineer-startups-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Applied AI Engineer, Startups",
+      "postedToDiscord": "2026-01-17T04:20:17.804Z",
+      "sourceDate": "2026-01-16T20:13:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5073277008",
+      "discordThreadId": "1461938141475635362",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-engineer-applied-ai-digital-natives-business-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-17-1",
+      "jobId": "anthropic-product-engineer-applied-ai-digital-natives-business-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Product Engineer, Applied AI, Digital Natives Business",
+      "postedToDiscord": "2026-01-17T04:20:21.295Z",
+      "sourceDate": "2026-01-16T20:11:09-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+      "discordThreadId": "1461938156290183302",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-technical-recruiter-temporary-san-francisco-bay-area-or-remote-u-s-2026-01-17-1",
+      "jobId": "discord-senior-technical-recruiter-temporary-san-francisco-bay-area-or-remote-u-s",
+      "company": "discord",
+      "title": "Senior Technical Recruiter (Temporary)",
+      "postedToDiscord": "2026-01-17T04:20:27.904Z",
+      "sourceDate": "2026-01-16T19:57:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8375488002",
+      "discordThreadId": "1461938183481852139",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 482,
+    "totalJobs": 489,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T04:06:48.557Z",
+      "date": "2026-01-17T04:20:27.904Z",
       "archived": 0
     }
   }
