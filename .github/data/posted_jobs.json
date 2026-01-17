@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:30:56.441Z",
+  "lastUpdated": "2026-01-17T07:38:40.623Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6172,14 +6172,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945720007",
       "discordThreadId": "1461986126003704039",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-southern-california-los-angeles-ca-united-states-orange-county-ca-united-states-san-diego-ca-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-southern-california-los-angeles-ca-united-states-orange-county-ca-united-states-san-diego-ca-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, Southern California",
+      "postedToDiscord": "2026-01-17T07:38:15.144Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4185319007",
+      "discordThreadId": "1461987959011151902",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-enterprise-solutions-engineer-west-coast-portland-or-united-states-san-mateo-ca-united-states-seattle-wa-united-states-2026-01-17-1",
+      "jobId": "verkada-enterprise-solutions-engineer-west-coast-portland-or-united-states-san-mateo-ca-united-states-seattle-wa-united-states",
+      "company": "verkada",
+      "title": "Enterprise Solutions Engineer, West Coast",
+      "postedToDiscord": "2026-01-17T07:38:18.544Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4834059007",
+      "discordThreadId": "1461987973263265855",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-global-enterprise-account-executive-phoenix-az-united-states-2026-01-17-1",
+      "jobId": "verkada-global-enterprise-account-executive-phoenix-az-united-states",
+      "company": "verkada",
+      "title": "Global Enterprise Account Executive",
+      "postedToDiscord": "2026-01-17T07:38:23.383Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4128860007",
+      "discordThreadId": "1461988000316784640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-regional-sales-manager-mid-market-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-regional-sales-manager-mid-market-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market",
+      "postedToDiscord": "2026-01-17T07:38:25.109Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4387668007",
+      "discordThreadId": "1461988007849496646",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-regional-sales-manager-mid-market-austin-austin-tx-united-states-2026-01-17-1",
+      "jobId": "verkada-regional-sales-manager-mid-market-austin-austin-tx-united-states",
+      "company": "verkada",
+      "title": "Regional Sales Manager, Mid-Market, Austin",
+      "postedToDiscord": "2026-01-17T07:38:28.831Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5025464007",
+      "discordThreadId": "1461988015424540684",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-sales-development-representative-aae-new-york-city-new-york-city-ny-united-states-2026-01-17-1",
+      "jobId": "verkada-sales-development-representative-aae-new-york-city-new-york-city-ny-united-states",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), New York City ",
+      "postedToDiscord": "2026-01-17T07:38:32.230Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4520965007",
+      "discordThreadId": "1461988030612246538",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-national-channel-sales-manager-convergint-east-jacksonville-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-national-channel-sales-manager-convergint-east-jacksonville-fl-united-states",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-17T07:38:37.124Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950450007",
+      "discordThreadId": "1461988057703251969",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-national-channel-sales-manager-convergint-east-philadelphia-pa-united-states-2026-01-17-1",
+      "jobId": "verkada-national-channel-sales-manager-convergint-east-philadelphia-pa-united-states",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Convergint (East)",
+      "postedToDiscord": "2026-01-17T07:38:37.130Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4950449007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-national-channel-sales-manager-midwest-chicago-il-united-states-columbus-oh-united-states-detroit-mi-united-states-indianapolis-in-united-states-kansas-city-mo-united-states-milwaukee-wi-united-states-minneapolis-mn-united-states-2026-01-17-1",
+      "jobId": "verkada-national-channel-sales-manager-midwest-chicago-il-united-states-columbus-oh-united-states-detroit-mi-united-states-indianapolis-in-united-states-kansas-city-mo-united-states-milwaukee-wi-united-states-minneapolis-mn-united-states",
+      "company": "verkada",
+      "title": "National Channel Sales Manager, Midwest",
+      "postedToDiscord": "2026-01-17T07:38:40.623Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
+      "discordThreadId": "1461988065366118604",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 561,
+    "totalJobs": 570,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T07:30:56.441Z",
+      "date": "2026-01-17T07:38:40.623Z",
       "archived": 0
     }
   }
