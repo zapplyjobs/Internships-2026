@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:05:09.248Z",
+  "lastUpdated": "2026-01-17T08:19:11.653Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6557,14 +6557,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7169321?gh_jid=7169321",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-development-representative-new-grad-atlanta-ga-2026-01-17-1",
+      "jobId": "samsara-account-development-representative-new-grad-atlanta-ga",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad)",
+      "postedToDiscord": "2026-01-17T08:19:09.845Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169384?gh_jid=7169384",
+      "discordThreadId": "1461998261656227933",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-development-representative-new-grad-phoenix-arizona-2026-01-17-1",
+      "jobId": "samsara-account-development-representative-new-grad-phoenix-arizona",
+      "company": "samsara",
+      "title": "Account Development Representative (New Grad) ",
+      "postedToDiscord": "2026-01-17T08:19:09.852Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7169397?gh_jid=7169397",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-remote-us-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-remote-us",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.619Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605599?gh_jid=6605599",
+      "discordThreadId": "1461998269159968862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-denver-co-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-denver-co",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.625Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165119?gh_jid=6165119",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-los-angeles-ca-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-los-angeles-ca",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.630Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165124?gh_jid=6165124",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-salt-lake-city-ut-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-salt-lake-city-ut",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.635Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165126?gh_jid=6165126",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-san-diego-ca-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-san-diego-ca",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.639Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165127?gh_jid=6165127",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-seattle-wa-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-seattle-wa",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.644Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6165130?gh_jid=6165130",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-account-executive-commercial-boston-ma-2026-01-17-1",
+      "jobId": "samsara-account-executive-commercial-boston-ma",
+      "company": "samsara",
+      "title": "Account Executive, Commercial",
+      "postedToDiscord": "2026-01-17T08:19:11.653Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6605604?gh_jid=6605604",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 596,
+    "totalJobs": 605,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T08:05:09.248Z",
+      "date": "2026-01-17T08:19:11.653Z",
       "archived": 0
     }
   }
