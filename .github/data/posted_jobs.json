@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:54:02.016Z",
+  "lastUpdated": "2026-01-17T20:04:44.010Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -7844,14 +7844,113 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6567273?gh_jid=6567273",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-san-antonio-tx-san-antonio-tx-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-san-antonio-tx-san-antonio-tx",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - San Antonio, TX",
+      "postedToDiscord": "2026-01-17T20:04:25.580Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567212?gh_jid=6567212",
+      "discordThreadId": "1462175746318405794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-tallahassee-fl-tallahassee-fl-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-tallahassee-fl-tallahassee-fl",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Tallahassee, FL",
+      "postedToDiscord": "2026-01-17T20:04:25.587Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567228?gh_jid=6567228",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-tampa-fl-tampa-fl-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-tampa-fl-tampa-fl",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Tampa, FL",
+      "postedToDiscord": "2026-01-17T20:04:25.593Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6392576?gh_jid=6392576",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-washington-dc-washington-d-c-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-washington-dc-washington-d-c",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST - Washington, DC",
+      "postedToDiscord": "2026-01-17T20:04:25.599Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6567266?gh_jid=6567266",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-mst-pst-los-angeles-ca-los-angeles-ca-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-mst-pst-los-angeles-ca-los-angeles-ca",
+      "company": "samsara",
+      "title": "Select Major Account Executive (MST/PST) - Los Angeles, CA",
+      "postedToDiscord": "2026-01-17T20:04:29.153Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6322690?gh_jid=6322690",
+      "discordThreadId": "1462175754652619049",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-mst-pst-san-diego-ca-san-diego-ca-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-mst-pst-san-diego-ca-san-diego-ca",
+      "company": "samsara",
+      "title": "Select Major Account Executive (MST/PST) - San Diego, CA",
+      "postedToDiscord": "2026-01-17T20:04:29.159Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6322691?gh_jid=6322691",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-billing-and-accounts-receivable-specialist-enterprise-accounts-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-billing-and-accounts-receivable-specialist-enterprise-accounts-remote-us",
+      "company": "samsara",
+      "title": "Senior Billing and Accounts Receivable Specialist, Enterprise Accounts",
+      "postedToDiscord": "2026-01-17T20:04:32.652Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7141313?gh_jid=7141313",
+      "discordThreadId": "1462175769085345902",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-ai-engineer-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-ai-engineer-remote-us",
+      "company": "samsara",
+      "title": "Senior AI Engineer",
+      "postedToDiscord": "2026-01-17T20:04:39.246Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7211766?gh_jid=7211766",
+      "discordThreadId": "1462175796281213141",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-benefits-and-global-mobility-partner-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-benefits-and-global-mobility-partner-remote-us",
+      "company": "samsara",
+      "title": "Senior Benefits and Global Mobility Partner",
+      "postedToDiscord": "2026-01-17T20:04:44.009Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7438445?gh_jid=7438445",
+      "discordThreadId": "1462175824240185516",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 713,
+    "totalJobs": 722,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T19:54:02.016Z",
+      "date": "2026-01-17T20:04:44.010Z",
       "archived": 0
     }
   }
