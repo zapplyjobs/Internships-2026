@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T19:17:18.651Z",
+  "lastUpdated": "2026-01-17T19:28:02.509Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -7569,14 +7569,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6782502?gh_jid=6782502",
       "discordThreadId": "1462163881471512749",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-i-se-desk-ct-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-i-se-desk-ct-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer I, SE Desk CT",
+      "postedToDiscord": "2026-01-17T19:27:43.498Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7311761?gh_jid=7311761",
+      "discordThreadId": "1462166503129616611",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-i-se-desk-pt-mt-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-i-se-desk-pt-mt-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer I, SE Desk PT/MT",
+      "postedToDiscord": "2026-01-17T19:27:47.609Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7311768?gh_jid=7311768",
+      "discordThreadId": "1462166520254824662",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-engineer-public-sector-enterprise-core-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-engineer-public-sector-enterprise-core-remote-us",
+      "company": "samsara",
+      "title": "Sales Engineer - Public Sector, Enterprise Core",
+      "postedToDiscord": "2026-01-17T19:27:49.285Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7493949?gh_jid=7493949",
+      "discordThreadId": "1462166535136219317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-operations-manager-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-operations-manager-remote-us",
+      "company": "samsara",
+      "title": "Sales Operations Manager",
+      "postedToDiscord": "2026-01-17T19:27:52.648Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7376864?gh_jid=7376864",
+      "discordThreadId": "1462166542161809429",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-chicago-il-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-chicago-il",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST",
+      "postedToDiscord": "2026-01-17T19:27:56.067Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6242376?gh_jid=6242376",
+      "discordThreadId": "1462166556287959121",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-remote-us-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-remote-us",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST",
+      "postedToDiscord": "2026-01-17T19:27:56.073Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/5979877?gh_jid=5979877",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-select-major-account-executive-est-cst-milwaukee-wi-2026-01-17-1",
+      "jobId": "samsara-select-major-account-executive-est-cst-milwaukee-wi",
+      "company": "samsara",
+      "title": "Select Major Account Executive EST/CST",
+      "postedToDiscord": "2026-01-17T19:27:56.078Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/6242420?gh_jid=6242420",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-sales-quality-program-manager-ii-remote-us-2026-01-17-1",
+      "jobId": "samsara-sales-quality-program-manager-ii-remote-us",
+      "company": "samsara",
+      "title": "Sales Quality Program Manager II",
+      "postedToDiscord": "2026-01-17T19:28:02.509Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7396367?gh_jid=7396367",
+      "discordThreadId": "1462166583077109998",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 688,
+    "totalJobs": 696,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T19:17:18.651Z",
+      "date": "2026-01-17T19:28:02.509Z",
       "archived": 0
     }
   }
