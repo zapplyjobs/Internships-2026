@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T07:38:40.623Z",
+  "lastUpdated": "2026-01-17T07:45:43.160Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6271,14 +6271,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4824487007",
       "discordThreadId": "1461988065366118604",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-sales-development-representative-aae-phoenix-tempe-az-united-states-2026-01-17-1",
+      "jobId": "verkada-sales-development-representative-aae-phoenix-tempe-az-united-states",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), Phoenix",
+      "postedToDiscord": "2026-01-17T07:45:24.666Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4135267007",
+      "discordThreadId": "1461989767733444648",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-sales-development-representative-aae-salt-lake-city-salt-lake-city-ut-united-states-2026-01-17-1",
+      "jobId": "verkada-sales-development-representative-aae-salt-lake-city-salt-lake-city-ut-united-states",
+      "company": "verkada",
+      "title": "Sales Development Representative (AAE), Salt Lake City",
+      "postedToDiscord": "2026-01-17T07:45:26.354Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4087170007",
+      "discordThreadId": "1461989774687604798",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-channel-marketing-manager-northeast-remote-boston-ma-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-channel-marketing-manager-northeast-remote-boston-ma-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states",
+      "company": "verkada",
+      "title": "Senior Channel Marketing Manager, Northeast (Remote)",
+      "postedToDiscord": "2026-01-17T07:45:33.136Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4648144007",
+      "discordThreadId": "1461989794812002327",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-field-marketing-manager-federal-state-washington-d-c-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-field-marketing-manager-federal-state-washington-d-c-united-states",
+      "company": "verkada",
+      "title": "Senior Field Marketing Manager (Federal / State)",
+      "postedToDiscord": "2026-01-17T07:45:36.546Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4583696007",
+      "discordThreadId": "1461989810293051536",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-austin-tx-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-austin-tx-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T07:45:43.138Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949024007",
+      "discordThreadId": "1461989837614874635",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-chicago-il-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-chicago-il-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T07:45:43.145Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4985491007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-new-york-city-ny-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-new-york-city-ny-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T07:45:43.150Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949035007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-tampa-fl-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-austin-tx-united-states-new-york-city-ny-united-states-philadelphia-pa-united-states-tampa-fl-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T07:45:43.155Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4945152007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-senior-project-engineer-global-services-philadelphia-pa-united-states-2026-01-17-1",
+      "jobId": "verkada-senior-project-engineer-global-services-philadelphia-pa-united-states",
+      "company": "verkada",
+      "title": "Senior Project Engineer, Global Services",
+      "postedToDiscord": "2026-01-17T07:45:43.160Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4949027007",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 570,
+    "totalJobs": 579,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T07:38:40.623Z",
+      "date": "2026-01-17T07:45:43.160Z",
       "archived": 0
     }
   }
