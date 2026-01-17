@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T21:17:52.168Z",
+  "lastUpdated": "2026-01-17T21:29:45.197Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8350,14 +8350,102 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/7210188?gh_jid=7210188",
       "discordThreadId": "1462194228447674461",
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-ii-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-ii-safety-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer II - Safety ",
+      "postedToDiscord": "2026-01-17T21:29:32.386Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7327165?gh_jid=7327165",
+      "discordThreadId": "1462197165479694483",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-ii-smart-trailer-connected-equipment-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-ii-smart-trailer-connected-equipment-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer II,  Smart Trailer & Connected Equipment",
+      "postedToDiscord": "2026-01-17T21:29:34.300Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7367490?gh_jid=7367490",
+      "discordThreadId": "1462197173511913788",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-i-smart-trailer-connected-equipment-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-i-smart-trailer-connected-equipment-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer I,  Smart Trailer & Connected Equipment",
+      "postedToDiscord": "2026-01-17T21:29:36.060Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266415?gh_jid=7266415",
+      "discordThreadId": "1462197181749399706",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-operated-equipment-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-operated-equipment-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer - Operated Equipment",
+      "postedToDiscord": "2026-01-17T21:29:38.419Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266162?gh_jid=7266162",
+      "discordThreadId": "1462197189479759974",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-route-execution-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-route-execution-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer - Route Execution",
+      "postedToDiscord": "2026-01-17T21:29:38.425Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7170980?gh_jid=7170980",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-safety-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-safety-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer, Safety",
+      "postedToDiscord": "2026-01-17T21:29:40.111Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7277042?gh_jid=7277042",
+      "discordThreadId": "1462197198639861802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-software-engineer-safety-genai-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-software-engineer-safety-genai-remote-us",
+      "company": "samsara",
+      "title": "Senior Software Engineer - Safety - GenAI ",
+      "postedToDiscord": "2026-01-17T21:29:41.817Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7266483?gh_jid=7266483",
+      "discordThreadId": "1462197206047002677",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-staff-hardware-systems-engineer-san-francisco-sf9-2026-01-17-1",
+      "jobId": "samsara-senior-staff-hardware-systems-engineer-san-francisco-sf9",
+      "company": "samsara",
+      "title": "Senior Staff Hardware Systems Engineer",
+      "postedToDiscord": "2026-01-17T21:29:45.196Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7306934?gh_jid=7306934",
+      "discordThreadId": "1462197213018198268",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 759,
+    "totalJobs": 767,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T21:17:52.168Z",
+      "date": "2026-01-17T21:29:45.197Z",
       "archived": 0
     }
   }
