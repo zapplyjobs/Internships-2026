@@ -3177,5 +3177,104 @@
     "sourceUrl": "https://job-boards.greenhouse.io/genevatrading/jobs/4853796007",
     "discordThreadId": "1459250142971429079",
     "instanceNumber": 1
+  },
+  {
+    "id": "manulife-financial-summer-intern-2026-business-technology-analyst-boston-2026-01-10-1",
+    "jobId": "manulife-financial-summer-intern-2026-business-technology-analyst-boston",
+    "company": "Manulife Financial",
+    "title": "Summer Intern 2026 - Business Technology Analyst",
+    "postedToDiscord": "2026-01-10T00:43:17.033Z",
+    "sourceDate": "2026-01-10T00:08:05.000Z",
+    "sourceUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Business-Technology-Analyst_JR26010472",
+    "discordThreadId": "1459346813705523271",
+    "instanceNumber": 1
+  },
+  {
+    "id": "manulife-financial-intern-software-engineer-boston-2026-01-10-1",
+    "jobId": "manulife-financial-intern-software-engineer-boston",
+    "company": "Manulife Financial",
+    "title": "Intern - Software Engineer",
+    "postedToDiscord": "2026-01-10T00:43:23.620Z",
+    "sourceDate": "2026-01-10T00:08:04.000Z",
+    "sourceUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Software-Engineering_JR26010471",
+    "discordThreadId": "1459346840649597174",
+    "instanceNumber": 1
+  },
+  {
+    "id": "exiger-software-engineer-intern-mclean-2026-01-10-1",
+    "jobId": "exiger-software-engineer-intern-mclean",
+    "company": "Exiger",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2026-01-10T00:43:26.959Z",
+    "sourceDate": "2026-01-09T23:54:44.000Z",
+    "sourceUrl": "https://www.exiger.com/careers/5751719004?gh_jid=5751719004",
+    "discordThreadId": "1459346855262552078",
+    "instanceNumber": 1
+  },
+  {
+    "id": "exiger-trade-intelligence-analyst-intern-government-analytics-mclean-2026-01-10-1",
+    "jobId": "exiger-trade-intelligence-analyst-intern-government-analytics-mclean",
+    "company": "Exiger",
+    "title": "Trade Intelligence Analyst Intern - Government Analytics",
+    "postedToDiscord": "2026-01-10T00:43:30.284Z",
+    "sourceDate": "2026-01-09T23:54:43.000Z",
+    "sourceUrl": "https://www.exiger.com/careers/5751874004?gh_jid=5751874004",
+    "discordThreadId": "1459346869506543667",
+    "instanceNumber": 1
+  },
+  {
+    "id": "guidehouse-intern-ai-data-technology-mclean-2026-01-10-1",
+    "jobId": "guidehouse-intern-ai-data-technology-mclean",
+    "company": "Guidehouse",
+    "title": "Intern – AI & Data - Technology",
+    "postedToDiscord": "2026-01-10T00:43:36.769Z",
+    "sourceDate": "2026-01-10T00:06:01.000Z",
+    "sourceUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334",
+    "discordThreadId": "1459346896270262385",
+    "instanceNumber": 1
+  },
+  {
+    "id": "vertex-pharmaceuticals-vertex-intern-san-diego-2026-01-10-1",
+    "jobId": "vertex-pharmaceuticals-vertex-intern-san-diego",
+    "company": "Vertex Pharmaceuticals",
+    "title": "Vertex Intern",
+    "postedToDiscord": "2026-01-10T00:43:43.239Z",
+    "sourceDate": "2026-01-10T00:02:10.000Z",
+    "sourceUrl": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Summer-Intern-2026--Discovery-Core-Applied-Technology-Group_REQ-27697",
+    "discordThreadId": "1459346923428384802",
+    "instanceNumber": 1
+  },
+  {
+    "id": "exiger-defense-sustainment-integration-intern-huntsville-2026-01-10-1",
+    "jobId": "exiger-defense-sustainment-integration-intern-huntsville",
+    "company": "Exiger",
+    "title": "Defense Sustainment Integration Intern",
+    "postedToDiscord": "2026-01-10T00:43:47.009Z",
+    "sourceDate": "2026-01-09T23:54:40.000Z",
+    "sourceUrl": "https://www.exiger.com/careers/5751846004?gh_jid=5751846004",
+    "discordThreadId": "1459346938087346329",
+    "instanceNumber": 1
+  },
+  {
+    "id": "national-renewable-energy-laboratory-graduate-intern-3-golden-2026-01-10-1",
+    "jobId": "national-renewable-energy-laboratory-graduate-intern-3-golden",
+    "company": "National Renewable Energy Laboratory",
+    "title": "Graduate Intern - 3",
+    "postedToDiscord": "2026-01-10T00:43:50.487Z",
+    "sourceDate": "2026-01-09T23:43:30.000Z",
+    "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-6-Month--Intern---Production-Cost-Modeling-and-Reliability-Analysis_R14123",
+    "discordThreadId": "1459346953782562862",
+    "instanceNumber": 1
+  },
+  {
+    "id": "lexisnexis-risk-visualization-intern-alpharetta-2026-01-10-1",
+    "jobId": "lexisnexis-risk-visualization-intern-alpharetta",
+    "company": "LexisNexis Risk Solutions",
+    "title": "Visualization Intern",
+    "postedToDiscord": "2026-01-10T00:43:57.027Z",
+    "sourceDate": "2026-01-09T23:47:08.000Z",
+    "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Visualization-Intern_R106460",
+    "discordThreadId": "1459346980923904093",
+    "instanceNumber": 1
   }
 ]

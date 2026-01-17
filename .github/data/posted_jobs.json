@@ -1,106 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T00:42:15.334Z",
+  "lastUpdated": "2026-01-17T01:10:21.696Z",
   "jobs": [
-    {
-      "id": "manulife-financial-summer-intern-2026-business-technology-analyst-boston-2026-01-10-1",
-      "jobId": "manulife-financial-summer-intern-2026-business-technology-analyst-boston",
-      "company": "Manulife Financial",
-      "title": "Summer Intern 2026 - Business Technology Analyst",
-      "postedToDiscord": "2026-01-10T00:43:17.033Z",
-      "sourceDate": "2026-01-10T00:08:05.000Z",
-      "sourceUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Business-Technology-Analyst_JR26010472",
-      "discordThreadId": "1459346813705523271",
-      "instanceNumber": 1
-    },
-    {
-      "id": "manulife-financial-intern-software-engineer-boston-2026-01-10-1",
-      "jobId": "manulife-financial-intern-software-engineer-boston",
-      "company": "Manulife Financial",
-      "title": "Intern - Software Engineer",
-      "postedToDiscord": "2026-01-10T00:43:23.620Z",
-      "sourceDate": "2026-01-10T00:08:04.000Z",
-      "sourceUrl": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2026---Software-Engineering_JR26010471",
-      "discordThreadId": "1459346840649597174",
-      "instanceNumber": 1
-    },
-    {
-      "id": "exiger-software-engineer-intern-mclean-2026-01-10-1",
-      "jobId": "exiger-software-engineer-intern-mclean",
-      "company": "Exiger",
-      "title": "Software Engineer Intern",
-      "postedToDiscord": "2026-01-10T00:43:26.959Z",
-      "sourceDate": "2026-01-09T23:54:44.000Z",
-      "sourceUrl": "https://www.exiger.com/careers/5751719004?gh_jid=5751719004",
-      "discordThreadId": "1459346855262552078",
-      "instanceNumber": 1
-    },
-    {
-      "id": "exiger-trade-intelligence-analyst-intern-government-analytics-mclean-2026-01-10-1",
-      "jobId": "exiger-trade-intelligence-analyst-intern-government-analytics-mclean",
-      "company": "Exiger",
-      "title": "Trade Intelligence Analyst Intern - Government Analytics",
-      "postedToDiscord": "2026-01-10T00:43:30.284Z",
-      "sourceDate": "2026-01-09T23:54:43.000Z",
-      "sourceUrl": "https://www.exiger.com/careers/5751874004?gh_jid=5751874004",
-      "discordThreadId": "1459346869506543667",
-      "instanceNumber": 1
-    },
-    {
-      "id": "guidehouse-intern-ai-data-technology-mclean-2026-01-10-1",
-      "jobId": "guidehouse-intern-ai-data-technology-mclean",
-      "company": "Guidehouse",
-      "title": "Intern – AI & Data - Technology",
-      "postedToDiscord": "2026-01-10T00:43:36.769Z",
-      "sourceDate": "2026-01-10T00:06:01.000Z",
-      "sourceUrl": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Intern---AI---Data--Technology---Campus-2026_35334",
-      "discordThreadId": "1459346896270262385",
-      "instanceNumber": 1
-    },
-    {
-      "id": "vertex-pharmaceuticals-vertex-intern-san-diego-2026-01-10-1",
-      "jobId": "vertex-pharmaceuticals-vertex-intern-san-diego",
-      "company": "Vertex Pharmaceuticals",
-      "title": "Vertex Intern",
-      "postedToDiscord": "2026-01-10T00:43:43.239Z",
-      "sourceDate": "2026-01-10T00:02:10.000Z",
-      "sourceUrl": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/San-Diego-CA/Vertex-Summer-Intern-2026--Discovery-Core-Applied-Technology-Group_REQ-27697",
-      "discordThreadId": "1459346923428384802",
-      "instanceNumber": 1
-    },
-    {
-      "id": "exiger-defense-sustainment-integration-intern-huntsville-2026-01-10-1",
-      "jobId": "exiger-defense-sustainment-integration-intern-huntsville",
-      "company": "Exiger",
-      "title": "Defense Sustainment Integration Intern",
-      "postedToDiscord": "2026-01-10T00:43:47.009Z",
-      "sourceDate": "2026-01-09T23:54:40.000Z",
-      "sourceUrl": "https://www.exiger.com/careers/5751846004?gh_jid=5751846004",
-      "discordThreadId": "1459346938087346329",
-      "instanceNumber": 1
-    },
-    {
-      "id": "national-renewable-energy-laboratory-graduate-intern-3-golden-2026-01-10-1",
-      "jobId": "national-renewable-energy-laboratory-graduate-intern-3-golden",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Graduate Intern - 3",
-      "postedToDiscord": "2026-01-10T00:43:50.487Z",
-      "sourceDate": "2026-01-09T23:43:30.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Graduate--3-6-Month--Intern---Production-Cost-Modeling-and-Reliability-Analysis_R14123",
-      "discordThreadId": "1459346953782562862",
-      "instanceNumber": 1
-    },
-    {
-      "id": "lexisnexis-risk-visualization-intern-alpharetta-2026-01-10-1",
-      "jobId": "lexisnexis-risk-visualization-intern-alpharetta",
-      "company": "LexisNexis Risk Solutions",
-      "title": "Visualization Intern",
-      "postedToDiscord": "2026-01-10T00:43:57.027Z",
-      "sourceDate": "2026-01-09T23:47:08.000Z",
-      "sourceUrl": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Visualization-Intern_R106460",
-      "discordThreadId": "1459346980923904093",
-      "instanceNumber": 1
-    },
     {
       "id": "national-renewable-energy-laboratory-graduate-phd-student-machine-learning-applications-for-cyber-physical-power-system-operations-int-year-round-golden-2026-01-10-1",
       "jobId": "national-renewable-energy-laboratory-graduate-phd-student-machine-learning-applications-for-cyber-physical-power-system-operations-int-year-round-golden",
@@ -5292,6 +5193,105 @@
       "sourceUrl": "https://job-boards.greenhouse.io/clearwayjobs/jobs/5022238007",
       "discordThreadId": "1461883268155703452",
       "instanceNumber": 1
+    },
+    {
+      "id": "analytic-partners-marketing-science-analyst-intern-charlottesville-2026-01-17-1",
+      "jobId": "analytic-partners-marketing-science-analyst-intern-charlottesville",
+      "company": "Analytic Partners",
+      "title": "Marketing Science Analyst Intern",
+      "postedToDiscord": "2026-01-17T01:09:47.065Z",
+      "sourceDate": "2026-01-16T23:19:31.000Z",
+      "sourceUrl": "https://jobs.lever.co/analyticpartners/b5b8cdce-0b8c-45f5-be87-b506ca43a2a8/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "analytic-partners-marketing-science-analyst-intern-denver-2026-01-17-1",
+      "jobId": "analytic-partners-marketing-science-analyst-intern-denver",
+      "company": "Analytic Partners",
+      "title": "Marketing Science Analyst Intern",
+      "postedToDiscord": "2026-01-17T01:09:47.075Z",
+      "sourceDate": "2026-01-16T23:19:21.000Z",
+      "sourceUrl": "https://jobs.lever.co/analyticpartners/57fd9588-8b8a-4959-a144-337e047ee2f6/apply",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "main-line-health-it-data-science-intern-villanova-2026-01-17-1",
+      "jobId": "main-line-health-it-data-science-intern-villanova",
+      "company": "Main Line Health",
+      "title": "IT Data Science Intern",
+      "postedToDiscord": "2026-01-17T01:09:53.573Z",
+      "sourceDate": "2026-01-16T23:16:03.000Z",
+      "sourceUrl": "https://mainline.taleo.net/careersection/2/jobdetail.ftl?job=79531",
+      "discordThreadId": "1461890225033973813",
+      "instanceNumber": 1
+    },
+    {
+      "id": "johnson-johnson-data-science-co-op-summer-2026-cincinnati-2026-01-17-1",
+      "jobId": "johnson-johnson-data-science-co-op-summer-2026-cincinnati",
+      "company": "Johnson & Johnson",
+      "title": "Data Science Co-Op - Summer 2026",
+      "postedToDiscord": "2026-01-17T01:09:57.459Z",
+      "sourceDate": "2026-01-16T23:34:48.000Z",
+      "sourceUrl": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op---Summer-2026_R-053121",
+      "discordThreadId": "1461890239974084630",
+      "instanceNumber": 1
+    },
+    {
+      "id": "borgwarner-artificial-intelligence-intern-pds-engineering-ai-tools-auburn-hills-2026-01-17-1",
+      "jobId": "borgwarner-artificial-intelligence-intern-pds-engineering-ai-tools-auburn-hills",
+      "company": "BorgWarner",
+      "title": "Artificial Intelligence Intern - PDS Engineering - AI Tools",
+      "postedToDiscord": "2026-01-17T01:10:04.097Z",
+      "sourceDate": "2025-11-03T23:18:47.000Z",
+      "sourceUrl": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/AI-Intern_R2025-4286",
+      "discordThreadId": "1461890268637954200",
+      "instanceNumber": 1
+    },
+    {
+      "id": "donaldson-company-intern-modeling-data-science-bloomington-2026-01-17-1",
+      "jobId": "donaldson-company-intern-modeling-data-science-bloomington",
+      "company": "Donaldson Company",
+      "title": "Intern Modeling & Data Science",
+      "postedToDiscord": "2026-01-17T01:10:07.514Z",
+      "sourceDate": "2026-01-16T23:41:06.000Z",
+      "sourceUrl": "https://donaldson.wd5.myworkdayjobs.com/donaldsoncareers/job/Bloomington-MN-USA/Intern---Modeling---Data-Science_JR-25222",
+      "discordThreadId": "1461890283561160830",
+      "instanceNumber": 1
+    },
+    {
+      "id": "philips-intern-full-stack-developer-genome-informatics-cambridge-2026-01-17-1",
+      "jobId": "philips-intern-full-stack-developer-genome-informatics-cambridge",
+      "company": "Philips",
+      "title": "Intern Full-Stack Developer - Genome Informatics",
+      "postedToDiscord": "2026-01-17T01:10:14.218Z",
+      "sourceDate": "2026-01-16T23:45:37.000Z",
+      "sourceUrl": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Full-Stack-Developer--Genome-Informatics---Cambridge--MA---Summer-2026_572285",
+      "discordThreadId": "1461890311231115427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "comcast-comcast-software-engineer-co-op-philadelphia-2026-01-17-1",
+      "jobId": "comcast-comcast-software-engineer-co-op-philadelphia",
+      "company": "Comcast",
+      "title": "Comcast Software Engineer Co-op",
+      "postedToDiscord": "2026-01-17T01:10:17.819Z",
+      "sourceDate": "2026-01-16T23:41:45.000Z",
+      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Software-Engineer-Co-op_R421856",
+      "discordThreadId": "1461890326288535593",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cadence-design-intern-scientific-developer-target-exploration-santa-fe-2026-01-17-1",
+      "jobId": "cadence-design-intern-scientific-developer-target-exploration-santa-fe",
+      "company": "Cadence Design Systems",
+      "title": "Intern – Scientific Developer Target Exploration",
+      "postedToDiscord": "2026-01-17T01:10:21.696Z",
+      "sourceDate": "2026-01-16T23:38:30.000Z",
+      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SANTA-FE-01/Intern---Scientific-Developer-Target-Exploration_R52829-2",
+      "discordThreadId": "1461890341421711583",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -5299,7 +5299,7 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T00:42:15.334Z",
+      "date": "2026-01-17T01:10:21.696Z",
       "archived": 0
     }
   }
