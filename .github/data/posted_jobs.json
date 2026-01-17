@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T06:19:30.082Z",
+  "lastUpdated": "2026-01-17T06:34:12.057Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -5754,14 +5754,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522730",
       "discordThreadId": "1461968140098338992",
       "instanceNumber": 1
+    },
+    {
+      "id": "verkada-sr-channel-sales-manager-midwest-chicago-il-united-states-michigan-united-states-minneapolis-mn-united-states-wisconsin-united-states-2026-01-17-1",
+      "jobId": "verkada-sr-channel-sales-manager-midwest-chicago-il-united-states-michigan-united-states-minneapolis-mn-united-states-wisconsin-united-states",
+      "company": "verkada",
+      "title": "Sr Channel Sales Manager, Midwest",
+      "postedToDiscord": "2026-01-17T06:33:36.311Z",
+      "sourceDate": "2026-01-16T15:51:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/5023333007",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-data-scientist-san-francisco-california-united-states-2026-01-17-1",
+      "jobId": "brex-senior-data-scientist-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-17T06:33:40.108Z",
+      "sourceDate": "2026-01-16T14:21:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7924840002?gh_jid=7924840002",
+      "discordThreadId": "1461971703965028486",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-data-scientist-new-york-new-york-united-states-2026-01-17-1",
+      "jobId": "brex-senior-data-scientist-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-17T06:33:40.113Z",
+      "sourceDate": "2026-01-16T14:21:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7924881002?gh_jid=7924881002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-enablement-manager-emerging-technology-new-york-new-york-usa-2026-01-17-1",
+      "jobId": "datadog-senior-enablement-manager-emerging-technology-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Enablement Manager, Emerging Technology",
+      "postedToDiscord": "2026-01-17T06:33:46.872Z",
+      "sourceDate": "2026-01-16T14:00:45-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496440/?gh_jid=7496440",
+      "discordThreadId": "1461971732960120947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-legal-operations-manager-remote-us-select-locations-2026-01-17-1",
+      "jobId": "dropbox-legal-operations-manager-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Legal Operations Manager",
+      "postedToDiscord": "2026-01-17T06:33:48.578Z",
+      "sourceDate": "2026-01-16T13:46:31-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7344144?gh_jid=7344144",
+      "discordThreadId": "1461971748592418860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-senior-manager-enterprise-collections-remote-us-2026-01-17-1",
+      "jobId": "samsara-senior-manager-enterprise-collections-remote-us",
+      "company": "samsara",
+      "title": "Senior Manager, Enterprise Collections",
+      "postedToDiscord": "2026-01-17T06:33:55.211Z",
+      "sourceDate": "2026-01-16T13:58:12-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7535318?gh_jid=7535318",
+      "discordThreadId": "1461971768594927680",
+      "instanceNumber": 1
+    },
+    {
+      "id": "verkada-account-executive-select-austin-austin-tx-united-states-2026-01-17-1",
+      "jobId": "verkada-account-executive-select-austin-austin-tx-united-states",
+      "company": "verkada",
+      "title": "Account Executive, Select, Austin",
+      "postedToDiscord": "2026-01-17T06:33:58.727Z",
+      "sourceDate": "2026-01-16T13:43:26-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/verkada/jobs/4248001007",
+      "discordThreadId": "1461971783421919336",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-data-scientist-finance-data-insights-ads-and-podcasts-new-york-ny-2026-01-17-1",
+      "jobId": "spotify-data-scientist-finance-data-insights-ads-and-podcasts-new-york-ny",
+      "company": "spotify",
+      "title": "Data Scientist - Finance Data & Insights, Ads and Podcasts",
+      "postedToDiscord": "2026-01-17T06:34:05.328Z",
+      "sourceDate": "2026-01-16T18:57:13.601Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/6dfd1d6f-5efc-473a-aa48-8026eea476fc",
+      "discordThreadId": "1461971811054129214",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-product-writer-new-york-ny-2026-01-17-1",
+      "jobId": "duolingo-senior-product-writer-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Product Writer",
+      "postedToDiscord": "2026-01-17T06:34:12.057Z",
+      "sourceDate": "2026-01-16T13:55:04-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8378704002?gh_jid=8378704002",
+      "discordThreadId": "1461971838866296955",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 523,
+    "totalJobs": 532,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T06:19:30.082Z",
+      "date": "2026-01-17T06:34:12.057Z",
       "archived": 0
     }
   }
