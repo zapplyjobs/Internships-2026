@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T08:45:58.907Z",
+  "lastUpdated": "2026-01-17T08:56:50.041Z",
   "jobs": [
     {
       "id": "weston-sampson-staff-scientist-engineering-intern-spring-2026-boston-2026-01-10-1",
@@ -6854,14 +6854,47 @@
       "sourceUrl": "https://www.samsara.com/company/careers/roles/6685499?gh_jid=6685499",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "samsara-corporate-accountant-remote-us-2026-01-17-1",
+      "jobId": "samsara-corporate-accountant-remote-us",
+      "company": "samsara",
+      "title": "Corporate Accountant",
+      "postedToDiscord": "2026-01-17T08:56:43.708Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7485320?gh_jid=7485320",
+      "discordThreadId": "1462007708092989471",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-customer-success-associate-atlanta-georgia-united-states-2026-01-17-1",
+      "jobId": "samsara-customer-success-associate-atlanta-georgia-united-states",
+      "company": "samsara",
+      "title": "Customer Success Associate",
+      "postedToDiscord": "2026-01-17T08:56:50.034Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7291579?gh_jid=7291579",
+      "discordThreadId": "1462007734672031745",
+      "instanceNumber": 1
+    },
+    {
+      "id": "samsara-customer-success-associate-public-sector-remote-us-2026-01-17-1",
+      "jobId": "samsara-customer-success-associate-public-sector-remote-us",
+      "company": "samsara",
+      "title": "Customer Success Associate - Public Sector",
+      "postedToDiscord": "2026-01-17T08:56:50.041Z",
+      "sourceDate": "2026-01-16T11:13:05-05:00",
+      "sourceUrl": "https://www.samsara.com/company/careers/roles/7480095?gh_jid=7480095",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 623,
+    "totalJobs": 626,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T08:45:58.907Z",
+      "date": "2026-01-17T08:56:50.041Z",
       "archived": 0
     }
   }
