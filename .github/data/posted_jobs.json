@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T22:55:07.423Z",
+  "lastUpdated": "2026-01-17T23:18:10.550Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -8955,14 +8955,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-business-partner-global-revenue-strategy-operations-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-business-partner-global-revenue-strategy-operations-new-york-city-ny",
+      "company": "reddit",
+      "title": "Business Partner, Global Revenue Strategy & Operations ",
+      "postedToDiscord": "2026-01-17T23:17:42.052Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7493062",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-client-account-executive-mid-market-app-dev-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-client-account-executive-mid-market-app-dev-new-york-city-ny",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market (App Dev)",
+      "postedToDiscord": "2026-01-17T23:17:45.562Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413698",
+      "discordThreadId": "1462224393311621243",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-client-account-executive-mid-market-sales-b2b-services-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-client-account-executive-mid-market-sales-b2b-services-san-francisco-ca",
+      "company": "reddit",
+      "title": "Client Account Executive, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-17T23:17:49.316Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413783",
+      "discordThreadId": "1462224408163909643",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-client-account-manager-large-customer-sales-auto-los-angeles-ca-2026-01-17-1",
+      "jobId": "reddit-client-account-manager-large-customer-sales-auto-los-angeles-ca",
+      "company": "reddit",
+      "title": "Client Account Manager, Large Customer Sales (Auto)",
+      "postedToDiscord": "2026-01-17T23:17:52.787Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531536",
+      "discordThreadId": "1462224423779176549",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-client-partner-mid-market-agency-acquisitions-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-client-partner-mid-market-agency-acquisitions-new-york-city-ny",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Agency Acquisitions)",
+      "postedToDiscord": "2026-01-17T23:17:56.199Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7435955",
+      "discordThreadId": "1462224437893009465",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-counsel-product-platform-compliance-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-counsel-product-platform-compliance-new-york-city-ny",
+      "company": "reddit",
+      "title": "Counsel, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-17T23:17:59.815Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7458129",
+      "discordThreadId": "1462224452292182017",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-global-sales-enablement-san-francisco-ca-2026-01-17-1",
+      "jobId": "reddit-director-global-sales-enablement-san-francisco-ca",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-17T23:18:03.251Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7396325",
+      "discordThreadId": "1462224467542671585",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-mid-market-sales-b2b-services-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-director-mid-market-sales-b2b-services-new-york-city-ny",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-17T23:18:07.072Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532202",
+      "discordThreadId": "1462224482163888140",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-mid-market-sales-goods-shopping-new-york-city-ny-2026-01-17-1",
+      "jobId": "reddit-director-mid-market-sales-goods-shopping-new-york-city-ny",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (Goods - Shopping)",
+      "postedToDiscord": "2026-01-17T23:18:10.549Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7519917",
+      "discordThreadId": "1462224498626658355",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 814,
+    "totalJobs": 823,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T22:55:07.423Z",
+      "date": "2026-01-17T23:18:10.550Z",
       "archived": 0
     }
   }
