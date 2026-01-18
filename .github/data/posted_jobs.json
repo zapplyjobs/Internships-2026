@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T09:17:01.060Z",
+  "lastUpdated": "2026-01-18T11:53:28.735Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10968,14 +10968,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8369363002",
       "discordThreadId": "1462375201772671130",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-policy-manager-frontier-risk-remote-friendly-travel-required-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-product-policy-manager-frontier-risk-remote-friendly-travel-required-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "Product Policy Manager, Frontier Risk",
+      "postedToDiscord": "2026-01-18T11:53:17.423Z",
+      "sourceDate": "2026-01-14T15:21:21-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067283008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-product-designer-us-2026-01-18-1",
+      "jobId": "stripe-staff-product-designer-us",
+      "company": "stripe",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-18T11:53:25.391Z",
+      "sourceDate": "2026-01-14T14:57:39-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7536458",
+      "discordThreadId": "1462414569447096383",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-program-manager-security-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-technical-program-manager-security-detection-response-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Security - Detection & Response",
+      "postedToDiscord": "2026-01-18T11:53:28.735Z",
+      "sourceDate": "2026-01-14T14:42:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066957008",
+      "discordThreadId": "1462414576665755855",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 997,
+    "totalJobs": 1000,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T09:17:01.060Z",
+      "date": "2026-01-18T11:53:28.735Z",
       "archived": 0
     }
   }
