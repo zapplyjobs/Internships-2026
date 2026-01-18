@@ -1,16 +1,4 @@
 {
-  "infineon-technologies-internship---applications-engineer-multiple-cities": {
-    "assigned_date": "2025-11-19T12:42:50.308Z",
-    "job_title": "Internship - Applications Engineer",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-19T12:42:50.308Z"
-  },
-  "infineon-technologies-internship---analog-design-multiple-cities": {
-    "assigned_date": "2025-11-19T14:32:39.472Z",
-    "job_title": "Internship - Analog Design",
-    "company": "Infineon Technologies",
-    "first_seen": "2025-11-19T14:32:39.472Z"
-  },
   "amd-summer-2025-undergraduate-product-marketing-intern-santa-clara": {
     "assigned_date": "2025-11-20T00:56:39.455Z",
     "job_title": "Summer 2025 Undergraduate Product Marketing Intern",
@@ -31978,5 +31966,11 @@
     "job_title": "Technology Intern",
     "company": "USAA",
     "first_seen": "2026-01-18T08:03:19.576Z"
+  },
+  "gimlet-labs-ai-researcher-–-intern-san-francisco": {
+    "assigned_date": "2026-01-18T15:03:13.375Z",
+    "job_title": "AI Researcher – Intern",
+    "company": "Gimlet Labs",
+    "first_seen": "2026-01-18T15:03:13.375Z"
   }
 }
