@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T19:03:40.121Z",
+  "lastUpdated": "2026-01-18T19:26:30.740Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11320,14 +11320,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5013277008",
       "discordThreadId": "1462522836525514822",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-customer-marketing-manager-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Customer Marketing Manager",
+      "postedToDiscord": "2026-01-18T19:26:30.739Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
+      "discordThreadId": "1462528586182299669",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1029,
+    "totalJobs": 1030,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T19:03:40.121Z",
+      "date": "2026-01-18T19:26:30.740Z",
       "archived": 0
     }
   }
