@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T09:03:43.996Z",
+  "lastUpdated": "2026-01-18T09:17:01.060Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10957,14 +10957,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070787008",
       "discordThreadId": "1462371859193532528",
       "instanceNumber": 1
+    },
+    {
+      "id": "airtable-recruiter-sales-gtm-san-francisco-ca-remote-us-2026-01-18-1",
+      "jobId": "airtable-recruiter-sales-gtm-san-francisco-ca-remote-us",
+      "company": "airtable",
+      "title": "Recruiter, Sales & GTM",
+      "postedToDiscord": "2026-01-18T09:17:01.059Z",
+      "sourceDate": "2026-01-14T15:44:48-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8369363002",
+      "discordThreadId": "1462375201772671130",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 996,
+    "totalJobs": 997,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T09:03:43.996Z",
+      "date": "2026-01-18T09:17:01.060Z",
       "archived": 0
     }
   }
