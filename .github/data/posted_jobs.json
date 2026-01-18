@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T16:42:59.971Z",
+  "lastUpdated": "2026-01-18T17:37:57.991Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11078,14 +11078,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-analytics-data-engineer-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-analytics-data-engineer-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Analytics Data Engineer",
+      "postedToDiscord": "2026-01-18T17:37:31.121Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-business-systems-analyst-boston-ma-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-business-systems-analyst-boston-ma-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc",
+      "company": "anthropic",
+      "title": "Business Systems Analyst ",
+      "postedToDiscord": "2026-01-18T17:37:34.641Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985140008",
+      "discordThreadId": "1462501171406307576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-capacity-engineer-compute-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-capacity-engineer-compute-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Capacity Engineer, Compute",
+      "postedToDiscord": "2026-01-18T17:37:37.997Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4801218008",
+      "discordThreadId": "1462501186279178473",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-business-development-representative-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-business-development-representative-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Business Development Representative",
+      "postedToDiscord": "2026-01-18T17:37:44.465Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4939815008",
+      "discordThreadId": "1462501213177254042",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-business-development-strategic-technology-partnerships-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-business-development-strategic-technology-partnerships-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Business Development, Strategic Technology Partnerships",
+      "postedToDiscord": "2026-01-18T17:37:47.834Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5016875008",
+      "discordThreadId": "1462501227311923354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-commercial-counsel-colo-networks-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-commercial-counsel-colo-networks-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Colo & Networks",
+      "postedToDiscord": "2026-01-18T17:37:51.218Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045003008",
+      "discordThreadId": "1462501241534943232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-commercial-counsel-compute-infrastructure-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-commercial-counsel-compute-infrastructure-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Compute & Infrastructure",
+      "postedToDiscord": "2026-01-18T17:37:54.680Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5045006008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-commercial-counsel-datacenters-construction-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-commercial-counsel-datacenters-construction-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Commercial Counsel, Datacenters & Construction",
+      "postedToDiscord": "2026-01-18T17:37:57.991Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5044994008",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1007,
+    "totalJobs": 1015,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T16:42:59.971Z",
+      "date": "2026-01-18T17:37:57.991Z",
       "archived": 0
     }
   }
