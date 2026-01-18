@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T01:18:46.950Z",
+  "lastUpdated": "2026-01-18T02:01:38.641Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9472,14 +9472,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
       "discordThreadId": "1462254850124419185",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-production-model-post-training-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-production-model-post-training-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Research Engineer, Production Model Post Training",
+      "postedToDiscord": "2026-01-18T02:00:58.932Z",
+      "sourceDate": "2026-01-15T18:56:11-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613592008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-scientist-alignment-science-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-scientist-alignment-science-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Engineer / Scientist, Alignment Science",
+      "postedToDiscord": "2026-01-18T02:01:02.280Z",
+      "sourceDate": "2026-01-15T18:55:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
+      "discordThreadId": "1462265484262117517",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-research-scientist-biology-life-sciences-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-research-scientist-biology-life-sciences-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Engineer / Research Scientist, Biology & Life Sciences",
+      "postedToDiscord": "2026-01-18T02:01:05.621Z",
+      "sourceDate": "2026-01-15T18:48:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4924308008",
+      "discordThreadId": "1462265498245795961",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-staff-machine-learning-engineer-virtual-collaborator-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-staff-machine-learning-engineer-virtual-collaborator-new-york-city-ny-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Staff Machine Learning Engineer, Virtual Collaborator",
+      "postedToDiscord": "2026-01-18T02:01:08.949Z",
+      "sourceDate": "2026-01-15T18:48:02-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946308008",
+      "discordThreadId": "1462265512267354239",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-motion-designer-brand-studio-denver-co-2026-01-18-1",
+      "jobId": "gusto-senior-motion-designer-brand-studio-denver-co",
+      "company": "gusto",
+      "title": "Senior Motion Designer, Brand Studio",
+      "postedToDiscord": "2026-01-18T02:01:15.506Z",
+      "sourceDate": "2026-01-15T18:53:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6963956",
+      "discordThreadId": "1462265539257831586",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-expression-of-interest-research-scientist-engineer-honesty-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-expression-of-interest-research-scientist-engineer-honesty-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Honesty",
+      "postedToDiscord": "2026-01-18T02:01:21.989Z",
+      "sourceDate": "2026-01-15T18:51:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4532887008",
+      "discordThreadId": "1462265566227333241",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-expression-of-interest-research-scientist-engineer-alignment-finetuning-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-expression-of-interest-research-scientist-engineer-alignment-finetuning-san-francisco-ca",
+      "company": "anthropic",
+      "title": "[Expression of Interest] Research Scientist/Engineer, Alignment Finetuning",
+      "postedToDiscord": "2026-01-18T02:01:28.765Z",
+      "sourceDate": "2026-01-15T18:50:19-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4520279008",
+      "discordThreadId": "1462265594077253785",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-partner-analyst-chicago-new-york-city-san-francisco-or-seattle-2026-01-18-1",
+      "jobId": "stripe-business-partner-analyst-chicago-new-york-city-san-francisco-or-seattle",
+      "company": "stripe",
+      "title": "Business Partner Analyst",
+      "postedToDiscord": "2026-01-18T02:01:32.314Z",
+      "sourceDate": "2026-01-15T18:02:32-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=5986232",
+      "discordThreadId": "1462265609248047223",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-industries-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-strategic-account-executive-industries-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Industries",
+      "postedToDiscord": "2026-01-18T02:01:38.641Z",
+      "sourceDate": "2026-01-15T18:07:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055446008",
+      "discordThreadId": "1462265636901093516",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 861,
+    "totalJobs": 870,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T01:18:46.950Z",
+      "date": "2026-01-18T02:01:38.641Z",
       "archived": 0
     }
   }
