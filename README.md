@@ -108,7 +108,7 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Research Intern - AI Evaluation and Alignment | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556735254) | 20h |
-| Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 23h |
+| Data Engineering Intern | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556659198) | 1d |
 | Research Intern - AI/ML for Electricity Infrastructure Planning | Redmond, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.careers.microsoft.com/careers/job/1970393556734896) | 1d |
 | Data Science | Redmond, WA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond) | 3d |
 
@@ -167,13 +167,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1798 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1796 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1798 roles
-- **🏢 Companies**: 244 companies  
+- **📁 Total Positions**: 1796 roles
+- **🏢 Companies**: 241 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (84 positions)
@@ -515,6 +515,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated:** January 17, 2026 • **Next Update:** Daily at 9 AM UTC
+**Last Updated:** January 18, 2026 • **Next Update:** Daily at 9 AM UTC
 
 </div>
