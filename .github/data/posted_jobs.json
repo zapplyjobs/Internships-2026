@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:40:21.949Z",
+  "lastUpdated": "2026-01-18T07:47:22.433Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10429,14 +10429,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
       "discordThreadId": "1462350878551052372",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-product-manager-core-product-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-product-manager-core-product-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Product Manager, Core Product",
+      "postedToDiscord": "2026-01-18T07:47:08.707Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8288128002",
+      "discordThreadId": "1462352584705577041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-data-scientist-analytics-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-data-scientist-analytics-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics",
+      "postedToDiscord": "2026-01-18T07:47:12.285Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8308138002",
+      "discordThreadId": "1462352599180247092",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-data-scientist-analytics-gtm-ads-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-data-scientist-analytics-gtm-ads-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Data Scientist, Analytics - GTM Ads",
+      "postedToDiscord": "2026-01-18T07:47:12.295Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343795002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-manager-commercial-policy-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-manager-commercial-policy-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Manager, Commercial Policy",
+      "postedToDiscord": "2026-01-18T07:47:15.906Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8369048002",
+      "discordThreadId": "1462352614241996810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-director-corporate-development-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-director-corporate-development-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Director, Corporate Development",
+      "postedToDiscord": "2026-01-18T07:47:22.432Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328567002",
+      "discordThreadId": "1462352641756758202",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 948,
+    "totalJobs": 953,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:40:21.949Z",
+      "date": "2026-01-18T07:47:22.433Z",
       "archived": 0
     }
   }
