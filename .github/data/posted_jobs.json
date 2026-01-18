@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:44:51.872Z",
+  "lastUpdated": "2026-01-18T08:56:17.349Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10847,14 +10847,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
       "discordThreadId": "1462367110029115475",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-ui-and-interactions-full-stack-remote-u-s-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-ui-and-interactions-full-stack-remote-u-s",
+      "company": "discord",
+      "title": "Staff Software Engineer - UI and Interactions (Full-Stack)",
+      "postedToDiscord": "2026-01-18T08:55:43.785Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8058456002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-ui-ux-specialist-remote-u-s-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-ui-ux-specialist-remote-u-s",
+      "company": "discord",
+      "title": "Staff Software Engineer – UI/UX Specialist",
+      "postedToDiscord": "2026-01-18T08:55:47.108Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7854326002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-strategic-sourcing-manager-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-strategic-sourcing-manager-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Strategic Sourcing Manager",
+      "postedToDiscord": "2026-01-18T08:55:53.634Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362661002",
+      "discordThreadId": "1462369885232566377",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-lead-ux-designer-new-york-new-york-new-york-usa-2026-01-18-1",
+      "jobId": "datadog-lead-ux-designer-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Lead UX Designer - New York",
+      "postedToDiscord": "2026-01-18T08:55:56.910Z",
+      "sourceDate": "2026-01-14T16:14:34-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7481495/?gh_jid=7481495",
+      "discordThreadId": "1462369900252369007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-security-engineer-san-francisco-ca-remote-seattle-wa-only-2026-01-18-1",
+      "jobId": "airtable-product-security-engineer-san-francisco-ca-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Product Security Engineer",
+      "postedToDiscord": "2026-01-18T08:56:03.550Z",
+      "sourceDate": "2026-01-14T16:09:01-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194662002",
+      "discordThreadId": "1462369926546456587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-insurance-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-strategic-account-executive-insurance-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Insurance",
+      "postedToDiscord": "2026-01-18T08:56:09.959Z",
+      "sourceDate": "2026-01-14T15:56:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986288008",
+      "discordThreadId": "1462369954476331008",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-head-of-insurance-gtm-sales-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-head-of-insurance-gtm-sales-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Head of Insurance, GTM Sales",
+      "postedToDiscord": "2026-01-18T08:56:13.703Z",
+      "sourceDate": "2026-01-14T15:55:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985438008",
+      "discordThreadId": "1462369969093218446",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-policy-manager-cyber-harms-remote-friendly-travel-required-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-technical-policy-manager-cyber-harms-remote-friendly-travel-required-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "Technical Policy Manager, Cyber Harms ",
+      "postedToDiscord": "2026-01-18T08:56:17.349Z",
+      "sourceDate": "2026-01-14T15:31:55-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066981008",
+      "discordThreadId": "1462369984553418835",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 986,
+    "totalJobs": 994,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T08:44:51.872Z",
+      "date": "2026-01-18T08:56:17.349Z",
       "archived": 0
     }
   }
