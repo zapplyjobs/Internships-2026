@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T00:48:25.455Z",
+  "lastUpdated": "2026-01-18T01:18:46.950Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9406,14 +9406,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956333008",
       "discordThreadId": "1462247209121874023",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-reward-models-platform-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-reward-models-platform-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Research Engineer, Reward Models Platform",
+      "postedToDiscord": "2026-01-18T01:18:26.290Z",
+      "sourceDate": "2026-01-15T19:02:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024831008",
+      "discordThreadId": "1462254762769514671",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-expression-of-interest-research-manager-interpretability-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-expression-of-interest-research-manager-interpretability-san-francisco-ca",
+      "company": "anthropic",
+      "title": " [Expression of Interest] Research Manager, Interpretability",
+      "postedToDiscord": "2026-01-18T01:18:32.727Z",
+      "sourceDate": "2026-01-15T19:00:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
+      "discordThreadId": "1462254790489936058",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-research-scientist-tokens-new-york-city-ny-new-york-city-ny-seattle-wa-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-research-scientist-tokens-new-york-city-ny-new-york-city-ny-seattle-wa-san-francisco-ca",
+      "company": "anthropic",
+      "title": " Research Engineer / Research Scientist, Tokens",
+      "postedToDiscord": "2026-01-18T01:18:36.457Z",
+      "sourceDate": "2026-01-15T18:59:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951814008",
+      "discordThreadId": "1462254804754763859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-ml-research-engineer-safeguards-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-ml-research-engineer-safeguards-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "ML/Research Engineer, Safeguards",
+      "postedToDiscord": "2026-01-18T01:18:39.952Z",
+      "sourceDate": "2026-01-15T18:59:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949336008",
+      "discordThreadId": "1462254820508307669",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-accelerator-build-infrastructure-san-francisco-ca-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-software-engineer-accelerator-build-infrastructure-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, Accelerator Build Infrastructure",
+      "postedToDiscord": "2026-01-18T01:18:43.516Z",
+      "sourceDate": "2026-01-15T18:59:29-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4943668008",
+      "discordThreadId": "1462254835381567682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-reward-models-training-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-reward-models-training-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Research Engineer, Reward Models Training",
+      "postedToDiscord": "2026-01-18T01:18:46.950Z",
+      "sourceDate": "2026-01-15T18:57:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613599008",
+      "discordThreadId": "1462254850124419185",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 855,
+    "totalJobs": 861,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T00:48:25.455Z",
+      "date": "2026-01-18T01:18:46.950Z",
       "archived": 0
     }
   }
