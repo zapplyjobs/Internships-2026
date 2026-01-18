@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:20:25.979Z",
+  "lastUpdated": "2026-01-18T07:32:09.269Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10286,14 +10286,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
       "discordThreadId": "1462345862272385035",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-tax-resolution-advocate-denver-co-las-vegas-nv-chicago-il-los-angeles-ca-phoenix-az-2026-01-18-1",
+      "jobId": "gusto-tax-resolution-advocate-denver-co-las-vegas-nv-chicago-il-los-angeles-ca-phoenix-az",
+      "company": "gusto",
+      "title": "Tax Resolution Advocate",
+      "postedToDiscord": "2026-01-18T07:31:47.820Z",
+      "sourceDate": "2026-01-14T17:37:14-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7440789",
+      "discordThreadId": "1462348721764302972",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-finance-manager-business-operations-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-finance-manager-business-operations-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Finance Manager, Business Operations",
+      "postedToDiscord": "2026-01-18T07:31:51.177Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8369113002",
+      "discordThreadId": "1462348736540966975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-customer-success-manager-denver-denver-colorado-usa-2026-01-18-1",
+      "jobId": "datadog-customer-success-manager-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Customer Success Manager - Denver",
+      "postedToDiscord": "2026-01-18T07:31:55.927Z",
+      "sourceDate": "2026-01-14T16:36:33-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7232590/?gh_jid=7232590",
+      "discordThreadId": "1462348763405488159",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-director-account-management-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-director-account-management-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Director, Account Management",
+      "postedToDiscord": "2026-01-18T07:31:59.556Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8250803002",
+      "discordThreadId": "1462348770544058550",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-director-global-payments-strategy-and-operations-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-director-global-payments-strategy-and-operations-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Director, Global Payments Strategy and Operations",
+      "postedToDiscord": "2026-01-18T07:32:02.972Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8305665002",
+      "discordThreadId": "1462348785840820244",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-developer-operations-analyst-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-developer-operations-analyst-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Developer Operations Analyst",
+      "postedToDiscord": "2026-01-18T07:32:09.269Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
+      "discordThreadId": "1462348812466131054",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 935,
+    "totalJobs": 941,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:20:25.979Z",
+      "date": "2026-01-18T07:32:09.269Z",
       "archived": 0
     }
   }
