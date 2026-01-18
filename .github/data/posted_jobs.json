@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T06:51:27.277Z",
+  "lastUpdated": "2026-01-18T07:00:28.578Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10055,14 +10055,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-enterprise-foundations-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-software-engineer-enterprise-foundations-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Software Engineer, Enterprise Foundations",
+      "postedToDiscord": "2026-01-18T06:59:53.220Z",
+      "sourceDate": "2026-01-15T12:22:55-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4667572008",
+      "discordThreadId": "1462340690993221723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-area-vice-president-enterprise-security-sales-new-york-new-york-usa-san-francisco-california-usa-2026-01-18-1",
+      "jobId": "datadog-area-vice-president-enterprise-security-sales-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Area Vice President, Enterprise Security Sales",
+      "postedToDiscord": "2026-01-18T06:59:56.644Z",
+      "sourceDate": "2026-01-15T12:21:42-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7508990/?gh_jid=7508990",
+      "discordThreadId": "1462340706126532766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-security-director-sales-engineering-denver-colorado-usa-new-york-new-york-usa-san-francisco-california-usa-seattle-washington-usa-2026-01-18-1",
+      "jobId": "datadog-security-director-sales-engineering-denver-colorado-usa-new-york-new-york-usa-san-francisco-california-usa-seattle-washington-usa",
+      "company": "datadog",
+      "title": "Security Director, Sales Engineering",
+      "postedToDiscord": "2026-01-18T07:00:00.055Z",
+      "sourceDate": "2026-01-15T09:56:50-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7534907/?gh_jid=7534907",
+      "discordThreadId": "1462340720391229579",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-people-partner-san-francisco-seattle-2026-01-18-1",
+      "jobId": "stripe-people-partner-san-francisco-seattle",
+      "company": "stripe",
+      "title": "People Partner",
+      "postedToDiscord": "2026-01-18T07:00:03.720Z",
+      "sourceDate": "2026-01-15T05:49:26-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7466921",
+      "discordThreadId": "1462340734806917120",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-finance-systems-tax-technology-lead-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-finance-systems-tax-technology-lead-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Finance Systems, Tax Technology Lead",
+      "postedToDiscord": "2026-01-18T07:00:10.531Z",
+      "sourceDate": "2026-01-15T11:53:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5064245008",
+      "discordThreadId": "1462340763236171889",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-commercial-counsel-remote-us-select-locations-2026-01-18-1",
+      "jobId": "dropbox-commercial-counsel-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Commercial Counsel",
+      "postedToDiscord": "2026-01-18T07:00:15.590Z",
+      "sourceDate": "2026-01-15T11:02:14-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7505497?gh_jid=7505497",
+      "discordThreadId": "1462340791690330267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-product-designer-remote-2026-01-18-1",
+      "jobId": "clerk-product-designer-remote",
+      "company": "clerk",
+      "title": "Product Designer",
+      "postedToDiscord": "2026-01-18T07:00:17.276Z",
+      "sourceDate": "2026-01-15T14:49:56.387+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/7635ac5c-bb36-48aa-a572-e467eb9ab429",
+      "discordThreadId": "1462340799965433970",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-pricing-strategist-us-2026-01-18-1",
+      "jobId": "stripe-product-pricing-strategist-us",
+      "company": "stripe",
+      "title": "Product Pricing Strategist",
+      "postedToDiscord": "2026-01-18T07:00:22.068Z",
+      "sourceDate": "2026-01-15T09:49:18-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7540241",
+      "discordThreadId": "1462340819892830384",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-customer-success-manager-ad-sales-new-york-ny-2026-01-18-1",
+      "jobId": "spotify-customer-success-manager-ad-sales-new-york-ny",
+      "company": "spotify",
+      "title": "Customer Success Manager, Ad Sales",
+      "postedToDiscord": "2026-01-18T07:00:28.578Z",
+      "sourceDate": "2026-01-15T14:24:50.254Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/67c51404-9542-46a6-8752-dcfa9fa8daf7",
+      "discordThreadId": "1462340840004517989",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 914,
+    "totalJobs": 923,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T06:51:27.277Z",
+      "date": "2026-01-18T07:00:28.578Z",
       "archived": 0
     }
   }
