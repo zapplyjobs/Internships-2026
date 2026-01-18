@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T23:38:03.533Z",
+  "lastUpdated": "2026-01-18T23:46:13.566Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -12200,14 +12200,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
       "discordThreadId": "1462591889394896969",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-policy-manager-chemical-weapons-and-high-yield-explosives-remote-friendly-travel-required-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-policy-manager-chemical-weapons-and-high-yield-explosives-remote-friendly-travel-required-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "Policy Manager, Chemical Weapons and High Yield Explosives",
+      "postedToDiscord": "2026-01-18T23:45:36.030Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066951008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-portfolio-activation-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-portfolio-activation-manager-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Portfolio Activation Manager",
+      "postedToDiscord": "2026-01-18T23:45:39.573Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985873008",
+      "discordThreadId": "1462593802748559568",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-privacy-counsel-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-privacy-counsel-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Privacy Counsel",
+      "postedToDiscord": "2026-01-18T23:45:43.136Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980527008",
+      "discordThreadId": "1462593816925044831",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-designer-claude-code-new-york-city-ny-remote-friendly-travel-required-san-francisco-ca-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-product-designer-claude-code-new-york-city-ny-remote-friendly-travel-required-san-francisco-ca-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Product Designer, Claude Code ",
+      "postedToDiscord": "2026-01-18T23:45:46.730Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025976008",
+      "discordThreadId": "1462593832473333774",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-privacy-research-engineer-safeguards-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-privacy-research-engineer-safeguards-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Privacy Research Engineer, Safeguards",
+      "postedToDiscord": "2026-01-18T23:45:54.128Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4949108008",
+      "discordThreadId": "1462593859841425539",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-designer-claude-developer-platform-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-product-designer-claude-developer-platform-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Product Designer, Claude Developer Platform",
+      "postedToDiscord": "2026-01-18T23:45:57.592Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055448008",
+      "discordThreadId": "1462593878241710192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-designer-enterprise-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-product-designer-enterprise-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Product Designer, Enterprise ",
+      "postedToDiscord": "2026-01-18T23:46:01.115Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055600008",
+      "discordThreadId": "1462593892820979904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-designer-growth-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-product-designer-growth-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Product Designer, Growth ",
+      "postedToDiscord": "2026-01-18T23:46:07.118Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963443008",
+      "discordThreadId": "1462593907916537877",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-lead-consumer-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-product-lead-consumer-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Product Lead, Consumer",
+      "postedToDiscord": "2026-01-18T23:46:13.566Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5042055008",
+      "discordThreadId": "1462593945531056128",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1109,
+    "totalJobs": 1118,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T23:38:03.533Z",
+      "date": "2026-01-18T23:46:13.566Z",
       "archived": 0
     }
   }
