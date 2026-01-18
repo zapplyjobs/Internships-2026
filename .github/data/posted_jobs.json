@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:50:57.451Z",
+  "lastUpdated": "2026-01-18T06:51:27.277Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9978,14 +9978,91 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002",
       "discordThreadId": "1462323344861827318",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-account-manager-large-customer-sales-b2b-tech-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-client-account-manager-large-customer-sales-b2b-tech-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Large Customer Sales (B2B Tech)",
+      "postedToDiscord": "2026-01-18T06:50:47.892Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7195138",
+      "discordThreadId": "1462338404523053240",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-solutions-architect-beneficial-deployments-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-solutions-architect-beneficial-deployments-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Solutions Architect, Beneficial Deployments",
+      "postedToDiscord": "2026-01-18T06:50:53.473Z",
+      "sourceDate": "2026-01-15T12:42:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062712008",
+      "discordThreadId": "1462338425133990034",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-enterprise-platforms-hunter-san-francisco-ca-2026-01-18-1",
+      "jobId": "stripe-account-executive-enterprise-platforms-hunter-san-francisco-ca",
+      "company": "stripe",
+      "title": "Account Executive, Enterprise Platforms, Hunter ",
+      "postedToDiscord": "2026-01-18T06:51:00.159Z",
+      "sourceDate": "2026-01-15T13:09:59-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6989261",
+      "discordThreadId": "1462338455278194801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-nonprofit-account-executive-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-nonprofit-account-executive-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Nonprofit Account Executive",
+      "postedToDiscord": "2026-01-18T06:51:03.590Z",
+      "sourceDate": "2026-01-15T12:52:54-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+      "discordThreadId": "1462338470352781343",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-area-vice-president-enterprise-sales-public-sector-maryland-usa-remote-virginia-usa-remote-2026-01-18-1",
+      "jobId": "datadog-area-vice-president-enterprise-sales-public-sector-maryland-usa-remote-virginia-usa-remote",
+      "company": "datadog",
+      "title": "Area Vice President, Enterprise Sales - Public Sector",
+      "postedToDiscord": "2026-01-18T06:51:07.084Z",
+      "sourceDate": "2026-01-15T12:21:20-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7508981/?gh_jid=7508981",
+      "discordThreadId": "1462338484797702179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-partner-manager-channels-public-sector-district-of-columbia-usa-remote-2026-01-18-1",
+      "jobId": "datadog-senior-partner-manager-channels-public-sector-district-of-columbia-usa-remote",
+      "company": "datadog",
+      "title": "Senior Partner Manager - Channels (Public Sector)",
+      "postedToDiscord": "2026-01-18T06:51:10.588Z",
+      "sourceDate": "2026-01-15T12:13:33-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7517513/?gh_jid=7517513",
+      "discordThreadId": "1462338499796668437",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-principal-partner-manager-cloud-alliances-aws-california-usa-remote-washington-usa-remote-2026-01-18-1",
+      "jobId": "datadog-principal-partner-manager-cloud-alliances-aws-california-usa-remote-washington-usa-remote",
+      "company": "datadog",
+      "title": "Principal Partner Manager - Cloud Alliances (AWS)",
+      "postedToDiscord": "2026-01-18T06:51:27.277Z",
+      "sourceDate": "2026-01-15T12:10:29-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6746794/?gh_jid=6746794",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 907,
+    "totalJobs": 914,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T05:50:57.451Z",
+      "date": "2026-01-18T06:51:27.277Z",
       "archived": 0
     }
   }
