@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:09:55.109Z",
+  "lastUpdated": "2026-01-18T07:20:25.979Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10209,14 +10209,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
       "discordThreadId": "1462343215775617138",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-program-manager-us-k-12-education-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-program-manager-us-k-12-education-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Program Manager, US K-12 Education",
+      "postedToDiscord": "2026-01-18T07:19:57.989Z",
+      "sourceDate": "2026-01-14T23:33:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067443008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-program-manager-global-education-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-program-manager-global-education-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Program Manager, Global Education",
+      "postedToDiscord": "2026-01-18T07:20:01.407Z",
+      "sourceDate": "2026-01-14T23:32:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067441008",
+      "discordThreadId": "1462345759025401943",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-data-engineer-analytics-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-data-engineer-analytics-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Data Engineer, Analytics",
+      "postedToDiscord": "2026-01-18T07:20:04.793Z",
+      "sourceDate": "2026-01-14T18:07:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8371252002",
+      "discordThreadId": "1462345773319721022",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-segment-marketing-manager-startups-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-segment-marketing-manager-startups-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Segment Marketing Manager, Startups",
+      "postedToDiscord": "2026-01-18T07:20:11.266Z",
+      "sourceDate": "2026-01-14T23:06:16-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4986738008",
+      "discordThreadId": "1462345800838549524",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-manager-docsend-remote-us-select-locations-2026-01-18-1",
+      "jobId": "dropbox-staff-product-manager-docsend-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Product Manager, DocSend",
+      "postedToDiscord": "2026-01-18T07:20:15.971Z",
+      "sourceDate": "2026-01-14T19:47:38-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7466604?gh_jid=7466604",
+      "discordThreadId": "1462345827459797007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-account-executive-media-entertainment-los-angeles-ca-2026-01-18-1",
+      "jobId": "discord-account-executive-media-entertainment-los-angeles-ca",
+      "company": "discord",
+      "title": "Account Executive - Media & Entertainment",
+      "postedToDiscord": "2026-01-18T07:20:22.503Z",
+      "sourceDate": "2026-01-14T18:12:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8370733002",
+      "discordThreadId": "1462345847432937705",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-data-scientist-analytics-ads-reporting-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-data-scientist-analytics-ads-reporting-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Data Scientist, Analytics - Ads Reporting",
+      "postedToDiscord": "2026-01-18T07:20:25.978Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8343789002",
+      "discordThreadId": "1462345862272385035",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 928,
+    "totalJobs": 935,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:09:55.109Z",
+      "date": "2026-01-18T07:20:25.979Z",
       "archived": 0
     }
   }
