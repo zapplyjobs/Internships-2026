@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:00:28.578Z",
+  "lastUpdated": "2026-01-18T07:09:55.109Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10154,14 +10154,69 @@
       "sourceUrl": "https://jobs.lever.co/spotify/67c51404-9542-46a6-8752-dcfa9fa8daf7",
       "discordThreadId": "1462340840004517989",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-gtm-strategy-and-operations-senior-associate-amer-commercial-mid-market-new-york-new-york-usa-2026-01-18-1",
+      "jobId": "datadog-gtm-strategy-and-operations-senior-associate-amer-commercial-mid-market-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "GTM Strategy and Operations Senior Associate - AMER Commercial & Mid Market",
+      "postedToDiscord": "2026-01-18T07:09:38.997Z",
+      "sourceDate": "2026-01-15T05:14:30-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7534733/?gh_jid=7534733",
+      "discordThreadId": "1462343147114725534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-product-marketing-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-technical-product-marketing-lead-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Technical Product Marketing Lead",
+      "postedToDiscord": "2026-01-18T07:09:43.130Z",
+      "sourceDate": "2026-01-15T00:58:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055672008",
+      "discordThreadId": "1462343163971637342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-sales-manager-growth-account-management-remote-us-select-locations-2026-01-18-1",
+      "jobId": "dropbox-sales-manager-growth-account-management-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Sales Manager, Growth Account Management",
+      "postedToDiscord": "2026-01-18T07:09:44.901Z",
+      "sourceDate": "2026-01-14T20:09:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7461120?gh_jid=7461120",
+      "discordThreadId": "1462343180493000890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-principal-engineer-san-francisco-ca-denver-co-new-york-ny-2026-01-18-1",
+      "jobId": "gusto-principal-engineer-san-francisco-ca-denver-co-new-york-ny",
+      "company": "gusto",
+      "title": "Principal Engineer",
+      "postedToDiscord": "2026-01-18T07:09:51.500Z",
+      "sourceDate": "2026-01-15T01:34:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7357589",
+      "discordThreadId": "1462343200512676016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-center-strategic-sourcing-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-center-strategic-sourcing-lead-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Center Strategic Sourcing Lead",
+      "postedToDiscord": "2026-01-18T07:09:55.109Z",
+      "sourceDate": "2026-01-15T00:56:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023731008",
+      "discordThreadId": "1462343215775617138",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 923,
+    "totalJobs": 928,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:00:28.578Z",
+      "date": "2026-01-18T07:09:55.109Z",
       "archived": 0
     }
   }
