@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:04:06.334Z",
+  "lastUpdated": "2026-01-18T08:18:05.335Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10638,14 +10638,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
       "discordThreadId": "1462356851734741045",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-product-manager-commerce-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-product-manager-commerce-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Product Manager, Commerce",
+      "postedToDiscord": "2026-01-18T08:17:41.685Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332358002",
+      "discordThreadId": "1462360272286126235",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-software-engineer-payments-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-software-engineer-payments-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Software Engineer, Payments",
+      "postedToDiscord": "2026-01-18T08:17:45.188Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8304667002",
+      "discordThreadId": "1462360287070912553",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-machine-learning-safety-san-francisco-ca-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-machine-learning-safety-san-francisco-ca",
+      "company": "discord",
+      "title": "Senior Software Engineer, Machine Learning (Safety)",
+      "postedToDiscord": "2026-01-18T08:17:51.660Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8369339002",
+      "discordThreadId": "1462360314422104206",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-notifications-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-notifications-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer - Notifications",
+      "postedToDiscord": "2026-01-18T08:17:55.270Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8352070002",
+      "discordThreadId": "1462360328976466065",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-platform-infrastructure-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-platform-infrastructure-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer - Platform Infrastructure",
+      "postedToDiscord": "2026-01-18T08:17:55.280Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8136321002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-seo-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-seo-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer - SEO",
+      "postedToDiscord": "2026-01-18T08:17:55.288Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362697002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-platform-security-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-platform-security-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer, Platform Security",
+      "postedToDiscord": "2026-01-18T08:18:01.882Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348129002",
+      "discordThreadId": "1462360356902010901",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-software-engineer-realtime-infrastructure-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-software-engineer-realtime-infrastructure-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Software Engineer - Realtime Infrastructure",
+      "postedToDiscord": "2026-01-18T08:18:05.335Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328560002",
+      "discordThreadId": "1462360371812892693",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 967,
+    "totalJobs": 975,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T08:04:06.334Z",
+      "date": "2026-01-18T08:18:05.335Z",
       "archived": 0
     }
   }
