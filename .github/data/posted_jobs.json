@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T13:43:44.361Z",
+  "lastUpdated": "2026-01-18T14:38:29.206Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -11056,14 +11056,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7467275",
       "discordThreadId": "1462442324343918700",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-application-security-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-application-security-engineer-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Application Security Engineer",
+      "postedToDiscord": "2026-01-18T14:38:22.682Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+      "discordThreadId": "1462456075138760778",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-tools-administration-lead-denver-co-chicago-il-las-vegas-nv-phoenix-az-san-francisco-ca-new-york-ny-2026-01-18-1",
+      "jobId": "gusto-tools-administration-lead-denver-co-chicago-il-las-vegas-nv-phoenix-az-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Tools Administration Lead",
+      "postedToDiscord": "2026-01-18T14:38:29.206Z",
+      "sourceDate": "2026-01-14T13:51:03-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7522739",
+      "discordThreadId": "1462456102506598624",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1005,
+    "totalJobs": 1007,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T13:43:44.361Z",
+      "date": "2026-01-18T14:38:29.206Z",
       "archived": 0
     }
   }
