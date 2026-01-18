@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T19:33:41.123Z",
+  "lastUpdated": "2026-01-18T19:44:13.558Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11397,14 +11397,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
       "discordThreadId": "1462530391301947553",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-scientist-marketing-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Scientist, Marketing",
+      "postedToDiscord": "2026-01-18T19:44:06.617Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983584008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-developer-campaign-marketer-claude-code-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Developer Campaign Marketer - Claude Code",
+      "postedToDiscord": "2026-01-18T19:44:10.002Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5026189008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-developer-relations-mcp-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-developer-relations-mcp-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Developer Relations, MCP",
+      "postedToDiscord": "2026-01-18T19:44:13.557Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015340008",
+      "discordThreadId": "1462533043821608980",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1036,
+    "totalJobs": 1039,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T19:33:41.123Z",
+      "date": "2026-01-18T19:44:13.558Z",
       "archived": 0
     }
   }
