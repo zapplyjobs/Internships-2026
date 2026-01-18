@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T00:07:58.567Z",
+  "lastUpdated": "2026-01-18T00:48:25.455Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9307,14 +9307,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
       "discordThreadId": "1462237031248691455",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-machine-learning-reinforcement-learning-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-machine-learning-reinforcement-learning-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning) ",
+      "postedToDiscord": "2026-01-18T00:47:51.402Z",
+      "sourceDate": "2026-01-15T19:33:06-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-engineering-manager-ml-acceleration-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-engineering-manager-ml-acceleration-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Engineering Manager, ML Acceleration",
+      "postedToDiscord": "2026-01-18T00:47:54.884Z",
+      "sourceDate": "2026-01-15T19:32:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
+      "discordThreadId": "1462247081367441481",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-machine-learning-systems-engineer-rl-engineering-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-machine-learning-systems-engineer-rl-engineering-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Machine Learning Systems Engineer, RL Engineering",
+      "postedToDiscord": "2026-01-18T00:47:58.474Z",
+      "sourceDate": "2026-01-15T19:31:25-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4952051008",
+      "discordThreadId": "1462247096186044561",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-pre-training-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-pre-training-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Research Engineer, Pre-training",
+      "postedToDiscord": "2026-01-18T00:48:01.866Z",
+      "sourceDate": "2026-01-15T19:27:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4616971008",
+      "discordThreadId": "1462247111356842260",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-senior-research-scientist-reward-models-remote-friendly-travel-required-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-senior-research-scientist-reward-models-remote-friendly-travel-required-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Senior Research Scientist, Reward Models",
+      "postedToDiscord": "2026-01-18T00:48:05.345Z",
+      "sourceDate": "2026-01-15T19:15:02-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5024835008",
+      "discordThreadId": "1462247125592309840",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-discovery-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-discovery-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Engineer, Discovery",
+      "postedToDiscord": "2026-01-18T00:48:11.845Z",
+      "sourceDate": "2026-01-15T19:30:46-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4669581008",
+      "discordThreadId": "1462247153023057983",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-staff-research-engineer-discovery-team-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-staff-research-engineer-discovery-team-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Staff Research Engineer, Discovery Team",
+      "postedToDiscord": "2026-01-18T00:48:15.302Z",
+      "sourceDate": "2026-01-15T19:24:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4593216008",
+      "discordThreadId": "1462247167107399802",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-data-ingestion-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-data-ingestion-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Engineer, Data Ingestion",
+      "postedToDiscord": "2026-01-18T00:48:18.775Z",
+      "sourceDate": "2026-01-15T19:18:29-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5025065008",
+      "discordThreadId": "1462247181858767005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-people-analytics-data-engineer-san-francisco-ca-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-people-analytics-data-engineer-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "People Analytics Data Engineer",
+      "postedToDiscord": "2026-01-18T00:48:25.455Z",
+      "sourceDate": "2026-01-15T19:30:32-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4956333008",
+      "discordThreadId": "1462247209121874023",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 846,
+    "totalJobs": 855,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T00:07:58.567Z",
+      "date": "2026-01-18T00:48:25.455Z",
       "archived": 0
     }
   }
