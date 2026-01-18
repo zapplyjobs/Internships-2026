@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T11:53:28.735Z",
+  "lastUpdated": "2026-01-18T12:04:35.711Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -11001,14 +11001,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066957008",
       "discordThreadId": "1462414576665755855",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-application-security-engineering-manager-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-application-security-engineering-manager-new-york-city-ny-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Application Security Engineering Manager",
+      "postedToDiscord": "2026-01-18T12:04:29.030Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4562813008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-external-policy-partnerships-manager-safeguards-remote-friendly-travel-required-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-external-policy-partnerships-manager-safeguards-remote-friendly-travel-required-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "External Policy & Partnerships Manager, Safeguards",
+      "postedToDiscord": "2026-01-18T12:04:35.711Z",
+      "sourceDate": "2026-01-14T14:04:30-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067287008",
+      "discordThreadId": "1462417373436055572",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1000,
+    "totalJobs": 1002,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T11:53:28.735Z",
+      "date": "2026-01-18T12:04:35.711Z",
       "archived": 0
     }
   }
