@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-17T23:54:33.300Z",
+  "lastUpdated": "2026-01-18T00:07:58.567Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9230,14 +9230,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
       "discordThreadId": "1462233653571485859",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-engineering-manager-detection-and-response-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-engineering-manager-detection-and-response-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Engineering Manager, Detection and Response",
+      "postedToDiscord": "2026-01-18T00:07:31.745Z",
+      "sourceDate": "2026-01-15T20:08:22-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5071506008",
+      "discordThreadId": "1462236918132506689",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-ml-networking-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-software-engineer-ml-networking-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, ML Networking",
+      "postedToDiscord": "2026-01-18T00:07:35.073Z",
+      "sourceDate": "2026-01-15T19:38:31-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926242008",
+      "discordThreadId": "1462236932871295119",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-product-manager-learning-new-york-ny-2026-01-18-1",
+      "jobId": "duolingo-senior-product-manager-learning-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Learning",
+      "postedToDiscord": "2026-01-18T00:07:41.777Z",
+      "sourceDate": "2026-01-15T19:43:04-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8377539002?gh_jid=8377539002",
+      "discordThreadId": "1462236960243323002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-scientist-interpretability-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-scientist-interpretability-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Scientist, Interpretability",
+      "postedToDiscord": "2026-01-18T00:07:48.140Z",
+      "sourceDate": "2026-01-15T19:41:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
+      "discordThreadId": "1462236987754021019",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-research-engineer-pretraining-scaling-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-research-engineer-pretraining-scaling-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Research Engineer, Pretraining Scaling",
+      "postedToDiscord": "2026-01-18T00:07:51.593Z",
+      "sourceDate": "2026-01-15T19:37:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4938432008",
+      "discordThreadId": "1462237001708474582",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-tpu-kernel-engineer-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-tpu-kernel-engineer-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "TPU Kernel Engineer",
+      "postedToDiscord": "2026-01-18T00:07:55.188Z",
+      "sourceDate": "2026-01-15T19:34:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4720576008",
+      "discordThreadId": "1462237016338071667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-performance-engineer-new-york-city-ny-seattle-wa-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-performance-engineer-new-york-city-ny-seattle-wa-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Performance Engineer",
+      "postedToDiscord": "2026-01-18T00:07:58.567Z",
+      "sourceDate": "2026-01-15T19:33:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4020350008",
+      "discordThreadId": "1462237031248691455",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 839,
+    "totalJobs": 846,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-17T23:54:33.300Z",
+      "date": "2026-01-18T00:07:58.567Z",
       "archived": 0
     }
   }
