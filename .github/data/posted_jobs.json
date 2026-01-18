@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:32:09.269Z",
+  "lastUpdated": "2026-01-18T07:40:21.949Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10352,14 +10352,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8330419002",
       "discordThreadId": "1462348812466131054",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-director-of-engineering-developer-ecosystem-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-director-of-engineering-developer-ecosystem-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Director of Engineering, Developer Ecosystem",
+      "postedToDiscord": "2026-01-18T07:39:54.931Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8187999002",
+      "discordThreadId": "1462350764935745569",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-group-product-marketing-manager-developer-commerce-solutions-san-francisco-bay-area-or-remote-u-s-2026-01-18-1",
+      "jobId": "discord-group-product-marketing-manager-developer-commerce-solutions-san-francisco-bay-area-or-remote-u-s",
+      "company": "discord",
+      "title": "Group Product Marketing Manager, Developer Commerce Solutions",
+      "postedToDiscord": "2026-01-18T07:39:58.313Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8338009002",
+      "discordThreadId": "1462350779653292227",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-rust-c-senior-software-engineer-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-rust-c-senior-software-engineer-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Rust/C++ Senior Software Engineer",
+      "postedToDiscord": "2026-01-18T07:40:01.783Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/7966411002",
+      "discordThreadId": "1462350793565798503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-director-people-business-partners-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-director-people-business-partners-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Director, People Business Partners",
+      "postedToDiscord": "2026-01-18T07:40:08.445Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8219295002",
+      "discordThreadId": "1462350821332222097",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-product-marketing-manager-ads-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-product-marketing-manager-ads-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Product Marketing Manager, Ads ",
+      "postedToDiscord": "2026-01-18T07:40:11.935Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8334900002",
+      "discordThreadId": "1462350836066684989",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-engineering-manager-engagement-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-engineering-manager-engagement-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Engineering Manager, Engagement",
+      "postedToDiscord": "2026-01-18T07:40:18.468Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8161010002",
+      "discordThreadId": "1462350863610675242",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-product-designer-notifications-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-product-designer-notifications-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Product Designer, Notifications",
+      "postedToDiscord": "2026-01-18T07:40:21.949Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8359170002",
+      "discordThreadId": "1462350878551052372",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 941,
+    "totalJobs": 948,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:32:09.269Z",
+      "date": "2026-01-18T07:40:21.949Z",
       "archived": 0
     }
   }
