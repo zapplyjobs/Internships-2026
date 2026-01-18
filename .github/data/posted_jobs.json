@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T22:48:37.494Z",
+  "lastUpdated": "2026-01-18T22:55:11.521Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -12057,14 +12057,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4958721008",
       "discordThreadId": "1462579449538285720",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-manager-of-solutions-architecture-applied-ai-digital-native-businesses-new-york-city-ny-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-manager-of-solutions-architecture-applied-ai-digital-native-businesses-new-york-city-ny-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Digital Native Businesses)",
+      "postedToDiscord": "2026-01-18T22:55:01.450Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4819732008",
+      "discordThreadId": "1462581059819405567",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-ml-infrastructure-engineer-safeguards-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-ml-infrastructure-engineer-safeguards-san-francisco-ca",
+      "company": "anthropic",
+      "title": "ML Infrastructure Engineer, Safeguards",
+      "postedToDiscord": "2026-01-18T22:55:11.521Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1096,
+    "totalJobs": 1098,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T22:48:37.494Z",
+      "date": "2026-01-18T22:55:11.521Z",
       "archived": 0
     }
   }
