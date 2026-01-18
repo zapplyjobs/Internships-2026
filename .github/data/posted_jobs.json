@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T22:55:11.521Z",
+  "lastUpdated": "2026-01-18T23:29:52.198Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -12079,14 +12079,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4778843008",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-manager-of-solutions-architecture-applied-ai-industries-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Industries)",
+      "postedToDiscord": "2026-01-18T23:29:17.425Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4964610008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-manager-of-solutions-architecture-public-sector-applied-ai-san-francisco-ca-new-york-city-ny-washington-dc",
+      "company": "anthropic",
+      "title": "Manager of Solutions Architecture, Public Sector, Applied AI",
+      "postedToDiscord": "2026-01-18T23:29:21.251Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4973175008",
+      "discordThreadId": "1462589698085228637",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-partner-solutions-architect-applied-ai-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Partner Solutions Architect, Applied AI",
+      "postedToDiscord": "2026-01-18T23:29:24.776Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+      "discordThreadId": "1462589713868128452",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-microsoft-gtm-partnership-enterprise-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Microsoft GTM Partnership, Enterprise",
+      "postedToDiscord": "2026-01-18T23:29:31.509Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018195008",
+      "discordThreadId": "1462589741487755317",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-microsoft-gtm-partnerships-manager-digital-natives-startups-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Microsoft GTM Partnerships Manager, Digital Natives & Startups",
+      "postedToDiscord": "2026-01-18T23:29:35.053Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018203008",
+      "discordThreadId": "1462589756872458445",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-partner-development-manager-build-partners-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Partner Development Manager, Build Partners",
+      "postedToDiscord": "2026-01-18T23:29:38.524Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043460008",
+      "discordThreadId": "1462589771413983434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-partner-marketing-lead-gsis-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-partner-marketing-lead-gsis-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Partner Marketing Lead, GSIs",
+      "postedToDiscord": "2026-01-18T23:29:41.980Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5061729008",
+      "discordThreadId": "1462589786211750110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-partner-operations-specialist-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Partner Operations Specialist",
+      "postedToDiscord": "2026-01-18T23:29:45.593Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
+      "discordThreadId": "1462589800459796597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-partner-marketing-manager-cloud-partners-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Partner Marketing Manager, Cloud Partners",
+      "postedToDiscord": "2026-01-18T23:29:52.197Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
+      "discordThreadId": "1462589828590735533",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1098,
+    "totalJobs": 1107,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T22:55:11.521Z",
+      "date": "2026-01-18T23:29:52.198Z",
       "archived": 0
     }
   }
