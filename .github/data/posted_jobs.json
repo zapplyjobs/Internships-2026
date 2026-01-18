@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T23:29:52.198Z",
+  "lastUpdated": "2026-01-18T23:38:03.533Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -12178,14 +12178,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4966206008",
       "discordThreadId": "1462589828590735533",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-performance-engineer-gpu-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Performance Engineer, GPU",
+      "postedToDiscord": "2026-01-18T23:37:57.014Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4926227008",
+      "discordThreadId": "1462591862345826346",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-policy-communications-manager-san-francisco-ca-new-york-city-ny-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "Policy Communications Manager",
+      "postedToDiscord": "2026-01-18T23:38:03.533Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979661008",
+      "discordThreadId": "1462591889394896969",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1107,
+    "totalJobs": 1109,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T23:29:52.198Z",
+      "date": "2026-01-18T23:38:03.533Z",
       "archived": 0
     }
   }
