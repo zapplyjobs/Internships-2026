@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:42:09.045Z",
+  "lastUpdated": "2026-01-18T05:50:57.451Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9890,14 +9890,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-software-engineer-site-defense-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-software-engineer-site-defense-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Site Defense",
+      "postedToDiscord": "2026-01-18T05:50:25.512Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7542779",
+      "discordThreadId": "1462323210581315615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-technical-support-manager-san-francisco-ca-2026-01-18-1",
+      "jobId": "reddit-technical-support-manager-san-francisco-ca",
+      "company": "reddit",
+      "title": "Technical Support Manager ",
+      "postedToDiscord": "2026-01-18T05:50:28.937Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7336592",
+      "discordThreadId": "1462323225576083590",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-data-engineering-manager-remote-u-s-2026-01-18-1",
+      "jobId": "discord-data-engineering-manager-remote-u-s",
+      "company": "discord",
+      "title": "Data Engineering Manager",
+      "postedToDiscord": "2026-01-18T05:50:30.677Z",
+      "sourceDate": "2026-01-15T13:34:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8364479002",
+      "discordThreadId": "1462323240029520041",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-machine-learning-infrastructure-seattle-sf-2026-01-18-1",
+      "jobId": "stripe-software-engineer-machine-learning-infrastructure-seattle-sf",
+      "company": "stripe",
+      "title": "Software Engineer, Machine Learning Infrastructure",
+      "postedToDiscord": "2026-01-18T05:50:34.126Z",
+      "sourceDate": "2026-01-15T13:12:19-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7528260",
+      "discordThreadId": "1462323247298121863",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-marketing-operations-coordinator-new-york-new-york-usa-2026-01-18-1",
+      "jobId": "datadog-marketing-operations-coordinator-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Marketing Operations Coordinator",
+      "postedToDiscord": "2026-01-18T05:50:40.568Z",
+      "sourceDate": "2026-01-15T14:53:24-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7486742/?gh_jid=7486742",
+      "discordThreadId": "1462323274405904427",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-product-partnerships-deal-lead-san-francisco-ca-new-york-ny-2026-01-18-1",
+      "jobId": "gusto-product-partnerships-deal-lead-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Product Partnerships Deal Lead",
+      "postedToDiscord": "2026-01-18T05:50:44.431Z",
+      "sourceDate": "2026-01-15T14:08:41-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7408219",
+      "discordThreadId": "1462323288763273361",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-head-of-enterprise-support-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-18-1",
+      "jobId": "anthropic-head-of-enterprise-support-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Head of Enterprise Support",
+      "postedToDiscord": "2026-01-18T05:50:50.935Z",
+      "sourceDate": "2026-01-15T14:32:24-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5069448008",
+      "discordThreadId": "1462323317632532626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-qa-specialist-ii-new-york-ny-2026-01-18-1",
+      "jobId": "duolingo-qa-specialist-ii-new-york-ny",
+      "company": "duolingo",
+      "title": "QA Specialist II",
+      "postedToDiscord": "2026-01-18T05:50:57.451Z",
+      "sourceDate": "2026-01-15T13:54:05-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8376619002?gh_jid=8376619002",
+      "discordThreadId": "1462323344861827318",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 899,
+    "totalJobs": 907,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T05:42:09.045Z",
+      "date": "2026-01-18T05:50:57.451Z",
       "archived": 0
     }
   }
