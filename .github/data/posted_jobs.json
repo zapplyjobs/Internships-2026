@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:18:05.335Z",
+  "lastUpdated": "2026-01-18T08:31:35.732Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10726,14 +10726,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328560002",
       "discordThreadId": "1462360371812892693",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-technical-program-manager-safety-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-technical-program-manager-safety-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Technical Program Manager, Safety",
+      "postedToDiscord": "2026-01-18T08:31:29.143Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8324819002",
+      "discordThreadId": "1462363743399706800",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-data-scientist-strategic-research-reporting-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-data-scientist-strategic-research-reporting-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Data Scientist, Strategic Research & Reporting",
+      "postedToDiscord": "2026-01-18T08:31:35.732Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196787002",
+      "discordThreadId": "1462363770159632418",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 975,
+    "totalJobs": 977,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T08:18:05.335Z",
+      "date": "2026-01-18T08:31:35.732Z",
       "archived": 0
     }
   }
