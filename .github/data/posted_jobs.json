@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:56:17.349Z",
+  "lastUpdated": "2026-01-18T09:03:43.996Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10935,14 +10935,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066981008",
       "discordThreadId": "1462369984553418835",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-biological-safety-research-scientist-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-biological-safety-research-scientist-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Biological Safety Research Scientist",
+      "postedToDiscord": "2026-01-18T09:03:40.577Z",
+      "sourceDate": "2026-01-14T15:30:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
+      "discordThreadId": "1462371844048027688",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-health-and-life-science-policy-lead-san-francisco-ca-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-health-and-life-science-policy-lead-san-francisco-ca-washington-dc",
+      "company": "anthropic",
+      "title": "Health and Life Science Policy Lead",
+      "postedToDiscord": "2026-01-18T09:03:43.995Z",
+      "sourceDate": "2026-01-14T15:28:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5070787008",
+      "discordThreadId": "1462371859193532528",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 994,
+    "totalJobs": 996,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T08:56:17.349Z",
+      "date": "2026-01-18T09:03:43.996Z",
       "archived": 0
     }
   }
