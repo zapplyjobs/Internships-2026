@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:30:06.039Z",
+  "lastUpdated": "2026-01-18T05:42:09.045Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9802,14 +9802,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7370708",
       "discordThreadId": "1462318096424501292",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-account-manager-mid-market-goods-san-francisco-ca-2026-01-18-1",
+      "jobId": "reddit-senior-client-account-manager-mid-market-goods-san-francisco-ca",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods)",
+      "postedToDiscord": "2026-01-18T05:41:51.474Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531467",
+      "discordThreadId": "1462321054759260333",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-account-manager-mid-market-goods-shopping-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-client-account-manager-mid-market-goods-shopping-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Account Manager, Mid-Market (Goods - Shopping)",
+      "postedToDiscord": "2026-01-18T05:41:51.485Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7543464",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-partner-large-customer-sales-auto-los-angeles-ca-2026-01-18-1",
+      "jobId": "reddit-senior-client-partner-large-customer-sales-auto-los-angeles-ca",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Auto)",
+      "postedToDiscord": "2026-01-18T05:41:55.064Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7531245",
+      "discordThreadId": "1462321069149913091",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-client-partner-large-customer-sales-retail-beauty-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-client-partner-large-customer-sales-retail-beauty-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Client Partner, Large Customer Sales (Retail Beauty)",
+      "postedToDiscord": "2026-01-18T05:41:58.446Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7454499",
+      "discordThreadId": "1462321084622700616",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-ios-software-engineer-ios-platform-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-ios-software-engineer-ios-platform-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior iOS Software Engineer, iOS Platform",
+      "postedToDiscord": "2026-01-18T05:42:02.101Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7348120",
+      "discordThreadId": "1462321098858172653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-it-support-engineer-snoo-operations-support-sos-chicago-il-2026-01-18-1",
+      "jobId": "reddit-senior-it-support-engineer-snoo-operations-support-sos-chicago-il",
+      "company": "reddit",
+      "title": "Senior IT Support Engineer, Snoo Operations & Support (SOS)",
+      "postedToDiscord": "2026-01-18T05:42:05.678Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7413993",
+      "discordThreadId": "1462321114029232179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-software-engineer-android-test-engineering-san-francisco-ca-2026-01-18-1",
+      "jobId": "reddit-senior-software-engineer-android-test-engineering-san-francisco-ca",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-18T05:42:09.038Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
+      "discordThreadId": "1462321129044574311",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-software-engineer-android-test-engineering-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-senior-software-engineer-android-test-engineering-new-york-city-ny",
+      "company": "reddit",
+      "title": "Senior Software Engineer, Android Test Engineering",
+      "postedToDiscord": "2026-01-18T05:42:09.045Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7488992",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 891,
+    "totalJobs": 899,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T05:30:06.039Z",
+      "date": "2026-01-18T05:42:09.045Z",
       "archived": 0
     }
   }
