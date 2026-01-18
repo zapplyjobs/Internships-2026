@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:14:05.635Z",
+  "lastUpdated": "2026-01-18T05:30:06.039Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9791,14 +9791,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7453285",
       "discordThreadId": "1462314067346722816",
       "instanceNumber": 1
+    },
+    {
+      "id": "reddit-senior-android-engineer-apps-platform-performance-chicago-il-2026-01-18-1",
+      "jobId": "reddit-senior-android-engineer-apps-platform-performance-chicago-il",
+      "company": "reddit",
+      "title": "Senior Android Engineer, Apps Platform (Performance)",
+      "postedToDiscord": "2026-01-18T05:30:06.039Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7370708",
+      "discordThreadId": "1462318096424501292",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 890,
+    "totalJobs": 891,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T05:14:05.635Z",
+      "date": "2026-01-18T05:30:06.039Z",
       "archived": 0
     }
   }
