@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:53:09.989Z",
+  "lastUpdated": "2026-01-18T08:04:06.334Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10572,14 +10572,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8190428002",
       "discordThreadId": "1462354100279841033",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-consumer-revenue-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-consumer-revenue-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer, Consumer Revenue",
+      "postedToDiscord": "2026-01-18T08:03:39.497Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8182912002",
+      "discordThreadId": "1462356740430495766",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-product-marketing-manager-nitro-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-product-marketing-manager-nitro-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Product Marketing Manager, Nitro",
+      "postedToDiscord": "2026-01-18T08:03:46.029Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8323992002",
+      "discordThreadId": "1462356767500533863",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-program-manager-product-platform-compliance-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-program-manager-product-platform-compliance-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Program Manager, Product & Platform Compliance",
+      "postedToDiscord": "2026-01-18T08:03:52.434Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332350002",
+      "discordThreadId": "1462356794864046090",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-security-software-engineer-detection-and-response-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-security-software-engineer-detection-and-response-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Security Software Engineer, Detection and Response",
+      "postedToDiscord": "2026-01-18T08:03:59.112Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8332382002",
+      "discordThreadId": "1462356821611253812",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-mobile-architecture-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-mobile-architecture-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-18T08:04:02.613Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245138002",
+      "discordThreadId": "1462356837046161491",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-software-engineer-persistence-infrastructure-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-software-engineer-persistence-infrastructure-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Software Engineer- Persistence Infrastructure",
+      "postedToDiscord": "2026-01-18T08:04:06.334Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8200328002",
+      "discordThreadId": "1462356851734741045",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 961,
+    "totalJobs": 967,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:53:09.989Z",
+      "date": "2026-01-18T08:04:06.334Z",
       "archived": 0
     }
   }
