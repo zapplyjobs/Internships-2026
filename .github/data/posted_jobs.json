@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T05:02:15.729Z",
+  "lastUpdated": "2026-01-18T05:14:05.635Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9692,14 +9692,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7519923",
       "discordThreadId": "1462311090838048913",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-mid-market-seattle-washington-united-states-2026-01-18-1",
+      "jobId": "brex-account-executive-mid-market-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-18T05:13:45.207Z",
+      "sourceDate": "2026-01-15T16:20:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8377280002?gh_jid=8377280002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-mid-market-salt-lake-city-utah-united-states-2026-01-18-1",
+      "jobId": "brex-account-executive-mid-market-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-18T05:13:45.217Z",
+      "sourceDate": "2026-01-15T16:19:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704446002?gh_jid=7704446002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-mid-market-san-francisco-california-united-states-2026-01-18-1",
+      "jobId": "brex-account-executive-mid-market-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-18T05:13:45.225Z",
+      "sourceDate": "2026-01-15T16:19:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704415002?gh_jid=7704415002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-account-executive-mid-market-new-york-new-york-united-states-2026-01-18-1",
+      "jobId": "brex-account-executive-mid-market-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-18T05:13:45.233Z",
+      "sourceDate": "2026-01-15T16:19:44-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7704444002?gh_jid=7704444002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-mid-market-sales-goods-shopping-los-angeles-ca-2026-01-18-1",
+      "jobId": "reddit-director-mid-market-sales-goods-shopping-los-angeles-ca",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (Goods - Shopping)",
+      "postedToDiscord": "2026-01-18T05:13:51.902Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7532238",
+      "discordThreadId": "1462314009725243425",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-internal-communications-senior-manager-global-sales-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-internal-communications-senior-manager-global-sales-new-york-city-ny",
+      "company": "reddit",
+      "title": "Internal Communications Senior Manager (Global Sales)",
+      "postedToDiscord": "2026-01-18T05:13:55.270Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
+      "discordThreadId": "1462314024543715340",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-ios-software-engineer-ad-formats-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-ios-software-engineer-ad-formats-new-york-city-ny",
+      "company": "reddit",
+      "title": "iOS Software Engineer, Ad Formats",
+      "postedToDiscord": "2026-01-18T05:13:58.747Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7414849",
+      "discordThreadId": "1462314038745895208",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-los-angeles-ca-2026-01-18-1",
+      "jobId": "reddit-ios-software-engineer-i18n-grow-global-and-local-communities-los-angeles-ca",
+      "company": "reddit",
+      "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+      "postedToDiscord": "2026-01-18T05:14:02.038Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
+      "discordThreadId": "1462314053480353954",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-manager-mid-market-sales-client-account-executives-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-manager-mid-market-sales-client-account-executives-new-york-city-ny",
+      "company": "reddit",
+      "title": "Manager, Mid-Market Sales (Client Account Executives)",
+      "postedToDiscord": "2026-01-18T05:14:05.635Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7453285",
+      "discordThreadId": "1462314067346722816",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 881,
+    "totalJobs": 890,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T05:02:15.729Z",
+      "date": "2026-01-18T05:14:05.635Z",
       "archived": 0
     }
   }
