@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T20:55:05.537Z",
+  "lastUpdated": "2026-01-18T21:36:14.334Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11738,14 +11738,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5000393008",
       "discordThreadId": "1462550877310292294",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-global-partner-lead-accenture-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-global-partner-lead-accenture-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Accenture",
+      "postedToDiscord": "2026-01-18T21:36:03.754Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5015692008",
+      "discordThreadId": "1462561187349925960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-global-partner-lead-deloitte-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-global-partner-lead-deloitte-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Global Partner Lead, Deloitte",
+      "postedToDiscord": "2026-01-18T21:36:07.320Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4747937008",
+      "discordThreadId": "1462561203006996620",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-global-partner-sales-manager-systems-integrators-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-global-partner-sales-manager-systems-integrators-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Global Partner Sales Manager, Systems Integrators",
+      "postedToDiscord": "2026-01-18T21:36:10.777Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5018233008",
+      "discordThreadId": "1462561218228256970",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-global-real-estate-design-construction-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-global-real-estate-design-construction-manager-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Global Real Estate Design & Construction Manager",
+      "postedToDiscord": "2026-01-18T21:36:14.334Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4930182008",
+      "discordThreadId": "1462561232744611841",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1067,
+    "totalJobs": 1071,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T20:55:05.537Z",
+      "date": "2026-01-18T21:36:14.334Z",
       "archived": 0
     }
   }
