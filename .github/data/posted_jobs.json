@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T07:47:22.433Z",
+  "lastUpdated": "2026-01-18T07:53:09.989Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10484,14 +10484,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8328567002",
       "discordThreadId": "1462352641756758202",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-manager-global-accounts-receivable-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-manager-global-accounts-receivable-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Manager, Global Accounts Receivable",
+      "postedToDiscord": "2026-01-18T07:52:38.387Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8321982002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-director-internal-audit-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-director-internal-audit-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Director, Internal Audit",
+      "postedToDiscord": "2026-01-18T07:52:44.913Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8103520002",
+      "discordThreadId": "1462353994512076880",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-financial-analyst-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-financial-analyst-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Financial Analyst",
+      "postedToDiscord": "2026-01-18T07:52:48.437Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8335879002",
+      "discordThreadId": "1462354009170903114",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-financial-reporting-and-technical-accountant-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-financial-reporting-and-technical-accountant-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Financial Reporting and Technical Accountant",
+      "postedToDiscord": "2026-01-18T07:52:51.783Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8316122002",
+      "discordThreadId": "1462354023758696470",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-manager-stock-administration-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-manager-stock-administration-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Manager, Stock Administration",
+      "postedToDiscord": "2026-01-18T07:52:55.133Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8350416002",
+      "discordThreadId": "1462354038027714723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-privacy-counsel-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-privacy-counsel-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Privacy Counsel",
+      "postedToDiscord": "2026-01-18T07:53:01.706Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8346194002",
+      "discordThreadId": "1462354064884109435",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-product-design-manager-growth-safety-remote-u-s-2026-01-18-1",
+      "jobId": "discord-senior-product-design-manager-growth-safety-remote-u-s",
+      "company": "discord",
+      "title": "Senior Product Design Manager, Growth & Safety",
+      "postedToDiscord": "2026-01-18T07:53:06.581Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196805002",
+      "discordThreadId": "1462354091987701794",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-senior-product-design-manager-player-developer-experience-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-senior-product-design-manager-player-developer-experience-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Senior Product Design Manager, Player & Developer Experience",
+      "postedToDiscord": "2026-01-18T07:53:09.988Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8190428002",
+      "discordThreadId": "1462354100279841033",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 953,
+    "totalJobs": 961,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T07:47:22.433Z",
+      "date": "2026-01-18T07:53:09.989Z",
       "archived": 0
     }
   }
