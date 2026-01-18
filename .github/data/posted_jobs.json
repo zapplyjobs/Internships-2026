@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T16:03:17.461Z",
+  "lastUpdated": "2026-01-18T16:42:59.971Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11067,16 +11067,26 @@
       "sourceUrl": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
       "discordThreadId": "1462477443960143893",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-cybersecurity-products-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-software-engineer-cybersecurity-products-san-francisco-ca-new-york-city-ny-seattle-wa-washington-dc",
+      "company": "anthropic",
+      "title": "Software Engineer, Cybersecurity Products",
+      "postedToDiscord": "2026-01-18T16:42:59.971Z",
+      "sourceDate": "2026-01-14T14:42:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5063007008",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1006,
+    "totalJobs": 1007,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T16:03:17.461Z",
-      "archived": 2,
-      "monthsAffected": 1
+      "date": "2026-01-18T16:42:59.971Z",
+      "archived": 0
     }
   }
 }
