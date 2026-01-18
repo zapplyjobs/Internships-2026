@@ -3463,5 +3463,27 @@
     "sourceUrl": "https://careers-wseinc.icims.com/jobs/3312/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1459633802207826043",
     "instanceNumber": 1
+  },
+  {
+    "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
+    "jobId": "woven-machine-learning-intern-vehicle-perception-palo-alto",
+    "company": "Woven",
+    "title": "Machine Learning Intern - Vehicle Perception",
+    "postedToDiscord": "2026-01-11T15:16:58.954Z",
+    "sourceDate": "2026-01-11T14:05:41.000Z",
+    "sourceUrl": "https://jobs.lever.co/woven-by-toyota/b5e4fe1a-240d-433d-ac40-e2cc04588985/apply",
+    "discordThreadId": "1459929074326704240",
+    "instanceNumber": 1
+  },
+  {
+    "id": "woven-machine-learning-intern-autolabeling-palo-alto-2026-01-11-1",
+    "jobId": "woven-machine-learning-intern-autolabeling-palo-alto",
+    "company": "Woven",
+    "title": "Machine Learning Intern - Autolabeling",
+    "postedToDiscord": "2026-01-11T15:16:58.961Z",
+    "sourceDate": "2026-01-11T14:05:18.000Z",
+    "sourceUrl": "https://jobs.lever.co/woven-by-toyota/24cceda1-b852-413c-8e60-039280a1c849/apply",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]
