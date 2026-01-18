@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T04:30:59.435Z",
+  "lastUpdated": "2026-01-18T05:02:15.729Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -9637,14 +9637,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7489210",
       "discordThreadId": "1462303221174239362",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-content-designer-dashboard-us-remote-2026-01-18-1",
+      "jobId": "stripe-staff-content-designer-dashboard-us-remote",
+      "company": "stripe",
+      "title": "Staff Content Designer, Dashboard",
+      "postedToDiscord": "2026-01-18T05:01:57.293Z",
+      "sourceDate": "2026-01-15T15:49:50-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7542825",
+      "discordThreadId": "1462311020067557398",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-client-partner-mid-market-services-acquisitions-los-angeles-ca-2026-01-18-1",
+      "jobId": "reddit-client-partner-mid-market-services-acquisitions-los-angeles-ca",
+      "company": "reddit",
+      "title": "Client Partner, Mid-Market (Services Acquisitions)",
+      "postedToDiscord": "2026-01-18T05:02:03.874Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7438947",
+      "discordThreadId": "1462311040070189179",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-global-3rd-party-partnerships-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-director-global-3rd-party-partnerships-new-york-city-ny",
+      "company": "reddit",
+      "title": "Director, Global 3rd Party Partnerships",
+      "postedToDiscord": "2026-01-18T05:02:08.891Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7254586",
+      "discordThreadId": "1462311055131938846",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-global-sales-enablement-new-york-city-ny-2026-01-18-1",
+      "jobId": "reddit-director-global-sales-enablement-new-york-city-ny",
+      "company": "reddit",
+      "title": "Director, Global Sales Enablement",
+      "postedToDiscord": "2026-01-18T05:02:12.396Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7366237",
+      "discordThreadId": "1462311076321296679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "reddit-director-mid-market-sales-b2b-services-san-francisco-ca-2026-01-18-1",
+      "jobId": "reddit-director-mid-market-sales-b2b-services-san-francisco-ca",
+      "company": "reddit",
+      "title": "Director, Mid-Market Sales (B2B Services)",
+      "postedToDiscord": "2026-01-18T05:02:15.729Z",
+      "sourceDate": "2026-01-15T20:41:37-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/reddit/jobs/7519923",
+      "discordThreadId": "1462311090838048913",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 876,
+    "totalJobs": 881,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T04:30:59.435Z",
+      "date": "2026-01-18T05:02:15.729Z",
       "archived": 0
     }
   }
