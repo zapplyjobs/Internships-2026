@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T08:31:35.732Z",
+  "lastUpdated": "2026-01-18T08:44:51.872Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -10748,14 +10748,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8196787002",
       "discordThreadId": "1462363770159632418",
       "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-product-manager-growth-seo-remote-u-s-2026-01-18-1",
+      "jobId": "discord-staff-product-manager-growth-seo-remote-u-s",
+      "company": "discord",
+      "title": "Staff Product Manager, Growth & SEO",
+      "postedToDiscord": "2026-01-18T08:44:13.631Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8348158002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-product-manager-payments-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-product-manager-payments-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Product Manager, Payments",
+      "postedToDiscord": "2026-01-18T08:44:20.351Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8362678002",
+      "discordThreadId": "1462366977224999016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-safety-experience-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-safety-experience-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer - Safety Experience",
+      "postedToDiscord": "2026-01-18T08:44:23.987Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8344197002",
+      "discordThreadId": "1462366992378888283",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-machine-learning-safety-san-francisco-bay-area-or-remote-u-s-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-machine-learning-safety-san-francisco-bay-area-or-remote-u-s",
+      "company": "discord",
+      "title": "Staff Software Engineer, Machine Learning (Safety)",
+      "postedToDiscord": "2026-01-18T08:44:30.741Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8326060002",
+      "discordThreadId": "1462367020346642446",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-mobile-architecture-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-mobile-architecture-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer, Mobile Architecture",
+      "postedToDiscord": "2026-01-18T08:44:37.331Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8245153002",
+      "discordThreadId": "1462367048738013371",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-new-gaming-features-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-new-gaming-features-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer, New Gaming Features",
+      "postedToDiscord": "2026-01-18T08:44:40.812Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8244749002",
+      "discordThreadId": "1462367063791374511",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-player-experience-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-player-experience-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer, Player Experience",
+      "postedToDiscord": "2026-01-18T08:44:44.725Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8337817002",
+      "discordThreadId": "1462367079146721394",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-quest-experiences-san-francisco-bay-area-or-remote-u-s-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-quest-experiences-san-francisco-bay-area-or-remote-u-s",
+      "company": "discord",
+      "title": "Staff Software Engineer, Quest Experiences",
+      "postedToDiscord": "2026-01-18T08:44:48.308Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8101803002",
+      "discordThreadId": "1462367094330101762",
+      "instanceNumber": 1
+    },
+    {
+      "id": "discord-staff-software-engineer-safety-processing-san-francisco-bay-area-2026-01-18-1",
+      "jobId": "discord-staff-software-engineer-safety-processing-san-francisco-bay-area",
+      "company": "discord",
+      "title": "Staff Software Engineer, Safety Processing",
+      "postedToDiscord": "2026-01-18T08:44:51.872Z",
+      "sourceDate": "2026-01-14T16:30:07-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/discord/jobs/8214127002",
+      "discordThreadId": "1462367110029115475",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 977,
+    "totalJobs": 986,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T08:31:35.732Z",
+      "date": "2026-01-18T08:44:51.872Z",
       "archived": 0
     }
   }
