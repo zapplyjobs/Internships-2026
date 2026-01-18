@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T12:04:35.711Z",
+  "lastUpdated": "2026-01-18T13:43:44.361Z",
   "jobs": [
     {
       "id": "woven-machine-learning-intern-vehicle-perception-palo-alto-2026-01-11-1",
@@ -11023,14 +11023,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5067287008",
       "discordThreadId": "1462417373436055572",
       "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-on-site-it-support-engineer-residential-operations-hybrid-los-angeles-ca-2026-01-18-1",
+      "jobId": "coinbase-on-site-it-support-engineer-residential-operations-hybrid-los-angeles-ca",
+      "company": "coinbase",
+      "title": "On‑Site IT Support Engineer (Residential Operations)",
+      "postedToDiscord": "2026-01-18T13:43:33.088Z",
+      "sourceDate": "2026-01-14T13:30:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7409941?gh_jid=7409941",
+      "discordThreadId": "1462442274926497884",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-applied-safety-research-engineer-safeguards-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-applied-safety-research-engineer-safeguards-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Applied Safety Research Engineer, Safeguards",
+      "postedToDiscord": "2026-01-18T13:43:36.554Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062955008",
+      "discordThreadId": "1462442291443667018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-accountant-platform-accounting-new-york-ny-2026-01-18-1",
+      "jobId": "gusto-senior-accountant-platform-accounting-new-york-ny",
+      "company": "gusto",
+      "title": "Senior Accountant (Platform Accounting)",
+      "postedToDiscord": "2026-01-18T13:43:44.360Z",
+      "sourceDate": "2026-01-14T13:24:27-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7467275",
+      "discordThreadId": "1462442324343918700",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1002,
+    "totalJobs": 1005,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T12:04:35.711Z",
+      "date": "2026-01-18T13:43:44.361Z",
       "archived": 0
     }
   }
