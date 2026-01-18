@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-18T19:26:30.740Z",
+  "lastUpdated": "2026-01-18T19:33:41.123Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -11331,14 +11331,80 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4971073008",
       "discordThreadId": "1462528586182299669",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca-2026-01-18-1",
+      "jobId": "anthropic-customer-success-manager-beneficial-deployments-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Customer Success Manager, Beneficial Deployments",
+      "postedToDiscord": "2026-01-18T19:33:20.362Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4997951008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-center-facility-operations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-center-facility-operations-lead-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Center Facility Operations Lead",
+      "postedToDiscord": "2026-01-18T19:33:26.841Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023727008",
+      "discordThreadId": "1462530331448971549",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-center-hardware-operations-lead-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-center-hardware-operations-lead-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Center Hardware Operations Lead",
+      "postedToDiscord": "2026-01-18T19:33:30.352Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5023719008",
+      "discordThreadId": "1462530345600811193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-center-physical-security-lead-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc-2026-01-18-1",
+      "jobId": "anthropic-data-center-physical-security-lead-remote-friendly-travel-required-san-francisco-ca-seattle-wa-new-york-city-ny-washington-dc",
+      "company": "anthropic",
+      "title": "Data Center Physical Security Lead",
+      "postedToDiscord": "2026-01-18T19:33:33.978Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5059602008",
+      "discordThreadId": "1462530360544985191",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-operations-manager-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-operations-manager-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Operations Manager",
+      "postedToDiscord": "2026-01-18T19:33:37.644Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946317008",
+      "discordThreadId": "1462530375782895819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-data-operations-manager-computer-use-tool-use-san-francisco-ca-new-york-city-ny-2026-01-18-1",
+      "jobId": "anthropic-data-operations-manager-computer-use-tool-use-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Data Operations Manager, Computer Use & Tool Use",
+      "postedToDiscord": "2026-01-18T19:33:41.123Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4946314008",
+      "discordThreadId": "1462530391301947553",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1030,
+    "totalJobs": 1036,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-18T19:26:30.740Z",
+      "date": "2026-01-18T19:33:41.123Z",
       "archived": 0
     }
   }
