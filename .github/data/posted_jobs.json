@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:30:01.529Z",
+  "lastUpdated": "2026-01-19T17:42:24.258Z",
   "jobs": [
     {
       "id": "rocket-mortgage-data-engineer-intern-detroit-2026-01-12-1",
@@ -14147,14 +14147,102 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7344968?gh_jid=7344968",
       "discordThreadId": "1462861666470461690",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-fullstack-product-software-engineer-growth-monetization-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-fullstack-product-software-engineer-growth-monetization-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Fullstack Product Software Engineer, Growth Monetization",
+      "postedToDiscord": "2026-01-19T17:42:06.177Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7344952?gh_jid=7344952",
+      "discordThreadId": "1462864705994494002",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-infrastructure-software-engineer-developer-platform-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-infrastructure-software-engineer-developer-platform-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Infrastructure Software Engineer, Developer Platform",
+      "postedToDiscord": "2026-01-19T17:42:07.953Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7446067?gh_jid=7446067",
+      "discordThreadId": "1462864712789131360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-infrastructure-software-engineer-metadata-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-infrastructure-software-engineer-metadata-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Infrastructure Software Engineer, Metadata ",
+      "postedToDiscord": "2026-01-19T17:42:09.718Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7356504?gh_jid=7356504",
+      "discordThreadId": "1462864720544530575",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-ios-software-engineer-mobile-infrastructure-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-ios-software-engineer-mobile-infrastructure-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "iOS Software Engineer, Mobile Infrastructure",
+      "postedToDiscord": "2026-01-19T17:42:12.913Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7053876?gh_jid=7053876",
+      "discordThreadId": "1462864727796486186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-phd-systems-ai-ml-research-intern-summer-2026-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "PhD Systems & AI/ML Research Intern (Summer 2026)",
+      "postedToDiscord": "2026-01-19T17:42:17.699Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7462813?gh_jid=7462813",
+      "discordThreadId": "1462864754220466257",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-product-manager-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-product-manager-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Principal Product Manager",
+      "postedToDiscord": "2026-01-19T17:42:22.545Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7284159?gh_jid=7284159",
+      "discordThreadId": "1462864774378422477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-product-manager-ai-security-data-access-governance-and-dlp-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-product-manager-ai-security-data-access-governance-and-dlp-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Principal Product Manager - AI Security, Data Access Governance and DLP",
+      "postedToDiscord": "2026-01-19T17:42:22.555Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7183783?gh_jid=7183783",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-product-manager-dash-start-page-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-product-manager-dash-start-page-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Principal Product Manager, Dash Start Page",
+      "postedToDiscord": "2026-01-19T17:42:24.258Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7142064?gh_jid=7142064",
+      "discordThreadId": "1462864781831573585",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1286,
+    "totalJobs": 1294,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T17:30:01.529Z",
+      "date": "2026-01-19T17:42:24.258Z",
       "archived": 0
     }
   }
