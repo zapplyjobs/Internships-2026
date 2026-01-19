@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T09:08:41.132Z",
+  "lastUpdated": "2026-01-19T13:46:25.552Z",
   "jobs": [
-    {
-      "id": "cadence-design-llm-ml-phd-san-jose-2026-01-12-1",
-      "jobId": "cadence-design-llm-ml-phd-san-jose",
-      "company": "Cadence Design Systems",
-      "title": "LLM/ML PhD",
-      "postedToDiscord": "2026-01-12T11:39:05.140Z",
-      "sourceDate": "2026-01-12T01:06:59.000Z",
-      "sourceUrl": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/LLM-ML-PhD-Intern--Summer-2026-_R52691-1",
-      "discordThreadId": "1460236626801463409",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nvidia-performance-engineer-gaming-st-louis-2026-01-12-1",
-      "jobId": "nvidia-performance-engineer-gaming-st-louis",
-      "company": "NVIDIA",
-      "title": "Performance Engineer - Gaming",
-      "postedToDiscord": "2026-01-12T11:39:08.457Z",
-      "sourceDate": "2025-12-18T07:16:57.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
-      "discordThreadId": "1460236641519272089",
-      "instanceNumber": 1
-    },
     {
       "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
       "jobId": "generate-biomedicines-machine-learning-intern-cambridge",
@@ -14048,14 +14026,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
       "discordThreadId": "1462735492809363518",
       "instanceNumber": 1
+    },
+    {
+      "id": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-vercel-development-representative-commercial-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Commercial",
+      "postedToDiscord": "2026-01-19T13:46:15.331Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5065840004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-vercel-development-representative-majors-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors",
+      "postedToDiscord": "2026-01-19T13:46:18.679Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5039945004",
+      "discordThreadId": "1462805359986212917",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-vercel-development-representative-majors-v0-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Vercel Development Representative, Majors, v0",
+      "postedToDiscord": "2026-01-19T13:46:22.167Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5729399004",
+      "discordThreadId": "1462805374469013545",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-channel-programs-and-incentives-manager-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Channel Programs and Incentives Manager",
+      "postedToDiscord": "2026-01-19T13:46:25.551Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7438470?gh_jid=7438470",
+      "discordThreadId": "1462805394861854761",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1277,
+    "totalJobs": 1279,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T09:08:41.132Z",
+      "date": "2026-01-19T13:46:25.552Z",
       "archived": 0
     }
   }
