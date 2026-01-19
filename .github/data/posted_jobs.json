@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:17:58.670Z",
+  "lastUpdated": "2026-01-19T20:42:49.823Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14620,14 +14620,102 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7440827?gh_jid=7440827",
       "discordThreadId": "1462903932891299901",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-offline-media-manager-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-19-1",
+      "jobId": "gusto-senior-offline-media-manager-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Senior Offline Media Manager",
+      "postedToDiscord": "2026-01-19T20:42:25.364Z",
+      "sourceDate": "2026-01-13T16:18:05-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7339537",
+      "discordThreadId": "1462910077408247862",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-account-executive-mid-market-austin-tx-2026-01-19-1",
+      "jobId": "airtable-account-executive-mid-market-austin-tx",
+      "company": "airtable",
+      "title": "Account Executive, Mid Market",
+      "postedToDiscord": "2026-01-19T20:42:32.129Z",
+      "sourceDate": "2026-01-13T16:08:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7883346002",
+      "discordThreadId": "1462910104645927085",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-emerging-small-business-account-executive-austin-tx-2026-01-19-1",
+      "jobId": "airtable-emerging-small-business-account-executive-austin-tx",
+      "company": "airtable",
+      "title": "Emerging Small Business, Account Executive",
+      "postedToDiscord": "2026-01-19T20:42:35.501Z",
+      "sourceDate": "2026-01-13T15:18:13-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8052077002",
+      "discordThreadId": "1462910120278233402",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-marketing-operations-manager-product-led-growth-san-francisco-california-united-states-2026-01-19-1",
+      "jobId": "brex-senior-marketing-operations-manager-product-led-growth-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-19T20:42:38.997Z",
+      "sourceDate": "2026-01-13T15:03:50-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372636002?gh_jid=8372636002",
+      "discordThreadId": "1462910134413164738",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-marketing-operations-manager-product-led-growth-new-york-new-york-united-states-2026-01-19-1",
+      "jobId": "brex-senior-marketing-operations-manager-product-led-growth-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, Product-Led Growth",
+      "postedToDiscord": "2026-01-19T20:42:39.007Z",
+      "sourceDate": "2026-01-13T15:03:41-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372631002?gh_jid=8372631002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-payments-performance-strategist-chicago-il-atlanta-ga-us-remote-2026-01-19-1",
+      "jobId": "stripe-payments-performance-strategist-chicago-il-atlanta-ga-us-remote",
+      "company": "stripe",
+      "title": "Payments Performance Strategist",
+      "postedToDiscord": "2026-01-19T20:42:42.714Z",
+      "sourceDate": "2026-01-13T14:57:25-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7409686",
+      "discordThreadId": "1462910149244223692",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-product-solutions-architect-3-synthetics-new-york-new-york-usa-2026-01-19-1",
+      "jobId": "datadog-product-solutions-architect-3-synthetics-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Product Solutions Architect 3 - Synthetics",
+      "postedToDiscord": "2026-01-19T20:42:46.289Z",
+      "sourceDate": "2026-01-13T14:01:21-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7519856/?gh_jid=7519856",
+      "discordThreadId": "1462910164612153477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-marketing-operations-manager-b2b-sales-san-francisco-california-united-states-2026-01-19-1",
+      "jobId": "brex-senior-marketing-operations-manager-b2b-sales-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-19T20:42:49.822Z",
+      "sourceDate": "2026-01-13T13:56:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372597002?gh_jid=8372597002",
+      "discordThreadId": "1462910179485028437",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1329,
+    "totalJobs": 1337,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T20:17:58.670Z",
+      "date": "2026-01-19T20:42:49.823Z",
       "archived": 0
     }
   }
