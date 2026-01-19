@@ -14,74 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Business Development Manager, Agentic Commerce",
-    "employer_name": "stripe",
-    "job_city": "San Francisco",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7067252",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "We operate at significant scale, but we’re tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our global teams.",
-    "id": "stripe-business-development-manager-agentic-commerce-san-francisco",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7067252",
-    "title": "Business Development Manager, Agentic Commerce",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "San Francisco",
-    "locations": [
-      "San Francisco"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7067252",
-    "departments": [
-      "1650 AI GTM Strategy & Solutions"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;In this role, you will be at the forefront of a rapidly evolving space, helping to define and execute Stripe&#39;s strategy for enabling AI agents to thrive online. You will play a critical role in engaging early adopters, understanding key use cases, and driving the Stripe narrative on Agentic Commerce.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Engage with early adopters among AI companies, marketplaces, and developers to understand their needs and challenges in leveraging financial services within agentic workflows. This includes companies focused on personal shopping agents and those building AI-powered applications.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Develop a deep understanding of agentic commerce use profiles, including traditional companies exploring AI, marketplaces with monetization needs, personal shopping agents requiring spend/hold/receive functionalities, and developers seeking Stripe integration.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Articulate Stripe’s narrative on agentic commerce and its value proposition to various audiences, demonstrating how Stripe is solving key problems such as automating financial services, monetizing AI agent usage, enabling secure spending by AI agents, and simplifying integration.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Develop and recommend solutions in partnership with core Account Executives, Solutions Architects, Product, and Product Marketing tailoring Stripe&#39;s offerings to specific agentic commerce use cases.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Contribute to the development and execution of the go-to-market strategy for Agentic Commerce.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Help develop AI-specific sales plays and identify key use cases to drive adoption.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Engage with strategic partners, particularly with networks like Visa, to explore collaborative opportunities and influence the future of AI-enabled commerce. This includes understanding Visa&#39;s Agentic Commerce program and identifying areas for joint efforts.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Gather and share user feedback and industry trends to inform Stripe&#39;s product strategy and roadmap for Agentic Commerce.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Collaborate closely with Product Marketing to create educational content and enablement materials for internal teams and potential users.&lt;/li&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Evangelize Stripe&#39;s Agentic Commerce position in relevant forums such as EBCs, Sessions, Tours, and contribute to establishing Stripe as a leader in this space.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience in business development, sales, or partnerships within the technology or financial services industry.&lt;/li&gt;\n&lt;li&gt;Strong understanding of the AI landscape, including LLMs, AI Agents, and their applications.&lt;/li&gt;\n&lt;li&gt;Familiarity with payments processing, financial services APIs, and usage-based billing models.&lt;/li&gt;\n&lt;li&gt;Proven ability to identify and develop new business opportunities and build strong customer relationships.&lt;/li&gt;\n&lt;li&gt;Excellent communication, presentation, and interpersonal skills, with the ability to articulate complex technical concepts to both technical and non-technical audiences.&lt;/li&gt;\n&lt;li&gt;Experience working cross-functionally with product, marketing, and sales teams.&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7067252
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Business Development Manager, Developer Platforms",
-    "employer_name": "stripe",
-    "job_city": "SF, NYC, Seattle, Remote",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7450084",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-business-development-manager-developer-platforms-sf-nyc-seattle-remote",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7450084",
-    "title": "Business Development Manager, Developer Platforms",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "SF, NYC, Seattle, Remote",
-    "locations": [
-      "SF, NYC, Seattle, Remote"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7450084",
-    "departments": [
-      "1650 AI GTM Strategy & Solutions"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The AI team is focused on one of Stripe’s most strategic growth areas: helping AI-native businesses monetize and scale. We’re in a unique position—partnering with the world’s most ambitious AI companies (like OpenAI, Anthropic and NVIDIA) to help them grow and commercialize globally.&lt;/p&gt;\n&lt;p&gt;The Developer Platform team operates at the top of the funnel for the Stripe economy. We are responsible for ensuring that the next generation of businesses build on Stripe by default. As developer workflows shift from manual coding to AI-assisted creation, we view &quot;AI Workspaces&quot; (IDEs, Agents, Coding Assistants) as the new, critical distribution channel for financial infrastructure. Our goal is to secure Stripe’s position as the economic engine for these environments.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We are looking for a Business Development Manager to define and execute the commercial strategy for Stripe’s &quot;New Front Door&quot; of these developer platforms. In this role, you will structure and close strategic partnerships with the platforms that command developer attention—transforming AI coding assistants and IDEs into powerful distribution channels for Stripe.&lt;/p&gt;\n&lt;p&gt;You will move beyond simple technical integrations to build commercial engines that drive developer acquisition, reduce time-to-value, and lock in long-term platform preference. You will turn the developer’s &quot;creation space&quot; into a competitive moat for Stripe.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Structure commercial ecosystem partnerships:&lt;/strong&gt; Identify, negotiate, and execute high-impact deals with leading foundational model companies, IDEs, and dev-tool platforms. You will define deal structures (commercial terms, co-marketing, GTM commitments) that embed Stripe as the exclusive or preferred financial infrastructure provider.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Drive distribution and acquisition:&lt;/strong&gt; Treat AI coding environments as a primary user acquisition channel. You will work with partners to design go-to-market motions that surface Stripe at the exact moment of intent, driving net-new merchant signups and integration volume.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Commercialize technical assets:&lt;/strong&gt; Leverage our technical advantages (like our Model Context Protocol server and Claimable Sandboxes) as strategic currency in negotiations, ensuring partners prioritize Stripe’s deep integration over competitors in exchange for enabling superior capabilities in their own AI tools.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Orchestrate &quot;Stripe AI Toolkit&quot; GTM:&lt;/strong&gt; Collaborate with Product Marketing and Engineering to package our developer tools and features into a market-facing solution. You will lead the rollout strategy to drive adoption among specific high-value developer segments (e.g., enterprise architects vs. rapid prototypers).&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Strategic alignment &amp;amp; market shaping:&lt;/strong&gt; Act as the commercial feedback loop between the external ecosystem and Stripe leadership. You will quantify the business risk of &quot;context gaps&quot; in AI tools and build the business case for new product investments required to win the AI developer market.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for a commercial leader with a technical edge. You are comfortable negotiating complex contracts with C-level counterparts at major tech companies, but you also understand the developer ecosystem deeply enough to know what drives platform adoption. You understand that in the AI era, being the &quot;default&quot; in the IDE is a commercial imperative.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of experience in business development, strategic partnerships, or platform strategy, with a focus on developer tools, SaaS, or API infrastructure.&lt;/li&gt;\n&lt;li&gt;A proven track record of structuring and closing complex, high-value partnerships that resulted in measurable commercial impact (revenue, distribution, or strategic lock-in).&lt;/li&gt;\n&lt;li&gt;Strong commercial fluency: ability to model deal economics, negotiate incentives, and align cross-company GTM objectives.&lt;/li&gt;\n&lt;li&gt;Deep understanding of the developer economy value chain (how tools are bought, sold, and adopted).&lt;/li&gt;\n&lt;li&gt;Exceptional communication skills, with the ability to influence internal product roadmaps based on external commercial opportunities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience leading platform partnerships at a major cloud provider, IDE vendor, or API-first company.&lt;/li&gt;\n&lt;li&gt;MBA or equivalent commercial experience.&lt;/li&gt;\n&lt;li&gt;Familiarity with Stripe’s business model and the broader fintech landscape.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;In-office expectations&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This hits a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility about how to do this in a way that makes sense for individuals and their teams.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7450084
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Business Recruiter (Fixed Term Contract)",
     "employer_name": "stripe",
     "job_city": "Chicago, IL",
@@ -110,40 +42,6 @@
     "_raw": {
       "source": "greenhouse",
       "original_id": 7452912
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Business Value Consulting",
-    "employer_name": "stripe",
-    "job_city": "US-SF",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7456710",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-business-value-consulting-us-sf",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7456710",
-    "title": "Business Value Consulting",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "US-SF",
-    "locations": [
-      "US-SF"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7456710",
-    "departments": [
-      "1530 GTM Industries"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;p&gt;&lt;span style=&quot;font-size: 14pt;&quot;&gt;&lt;strong&gt;Business Value Consultant&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;The Business Value Consulting team focuses on driving long-term growth and value creation for Stripe&#39;s largest and most strategic users. Business Value Consultants play a critical role in translating the technical capabilities of Stripe products into a strategic value for a customer. We help drive meaningful business outcomes and accelerate decision-making through a consultative approach that aims to build investment confidence and elevate CxO conversations.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Our Business Value Consulting team partners closely with our Go-to-market teams and Enterprise users to articulate the strategic value Stripe will provide for our user’s businesses. Value Consultants develop methodologies to measure the financial, strategic and operations benefits Stripe provides, and leverage those to develop value propositions, business cases, and ROI justifications for our users.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build compelling business case presentations and ROI (Return on Investment) analyses aimed at accelerating, justifying, and/or expanding sales opportunities&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Create ROI tools for sales and customers for joint business casing&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Craft high-impact, executive level narrative and presentations for CxOs while working cross functionally with our Sales and Presales teams&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Conduct and facilitate internal and external research around customer’s business, market/industry/functional trends, and business value analysis&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Build strong relationships with regional sales leaders to be a key driver on strategic account planning and engagements&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Create assets for internal teams to leverage to articulate and measure the value of Stripe and deliver high-level business value impact in a consistent way&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Contribute to the creation and management of library assets including value frameworks, and other sales and value capture assets to help scale the team&#39;s reach across the organization.&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Provide thought leadership, training, and consultative partnering with internal sales and other teams throughout and beyond the sales cycle&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;10+ years of experience in management consulting, business value consulting, strategic finance, or similar roles&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Proven track record of building ROI models, business cases, and executive presentations&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Strong financial acumen with expertise in value metrics, cost-benefit analysis, and financial modeling&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Exceptional communication and presentation skills with the ability to influence senior executives&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience working cross-functionally with sales, presales, product, and customer success teams&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Analytical mindset with strong problem-solving capabilities and attention to detail&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Self-starter who can work independently and manage multiple projects simultaneously&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Experience in the technology, SaaS, or fintech industry&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Background in payments, financial services, or digital commerce&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;MBA or advanced degree in Business, Finance, Economics, or related field&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Track record of developing scalable frameworks and methodologies&lt;/span&gt;&lt;/li&gt;\n&lt;li style=&quot;font-size: 12pt;&quot;&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Understanding of value selling methodologies and sales processes&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7456710
     },
     "job_posted_at": "1h",
     "description_platform": "generic",
@@ -314,6 +212,108 @@
     "_raw": {
       "source": "greenhouse",
       "original_id": 7390229
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Crypto Accounting Team Lead",
+    "employer_name": "stripe",
+    "job_city": "San Francisco, Seattle",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7438078",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "Help increase the GDP of the internet as part of our Controllership team.",
+    "id": "stripe-crypto-accounting-team-lead-san-francisco-seattle",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "7438078",
+    "title": "Crypto Accounting Team Lead",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "San Francisco, Seattle",
+    "locations": [
+      "San Francisco, Seattle"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=7438078",
+    "departments": [
+      "6420 Accounting"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Stripe Accounting Team is responsible for supporting all products at Stripe, consulting on accounting implications, and supporting teams&#39; ability to make informed strategic decisions. We are responsible for the accurate and timely recording of all business-generated transactions on our balance sheet and income statement. We operate in a fast-paced environment and collaborate significantly with cross-functional and international teams.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Stripe is seeking an experienced leader to join its world class accounting team to oversee all cryptocurrency product offerings at Stripe, including Bridge and Privy products. You would lead our efforts to help us scale these products for the future, as we support rapid growth in a fast-paced environment. The Accounting team is responsible for all aspects of the financial, statutory, and internal reporting processes; financial systems; internal controls; and business support. You would leverage your technical expertise to quickly identify accounting implications and impacts, while advising and collaborating with team members cross-functionally to develop operational processes that help us scale.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Accounting operations for all stablecoin products at Stripe, including all Bridge and Privy accounting. Drive monthly and quarterly close activities, analytical reviews, and financial reporting deliverables&lt;/li&gt;\n&lt;li&gt;Lead cross-functional initiatives and communicate progress effectively with senior management&lt;/li&gt;\n&lt;li&gt;Identify, recommend and implement scalable accounting processes and automation improvements to support global growth in stablecoin products&lt;/li&gt;\n&lt;li&gt;Partner closely with our business and finance partners to thoroughly understand new products, features, and contracts, and advise on accounting implications&lt;/li&gt;\n&lt;li&gt;Research, prepare, and review technical accounting analyses&lt;/li&gt;\n&lt;li&gt;Partner with Internal Systems and Engineering teams to support internal financial systems and automation of accounting processes&lt;/li&gt;\n&lt;li&gt;Assess the effectiveness of internal controls, and design new processes and controls for emerging and growing business activities&lt;/li&gt;\n&lt;li&gt;Develop and maintain up-to-date accounting policies and procedures&lt;/li&gt;\n&lt;li&gt;Understand data and system flows and related implications to accounting, with an aptitude to analyze financial results, and identify and problem solve financial anomalies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of relevant public accounting and/or industry experience&lt;/li&gt;\n&lt;li&gt;Significant experience accounting for cryptocurrencies, including stablecoins&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;B.A. or B.S degree in Accounting or Finance (CPA strongly preferred)&lt;/li&gt;\n&lt;li&gt;Fluency in U.S. GAAP and ability to research complex accounting issues&lt;/li&gt;\n&lt;li&gt;Excellent communication and organizational skills, both written and verbal, with the ability to convey financial concepts to both financial and non-financial audiences&lt;/li&gt;\n&lt;li&gt;Strong analytical skills and experience working with large data sets&lt;/li&gt;\n&lt;li&gt;Demonstrated experience partnering with cross-functional stakeholders&lt;/li&gt;\n&lt;li&gt;Experience with internal controls (design, implementation and execution)&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Solution-oriented mindset with enthusiasm for establishing best practices&lt;/li&gt;\n&lt;li&gt;Demonstrated ability to manage multiple complex projects simultaneously&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;CPA or similar qualification&lt;/li&gt;\n&lt;li&gt;Experience at a public company&lt;/li&gt;\n&lt;li&gt;Payments or Tech industry experience&lt;/li&gt;\n&lt;li&gt;Cryptocurrency experience&lt;/li&gt;\n&lt;li&gt;Banking experience&lt;/li&gt;\n&lt;li&gt;SQL experience&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 7438078
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Customer Success Manager, Enterprise",
+    "employer_name": "stripe",
+    "job_city": "Atlanta ",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6558993",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "Help increase the GDP of the internet as part of our Customer Success team.",
+    "id": "stripe-customer-success-manager-enterprise-atlanta",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "6558993",
+    "title": "Customer Success Manager, Enterprise",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "Atlanta ",
+    "locations": [
+      "Atlanta "
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=6558993",
+    "departments": [
+      "1340 Customer Success Management"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Stripe’s Customer Success Managers (CSM) oversee the post-sales lifecycle for Stripe users, ensuring they realize the maximum value of their investment. This partnership drives user success, increases retention and expansion, and supports mutually beneficial renewal outcomes. Few roles provide such a direct impact on the growth of the company.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;We are looking for a motivated and curious professional to manage a book of enterprise customers. The CSM will deliver proactive workshops, business reviews, payments insights, and thought leadership to help users grow their business.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The ideal candidate is analytical and meticulous, and enjoys engaging customers to investigate issues and deliver insights. This role involves working closely with sales, technical account managers, and operations teams to engage customers in product, payment, and technical conversations.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Responsibilities&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Partner closely with account executives and technical account managers to support post-sale engagements focused on the optimization, retention, and growth of Stripe’s enterprise customers&lt;/li&gt;\n&lt;li&gt;Manage a book of customers to drive overall account health including performance, product adoption, usage velocity, account renewals and growth, referrals, and customer satisfaction&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Serve as a trusted payments and product advisor to managed customers by delivering payment performance and industry insights&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Perform business reviews to align on user priorities, review payments performance metrics, share Stripe product roadmap and provide guidance on how to optimize the value from Stripe&lt;/li&gt;\n&lt;li&gt;Advocate for the customer to internal stakeholders. Share customer feedback and insights to Product Management, Engineering, Support, Marketing, and Sales on the innovation and improvement needed to optimize the Stripe user experience&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;In coordination with an account team, support book expansion--identifying and surfacing opportunities to ensure customers are successful.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Minimum requirements&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;4+ years of experience in a client-facing role in Enterprise relationship management, partnering with large, global, and complex organizations, preferably working with a technical product&lt;/li&gt;\n&lt;li&gt;Strong business sense and understanding of underlying drivers and strategy of our user’s businesses&lt;/li&gt;\n&lt;li&gt;Track record of leading technical conversations and persuading others to take action based on requirements and value provided by solutions&lt;/li&gt;\n&lt;li&gt;Strong analytical skills&lt;/li&gt;\n&lt;li&gt;Excellent operating rigor including organizational and time management skills&lt;/li&gt;\n&lt;li&gt;Strong executive presence and presentation skills, particularly for in-person meetings with multiple stakeholders&lt;/li&gt;\n&lt;li&gt;History of success as a consultant, pre-sales, technical account management, or equivalent&lt;/li&gt;\n&lt;li&gt;Proven track record of achieving targets and goals, preferably in a sales setting&lt;/li&gt;\n&lt;li&gt;Track record of managing large, complex projects and/or programs&lt;/li&gt;\n&lt;li&gt;Has handled difficult customers or situations and can demonstrate resolutions&lt;/li&gt;\n&lt;li&gt;Willingness to tackle things on your own&lt;/li&gt;\n&lt;li&gt;Ability to navigate data and people to find answers&lt;/li&gt;\n&lt;li&gt;A capability to work well with a wide range of people, both internally and externally&lt;/li&gt;\n&lt;li&gt;The motivation and flexibility to work well in a high-growth environment where things change quickly&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 6558993
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Data Governance Lead",
+    "employer_name": "stripe",
+    "job_city": "Remote US",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=5922987",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "We operate at significant scale, but we’re tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our global teams.",
+    "id": "stripe-data-governance-lead-remote-us",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "5922987",
+    "title": "Data Governance Lead",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "Remote US",
+    "locations": [
+      "Remote US"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=5922987",
+    "departments": [
+      "1510 GTM Business Operations"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe’s GTM Planning &amp;amp; Central Operations team partners with Sales Leadership, Finance, Product, Local Sales Strategy and Operations, Legal driving operational excellence to support our Global GTM strategy. We bring expertise, rigorous thinking, and a user-first approach to problem solving. We transform, improve and support global Stripe business processes to drive critical initiatives and other cross-functional business priorities for the sales planning cycle.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify and prioritize keep GTM challenges around customer attributes and data to target prospect customers&lt;/li&gt;\n&lt;li&gt;Partner with Data Engineering and GTM Systems to solve, prioritize and program manage key data initiatives around data processes, systems and architecture&lt;/li&gt;\n&lt;li&gt;Support planning timeline on data quality as a precursor to territories and targets&lt;/li&gt;\n&lt;li&gt;Manage data scrubs through scaled vendors, when required&lt;/li&gt;\n&lt;li&gt;Communicate and elevate data excellence roadmap to leadership teams. Provide regular reports and presentations to sales leadership and other stakeholders, communicating the analysis of sales data and recommending actions to drive sales growth&lt;/li&gt;\n&lt;li&gt;Conduct regular data audits to ensure accuracy and completeness of sales data, and identify and rectify any discrepancies or inconsistencies&lt;/li&gt;\n&lt;li&gt;Identify and prioritize policy gaps to improve data&lt;/li&gt;\n&lt;li&gt;Change management based on insights and Key Performance Indicators&lt;/li&gt;\n&lt;li&gt;Oversee enablement of Regional operations and Sales teams to ensure data is used and collected in the desired manner&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Has 11+ years of sales, strategy and operations experience in a high-tech growth environment, or operational experience in investment banking or management consulting or private equity or venture capital, or business insights / analytics roles.&lt;/li&gt;\n&lt;li&gt;Has strong analytical skills and a structured approach to solving unique business problems. Has experience working with data and large data sets to identify trends and create insights to make recommendations to senior leaders&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Has an enthusiastic “roll up your sleeves” mentality&lt;/li&gt;\n&lt;li&gt;Works well with a high degree of adaptability and flexibility in a fast paced, often ambiguous, and rapidly changing environment&lt;/li&gt;\n&lt;li&gt;Strong proficiency in SQL and other advanced analytics tools&lt;/li&gt;\n&lt;li&gt;6+ years experience with Sales Policy development, Sales Governance, Sales Process compliance or Sales Compensation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Prior experience at a growth stage Internet/software company.&lt;/li&gt;\n&lt;li&gt;Prior experience in the SaaS and/or payments industry.&lt;/li&gt;\n&lt;li&gt;Knowledge of Customer Relationship Manager (CRM) systems&lt;/li&gt;\n&lt;li&gt;Knowledge of Planning Tools (Anaplan) and Methodologies&lt;/li&gt;\n&lt;li&gt;&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 5922987
     },
     "job_posted_at": "1h",
     "description_platform": "generic",
