@@ -3683,5 +3683,60 @@
     "sourceUrl": "https://careers-gdms.icims.com/jobs/70127/job?mobile=true&needsRedirect=false",
     "discordThreadId": "1460337106843861013",
     "instanceNumber": 1
+  },
+  {
+    "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
+    "jobId": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara",
+    "company": "GlobalFoundries",
+    "title": "Software Engineering Intern - Cloud Platform",
+    "postedToDiscord": "2026-01-12T21:17:19.770Z",
+    "sourceDate": "2026-01-12T16:35:47.000Z",
+    "sourceUrl": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2026-_JR-2504800",
+    "discordThreadId": "1460382147021115483",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-coca-cola-company-data-engineering-intern-atlanta-2026-01-12-1",
+    "jobId": "the-coca-cola-company-data-engineering-intern-atlanta",
+    "company": "The Coca-Cola Company",
+    "title": "Data Engineering Intern",
+    "postedToDiscord": "2026-01-12T21:17:23.183Z",
+    "sourceDate": "2026-01-12T16:28:09.000Z",
+    "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Engineering-Intern_R-133357-1",
+    "discordThreadId": "1460382161193664526",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-coca-cola-company-consumer-engagement-adtech-platforms-intern-atlanta-2026-01-12-1",
+    "jobId": "the-coca-cola-company-consumer-engagement-adtech-platforms-intern-atlanta",
+    "company": "The Coca-Cola Company",
+    "title": "Consumer Engagement & Adtech Platforms Intern",
+    "postedToDiscord": "2026-01-12T21:17:29.794Z",
+    "sourceDate": "2026-01-12T16:28:06.000Z",
+    "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Consumer-Engagement---AdTech-Platforms-Intern_R-133444",
+    "discordThreadId": "1460382188062244977",
+    "instanceNumber": 1
+  },
+  {
+    "id": "true-manufacturing-ai-analyst-co-op-o-fallon-2026-01-12-1",
+    "jobId": "true-manufacturing-ai-analyst-co-op-o-fallon",
+    "company": "True Manufacturing",
+    "title": "AI Analyst Co-op",
+    "postedToDiscord": "2026-01-12T21:17:36.325Z",
+    "sourceDate": "2025-09-11T18:17:18.000Z",
+    "sourceUrl": "https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460382216541700228",
+    "instanceNumber": 1
+  },
+  {
+    "id": "capital-one-technology-internship-program-plano-2026-01-12-1",
+    "jobId": "capital-one-technology-internship-program-plano",
+    "company": "Capital One",
+    "title": "Technology Internship Program",
+    "postedToDiscord": "2026-01-12T21:17:40.464Z",
+    "sourceDate": "2025-08-04T14:52:00.000Z",
+    "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2026_R218710-1",
+    "discordThreadId": "1460382230797877311",
+    "instanceNumber": 1
   }
 ]
