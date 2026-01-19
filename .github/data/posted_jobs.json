@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T07:57:06.057Z",
+  "lastUpdated": "2026-01-19T08:00:04.645Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -13608,14 +13608,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7249436",
       "discordThreadId": "1462717476943953950",
       "instanceNumber": 1
+    },
+    {
+      "id": "vercel-account-executive-commercial-install-base-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-account-executive-commercial-install-base-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Account Executive, Commercial Install Base ",
+      "postedToDiscord": "2026-01-19T07:59:27.993Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5708732004",
+      "discordThreadId": "1462718073407672331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-account-executive-v0-majors-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-account-executive-v0-majors-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Account Executive, v0 Majors",
+      "postedToDiscord": "2026-01-19T07:59:31.334Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5634748004",
+      "discordThreadId": "1462718087668174848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-commercial-account-executive-greenfield-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-commercial-account-executive-greenfield-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Commercial Account Executive, Greenfield ",
+      "postedToDiscord": "2026-01-19T07:59:34.731Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5042166004",
+      "discordThreadId": "1462718101669023756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-director-of-partnerships-north-america-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-director-of-partnerships-north-america-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Director of Partnerships, North America",
+      "postedToDiscord": "2026-01-19T07:59:38.276Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5678141004",
+      "discordThreadId": "1462718116105814110",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-director-of-sales-engineering-amer-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-director-of-sales-engineering-amer-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Director of Sales Engineering, AMER",
+      "postedToDiscord": "2026-01-19T07:59:41.642Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5650641004",
+      "discordThreadId": "1462718130794008742",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-ai-engineer-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-ai-engineer-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "AI Engineer",
+      "postedToDiscord": "2026-01-19T07:59:48.093Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5517523004",
+      "discordThreadId": "1462718157595738267",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-director-of-trust-safety-engineering-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-director-of-trust-safety-engineering-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Director of Trust & Safety Engineering",
+      "postedToDiscord": "2026-01-19T07:59:51.702Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719801004",
+      "discordThreadId": "1462718172074348744",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-content-engineer-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-content-engineer-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Content Engineer",
+      "postedToDiscord": "2026-01-19T07:59:58.105Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722313004",
+      "discordThreadId": "1462718199618343025",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-director-technical-accounting-financial-reporting-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-director-technical-accounting-financial-reporting-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Director, Technical Accounting & Financial Reporting",
+      "postedToDiscord": "2026-01-19T08:00:04.645Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5676402004",
+      "discordThreadId": "1462718226810278075",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1237,
+    "totalJobs": 1246,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T07:57:06.057Z",
+      "date": "2026-01-19T08:00:04.645Z",
       "archived": 0
     }
   }
