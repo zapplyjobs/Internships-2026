@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T23:39:20.356Z",
+  "lastUpdated": "2026-01-19T23:48:11.766Z",
   "jobs": [
     {
       "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
@@ -15214,14 +15214,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7450084",
       "discordThreadId": "1462954599290900693",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-recruiter-fixed-term-contract-chicago-il-2026-01-19-1",
+      "jobId": "stripe-business-recruiter-fixed-term-contract-chicago-il",
+      "company": "stripe",
+      "title": "Business Recruiter (Fixed Term Contract)",
+      "postedToDiscord": "2026-01-19T23:47:31.429Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7452912",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-commercial-counsel-crypto-new-york-city-seattle-san-francisco-chicago-atlanta-us-remote-2026-01-19-1",
+      "jobId": "stripe-commercial-counsel-crypto-new-york-city-seattle-san-francisco-chicago-atlanta-us-remote",
+      "company": "stripe",
+      "title": "Commercial Counsel, Crypto",
+      "postedToDiscord": "2026-01-19T23:47:37.861Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7392188",
+      "discordThreadId": "1462956686913310784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-compensation-partner-product-engineering-nyc-san-francisco-seattle-2026-01-19-1",
+      "jobId": "stripe-compensation-partner-product-engineering-nyc-san-francisco-seattle",
+      "company": "stripe",
+      "title": "Compensation Partner, Product & Engineering",
+      "postedToDiscord": "2026-01-19T23:47:41.426Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7203552",
+      "discordThreadId": "1462956700985196667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-data-governance-lead-remote-us-2026-01-19-1",
+      "jobId": "stripe-data-governance-lead-remote-us",
+      "company": "stripe",
+      "title": "Data Governance Lead",
+      "postedToDiscord": "2026-01-19T23:47:43.181Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=5922987",
+      "discordThreadId": "1462956715870781544",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-commercial-solutions-program-manager-chicago-il-remote-2026-01-19-1",
+      "jobId": "stripe-commercial-solutions-program-manager-chicago-il-remote",
+      "company": "stripe",
+      "title": "Commercial Solutions Program Manager",
+      "postedToDiscord": "2026-01-19T23:47:49.794Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7206336",
+      "discordThreadId": "1462956736427200691",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-content-activation-lead-us-remote-chi-atl-2026-01-19-1",
+      "jobId": "stripe-content-activation-lead-us-remote-chi-atl",
+      "company": "stripe",
+      "title": "Content Activation Lead",
+      "postedToDiscord": "2026-01-19T23:47:56.648Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7364062",
+      "discordThreadId": "1462956764566782145",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-content-marketing-lead-bridge-san-francisco-or-new-york-2026-01-19-1",
+      "jobId": "stripe-content-marketing-lead-bridge-san-francisco-or-new-york",
+      "company": "stripe",
+      "title": "Content Marketing Lead, Bridge",
+      "postedToDiscord": "2026-01-19T23:48:00.304Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7390229",
+      "discordThreadId": "1462956780081385693",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-crypto-accounting-team-lead-san-francisco-seattle-2026-01-19-1",
+      "jobId": "stripe-crypto-accounting-team-lead-san-francisco-seattle",
+      "company": "stripe",
+      "title": "Crypto Accounting Team Lead",
+      "postedToDiscord": "2026-01-19T23:48:06.837Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7438078",
+      "discordThreadId": "1462956808003125280",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-customer-success-manager-enterprise-atlanta-2026-01-19-1",
+      "jobId": "stripe-customer-success-manager-enterprise-atlanta",
+      "company": "stripe",
+      "title": "Customer Success Manager, Enterprise",
+      "postedToDiscord": "2026-01-19T23:48:11.766Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6558993",
+      "discordThreadId": "1462956835593130152",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1383,
+    "totalJobs": 1392,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T23:39:20.356Z",
+      "date": "2026-01-19T23:48:11.766Z",
       "archived": 0
     }
   }
