@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:11:51.994Z",
+  "lastUpdated": "2026-01-19T19:35:25.798Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14268,14 +14268,102 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7466465?gh_jid=7466465",
       "discordThreadId": "1462887295211278589",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-brand-writer-writing-studio-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-brand-writer-writing-studio-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Brand Writer, Writing Studio",
+      "postedToDiscord": "2026-01-19T19:35:01.361Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7408902?gh_jid=7408902",
+      "discordThreadId": "1462893122504622345",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-product-designer-design-systems-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-product-designer-design-systems-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Product Designer, Design Systems",
+      "postedToDiscord": "2026-01-19T19:35:06.179Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7274137?gh_jid=7274137",
+      "discordThreadId": "1462893142914105398",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-product-support-representative-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-product-support-representative-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Product Support Representative",
+      "postedToDiscord": "2026-01-19T19:35:10.907Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7488554?gh_jid=7488554",
+      "discordThreadId": "1462893163072196628",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-business-development-manager-strategic-partnerships-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-business-development-manager-strategic-partnerships-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Business Development Manager - Strategic Partnerships",
+      "postedToDiscord": "2026-01-19T19:35:12.616Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7452964?gh_jid=7452964",
+      "discordThreadId": "1462893170265165950",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-program-manager-emerging-talent-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-program-manager-emerging-talent-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Program Manager, Emerging Talent",
+      "postedToDiscord": "2026-01-19T19:35:17.367Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7473481?gh_jid=7473481",
+      "discordThreadId": "1462893189697638527",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-backend-product-software-engineer-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-backend-product-software-engineer-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Backend Product Software Engineer",
+      "postedToDiscord": "2026-01-19T19:35:22.188Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/6330345?gh_jid=6330345",
+      "discordThreadId": "1462893210186551512",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-backend-product-software-engineer-reclaim-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-backend-product-software-engineer-reclaim-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Backend Product Software Engineer, Reclaim",
+      "postedToDiscord": "2026-01-19T19:35:24.059Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7384345?gh_jid=7384345",
+      "discordThreadId": "1462893217753206909",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-business-intelligence-engineer-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-business-intelligence-engineer-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Business Intelligence Engineer",
+      "postedToDiscord": "2026-01-19T19:35:25.798Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7362682?gh_jid=7362682",
+      "discordThreadId": "1462893225487372321",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1297,
+    "totalJobs": 1305,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T19:11:51.994Z",
+      "date": "2026-01-19T19:35:25.798Z",
       "archived": 0
     }
   }
