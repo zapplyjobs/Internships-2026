@@ -3661,5 +3661,27 @@
     "sourceUrl": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Data-Analytics-Intern_R25_0716",
     "discordThreadId": "1460320772206624768",
     "instanceNumber": 1
+  },
+  {
+    "id": "rocket-mortgage-data-engineer-intern-detroit-2026-01-12-1",
+    "jobId": "rocket-mortgage-data-engineer-intern-detroit",
+    "company": "Rocket Mortgage",
+    "title": "Data Engineer Intern",
+    "postedToDiscord": "2026-01-12T18:18:14.881Z",
+    "sourceDate": "2026-01-12T16:31:06.000Z",
+    "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Engineer-Intern---Summer-2026_R-081499",
+    "discordThreadId": "1460337076691271862",
+    "instanceNumber": 1
+  },
+  {
+    "id": "general-dynamics-mission-software-engineering-intern-bremerton-2026-01-12-1",
+    "jobId": "general-dynamics-mission-software-engineering-intern-bremerton",
+    "company": "General Dynamics Mission Systems",
+    "title": "Software Engineering Intern",
+    "postedToDiscord": "2026-01-12T18:18:21.294Z",
+    "sourceDate": "2026-01-12T16:29:40.000Z",
+    "sourceUrl": "https://careers-gdms.icims.com/jobs/70127/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460337106843861013",
+    "instanceNumber": 1
   }
 ]
