@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:42:49.823Z",
+  "lastUpdated": "2026-01-19T20:55:38.079Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14708,14 +14708,69 @@
       "sourceUrl": "https://www.brex.com/careers/8372597002?gh_jid=8372597002",
       "discordThreadId": "1462910179485028437",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-associate-product-counsel-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-associate-product-counsel-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Associate Product Counsel",
+      "postedToDiscord": "2026-01-19T20:55:20.503Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7477204?gh_jid=7477204",
+      "discordThreadId": "1462913335971287263",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-director-product-design-new-york-new-york-usa-2026-01-19-1",
+      "jobId": "datadog-senior-director-product-design-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Director, Product Design",
+      "postedToDiscord": "2026-01-19T20:55:24.002Z",
+      "sourceDate": "2026-01-13T12:27:52-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7376371/?gh_jid=7376371",
+      "discordThreadId": "1462913342958993682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-people-scientist-chicago-atlanta-us-national-2026-01-19-1",
+      "jobId": "stripe-people-scientist-chicago-atlanta-us-national",
+      "company": "stripe",
+      "title": "People Scientist",
+      "postedToDiscord": "2026-01-19T20:55:31.066Z",
+      "sourceDate": "2026-01-13T13:03:42-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7391250",
+      "discordThreadId": "1462913370737868851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-staff-software-engineer-payroll-platform-denver-co-san-francisco-ca-new-york-ny-seattle-wa-los-angeles-ca-2026-01-19-1",
+      "jobId": "gusto-staff-software-engineer-payroll-platform-denver-co-san-francisco-ca-new-york-ny-seattle-wa-los-angeles-ca",
+      "company": "gusto",
+      "title": "Staff Software Engineer - Payroll Platform",
+      "postedToDiscord": "2026-01-19T20:55:34.499Z",
+      "sourceDate": "2026-01-13T12:45:28-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7441084",
+      "discordThreadId": "1462913387322151065",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-infrastructure-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only-2026-01-19-1",
+      "jobId": "airtable-software-engineer-infrastructure-2-8-yoe-san-francisco-ca-new-york-ny-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Infrastructure (2-8 YOE)",
+      "postedToDiscord": "2026-01-19T20:55:38.079Z",
+      "sourceDate": "2026-01-13T11:42:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
+      "discordThreadId": "1462913402065391879",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1337,
+    "totalJobs": 1342,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T20:42:49.823Z",
+      "date": "2026-01-19T20:55:38.079Z",
       "archived": 0
     }
   }
