@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T13:46:25.552Z",
+  "lastUpdated": "2026-01-19T14:46:48.461Z",
   "jobs": [
     {
       "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
@@ -14070,14 +14070,36 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7438470?gh_jid=7438470",
       "discordThreadId": "1462805394861854761",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-cx-software-engineer-gtm-platforms-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-cx-software-engineer-gtm-platforms-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "CX Software Engineer, GTM Platforms",
+      "postedToDiscord": "2026-01-19T14:46:43.667Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7181369?gh_jid=7181369",
+      "discordThreadId": "1462820571065876583",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-data-science-engineer-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-data-science-engineer-intern-summer-2026-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Data Science Engineer Intern (Summer 2026)",
+      "postedToDiscord": "2026-01-19T14:46:48.461Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7527941?gh_jid=7527941",
+      "discordThreadId": "1462820591152136349",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1279,
+    "totalJobs": 1281,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T13:46:25.552Z",
+      "date": "2026-01-19T14:46:48.461Z",
       "archived": 0
     }
   }
