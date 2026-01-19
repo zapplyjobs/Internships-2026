@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T22:51:02.658Z",
+  "lastUpdated": "2026-01-19T23:30:00.504Z",
   "jobs": [
-    {
-      "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
-      "jobId": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view",
-      "company": "LinkedIn",
-      "title": "Apprentice Engineer - Artificial Intelligence / Machine Learning",
-      "postedToDiscord": "2026-01-12T23:16:27.313Z",
-      "sourceDate": "2026-01-12T23:03:17.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157425",
-      "discordThreadId": "1460412124579889270",
-      "instanceNumber": 1
-    },
-    {
-      "id": "linkedin-apprentice-engineer-backend-mountain-view-2026-01-12-1",
-      "jobId": "linkedin-apprentice-engineer-backend-mountain-view",
-      "company": "LinkedIn",
-      "title": "Apprentice Engineer - Backend",
-      "postedToDiscord": "2026-01-12T23:16:27.319Z",
-      "sourceDate": "2026-01-12T23:02:51.000Z",
-      "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157825",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
       "jobId": "the-coca-cola-company-data-scientist-intern-atlanta",
@@ -15104,14 +15082,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7215691",
       "discordThreadId": "1462942444994822346",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-smb-platforms-new-business-chicago-new-york-san-fransisco-2026-01-19-1",
+      "jobId": "stripe-account-executive-smb-platforms-new-business-chicago-new-york-san-fransisco",
+      "company": "stripe",
+      "title": "Account Executive, SMB Platforms (New Business)",
+      "postedToDiscord": "2026-01-19T23:29:28.632Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7339170",
+      "discordThreadId": "1462952117890187406",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-startup-platforms-existing-business-chicago-new-york-san-fransisco-2026-01-19-1",
+      "jobId": "stripe-account-executive-startup-platforms-existing-business-chicago-new-york-san-fransisco",
+      "company": "stripe",
+      "title": "Account Executive, Startup Platforms (Existing Business)",
+      "postedToDiscord": "2026-01-19T23:29:32.036Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7339700",
+      "discordThreadId": "1462952132205609126",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-aeo-geo-marketing-manager-us-2026-01-19-1",
+      "jobId": "stripe-aeo-geo-marketing-manager-us",
+      "company": "stripe",
+      "title": "AEO & GEO Marketing Manager",
+      "postedToDiscord": "2026-01-19T23:29:36.918Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7453473",
+      "discordThreadId": "1462952160164712602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-ai-solutions-architect-south-san-francisco-nyc-or-remote-2026-01-19-1",
+      "jobId": "stripe-ai-solutions-architect-south-san-francisco-nyc-or-remote",
+      "company": "stripe",
+      "title": "AI Solutions Architect",
+      "postedToDiscord": "2026-01-19T23:29:43.483Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7463694",
+      "discordThreadId": "1462952180091981960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-backend-api-engineer-money-as-a-service-us-2026-01-19-1",
+      "jobId": "stripe-backend-api-engineer-money-as-a-service-us",
+      "company": "stripe",
+      "title": "Backend/API Engineer, Money as a Service",
+      "postedToDiscord": "2026-01-19T23:29:45.202Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6176758",
+      "discordThreadId": "1462952194944008334",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-backend-engineer-core-technology-seattle-san-francisco-us-remote-2026-01-19-1",
+      "jobId": "stripe-backend-engineer-core-technology-seattle-san-francisco-us-remote",
+      "company": "stripe",
+      "title": "Backend Engineer, Core Technology",
+      "postedToDiscord": "2026-01-19T23:29:48.624Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6042172",
+      "discordThreadId": "1462952201986248735",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-backend-engineer-payments-and-risk-us-2026-01-19-1",
+      "jobId": "stripe-backend-engineer-payments-and-risk-us",
+      "company": "stripe",
+      "title": "Backend Engineer, Payments and Risk",
+      "postedToDiscord": "2026-01-19T23:29:50.375Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6163230",
+      "discordThreadId": "1462952216561455167",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-broadcast-engineer-san-francisco-ca-2026-01-19-1",
+      "jobId": "stripe-broadcast-engineer-san-francisco-ca",
+      "company": "stripe",
+      "title": "Broadcast Engineer",
+      "postedToDiscord": "2026-01-19T23:29:53.885Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6632309",
+      "discordThreadId": "1462952223884710018",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-benefits-program-manager-sf-nyc-seattle-chicago-atlanta-us-remote-2026-01-19-1",
+      "jobId": "stripe-benefits-program-manager-sf-nyc-seattle-chicago-atlanta-us-remote",
+      "company": "stripe",
+      "title": "Benefits Program Manager",
+      "postedToDiscord": "2026-01-19T23:30:00.504Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7355225",
+      "discordThreadId": "1462952251424505887",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1373,
+    "totalJobs": 1380,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T22:51:02.658Z",
+      "date": "2026-01-19T23:30:00.504Z",
       "archived": 0
     }
   }
