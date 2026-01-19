@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T14:46:48.461Z",
+  "lastUpdated": "2026-01-19T16:04:35.861Z",
   "jobs": [
     {
       "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
@@ -14092,14 +14092,25 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7527941?gh_jid=7527941",
       "discordThreadId": "1462820591152136349",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-director-of-product-new-initiatives-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-director-of-product-new-initiatives-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Director of Product, New Initiatives",
+      "postedToDiscord": "2026-01-19T16:04:35.861Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7371087?gh_jid=7371087",
+      "discordThreadId": "1462840167197970685",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1281,
+    "totalJobs": 1282,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T14:46:48.461Z",
+      "date": "2026-01-19T16:04:35.861Z",
       "archived": 0
     }
   }
