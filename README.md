@@ -115,6 +115,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 ## More Resources
 
+<img src="images/more-resources.png" alt="Jobs and templates in our other repos.">
+
 Check out our other repos for jobs and free resources:
 
 <p align="center">
