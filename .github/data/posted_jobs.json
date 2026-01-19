@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T23:48:11.766Z",
+  "lastUpdated": "2026-01-19T23:54:58.574Z",
   "jobs": [
     {
       "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
@@ -15313,14 +15313,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6558993",
       "discordThreadId": "1462956835593130152",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-deal-strategist-chicago-remote-2026-01-19-1",
+      "jobId": "stripe-deal-strategist-chicago-remote",
+      "company": "stripe",
+      "title": "Deal Strategist",
+      "postedToDiscord": "2026-01-19T23:54:29.892Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7492580",
+      "discordThreadId": "1462958414186676246",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-demo-engineer-san-francisco-2026-01-19-1",
+      "jobId": "stripe-demo-engineer-san-francisco",
+      "company": "stripe",
+      "title": "Demo Engineer ",
+      "postedToDiscord": "2026-01-19T23:54:36.378Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7390314",
+      "discordThreadId": "1462958441998848213",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-design-engineer-expansion-us-2026-01-19-1",
+      "jobId": "stripe-design-engineer-expansion-us",
+      "company": "stripe",
+      "title": "Design Engineer, Expansion",
+      "postedToDiscord": "2026-01-19T23:54:38.071Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6299301",
+      "discordThreadId": "1462958456519786568",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-design-engineer-presence-us-canada-2026-01-19-1",
+      "jobId": "stripe-design-engineer-presence-us-canada",
+      "company": "stripe",
+      "title": "Design Engineer, Presence",
+      "postedToDiscord": "2026-01-19T23:54:39.916Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7144975",
+      "discordThreadId": "1462958463444324375",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-developer-experience-engineer-privy-nyc-privy-us-remote-2026-01-19-1",
+      "jobId": "stripe-developer-experience-engineer-privy-nyc-privy-us-remote",
+      "company": "stripe",
+      "title": "Developer Experience Engineer, Privy",
+      "postedToDiscord": "2026-01-19T23:54:41.810Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7104344",
+      "discordThreadId": "1462958471640256596",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-engineering-manager-product-and-business-amer-us-2026-01-19-1",
+      "jobId": "stripe-engineering-manager-product-and-business-amer-us",
+      "company": "stripe",
+      "title": "Engineering Manager, Product and Business",
+      "postedToDiscord": "2026-01-19T23:54:43.595Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6909015",
+      "discordThreadId": "1462958479458304063",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-enterprise-solutions-architecture-manager-amer-san-francisco-ca-2026-01-19-1",
+      "jobId": "stripe-enterprise-solutions-architecture-manager-amer-san-francisco-ca",
+      "company": "stripe",
+      "title": "Enterprise Solutions Architecture Manager, AMER",
+      "postedToDiscord": "2026-01-19T23:54:46.996Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7374608",
+      "discordThreadId": "1462958486706061477",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-events-manager-event-technology-and-registration-remote-us-2026-01-19-1",
+      "jobId": "stripe-events-manager-event-technology-and-registration-remote-us",
+      "company": "stripe",
+      "title": "Events Manager, Event Technology and Registration",
+      "postedToDiscord": "2026-01-19T23:54:51.943Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7462822",
+      "discordThreadId": "1462958514216636489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-finance-and-strategy-partner-finance-corporate-development-communications-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "stripe-finance-and-strategy-partner-finance-corporate-development-communications-san-francisco-new-york-city",
+      "company": "stripe",
+      "title": "Finance and Strategy Partner, Finance, Corporate Development & Communications",
+      "postedToDiscord": "2026-01-19T23:54:58.574Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7473983",
+      "discordThreadId": "1462958534210617496",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1392,
+    "totalJobs": 1401,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T23:48:11.766Z",
+      "date": "2026-01-19T23:54:58.574Z",
       "archived": 0
     }
   }
