@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T04:07:45.919Z",
+  "lastUpdated": "2026-01-19T04:35:12.369Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -12640,14 +12640,102 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4981828008",
       "discordThreadId": "1462659763077779499",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-senior-staff-software-engineer-autonomous-agent-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-senior-staff-software-engineer-autonomous-agent-infrastructure-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Senior / Staff Software Engineer - Autonomous Agent Infrastructure",
+      "postedToDiscord": "2026-01-19T04:34:42.423Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5065894008",
+      "discordThreadId": "1462666543556198461",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-android-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-software-engineer-android-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, Android",
+      "postedToDiscord": "2026-01-19T04:34:45.884Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008",
+      "discordThreadId": "1462666557820764234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-business-technology-remote-friendly-travel-required-san-francisco-ca-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-software-engineer-business-technology-remote-friendly-travel-required-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, Business Technology ",
+      "postedToDiscord": "2026-01-19T04:34:49.243Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4982198008",
+      "discordThreadId": "1462666572756947138",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-desktop-san-francisco-ca-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-software-engineer-desktop-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, Desktop",
+      "postedToDiscord": "2026-01-19T04:34:52.562Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4980420008",
+      "discordThreadId": "1462666586812059679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-senior-staff-software-engineer-inference-new-york-city-ny-san-francisco-ca-new-york-city-ny-seattle-wa-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-senior-staff-software-engineer-inference-new-york-city-ny-san-francisco-ca-new-york-city-ny-seattle-wa-seattle-wa",
+      "company": "anthropic",
+      "title": "Senior/Staff Software Engineer, Inference",
+      "postedToDiscord": "2026-01-19T04:34:59.033Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4951696008",
+      "discordThreadId": "1462666613458211010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-beneficial-deployments-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-software-engineer-beneficial-deployments-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Software Engineer, Beneficial Deployments ",
+      "postedToDiscord": "2026-01-19T04:35:02.333Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
+      "discordThreadId": "1462666627848867920",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-software-engineer-claude-code-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-software-engineer-claude-code-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Software Engineer, Claude Code",
+      "postedToDiscord": "2026-01-19T04:35:05.802Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4816199008",
+      "discordThreadId": "1462666641723752502",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-smb-account-executive-industries-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-smb-account-executive-industries-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "SMB Account Executive, Industries",
+      "postedToDiscord": "2026-01-19T04:35:12.368Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
+      "discordThreadId": "1462666669234196542",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1149,
+    "totalJobs": 1157,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T04:07:45.919Z",
+      "date": "2026-01-19T04:35:12.369Z",
       "archived": 0
     }
   }
