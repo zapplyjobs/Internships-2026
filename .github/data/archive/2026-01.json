@@ -3617,5 +3617,49 @@
     "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268",
     "discordThreadId": "1460236641519272089",
     "instanceNumber": 1
+  },
+  {
+    "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
+    "jobId": "generate-biomedicines-machine-learning-intern-cambridge",
+    "company": "Generate Biomedicines",
+    "title": "Machine Learning Intern",
+    "postedToDiscord": "2026-01-12T17:13:12.704Z",
+    "sourceDate": "2026-01-12T16:34:16.000Z",
+    "sourceUrl": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
+    "discordThreadId": "1460320711867498792",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-coca-cola-company-cps-data-science-intern-atlanta-2026-01-12-1",
+    "jobId": "the-coca-cola-company-cps-data-science-intern-atlanta",
+    "company": "The Coca-Cola Company",
+    "title": "CPS Data Science Intern",
+    "postedToDiscord": "2026-01-12T17:13:16.574Z",
+    "sourceDate": "2026-01-12T16:28:02.000Z",
+    "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CPS-Data-Science-Intern_R-133297",
+    "discordThreadId": "1460320727499542570",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-coca-cola-company-data-analyst-emerging-category-intern-atlanta-2026-01-12-1",
+    "jobId": "the-coca-cola-company-data-analyst-emerging-category-intern-atlanta",
+    "company": "The Coca-Cola Company",
+    "title": "Data Analyst – Emerging Category Intern",
+    "postedToDiscord": "2026-01-12T17:13:23.295Z",
+    "sourceDate": "2026-01-12T16:28:09.000Z",
+    "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Analyst--Emerging-Category-Intern_R-133380",
+    "discordThreadId": "1460320756205486385",
+    "instanceNumber": 1
+  },
+  {
+    "id": "group-1001-data-analytics-intern-zionsville-2026-01-12-1",
+    "jobId": "group-1001-data-analytics-intern-zionsville",
+    "company": "Group 1001",
+    "title": "Data Analytics Intern",
+    "postedToDiscord": "2026-01-12T17:13:26.944Z",
+    "sourceDate": "2026-01-12T16:26:45.000Z",
+    "sourceUrl": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Data-Analytics-Intern_R25_0716",
+    "discordThreadId": "1460320772206624768",
+    "instanceNumber": 1
   }
 ]
