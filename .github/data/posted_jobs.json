@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:01:51.292Z",
+  "lastUpdated": "2026-01-19T17:13:27.754Z",
   "jobs": [
-    {
-      "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
-      "jobId": "generate-biomedicines-machine-learning-intern-cambridge",
-      "company": "Generate Biomedicines",
-      "title": "Machine Learning Intern",
-      "postedToDiscord": "2026-01-12T17:13:12.704Z",
-      "sourceDate": "2026-01-12T16:34:16.000Z",
-      "sourceUrl": "https://generatebiomedicines.com/open-positions?gh_jid=4643136006",
-      "discordThreadId": "1460320711867498792",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-cps-data-science-intern-atlanta-2026-01-12-1",
-      "jobId": "the-coca-cola-company-cps-data-science-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "CPS Data Science Intern",
-      "postedToDiscord": "2026-01-12T17:13:16.574Z",
-      "sourceDate": "2026-01-12T16:28:02.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/CPS-Data-Science-Intern_R-133297",
-      "discordThreadId": "1460320727499542570",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-data-analyst-emerging-category-intern-atlanta-2026-01-12-1",
-      "jobId": "the-coca-cola-company-data-analyst-emerging-category-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Data Analyst – Emerging Category Intern",
-      "postedToDiscord": "2026-01-12T17:13:23.295Z",
-      "sourceDate": "2026-01-12T16:28:09.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Analyst--Emerging-Category-Intern_R-133380",
-      "discordThreadId": "1460320756205486385",
-      "instanceNumber": 1
-    },
-    {
-      "id": "group-1001-data-analytics-intern-zionsville-2026-01-12-1",
-      "jobId": "group-1001-data-analytics-intern-zionsville",
-      "company": "Group 1001",
-      "title": "Data Analytics Intern",
-      "postedToDiscord": "2026-01-12T17:13:26.944Z",
-      "sourceDate": "2026-01-12T16:26:45.000Z",
-      "sourceUrl": "https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Data-Analytics-Intern_R25_0716",
-      "discordThreadId": "1460320772206624768",
-      "instanceNumber": 1
-    },
     {
       "id": "rocket-mortgage-data-engineer-intern-detroit-2026-01-12-1",
       "jobId": "rocket-mortgage-data-engineer-intern-detroit",
@@ -14125,6 +14081,50 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7466632?gh_jid=7466632",
       "discordThreadId": "1462854577001988108",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-data-science-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-data-science-intern-summer-2026-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Data Science Intern (Summer 2026)",
+      "postedToDiscord": "2026-01-19T17:13:19.522Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7527921?gh_jid=7527921",
+      "discordThreadId": "1462857463203102731",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-finance-transformation-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-finance-transformation-intern-summer-2026-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Finance Transformation Intern (Summer 2026)",
+      "postedToDiscord": "2026-01-19T17:13:24.325Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7510447?gh_jid=7510447",
+      "discordThreadId": "1462857483575103489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-gtm-strategy-partner-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-gtm-strategy-partner-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "GTM Strategy Partner",
+      "postedToDiscord": "2026-01-19T17:13:26.030Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7476826?gh_jid=7476826",
+      "discordThreadId": "1462857491015794810",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-industry-solutions-lead-media-creatives-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-industry-solutions-lead-media-creatives-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Industry Solutions Lead, Media & Creatives",
+      "postedToDiscord": "2026-01-19T17:13:27.754Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7065458?gh_jid=7065458",
+      "discordThreadId": "1462857498200637661",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -14132,8 +14132,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T17:01:51.292Z",
-      "archived": 0
+      "date": "2026-01-19T17:13:27.754Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
