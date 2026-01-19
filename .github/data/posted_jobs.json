@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T08:53:04.768Z",
+  "lastUpdated": "2026-01-19T09:08:41.132Z",
   "jobs": [
     {
       "id": "cadence-design-llm-ml-phd-san-jose-2026-01-12-1",
@@ -13949,14 +13949,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5613601004",
       "discordThreadId": "1462731565938512059",
       "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-support-platform-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-software-engineer-support-platform-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Software Engineer, Support Platform",
+      "postedToDiscord": "2026-01-19T09:08:07.291Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5611527004",
+      "discordThreadId": "1462735350936895634",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-trust-safety-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-software-engineer-trust-safety-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Software Engineer - Trust & Safety",
+      "postedToDiscord": "2026-01-19T09:08:10.931Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649459004",
+      "discordThreadId": "1462735365306843222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-web-performance-v0-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer (Web Performance), v0",
+      "postedToDiscord": "2026-01-19T09:08:14.280Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5704320004",
+      "discordThreadId": "1462735380527710270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-staff-data-platform-engineer-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-staff-data-platform-engineer-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Staff Data Platform Engineer",
+      "postedToDiscord": "2026-01-19T09:08:17.718Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5735704004",
+      "discordThreadId": "1462735394742206474",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-technical-support-engineer-vercel-marketplaces-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-technical-support-engineer-vercel-marketplaces-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Technical Support Engineer, Vercel Marketplaces ",
+      "postedToDiscord": "2026-01-19T09:08:21.016Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633124004",
+      "discordThreadId": "1462735408931803221",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-sr-director-of-sox-and-internal-controls-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-sr-director-of-sox-and-internal-controls-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Sr. Director of SOX and Internal Controls",
+      "postedToDiscord": "2026-01-19T09:08:27.367Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5649662004",
+      "discordThreadId": "1462735435553046682",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-startup-account-executive-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-startup-account-executive-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Startup Account Executive",
+      "postedToDiscord": "2026-01-19T09:08:30.898Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5624231004",
+      "discordThreadId": "1462735449255841793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-strategic-finance-manager-gtm-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-strategic-finance-manager-gtm-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Strategic Finance Manager, GTM",
+      "postedToDiscord": "2026-01-19T09:08:34.304Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5743232004",
+      "discordThreadId": "1462735464258863162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-staff-product-marketing-manager-v0-hybrid-san-francisco-new-york-city-austin-2026-01-19-1",
+      "jobId": "vercel-staff-product-marketing-manager-v0-hybrid-san-francisco-new-york-city-austin",
+      "company": "vercel",
+      "title": "Staff Product Marketing Manager, v0",
+      "postedToDiscord": "2026-01-19T09:08:41.131Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5722132004",
+      "discordThreadId": "1462735492809363518",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1268,
+    "totalJobs": 1277,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T08:53:04.768Z",
+      "date": "2026-01-19T09:08:41.132Z",
       "archived": 0
     }
   }
