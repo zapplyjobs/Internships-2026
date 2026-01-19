@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T08:04:42.875Z",
+  "lastUpdated": "2026-01-19T08:19:08.726Z",
   "jobs": [
-    {
-      "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
-      "jobId": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison",
-      "company": "Arrowhead Pharmaceuticals",
-      "title": "Intern - Digital Workplace AI",
-      "postedToDiscord": "2026-01-12T08:18:29.941Z",
-      "sourceDate": "2026-01-12T07:37:04.000Z",
-      "sourceUrl": "https://arrowheadpharma.com/careers/?gh_jid=5021314007",
-      "discordThreadId": "1460186146347684039",
-      "instanceNumber": 1
-    },
-    {
-      "id": "comcast-comcast-ai-research-intern-philadelphia-2026-01-12-1",
-      "jobId": "comcast-comcast-ai-research-intern-philadelphia",
-      "company": "Comcast",
-      "title": "Comcast AI Research Intern",
-      "postedToDiscord": "2026-01-12T08:18:36.565Z",
-      "sourceDate": "2026-01-12T07:31:00.000Z",
-      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-AI-Research-Intern_R427018",
-      "discordThreadId": "1460186175502549032",
-      "instanceNumber": 1
-    },
-    {
-      "id": "comcast-comcast-ai-research-intern-washington-2026-01-12-1",
-      "jobId": "comcast-comcast-ai-research-intern-washington",
-      "company": "Comcast",
-      "title": "Comcast AI Research Intern",
-      "postedToDiscord": "2026-01-12T08:18:36.568Z",
-      "sourceDate": "2026-01-12T07:30:56.000Z",
-      "sourceUrl": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/DC---Washington-1325-G-ST-NW-STE-300/Comcast-AI-Research-Intern_R425982",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
-    {
-      "id": "pitt-ohio-analytics-engineer-pittsburgh-2026-01-12-1",
-      "jobId": "pitt-ohio-analytics-engineer-pittsburgh",
-      "company": "Pitt Ohio",
-      "title": "Analytics Engineer",
-      "postedToDiscord": "2026-01-12T08:18:43.113Z",
-      "sourceDate": "2026-01-12T07:26:24.000Z",
-      "sourceUrl": "https://careers-pittohio.icims.com/jobs/3303/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460186202740101427",
-      "instanceNumber": 1
-    },
-    {
-      "id": "auto-club-business-technology-intern-remote-in-usa-2026-01-12-1",
-      "jobId": "auto-club-business-technology-intern-remote-in-usa",
-      "company": "Auto Club Group ",
-      "title": "Business Technology Intern",
-      "postedToDiscord": "2026-01-12T08:18:46.521Z",
-      "sourceDate": "2026-01-12T07:24:40.000Z",
-      "sourceUrl": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Business-Technology-Intern_JR14476",
-      "discordThreadId": "1460186217629880352",
-      "instanceNumber": 1
-    },
-    {
-      "id": "auto-club-data-strategy-engineering-intern-remote-in-usa-2026-01-12-1",
-      "jobId": "auto-club-data-strategy-engineering-intern-remote-in-usa",
-      "company": "Auto Club Group ",
-      "title": "Data Strategy Engineering Intern",
-      "postedToDiscord": "2026-01-12T08:18:49.809Z",
-      "sourceDate": "2026-01-12T07:24:37.000Z",
-      "sourceUrl": "https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Data-Strategy-Engineering-Intern_JR14492",
-      "discordThreadId": "1460186231731388634",
-      "instanceNumber": 1
-    },
     {
       "id": "cadence-design-llm-ml-phd-san-jose-2026-01-12-1",
       "jobId": "cadence-design-llm-ml-phd-san-jose",
@@ -13784,14 +13718,91 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5637558004",
       "discordThreadId": "1462719394357579897",
       "instanceNumber": 1
+    },
+    {
+      "id": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-fraud-specialist-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Fraud Specialist",
+      "postedToDiscord": "2026-01-19T08:18:38.146Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5579431004",
+      "discordThreadId": "1462722896375058443",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-it-infrastructure-engineer-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-it-infrastructure-engineer-hybrid-san-francisco",
+      "company": "vercel",
+      "title": " IT Infrastructure Engineer ",
+      "postedToDiscord": "2026-01-19T08:18:41.617Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5623421004",
+      "discordThreadId": "1462722911906304073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-product-engineer-v0-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Product Engineer – v0",
+      "postedToDiscord": "2026-01-19T08:18:45.025Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5466858004",
+      "discordThreadId": "1462722926389362701",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-manager-customer-support-engineering-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-manager-customer-support-engineering-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Manager, Customer Support Engineering",
+      "postedToDiscord": "2026-01-19T08:18:51.555Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5737697004",
+      "discordThreadId": "1462722953421787190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-mobile-engineer-hybrid-new-york-city-2026-01-19-1",
+      "jobId": "vercel-mobile-engineer-hybrid-new-york-city",
+      "company": "vercel",
+      "title": "Mobile Engineer",
+      "postedToDiscord": "2026-01-19T08:18:55.284Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5719796004",
+      "discordThreadId": "1462722968508567636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-manager-of-sales-engineering-majors-commercial-amer-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Manager of Sales Engineering, Majors/Commercial - AMER",
+      "postedToDiscord": "2026-01-19T08:19:02.070Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5631091004",
+      "discordThreadId": "1462722996706869339",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco-2026-01-19-1",
+      "jobId": "vercel-platform-abuse-operations-lead-trust-safety-hybrid-san-francisco",
+      "company": "vercel",
+      "title": "Platform Abuse Operations Lead, Trust & Safety",
+      "postedToDiscord": "2026-01-19T08:19:08.725Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5654653004",
+      "discordThreadId": "1462723025119219759",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1253,
+    "totalJobs": 1254,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T08:04:42.875Z",
+      "date": "2026-01-19T08:19:08.726Z",
       "archived": 0
     }
   }
