@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T07:48:46.574Z",
+  "lastUpdated": "2026-01-19T07:57:06.057Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -13509,14 +13509,113 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7260578?gh_jid=7260578",
       "discordThreadId": "1462715390164471840",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-infrastructure-software-engineer-metadata-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-infrastructure-software-engineer-metadata-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Staff Infrastructure Software Engineer, Metadata",
+      "postedToDiscord": "2026-01-19T07:56:35.783Z",
+      "sourceDate": "2026-01-14T06:51:52-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7066570?gh_jid=7066570",
+      "discordThreadId": "1462717358274514997",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-backend-product-software-engineer-core-intelligence-media-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-backend-product-software-engineer-core-intelligence-media-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Backend Product Software Engineer, Core Intelligence & Media",
+      "postedToDiscord": "2026-01-19T07:56:37.448Z",
+      "sourceDate": "2026-01-14T06:51:50-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/6936183?gh_jid=6936183",
+      "discordThreadId": "1462717365354496186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-salesforce-developer-managed-storefront-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-salesforce-developer-managed-storefront-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Salesforce Developer, Managed Storefront",
+      "postedToDiscord": "2026-01-19T07:56:39.149Z",
+      "sourceDate": "2026-01-13T19:01:36-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7341926?gh_jid=7341926",
+      "discordThreadId": "1462717372019376174",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-smb-figma-weave-new-york-united-states-new-york-ny-united-states-2026-01-19-1",
+      "jobId": "figma-account-executive-smb-figma-weave-new-york-united-states-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Account Executive, SMB - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-19T07:56:45.652Z",
+      "sourceDate": "2026-01-14T04:19:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759582004?gh_jid=5759582004",
+      "discordThreadId": "1462717392311550193",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-mid-market-figma-weave-new-york-united-states-new-york-ny-united-states-2026-01-19-1",
+      "jobId": "figma-account-executive-mid-market-figma-weave-new-york-united-states-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Account Executive, Mid-Market - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-19T07:56:49.020Z",
+      "sourceDate": "2026-01-14T04:19:29-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5755146004?gh_jid=5755146004",
+      "discordThreadId": "1462717406727377007",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-account-manager-atlanta-chicago-new-york-city-san-francisco-seattle-us-remote-2026-01-19-1",
+      "jobId": "stripe-technical-account-manager-atlanta-chicago-new-york-city-san-francisco-seattle-us-remote",
+      "company": "stripe",
+      "title": "Technical Account Manager",
+      "postedToDiscord": "2026-01-19T07:56:52.615Z",
+      "sourceDate": "2026-01-13T21:51:06-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6458492",
+      "discordThreadId": "1462717421340065876",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-manager-sharing-and-virality-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-product-manager-sharing-and-virality-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Staff Product Manager, Sharing and Virality",
+      "postedToDiscord": "2026-01-19T07:56:57.484Z",
+      "sourceDate": "2026-01-14T03:02:11-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7469402?gh_jid=7469402",
+      "discordThreadId": "1462717449022472258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-manager-sharing-virality-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-product-manager-sharing-virality-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Product Manager, Sharing & Virality",
+      "postedToDiscord": "2026-01-19T07:56:59.197Z",
+      "sourceDate": "2026-01-14T03:02:11-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7469404?gh_jid=7469404",
+      "discordThreadId": "1462717456220160190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategic-program-manager-support-us-remote-chicago-2026-01-19-1",
+      "jobId": "stripe-strategic-program-manager-support-us-remote-chicago",
+      "company": "stripe",
+      "title": "Strategic Program Manager - Support",
+      "postedToDiscord": "2026-01-19T07:57:06.057Z",
+      "sourceDate": "2026-01-13T20:13:10-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7249436",
+      "discordThreadId": "1462717476943953950",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1228,
+    "totalJobs": 1237,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T07:48:46.574Z",
+      "date": "2026-01-19T07:57:06.057Z",
       "archived": 0
     }
   }
