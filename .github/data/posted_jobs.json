@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T08:34:10.158Z",
+  "lastUpdated": "2026-01-19T08:53:04.768Z",
   "jobs": [
     {
       "id": "cadence-design-llm-ml-phd-san-jose-2026-01-12-1",
@@ -13894,14 +13894,69 @@
       "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5752684004",
       "discordThreadId": "1462726805197815828",
       "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-ai-sdk-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-ai-sdk-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer, AI SDK",
+      "postedToDiscord": "2026-01-19T08:52:51.016Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5474915004",
+      "discordThreadId": "1462731506123407434",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-cdn-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-cdn-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer, CDN",
+      "postedToDiscord": "2026-01-19T08:52:54.642Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5179639004",
+      "discordThreadId": "1462731522816868364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-ci-cd-hybrid-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-ci-cd-hybrid-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer, CI/CD",
+      "postedToDiscord": "2026-01-19T08:52:58.079Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5532030004",
+      "discordThreadId": "1462731537412919509",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-deployment-infrastructure-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-deployment-infrastructure-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer, Deployment Infrastructure",
+      "postedToDiscord": "2026-01-19T08:53:01.460Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5633880004",
+      "discordThreadId": "1462731551744852123",
+      "instanceNumber": 1
+    },
+    {
+      "id": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city-2026-01-19-1",
+      "jobId": "vercel-software-engineer-growth-hybrid-san-francisco-new-york-city",
+      "company": "vercel",
+      "title": "Software Engineer, Growth",
+      "postedToDiscord": "2026-01-19T08:53:04.768Z",
+      "sourceDate": "2026-01-13T18:09:59-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/vercel/jobs/5613601004",
+      "discordThreadId": "1462731565938512059",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1263,
+    "totalJobs": 1268,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T08:34:10.158Z",
+      "date": "2026-01-19T08:53:04.768Z",
       "archived": 0
     }
   }
