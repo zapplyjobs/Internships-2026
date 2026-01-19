@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:48:11.630Z",
+  "lastUpdated": "2026-01-19T05:59:20.979Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -12981,14 +12981,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
       "discordThreadId": "1462685036649386057",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-latam-financial-services-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+      "jobId": "anthropic-strategic-account-executive-latam-financial-services-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, LATAM Financial Services",
+      "postedToDiscord": "2026-01-19T05:58:43.606Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041301008",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-retail-commercial-banking-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-strategic-account-executive-retail-commercial-banking-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Retail & Commercial Banking",
+      "postedToDiscord": "2026-01-19T05:58:47.029Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041299008",
+      "discordThreadId": "1462687702658056389",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-startups-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+      "jobId": "anthropic-strategic-account-executive-startups-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Startups",
+      "postedToDiscord": "2026-01-19T05:58:50.593Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4979834008",
+      "discordThreadId": "1462687717086462074",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategy-and-messaging-communications-lead-narrative-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-strategy-and-messaging-communications-lead-narrative-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": " Strategy and Messaging Communications Lead, Narrative",
+      "postedToDiscord": "2026-01-19T05:58:54.107Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4985093008",
+      "discordThreadId": "1462687731946885192",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-accounting-new-york-city-ny-san-francisco-ca-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-technical-accounting-new-york-city-ny-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Technical Accounting",
+      "postedToDiscord": "2026-01-19T05:58:57.486Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4963718008",
+      "discordThreadId": "1462687746479886503",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-support-operations-specialist-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-support-operations-specialist-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Support Operations Specialist",
+      "postedToDiscord": "2026-01-19T05:59:04.268Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4983644008",
+      "discordThreadId": "1462687773470228596",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-systems-integrity-security-architect-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-systems-integrity-security-architect-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Systems Integrity Security Architect",
+      "postedToDiscord": "2026-01-19T05:59:10.937Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4929689008",
+      "discordThreadId": "1462687802235031746",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-cbrn-e-threat-investigator-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-technical-cbrn-e-threat-investigator-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Technical CBRN-E  Threat Investigator ",
+      "postedToDiscord": "2026-01-19T05:59:17.441Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066997008",
+      "discordThreadId": "1462687829980348428",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-cyber-threat-investigator-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-technical-cyber-threat-investigator-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Technical Cyber Threat Investigator ",
+      "postedToDiscord": "2026-01-19T05:59:20.978Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
+      "discordThreadId": "1462687844542709837",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1180,
+    "totalJobs": 1189,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T05:48:11.630Z",
+      "date": "2026-01-19T05:59:20.979Z",
       "archived": 0
     }
   }
