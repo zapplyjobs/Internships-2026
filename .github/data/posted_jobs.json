@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:59:20.979Z",
+  "lastUpdated": "2026-01-19T06:45:37.743Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -13080,14 +13080,47 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5066995008",
       "discordThreadId": "1462687844542709837",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-technical-program-manager-claude-experiences-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Claude Experiences",
+      "postedToDiscord": "2026-01-19T06:45:31.006Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062968008",
+      "discordThreadId": "1462699461708091534",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-technical-program-manager-inference-san-francisco-ca-seattle-wa",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Inference",
+      "postedToDiscord": "2026-01-19T06:45:34.411Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4913784008",
+      "discordThreadId": "1462699477797441618",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa-2026-01-19-1",
+      "jobId": "anthropic-technical-program-manager-launches-san-francisco-ca-new-york-city-ny-seattle-wa",
+      "company": "anthropic",
+      "title": "Technical Program Manager, Launches",
+      "postedToDiscord": "2026-01-19T06:45:37.742Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5062960008",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1189,
+    "totalJobs": 1192,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T05:59:20.979Z",
+      "date": "2026-01-19T06:45:37.743Z",
       "archived": 0
     }
   }
