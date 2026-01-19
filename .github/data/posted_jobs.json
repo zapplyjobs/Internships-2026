@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T00:06:52.388Z",
+  "lastUpdated": "2026-01-19T01:17:11.883Z",
   "jobs": [
     {
       "id": "10x-genomics-finance-data-analytics-intern-pleasanton-2026-01-12-1",
@@ -12376,14 +12376,25 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5055669008",
       "discordThreadId": "1462599141170614414",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny-2026-01-19-1",
+      "jobId": "anthropic-product-marketing-manager-claude-code-san-francisco-ca-new-york-city-ny",
+      "company": "anthropic",
+      "title": "Product Marketing Manager, Claude Code",
+      "postedToDiscord": "2026-01-19T01:17:11.882Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996752008",
+      "discordThreadId": "1462616838599868598",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1125,
+    "totalJobs": 1126,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T00:06:52.388Z",
+      "date": "2026-01-19T01:17:11.883Z",
       "archived": 0
     }
   }
