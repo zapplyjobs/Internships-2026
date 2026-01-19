@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:44:56.055Z",
+  "lastUpdated": "2026-01-19T19:53:36.578Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14400,14 +14400,102 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7469396?gh_jid=7469396",
       "discordThreadId": "1462895616861667447",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-data-scientist-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-data-scientist-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Data Scientist",
+      "postedToDiscord": "2026-01-19T19:53:14.842Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7294188?gh_jid=7294188",
+      "discordThreadId": "1462897708959400121",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-infrastructure-software-engineer-dash-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-infrastructure-software-engineer-dash-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Infrastructure Software Engineer, Dash",
+      "postedToDiscord": "2026-01-19T19:53:16.620Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7438695?gh_jid=7438695",
+      "discordThreadId": "1462897716404158610",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-infrastructure-software-engineer-storage-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-infrastructure-software-engineer-storage-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Infrastructure Software Engineer, Storage",
+      "postedToDiscord": "2026-01-19T19:53:18.391Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7336425?gh_jid=7336425",
+      "discordThreadId": "1462897723849179198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-ios-software-engineer-design-systems-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-ios-software-engineer-design-systems-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior iOS Software Engineer, Design Systems",
+      "postedToDiscord": "2026-01-19T19:53:20.153Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7274110?gh_jid=7274110",
+      "discordThreadId": "1462897731486880047",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-machine-learning-engineer-dash-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-machine-learning-engineer-dash-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Machine Learning Engineer, Dash ",
+      "postedToDiscord": "2026-01-19T19:53:21.857Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7384394?gh_jid=7384394",
+      "discordThreadId": "1462897738827038771",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-director-of-product-marketing-dropbox-core-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-director-of-product-marketing-dropbox-core-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Director of Product Marketing, Dropbox Core",
+      "postedToDiscord": "2026-01-19T19:53:26.738Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7127856?gh_jid=7127856",
+      "discordThreadId": "1462897758938861754",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-employee-relations-business-partner-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-employee-relations-business-partner-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Employee Relations Business Partner",
+      "postedToDiscord": "2026-01-19T19:53:31.617Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7440942?gh_jid=7440942",
+      "discordThreadId": "1462897779398410374",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-manager-product-design-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-manager-product-design-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Manager, Product Design",
+      "postedToDiscord": "2026-01-19T19:53:36.578Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/6874591?gh_jid=6874591",
+      "discordThreadId": "1462897799908692143",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1309,
+    "totalJobs": 1317,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T19:44:56.055Z",
+      "date": "2026-01-19T19:53:36.578Z",
       "archived": 0
     }
   }
