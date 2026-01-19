@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7521170",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Help increase the GDP of the internet as part of our Legal team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7521170",
+      "fetchedAt": "2026-01-19T20:55:11.395Z"
+    }
+  },
+  "cachedAt": 1768856111396
+}
