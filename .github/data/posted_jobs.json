@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T16:04:35.861Z",
+  "lastUpdated": "2026-01-19T17:01:51.292Z",
   "jobs": [
     {
       "id": "generate-biomedicines-machine-learning-intern-cambridge-2026-01-12-1",
@@ -14103,14 +14103,36 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7371087?gh_jid=7371087",
       "discordThreadId": "1462840167197970685",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-data-scientist-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-data-scientist-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Data Scientist",
+      "postedToDiscord": "2026-01-19T17:01:49.520Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7486226?gh_jid=7486226",
+      "discordThreadId": "1462854569225879613",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-engineering-manager-docsend-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-engineering-manager-docsend-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Engineering Manager, DocSend",
+      "postedToDiscord": "2026-01-19T17:01:51.292Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7466632?gh_jid=7466632",
+      "discordThreadId": "1462854577001988108",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1282,
+    "totalJobs": 1284,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T16:04:35.861Z",
+      "date": "2026-01-19T17:01:51.292Z",
       "archived": 0
     }
   }
