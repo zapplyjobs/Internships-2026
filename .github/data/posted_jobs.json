@@ -1,29 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:42:24.258Z",
+  "lastUpdated": "2026-01-19T19:11:51.994Z",
   "jobs": [
-    {
-      "id": "rocket-mortgage-data-engineer-intern-detroit-2026-01-12-1",
-      "jobId": "rocket-mortgage-data-engineer-intern-detroit",
-      "company": "Rocket Mortgage",
-      "title": "Data Engineer Intern",
-      "postedToDiscord": "2026-01-12T18:18:14.881Z",
-      "sourceDate": "2026-01-12T16:31:06.000Z",
-      "sourceUrl": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Engineer-Intern---Summer-2026_R-081499",
-      "discordThreadId": "1460337076691271862",
-      "instanceNumber": 1
-    },
-    {
-      "id": "general-dynamics-mission-software-engineering-intern-bremerton-2026-01-12-1",
-      "jobId": "general-dynamics-mission-software-engineering-intern-bremerton",
-      "company": "General Dynamics Mission Systems",
-      "title": "Software Engineering Intern",
-      "postedToDiscord": "2026-01-12T18:18:21.294Z",
-      "sourceDate": "2026-01-12T16:29:40.000Z",
-      "sourceUrl": "https://careers-gdms.icims.com/jobs/70127/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460337106843861013",
-      "instanceNumber": 1
-    },
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
       "jobId": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara",
@@ -14235,14 +14213,69 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7142064?gh_jid=7142064",
       "discordThreadId": "1462864781831573585",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-product-manager-media-collaboration-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-product-manager-media-collaboration-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Principal Product Manager, Media Collaboration",
+      "postedToDiscord": "2026-01-19T19:11:41.791Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7384630?gh_jid=7384630",
+      "discordThreadId": "1462887252647612456",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-software-engineer-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-software-engineer-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Principal Software Engineer",
+      "postedToDiscord": "2026-01-19T19:11:46.616Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7324928?gh_jid=7324928",
+      "discordThreadId": "1462887272759431210",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-principal-software-engineer-developer-productivity-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-principal-software-engineer-developer-productivity-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Principal Software Engineer, Developer Productivity",
+      "postedToDiscord": "2026-01-19T19:11:48.357Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7294100?gh_jid=7294100",
+      "discordThreadId": "1462887280363438275",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-program-manager-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-program-manager-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Program Manager",
+      "postedToDiscord": "2026-01-19T19:11:50.095Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7421208?gh_jid=7421208",
+      "discordThreadId": "1462887287577645194",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-android-software-engineer-mobile-experience-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-android-software-engineer-mobile-experience-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Android Software Engineer, Mobile Experience",
+      "postedToDiscord": "2026-01-19T19:11:51.993Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7466465?gh_jid=7466465",
+      "discordThreadId": "1462887295211278589",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1294,
+    "totalJobs": 1297,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T17:42:24.258Z",
+      "date": "2026-01-19T19:11:51.994Z",
       "archived": 0
     }
   }
