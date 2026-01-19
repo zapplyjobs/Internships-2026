@@ -14,176 +14,6 @@
     "description_success": true
   },
   {
-    "job_title": "Account Executive, Product Sales (BaaS)",
-    "employer_name": "stripe",
-    "job_city": "SF, NYC, remote",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7456716",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-account-executive-product-sales-baas-sf-nyc-remote",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7456716",
-    "title": "Account Executive, Product Sales (BaaS)",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "SF, NYC, remote",
-    "locations": [
-      "SF, NYC, remote"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7456716",
-    "departments": [
-      "1642 Product Sales - MaaS"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is investing in building out its Banking-as-a-Service (BaaS) Product Sales team to actively engage prospects and customers to help them transform their business through building on Stripe’s platform.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Stripe&#39;s global Product Sales team is at the forefront of driving revenue and growth. As trusted business partners, our goal is to help users understand Stripe products and integrate them with ease so they can concentrate on what&#39;s most important to them: their business. We&#39;re known for our product expertise, rigorous thinking, and user-first approach to problem solving. Within Stripe, Product Sales proudly serves as a critical source of user feedback and market intelligence, with direct influence on Stripe’s product roadmap and growth strategy.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As an Account Executive, BaaS, you will use your sales and product expertise to help drive growth of Stripe’s BaaS (Issuing, Capital, &amp;amp; Treasury) products across a range of customers. You will collaborate with product, engineering, marketing, and other GTM teams to develop deep product and industry knowledge and drive complex deals. You will be instrumental in leading in depth product discussions with existing and prospective customers – and building and executing against our go to market strategy.&lt;/p&gt;\n&lt;p&gt;You are an adept sales professional, capable of engaging in business-level and technical conversations at multiple levels of the organization. You are used to building value in competitive situations and enjoy working on products that require deep product understanding, combined with technical knowledge. You’re as comfortable working with clients as with internal stakeholders. You’re excited to become an expert and to share your knowledge. You’re an organized self-starter, an excellent communicator who is analytical and has a track record for improving the processes and organizations around you.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Accountable for driving revenue, increasing attach rates, and new client acquisition for a wide range of customers including SMBs, Startups, and Digital Natives&lt;/li&gt;\n&lt;li&gt;Create your territory plan and lead outbound outreach efforts to develop a robust, qualified BaaS pipeline&lt;/li&gt;\n&lt;li&gt;Develop relationships with executive stakeholders and lead discussions with existing and prospective BaaS customers&lt;/li&gt;\n&lt;li&gt;Deeply understand the sales process and competitors for Stripe Issuing, Capital, &amp;amp; Treasury and serve as both an internal and customer-facing expert in these product areas&lt;/li&gt;\n&lt;li&gt;Engage with Product and Engineering teams to synthesize and relay customer feedback and our findings to inform Stripe’s product roadmap&lt;/li&gt;\n&lt;li&gt;Contribute to the development of go-to-market playbooks alongside product, marketing, sales, and technical services stakeholders&lt;/li&gt;\n&lt;li&gt;Work collaboratively and cross-functionally across the organization to help shape Stripe’s products and solutions to meet customer needs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of customer facing experience at a leading technology or payments company and a track record of top performance&lt;/li&gt;\n&lt;li&gt;Experience building trusted advisor relationships with senior business leaders&lt;/li&gt;\n&lt;li&gt;Proven ability to build strong collaborative working relationships with cross-functional business partners&lt;/li&gt;\n&lt;li&gt;Self-starter capable of operating independently to drive meaningful business results&lt;/li&gt;\n&lt;li&gt;Enthusiastic “roll up your sleeves” mentality&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;\n&lt;li&gt;Ability to understand complex technical requirements and craft solutions across multiple stakeholders&lt;/li&gt;\n&lt;li&gt;Proven experience to lead complex negotiations involving bespoke commercial agreements&lt;/li&gt;\n&lt;li&gt;Thrives in a fast-paced environment and changing requirements&lt;/li&gt;\n&lt;li&gt;True team player - always&lt;/li&gt;\n&lt;li&gt;Humor is very welcomed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience specifically selling payments / banking solutions&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7456716
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Account Executive, Product Sales, Billing ",
-    "employer_name": "stripe",
-    "job_city": "South San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7141701",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-account-executive-product-sales-billing-south-san-francisco-ca-new-york-ny-seattle-wa-chicago-il",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7141701",
-    "title": "Account Executive, Product Sales, Billing ",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "South San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL",
-    "locations": [
-      "South San Francisco, CA; New York, NY; Seattle, WA; Chicago, IL"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7141701",
-    "departments": [
-      "1643 Product Sales - Billing"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As a Billing Account Executive at Stripe, you will use your sales and product expertise to help drive growth through both existing and new to Stripe customers. You will collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You will be instrumental in leading in depth product discussions with existing and prospective customers – and building and executing against our go to market strategy.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive revenue to achieve and over perform on target and KPIs&lt;/li&gt;\n&lt;li&gt;Lead new sales and upsell conversations of Stripe for existing and prospective customers.&lt;/li&gt;\n&lt;li&gt;Drive strategic thought leadership within assigned territory to ensure user success and revenue growth&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Deeply understand the sales process and competitors for Stripe, including software, hardware and payments.&lt;/li&gt;\n&lt;li&gt;Serve as both an internal and customer-facing expert on Stripe, especially for your specialized products.&lt;/li&gt;\n&lt;li&gt;Synthesize and relay customer feedback and our findings to inform Stripe’s product roadmap.&lt;/li&gt;\n&lt;li&gt;Engage with Product, Marketing and User Operations teams to help amplify our growth trajectory.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You are an adept salesperson, capable of engaging in business-level and technical conversations at multiple levels of the organization, including CEO, CFO, and CTO. You are used to building value in competitive situations and enjoy working on products that require deep product understanding, combined with technical knowledge. You’re as comfortable working with clients as with internal stakeholders (including executives). You’re excited to become an expert and to share your knowledge. You’re an organized self-starter, an excellent communicator who is highly analytical and has a track record for improving the processes and organizations around you.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;8+ years of sales or prospecting experience at a technology company and a track record of top performance.&lt;/li&gt;\n&lt;li&gt;Owning a direct sales quota, with direct sales experience closing new business and/or expansion of existing users.&lt;/li&gt;\n&lt;li&gt;A proven ability to build strong collaborative working relationships with business partners.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;The ability to deal effectively with ambiguity and thrive in an unstructured, fast-moving environment.&lt;/li&gt;\n&lt;li&gt;A proven ability to be a self-starter capable of driving business results without significant supervision.&lt;/li&gt;\n&lt;li&gt;An enthusiastic “roll up your sleeves” mentality.&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills.&lt;/li&gt;\n&lt;li&gt;Strong presentation skills, particularly for in-person meetings with multiple stakeholders.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proven ability to lead complex negotiations involving bespoke commercial agreements.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Ability to understand complex technical requirements and craft solutions across multiple stakeholders.&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience specifically selling financial services or similar software.&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Experience in selling billing solutions.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Proven ability to sell in a fast paced environment.&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7141701
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Account Executive, Product Sales, Optimized Checkout",
-    "employer_name": "stripe",
-    "job_city": "Remote",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7455982",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-account-executive-product-sales-optimized-checkout-remote",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7455982",
-    "title": "Account Executive, Product Sales, Optimized Checkout",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "Remote",
-    "locations": [
-      "Remote"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7455982",
-    "departments": [
-      "1640 Product Sales - Payments"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;h3&gt;About Stripe&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;About the team&lt;/h3&gt;\n&lt;p&gt;Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe is investing in building out its Payments Product Sales team and as an Account Executive&amp;nbsp; you will be a critical part of the team driving the growth of Stripe’s Optimized Checkout Suite.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;As an Account Executive, Optimized Checkout, you will use your sales and product expertise to help drive growth of Stripe’s payment across a range of customers. You will collaborate with product, engineering, marketing, and other GTM teams to develop deep product and industry knowledge and drive complex deals. You will be instrumental in leading in depth product discussions with existing and prospective customers – and building and executing against our go to market strategy.&lt;/p&gt;\n&lt;p&gt;You are an adept sales professional, capable of engaging in business-level and technical conversations at multiple levels of the organization. You are used to building value in competitive situations and enjoy working on products that require deep product understanding, combined with technical knowledge. You’re as comfortable working with clients as with internal stakeholders. You’re excited to become an expert and to share your knowledge. You are an organized self-starter and an exceptional communicator with strong analytical abilities and a proven history of top performance and improving the teams you join.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Accountable for driving revenue, increasing attach rates, and new client acquisition for a wide range of customers including Enterprises and Platforms&lt;/li&gt;\n&lt;li&gt;Create your strategic territory plan and lead outreach efforts to develop a robust, qualified pipeline&lt;/li&gt;\n&lt;li&gt;Develop relationships with executive stakeholders and lead discussions with existing and prospective customers&lt;/li&gt;\n&lt;li&gt;Deeply understand Stripe Payments, our Optimized Checkout Suite, and competitors, serving as both an internal and customer-facing expert on our product and the market&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Engage with Product and Engineering teams to synthesize and relay customer feedback to inform Stripe’s product roadmap&lt;/li&gt;\n&lt;li&gt;Contribute to the development of go-to-market playbooks alongside product, marketing, sales, and technical services stakeholders&lt;/li&gt;\n&lt;li&gt;Work collaboratively and cross-functionally across the organization to help shape Stripe’s products and solutions to meet customer needs&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;7+ years of customer facing experience at a leading technology or payments company and a track record of top performance&lt;/li&gt;\n&lt;li&gt;Experience building trusted advisor relationships with senior business leaders&lt;/li&gt;\n&lt;li&gt;Proven ability to build strong collaborative working relationships with cross-functional business partners&lt;/li&gt;\n&lt;li&gt;Self-starter capable of operating independently to drive meaningful business results&lt;/li&gt;\n&lt;li&gt;Enthusiastic “roll up your sleeves” mentality&lt;/li&gt;\n&lt;li&gt;Excellent verbal and written communication skills&lt;/li&gt;\n&lt;li&gt;Ability to understand complex technical requirements and craft solutions across multiple stakeholders&lt;/li&gt;\n&lt;li&gt;Proven experience to lead complex negotiations involving bespoke commercial agreements&lt;/li&gt;\n&lt;li&gt;Thrives in a fast-paced environment and changing requirements&lt;/li&gt;\n&lt;li&gt;True team player - always&lt;/li&gt;\n&lt;li&gt;Humor is very welcomed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;3+ years of experience specifically selling payments or technology solutions to enterprise customers&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7455982
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Account Executive, Product Sales (Radar)",
-    "employer_name": "stripe",
-    "job_city": "New York, Chicago, San Francisco and Seattle",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7302534",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-account-executive-product-sales-radar-new-york-chicago-san-francisco-and-seattle",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7302534",
-    "title": "Account Executive, Product Sales (Radar)",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "New York, Chicago, San Francisco and Seattle",
-    "locations": [
-      "New York, Chicago, San Francisco and Seattle"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7302534",
-    "departments": [
-      "1640 Product Sales - Payments"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe&lt;br&gt;is investing in building out its Radar Product Sales team and as an Account Executive you will be a critical part of the team driving the growth of this product.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;As an Account Executive, Product focusing on Stripe Radar, you will use your sales and product expertise to help drive product market fit &amp;amp; growth of Stripe’s fraud fighting products and solutions. You will collaborate with product, engineering and marketing teams to develop deep product and industry knowledge and drive strategic deals. You will be instrumental in leading in depth product discussions with existing and prospect users globally – and building and executing against our go to market strategy.&lt;/p&gt;\n&lt;p&gt;You are an adept salesperson, capable of engaging in business-level and technical conversations at multiple levels of the organization, including CEOs, CTOs, and Chief Risk Officers. You are used to building value in competitive situations and enjoy working on products that require deep product understanding. You’re as comfortable working with clients as with internal stakeholders (including executives). You’re excited to become an expert and to share your knowledge. You’re an organized self-starter, an excellent communicator who is highly analytical and has a track record for improving the processes and organizations around you.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive new business and revenue growth by selling Radar to a variety of businesses&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Lead complex new and expansion deals related to Stripe’s Radar product offerings, capabilities, and tailored solutions&lt;/li&gt;\n&lt;li&gt;Deeply understand the sales process and what competitors offer in terms of fraud fighting capabilities, with a strong emphasis to overcoming competition to win all deals&lt;/li&gt;\n&lt;li&gt;Synthesize and relay customer feedback and findings to inform Stripe’s product roadmap&lt;/li&gt;\n&lt;li&gt;Engage with Product, Marketing and Account teams to help amplify our growth trajectory globally&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of customer facing experience at a leading technology or payments company and a track record of top performance, working specifically on enterprise or strategic accounts&lt;/li&gt;\n&lt;li&gt;Display a deep passion for fraud prevention and develop deep expertise&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A proven ability to build strong collaborative working relationships with business partners internally and externally&lt;/li&gt;\n&lt;li&gt;The ability to deal effectively with ambiguity and thrive in an unstructured, fast-moving environment&lt;/li&gt;\n&lt;li&gt;Experience building trusted advisor relationships with senior business leaders&lt;/li&gt;\n&lt;li&gt;Self-starter capable of operating independently to drive meaningful business results&lt;/li&gt;\n&lt;li&gt;Ability to understand complex technical requirements and craft solutions across multiple stakeholders&lt;/li&gt;\n&lt;li&gt;Proven experience to lead complex negotiations involving bespoke commercial agreements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;5+ years of experience specifically selling fraud solutions for payments to enterprise customers&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7302534
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
-    "job_title": "Account Executive, Product Sales, Radar (NYC)",
-    "employer_name": "stripe",
-    "job_city": "New York, NY",
-    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7215691",
-    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
-    "job_description": "Help increase the GDP of the internet as part of our Sales team.",
-    "id": "stripe-account-executive-product-sales-radar-nyc-new-york-ny",
-    "source": "greenhouse",
-    "source_url": "boards-api.greenhouse.io",
-    "source_id": "7215691",
-    "title": "Account Executive, Product Sales, Radar (NYC)",
-    "company_name": "stripe",
-    "company_slug": "stripe",
-    "location": "New York, NY",
-    "locations": [
-      "New York, NY"
-    ],
-    "url": "https://stripe.com/jobs/search?gh_jid=7215691",
-    "departments": [
-      "1640 Product Sales - Payments"
-    ],
-    "employment_type": null,
-    "posted_at": "2026-01-12T16:58:24-05:00",
-    "fetched_at": "2026-01-17T04:05:15.556Z",
-    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe’s portfolio. Stripe is investing in building out its Radar Product Sales team and as an Account Executive you will be a critical part of the team driving the growth of this product.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;As an Account Executive, Product focusing on Stripe Radar, you will use your sales and product expertise to help drive product market fit &amp;amp; growth of Stripe’s fraud fighting products and solutions. You will collaborate with product, engineering and marketing teams to develop deep product and industry knowledge and drive strategic deals. You will be instrumental in leading in depth product discussions with existing and prospect users globally – and building and executing against our go to market strategy.&lt;/p&gt;\n&lt;p&gt;You are an adept salesperson, capable of engaging in business-level and technical conversations at multiple levels of the organization, including CEOs, CTOs, and Chief Risk Officers. You are used to building value in competitive situations and enjoy working on products that require deep product understanding. You’re as comfortable working with clients as with internal stakeholders (including executives). You’re excited to become an expert and to share your knowledge. You’re an organized self-starter, an excellent communicator who is highly analytical and has a track record for improving the processes and organizations around you.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Drive new business and revenue growth by selling Radar to a variety of businesses&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Lead complex new and expansion deals related to Stripe’s Radar product offerings, capabilities, and tailored solutions&lt;/li&gt;\n&lt;li&gt;Deeply understand the sales process and what competitors offer in terms of fraud fighting capabilities, with a strong emphasis to overcoming competition to win all deals&lt;/li&gt;\n&lt;li&gt;Synthesize and relay customer feedback and findings to inform Stripe’s product roadmap&lt;/li&gt;\n&lt;li&gt;Engage with Product, Marketing and Account teams to help amplify our growth trajectory globally&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;10+ years of customer facing experience at a leading technology or payments company and a track record of top performance, working specifically on enterprise or strategic accounts&lt;/li&gt;\n&lt;li&gt;Display a deep passion for fraud prevention and develop deep expertise&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;A proven ability to build strong collaborative working relationships with business partners internally and externally&lt;/li&gt;\n&lt;li&gt;The ability to deal effectively with ambiguity and thrive in an unstructured, fast-moving environment&lt;/li&gt;\n&lt;li&gt;Experience building trusted advisor relationships with senior business leaders&lt;/li&gt;\n&lt;li&gt;Self-starter capable of operating independently to drive meaningful business results&lt;/li&gt;\n&lt;li&gt;Ability to understand complex technical requirements and craft solutions across multiple stakeholders&lt;/li&gt;\n&lt;li&gt;Proven experience to lead complex negotiations involving bespoke commercial agreements&lt;br&gt;&lt;br&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5+ years of experience specifically selling fraud solutions for payments to enterprise customers&lt;/li&gt;\n&lt;/ul&gt;",
-    "_raw": {
-      "source": "greenhouse",
-      "original_id": 7215691
-    },
-    "job_posted_at": "1h",
-    "description_platform": "generic",
-    "description_success": true
-  },
-  {
     "job_title": "Account Executive, SMB Platforms (New Business)",
     "employer_name": "stripe",
     "job_city": "Chicago, New York, San Fransisco",
@@ -314,6 +144,176 @@
     "_raw": {
       "source": "greenhouse",
       "original_id": 7463694
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Backend/API Engineer, Money as a Service",
+    "employer_name": "stripe",
+    "job_city": "US",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6176758",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "Help increase the GDP of the internet as part of our Money Movement and Storage team.",
+    "id": "stripe-backend-api-engineer-money-as-a-service-us",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "6176758",
+    "title": "Backend/API Engineer, Money as a Service",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=6176758",
+    "departments": [
+      "8546 MMS Platform - Eng"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note: &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;if you are an intern, new grad, staff, frontend or fullstack applicant, please do not apply using this link and visit our &lt;/em&gt;&lt;a href=&quot;https://stripe.com/jobs/search&quot;&gt;&lt;em&gt;jobs page&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for those specific postings.&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Money as a Service (MaaS) &lt;/strong&gt;&lt;em&gt;Sub-orgs within MaaS: Accounts and Connect, Money Movement and Storage (MMS), Stripe’s Banking-as-a-Service (BaaS), Crypto&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;Money as a Service (MaaS) oversees a diverse portfolio of Stripe&#39;s core products and platforms. These offerings facilitate the global movement and management of funds for users. The teams that fall under the MaaS umbrella include: Accounts and Connect, Money Movement and Storage (MMS), Crypto and Banking as a Service (BaaS). Together, these teams work to ensure Stripe users have the robust financial infrastructure and tools they need to power their businesses on a global scale.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Team Matching:&lt;/strong&gt; exact team matching for one of the subteams will begin during final stages.&lt;em&gt; Please note we may also consider you for different orgs based on your experience, location, etc. &lt;/em&gt;More information on our team matching process can be found &lt;a href=&quot;https://docs.google.com/document/d/1zvJkO2c7GzukHG-_oqc5wbOLajpuh5FjbmZPcZPU1o0/edit?tab=t.0#heading=h.ahb3b6nrktv1&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for Backend Engineers who want to make an impact on managing money at a global scale with a passion for building ergonomic APIs. You’ll play a key role in extending our balance management platform and in building out a new funds accessibility platform leveraged by enterprises and SMBs alike. Our team collaborates with many cross-functional teams – from Infrastructure to Product –&amp;nbsp; at Stripe to deliver innovative solutions that address evolving user needs.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Scope, design, build, and maintain APIs, services, and large-scale systems that reliably and efficiently handle billions of money movement requests&lt;/li&gt;\n&lt;li&gt;Debug and solve critical production issues across services and multiple levels of the stack&lt;/li&gt;\n&lt;li&gt;Mentor engineers to help them grow&lt;/li&gt;\n&lt;li&gt;Collaborate with stakeholders across the company to build new features at large-scale, while improving internal engineering standards, tooling, and processes&lt;/li&gt;\n&lt;li&gt;Collaborate effectively in a distributed and hybrid team, maintaining open communication and strong connections with colleagues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;2-12+ years of industry software engineering experience (does not include internships nor includes co-ops)&lt;/li&gt;\n&lt;li&gt;Strong coding skills in any programming language &lt;em&gt;(we understand new languages can be learned on the job so our interview process is language agnostic)&lt;/em&gt;&lt;/li&gt;\n&lt;li&gt;Strong collaboration skills, can work across workstreams within your team and contribute to your peers’ success&lt;/li&gt;\n&lt;li&gt;Have the ability to thrive on a high level of autonomy, responsibility, and think of yourself as entrepreneurial&lt;/li&gt;\n&lt;li&gt;Interest in working as a generalist across varying technologies and stacks to solve problems and delight both internal and external users&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with large-scale financial tracking systems&lt;/li&gt;\n&lt;li&gt;Good understanding and practical knowledge in cloud based services (e.g. gRPC, GraphQL, Docker/Kubernetes, cloud services such as AWS, etc.)&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 6176758
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Backend Engineer, Core Technology",
+    "employer_name": "stripe",
+    "job_city": "Seattle, San Francisco, US-Remote",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6042172",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "Help increase the GDP of the internet as part of our Infrastructure & Corporate Tech team.",
+    "id": "stripe-backend-engineer-core-technology-seattle-san-francisco-us-remote",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "6042172",
+    "title": "Backend Engineer, Core Technology",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "Seattle, San Francisco, US-Remote",
+    "locations": [
+      "Seattle, San Francisco, US-Remote"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=6042172",
+    "departments": [
+      "8127 Core Infrastructure"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe Infrastructure is responsible for the reliability, scale, performance, and cost of Stripe’s systems and the productivity and sentiment of Stripe’s people.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;You may work on a wide variety of critical business areas including:&amp;nbsp;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Core Infrastructure - &lt;/strong&gt;We’re the home for Stripe&#39;s critical tier0 infrastructure systems (Compute, Networking, DocumentDB, Distributed Caching and High assurance engineering). We build the foundational platform for Stripe products and services to allow them to operate at scale. We drive reliability, availability, efficiency and scalability of these systems&lt;strong&gt;.&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Developer Infrastructure - &lt;/strong&gt;We’re responsible for the productivity of all developers at Stripe. Ensure Stripe’s engineers have a reliable, fast, and easy-to-use inner dev loop to maximize productivity while building everything from low-latency microservices to large-scale data pipelines and machine learning models&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Infrastructure -&amp;nbsp; &lt;/strong&gt;We’re responsible for offering data serving infrastructure spanning across data warehouse analytics, streaming analytics and search capabilities. The stack is supported by a collection of internally developed large scale distributed services and several popular open source technologies like Trino/Presto, Apache Pinot, Hive Metastore, ElasticSearch etc. The systems we own support all of the data serving needs of high scale services and thousands of individual Stripes across the company.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Admin Platform - &lt;/strong&gt;We empower Stripes to quickly build secure and delightful internal products in service of their users.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Service Platform - &lt;/strong&gt;We enable engineering teams at Stripe to easily write and ship useful services that correctly, reliably, and efficiently leverage platform capabilities.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;strong&gt;Team Matching:&lt;/strong&gt; exact team matching for one of the subteams will begin during final stages.&lt;em&gt;&amp;nbsp;&lt;/em&gt;&lt;em&gt;Please note we may also consider you for different orgs based on your experience, location, etc.&amp;nbsp;&lt;/em&gt;More information on our team matching process can be found &lt;a href=&quot;https://docs.google.com/document/d/1zvJkO2c7GzukHG-_oqc5wbOLajpuh5FjbmZPcZPU1o0/edit?tab=t.0#heading=h.ahb3b6nrktv1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;You will work on projects that span technologies, systems, and processes where you will design, build, test, and ship great code every day.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Build a great customer experience for internal and external Stripe teams using our infrastructure&lt;/li&gt;\n&lt;li&gt;Participate in roadmap planning and prioritization&lt;/li&gt;\n&lt;li&gt;Deliver value through a strong collaborative approach with multiple customers and stakeholders across Stripe&lt;/li&gt;\n&lt;li&gt;Debug production issues across services and several levels of the stack&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum Requirements&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Strong software engineering skills and a passion for one of the areas above.&lt;/li&gt;\n&lt;li&gt;Ability to write high quality code (in programming languages like Go, Java, C/C++ etc)&lt;/li&gt;\n&lt;li&gt;2-12+ years of professional hands-on software development experience, able to write well-factored algorithms and have experience with commonly used data structure and algorithms&lt;/li&gt;\n&lt;li&gt;Hands-on experience contributing to or building large scale distributed systems&lt;/li&gt;\n&lt;li&gt;Strong collaboration skills, can work across workstreams within your team and contribute to your peers’ success&lt;/li&gt;\n&lt;li&gt;Customer obsession, ability to articulate and represent customer experience in various forums to drive the right outcome&lt;/li&gt;\n&lt;li&gt;Have the ability to thrive on a high level of autonomy, responsibility, and think of yourself as entrepreneurial&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience optimizing the end to end performance of distributed systems&lt;/li&gt;\n&lt;li&gt;Focuses on the needs of our users, both internal and external&lt;/li&gt;\n&lt;li&gt;Hold yourself and others to a high bar when working with production&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 6042172
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Backend Engineer, Payments and Risk",
+    "employer_name": "stripe",
+    "job_city": "US",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6163230",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "We operate at significant scale, but we’re tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our global teams.",
+    "id": "stripe-backend-engineer-payments-and-risk-us",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "6163230",
+    "title": "Backend Engineer, Payments and Risk",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=6163230",
+    "departments": [
+      "8560 Bank Connections - Eng"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note:&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;if you are an intern, new grad, staff, frontend or fullstack applicant, please do not apply using this link and visit our &lt;/em&gt;&lt;a href=&quot;https://stripe.com/jobs/search&quot;&gt;&lt;em&gt;jobs page&lt;/em&gt;&lt;/a&gt;&lt;em&gt; for those specific postings.&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the Organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Payments and Risk &lt;/strong&gt;&lt;em&gt;Sub-orgs within Payments and Risk: Link and OCS, Payments Acceptance, Risk&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;The Payments organization focuses on developing products and platforms that enable users to accept payments from customers efficiently. This includes building APIs for processing payments, enabling regional, non-card payment options, and extending Stripe&#39;s capabilities to make it easy for businesses to accept in-person payments. Optimized Checkout and Link teams work to create best-in-class checkout experiences that enhance customer satisfaction and drive merchant conversion rates. The Risk Engineering team develops products that minimize financial and regulatory risks while ensuring a seamless user experience, thereby safeguarding Stripe’s brand and financial stability.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Team Matching:&lt;/strong&gt; exact team matching for one of the subteams will begin during final stages.&lt;em&gt; Please note we may also consider you for different orgs based on your experience, location, etc. &lt;/em&gt;More information on our team matching process can be found &lt;a href=&quot;https://docs.google.com/document/d/1zvJkO2c7GzukHG-_oqc5wbOLajpuh5FjbmZPcZPU1o0/edit?tab=t.0#heading=h.ahb3b6nrktv1&quot;&gt;here&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for Backend engineers who want to make an impact on managing money at a global scale with a passion for building ergonomic APIs. You’ll play a key role in extending our balance management platform and in building out a new funds accessibility platform leveraged by enterprises and SMBs alike. Our team collaborates with many cross-functional teams – from Infrastructure to Product –&amp;nbsp; at Stripe to deliver innovative solutions that address evolving user needs.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Scope, design, build, and maintain APIs, services, and large-scale systems that reliably and efficiently handle billions of money movement requests&lt;/li&gt;\n&lt;li&gt;Debug and solve critical production issues across services and multiple levels of the stack&lt;/li&gt;\n&lt;li&gt;Mentor engineers to help them grow&lt;/li&gt;\n&lt;li&gt;Collaborate with stakeholders across the company to build new features at large-scale, while improving internal engineering standards, tooling, and processes&lt;/li&gt;\n&lt;li&gt;Collaborate effectively in a distributed and hybrid team, maintaining open communication and strong connections with colleagues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;2-12+ years of industry software engineering experience (does not include internships nor includes co-ops)&lt;/li&gt;\n&lt;li&gt;Strong coding skills in any programming language &lt;em&gt;(we understand new languages can be learned on the job so our interview process is language agnostic)&lt;/em&gt;&lt;/li&gt;\n&lt;li&gt;Strong collaboration skills, can work across workstreams within your team and contribute to your peers’ success&lt;/li&gt;\n&lt;li&gt;Have the ability to thrive on a high level of autonomy, responsibility, and think of yourself as entrepreneurial&lt;/li&gt;\n&lt;li&gt;Interest in working as a generalist across varying technologies and stacks to solve problems and delight both internal and external users&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with large-scale financial tracking systems&lt;/li&gt;\n&lt;li&gt;Good understanding and practical knowledge in cloud based services (e.g. gRPC, GraphQL, Docker/Kubernetes, cloud services such as AWS, etc.)&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 6163230
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Benefits Program Manager",
+    "employer_name": "stripe",
+    "job_city": "SF, NYC, Seattle, Chicago, Atlanta, US-Remote",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=7355225",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "Help increase the GDP of the internet as part of our People Functions team.",
+    "id": "stripe-benefits-program-manager-sf-nyc-seattle-chicago-atlanta-us-remote",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "7355225",
+    "title": "Benefits Program Manager",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "SF, NYC, Seattle, Chicago, Atlanta, US-Remote",
+    "locations": [
+      "SF, NYC, Seattle, Chicago, Atlanta, US-Remote"
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=7355225",
+    "departments": [
+      "6532 Benefits"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;Who we are&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;The Benefits team is fundamental to the Stripe experience and enablement, directly supporting our global workforce. The Benefits team ensures our offerings are competitive, clearly understood, and fully compliant with local regulations across 28 countries, consistently evolving our benefits strategy to meet the diverse needs of our employees.&lt;/p&gt;\n&lt;p&gt;The Benefits Program Manager will play a key role in shaping the user experience by owning and driving our comprehensive benefits programs. This person will move beyond day-to-day administration to focus on strategic planning, effective communication, and continuous improvement of our benefits offerings. This role is ideal for an individual who can think big-picture while also ensuring the successful execution of our benefits strategy.&lt;/p&gt;\n&lt;h2&gt;What you’ll do&lt;/h2&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Program Management &amp;amp; Strategy: &lt;/strong&gt;Manage the full lifecycle of our benefits and time away programs, including market research, benchmarking, plan design, vendor selection and management, annual renewal and negotiation, communication and administration, as well as security review and compliance. Proactively monitor industry trends and regulatory changes to recommend new or enhanced programs that align with our company&#39;s goals and total rewards strategy.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Employee Experience &amp;amp; Communication:&lt;/strong&gt; Act as a subject matter expert and develop and execute clear, engaging communication plans to ensure Stripes understand their benefits options or planned changes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Vendor &amp;amp; Partner Management:&lt;/strong&gt; Serve as the primary point of contact for our leave of absence administrator, disability carrier, family forming vendor, and other wellness related vendors like Forma.&amp;nbsp; Identify and evaluate potential vendors, managing the Request for Proposal (RFP) process in partnership with the procurement team. Regularly assess vendor performance and manage contracts in collaboration with the legal team, ensuring compliance with agreements. Hold vendors accountable for delivering high-quality services by clearly communicating expectations and fostering strong partnerships to meet the needs of the organization and its employees.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Data Analysis &amp;amp; Reporting:&lt;/strong&gt; Compile, analyze, and report on key benefits metrics for leadership requests. Communicate effectively with stakeholders and leadership to ensure deep understanding of data needs and narrative behind the data. Regularly monitor and measure program effectiveness using data to inform, and present a compelling story to leadership in order to shape future strategy and program changes.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Cross-Functional Collaboration and Influence:&lt;/strong&gt; Partner closely with People Partners/Consultants, Finance, payroll, employee relations, and Legal teams to ensure a cohesive and compliant approach to our total rewards strategy. Cultivate strong partnerships with key decision makers and leverage expertise in order to Influence decision making and gain stakeholder buy-in when necessary.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Financial Stewardship: &lt;/strong&gt;Collaborate with the Finance team to manage the benefits budget and evaluate the ROI of new and existing programs.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Technology Integration:&lt;/strong&gt; Leverage our HRIS and benefits administration platform to optimize workflows and enhance reporting capabilities. Partner with People Systems in order to drive key initiatives and projects through to completion.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;Who you are&lt;/h2&gt;\n&lt;p&gt;We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;5-7 years of experience in a benefits program manager role&lt;/li&gt;\n&lt;li&gt;Bachelor’s degree in Human Resources, Business Administration, or a related field&lt;/li&gt;\n&lt;li&gt;Proven experience in employee benefits, with a demonstrated ability to manage and improve benefits programs, policies, and operations using data, employee feedback, financial analyses, and Stripe culture to inform decisions&lt;/li&gt;\n&lt;li&gt;Strong understanding and application of federal and state regulations related to employee benefits (e.g., 401(k), Pension Plans, ERISA, ACA, FMLA)&lt;/li&gt;\n&lt;li&gt;Experience managing 401(k) and pension plans&lt;/li&gt;\n&lt;li&gt;Excellent communication, presentation, and interpersonal skills&lt;/li&gt;\n&lt;li&gt;Analytical mindset with the ability to interpret data and make data-driven decisions.&lt;/li&gt;\n&lt;li&gt;Strong project management skills and attention to detail&lt;/li&gt;\n&lt;li&gt;Experience working in a fast paced, growing environment, preferably in a technology company or large scale organization&lt;/li&gt;\n&lt;li&gt;Proven ability to be a self-starter, capable of driving projects forward independently with minimal guidance, while also effectively identifying and escalating issues or seeking feedback when necessary&lt;/li&gt;\n&lt;li&gt;Demonstrates strong judgement in decision-making processes, ensuring that choices align with company culture and benefits strategy&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Experience with global benefits and managing programs on a global scale&lt;/li&gt;\n&lt;li&gt;Ability to influence and negotiate contracts with benefit vendors by leveraging expertise in the benefits space&lt;/li&gt;\n&lt;li&gt;Proven track record of managing change initiatives related to benefit programs, including successful implementations and offboarding of vendors and systems&lt;/li&gt;\n&lt;li&gt;Background in developing and implementing employee benefits communications to different global regions&lt;/li&gt;\n&lt;li&gt;Advanced skills in data and analytics and financial forecasting&lt;/li&gt;\n&lt;li&gt;Experienced in working in a fast paced high-growth environment&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 7355225
+    },
+    "job_posted_at": "1h",
+    "description_platform": "generic",
+    "description_success": true
+  },
+  {
+    "job_title": "Broadcast Engineer",
+    "employer_name": "stripe",
+    "job_city": "San Francisco, CA ",
+    "job_apply_link": "https://stripe.com/jobs/search?gh_jid=6632309",
+    "job_posted_at_datetime_utc": "2026-01-12T16:58:24-05:00",
+    "job_description": "We operate at significant scale, but we’re tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our global teams.",
+    "id": "stripe-broadcast-engineer-san-francisco-ca",
+    "source": "greenhouse",
+    "source_url": "boards-api.greenhouse.io",
+    "source_id": "6632309",
+    "title": "Broadcast Engineer",
+    "company_name": "stripe",
+    "company_slug": "stripe",
+    "location": "San Francisco, CA ",
+    "locations": [
+      "San Francisco, CA "
+    ],
+    "url": "https://stripe.com/jobs/search?gh_jid=6632309",
+    "departments": [
+      "7312 CorpTech Customer Success"
+    ],
+    "employment_type": null,
+    "posted_at": "2026-01-12T16:58:24-05:00",
+    "fetched_at": "2026-01-17T04:05:15.556Z",
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are &lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Stripe’s Event Services team focuses on delivering best in class hybrid events. We do this by maintaining a high bar of quality and service, leveraging industry standard technology and best practices. This role is responsible for operating internal company broadcasts such as our company-wide All Hands, customer facing events, and informal Fireside chats. You will be joining a highly specialized team that delivers excellent broadcasts and events, consistently raises the bar of our production workflows, provides pre and post-production services, and works to incorporate cutting edge technologies into our in-office production stack.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;What you’ll do&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Work as an Engineer in charge of fulfilling event operators for Global hybrid events either onsite or remote. Duties include:&amp;nbsp;&lt;/li&gt;\n&lt;ul&gt;\n&lt;li&gt;Be the Technical Director and have a leading understanding of the complexities of live event production and streaming technology as it relates to corporate events&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Support team members and stakeholders to execute live broadcasts ranging from Event webinars, All Hands, Firesides, QAs&lt;/li&gt;\n&lt;li&gt;Oversee the selection, installation, and operation of technical equipment as it relates to the in room space&lt;/li&gt;\n&lt;li&gt;You’re the engineer in charge and will develop and direct technical rehearsals and productions from start to finish&lt;/li&gt;\n&lt;li&gt;By implementing event industry best practices, driving innovation in event broadcasting, you’ll collaborate with event stakeholders and internal production teams to ensure an event&#39;s objectives and outcomes are technically achievable&lt;/li&gt;\n&lt;li&gt;You’ll lead and support by conducting training sessions to support and develop team capabilities and foster a team first mentality&lt;/li&gt;\n&lt;li&gt;Event production and Executive producing within live events&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Camera operator and placement&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Basic lighting coordination, focus, and familiarity with lighting for film, tv, and broadcast&lt;/li&gt;\n&lt;li&gt;Operating FOH sound and working as a A1/A2&lt;/li&gt;\n&lt;li&gt;Live video switching; ie. Analog Way, Tricaster, vMix, and AJA systems&lt;/li&gt;\n&lt;li&gt;Operation of 3rd party integrated systems, including QSC, Zoom, BirdDog, Sony, and Dante flows&lt;/li&gt;\n&lt;/ul&gt;\n&lt;ul&gt;\n&lt;li&gt;Operate and Manage livestreams:&amp;nbsp;\n&lt;ul&gt;\n&lt;li&gt;Realtime vision and audio mixing&lt;/li&gt;\n&lt;li&gt;Familiarity of production switchers and operation of Tricasters, vMix, and OBS.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Monitoring production feeds both in room and streamed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Maintain our VOD library and adhere to our retention policies&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Provide post-production services for our major company events, which include:&amp;nbsp;\n&lt;ul&gt;\n&lt;li&gt;Recording&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Editing&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Uploading&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Create Sizzle and Highlight reels of major company events&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/li&gt;\n&lt;li&gt;Participate in team projects and initiatives that focus on implementing new technologies&lt;/li&gt;\n&lt;li&gt;&amp;nbsp;Leading expertise in managing both virtual and physical live event technology, including sound, lighting and video systems&lt;/li&gt;\n&lt;li&gt;Draft and maintain documentation including; operations, workback plans, and runsheets&lt;/li&gt;\n&lt;li&gt;Travel to Stripe offices to provide in office event operation or Executive support&amp;nbsp;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h2&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We&#39;re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Expertise with NDI, Dante, SRT, HLS, RTMPS, WebRTC, and encode/decode/transcoded signal flows as they relate to live streaming&lt;/li&gt;\n&lt;li&gt;Expert knowledge with vMix &amp;amp; NewTek’s TriCaster family and line of NDI products&lt;/li&gt;\n&lt;li&gt;Post-production skills and familiarity working with media asset management systems&lt;/li&gt;\n&lt;li&gt;Experience running front of house sound with Yamaha consoles&lt;/li&gt;\n&lt;li&gt;Ability to manage content assets &amp;amp; video switching for live productions&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Worked in Broadcast, IPTV, or a combination of Live Events experience working with large teams&lt;/li&gt;\n&lt;li&gt;Expert knowledge of corporate networked environments, using multicast, and building that within a strict security environment&amp;nbsp;&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Expert knowledge and familiarity with REMI production workflows and supporting them&lt;/li&gt;\n&lt;li&gt;Excellent troubleshooting skills with ability to quickly resolve technical issues as they arise in the live event/broadcast space&lt;/li&gt;\n&lt;li&gt;Strong verbal and written communication skills&lt;/li&gt;\n&lt;li&gt;Strong organizational skills&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li style=&quot;font-weight: 400;&quot;&gt;Minimum 3 years working in Broadcast, AV, or Event Production&lt;/li&gt;\n&lt;li&gt;Working knowledge of cloud-based applications as they relate to events&lt;/li&gt;\n&lt;li&gt;CTS certification or industry specific certification and education&lt;/li&gt;\n&lt;li&gt;Dante levels 1–3 certification&lt;/li&gt;\n&lt;li&gt;NewTek training or certifications&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;DES or CMP certification&lt;/li&gt;\n&lt;/ul&gt;",
+    "_raw": {
+      "source": "greenhouse",
+      "original_id": 6632309
     },
     "job_posted_at": "1h",
     "description_platform": "generic",
