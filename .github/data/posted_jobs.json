@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:53:36.578Z",
+  "lastUpdated": "2026-01-19T20:03:58.900Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14488,14 +14488,58 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/6874591?gh_jid=6874591",
       "discordThreadId": "1462897799908692143",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-sr-director-product-management-multi-product-ecosystem-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-sr-director-product-management-multi-product-ecosystem-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Sr. Director, Product Management - Multi Product Ecosystem",
+      "postedToDiscord": "2026-01-19T20:03:48.971Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7446052?gh_jid=7446052",
+      "discordThreadId": "1462900369213362421",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-technical-program-manager-dash-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-technical-program-manager-dash-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Technical Program Manager, Dash",
+      "postedToDiscord": "2026-01-19T20:03:55.347Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7438689?gh_jid=7438689",
+      "discordThreadId": "1462900395654254739",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-data-scientist-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-data-scientist-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Data Scientist",
+      "postedToDiscord": "2026-01-19T20:03:57.143Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7309667?gh_jid=7309667",
+      "discordThreadId": "1462900403132960924",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-data-scientist-ai-products-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-data-scientist-ai-products-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Staff Data  Scientist, AI Products",
+      "postedToDiscord": "2026-01-19T20:03:58.900Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7169446?gh_jid=7169446",
+      "discordThreadId": "1462900410632114258",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1317,
+    "totalJobs": 1321,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T19:53:36.578Z",
+      "date": "2026-01-19T20:03:58.900Z",
       "archived": 0
     }
   }
