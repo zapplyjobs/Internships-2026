@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T23:30:00.504Z",
+  "lastUpdated": "2026-01-19T23:39:20.356Z",
   "jobs": [
     {
       "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
@@ -15181,14 +15181,47 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7355225",
       "discordThreadId": "1462952251424505887",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-development-manager-agentic-commerce-san-francisco-2026-01-19-1",
+      "jobId": "stripe-business-development-manager-agentic-commerce-san-francisco",
+      "company": "stripe",
+      "title": "Business Development Manager, Agentic Commerce",
+      "postedToDiscord": "2026-01-19T23:39:11.767Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7067252",
+      "discordThreadId": "1462954563203108928",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-value-consulting-us-sf-2026-01-19-1",
+      "jobId": "stripe-business-value-consulting-us-sf",
+      "company": "stripe",
+      "title": "Business Value Consulting",
+      "postedToDiscord": "2026-01-19T23:39:13.577Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7456710",
+      "discordThreadId": "1462954578495537248",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-business-development-manager-developer-platforms-sf-nyc-seattle-remote-2026-01-19-1",
+      "jobId": "stripe-business-development-manager-developer-platforms-sf-nyc-seattle-remote",
+      "company": "stripe",
+      "title": "Business Development Manager, Developer Platforms",
+      "postedToDiscord": "2026-01-19T23:39:20.356Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7450084",
+      "discordThreadId": "1462954599290900693",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1380,
+    "totalJobs": 1383,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T23:30:00.504Z",
+      "date": "2026-01-19T23:39:20.356Z",
       "archived": 0
     }
   }
