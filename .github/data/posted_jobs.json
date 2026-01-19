@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T19:35:25.798Z",
+  "lastUpdated": "2026-01-19T19:44:56.055Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14356,14 +14356,58 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7362682?gh_jid=7362682",
       "discordThreadId": "1462893225487372321",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-engineering-manager-core-ai-platform-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-engineering-manager-core-ai-platform-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Engineering Manager, Core AI Platform",
+      "postedToDiscord": "2026-01-19T19:44:50.810Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7344918?gh_jid=7344918",
+      "discordThreadId": "1462895594732519665",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-fullstack-product-software-engineer-core-growth-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-fullstack-product-software-engineer-core-growth-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Fullstack Product Software Engineer, Core Growth",
+      "postedToDiscord": "2026-01-19T19:44:52.502Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7466640?gh_jid=7466640",
+      "discordThreadId": "1462895602479140984",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-fullstack-product-software-engineer-corporate-it-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-fullstack-product-software-engineer-corporate-it-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Fullstack Product Software Engineer, Corporate IT",
+      "postedToDiscord": "2026-01-19T19:44:54.248Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7244914?gh_jid=7244914",
+      "discordThreadId": "1462895609576030407",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-fullstack-product-software-engineer-docsend-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-fullstack-product-software-engineer-docsend-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Fullstack Product Software Engineer, DocSend",
+      "postedToDiscord": "2026-01-19T19:44:56.054Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7469396?gh_jid=7469396",
+      "discordThreadId": "1462895616861667447",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1305,
+    "totalJobs": 1309,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T19:35:25.798Z",
+      "date": "2026-01-19T19:44:56.055Z",
       "archived": 0
     }
   }
