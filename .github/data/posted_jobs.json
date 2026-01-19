@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T05:31:41.410Z",
+  "lastUpdated": "2026-01-19T05:48:11.630Z",
   "jobs": [
     {
       "id": "arrowhead-pharmaceuticals-intern-digital-workplace-ai-madison-2026-01-12-1",
@@ -12959,14 +12959,36 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5058191008",
       "discordThreadId": "1462680884577697802",
       "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca-2026-01-19-1",
+      "jobId": "anthropic-strategic-account-executive-digital-native-business-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Digital Native Business",
+      "postedToDiscord": "2026-01-19T05:48:07.977Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4996335008",
+      "discordThreadId": "1462685022225039360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca-2026-01-19-1",
+      "jobId": "anthropic-strategic-account-executive-investment-banking-capital-markets-new-york-city-ny-san-francisco-ca",
+      "company": "anthropic",
+      "title": "Strategic Account Executive, Investment Banking & Capital Markets",
+      "postedToDiscord": "2026-01-19T05:48:11.630Z",
+      "sourceDate": "2026-01-14T13:17:10-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5041290008",
+      "discordThreadId": "1462685036649386057",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1178,
+    "totalJobs": 1180,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T05:31:41.410Z",
+      "date": "2026-01-19T05:48:11.630Z",
       "archived": 0
     }
   }
