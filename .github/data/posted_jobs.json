@@ -1,62 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:55:38.079Z",
+  "lastUpdated": "2026-01-19T21:39:10.025Z",
   "jobs": [
-    {
-      "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
-      "jobId": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara",
-      "company": "GlobalFoundries",
-      "title": "Software Engineering Intern - Cloud Platform",
-      "postedToDiscord": "2026-01-12T21:17:19.770Z",
-      "sourceDate": "2026-01-12T16:35:47.000Z",
-      "sourceUrl": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2026-_JR-2504800",
-      "discordThreadId": "1460382147021115483",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-data-engineering-intern-atlanta-2026-01-12-1",
-      "jobId": "the-coca-cola-company-data-engineering-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Data Engineering Intern",
-      "postedToDiscord": "2026-01-12T21:17:23.183Z",
-      "sourceDate": "2026-01-12T16:28:09.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Data-Engineering-Intern_R-133357-1",
-      "discordThreadId": "1460382161193664526",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-consumer-engagement-adtech-platforms-intern-atlanta-2026-01-12-1",
-      "jobId": "the-coca-cola-company-consumer-engagement-adtech-platforms-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Consumer Engagement & Adtech Platforms Intern",
-      "postedToDiscord": "2026-01-12T21:17:29.794Z",
-      "sourceDate": "2026-01-12T16:28:06.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Consumer-Engagement---AdTech-Platforms-Intern_R-133444",
-      "discordThreadId": "1460382188062244977",
-      "instanceNumber": 1
-    },
-    {
-      "id": "true-manufacturing-ai-analyst-co-op-o-fallon-2026-01-12-1",
-      "jobId": "true-manufacturing-ai-analyst-co-op-o-fallon",
-      "company": "True Manufacturing",
-      "title": "AI Analyst Co-op",
-      "postedToDiscord": "2026-01-12T21:17:36.325Z",
-      "sourceDate": "2025-09-11T18:17:18.000Z",
-      "sourceUrl": "https://officejobs-truemfg.icims.com/jobs/2671/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460382216541700228",
-      "instanceNumber": 1
-    },
-    {
-      "id": "capital-one-technology-internship-program-plano-2026-01-12-1",
-      "jobId": "capital-one-technology-internship-program-plano",
-      "company": "Capital One",
-      "title": "Technology Internship Program",
-      "postedToDiscord": "2026-01-12T21:17:40.464Z",
-      "sourceDate": "2025-08-04T14:52:00.000Z",
-      "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2026_R218710-1",
-      "discordThreadId": "1460382230797877311",
-      "instanceNumber": 1
-    },
     {
       "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
       "jobId": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view",
@@ -14763,14 +14708,58 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845293002",
       "discordThreadId": "1462913402065391879",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-marketing-operations-manager-b2b-sales-new-york-new-york-united-states-2026-01-19-1",
+      "jobId": "brex-senior-marketing-operations-manager-b2b-sales-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Marketing Operations Manager, B2B Sales",
+      "postedToDiscord": "2026-01-19T21:38:59.247Z",
+      "sourceDate": "2026-01-13T12:56:26-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8372627002?gh_jid=8372627002",
+      "discordThreadId": "1462924312766976010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-smb-new-business-chicago-2026-01-19-1",
+      "jobId": "stripe-account-executive-smb-new-business-chicago",
+      "company": "stripe",
+      "title": "Account Executive, SMB (New Business)",
+      "postedToDiscord": "2026-01-19T21:39:02.927Z",
+      "sourceDate": "2026-01-13T12:17:41-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6735940",
+      "discordThreadId": "1462924326884999386",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-sales-manager-mid-market-chicago-2026-01-19-1",
+      "jobId": "stripe-sales-manager-mid-market-chicago",
+      "company": "stripe",
+      "title": "Sales Manager, Mid Market",
+      "postedToDiscord": "2026-01-19T21:39:06.419Z",
+      "sourceDate": "2026-01-13T10:51:19-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7306952",
+      "discordThreadId": "1462924342500528424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-enterprise-figma-weave-new-york-united-states-new-york-ny-2026-01-19-1",
+      "jobId": "figma-account-executive-enterprise-figma-weave-new-york-united-states-new-york-ny",
+      "company": "figma",
+      "title": "Account Executive, Enterprise - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-19T21:39:10.025Z",
+      "sourceDate": "2026-01-13T03:35:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759369004?gh_jid=5759369004",
+      "discordThreadId": "1462924357159485632",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1342,
+    "totalJobs": 1341,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T20:55:38.079Z",
+      "date": "2026-01-19T21:39:10.025Z",
       "archived": 0
     }
   }
