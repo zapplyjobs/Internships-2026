@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T20:03:58.900Z",
+  "lastUpdated": "2026-01-19T20:17:58.670Z",
   "jobs": [
     {
       "id": "globalfoundries-software-engineering-intern-cloud-platform-santa-clara-2026-01-12-1",
@@ -14532,14 +14532,102 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7169446?gh_jid=7169446",
       "discordThreadId": "1462900410632114258",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-product-marketing-manager-growth-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-product-marketing-manager-growth-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Senior Product Marketing Manager, Growth",
+      "postedToDiscord": "2026-01-19T20:17:33.643Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7356971?gh_jid=7356971",
+      "discordThreadId": "1462903827970920592",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-senior-network-engineer-corporate-it-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-senior-network-engineer-corporate-it-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Senior Network Engineer, Corporate IT",
+      "postedToDiscord": "2026-01-19T20:17:38.419Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7409610?gh_jid=7409610",
+      "discordThreadId": "1462903847994265672",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-technical-program-manager-engineering-productivity-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-technical-program-manager-engineering-productivity-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Technical Program Manager, Engineering Productivity",
+      "postedToDiscord": "2026-01-19T20:17:40.274Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7387347?gh_jid=7387347",
+      "discordThreadId": "1462903855451865331",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-software-engineer-intern-summer-2026-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-software-engineer-intern-summer-2026-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Software Engineer Intern (Summer 2026)",
+      "postedToDiscord": "2026-01-19T20:17:45.227Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7449835?gh_jid=7449835",
+      "discordThreadId": "1462903875748233504",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-designer-new-initiatives-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-product-designer-new-initiatives-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Product Designer, New Initiatives",
+      "postedToDiscord": "2026-01-19T20:17:47.336Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7416009?gh_jid=7416009",
+      "discordThreadId": "1462903884287574276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-manager-security-remote-us-all-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-product-manager-security-remote-us-all-locations",
+      "company": "dropbox",
+      "title": "Staff Product Manager, Security",
+      "postedToDiscord": "2026-01-19T20:17:49.040Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7484484?gh_jid=7484484",
+      "discordThreadId": "1462903892663603312",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-staff-product-manager-core-sync-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-staff-product-manager-core-sync-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Staff Product Manager, Core Sync",
+      "postedToDiscord": "2026-01-19T20:17:53.881Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7384624?gh_jid=7384624",
+      "discordThreadId": "1462903912703983711",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-strategic-finance-associate-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-strategic-finance-associate-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Strategic Finance Associate",
+      "postedToDiscord": "2026-01-19T20:17:58.670Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7440827?gh_jid=7440827",
+      "discordThreadId": "1462903932891299901",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1321,
+    "totalJobs": 1329,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T20:03:58.900Z",
+      "date": "2026-01-19T20:17:58.670Z",
       "archived": 0
     }
   }
