@@ -3738,5 +3738,27 @@
     "sourceUrl": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2026_R218710-1",
     "discordThreadId": "1460382230797877311",
     "instanceNumber": 1
+  },
+  {
+    "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
+    "jobId": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view",
+    "company": "LinkedIn",
+    "title": "Apprentice Engineer - Artificial Intelligence / Machine Learning",
+    "postedToDiscord": "2026-01-12T23:16:27.313Z",
+    "sourceDate": "2026-01-12T23:03:17.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157425",
+    "discordThreadId": "1460412124579889270",
+    "instanceNumber": 1
+  },
+  {
+    "id": "linkedin-apprentice-engineer-backend-mountain-view-2026-01-12-1",
+    "jobId": "linkedin-apprentice-engineer-backend-mountain-view",
+    "company": "LinkedIn",
+    "title": "Apprentice Engineer - Backend",
+    "postedToDiscord": "2026-01-12T23:16:27.319Z",
+    "sourceDate": "2026-01-12T23:02:51.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/LinkedIn3/744000103157825",
+    "discordThreadId": null,
+    "instanceNumber": 1
   }
 ]
