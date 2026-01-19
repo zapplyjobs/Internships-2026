@@ -1,0 +1,17 @@
+{
+  "url": "https://jobs.dropbox.com/listing/7466465?gh_jid=7466465",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "The Dropbox Engineering Team builds the technology that creates more enlightened ways of working for hundreds of millions of people. Every day, our platforms—including Dropbox Dash, Dropbox Sign, and our core sync engine—handle over a billion files for users worldwide, creating engineering challenges as great as the opportunity for impact. Our software engineering team uses a range of technologies to solve interesting problems, including Python, React, Node.js, JavaScript, MongoDB, PostgreSQL, and Android development. We think like a startup but build for an enterprise, exploring new possibilities that transform how people work. If you're excited about turning complex technical challenges into intuitive solutions at scale, join our Engineering team. Areas of work include Machine Learning Engineers, Infrastructure Engineer, Product SWE Frontend and Backend, Mobile Software Engineers (iOS and Android), Engineering Manager, Data Engineer, Software Development Engineer in Test, Security Engineering, Site Reliability Engineer, Technical Program Managers, Network Engineer, Datacenter Engineer, Technical Supply Chain Manager and more.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "json-ld",
+      "url": "https://jobs.dropbox.com/listing/7466465?gh_jid=7466465",
+      "fetchedAt": "2026-01-19T17:29:50.250Z"
+    }
+  },
+  "cachedAt": 1768843790250
+}

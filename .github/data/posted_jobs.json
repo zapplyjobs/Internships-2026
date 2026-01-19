@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T17:13:27.754Z",
+  "lastUpdated": "2026-01-19T17:30:01.529Z",
   "jobs": [
     {
       "id": "rocket-mortgage-data-engineer-intern-detroit-2026-01-12-1",
@@ -14125,16 +14125,37 @@
       "sourceUrl": "https://jobs.dropbox.com/listing/7065458?gh_jid=7065458",
       "discordThreadId": "1462857498200637661",
       "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-fullstack-product-software-engineer-core-web-experience-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-fullstack-product-software-engineer-core-web-experience-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Fullstack Product Software Engineer, Core Web Experience ",
+      "postedToDiscord": "2026-01-19T17:29:59.829Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/6936207?gh_jid=6936207",
+      "discordThreadId": "1462861658744553627",
+      "instanceNumber": 1
+    },
+    {
+      "id": "dropbox-fullstack-product-software-engineer-docsend-remote-us-select-locations-2026-01-19-1",
+      "jobId": "dropbox-fullstack-product-software-engineer-docsend-remote-us-select-locations",
+      "company": "dropbox",
+      "title": "Fullstack Product Software Engineer, DocSend",
+      "postedToDiscord": "2026-01-19T17:30:01.529Z",
+      "sourceDate": "2026-01-13T16:46:24-05:00",
+      "sourceUrl": "https://jobs.dropbox.com/listing/7344968?gh_jid=7344968",
+      "discordThreadId": "1462861666470461690",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1284,
+    "totalJobs": 1286,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T17:13:27.754Z",
-      "archived": 1,
-      "monthsAffected": 1
+      "date": "2026-01-19T17:30:01.529Z",
+      "archived": 0
     }
   }
 }
