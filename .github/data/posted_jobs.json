@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T21:54:04.661Z",
+  "lastUpdated": "2026-01-19T22:04:21.480Z",
   "jobs": [
     {
       "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
@@ -14851,14 +14851,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7521170",
       "discordThreadId": "1462928110155595817",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-manager-global-yield-programs-incentives-new-york-ny-2026-01-19-1",
+      "jobId": "spotify-manager-global-yield-programs-incentives-new-york-ny",
+      "company": "spotify",
+      "title": "Manager, Global Yield Programs & Incentives",
+      "postedToDiscord": "2026-01-19T22:03:45.391Z",
+      "sourceDate": "2026-01-13T00:37:18.512Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/4ca11c51-6c3f-4272-b5b5-6f4564165f0c",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-head-of-legal-operations-san-francisco-california-united-states-2026-01-19-1",
+      "jobId": "brex-head-of-legal-operations-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Head of Legal Operations",
+      "postedToDiscord": "2026-01-19T22:03:51.876Z",
+      "sourceDate": "2026-01-12T19:25:03-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8371093002?gh_jid=8371093002",
+      "discordThreadId": "1462930572925206801",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-candidate-experience-coordinator-12-month-contract-san-francisco-california-united-states-2026-01-19-1",
+      "jobId": "brex-candidate-experience-coordinator-12-month-contract-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Candidate Experience Coordinator (12-month Contract)",
+      "postedToDiscord": "2026-01-19T22:03:58.471Z",
+      "sourceDate": "2026-01-12T18:28:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8230853002?gh_jid=8230853002",
+      "discordThreadId": "1462930600338915348",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-head-of-onboarding-and-implementation-gtm-operations-denver-co-new-york-ny-atlanta-ga-2026-01-19-1",
+      "jobId": "gusto-head-of-onboarding-and-implementation-gtm-operations-denver-co-new-york-ny-atlanta-ga",
+      "company": "gusto",
+      "title": "Head of Onboarding and Implementation (GTM Operations)",
+      "postedToDiscord": "2026-01-19T22:04:05.312Z",
+      "sourceDate": "2026-01-12T17:59:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7215808",
+      "discordThreadId": "1462930627975446661",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-future-opportunities-early-career-sales-talent-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote-2026-01-19-1",
+      "jobId": "gusto-future-opportunities-early-career-sales-talent-united-states-atlanta-ga-remote-united-states-chicago-il-remote-united-states-denver-co-united-states-las-vegas-nv-remote-united-states-phoenix-az-remote",
+      "company": "gusto",
+      "title": "Future Opportunities: Early Career Sales Talent",
+      "postedToDiscord": "2026-01-19T22:04:08.978Z",
+      "sourceDate": "2026-01-12T17:55:43-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7378983",
+      "discordThreadId": "1462930643842367653",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-strategy-operations-business-partner-product-sales-us-2026-01-19-1",
+      "jobId": "stripe-strategy-operations-business-partner-product-sales-us",
+      "company": "stripe",
+      "title": "Strategy & Operations Business Partner, Product Sales",
+      "postedToDiscord": "2026-01-19T22:04:10.836Z",
+      "sourceDate": "2026-01-12T17:44:01-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7360958",
+      "discordThreadId": "1462930659432599845",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-commercial-existing-business-chicago-il-2026-01-19-1",
+      "jobId": "stripe-account-executive-commercial-existing-business-chicago-il",
+      "company": "stripe",
+      "title": "Account Executive, Commercial (Existing Business)",
+      "postedToDiscord": "2026-01-19T22:04:14.299Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7306915",
+      "discordThreadId": "1462930667074621715",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-enterprise-existing-business-us-remote-us-san-francisco-us-chicago-us-new-york-2026-01-19-1",
+      "jobId": "stripe-account-executive-enterprise-existing-business-us-remote-us-san-francisco-us-chicago-us-new-york",
+      "company": "stripe",
+      "title": "Account Executive, Enterprise (Existing Business) ",
+      "postedToDiscord": "2026-01-19T22:04:17.855Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7302943",
+      "discordThreadId": "1462930681691902247",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-enterprise-new-business-us-new-york-2026-01-19-1",
+      "jobId": "stripe-account-executive-enterprise-new-business-us-new-york",
+      "company": "stripe",
+      "title": "Account Executive, Enterprise (New Business) ",
+      "postedToDiscord": "2026-01-19T22:04:21.480Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6755526",
+      "discordThreadId": "1462930696631746561",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1350,
+    "totalJobs": 1359,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T21:54:04.661Z",
+      "date": "2026-01-19T22:04:21.480Z",
       "archived": 0
     }
   }
