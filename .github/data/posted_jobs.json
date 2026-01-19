@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T22:42:10.441Z",
+  "lastUpdated": "2026-01-19T22:51:02.658Z",
   "jobs": [
     {
       "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
@@ -15049,14 +15049,69 @@
       "sourceUrl": "https://jobs.ashbyhq.com/supabase/e15854cc-d2f4-44e8-b516-8f582865fe64",
       "discordThreadId": "1462940221028175894",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-product-sales-baas-sf-nyc-remote-2026-01-19-1",
+      "jobId": "stripe-account-executive-product-sales-baas-sf-nyc-remote",
+      "company": "stripe",
+      "title": "Account Executive, Product Sales (BaaS)",
+      "postedToDiscord": "2026-01-19T22:50:50.204Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7456716",
+      "discordThreadId": "1462942400615026864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-product-sales-billing-south-san-francisco-ca-new-york-ny-seattle-wa-chicago-il-2026-01-19-1",
+      "jobId": "stripe-account-executive-product-sales-billing-south-san-francisco-ca-new-york-ny-seattle-wa-chicago-il",
+      "company": "stripe",
+      "title": "Account Executive, Product Sales, Billing ",
+      "postedToDiscord": "2026-01-19T22:50:53.705Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7141701",
+      "discordThreadId": "1462942408298991679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-product-sales-optimized-checkout-remote-2026-01-19-1",
+      "jobId": "stripe-account-executive-product-sales-optimized-checkout-remote",
+      "company": "stripe",
+      "title": "Account Executive, Product Sales, Optimized Checkout",
+      "postedToDiscord": "2026-01-19T22:50:55.474Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7455982",
+      "discordThreadId": "1462942423192829962",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-product-sales-radar-new-york-chicago-san-francisco-and-seattle-2026-01-19-1",
+      "jobId": "stripe-account-executive-product-sales-radar-new-york-chicago-san-francisco-and-seattle",
+      "company": "stripe",
+      "title": "Account Executive, Product Sales (Radar)",
+      "postedToDiscord": "2026-01-19T22:50:58.876Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7302534",
+      "discordThreadId": "1462942430222352395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-account-executive-product-sales-radar-nyc-new-york-ny-2026-01-19-1",
+      "jobId": "stripe-account-executive-product-sales-radar-nyc-new-york-ny",
+      "company": "stripe",
+      "title": "Account Executive, Product Sales, Radar (NYC)",
+      "postedToDiscord": "2026-01-19T22:51:02.657Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7215691",
+      "discordThreadId": "1462942444994822346",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1368,
+    "totalJobs": 1373,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T22:42:10.441Z",
+      "date": "2026-01-19T22:51:02.658Z",
       "archived": 0
     }
   }
