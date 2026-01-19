@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T21:39:10.025Z",
+  "lastUpdated": "2026-01-19T21:54:04.661Z",
   "jobs": [
     {
       "id": "linkedin-apprentice-engineer-artificial-intelligence-machine-learning-mountain-view-2026-01-12-1",
@@ -14752,14 +14752,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759369004?gh_jid=5759369004",
       "discordThreadId": "1462924357159485632",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-associate-sales-enablement-operations-new-york-new-york-usa-2026-01-19-1",
+      "jobId": "datadog-senior-associate-sales-enablement-operations-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Senior Associate, Sales Enablement Operations",
+      "postedToDiscord": "2026-01-19T21:53:31.554Z",
+      "sourceDate": "2026-01-13T12:58:27-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7509363/?gh_jid=7509363",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-bizops-lead-bd-seattle-washington-united-states-2026-01-19-1",
+      "jobId": "brex-bizops-lead-bd-seattle-washington-united-states",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-19T21:53:35.034Z",
+      "sourceDate": "2026-01-12T22:14:22-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366663002?gh_jid=8366663002",
+      "discordThreadId": "1462927985710465158",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-bizops-lead-bd-new-york-new-york-united-states-2026-01-19-1",
+      "jobId": "brex-bizops-lead-bd-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-19T21:53:35.045Z",
+      "sourceDate": "2026-01-12T22:14:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366662002?gh_jid=8366662002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-bizops-lead-bd-san-francisco-california-united-states-2026-01-19-1",
+      "jobId": "brex-bizops-lead-bd-san-francisco-california-united-states",
+      "company": "brex",
+      "title": " BizOps Lead, BD",
+      "postedToDiscord": "2026-01-19T21:53:35.058Z",
+      "sourceDate": "2026-01-12T22:13:52-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362761002?gh_jid=8362761002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-web-platform-san-francisco-ca-new-york-ny-united-states-2026-01-19-1",
+      "jobId": "figma-software-engineer-web-platform-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Web Platform",
+      "postedToDiscord": "2026-01-19T21:53:41.508Z",
+      "sourceDate": "2026-01-13T12:28:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5759501004?gh_jid=5759501004",
+      "discordThreadId": "1462928013103464479",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-software-engineer-observability-san-francisco-ca-new-york-ny-remote-seattle-wa-only-2026-01-19-1",
+      "jobId": "airtable-software-engineer-observability-san-francisco-ca-new-york-ny-remote-seattle-wa-only",
+      "company": "airtable",
+      "title": "Software Engineer, Observability",
+      "postedToDiscord": "2026-01-19T21:53:45.092Z",
+      "sourceDate": "2026-01-13T11:41:53-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8182781002",
+      "discordThreadId": "1462928027494252615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-senior-technical-program-manager-knowledge-systems-boston-massachusetts-usa-new-york-new-york-usa-san-francisco-california-usa-2026-01-19-1",
+      "jobId": "datadog-senior-technical-program-manager-knowledge-systems-boston-massachusetts-usa-new-york-new-york-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Senior Technical Program Manager, Knowledge Systems",
+      "postedToDiscord": "2026-01-19T21:53:51.546Z",
+      "sourceDate": "2026-01-13T11:09:22-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392",
+      "discordThreadId": "1462928055092908083",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-product-counsel-peo-employment-law-denver-co-san-francisco-ca-new-york-ny-2026-01-19-1",
+      "jobId": "gusto-product-counsel-peo-employment-law-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Product Counsel - PEO/Employment Law",
+      "postedToDiscord": "2026-01-19T21:53:58.216Z",
+      "sourceDate": "2026-01-13T09:58:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7452431",
+      "discordThreadId": "1462928081995174142",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-corporate-paralegal-sf-bay-area-us-national-2026-01-19-1",
+      "jobId": "stripe-corporate-paralegal-sf-bay-area-us-national",
+      "company": "stripe",
+      "title": "Corporate Paralegal",
+      "postedToDiscord": "2026-01-19T21:54:04.661Z",
+      "sourceDate": "2026-01-12T21:43:23-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7521170",
+      "discordThreadId": "1462928110155595817",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1341,
+    "totalJobs": 1350,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T21:39:10.025Z",
+      "date": "2026-01-19T21:54:04.661Z",
       "archived": 0
     }
   }
