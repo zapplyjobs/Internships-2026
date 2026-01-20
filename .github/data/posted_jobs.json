@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T04:38:00.364Z",
+  "lastUpdated": "2026-01-20T04:57:14.022Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15533,14 +15533,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7187035",
       "discordThreadId": "1463029762074083496",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-seller-systems-sf-sea-nyc-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-manager-seller-systems-sf-sea-nyc-us-remote",
+      "company": "stripe",
+      "title": "Product Manager, Seller Systems",
+      "postedToDiscord": "2026-01-20T04:56:41.134Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6964987",
+      "discordThreadId": "1463034469912154259",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-stripe-infrastructure-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-product-manager-stripe-infrastructure-remote-in-the-us",
+      "company": "stripe",
+      "title": "Product Manager, Stripe Infrastructure",
+      "postedToDiscord": "2026-01-20T04:56:42.951Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6651889",
+      "discordThreadId": "1463034477415759872",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-terminal-device-expansion-seattle-san-francisco-new-york-2026-01-20-1",
+      "jobId": "stripe-product-manager-terminal-device-expansion-seattle-san-francisco-new-york",
+      "company": "stripe",
+      "title": "Product Manager, Terminal Device Expansion",
+      "postedToDiscord": "2026-01-20T04:56:46.600Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7397265",
+      "discordThreadId": "1463034485242331222",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-usage-based-billing-san-francisco-new-york-seattle-chicago-2026-01-20-1",
+      "jobId": "stripe-product-manager-usage-based-billing-san-francisco-new-york-seattle-chicago",
+      "company": "stripe",
+      "title": "Product Manager, Usage Based Billing",
+      "postedToDiscord": "2026-01-20T04:56:50.330Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7015087",
+      "discordThreadId": "1463034500240900127",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-marketing-lead-gtm-chicago-remote-in-us-2026-01-20-1",
+      "jobId": "stripe-product-marketing-lead-gtm-chicago-remote-in-us",
+      "company": "stripe",
+      "title": "Product Marketing Lead, GTM",
+      "postedToDiscord": "2026-01-20T04:56:57.004Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7354060",
+      "discordThreadId": "1463034528926007327",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-operations-program-manager-chi-atl-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-operations-program-manager-chi-atl-us-remote",
+      "company": "stripe",
+      "title": "Product Operations Program Manager",
+      "postedToDiscord": "2026-01-20T04:57:01.757Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7302542",
+      "discordThreadId": "1463034556528726118",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-program-manager-card-network-office-cno-usa-san-francisco-seattle-new-york-office-or-remote-2026-01-20-1",
+      "jobId": "stripe-program-manager-card-network-office-cno-usa-san-francisco-seattle-new-york-office-or-remote",
+      "company": "stripe",
+      "title": "Program Manager, Card Network Office (CNO) ",
+      "postedToDiscord": "2026-01-20T04:57:05.223Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7061338",
+      "discordThreadId": "1463034563537403987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-program-manager-risk-ops-enablement-us-remote-2026-01-20-1",
+      "jobId": "stripe-program-manager-risk-ops-enablement-us-remote",
+      "company": "stripe",
+      "title": "Program Manager, Risk Ops Enablement",
+      "postedToDiscord": "2026-01-20T04:57:06.943Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7214197",
+      "discordThreadId": "1463034578406084798",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-sales-finance-strategy-lead-san-francisco-seattle-2026-01-20-1",
+      "jobId": "stripe-product-sales-finance-strategy-lead-san-francisco-seattle",
+      "company": "stripe",
+      "title": "Product Sales Finance & Strategy Lead",
+      "postedToDiscord": "2026-01-20T04:57:14.021Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7260872",
+      "discordThreadId": "1463034598756847646",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1412,
+    "totalJobs": 1421,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T04:38:00.364Z",
+      "date": "2026-01-20T04:57:14.022Z",
       "archived": 0
     }
   }
