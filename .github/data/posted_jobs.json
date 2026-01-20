@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:38:52.535Z",
+  "lastUpdated": "2026-01-20T21:47:22.931Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19856,14 +19856,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732508004?gh_jid=5732508004",
       "discordThreadId": "1463286672308305920",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-director-federal-sales-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-director-federal-sales-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Director, Federal Sales",
+      "postedToDiscord": "2026-01-20T21:46:57.548Z",
+      "sourceDate": "2025-12-10T14:21:16-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728495004?gh_jid=5728495004",
+      "discordThreadId": "1463288706357002251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-senior-it-support-specialist-contractor-new-york-ny-2026-01-20-1",
+      "jobId": "instacart-senior-it-support-specialist-contractor-new-york-ny",
+      "company": "instacart",
+      "title": "Senior IT Support Specialist (Contractor)   ",
+      "postedToDiscord": "2026-01-20T21:47:04.037Z",
+      "sourceDate": "2025-12-10T14:03:34-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=7450291",
+      "discordThreadId": "1463288733586423890",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-manager-edd-compliance-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-associate-manager-edd-compliance-charlotte-nc",
+      "company": "coinbase",
+      "title": "Associate Manager, EDD Compliance",
+      "postedToDiscord": "2026-01-20T21:47:08.904Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984450?gh_jid=6984450",
+      "discordThreadId": "1463288761314967562",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-manager-quality-compliance-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-associate-manager-quality-compliance-charlotte-nc",
+      "company": "coinbase",
+      "title": "Associate Manager, Quality Compliance",
+      "postedToDiscord": "2026-01-20T21:47:10.588Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7394927?gh_jid=7394927",
+      "discordThreadId": "1463288768512659641",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-manager-residential-security-hybrid-los-angeles-ca-2026-01-20-1",
+      "jobId": "coinbase-associate-manager-residential-security-hybrid-los-angeles-ca",
+      "company": "coinbase",
+      "title": "Associate Manager, Residential Security",
+      "postedToDiscord": "2026-01-20T21:47:14.240Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7217423?gh_jid=7217423",
+      "discordThreadId": "1463288776108409055",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-manager-transaction-monitoring-compliance-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-associate-manager-transaction-monitoring-compliance-charlotte-nc",
+      "company": "coinbase",
+      "title": "Associate Manager, Transaction Monitoring Compliance",
+      "postedToDiscord": "2026-01-20T21:47:16.059Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984453?gh_jid=6984453",
+      "discordThreadId": "1463288791023223009",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-concierge-customer-success-team-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-concierge-customer-success-team-charlotte-nc",
+      "company": "coinbase",
+      "title": "Concierge, Customer Success Team",
+      "postedToDiscord": "2026-01-20T21:47:17.728Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7306850?gh_jid=7306850",
+      "discordThreadId": "1463288798489346244",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-employee-workplace-experience-intern-hybrid-new-york-ny-2026-01-20-1",
+      "jobId": "coinbase-employee-workplace-experience-intern-hybrid-new-york-ny",
+      "company": "coinbase",
+      "title": "Employee & Workplace Experience Intern",
+      "postedToDiscord": "2026-01-20T21:47:21.199Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242",
+      "discordThreadId": "1463288805615210652",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-lead-edd-compliance-analyst-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-lead-edd-compliance-analyst-charlotte-nc",
+      "company": "coinbase",
+      "title": "Lead EDD Compliance Analyst",
+      "postedToDiscord": "2026-01-20T21:47:22.930Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984439?gh_jid=6984439",
+      "discordThreadId": "1463288819813187775",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1805,
+    "totalJobs": 1814,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:38:52.535Z",
+      "date": "2026-01-20T21:47:22.931Z",
       "archived": 0
     }
   }
