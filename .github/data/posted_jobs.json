@@ -1,73 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T02:36:03.888Z",
+  "lastUpdated": "2026-01-20T03:18:09.604Z",
   "jobs": [
-    {
-      "id": "nvidia-quantum-computing-software-intern-santa-clara-2026-01-13-1",
-      "jobId": "nvidia-quantum-computing-software-intern-santa-clara",
-      "company": "NVIDIA",
-      "title": "Quantum Computing Software Intern",
-      "postedToDiscord": "2026-01-13T03:10:33.883Z",
-      "sourceDate": "2026-01-12T23:32:47.000Z",
-      "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1",
-      "discordThreadId": "1460471041158680669",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rtx-2026-intern-data-management-analyst-tucson-2026-01-13-1",
-      "jobId": "rtx-2026-intern-data-management-analyst-tucson",
-      "company": "RTX",
-      "title": "2026 Intern - Data Management Analyst",
-      "postedToDiscord": "2026-01-13T03:10:37.291Z",
-      "sourceDate": "2026-01-13T02:15:33.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Data-Management-Analyst---Onsite_01816048",
-      "discordThreadId": "1460471055939538995",
-      "instanceNumber": 1
-    },
-    {
-      "id": "national-renewable-energy-laboratory-graduate-intern-distributed-energy-systems-golden-2026-01-13-1",
-      "jobId": "national-renewable-energy-laboratory-graduate-intern-distributed-energy-systems-golden",
-      "company": "National Renewable Energy Laboratory",
-      "title": "Graduate Intern - Distributed Energy Systems",
-      "postedToDiscord": "2026-01-13T03:10:43.773Z",
-      "sourceDate": "2026-01-12T23:32:09.000Z",
-      "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Graduate--Summer--Intern---Distributed-Energy-Systems_R14095",
-      "discordThreadId": "1460471082808119451",
-      "instanceNumber": 1
-    },
-    {
-      "id": "genentech-intern-ddc-san-bruno-2026-01-13-1",
-      "jobId": "genentech-intern-ddc-san-bruno",
-      "company": "Genentech",
-      "title": "Intern - DDC",
-      "postedToDiscord": "2026-01-13T03:10:47.199Z",
-      "sourceDate": "2026-01-13T02:11:37.000Z",
-      "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---DDC_202601-100487",
-      "discordThreadId": "1460471097475731670",
-      "instanceNumber": 1
-    },
-    {
-      "id": "the-coca-cola-company-revenue-growth-management-data-engineer-intern-atlanta-2026-01-13-1",
-      "jobId": "the-coca-cola-company-revenue-growth-management-data-engineer-intern-atlanta",
-      "company": "The Coca-Cola Company",
-      "title": "Revenue Growth Management Data Engineer Intern",
-      "postedToDiscord": "2026-01-13T03:10:53.721Z",
-      "sourceDate": "2026-01-13T02:18:14.000Z",
-      "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Revenue-Growth-Management-Data-Engineering-Intern_R-133413",
-      "discordThreadId": "1460471124638044373",
-      "instanceNumber": 1
-    },
-    {
-      "id": "true-manufacturing-business-intelligence-co-op-engineering-o-fallon-2026-01-13-1",
-      "jobId": "true-manufacturing-business-intelligence-co-op-engineering-o-fallon",
-      "company": "True Manufacturing",
-      "title": "Business Intelligence Co-op - Engineering",
-      "postedToDiscord": "2026-01-13T03:10:57.230Z",
-      "sourceDate": "2025-09-11T09:34:01.000Z",
-      "sourceUrl": "https://officejobs-truemfg.icims.com/jobs/2673/job?mobile=true&needsRedirect=false",
-      "discordThreadId": "1460471139292676259",
-      "instanceNumber": 1
-    },
     {
       "id": "t-mobile-summer-2026-software-engineering-internship-bellevue-2026-01-13-1",
       "jobId": "t-mobile-summer-2026-software-engineering-internship-bellevue",
@@ -15214,14 +15148,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7369227",
       "discordThreadId": "1462999080958431364",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-industry-strategist-public-sector-chi-remote-2026-01-20-1",
+      "jobId": "stripe-industry-strategist-public-sector-chi-remote",
+      "company": "stripe",
+      "title": "Industry Strategist - Public Sector",
+      "postedToDiscord": "2026-01-20T03:17:35.697Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7385940",
+      "discordThreadId": "1463009533029912771",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-billing-sales-enterprise-west-us-sf-hq-2026-01-20-1",
+      "jobId": "stripe-manager-billing-sales-enterprise-west-us-sf-hq",
+      "company": "stripe",
+      "title": "Manager, Billing Sales (Enterprise West)",
+      "postedToDiscord": "2026-01-20T03:17:37.465Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7460974",
+      "discordThreadId": "1463009540395241574",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-integrated-campaigns-manager-nyc-sf-seattle-2026-01-20-1",
+      "jobId": "stripe-integrated-campaigns-manager-nyc-sf-seattle",
+      "company": "stripe",
+      "title": "Integrated Campaigns Manager",
+      "postedToDiscord": "2026-01-20T03:17:43.970Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7354941",
+      "discordThreadId": "1463009560703795399",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-launch-manager-chicago-2026-01-20-1",
+      "jobId": "stripe-launch-manager-chicago",
+      "company": "stripe",
+      "title": "Launch Manager",
+      "postedToDiscord": "2026-01-20T03:17:50.756Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7407399",
+      "discordThreadId": "1463009587962712067",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-leadership-onboarding-partner-san-francisco-2026-01-20-1",
+      "jobId": "stripe-leadership-onboarding-partner-san-francisco",
+      "company": "stripe",
+      "title": "Leadership Onboarding Partner",
+      "postedToDiscord": "2026-01-20T03:17:54.224Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7488424",
+      "discordThreadId": "1463009603536162929",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-loss-accounting-operational-analytics-seattle-san-francisco-2026-01-20-1",
+      "jobId": "stripe-loss-accounting-operational-analytics-seattle-san-francisco",
+      "company": "stripe",
+      "title": "Loss Accounting, Operational & Analytics",
+      "postedToDiscord": "2026-01-20T03:17:57.814Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7384489",
+      "discordThreadId": "1463009618040193026",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-manager-risk-operations-technical-programs-us-remote-2026-01-20-1",
+      "jobId": "stripe-manager-risk-operations-technical-programs-us-remote",
+      "company": "stripe",
+      "title": "Manager, Risk Operations Technical Programs",
+      "postedToDiscord": "2026-01-20T03:17:59.523Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7169392",
+      "discordThreadId": "1463009632829177987",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-machine-learning-engineer-foundation-model-us-san-francisco-seattle-new-york-city-2026-01-20-1",
+      "jobId": "stripe-machine-learning-engineer-foundation-model-us-san-francisco-seattle-new-york-city",
+      "company": "stripe",
+      "title": "Machine Learning Engineer, Foundation Model",
+      "postedToDiscord": "2026-01-20T03:18:06.176Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7275014",
+      "discordThreadId": "1463009652911505685",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-machine-learning-engineer-identity-product-san-francisco-seattle-2026-01-20-1",
+      "jobId": "stripe-machine-learning-engineer-identity-product-san-francisco-seattle",
+      "company": "stripe",
+      "title": "Machine Learning Engineer, Identity Product",
+      "postedToDiscord": "2026-01-20T03:18:09.604Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6363655",
+      "discordThreadId": "1463009668157673735",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1383,
+    "totalJobs": 1386,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T02:36:03.888Z",
+      "date": "2026-01-20T03:18:09.604Z",
       "archived": 0
     }
   }
