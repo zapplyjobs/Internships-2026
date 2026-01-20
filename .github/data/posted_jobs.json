@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:18:21.478Z",
+  "lastUpdated": "2026-01-20T22:31:22.912Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20252,14 +20252,113 @@
       "sourceUrl": "https://www.brex.com/careers/8316338002?gh_jid=8316338002",
       "discordThreadId": "1463296607905910909",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-commercial-account-executive-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-commercial-account-executive-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-20T22:31:02.913Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8178538002?gh_jid=8178538002",
+      "discordThreadId": "1463299801008312374",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-account-executive-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-account-executive-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-20T22:31:06.277Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7732107002?gh_jid=7732107002",
+      "discordThreadId": "1463299816401535190",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-account-executive-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-account-executive-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Enterprise Account Executive",
+      "postedToDiscord": "2026-01-20T22:31:06.294Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7732133002?gh_jid=7732133002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-implementation-consultant-financial-saas-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-implementation-consultant-financial-saas-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Enterprise Implementation Consultant, Financial Saas",
+      "postedToDiscord": "2026-01-20T22:31:09.822Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8152968002?gh_jid=8152968002",
+      "discordThreadId": "1463299830477750354",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-compliance-manager-card-rewards-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-compliance-manager-card-rewards-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-20T22:31:16.439Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316256002?gh_jid=8316256002",
+      "discordThreadId": "1463299857774285057",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-compliance-manager-card-rewards-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-compliance-manager-card-rewards-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-20T22:31:16.455Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316251002?gh_jid=8316251002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-compliance-manager-card-rewards-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-compliance-manager-card-rewards-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Compliance Manager (Card & Rewards)",
+      "postedToDiscord": "2026-01-20T22:31:16.470Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316257002?gh_jid=8316257002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-security-engineering-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-security-engineering-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, Security Engineering ",
+      "postedToDiscord": "2026-01-20T22:31:22.896Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330465002?gh_jid=8330465002",
+      "discordThreadId": "1463299885871923201",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-security-engineering-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-security-engineering-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, Security Engineering ",
+      "postedToDiscord": "2026-01-20T22:31:22.912Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330477002?gh_jid=8330477002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1841,
+    "totalJobs": 1850,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T22:18:21.478Z",
+      "date": "2026-01-20T22:31:22.912Z",
       "archived": 0
     }
   }
