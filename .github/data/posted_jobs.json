@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T16:19:52.636Z",
+  "lastUpdated": "2026-01-20T16:35:33.055Z",
   "jobs": [
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
@@ -18778,14 +18778,25 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002",
       "discordThreadId": "1463206394097303582",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-product-manager-ads-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-product-manager-ads-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Ads",
+      "postedToDiscord": "2026-01-20T16:35:33.055Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8160578002?gh_jid=8160578002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1707,
+    "totalJobs": 1708,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T16:19:52.636Z",
+      "date": "2026-01-20T16:35:33.055Z",
       "archived": 0
     }
   }
