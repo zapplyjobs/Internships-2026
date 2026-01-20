@@ -162,13 +162,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1807 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1821 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1807 roles
-- **🏢 Companies**: 218 companies  
+- **📁 Total Positions**: 1821 roles
+- **🏢 Companies**: 210 companies  
 - **⭐ FAANG+ Opportunities**: 86 positions
 
 ### ⭐ **FAANG+** (84 positions)
@@ -178,7 +178,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
 | Applied Science Intern | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3106358/2026-applied-science-internship-distributed-systems-and-high-performance-computing) | 2w |
-| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 3w |
+| 2026 Applied Science Internship - Recommender Systems/ Information Retrieval - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3126431/2026-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting) | 4w |
 | Software Development Engineer Internship - Summer 2026 - US | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | 1mo |
 | Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026 | Seattle, WA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | 1mo |
 | 2026 Applied Science Internship - Information & Knowledge Management - Machine Learning | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://amazon.jobs/en/jobs/3127862/2026-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) | 1mo |
@@ -286,8 +286,8 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 4w |
 | AI Factory Cooling R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Cooling-R-D-Intern---Summer-2026_JR2009351) | 4w |
+| AI Factory Digital Twin R&D Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Factory-Digital-Twin-R-D-Intern---Summer-2026_JR2009349) | 4w |
 | Performance Engineer - Gaming | St. Louis, MO | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Gaming---Summer-2026_JR2009268) | 1w |
 | AI Compiler Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Intern---Summer-2026_JR2009431) | 1mo |
 | Autonomous Vehicles and Robotics Intern | Santa Clara, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--Autonomous-Vehicles-and-Robotics_JR2003207) | 1mo |
@@ -456,12 +456,12 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Intern – IT Software Engineer - Ea Eps | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer--EA-EPS_JR88322) | 1w |
 | Intern IT Software Engineer | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR88210) | 1w |
 | Intern – Data Science | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Data-Science_JR87694) | 1w |
+| Intern Computer Engineer - AI/LLM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 3w |
 | Intern – AI/ML Algorithms - Silicon Systems AI | San Jose, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---AI-ML-Algorithms--Silicon-Systems-AI_JR87330) | 1mo |
 | Intern – System Software Engineering | Richardson, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---System-Software-Engineering_JR86013) | 1mo |
 | Intern – HBM Software Engineer | Richardson, TX | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Software-Engineer_JR82921) | 1mo |
 | Intern – Product Yield Analysis and Analytics - Research | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Analysis-and-Analytics--Research-_JR81928) | 1mo |
 | Intern – TPG Global IE | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR81902) | 1mo |
-| Intern Computer Engineer - AI/LLM | Boise, ID | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Computer-Engineer--AI-LLM_JR87533) | 3w |
 
 #### ⚡ **ABB** (5 positions)
 
