@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T19:21:01.603Z",
+  "lastUpdated": "2026-01-20T19:49:56.522Z",
   "jobs": [
     {
       "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
@@ -19075,14 +19075,113 @@
       "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-associate-technical-consultant-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-associate-technical-consultant-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:49:27.411Z",
+      "sourceDate": "2026-01-02T15:38:16-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316344002?gh_jid=8316344002",
+      "discordThreadId": "1463259135796711519",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-associate-technical-consultant-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-associate-technical-consultant-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:49:27.426Z",
+      "sourceDate": "2026-01-02T15:38:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316337002?gh_jid=8316337002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-associate-technical-consultant-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-associate-technical-consultant-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Associate Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:49:27.439Z",
+      "sourceDate": "2026-01-02T15:37:53-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8316335002?gh_jid=8316335002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-accounting-intern-hybrid-new-york-ny-2026-01-20-1",
+      "jobId": "coinbase-accounting-intern-hybrid-new-york-ny",
+      "company": "coinbase",
+      "title": "Accounting Intern",
+      "postedToDiscord": "2026-01-20T19:49:34.136Z",
+      "sourceDate": "2026-01-01T16:46:12-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7404504?gh_jid=7404504",
+      "discordThreadId": "1463259163982430289",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-regulatory-operations-specialist-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-regulatory-operations-specialist-new-york-ny",
+      "company": "spotify",
+      "title": "Regulatory Operations Specialist",
+      "postedToDiscord": "2026-01-20T19:49:37.690Z",
+      "sourceDate": "2025-12-31T17:28:22.174Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/89c320f5-2066-44c4-a465-4ce1db5290c5",
+      "discordThreadId": "1463259178754900272",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-backend-engineer-data-infrastructure-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-backend-engineer-data-infrastructure-new-york-ny",
+      "company": "spotify",
+      "title": "Backend Engineer  - Data Infrastructure",
+      "postedToDiscord": "2026-01-20T19:49:41.073Z",
+      "sourceDate": "2025-12-26T12:49:03.807Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9",
+      "discordThreadId": "1463259193216602285",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-software-engineer-platform-services-remote-2026-01-20-1",
+      "jobId": "supabase-software-engineer-platform-services-remote",
+      "company": "supabase",
+      "title": "Software Engineer: Platform Services",
+      "postedToDiscord": "2026-01-20T19:49:45.956Z",
+      "sourceDate": "2025-12-30T19:19:43.123+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/497d99f8-a848-4e33-8dba-1fd64f83f48b",
+      "discordThreadId": "1463259220890878052",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-technical-support-specialist-east-coast-remote-us-2026-01-20-1",
+      "jobId": "airtable-technical-support-specialist-east-coast-remote-us",
+      "company": "airtable",
+      "title": "Technical Support Specialist - East Coast",
+      "postedToDiscord": "2026-01-20T19:49:52.836Z",
+      "sourceDate": "2025-12-24T08:15:55-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8306093002",
+      "discordThreadId": "1463259241690304552",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-sales-enablement-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-sales-enablement-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Sales Enablement Manager ",
+      "postedToDiscord": "2026-01-20T19:49:56.522Z",
+      "sourceDate": "2025-12-19T15:47:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5739572004?gh_jid=5739572004",
+      "discordThreadId": "1463259257204899842",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1734,
+    "totalJobs": 1743,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T19:21:01.603Z",
+      "date": "2026-01-20T19:49:56.522Z",
       "archived": 0
     }
   }
