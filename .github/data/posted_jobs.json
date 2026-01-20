@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:31:58.797Z",
+  "lastUpdated": "2026-01-20T07:44:57.871Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16820,14 +16820,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7145016",
       "discordThreadId": "1463073544316522633",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-dedicated-service-advisor-chicago-il-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-dedicated-service-advisor-chicago-il-phoenix-az",
+      "company": "gusto",
+      "title": "Dedicated Service Advisor",
+      "postedToDiscord": "2026-01-20T07:44:17.459Z",
+      "sourceDate": "2026-01-09T15:41:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7096984",
+      "discordThreadId": "1463076641277350005",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-process-and-controls-financial-manager-denver-co-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-process-and-controls-financial-manager-denver-co-san-francisco-ca",
+      "company": "gusto",
+      "title": "Process and Controls Financial Manager",
+      "postedToDiscord": "2026-01-20T07:44:24.066Z",
+      "sourceDate": "2026-01-09T15:41:40-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7101583",
+      "discordThreadId": "1463076669374861345",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-expansion-account-manager-denver-co-atlanta-ga-phoenix-az-chicago-il-2026-01-20-1",
+      "jobId": "gusto-expansion-account-manager-denver-co-atlanta-ga-phoenix-az-chicago-il",
+      "company": "gusto",
+      "title": "Expansion Account Manager ",
+      "postedToDiscord": "2026-01-20T07:44:27.613Z",
+      "sourceDate": "2026-01-09T15:41:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6678216",
+      "discordThreadId": "1463076684419829851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-principal-software-engineer-pay-group-engineering-denver-co-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "gusto-principal-software-engineer-pay-group-engineering-denver-co-san-francisco-ca-new-york-ny",
+      "company": "gusto",
+      "title": "Principal Software Engineer - Pay Group Engineering",
+      "postedToDiscord": "2026-01-20T07:44:34.317Z",
+      "sourceDate": "2026-01-09T15:41:39-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7027020",
+      "discordThreadId": "1463076711896846358",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-principal-software-engineer-payroll-new-york-ny-detroit-mi-atlanta-ga-boston-ma-philadelphia-pa-pittsburgh-pa-raleigh-nc-washington-dc-united-states-remote-2026-01-20-1",
+      "jobId": "gusto-principal-software-engineer-payroll-new-york-ny-detroit-mi-atlanta-ga-boston-ma-philadelphia-pa-pittsburgh-pa-raleigh-nc-washington-dc-united-states-remote",
+      "company": "gusto",
+      "title": "Principal Software Engineer - Payroll",
+      "postedToDiscord": "2026-01-20T07:44:34.330Z",
+      "sourceDate": "2026-01-09T15:41:36-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6447954",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-software-engineering-manager-symmetry-scottsdale-az-2026-01-20-1",
+      "jobId": "gusto-software-engineering-manager-symmetry-scottsdale-az",
+      "company": "gusto",
+      "title": "Software Engineering Manager, Symmetry ",
+      "postedToDiscord": "2026-01-20T07:44:37.871Z",
+      "sourceDate": "2026-01-09T15:41:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/5959078",
+      "discordThreadId": "1463076727424291010",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sr-staff-software-engineer-entity-management-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-sr-staff-software-engineer-entity-management-san-francisco-ca",
+      "company": "gusto",
+      "title": "Sr Staff Software Engineer, Entity Management",
+      "postedToDiscord": "2026-01-20T07:44:44.418Z",
+      "sourceDate": "2026-01-09T15:41:38-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6963453",
+      "discordThreadId": "1463076755093852304",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-corporate-development-partnerships-deal-lead-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-corporate-development-partnerships-deal-lead-san-francisco-ca",
+      "company": "gusto",
+      "title": "Corporate Development & Partnerships Deal Lead",
+      "postedToDiscord": "2026-01-20T07:44:51.093Z",
+      "sourceDate": "2026-01-09T15:41:35-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/6348898",
+      "discordThreadId": "1463076782461812787",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-staff-software-engineer-payments-and-risk-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-chicago-il-2026-01-20-1",
+      "jobId": "gusto-senior-staff-software-engineer-payments-and-risk-denver-co-san-francisco-ca-new-york-ny-los-angeles-ca-seattle-wa-chicago-il",
+      "company": "gusto",
+      "title": "Senior Staff Software Engineer, Payments and Risk",
+      "postedToDiscord": "2026-01-20T07:44:57.871Z",
+      "sourceDate": "2026-01-09T15:41:34-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/5864071",
+      "discordThreadId": "1463076810295349271",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1529,
+    "totalJobs": 1538,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:31:58.797Z",
+      "date": "2026-01-20T07:44:57.871Z",
       "archived": 0
     }
   }
