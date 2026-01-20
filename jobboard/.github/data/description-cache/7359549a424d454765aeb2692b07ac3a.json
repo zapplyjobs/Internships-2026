@@ -1,0 +1,17 @@
+{
+  "url": "https://stripe.com/jobs/search?gh_jid=7440960",
+  "data": {
+    "success": true,
+    "platform": "generic",
+    "description": "Help increase the GDP of the internet as part of our Customer Success team.",
+    "requirements": null,
+    "responsibilities": null,
+    "metadata": {
+      "source": "generic",
+      "extractionMethod": "meta-tags",
+      "url": "https://stripe.com/jobs/search?gh_jid=7440960",
+      "fetchedAt": "2026-01-20T03:53:44.241Z"
+    }
+  },
+  "cachedAt": 1768881224241
+}
