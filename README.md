@@ -152,13 +152,13 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1834 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Internships & New Grad Roles</strong> - 1823 (7+ days old) - Click to Expand</h2></summary>
 
 > Some positions may still be accepting applications or useful for planning.
 
 ### **Archived Opportunity Stats**
-- **📁 Total Positions**: 1834 roles
-- **🏢 Companies**: 202 companies  
+- **📁 Total Positions**: 1823 roles
+- **🏢 Companies**: 201 companies  
 - **⭐ FAANG+ Opportunities**: 87 positions
 
 ### ⭐ **FAANG+** (85 positions)
@@ -395,10 +395,10 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Software Engineering Intern - Connected Systems - Summer 2026 | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27486?lang=en-us&icims=1) | 1mo |
 | Software Engineering Intern - Applications - Infotainment & Mobile | Palo Alto, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rivian.com/jobs/27405?lang=en-us&icims=1) | 1mo |
 
-### 🛡️ **Defense & Aerospace** (19 positions)
+### 🛡️ **Defense & Aerospace** (18 positions)
 
 <details>
-<summary><h4>🚗 <strong>Waymo</strong> (19 positions)</h4></summary>
+<summary><h4>🚗 <strong>Waymo</strong> (18 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -413,7 +413,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 | Software Engineering, Fleet Response | San Francisco, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-fleet-response-mountain-view-california-united-states-san-francisco?gh_jid=7347429) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Strategic Selection | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7342413) | 1mo |
 | 2026 Summer Intern - PhD - Software Engineer - Due | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7315982) | 1mo |
-| Intern - Research - Multimodal Large Language Models | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7298453) | 1mo |
 | Intern - Research - 3D/4D Scene Reconstruction and Understanding | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7280172) | 1mo |
 | Intern - Research - Perception Foundation Models | Mountain View, CA | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs?gh_jid=7274784) | 1mo |
 | Software Engineering, Commercialization | Mountain View, CA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-commercialization-mountain-view-california-united-states-san-francisco) | 1mo |
