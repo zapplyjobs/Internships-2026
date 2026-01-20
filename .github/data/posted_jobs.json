@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T03:54:20.267Z",
+  "lastUpdated": "2026-01-20T04:20:30.580Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15335,14 +15335,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7246905",
       "discordThreadId": "1463018779880722454",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-partner-development-manager-aws-partnership-us-seattle-us-remote-2026-01-20-1",
+      "jobId": "stripe-partner-development-manager-aws-partnership-us-seattle-us-remote",
+      "company": "stripe",
+      "title": "Partner Development Manager, AWS Partnership",
+      "postedToDiscord": "2026-01-20T04:19:52.205Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7435884",
+      "discordThreadId": "1463025197484347495",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-partner-development-manager-communities-us-chicago-us-nyc-us-remote-us-seattle-sf-hq-2026-01-20-1",
+      "jobId": "stripe-partner-development-manager-communities-us-chicago-us-nyc-us-remote-us-seattle-sf-hq",
+      "company": "stripe",
+      "title": "Partner Development Manager- Communities",
+      "postedToDiscord": "2026-01-20T04:19:55.739Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7411991",
+      "discordThreadId": "1463025212470591591",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-partner-solutions-architect-chicago-or-atlanta-2026-01-20-1",
+      "jobId": "stripe-partner-solutions-architect-chicago-or-atlanta",
+      "company": "stripe",
+      "title": "Partner Solutions Architect",
+      "postedToDiscord": "2026-01-20T04:19:59.252Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7411434",
+      "discordThreadId": "1463025227180146861",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-partner-development-manager-sales-aligned-us-chicago-us-nyc-us-sf-us-remote-2026-01-20-1",
+      "jobId": "stripe-partner-development-manager-sales-aligned-us-chicago-us-nyc-us-sf-us-remote",
+      "company": "stripe",
+      "title": "Partner Development Manager, Sales Aligned",
+      "postedToDiscord": "2026-01-20T04:20:05.938Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7411985",
+      "discordThreadId": "1463025254661099604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-principal-customer-success-manager-enterprise-seattle-wa-atlanta-ga-chicago-il-2026-01-20-1",
+      "jobId": "stripe-principal-customer-success-manager-enterprise-seattle-wa-atlanta-ga-chicago-il",
+      "company": "stripe",
+      "title": "Principal Customer Success Manager, Enterprise",
+      "postedToDiscord": "2026-01-20T04:20:09.357Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7463614",
+      "discordThreadId": "1463025269873971395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-principal-customer-success-manager-platforms-us-2026-01-20-1",
+      "jobId": "stripe-principal-customer-success-manager-platforms-us",
+      "company": "stripe",
+      "title": "Principal Customer Success Manager, Platforms ",
+      "postedToDiscord": "2026-01-20T04:20:11.461Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7248610",
+      "discordThreadId": "1463025284054782016",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-payments-performance-data-insights-analyst-seattle-wa-san-francisco-ca-2026-01-20-1",
+      "jobId": "stripe-payments-performance-data-insights-analyst-seattle-wa-san-francisco-ca",
+      "company": "stripe",
+      "title": "Payments Performance Data Insights Analyst ",
+      "postedToDiscord": "2026-01-20T04:20:17.905Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7440960",
+      "discordThreadId": "1463025306028871711",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-phd-machine-learning-engineer-intern-san-francisco-new-york-city-seattle-2026-01-20-1",
+      "jobId": "stripe-phd-machine-learning-engineer-intern-san-francisco-new-york-city-seattle",
+      "company": "stripe",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "postedToDiscord": "2026-01-20T04:20:24.611Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7216664",
+      "discordThreadId": "1463025333023539350",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-phd-machine-learning-engineer-new-grad-san-francisco-new-york-city-seattle-2026-01-20-1",
+      "jobId": "stripe-phd-machine-learning-engineer-new-grad-san-francisco-new-york-city-seattle",
+      "company": "stripe",
+      "title": "PhD Machine Learning Engineer, New Grad",
+      "postedToDiscord": "2026-01-20T04:20:30.579Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7216668",
+      "discordThreadId": "1463025355534368798",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1394,
+    "totalJobs": 1403,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T03:54:20.267Z",
+      "date": "2026-01-20T04:20:30.580Z",
       "archived": 0
     }
   }
