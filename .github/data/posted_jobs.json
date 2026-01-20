@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:09:31.428Z",
+  "lastUpdated": "2026-01-20T11:21:12.247Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18404,14 +18404,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7314667/?gh_jid=7314667",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-strategic-account-executive-sled-kansas-usa-remote-missouri-usa-remote-washington-usa-remote-2026-01-20-1",
+      "jobId": "datadog-strategic-account-executive-sled-kansas-usa-remote-missouri-usa-remote-washington-usa-remote",
+      "company": "datadog",
+      "title": "Strategic Account Executive (SLED)",
+      "postedToDiscord": "2026-01-20T11:20:39.553Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945",
+      "discordThreadId": "1463131093128581231",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-technical-account-manager-2-new-york-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-technical-account-manager-2-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Technical Account Manager 2 - New York",
+      "postedToDiscord": "2026-01-20T11:20:43.086Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7411889/?gh_jid=7411889",
+      "discordThreadId": "1463131107372437667",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-designer-advocate-figma-weave-new-york-united-states-new-york-ny-2026-01-20-1",
+      "jobId": "figma-designer-advocate-figma-weave-new-york-united-states-new-york-ny",
+      "company": "figma",
+      "title": "Designer Advocate - Figma Weave (New York, United States)",
+      "postedToDiscord": "2026-01-20T11:20:46.820Z",
+      "sourceDate": "2026-01-09T05:46:50-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5692764004?gh_jid=5692764004",
+      "discordThreadId": "1463131122400755818",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-technical-content-writer-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-technical-content-writer-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Technical Content Writer",
+      "postedToDiscord": "2026-01-20T11:20:53.676Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7251099/?gh_jid=7251099",
+      "discordThreadId": "1463131150951125100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-growth-marketing-manager-us-2026-01-20-1",
+      "jobId": "clerk-growth-marketing-manager-us",
+      "company": "clerk",
+      "title": "Growth Marketing Manager",
+      "postedToDiscord": "2026-01-20T11:20:55.422Z",
+      "sourceDate": "2026-01-09T15:52:02.031+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/ff7f55e6-30f7-447f-9d77-6230497f32f7",
+      "discordThreadId": "1463131166453399636",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-technical-support-engineer-2-premier-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-technical-support-engineer-2-premier-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Technical Support Engineer 2, Premier - Denver",
+      "postedToDiscord": "2026-01-20T11:21:00.325Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260",
+      "discordThreadId": "1463131187349426186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-salesforce-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-salesforce-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-20T11:21:03.798Z",
+      "sourceDate": "2026-01-08T18:07:55-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367554002?gh_jid=8367554002",
+      "discordThreadId": "1463131194458771460",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-associate-product-manager-intern-hybrid-san-francisco-ca-2026-01-20-1",
+      "jobId": "coinbase-associate-product-manager-intern-hybrid-san-francisco-ca",
+      "company": "coinbase",
+      "title": "Associate Product Manager Intern",
+      "postedToDiscord": "2026-01-20T11:21:10.468Z",
+      "sourceDate": "2026-01-09T12:26:13-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269743?gh_jid=7269743",
+      "discordThreadId": "1463131222304751749",
+      "instanceNumber": 1
+    },
+    {
+      "id": "clerk-aeo-seo-lead-us-2026-01-20-1",
+      "jobId": "clerk-aeo-seo-lead-us",
+      "company": "clerk",
+      "title": "AEO/SEO Lead",
+      "postedToDiscord": "2026-01-20T11:21:12.247Z",
+      "sourceDate": "2026-01-09T15:55:34.637+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/clerk/750c32ee-052e-4ec8-a4c0-91f219908088",
+      "discordThreadId": "1463131237077221556",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1673,
+    "totalJobs": 1682,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T11:09:31.428Z",
+      "date": "2026-01-20T11:21:12.247Z",
       "archived": 0
     }
   }
