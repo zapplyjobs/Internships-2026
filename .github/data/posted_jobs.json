@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T04:20:30.580Z",
+  "lastUpdated": "2026-01-20T04:38:00.364Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15434,14 +15434,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7216668",
       "discordThreadId": "1463025355534368798",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-compliance-manager-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-compliance-manager-us-remote",
+      "company": "stripe",
+      "title": "Product Compliance Manager",
+      "postedToDiscord": "2026-01-20T04:37:33.598Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7492693",
+      "discordThreadId": "1463029657002577981",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-designer-dashboard-sf-seattle-new-york-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-product-designer-dashboard-sf-seattle-new-york-remote-in-the-us",
+      "company": "stripe",
+      "title": "Product Designer, Dashboard",
+      "postedToDiscord": "2026-01-20T04:37:37.100Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6895159",
+      "discordThreadId": "1463029664384552960",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-design-intern-new-york-city-2026-01-20-1",
+      "jobId": "stripe-product-design-intern-new-york-city",
+      "company": "stripe",
+      "title": "Product Design Intern",
+      "postedToDiscord": "2026-01-20T04:37:41.070Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7444170",
+      "discordThreadId": "1463029678670483489",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-bridge-new-york-or-san-francisco-2026-01-20-1",
+      "jobId": "stripe-product-manager-bridge-new-york-or-san-francisco",
+      "company": "stripe",
+      "title": "Product Manager, Bridge",
+      "postedToDiscord": "2026-01-20T04:37:47.598Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7453988",
+      "discordThreadId": "1463029708055777342",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-card-costs-and-settlement-sf-ny-sea-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-manager-card-costs-and-settlement-sf-ny-sea-us-remote",
+      "company": "stripe",
+      "title": "Product Manager, Card Costs and Settlement",
+      "postedToDiscord": "2026-01-20T04:37:49.838Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7176532",
+      "discordThreadId": "1463029724388266143",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-cards-pricing-sf-ny-sea-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-manager-cards-pricing-sf-ny-sea-us-remote",
+      "company": "stripe",
+      "title": "Product Manager, Cards Pricing",
+      "postedToDiscord": "2026-01-20T04:37:51.676Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7435001",
+      "discordThreadId": "1463029731950592188",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-cards-vault-sf-sea-us-remote-west-2026-01-20-1",
+      "jobId": "stripe-product-manager-cards-vault-sf-sea-us-remote-west",
+      "company": "stripe",
+      "title": "Product Manager, Cards Vault",
+      "postedToDiscord": "2026-01-20T04:37:53.380Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7306879",
+      "discordThreadId": "1463029739634823320",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-compliance-platform-san-francisco-seattle-new-york-us-remote-2026-01-20-1",
+      "jobId": "stripe-product-manager-compliance-platform-san-francisco-seattle-new-york-us-remote",
+      "company": "stripe",
+      "title": "Product Manager, Compliance Platform",
+      "postedToDiscord": "2026-01-20T04:37:56.893Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7363602",
+      "discordThreadId": "1463029747004211234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-product-manager-local-payment-methods-new-york-2026-01-20-1",
+      "jobId": "stripe-product-manager-local-payment-methods-new-york",
+      "company": "stripe",
+      "title": "Product Manager, Local Payment Methods",
+      "postedToDiscord": "2026-01-20T04:38:00.364Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7187035",
+      "discordThreadId": "1463029762074083496",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1403,
+    "totalJobs": 1412,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T04:20:30.580Z",
+      "date": "2026-01-20T04:38:00.364Z",
       "archived": 0
     }
   }
