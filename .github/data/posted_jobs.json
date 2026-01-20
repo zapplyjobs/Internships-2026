@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T09:22:05.435Z",
+  "lastUpdated": "2026-01-20T09:38:10.018Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17612,14 +17612,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7488348/?gh_jid=7488348",
       "discordThreadId": "1463101260948570239",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-i-engineering-language-platform-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-i-engineering-language-platform-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager I, Engineering - Language Platform",
+      "postedToDiscord": "2026-01-20T09:37:35.120Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7308940/?gh_jid=7308940",
+      "discordThreadId": "1463105153224806642",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-people-analytics-data-platform-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-people-analytics-data-platform-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager, People Analytics Data Platform",
+      "postedToDiscord": "2026-01-20T09:37:38.605Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678",
+      "discordThreadId": "1463105168060190824",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-ii-engineering-bits-ai-security-analyst-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-ii-engineering-bits-ai-security-analyst-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager II, Engineering - Bits AI Security Analyst",
+      "postedToDiscord": "2026-01-20T09:37:45.299Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7482671/?gh_jid=7482671",
+      "discordThreadId": "1463105195868160113",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-networking-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-networking-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager, Networking",
+      "postedToDiscord": "2026-01-20T09:37:52.163Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6632056/?gh_jid=6632056",
+      "discordThreadId": "1463105223521472615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-people-analyst-ii-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-people-analyst-ii-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "People Analyst II",
+      "postedToDiscord": "2026-01-20T09:37:55.772Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7493743/?gh_jid=7493743",
+      "discordThreadId": "1463105239703093393",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-mid-market-account-executive-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-mid-market-account-executive-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-20T09:38:02.975Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6665385/?gh_jid=6665385",
+      "discordThreadId": "1463105268278624391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-mid-market-account-executive-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-mid-market-account-executive-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Mid Market Account Executive",
+      "postedToDiscord": "2026-01-20T09:38:02.987Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6163246/?gh_jid=6163246",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-mid-market-account-executive-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-mid-market-account-executive-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (Boston)",
+      "postedToDiscord": "2026-01-20T09:38:06.437Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6798820/?gh_jid=6798820",
+      "discordThreadId": "1463105284930146386",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-mid-market-account-executive-san-francisco-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-mid-market-account-executive-san-francisco-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Mid-Market Account Executive (San Francisco)",
+      "postedToDiscord": "2026-01-20T09:38:10.017Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7082012/?gh_jid=7082012",
+      "discordThreadId": "1463105299350032439",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1601,
+    "totalJobs": 1610,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T09:22:05.435Z",
+      "date": "2026-01-20T09:38:10.018Z",
       "archived": 0
     }
   }
