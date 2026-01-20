@@ -1,51 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:41:36.930Z",
+  "lastUpdated": "2026-01-20T23:50:01.458Z",
   "jobs": [
-    {
-      "id": "assetmark-data-intern-charlotte-2026-01-13-1",
-      "jobId": "assetmark-data-intern-charlotte",
-      "company": "AssetMark",
-      "title": "Data Intern",
-      "postedToDiscord": "2026-01-13T23:44:55.513Z",
-      "sourceDate": "2026-01-13T23:22:33.000Z",
-      "sourceUrl": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Data-Intern_Req-003643",
-      "discordThreadId": "1460781676887281674",
-      "instanceNumber": 1
-    },
-    {
-      "id": "nutanix-software-engineering-intern-c-linux-durham-2026-01-13-1",
-      "jobId": "nutanix-software-engineering-intern-c-linux-durham",
-      "company": "Nutanix",
-      "title": "Software Engineering Intern - C++ - Linux",
-      "postedToDiscord": "2026-01-13T23:44:59.004Z",
-      "sourceDate": "2025-11-25T14:06:52.000Z",
-      "sourceUrl": "https://jobs.jobvite.com/nutanix/job/ozZfyfw5?nl=1&nl=1&fr=false",
-      "discordThreadId": "1460781692984758448",
-      "instanceNumber": 1
-    },
-    {
-      "id": "zoox-reliability-data-intern-san-mateo-2026-01-13-1",
-      "jobId": "zoox-reliability-data-intern-san-mateo",
-      "company": "Zoox",
-      "title": "Reliability Data Intern",
-      "postedToDiscord": "2026-01-13T23:45:05.421Z",
-      "sourceDate": "2026-01-13T23:13:59.000Z",
-      "sourceUrl": "https://jobs.lever.co/zoox/447c8d5f-7610-4c94-b2f3-16deac16a5a2/apply",
-      "discordThreadId": "1460781720411570196",
-      "instanceNumber": 1
-    },
-    {
-      "id": "rtx-summer-2026-network-research-intern-onsite-cambridge-2026-01-13-1",
-      "jobId": "rtx-summer-2026-network-research-intern-onsite-cambridge",
-      "company": "RTX",
-      "title": "Summer 2026: Network Research Intern - Onsite",
-      "postedToDiscord": "2026-01-13T23:45:11.972Z",
-      "sourceDate": "2025-11-01T10:27:14.000Z",
-      "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026--Network-Research-Intern--Onsite-_01803759",
-      "discordThreadId": "1460781747523555480",
-      "instanceNumber": 1
-    },
     {
       "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
       "jobId": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno",
@@ -21044,14 +21000,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
       "discordThreadId": "1463317560517984418",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-enterprise-support-specialist-japanese-speaking-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-enterprise-support-specialist-japanese-speaking-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Japanese Speaking",
+      "postedToDiscord": "2026-01-20T23:49:28.449Z",
+      "sourceDate": "2025-12-09T17:11:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5728959004?gh_jid=5728959004",
+      "discordThreadId": "1463319537796513946",
+      "instanceNumber": 1
+    },
+    {
+      "id": "instacart-senior-machine-learning-engineer-ii-ai-special-projects-us-remote-2026-01-20-1",
+      "jobId": "instacart-senior-machine-learning-engineer-ii-ai-special-projects-us-remote",
+      "company": "instacart",
+      "title": "Senior Machine Learning Engineer II - AI Special Projects",
+      "postedToDiscord": "2026-01-20T23:49:32.908Z",
+      "sourceDate": "2025-12-09T15:32:38-05:00",
+      "sourceUrl": "https://instacart.careers/job/?gh_jid=7456299",
+      "discordThreadId": "1463319556419354646",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-staff-analytics-engineer-dallas-2026-01-20-1",
+      "jobId": "gohighlevel-staff-analytics-engineer-dallas",
+      "company": "gohighlevel",
+      "title": "Staff Analytics Engineer",
+      "postedToDiscord": "2026-01-20T23:49:34.648Z",
+      "sourceDate": "2025-12-09T04:58:13.829Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/47e51c81-6464-429a-a8a5-b15383da5362",
+      "discordThreadId": "1463319571619381390",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-director-of-sales-emerging-scaled-new-business-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-director-of-sales-emerging-scaled-new-business-new-york-ny",
+      "company": "spotify",
+      "title": "Director of Sales, Emerging & Scaled (New Business)",
+      "postedToDiscord": "2026-01-20T23:49:38.093Z",
+      "sourceDate": "2025-12-08T21:40:09.496Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/1ef1c258-c89b-40d5-b269-5808eb35ddb5",
+      "discordThreadId": "1463319578854559913",
+      "instanceNumber": 1
+    },
+    {
+      "id": "retool-enterprise-support-engineer-amer-new-york-ny-2026-01-20-1",
+      "jobId": "retool-enterprise-support-engineer-amer-new-york-ny",
+      "company": "retool",
+      "title": "Enterprise Support Engineer, AMER",
+      "postedToDiscord": "2026-01-20T23:49:41.590Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4633560005",
+      "discordThreadId": "1463319593593606198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "retool-ux-researcher-san-francisco-ca-2026-01-20-1",
+      "jobId": "retool-ux-researcher-san-francisco-ca",
+      "company": "retool",
+      "title": "UX Researcher",
+      "postedToDiscord": "2026-01-20T23:49:44.968Z",
+      "sourceDate": "2025-12-08T12:29:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/retool/jobs/4628161005",
+      "discordThreadId": "1463319607703109704",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-mixed-methods-researcher-music-mission-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-mixed-methods-researcher-music-mission-new-york-ny",
+      "company": "spotify",
+      "title": "Mixed Methods Researcher - Music Mission",
+      "postedToDiscord": "2026-01-20T23:49:48.515Z",
+      "sourceDate": "2025-12-08T03:55:40.260Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/153a90f2-5762-411a-a283-5c8efae519ea",
+      "discordThreadId": "1463319621976461526",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-data-engineer-ii-gen-ai-music-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-data-engineer-ii-gen-ai-music-new-york-ny",
+      "company": "spotify",
+      "title": "Data Engineer II - Gen AI - Music",
+      "postedToDiscord": "2026-01-20T23:49:54.934Z",
+      "sourceDate": "2025-12-09T16:02:19.950Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/87ac8be9-799d-414f-b855-70a1cf2729b4",
+      "discordThreadId": "1463319649868451851",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-technical-recruiter-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-technical-recruiter-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Technical Recruiter",
+      "postedToDiscord": "2026-01-20T23:50:01.457Z",
+      "sourceDate": "2025-12-05T17:12:45-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
+      "discordThreadId": "1463319676711993396",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1913,
+    "totalJobs": 1918,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:41:36.930Z",
+      "date": "2026-01-20T23:50:01.458Z",
       "archived": 0
     }
   }

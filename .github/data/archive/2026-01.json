@@ -4420,5 +4420,49 @@
     "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103273574",
     "discordThreadId": "1460736016540238059",
     "instanceNumber": 1
+  },
+  {
+    "id": "assetmark-data-intern-charlotte-2026-01-13-1",
+    "jobId": "assetmark-data-intern-charlotte",
+    "company": "AssetMark",
+    "title": "Data Intern",
+    "postedToDiscord": "2026-01-13T23:44:55.513Z",
+    "sourceDate": "2026-01-13T23:22:33.000Z",
+    "sourceUrl": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Data-Intern_Req-003643",
+    "discordThreadId": "1460781676887281674",
+    "instanceNumber": 1
+  },
+  {
+    "id": "nutanix-software-engineering-intern-c-linux-durham-2026-01-13-1",
+    "jobId": "nutanix-software-engineering-intern-c-linux-durham",
+    "company": "Nutanix",
+    "title": "Software Engineering Intern - C++ - Linux",
+    "postedToDiscord": "2026-01-13T23:44:59.004Z",
+    "sourceDate": "2025-11-25T14:06:52.000Z",
+    "sourceUrl": "https://jobs.jobvite.com/nutanix/job/ozZfyfw5?nl=1&nl=1&fr=false",
+    "discordThreadId": "1460781692984758448",
+    "instanceNumber": 1
+  },
+  {
+    "id": "zoox-reliability-data-intern-san-mateo-2026-01-13-1",
+    "jobId": "zoox-reliability-data-intern-san-mateo",
+    "company": "Zoox",
+    "title": "Reliability Data Intern",
+    "postedToDiscord": "2026-01-13T23:45:05.421Z",
+    "sourceDate": "2026-01-13T23:13:59.000Z",
+    "sourceUrl": "https://jobs.lever.co/zoox/447c8d5f-7610-4c94-b2f3-16deac16a5a2/apply",
+    "discordThreadId": "1460781720411570196",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rtx-summer-2026-network-research-intern-onsite-cambridge-2026-01-13-1",
+    "jobId": "rtx-summer-2026-network-research-intern-onsite-cambridge",
+    "company": "RTX",
+    "title": "Summer 2026: Network Research Intern - Onsite",
+    "postedToDiscord": "2026-01-13T23:45:11.972Z",
+    "sourceDate": "2025-11-01T10:27:14.000Z",
+    "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Summer-2026--Network-Research-Intern--Onsite-_01803759",
+    "discordThreadId": "1460781747523555480",
+    "instanceNumber": 1
   }
 ]
