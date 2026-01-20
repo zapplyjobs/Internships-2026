@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:31:01.148Z",
+  "lastUpdated": "2026-01-20T23:41:36.930Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20945,14 +20945,113 @@
       "sourceUrl": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-startups-account-executive-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-startups-account-executive-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Startups Account Executive",
+      "postedToDiscord": "2026-01-20T23:41:08.705Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8237738002?gh_jid=8237738002",
+      "discordThreadId": "1463317441810665580",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-startups-account-executive-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-startups-account-executive-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Startups Account Executive",
+      "postedToDiscord": "2026-01-20T23:41:08.721Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8237737002?gh_jid=8237737002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-startups-ambassador-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-startups-ambassador-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "postedToDiscord": "2026-01-20T23:41:12.068Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8308368002?gh_jid=8308368002",
+      "discordThreadId": "1463317456570421372",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-startups-ambassador-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-startups-ambassador-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Startups Ambassador",
+      "postedToDiscord": "2026-01-20T23:41:12.083Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8308452002?gh_jid=8308452002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-support-specialist-i-remote-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-support-specialist-i-remote-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Support Specialist I (Remote)",
+      "postedToDiscord": "2026-01-20T23:41:15.565Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8322493002?gh_jid=8322493002",
+      "discordThreadId": "1463317470990434498",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-manager-sales-operations-commissions-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-manager-sales-operations-commissions-new-york-ny",
+      "company": "spotify",
+      "title": "Manager, Sales Operations – Commissions",
+      "postedToDiscord": "2026-01-20T23:41:22.056Z",
+      "sourceDate": "2025-12-04T21:23:29.023Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/e35594fa-1c62-487d-833f-774878b6e829",
+      "discordThreadId": "1463317498308071584",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-enterprise-support-specialist-portuguese-speaking-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-enterprise-support-specialist-portuguese-speaking-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Portuguese Speaking",
+      "postedToDiscord": "2026-01-20T23:41:26.902Z",
+      "sourceDate": "2025-12-09T17:11:54-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733496004?gh_jid=5733496004",
+      "discordThreadId": "1463317513264693360",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-enterprise-support-specialist-korean-speaking-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-enterprise-support-specialist-korean-speaking-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Korean Speaking",
+      "postedToDiscord": "2026-01-20T23:41:30.371Z",
+      "sourceDate": "2025-12-09T17:11:52-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5733495004?gh_jid=5733495004",
+      "discordThreadId": "1463317533011738819",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-software-engineer-distributed-systems-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-software-engineer-distributed-systems-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Software Engineer, Distributed Systems",
+      "postedToDiscord": "2026-01-20T23:41:36.930Z",
+      "sourceDate": "2025-11-20T11:37:36-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004",
+      "discordThreadId": "1463317560517984418",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1904,
+    "totalJobs": 1913,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:31:01.148Z",
+      "date": "2026-01-20T23:41:36.930Z",
       "archived": 0
     }
   }
