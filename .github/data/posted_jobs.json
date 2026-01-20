@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:21:12.247Z",
+  "lastUpdated": "2026-01-20T11:34:19.011Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -18503,14 +18503,113 @@
       "sourceUrl": "https://jobs.ashbyhq.com/clerk/750c32ee-052e-4ec8-a4c0-91f219908088",
       "discordThreadId": "1463131237077221556",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-economist-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-staff-economist-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-20T11:33:58.592Z",
+      "sourceDate": "2026-01-08T13:55:36-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8340994002?gh_jid=8340994002",
+      "discordThreadId": "1463134444130009118",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-manager-customer-success-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-manager-customer-success-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-20T11:34:02.276Z",
+      "sourceDate": "2026-01-08T12:41:56-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283503002?gh_jid=8283503002",
+      "discordThreadId": "1463134458810204162",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-manager-customer-success-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-manager-customer-success-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-20T11:34:02.291Z",
+      "sourceDate": "2026-01-08T12:41:54-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283452002?gh_jid=8283452002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-manager-customer-success-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-manager-customer-success-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-20T11:34:02.302Z",
+      "sourceDate": "2026-01-08T12:41:50-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283446002?gh_jid=8283446002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-salesforce-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-salesforce-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, Salesforce",
+      "postedToDiscord": "2026-01-20T11:34:08.901Z",
+      "sourceDate": "2026-01-08T18:07:24-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339005002?gh_jid=8339005002",
+      "discordThreadId": "1463134487209836688",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-gtm-engineering-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-gtm-engineering-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-20T11:34:12.547Z",
+      "sourceDate": "2026-01-08T18:06:08-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
+      "discordThreadId": "1463134502133170198",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-gtm-engineering-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-gtm-engineering-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-20T11:34:12.560Z",
+      "sourceDate": "2026-01-08T18:05:06-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8367549002?gh_jid=8367549002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-engineering-manager-gtm-engineering-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-engineering-manager-gtm-engineering-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Engineering Manager, GTM Engineering ",
+      "postedToDiscord": "2026-01-20T11:34:12.575Z",
+      "sourceDate": "2026-01-08T18:04:28-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-activation-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-activation-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-20T11:34:19.011Z",
+      "sourceDate": "2026-01-08T13:42:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
+      "discordThreadId": "1463134530134216898",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1682,
+    "totalJobs": 1691,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T11:21:12.247Z",
+      "date": "2026-01-20T11:34:19.011Z",
       "archived": 0
     }
   }
