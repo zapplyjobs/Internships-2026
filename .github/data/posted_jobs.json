@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:03:43.963Z",
+  "lastUpdated": "2026-01-20T23:17:53.498Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20747,14 +20747,113 @@
       "sourceUrl": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-risk-management-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-risk-management-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-20T23:17:40.263Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184694002?gh_jid=8184694002",
+      "discordThreadId": "1463311533739085875",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-risk-management-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-risk-management-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management ",
+      "postedToDiscord": "2026-01-20T23:17:40.280Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184695002?gh_jid=8184695002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-gtm-recruiter-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-senior-gtm-recruiter-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-20T23:17:46.782Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8075285002?gh_jid=8075285002",
+      "discordThreadId": "1463311561803301068",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-gtm-recruiter-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-gtm-recruiter-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-20T23:17:46.799Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8073147002?gh_jid=8073147002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-gtm-recruiter-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-gtm-recruiter-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior GTM Recruiter",
+      "postedToDiscord": "2026-01-20T23:17:46.812Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8093385002?gh_jid=8093385002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-manager-implementation-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-senior-manager-implementation-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": " Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-20T23:17:53.453Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8222783002?gh_jid=8222783002",
+      "discordThreadId": "1463311589741559860",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-manager-implementation-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-manager-implementation-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-20T23:17:53.467Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216085002?gh_jid=8216085002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-manager-implementation-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-manager-implementation-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-20T23:17:53.481Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8216086002?gh_jid=8216086002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-manager-implementation-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-manager-implementation-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Manager, Implementation",
+      "postedToDiscord": "2026-01-20T23:17:53.497Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8215986002?gh_jid=8215986002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1886,
+    "totalJobs": 1895,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:03:43.963Z",
+      "date": "2026-01-20T23:17:53.498Z",
       "archived": 0
     }
   }
