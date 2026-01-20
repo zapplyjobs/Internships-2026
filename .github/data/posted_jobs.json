@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T16:53:55.248Z",
+  "lastUpdated": "2026-01-20T17:08:32.826Z",
   "jobs": [
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
@@ -18811,14 +18811,25 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8337282002?gh_jid=8337282002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-product-manager-monetization-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-product-manager-monetization-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior Product Manager, Monetization",
+      "postedToDiscord": "2026-01-20T17:08:32.826Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
+      "discordThreadId": "1463218641746002237",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1710,
+    "totalJobs": 1711,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T16:53:55.248Z",
+      "date": "2026-01-20T17:08:32.826Z",
       "archived": 0
     }
   }
