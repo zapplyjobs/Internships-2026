@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T17:35:23.156Z",
+  "lastUpdated": "2026-01-20T17:51:07.668Z",
   "jobs": [
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
@@ -18888,14 +18888,80 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8200010002?gh_jid=8200010002",
       "discordThreadId": "1463225396047646771",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-staff-android-engineer-client-architecture-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-staff-android-engineer-client-architecture-new-york-ny",
+      "company": "duolingo",
+      "title": "Staff Android Engineer, Client Architecture",
+      "postedToDiscord": "2026-01-20T17:50:46.662Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002",
+      "discordThreadId": "1463229269563015199",
+      "instanceNumber": 1
+    },
+    {
+      "id": "cloudflare-senior-security-compliance-specialist-dod-remote-us-2026-01-20-1",
+      "jobId": "cloudflare-senior-security-compliance-specialist-dod-remote-us",
+      "company": "cloudflare",
+      "title": "Senior Security Compliance Specialist (DoD)",
+      "postedToDiscord": "2026-01-20T17:50:50.260Z",
+      "sourceDate": "2026-01-06T20:21:27-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/cloudflare/jobs/7514944?gh_jid=7514944",
+      "discordThreadId": "1463229284339421326",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-software-engineer-ii-frontend-platform-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-software-engineer-ii-frontend-platform-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Software Engineer II, Frontend Platform ",
+      "postedToDiscord": "2026-01-20T17:50:54.065Z",
+      "sourceDate": "2026-01-06T17:45:43-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8353867002?gh_jid=8353867002",
+      "discordThreadId": "1463229299107565640",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-gm-surfaces-personalization-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-gm-surfaces-personalization-new-york-ny",
+      "company": "spotify",
+      "title": "GM, Surfaces Personalization",
+      "postedToDiscord": "2026-01-20T17:51:00.583Z",
+      "sourceDate": "2026-01-07T08:47:11.207Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/502f2ca0-bb9f-41b8-b272-48624e35d5f8",
+      "discordThreadId": "1463229327876554966",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-senior-staff-machine-learning-engineer-home-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-senior-staff-machine-learning-engineer-home-new-york-ny",
+      "company": "spotify",
+      "title": "Senior Staff Machine Learning Engineer - Home",
+      "postedToDiscord": "2026-01-20T17:51:04.245Z",
+      "sourceDate": "2026-01-06T12:03:25.795Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/0d21c06c-31f7-4898-b34b-b7bcd1518335",
+      "discordThreadId": "1463229342581788796",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-contracts-manager-procurement-and-ai-san-francisco-ca-new-york-ny-austin-tx-remote-us-2026-01-20-1",
+      "jobId": "airtable-senior-contracts-manager-procurement-and-ai-san-francisco-ca-new-york-ny-austin-tx-remote-us",
+      "company": "airtable",
+      "title": "Senior Contracts Manager, Procurement and AI",
+      "postedToDiscord": "2026-01-20T17:51:07.668Z",
+      "sourceDate": "2026-01-06T03:01:20-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8350839002",
+      "discordThreadId": "1463229357420970253",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1717,
+    "totalJobs": 1723,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T17:35:23.156Z",
+      "date": "2026-01-20T17:51:07.668Z",
       "archived": 0
     }
   }
