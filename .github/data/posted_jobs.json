@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:02:37.982Z",
+  "lastUpdated": "2026-01-20T07:17:56.462Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16523,14 +16523,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7460250",
       "discordThreadId": "1463066157480153098",
       "instanceNumber": 1
+    },
+    {
+      "id": "gusto-people-technology-workday-developer-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-people-technology-workday-developer-san-francisco-ca",
+      "company": "gusto",
+      "title": "People Technology Workday Developer",
+      "postedToDiscord": "2026-01-20T07:17:16.428Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7460242",
+      "discordThreadId": "1463069841882878055",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-indirect-channel-sales-analyst-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-indirect-channel-sales-analyst-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Indirect Channel Sales Analyst",
+      "postedToDiscord": "2026-01-20T07:17:19.886Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7408852",
+      "discordThreadId": "1463069857116323903",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-marketing-manager-accountants-and-partners-phoenix-az-denver-co-san-francisco-ca-new-york-ny-atlanta-ga-las-vegas-nv-2026-01-20-1",
+      "jobId": "gusto-senior-marketing-manager-accountants-and-partners-phoenix-az-denver-co-san-francisco-ca-new-york-ny-atlanta-ga-las-vegas-nv",
+      "company": "gusto",
+      "title": "Senior Marketing Manager, Accountants and Partners",
+      "postedToDiscord": "2026-01-20T07:17:26.471Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7455498",
+      "discordThreadId": "1463069884618510356",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sr-sales-operations-analyst-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-sr-sales-operations-analyst-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Sr Sales Operations Analyst",
+      "postedToDiscord": "2026-01-20T07:17:29.883Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7425727",
+      "discordThreadId": "1463069899365683416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-staff-software-engineer-product-engineer-san-francisco-ca-hybrid-denver-co-hybrid-new-york-ny-hybrid-united-states-remote-2026-01-20-1",
+      "jobId": "gusto-staff-software-engineer-product-engineer-san-francisco-ca-hybrid-denver-co-hybrid-new-york-ny-hybrid-united-states-remote",
+      "company": "gusto",
+      "title": "Staff Software Engineer, Product Engineer",
+      "postedToDiscord": "2026-01-20T07:17:36.329Z",
+      "sourceDate": "2026-01-09T15:41:52-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7458337",
+      "discordThreadId": "1463069926414749772",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-sr-platform-engineer-denver-co-san-francisco-ca-atlanta-ga-austin-tx-chicago-il-miami-fl-seattle-wa-2026-01-20-1",
+      "jobId": "gusto-sr-platform-engineer-denver-co-san-francisco-ca-atlanta-ga-austin-tx-chicago-il-miami-fl-seattle-wa",
+      "company": "gusto",
+      "title": "Sr. Platform Engineer",
+      "postedToDiscord": "2026-01-20T07:17:39.771Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7413640",
+      "discordThreadId": "1463069940507742232",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-executive-operations-r-d-denver-co-san-francisco-ca-2026-01-20-1",
+      "jobId": "gusto-executive-operations-r-d-denver-co-san-francisco-ca",
+      "company": "gusto",
+      "title": "Executive Operations R&D",
+      "postedToDiscord": "2026-01-20T07:17:46.499Z",
+      "sourceDate": "2026-01-09T15:41:51-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7435943",
+      "discordThreadId": "1463069968290807808",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-product-marketing-manager-hr-experiences-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az-2026-01-20-1",
+      "jobId": "gusto-senior-product-marketing-manager-hr-experiences-denver-co-san-francisco-ca-new-york-ny-las-vegas-nv-atlanta-ga-phoenix-az",
+      "company": "gusto",
+      "title": "Senior Product Marketing Manager, HR Experiences",
+      "postedToDiscord": "2026-01-20T07:17:53.003Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7426379",
+      "discordThreadId": "1463069996220420270",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gusto-senior-tax-credits-specialist-denver-co-san-francisco-ca-los-angeles-ca-seattle-wa-2026-01-20-1",
+      "jobId": "gusto-senior-tax-credits-specialist-denver-co-san-francisco-ca-los-angeles-ca-seattle-wa",
+      "company": "gusto",
+      "title": "Senior Tax Credits Specialist",
+      "postedToDiscord": "2026-01-20T07:17:56.461Z",
+      "sourceDate": "2026-01-09T15:41:50-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/7407322",
+      "discordThreadId": "1463070010837831753",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1502,
+    "totalJobs": 1511,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:02:37.982Z",
+      "date": "2026-01-20T07:17:56.462Z",
       "archived": 0
     }
   }
