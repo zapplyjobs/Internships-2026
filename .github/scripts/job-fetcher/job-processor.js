@@ -31,45 +31,67 @@ const { DeduplicationLogger } = require('@zapply/job-board-shared');
 const JSEARCH_API_KEY = process.env.JSEARCH_API_KEY || '315e3cea2bmshd51ab0ee7309328p18cecfjsna0f6b8e72f39';
 const JSEARCH_BASE_URL = 'https://jsearch.p.rapidapi.com/search';
 
-// Job search queries - much more comprehensive
+// Job search queries - internship-specific
 const SEARCH_QUERIES = [
-    // Core engineering roles
-    'software engineer',
-    'software developer', 
-    'full stack developer',
-    'frontend developer',
-    'backend developer',
-    'mobile developer',
-    'ios developer',
-    'android developer',
-    
-    // Specialized tech roles
-    'machine learning engineer',
-    'data scientist', 
-    'data engineer',
-    'devops engineer',
-    'cloud engineer',
-    'security engineer',
-    'site reliability engineer',
-    'platform engineer',
-    
+    // Core engineering internships
+    'software engineer intern',
+    'software engineering internship',
+    'software developer intern',
+    'software development internship',
+
+    // Full-stack
+    'full stack intern',
+    'fullstack engineer intern',
+
+    // Frontend/Backend
+    'frontend engineer intern',
+    'frontend developer intern',
+    'backend engineer intern',
+    'backend developer intern',
+
+    // Mobile
+    'mobile developer intern',
+    'ios developer intern',
+    'android developer intern',
+
+    // Data & ML
+    'machine learning intern',
+    'ML engineer intern',
+    'data scientist intern',
+    'data science internship',
+    'data engineer intern',
+    'data analyst intern',
+
+    // DevOps & Infrastructure
+    'devops engineer intern',
+    'cloud engineer intern',
+    'site reliability engineer intern',
+    'platform engineer intern',
+
+    // Security
+    'security engineer intern',
+    'cybersecurity intern',
+
     // Product & Design
-    'product manager',
-    'product designer',
-    'ux designer',
-    'ui designer',
-    
-    // New grad specific
+    'product manager intern',
+    'product designer intern',
+    'ux designer intern',
+    'ui designer intern',
+
+    // QA & Testing
+    'QA engineer intern',
+    'test automation intern',
+
+    // Entry-level (internship adjacent)
     'new grad software engineer',
-    'entry level developer',
+    'entry level software engineer',
     'junior developer',
     'graduate software engineer',
-    
-    // High-value roles
-    'staff engineer',
-    'senior software engineer',
-    'principal engineer',
-    'engineering manager'
+
+    // Alternative terms
+    'summer intern software',
+    'co-op software engineer',
+    'coop engineer'
 ];
 
 /**
@@ -189,6 +211,44 @@ function fillJobDates(jobs, jobDatesStore) {
     return processedJobs;
 }
 
+/**
+ * Validates that a job is an internship (safety layer)
+ */
+function isValidInternship(job, logRejections = false) {
+    if (!job || !job.job_title) return false;
+
+    const title = (job.job_title || '').toLowerCase();
+    const description = (job.job_description || '').toLowerCase();
+
+    // Must have internship keywords
+    const internshipKeywords = [
+        'intern', 'internship', 'co-op', 'coop', 'co op',
+        'summer program', 'student program', 'new grad',
+        'entry level', 'junior developer', 'graduate software'
+    ];
+
+    const hasInternKeyword = internshipKeywords.some(kw =>
+        title.includes(kw) || description.substring(0, 500).includes(kw)
+    );
+
+    // Must NOT have senior keywords
+    const excludedKeywords = [
+        'senior', 'staff', 'principal', 'lead', 'manager',
+        'director', 'vp', 'vice president', 'head of', 'chief',
+        '3+ years', '4+ years', '5+ years'
+    ];
+
+    const hasExcluded = excludedKeywords.some(kw => title.includes(kw));
+
+    const isValid = hasInternKeyword && !hasExcluded;
+
+    if (!isValid && logRejections) {
+        console.log(`❌ REJECTED: "${job.job_title}" (${job.employer_name})`);
+    }
+
+    return isValid;
+}
+
 // Enhanced API search with better error handling
 async function searchJobs(query, location = '') {
     try {
@@ -198,8 +258,8 @@ async function searchJobs(query, location = '') {
         url.searchParams.append('page', '1');
         url.searchParams.append('num_pages', '1');
         url.searchParams.append('date_posted', 'month');
-        url.searchParams.append('employment_types', 'FULLTIME');
-        url.searchParams.append('job_requirements', 'under_3_years_experience,more_than_3_years_experience,no_experience');
+        url.searchParams.append('employment_types', 'INTERNSHIP,INTERN');
+        url.searchParams.append('job_requirements', 'no_experience,under_3_years_experience');
         
         const response = await fetch(url, {
             method: 'GET',
@@ -216,8 +276,17 @@ async function searchJobs(query, location = '') {
         
         const data = await response.json();
         const jobs = data.data || [];
-        console.log(`Query "${query}" returned ${jobs.length} jobs`);
-        return jobs;
+        console.log(`Query "${query}" returned ${jobs.length} jobs from API`);
+
+        // Apply validation
+        const validJobs = jobs.filter(job => isValidInternship(job, false));
+        const rejected = jobs.length - validJobs.length;
+
+        if (rejected > 0) {
+            console.log(`   ⚠️ Filtered out ${rejected} non-internship jobs`);
+        }
+
+        return validJobs;
     } catch (error) {
         console.error(`Error searching for "${query}":`, error.message);
         return [];
