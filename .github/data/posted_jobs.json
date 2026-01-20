@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:02:07.652Z",
+  "lastUpdated": "2026-01-20T21:12:34.107Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19559,14 +19559,113 @@
       "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
       "discordThreadId": "1463277423993946254",
       "instanceNumber": 1
+    },
+    {
+      "id": "supabase-database-support-engineer-apac-remote-2026-01-20-1",
+      "jobId": "supabase-database-support-engineer-apac-remote",
+      "company": "supabase",
+      "title": "Database Support Engineer (APAC)",
+      "postedToDiscord": "2026-01-20T21:11:59.976Z",
+      "sourceDate": "2025-12-17T21:46:32.608+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183",
+      "discordThreadId": "1463279915855253525",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-database-support-engineer-emea-remote-2026-01-20-1",
+      "jobId": "supabase-database-support-engineer-emea-remote",
+      "company": "supabase",
+      "title": "Database Support Engineer (EMEA)",
+      "postedToDiscord": "2026-01-20T21:12:01.976Z",
+      "sourceDate": "2025-12-17T21:45:16.304+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96",
+      "discordThreadId": "1463279923342082189",
+      "instanceNumber": 1
+    },
+    {
+      "id": "supabase-database-support-engineer-amer-remote-2026-01-20-1",
+      "jobId": "supabase-database-support-engineer-amer-remote",
+      "company": "supabase",
+      "title": "Database Support Engineer (AMER)",
+      "postedToDiscord": "2026-01-20T21:12:03.802Z",
+      "sourceDate": "2025-12-17T21:42:14.767+00:00",
+      "sourceUrl": "https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4",
+      "discordThreadId": "1463279931629768848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-ai-applied-scientist-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-ai-applied-scientist-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "AI Applied Scientist",
+      "postedToDiscord": "2026-01-20T21:12:10.344Z",
+      "sourceDate": "2025-12-17T13:52:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5707966004?gh_jid=5707966004",
+      "discordThreadId": "1463279951892578458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-people-analyst-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-people-analyst-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "People Analyst",
+      "postedToDiscord": "2026-01-20T21:12:17.075Z",
+      "sourceDate": "2025-12-17T13:26:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737300004?gh_jid=5737300004",
+      "discordThreadId": "1463279979302486229",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-figma-for-education-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-manager-figma-for-education-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Figma for Education ",
+      "postedToDiscord": "2026-01-20T21:12:20.652Z",
+      "sourceDate": "2025-12-16T13:18:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737701004?gh_jid=5737701004",
+      "discordThreadId": "1463279995261681775",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-economist-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-staff-economist-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Staff Economist",
+      "postedToDiscord": "2026-01-20T21:12:24.160Z",
+      "sourceDate": "2025-12-16T12:44:23-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8332016002?gh_jid=8332016002",
+      "discordThreadId": "1463280009925099713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-compliance-manager-customer-trust-third-party-risk-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-compliance-manager-customer-trust-third-party-risk-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Compliance Manager, Customer Trust & Third Party Risk",
+      "postedToDiscord": "2026-01-20T21:12:27.626Z",
+      "sourceDate": "2025-12-15T16:31:12-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735296004?gh_jid=5735296004",
+      "discordThreadId": "1463280024600711395",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-strategic-program-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-strategic-program-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Strategic Program Manager",
+      "postedToDiscord": "2026-01-20T21:12:34.107Z",
+      "sourceDate": "2025-12-16T16:59:08-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737778004?gh_jid=5737778004",
+      "discordThreadId": "1463280051972866232",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1778,
+    "totalJobs": 1787,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:02:07.652Z",
+      "date": "2026-01-20T21:12:34.107Z",
       "archived": 0
     }
   }
