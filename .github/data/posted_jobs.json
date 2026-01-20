@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:50:05.065Z",
+  "lastUpdated": "2026-01-20T22:55:56.281Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20549,14 +20549,113 @@
       "sourceUrl": "https://www.brex.com/careers/8196889002?gh_jid=8196889002",
       "discordThreadId": "1463304592400846960",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-product-and-regulatory-counsel-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-product-and-regulatory-counsel-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-20T22:55:46.017Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8196892002?gh_jid=8196892002",
+      "discordThreadId": "1463306021949931604",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-product-and-regulatory-counsel-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-product-and-regulatory-counsel-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-20T22:55:46.034Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8196885002?gh_jid=8196885002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-product-and-regulatory-counsel-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-product-and-regulatory-counsel-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Product and Regulatory Counsel",
+      "postedToDiscord": "2026-01-20T22:55:46.053Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7934899002?gh_jid=7934899002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-sales-manager-startups-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-sales-manager-startups-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Sales Manager, Startups",
+      "postedToDiscord": "2026-01-20T22:55:49.768Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8148593002?gh_jid=8148593002",
+      "discordThreadId": "1463306037594689546",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-sales-manager-startups-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-sales-manager-startups-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Sales Manager, Startups",
+      "postedToDiscord": "2026-01-20T22:55:49.784Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8148601002?gh_jid=8148601002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-accountant-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-accountant-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-20T22:55:56.237Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324892002?gh_jid=8324892002",
+      "discordThreadId": "1463306065633345576",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-accountant-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-accountant-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-20T22:55:56.253Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324879002?gh_jid=8324879002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-accountant-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-accountant-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-20T22:55:56.267Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324890002?gh_jid=8324890002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-accountant-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-senior-accountant-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Senior Accountant",
+      "postedToDiscord": "2026-01-20T22:55:56.281Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8324893002?gh_jid=8324893002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1868,
+    "totalJobs": 1877,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T22:50:05.065Z",
+      "date": "2026-01-20T22:55:56.281Z",
       "archived": 0
     }
   }
