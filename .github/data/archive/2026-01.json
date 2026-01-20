@@ -4321,5 +4321,93 @@
     "sourceUrl": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Collaboration-Automation-Intern-Summer-2026-NC/1338434100/?ats=successfactors",
     "discordThreadId": "1460665940856537130",
     "instanceNumber": 1
+  },
+  {
+    "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
+    "jobId": "visa-software-engineer-highlands-ranch",
+    "company": "Visa",
+    "title": "Software Engineer",
+    "postedToDiscord": "2026-01-13T18:19:39.950Z",
+    "sourceDate": "2026-01-13T16:18:00.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103273985",
+    "discordThreadId": "1460699823849345210",
+    "instanceNumber": 1
+  },
+  {
+    "id": "paccar-manufacturing-engineering-data-analytics-intern-columbus-2026-01-13-1",
+    "jobId": "paccar-manufacturing-engineering-data-analytics-intern-columbus",
+    "company": "Paccar",
+    "title": "Manufacturing Engineering Data Analytics Intern",
+    "postedToDiscord": "2026-01-13T18:19:46.649Z",
+    "sourceDate": "2026-01-13T16:17:46.000Z",
+    "sourceUrl": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Fall-2026-MS-39701/1282953201/?ats=successfactors",
+    "discordThreadId": "1460699851749851217",
+    "instanceNumber": 1
+  },
+  {
+    "id": "visa-software-engineer-intern-ashburn-2026-01-13-1",
+    "jobId": "visa-software-engineer-intern-ashburn",
+    "company": "Visa",
+    "title": "Software Engineer Intern",
+    "postedToDiscord": "2026-01-13T18:51:39.803Z",
+    "sourceDate": "2026-01-13T16:18:18.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103274324",
+    "discordThreadId": "1460707875029516440",
+    "instanceNumber": 1
+  },
+  {
+    "id": "visa-software-engineer-intern-summer-2026-austin-austin-2026-01-13-1",
+    "jobId": "visa-software-engineer-intern-summer-2026-austin-austin",
+    "company": "Visa",
+    "title": "Software Engineer – Intern - Summer 2026 - Austin",
+    "postedToDiscord": "2026-01-13T18:51:43.453Z",
+    "sourceDate": "2026-01-13T16:18:13.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103272876",
+    "discordThreadId": "1460707891056087074",
+    "instanceNumber": 1
+  },
+  {
+    "id": "visa-software-engineer-intern-summer-2026-bellevue-bellevue-2026-01-13-1",
+    "jobId": "visa-software-engineer-intern-summer-2026-bellevue-bellevue",
+    "company": "Visa",
+    "title": "Software Engineer – Intern - Summer 2026 - Bellevue",
+    "postedToDiscord": "2026-01-13T18:51:43.458Z",
+    "sourceDate": "2026-01-13T16:18:06.000Z",
+    "sourceUrl": "https://jobs.smartrecruiters.com/Visa/744000103272705",
+    "discordThreadId": null,
+    "instanceNumber": 1
+  },
+  {
+    "id": "paccar-manufacturing-engineering-data-analytics-intern-summer-2026-columbus-2026-01-13-1",
+    "jobId": "paccar-manufacturing-engineering-data-analytics-intern-summer-2026-columbus",
+    "company": "Paccar",
+    "title": "Manufacturing Engineering Data Analytics Intern Summer 2026",
+    "postedToDiscord": "2026-01-13T18:51:49.979Z",
+    "sourceDate": "2026-01-13T16:17:35.000Z",
+    "sourceUrl": "https://jobs.paccar.com/job/Columbus-Manufacturing-Engineering-Data-Analytics-Intern-Summer-2026-MS-39701/1282952101/?ats=successfactors",
+    "discordThreadId": "1460707919069970698",
+    "instanceNumber": 1
+  },
+  {
+    "id": "field-ai-field-application-engineer-intern-mineral-virginia-palmyra-2026-01-13-1",
+    "jobId": "field-ai-field-application-engineer-intern-mineral-virginia-palmyra",
+    "company": "Field AI",
+    "title": "Field Application Engineer / Intern - Mineral - Virginia",
+    "postedToDiscord": "2026-01-13T18:51:53.583Z",
+    "sourceDate": "2026-01-13T16:08:24.000Z",
+    "sourceUrl": "https://jobs.lever.co/field-ai/7fc508bf-041d-46a6-86c7-3251d6b88e72/apply",
+    "discordThreadId": "1460707934186246154",
+    "instanceNumber": 1
+  },
+  {
+    "id": "idemia-power-bi-data-analyst-internship-summer-2026-reston-2026-01-13-1",
+    "jobId": "idemia-power-bi-data-analyst-internship-summer-2026-reston",
+    "company": "IDEMIA",
+    "title": "Power BI Data Analyst Internship - Summer 2026",
+    "postedToDiscord": "2026-01-13T18:52:00.136Z",
+    "sourceDate": "2025-10-03T03:00:54.000Z",
+    "sourceUrl": "https://uscareers-idemia.icims.com/jobs/8295/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460707961960661157",
+    "instanceNumber": 1
   }
 ]
