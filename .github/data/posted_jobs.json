@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:59:58.808Z",
+  "lastUpdated": "2026-01-20T06:12:27.251Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16127,14 +16127,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7296916",
       "discordThreadId": "1463050385680896030",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-program-manager-risk-chicago-atlanta-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-technical-program-manager-risk-chicago-atlanta-remote-in-the-us",
+      "company": "stripe",
+      "title": "Technical Program Manager, Risk",
+      "postedToDiscord": "2026-01-20T06:11:52.766Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7258983",
+      "discordThreadId": "1463053385505964258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-program-manager-sandboxes-seattle-sf-nyc-2026-01-20-1",
+      "jobId": "stripe-technical-program-manager-sandboxes-seattle-sf-nyc",
+      "company": "stripe",
+      "title": "Technical Program Manager, Sandboxes",
+      "postedToDiscord": "2026-01-20T06:11:56.206Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7417090",
+      "discordThreadId": "1463053400387092541",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-program-manager-security-sf-seattle-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-technical-program-manager-security-sf-seattle-remote-in-the-us",
+      "company": "stripe",
+      "title": "Technical Program Manager, Security",
+      "postedToDiscord": "2026-01-20T06:12:02.725Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7264927",
+      "discordThreadId": "1463053427582963784",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-training-engineer-training-certification-us-sf-2026-01-20-1",
+      "jobId": "stripe-training-engineer-training-certification-us-sf",
+      "company": "stripe",
+      "title": "Training Engineer, Training & Certification",
+      "postedToDiscord": "2026-01-20T06:12:04.426Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7521020",
+      "discordThreadId": "1463053441852248157",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-user-escalations-specialist-us-chicago-or-us-seattle-2026-01-20-1",
+      "jobId": "stripe-user-escalations-specialist-us-chicago-or-us-seattle",
+      "company": "stripe",
+      "title": "User Escalations Specialist",
+      "postedToDiscord": "2026-01-20T06:12:07.750Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7258040",
+      "discordThreadId": "1463053449212985458",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-ux-researcher-reporting-and-data-us-canada-2026-01-20-1",
+      "jobId": "stripe-ux-researcher-reporting-and-data-us-canada",
+      "company": "stripe",
+      "title": "UX Researcher, Reporting and Data",
+      "postedToDiscord": "2026-01-20T06:12:09.390Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7409756",
+      "discordThreadId": "1463053463134146615",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-technical-recruiter-fixed-term-contract-us-rem-2026-01-20-1",
+      "jobId": "stripe-technical-recruiter-fixed-term-contract-us-rem",
+      "company": "stripe",
+      "title": "Technical Recruiter (Fixed Term Contract)",
+      "postedToDiscord": "2026-01-20T06:12:14.108Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7179312",
+      "discordThreadId": "1463053482855764039",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-vendor-operations-lead-chi-atl-us-remote-2026-01-20-1",
+      "jobId": "stripe-vendor-operations-lead-chi-atl-us-remote",
+      "company": "stripe",
+      "title": "Vendor Operations Lead",
+      "postedToDiscord": "2026-01-20T06:12:20.927Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7394979",
+      "discordThreadId": "1463053502740697244",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-writer-content-marketing-us-remote-chi-atl-2026-01-20-1",
+      "jobId": "stripe-writer-content-marketing-us-remote-chi-atl",
+      "company": "stripe",
+      "title": "Writer, Content Marketing",
+      "postedToDiscord": "2026-01-20T06:12:27.251Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7343534",
+      "discordThreadId": "1463053531102842964",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1466,
+    "totalJobs": 1475,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T05:59:58.808Z",
+      "date": "2026-01-20T06:12:27.251Z",
       "archived": 0
     }
   }
