@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T14:53:26.855Z",
+  "lastUpdated": "2026-01-20T15:19:30.172Z",
   "jobs": [
-    {
-      "id": "amazon-cloud-support-engineer-internship-herdon-2026-01-13-1",
-      "jobId": "amazon-cloud-support-engineer-internship-herdon",
-      "company": "Amazon",
-      "title": "Cloud Support Engineer Internship",
-      "postedToDiscord": "2026-01-13T14:53:40.730Z",
-      "sourceDate": "2026-01-13T13:58:42.000Z",
-      "sourceUrl": "https://amazon.jobs/en/jobs/3137751/cloud-support-engineer-internship-2026-us",
-      "discordThreadId": "1460647985623994618",
-      "instanceNumber": 1
-    },
     {
       "id": "westinghouse-electric-company-collaboration-automation-intern-grove-city-2026-01-13-1",
       "jobId": "westinghouse-electric-company-collaboration-automation-intern-grove-city",
@@ -18734,6 +18723,17 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8331172002?gh_jid=8331172002",
       "discordThreadId": "1463184642805989397",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-senior-ai-engineering-manager-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-senior-ai-engineering-manager-new-york-ny",
+      "company": "duolingo",
+      "title": "Senior AI Engineering Manager",
+      "postedToDiscord": "2026-01-20T15:19:30.172Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002",
+      "discordThreadId": "1463191200155570329",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
@@ -18741,8 +18741,9 @@
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T14:53:26.855Z",
-      "archived": 0
+      "date": "2026-01-20T15:19:30.172Z",
+      "archived": 1,
+      "monthsAffected": 1
     }
   }
 }
