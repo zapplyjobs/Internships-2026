@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:17:53.498Z",
+  "lastUpdated": "2026-01-20T23:31:01.148Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20846,14 +20846,113 @@
       "sourceUrl": "https://www.brex.com/careers/8215986002?gh_jid=8215986002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-software-engineer-full-stack-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-software-engineer-full-stack-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Software Engineer, Full-Stack",
+      "postedToDiscord": "2026-01-20T23:30:37.263Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8213577002?gh_jid=8213577002",
+      "discordThreadId": "1463314793195638807",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-software-engineer-product-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-software-engineer-product-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Software Engineer, Product ",
+      "postedToDiscord": "2026-01-20T23:30:43.721Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7521386002?gh_jid=7521386002",
+      "discordThreadId": "1463314820727177258",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-software-engineer-ii-product-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-software-engineer-ii-product-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-20T23:30:47.340Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
+      "discordThreadId": "1463314835390599278",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-software-engineer-ii-product-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-software-engineer-ii-product-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-20T23:30:47.355Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318331002?gh_jid=8318331002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-software-engineer-ii-product-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-software-engineer-ii-product-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Software Engineer II, Product ",
+      "postedToDiscord": "2026-01-20T23:30:47.369Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8318333002?gh_jid=8318333002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-brand-designer-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-staff-brand-designer-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Staff Brand Designer",
+      "postedToDiscord": "2026-01-20T23:30:54.034Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7595422002?gh_jid=7595422002",
+      "discordThreadId": "1463314863253356659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-brand-designer-interactive-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-staff-brand-designer-interactive-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Staff Brand Designer, Interactive",
+      "postedToDiscord": "2026-01-20T23:30:57.546Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8198574002?gh_jid=8198574002",
+      "discordThreadId": "1463314878793126012",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-product-designer-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-staff-product-designer-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-20T23:31:01.135Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8124973002?gh_jid=8124973002",
+      "discordThreadId": "1463314893204754607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-staff-product-designer-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-staff-product-designer-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Staff Product Designer",
+      "postedToDiscord": "2026-01-20T23:31:01.148Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/7669111002?gh_jid=7669111002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1895,
+    "totalJobs": 1904,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:17:53.498Z",
+      "date": "2026-01-20T23:31:01.148Z",
       "archived": 0
     }
   }
