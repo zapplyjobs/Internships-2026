@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:44:57.871Z",
+  "lastUpdated": "2026-01-20T07:56:02.741Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -16919,14 +16919,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/gusto/jobs/5864071",
       "discordThreadId": "1463076810295349271",
       "instanceNumber": 1
+    },
+    {
+      "id": "spotify-manager-partner-product-and-delivery-miami-fl-2026-01-20-1",
+      "jobId": "spotify-manager-partner-product-and-delivery-miami-fl",
+      "company": "spotify",
+      "title": "Manager, Partner Product and Delivery",
+      "postedToDiscord": "2026-01-20T07:55:32.093Z",
+      "sourceDate": "2026-01-09T18:10:16.546Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/67657e91-5424-429e-a6f2-0697ddc50234",
+      "discordThreadId": "1463079471195226224",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-ai-research-engineer-datadog-ai-research-dair-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-ai-research-engineer-datadog-ai-research-dair-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "AI Research Engineer – Datadog AI Research (DAIR)",
+      "postedToDiscord": "2026-01-20T07:55:38.544Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013",
+      "discordThreadId": "1463079498487435307",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-ai-research-scientist-datadog-ai-research-dair-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-ai-research-scientist-datadog-ai-research-dair-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "AI Research Scientist – Datadog AI Research (DAIR)",
+      "postedToDiscord": "2026-01-20T07:55:42.398Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669",
+      "discordThreadId": "1463079513452970112",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-business-value-manager-enterprise-east-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-business-value-manager-enterprise-east-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Business Value Manager - Enterprise East",
+      "postedToDiscord": "2026-01-20T07:55:48.911Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7312439/?gh_jid=7312439",
+      "discordThreadId": "1463079541948809381",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-account-executive-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-account-executive-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Commercial Account Executive",
+      "postedToDiscord": "2026-01-20T07:55:50.635Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/1694375/?gh_jid=1694375",
+      "discordThreadId": "1463079556712759349",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-account-executive-latam-portuguese-speaking-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-account-executive-latam-portuguese-speaking-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Commercial Account Executive - LATAM (Portuguese Speaking)",
+      "postedToDiscord": "2026-01-20T07:55:50.652Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7460318/?gh_jid=7460318",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-account-executive-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-account-executive-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Commercial Account Executive (Boston)",
+      "postedToDiscord": "2026-01-20T07:55:54.187Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/1497543/?gh_jid=1497543",
+      "discordThreadId": "1463079563981619284",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-account-executive-latam-spanish-speaking-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-account-executive-latam-spanish-speaking-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Commercial Account Executive - LATAM (Spanish Speaking) - Boston",
+      "postedToDiscord": "2026-01-20T07:55:57.863Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7329207/?gh_jid=7329207",
+      "discordThreadId": "1463079579114672180",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-sales-engineer-east-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-sales-engineer-east-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Commercial Sales Engineer (East)",
+      "postedToDiscord": "2026-01-20T07:56:02.740Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
+      "discordThreadId": "1463079594205778064",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1538,
+    "totalJobs": 1547,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:44:57.871Z",
+      "date": "2026-01-20T07:56:02.741Z",
       "archived": 0
     }
   }
