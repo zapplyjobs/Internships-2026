@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:54:03.311Z",
+  "lastUpdated": "2026-01-20T22:03:57.179Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20054,14 +20054,113 @@
       "sourceUrl": "https://www.coinbase.com/careers/positions/7317551?gh_jid=7317551",
       "discordThreadId": "1463290492392439818",
       "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-tax-operations-intern-hybrid-new-york-ny-2026-01-20-1",
+      "jobId": "coinbase-tax-operations-intern-hybrid-new-york-ny",
+      "company": "coinbase",
+      "title": "Tax Operations Intern",
+      "postedToDiscord": "2026-01-20T22:03:32.613Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7317491?gh_jid=7317491",
+      "discordThreadId": "1463292880490860727",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-tms-compliance-analyst-iii-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-tms-compliance-analyst-iii-charlotte-nc",
+      "company": "coinbase",
+      "title": "TMS Compliance Analyst III",
+      "postedToDiscord": "2026-01-20T22:03:34.381Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6675542?gh_jid=6675542",
+      "discordThreadId": "1463292894411489424",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-tms-quality-compliance-analyst-iii-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-tms-quality-compliance-analyst-iii-charlotte-nc",
+      "company": "coinbase",
+      "title": "TMS Quality Compliance Analyst III",
+      "postedToDiscord": "2026-01-20T22:03:36.075Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6676764?gh_jid=6676764",
+      "discordThreadId": "1463292901948919848",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-user-researcher-intern-hybrid-san-francisco-2026-01-20-1",
+      "jobId": "coinbase-user-researcher-intern-hybrid-san-francisco",
+      "company": "coinbase",
+      "title": "User Researcher Intern",
+      "postedToDiscord": "2026-01-20T22:03:39.631Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7269775?gh_jid=7269775",
+      "discordThreadId": "1463292909041221723",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-machine-learning-engineer-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-machine-learning-engineer-new-york-ny",
+      "company": "spotify",
+      "title": "Machine Learning Engineer",
+      "postedToDiscord": "2026-01-20T22:03:43.106Z",
+      "sourceDate": "2025-12-10T16:38:48.335Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343",
+      "discordThreadId": "1463292923968884869",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-backend-engineer-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-backend-engineer-new-york-ny",
+      "company": "spotify",
+      "title": "Backend Engineer",
+      "postedToDiscord": "2026-01-20T22:03:46.538Z",
+      "sourceDate": "2025-12-10T16:29:44.470Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/79fc1e54-c553-4858-b3a5-4fd3cf2d1ebc",
+      "discordThreadId": "1463292938434908231",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-channel-partnerships-manager-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-channel-partnerships-manager-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-20T22:03:53.532Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177687002?gh_jid=8177687002",
+      "discordThreadId": "1463292966050336769",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-channel-partnerships-manager-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-channel-partnerships-manager-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Accounting Channel Partnerships Manager",
+      "postedToDiscord": "2026-01-20T22:03:53.546Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8177660002?gh_jid=8177660002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-accounting-manager-legal-entity-controllership-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-accounting-manager-legal-entity-controllership-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": " Accounting Manager, Legal Entity Controllership",
+      "postedToDiscord": "2026-01-20T22:03:57.178Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8303858002?gh_jid=8303858002",
+      "discordThreadId": "1463292982630416497",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1823,
+    "totalJobs": 1832,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:54:03.311Z",
+      "date": "2026-01-20T22:03:57.179Z",
       "archived": 0
     }
   }
