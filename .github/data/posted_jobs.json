@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T07:56:02.741Z",
+  "lastUpdated": "2026-01-20T08:04:53.899Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17018,14 +17018,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
       "discordThreadId": "1463079594205778064",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-commercial-sales-engineer-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-commercial-sales-engineer-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Commercial Sales Engineer - NYC",
+      "postedToDiscord": "2026-01-20T08:04:20.121Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7491559/?gh_jid=7491559",
+      "discordThreadId": "1463081685938864163",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-customer-success-associate-boston-portuguese-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-customer-success-associate-boston-portuguese-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T08:04:23.600Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485441/?gh_jid=7485441",
+      "discordThreadId": "1463081700790636707",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-customer-success-associate-boston-spanish-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-customer-success-associate-boston-spanish-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Customer Success Associate - Boston (Spanish-speaking)",
+      "postedToDiscord": "2026-01-20T08:04:26.994Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485423/?gh_jid=7485423",
+      "discordThreadId": "1463081715441598618",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-customer-success-manager-boston-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-customer-success-manager-boston-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston",
+      "postedToDiscord": "2026-01-20T08:04:30.680Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128703/?gh_jid=7128703",
+      "discordThreadId": "1463081729832124550",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-customer-success-manager-boston-portuguese-speaking-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-customer-success-manager-boston-portuguese-speaking-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Customer Success Manager - Boston (Portuguese-speaking)",
+      "postedToDiscord": "2026-01-20T08:04:34.142Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7485376/?gh_jid=7485376",
+      "discordThreadId": "1463081745137274996",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-datadog-for-startups-lead-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-datadog-for-startups-lead-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Datadog for Startups Lead",
+      "postedToDiscord": "2026-01-20T08:04:37.514Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771",
+      "discordThreadId": "1463081759469080609",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-deal-desk-analyst-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-deal-desk-analyst-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Deal Desk Analyst",
+      "postedToDiscord": "2026-01-20T08:04:40.979Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653",
+      "discordThreadId": "1463081773616463997",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-container-runtime-engineer-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-container-runtime-engineer-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Container Runtime Engineer",
+      "postedToDiscord": "2026-01-20T08:04:47.336Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7363514/?gh_jid=7363514",
+      "discordThreadId": "1463081800975777886",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-coordinator-business-recruiting-contract-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-coordinator-business-recruiting-contract-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Coordinator, Business Recruiting - Contract",
+      "postedToDiscord": "2026-01-20T08:04:53.898Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7449657/?gh_jid=7449657",
+      "discordThreadId": "1463081827475525645",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1547,
+    "totalJobs": 1556,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T07:56:02.741Z",
+      "date": "2026-01-20T08:04:53.899Z",
       "archived": 0
     }
   }
