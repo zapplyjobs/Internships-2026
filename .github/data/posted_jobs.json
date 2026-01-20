@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:47:22.931Z",
+  "lastUpdated": "2026-01-20T21:54:03.311Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19955,14 +19955,113 @@
       "sourceUrl": "https://www.coinbase.com/careers/positions/6984439?gh_jid=6984439",
       "discordThreadId": "1463288819813187775",
       "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-lead-tms-compliance-analyst-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-lead-tms-compliance-analyst-charlotte-nc",
+      "company": "coinbase",
+      "title": "Lead TMS Compliance Analyst ",
+      "postedToDiscord": "2026-01-20T21:53:40.529Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984444?gh_jid=6984444",
+      "discordThreadId": "1463290403569799279",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-lead-tms-quality-compliance-analyst-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-lead-tms-quality-compliance-analyst-charlotte-nc",
+      "company": "coinbase",
+      "title": "Lead TMS Quality Compliance Analyst",
+      "postedToDiscord": "2026-01-20T21:53:42.333Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6984448?gh_jid=6984448",
+      "discordThreadId": "1463290411421401129",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-machine-learning-engineer-intern-hybrid-san-francisco-2026-01-20-1",
+      "jobId": "coinbase-machine-learning-engineer-intern-hybrid-san-francisco",
+      "company": "coinbase",
+      "title": "Machine Learning Engineer Intern",
+      "postedToDiscord": "2026-01-20T21:53:45.725Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7294075?gh_jid=7294075",
+      "discordThreadId": "1463290418455248947",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-marketing-events-intern-hybrid-new-york-ny-2026-01-20-1",
+      "jobId": "coinbase-marketing-events-intern-hybrid-new-york-ny",
+      "company": "coinbase",
+      "title": "Marketing Events Intern",
+      "postedToDiscord": "2026-01-20T21:53:49.259Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7336815?gh_jid=7336815",
+      "discordThreadId": "1463290432829132876",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-product-design-intern-hybrid-san-francisco-2026-01-20-1",
+      "jobId": "coinbase-product-design-intern-hybrid-san-francisco",
+      "company": "coinbase",
+      "title": "Product Design Intern",
+      "postedToDiscord": "2026-01-20T21:53:52.766Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7325051?gh_jid=7325051",
+      "discordThreadId": "1463290447798599904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-senior-aml-investigations-trainer-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-senior-aml-investigations-trainer-charlotte-nc",
+      "company": "coinbase",
+      "title": "Senior AML Investigations Trainer",
+      "postedToDiscord": "2026-01-20T21:53:54.596Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6852375?gh_jid=6852375",
+      "discordThreadId": "1463290462625333467",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-senior-client-strategist-coinbase-asset-management-capital-formation-new-york-city-ny-2026-01-20-1",
+      "jobId": "coinbase-senior-client-strategist-coinbase-asset-management-capital-formation-new-york-city-ny",
+      "company": "coinbase",
+      "title": "Senior Client Strategist, Coinbase Asset Management (Capital Formation)",
+      "postedToDiscord": "2026-01-20T21:53:58.059Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/6669415?gh_jid=6669415",
+      "discordThreadId": "1463290470095388777",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-supervisor-customer-success-team-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-supervisor-customer-success-team-charlotte-nc",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team",
+      "postedToDiscord": "2026-01-20T21:53:59.886Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049",
+      "discordThreadId": "1463290484830244864",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-tax-information-reporting-intern-hybrid-new-york-ny-2026-01-20-1",
+      "jobId": "coinbase-tax-information-reporting-intern-hybrid-new-york-ny",
+      "company": "coinbase",
+      "title": "Tax Information Reporting Intern",
+      "postedToDiscord": "2026-01-20T21:54:03.311Z",
+      "sourceDate": "2025-12-10T13:34:44-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7317551?gh_jid=7317551",
+      "discordThreadId": "1463290492392439818",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1814,
+    "totalJobs": 1823,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:47:22.931Z",
+      "date": "2026-01-20T21:54:03.311Z",
       "archived": 0
     }
   }
