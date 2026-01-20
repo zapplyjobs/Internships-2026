@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:53:23.917Z",
+  "lastUpdated": "2026-01-20T09:09:10.936Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17414,14 +17414,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7476902/?gh_jid=7476902",
       "discordThreadId": "1463094040479268877",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-inclusion-program-manager-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-inclusion-program-manager-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Inclusion Program Manager - NYC",
+      "postedToDiscord": "2026-01-20T09:08:41.968Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7193803/?gh_jid=7193803",
+      "discordThreadId": "1463097883258523691",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-internal-communications-program-manager-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-internal-communications-program-manager-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Internal Communications Program Manager",
+      "postedToDiscord": "2026-01-20T09:08:45.493Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7490601/?gh_jid=7490601",
+      "discordThreadId": "1463097898270068829",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-information-security-analyst-ii-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-information-security-analyst-ii-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Information Security Analyst II",
+      "postedToDiscord": "2026-01-20T09:08:52.306Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939",
+      "discordThreadId": "1463097926279630934",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-key-accounts-executive-east-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-key-accounts-executive-east-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Key Accounts Executive (East)",
+      "postedToDiscord": "2026-01-20T09:08:58.926Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409236/?gh_jid=7409236",
+      "discordThreadId": "1463097954872066151",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-major-account-manager-boston-massachusetts-usa-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-major-account-manager-boston-massachusetts-usa-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Major Account Manager",
+      "postedToDiscord": "2026-01-20T09:09:02.496Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7409198/?gh_jid=7409198",
+      "discordThreadId": "1463097969526964276",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-major-account-manager-florida-usa-remote-north-carolina-usa-remote-2026-01-20-1",
+      "jobId": "datadog-major-account-manager-florida-usa-remote-north-carolina-usa-remote",
+      "company": "datadog",
+      "title": "Major Account Manager",
+      "postedToDiscord": "2026-01-20T09:09:02.510Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-1-technical-account-management-denver-denver-colorado-usa-2026-01-20-1",
+      "jobId": "datadog-manager-1-technical-account-management-denver-denver-colorado-usa",
+      "company": "datadog",
+      "title": "Manager 1, Technical Account Management - Denver",
+      "postedToDiscord": "2026-01-20T09:09:04.342Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7484777/?gh_jid=7484777",
+      "discordThreadId": "1463097984932905073",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-manager-1-technical-account-management-new-york-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-manager-1-technical-account-management-new-york-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Manager 1, Technical Account Management - New York",
+      "postedToDiscord": "2026-01-20T09:09:04.354Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7472529/?gh_jid=7472529",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-leadership-training-manager-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-leadership-training-manager-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Leadership Training Manager",
+      "postedToDiscord": "2026-01-20T09:09:10.936Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194",
+      "discordThreadId": "1463098005220757586",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1583,
+    "totalJobs": 1592,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T08:53:23.917Z",
+      "date": "2026-01-20T09:09:10.936Z",
       "archived": 0
     }
   }
