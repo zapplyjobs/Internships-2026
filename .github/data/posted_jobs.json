@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-19T23:54:58.574Z",
+  "lastUpdated": "2026-01-20T00:06:59.794Z",
   "jobs": [
     {
       "id": "the-coca-cola-company-data-scientist-intern-atlanta-2026-01-13-1",
@@ -15412,14 +15412,102 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7473983",
       "discordThreadId": "1462958534210617496",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-finance-strategy-analyst-rotational-program-san-francisco-seattle-new-york-city-2026-01-20-1",
+      "jobId": "stripe-finance-strategy-analyst-rotational-program-san-francisco-seattle-new-york-city",
+      "company": "stripe",
+      "title": "Finance & Strategy Analyst Rotational Program ",
+      "postedToDiscord": "2026-01-20T00:06:36.690Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7409482",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-finance-strategy-or-treasury-finance-intern-san-francisco-new-york-2026-01-20-1",
+      "jobId": "stripe-finance-strategy-or-treasury-finance-intern-san-francisco-new-york",
+      "company": "stripe",
+      "title": "Finance & Strategy or Treasury Finance Intern",
+      "postedToDiscord": "2026-01-20T00:06:40.512Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7409645",
+      "discordThreadId": "1462961478184210485",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-financial-reporting-and-corporate-accounting-us-sea-us-sf-2026-01-20-1",
+      "jobId": "stripe-financial-reporting-and-corporate-accounting-us-sea-us-sf",
+      "company": "stripe",
+      "title": "Financial Reporting and Corporate Accounting",
+      "postedToDiscord": "2026-01-20T00:06:42.550Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6993486",
+      "discordThreadId": "1462961494466498718",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-frontend-engineering-manager-payments-seattle-san-francisco-2026-01-20-1",
+      "jobId": "stripe-frontend-engineering-manager-payments-seattle-san-francisco",
+      "company": "stripe",
+      "title": "Frontend Engineering Manager, Payments",
+      "postedToDiscord": "2026-01-20T00:06:49.099Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7063232",
+      "discordThreadId": "1462961515245076717",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-global-strategic-alliances-accenture-amer-lead-us-sf-2026-01-20-1",
+      "jobId": "stripe-global-strategic-alliances-accenture-amer-lead-us-sf",
+      "company": "stripe",
+      "title": "Global Strategic Alliances, Accenture AMER Lead",
+      "postedToDiscord": "2026-01-20T00:06:50.847Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7434248",
+      "discordThreadId": "1462961529925144659",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-global-strategic-alliances-embedded-solutions-lead-us-sf-2026-01-20-1",
+      "jobId": "stripe-global-strategic-alliances-embedded-solutions-lead-us-sf",
+      "company": "stripe",
+      "title": "Global Strategic Alliances, Embedded Solutions Lead ",
+      "postedToDiscord": "2026-01-20T00:06:52.628Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7461966",
+      "discordThreadId": "1462961537286275103",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-global-strategic-alliances-lead-agentic-commerce-and-retail-industry-sf-seattle-new-york-chicago-2026-01-20-1",
+      "jobId": "stripe-global-strategic-alliances-lead-agentic-commerce-and-retail-industry-sf-seattle-new-york-chicago",
+      "company": "stripe",
+      "title": "Global Strategic Alliances Lead, Agentic Commerce and Retail Industry",
+      "postedToDiscord": "2026-01-20T00:06:56.033Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7227036",
+      "discordThreadId": "1462961544403878000",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-global-strategic-alliances-lead-insurance-industry-sf-seattle-new-york-chicago-2026-01-20-1",
+      "jobId": "stripe-global-strategic-alliances-lead-insurance-industry-sf-seattle-new-york-chicago",
+      "company": "stripe",
+      "title": "Global Strategic Alliances Lead, Insurance Industry",
+      "postedToDiscord": "2026-01-20T00:06:59.794Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7327143",
+      "discordThreadId": "1462961558844866561",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1401,
+    "totalJobs": 1409,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-19T23:54:58.574Z",
+      "date": "2026-01-20T00:06:59.794Z",
       "archived": 0
     }
   }
