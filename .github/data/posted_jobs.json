@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:47:18.590Z",
+  "lastUpdated": "2026-01-20T11:55:03.725Z",
   "jobs": [
     {
       "id": "commvault-technical-enablement-intern-shrewsbury-2026-01-13-1",
@@ -18679,14 +18679,36 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
       "discordThreadId": "1463137800122536133",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-technical-recruiter-data-science-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-technical-recruiter-data-science-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Technical Recruiter, Data Science",
+      "postedToDiscord": "2026-01-20T11:54:57.013Z",
+      "sourceDate": "2026-01-07T13:23:07-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5730956004?gh_jid=5730956004",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-account-executive-strategic-accounts-remote-us-2026-01-20-1",
+      "jobId": "airtable-account-executive-strategic-accounts-remote-us",
+      "company": "airtable",
+      "title": "Account Executive, Strategic Accounts",
+      "postedToDiscord": "2026-01-20T11:55:03.725Z",
+      "sourceDate": "2026-01-07T13:05:33-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7888378002",
+      "discordThreadId": "1463139749978964114",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1698,
+    "totalJobs": 1700,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T11:47:18.590Z",
+      "date": "2026-01-20T11:55:03.725Z",
       "archived": 0
     }
   }
