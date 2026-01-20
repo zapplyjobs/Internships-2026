@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:37:06.210Z",
+  "lastUpdated": "2026-01-20T05:50:38.414Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15929,14 +15929,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7280343",
       "discordThreadId": "1463044641493352586",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-engineer-payments-seattle-san-francisco-2026-01-20-1",
+      "jobId": "stripe-staff-engineer-payments-seattle-san-francisco",
+      "company": "stripe",
+      "title": "Staff Engineer, Payments",
+      "postedToDiscord": "2026-01-20T05:50:14.468Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7416957",
+      "discordThreadId": "1463047940305195139",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-full-stack-engineer-payments-dashboard-seattle-2026-01-20-1",
+      "jobId": "stripe-staff-full-stack-engineer-payments-dashboard-seattle",
+      "company": "stripe",
+      "title": "Staff Full Stack Engineer, Payments Dashboard",
+      "postedToDiscord": "2026-01-20T05:50:17.893Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7492950",
+      "discordThreadId": "1463047955022876713",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-fullstack-engineer-privy-nyc-privy-us-remote-2026-01-20-1",
+      "jobId": "stripe-staff-fullstack-engineer-privy-nyc-privy-us-remote",
+      "company": "stripe",
+      "title": "Staff Fullstack Engineer, Privy",
+      "postedToDiscord": "2026-01-20T05:50:19.647Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7091959",
+      "discordThreadId": "1463047968994361345",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-infrastructure-engineer-privy-new-york-2026-01-20-1",
+      "jobId": "stripe-staff-infrastructure-engineer-privy-new-york",
+      "company": "stripe",
+      "title": "Staff Infrastructure Engineer, Privy",
+      "postedToDiscord": "2026-01-20T05:50:23.067Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7462961",
+      "discordThreadId": "1463047976661553203",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-product-manager-web-presence-platform-remote-chicago-2026-01-20-1",
+      "jobId": "stripe-staff-product-manager-web-presence-platform-remote-chicago",
+      "company": "stripe",
+      "title": "Staff Product Manager, Web Presence & Platform",
+      "postedToDiscord": "2026-01-20T05:50:26.499Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7169955",
+      "discordThreadId": "1463047991131635712",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-security-engineer-security-partnerships-remote-north-america-2026-01-20-1",
+      "jobId": "stripe-staff-security-engineer-security-partnerships-remote-north-america",
+      "company": "stripe",
+      "title": "Staff Security Engineer, Security Partnerships",
+      "postedToDiscord": "2026-01-20T05:50:28.357Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=6892149",
+      "discordThreadId": "1463048005170233416",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-software-engineer-developer-productivity-us-remote-seattle-san-francisco-2026-01-20-1",
+      "jobId": "stripe-staff-software-engineer-developer-productivity-us-remote-seattle-san-francisco",
+      "company": "stripe",
+      "title": "Staff Software Engineer, Developer Productivity ",
+      "postedToDiscord": "2026-01-20T05:50:31.800Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7438882",
+      "discordThreadId": "1463048013181358100",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-ux-researcher-payments-us-2026-01-20-1",
+      "jobId": "stripe-staff-ux-researcher-payments-us",
+      "company": "stripe",
+      "title": "Staff UX Researcher, Payments",
+      "postedToDiscord": "2026-01-20T05:50:33.499Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7312489",
+      "discordThreadId": "1463048027647512670",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-product-manager-link-balance-ny-sf-sea-remote-us-2026-01-20-1",
+      "jobId": "stripe-staff-product-manager-link-balance-ny-sf-sea-remote-us",
+      "company": "stripe",
+      "title": "Staff Product Manager, Link Balance",
+      "postedToDiscord": "2026-01-20T05:50:38.414Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7118153",
+      "discordThreadId": "1463048047838892075",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1448,
+    "totalJobs": 1457,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T05:37:06.210Z",
+      "date": "2026-01-20T05:50:38.414Z",
       "archived": 0
     }
   }
