@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T08:18:53.232Z",
+  "lastUpdated": "2026-01-20T08:33:51.140Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -17216,14 +17216,113 @@
       "sourceUrl": "https://careers.datadoghq.com/detail/7465622/?gh_jid=7465622",
       "discordThreadId": "1463085340792459413",
       "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-sales-engineer-texas-usa-remote-2026-01-20-1",
+      "jobId": "datadog-enterprise-sales-engineer-texas-usa-remote",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer",
+      "postedToDiscord": "2026-01-20T08:33:30.026Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7379789/?gh_jid=7379789",
+      "discordThreadId": "1463089025874395251",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-sales-engineer-south-africa-south-africa-remote-2026-01-20-1",
+      "jobId": "datadog-enterprise-sales-engineer-south-africa-south-africa-remote",
+      "company": "datadog",
+      "title": "Enterprise Sales Engineer - South Africa",
+      "postedToDiscord": "2026-01-20T08:33:30.040Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-sales-executive-georgia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-enterprise-sales-executive-georgia-usa-remote",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T08:33:33.567Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822",
+      "discordThreadId": "1463089040583823475",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-sales-executive-boston-massachusetts-usa-2026-01-20-1",
+      "jobId": "datadog-enterprise-sales-executive-boston-massachusetts-usa",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive",
+      "postedToDiscord": "2026-01-20T08:33:33.579Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410254/?gh_jid=7410254",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-sales-executive-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-enterprise-sales-executive-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Enterprise Sales Executive ",
+      "postedToDiscord": "2026-01-20T08:33:33.591Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7405831/?gh_jid=7405831",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-security-sales-specialist-chicago-illinois-usa-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-enterprise-security-sales-specialist-chicago-illinois-usa-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-20T08:33:40.401Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7129428/?gh_jid=7129428",
+      "discordThreadId": "1463089068442259530",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-enterprise-security-sales-specialist-florida-usa-remote-georgia-usa-remote-2026-01-20-1",
+      "jobId": "datadog-enterprise-security-sales-specialist-florida-usa-remote-georgia-usa-remote",
+      "company": "datadog",
+      "title": "Enterprise Security Sales Specialist",
+      "postedToDiscord": "2026-01-20T08:33:40.415Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-executive-assistant-ii-san-francisco-san-francisco-california-usa-2026-01-20-1",
+      "jobId": "datadog-executive-assistant-ii-san-francisco-san-francisco-california-usa",
+      "company": "datadog",
+      "title": "Executive Assistant II - San Francisco",
+      "postedToDiscord": "2026-01-20T08:33:47.443Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7410744/?gh_jid=7410744",
+      "discordThreadId": "1463089097655717931",
+      "instanceNumber": 1
+    },
+    {
+      "id": "datadog-executive-assistant-i-nyc-new-york-new-york-usa-2026-01-20-1",
+      "jobId": "datadog-executive-assistant-i-nyc-new-york-new-york-usa",
+      "company": "datadog",
+      "title": "Executive Assistant I - NYC",
+      "postedToDiscord": "2026-01-20T08:33:51.140Z",
+      "sourceDate": "2026-01-09T12:55:41-05:00",
+      "sourceUrl": "https://careers.datadoghq.com/detail/7467827/?gh_jid=7467827",
+      "discordThreadId": "1463089113485017304",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1565,
+    "totalJobs": 1574,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T08:18:53.232Z",
+      "date": "2026-01-20T08:33:51.140Z",
       "archived": 0
     }
   }
