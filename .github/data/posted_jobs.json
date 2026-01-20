@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:09:38.441Z",
+  "lastUpdated": "2026-01-20T05:22:09.789Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15731,14 +15731,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7394633",
       "discordThreadId": "1463037722464620578",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-seller-experience-process-systems-program-manager-remote-2026-01-20-1",
+      "jobId": "stripe-seller-experience-process-systems-program-manager-remote",
+      "company": "stripe",
+      "title": "Seller Experience Process & Systems, Program Manager",
+      "postedToDiscord": "2026-01-20T05:21:36.506Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7417568",
+      "discordThreadId": "1463040741738680391",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-senior-staff-product-designer-payments-sf-seattle-new-york-remote-in-the-us-2026-01-20-1",
+      "jobId": "stripe-senior-staff-product-designer-payments-sf-seattle-new-york-remote-in-the-us",
+      "company": "stripe",
+      "title": "Senior Staff Product Designer, Payments",
+      "postedToDiscord": "2026-01-20T05:21:43.188Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7202630",
+      "discordThreadId": "1463040762101895300",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-bridge-san-francisco-ny-seattle-2026-01-20-1",
+      "jobId": "stripe-software-engineer-bridge-san-francisco-ny-seattle",
+      "company": "stripe",
+      "title": "Software Engineer, Bridge",
+      "postedToDiscord": "2026-01-20T05:21:46.696Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7277110",
+      "discordThreadId": "1463040777331671186",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-intern-summer-and-winter-san-francisco-seattle-new-york-city-2026-01-20-1",
+      "jobId": "stripe-software-engineer-intern-summer-and-winter-san-francisco-seattle-new-york-city",
+      "company": "stripe",
+      "title": "Software Engineer, Intern (Summer and Winter)",
+      "postedToDiscord": "2026-01-20T05:21:50.264Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7210115",
+      "discordThreadId": "1463040792535760938",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-new-grad-san-francisco-seattle-2026-01-20-1",
+      "jobId": "stripe-software-engineer-new-grad-san-francisco-seattle",
+      "company": "stripe",
+      "title": "Software Engineer, New Grad",
+      "postedToDiscord": "2026-01-20T05:21:53.773Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7210112",
+      "discordThreadId": "1463040806863503422",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-software-engineer-smart-contract-bridge-san-francisco-or-new-york-2026-01-20-1",
+      "jobId": "stripe-software-engineer-smart-contract-bridge-san-francisco-or-new-york",
+      "company": "stripe",
+      "title": "Software Engineer - Smart Contract, Bridge",
+      "postedToDiscord": "2026-01-20T05:21:59.115Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7507904",
+      "discordThreadId": "1463040822126710817",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-enterprise-chicago-il-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-enterprise-chicago-il",
+      "company": "stripe",
+      "title": "Solutions Architect, Enterprise",
+      "postedToDiscord": "2026-01-20T05:22:02.576Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7374610",
+      "discordThreadId": "1463040844167774364",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-enterprise-hunter-new-york-city-south-san-francisco-or-remote-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-enterprise-hunter-new-york-city-south-san-francisco-or-remote",
+      "company": "stripe",
+      "title": "Solutions Architect, Enterprise Hunter",
+      "postedToDiscord": "2026-01-20T05:22:06.198Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7462261",
+      "discordThreadId": "1463040858936053908",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-enterprise-platforms-san-francisco-ca-or-new-york-ny-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-enterprise-platforms-san-francisco-ca-or-new-york-ny",
+      "company": "stripe",
+      "title": "Solutions Architect, Enterprise Platforms ",
+      "postedToDiscord": "2026-01-20T05:22:09.789Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7099419",
+      "discordThreadId": "1463040873792143543",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1430,
+    "totalJobs": 1439,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T05:09:38.441Z",
+      "date": "2026-01-20T05:22:09.789Z",
       "archived": 0
     }
   }
