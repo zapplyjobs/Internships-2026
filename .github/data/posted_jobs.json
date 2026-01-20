@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T18:54:27.534Z",
+  "lastUpdated": "2026-01-20T19:21:01.603Z",
   "jobs": [
     {
       "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
@@ -18976,14 +18976,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5732415004?gh_jid=5732415004",
       "discordThreadId": "1463245294664945837",
       "instanceNumber": 1
+    },
+    {
+      "id": "airtable-analytics-engineer-product-analytics-san-francisco-ca-new-york-city-ny-2026-01-20-1",
+      "jobId": "airtable-analytics-engineer-product-analytics-san-francisco-ca-new-york-city-ny",
+      "company": "airtable",
+      "title": "Analytics Engineer, Product Analytics",
+      "postedToDiscord": "2026-01-20T19:20:31.758Z",
+      "sourceDate": "2026-01-05T13:01:15-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8112284002",
+      "discordThreadId": "1463251854359134209",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-data-scientist-gtm-analytics-san-francisco-ca-new-york-city-ny-austin-tx-2026-01-20-1",
+      "jobId": "airtable-data-scientist-gtm-analytics-san-francisco-ca-new-york-city-ny-austin-tx",
+      "company": "airtable",
+      "title": "Data Scientist, GTM Analytics",
+      "postedToDiscord": "2026-01-20T19:20:35.371Z",
+      "sourceDate": "2026-01-03T01:01:00-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8169952002",
+      "discordThreadId": "1463251870565793857",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-senior-developer-support-engineer-west-coast-san-francisco-ca-remote-us-2026-01-20-1",
+      "jobId": "airtable-senior-developer-support-engineer-west-coast-san-francisco-ca-remote-us",
+      "company": "airtable",
+      "title": "Senior Developer Support Engineer-West Coast",
+      "postedToDiscord": "2026-01-20T19:20:41.907Z",
+      "sourceDate": "2026-01-03T03:33:18-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8327916002",
+      "discordThreadId": "1463251898952847607",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-data-scientist-product-analytics-san-francisco-ca-new-york-city-ny-austin-tx-2026-01-20-1",
+      "jobId": "airtable-data-scientist-product-analytics-san-francisco-ca-new-york-city-ny-austin-tx",
+      "company": "airtable",
+      "title": "Data Scientist, Product Analytics",
+      "postedToDiscord": "2026-01-20T19:20:48.424Z",
+      "sourceDate": "2026-01-03T01:00:58-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170306002",
+      "discordThreadId": "1463251926161559626",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-financial-crimes-investigator-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-financial-crimes-investigator-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Financial Crimes Investigator",
+      "postedToDiscord": "2026-01-20T19:20:54.839Z",
+      "sourceDate": "2026-01-02T23:25:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8358216002?gh_jid=8358216002",
+      "discordThreadId": "1463251953214558292",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-technical-consultant-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-technical-consultant-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:21:01.558Z",
+      "sourceDate": "2026-01-02T15:41:01-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136713002?gh_jid=8136713002",
+      "discordThreadId": "1463251980595101904",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-technical-consultant-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-technical-consultant-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:21:01.576Z",
+      "sourceDate": "2026-01-02T15:40:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136710002?gh_jid=8136710002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-technical-consultant-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-technical-consultant-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:21:01.590Z",
+      "sourceDate": "2026-01-02T15:40:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136706002?gh_jid=8136706002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-technical-consultant-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-technical-consultant-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Technical Consultant",
+      "postedToDiscord": "2026-01-20T19:21:01.603Z",
+      "sourceDate": "2026-01-02T15:39:47-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8136183002?gh_jid=8136183002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1725,
+    "totalJobs": 1734,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T18:54:27.534Z",
+      "date": "2026-01-20T19:21:01.603Z",
       "archived": 0
     }
   }
