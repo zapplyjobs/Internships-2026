@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T17:08:32.826Z",
+  "lastUpdated": "2026-01-20T17:20:36.430Z",
   "jobs": [
     {
       "id": "visa-software-engineer-highlands-ranch-2026-01-13-1",
@@ -18822,14 +18822,58 @@
       "sourceUrl": "https://careers.duolingo.com/jobs/8331474002?gh_jid=8331474002",
       "discordThreadId": "1463218641746002237",
       "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-director-of-performance-marketing-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-director-of-performance-marketing-new-york-ny",
+      "company": "duolingo",
+      "title": "Director of Performance Marketing",
+      "postedToDiscord": "2026-01-20T17:20:26.586Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/7996986002?gh_jid=7996986002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-litigation-and-risk-counsel-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-litigation-and-risk-counsel-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-20T17:20:29.950Z",
+      "sourceDate": "2026-01-06T19:31:34-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362829002?gh_jid=8362829002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-litigation-and-risk-counsel-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-litigation-and-risk-counsel-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Litigation and Risk Counsel",
+      "postedToDiscord": "2026-01-20T17:20:29.968Z",
+      "sourceDate": "2026-01-06T19:31:33-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8362828002?gh_jid=8362828002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-social-content-creator-intern-new-york-ny-2026-01-20-1",
+      "jobId": "duolingo-social-content-creator-intern-new-york-ny",
+      "company": "duolingo",
+      "title": "Social Content Creator, Intern",
+      "postedToDiscord": "2026-01-20T17:20:36.430Z",
+      "sourceDate": "2026-01-07T10:01:30-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8301519002?gh_jid=8301519002",
+      "discordThreadId": "1463221676857757746",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1711,
+    "totalJobs": 1715,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T17:08:32.826Z",
+      "date": "2026-01-20T17:20:36.430Z",
       "archived": 0
     }
   }
