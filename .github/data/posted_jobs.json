@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:55:56.281Z",
+  "lastUpdated": "2026-01-20T23:03:43.963Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20648,14 +20648,113 @@
       "sourceUrl": "https://www.brex.com/careers/8324893002?gh_jid=8324893002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-application-security-engineer-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-application-security-engineer-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-20T23:03:30.229Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249884002?gh_jid=8249884002",
+      "discordThreadId": "1463307968320639234",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-application-security-engineer-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-application-security-engineer-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-20T23:03:30.245Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249658002?gh_jid=8249658002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-application-security-engineer-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-application-security-engineer-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Application Security Engineer",
+      "postedToDiscord": "2026-01-20T23:03:30.262Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8249885002?gh_jid=8249885002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-acquisition-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-acquisition-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-20T23:03:33.975Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299907002?gh_jid=8299907002",
+      "discordThreadId": "1463307984280227881",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-acquisition-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-acquisition-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-20T23:03:33.991Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299930002?gh_jid=8299930002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-acquisition-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-acquisition-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Acquisition",
+      "postedToDiscord": "2026-01-20T23:03:34.004Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299931002?gh_jid=8299931002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-risk-management-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-risk-management-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Risk Management",
+      "postedToDiscord": "2026-01-20T23:03:37.461Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8184122002?gh_jid=8184122002",
+      "discordThreadId": "1463307999845286051",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-activation-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-activation-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-20T23:03:43.944Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330492002?gh_jid=8330492002",
+      "discordThreadId": "1463308026814529676",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-engineering-manager-activation-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-engineering-manager-activation-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Engineering Manager, Activation",
+      "postedToDiscord": "2026-01-20T23:03:43.962Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
+      "discordThreadId": null,
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1877,
+    "totalJobs": 1886,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T22:55:56.281Z",
+      "date": "2026-01-20T23:03:43.963Z",
       "archived": 0
     }
   }
