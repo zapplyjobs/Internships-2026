@@ -32038,5 +32038,17 @@
     "job_title": "Intern - Data Management",
     "company": "Genentech",
     "first_seen": "2026-01-19T23:38:51.396Z"
+  },
+  "csc-business-intelligence-intern-wilmington": {
+    "assigned_date": "2026-01-20T00:06:13.562Z",
+    "job_title": "Business Intelligence Intern",
+    "company": "CSC",
+    "first_seen": "2026-01-20T00:06:13.562Z"
+  },
+  "rtx-software-engineering-intern---open-marlborough": {
+    "assigned_date": "2026-01-20T00:06:13.562Z",
+    "job_title": "Software Engineering Intern - Open",
+    "company": "RTX",
+    "first_seen": "2026-01-20T00:06:13.562Z"
   }
 }
