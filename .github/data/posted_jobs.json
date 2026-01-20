@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T20:52:19.060Z",
+  "lastUpdated": "2026-01-20T21:02:07.652Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19460,14 +19460,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7845295002",
       "discordThreadId": "1463274947819470933",
       "instanceNumber": 1
+    },
+    {
+      "id": "airtable-solutions-consultant-austin-tx-2026-01-20-1",
+      "jobId": "airtable-solutions-consultant-austin-tx",
+      "company": "airtable",
+      "title": "Solutions Consultant",
+      "postedToDiscord": "2026-01-20T21:01:29.998Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8233343002",
+      "discordThreadId": "1463277265382146099",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-community-support-specialist-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-community-support-specialist-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Community Support Specialist",
+      "postedToDiscord": "2026-01-20T21:01:33.810Z",
+      "sourceDate": "2025-12-18T12:24:30-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734604004?gh_jid=5734604004",
+      "discordThreadId": "1463277281089687602",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-legal-operations-lead-clm-technology-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-legal-operations-lead-clm-technology-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Legal Operations Lead, CLM & Technology",
+      "postedToDiscord": "2026-01-20T21:01:37.468Z",
+      "sourceDate": "2025-12-18T10:56:26-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737291004?gh_jid=5737291004",
+      "discordThreadId": "1463277296931700749",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-launch-strategy-operations-marketing-comms-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-launch-strategy-operations-marketing-comms-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Launch Strategy & Operations - Marketing & Comms",
+      "postedToDiscord": "2026-01-20T21:01:40.932Z",
+      "sourceDate": "2025-12-17T21:34:51-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5729141004?gh_jid=5729141004",
+      "discordThreadId": "1463277312299503756",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-senior-technical-revenue-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-senior-technical-revenue-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Senior Technical Revenue Manager",
+      "postedToDiscord": "2026-01-20T21:01:44.398Z",
+      "sourceDate": "2025-12-17T19:24:43-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735644004?gh_jid=5735644004",
+      "discordThreadId": "1463277326623183054",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-technical-sourcer-contract-san-francisco-ca-remote-us-2026-01-20-1",
+      "jobId": "airtable-technical-sourcer-contract-san-francisco-ca-remote-us",
+      "company": "airtable",
+      "title": "Technical Sourcer (Contract)",
+      "postedToDiscord": "2026-01-20T21:01:51.007Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7695026002",
+      "discordThreadId": "1463277353902801006",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-web-developer-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-web-developer-san-francisco-ca",
+      "company": "airtable",
+      "title": "Web Developer",
+      "postedToDiscord": "2026-01-20T21:01:57.540Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8194658002",
+      "discordThreadId": "1463277381212176587",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-data-scientist-business-analytics-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-data-scientist-business-analytics-new-york-ny",
+      "company": "spotify",
+      "title": "Data Scientist  - Business Analytics",
+      "postedToDiscord": "2026-01-20T21:02:04.128Z",
+      "sourceDate": "2025-12-18T16:59:11.283Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/27596acc-85c1-4c45-b4b9-669d1b37e068",
+      "discordThreadId": "1463277409142050930",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-senior-manager-music-label-deal-analysis-fp-a-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-senior-manager-music-label-deal-analysis-fp-a-new-york-ny",
+      "company": "spotify",
+      "title": "Senior Manager, Music Label Deal Analysis - FP&A",
+      "postedToDiscord": "2026-01-20T21:02:07.651Z",
+      "sourceDate": "2025-12-18T15:46:29.850Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/cdadc5cf-efbc-4937-b4eb-bd003fbb789a",
+      "discordThreadId": "1463277423993946254",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1769,
+    "totalJobs": 1778,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T20:52:19.060Z",
+      "date": "2026-01-20T21:02:07.652Z",
       "archived": 0
     }
   }
