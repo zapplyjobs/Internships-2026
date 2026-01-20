@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T22:31:22.912Z",
+  "lastUpdated": "2026-01-20T22:41:47.398Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -20351,14 +20351,113 @@
       "sourceUrl": "https://www.brex.com/careers/8330477002?gh_jid=8330477002",
       "discordThreadId": null,
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-implementation-consultant-financial-saas-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-implementation-consultant-financial-saas-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Enterprise Implementation Consultant, Financial Saas",
+      "postedToDiscord": "2026-01-20T22:41:34.139Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8152963002?gh_jid=8152963002",
+      "discordThreadId": "1463302448444739761",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-implementation-consultant-financial-saas-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-implementation-consultant-financial-saas-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Enterprise Implementation Consultant, Financial Saas",
+      "postedToDiscord": "2026-01-20T22:41:34.155Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8152870002?gh_jid=8152870002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-enterprise-implementation-consultant-financial-saas-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-enterprise-implementation-consultant-financial-saas-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Enterprise Implementation Consultant, Financial Saas",
+      "postedToDiscord": "2026-01-20T22:41:34.172Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8152938002?gh_jid=8152938002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-implementation-consultant-ii-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-implementation-consultant-ii-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Implementation Consultant II",
+      "postedToDiscord": "2026-01-20T22:41:37.523Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299954002?gh_jid=8299954002",
+      "discordThreadId": "1463302464123043951",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-implementation-consultant-ii-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-implementation-consultant-ii-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "Implementation Consultant II",
+      "postedToDiscord": "2026-01-20T22:41:37.536Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8175966002?gh_jid=8175966002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-implementation-consultant-ii-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-implementation-consultant-ii-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Implementation Consultant II",
+      "postedToDiscord": "2026-01-20T22:41:37.549Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299949002?gh_jid=8299949002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-implementation-consultant-ii-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-implementation-consultant-ii-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Implementation Consultant II",
+      "postedToDiscord": "2026-01-20T22:41:37.562Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8299951002?gh_jid=8299951002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-head-of-internal-communications-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-head-of-internal-communications-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Head of Internal Communications",
+      "postedToDiscord": "2026-01-20T22:41:44.046Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8291068002?gh_jid=8291068002",
+      "discordThreadId": "1463302491503464617",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-manager-recruiting-coordination-and-programs-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-manager-recruiting-coordination-and-programs-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Manager, Recruiting Coordination and Programs",
+      "postedToDiscord": "2026-01-20T22:41:47.398Z",
+      "sourceDate": "2025-12-10T11:03:20-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8245281002?gh_jid=8245281002",
+      "discordThreadId": "1463302505046737040",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1850,
+    "totalJobs": 1859,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T22:31:22.912Z",
+      "date": "2026-01-20T22:41:47.398Z",
       "archived": 0
     }
   }
