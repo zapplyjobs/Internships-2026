@@ -4156,5 +4156,71 @@
     "sourceUrl": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Fall-2026_R5002162-1",
     "discordThreadId": "1460461375372394528",
     "instanceNumber": 1
+  },
+  {
+    "id": "nvidia-quantum-computing-software-intern-santa-clara-2026-01-13-1",
+    "jobId": "nvidia-quantum-computing-software-intern-santa-clara",
+    "company": "NVIDIA",
+    "title": "Quantum Computing Software Intern",
+    "postedToDiscord": "2026-01-13T03:10:33.883Z",
+    "sourceDate": "2026-01-12T23:32:47.000Z",
+    "sourceUrl": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quantum-Computing-Software-Intern---Summer-2026_JR2010186-1",
+    "discordThreadId": "1460471041158680669",
+    "instanceNumber": 1
+  },
+  {
+    "id": "rtx-2026-intern-data-management-analyst-tucson-2026-01-13-1",
+    "jobId": "rtx-2026-intern-data-management-analyst-tucson",
+    "company": "RTX",
+    "title": "2026 Intern - Data Management Analyst",
+    "postedToDiscord": "2026-01-13T03:10:37.291Z",
+    "sourceDate": "2026-01-13T02:15:33.000Z",
+    "sourceUrl": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ807-RMS-AP-Bldg-807-1151-East-Hermans-Road-Building-807-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Data-Management-Analyst---Onsite_01816048",
+    "discordThreadId": "1460471055939538995",
+    "instanceNumber": 1
+  },
+  {
+    "id": "national-renewable-energy-laboratory-graduate-intern-distributed-energy-systems-golden-2026-01-13-1",
+    "jobId": "national-renewable-energy-laboratory-graduate-intern-distributed-energy-systems-golden",
+    "company": "National Renewable Energy Laboratory",
+    "title": "Graduate Intern - Distributed Energy Systems",
+    "postedToDiscord": "2026-01-13T03:10:43.773Z",
+    "sourceDate": "2026-01-12T23:32:09.000Z",
+    "sourceUrl": "https://nrel.wd5.myworkdayjobs.com/nrel/job/CO---Golden/Graduate--Summer--Intern---Distributed-Energy-Systems_R14095",
+    "discordThreadId": "1460471082808119451",
+    "instanceNumber": 1
+  },
+  {
+    "id": "genentech-intern-ddc-san-bruno-2026-01-13-1",
+    "jobId": "genentech-intern-ddc-san-bruno",
+    "company": "Genentech",
+    "title": "Intern - DDC",
+    "postedToDiscord": "2026-01-13T03:10:47.199Z",
+    "sourceDate": "2026-01-13T02:11:37.000Z",
+    "sourceUrl": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---DDC_202601-100487",
+    "discordThreadId": "1460471097475731670",
+    "instanceNumber": 1
+  },
+  {
+    "id": "the-coca-cola-company-revenue-growth-management-data-engineer-intern-atlanta-2026-01-13-1",
+    "jobId": "the-coca-cola-company-revenue-growth-management-data-engineer-intern-atlanta",
+    "company": "The Coca-Cola Company",
+    "title": "Revenue Growth Management Data Engineer Intern",
+    "postedToDiscord": "2026-01-13T03:10:53.721Z",
+    "sourceDate": "2026-01-13T02:18:14.000Z",
+    "sourceUrl": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Revenue-Growth-Management-Data-Engineering-Intern_R-133413",
+    "discordThreadId": "1460471124638044373",
+    "instanceNumber": 1
+  },
+  {
+    "id": "true-manufacturing-business-intelligence-co-op-engineering-o-fallon-2026-01-13-1",
+    "jobId": "true-manufacturing-business-intelligence-co-op-engineering-o-fallon",
+    "company": "True Manufacturing",
+    "title": "Business Intelligence Co-op - Engineering",
+    "postedToDiscord": "2026-01-13T03:10:57.230Z",
+    "sourceDate": "2025-09-11T09:34:01.000Z",
+    "sourceUrl": "https://officejobs-truemfg.icims.com/jobs/2673/job?mobile=true&needsRedirect=false",
+    "discordThreadId": "1460471139292676259",
+    "instanceNumber": 1
   }
 ]
