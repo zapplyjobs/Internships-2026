@@ -1,18 +1,7 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T11:34:19.011Z",
+  "lastUpdated": "2026-01-20T11:47:18.590Z",
   "jobs": [
-    {
-      "id": "icf-intern-software-developer-reston-2026-01-13-1",
-      "jobId": "icf-intern-software-developer-reston",
-      "company": "ICF",
-      "title": "Intern - Software Developer",
-      "postedToDiscord": "2026-01-13T11:39:10.243Z",
-      "sourceDate": "2025-09-15T22:24:27.000Z",
-      "sourceUrl": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2026-Summer-Intern--Software-Developer_R2502588",
-      "discordThreadId": null,
-      "instanceNumber": 1
-    },
     {
       "id": "commvault-technical-enablement-intern-shrewsbury-2026-01-13-1",
       "jobId": "commvault-technical-enablement-intern-shrewsbury",
@@ -18602,14 +18591,102 @@
       "sourceUrl": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
       "discordThreadId": "1463134530134216898",
       "instanceNumber": 1
+    },
+    {
+      "id": "brex-manager-customer-success-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-manager-customer-success-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Manager, Customer Success",
+      "postedToDiscord": "2026-01-20T11:46:46.898Z",
+      "sourceDate": "2026-01-08T12:41:49-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8283430002?gh_jid=8283430002",
+      "discordThreadId": "1463137666743799859",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-bizops-lead-bd-salt-lake-city-utah-united-states-2026-01-20-1",
+      "jobId": "brex-bizops-lead-bd-salt-lake-city-utah-united-states",
+      "company": "brex",
+      "title": "BizOps Lead, BD",
+      "postedToDiscord": "2026-01-20T11:46:50.443Z",
+      "sourceDate": "2026-01-08T11:53:09-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8366671002?gh_jid=8366671002",
+      "discordThreadId": "1463137681398566998",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-account-executive-enterprise-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-account-executive-enterprise-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Account Executive, Enterprise",
+      "postedToDiscord": "2026-01-20T11:46:54.187Z",
+      "sourceDate": "2026-01-08T11:41:04-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5426468004?gh_jid=5426468004",
+      "discordThreadId": "1463137696443797679",
+      "instanceNumber": 1
+    },
+    {
+      "id": "coinbase-supervisor-customer-success-team-onsite-relocation-assistance-available-charlotte-nc-2026-01-20-1",
+      "jobId": "coinbase-supervisor-customer-success-team-onsite-relocation-assistance-available-charlotte-nc",
+      "company": "coinbase",
+      "title": "Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)",
+      "postedToDiscord": "2026-01-20T11:46:58.906Z",
+      "sourceDate": "2026-01-08T11:43:51-05:00",
+      "sourceUrl": "https://www.coinbase.com/careers/positions/7325242?gh_jid=7325242",
+      "discordThreadId": "1463137724524658822",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-community-marketing-manager-figma-weave-new-york-united-states-new-york-ny-2026-01-20-1",
+      "jobId": "figma-community-marketing-manager-figma-weave-new-york-united-states-new-york-ny",
+      "company": "figma",
+      "title": "Community Marketing Manager - Figma Weave (New York, United States) ",
+      "postedToDiscord": "2026-01-20T11:47:05.361Z",
+      "sourceDate": "2026-01-08T10:41:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5748282004?gh_jid=5748282004",
+      "discordThreadId": "1463137744359522397",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-motion-design-animator-thrive-intern-detroit-mi-2026-01-20-1",
+      "jobId": "duolingo-motion-design-animator-thrive-intern-detroit-mi",
+      "company": "duolingo",
+      "title": "Motion Design Animator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:47:10.425Z",
+      "sourceDate": "2026-01-07T16:06:47-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8318061002?gh_jid=8318061002",
+      "discordThreadId": "1463137771764977697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "duolingo-illustrator-thrive-intern-detroit-mi-2026-01-20-1",
+      "jobId": "duolingo-illustrator-thrive-intern-detroit-mi",
+      "company": "duolingo",
+      "title": "Illustrator, Thrive Intern",
+      "postedToDiscord": "2026-01-20T11:47:12.187Z",
+      "sourceDate": "2026-01-07T16:06:14-05:00",
+      "sourceUrl": "https://careers.duolingo.com/jobs/8303848002?gh_jid=8303848002",
+      "discordThreadId": "1463137779813842979",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-strategic-program-manager-contingent-workforce-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-strategic-program-manager-contingent-workforce-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Strategic Program Manager, Contingent Workforce",
+      "postedToDiscord": "2026-01-20T11:47:18.590Z",
+      "sourceDate": "2026-01-07T13:46:33-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735636004?gh_jid=5735636004",
+      "discordThreadId": "1463137800122536133",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1691,
+    "totalJobs": 1698,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T11:34:19.011Z",
+      "date": "2026-01-20T11:47:18.590Z",
       "archived": 0
     }
   }
