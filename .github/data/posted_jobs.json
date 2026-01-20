@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T21:12:34.107Z",
+  "lastUpdated": "2026-01-20T21:23:44.198Z",
   "jobs": [
     {
       "id": "assetmark-data-intern-charlotte-2026-01-13-1",
@@ -19658,14 +19658,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5737778004?gh_jid=5737778004",
       "discordThreadId": "1463280051972866232",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-senior-manager-revenue-transformation-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-senior-manager-revenue-transformation-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Senior Manager, Revenue Transformation",
+      "postedToDiscord": "2026-01-20T21:23:22.590Z",
+      "sourceDate": "2025-12-15T16:31:06-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5734651004?gh_jid=5734651004",
+      "discordThreadId": "1463282771358126122",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-inside-sales-new-york-ny-2026-01-20-1",
+      "jobId": "figma-manager-inside-sales-new-york-ny",
+      "company": "figma",
+      "title": "Manager, Inside Sales",
+      "postedToDiscord": "2026-01-20T21:23:25.954Z",
+      "sourceDate": "2025-12-12T13:22:44-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5735077004?gh_jid=5735077004",
+      "discordThreadId": "1463282786176733205",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-growth-marketing-manager-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-growth-marketing-manager-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-20T21:23:32.435Z",
+      "sourceDate": "2025-12-15T16:27:17-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229815002?gh_jid=8229815002",
+      "discordThreadId": "1463282812814753925",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-growth-marketing-manager-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-growth-marketing-manager-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-20T21:23:32.451Z",
+      "sourceDate": "2025-12-15T16:27:02-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229814002?gh_jid=8229814002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-growth-marketing-manager-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-growth-marketing-manager-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Growth Marketing Manager",
+      "postedToDiscord": "2026-01-20T21:23:32.466Z",
+      "sourceDate": "2025-12-15T16:26:45-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8229808002?gh_jid=8229808002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-security-operations-engineer-seattle-washington-united-states-2026-01-20-1",
+      "jobId": "brex-senior-security-operations-engineer-seattle-washington-united-states",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-20T21:23:39.409Z",
+      "sourceDate": "2025-12-12T18:00:39-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+      "discordThreadId": "1463282840715268129",
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-security-operations-engineer-new-york-new-york-united-states-2026-01-20-1",
+      "jobId": "brex-senior-security-operations-engineer-new-york-new-york-united-states",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-20T21:23:39.425Z",
+      "sourceDate": "2025-12-12T18:00:05-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339277002?gh_jid=8339277002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "brex-senior-security-operations-engineer-san-francisco-california-united-states-2026-01-20-1",
+      "jobId": "brex-senior-security-operations-engineer-san-francisco-california-united-states",
+      "company": "brex",
+      "title": "Senior Security Operations Engineer ",
+      "postedToDiscord": "2026-01-20T21:23:39.438Z",
+      "sourceDate": "2025-12-12T18:00:04-05:00",
+      "sourceUrl": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-event-planner-i-sponsored-events-dallas-2026-01-20-1",
+      "jobId": "gohighlevel-event-planner-i-sponsored-events-dallas",
+      "company": "gohighlevel",
+      "title": "Event Planner I - Sponsored Events",
+      "postedToDiscord": "2026-01-20T21:23:44.198Z",
+      "sourceDate": "2025-12-12T20:06:39.412Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/f23300a5-68af-47ed-b6cc-e95b06c6b54f",
+      "discordThreadId": "1463282869152645374",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1787,
+    "totalJobs": 1796,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T21:12:34.107Z",
+      "date": "2026-01-20T21:23:44.198Z",
       "archived": 0
     }
   }
