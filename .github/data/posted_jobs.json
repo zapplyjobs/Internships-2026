@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T20:17:57.919Z",
+  "lastUpdated": "2026-01-20T20:37:43.075Z",
   "jobs": [
     {
       "id": "visa-software-engineer-intern-atlanta-2026-01-13-1",
@@ -19273,14 +19273,113 @@
       "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8170126002",
       "discordThreadId": "1463266308899737781",
       "instanceNumber": 1
+    },
+    {
+      "id": "airtable-people-analytics-lead-san-francisco-ca-austin-tx-new-york-ny-remote-us-2026-01-20-1",
+      "jobId": "airtable-people-analytics-lead-san-francisco-ca-austin-tx-new-york-ny-remote-us",
+      "company": "airtable",
+      "title": "People Analytics Lead",
+      "postedToDiscord": "2026-01-20T20:37:02.762Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/7968990002",
+      "discordThreadId": "1463271112015220737",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-people-systems-engineer-airtable-specialist-san-francisco-ca-remote-west-coast-2026-01-20-1",
+      "jobId": "airtable-people-systems-engineer-airtable-specialist-san-francisco-ca-remote-west-coast",
+      "company": "airtable",
+      "title": " People Systems Engineer, Airtable Specialist",
+      "postedToDiscord": "2026-01-20T20:37:09.753Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8222508002",
+      "discordThreadId": "1463271140565712959",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-manager-ai-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-product-manager-ai-san-francisco-ca",
+      "company": "airtable",
+      "title": "Product Manager, AI",
+      "postedToDiscord": "2026-01-20T20:37:13.199Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8199012002",
+      "discordThreadId": "1463271156105744414",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-manager-omni-analysis-q-a-san-francisco-ca-new-york-ny-2026-01-20-1",
+      "jobId": "airtable-product-manager-omni-analysis-q-a-san-francisco-ca-new-york-ny",
+      "company": "airtable",
+      "title": "Product Manager, Omni Analysis & Q&A",
+      "postedToDiscord": "2026-01-20T20:37:16.633Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8245333002",
+      "discordThreadId": "1463271170517237906",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-designer-deepsky-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-product-designer-deepsky-san-francisco-ca",
+      "company": "airtable",
+      "title": "Product Designer - DeepSky",
+      "postedToDiscord": "2026-01-20T20:37:23.245Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8208453002",
+      "discordThreadId": "1463271197490942112",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-designer-mobile-san-francisco-ca-remote-us-2026-01-20-1",
+      "jobId": "airtable-product-designer-mobile-san-francisco-ca-remote-us",
+      "company": "airtable",
+      "title": "Product Designer - Mobile",
+      "postedToDiscord": "2026-01-20T20:37:23.258Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8172359002",
+      "discordThreadId": null,
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-product-manager-ai-automation-new-york-city-ny-san-francisco-ca-2026-01-20-1",
+      "jobId": "airtable-product-manager-ai-automation-new-york-city-ny-san-francisco-ca",
+      "company": "airtable",
+      "title": "Product Manager, AI & Automation",
+      "postedToDiscord": "2026-01-20T20:37:29.941Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8003706002",
+      "discordThreadId": "1463271225848496150",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-renewals-associate-austin-tx-2026-01-20-1",
+      "jobId": "airtable-renewals-associate-austin-tx",
+      "company": "airtable",
+      "title": "Renewals Associate",
+      "postedToDiscord": "2026-01-20T20:37:36.548Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8249560002",
+      "discordThreadId": "1463271253367586975",
+      "instanceNumber": 1
+    },
+    {
+      "id": "airtable-risk-specialist-grcp-remote-us-san-francisco-ca-austin-tx-2026-01-20-1",
+      "jobId": "airtable-risk-specialist-grcp-remote-us-san-francisco-ca-austin-tx",
+      "company": "airtable",
+      "title": "Risk Specialist, GRCP",
+      "postedToDiscord": "2026-01-20T20:37:43.074Z",
+      "sourceDate": "2025-12-18T18:40:17-05:00",
+      "sourceUrl": "https://job-boards.greenhouse.io/airtable/jobs/8318377002",
+      "discordThreadId": "1463271280748003411",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1752,
+    "totalJobs": 1761,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T20:17:57.919Z",
+      "date": "2026-01-20T20:37:43.075Z",
       "archived": 0
     }
   }
