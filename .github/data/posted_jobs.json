@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T05:22:09.789Z",
+  "lastUpdated": "2026-01-20T05:37:06.210Z",
   "jobs": [
     {
       "id": "icf-intern-software-developer-reston-2026-01-13-1",
@@ -15830,14 +15830,113 @@
       "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7099419",
       "discordThreadId": "1463040873792143543",
       "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-enterprise-platforms-grower-chicago-il-or-new-york-ny-or-san-francisco-ca-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-enterprise-platforms-grower-chicago-il-or-new-york-ny-or-san-francisco-ca",
+      "company": "stripe",
+      "title": "Solutions Architect, Enterprise Platforms Grower",
+      "postedToDiscord": "2026-01-20T05:36:42.010Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7396509",
+      "discordThreadId": "1463044532219412543",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-smb-chicago-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-smb-chicago",
+      "company": "stripe",
+      "title": "Solutions Architect, SMB",
+      "postedToDiscord": "2026-01-20T05:36:45.398Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7361440",
+      "discordThreadId": "1463044547255730248",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-architect-strategic-enterprise-platforms-san-francisco-ca-or-new-york-ny-or-remote-2026-01-20-1",
+      "jobId": "stripe-solutions-architect-strategic-enterprise-platforms-san-francisco-ca-or-new-york-ny-or-remote",
+      "company": "stripe",
+      "title": "Solutions Architect, Strategic Enterprise Platforms",
+      "postedToDiscord": "2026-01-20T05:36:48.857Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7386950",
+      "discordThreadId": "1463044561474424842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-solutions-engineer-bridge-san-francisco-or-new-york-2026-01-20-1",
+      "jobId": "stripe-solutions-engineer-bridge-san-francisco-or-new-york",
+      "company": "stripe",
+      "title": "Solutions Engineer, Bridge",
+      "postedToDiscord": "2026-01-20T05:36:52.293Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7396430",
+      "discordThreadId": "1463044575676469432",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-specialist-solutions-architect-crypto-stablecoins-us-ny-2026-01-20-1",
+      "jobId": "stripe-specialist-solutions-architect-crypto-stablecoins-us-ny",
+      "company": "stripe",
+      "title": "Specialist Solutions Architect, Crypto & Stablecoins",
+      "postedToDiscord": "2026-01-20T05:36:54.074Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7120766",
+      "discordThreadId": "1463044590574505996",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-specialist-solutions-architect-money-management-ny-sf-remote-2026-01-20-1",
+      "jobId": "stripe-specialist-solutions-architect-money-management-ny-sf-remote",
+      "company": "stripe",
+      "title": "Specialist Solutions Architect, Money Management",
+      "postedToDiscord": "2026-01-20T05:36:55.884Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7380371",
+      "discordThreadId": "1463044598107472003",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-specialist-solutions-architect-payments-chicago-2026-01-20-1",
+      "jobId": "stripe-specialist-solutions-architect-payments-chicago",
+      "company": "stripe",
+      "title": "Specialist Solutions Architect, Payments",
+      "postedToDiscord": "2026-01-20T05:36:59.497Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7377593",
+      "discordThreadId": "1463044605460217886",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-engineer-capital-engineering-us-2026-01-20-1",
+      "jobId": "stripe-staff-engineer-capital-engineering-us",
+      "company": "stripe",
+      "title": "Staff Engineer, Capital Engineering",
+      "postedToDiscord": "2026-01-20T05:37:01.386Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7191847",
+      "discordThreadId": "1463044620341612597",
+      "instanceNumber": 1
+    },
+    {
+      "id": "stripe-staff-engineer-experimental-projects-us-remote-2026-01-20-1",
+      "jobId": "stripe-staff-engineer-experimental-projects-us-remote",
+      "company": "stripe",
+      "title": "Staff Engineer, Experimental Projects",
+      "postedToDiscord": "2026-01-20T05:37:06.209Z",
+      "sourceDate": "2026-01-12T16:58:24-05:00",
+      "sourceUrl": "https://stripe.com/jobs/search?gh_jid=7280343",
+      "discordThreadId": "1463044641493352586",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1439,
+    "totalJobs": 1448,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T05:22:09.789Z",
+      "date": "2026-01-20T05:37:06.210Z",
       "archived": 0
     }
   }
