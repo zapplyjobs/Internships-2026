@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-01-20T23:50:01.458Z",
+  "lastUpdated": "2026-01-20T23:57:04.925Z",
   "jobs": [
     {
       "id": "genentech-intern-applied-ai-engineer-agents-evaluation-san-bruno-2026-01-14-1",
@@ -21099,14 +21099,113 @@
       "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5699965004?gh_jid=5699965004",
       "discordThreadId": "1463319676711993396",
       "instanceNumber": 1
+    },
+    {
+      "id": "figma-senior-ces-operations-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-senior-ces-operations-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Senior CES Operations Manager",
+      "postedToDiscord": "2026-01-20T23:56:29.867Z",
+      "sourceDate": "2025-12-04T11:05:58-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725192004?gh_jid=5725192004",
+      "discordThreadId": "1463321304202481697",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-inside-sales-representative-early-career-2026-new-york-ny-2026-01-20-1",
+      "jobId": "figma-inside-sales-representative-early-career-2026-new-york-ny",
+      "company": "figma",
+      "title": "Inside Sales Representative - Early Career (2026)",
+      "postedToDiscord": "2026-01-20T23:56:33.255Z",
+      "sourceDate": "2025-12-02T20:29:41-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726175004?gh_jid=5726175004",
+      "discordThreadId": "1463321320271118523",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-community-experiences-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-community-experiences-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Community Experiences Manager",
+      "postedToDiscord": "2026-01-20T23:56:36.703Z",
+      "sourceDate": "2025-12-02T04:45:14-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5721796004?gh_jid=5721796004",
+      "discordThreadId": "1463321334623768792",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-gtm-finance-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-manager-gtm-finance-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, GTM Finance",
+      "postedToDiscord": "2026-01-20T23:56:40.131Z",
+      "sourceDate": "2025-12-01T00:10:22-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722839004?gh_jid=5722839004",
+      "discordThreadId": "1463321349098442793",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-marketing-strategy-manager-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-marketing-strategy-manager-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Marketing Strategy Manager",
+      "postedToDiscord": "2026-01-20T23:56:46.694Z",
+      "sourceDate": "2025-12-03T19:50:28-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5725496004?gh_jid=5725496004",
+      "discordThreadId": "1463321376403230842",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-enterprise-support-specialist-spanish-speaking-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-enterprise-support-specialist-spanish-speaking-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Enterprise Support Specialist, Spanish Speaking",
+      "postedToDiscord": "2026-01-20T23:56:53.273Z",
+      "sourceDate": "2025-12-03T12:12:11-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5726655004?gh_jid=5726655004",
+      "discordThreadId": "1463321403850887211",
+      "instanceNumber": 1
+    },
+    {
+      "id": "gohighlevel-internship-program-coordinator-dallas-2026-01-20-1",
+      "jobId": "gohighlevel-internship-program-coordinator-dallas",
+      "company": "gohighlevel",
+      "title": "Internship Program Coordinator",
+      "postedToDiscord": "2026-01-20T23:56:54.971Z",
+      "sourceDate": "2025-12-02T16:21:12.895Z",
+      "sourceUrl": "https://jobs.lever.co/gohighlevel/faa7469b-d007-4a29-903f-93ad34c7f472",
+      "discordThreadId": "1463321418573025383",
+      "instanceNumber": 1
+    },
+    {
+      "id": "spotify-machine-learning-engineering-manager-ii-new-york-ny-2026-01-20-1",
+      "jobId": "spotify-machine-learning-engineering-manager-ii-new-york-ny",
+      "company": "spotify",
+      "title": "Machine Learning Engineering Manager II",
+      "postedToDiscord": "2026-01-20T23:56:58.528Z",
+      "sourceDate": "2025-12-01T15:48:49.889Z",
+      "sourceUrl": "https://jobs.lever.co/spotify/daa7807b-4822-453e-94a7-2ccc1d9e90ae",
+      "discordThreadId": "1463321425699147968",
+      "instanceNumber": 1
+    },
+    {
+      "id": "figma-manager-software-engineering-billing-san-francisco-ca-new-york-ny-united-states-2026-01-20-1",
+      "jobId": "figma-manager-software-engineering-billing-san-francisco-ca-new-york-ny-united-states",
+      "company": "figma",
+      "title": "Manager, Software Engineering - Billing",
+      "postedToDiscord": "2026-01-20T23:57:04.924Z",
+      "sourceDate": "2025-12-01T13:41:32-05:00",
+      "sourceUrl": "https://boards.greenhouse.io/figma/jobs/5722244004?gh_jid=5722244004",
+      "discordThreadId": "1463321453247336542",
+      "instanceNumber": 1
     }
   ],
   "metadata": {
-    "totalJobs": 1918,
+    "totalJobs": 1927,
     "migratedFromV1": true,
     "migrationDate": "2025-12-12T03:49:20.975Z",
     "lastArchive": {
-      "date": "2026-01-20T23:50:01.458Z",
+      "date": "2026-01-20T23:57:04.925Z",
       "archived": 0
     }
   }
